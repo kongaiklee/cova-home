@@ -48,7 +48,7 @@ const MainLayout: React.FC = () => {
               <Link to="/">
                 <div className="flex items-center gap-2">
                   <img
-                    src="/assets/logo.jpg"
+                    src="/assets/logo.png"
                     alt="COVA"
                     className="size-7 sm:size-8"
                   />
@@ -285,7 +285,7 @@ const MainLayout: React.FC = () => {
           <Link to="/" className="flex-1">
             <div className="flex items-center gap-2">
               <img
-                src="/assets/logo.jpg"
+                src="/assets/logo.png"
                 alt="COVA"
                 className="size-7 sm:size-8"
               />

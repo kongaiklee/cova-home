@@ -14,7 +14,7 @@ export default function LandingMap() {
         </h2>
         <div className="mt-6 flex justify-center">
           <Link
-            to="/work/signup"
+            to={`${import.meta.env.VITE_APP_COVARAGE_URL}/work/signup`}
             className="rounded-lg bg-white px-5 py-2.5 text-sm font-medium text-text-secondary transition hover:bg-background-primary"
           >
             Start for free

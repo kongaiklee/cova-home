@@ -43,7 +43,7 @@ export default function LandingHero() {
             </p>
             <div className="mt-10">
               <Link
-                to="/work/signup"
+                to={`${import.meta.env.VITE_APP_COVARAGE_URL}/work/signup`}
                 className="inline-flex items-center gap-2 rounded-sm bg-white px-6 py-3 text-sm font-medium text-text-primary shadow-sm transition hover:bg-white/95"
               >
                 Start for free

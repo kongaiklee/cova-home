@@ -55,14 +55,14 @@ export default function LandingHeader() {
           <div className="hidden items-center gap-6 lg:flex">
             <a
               target="_blank"
-              href="https://app.covarage.com/signin"
+              href={`${import.meta.env.VITE_APP_COVARAGE_URL}/signin`}
               className="text-sm uppercase tracking-wide text-white transition hover:text-white/90"
             >
               LOGIN
             </a>
             <a
               target="_blank"
-              href="https://app.covarage.com/work/signup"
+              href={`${import.meta.env.VITE_APP_COVARAGE_URL}/work/signup`}
               className="rounded-full border border-white bg-transparent px-4 py-2 text-sm uppercase tracking-wide text-white transition hover:bg-white/10"
             >
               SIGNUP
@@ -94,7 +94,7 @@ export default function LandingHeader() {
             <div className="my-2 border-t border-white/20" />
             <a
               target="_blank"
-              href="https://app.covarage.com/signin"
+              href={`${import.meta.env.VITE_APP_COVARAGE_URL}/signin`}
               className="rounded-lg px-3 py-2.5 text-sm font-medium uppercase tracking-wide text-white hover:bg-white/10"
               onClick={() => setMobileOpen(false)}
             >
@@ -102,7 +102,7 @@ export default function LandingHeader() {
             </a>
             <a
               target="_blank"
-              href="https://app.covarage.com/work/signup"
+              href={`${import.meta.env.VITE_APP_COVARAGE_URL}/work/signup`}
               className="rounded-lg border border-white bg-white/10 px-3 py-2.5 text-center text-sm font-medium uppercase tracking-wide text-white hover:bg-white/20"
               onClick={() => setMobileOpen(false)}
             >
