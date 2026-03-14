@@ -120,7 +120,7 @@ export default function LandingHandles() {
                       </div>
                       <div className="flex gap-3 border-l-2 border-primary bg-background-primary/80 py-2 pl-3 pr-2">
                         <FileText
-                          className="h-4 w-4 shrink-0 text-text-secondary"
+                          className="size-4 shrink-0 text-text-secondary"
                           aria-hidden
                         />
                         <div className="min-w-0 flex-1">
@@ -144,12 +144,12 @@ export default function LandingHandles() {
                       Agent Information
                     </p>
                     <div className="mt-3 flex items-center gap-3">
-                      <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-border-primary">
+                      <div className="flex size-9 shrink-0 items-center justify-center rounded-full bg-border-primary">
                         <img
                           src="/assets/images/landing/avatar.png"
                           alt=""
                           aria-hidden
-                          className="w-full rounded-md h-full object-none"
+                          className="size-full rounded-md object-none"
                         />
                       </div>
                       <span className="truncate text-sm font-medium text-text-primary">
@@ -160,7 +160,7 @@ export default function LandingHandles() {
                 </div>
               </div>
               <div
-                className="absolute right-0 top-0 bottom-0 w-px bg-blue-200/60 pointer-events-none"
+                className="absolute right-0 inset-y-0 w-px bg-blue-200/60 pointer-events-none"
                 aria-hidden
               />
             </div>
@@ -190,7 +190,7 @@ export default function LandingHandles() {
                   key={i}
                   className="flex items-center gap-3 rounded-lg bg-white px-4 py-3 shadow-sm"
                 >
-                  <FileText className="h-5 w-5 shrink-0 text-text-secondary" />
+                  <FileText className="size-5 shrink-0 text-text-secondary" />
                   <div className="min-w-0 flex-1">
                     <p className="truncate text-sm font-medium text-text-primary">
                       {doc.name}
@@ -202,7 +202,7 @@ export default function LandingHandles() {
                     className="shrink-0 rounded-sm p-1 text-text-secondary hover:bg-background-primary hover:text-text-primary"
                     aria-label="Delete"
                   >
-                    <Trash2 className="h-4 w-4" />
+                    <Trash2 className="size-4" />
                   </button>
                 </div>
               ))}
@@ -220,12 +220,12 @@ export default function LandingHandles() {
               <div className="rounded-xl rounded-bl-sm bg-white p-4 shadow-sm max-w-[150px]">
                 <p className="text-sm text-text-primary">How can I help?</p>
                 <div className="mt-3 flex items-center gap-2">
-                  <div className="flex h-6 w-6 items-center justify-center rounded-full bg-border-primary">
+                  <div className="flex size-6 items-center justify-center rounded-full bg-border-primary">
                     <img
                       src="/assets/images/landing/avatar.png"
                       alt=""
                       aria-hidden
-                      className="w-full rounded-md h-full object-none"
+                      className="size-full rounded-md object-none"
                     />
                   </div>
                   <span className="text-xs font-medium text-text-secondary">
@@ -235,7 +235,7 @@ export default function LandingHandles() {
               </div>
               <div className="flex justify-end">
                 <div className="rounded-lg rounded-br-sm bg-white p-4 shadow-sm">
-                  <MoreHorizontal className="h-6 w-6 text-text-secondary" />
+                  <MoreHorizontal className="size-6 text-text-secondary" />
                 </div>
               </div>
             </div>

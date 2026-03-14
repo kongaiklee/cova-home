@@ -13,9 +13,9 @@ export default function LandingHeader() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
   return (
-    <header className="absolute top-0 lg:top-4 left-0 right-0 z-50 w-full lg:bg-transparent">
+    <header className="absolute top-0 lg:top-4 inset-x-0 z-50 w-full lg:bg-transparent">
       {/* Mobile: blurred bar */}
-      <div className="flex items-center justify-between gap-4 px-4 py-4 backdrop-blur-md bg-white/10 lg:bg-transparent lg:backdrop-blur-none lg:px-12">
+      <div className="flex items-center justify-between gap-4 p-4 backdrop-blur-md bg-white/10 lg:bg-transparent lg:backdrop-blur-none lg:px-12">
         <nav
           className="hidden items-center gap-6 lg:flex lg:gap-8"
           aria-label="Main"
@@ -47,9 +47,9 @@ export default function LandingHeader() {
             onClick={() => setMobileOpen((o) => !o)}
           >
             {mobileOpen ? (
-              <X className="h-6 w-6" />
+              <X className="size-6" />
             ) : (
-              <Menu className="h-6 w-6" />
+              <Menu className="size-6" />
             )}
           </button>
           <div className="hidden items-center gap-6 lg:flex">
@@ -79,7 +79,7 @@ export default function LandingHeader() {
         )}
         aria-hidden={!mobileOpen}
       >
-        <div className="border-t border-white/20 bg-white/10 px-4 py-4 backdrop-blur-md">
+        <div className="border-t border-white/20 bg-white/10 p-4 backdrop-blur-md">
           <nav className="flex flex-col gap-1 pb-3" aria-label="Mobile menu">
             {NAV_LINKS.map(({ label, to }) => (
               <Link

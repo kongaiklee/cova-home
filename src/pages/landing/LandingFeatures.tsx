@@ -78,7 +78,7 @@ export default function LandingFeatures() {
                     {[1, 2, 3].map((n) => (
                       <span
                         key={n}
-                        className="flex h-8 w-8 shrink-0 items-center justify-center rounded-sm border border-border-primary text-xs text-text-secondary"
+                        className="flex size-8 shrink-0 items-center justify-center rounded-sm border border-border-primary text-xs text-text-secondary"
                       >
                         {n}
                       </span>
@@ -86,7 +86,7 @@ export default function LandingFeatures() {
                   </div>
                   <button
                     type="button"
-                    className="flex h-8 w-8 shrink-0 items-center justify-center rounded-sm border border-border-primary text-primary"
+                    className="flex size-8 shrink-0 items-center justify-center rounded-sm border border-border-primary text-primary"
                     aria-label="Delete"
                   >
                     <Trash2 className="size-4" />
@@ -199,11 +199,11 @@ export default function LandingFeatures() {
                     }
                   }}
                 >
-                  <span className="relative flex h-8 w-8 shrink-0 items-center justify-center">
+                  <span className="relative flex size-8 shrink-0 items-center justify-center">
                     {/* Circle: stable size, deactive = gray, active = black */}
                     <span
                       className={clsx(
-                        'flex h-6 w-6 items-center justify-center rounded-full text-xs font-semibold',
+                        'flex size-6 items-center justify-center rounded-full text-xs font-semibold',
                         isActive
                           ? 'bg-text-primary text-white'
                           : 'bg-text-secondary text-white'
@@ -214,7 +214,7 @@ export default function LandingFeatures() {
                     {/* Active only: 90° pie border (arc) outside circle with gap */}
                     {isActive && (
                       <svg
-                        className="absolute inset-0 h-full w-full -rotate-90"
+                        className="absolute inset-0 size-full -rotate-90"
                         viewBox="0 0 32 32"
                         aria-hidden
                       >
