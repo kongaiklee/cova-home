@@ -3,39 +3,32 @@ import { LANDING_CONTAINER_CLASS } from './landingContainer';
 
 const FOOTER_COLUMNS = [
   {
-    heading: 'PENSION',
+    heading: 'PRODUCTS',
     links: [
-      { label: 'FAQs', to: '#' },
-      { label: 'FUNDS', to: '#' },
-      { label: 'FEES', to: '#' },
-      { label: 'IOS APP', to: '#' },
-      { label: 'ANDROID APP', to: '#' },
+      { label: 'COVACONCIERGE', to: '#' },
+      { label: 'COVAVAULT', to: '#' },
+      { label: 'QUOTE CALLBACK', to: '#' },
     ],
   },
   {
     heading: 'COMPANY',
     links: [
       { label: 'ABOUT', to: '#' },
-      { label: 'FCA AUTHORISED', to: '#' },
-      { label: 'HELP & SUPPORT', to: '#' },
-      { label: 'TRANSFERS DUE DILIGENCE', to: '#' },
+      { label: 'CONTACT', to: '#' },
+      { label: 'MAS INTRODUCER (FAA-N02)', to: '#' },
     ],
   },
   {
-    heading: 'RESOURCES',
+    heading: 'LEGAL',
     links: [
-      { label: 'Articles', to: '#' },
-      { label: 'Scam Smart', to: '#' },
-      { label: 'MoneyHelper', to: '#' },
-      { label: 'TERMS & CONDITIONS', to: '#' },
       { label: 'PRIVACY POLICY', to: '#' },
+      { label: 'TERMS OF USE', to: '#' },
     ],
   },
   {
     heading: 'SOCIAL',
     links: [
       { label: 'LINKEDIN', to: '#' },
-      { label: 'INSTAGRAM', to: '#' },
     ],
   },
 ];
@@ -49,7 +42,7 @@ export default function LandingFooter() {
           <Link to="/" className="shrink-0">
             <img
               src="/assets/images/landing/Logo.png"
-              alt="Coverage"
+              alt="Covarage"
               className="h-8 w-auto object-contain"
             />
           </Link>
@@ -97,8 +90,7 @@ export default function LandingFooter() {
         {/* Copyright */}
         <div className="mt-8 border-t border-border-primary pt-6">
           <p className="text-xs uppercase text-text-secondary">
-            © Copyright 2025 Penny Technology Limited. Company Registration:
-            11999643. FCA Reference Number: 931299.
+            © Copyright 2025 Covarage Pte. Ltd. UEN: 202531227H.
           </p>
         </div>
       </div>
