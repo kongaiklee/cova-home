@@ -3,12 +3,6 @@ import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 
-const NAV_LINKS = [
-  { label: 'SOLUTIONS', to: '#solutions' },
-  { label: 'PRICING', to: '#pricing' },
-  { label: 'RESOURCES', to: '#resources' },
-] as const;
-
 export default function LandingHeader() {
   const [mobileOpen, setMobileOpen] = useState(false);
 
@@ -16,20 +10,6 @@ export default function LandingHeader() {
     <header className="absolute top-0 lg:top-4 inset-x-0 z-50 w-full lg:bg-transparent">
       {/* Mobile: blurred bar */}
       <div className="flex items-center justify-between gap-4 p-4 backdrop-blur-md bg-white/10 lg:bg-transparent lg:backdrop-blur-none lg:px-12">
-        <nav
-          className="hidden items-center gap-6 lg:flex lg:gap-8"
-          aria-label="Main"
-        >
-          {NAV_LINKS.map(({ label, to }) => (
-            <Link
-              key={to}
-              to={to}
-              className="text-sm uppercase tracking-wide text-white transition hover:text-white/90"
-            >
-              {label}
-            </Link>
-          ))}
-        </nav>
         <Link
           to="/"
           className="flex shrink-0 items-center lg:absolute lg:left-1/2 lg:-translate-x-1/2"
@@ -38,7 +18,7 @@ export default function LandingHeader() {
             <img src="/assets/images/landing/LOGOMARK.png" />
           </span>
         </Link>
-        <div className="flex items-center gap-4">
+        <div className="flex items-center gap-4 ml-auto">
           <button
             type="button"
             className="rounded-sm p-2 text-white hover:bg-white/10 lg:hidden"
@@ -81,17 +61,6 @@ export default function LandingHeader() {
       >
         <div className="border-t border-white/20 bg-white/10 p-4 backdrop-blur-md">
           <nav className="flex flex-col gap-1 pb-3" aria-label="Mobile menu">
-            {NAV_LINKS.map(({ label, to }) => (
-              <Link
-                key={to}
-                to={to}
-                className="rounded-lg px-3 py-2.5 text-sm font-medium uppercase tracking-wide text-white hover:bg-white/10"
-                onClick={() => setMobileOpen(false)}
-              >
-                {label}
-              </Link>
-            ))}
-            <div className="my-2 border-t border-white/20" />
             <a
               target="_blank"
               href={`${import.meta.env.VITE_APP_COVARAGE_URL}/signin`}

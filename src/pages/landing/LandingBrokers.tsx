@@ -1,18 +1,20 @@
 import clsx from 'clsx';
-import Chinataiping from '../../components/landing/Chinataiping';
-import Fwd from '../../components/landing/Fwd';
-import Income from '../../components/landing/Income';
-import Raffles from '../../components/landing/Raffles';
 import Singlife from '../../components/landing/Singlife';
-import Zurich from '../../components/landing/Zurich';
+import Fwd from '../../components/landing/Fwd';
+import { LANDING_CONTAINER_CLASS } from './landingContainer';
 
-const PARTNER_LOGOS = [
-  { Component: Raffles, name: 'Raffles' },
-  { Component: Chinataiping, name: 'China Taiping' },
-  { Component: Zurich, name: 'Zurich' },
+const SVG_LOGOS = [
   { Component: Singlife, name: 'Singlife' },
   { Component: Fwd, name: 'FWD' },
-  { Component: Income, name: 'Income' },
+];
+
+const IMG_LOGOS = [
+  { name: 'AIA', src: '/assets/images/landing/logo-aia.png' },
+  { name: 'Cigna', src: '/assets/images/landing/logo-cigna.png' },
+  { name: 'QBE', src: '/assets/images/landing/logo-qbe.png' },
+  { name: 'AIG', src: '/assets/images/landing/logo-aig.png' },
+  { name: 'Liberty', src: '/assets/images/landing/logo-liberty.png' },
+  { name: 'Tokio Marine', src: '/assets/images/landing/logo-tokio-marine.png' },
 ];
 
 export default function LandingBrokers() {
@@ -32,12 +34,24 @@ export default function LandingBrokers() {
             )}
             style={{ WebkitOverflowScrolling: 'touch' } as React.CSSProperties}
           >
-            {PARTNER_LOGOS.map(({ Component, name }) => (
+            {SVG_LOGOS.map(({ Component, name }) => (
               <div
                 key={name}
                 className="flex shrink-0 items-center justify-center [&_svg]:h-8 [&_svg]:w-auto [&_svg]:max-w-[120px] [&_path]:fill-(--color-text-secondary)"
               >
                 <Component />
+              </div>
+            ))}
+            {IMG_LOGOS.map(({ name, src }) => (
+              <div
+                key={name}
+                className="flex shrink-0 items-center justify-center"
+              >
+                <img
+                  src={src}
+                  alt={name}
+                  className="h-8 w-auto max-w-[120px] object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200"
+                />
               </div>
             ))}
           </div>
