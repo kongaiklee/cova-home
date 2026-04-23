@@ -37,7 +37,7 @@ export default function LandingBrokers() {
             {SVG_LOGOS.map(({ Component, name }) => (
               <div
                 key={name}
-                className="flex shrink-0 items-center justify-center [&_svg]:h-8 [&_svg]:w-auto [&_svg]:max-w-[120px] [&_path]:fill-(--color-text-secondary)"
+                className="flex shrink-0 items-center justify-center [&_svg]:h-12 [&_svg]:w-auto [&_svg]:max-w-[160px] [&_path]:fill-(--color-text-secondary)"
               >
                 <Component />
               </div>
@@ -50,7 +50,7 @@ export default function LandingBrokers() {
                 <img
                   src={src}
                   alt={name}
-                  className="h-8 w-auto max-w-[120px] object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200"
+                  className="h-12 w-auto max-w-[160px] object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200"
                 />
               </div>
             ))}
