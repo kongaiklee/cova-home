@@ -9,12 +9,12 @@ const SVG_LOGOS = [
 ];
 
 const IMG_LOGOS = [
-  { name: 'AIA', src: '/assets/images/landing/logo-aia.png', className: 'h-10 w-10' },
-  { name: 'Cigna', src: '/assets/images/landing/logo-cigna.png', className: 'h-10 w-auto' },
-  { name: 'QBE', src: '/assets/images/landing/logo-qbe.png', className: 'h-8 w-auto' },
-  { name: 'AIG', src: '/assets/images/landing/logo-aig.png', className: 'h-10 w-auto max-w-[120px]' },
-  { name: 'Liberty', src: '/assets/images/landing/logo-liberty.png', className: 'h-10 w-auto max-w-[140px]' },
-  { name: 'Tokio Marine', src: '/assets/images/landing/logo-tokio-marine.png', className: 'h-10 w-auto max-w-[140px]' },
+  { name: 'AIA', src: '/assets/images/landing/logo-aia.png', className: 'h-14' },
+  { name: 'Cigna', src: '/assets/images/landing/logo-cigna.png', className: 'h-16' },
+  { name: 'QBE', src: '/assets/images/landing/logo-qbe.png', className: 'h-12' },
+  { name: 'AIG', src: '/assets/images/landing/logo-aig.png', className: 'h-12' },
+  { name: 'Liberty', src: '/assets/images/landing/logo-liberty.png', className: 'h-12' },
+  { name: 'Tokio Marine', src: '/assets/images/landing/logo-tokio-marine.png', className: 'h-14' },
 ];
 
 export default function LandingBrokers() {
@@ -50,7 +50,7 @@ export default function LandingBrokers() {
                 <img
                   src={src}
                   alt={name}
-                  className={`${logoClass} object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200`}
+                  className={`${logoClass} w-auto object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200`}
                 />
               </div>
             ))}
