@@ -9,12 +9,12 @@ const SVG_LOGOS = [
 ];
 
 const IMG_LOGOS = [
-  { name: 'AIA', src: '/assets/images/landing/logo-aia.png' },
-  { name: 'Cigna', src: '/assets/images/landing/logo-cigna.png' },
-  { name: 'QBE', src: '/assets/images/landing/logo-qbe.png' },
-  { name: 'AIG', src: '/assets/images/landing/logo-aig.png' },
-  { name: 'Liberty', src: '/assets/images/landing/logo-liberty.png' },
-  { name: 'Tokio Marine', src: '/assets/images/landing/logo-tokio-marine.png' },
+  { name: 'AIA', src: '/assets/images/landing/logo-aia.png', className: 'h-10 w-10' },
+  { name: 'Cigna', src: '/assets/images/landing/logo-cigna.png', className: 'h-10 w-auto' },
+  { name: 'QBE', src: '/assets/images/landing/logo-qbe.png', className: 'h-8 w-auto' },
+  { name: 'AIG', src: '/assets/images/landing/logo-aig.png', className: 'h-10 w-auto max-w-[120px]' },
+  { name: 'Liberty', src: '/assets/images/landing/logo-liberty.png', className: 'h-10 w-auto max-w-[140px]' },
+  { name: 'Tokio Marine', src: '/assets/images/landing/logo-tokio-marine.png', className: 'h-10 w-auto max-w-[140px]' },
 ];
 
 export default function LandingBrokers() {
@@ -37,12 +37,12 @@ export default function LandingBrokers() {
             {SVG_LOGOS.map(({ Component, name }) => (
               <div
                 key={name}
-                className="flex shrink-0 items-center justify-center [&_svg]:h-12 [&_svg]:w-auto [&_svg]:max-w-[160px] [&_path]:fill-(--color-text-secondary)"
+                className="flex shrink-0 items-center justify-center [&_svg]:h-10 [&_svg]:w-auto [&_svg]:max-w-[160px] [&_path]:fill-(--color-text-secondary)"
               >
                 <Component />
               </div>
             ))}
-            {IMG_LOGOS.map(({ name, src }) => (
+            {IMG_LOGOS.map(({ name, src, className: logoClass }) => (
               <div
                 key={name}
                 className="flex shrink-0 items-center justify-center"
@@ -50,7 +50,7 @@ export default function LandingBrokers() {
                 <img
                   src={src}
                   alt={name}
-                  className="h-12 w-auto max-w-[160px] object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200"
+                  className={`${logoClass} object-contain opacity-60 grayscale hover:opacity-100 hover:grayscale-0 transition-all duration-200`}
                 />
               </div>
             ))}
