@@ -1,0 +1,19 @@
+{
+  "total": 399,
+  "by_template": {
+    "t1": 154,
+    "t3": 48,
+    "t2": 54,
+    "t6": 97,
+    "t4": 30,
+    "t5": 16
+  },
+  "output_structure": {
+    "t1-editorial": "154 posts",
+    "t3-blue-wash": "48 posts",
+    "t2-dark-punch": "54 posts",
+    "t6-personality": "97 posts",
+    "t4-split": "30 posts",
+    "t5-foreign": "16 posts"
+  }
+}
