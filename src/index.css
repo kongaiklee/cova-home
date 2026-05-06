@@ -1,33 +1,32 @@
 @import 'tailwindcss';
 
 @theme {
-  --color-primary: #5d51da;
-  --color-primary-hover: #4d41ca;
-  --color-primary-extended: #221e48;
-  --color-secondary: #475569;
+  /* Brand palette — Covarage Brand Guidelines v2026 */
+  --color-primary: #5f88ae;             /* Horizon Blue */
+  --color-primary-hover: #4f7398;       /* Horizon Blue −10% L */
+  --color-primary-extended: #423226;    /* Teak */
+  --color-secondary: #888888;           /* Mist */
 
-  --color-text-primary: #020617;
-  --color-text-primary-extended: #41389b;
-  --color-text-secondary: #475569;
+  --color-text-primary: #414141;        /* Anchor */
+  --color-text-primary-extended: #423226; /* Teak */
+  --color-text-secondary: #888888;      /* Mist */
 
-  --color-border-primary: #e2e8f0;
-  --color-border-secondary: #e2e8f0;
+  --color-border-primary: rgba(0, 0, 0, 0.08);
+  --color-border-secondary: rgba(0, 0, 0, 0.08);
 
-  --color-background-primary: #eff3fe;
-  --color-background-primary-extended: #e2e7fd;
-  --color-background-muted: #f8f7f5;
-  --color-background-card: #e5edf4;
+  --color-background-primary: #fdfbf9;  /* Sailcloth */
+  --color-background-primary-extended: #fdfbf9;
+  --color-background-muted: #fdfbf9;
+  --color-background-card: #ffffff;     /* white cards */
 
-  /* Landing hero gradient */
-  --color-landing-hero-from: #5f88ae;
-  --color-landing-hero-to: #c2d4e2;
+  --color-landing-hero-from: #5f88ae;   /* Horizon Blue */
+  --color-landing-hero-to: #c2d4e2;     /* Open Water */
 
-  /* Landing section backgrounds */
-  --color-landing-brokers: #f8f7f5;
-  --color-landing-section: #f2f2f2;
-  --color-landing-footer: #fdfbf9;
+  --color-landing-brokers: #fdfbf9;     /* Sailcloth */
+  --color-landing-section: #fdfbf9;     /* Sailcloth */
+  --color-landing-footer: #fdfbf9;      /* Sailcloth */
 
-  --max-width-container: 1440px;
+  --max-width-container: 1240px;        /* brand spec */
 }
 
 button {

@@ -1,7 +1,6 @@
 import clsx from 'clsx';
 import Singlife from '../../components/landing/Singlife';
 import Fwd from '../../components/landing/Fwd';
-import { LANDING_CONTAINER_CLASS } from './landingContainer';
 
 const SVG_LOGOS = [
   { Component: Singlife, name: 'Singlife' },

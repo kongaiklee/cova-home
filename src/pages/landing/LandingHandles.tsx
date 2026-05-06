@@ -21,7 +21,7 @@ export default function LandingHandles() {
               <h3 className="text-2xl font-serif font-bold text-text-primary">
                 Quotation
               </h3>
-              <div className="mt-4 overflow-hidden rounded-xl bg-background-card shadow-sm">
+              <div className="mt-4 overflow-hidden rounded-xl bg-background-card border border-border-primary">
                 <img
                   src="/assets/images/landing/mobile-quotation.png"
                   alt="Quotation: GL New Business Submission with documents"
@@ -37,7 +37,7 @@ export default function LandingHandles() {
               <h3 className="text-2xl font-serif font-bold text-text-primary">
                 Policy Management
               </h3>
-              <div className="mt-4 overflow-hidden rounded-xl bg-background-card shadow-sm">
+              <div className="mt-4 overflow-hidden rounded-xl bg-background-card border border-border-primary">
                 <img
                   src="/assets/images/landing/mobile-policy.png"
                   alt="Policy Management: Check signature and document verification"
@@ -53,7 +53,7 @@ export default function LandingHandles() {
               <h3 className="text-2xl font-serif font-bold text-text-primary">
                 Concierge
               </h3>
-              <div className="mt-4 overflow-hidden rounded-xl bg-background-card shadow-sm">
+              <div className="mt-4 overflow-hidden rounded-xl bg-background-card border border-border-primary">
                 <img
                   src="/assets/images/landing/mobile-concierge.png"
                   alt="Concierge: Claims and document handling"
@@ -71,7 +71,7 @@ export default function LandingHandles() {
         {/* Desktop: original heading + 3-column grid */}
         <div className="hidden sm:block">
           <p className="text-xs font-semibold tracking-[0.2em]">
-            What You Can Do with Coverage
+            What You Can Do with Covarage
           </p>
           <h2 className="mt-2 text-left text-3xl tracking-tight text-text-primary sm:text-4xl lg:text-5xl">
             What we handle so you don&apos;t have to.
@@ -89,7 +89,7 @@ export default function LandingHandles() {
                 You stay informed without chasing anyone.
               </p>
               <div className="mt-6 -mr-20 min-w-0 lg:-mr-24">
-                <div className="bg-white shadow-sm">
+                <div className="bg-white border border-border-primary rounded-xl">
                   {/* Quotation Details */}
                   <div>
                     <p className="text-md tracking-wide text-text-primary py-2 px-4 border-b border-border-primary">
@@ -188,7 +188,7 @@ export default function LandingHandles() {
               ].map((doc, i) => (
                 <div
                   key={i}
-                  className="flex items-center gap-3 rounded-lg bg-white px-4 py-3 shadow-sm"
+                  className="flex items-center gap-3 rounded-xl bg-white px-4 py-3 border border-border-primary"
                 >
                   <FileText className="size-5 shrink-0 text-text-secondary" />
                   <div className="min-w-0 flex-1">
@@ -217,7 +217,7 @@ export default function LandingHandles() {
               currently doing on WhatsApp. Handled.
             </p>
             <div className="mt-6 space-y-4">
-              <div className="rounded-xl rounded-bl-sm bg-white p-4 shadow-sm max-w-[150px]">
+              <div className="rounded-xl rounded-bl-sm bg-white p-4 border border-border-primary max-w-[150px]">
                 <p className="text-sm text-text-primary">How can I help?</p>
                 <div className="mt-3 flex items-center gap-2">
                   <div className="flex size-6 items-center justify-center rounded-full bg-border-primary">
@@ -234,7 +234,7 @@ export default function LandingHandles() {
                 </div>
               </div>
               <div className="flex justify-end">
-                <div className="rounded-lg rounded-br-sm bg-white p-4 shadow-sm">
+                <div className="rounded-xl rounded-br-sm bg-white p-4 border border-border-primary">
                   <MoreHorizontal className="size-6 text-text-secondary" />
                 </div>
               </div>

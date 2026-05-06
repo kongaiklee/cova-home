@@ -14,7 +14,7 @@ export default function LandingHeader() {
           to="/"
           className="flex shrink-0 items-center lg:absolute lg:left-1/2 lg:-translate-x-1/2"
         >
-          <span className="[&_svg]:h-6 [&_svg]:w-auto lg:[&_svg]:h-8">
+          <span className="[&_svg]:h-8 [&_svg]:w-auto lg:[&_svg]:h-10">
             <img src="/assets/images/landing/LOGOMARK.png" />
           </span>
         </Link>

@@ -13,7 +13,7 @@ export default function LandingProducts() {
           <span className="hidden lg:block">Everything in one berth</span>
         </h2>
         <div className="mt-8 flex justify-center lg:mt-12">
-          <div className="w-full max-w-6xl overflow-hidden rounded-lg shadow-2xl shadow-border-primary/50 ring-1 ring-border-primary/80">
+          <div className="w-full max-w-6xl overflow-hidden rounded-xl ring-1 ring-border-primary">
             {/* Mobile: vertical monitor image; Desktop: wide computer image */}
             <img
               src="/assets/images/landing/mobile-computer.png"
