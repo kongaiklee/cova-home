@@ -18,7 +18,7 @@ const IMG_LOGOS = [
 
 export default function LandingBrokers() {
   return (
-    <section className="bg-transparent -mt-[64px] px-0 sm:bg-landing-brokers sm:px-12 sm:py-8 max-w-[100vw] overflow-hidden sm:mt-0">
+    <section className="bg-landing-brokers max-w-[100vw] overflow-hidden px-0 py-8 sm:px-12">
       <div className="mx-auto max-w-5xl">
         {/* Heading: hidden on mobile, visible on desktop */}
         <h2 className="hidden text-center font-semibold text-xs tracking-widest text-text-primary sm:block">
