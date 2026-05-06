@@ -25,23 +25,13 @@ export default function LandingHero() {
             <div className="h-full flex flex-col">
               <div className="flex-1 flex items-center">
                 <div className="flex-1 w-full max-w-full lg:max-w-[400px]">
-                  {/* Mobile: different headline + body */}
-                  <h1 className="text-3xl font-semibold tracking-tight text-white sm:hidden">
-                    Navigate business insurance with confidence.
-                  </h1>
-                  <p className="mt-6 max-w-xl text-md leading-relaxed text-white/95 sm:hidden">
-                    Meet landlord and regulatory requirements, keep your
-                    insurance organised, and get broker support when you need
-                    it.
-                  </p>
-                  {/* Desktop: original headline + body */}
-                  <h1 className="hidden font-serif text-4xl tracking-tight text-white sm:block sm:text-5xl lg:text-6xl">
+                  <h1 className="font-serif text-4xl tracking-tight text-white sm:text-5xl lg:text-6xl">
                     Built to navigate uncertainty.
                   </h1>
-                  <p className="mt-6 max-w-xl text-lg/relaxed text-white/95 hidden sm:block">
+                  <p className="mt-6 max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed">
                     Every business hits open water.
                   </p>
-                  <p className="max-w-xl text-lg/relaxed text-white/95 hidden sm:block">
+                  <p className="max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed">
                     Covarage is the harbour you come back to.
                   </p>
                   {/* CTA removed — NeedsForm in the right column is the conversion path */}
