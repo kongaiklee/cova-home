@@ -42,7 +42,7 @@ export default function LandingHero() {
                     Every business hits open water.
                   </p>
                   <p className="max-w-xl text-lg/relaxed text-white/95 hidden sm:block">
-                    Coverage is the harbour you come back to.
+                    Covarage is the harbour you come back to.
                   </p>
                   {/* CTA removed — NeedsForm in the right column is the conversion path */}
                 </div>
