@@ -159,22 +159,6 @@ h3{font-family:var(--display);font-weight:400;font-size:22px;line-height:1.2;col
   display:flex;align-items:center;justify-content:center;
 }
 .m-nav__count{font-size:11px;color:var(--mist);min-width:42px;text-align:center;}
-.m-nav__home{
-  position:absolute;left:14px;top:50%;transform:translateY(-50%);
-  width:32px;height:32px;border-radius:50%;
-  color:var(--mist);font-size:15px;text-decoration:none;
-  display:flex;align-items:center;justify-content:center;
-  transition:color 0.2s ease;
-}
-.m-nav__home:hover,.m-nav__home:active{color:var(--horizon);}
-.m-nav__calc{
-  position:absolute;right:14px;top:50%;transform:translateY(-50%);
-  font-size:11px;font-weight:500;letter-spacing:0.05em;
-  color:var(--mist);text-decoration:none;
-  padding:8px 6px;
-  transition:color 0.2s ease;
-}
-.m-nav__calc:hover,.m-nav__calc:active{color:var(--horizon);}
 .progress{position:fixed;top:0;left:0;height:2px;background:var(--horizon);z-index:100;transition:width 0.4s ease;}
 </style>
 </head>
@@ -384,11 +368,9 @@ h3{font-family:var(--display);font-weight:400;font-size:22px;line-height:1.2;col
 
 </div>
 <div class="m-nav">
-  <a href="/" class="m-nav__home" aria-label="Back to home">⌂</a>
   <button class="m-nav__btn" onclick="prev()">←</button>
   <span class="m-nav__count" id="counter">1 / 10</span>
   <button class="m-nav__btn" onclick="next()">→</button>
-  <a href="/for-partners/calculator" class="m-nav__calc">CALC →</a>
 </div>
 <script>
 let current=0;const slides=document.querySelectorAll('.slide'),total=slides.length,counter=document.getElementById('counter'),progress=document.getElementById('progress');
