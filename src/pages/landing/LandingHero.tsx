@@ -1,6 +1,5 @@
 import clsx from 'clsx';
-import { ArrowRight } from 'lucide-react';
-import { Link } from 'react-router-dom';
+import NeedsForm from '../../components/NeedsForm';
 import { LANDING_CONTAINER_CLASS } from './landingContainer';
 
 export default function LandingHero() {
@@ -22,10 +21,10 @@ export default function LandingHero() {
             'relative z-10 flex flex-1 py-8'
           )}
         >
-          <div className="w-full flex flex-col sm:flex-row justify-between gap-12 sm:gap-4">
+          <div className="w-full flex flex-col lg:flex-row justify-between gap-10 lg:gap-12">
             <div className="h-full flex flex-col">
               <div className="flex-1 flex items-center">
-                <div className="flex-1 w-full max-w-full sm:max-w-[400px]">
+                <div className="flex-1 w-full max-w-full lg:max-w-[400px]">
                   {/* Mobile: different headline + body */}
                   <h1 className="text-3xl font-semibold tracking-tight text-white sm:hidden">
                     Navigate business insurance with confidence.
@@ -45,35 +44,15 @@ export default function LandingHero() {
                   <p className="max-w-xl text-lg/relaxed text-white/95 hidden sm:block">
                     Coverage is the harbour you come back to.
                   </p>
-                  <div className="mt-10">
-                    <Link
-                      to={`${import.meta.env.VITE_APP_COVARAGE_URL}/work/signup`}
-                      className="inline-flex items-center gap-2 rounded-sm bg-white px-6 py-3 text-sm font-medium text-text-primary shadow-sm transition hover:bg-white/95"
-                    >
-                      Start for free
-                      <ArrowRight className="size-5" aria-hidden />
-                    </Link>
-                  </div>
+                  {/* CTA removed — NeedsForm in the right column is the conversion path */}
                 </div>
               </div>
               <div>
-                <p className="text-sm text-text-secondary hidden sm:block">
-                  Free to use. No obligation. Licensed brokers on standby.
-                </p>
+                {/* Trust line moved into NeedsForm component */}
               </div>
             </div>
-            <div className="self-center sm:self-end">
-              <div>
-                <img
-                  src="/assets/images/landing/Video.png"
-                  alt=""
-                  aria-hidden
-                  className="w-full max-w-[320px]"
-                />
-                <p className="text-sm text-white block sm:hidden mt-16">
-                  Access to policies from leading insurers, via licensed brokers
-                </p>
-              </div>
+            <div className="w-full lg:w-auto self-stretch lg:self-center flex justify-center lg:justify-end">
+              <NeedsForm />
             </div>
           </div>
         </div>
