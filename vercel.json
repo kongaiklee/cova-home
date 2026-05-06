@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    { "source": "/for-partners", "destination": "/decks/CovaPartnership_Mobile.html" },
+    { "source": "/for-corpsecs", "destination": "/decks/CovaPartnership_Mobile.html" },
+    { "source": "/for-brokers", "destination": "/decks/CovaBroker_Mobile.html" },
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
