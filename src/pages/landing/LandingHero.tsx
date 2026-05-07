@@ -23,13 +23,13 @@ export default function LandingHero() {
             <div className="h-full flex flex-col">
               <div className="flex-1 flex items-center">
                 <div className="flex-1 w-full max-w-full lg:max-w-[400px]">
-                  <h1 className="font-serif text-4xl tracking-tight text-white sm:text-5xl lg:text-6xl [text-shadow:0_2px_16px_rgba(0,0,0,0.35)]">
+                  <h1 className="font-serif text-4xl tracking-tight text-white sm:text-5xl lg:text-6xl [text-shadow:0_2px_4px_rgba(0,0,0,0.55),0_0_28px_rgba(0,0,0,0.4)]">
                     Built to navigate uncertainty.
                   </h1>
-                  <p className="mt-6 max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed [text-shadow:0_1px_10px_rgba(0,0,0,0.3)]">
+                  <p className="mt-6 max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed [text-shadow:0_1px_3px_rgba(0,0,0,0.5),0_0_16px_rgba(0,0,0,0.3)]">
                     Every business hits open water.
                   </p>
-                  <p className="max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed [text-shadow:0_1px_10px_rgba(0,0,0,0.3)]">
+                  <p className="max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed [text-shadow:0_1px_3px_rgba(0,0,0,0.5),0_0_16px_rgba(0,0,0,0.3)]">
                     Covarage is the harbour you come back to.
                   </p>
                   {/* CTA removed — NeedsForm in the right column is the conversion path */}
