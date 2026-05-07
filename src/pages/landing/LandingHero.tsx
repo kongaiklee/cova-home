@@ -1,7 +1,6 @@
 import clsx from 'clsx';
 import NeedsForm from '../../components/NeedsForm';
 import { LANDING_CONTAINER_CLASS } from './landingContainer';
-
 export default function LandingHero() {
   return (
     <>
@@ -13,7 +12,6 @@ export default function LandingHero() {
           aria-hidden
           className="absolute inset-0 h-[1500px] w-full object-cover object-top left-0 sm:left-[300px] sm:-top-[310px] sm:h-[2100px] sm:w-[1575px] sm:object-right"
         />
-
         {/* Content above background */}
         <div
           className={clsx(
@@ -25,13 +23,13 @@ export default function LandingHero() {
             <div className="h-full flex flex-col">
               <div className="flex-1 flex items-center">
                 <div className="flex-1 w-full max-w-full lg:max-w-[400px]">
-                  <h1 className="font-serif text-4xl tracking-tight text-white sm:text-5xl lg:text-6xl">
+                  <h1 className="font-serif text-4xl tracking-tight text-white sm:text-5xl lg:text-6xl [text-shadow:0_2px_16px_rgba(0,0,0,0.35)]">
                     Built to navigate uncertainty.
                   </h1>
-                  <p className="mt-6 max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed">
+                  <p className="mt-6 max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed [text-shadow:0_1px_10px_rgba(0,0,0,0.3)]">
                     Every business hits open water.
                   </p>
-                  <p className="max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed">
+                  <p className="max-w-xl text-base/relaxed text-white/95 sm:text-lg/relaxed [text-shadow:0_1px_10px_rgba(0,0,0,0.3)]">
                     Covarage is the harbour you come back to.
                   </p>
                   {/* CTA removed — NeedsForm in the right column is the conversion path */}
