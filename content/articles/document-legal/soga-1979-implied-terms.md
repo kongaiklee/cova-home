@@ -70,7 +70,7 @@ SOGA framework creates framework for chain of supply.
 
 **Manufacturer-distributor-retailer chain:** each commercial relationship within chain operates under SOGA framework. Considerations on back-to-back commercial scope matters substantially.
 
-**Dropshipping arrangements** (per [Article 240](#article-240)) — operational considerations considerations around operator's position in chain.
+**Dropshipping arrangements** (per [Article 240](/decision-tree/ecommerce-dropshipping-operator)) — operational considerations considerations around operator's position in chain.
 
 #### The Consumer Protection (Fair Trading) Act 2003 integration
 

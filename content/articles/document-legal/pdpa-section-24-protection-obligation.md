@@ -227,7 +227,7 @@ A Section 24 breach often co-exists with breaches of other obligations (excess r
 
 #### Comparison with other jurisdictions
 
-**EU GDPR Article 32** (Security of processing) requires "appropriate technical and organisational measures" considering risk and impact. Conceptually similar to PDPA Section 24 but with different penalty structures and broader extraterritorial application — see [Article 97](#article-97).
+**EU GDPR Article 32** (Security of processing) requires "appropriate technical and organisational measures" considering risk and impact. Conceptually similar to PDPA Section 24 but with different penalty structures and broader extraterritorial application — see [Article 97](/cross-border/sg-ecommerce-eu-gdpr).
 
 **California Consumer Privacy Act / California Privacy Rights Act** has security requirements with private right of action for breach.
 
@@ -284,7 +284,7 @@ For Singapore SMEs handling personal data, Section 24 compliance is the foundati
 
 4. **Manage vendors.** DPAs, due diligence, ongoing oversight.
 
-5. **Hold appropriate Cyber Liability.** Standalone with adequate limits and panel — see [Article 72](#article-72).
+5. **Hold appropriate Cyber Liability.** Standalone with adequate limits and panel — see [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
 
 6. **Document everything.** Records of processing, consent, training, incidents — all support compliance and defence.
 

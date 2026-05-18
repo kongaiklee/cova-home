@@ -100,7 +100,7 @@ The structural exposure pathways for a director of a Singapore listed SME:
 
 D&O Liability is the primary line responding to director personal exposure. The cover architecture for a listed SME typically includes:
 
-**Side A — Non-indemnifiable individual loss.** Direct cover for directors where the company cannot or will not indemnify. The structural fit for insolvency, derivative actions, and indemnification-prohibited contexts (see [Article 280](#article-280)).
+**Side A — Non-indemnifiable individual loss.** Direct cover for directors where the company cannot or will not indemnify. The structural fit for insolvency, derivative actions, and indemnification-prohibited contexts (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)).
 
 **Side B — Corporate reimbursement.** Cover for the company's indemnification of directors under [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 172B (third-party indemnity carve-out).
 
@@ -200,11 +200,11 @@ For a Catalist-listed SME approaching the FY2025 disclosure cycle, the immediate
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 394 — Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](#article-394)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](#article-393)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](#article-391)
-- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](#article-273)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 394 — Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
+- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

@@ -18,7 +18,7 @@ og_description: "Insurance clauses in Singapore commercial contracts impose spec
 
 > **The Answer in 60 Seconds**
 >
-> Insurance clauses in Singapore commercial contracts impose specific insurance procurement obligations on contracting parties. Standard commercial scope around insurance clauses includes mandated cover types (typical: Public Liability, Workers' Compensation / WICA, specific Professional Indemnity, specific Marine Cargo / Goods in Transit, operational other cover types), mandated minimum limits (typically S$1M to S$50M+ depending on commercial scope), specific provisions around primary / non-contributory clauses, additional insured scope, waiver of subrogation scope (per [Article 260](#article-260)), specific certificate of insurance requirements, specific notification obligations, and framework for continuing insurance maintenance throughout contract term. Framework for enforcement matters substantially — failure to maintain required insurance creates framework for contract breach, indemnification commercial scope, and operational operational scope. Considerations on alignment between contractual insurance requirements and actual insurance procurement matters substantially.
+> Insurance clauses in Singapore commercial contracts impose specific insurance procurement obligations on contracting parties. Standard commercial scope around insurance clauses includes mandated cover types (typical: Public Liability, Workers' Compensation / WICA, specific Professional Indemnity, specific Marine Cargo / Goods in Transit, operational other cover types), mandated minimum limits (typically S$1M to S$50M+ depending on commercial scope), specific provisions around primary / non-contributory clauses, additional insured scope, waiver of subrogation scope (per [Article 260](/document-legal/standard-waiver-of-subrogation-clause)), specific certificate of insurance requirements, specific notification obligations, and framework for continuing insurance maintenance throughout contract term. Framework for enforcement matters substantially — failure to maintain required insurance creates framework for contract breach, indemnification commercial scope, and operational operational scope. Considerations on alignment between contractual insurance requirements and actual insurance procurement matters substantially.
 
 ### The Sourced Detail
 
@@ -50,7 +50,7 @@ Standard insurance clauses include several structural elements:
 
 - **Primary / non-contributory clause** — provides that insurance applies primary, not contributory to indemnitee's other insurance
 - **Additional insured scope** — extends cover to indemnitee parties
-- **Waiver of subrogation** (per [Article 260](#article-260)) — waives insurer's subrogation rights against indemnitee
+- **Waiver of subrogation** (per [Article 260](/document-legal/standard-waiver-of-subrogation-clause)) — waives insurer's subrogation rights against indemnitee
 - **Severability** — preserves cover for innocent insureds where one insured's conduct prejudices cover
 - **Specific cancellation / non-renewal notification** — typically 30-60 days notice
 
@@ -64,7 +64,7 @@ Standard insurance clauses include several structural elements:
 
 **Public Liability with Product Liability extension** — foundational across most commercial scope. Considerations on limits.
 
-**Workers' Compensation / WICA cover** — mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) framework. Considerations on designated insurer scope (per [Article 264](#article-264) framework).
+**Workers' Compensation / WICA cover** — mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) framework. Considerations on designated insurer scope (per [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019) framework).
 
 **Professional Indemnity** — where advisory commercial scope. Considerations on limits and provisions.
 
@@ -92,7 +92,7 @@ Standard insurance clauses include several structural elements:
 
 #### The waiver of subrogation framework
 
-Waiver of subrogation provisions (per [Article 260](#article-260) detailed framework) operate as operational scope mechanism.
+Waiver of subrogation provisions (per [Article 260](/document-legal/standard-waiver-of-subrogation-clause) detailed framework) operate as operational scope mechanism.
 
 **Standard waiver of subrogation language** — framework for waiving insurer's subrogation rights against indemnitee.
 

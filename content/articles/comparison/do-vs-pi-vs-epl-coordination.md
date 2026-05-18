@@ -18,7 +18,7 @@ og_description: "Three management liability covers commonly confused and frequen
 
 > **The Answer in 60 Seconds**
 >
-> Three management liability covers commonly confused and frequently miscoordinated. **D&O (Directors & Officers)** covers directors and officers personally for claims arising from their roles — claims by shareholders, regulators, creditors, third parties about director conduct. **PI (Professional Indemnity)** covers the company's liability for professional services errors — advisory mistakes, service defects, professional negligence. **EPL (Employment Practices Liability)** covers the company's liability for employment-related claims — discrimination, harassment, wrongful termination, retaliation. The three operate in different lanes but with specific overlap zones (e.g. director participating in alleged employment discrimination), specific gap zones (e.g. claims that don't fit any standard cover cleanly), and specific coordination requirements at claim time. For Singapore SMEs, understanding how the three coordinate explains both procurement priorities and claim-time response. The integrated approach will matter more once the Workplace Fairness Act 2024 commences (expected end-2027) and elevates EPL relevance (see [Article 171](#article-171), [Article 189](#article-189)).
+> Three management liability covers commonly confused and frequently miscoordinated. **D&O (Directors & Officers)** covers directors and officers personally for claims arising from their roles — claims by shareholders, regulators, creditors, third parties about director conduct. **PI (Professional Indemnity)** covers the company's liability for professional services errors — advisory mistakes, service defects, professional negligence. **EPL (Employment Practices Liability)** covers the company's liability for employment-related claims — discrimination, harassment, wrongful termination, retaliation. The three operate in different lanes but with specific overlap zones (e.g. director participating in alleged employment discrimination), specific gap zones (e.g. claims that don't fit any standard cover cleanly), and specific coordination requirements at claim time. For Singapore SMEs, understanding how the three coordinate explains both procurement priorities and claim-time response. The integrated approach will matter more once the Workplace Fairness Act 2024 commences (expected end-2027) and elevates EPL relevance (see [Article 171](/regulatory-change/wfa-2024-phase-2-implementation), [Article 189](/document-legal/wfa-2024-protected-characteristics)).
 
 ### The Sourced Detail
 
@@ -28,7 +28,7 @@ D&O, PI, and EPL are sometimes referred to collectively as "management liability
 
 **Core scope.** D&O responds to claims against directors and officers personally for alleged wrongful acts in their roles. Wrongful acts include:
 
-- Breach of duty (under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967); see [Article 184](#article-184))
+- Breach of duty (under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967); see [Article 184](/document-legal/companies-act-section-157-director-duties))
 - Breach of trust
 - Negligence in the discharge of director duties
 - Misstatements in company communications
@@ -44,7 +44,7 @@ D&O, PI, and EPL are sometimes referred to collectively as "management liability
 **The three sides:**
 
 - **Side A** — direct cover for individual directors and officers (responds where company can't or won't indemnify)
-- **Side B** — reimbursement to company for indemnification provided to directors / officers (operates within [Companies Act Section 172](https://sso.agc.gov.sg/Act/CoA1967) framework; see [Article 185](#article-185))
+- **Side B** — reimbursement to company for indemnification provided to directors / officers (operates within [Companies Act Section 172](https://sso.agc.gov.sg/Act/CoA1967) framework; see [Article 185](/document-legal/companies-act-section-172-do-side-b-indemnification))
 - **Side C** — entity coverage for specific company-level claims (typically securities-related)
 
 **Standard exclusions:**
@@ -93,13 +93,13 @@ D&O, PI, and EPL are sometimes referred to collectively as "management liability
 - S$500k-S$5M typical for SME-scale professional services
 - Substantially higher for specific high-exposure professions (medical, legal, engineering on material projects)
 
-**Specific Tech E&O alternative.** For technology companies, specific Tech E&O (see [Article 191](#article-191)) is typically the appropriate cover rather than traditional PI.
+**Specific Tech E&O alternative.** For technology companies, specific Tech E&O (see [Article 191](/comparison/pi-vs-tech-eo-for-saas)) is typically the appropriate cover rather than traditional PI.
 
 #### EPL — Employment Practices Liability
 
 **Core scope.** EPL responds to claims against the company for employment-related allegations:
 
-- Discrimination (relevance set to rise once the WFA commences — see [Article 189](#article-189))
+- Discrimination (relevance set to rise once the WFA commences — see [Article 189](/document-legal/wfa-2024-protected-characteristics))
 - Harassment
 - Wrongful termination
 - Retaliation
@@ -134,7 +134,7 @@ D&O, PI, and EPL are sometimes referred to collectively as "management liability
 - Higher for specific high-exposure industries
 - Specific defence costs material
 
-**Specific WFA elevation.** Singapore EPL is relatively niche given limited statutory employment claim avenues. The WFA will materially expand the claim landscape (see [Article 171](#article-171)), making EPL substantially more relevant for Singapore SMEs — though the Act is not yet in force, with commencement expected end-2027.
+**Specific WFA elevation.** Singapore EPL is relatively niche given limited statutory employment claim avenues. The WFA will materially expand the claim landscape (see [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)), making EPL substantially more relevant for Singapore SMEs — though the Act is not yet in force, with commencement expected end-2027.
 
 #### Where they overlap
 
@@ -254,7 +254,7 @@ For Singapore SMEs, procurement priorities depend on profile:
 
 **Financial services.** All three plus specific industry-specific cover. D&O substantial limits typical given regulatory exposure.
 
-**Healthcare.** PI substantial limits typical (service category). D&O for HCSA framework exposure (see [Article 176](#article-176)).
+**Healthcare.** PI substantial limits typical (service category). D&O for HCSA framework exposure (see [Article 176](/regulatory-change/hcsa-full-implementation-review)).
 
 **Construction.** D&O for material exposure; specific WSHA Section 48 personal director liability framework drives D&O priority. PI for design / engineering services. EPL for substantial workforce.
 

@@ -120,7 +120,7 @@ Different workheads carry different risk profiles and insurance expectations:
 - Cross-border project considerations sometimes
 
 **Construction-Related (CR):**
-- Workhead-specific exposures — see [Article 21](#article-21) on CW01/CW02, [Article 22](#article-22) on ME workheads, and dedicated articles on individual workheads
+- Workhead-specific exposures — see [Article 21](/licensing/bca-cw01-cw02-contractor-insurance-requirements) on CW01/CW02, [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements) on ME workheads, and dedicated articles on individual workheads
 
 **Facilities Management (FM):**
 - Long-term service exposure
@@ -181,13 +181,13 @@ CRS is one of several construction-related qualification regimes:
 - Required for general builders and specialist builders
 - Different scope from CRS (BLS is a statutory licence; CRS is procurement registration)
 - Many contractors hold both
-- See [Article 2](#article-2) on BCA bizSAFE 3 / BLS context
+- See [Article 2](/licensing/bca-crs-bizsafe-level-3-insurance-proof) on BCA bizSAFE 3 / BLS context
 
 **[SCAL Singapore Contractors Association Limited](https://www.scal.com.sg/):**
 - Industry association
 - SLOTS (Safety, Labour, Operations, Training, Sustainability) certification
 - Voluntary but widely held
-- See [Article 1](#article-1) on SCAL SLOTS
+- See [Article 1](/licensing/scal-slots-application-insurance-requirements) on SCAL SLOTS
 
 **[CaseTrust Renovation](https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/):**
 - Consumer protection accreditation for renovation contractors

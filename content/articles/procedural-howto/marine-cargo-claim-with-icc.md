@@ -18,7 +18,7 @@ og_description: "Marine Cargo claim handling combines specific Institute Cargo C
 
 > **The Answer in 60 Seconds**
 >
-> Marine Cargo claim handling combines specific Institute Cargo Clauses (ICC) coverage analysis (per [Article 192](#article-192)) with operational discipline. The standard sequence: **damage / loss discovery at receipt** → **immediate damage notation on delivery documents** → **insurer notification within 7 days** → **specific surveyor appointment** (typically by insurer) → **survey and damage assessment** → **specific carrier claim notification** (preserving subrogation) → **specific salvage / mitigation actions** → **claim documentation submission** → **insurer validation against ICC clause** → **claim payment** (typically 30-90 days from complete documentation). Critical operational discipline: **damage notation at delivery** (foundational; missed notation typically means denied claim), **specific notification timing**, **specific carrier claim preservation**, and **specific subrogation cooperation**. For Singapore SMEs in trading, manufacturing, retail with imported / exported goods, getting marine cargo claims right is foundational to actual coverage realisation.
+> Marine Cargo claim handling combines specific Institute Cargo Clauses (ICC) coverage analysis (per [Article 192](/comparison/marine-cargo-icc-a-b-c)) with operational discipline. The standard sequence: **damage / loss discovery at receipt** → **immediate damage notation on delivery documents** → **insurer notification within 7 days** → **specific surveyor appointment** (typically by insurer) → **survey and damage assessment** → **specific carrier claim notification** (preserving subrogation) → **specific salvage / mitigation actions** → **claim documentation submission** → **insurer validation against ICC clause** → **claim payment** (typically 30-90 days from complete documentation). Critical operational discipline: **damage notation at delivery** (foundational; missed notation typically means denied claim), **specific notification timing**, **specific carrier claim preservation**, and **specific subrogation cooperation**. For Singapore SMEs in trading, manufacturing, retail with imported / exported goods, getting marine cargo claims right is foundational to actual coverage realisation.
 
 ### The Sourced Detail
 
@@ -26,7 +26,7 @@ Marine cargo claim handling is one of the most operationally specific insurance 
 
 #### The ICC clause foundation
 
-Before claim handling, the ICC clause governs scope (per [Article 192](#article-192)):
+Before claim handling, the ICC clause governs scope (per [Article 192](/comparison/marine-cargo-icc-a-b-c)):
 
 **ICC (A) — All Risks.** Burden on insurer to establish exclusion. Most claims succeed unless specific exclusion applies.
 
@@ -151,7 +151,7 @@ Major marine surveyors operate in Singapore:
 
 **Subrogation preservation.**
 
-Per the framework discussed in [Article 187](#article-187) on Castellian v Preston:
+Per the framework discussed in [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston:
 
 - Specific carrier liability claim preservation
 - Operational specific subrogation framework

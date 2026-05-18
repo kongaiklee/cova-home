@@ -154,7 +154,7 @@ FIDReC route: applicable for SME-level loan disputes.
 
 **Use case 5 — Trade credit insurance dispute.**
 
-SME's TCI claim denied; per [Article 355](#article-355) (Marketlend v QBE) framework, claim handling is rigorous.
+SME's TCI claim denied; per [Article 355](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment) (Marketlend v QBE) framework, claim handling is rigorous.
 
 FIDReC route: applicable for SME-level TCI disputes within ceiling. For larger claims (above SGD 150,000), court action remains primary.
 
@@ -185,7 +185,7 @@ For SMEs with broker representation:
 - Broker should incorporate FIDReC awareness in service standard
 - Broker can support escalation process
 - Broker not the FIDReC complainant (SME is)
-- Broker remuneration disclosure (per [Article 346](#article-346)) reinforced
+- Broker remuneration disclosure (per [Article 346](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)) reinforced
 
 #### FIDReC subscriber list
 

@@ -39,7 +39,7 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), perso
 - Collective investment schemes
 - Specific advisory categories
 
-For pure insurance brokers serving commercial SMEs, additional licensing under the **Insurance Act 1966 Section 36** for insurance broking applies (see [Article 128](#article-128)).
+For pure insurance brokers serving commercial SMEs, additional licensing under the **Insurance Act 1966 Section 36** for insurance broking applies (see [Article 128](/document-legal/insurance-act-1966-overview)).
 
 #### What an IFA actually is in Singapore context
 
@@ -115,7 +115,7 @@ Various MAS notices restrict specific selling practices including:
 
 **6. Complaint resolution:**
 
-FAs must have complaint handling procedures and customers can escalate to FIDReC for eligible disputes (see [Article 43](#article-43)).
+FAs must have complaint handling procedures and customers can escalate to FIDReC for eligible disputes (see [Article 43](/procedural-howto/dispute-denied-claim)).
 
 #### MAS Notice FAA-N03 specifically
 
@@ -162,7 +162,7 @@ When SME insurance buyers have concerns about IFA conduct or advice:
 - Free mediation for eligible disputes
 - Adjudication available for some matters
 - Specific eligibility criteria (claim limits, complaint nature)
-- See [Article 43](#article-43) on FIDReC
+- See [Article 43](/procedural-howto/dispute-denied-claim) on FIDReC
 
 **3. MAS:**
 - Regulator for FAs

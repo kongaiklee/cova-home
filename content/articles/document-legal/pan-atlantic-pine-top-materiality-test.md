@@ -18,7 +18,7 @@ og_description: "Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd [19
 
 > **The Answer in 60 Seconds**
 >
-> *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 is the House of Lords decision that established the modern materiality test for insurance disclosure. The case interpreted the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Sections 17-19 (see [Article 183](#article-183)) and clarified two foundational points: (1) materiality is determined by reference to the **prudent insurer** — would the fact have influenced the prudent insurer's judgment in fixing the premium or determining whether to take the risk; and (2) materiality alone is insufficient — the insurer must also show **actual inducement**: the non-disclosed fact actually influenced the specific underwriting decision. Singapore courts have applied the Pan Atlantic test consistently, making it the working framework for every insurance disclosure dispute. For Singapore SMEs, understanding the test explains both the breadth of the disclosure duty and the specific defensive avenue available when claim denial is asserted on non-disclosure grounds.
+> *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 is the House of Lords decision that established the modern materiality test for insurance disclosure. The case interpreted the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Sections 17-19 (see [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19)) and clarified two foundational points: (1) materiality is determined by reference to the **prudent insurer** — would the fact have influenced the prudent insurer's judgment in fixing the premium or determining whether to take the risk; and (2) materiality alone is insufficient — the insurer must also show **actual inducement**: the non-disclosed fact actually influenced the specific underwriting decision. Singapore courts have applied the Pan Atlantic test consistently, making it the working framework for every insurance disclosure dispute. For Singapore SMEs, understanding the test explains both the breadth of the disclosure duty and the specific defensive avenue available when claim denial is asserted on non-disclosure grounds.
 
 ### The Sourced Detail
 
@@ -155,7 +155,7 @@ Conclusion: Disclose; the specific renewal cycle treatment varies.
 
 **Scenario: SME completes proposal form accurately but doesn't volunteer fact not specifically asked.**
 
-The doctrine doesn't recognise "you didn't ask" as a defence (per [Article 182](#article-182) on utmost good faith). Material facts must be disclosed even if not specifically prompted.
+The doctrine doesn't recognise "you didn't ask" as a defence (per [Article 182](/document-legal/utmost-good-faith-singapore-insurance) on utmost good faith). Material facts must be disclosed even if not specifically prompted.
 
 Materiality: Same test applies regardless of whether asked.
 
@@ -181,7 +181,7 @@ The Pan Atlantic framework creates operational expectations:
 
 **Specific documentation.** Records of disclosures made support both compliance and dispute resolution.
 
-**Specific broker engagement.** Brokers professionally surface material facts SMEs might not naturally volunteer (per [Article 183](#article-183) on Section 19).
+**Specific broker engagement.** Brokers professionally surface material facts SMEs might not naturally volunteer (per [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19) on Section 19).
 
 #### Specific SME defensive considerations
 

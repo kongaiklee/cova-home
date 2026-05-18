@@ -203,14 +203,14 @@ For SMEs procuring marine cargo cover:
 
 **Specific incident reporting.** Specific damage / loss reporting at receipt.
 
-**Specific subrogation cooperation.** See [Article 187](#article-187) on Castellian v Preston framework.
+**Specific subrogation cooperation.** See [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston framework.
 
 #### The 1906 Act framework
 
 The clauses operate within the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) framework:
 
 - Insurable interest (Sections 5-6, with Section 4 voiding contracts without it)
-- Disclosure obligations (Sections 17-19; see [Article 183](#article-183))
+- Disclosure obligations (Sections 17-19; see [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19))
 - Policy form requirements
 - Specific warranty and condition framework
 - Specific abandonment provisions
@@ -218,7 +218,7 @@ The clauses operate within the [Marine Insurance Act 1906](https://sso.agc.gov.s
 
 **Specific 1906 Act provisions affect how ICC clauses operate in claim scenarios.**
 
-For specific Singapore case law treatment of marine cargo claims, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including specific subrogation cases under the framework discussed in [Article 187](#article-187).
+For specific Singapore case law treatment of marine cargo claims, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including specific subrogation cases under the framework discussed in [Article 187](/document-legal/castellian-preston-subrogation).
 
 ### Common Mistakes / What Goes Wrong
 

@@ -28,7 +28,7 @@ Active ransomware negotiation is one of the most consequential 72-hour periods i
 
 Per [CSA Singapore Cyber Landscape 2022 report](https://www.csa.gov.sg/) (released 23 June 2023): "The cases affected mostly Small-and-Medium Enterprises (SMEs) from sectors such as manufacturing and retail, as they may hold valuable data as well as Intellectual Property (IP), which cybercriminals often seek to extort and monetise for financial gain."
 
-PDPC enforcement against ransomware-related Protection Obligation breaches per [Article 357](#article-357) framework:
+PDPC enforcement against ransomware-related Protection Obligation breaches per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) framework:
 - Singapore Data Hub Pte Ltd: SGD 17,500 (decision 7 April 2025) for 689,000-record exfiltration
 - People Central Pte Ltd: SGD 17,500 (decision 8 January 2026) for 95,000 individuals plus 24,765 emergency contacts
 - These are smaller-tier penalties; substantial breaches face larger penalties under the 10% turnover regime
@@ -189,11 +189,11 @@ Most cyber policies cover:
 **Regulatory exposure:**
 - PDPC investigation likely
 - Specific Section 24 Protection Obligation breach assessment
-- Penalty exposure per [Article 357](#article-357) framework
+- Penalty exposure per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) framework
 
 **Litigation exposure:**
 - Customer civil claims for data exposure
-- Specific class action potential (post-FIDReC small business expansion per [Article 360](#article-360))
+- Specific class action potential (post-FIDReC small business expansion per [Article 360](/regulatory-change/fidrec-small-business-eligible-complainants-1-july-2025))
 - Cross-border claims if affected individuals abroad
 
 #### CSA SingCERT engagement

@@ -59,7 +59,7 @@ Single cyber attack triggers:
 - **Employment Practices Liability** — if employee data breached (employees may pursue claims)
 - **Crime / Fidelity** — if breach involved insider element
 
-Notification deadlines vary; cyber typically immediate (24-72 hours). Per [Article 343](#article-343), PDPA Section 26D 3-day notification is independent regulatory obligation.
+Notification deadlines vary; cyber typically immediate (24-72 hours). Per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore), PDPA Section 26D 3-day notification is independent regulatory obligation.
 
 **Scenario 3 — Contractor / on-site incident.**
 

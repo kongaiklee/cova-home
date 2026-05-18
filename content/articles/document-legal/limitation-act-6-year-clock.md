@@ -113,7 +113,7 @@ In all these sectors, the **claims-made** liability policy structure (PI, D&O, C
 
 #### The interaction with claims-made policies
 
-For claims-made policies (see [Article 64](#article-64)), the policy responds to claims *first made* during the policy period. The Limitation Act sets the outer boundary on when a claim can be made at all. For an SME running PI/D&O/Cyber:
+For claims-made policies (see [Article 64](/comparison/claims-made-vs-occurrence)), the policy responds to claims *first made* during the policy period. The Limitation Act sets the outer boundary on when a claim can be made at all. For an SME running PI/D&O/Cyber:
 
 - The company's underlying liability is bounded by the Limitation Act
 - The insurance cover is bounded by the policy period (and any extended reporting period)

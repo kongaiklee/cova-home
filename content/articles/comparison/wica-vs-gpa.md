@@ -84,7 +84,7 @@ Each piece is separately motivated. None replaces another.
 
 This is the single most common compliance failure flagged by MOM enforcement. An employer assumes that because their staff have an accident benefit, the WICA obligation is met. It is not. The Section 24 duty is specific: cover must be on an approved policy, with a designated insurer, against the employer's WICA Act liabilities. A standalone GPA policy issued by any general insurer in Singapore does not meet that test.
 
-The reverse trap also exists: holding WICA and assuming "the worker is covered for everything." WICA pays a fixed statutory amount only; the employer remains exposed to common-law negligence claims for any shortfall (subject to the worker electing one route — see [Article 55](#article-55) on the WICA-or-common-law election). For employers, the practical defence is the **Common Law / Employer's Liability extension** that most WICA policies offer — a separate cover layered on top of statutory WICA, not a replacement for GPA.
+The reverse trap also exists: holding WICA and assuming "the worker is covered for everything." WICA pays a fixed statutory amount only; the employer remains exposed to common-law negligence claims for any shortfall (subject to the worker electing one route — see [Article 55](/procedural-howto/wica-simultaneous-common-law) on the WICA-or-common-law election). For employers, the practical defence is the **Common Law / Employer's Liability extension** that most WICA policies offer — a separate cover layered on top of statutory WICA, not a replacement for GPA.
 
 ### Common Mistakes / What Goes Wrong
 

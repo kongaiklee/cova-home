@@ -93,7 +93,7 @@ For the SME extending trade credit to a customer in known financial distress, th
 - If the SME's own directors continue extending credit and the SME later becomes insolvent in consequence, the SME's directors face personal exposure.
 - This is independent of the customer's own director exposure under section 239 for incurring debts to the SME.
 
-The directors' protective steps are (a) documented board decisions assessing the credit risk; (b) credit limits set after consideration of customer-health information; (c) consultation with the Trade Credit insurer at policy-cycle reviews; (d) appropriate D&O Side A cover (see [Article 280](#article-280)).
+The directors' protective steps are (a) documented board decisions assessing the credit risk; (b) credit limits set after consideration of customer-health information; (c) consultation with the Trade Credit insurer at policy-cycle reviews; (d) appropriate D&O Side A cover (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)).
 
 #### The Simplified Insolvency Programme (SIP 2.0)
 
@@ -191,11 +191,11 @@ For directors of the SME, the wrongful trading section 239 IRDA defence requires
 
 ### Related Information
 
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](#article-261)
-- [Article 292 — Key Supplier Insolvency: The Contingent BI Trigger](#article-292)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](#article-279)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
-- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](#article-401)
+- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 292 — Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
+- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
 
 ---

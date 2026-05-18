@@ -18,7 +18,7 @@ og_description: "Professional Indemnity is claims-made insurance. The trigger is
 
 > **The Answer in 60 Seconds**
 >
-> Professional Indemnity is **claims-made** insurance. The trigger is a claim *first made* against you (or a circumstance that may give rise to one) during the policy period — see [Article 64](#article-64). The sequence: identify the claim or circumstance, **notify the insurer immediately** (typically "as soon as reasonably practicable" or specific calendar days — late notification can void cover), preserve evidence, do **not** admit liability or settle without insurer consent, cooperate with the panel counsel the insurer appoints under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulatory framework. PI claims often involve long lead times — sometimes years from notification to resolution, bounded by the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year clock for contract and tort claims (see [Article 75](#article-75)) — and significant defence cost which the policy typically covers (in addition to or within the limit, per wording). The professional's regulatory body (BOA, SMC, Law Society, etc.) may have separate disciplinary processes running parallel to the civil PI claim.
+> Professional Indemnity is **claims-made** insurance. The trigger is a claim *first made* against you (or a circumstance that may give rise to one) during the policy period — see [Article 64](/comparison/claims-made-vs-occurrence). The sequence: identify the claim or circumstance, **notify the insurer immediately** (typically "as soon as reasonably practicable" or specific calendar days — late notification can void cover), preserve evidence, do **not** admit liability or settle without insurer consent, cooperate with the panel counsel the insurer appoints under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulatory framework. PI claims often involve long lead times — sometimes years from notification to resolution, bounded by the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year clock for contract and tort claims (see [Article 75](/document-legal/limitation-act-6-year-clock)) — and significant defence cost which the policy typically covers (in addition to or within the limit, per wording). The professional's regulatory body (BOA, SMC, Law Society, etc.) may have separate disciplinary processes running parallel to the civil PI claim.
 
 ### The Step-by-Step
 
@@ -42,7 +42,7 @@ PI policies typically cover claims and circumstances:
 - Quality review identifying a problem
 - Hot complaint from client even before formal claim
 
-The distinction matters: under most claims-made wordings, **circumstance notification** during the policy period preserves cover for any subsequent claim arising from that circumstance, even if the actual claim arrives during a later policy period or after policy expiry. This is significant protection — see [Article 64](#article-64).
+The distinction matters: under most claims-made wordings, **circumstance notification** during the policy period preserves cover for any subsequent claim arising from that circumstance, even if the actual claim arrives during a later policy period or after policy expiry. This is significant protection — see [Article 64](/comparison/claims-made-vs-occurrence).
 
 #### Step 1 — Identify the trigger
 
@@ -232,7 +232,7 @@ There's nuance here. Some forms of apology express regret without admitting faul
 - Different policies may apply to different claims
 
 **Run-off / tail at retirement:**
-- See [Article 75](#article-75) on Limitation Act long-tail considerations
+- See [Article 75](/document-legal/limitation-act-6-year-clock) on Limitation Act long-tail considerations
 - Practice cessation requires extended cover for late-notified claims
 
 #### Specific scenarios
@@ -273,7 +273,7 @@ There's nuance here. Some forms of apology express regret without admitting faul
 5. **Engaging own counsel without insurer consent.** Cost not reimbursed.
 6. **Continuing to work for the client after problem identified without disclosure.** Aggravates situation.
 7. **Public discussion of the matter.** Compromises defence; possible defamation exposure.
-8. **At renewal, omitting circumstance disclosure.** Disclosure duty breach (see [Article 74](#article-74)).
+8. **At renewal, omitting circumstance disclosure.** Disclosure duty breach (see [Article 74](/document-legal/insurance-act-disclosure-duty)).
 9. **Document destruction in panic.** Spoliation; serious adverse consequence.
 
 ### What This Means for Your Business

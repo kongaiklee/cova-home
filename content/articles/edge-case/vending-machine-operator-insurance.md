@@ -54,13 +54,13 @@ Public Liability cover with elevated limits given third-party premises exposure.
 
 Standard PL limits for substantive operations typically S$2M-S$10M reflecting operational operational scope across distributed operations.
 
-Property/Fire cover with specific provisions for distributed equipment scope. Operational scope across multiple premises creates specific aggregate considerations. Considerations on sum insured adequacy (per [Article 196](#article-196) on average clause) matters substantially given equipment values across distributed operations.
+Property/Fire cover with specific provisions for distributed equipment scope. Operational scope across multiple premises creates specific aggregate considerations. Considerations on sum insured adequacy (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause) matters substantially given equipment values across distributed operations.
 
-Equipment Breakdown cover (per [Article 209](#article-209)) for substantial machine investment. Modern vending machines (particularly smart vending with refrigeration, cashless payment integration, operational technology) carry substantial commercial value (typically S$5k-S$25k+ per machine). Operational scope across distributed operations creates specific Equipment Breakdown considerations.
+Equipment Breakdown cover (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for substantial machine investment. Modern vending machines (particularly smart vending with refrigeration, cashless payment integration, operational technology) carry substantial commercial value (typically S$5k-S$25k+ per machine). Operational scope across distributed operations creates specific Equipment Breakdown considerations.
 
-BI cover (per [Article 195](#article-195) and [Article 208](#article-208)) for operational disruption. Distributed operations have operational characteristics — premises-by-premises BI scope, commercial relationships, operational scope. Indemnity period considerations matter for substantial commercial scope.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Distributed operations have operational characteristics — premises-by-premises BI scope, commercial relationships, operational scope. Indemnity period considerations matter for substantial commercial scope.
 
-Commercial Crime / Specie cover. Cash-handling vending machines face operational scope including specific theft scenarios (machine break-in, cash collection theft scenarios, operational employee theft scenarios). Specific Crime cover with specific commercial provisions and operational Specie cover for cash collection / transit scope (per [Article 196](#article-196) on cash limit considerations).
+Commercial Crime / Specie cover. Cash-handling vending machines face operational scope including specific theft scenarios (machine break-in, cash collection theft scenarios, operational employee theft scenarios). Specific Crime cover with specific commercial provisions and operational Specie cover for cash collection / transit scope (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on cash limit considerations).
 
 Cyber Liability cover for cashless payment systems. Modern vending operations integrate substantially with cashless payment systems (NETS, operational commercial card systems, operational mobile payment systems). PDPA exposure is material; considerations on PDPA Section 26D infrastructure matters.
 

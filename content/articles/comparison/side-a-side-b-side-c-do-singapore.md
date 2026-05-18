@@ -130,7 +130,7 @@ A Singapore Pre-IPO technology SME with a 4-person board buys a S$5m D&O program
 
 7. **Premium funding from parent in violation of section 76A.** Group D&O premium arrangements where a parent or holding company funds subsidiary premium can engage section 76A financial-assistance issues. The section 76A(13) to (15) exceptions should be specifically tested.
 
-8. **Not coordinating Side A / Side B / Side C with defence costs allocation.** Defence allocation under D&O is on Defense Costs Inside Limits architecture (see [Article 273](#article-273)) and can erode the pool available across all three sides. The interaction between defence costs and side allocation should be specifically tested.
+8. **Not coordinating Side A / Side B / Side C with defence costs allocation.** Defence allocation under D&O is on Defense Costs Inside Limits architecture (see [Article 273](/comparison/defense-costs-inside-vs-outside-limits-liability)) and can erode the pool available across all three sides. The interaction between defence costs and side allocation should be specifically tested.
 
 9. **Limit too low for realistic claim scenario.** A S$2m D&O limit can be exhausted by defence alone on a complex derivative action in the Singapore High Court running 18-24 months. Limit sizing should be against realistic worst-case, not headline tariff.
 
@@ -160,11 +160,11 @@ The interaction with Companies Act sections 172, 172A, and 172B is the statutory
 
 ### Related Information
 
-- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](#article-273)
-- [Article 394 — Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](#article-394)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](#article-391)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](#article-393)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](#article-279)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
+- [Article 394 — Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
+- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

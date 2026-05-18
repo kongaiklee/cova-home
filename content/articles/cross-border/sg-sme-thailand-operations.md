@@ -56,7 +56,7 @@ Thailand's [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th
 
 Key elements include lawful basis requirements for personal data processing (specific consent or specific other legal bases), specific data subject rights including access, rectification, deletion, and portability, specific cross-border transfer requirements, specific data breach notification obligations within 72 hours where applicable, and substantial penalty framework including criminal exposure for specific officer-level violations.
 
-For Singapore SMEs operating in Thailand (particularly technology, e-commerce, F&B with loyalty programmes, retail, professional services), PDPA Thailand compliance is operationally substantive. Cyber Liability cover (per [Article 167](#article-167)) should be coordinated with Thai PDPA exposure considerations.
+For Singapore SMEs operating in Thailand (particularly technology, e-commerce, F&B with loyalty programmes, retail, professional services), PDPA Thailand compliance is operationally substantive. Cyber Liability cover (per [Article 167](/comparison/cyber-tower-vs-single-policy)) should be coordinated with Thai PDPA exposure considerations.
 
 #### Thai labour law considerations
 
@@ -94,7 +94,7 @@ For substantive Thailand operations, engagement with Thai counsel familiar with 
 
 #### Specific cross-border architecture
 
-For Singapore SMEs operating in Thailand, the standard insurance architecture is Master/Local (per [Article 190](#article-190)):
+For Singapore SMEs operating in Thailand, the standard insurance architecture is Master/Local (per [Article 190](/comparison/master-local-vs-dic-dil-multinational)):
 
 Singapore master policy provides coordinated programme structure. Thailand local policies issued by OIC-licensed insurers provide compliant cover for Thai risks, customer-facing certificates where required, and specific local operational support.
 

@@ -185,7 +185,7 @@ Based on enforcement pattern, SME baseline expectations include:
 - Strong password policy (minimum 12 characters, complexity requirements)
 - MFA on all admin accounts and customer-facing systems
 - DPO appointment (formal designation, communication, training)
-- PDPA breach response plan (per [Article 343](#article-343))
+- PDPA breach response plan (per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore))
 
 **System maintenance.**
 - Patching cadence (critical patches within 30 days)
@@ -232,7 +232,7 @@ Based on enforcement pattern, SME baseline expectations include:
 
 7. **No incident response plan.** Breach response improvised; coordination delayed.
 
-8. **PDPA breach notification delay.** Beyond 3-day window per [Article 343](#article-343).
+8. **PDPA breach notification delay.** Beyond 3-day window per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore).
 
 9. **Vendor termination without offboarding.** Former vendor credentials retained; misuse exposure.
 

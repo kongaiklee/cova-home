@@ -141,7 +141,7 @@ When platform worker injured:
 - Immediate medical care
 - Operator submits incident report to MOM via [iReport](https://www.mom.gov.sg/eservices/services/employers-report-of-accident) within 10 days
 - Notification to designated insurer
-- Standard WICA claim process per [Article 341](#article-341)
+- Standard WICA claim process per [Article 341](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 **Step 6 — Documentation and audit readiness.**
 

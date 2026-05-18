@@ -18,7 +18,7 @@ og_description: "Property All Risks (PAR) policies operate on an \"all risks\" b
 
 > **The Answer in 60 Seconds**
 >
-> Property All Risks (PAR) policies operate on an "all risks" basis — covering any sudden and accidental physical loss / damage except specifically excluded. The exclusions are therefore foundational: they define where coverage ends. Standard PAR exclusions include: **wear and tear / gradual deterioration**, **inherent vice / latent defect**, **mechanical / electrical breakdown** (often, with separate Equipment Breakdown cover available), **faulty design / workmanship** (varies), **specific consequential losses**, **war / nuclear / radioactive**, **specific cyber-related exclusions** (evolving), and **specific other defined exclusions**. For Singapore SMEs evaluating PAR cover (per [Article 158](#article-158)), understanding the exclusions explains both what's actually covered and where complementary covers (Equipment Breakdown, Cyber, specific specialty covers) become essential. The 2017-2024 period has seen significant evolution in cyber-related exclusions across the global property market — Singapore-issued PAR policies have followed these trends.
+> Property All Risks (PAR) policies operate on an "all risks" basis — covering any sudden and accidental physical loss / damage except specifically excluded. The exclusions are therefore foundational: they define where coverage ends. Standard PAR exclusions include: **wear and tear / gradual deterioration**, **inherent vice / latent defect**, **mechanical / electrical breakdown** (often, with separate Equipment Breakdown cover available), **faulty design / workmanship** (varies), **specific consequential losses**, **war / nuclear / radioactive**, **specific cyber-related exclusions** (evolving), and **specific other defined exclusions**. For Singapore SMEs evaluating PAR cover (per [Article 158](/comparison/fire-vs-par-claim-mechanics)), understanding the exclusions explains both what's actually covered and where complementary covers (Equipment Breakdown, Cyber, specific specialty covers) become essential. The 2017-2024 period has seen significant evolution in cyber-related exclusions across the global property market — Singapore-issued PAR policies have followed these trends.
 
 ### The Sourced Detail
 
@@ -137,7 +137,7 @@ Specific scenarios cross the boundary:
 
 **Specific scope.** Consequential losses include:
 
-- Business interruption (handled by separate BI cover; see [Article 159](#article-159))
+- Business interruption (handled by separate BI cover; see [Article 159](/comparison/bi-vs-cbi-worked-example))
 - Specific loss of contracts
 - Specific loss of market / reputation
 - Specific loss of profit beyond BI cover
@@ -184,7 +184,7 @@ For specific premises types (high-profile commercial, specific high-density urba
 - Specific cyber-only loss — excluded
 - Specific industry-specific provisions
 
-**The current Singapore market.** Most Singapore PAR policies now include specific cyber exclusions with specific carve-out provisions. Standalone Cyber Liability (see [Article 167](#article-167)) addresses the cyber-specific scope.
+**The current Singapore market.** Most Singapore PAR policies now include specific cyber exclusions with specific carve-out provisions. Standalone Cyber Liability (see [Article 167](/comparison/cyber-tower-vs-single-policy)) addresses the cyber-specific scope.
 
 **The integration question.** For SMEs, the question is whether physical damage from cyber attack is covered:
 
@@ -205,7 +205,7 @@ Some PAR policies have specific commodity exclusions:
 
 **Specific All Risks Stock cover.**
 
-For specific high-value or substantial inventory, specific All Risks Stock cover (see [Article 154](#article-154)) addresses commodities that PAR may underinsure.
+For specific high-value or substantial inventory, specific All Risks Stock cover (see [Article 154](/edge-case/second-hand-luxury-reseller-insurance)) addresses commodities that PAR may underinsure.
 
 #### Specific underinsurance / average
 

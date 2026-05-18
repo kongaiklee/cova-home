@@ -138,7 +138,7 @@ For Singapore importers / exporters:
 - Specific bonded warehouse operations
 - Operational considerations
 
-Per [Singapore Customs framework](https://www.customs.gov.sg/) (see [Article 161](#article-161) on import / export trader operations).
+Per [Singapore Customs framework](https://www.customs.gov.sg/) (see [Article 161](/decision-tree/opening-import-export-trader-checklist) on import / export trader operations).
 
 #### Specific other bond types
 
@@ -206,7 +206,7 @@ Bank guarantees often easier for SMEs with strong credit / cash position; surety
 
 - Performance bonds standard for material projects
 - Maintenance bonds standard for defects liability periods
-- Specific HDB-RRC bond for renovation contractors (S$15,000 per [Article 75](#article-75))
+- Specific HDB-RRC bond for renovation contractors (S$15,000 per [Article 75](/document-legal/limitation-act-6-year-clock))
 - Commercial conventions
 
 **Customs / trade.**

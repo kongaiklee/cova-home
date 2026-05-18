@@ -24,7 +24,7 @@ og_description: "When a Singapore customer files for judicial management or a sc
 
 The IRDA came into force on 30 July 2020, consolidating the personal bankruptcy regime (formerly the Bankruptcy Act, Cap 20) and the corporate insolvency and restructuring regime (formerly in the Companies Act, Cap 50) into one 527-section omnibus. The Bankruptcy Act was repealed; the insolvency-related provisions of the Companies Act 1967 were deleted on the same commencement date. 48 pieces of subsidiary legislation came into force concurrently. The statute is commonly referenced as "IRDA 2018" by year of enactment, not "CIRA 2018" which is a separate informal name sometimes used in early commentary.
 
-The statute does not affect Singapore insurers, which remain governed by their own resolution regime under Part 3AA of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) (see [Article 262](#article-262)).
+The statute does not affect Singapore insurers, which remain governed by their own resolution regime under Part 3AA of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) (see [Article 262](/regulatory-change/insurer-resolution-singapore-policyholder-position)).
 
 #### What changed and why it matters
 
@@ -180,11 +180,11 @@ For an SME's directors, the wrongful trading section 239 IRDA defence requires t
 
 ### Related Information
 
-- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](#article-262)
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](#article-263)
-- [Article 268 — SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](#article-268)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](#article-291)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
+- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
+- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 268 — SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

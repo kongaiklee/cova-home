@@ -60,7 +60,7 @@ The second decision point distinguishes service scope.
 
 **Regtech scope** — operator provides compliance technology. Operational scope.
 
-**Cryptocurrency / digital asset scope** (per [Article 222](#article-222)) — operator provides digital asset services. Operational considerations.
+**Cryptocurrency / digital asset scope** (per [Article 222](/edge-case/cryptocurrency-web3-operator-insurance)) — operator provides digital asset services. Operational considerations.
 
 **Buy-Now-Pay-Later (BNPL) scope** — operator provides BNPL services. Operational considerations.
 
@@ -128,7 +128,7 @@ For Singapore fintech startup SMEs, foundational cover stack includes several el
 
 **BI cover** — for operational disruption.
 
-**Specific Crime / Specie cover** — where applicable for cryptocurrency / digital asset custody scope (per [Article 222](#article-222)).
+**Specific Crime / Specie cover** — where applicable for cryptocurrency / digital asset custody scope (per [Article 222](/edge-case/cryptocurrency-web3-operator-insurance)).
 
 **Specific Bankers Blanket Bond (BBB) / Financial Institution Bond** — where applicable for specific financial institution scope.
 

@@ -18,7 +18,7 @@ og_description: "\"Utmost good faith\" (uberrimae fidei) is the foundational doc
 
 > **The Answer in 60 Seconds**
 >
-> "Utmost good faith" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial contracts. Singapore inherits the common-law doctrine via [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) (Sections 17, 18, 19 — applicable directly to marine and by analogy to non-marine insurance) and through judicial development. The doctrine imposes a positive duty of disclosure on the insured before contract formation: every material fact that would influence a prudent insurer's underwriting decision must be disclosed, even if not specifically asked. Singapore courts apply this strictly. For Singapore SMEs, the doctrine has substantial practical implications: **proposal form discipline matters profoundly**, **non-disclosure can void cover at claim time**, **the standard is what a prudent insurer would consider material — not what the SME thinks is relevant**, and **the doctrine extends to renewals and amendments**, not just initial placement. The leading authority is *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [Article 186](#article-186)).
+> "Utmost good faith" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial contracts. Singapore inherits the common-law doctrine via [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) (Sections 17, 18, 19 — applicable directly to marine and by analogy to non-marine insurance) and through judicial development. The doctrine imposes a positive duty of disclosure on the insured before contract formation: every material fact that would influence a prudent insurer's underwriting decision must be disclosed, even if not specifically asked. Singapore courts apply this strictly. For Singapore SMEs, the doctrine has substantial practical implications: **proposal form discipline matters profoundly**, **non-disclosure can void cover at claim time**, **the standard is what a prudent insurer would consider material — not what the SME thinks is relevant**, and **the doctrine extends to renewals and amendments**, not just initial placement. The leading authority is *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test)).
 
 ### The Sourced Detail
 
@@ -41,7 +41,7 @@ While the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) applie
 
 #### What "material" means
 
-The materiality test was clarified in *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [Article 186](#article-186) for case-specific analysis):
+The materiality test was clarified in *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test) for case-specific analysis):
 
 A circumstance is material if it would influence the judgment of a prudent insurer in deciding:
 - Whether to take the risk
@@ -110,7 +110,7 @@ The doctrine creates operational obligations:
 
 **Comprehensive proposal form completion.** Standard fields plus volunteered material information.
 
-**Discussion of operations, claims history, near-misses with the broker / FA.** The broker's role under [FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) (see [Article 181](#article-181)) includes drawing out material facts the SME might not volunteer.
+**Discussion of operations, claims history, near-misses with the broker / FA.** The broker's role under [FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) (see [Article 181](/document-legal/faa-section-27-suitability-assessment)) includes drawing out material facts the SME might not volunteer.
 
 **Renewal discipline.** Material changes during the policy period need disclosure at renewal — operations expansion, new activities, claims history, regulatory issues, financial changes.
 

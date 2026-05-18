@@ -18,7 +18,7 @@ og_description: "A Singapore mobile beauty or wellness service provider (in-home
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa, beauty-on-demand) typically needs: **Public Liability with worldwide / Singapore-territorial scope** (since the practitioner is operating away from a fixed premises — many SME PLs default to specific premises only), **Treatment Risk / Beauty Therapy Liability** for treatment-related claims (allergic reactions, burns, eye injury from lash extensions, nail damage), **Equipment in Transit / Goods in Transit** for portable equipment and supplies, **Personal Property cover** for items at clients' homes, **WICA** if employing therapists (or appropriate self-employed PA cover for solo practitioners), and **Cyber Liability** for booking platform and customer data. The most distinctive risk: **operating without fixed premises** means standard SME PL with premises endorsement may not respond. Mobile beauty services need specific underwriting; generic SME PL almost always has gaps. For services involving aesthetic devices (LED, microcurrent, RF, laser), specific HSA-aware underwriting applies — see [Article 12](#article-12).
+> A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa, beauty-on-demand) typically needs: **Public Liability with worldwide / Singapore-territorial scope** (since the practitioner is operating away from a fixed premises — many SME PLs default to specific premises only), **Treatment Risk / Beauty Therapy Liability** for treatment-related claims (allergic reactions, burns, eye injury from lash extensions, nail damage), **Equipment in Transit / Goods in Transit** for portable equipment and supplies, **Personal Property cover** for items at clients' homes, **WICA** if employing therapists (or appropriate self-employed PA cover for solo practitioners), and **Cyber Liability** for booking platform and customer data. The most distinctive risk: **operating without fixed premises** means standard SME PL with premises endorsement may not respond. Mobile beauty services need specific underwriting; generic SME PL almost always has gaps. For services involving aesthetic devices (LED, microcurrent, RF, laser), specific HSA-aware underwriting applies — see [Article 12](/regulatory-change/pwa-jan-2025).
 
 ### The Sourced Detail
 
@@ -66,7 +66,7 @@ Platform-engaged practitioners may be:
 - Employees of platform (some models)
 - Hybrid arrangements
 
-WICA classification, see [Article 14](#article-14) on the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024).
+WICA classification, see [Article 14](/regulatory-change/fdw-stage-2-2025) on the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024).
 
 #### Stage-by-stage insurance build
 
@@ -184,7 +184,7 @@ For mobile services using aesthetic devices (LED therapy, microcurrent, RF, ultr
 
 **HSA registration:**
 - Specific devices require HSA registration
-- See [Article 12](#article-12) on aesthetic device regulation
+- See [Article 12](/regulatory-change/pwa-jan-2025) on aesthetic device regulation
 
 **Specific underwriting:**
 - Higher Treatment Risk Liability rates
@@ -352,7 +352,7 @@ Insurers underwrite mobile beauty on:
 7. **No personal safety protocols documented.** Practitioner welfare and incident response.
 8. **Customer address data not specifically protected.** PDPA exposure on sensitive data.
 9. **Patch testing / consent gaps.** Treatment-related claim defence weakened.
-10. **WICA misclassification for platform-engaged practitioners.** See [Article 67](#article-67) ([WICA Section 25](https://sso.agc.gov.sg/Act/WICA2019) misclassification).
+10. **WICA misclassification for platform-engaged practitioners.** See [Article 67](/document-legal/wica-section-25-offence) ([WICA Section 25](https://sso.agc.gov.sg/Act/WICA2019) misclassification).
 
 ### What This Means for Your Business
 

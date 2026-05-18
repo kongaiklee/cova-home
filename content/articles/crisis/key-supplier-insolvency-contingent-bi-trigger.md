@@ -22,7 +22,7 @@ og_description: "The Singapore SME's sole-source supplier (component, raw materi
 
 ### The Sourced Detail
 
-A key supplier's insolvency event is structurally different from a customer's insolvency event. The customer scenario in [Article 291](#article-291) concerns receivables and the SME as an unsecured creditor. The supplier scenario concerns ongoing operations and the SME as a contractually entitled buyer relying on the supplier for continued performance. The IRDA section 440 ipso facto stay operates in favour of the SME in this scenario, preventing the supplier or its appointed insolvency practitioner from terminating the contract by reason only of the insolvency event.
+A key supplier's insolvency event is structurally different from a customer's insolvency event. The customer scenario in [Article 291](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff) concerns receivables and the SME as an unsecured creditor. The supplier scenario concerns ongoing operations and the SME as a contractually entitled buyer relying on the supplier for continued performance. The IRDA section 440 ipso facto stay operates in favour of the SME in this scenario, preventing the supplier or its appointed insolvency practitioner from terminating the contract by reason only of the insolvency event.
 
 #### What just happened
 
@@ -170,11 +170,11 @@ For directors, the section 157 duty-of-diligence defence requires documented dec
 
 ### Related Information
 
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](#article-261)
-- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](#article-291)
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](#article-274)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](#article-277)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 300 — IT Vendor or SaaS Provider Disappearance](#article-300)
+- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 300 — IT Vendor or SaaS Provider Disappearance](/crisis/it-vendor-saas-disappearance)
 
 ---

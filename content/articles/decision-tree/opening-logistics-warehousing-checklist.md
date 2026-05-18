@@ -83,7 +83,7 @@ Third-party liability cover is mandatory under the [Motor Vehicles (Third-Party 
 
 Logistics operations carry substantial [WICA](https://sso.agc.gov.sg/Act/WICA2019) exposure. Warehouse staff (loading, unloading, picking, packing), drivers, and yard staff are all within WICA, and the high-frequency injuries are lifting and strain injuries, equipment-related injuries (forklifts, conveyors), falls during loading and unloading or work at height, and traffic and vehicle-related injuries.
 
-A **Common-Law / Employer's Liability extension** is generally appropriate for logistics, given the WSHA exposure (see [Article 22](#article-22)) and the higher-risk operations. Where subcontractors are used, their staff are covered by their own WICA — coordinate this through subcontractor agreements and verify their cover.
+A **Common-Law / Employer's Liability extension** is generally appropriate for logistics, given the WSHA exposure (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)) and the higher-risk operations. Where subcontractors are used, their staff are covered by their own WICA — coordinate this through subcontractor agreements and verify their cover.
 
 #### Cyber considerations
 
@@ -124,7 +124,7 @@ The Cyber exposures worth covering: BEC on customer and supplier payments; opera
 - **Pharmaceutical** — the HSA framework, high commodity values, and quality-assurance obligations.
 - **Dangerous goods** — dedicated licensing, operational standards, incident response, and their own underwriting considerations.
 - **E-commerce fulfilment** — consumer-facing operations with platform integration and heightened Cyber considerations.
-- **Last-mile delivery** — transport-heavy, often platform-based, raising WICA / contractor-classification questions under the Platform Workers Act (see [Article 12](#article-12)).
+- **Last-mile delivery** — transport-heavy, often platform-based, raising WICA / contractor-classification questions under the Platform Workers Act (see [Article 12](/regulatory-change/pwa-jan-2025)).
 
 #### Premium considerations
 

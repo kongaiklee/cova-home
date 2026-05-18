@@ -199,11 +199,11 @@ The right structure depends on workforce composition, sector, premium budget, an
 
 #### Coordination with related changes
 
-**Per [Article 350](#article-350)** — group medical renewal with claims history: redesign creates renegotiation backdrop as utilisation patterns adjust.
+**Per [Article 350](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)** — group medical renewal with claims history: redesign creates renegotiation backdrop as utilisation patterns adjust.
 
-**Per [Article 352](#article-352)** — MWMI Stage 2 (foreign workers): IP redesign doesn't affect Work Permit / S Pass holders directly but coordinates with overall medical insurance landscape.
+**Per [Article 352](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)** — MWMI Stage 2 (foreign workers): IP redesign doesn't affect Work Permit / S Pass holders directly but coordinates with overall medical insurance landscape.
 
-**Per [Article 342](#article-342)** — FIDReC small business: group medical disputes for SMEs ≤ SGD 1m turnover now within FIDReC scope.
+**Per [Article 342](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)** — FIDReC small business: group medical disputes for SMEs ≤ SGD 1m turnover now within FIDReC scope.
 
 ### Common Mistakes / What Goes Wrong
 

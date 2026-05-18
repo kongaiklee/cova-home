@@ -80,7 +80,7 @@ Specified personal lines issued to individuals only, where the risks arise in Si
 
 PPF coverage is 100% with no caps for general insurance, except: statutory limits for compulsory insurance; S$50,000 for own property damage motor claims under personal motor policies; S$300,000 for property damage claims under personal property (structure and contents) policies.
 
-Commercial-lines general insurance issued to non-individuals is generally not PPF-protected, except for the compulsory portions of motor and WICA cover. Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers Liability, and Trade Credit are outside PPF protection for SME policyholders. (See [Article 268](#article-268) for the full PPF Scheme architecture.)
+Commercial-lines general insurance issued to non-individuals is generally not PPF-protected, except for the compulsory portions of motor and WICA cover. Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers Liability, and Trade Credit are outside PPF protection for SME policyholders. (See [Article 268](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage) for the full PPF Scheme architecture.)
 
 PPF coverage scope for life insurance: all life policies including riders issued by PPF Scheme members, covering guaranteed benefits only, subject to caps published at SDIC.
 
@@ -206,11 +206,11 @@ For an SME notified of a court-sanctioned scheme of transfer, the structural rea
 
 ### Related Information
 
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](#article-261)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](#article-264)
-- [Article 268 — SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](#article-268)
-- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](#article-410)
-- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](#article-251)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
+- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 268 — SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
+- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
+- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

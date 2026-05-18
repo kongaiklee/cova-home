@@ -84,7 +84,7 @@ A breach affecting 500 or more individuals is notifiable regardless of the signi
 
 #### CSA notification (if CII)
 
-Per the [Cybersecurity Act 2018 with 2024 amendments](https://sso.agc.gov.sg/Act/CA2018), for [CSA-designated CII](https://www.csa.gov.sg/) (see [Article 148](#article-148)):
+Per the [Cybersecurity Act 2018 with 2024 amendments](https://sso.agc.gov.sg/Act/CA2018), for [CSA-designated CII](https://www.csa.gov.sg/) (see [Article 148](/document-legal/cybersecurity-act-cii-obligations)):
 
 **2-hour reporting:**
 

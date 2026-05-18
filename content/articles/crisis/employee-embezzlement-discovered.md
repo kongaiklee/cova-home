@@ -18,7 +18,7 @@ og_description: "First, do not confront the employee. Preserve evidence quietly:
 
 > **The Answer in 60 Seconds**
 >
-> First, do **not** confront the employee. Preserve evidence quietly: lock email, retain server logs, secure physical records, take backups. **File a police report** — Singapore Police Force or the [Commercial Affairs Department (CAD)](https://www.police.gov.sg/) for material commercial fraud — most [Fidelity Guarantee (FG)](#article-48) policies require a police report as a condition precedent. **Notify your FG insurer** within the policy notification window (often days to weeks of discovery). Engage a **forensic accountant** (insurer often has a panel) to quantify the loss. Engage **employment counsel** before any disciplinary action — botched dismissal can complicate the claim. Document the discovery, the audit trail, and the chronology in a timestamped record. Most FG policies have **discovery period restrictions** (typically the act must be discovered within the policy period or within 3–6 months after termination of policy or employment).
+> First, do **not** confront the employee. Preserve evidence quietly: lock email, retain server logs, secure physical records, take backups. **File a police report** — Singapore Police Force or the [Commercial Affairs Department (CAD)](https://www.police.gov.sg/) for material commercial fraud — most [Fidelity Guarantee (FG)](/procedural-howto/fidelity-guarantee-employee-theft-claim) policies require a police report as a condition precedent. **Notify your FG insurer** within the policy notification window (often days to weeks of discovery). Engage a **forensic accountant** (insurer often has a panel) to quantify the loss. Engage **employment counsel** before any disciplinary action — botched dismissal can complicate the claim. Document the discovery, the audit trail, and the chronology in a timestamped record. Most FG policies have **discovery period restrictions** (typically the act must be discovered within the policy period or within 3–6 months after termination of policy or employment).
 
 ### The Step-by-Step
 
@@ -144,7 +144,7 @@ Standard FG claim file (per typical Singapore wordings, e.g. [Tokio Marine](http
 - **Employee scope:** named-position vs all-employee policies differ; check that the dishonest employee is within scope.
 - **Recovery offset:** outstanding salary, CPF, bonuses owed to employee are typically offset against the claim payment.
 
-See [Article 48](#article-48) for full FG mechanics.
+See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim) for full FG mechanics.
 
 #### Civil recovery and subrogation
 

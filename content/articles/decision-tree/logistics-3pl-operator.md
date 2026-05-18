@@ -100,9 +100,9 @@ For Singapore logistics / 3PL SMEs, foundational cover stack includes several el
 
 **Goods in Transit / Marine Cargo / Carriers Liability** — foundational with specific provisions for goods in transport scope. Considerations on limits, specific scope coordination.
 
-**Property/Fire** — for warehouse and equipment scope. Considerations on adequate sum insured (per [Article 196](#article-196) on average clause).
+**Property/Fire** — for warehouse and equipment scope. Considerations on adequate sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause).
 
-**Equipment Breakdown** (per [Article 209](#article-209)) — for warehouse and transport equipment dependencies. Particularly relevant for cold chain operations.
+**Equipment Breakdown** (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) — for warehouse and transport equipment dependencies. Particularly relevant for cold chain operations.
 
 **Commercial Motor** — for transport scope. Mandatory under [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960).
 

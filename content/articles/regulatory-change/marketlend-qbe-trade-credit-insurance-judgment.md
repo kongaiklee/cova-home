@@ -101,7 +101,7 @@ For SMEs:
 
 **Point 4 — Fair presentation duty.**
 
-Per [Article 356](#article-356) (OCBC v Argoglobal), Singapore court has engaged with UK Insurance Act 2015 fair presentation principles. For TCI, this means full disclosure of trading practice, counterparty patterns, and historical performance at policy inception.
+Per [Article 356](/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11) (OCBC v Argoglobal), Singapore court has engaged with UK Insurance Act 2015 fair presentation principles. For TCI, this means full disclosure of trading practice, counterparty patterns, and historical performance at policy inception.
 
 #### TCI in Singapore SME context
 

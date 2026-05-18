@@ -18,7 +18,7 @@ og_description: "WICA cover (mandatory under WICA 2019 Section 24) and Common-La
 
 > **The Answer in 60 Seconds**
 >
-> WICA cover (mandatory under [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019)) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance components that together address Singapore employer workplace injury exposure. **WICA cover** responds to compensation under the WICA framework — capped at statutory limits (currently S$269k death, S$346k total PI, S$53k medical per [1 November 2025 increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). It must be procured from one of the [24 designated insurers](https://www.mom.gov.sg/) (see [Article 169](#article-169)) and is criminally enforced. **CW/EL extension** responds to common-law negligence claims by employees against employers — claims for damages exceeding WICA caps where employer negligence is established. The extension is operationally essential because the gap between WICA caps (S$346k) and actual claim values for severe injuries (often S$500k-S$2M+) is substantial. The two work together: WICA handles the statutory compensation; CW/EL handles the common-law gap. For Singapore SMEs, both components are typically procured as a single package from the same designated insurer.
+> WICA cover (mandatory under [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019)) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance components that together address Singapore employer workplace injury exposure. **WICA cover** responds to compensation under the WICA framework — capped at statutory limits (currently S$269k death, S$346k total PI, S$53k medical per [1 November 2025 increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). It must be procured from one of the [24 designated insurers](https://www.mom.gov.sg/) (see [Article 169](/comparison/wica-designated-insurer-panel)) and is criminally enforced. **CW/EL extension** responds to common-law negligence claims by employees against employers — claims for damages exceeding WICA caps where employer negligence is established. The extension is operationally essential because the gap between WICA caps (S$346k) and actual claim values for severe injuries (often S$500k-S$2M+) is substantial. The two work together: WICA handles the statutory compensation; CW/EL handles the common-law gap. For Singapore SMEs, both components are typically procured as a single package from the same designated insurer.
 
 ### The Sourced Detail
 
@@ -34,13 +34,13 @@ The combination of WICA cover and CW/EL extension addresses the integrated workp
 - Total permanent incapacity: S$346,000
 - Medical expenses: S$53,000
 
-**Specific scope.** Per the WICA framework (see [Article 5](#article-5) and [Article 173](#article-173)):
+**Specific scope.** Per the WICA framework (see [Article 5](/association/casetrust-spa-wellness-prepayment-protection) and [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
 - All manual workers, regardless of salary
 - Non-manual workers earning S$2,600/month or below
 - Specific scope determinations per the Act
 
-**Mandatory procurement.** WICA cover must be procured from one of MOM's designated insurers (24 panel as of 1 January 2026 for standard employers; 6 panel for platform operators per [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024); see [Article 169](#article-169)).
+**Mandatory procurement.** WICA cover must be procured from one of MOM's designated insurers (24 panel as of 1 January 2026 for standard employers; 6 panel for platform operators per [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024); see [Article 169](/comparison/wica-designated-insurer-panel)).
 
 **Specific claims handling.** WICA claims operate through a relatively standardised process:
 
@@ -65,7 +65,7 @@ The combination of WICA cover and CW/EL extension addresses the integrated workp
 - Fault-based (employee must prove negligence)
 - No statutory cap on damages
 - Standard tort principles apply
-- Specific [WSHA Section 48](#article-22) personal director liability considerations
+- Specific [WSHA Section 48](/licensing/bca-me-workhead-contractor-insurance-requirements) personal director liability considerations
 
 **Specific limit considerations:**
 
@@ -116,7 +116,7 @@ Where both WICA and CW/EL respond, the employee cannot double-recover:
 
 For director-level personal exposure under [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006):
 
-- D&O may respond (see [Article 184](#article-184))
+- D&O may respond (see [Article 184](/document-legal/companies-act-section-157-director-duties))
 - Specific coordination with CW/EL matters
 
 #### The procurement architecture
@@ -223,7 +223,7 @@ The CW/EL extension premium typically modest (often 10-30% addition to WICA prem
 
 **1 November 2025 WICA limit increases.**
 
-Per [MOM press release 8 February 2024](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), WICA limits increased substantially (see [Article 173](#article-173)):
+Per [MOM press release 8 February 2024](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), WICA limits increased substantially (see [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
 - Death: S$225k → S$269k
 - Total PI: S$289k → S$346k
@@ -233,7 +233,7 @@ The increases reduce the WICA-CW/EL gap modestly but the gap remains substantial
 
 **Platform Workers Act framework.**
 
-For platform operators under [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (see [Article 170](#article-170)):
+For platform operators under [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)):
 
 - Platform operators procure WICA-equivalent cover from 6-insurer panel
 - Specific framework parallel to standard WICA

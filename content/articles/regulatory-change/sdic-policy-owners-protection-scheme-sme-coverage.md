@@ -32,7 +32,7 @@ PPF coverage for general insurance, per SDIC published material:
 
 **Compulsory insurance under the Motor Vehicles (Third-Party Risks and Compensation) Act 1960.** This is the mandatory third-party bodily-injury cover that every motor vehicle on a road or in a public place in Singapore must hold. PPF covers the statutory liability with no monetary cap (the cover follows the statutory obligation, which is itself unlimited for compulsory third-party death and bodily-injury liability under the MV Act).
 
-**Compulsory insurance under the Work Injury Compensation Act 2019.** This is the mandatory work injury compensation cover that every employer of manual employees and non-manual employees earning S$2,600 per month or less must hold from an MOM Designated Insurer. PPF covers the statutory liability (with the 1 November 2025 uplifted limits: death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000; see [Article 264](#article-264)).
+**Compulsory insurance under the Work Injury Compensation Act 2019.** This is the mandatory work injury compensation cover that every employer of manual employees and non-manual employees earning S$2,600 per month or less must hold from an MOM Designated Insurer. PPF covers the statutory liability (with the 1 November 2025 uplifted limits: death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000; see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Specified personal lines issued to individuals only.** Personal motor (covering both compulsory and own-damage with caps as below), personal accident, personal medical / health, personal property (structure and contents), domestic helper personal accident, and other personal lines as specified by SDIC.
 
@@ -208,11 +208,11 @@ For SMEs procuring captive-issued cover or specialist-line cover, PPF protection
 
 ### Related Information
 
-- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](#article-262)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](#article-264)
-- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](#article-410)
-- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](#article-251)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](#article-261)
+- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
+- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
+- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
 
 ---

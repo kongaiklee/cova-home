@@ -22,7 +22,7 @@ og_description: "The Singapore SME is in a joint venture (incorporated SPV or co
 
 ### The Sourced Detail
 
-A joint venture or partnership breakdown is structurally distinct from a shareholder dispute within a single company (covered in [Article 297](#article-297)). The JV scenario involves two or more independent parties (or their corporate vehicles) jointly operating a business through an SPV, a contractual JV, or a partnership structure. The breakdown affects not just the JV itself but the constituent parties' separate operations, customer relationships, and IP holdings.
+A joint venture or partnership breakdown is structurally distinct from a shareholder dispute within a single company (covered in [Article 297](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)). The JV scenario involves two or more independent parties (or their corporate vehicles) jointly operating a business through an SPV, a contractual JV, or a partnership structure. The breakdown affects not just the JV itself but the constituent parties' separate operations, customer relationships, and IP holdings.
 
 The structural rule: the JV agreement (or partnership agreement) is the primary governing document; statutory frameworks apply only to fill gaps or where the agreement is silent or unenforceable; preserved relationships with customers, suppliers, and employees are essential to the eventual unwinding.
 
@@ -118,7 +118,7 @@ Most Singapore SME JV agreements (whether for incorporated SPV JVs or contractua
 
 **Run-off cover.** On JV dissolution, run-off cover protects departing directors for past acts during their tenure on the JV board. Standard 6-year run-off.
 
-**Crime / Fidelity.** If dispute reveals misappropriation by one partner (diversion of JV funds, theft of JV assets), Crime cover responds (see [Article 279](#article-279) and [Article 293](#article-293)).
+**Crime / Fidelity.** If dispute reveals misappropriation by one partner (diversion of JV funds, theft of JV assets), Crime cover responds (see [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) and [Article 293](/crisis/internal-fraud-cfo-embezzlement-day-one-workflow)).
 
 **Professional Indemnity.** If JV provides professional services, PI responds to claims by JV clients arising from professional negligence. PI cover continues through the JV's operational period; on dissolution, run-off cover preserves protection for past acts.
 
@@ -214,11 +214,11 @@ For directors of JV companies, continuing section 157 Companies Act 1967 duty ap
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 296 — Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](#article-296)
-- [Article 297 — Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](#article-297)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](#article-393)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](#article-279)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 296 — Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](/crisis/director-death-sudden-incapacity-key-person-event)
+- [Article 297 — Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)
+- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

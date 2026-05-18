@@ -168,7 +168,7 @@ Different claim types have different time bars:
 - **Personal injury:** 3 years from knowledge ([Section 24A](https://sso.agc.gov.sg/Act/LA1959))
 - **Latent damage (other than PI):** 6 years from accrual or 3 years from knowledge, with 15-year long-stop ([Section 24A](https://sso.agc.gov.sg/Act/LA1959))
 
-If the customer is suing within the limitation period, the claim is procedurally valid even if the underlying facts are old. See [Article 75](#article-75).
+If the customer is suing within the limitation period, the claim is procedurally valid even if the underlying facts are old. See [Article 75](/document-legal/limitation-act-6-year-clock).
 
 ### Common Mistakes / What Goes Wrong
 
@@ -189,7 +189,7 @@ Civil litigation is a structured, slow-moving process. The instinct on receiving
 
 For Singapore SMEs, the practical preparation that helps if it happens:
 
-1. **Maintain liability insurance appropriate to your risk profile.** PL, Product Liability, PI, D&O, EPL, Cyber — each addresses a different exposure. See [Article 71](#article-71) on D&O/PI/EPL.
+1. **Maintain liability insurance appropriate to your risk profile.** PL, Product Liability, PI, D&O, EPL, Cyber — each addresses a different exposure. See [Article 71](/comparison/do-vs-pi-vs-epl) on D&O/PI/EPL.
 
 2. **Document customer relationships systematically.** Contracts, communications, deliverables, complaints, resolutions — all should be retrievable.
 

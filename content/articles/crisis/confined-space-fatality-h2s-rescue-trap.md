@@ -161,7 +161,7 @@ Training certifications expired but work continued.
 
 **WICA designated insurer.**
 - Activated immediately for all casualties
-- Per [Article 271](#article-271) WICA framework: SGD 53,000 medical, SGD 116,000-346,000 PI, SGD 91,000-269,000 death (effective 1 November 2025)
+- Per [Article 271](/comparison/claims-made-vs-occurrence-cover) WICA framework: SGD 53,000 medical, SGD 116,000-346,000 PI, SGD 91,000-269,000 death (effective 1 November 2025)
 - Multi-casualty single incident impacts aggregate
 
 **Employer's liability / common law.**

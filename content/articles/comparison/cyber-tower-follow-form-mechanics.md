@@ -18,7 +18,7 @@ og_description: "Cyber tower structures (covered conceptually in Article 167) co
 
 > **The Answer in 60 Seconds**
 >
-> Cyber tower structures (covered conceptually in [Article 167](#article-167)) coordinate across layers through "follow-form" mechanics — excess layers adopting the terms of the primary policy. The coordination matters because gaps between layers create coverage discontinuity exactly where SMEs need cover most. Key follow-form considerations: **definitions consistency** (covered events, claim, loss, etc. defined identically), **exclusions consistency** (excess insurer cannot exclude what primary covers, with specific carve-outs documented), **notification consistency** (single notification protocol across layers), **defence cooperation consistency** (single defence coordination), **drop-down provisions** (whether excess responds if primary insolvent), and **specific allocation provisions** (how mixed claims are allocated). For Singapore SMEs at substantial Cyber limits (S$10M+), tower follow-form mechanics are commercial sophistication that specialist multinational brokers handle. Understanding the framework helps SMEs participate effectively in tower structuring and identify potential gaps before they manifest at claim time.
+> Cyber tower structures (covered conceptually in [Article 167](/comparison/cyber-tower-vs-single-policy)) coordinate across layers through "follow-form" mechanics — excess layers adopting the terms of the primary policy. The coordination matters because gaps between layers create coverage discontinuity exactly where SMEs need cover most. Key follow-form considerations: **definitions consistency** (covered events, claim, loss, etc. defined identically), **exclusions consistency** (excess insurer cannot exclude what primary covers, with specific carve-outs documented), **notification consistency** (single notification protocol across layers), **defence cooperation consistency** (single defence coordination), **drop-down provisions** (whether excess responds if primary insolvent), and **specific allocation provisions** (how mixed claims are allocated). For Singapore SMEs at substantial Cyber limits (S$10M+), tower follow-form mechanics are commercial sophistication that specialist multinational brokers handle. Understanding the framework helps SMEs participate effectively in tower structuring and identify potential gaps before they manifest at claim time.
 
 ### The Sourced Detail
 
@@ -248,11 +248,11 @@ Tower structures typically use multiple insurers:
 
 **Healthcare.** Substantial towers given PDPA significant-harm exposure for medical data.
 
-**Technology / SaaS.** Substantial towers common given customer-facing exposure (see [Article 191](#article-191) on Tech E&O coordination).
+**Technology / SaaS.** Substantial towers common given customer-facing exposure (see [Article 191](/comparison/pi-vs-tech-eo-for-saas) on Tech E&O coordination).
 
-**CII / FDI operators.** Substantial towers driven by [Cybersecurity Act 2018 framework](https://sso.agc.gov.sg/Act/CA2018) (see [Article 172](#article-172)).
+**CII / FDI operators.** Substantial towers driven by [Cybersecurity Act 2018 framework](https://sso.agc.gov.sg/Act/CA2018) (see [Article 172](/regulatory-change/cybersecurity-act-2024-first-year)).
 
-**Multinational operations.** Substantial towers often required by US class-action exposure (see [Article 166](#article-166) on US operations).
+**Multinational operations.** Substantial towers often required by US class-action exposure (see [Article 166](/cross-border/sg-sme-us-operations) on US operations).
 
 #### Specific Singapore market considerations
 
@@ -298,7 +298,7 @@ For Singapore SMEs with cross-border operations:
 - Operational considerations
 - Specific specialist multinational broker engagement
 
-These structures interact with the Master/Local vs DIC/DIL choice (see [Article 190](#article-190)).
+These structures interact with the Master/Local vs DIC/DIL choice (see [Article 190](/comparison/master-local-vs-dic-dil-multinational)).
 
 ### Common Mistakes / What Goes Wrong
 

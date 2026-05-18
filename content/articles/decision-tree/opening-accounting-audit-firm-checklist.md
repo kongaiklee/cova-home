@@ -80,7 +80,7 @@ Many firms — particularly those auditing larger entities, public-interest enti
 #### The audit-specific risk profile
 
 **1. Long-tail latency.**
-Audit issues may not surface for years. The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year period typically applies, with potential extensions for fraud-related claims. Latent damage 15-year long-stop relevant in some scenarios. See [Article 75](#article-75).
+Audit issues may not surface for years. The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year period typically applies, with potential extensions for fraud-related claims. Latent damage 15-year long-stop relevant in some scenarios. See [Article 75](/document-legal/limitation-act-6-year-clock).
 
 **2. Multi-stakeholder exposure.**
 Audit reports are relied on by:
@@ -117,7 +117,7 @@ This is among the most commercially sensitive data sets any SME service business
 
 Cyber Liability for accounting/audit firms must address:
 
-**1. PDPA exposure** — see [Article 98](#article-98).
+**1. PDPA exposure** — see [Article 98](/document-legal/pdpa-section-24-protection-obligation).
 
 **2. Client confidentiality breach** — separate from PDPA but commercially material.
 
@@ -190,7 +190,7 @@ For firms handling:
 - Tax payment processing
 - Specialised escrow arrangements
 
-Fidelity Guarantee covering employee dishonesty is appropriate. See [Article 48](#article-48) and [Article 91](#article-91).
+Fidelity Guarantee covering employee dishonesty is appropriate. See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [Article 91](/crisis/employee-embezzlement-discovered).
 
 #### The ISCA framework
 

@@ -114,7 +114,7 @@ Dental practice has distinctive equipment dependency:
 - CAD/CAM milling units (CEREC, etc.)
 - 3D printers (increasingly common)
 
-**Equipment Breakdown specifically critical** — see [Article 116](#article-116). Compressor failure is a high-frequency claim line. Single-event failure can halt all chairs simultaneously.
+**Equipment Breakdown specifically critical** — see [Article 116](/crisis/equipment-breakdown-halts-production). Compressor failure is a high-frequency claim line. Single-event failure can halt all chairs simultaneously.
 
 **Spoilage considerations:**
 - Less critical than medical (limited refrigerated inventory)

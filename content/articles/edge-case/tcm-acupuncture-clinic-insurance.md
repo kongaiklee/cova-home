@@ -105,7 +105,7 @@ A common operational structure: the clinic entity is the legal counterparty (cli
 
 **E-commerce / online consultation.** TCM consultation by telemedicine has emerged. PI cover scope for telemedicine consultation needs explicit confirmation; some traditional PI wordings exclude or limit telemedicine consultation.
 
-**Herbal e-commerce.** Selling herbal products online creates product liability exposure beyond clinic-based dispensing. Different cover frame; cross-border sales create cross-border exposure (per [Article 86](#article-86), [Article 109](#article-109)).
+**Herbal e-commerce.** Selling herbal products online creates product liability exposure beyond clinic-based dispensing. Different cover frame; cross-border sales create cross-border exposure (per [Article 86](/cross-border/sg-sme-malaysia-branch), [Article 109](/cross-border/sg-sme-indonesian-operations)).
 
 ### Common Mistakes / What Goes Wrong
 

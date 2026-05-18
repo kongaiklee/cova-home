@@ -30,7 +30,7 @@ Watch retail and servicing concentrates extreme value density in compact, theft-
 
 **Precious stones and precious metals dealing.** A watch retailer is a "regulated dealer" under the [Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019](https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019), administered by the Ministry of Law, where it deals in watches that qualify as "precious products" (finished products priced above S$20,000, or deriving 50% or more of their value from precious stones or metals). Regulated dealers must register with the Registrar of Regulated Dealers and meet AML/CFT customer due diligence and reporting obligations.
 
-**Pawnbroker overlap.** Some watch retailers also operate pawnbroking-style buyback / consignment services; if so, [Pawnbrokers Act 2015](https://sso.agc.gov.sg/Act/PA2015) may apply (per [Article 332](#article-332)).
+**Pawnbroker overlap.** Some watch retailers also operate pawnbroking-style buyback / consignment services; if so, [Pawnbrokers Act 2015](https://sso.agc.gov.sg/Act/PA2015) may apply (per [Article 332](/edge-case/pawnshop-pawnbroker-insurance)).
 
 **Workplace safety.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019).
 

@@ -126,7 +126,7 @@ For SMEs with founder-CEO shareholdings facing divorce, the structurally importa
 
 **Cyber.** Where the dispute involves alleged misuse of confidential information or data exfiltration by a departing party, Cyber cover may respond.
 
-**Crime / Fidelity.** Where the dispute reveals diversion of assets or misappropriation by one party, Crime cover may respond. See [Article 279](#article-279) for the trigger architecture.
+**Crime / Fidelity.** Where the dispute reveals diversion of assets or misappropriation by one party, Crime cover may respond. See [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) for the trigger architecture.
 
 #### The 72-hour priorities
 
@@ -218,11 +218,11 @@ For founders going through divorce, the structurally important step is early eng
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 296 — Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](#article-296)
-- [Article 298 — JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](#article-298)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](#article-393)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](#article-279)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 296 — Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](/crisis/director-death-sudden-incapacity-key-person-event)
+- [Article 298 — JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](/crisis/jv-partnership-breakdown-allocation-run-off-dissolution)
+- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

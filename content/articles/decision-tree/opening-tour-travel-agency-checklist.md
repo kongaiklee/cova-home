@@ -75,7 +75,7 @@ A distinctive travel-agency exposure arises when a supplier fails — airline in
 
 Travel agencies are heavily targeted for cyber attacks, across four exposures:
 
-1. **BEC / social-engineering fraud** — high-frequency targeting of both supplier-payment and client-booking-fund flows; a successful BEC also disrupts operations (see [Article 90](#article-90)).
+1. **BEC / social-engineering fraud** — high-frequency targeting of both supplier-payment and client-booking-fund flows; a successful BEC also disrupts operations (see [Article 90](/crisis/vendor-ran-off-with-deposit)).
 2. **Customer data breaches** — agencies hold NRIC, contact, and financial data, and frequently passport details, so a breach carries real PDPA significant-harm exposure.
 3. **Credit card data** — payment processing brings PCI-DSS compliance obligations.
 4. **Operational disruption** — booking-system failures and platform dependencies.

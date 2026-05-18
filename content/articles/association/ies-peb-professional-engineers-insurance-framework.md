@@ -128,7 +128,7 @@ The principal insurance lines for Singapore SME engineering practices:
 
 **Public Liability (PL).** Required by client and main-contractor contracts. Coverage for third-party bodily injury and property damage from site visits and operations.
 
-**WICI 2019.** Statutorily compelled under WICA 2019 (see [Article 264](#article-264)).
+**WICI 2019.** Statutorily compelled under WICA 2019 (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Run-Off PI Cover.** Critical on PE retirement, partnership change, or firm cessation. Claims-made PI tail typically 6 to 12 years.
 
@@ -182,11 +182,11 @@ For IES-member engineers, the Chartered Engineer (Singapore) designation confers
 
 ### Related Information
 
-- [Article 271 — Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](#article-271)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 281 — Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications](#article-281)
-- [Article 283 — Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications](#article-283)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](#article-269)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](#article-264)
+- [Article 271 — Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 281 — Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications](/association/singapore-institute-of-architects-boa-insurance-framework)
+- [Article 283 — Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications](/association/sisv-land-surveyors-board-insurance-framework)
+- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 
 ---

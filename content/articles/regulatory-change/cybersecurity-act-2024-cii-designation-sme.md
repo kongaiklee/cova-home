@@ -177,7 +177,7 @@ Response workflow:
 - Day 1: cloud provider notifies MedTech F per the binding commitment under section 16A.
 - Day 1: MedTech F's incident response engaged via cyber policy 24/7 hotline.
 - Day 1 to 3: forensic assessment confirms scope.
-- Day 3: PDPA section 26D assessment under [Article 263](#article-263) — notifiable data breach (medical information is significant-harm; 4,200 exceeds significant-scale threshold of 500). PDPC notification due within 3 calendar days of assessment.
+- Day 3: PDPA section 26D assessment under [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day) — notifiable data breach (medical information is significant-harm; 4,200 exceeds significant-scale threshold of 500). PDPC notification due within 3 calendar days of assessment.
 - Day 3: CSA notification under section 14 Cybersecurity Act — the incident affects the CII and a supplier system; the expanded scope captures both.
 - Days 4 to 30: forensic investigation, customer notification, regulatory engagement.
 
@@ -234,11 +234,11 @@ For cyber insurance procurement, the wording should explicitly address: CSA Code
 
 ### Related Information
 
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](#article-263)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](#article-365)
-- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](#article-364)
-- [Article 278 — Cyber Architecture Tower vs Monoline Policy Comparison](#article-278)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](#article-277)
+- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
+- [Article 278 — Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 
 ---

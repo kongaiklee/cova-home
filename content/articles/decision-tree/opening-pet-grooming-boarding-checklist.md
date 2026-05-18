@@ -64,9 +64,9 @@ Animal Bailee / Care, Custody, Control liability cover. As discussed, this is th
 
 Professional Indemnity cover addressing advisory and grooming services scope. Grooming or care advice that materially affects animal outcomes creates advisory exposure.
 
-Property/Fire cover including specific provisions for animals on premises. Equipment Breakdown (per [Article 209](#article-209)) for specific equipment dependencies (HVAC critical for animal welfare, specific bathing / grooming equipment).
+Property/Fire cover including specific provisions for animals on premises. Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies (HVAC critical for animal welfare, specific bathing / grooming equipment).
 
-BI cover (per [Article 195](#article-195) and [Article 208](#article-208)) for operational disruption. Pet services operations have operational characteristics — premises-dependent, animal-dependent, commercial relationships. Indemnity period adequacy matters.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Pet services operations have operational characteristics — premises-dependent, animal-dependent, commercial relationships. Indemnity period adequacy matters.
 
 Commercial Crime / employee dishonesty cover. Where agencies handle client funds (boarding fees, specific other charges), Crime exposure exists. D&O cover for incorporated structures addressing director-level exposure. EPL cover addressing employment relationships. Cyber Liability for personal data scope (owner contact details, payment information, operational data).
 

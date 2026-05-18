@@ -108,11 +108,11 @@ The framework applies across industries with specific contextual variations:
 
 **Hospitality.** Specific guest expectations, specific 24-hour operations, specific event management considerations, specific recreation facility considerations.
 
-**Sport / fitness facilities.** Specific elevated risk profile (see [Articles 162](#article-162), [163](#article-163) on adventure sport / experiential venues). Specific equipment safety, specific supervision standards, specific waiver enforceability limits.
+**Sport / fitness facilities.** Specific elevated risk profile (see [Articles 162](/edge-case/bouldering-climbing-gym-insurance), [163](/edge-case/axe-throwing-experiential-venue-insurance) on adventure sport / experiential venues). Specific equipment safety, specific supervision standards, specific waiver enforceability limits.
 
 **Healthcare.** Specific elevated standards given vulnerable patient profile. Specific premises safety, specific clinical environment considerations.
 
-**Educational.** Specific child safety considerations (see [Article 150](#article-150) on tuition / enrichment centres). Specific elevated standards for minor visitors.
+**Educational.** Specific child safety considerations (see [Article 150](/decision-tree/opening-tuition-enrichment-centre-checklist) on tuition / enrichment centres). Specific elevated standards for minor visitors.
 
 **Professional services.** Lower risk profile generally. Specific office safety, specific reception area management.
 
@@ -149,7 +149,7 @@ See Toh's framework intersects with waivers and exclusion clauses:
 
 **Waivers.** Generally limited effectiveness for negligence claims under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) and Singapore common law. Operational scope and consumer protection considerations.
 
-**Specific industry waiver effectiveness.** Adventure sport, experiential venues, specific high-risk activities have specific waiver frameworks (per [Article 162](#article-162) and [Article 163](#article-163)). Even in these contexts, waivers don't generally exclude negligence liability.
+**Specific industry waiver effectiveness.** Adventure sport, experiential venues, specific high-risk activities have specific waiver frameworks (per [Article 162](/edge-case/bouldering-climbing-gym-insurance) and [Article 163](/edge-case/axe-throwing-experiential-venue-insurance)). Even in these contexts, waivers don't generally exclude negligence liability.
 
 **Exclusion clauses in commercial contracts.** Commercial relationships may include specific exclusion frameworks. Specific UCTA constraints apply.
 

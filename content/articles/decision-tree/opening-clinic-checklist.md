@@ -116,7 +116,7 @@ Equipment Breakdown responds to internal causes (mechanical, electrical, electro
 
 **10. Cyber Liability**
 
-Healthcare data is one of the highest-risk PDPA categories. Per the [Personal Data Protection (Notification of Data Breaches) Regulations 2021](https://sso.agc.gov.sg/SL/PDPA2012-S64-2021), health/medical information is in the "significant harm" categories — meaning even a single-patient breach involving health data is potentially notifiable to PDPC under [Section 26D](#article-66) regardless of the 500-individual threshold.
+Healthcare data is one of the highest-risk PDPA categories. Per the [Personal Data Protection (Notification of Data Breaches) Regulations 2021](https://sso.agc.gov.sg/SL/PDPA2012-S64-2021), health/medical information is in the "significant harm" categories — meaning even a single-patient breach involving health data is potentially notifiable to PDPC under [Section 26D](/document-legal/pdpa-section-26d-breach-notification) regardless of the 500-individual threshold.
 
 Cyber exposure for clinics:
 - Electronic Medical Records (EMR) systems
@@ -134,7 +134,7 @@ Recommended cover stack:
 - Coverage for third-party patient claims arising from data breach
 - Business interruption from cyber events
 
-For clinics serving CII-designated healthcare providers (e.g. SingHealth, NUHS) as referral networks, additional contractual cyber requirements may flow down — see [Article 76](#article-76).
+For clinics serving CII-designated healthcare providers (e.g. SingHealth, NUHS) as referral networks, additional contractual cyber requirements may flow down — see [Article 76](/document-legal/cybersecurity-act-cii-designation).
 
 **11. Data Protection Officer (DPO) and PDPA compliance**
 
@@ -156,7 +156,7 @@ Clinics sending samples to external laboratories (blood tests, biopsies, patholo
 
 **15. Directors & Officers (D&O)**
 
-For clinics structured as private limited companies with multiple directors/shareholders (particularly group practices and holding company structures), D&O is increasingly standard. See [Article 71](#article-71).
+For clinics structured as private limited companies with multiple directors/shareholders (particularly group practices and holding company structures), D&O is increasingly standard. See [Article 71](/comparison/do-vs-pi-vs-epl).
 
 #### Premium and limits considerations
 

@@ -62,7 +62,7 @@ The third decision point distinguishes personal data scope.
 
 **Cross-border data scope** — operator holds data across multiple jurisdictions. Specific multi-jurisdictional data protection framework scope.
 
-For each scope, specific Cyber Liability cover matters. Specific PDPA Section 26D notification framework (per [Article 66](#article-66)) creates operational discipline considerations regardless of scope.
+For each scope, specific Cyber Liability cover matters. Specific PDPA Section 26D notification framework (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) creates operational discipline considerations regardless of scope.
 
 #### Decision Point 4: Inventory and operational scope
 
@@ -72,7 +72,7 @@ The fourth decision point distinguishes inventory and operational scope.
 
 **Limited inventory (small-scale own-inventory)** — operator holds modest inventory (typically S$50k-S$500k inventory value). Specific Property/Fire and Goods in Transit scope.
 
-**Substantial inventory (substantive D2C operations)** — operator holds substantial inventory (S$500k-S$5M+ inventory value). Specific Property/Fire with adequate sum insured (per [Article 196](#article-196) on average clause), specific BI cover, specific Marine Cargo for cross-border inventory movement.
+**Substantial inventory (substantive D2C operations)** — operator holds substantial inventory (S$500k-S$5M+ inventory value). Specific Property/Fire with adequate sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause), specific BI cover, specific Marine Cargo for cross-border inventory movement.
 
 **Multi-warehouse operations** — operator operates across multiple warehouses or 3PL relationships. Specific aggregate scope considerations, considerations on multi-site operations.
 

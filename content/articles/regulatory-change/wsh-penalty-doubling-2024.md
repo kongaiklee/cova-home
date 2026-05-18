@@ -123,7 +123,7 @@ Composition, meeting frequency, review of incidents.
 Qualified personnel with formal designation.
 
 **Step 5 — Incident reporting.**
-Per [Article 341](#article-341) WICA framework: 10-day MOM reporting plus parallel insurer notification.
+Per [Article 341](/procedural-howto/how-to-file-wica-claim-singapore-mom) WICA framework: 10-day MOM reporting plus parallel insurer notification.
 
 **Step 6 — VSS for ≥ SGD 5m construction projects.**
 Pre-commencement installation; ongoing operation; recording retention.

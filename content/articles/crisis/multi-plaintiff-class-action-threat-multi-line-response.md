@@ -68,7 +68,7 @@ Several Singapore statutes provide statutory rights of action that, combined wit
 
 **PDPA 2012 section 48O — Right of Private Action.** Available on [SSO](https://sso.agc.gov.sg/Act/PDPA2012). In force from 1 February 2021 (substantially re-enacting the former section 32). "A person who suffers loss or damage directly as a result of a contravention of any provision in Part 3, 4, 4A, 5, 6, 6A or 6B by an organisation … has a right of action for relief in civil proceedings in a court." Reliefs include injunction, declaration, damages, and other relief.
 
-For a Singapore SME suffering a data breach affecting 500 or more individuals (the significant-scale threshold under [Article 263](#article-263)), section 48O exposure can produce 500 or more separate claims. The claimants may individually file, or may use Order 4 Rule 6 to consolidate into a representative action.
+For a Singapore SME suffering a data breach affecting 500 or more individuals (the significant-scale threshold under [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)), section 48O exposure can produce 500 or more separate claims. The claimants may individually file, or may use Order 4 Rule 6 to consolidate into a representative action.
 
 **Consumer Protection (Fair Trading) Act 2003 (CPFTA).** Available on [SSO](https://sso.agc.gov.sg/Act/CPFTA2003). Consumer-claim remedies for unfair practices. State Courts jurisdiction. The Consumers Association of Singapore (CASE) plays a representative role in coordinating consumer claims.
 
@@ -80,26 +80,26 @@ For a Singapore SME suffering a data breach affecting 500 or more individuals (t
 
 **Civil Law Act 1909.** Available on [SSO](https://sso.agc.gov.sg/Act/CLA1909). Joint-and-several liability, contribution between tortfeasors, and indemnification. The framework for allocating liability among multiple defendants where multiple insurance lines fire.
 
-**Companies Act 1967 section 216 — Personal Remedies in Cases of Oppression or Injustice.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). Multi-shareholder oppression actions can be conducted in a class-like manner with multiple minority parties (see [Article 297](#article-297)).
+**Companies Act 1967 section 216 — Personal Remedies in Cases of Oppression or Injustice.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). Multi-shareholder oppression actions can be conducted in a class-like manner with multiple minority parties (see [Article 297](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)).
 
 #### The multi-line insurance response
 
 Multiple insurance lines may fire simultaneously. The structural challenge is identifying all responsive lines, notifying each insurer within the policy window, allocating defence costs and indemnity across overlapping policies, and managing potential exhaustion concerns.
 
-**Directors and Officers Liability (D&O).** Side A and Side B for directors named in the action; Side C for the entity if listed and the action involves securities (see [Article 280](#article-280)). Allocation-of-loss provisions are critical when company and directors are co-defendants. Defence Costs Inside Limits (DCIL) architecture in most D&O wordings means defence erodes the indemnity pool (see [Article 273](#article-273)).
+**Directors and Officers Liability (D&O).** Side A and Side B for directors named in the action; Side C for the entity if listed and the action involves securities (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)). Allocation-of-loss provisions are critical when company and directors are co-defendants. Defence Costs Inside Limits (DCIL) architecture in most D&O wordings means defence erodes the indemnity pool (see [Article 273](/comparison/defense-costs-inside-vs-outside-limits-liability)).
 
-**Employment Practices Liability Insurance (EPL).** Discrimination, harassment, wrongful dismissal mass claims. Singapore EPL market is relatively undeveloped; many SMEs procure EPL as a module within Management Liability (see [Article 391](#article-391)). The WFA 2025 commencement will substantially elevate EPL relevance.
+**Employment Practices Liability Insurance (EPL).** Discrimination, harassment, wrongful dismissal mass claims. Singapore EPL market is relatively undeveloped; many SMEs procure EPL as a module within Management Liability (see [Article 391](/comparison/epl-standalone-vs-bundled-management-liability-sme)). The WFA 2025 commencement will substantially elevate EPL relevance.
 
 **Product Liability.** Bodily injury and property damage from defective product. Singapore market wordings typically include a "financial loss" extension covering pure economic loss in some circumstances, but the cover is sub-limited.
 
 **Cyber Liability.** Data-breach third-party liability under PDPA section 48O. Multi-plaintiff data-breach exposure is the principal driver of large Singapore cyber claims.
 
-**Public Liability / General Liability.** Premises and operations bodily injury and property damage. For multi-victim Public Liability events (e.g., F&B premises mass food poisoning), the per-occurrence vs aggregate structure (see [Article 272](#article-272)) is the binding constraint.
+**Public Liability / General Liability.** Premises and operations bodily injury and property damage. For multi-victim Public Liability events (e.g., F&B premises mass food poisoning), the per-occurrence vs aggregate structure (see [Article 272](/comparison/per-occurrence-vs-aggregate-limits)) is the binding constraint.
 
 **Allocation issues across lines:**
 - "Other insurance" clauses determine which policy pays first when multiple policies respond. Standard wordings vary between "excess" and "rateable" allocation.
 - Exhaustion concerns: if one line is exhausted by defence costs, the SME may be left without indemnity for settlement or judgment.
-- Defence-within-limits vs defence-outside-limits structures (see [Article 273](#article-273)) determine the practical pool available for indemnity.
+- Defence-within-limits vs defence-outside-limits structures (see [Article 273](/comparison/defense-costs-inside-vs-outside-limits-liability)) determine the practical pool available for indemnity.
 - Coverage-allocation counsel: where multiple lines fire, coverage-allocation lawyers are typically engaged separately from defence counsel to manage allocation negotiations among insurers.
 
 #### The 72-hour priorities
@@ -180,7 +180,7 @@ For consumer or product-defect class threats, mediation under SMC auspices can p
 
 8. **Ignoring the Workplace Fairness Act 2025 commencement timeline.** The WFA framework substantially elevates SME EPL exposure when in force (anticipated end-2027). SMEs at or near the 25-employee threshold should begin grievance-handling procedure development and EPL cover sizing before commencement.
 
-9. **Underestimating defence-cost erosion under DCIL architecture.** For D&O on DCIL architecture (Singapore market default for D&O, see [Article 273](#article-273)), defence costs erode the indemnity pool. Long-running class litigation can exhaust limits before settlement.
+9. **Underestimating defence-cost erosion under DCIL architecture.** For D&O on DCIL architecture (Singapore market default for D&O, see [Article 273](/comparison/defense-costs-inside-vs-outside-limits-liability)), defence costs erode the indemnity pool. Long-running class litigation can exhaust limits before settlement.
 
 10. **Failing to test arbitration-clause enforceability.** Where the SME's customer terms or employment contracts include arbitration clauses, plaintiffs may seek to circumvent them. The SME's counsel should specifically test enforceability and consider applications to stay proceedings.
 
@@ -204,11 +204,11 @@ For an SME with customer terms or product terms exposing it to PDPA section 48O 
 
 ### Related Information
 
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](#article-263)
-- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](#article-267)
-- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](#article-273)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](#article-391)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

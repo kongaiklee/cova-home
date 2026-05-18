@@ -18,7 +18,7 @@ og_description: "Singapore's employment framework continues to evolve through 20
 
 > **The Answer in 60 Seconds**
 >
-> Singapore's employment framework continues to evolve through 2026 across multiple dimensions: the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025), passed but not yet in force — commencement expected by end-2027 (see [Article 171](#article-171)), the [Platform Workers Act 2024 (PWA)](https://sso.agc.gov.sg/Act/PWA2024) phased CPF implementation (see [Article 170](#article-170)), the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) post-1 November 2025 limit increases (see [Article 173](#article-173)), specific [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) framework refinements, and specific [TAFEP](https://www.tafep.sg/) guidance evolution. Insurance implications are substantial: **EPL becomes substantially more relevant** given expanded statutory claim landscape, **WICA renewal cycles reflect post-2025 increases**, **specific industry-specific provisions** continue to evolve. For Singapore SME founders and HR leaders: **annual employment framework review is foundational** rather than optional, and **coordinated EPL / WICA / D&O cover** addresses the integrated risk landscape.
+> Singapore's employment framework continues to evolve through 2026 across multiple dimensions: the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025), passed but not yet in force — commencement expected by end-2027 (see [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)), the [Platform Workers Act 2024 (PWA)](https://sso.agc.gov.sg/Act/PWA2024) phased CPF implementation (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)), the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) post-1 November 2025 limit increases (see [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)), specific [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) framework refinements, and specific [TAFEP](https://www.tafep.sg/) guidance evolution. Insurance implications are substantial: **EPL becomes substantially more relevant** given expanded statutory claim landscape, **WICA renewal cycles reflect post-2025 increases**, **specific industry-specific provisions** continue to evolve. For Singapore SME founders and HR leaders: **annual employment framework review is foundational** rather than optional, and **coordinated EPL / WICA / D&O cover** addresses the integrated risk landscape.
 
 ### The Sourced Detail
 
@@ -55,7 +55,7 @@ Per [TAFEP framework](https://www.tafep.sg/):
 
 **1. WFA — passed, not yet in force:**
 
-Per [Article 171](#article-171):
+Per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation):
 
 - The Workplace Fairness Act 2024 is passed but uncommenced; commencement is expected by end-2027
 - Employers with fewer than 25 employees will be exempt for the first five years after commencement
@@ -63,14 +63,14 @@ Per [Article 171](#article-171):
 
 **2. PWA phased implementation:**
 
-Per [Article 170](#article-170):
+Per [Article 170](/regulatory-change/platform-workers-act-first-year-review):
 
 - Specific CPF rate phasing
 - Operational operational standards
 
 **3. WICA post-1 November 2025 framework:**
 
-Per [Article 173](#article-173):
+Per [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns):
 
 - Specific increased compensation limits
 - Operational operational standards
@@ -125,7 +125,7 @@ Per [Article 173](#article-173):
 
 **EPL (Employment Practices Liability):**
 
-Per [Article 171](#article-171):
+Per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation):
 
 - Foundation cover for discrimination, harassment, wrongful termination
 - Specific limit considerations S$500k-S$2M typical for SMEs
@@ -133,7 +133,7 @@ Per [Article 171](#article-171):
 
 **WICA (Work Injury Compensation):**
 
-Per [Article 173](#article-173):
+Per [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns):
 
 - Mandatory cover from designated insurer panel
 - Specific compensation framework

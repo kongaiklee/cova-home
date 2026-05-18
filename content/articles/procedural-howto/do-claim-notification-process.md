@@ -214,7 +214,7 @@ Coordinate communications with affected parties:
 
 **Companies Act Section 157.**
 
-For director duty claims under [Section 157](https://sso.agc.gov.sg/Act/CoA1967) (see [Article 184](#article-184)):
+For director duty claims under [Section 157](https://sso.agc.gov.sg/Act/CoA1967) (see [Article 184](/document-legal/companies-act-section-157-director-duties)):
 
 - Notification triggers on first indication
 - Specific allegations evaluated against policy provisions
@@ -222,10 +222,10 @@ For director duty claims under [Section 157](https://sso.agc.gov.sg/Act/CoA1967)
 
 **WSHA Section 48.**
 
-For workplace safety personal director liability under [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006) (see [Article 22](#article-22)):
+For workplace safety personal director liability under [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006) (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)):
 
 - D&O typically responds for personal director exposure
-- Specific coordination with WICA / CW/EL (see [Article 194](#article-194))
+- Specific coordination with WICA / CW/EL (see [Article 194](/comparison/wica-panel-vs-cw-el-extension))
 - Operational considerations
 
 **IRDA 2018 wrongful trading.**

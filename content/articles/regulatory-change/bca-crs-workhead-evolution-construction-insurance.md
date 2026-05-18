@@ -60,9 +60,9 @@ Sample minimum paid-up capital values from the current CR SRR: CR08-L1, CR10B-L1
 
 The CRS does not prescribe a uniform per-workhead insurance schedule. Insurance flows into the SME's regulatory and contractual obligations through three interlocking channels:
 
-**Channel 1: WICA 2019 / WICI 2019 statutory cover.** Every construction SME with manual employees or non-manual employees earning S$2,600 per month or less must hold WICI 2019 cover from an MOM Designated Insurer (see [Article 264](#article-264)). The compensation limit uplift on 1 November 2025 (death S$269,000 maximum; permanent incapacity S$346,000 maximum; medical S$53,000) automatically applies to WICI policies. Construction sector is high-frequency for WICI claims; insurer underwriting keys off BizSafe certification, prior claims history, and safety infrastructure.
+**Channel 1: WICA 2019 / WICI 2019 statutory cover.** Every construction SME with manual employees or non-manual employees earning S$2,600 per month or less must hold WICI 2019 cover from an MOM Designated Insurer (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)). The compensation limit uplift on 1 November 2025 (death S$269,000 maximum; permanent incapacity S$346,000 maximum; medical S$53,000) automatically applies to WICI policies. Construction sector is high-frequency for WICI claims; insurer underwriting keys off BizSafe certification, prior claims history, and safety infrastructure.
 
-**Channel 2: Workplace Safety and Health (Construction) Regulations and BizSafe.** The risk-management infrastructure under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) and the WSH (Construction) Regulations 2007 (see [Article 269](#article-269)) drives BizSafe certification. BizSafe Level 3 minimum is a common bind condition for WICI and Public Liability placements. BizSafe Star or ISO 45001 is required by some main contractors for sub-contractor onboarding.
+**Channel 2: Workplace Safety and Health (Construction) Regulations and BizSafe.** The risk-management infrastructure under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) and the WSH (Construction) Regulations 2007 (see [Article 269](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)) drives BizSafe certification. BizSafe Level 3 minimum is a common bind condition for WICI and Public Liability placements. BizSafe Star or ISO 45001 is required by some main contractors for sub-contractor onboarding.
 
 **Channel 3: Project-level contract requirements.** Public-sector projects typically follow the [Public Sector Standard Conditions of Contract (PSSCOC)](https://www1.bca.gov.sg) and prescribe minimum insurance limits scaled to contract value. Private-sector main contracts impose analogous requirements. Typical minimums:
 
@@ -161,11 +161,11 @@ For an SME at the threshold of a grade uplift, the practical question is whether
 
 ### Related Information
 
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](#article-264)
-- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](#article-267)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](#article-269)
-- [Article 388 — PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](#article-388)
-- [Article 1 — SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](#article-1)
-- [Article 2 — BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](#article-2)
+- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 388 — PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Article 1 — SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [Article 2 — BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 
 ---

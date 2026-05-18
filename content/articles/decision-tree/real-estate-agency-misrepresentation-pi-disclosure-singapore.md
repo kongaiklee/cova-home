@@ -125,7 +125,7 @@ A real estate agency holds a dense, sensitive data set:
 - Client identification documents
 
 **Acute Cyber exposures:**
-- Business email compromise (BEC) on transaction funds — fraudsters intercept or spoof deposit and completion-fund instructions; real estate is a primary BEC target (see [Article 90](#article-90))
+- Business email compromise (BEC) on transaction funds — fraudsters intercept or spoof deposit and completion-fund instructions; real estate is a primary BEC target (see [Article 90](/crisis/vendor-ran-off-with-deposit))
 - PDPA exposure — a breach exposing client identity together with home-address data can meet the significant-harm threshold
 - Privacy exposure from photo and video data
 - Listings, documents, and client data routinely held in WhatsApp and email, often on personal devices
@@ -135,7 +135,7 @@ A breach exposing property addresses alongside client identities is particularly
 
 **A workable Cyber stack:**
 - Standalone Cyber with limits sized to the data held
-- BEC / social-engineering-fraud cover (real estate is specifically targeted — see [Article 90](#article-90))
+- BEC / social-engineering-fraud cover (real estate is specifically targeted — see [Article 90](/crisis/vendor-ran-off-with-deposit))
 - Business interruption for system or operational outage
 - Cover for PDPA Section 26D breach-notification costs
 - Access to a forensic and breach-counsel panel
@@ -276,7 +276,7 @@ Insurers underwrite real estate agencies on:
 3. **No BEC / social-engineering-fraud cover.** Real estate is a primary target.
 4. **Cyber limits too low for combined identity and property data.** A breach can reach the PDPA significant-harm threshold.
 5. **No CEA-inquiry defence cost cover under PI.** Regulatory-action defence is otherwise uninsured.
-6. **WICA misclassification — treating self-employed RES as employees, or the reverse.** See [Article 67](#article-67).
+6. **WICA misclassification — treating self-employed RES as employees, or the reverse.** See [Article 67](/document-legal/wica-section-25-offence).
 7. **Crime / Money cover absent where the agency holds client funds.**
 8. **Marketing-material disputes left uncovered** — defamation and IP exposure from listings.
 9. **No commercial-grade cover for commercial or industrial work.** The exposure profile differs from residential.

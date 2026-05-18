@@ -72,7 +72,7 @@ The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the Insurance (G
 
 The [Insurance (Intermediaries) Regulations](https://sso.agc.gov.sg/SL/IA1966-RG16) and MAS conduct guidelines for financial advisers under the Financial Advisers Act 2001 (including the FAA-G04 series Guidelines on Standards of Conduct), which oblige the intermediary to disclose the material features of the policy at point of sale. The defense-costs treatment is a material feature; an SME relying on its broker to explain the cover should expect this to be addressed in the benefit illustration and the policy summary.
 
-The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) section 6 6-year contract limitation period frames the temporal boundary on a coverage dispute between the insured and the insurer about defense allocation (see [Article 256](#article-256) on Limitation Act mechanics).
+The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) section 6 6-year contract limitation period frames the temporal boundary on a coverage dispute between the insured and the insurer about defense allocation (see [Article 256](/document-legal/limitation-act-1959-time-bar-insurance-claims) on Limitation Act mechanics).
 
 #### Claim-time worked example: D&O programme
 
@@ -150,11 +150,11 @@ For an SME procuring CGL or Public Liability, the DCOL convention should hold. Q
 
 ### Related Information
 
-- [Article 255 — Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](#article-255)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 394 — Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](#article-394)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](#article-391)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 255 — Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 394 — Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
+- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

@@ -22,7 +22,7 @@ og_description: "Specialty fitness studios in Singapore — covering yoga, pilat
 
 ### The Sourced Detail
 
-The specialty fitness segment has expanded substantially in Singapore over the past decade. Independent boutique studios offering yoga, pilates, CrossFit, boxing, dance, and specialty movement now operate alongside larger fitness chains. The combination of instructor-led participation, equipment-intensive operations, operational scope, and specific demographic considerations creates an insurance profile that differs from generic gym operations. Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For instructor classification specifically, the [MOM](https://www.mom.gov.sg/) framework distinguishing employees from contractors applies; misclassifying an instructor who is in substance an employee creates WICA Section 25 exposure (per [Article 67](#article-67)).
+The specialty fitness segment has expanded substantially in Singapore over the past decade. Independent boutique studios offering yoga, pilates, CrossFit, boxing, dance, and specialty movement now operate alongside larger fitness chains. The combination of instructor-led participation, equipment-intensive operations, operational scope, and specific demographic considerations creates an insurance profile that differs from generic gym operations. Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For instructor classification specifically, the [MOM](https://www.mom.gov.sg/) framework distinguishing employees from contractors applies; misclassifying an instructor who is in substance an employee creates WICA Section 25 exposure (per [Article 67](/document-legal/wica-section-25-offence)).
 
 #### The participation injury exposure
 
@@ -60,21 +60,21 @@ Specific Participant Sport / Activity cover where applicable. Specific specialty
 
 Property/Fire cover with specific equipment provisions. Considerations on adequate sum insured for substantial equipment scope (pilates reformers can cost S$5k-S$15k each, CrossFit equipment scope substantial, specific other equipment scope).
 
-Equipment Breakdown (per [Article 209](#article-209)) for specific equipment dependencies where applicable.
+Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies where applicable.
 
-BI cover (per [Article 195](#article-195) and [Article 208](#article-208)) for operational disruption.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption.
 
 Commercial Crime / employee dishonesty cover. Where studios handle membership and class-pack payments, specific Crime exposure exists.
 
 D&O cover for incorporated structures.
 
-EPL cover addressing employment relationships — particularly relevant for specific instructor relationships (where instructors operate as employees vs contractors; misclassification carries WICA Section 25 exposure per [Article 67](#article-67)).
+EPL cover addressing employment relationships — particularly relevant for specific instructor relationships (where instructors operate as employees vs contractors; misclassification carries WICA Section 25 exposure per [Article 67](/document-legal/wica-section-25-offence)).
 
 Cyber Liability cover for member personal data and specific commercial information.
 
 #### Specific instructor classification considerations
 
-Instructor classification — employee versus contractor — matters substantially for specialty fitness operations; treating a substantively employed instructor as a contractor creates WICA Section 25 exposure (per [Article 67](#article-67) on the WICA Section 25 offence).
+Instructor classification — employee versus contractor — matters substantially for specialty fitness operations; treating a substantively employed instructor as a contractor creates WICA Section 25 exposure (per [Article 67](/document-legal/wica-section-25-offence) on the WICA Section 25 offence).
 
 Operational scenarios include studio-employed instructors (clearly within employer-employee framework, specific WICA scope, specific EPL scope), specific contractor instructors (where instructors operate independently — considerations on classification matters; specific MOM scrutiny applies where classification is mismatched to operational reality), specific hybrid operational scope, operational considerations.
 

@@ -34,7 +34,7 @@ Per [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg
 - Cashiers and front-of-house earning at or below S$2,600 (non-manual within scope)
 - Cleaners, delivery staff, support staff (typically manual)
 
-Cover must be from one of the [24 MOM-designated insurers](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer) (list dated 1 January 2026). Failure to insure is an offence under Section 25; directors face personal liability under Section 25(3) — see [Article 67](#article-67).
+Cover must be from one of the [24 MOM-designated insurers](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer) (list dated 1 January 2026). Failure to insure is an offence under Section 25; directors face personal liability under Section 25(3) — see [Article 67](/document-legal/wica-section-25-offence).
 
 **2. Motor third-party (if any vehicles)**
 
@@ -49,10 +49,10 @@ Almost every commercial lease in Singapore requires the tenant to maintain Publi
 - S$3M–S$5M for shopping mall units and prime retail
 - Higher for hotels, airports, premium venues
 
-For F&B specifically, the lease often also requires Product Liability — covering food contamination, foreign object injuries, allergic reactions. See [Article 70](#article-70) on the PL/Product distinction.
+For F&B specifically, the lease often also requires Product Liability — covering food contamination, foreign object injuries, allergic reactions. See [Article 70](/comparison/pl-vs-product-liability) on the PL/Product distinction.
 
 The lease typically requires:
-- Landlord named as additional insured or "indemnity to principal" extension (see [Article 59](#article-59))
+- Landlord named as additional insured or "indemnity to principal" extension (see [Article 59](/document-legal/indemnity-to-principal))
 - Waiver of subrogation in favour of landlord
 - Notice of cancellation to landlord
 
@@ -60,7 +60,7 @@ The lease typically requires:
 
 Most leases require fire insurance on the tenant's improvements, fit-out, equipment, and stock. The landlord typically holds master fire insurance on the building structure but expects the tenant to insure their own assets and indemnify damage caused by tenant operations.
 
-For a café with significant fit-out (custom counters, espresso machines, ovens, refrigeration, furniture, signage), the sum insured at reinstatement value is often S$80,000–S$300,000 depending on size and concept. See [Article 65](#article-65) on indemnity vs reinstatement basis.
+For a café with significant fit-out (custom counters, espresso machines, ovens, refrigeration, furniture, signage), the sum insured at reinstatement value is often S$80,000–S$300,000 depending on size and concept. See [Article 65](/comparison/indemnity-vs-reinstatement-basis) on indemnity vs reinstatement basis.
 
 **5. Business Interruption (BI)**
 
@@ -91,7 +91,7 @@ Per the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), most commerc
 - Fire Safety Certificate before occupation
 - Annual or 3-year (from 1 April 2026) Fire Certificate renewal where applicable
 
-See [Article 36](#article-36) on FSC application process. Property and fire insurance policies typically include a "compliance with fire safety requirements" warranty — a lapsed FC can void the policy.
+See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) on FSC application process. Property and fire insurance policies typically include a "compliance with fire safety requirements" warranty — a lapsed FC can void the policy.
 
 **8. Foreign worker permits (if applicable)**
 
@@ -120,13 +120,13 @@ Storefront glass is typically the largest single fragile asset in a café. Plate
 - Vandalism (subject to wording)
 - Boarding-up costs
 
-See [Article 61](#article-61). Often included as a section in PAR but can be standalone for premium storefronts.
+See [Article 61](/procedural-howto/plate-glass-claim). Often included as a section in PAR but can be standalone for premium storefronts.
 
 **11. Group Medical and Group Personal Accident**
 
 Once headcount reaches 5–10+, group medical and group PA become standard:
-- Group Hospitalisation & Surgical (see [Article 60](#article-60))
-- Group Personal Accident (see [Article 58](#article-58))
+- Group Hospitalisation & Surgical (see [Article 60](/procedural-howto/group-hospital-surgical-claim))
+- Group Personal Accident (see [Article 58](/comparison/wica-vs-gpa))
 - Sometimes outpatient clinic schemes for higher-end cafés competing for talent
 
 **12. Cyber insurance**
@@ -138,12 +138,12 @@ For cafés with:
 - Email marketing lists
 
 A baseline Cyber policy responds to:
-- PDPA breach notification costs (see [Article 66](#article-66))
+- PDPA breach notification costs (see [Article 66](/document-legal/pdpa-section-26d-breach-notification))
 - POS system compromise
 - Customer payment data exposure
 - Business interruption from cyber events
 
-For a small café, Cyber may be a small sub-limit on a business package; for cafés with material online presence, standalone Cyber. See [Article 72](#article-72).
+For a small café, Cyber may be a small sub-limit on a business package; for cafés with material online presence, standalone Cyber. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
 
 **13. Equipment Breakdown**
 
@@ -181,12 +181,12 @@ Each policy renews annually. To avoid Section 25 WICA gaps and lease compliance 
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Opening before WICA is bound.** Section 25 offence on day one. See [Article 67](#article-67).
-2. **Underinsuring fit-out at original cost rather than reinstatement.** Average clause penalty at claim. See [Article 65](#article-65).
-3. **Forgetting Product Liability separately from PL.** Food contamination claims fall outside standard PL. See [Article 70](#article-70).
-4. **Not adding landlord as additional insured / indemnity to principal.** Lease compliance breach. See [Article 59](#article-59).
-5. **Taking a "PAR sub-limit Cyber" view when POS data is material.** Inadequate cover. See [Article 72](#article-72).
-6. **Letting FC lapse.** Fire policy warranty breach can void the entire claim. See [Article 36](#article-36).
+1. **Opening before WICA is bound.** Section 25 offence on day one. See [Article 67](/document-legal/wica-section-25-offence).
+2. **Underinsuring fit-out at original cost rather than reinstatement.** Average clause penalty at claim. See [Article 65](/comparison/indemnity-vs-reinstatement-basis).
+3. **Forgetting Product Liability separately from PL.** Food contamination claims fall outside standard PL. See [Article 70](/comparison/pl-vs-product-liability).
+4. **Not adding landlord as additional insured / indemnity to principal.** Lease compliance breach. See [Article 59](/document-legal/indemnity-to-principal).
+5. **Taking a "PAR sub-limit Cyber" view when POS data is material.** Inadequate cover. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
+6. **Letting FC lapse.** Fire policy warranty breach can void the entire claim. See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).
 7. **Misclassifying baristas as "non-manual."** They are manual workers under WICA regardless of salary level.
 8. **Treating insurance as a one-day sprint at opening.** It's a 90-day procurement cycle and an annual renewal discipline.
 

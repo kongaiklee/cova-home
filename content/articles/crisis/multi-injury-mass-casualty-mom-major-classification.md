@@ -18,7 +18,7 @@ og_description: "A single workplace event has injured three or more workers — 
 
 > **The Answer in 60 Seconds**
 >
-> A single workplace event has injured three or more workers — structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on scene, police are investigating, [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) is classifying it as a "major incident" under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). Critical first 6 hours: (1) site lockdown — do not move equipment unless SCDF directs; (2) **issue written instruction to your VSS provider extending footage retention from 30 to 180 days BEFORE routine rotation overwrites** (mandatory for projects ≥ SGD 5m since 1 June 2024); (3) preserve permit-to-work documentation, witness accounts taken separately, gas detector calibration logs, equipment maintenance records; (4) activate WICA insurer 24-hour line. First 72 hours: WSH (Incident Reporting) Regulations notification via MOM iReport, hospital coordination, family notification, Workplace Safety and Health Officer designation. First 14 days: Demerit Points System exposure (25+ points / 18 months can debar new foreign worker passes), mandatory external safety audit if classified "major injuries," potential Top Executive WSH Programme attendance for CEO/Board. Insurance angles: WICA mandatory designated insurer (per [Article 269](#article-269) framework); public liability if third parties injured; D&O notification immediately on receipt of any MOM investigation correspondence (claims-made trigger); BI typically excluded for stop-work order period — specific carve-back required. Enforcement context: maximum first-conviction WSH fine raised to SGD 50,000 from 1 June 2024; 43 workplace fatalities recorded in 2024; nine construction sites received stop-work orders in 2H2024.
+> A single workplace event has injured three or more workers — structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on scene, police are investigating, [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) is classifying it as a "major incident" under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). Critical first 6 hours: (1) site lockdown — do not move equipment unless SCDF directs; (2) **issue written instruction to your VSS provider extending footage retention from 30 to 180 days BEFORE routine rotation overwrites** (mandatory for projects ≥ SGD 5m since 1 June 2024); (3) preserve permit-to-work documentation, witness accounts taken separately, gas detector calibration logs, equipment maintenance records; (4) activate WICA insurer 24-hour line. First 72 hours: WSH (Incident Reporting) Regulations notification via MOM iReport, hospital coordination, family notification, Workplace Safety and Health Officer designation. First 14 days: Demerit Points System exposure (25+ points / 18 months can debar new foreign worker passes), mandatory external safety audit if classified "major injuries," potential Top Executive WSH Programme attendance for CEO/Board. Insurance angles: WICA mandatory designated insurer (per [Article 269](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026) framework); public liability if third parties injured; D&O notification immediately on receipt of any MOM investigation correspondence (claims-made trigger); BI typically excluded for stop-work order period — specific carve-back required. Enforcement context: maximum first-conviction WSH fine raised to SGD 50,000 from 1 June 2024; 43 workplace fatalities recorded in 2024; nine construction sites received stop-work orders in 2H2024.
 
 ### The Sourced Detail
 
@@ -122,7 +122,7 @@ A multi-casualty workplace event compresses several different operational and st
 **WICA designated insurer (mandatory).**
 - Activated within hour 0-3
 - Covers worker compensation: medical expenses, temporary incapacity, permanent incapacity, death
-- Specific limits per [Article 271](#article-271): SGD 53,000 medical / SGD 116,000-346,000 PI / SGD 91,000-269,000 death (effective 1 November 2025)
+- Specific limits per [Article 271](/comparison/claims-made-vs-occurrence-cover): SGD 53,000 medical / SGD 116,000-346,000 PI / SGD 91,000-269,000 death (effective 1 November 2025)
 - Single incident with multiple casualties draws on aggregate cover
 
 **Public liability.**
@@ -143,7 +143,7 @@ A multi-casualty workplace event compresses several different operational and st
 - Primary BI may cover reduced revenue if site closure affects production
 - Coordinate with brokerage on extension scope review
 
-**Multi-cover coordination.** Per [Article 345](#article-345), a single major incident often triggers WICA + PL + EPL + D&O simultaneously. Single notification protocol to broker, individual notifications to each insurer.
+**Multi-cover coordination.** Per [Article 345](/procedural-howto/how-to-coordinate-multi-policy-single-incident), a single major incident often triggers WICA + PL + EPL + D&O simultaneously. Single notification protocol to broker, individual notifications to each insurer.
 
 #### Sector-specific considerations
 

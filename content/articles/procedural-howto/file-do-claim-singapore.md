@@ -50,7 +50,7 @@ D&O policies typically respond to:
 **Employment claims:**
 - By directors against the company (wrongful dismissal, breach of contract)
 - By employees against directors personally
-- Often coordinated with EPL — see [Article 71](#article-71)
+- Often coordinated with EPL — see [Article 71](/comparison/do-vs-pi-vs-epl)
 
 **Pre-claim circumstances:**
 - Regulatory notice that may give rise to investigation
@@ -315,7 +315,7 @@ For directors at:
 
 Run-off / tail cover preserves protection for matters arising from acts during the directorship but notified after departure. The 6-year limitation period under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) (with longer for some matters) drives typical tail length of 6 years or longer.
 
-For acquisition specifically, the seller's D&O run-off is typically purchased as part of the deal structure — see [Article 49](#article-49) on M&A insurance considerations.
+For acquisition specifically, the seller's D&O run-off is typically purchased as part of the deal structure — see [Article 49](/procedural-howto/update-insurance-after-acquisition) on M&A insurance considerations.
 
 ### Common Mistakes / What Goes Wrong
 

@@ -186,7 +186,7 @@ Gaming venues have elevated Cyber exposure:
 - Content distribution systems
 - Live tournament broadcasting infrastructure
 
-Cyber Liability with appropriate limits and BI coverage is essential. See [Article 98](#article-98).
+Cyber Liability with appropriate limits and BI coverage is essential. See [Article 98](/document-legal/pdpa-section-24-protection-obligation).
 
 #### Tournament and event considerations
 
@@ -224,10 +224,10 @@ Many gaming venues include F&B operations:
 - Sometimes: alcohol service in older-customer venues
 
 F&B integration triggers:
-- SFA Food Shop Licence (see [Article 102](#article-102))
+- SFA Food Shop Licence (see [Article 102](/association/sfa-licensing-tiers-insurance))
 - Product Liability cover for food
 - Liquor Licence if alcohol served
-- See [Article 122](#article-122) on full-service restaurant.
+- See [Article 122](/decision-tree/opening-full-service-restaurant-checklist) on full-service restaurant.
 
 Insurance build expanded accordingly.
 

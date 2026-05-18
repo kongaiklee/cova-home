@@ -30,7 +30,7 @@ Per [Companies Act 1967 Section 172](https://sso.agc.gov.sg/Act/CoA1967):
 
 The general rule is that any provision (in the constitution or contract) that exempts an officer of the company from liability, or indemnifies them against liability, for negligence, default, breach of duty, or breach of trust in relation to the company, is void.
 
-This general prohibition reflects the policy that companies shouldn't be able to effectively waive director duties through indemnification. If they could, Section 157 (see [Article 184](#article-184)) and the broader director duty framework would lose practical effect.
+This general prohibition reflects the policy that companies shouldn't be able to effectively waive director duties through indemnification. If they could, Section 157 (see [Article 184](/document-legal/companies-act-section-157-director-duties)) and the broader director duty framework would lose practical effect.
 
 #### The exceptions to the general prohibition
 

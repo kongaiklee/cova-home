@@ -198,7 +198,7 @@ For Singapore SMEs with material Vietnamese operations:
 - Local Vietnamese contractor compliance
 
 **Logistics / warehousing:**
-- See [Article 110](#article-110) for general logistics
+- See [Article 110](/decision-tree/opening-logistics-freight-forwarder-checklist) for general logistics
 - Vietnam-specific licensing
 - Cross-border consideration with Singapore master
 

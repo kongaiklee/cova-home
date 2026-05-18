@@ -86,7 +86,7 @@ A creator's equipment is often the single largest insurable asset:
 - Audio: S$200–S$3,000 per piece
 - Computer / editing equipment: S$3,000–S$10,000+, plus storage and backup
 - Gimbals, sliders, and other specialised gear
-- Drones are insured separately — see [Article 143](#article-143)
+- Drones are insured separately — see [Article 143](/edge-case/commercial-drone-operator-insurance)
 
 **Total equipment value:** beginner S$5,000–S$20,000; mid-tier S$20,000–S$80,000; established S$80,000–S$300,000+.
 

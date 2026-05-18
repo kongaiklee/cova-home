@@ -40,11 +40,11 @@ For Singapore SMEs trading regionally, this combination means a single Singapore
 
 The three principal clauses:
 
-**ICC A — All Risks (broadest).** Covers loss or damage to the cargo from any external cause subject to specific exclusions (war, strikes, inherent vice, delay, insolvency of carrier, ordinary wear). Default for high-value, fragile, or complex shipments. See [Article 51](#article-51) for full treatment.
+**ICC A — All Risks (broadest).** Covers loss or damage to the cargo from any external cause subject to specific exclusions (war, strikes, inherent vice, delay, insolvency of carrier, ordinary wear). Default for high-value, fragile, or complex shipments. See [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) for full treatment.
 
 **ICC B — Named Perils (mid-range).** Covers specifically listed perils: fire, explosion, vessel sinking, derailment, jettison, washing overboard, water entry. Less common in modern practice.
 
-**ICC C — Catastrophe Perils (narrowest).** Covers fire, explosion, vessel sinking, collision, jettison, derailment but specifically excludes washing overboard, water entry, and theft. Used for bulk and lower-value commodities. See [Article 62](#article-62) for full treatment.
+**ICC C — Catastrophe Perils (narrowest).** Covers fire, explosion, vessel sinking, collision, jettison, derailment but specifically excludes washing overboard, water entry, and theft. Used for bulk and lower-value commodities. See [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim) for full treatment.
 
 **War and Strikes clauses** are typically separate add-ons; standard "Institute War Clauses (Cargo)" and "Institute Strikes Clauses (Cargo)" extensions are universally available.
 

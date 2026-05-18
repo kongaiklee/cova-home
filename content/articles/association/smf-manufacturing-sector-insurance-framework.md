@@ -46,7 +46,7 @@ Manufacturing-sector SMEs face the following principal cross-cutting regulatory 
 
 **Workplace Safety and Health Act 2006.** Available on [SSO](https://sso.agc.gov.sg/Act/WSHA2006). Imposes section 12 employer duty and section 14A principal duty for safety of workers and contractors at workplaces. Maximum corporate fines under sections 50 to 52 (verify current threshold against SSO).
 
-**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less. 1 November 2025 limit uplift: death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000 (see [Article 264](#article-264)).
+**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less. 1 November 2025 limit uplift: death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000 (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Environmental Public Health Act 1987 and Environmental Protection and Management Act 1999.** Pollutant management, waste handling, emission controls. NEA regulatory framework.
 
@@ -56,7 +56,7 @@ Manufacturing-sector SMEs face the following principal cross-cutting regulatory 
 
 **Income Tax Act 1947.** Corporate tax including research and development incentives, productivity and innovation credits.
 
-**Personal Data Protection Act 2012.** For B2C exposures and HR data. The 3-day notification clock under section 26D applies (see [Article 263](#article-263)).
+**Personal Data Protection Act 2012.** For B2C exposures and HR data. The 3-day notification clock under section 26D applies (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
 
 **Sector-specific licensing.** Food manufacturing (SFA), pharmaceuticals (HSA), medical devices (HSA), chemicals (NEA), explosives (SPF), tobacco (HSA, Customs), and others.
 
@@ -66,7 +66,7 @@ For Singapore SME manufacturers, the operational insurance baseline:
 
 **Statutorily compelled cover:**
 
-- **WICI 2019** under WICA for manual employees and non-manual employees up to the S$2,600 per month threshold. From an MOM Designated Insurer (see [Article 264](#article-264)).
+- **WICI 2019** under WICA for manual employees and non-manual employees up to the S$2,600 per month threshold. From an MOM Designated Insurer (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 - **Third-party motor insurance** under the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) for vehicle fleets.
 
 **Contractually compelled or commercially essential cover:**
@@ -76,7 +76,7 @@ For Singapore SME manufacturers, the operational insurance baseline:
   - Lender (loan covenants for asset-financed equipment).
   - Trade financier (under inventory financing).
   
-  Sum insured must align with reinstatement value (see [Article 274](#article-274)).
+  Sum insured must align with reinstatement value (see [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property)).
 
 - **Public Liability (PL).** Required by:
   - Site landlords (premises-based PL).
@@ -106,11 +106,11 @@ For Singapore SME manufacturers, the operational insurance baseline:
   
   Cover responds to recall costs, customer-notification logistics, and consequential business interruption.
 
-- **Trade Credit Insurance.** Used to insure receivables against buyer default or insolvency, especially for export receivables. Singapore market participants: Atradius, Coface, Allianz Trade, Chubb, QBE, ICIC, Sinosure Singapore (see [Article 291](#article-291)).
+- **Trade Credit Insurance.** Used to insure receivables against buyer default or insolvency, especially for export receivables. Singapore market participants: Atradius, Coface, Allianz Trade, Chubb, QBE, ICIC, Sinosure Singapore (see [Article 291](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)).
 
 - **Cyber Insurance.** Increasingly required by:
   - Customer security questionnaires (especially Tier-1 OEM customers).
-  - CSA / PDPA-driven risk frameworks (see [Article 270](#article-270) for Cybersecurity Act 2024 CII provisions).
+  - CSA / PDPA-driven risk frameworks (see [Article 270](/regulatory-change/cybersecurity-act-2024-cii-designation-sme) for Cybersecurity Act 2024 CII provisions).
   - Lender / investor due diligence.
   
   Manufacturing-sector cyber exposure includes OT (operational technology) systems, supply-chain interconnections, and customer data.
@@ -146,7 +146,7 @@ The composite programme should be placed on a single annual anniversary to enabl
 
 4. **Cyber without OT/manufacturing systems BI extension.** Manufacturing-sector cyber events can produce operational shutdown via OT compromise; standard Cyber BI may not respond without specific extension.
 
-5. **Property under-insured.** Inflation in equipment replacement cost can leave SMEs in average-clause exposure (see [Article 275](#article-275)).
+5. **Property under-insured.** Inflation in equipment replacement cost can leave SMEs in average-clause exposure (see [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)).
 
 6. **PL limits not aligned with customer contractual requirements.** Tier-1 OEM customers often require S$5 million to S$10 million PL; SME-package PL of S$1 million is below the threshold.
 
@@ -178,11 +178,11 @@ For SMEs in export-dependent manufacturing, Marine Cargo Incoterm coordination, 
 
 ### Related Information
 
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](#article-264)
-- [Article 270 — Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](#article-270)
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](#article-274)
-- [Article 275 — First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](#article-275)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](#article-291)
+- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 270 — Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 275 — First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
 
 ---

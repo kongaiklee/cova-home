@@ -90,7 +90,7 @@ Singapore market cyber insurance policies (issued by AIG Singapore, Chubb Singap
 
 **Third-party liability cover** — claims by data subjects under section 48O PDPA, claims by business counterparties for downstream losses, claims by payment-card brands for PCI-DSS-related issues.
 
-**Business interruption cover** — loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [Article 277](#article-277) on BI waiting periods).
+**Business interruption cover** — loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar) on BI waiting periods).
 
 The cyber policy's notification window to the insurer is typically 60 days from awareness, with a "discovery" or "claim first made" trigger architecture. This runs in parallel with, not in place of, the PDPA 3-day clock. The wording should permit the SME to make regulatory notifications without prejudicing cover.
 
@@ -111,7 +111,7 @@ Cyber insurance triggers:
 - Day 1 (Monday): cyber policy discovery trigger fires. Incident-response retainer engaged via the policy's 24/7 hotline.
 - Day 1 onwards: forensic, breach coach, regulatory defence cover attaches.
 - Day 3 (Wednesday) onwards: notification cost cover funds the customer notification logistics.
-- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period — typically 8 to 12 hours for cyber BI; see [Article 277](#article-277)).
+- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period — typically 8 to 12 hours for cyber BI; see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
 
 Subsequent PDPC investigation. If the PDPC imposes a financial penalty under section 48J, the policy responds only "to the extent insurable by law". For a punitive penalty, this is generally zero.
 
@@ -169,11 +169,11 @@ For SMEs operating across borders, the section 26D PDPA clock interacts with for
 
 ### Related Information
 
-- [Article 270 — Cybersecurity Act 2024 CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](#article-270)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](#article-365)
-- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](#article-364)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](#article-277)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
+- [Article 270 — Cybersecurity Act 2024 CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
+- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

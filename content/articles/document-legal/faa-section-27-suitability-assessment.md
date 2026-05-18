@@ -34,7 +34,7 @@ The section requires a licensed FA, when making recommendations for investment p
 - Consideration of the subject matter of the recommendation
 - Specific consideration of the suitability of the recommendation in light of the investigation
 
-The provision applies to FAs licensed under the FAA — which includes most insurance brokers and independent financial advisers operating in the Singapore market. It does not apply to introducers under [FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) (see [Article 168](#article-168)) since introducers do not make recommendations.
+The provision applies to FAs licensed under the FAA — which includes most insurance brokers and independent financial advisers operating in the Singapore market. It does not apply to introducers under [FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) (see [Article 168](/comparison/faa-n02-introducer-vs-fa-broker)) since introducers do not make recommendations.
 
 #### What "investigation" means in practice
 

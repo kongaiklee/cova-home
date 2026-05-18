@@ -72,7 +72,7 @@ The operational discipline insurers look for is concrete: drink limits during th
 
 A venue's workforce is a mix of activity coaches and instructors, F&B service staff where applicable, operations and maintenance staff, and administration.
 
-**Instructor classification** is the key WICA question — coaches are often engaged as contractors, and whether each is in substance an employee or a genuine contractor follows the operational reality, not the contract label (see [Article 67](#article-67)).
+**Instructor classification** is the key WICA question — coaches are often engaged as contractors, and whether each is in substance an employee or a genuine contractor follows the operational reality, not the contract label (see [Article 67](/document-legal/wica-section-25-offence)).
 
 The **high-frequency injuries** are demonstration injuries, equipment-related injuries, maintenance and setup injuries, and injuries sustained while responding to an incident.
 
@@ -146,7 +146,7 @@ Insurers underwrite experiential venues on:
 3. **No Liquor Liability for alcohol-paired operations.**
 4. **Relying on waivers against negligence claims.** They have limited effect in Singapore.
 5. **No staff certification or competence standards.**
-6. **WICA misclassification of contractor coaches.** See [Article 67](#article-67).
+6. **WICA misclassification of contractor coaches.** See [Article 67](/document-legal/wica-section-25-offence).
 7. **Incidents and waivers undocumented.** Weakens the defence to a claim.
 8. **No drink-limit or intoxication monitoring during the activity.**
 9. **No equipment cover.**

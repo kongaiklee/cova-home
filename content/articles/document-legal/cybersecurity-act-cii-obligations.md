@@ -98,7 +98,7 @@ For an SME serving a CII owner as a vendor or sub-contractor, the customer contr
 - **Cyber Liability** — often S$5M–S$50M+, with defined provisions and incident-response obligations.
 - **PI / Tech E&O** — limits sized to the engagement value and service obligations.
 - **Compliance demonstrations** — [ISO/IEC 27001](https://www.iso.org/standard/27001) certification, [AICPA SOC 2](https://www.aicpa-cima.com/) Type II reports, and cyber-maturity assessments.
-- **Contractual provisions** — cascading audit rights, regulator-access provisions, incident-reporting obligations, and cyber-operational standards, in the same pattern as the MAS Outsourcing cascade (see [Article 139](#article-139)).
+- **Contractual provisions** — cascading audit rights, regulator-access provisions, incident-reporting obligations, and cyber-operational standards, in the same pattern as the MAS Outsourcing cascade (see [Article 139](/document-legal/mas-guidelines-on-outsourcing)).
 
 The exact requirements vary by sector — financial-services CII differs from healthcare or telecom CII in its standards and contractual conventions.
 
@@ -127,7 +127,7 @@ Insurers underwrite CII-related cyber risk on:
 
 #### Worked scenarios
 
-- **SME IT services provider serving banking CII** — MAS-cascaded obligations (see [Article 139](#article-139)), with Cyber Liability, PI / Tech E&O, and the compliance demonstrations the bank requires.
+- **SME IT services provider serving banking CII** — MAS-cascaded obligations (see [Article 139](/document-legal/mas-guidelines-on-outsourcing)), with Cyber Liability, PI / Tech E&O, and the compliance demonstrations the bank requires.
 - **SME data centre operator (potential FDI scope)** — operational standards and a Cyber Liability programme built for the FDI framework.
 - **SME software / SaaS provider serving CII customers** — a contractual cascade of incident-response and compliance obligations, covered by Cyber Liability and Tech E&O.
 - **SME telecommunications service provider** — the telecom-sector CII standards, with Cyber Liability sized accordingly.

@@ -93,7 +93,7 @@ This is the practical pinch point for SME insurance limitation analysis, and Sin
 
 **First-party property and material damage insurance.** The cause of action accrues when the insurer's obligation crystallises and is not performed. This typically means: the loss occurs, the insured submits proof of loss within the policy's notification timeframe, the insurer either repudiates or fails to pay following due demand. The Singapore Law Watch chapter on Insurance Law (Ch. 24, §24.10.1) confirms that "the claims procedure is typically governed by express terms and conditions in the policy" and that whether a notification clause is a condition precedent is a matter of construction. The clock starts when the insurer's obligation to indemnify is triggered and not performed.
 
-[Lim Yong Swan v Lim Jee Tee and others](#) [1992] 3 SLR(R) 940 confirmed the orthodox position that time runs from the date of breach in a contract action, even if damage is not yet quantifiable. [Spandeck Engineering (S) Pte Ltd v China Construction (South Pacific) Development Co Pte Ltd](#) [2005] SGCA 59 endorsed this principle for contract-framed claims. [IPP Financial Advisers Pte Ltd v Saimee bin Jumaat](#) [2020] SGCA 47 held that the cause of action in tort for negligent misrepresentation accrued when actual loss was first suffered, even if the loss was later quantified in greater detail.
+Lim Yong Swan v Lim Jee Tee and others [1992] 3 SLR(R) 940 confirmed the orthodox position that time runs from the date of breach in a contract action, even if damage is not yet quantifiable. Spandeck Engineering (S) Pte Ltd v China Construction (South Pacific) Development Co Pte Ltd [2005] SGCA 59 endorsed this principle for contract-framed claims. IPP Financial Advisers Pte Ltd v Saimee bin Jumaat [2020] SGCA 47 held that the cause of action in tort for negligent misrepresentation accrued when actual loss was first suffered, even if the loss was later quantified in greater detail.
 
 #### Notice of Circumstance and the policy clock vs the statutory clock
 
@@ -161,11 +161,11 @@ For an SME considering acknowledgment-restart: the section 27(1) formal requirem
 
 ### Related Information
 
-- [Article 255 — Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](#article-255)
-- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](#article-251)
-- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](#article-252)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
-- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](#article-410)
-- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](#article-254)
+- [Article 255 — Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
+- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
+- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
 
 ---

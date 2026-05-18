@@ -64,11 +64,11 @@ For Singapore co-working space SMEs, foundational cover stack includes several e
 
 Public Liability cover with substantial limits given member traffic. Considerations on aggregate scope across substantive operations. Limits typically S$5M-S$10M for substantive operations.
 
-Property/Fire cover with specific provisions for fitted-out commercial premises. Considerations on adequate sum insured for substantial fit-out scope (per [Article 196](#article-196) on average clause considerations) matters substantially.
+Property/Fire cover with specific provisions for fitted-out commercial premises. Considerations on adequate sum insured for substantial fit-out scope (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause considerations) matters substantially.
 
-Equipment Breakdown (per [Article 209](#article-209)) for specific equipment dependencies — HVAC critical for substantial commercial premises, operational other equipment.
+Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies — HVAC critical for substantial commercial premises, operational other equipment.
 
-BI cover (per [Article 195](#article-195) and [Article 208](#article-208)) for operational disruption. Commercial scope, operational characteristics. Indemnity period adequacy matters given substantial fit-out scope and operational restoration timelines.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Commercial scope, operational characteristics. Indemnity period adequacy matters given substantial fit-out scope and operational restoration timelines.
 
 Cyber Liability cover with substantial scope. Co-working operators typically operate substantive Wi-Fi infrastructure used by members, operational systems, operational member personal data scope. PDPA exposure is material; operational considerations matters.
 

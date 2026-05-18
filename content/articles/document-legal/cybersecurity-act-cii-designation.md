@@ -123,7 +123,7 @@ For Singapore SMEs in CII supply chains, insurance considerations:
 5. **Business interruption from cyber events** — system outage cascading to customer-facing impact
 6. **Contingent BI** — losses from a supplier-of-the-supplier failing
 
-For non-CII SMEs without CII customer relationships, the [PDPA Section 26D 3-day notification](https://sso.agc.gov.sg/Act/PDPA2012) regime remains the baseline cyber regulatory exposure, with [Cyber insurance](#article-72) sized accordingly.
+For non-CII SMEs without CII customer relationships, the [PDPA Section 26D 3-day notification](https://sso.agc.gov.sg/Act/PDPA2012) regime remains the baseline cyber regulatory exposure, with [Cyber insurance](/comparison/cyber-standalone-vs-par-sublimit) sized accordingly.
 
 #### How CII designation interacts with the PDPA
 

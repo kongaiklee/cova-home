@@ -18,7 +18,7 @@ og_description: "Per Section 31 of the Work Injury Compensation Act 2019 (Design
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 31 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), only **insurers designated by the Commissioner for Workplace Safety and Health (MOM)** may issue WICA-approved policies. The current designated insurer list (dated 1 January 2026) contains **24 insurers for employers** and **6 for platform operators** (separate list dated 26 December 2024). Designation requires meeting specific operational, financial, and claims-handling standards. Designated insurers are obligated to **process all WICA claims** under their issued policies, share claims data with MOM, and comply with the MOM-approved policy wording. The designation framework exists to ensure injured workers receive consistent, prompt compensation regardless of insurer choice. Buying WICA from a non-designated insurer is **non-compliance** under [Section 24](https://sso.agc.gov.sg/Act/WICA2019) (Employer must be insured against liabilities under Act) — the policy is not WICA-compliant and the employer remains exposed to [Section 25](https://sso.agc.gov.sg/Act/WICA2019) offence under [Article 67](#article-67).
+> Per [Section 31 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), only **insurers designated by the Commissioner for Workplace Safety and Health (MOM)** may issue WICA-approved policies. The current designated insurer list (dated 1 January 2026) contains **24 insurers for employers** and **6 for platform operators** (separate list dated 26 December 2024). Designation requires meeting specific operational, financial, and claims-handling standards. Designated insurers are obligated to **process all WICA claims** under their issued policies, share claims data with MOM, and comply with the MOM-approved policy wording. The designation framework exists to ensure injured workers receive consistent, prompt compensation regardless of insurer choice. Buying WICA from a non-designated insurer is **non-compliance** under [Section 24](https://sso.agc.gov.sg/Act/WICA2019) (Employer must be insured against liabilities under Act) — the policy is not WICA-compliant and the employer remains exposed to [Section 25](https://sso.agc.gov.sg/Act/WICA2019) offence under [Article 67](/document-legal/wica-section-25-offence).
 
 ### The Sourced Detail
 
@@ -126,7 +126,7 @@ The MOM-approved wording means the headline cover is consistent across designate
 - Industry-specific underwriting appetite
 
 **3. Switching insurer is constrained but possible.**
-You can switch between designated insurers at renewal (or mid-term with appropriate process). See [Article 46](#article-46) on changing WICA insurer.
+You can switch between designated insurers at renewal (or mid-term with appropriate process). See [Article 46](/procedural-howto/wica-change-insurer-renewal) on changing WICA insurer.
 
 **4. Buying from a non-designated insurer is non-compliance.**
 Even if a non-designated insurer offers a "WICA-equivalent" policy, it does not satisfy [Section 24 WICA 2019](https://sso.agc.gov.sg/Act/WICA2019). The employer is uninsured for WICA purposes regardless of having paid for some product.
@@ -152,13 +152,13 @@ This matters because:
 - Common-law negligence claims by injured workers can exceed these limits
 - Without Common-Law extension, the employer is exposed to common-law damages above WICA
 
-For employers in higher-risk industries (construction, marine, manufacturing), Common-Law extension is typically essential — see [Article 80](#article-80) on workplace fatalities.
+For employers in higher-risk industries (construction, marine, manufacturing), Common-Law extension is typically essential — see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
 
 #### Foreign Worker Medical Insurance — separate but related
 
 [Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/sector-specific-rules/insurance-requirements) is mandatory for Work Permit holders and S Pass holders, separate from WICA. Many designated WICA insurers also offer FWMI, often bundled at renewal.
 
-FWMI minimum: S$60,000 inpatient cover (post-1 July 2023 enhancement). See [Article 33](#article-33) on FDW Stage 2 and [Article 15](#article-15) on WP/S Pass medical insurance.
+FWMI minimum: S$60,000 inpatient cover (post-1 July 2023 enhancement). See [Article 33](/procedural-howto/fdw-insurance-renew-before-permit-expiry) on FDW Stage 2 and [Article 15](/regulatory-change/wp-mi-2025) on WP/S Pass medical insurance.
 
 #### Platform operator designated insurers
 
@@ -213,7 +213,7 @@ If an insurer is removed from the designated list:
 - The insurer continues to handle claims under existing policies
 - New policies and renewals cannot be placed with the departing insurer
 - Switching to a remaining designated insurer at renewal is required
-- See [Article 46](#article-46) on changing WICA insurer
+- See [Article 46](/procedural-howto/wica-change-insurer-renewal) on changing WICA insurer
 
 For most employers, this is a non-event — broker handles the transition. For employers with long-term insurer relationships or specialised arrangements, more attention may be needed.
 

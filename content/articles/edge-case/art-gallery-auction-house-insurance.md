@@ -60,7 +60,7 @@ Specific transit scenarios include exhibition movement (gallery to gallery, gall
 
 Considerations on transit operations matters substantially. Operational specialist art handlers (commercial relationships with specialist transit providers), operational scope, operational considerations.
 
-For substantive operations, specific Marine Cargo Open Cover with specific Fine Art provisions (per [Article 192](#article-192) on ICC mechanics and [Article 204](#article-204) on marine cargo claim handling) may apply for substantial transit operational scope.
+For substantive operations, specific Marine Cargo Open Cover with specific Fine Art provisions (per [Article 192](/comparison/marine-cargo-icc-a-b-c) on ICC mechanics and [Article 204](/procedural-howto/marine-cargo-claim-with-icc) on marine cargo claim handling) may apply for substantial transit operational scope.
 
 #### The customs and cross-border framework
 
@@ -88,9 +88,9 @@ Professional Indemnity cover where applicable for advisory and authentication sc
 
 Property/Fire cover with specific premises provisions (operational climate control, operational security, operational operational considerations).
 
-Equipment Breakdown (per [Article 209](#article-209)) for specific equipment dependencies — climate control critical for art preservation.
+Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies — climate control critical for art preservation.
 
-BI cover (per [Article 195](#article-195) and [Article 208](#article-208)) for operational disruption.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption.
 
 Commercial Crime / employee dishonesty cover. Substantial commercial scope including operational scope for substantial works on premises.
 

@@ -106,7 +106,7 @@ Cyber programmes have moved toward global structure. A Singapore master Cyber ca
 - Notification capability in each jurisdiction's data protection regime
 - Insurer regulatory coordination across jurisdictions
 
-For ASEAN-region cyber programmes, see [Article 117 (data residency)](#article-117) for related framework.
+For ASEAN-region cyber programmes, see [Article 117 (data residency)](/cross-border/sg-saas-data-residency-decisions) for related framework.
 
 **Crime / Fidelity**
 

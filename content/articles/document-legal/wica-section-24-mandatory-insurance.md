@@ -18,7 +18,7 @@ og_description: "Section 24 of the Work Injury Compensation Act 2019 is the prov
 
 > **The Answer in 60 Seconds**
 >
-> [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) is the provision that makes WICA workable. Headed "Employer must be insured against liabilities under Act", it requires every employer to be insured for the full extent of the employer's liability under the Act for every employee in scope. Without this provision, WICA's compensation framework would be theoretical — Section 24 makes it actual by ensuring funds exist to pay claims. Failure to insure is an offence under the related Section 25, carrying significant penalties; an uninsured employer also remains directly liable to the injured worker. For Singapore SMEs, Section 24 explains why WICA cover is non-negotiable, why the policy must be an approved policy placed with an insurer on [MOM's](https://www.mom.gov.sg/) list of WICA insurers (the platform-operator panel of designated insurers runs separately — see [Article 169](#article-169)), and why operational compliance matters at every renewal cycle.
+> [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) is the provision that makes WICA workable. Headed "Employer must be insured against liabilities under Act", it requires every employer to be insured for the full extent of the employer's liability under the Act for every employee in scope. Without this provision, WICA's compensation framework would be theoretical — Section 24 makes it actual by ensuring funds exist to pay claims. Failure to insure is an offence under the related Section 25, carrying significant penalties; an uninsured employer also remains directly liable to the injured worker. For Singapore SMEs, Section 24 explains why WICA cover is non-negotiable, why the policy must be an approved policy placed with an insurer on [MOM's](https://www.mom.gov.sg/) list of WICA insurers (the platform-operator panel of designated insurers runs separately — see [Article 169](/comparison/wica-designated-insurer-panel)), and why operational compliance matters at every renewal cycle.
 
 ### The Sourced Detail
 
@@ -51,13 +51,13 @@ Notable points: the threshold-based approach means employee classification matte
 WICA cover must be placed under an **approved policy** (Section 26) with an insurer, on the mandatory terms MOM prescribes. MOM publishes the list of insurers writing WICA. As a practical matter:
 
 - Standard-employer WICA is placed with an insurer on the [MOM](https://www.mom.gov.sg/) list of WICA insurers
-- Platform Operator WICA under the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) is placed with a designated insurer on the separate platform-operator panel (see [Article 169](#article-169) for panel composition; [Article 170](#article-170) for PWA implementation)
+- Platform Operator WICA under the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) is placed with a designated insurer on the separate platform-operator panel (see [Article 169](/comparison/wica-designated-insurer-panel) for panel composition; [Article 170](/regulatory-change/platform-workers-act-first-year-review) for PWA implementation)
 
 The framework reflects MOM's risk-based approach: capacity assurance for mandatory cover, claims handling consistency, and operational standards. An insurer not approved for Singapore WICA (including reputable international insurers without the relevant approval) cannot legally write compliant cover for Singapore-employed workers.
 
 #### What "full extent of liability" means
 
-The phrase requires insurance for the employer's actual liability under the Act, not a token amount. Following the [1 November 2025 limit increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act) (see [Article 173](#article-173)):
+The phrase requires insurance for the employer's actual liability under the Act, not a token amount. Following the [1 November 2025 limit increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act) (see [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
 - Death: S$269,000
 - Total permanent incapacity: S$346,000
@@ -86,7 +86,7 @@ For Singapore SMEs, the practical insurance approach is therefore "WICA + EL ext
 
 #### Section 24 and platform workers
 
-Following the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (see [Article 170](#article-170)), platform workers are not employees in the traditional sense and Section 24 of WICA does not directly apply to them. Instead, platform operators are required to procure WICA-equivalent cover under PWA — substantively similar protection routed through the separate platform operator panel.
+Following the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)), platform workers are not employees in the traditional sense and Section 24 of WICA does not directly apply to them. Instead, platform operators are required to procure WICA-equivalent cover under PWA — substantively similar protection routed through the separate platform operator panel.
 
 The two regimes (Section 24 WICA + PWA equivalent) operate in parallel, with classification of a worker as employee vs platform worker determining which framework governs. Misclassification is a meaningful operational risk: a worker treated as a platform worker but later determined to be an employee could create retroactive Section 24 exposure for the employer.
 

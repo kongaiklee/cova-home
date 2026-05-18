@@ -48,7 +48,7 @@ The second decision point distinguishes equipment intensity.
 
 **Light equipment scope** — operator operates with modest equipment scope. Foundational Property/Fire and Equipment Breakdown scope.
 
-**Substantive equipment scope** — operator operates with substantive equipment scope (S$500k-S$5M equipment value). Considerations on Property/Fire sum insured (per [Article 196](#article-196)), specific Equipment Breakdown scope, specific BI indemnity period considerations.
+**Substantive equipment scope** — operator operates with substantive equipment scope (S$500k-S$5M equipment value). Considerations on Property/Fire sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive)), specific Equipment Breakdown scope, specific BI indemnity period considerations.
 
 **Substantial equipment scope** — operator operates with substantial equipment (S$5M+ equipment value). Considerations on limits, specific BI considerations given equipment replacement timelines that can extend substantially (12-24+ months for specific manufacturing equipment).
 
@@ -104,7 +104,7 @@ For Singapore light manufacturing SMEs, foundational cover stack includes severa
 
 **BI cover** — foundational with adequate indemnity period reflecting equipment replacement timelines.
 
-**Goods in Transit / Marine Cargo** — for raw material and finished goods movement. Specific Open Cover scope where appropriate (per [Article 192](#article-192) on Marine Cargo Institute Cargo Clauses).
+**Goods in Transit / Marine Cargo** — for raw material and finished goods movement. Specific Open Cover scope where appropriate (per [Article 192](/comparison/marine-cargo-icc-a-b-c) on Marine Cargo Institute Cargo Clauses).
 
 **Commercial Motor** — where transport scope.
 

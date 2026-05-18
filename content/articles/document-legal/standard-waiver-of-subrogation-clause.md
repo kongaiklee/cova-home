@@ -85,7 +85,7 @@ Framework for insurer consent for waiver of subrogation matters substantially.
 
 #### The interactions with indemnification framework
 
-Waiver of subrogation and indemnification clauses (per [Article 259](#article-259)) interact substantively. Operational scope considerations:
+Waiver of subrogation and indemnification clauses (per [Article 259](/document-legal/standard-insurance-clause-commercial-contracts)) interact substantively. Operational scope considerations:
 
 **Specific knock-for-knock arrangements with mutual waiver** — considerations on offshore commercial scope where knock-for-knock combines with mutual waiver substantively.
 

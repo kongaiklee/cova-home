@@ -79,13 +79,13 @@ The "betterment gap" is the difference between:
 
 Standard Singapore market property wordings address the betterment gap through a **Public Authorities Extension** (sometimes called "Capital Additions" or "Public Authorities Clause"). The Extension covers the additional cost of complying with current BCA Building Code and SCDF Fire Code requirements imposed on rebuilding. Without the Extension, the SME funds the betterment out of working capital.
 
-For SMEs holding older premises (built before the current code edition), the Public Authorities Extension is critical. See [Article 274](#article-274) for the broader Reinstatement vs Indemnity framework.
+For SMEs holding older premises (built before the current code edition), the Public Authorities Extension is critical. See [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property) for the broader Reinstatement vs Indemnity framework.
 
 #### Insurance triggers and the subrogation question
 
-**Landlord's Property (Fire / All Risks) cover.** Responds first. Settlement basis depends on whether the cover is on Reinstatement basis (with Reinstatement Memorandum and 12-month rebuilding window) or Indemnity basis (depreciated value). See [Article 274](#article-274). Average clause applies if sum insured is less than 85% of full reinstatement value at the time of loss (see [Article 275](#article-275)). Public Authorities Extension addresses the BCA / SCDF betterment gap.
+**Landlord's Property (Fire / All Risks) cover.** Responds first. Settlement basis depends on whether the cover is on Reinstatement basis (with Reinstatement Memorandum and 12-month rebuilding window) or Indemnity basis (depreciated value). See [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property). Average clause applies if sum insured is less than 85% of full reinstatement value at the time of loss (see [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)). Public Authorities Extension addresses the BCA / SCDF betterment gap.
 
-**Loss of rent / Business Interruption.** Either embedded in the Property cover or as a separate BI module. Indemnity period typically 12 to 36 months. Waiting period (typically 7 to 30 days for property-type events; see [Article 277](#article-277)). The Indemnity Period must be sized against realistic rebuilding plus customer / tenant re-establishment timeline.
+**Loss of rent / Business Interruption.** Either embedded in the Property cover or as a separate BI module. Indemnity period typically 12 to 36 months. Waiting period (typically 7 to 30 days for property-type events; see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)). The Indemnity Period must be sized against realistic rebuilding plus customer / tenant re-establishment timeline.
 
 **Subrogation against the tenant.** Recovery by the landlord's insurer against the tenant for the tenant's negligent causation of the fire. Subject to any waiver-of-subrogation clause in the lease. The landlord's insurer typically pursues subrogation against the tenant's Public Liability insurer.
 
@@ -151,7 +151,7 @@ The allocation depends on the order of claim-filing and the tenant's PL aggregat
 
 3. **Missing the Public Authorities Extension.** Pre-2010 buildings rebuilt to current BCA and SCDF code can carry significant betterment that the SME funds out of working capital absent the Extension.
 
-4. **Property sum insured below 85% of reinstatement value.** Triggers the average clause (see [Article 275](#article-275)) even on partial losses. SMEs should refresh the Reinstatement Cost Assessment annually at renewal.
+4. **Property sum insured below 85% of reinstatement value.** Triggers the average clause (see [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)) even on partial losses. SMEs should refresh the Reinstatement Cost Assessment annually at renewal.
 
 5. **Loss of Rent Indemnity Period too short.** A 12-month Indemnity Period against a realistic 18-month reconstruction leaves the SME without rental income for the back end of the rebuild.
 
@@ -185,11 +185,11 @@ For SMEs holding older premises, the Public Authorities Extension is the structu
 
 ### Related Information
 
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](#article-274)
-- [Article 275 — First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](#article-275)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](#article-277)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](#article-269)
-- [Article 255 — Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](#article-255)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
+- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 275 — First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
+- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 255 — Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

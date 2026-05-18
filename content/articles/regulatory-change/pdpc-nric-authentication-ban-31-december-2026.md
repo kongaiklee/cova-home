@@ -164,7 +164,7 @@ Where vendor non-compliance triggers PDPC enforcement:
 
 **Multi-cover coordination.**
 
-Per [Article 345](#article-345), single cyber incident can trigger multiple covers; NRIC authentication breach may trigger:
+Per [Article 345](/procedural-howto/how-to-coordinate-multi-policy-single-incident), single cyber incident can trigger multiple covers; NRIC authentication breach may trigger:
 - Cyber liability
 - D&O
 - E&O / PI (for service providers)
@@ -189,11 +189,11 @@ Per [Article 345](#article-345), single cyber incident can trigger multiple cove
 
 #### Coordination with related changes
 
-Per [Article 357](#article-357) — broader PDPC enforcement pattern.
+Per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) — broader PDPC enforcement pattern.
 
-Per [Article 343](#article-343) — PDPA Section 26D breach notification (3-day clock).
+Per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore) — PDPA Section 26D breach notification (3-day clock).
 
-Per [Article 357](#article-357) — Section 24 Protection Obligation framework.
+Per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) — Section 24 Protection Obligation framework.
 
 The NRIC authentication ban is one specific prohibition within broader PDPA Section 24 framework. SMEs that focus only on NRIC compliance miss the broader pattern of expectations.
 

@@ -196,7 +196,7 @@ For agencies placing Foreign Domestic Workers, additional layers:
 - Cross-border issues (source country relationships)
 - Public liability for FDW housing/welfare facilities
 
-See [Article 13](#article-13) on FDW Stage 2.
+See [Article 13](/regulatory-change/pdpa-2022-penalty) on FDW Stage 2.
 
 #### Executive search specific considerations
 
@@ -235,7 +235,7 @@ For agencies offering Employer of Record services or comprehensive payroll admin
 - Cyber Liability for payroll data sensitivity
 - Cross-border coordination for international EOR
 
-See [Article 88](#article-88) on cross-border EOR considerations.
+See [Article 88](/cross-border/sg-sme-philippines-remote-workers) on cross-border EOR considerations.
 
 #### Premium considerations
 

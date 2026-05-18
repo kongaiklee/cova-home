@@ -18,7 +18,7 @@ og_description: "A vendor of the Singapore SME (CRM, payroll, cloud provider, cu
 
 > **The Answer in 60 Seconds**
 >
-> A vendor of the Singapore SME (CRM, payroll, cloud provider, customer support, marketing automation) has notified the SME that the vendor suffered a data breach affecting the SME's customer personal data. [PDPA 2012](https://sso.agc.gov.sg/Act/PDPA2012) section 26C(2) imposes the data-intermediary cascade obligation: the data intermediary must, without undue delay, notify the principal organisation. PDPA section 24 Protection Obligation requires the SME to make reasonable security arrangements; the SME cannot abdicate this obligation to the vendor's failure. PDPA section 26C requires the SME to conduct a reasonable and expeditious assessment of the suspected breach. PDPA section 26D(1) imposes the 3-calendar-day notification clock to the [PDPC](https://www.pdpc.gov.sg) from the day the SME determines the breach is notifiable. PDPA section 48O private right of action (in force from 1 February 2021) creates multi-plaintiff exposure (see [Article 294](#article-294)). The [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) commenced 31 October 2025, expanding section 14 incident reporting under the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) to cover supplier systems interconnected with CII. Insurance triggers: Cyber Liability (incident response, notification cost, regulatory defence, third-party liability, business interruption); Errors and Omissions / Tech E&O if SME provides services dependent on the vendor; D&O for directors challenged on vendor due diligence. Day-One workflow: demand written breach report from vendor; conduct internal section 26B assessment; engage incident response firm; notify Cyber insurer; prepare PDPC notification and affected-individual notification within the 3-day clock. Recent PDPC enforcement decisions on vendor-cascade liability: Marina Bay Sands (October 2025), E-Commerce Enablers (ShopBack), Century Evergreen [2023] SGPDPCS, Autobahn / Shariot [2023] SGPDPCS 4, Ezynetic (3 July 2025), Lovebonito [2022] SGPDPC 3.
+> A vendor of the Singapore SME (CRM, payroll, cloud provider, customer support, marketing automation) has notified the SME that the vendor suffered a data breach affecting the SME's customer personal data. [PDPA 2012](https://sso.agc.gov.sg/Act/PDPA2012) section 26C(2) imposes the data-intermediary cascade obligation: the data intermediary must, without undue delay, notify the principal organisation. PDPA section 24 Protection Obligation requires the SME to make reasonable security arrangements; the SME cannot abdicate this obligation to the vendor's failure. PDPA section 26C requires the SME to conduct a reasonable and expeditious assessment of the suspected breach. PDPA section 26D(1) imposes the 3-calendar-day notification clock to the [PDPC](https://www.pdpc.gov.sg) from the day the SME determines the breach is notifiable. PDPA section 48O private right of action (in force from 1 February 2021) creates multi-plaintiff exposure (see [Article 294](/crisis/multi-plaintiff-class-action-threat-multi-line-response)). The [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) commenced 31 October 2025, expanding section 14 incident reporting under the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) to cover supplier systems interconnected with CII. Insurance triggers: Cyber Liability (incident response, notification cost, regulatory defence, third-party liability, business interruption); Errors and Omissions / Tech E&O if SME provides services dependent on the vendor; D&O for directors challenged on vendor due diligence. Day-One workflow: demand written breach report from vendor; conduct internal section 26B assessment; engage incident response firm; notify Cyber insurer; prepare PDPC notification and affected-individual notification within the 3-day clock. Recent PDPC enforcement decisions on vendor-cascade liability: Marina Bay Sands (October 2025), E-Commerce Enablers (ShopBack), Century Evergreen [2023] SGPDPCS, Autobahn / Shariot [2023] SGPDPCS 4, Ezynetic (3 July 2025), Lovebonito [2022] SGPDPC 3.
 
 ### The Sourced Detail
 
@@ -74,7 +74,7 @@ The vendor categories typically involved:
 
 **Personal Data Protection (Notification of Data Breaches) Regulations 2021.** Available on [SSO](https://sso.agc.gov.sg/SL/PDPA2012-S64-2021). Prescribes the significant-harm categories (NRIC, financial information, medical, biometric, and others) and the significant-scale threshold of 500 or more affected individuals.
 
-**Cybersecurity Act 2018.** Available on [SSO](https://sso.agc.gov.sg/Act/CA2018). The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) commenced 31 October 2025 (key provisions). Section 14 incident reporting expanded to cover supplier systems interconnected with CII. New Part 3A covers third-party-owned CII (3PO CII). See [Article 270](#article-270).
+**Cybersecurity Act 2018.** Available on [SSO](https://sso.agc.gov.sg/Act/CA2018). The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) commenced 31 October 2025 (key provisions). Section 14 incident reporting expanded to cover supplier systems interconnected with CII. New Part 3A covers third-party-owned CII (3PO CII). See [Article 270](/regulatory-change/cybersecurity-act-2024-cii-designation-sme).
 
 #### PDPC Guides
 
@@ -116,7 +116,7 @@ For SMEs receiving a vendor-cascade breach notification, these decisions illustr
 
 - **Third-party liability cover** — claims by data subjects under section 48O PDPA, claims by business counterparties, claims by payment-card brands. The principal source of large Cyber claims in Singapore.
 
-- **PDPC financial penalty cover** — generally not insurable to the extent treated as punitive under Singapore public-policy doctrine (see [Article 263](#article-263)).
+- **PDPC financial penalty cover** — generally not insurable to the extent treated as punitive under Singapore public-policy doctrine (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
 
 - **Business interruption cover** — loss of gross profit following a cyber-triggered operational shutdown.
 
@@ -218,11 +218,11 @@ For directors, section 157 Companies Act duty applies to vendor management. Docu
 
 ### Related Information
 
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](#article-263)
-- [Article 270 — Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](#article-270)
-- [Article 294 — Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously](#article-294)
-- [Article 300 — IT Vendor or SaaS Provider Disappearance](#article-300)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](#article-365)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 270 — Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Article 294 — Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously](/crisis/multi-plaintiff-class-action-threat-multi-line-response)
+- [Article 300 — IT Vendor or SaaS Provider Disappearance](/crisis/it-vendor-saas-disappearance)
+- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

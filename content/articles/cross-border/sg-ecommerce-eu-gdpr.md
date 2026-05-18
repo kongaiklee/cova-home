@@ -111,7 +111,7 @@ Singapore's [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2
 A Singapore e-commerce business with EU customers must comply with PDPA for Singapore aspects and GDPR for EU customer data simultaneously.
 
 Notification timelines differ:
-- **PDPA Section 26D:** 3 calendar days from determination of notifiability (see [Article 66](#article-66))
+- **PDPA Section 26D:** 3 calendar days from determination of notifiability (see [Article 66](/document-legal/pdpa-section-26d-breach-notification))
 - **GDPR Article 33:** 72 hours from awareness
 
 A breach affecting both Singapore and EU data triggers both clocks.

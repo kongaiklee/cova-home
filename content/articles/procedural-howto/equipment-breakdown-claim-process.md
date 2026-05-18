@@ -18,11 +18,11 @@ og_description: "Equipment Breakdown (EBD) — also called Boiler & Machinery in
 
 > **The Answer in 60 Seconds**
 >
-> Equipment Breakdown (EBD) — also called Boiler & Machinery in some markets — addresses mechanical and electrical breakdown scenarios that standard [Property/Fire / PAR](#article-196) typically excludes. EBD covers internal breakdown causes (motor failure, electrical short circuit, control system failure, pressure equipment rupture, specific other mechanical / electrical failures) plus consequential damage to other property. The standard claim sequence: **equipment failure detection** → **immediate operational containment** → **specific safety / emergency response** → **insurer notification** → **specific surveyor / engineer assessment** → **specific repair vs replacement evaluation** → **specific BI / operational disruption coordination** → **claim settlement**. Critical operational discipline: **specific maintenance records** (foundation for distinguishing breakdown from wear-and-tear), **specific contemporaneous failure documentation**, and **operational discipline supporting cause determination**. For Singapore SMEs with material equipment dependencies (manufacturing, hospitality with substantial kitchen / building systems, specific industries), EBD is operationally essential complement to Property/Fire / PAR.
+> Equipment Breakdown (EBD) — also called Boiler & Machinery in some markets — addresses mechanical and electrical breakdown scenarios that standard [Property/Fire / PAR](/comparison/property-all-risks-exclusions-deep-dive) typically excludes. EBD covers internal breakdown causes (motor failure, electrical short circuit, control system failure, pressure equipment rupture, specific other mechanical / electrical failures) plus consequential damage to other property. The standard claim sequence: **equipment failure detection** → **immediate operational containment** → **specific safety / emergency response** → **insurer notification** → **specific surveyor / engineer assessment** → **specific repair vs replacement evaluation** → **specific BI / operational disruption coordination** → **claim settlement**. Critical operational discipline: **specific maintenance records** (foundation for distinguishing breakdown from wear-and-tear), **specific contemporaneous failure documentation**, and **operational discipline supporting cause determination**. For Singapore SMEs with material equipment dependencies (manufacturing, hospitality with substantial kitchen / building systems, specific industries), EBD is operationally essential complement to Property/Fire / PAR.
 
 ### The Sourced Detail
 
-EBD claim handling combines specific equipment expertise, cause-determination discipline, and operational coordination. Understanding the process explains both procurement priorities and operational discipline at incident time. Singapore EBD operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For pressure equipment specifically, specific [MOM](https://www.mom.gov.sg/) WSHA Pressure Vessel and Crane regulations provide foundational compliance framework. For specific BI extension treatment, see [Article 208](#article-208).
+EBD claim handling combines specific equipment expertise, cause-determination discipline, and operational coordination. Understanding the process explains both procurement priorities and operational discipline at incident time. Singapore EBD operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For pressure equipment specifically, specific [MOM](https://www.mom.gov.sg/) WSHA Pressure Vessel and Crane regulations provide foundational compliance framework. For specific BI extension treatment, see [Article 208](/procedural-howto/bi-claim-deep-dive).
 
 #### The pre-incident foundation
 
@@ -37,7 +37,7 @@ For EBD effectiveness:
 
 **Why this matters.**
 
-Per [Article 196](#article-196):
+Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
 
 - EBD covers breakdown (covered)
 - Wear and tear / gradual deterioration (excluded)

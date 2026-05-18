@@ -251,11 +251,13 @@ function main() {
   }
   if (linkified) console.log(`Linkified ${linkified} bare-path cross-references.`);
 
-  // Cross-reference cleanup. The master carries a handful of stale internal
-  // links (renamed targets, self-links, dead stubs). Rewrite the ones with a
-  // confirmed correct target; for the rest, drop the link but keep the anchor
-  // text as prose. Verified against the corpus with scripts/audit-links.mjs.
+  // Cross-reference cleanup. The master is one document, so it carries
+  // single-document anchors (#article-N) and a few stale internal links.
+  // Resolve #article-N to that article's real URL; rewrite known renamed
+  // targets; drop dead, self, or in-page links but keep the anchor text.
+  // Verified against the corpus with scripts/audit-links.mjs.
   const corpus = new Set(slugToTitle.keys());
+  const numberToSlug = new Map(articles.map((a) => [a.articleNum, a.slug]));
   const XREF_REWRITE = {
     '/regulatory-change/workplace-fairness-act-2025':
       '/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort',
@@ -268,24 +270,48 @@ function main() {
     '/comparison/sme-insurance-package-vs-standalone-policies-singapore':
       '/comparison/composite-management-liability-package-vs-standalone-modules-sme',
   };
+  let anchorResolved = 0;
   let xrefRewritten = 0;
   let xrefStripped = 0;
   for (const a of articles) {
     a.cleanBody = a.cleanBody.replace(
-      /\[([^\]]+)\]\((\/[^)\s#?]+)((?:[#?][^)\s]*)?)\)/g,
-      (whole, text, target, frag) => {
-        const fixed = XREF_REWRITE[target] || target;
-        if (fixed !== target) xrefRewritten++;
-        if (fixed === a.slug || !corpus.has(fixed)) {
+      /\[([^\]]+)\]\(([^)\s]+)\)/g,
+      (whole, text, target) => {
+        if (/^https?:/i.test(target)) return whole; // external, leave alone
+        // Old single-document anchor: #article-N -> that article's URL.
+        const anchor = target.match(/^#article-(\d+)$/);
+        if (anchor) {
+          const slug = numberToSlug.get(Number(anchor[1]));
+          if (slug && slug !== a.slug) {
+            anchorResolved++;
+            return `[${text}](${slug})`;
+          }
           xrefStripped++;
           return text;
         }
-        return `[${text}](${fixed}${frag})`;
+        // Any other in-page fragment is dead (no heading anchors are generated).
+        if (target.startsWith('#')) {
+          xrefStripped++;
+          return text;
+        }
+        // Internal path link: rewrite renamed targets, strip dead or self.
+        if (target.startsWith('/')) {
+          const path = target.replace(/[#?].*$/, '');
+          const fixed = XREF_REWRITE[path] || path;
+          if (fixed !== path) xrefRewritten++;
+          if (fixed === a.slug || !corpus.has(fixed)) {
+            xrefStripped++;
+            return text;
+          }
+          return `[${text}](${fixed})`;
+        }
+        return whole;
       }
     );
   }
   console.log(
-    `Cross-references: ${xrefRewritten} rewritten, ${xrefStripped} stripped (dead or self).`
+    `Cross-references: ${anchorResolved} anchors resolved, ` +
+      `${xrefRewritten} rewritten, ${xrefStripped} stripped (dead or self).`
   );
 
   // Pilot: take the first N articles per intent bucket.

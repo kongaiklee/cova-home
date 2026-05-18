@@ -103,17 +103,17 @@ For an architectural SME, disciplinary action against a registered architect or 
 
 The principal insurance lines for Singapore SME architectural practices:
 
-**Professional Indemnity (PI).** Statutorily compelled by section 24 at the licensed-entity level. Annual aggregate or per-claim structures; claims-made trigger architecture (see [Article 271](#article-271)). Limits typically S$1 million to S$5 million for SME practices; higher for practices handling institutional, public-sector, or international projects.
+**Professional Indemnity (PI).** Statutorily compelled by section 24 at the licensed-entity level. Annual aggregate or per-claim structures; claims-made trigger architecture (see [Article 271](/comparison/claims-made-vs-occurrence-cover)). Limits typically S$1 million to S$5 million for SME practices; higher for practices handling institutional, public-sector, or international projects.
 
 **Public Liability (PL).** Not statutorily compelled for architects, but required by client and main-contractor contracts. Coverage for third-party bodily injury and property damage arising from the practice's operations, including site visits.
 
-**Work Injury Compensation Insurance (WICI 2019).** Statutorily compelled under the Work Injury Compensation Act 2019 for manual employees and non-manual employees earning S$2,600 per month or less (see [Article 264](#article-264)).
+**Work Injury Compensation Insurance (WICI 2019).** Statutorily compelled under the Work Injury Compensation Act 2019 for manual employees and non-manual employees earning S$2,600 per month or less (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Run-Off PI Cover.** Critical for sole-practitioner retirement, partnership change, or firm cessation. Claims-made PI leaves an uninsured tail of 6 to 12 years post-handover given typical limitation periods under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959). Run-off cover preserves cover for past acts after the practice ceases.
 
-**Directors and Officers Liability (D&O).** For licensed architectural corporations and LLPs. Defends directors' personal exposure under the Companies Act 1967 and statutory regimes (see [Article 280](#article-280)).
+**Directors and Officers Liability (D&O).** For licensed architectural corporations and LLPs. Defends directors' personal exposure under the Companies Act 1967 and statutory regimes (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)).
 
-**Cyber Liability.** Architectural practices use BIM platforms, cloud-hosted design files, and client-data management systems; cyber exposure is material. PDPA section 26D 3-day notification clock applies (see [Article 263](#article-263)).
+**Cyber Liability.** Architectural practices use BIM platforms, cloud-hosted design files, and client-data management systems; cyber exposure is material. PDPA section 26D 3-day notification clock applies (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
 
 **Project-Specific PI.** Required by public-sector procurement (BCA, JTC, HDB, URA) and by client mandate on private projects. Typically tower-structure with primary and excess layers.
 
@@ -169,11 +169,11 @@ For SIA-member practices, the SIA Practice Management Framework (PMF) section 2.
 
 ### Related Information
 
-- [Article 271 — Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](#article-271)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 282 — Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications](#article-282)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](#article-264)
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](#article-263)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](#article-269)
+- [Article 271 — Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 282 — Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications](/association/ies-peb-professional-engineers-insurance-framework)
+- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
 
 ---

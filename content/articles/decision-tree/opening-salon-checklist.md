@@ -18,7 +18,7 @@ og_description: "A Singapore salon typically needs: Public Liability (S$1M–S$3
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore salon typically needs: **Public Liability** (S$1M–S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips), **Product Liability** for sold and applied products (food and beverage if café-adjacent, cosmetics, hair products), **WICA** for stylists, therapists, junior staff, **Property/Fire** for fit-out, equipment, retail stock, **Cyber** for booking systems and customer data, and depending on services: **CaseTrust accreditation** (for spa/wellness services with prepayment) including the **Prepayment Protection Insurance** that accompanies it (see [Article 5](#article-5)). Specialised treatments — laser, IPL, chemical peels, tattoo removal, semi-permanent makeup, eyebrow embroidery — require additional underwriting and may need PI. Licensing baseline: lease, SCDF Fire Safety where applicable, and [Singapore Customs](https://www.customs.gov.sg/) and [NEA](https://www.nea.gov.sg/) permits for specific chemicals.
+> A Singapore salon typically needs: **Public Liability** (S$1M–S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips), **Product Liability** for sold and applied products (food and beverage if café-adjacent, cosmetics, hair products), **WICA** for stylists, therapists, junior staff, **Property/Fire** for fit-out, equipment, retail stock, **Cyber** for booking systems and customer data, and depending on services: **CaseTrust accreditation** (for spa/wellness services with prepayment) including the **Prepayment Protection Insurance** that accompanies it (see [Article 5](/association/casetrust-spa-wellness-prepayment-protection)). Specialised treatments — laser, IPL, chemical peels, tattoo removal, semi-permanent makeup, eyebrow embroidery — require additional underwriting and may need PI. Licensing baseline: lease, SCDF Fire Safety where applicable, and [Singapore Customs](https://www.customs.gov.sg/) and [NEA](https://www.nea.gov.sg/) permits for specific chemicals.
 
 ### The Sourced Detail
 
@@ -44,7 +44,7 @@ Massage, body scrubs, hot stone, facials with steam/extraction, body wraps. Slip
 Laser, IPL, chemical peels, microblading, semi-permanent makeup, tattoo removal, microneedling. Borderline healthcare; potentially MOH licensing implications for some treatments; specialised PI required.
 
 **Tier 6 — Medi-spa with medical practitioners**
-Botox, fillers, IV drips, prescription products. Operates under Healthcare Services Act 2020 framework; full medical clinic insurance applies. See [Article 78](#article-78).
+Botox, fillers, IV drips, prescription products. Operates under Healthcare Services Act 2020 framework; full medical clinic insurance applies. See [Article 78](/decision-tree/opening-clinic-checklist).
 
 #### The mandatory-by-statute layer
 
@@ -114,7 +114,7 @@ For salons offering prepaid packages (memberships, multi-session packages, gift 
 - Transparent pricing
 - Code of conduct compliance
 
-While voluntary, mall landlords and consumers increasingly look for CaseTrust accreditation as a trust signal. See [Article 5](#article-5) for full detail on the CaseTrust Spa & Wellness scheme.
+While voluntary, mall landlords and consumers increasingly look for CaseTrust accreditation as a trust signal. See [Article 5](/association/casetrust-spa-wellness-prepayment-protection) for full detail on the CaseTrust Spa & Wellness scheme.
 
 #### Specialised treatment considerations
 
@@ -158,7 +158,7 @@ For salons running:
 - Email marketing
 - Payment processing
 
-PDPA significant-harm category includes health data — and treatment records (skin conditions, allergies, medical history disclosed for treatment) may qualify. A breach could trigger Section 26D notification regardless of the 500-individual threshold. See [Article 66](#article-66).
+PDPA significant-harm category includes health data — and treatment records (skin conditions, allergies, medical history disclosed for treatment) may qualify. A breach could trigger Section 26D notification regardless of the 500-individual threshold. See [Article 66](/document-legal/pdpa-section-26d-breach-notification).
 
 #### Optional but typical
 
@@ -172,7 +172,7 @@ Cash exposure varies; many salons are increasingly cashless.
 
 **Glass insurance**
 
-Storefront and treatment room mirrors are significant fragile assets. See [Article 61](#article-61).
+Storefront and treatment room mirrors are significant fragile assets. See [Article 61](/procedural-howto/plate-glass-claim).
 
 **Equipment Breakdown**
 

@@ -18,7 +18,7 @@ og_description: "Per Section 48 of the Workplace Safety and Health Act 2006, whe
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 48 of the Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), where an offence under the WSHA is committed by a body corporate **with the consent or connivance of, or attributable to any neglect on the part of, any director, manager, secretary or other similar officer**, that individual is **personally guilty of the offence** alongside the corporate. Penalties under WSHA can include substantial fines and imprisonment for individuals. The "neglect" limb is broad — directors who failed to take reasonable steps to prevent the offence can face personal liability without needing to have known of or actively contributed to it. **D&O insurance** is the primary insurance response — covering defence costs, settlements, and (subject to insurability and policy wording) penalties. The Section 48 mechanism is structurally similar to [WICA Section 25(3)](#article-67) but with potentially higher penalties given WSHA's broader scope.
+> Per [Section 48 of the Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), where an offence under the WSHA is committed by a body corporate **with the consent or connivance of, or attributable to any neglect on the part of, any director, manager, secretary or other similar officer**, that individual is **personally guilty of the offence** alongside the corporate. Penalties under WSHA can include substantial fines and imprisonment for individuals. The "neglect" limb is broad — directors who failed to take reasonable steps to prevent the offence can face personal liability without needing to have known of or actively contributed to it. **D&O insurance** is the primary insurance response — covering defence costs, settlements, and (subject to insurability and policy wording) penalties. The Section 48 mechanism is structurally similar to [WICA Section 25(3)](/document-legal/wica-section-25-offence) but with potentially higher penalties given WSHA's broader scope.
 
 ### The Sourced Detail
 
@@ -46,7 +46,7 @@ The "due diligence" defence requires the director to **prove** they exercised al
 
 WSHA contains numerous specific offences:
 
-**Stop-Work Order non-compliance** ([Section 21](https://sso.agc.gov.sg/Act/WSHA2006)) — see [Article 92](#article-92).
+**Stop-Work Order non-compliance** ([Section 21](https://sso.agc.gov.sg/Act/WSHA2006)) — see [Article 92](/crisis/mom-stop-work-order-issued).
 
 **Failure to take reasonably practicable measures to ensure safety** ([Section 12, 14, 15, etc.](https://sso.agc.gov.sg/Act/WSHA2006)) — the core duty provisions:
 - Employer's general duty to employees
@@ -168,7 +168,7 @@ D&O Side A provides direct cover to the individual director when the company can
 - Side A pays the director directly
 - For directors of smaller SMEs without robust D&O Side A, personal exposure can be substantial
 
-See [Article 71](#article-71) on D&O / PI / EPL.
+See [Article 71](/comparison/do-vs-pi-vs-epl) on D&O / PI / EPL.
 
 #### Coordination with other insurance
 
@@ -184,7 +184,7 @@ A workplace fatality or serious injury can trigger multiple policies simultaneou
 
 Coordination across these policies, often with different insurers, requires careful management — typically through the broker.
 
-See [Article 80](#article-80) on workplace fatality response.
+See [Article 80](/crisis/worker-fatality-on-site) on workplace fatality response.
 
 #### Specific scenarios
 
@@ -222,7 +222,7 @@ See [Article 80](#article-80) on workplace fatality response.
 
 Section 48 has analogues in other Singapore statutes:
 
-- **WICA 2019 Section 25(3)** — failure to insure offence (see [Article 67](#article-67))
+- **WICA 2019 Section 25(3)** — failure to insure offence (see [Article 67](/document-legal/wica-section-25-offence))
 - **PDPA Section 52** — director/officer liability where a body-corporate offence is committed with consent, connivance, or attributable to neglect (Section 53 separately deems acts of an employee in the course of employment to be acts of the employer)
 - **Companies Act 1967 Section 401** — false statements offence
 - **Various sectoral regulations** — similar director attribution mechanisms

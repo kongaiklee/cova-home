@@ -74,7 +74,7 @@ PDPA and parent consent for photography, social media, marketing materials.
 Staff background checks are critical; an undetected criminal history of a staff member is a major risk vector.
 
 **8. Long-tail latency for psychological harm.**
-Claims for psychological harm to children may surface years after the alleged conduct; limitation rules for minors extend the exposure period (see [Article 75](#article-75) on Limitation Act minor disability provisions).
+Claims for psychological harm to children may surface years after the alleged conduct; limitation rules for minors extend the exposure period (see [Article 75](/document-legal/limitation-act-6-year-clock) on Limitation Act minor disability provisions).
 
 #### Stage-by-stage insurance build
 
@@ -169,7 +169,7 @@ Childcare centres hold:
 - Photographs and videos
 - Payment information
 
-PDPA significance: **personal data of minors is particularly sensitive.** A breach affecting one child's data is potentially notifiable under [Section 26D](#article-66) regardless of the 500-individual threshold.
+PDPA significance: **personal data of minors is particularly sensitive.** A breach affecting one child's data is potentially notifiable under [Section 26D](/document-legal/pdpa-section-26d-breach-notification) regardless of the 500-individual threshold.
 
 Cyber considerations:
 - Standalone Cyber with appropriate limits

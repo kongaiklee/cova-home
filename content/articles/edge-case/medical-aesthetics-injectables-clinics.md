@@ -26,7 +26,7 @@ Medical aesthetics occupies a distinctive position in Singapore's healthcare lan
 
 #### The HCSA regulatory framework
 
-Medical aesthetics operations sit within the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) framework administered by [MOH](https://www.moh.gov.sg/) (per [Article 176](#article-176) on HCSA generally). The framework progressively replaced the Private Hospitals and Medical Clinics Act 1980 with substantially more sophisticated licensing.
+Medical aesthetics operations sit within the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) framework administered by [MOH](https://www.moh.gov.sg/) (per [Article 176](/regulatory-change/hcsa-full-implementation-review) on HCSA generally). The framework progressively replaced the Private Hospitals and Medical Clinics Act 1980 with substantially more sophisticated licensing.
 
 For aesthetic medicine specifically, HCSA frameworks address Outpatient Medical Service (OMS) licensing where medical practitioners deliver aesthetic procedures, specific clinic premises requirements, operational standards including infection control, equipment maintenance, and adverse event reporting, and specific advertising and commercial conduct standards.
 
@@ -54,11 +54,11 @@ Medical aesthetics operations are substantially equipment-intensive. Major equip
 
 Operational scope considerations include substantial capital investment in equipment, operational dependencies on equipment functionality, specific maintenance and service relationships, and operational complexity around equipment-related incidents.
 
-Equipment Breakdown cover (per [Article 209](#article-209)) is foundational. Specific provisions for medical-grade equipment, specific maintenance records discipline, operational considerations around repair vs replacement scenarios all matter substantially.
+Equipment Breakdown cover (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) is foundational. Specific provisions for medical-grade equipment, specific maintenance records discipline, operational considerations around repair vs replacement scenarios all matter substantially.
 
-Property/Fire cover with specific provisions for medical-grade premises addresses premises and equipment scope. Considerations on adequate sum insured (per [Article 196](#article-196) on average clause considerations) matters substantially given equipment values.
+Property/Fire cover with specific provisions for medical-grade premises addresses premises and equipment scope. Considerations on adequate sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause considerations) matters substantially given equipment values.
 
-BI cover for operational disruption (per [Article 195](#article-195) and [Article 208](#article-208)) addresses substantial equipment-dependent operational scope. Indemnity period adequacy matters given equipment replacement / repair timelines that can extend substantially.
+BI cover for operational disruption (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) addresses substantial equipment-dependent operational scope. Indemnity period adequacy matters given equipment replacement / repair timelines that can extend substantially.
 
 #### The patient demographic considerations
 

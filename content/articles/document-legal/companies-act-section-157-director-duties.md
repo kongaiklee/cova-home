@@ -18,7 +18,7 @@ og_description: "Section 157 of the Companies Act 1967 is the foundational provi
 
 > **The Answer in 60 Seconds**
 >
-> [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) is the foundational provision establishing director duties in Singapore. It codifies that directors must act honestly and use reasonable diligence in the discharge of their duties, and that directors and officers cannot use their position to gain personal advantage that would cause detriment to the company. Breach is a criminal offence carrying fines and potential imprisonment, plus civil exposure to the company. The provision interacts with broader common-law director duties (fiduciary duty, duty of care, duty to act within powers, etc.) which Singapore courts have developed extensively. For Singapore SMEs, Section 157 is the regulatory foundation that makes **D&O (Directors & Officers) insurance** essential — D&O responds to defence costs and damages for director-level claims, with specific policy provisions addressing the criminal / fraud exclusions that limit cover for deliberate breach. The provision also informs the [WSHA Section 48](#article-22) personal director liability framework.
+> [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) is the foundational provision establishing director duties in Singapore. It codifies that directors must act honestly and use reasonable diligence in the discharge of their duties, and that directors and officers cannot use their position to gain personal advantage that would cause detriment to the company. Breach is a criminal offence carrying fines and potential imprisonment, plus civil exposure to the company. The provision interacts with broader common-law director duties (fiduciary duty, duty of care, duty to act within powers, etc.) which Singapore courts have developed extensively. For Singapore SMEs, Section 157 is the regulatory foundation that makes **D&O (Directors & Officers) insurance** essential — D&O responds to defence costs and damages for director-level claims, with specific policy provisions addressing the criminal / fraud exclusions that limit cover for deliberate breach. The provision also informs the [WSHA Section 48](/licensing/bca-me-workhead-contractor-insurance-requirements) personal director liability framework.
 
 ### The Sourced Detail
 
@@ -172,7 +172,7 @@ Section 157 takes specific significance in insolvency contexts. Directors approa
 - Specific Section 224 transactions at undervalue exposure
 - Specific Section 225 unfair preferences exposure
 
-These provisions (see [Article 53](#article-53) for IRDA-specific framework) operate alongside Section 157 in insolvency scenarios. D&O coverage typically responds, but the run-off / extended reporting period matters substantially because insolvency-related claims often surface after the company ceases trading.
+These provisions (see [Article 53](/procedural-howto/group-medical-outpatient-claim) for IRDA-specific framework) operate alongside Section 157 in insolvency scenarios. D&O coverage typically responds, but the run-off / extended reporting period matters substantially because insolvency-related claims often surface after the company ceases trading.
 
 #### Specific case considerations
 
@@ -222,7 +222,7 @@ For Singapore SME directors:
 
 6. **Specific run-off / extended reporting consideration.** Specific insolvency-context exposure.
 
-7. **Coordinate with WSHA Section 48 framework.** Specific personal liability layer (see [Article 22](#article-22)).
+7. **Coordinate with WSHA Section 48 framework.** Specific personal liability layer (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)).
 
 8. **For specific industries / governance complexity, specialist counsel.**
 

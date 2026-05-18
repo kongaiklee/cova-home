@@ -36,7 +36,7 @@ Singapore-licensed professional services are regulated by sector:
 
 **Law** — [Law Society of Singapore](https://www.lawsociety.org.sg/) and [Legal Profession Act 1966](https://sso.agc.gov.sg/Act/LPA1966) require Practising Certificate holders to have PI; minimum specific cover requirements.
 
-**Medicine** — [Singapore Medical Council (SMC)](https://www.healthprofessionals.gov.sg/) under the [Medical Registration Act 1997](https://sso.agc.gov.sg/Act/MRA1997). Most doctors use [Medical Defence Mutual indemnity](https://www.healthprofessionals.gov.sg/) rather than commercial insurance (per [Article 28](#article-28)).
+**Medicine** — [Singapore Medical Council (SMC)](https://www.healthprofessionals.gov.sg/) under the [Medical Registration Act 1997](https://sso.agc.gov.sg/Act/MRA1997). Most doctors use [Medical Defence Mutual indemnity](https://www.healthprofessionals.gov.sg/) rather than commercial insurance (per [Article 28](/comparison/medical-mutual-indemnity-vs-commercial-insurance)).
 
 **Real estate** — [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) under [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). Specific PI requirements for licensed estate agencies.
 

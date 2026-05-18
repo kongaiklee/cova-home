@@ -76,13 +76,13 @@ Specific Care, Custody, Control liability for remains in agency's care. Standard
 
 Property/Fire cover including specific provisions for premises housing remains. Operational scope (refrigeration capability, specific premises modifications, operational considerations) affects underwriting.
 
-Equipment Breakdown (per [Article 209](#article-209)) for specific equipment dependencies — refrigeration is critical, other equipment.
+Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies — refrigeration is critical, other equipment.
 
-BI cover (per [Article 195](#article-195) and [Article 208](#article-208)) for operational disruption. Operations are time-compressed; even short disruptions affect commercial scope substantially. Indemnity period adequacy matters.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Operations are time-compressed; even short disruptions affect commercial scope substantially. Indemnity period adequacy matters.
 
 Commercial Crime / employee dishonesty cover. Substantive cash transactions during commercial scope and operational scope considerations create specific Crime exposure. Family valuables (jewelry, items handled during preparation) create commercial considerations.
 
-D&O cover for incorporated structures addressing director-level exposure under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967) (per [Article 184](#article-184)).
+D&O cover for incorporated structures addressing director-level exposure under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967) (per [Article 184](/document-legal/companies-act-section-157-director-duties)).
 
 EPL cover addressing employment relationships — particularly relevant given commercial sensitivity around staff working with bereaved families.
 
@@ -108,7 +108,7 @@ Specific equipment breakdown scenarios (refrigeration failure being the most con
 
 Specific staff misconduct scenarios (theft from family valuables, dignity violations) engage Commercial Crime, Public Liability, and operational scope.
 
-Specific PDPA-related incidents (data breach scenarios involving family information) engage PDPA Section 26D notification framework (per [Article 66](#article-66)) and Cyber Liability cover.
+Specific PDPA-related incidents (data breach scenarios involving family information) engage PDPA Section 26D notification framework (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) and Cyber Liability cover.
 
 #### Commercial considerations
 

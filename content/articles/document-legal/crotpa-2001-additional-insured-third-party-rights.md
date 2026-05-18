@@ -66,7 +66,7 @@ For an insurer, this means an additional insured stepping in under CRoTPA inheri
 
 Section 8(1) is the key insurance preservation provision: "Section 2 is in addition to and does not affect any rights or remedies which a third party has or may have apart from this Act." This preserves the common-law doctrine of undisclosed principal (recognised by the Court of Appeal in [Family Food Court v Seah Boon Lock](https://www.elitigation.sg/gd/s/2008_SGCA_31)), agency in general, trust (where the named insured holds the benefit of cover on trust for the additional insured), and statutory direct-action rights, including under the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) for road accident bodily-injury victims and under section 28 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for employee rights against the insurer on employer bankruptcy.
 
-Section 8(3) deals with limitation: it provides that in section 6 of the Limitation Act 1959, references to actions founded on contract include references to actions brought in reliance on section 2 of CRoTPA. This fixes the limitation period for a CRoTPA enforcement action at 6 years from accrual of the third party's right to enforce, under the same regime that governs contract actions generally (see [Article 256](#article-256) on Limitation Act mechanics).
+Section 8(3) deals with limitation: it provides that in section 6 of the Limitation Act 1959, references to actions founded on contract include references to actions brought in reliance on section 2 of CRoTPA. This fixes the limitation period for a CRoTPA enforcement action at 6 years from accrual of the third party's right to enforce, under the same regime that governs contract actions generally (see [Article 256](/document-legal/limitation-act-1959-time-bar-insurance-claims) on Limitation Act mechanics).
 
 Section 8(2) provides that section 2(2) of the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) does not apply where the negligence claim is a breach of a contractual term and the claimant is a third party relying on section 2 of CRoTPA. Section 8(4) clarifies that a third party is not treated as a party to the contract for any other written law.
 
@@ -154,11 +154,11 @@ Insurance contracts are within CRoTPA's general regime. The drafting choices mad
 
 ### Related Information
 
-- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](#article-254)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
-- [Article 257 — Standard Limitation of Liability Clauses: Drafting and Commercial Implications](#article-257)
-- [Article 259 — Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications](#article-259)
-- [Article 260 — Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](#article-260)
-- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](#article-252)
+- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 257 — Standard Limitation of Liability Clauses: Drafting and Commercial Implications](/document-legal/standard-limitation-of-liability-clause)
+- [Article 259 — Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications](/document-legal/standard-insurance-clause-commercial-contracts)
+- [Article 260 — Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
+- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
 
 ---

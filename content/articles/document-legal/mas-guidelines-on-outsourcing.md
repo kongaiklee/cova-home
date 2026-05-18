@@ -246,7 +246,7 @@ The Guidelines have specific provisions on cloud arrangements:
 
 **For SaaS SMEs serving FIs, the cloud architecture decisions are material:**
 
-- Singapore-region hosting often preferred or required (per [MAS supervisory guidance](https://www.mas.gov.sg/regulation/guidelines)) (see [Article 117](#article-117))
+- Singapore-region hosting often preferred or required (per [MAS supervisory guidance](https://www.mas.gov.sg/regulation/guidelines)) (see [Article 117](/cross-border/sg-saas-data-residency-decisions))
 - Specific cloud provider compliance certifications expected
 - Specific architectural patterns
 - Specific incident response coordination

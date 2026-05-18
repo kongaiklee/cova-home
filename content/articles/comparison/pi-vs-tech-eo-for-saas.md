@@ -102,7 +102,7 @@ Outcome: Tech E&O appropriate, with specific availability provisions checked.
 
 PI: Typically excludes cyber.
 Tech E&O: Specific cyber bridge or coordination with standalone Cyber.
-Cyber Liability: Direct response (see [Article 164](#article-164) for cyber framework).
+Cyber Liability: Direct response (see [Article 164](/crisis/cyber-extortion-ransomware) for cyber framework).
 
 Outcome: Standalone Cyber is the primary; Tech E&O may provide specific bridge.
 
@@ -141,7 +141,7 @@ Tech E&O and standalone Cyber are complementary:
 
 **Tech E&O covers errors in the technology that cause client loss.** First-party costs for technology operations, third-party liability for technology errors.
 
-**Standalone Cyber covers cyber events affecting the operation itself.** First-party operational cyber costs, third-party liability from data breaches, cyber-extortion (see [Article 164](#article-164)), specific notification obligations.
+**Standalone Cyber covers cyber events affecting the operation itself.** First-party operational cyber costs, third-party liability from data breaches, cyber-extortion (see [Article 164](/crisis/cyber-extortion-ransomware)), specific notification obligations.
 
 For a SaaS provider, both are typically essential:
 - Tech E&O for software-error scenarios
@@ -157,7 +157,7 @@ For a SaaS provider, both are typically essential:
 
 **For SaaS operations (mid to large):** Tech E&O S$3M-S$10M typical, possibly with specific tower structure.
 
-**For material technology operations or high-exposure scenarios:** Tech E&O substantial limits often with tower structure (see [Article 167](#article-167)).
+**For material technology operations or high-exposure scenarios:** Tech E&O substantial limits often with tower structure (see [Article 167](/comparison/cyber-tower-vs-single-policy)).
 
 **Specific limit drivers:**
 
@@ -211,7 +211,7 @@ The Singapore Tech E&O market has matured significantly with:
 - Commercial conventions
 - Specific tower structures available for substantial limits
 
-Specific market evolution continues with the [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Act/CA2018) (see [Article 172](#article-172)) and broader cyber market evolution.
+Specific market evolution continues with the [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Act/CA2018) (see [Article 172](/regulatory-change/cybersecurity-act-2024-first-year)) and broader cyber market evolution.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -242,7 +242,7 @@ For Singapore SaaS / technology SMEs:
 
 6. **For SaaS, specific availability provisions.** Specific service disruption exposure.
 
-7. **For substantial limits, tower structure.** Operational considerations (see [Article 167](#article-167)).
+7. **For substantial limits, tower structure.** Operational considerations (see [Article 167](/comparison/cyber-tower-vs-single-policy)).
 
 8. **Annual review covering operational evolution.**
 

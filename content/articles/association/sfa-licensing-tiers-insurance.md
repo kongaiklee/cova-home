@@ -118,7 +118,7 @@ Food category drives specific cover needs:
 - Money for cash takings
 - Plate Glass for storefronts
 - Group Medical / PA for staff
-- See [Article 77](#article-77) on opening a café
+- See [Article 77](/decision-tree/opening-cafe-checklist) on opening a café
 
 **Catering / Central Kitchen:**
 - Higher Product Liability limits (multi-customer exposure)
@@ -193,7 +193,7 @@ For SMEs, an enforcement event can:
 #### Specific scenarios
 
 **Scenario A: Café opening with Food Shop Licence**
-- Standard opening checklist — see [Article 77](#article-77)
+- Standard opening checklist — see [Article 77](/decision-tree/opening-cafe-checklist)
 - SFA Food Shop Licence
 - WICA, PL, Product, Property, Cyber, Group Medical baseline
 
@@ -252,7 +252,7 @@ When approaching food business insurance, the SFA category and operational profi
 - Previous claims (own and industry)
 - Specific high-risk activities
 
-Insurer questionnaires can be detailed for higher-risk categories. Comprehensive disclosure (per the duty of utmost good faith — see [Article 74](#article-74)) is essential.
+Insurer questionnaires can be detailed for higher-risk categories. Comprehensive disclosure (per the duty of utmost good faith — see [Article 74](/document-legal/insurance-act-disclosure-duty)) is essential.
 
 ### Common Mistakes / What Goes Wrong
 

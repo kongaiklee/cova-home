@@ -202,7 +202,7 @@ Per [CSA framework](https://www.csa.gov.sg/):
 
 For CII and other designated operators:
 - Substantial limits typical (S$10M-S$50M+)
-- Specific tower structures common (see [Article 167](#article-167))
+- Specific tower structures common (see [Article 167](/comparison/cyber-tower-vs-single-policy))
 
 **Specific incident response panel:**
 

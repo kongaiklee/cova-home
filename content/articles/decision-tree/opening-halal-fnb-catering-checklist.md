@@ -22,7 +22,7 @@ og_description: "A Halal-certified F&B or catering operation in Singapore typica
 
 ### The Sourced Detail
 
-Halal F&B operations in Singapore sit at the intersection of standard food business regulation, religious certification, and (for catering and distribution operations) supply chain complexity. The insurance build follows the F&B baseline established in [Article 77](#article-77) on opening a café, with specific overlays for Halal certification integrity, allergen management, and (for catering) off-site delivery exposure.
+Halal F&B operations in Singapore sit at the intersection of standard food business regulation, religious certification, and (for catering and distribution operations) supply chain complexity. The insurance build follows the F&B baseline established in [Article 77](/decision-tree/opening-cafe-checklist) on opening a café, with specific overlays for Halal certification integrity, allergen management, and (for catering) off-site delivery exposure.
 
 #### The MUIS Halal Certification framework
 
@@ -63,7 +63,7 @@ Per the [Sale of Food Act 1973](https://sso.agc.gov.sg/Act/SFA1973) and [SFA's F
 
 **2. WICA insurance**
 
-For all manual workers (kitchen staff, packers, drivers, cleaners) regardless of salary; non-manual staff earning ≤S$2,600 also in scope. See [Article 67](#article-67).
+For all manual workers (kitchen staff, packers, drivers, cleaners) regardless of salary; non-manual staff earning ≤S$2,600 also in scope. See [Article 67](/document-legal/wica-section-25-offence).
 
 **3. Motor third-party (if delivery vehicles)**
 
@@ -80,7 +80,7 @@ For Halal operations specifically:
 - Religious / consumer-protection complaints
 - Class-action potential for community-affecting incidents
 
-Limits typically S$1M–S$5M depending on operation scale. See [Article 70](#article-70) on PL vs Product Liability.
+Limits typically S$1M–S$5M depending on operation scale. See [Article 70](/comparison/pl-vs-product-liability) on PL vs Product Liability.
 
 **5. Property/Fire/All Risks**
 
@@ -120,7 +120,7 @@ For catering operations delivering to off-site venues, Goods in Transit covers p
 
 #### Cyber Liability
 
-For F&B operations running online ordering systems, reservation systems (OpenTable, Chope, Quandoo, custom), delivery aggregators (Foodpanda, GrabFood, Deliveroo), customer loyalty programmes, payment processing, email marketing, corporate catering customer databases — Cyber covers PDPA breach response and BI from cyber events. See [Article 72](#article-72).
+For F&B operations running online ordering systems, reservation systems (OpenTable, Chope, Quandoo, custom), delivery aggregators (Foodpanda, GrabFood, Deliveroo), customer loyalty programmes, payment processing, email marketing, corporate catering customer databases — Cyber covers PDPA breach response and BI from cyber events. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
 
 #### Specific Halal-operation considerations
 
@@ -155,7 +155,7 @@ For F&B operations running online ordering systems, reservation systems (OpenTab
 #### Specific scenarios
 
 **Scenario A: Halal-positioned café in CBD with corporate lunch service**
-- Standard café build per [Article 77](#article-77) plus Halal-specific considerations
+- Standard café build per [Article 77](/decision-tree/opening-cafe-checklist) plus Halal-specific considerations
 - Higher-end clientele and corporate accounts may scrutinise Halal status
 - Lighter Goods in Transit (corporate lunch deliveries within walking distance often)
 - Standard Product Liability sufficient for own-served products
@@ -182,7 +182,7 @@ For F&B operations running online ordering systems, reservation systems (OpenTab
 - Goods in Transit
 - Marine Cargo for export
 - Cyber for B2B systems
-- See [Article 79](#article-79) on kombucha brewery for a related production-and-distribution model
+- See [Article 79](/edge-case/kombucha-brewery-insurance) on kombucha brewery for a related production-and-distribution model
 
 ### Common Mistakes / What Goes Wrong
 

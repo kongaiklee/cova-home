@@ -18,7 +18,7 @@ og_description: "Performance bond claim handling differs from typical insurance 
 
 > **The Answer in 60 Seconds**
 >
-> Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per [Article 198](#article-198)) — the obligee (project owner / customer) claims against the surety, who then recovers from the principal (the SME). The standard sequence from the obligee perspective: **principal default identification** → **specific contractual notice to principal** → **opportunity for principal to cure** → **specific notification to surety** → **specific claim documentation submission** → **surety investigation** (specific cure attempts may continue) → **bond payment to obligee** (where claim substantiated) → **surety recovery action against principal**. For Singapore SMEs that are obligees (e.g. project owners requiring contractor performance bonds, customers requiring supplier performance bonds), the process matters because effective claim handling requires specific contractual discipline. For Singapore SMEs that are principals (providing bonds), understanding the obligee perspective explains the operational risk profile.
+> Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per [Article 198](/comparison/surety-vs-performance-bond)) — the obligee (project owner / customer) claims against the surety, who then recovers from the principal (the SME). The standard sequence from the obligee perspective: **principal default identification** → **specific contractual notice to principal** → **opportunity for principal to cure** → **specific notification to surety** → **specific claim documentation submission** → **surety investigation** (specific cure attempts may continue) → **bond payment to obligee** (where claim substantiated) → **surety recovery action against principal**. For Singapore SMEs that are obligees (e.g. project owners requiring contractor performance bonds, customers requiring supplier performance bonds), the process matters because effective claim handling requires specific contractual discipline. For Singapore SMEs that are principals (providing bonds), understanding the obligee perspective explains the operational risk profile.
 
 ### The Sourced Detail
 
@@ -26,7 +26,7 @@ Performance bond claim handling is a specialised commercial process that combine
 
 #### The three-party context
 
-Per [Article 198](#article-198) on surety bond fundamentals:
+Per [Article 198](/comparison/surety-vs-performance-bond) on surety bond fundamentals:
 
 - **Principal:** SME providing the bond (the contractor / supplier / service provider)
 - **Obligee:** Party benefiting from the bond (project owner / customer / specific commercial counterparty)
@@ -189,7 +189,7 @@ For some bonds:
 
 **Indemnification framework.**
 
-Per surety bond foundation (per [Article 198](#article-198)):
+Per surety bond foundation (per [Article 198](/comparison/surety-vs-performance-bond)):
 
 - Principal indemnifies surety
 - Operational specific recovery action
@@ -222,7 +222,7 @@ For SMEs providing bonds:
 
 **Pre-bond considerations.**
 
-- Specific bond facility arrangements (per [Article 198](#article-198))
+- Specific bond facility arrangements (per [Article 198](/comparison/surety-vs-performance-bond))
 
 **Operational discipline.**
 
@@ -240,7 +240,7 @@ For SMEs providing bonds:
 
 **HDB-RRC bonds.**
 
-For HDB renovation contractors (per [Article 75](#article-75)):
+For HDB renovation contractors (per [Article 75](/document-legal/limitation-act-6-year-clock)):
 
 - Specific S$15,000 bond framework
 

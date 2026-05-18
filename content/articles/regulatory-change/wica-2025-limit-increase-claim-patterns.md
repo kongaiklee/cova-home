@@ -81,7 +81,7 @@ WICA premium market has demonstrated:
 
 **2. Designated insurer panel response:**
 
-The 24-insurer panel (see [Article 169](#article-169)) has shown:
+The 24-insurer panel (see [Article 169](/comparison/wica-designated-insurer-panel)) has shown:
 
 - Generally consistent rate adjustments across panel
 - Operational industry-specific variations
@@ -145,7 +145,7 @@ For employer negligence claims:
 
 **Specific WSHA Section 48 considerations:**
 
-For director-level personal exposure (see [Article 22](#article-22)):
+For director-level personal exposure (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)):
 - D&O coordination
 - Specific defence costs
 
@@ -202,7 +202,7 @@ The limit increase has intensified insurer scrutiny on:
 - Material WICA exposure
 - Operational operational scope
 
-- Operational Platform Workers Act considerations (see [Article 170](#article-170))
+- Operational Platform Workers Act considerations (see [Article 170](/regulatory-change/platform-workers-act-first-year-review))
 
 **F&B / hospitality:**
 
@@ -293,7 +293,7 @@ The limit increase has intensified insurer scrutiny on:
 
 **Specific Platform Workers Act coordination:**
 
-- Continued PWA framework maturation (see [Article 170](#article-170))
+- Continued PWA framework maturation (see [Article 170](/regulatory-change/platform-workers-act-first-year-review))
 
 - Operational operational sophistication
 

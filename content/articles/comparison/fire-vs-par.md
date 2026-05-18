@@ -98,7 +98,7 @@ PAR is more typically used for:
 Regardless of which structure is chosen, both policies typically have:
 
 - **Average clause** — under-insurance penalty proportional to the shortfall in sum insured. If insured for 60% of replacement value, a partial loss is paid at 60%.
-- **Reinstatement vs indemnity basis** — choice between replacement-as-new (reinstatement) and depreciated value (indemnity). See [Article 65](#article-65) for detail.
+- **Reinstatement vs indemnity basis** — choice between replacement-as-new (reinstatement) and depreciated value (indemnity). See [Article 65](/comparison/indemnity-vs-reinstatement-basis) for detail.
 - **Excess** — first amount payable by the insured per claim; varies by peril.
 - **Compliance warranty** — typically requires valid SCDF Fire Certificate where applicable, no breach of fire safety regulations, and compliance with permits and licences.
 - **Premium warranty** — premium must be paid within 60 days of inception (Singapore market standard) or the policy is automatically void from inception.

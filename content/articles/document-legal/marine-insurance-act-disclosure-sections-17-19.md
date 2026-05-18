@@ -48,7 +48,7 @@ The provision establishes:
 
 **Timing.** Disclosure must be before contract conclusion — meaning before the policy incepts. Disclosure made after binding may be too late to satisfy Section 18 (though it may still help with renewal / amendment cycles).
 
-**Materiality test.** "Every material circumstance" — the test that *Pan Atlantic v Pine Top* [1995] 1 AC 501 (see [Article 186](#article-186)) clarified as: would influence the judgment of a prudent insurer. Plus the actual inducement requirement.
+**Materiality test.** "Every material circumstance" — the test that *Pan Atlantic v Pine Top* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test)) clarified as: would influence the judgment of a prudent insurer. Plus the actual inducement requirement.
 
 **Knowledge.** "Known to the assured" — actual knowledge governs. But "deemed to know every circumstance which, in the ordinary course of business, ought to be known" extends knowledge constructively. An SME cannot escape disclosure by deliberately not investigating its own operations; the standard is what would be known in the ordinary course of business.
 

@@ -46,7 +46,7 @@ A breach affecting customer data of an SME with operations across SG, ID, MY, PH
 
 A Singapore-issued cyber programme can cover regional data subject to specific structuring:
 
-**Definition of Insured.** The policy should specifically include subsidiaries operating in each jurisdiction (per [Article 302](#article-302) on subsidiary scope).
+**Definition of Insured.** The policy should specifically include subsidiaries operating in each jurisdiction (per [Article 302](/cross-border/foreign-subsidiary-insurance-scope) on subsidiary scope).
 
 **Territorial scope.** Worldwide or region-specific scope; broad enough to cover all subsidiary jurisdictions.
 
@@ -110,7 +110,7 @@ Cyber programme structure depends on the SME's regional data exposure:
 
 **Above SGD 100 million combined regional revenue.** Tower architecture (primary plus excess layers); SGD 25 million+ limits; specific country cover where local subsidiary holds significant data; coordination with local data protection compliance.
 
-Per [Article 278](#article-278), tower architecture for cyber typically begins at SGD 25 million and scales from there. For substantial regional operations, this matters.
+Per [Article 278](/comparison/cyber-architecture-tower-vs-monoline), tower architecture for cyber typically begins at SGD 25 million and scales from there. For substantial regional operations, this matters.
 
 #### Common operational scenarios
 
@@ -118,7 +118,7 @@ Per [Article 278](#article-278), tower architecture for cyber typically begins a
 
 **Scenario B — SG distributor with subsidiaries in three ASEAN countries.** Singapore master with regional territory and subsidiary endorsements; SGD 5 million limit appropriate for typical distribution profile.
 
-**Scenario C — SG manufacturer with factory in Vietnam, customer base in five ASEAN countries.** Vietnam factory data is local; Singapore HQ aggregates; cross-border data flow agreements (per [Article 117](#article-117)) shape regulatory exposure; SGD 10 million limit; specific OT/ICS cyber sub-limits if relevant.
+**Scenario C — SG manufacturer with factory in Vietnam, customer base in five ASEAN countries.** Vietnam factory data is local; Singapore HQ aggregates; cross-border data flow agreements (per [Article 117](/cross-border/sg-saas-data-residency-decisions)) shape regulatory exposure; SGD 10 million limit; specific OT/ICS cyber sub-limits if relevant.
 
 **Scenario D — SG fintech operating across multiple ASEAN markets.** MAS-regulated entity with material data scope; specific cover for MAS [TRM Guidelines](https://www.mas.gov.sg/) compliance; tower architecture from SGD 25 million; specific local cover where MAS-equivalent regulators (BNM Malaysia, OJK Indonesia, BSP Philippines) require local engagement.
 

@@ -46,7 +46,7 @@ Many commercial kombucha products are formulated to remain below 0.5% to avoid t
 
 **3. SCDF Fire Safety Compliance**
 
-Production premises typically require Fire Safety Certificate compliance. Fermentation operations involving CO2 production may have additional ventilation and gas detection requirements. See [Article 36](#article-36) on FSC.
+Production premises typically require Fire Safety Certificate compliance. Fermentation operations involving CO2 production may have additional ventilation and gas detection requirements. See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) on FSC.
 
 **4. NEA environmental requirements**
 
@@ -129,11 +129,11 @@ For breweries running:
 - Customer database with subscriber data
 - Wholesale customer ordering systems
 
-Cyber Liability covers the standard breach response stack — see [Article 72](#article-72). Limits S$1M–S$3M typical for SME-scale operations.
+Cyber Liability covers the standard breach response stack — see [Article 72](/comparison/cyber-standalone-vs-par-sublimit). Limits S$1M–S$3M typical for SME-scale operations.
 
 **12. Group Medical and Group PA**
 
-Production environments have higher injury frequency than office work. GPA in particular complements WICA by covering off-duty events (see [Article 58](#article-58)). Group Medical for retention.
+Production environments have higher injury frequency than office work. GPA in particular complements WICA by covering off-duty events (see [Article 58](/comparison/wica-vs-gpa)). Group Medical for retention.
 
 #### Distribution-channel-specific considerations
 
@@ -151,7 +151,7 @@ Production environments have higher injury frequency than office work. GPA in pa
 - Personal Liability for any tasting events or pop-up activities
 
 **Export (regional or international)**
-- Marine Cargo cover for international shipments — typically ICC A or ICC B for finished goods (see [Article 51](#article-51) and [Article 62](#article-62))
+- Marine Cargo cover for international shipments — typically ICC A or ICC B for finished goods (see [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim))
 - Product Liability with appropriate territorial extension — particularly USA/Canada if exporting there
 - Currency exchange and trade credit considerations
 

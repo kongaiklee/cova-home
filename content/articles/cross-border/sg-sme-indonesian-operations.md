@@ -118,7 +118,7 @@ For goods movement between Singapore and Indonesia:
 - Marine cargo insurance is global by nature
 - Singapore-issued marine cargo with appropriate scope can cover Singapore-Indonesia shipments
 - Indonesian local insurer alternative available
-- See [Article 51](#article-51) and [Article 62](#article-62) on Institute Cargo Clauses
+- See [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim) on Institute Cargo Clauses
 
 **Customs and import considerations:**
 - Indonesia-specific customs procedures

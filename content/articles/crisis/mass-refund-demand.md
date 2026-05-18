@@ -61,7 +61,7 @@ The [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPF
 - **Unfair practices** — a defined list of unfair practices, including misleading representations, with consequences and remedies. [CASE (Consumers Association of Singapore)](https://www.case.org.sg/) plays the consumer-facing role.
 - **Scope** — covers goods and services, with the commercial-vs-consumer distinction determining application.
 
-The [Small Claims Tribunals](https://www.judiciary.gov.sg/state-courts/small-claims-tribunals) provide a lower-cost route for consumer disputes within their jurisdictional limits. For financial services, FIDReC is the equivalent — see [Article 43](#article-43).
+The [Small Claims Tribunals](https://www.judiciary.gov.sg/state-courts/small-claims-tribunals) provide a lower-cost route for consumer disputes within their jurisdictional limits. For financial services, FIDReC is the equivalent — see [Article 43](/procedural-howto/dispute-denied-claim).
 
 #### Industry-specific frameworks
 

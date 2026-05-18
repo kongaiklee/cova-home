@@ -72,11 +72,11 @@ Professional Indemnity cover addressing advisory and matching scope. The agency'
 
 Specific commercial Crime / employee dishonesty cover. FDH agencies typically handle client funds (employer payments for fees, levies, transport, specific other charges), creating specific Crime exposure. Specific Crime cover addresses employee theft and operational commercial scenarios.
 
-Cyber Liability cover. FDH agencies handle substantial personal data (employer details, FDH details from source countries, specific commercial information). PDPA exposure is material; specific Cyber Liability cover (per [Article 167](#article-167)) addresses breach response and specific liability scope.
+Cyber Liability cover. FDH agencies handle substantial personal data (employer details, FDH details from source countries, specific commercial information). PDPA exposure is material; specific Cyber Liability cover (per [Article 167](/comparison/cyber-tower-vs-single-policy)) addresses breach response and specific liability scope.
 
-D&O cover for incorporated agencies addressing director-level exposure under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967) (per [Article 184](#article-184)) and specific framework exposure.
+D&O cover for incorporated agencies addressing director-level exposure under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967) (per [Article 184](/document-legal/companies-act-section-157-director-duties)) and specific framework exposure.
 
-EPL cover addressing employee-related claims — particularly relevant given [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) (per [Article 189](#article-189)) protected characteristics framework. The agency's own employees (counsellors, operations staff, management) face specific employment law framework.
+EPL cover addressing employee-related claims — particularly relevant given [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) (per [Article 189](/document-legal/wfa-2024-protected-characteristics)) protected characteristics framework. The agency's own employees (counsellors, operations staff, management) face specific employment law framework.
 
 Operational scope considerations include specific source country counterparty risk, commercial relationships, and commercial sensitivity.
 
@@ -94,7 +94,7 @@ Source country counterparty issues — where overseas recruitment partner faces 
 
 Specific premises incidents — accidents at agency premises, commercial scenarios — engage standard Public Liability framework.
 
-Specific PDPA-related incidents — data breach scenarios involving employer or FDH data — engage PDPA Section 26D notification framework (per [Article 66](#article-66)) and Cyber Liability cover.
+Specific PDPA-related incidents — data breach scenarios involving employer or FDH data — engage PDPA Section 26D notification framework (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) and Cyber Liability cover.
 
 Specific MOM regulatory enforcement — demerit points, licence suspension scenarios, specific compliance investigations — engage commercial counsel and operational considerations.
 

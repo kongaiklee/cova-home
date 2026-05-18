@@ -56,7 +56,7 @@ PL and PI premium scales materially with the activity type. A 2,000 sq ft yoga s
 
 **Business registration** with ACRA is foundational.
 
-**SCDF Fire Safety Certificate** — every gym premises requires FSC compliance. Equipment-heavy facilities typically require specific assessments. See [Article 10](#article-10) on SCDF FSC.
+**SCDF Fire Safety Certificate** — every gym premises requires FSC compliance. Equipment-heavy facilities typically require specific assessments. See [Article 10](/licensing/scdf-fire-safety-certificate-insurance-implications) on SCDF FSC.
 
 **URA zoning** — gyms and fitness studios are commercial uses requiring appropriate URA zoning. Specific zoning categories matter; some retail/commercial zones permit fitness uses while others restrict them.
 
@@ -165,7 +165,7 @@ Commercial fitness equipment is high-value and electronics-heavy:
 **Equipment Breakdown specifically covers:**
 - Mechanical / electrical / electronic failure of equipment
 - Distinct from Fire/Property (external causes)
-- See [Article 116](#article-116)
+- See [Article 116](/crisis/equipment-breakdown-halts-production)
 
 For mid-size and larger facilities, Equipment Breakdown is a meaningful cover.
 
@@ -183,7 +183,7 @@ PDPA exposure significant. Specific considerations:
 - Health screening forms (PAR-Q) = sensitive data
 - Recurring billing = payment data exposure
 
-Cyber Liability with appropriate limits is essential. See [Article 98](#article-98) on PDPA Section 24.
+Cyber Liability with appropriate limits is essential. See [Article 98](/document-legal/pdpa-section-24-protection-obligation) on PDPA Section 24.
 
 #### Crime / Fidelity Guarantee considerations
 
@@ -193,7 +193,7 @@ Membership-based businesses with recurring billing have specific exposures:
 - Manipulation of membership records
 - Theft of membership fees
 
-For mid-size and larger facilities, Fidelity Guarantee covering employee dishonesty is appropriate. See [Article 48](#article-48).
+For mid-size and larger facilities, Fidelity Guarantee covering employee dishonesty is appropriate. See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim).
 
 #### Stage-by-stage insurance build
 

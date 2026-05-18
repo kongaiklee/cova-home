@@ -42,22 +42,30 @@ for (const f of files) {
   if (m) migrated.add(m[1]);
 }
 
-const tally = { OK: 0, PENDING: 0, BROKEN: 0, SELF: 0 };
+const tally = { OK: 0, PENDING: 0, BROKEN: 0, SELF: 0, ANCHOR: 0 };
 const problems = [];
 
 for (const f of files) {
   const raw = fs.readFileSync(f, 'utf8');
   const ownSlug = raw.match(/^slug:\s*"([^"]+)"/m)?.[1];
-  // Internal Markdown links: ](/path) — skip external https links.
-  for (const m of raw.matchAll(/\]\((\/[^)\s]+)\)/g)) {
-    const target = m[1].replace(/[#?].*$/, '').replace(/\/+$/, '');
+  // Every Markdown link; external https links are skipped.
+  for (const m of raw.matchAll(/\]\(([^)\s]+)\)/g)) {
+    const target = m[1];
+    if (/^https?:/i.test(target)) continue;
     let status;
-    if (target === ownSlug) status = 'SELF';
-    else if (migrated.has(target)) status = 'OK';
-    else if (corpus.has(target)) status = 'PENDING';
-    else status = 'BROKEN';
+    if (target.startsWith('#')) {
+      status = 'ANCHOR'; // dead single-document fragment
+    } else if (target.startsWith('/')) {
+      const slug = target.replace(/[#?].*$/, '').replace(/\/+$/, '');
+      if (slug === ownSlug) status = 'SELF';
+      else if (migrated.has(slug)) status = 'OK';
+      else if (corpus.has(slug)) status = 'PENDING';
+      else status = 'BROKEN';
+    } else {
+      continue; // relative or other, not audited
+    }
     tally[status]++;
-    if (status === 'SELF' || status === 'BROKEN') {
+    if (status !== 'OK' && status !== 'PENDING') {
       problems.push(`  ${status}  ${ownSlug}  ->  ${target}`);
     }
   }
@@ -67,11 +75,12 @@ console.log(`Corpus: ${corpus.size} article slugs in master.`);
 console.log(`Migrated: ${migrated.size} articles.`);
 console.log(
   `Internal links: ${tally.OK} OK, ${tally.PENDING} pending migration, ` +
-    `${tally.SELF} self-links, ${tally.BROKEN} broken.`
+    `${tally.SELF} self-links, ${tally.ANCHOR} dead anchors, ${tally.BROKEN} broken.`
 );
 if (problems.length) {
-  console.log('\nSelf-links and broken targets:');
-  problems.forEach((p) => console.log(p));
+  console.log('\nProblems (self-links, dead anchors, broken targets):');
+  problems.slice(0, 40).forEach((p) => console.log(p));
+  if (problems.length > 40) console.log(`  ... and ${problems.length - 40} more`);
 } else {
-  console.log('\nNo self-links or broken targets.');
+  console.log('\nNo self-links, dead anchors or broken targets.');
 }

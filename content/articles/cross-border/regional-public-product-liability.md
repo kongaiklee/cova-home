@@ -64,7 +64,7 @@ Singapore-issued Product Liability policies typically allow worldwide territoria
 
 **Manufacturer/supplier in Singapore, customer in ASEAN/EU/Rest of World.** Singapore Product Liability with worldwide territory typically covers product liability claims across these markets.
 
-**Manufacturer in Singapore, customer in USA/Canada.** USA/Canada extension required; significant premium uplift; consideration of class action and punitive damages risk (per [Article 87](#article-87) on US customers).
+**Manufacturer in Singapore, customer in USA/Canada.** USA/Canada extension required; significant premium uplift; consideration of class action and punitive damages risk (per [Article 87](/cross-border/sg-saas-us-customers) on US customers).
 
 **Manufacturer in foreign country, customer worldwide.** The product is no longer "supplied from Singapore"; product liability typically follows the manufacturing jurisdiction. A factory in Vietnam producing for export typically requires Vietnamese-issued Product Liability.
 

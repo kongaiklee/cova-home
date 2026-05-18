@@ -196,7 +196,7 @@ Verify policy notification windows; some are short (days to weeks).
 #### Specific regulator considerations
 
 **PDPC:**
-Investigation typically follows a breach notification or complaint. PDPC has investigation powers under [Section 50 of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012). Outcomes published. See [Article 98](#article-98) on Section 24.
+Investigation typically follows a breach notification or complaint. PDPC has investigation powers under [Section 50 of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012). Outcomes published. See [Article 98](/document-legal/pdpa-section-24-protection-obligation) on Section 24.
 
 **MOM (workplace safety):**
 WSH investigations may follow incident or routine inspection. Statutory powers under [WSHA](https://sso.agc.gov.sg/Act/WSHA2006). Personal liability under Section 48 makes director engagement direct.

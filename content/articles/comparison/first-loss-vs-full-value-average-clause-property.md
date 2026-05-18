@@ -88,7 +88,7 @@ Three pathways recur:
 
 **Sum insured frozen at historical fit-out cost.** A renovation done 3 years ago at S$280,000 is insured at S$280,000 today, while current reinstatement cost has risen to S$340,000. The sum insured is 82% of current value, below the 85% threshold. Average triggers on the first claim.
 
-**Sum insured set on a depreciation basis.** SMEs sometimes set the sum insured at depreciated book value rather than current reinstatement cost, especially for plant and equipment. This is structurally wrong for Reinstatement-basis settlement (see [Article 274](#article-274)) and triggers Average even on a partial loss.
+**Sum insured set on a depreciation basis.** SMEs sometimes set the sum insured at depreciated book value rather than current reinstatement cost, especially for plant and equipment. This is structurally wrong for Reinstatement-basis settlement (see [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property)) and triggers Average even on a partial loss.
 
 **Stock value not declared on a peak basis.** SMEs insuring stock at average value rather than peak value face Average exposure at the precise moments of greatest commercial value at risk (CNY inventory build, year-end retail surge).
 
@@ -148,11 +148,11 @@ The Singapore statutory disclosure rule (Condition of Average must be disclosed 
 
 ### Related Information
 
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](#article-274)
-- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](#article-254)
-- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](#article-252)
-- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](#article-401)
-- [Article 388 — PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](#article-388)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](#article-256)
+- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [Article 388 — PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

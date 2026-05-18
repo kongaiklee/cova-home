@@ -75,7 +75,7 @@ Licensed insurers operate under MAS conduct standards including:
 **4. Dispute resolution.**
 Disputes with licensed insurers can be escalated to:
 - The insurer's complaint process
-- [FIDReC](https://www.fidrec.com.sg/) for eligible matters (see [Article 43](#article-43))
+- [FIDReC](https://www.fidrec.com.sg/) for eligible matters (see [Article 43](/procedural-howto/dispute-denied-claim))
 - MAS as regulator
 - Singapore courts
 
@@ -153,8 +153,8 @@ The Act regulates insurance business "in Singapore or from Singapore." For Singa
 **Outbound — Singapore SME insuring overseas exposures:**
 - Local insurance in the country of property/operation typically required
 - Singapore policies with worldwide territory may extend in specific cases
-- See [Article 96](#article-96) on overseas property
-- See [Articles 86-88, 109, 117, 127](#article-86) on country-specific cross-border
+- See [Article 96](/cross-border/sg-sme-overseas-property) on overseas property
+- See [Articles 86-88, 109, 117, 127](/cross-border/sg-sme-malaysia-branch) on country-specific cross-border
 
 **Inbound — Foreign-licensed insurers covering Singapore exposures:**
 - Generally requires Singapore licensing of the insurer

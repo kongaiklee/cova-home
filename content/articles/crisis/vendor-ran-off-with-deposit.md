@@ -97,7 +97,7 @@ This is the part most SMEs find disappointing.
 Trade Credit covers losses from non-payment by **buyers/customers** for goods or services delivered on credit. It does *not* cover losses from deposits paid to **suppliers/vendors** who fail to deliver. Trade Credit is for accounts receivable, not accounts payable.
 
 **Fidelity Guarantee**
-Covers losses from dishonest acts by your **employees**. It does *not* cover external vendor fraud. See [Article 48](#article-48).
+Covers losses from dishonest acts by your **employees**. It does *not* cover external vendor fraud. See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim).
 
 **Public Liability**
 Covers third-party bodily injury and property damage. Doesn't respond to financial loss from contract breach or fraud.

@@ -148,7 +148,7 @@ A workplace fatality is a low-probability, high-consequence event that almost no
    - CCTV and access control retention periods set appropriately
 
 2. **Insurance baseline.**
-   - WICA cover for all in-scope employees (mandatory — see [Article 67](#article-67))
+   - WICA cover for all in-scope employees (mandatory — see [Article 67](/document-legal/wica-section-25-offence))
    - Common-Law / EL extension at appropriate limit
    - Public Liability for third-party scenarios
    - D&O cover for director personal exposure

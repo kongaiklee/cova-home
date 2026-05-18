@@ -18,7 +18,7 @@ og_description: "A Singapore tattoo studio or body piercing business typically r
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore tattoo studio or body piercing business typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/), compliance with [NEA](https://www.nea.gov.sg/) public-health and hygiene standards for the premises, a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate, [URA](https://www.ura.gov.sg/) zoning compliance, and any health-related approvals that apply. Insurance baseline: **Public Liability** with tattoo / piercing-related exposures (S$1M-S$3M typical), **Treatment Risk / Body Modification Liability** for procedure-related claims (allergic reactions, infections, incorrect placement, satisfaction disputes), **Property/Fire** for fit-out and equipment, **WICA** for staff — including artists, where the question of employee versus independent contractor matters (see [Article 67](#article-67)) — **Cyber Liability** for client data and design portfolios, and **Crime / Money** for cash handling. The most distinctive risk: **infection and cross-contamination exposure** is significant, and insurers underwrite specifically on hygiene protocols and sterilisation discipline. The aesthetic-judgment dimension also generates frequent satisfaction disputes that standard PL may not address.
+> A Singapore tattoo studio or body piercing business typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/), compliance with [NEA](https://www.nea.gov.sg/) public-health and hygiene standards for the premises, a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate, [URA](https://www.ura.gov.sg/) zoning compliance, and any health-related approvals that apply. Insurance baseline: **Public Liability** with tattoo / piercing-related exposures (S$1M-S$3M typical), **Treatment Risk / Body Modification Liability** for procedure-related claims (allergic reactions, infections, incorrect placement, satisfaction disputes), **Property/Fire** for fit-out and equipment, **WICA** for staff — including artists, where the question of employee versus independent contractor matters (see [Article 67](/document-legal/wica-section-25-offence)) — **Cyber Liability** for client data and design portfolios, and **Crime / Money** for cash handling. The most distinctive risk: **infection and cross-contamination exposure** is significant, and insurers underwrite specifically on hygiene protocols and sterilisation discipline. The aesthetic-judgment dimension also generates frequent satisfaction disputes that standard PL may not address.
 
 ### The Sourced Detail
 
@@ -84,7 +84,7 @@ A **general waiver has limited effect against a negligence claim** under Singapo
 
 Tattoo studios commonly run a mixed staffing model: **employed staff** (studio management, apprentices, receptionists and support staff) alongside **independent contractor artists**, who often work with real operational independence under a commercial arrangement.
 
-The **WICA question** is whether each artist is, in substance, an employee or a genuine contractor — the classification follows the operational reality, not just the label in the contract. Misclassification carries real exposure (see [Article 67](#article-67)). Independent artists may carry their own PI — verify it and coordinate cover.
+The **WICA question** is whether each artist is, in substance, an employee or a genuine contractor — the classification follows the operational reality, not just the label in the contract. Misclassification carries real exposure (see [Article 67](/document-legal/wica-section-25-offence)). Independent artists may carry their own PI — verify it and coordinate cover.
 
 #### Cyber considerations
 
@@ -161,7 +161,7 @@ Insurers underwrite tattoo / piercing studios on:
 1. **Standard SME PL with no body-modification cover.** The core exposure left unaddressed.
 2. **No Treatment Risk cover for procedures.** A major exposure category.
 3. **Hygiene-protocol gaps.** Both an operational and an insurance risk.
-4. **WICA misclassification of contractor artists.** See [Article 67](#article-67).
+4. **WICA misclassification of contractor artists.** See [Article 67](/document-legal/wica-section-25-offence).
 5. **Consent and medical history undocumented.** Weakens the defence to a claim.
 6. **No aftercare instructions given.** A driver of post-procedure complications.
 7. **No design-IP awareness.** Copying-dispute exposure.

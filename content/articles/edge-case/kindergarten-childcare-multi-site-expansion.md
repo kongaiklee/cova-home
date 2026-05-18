@@ -22,7 +22,7 @@ og_description: "Kindergarten and childcare operators expanding from single-site
 
 ### The Sourced Detail
 
-The kindergarten and childcare segment in Singapore has experienced substantial commercial scope evolution over the past decade. Major operators (PCF Sparkletots, MOE Kindergartens, anchor operators including My First Skool, NTUC First Campus, specific other anchor operators, specific other operators) demonstrate substantial multi-site operational scope. Commercial considerations for SMEs expanding across sites differ substantially from initial single-site procurement (covered in [Article 95](#article-95) on opening a childcare centre). Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For ECDA framework evolution, [ECDA](https://www.ecda.gov.sg/) provides progressive operational standards. For child safety specifically, [MSF](https://www.msf.gov.sg/) Children and Young Persons Act provides foundational framework.
+The kindergarten and childcare segment in Singapore has experienced substantial commercial scope evolution over the past decade. Major operators (PCF Sparkletots, MOE Kindergartens, anchor operators including My First Skool, NTUC First Campus, specific other anchor operators, specific other operators) demonstrate substantial multi-site operational scope. Commercial considerations for SMEs expanding across sites differ substantially from initial single-site procurement (covered in [Article 95](/decision-tree/opening-childcare-centre-checklist) on opening a childcare centre). Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For ECDA framework evolution, [ECDA](https://www.ecda.gov.sg/) provides progressive operational standards. For child safety specifically, [MSF](https://www.msf.gov.sg/) Children and Young Persons Act provides foundational framework.
 
 #### The aggregate exposure considerations
 
@@ -70,15 +70,15 @@ For substantive multi-site kindergarten / childcare SMEs, foundational cover sta
 
 Public Liability cover with substantial limits and specific aggregate scope across sites. Considerations on aggregate limit adequacy.
 
-Property/Fire cover across sites with specific aggregate scope. Considerations on adequate sum insured (per [Article 196](#article-196) on average clause considerations) at each site and aggregate.
+Property/Fire cover across sites with specific aggregate scope. Considerations on adequate sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause considerations) at each site and aggregate.
 
 BI cover with specific provisions for multi-site disruption scenarios. Considerations on specific scenarios where single-site disruption affects multi-site commercial scope.
 
 D&O cover reflecting elevated commercial scope. Substantive multi-site operations typically procure substantial D&O scope reflecting operational scope, operational considerations.
 
-EPL cover addressing employment relationships across sites — particularly relevant given the forthcoming Workplace Fairness Act framework (passed in 2025 but not yet in force; commencement expected end-2027 — per [Article 171](#article-171)) and operational scope.
+EPL cover addressing employment relationships across sites — particularly relevant given the forthcoming Workplace Fairness Act framework (passed in 2025 but not yet in force; commencement expected end-2027 — per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)) and operational scope.
 
-Cyber Liability cover with substantial scope. Multi-site operations typically maintain substantive personal data scope across sites; considerations on PDPA Section 26D infrastructure (per [Article 66](#article-66)) and operational discipline.
+Cyber Liability cover with substantial scope. Multi-site operations typically maintain substantive personal data scope across sites; considerations on PDPA Section 26D infrastructure (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) and operational discipline.
 
 Commercial Crime / employee dishonesty cover with operational scope.
 

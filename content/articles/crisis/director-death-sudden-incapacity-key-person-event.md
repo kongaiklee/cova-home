@@ -188,11 +188,11 @@ For directors of the SME, continuing section 157 duty of diligence requires docu
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](#article-280)
-- [Article 297 — Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](#article-297)
-- [Article 298 — JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](#article-298)
-- [Article 392 — GPA vs GTL: Group Personal Accident vs Group Term Life Decision Framework for Singapore SMEs](#article-392)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](#article-393)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](#article-408)
+- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 297 — Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)
+- [Article 298 — JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](/crisis/jv-partnership-breakdown-allocation-run-off-dissolution)
+- [Article 392 — GPA vs GTL: Group Personal Accident vs Group Term Life Decision Framework for Singapore SMEs](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---
