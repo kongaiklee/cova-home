@@ -251,6 +251,43 @@ function main() {
   }
   if (linkified) console.log(`Linkified ${linkified} bare-path cross-references.`);
 
+  // Cross-reference cleanup. The master carries a handful of stale internal
+  // links (renamed targets, self-links, dead stubs). Rewrite the ones with a
+  // confirmed correct target; for the rest, drop the link but keep the anchor
+  // text as prose. Verified against the corpus with scripts/audit-links.mjs.
+  const corpus = new Set(slugToTitle.keys());
+  const XREF_REWRITE = {
+    '/regulatory-change/workplace-fairness-act-2025':
+      '/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort',
+    '/procedural-howto/how-to-file-wica-claim':
+      '/procedural-howto/how-to-file-wica-claim-singapore-mom',
+    '/regulatory-change/wica-2025-limit-increase':
+      '/regulatory-change/wica-2025-limit-increase-claim-patterns',
+    '/regulatory-change/wica-1-november-2025-limit-increases-singapore':
+      '/regulatory-change/wica-2025-limit-increase-claim-patterns',
+    '/comparison/sme-insurance-package-vs-standalone-policies-singapore':
+      '/comparison/composite-management-liability-package-vs-standalone-modules-sme',
+  };
+  let xrefRewritten = 0;
+  let xrefStripped = 0;
+  for (const a of articles) {
+    a.cleanBody = a.cleanBody.replace(
+      /\[([^\]]+)\]\((\/[^)\s#?]+)((?:[#?][^)\s]*)?)\)/g,
+      (whole, text, target, frag) => {
+        const fixed = XREF_REWRITE[target] || target;
+        if (fixed !== target) xrefRewritten++;
+        if (fixed === a.slug || !corpus.has(fixed)) {
+          xrefStripped++;
+          return text;
+        }
+        return `[${text}](${fixed}${frag})`;
+      }
+    );
+  }
+  console.log(
+    `Cross-references: ${xrefRewritten} rewritten, ${xrefStripped} stripped (dead or self).`
+  );
+
   // Pilot: take the first N articles per intent bucket.
   let selected = articles;
   if (PILOT) {

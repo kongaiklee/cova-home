@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Link } from 'react-router-dom';
-import { getArticle, relatedArticles } from '../../content/articles';
+import { relatedArticles, type Article } from '../../content/articles';
 import { INTENT_BY_ID } from '../../content/intents';
 import Seo, { SITE_URL } from '../../components/Seo';
 import { ArticleTile } from './ArticleCard';
@@ -25,23 +25,10 @@ const markdownComponents = {
   },
 };
 
-export default function ArticlePage({ slug }: { slug: string }) {
-  const article = getArticle(slug);
-
-  if (!article) {
-    return (
-      <div className="mx-auto max-w-2xl px-6 py-32 text-center">
-        <h1 className="font-serif text-3xl text-text-primary">Article not found</h1>
-        <Link to="/blog" className="mt-4 inline-block text-primary underline">
-          Back to the blog
-        </Link>
-      </div>
-    );
-  }
-
+export default function ArticlePage({ article }: { article: Article }) {
   const { frontmatter, body } = article;
   const intent = INTENT_BY_ID[frontmatter.intent];
-  const related = relatedArticles(slug);
+  const related = relatedArticles(frontmatter.slug);
   const topics = frontmatter.topics.filter((t) => t !== 'General');
 
   const jsonLd = {

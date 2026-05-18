@@ -1,12 +1,16 @@
 import { useMemo, useState } from 'react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { ARTICLES } from '../../content/articles';
 import { INTENTS } from '../../content/intents';
 import { ArticleRow } from './ArticleCard';
 import IntentFilter, { type IntentFilterValue } from './IntentFilter';
 import Seo from '../../components/Seo';
 
+const PER_PAGE = 12;
+
 export default function BlogIndex() {
   const [intent, setIntent] = useState<IntentFilterValue>('all');
+  const [page, setPage] = useState(1);
 
   const counts = useMemo(() => {
     const c: Record<string, number> = {};
@@ -20,6 +24,19 @@ export default function BlogIndex() {
     () => (intent === 'all' ? ARTICLES : ARTICLES.filter((a) => a.intent === intent)),
     [intent]
   );
+
+  const totalPages = Math.max(1, Math.ceil(visible.length / PER_PAGE));
+  const paged = visible.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+
+  function changeIntent(next: IntentFilterValue) {
+    setIntent(next);
+    setPage(1);
+  }
+
+  function goToPage(next: number) {
+    setPage(next);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
 
   return (
     <>
@@ -39,17 +56,19 @@ export default function BlogIndex() {
           protect what you have built.
         </p>
         <div className="mt-10">
-          <IntentFilter value={intent} onChange={setIntent} counts={counts} />
+          <IntentFilter value={intent} onChange={changeIntent} counts={counts} />
         </div>
       </section>
 
       <section className="mx-auto w-full max-w-4xl px-6 pb-24 sm:px-10">
         <p className="border-b border-border-primary pb-3 text-sm text-text-secondary">
           {visible.length} {visible.length === 1 ? 'guide' : 'guides'}
+          {totalPages > 1 && ` · page ${page} of ${totalPages}`}
         </p>
-        {visible.length > 0 ? (
+
+        {paged.length > 0 ? (
           <div>
-            {visible.map((article) => (
+            {paged.map((article) => (
               <ArticleRow key={article.slug} article={article} />
             ))}
           </div>
@@ -57,6 +76,32 @@ export default function BlogIndex() {
           <p className="py-16 text-center text-text-secondary">
             Nothing here yet. Try another filter.
           </p>
+        )}
+
+        {totalPages > 1 && (
+          <div className="mt-10 flex items-center justify-center gap-3">
+            <button
+              type="button"
+              onClick={() => goToPage(page - 1)}
+              disabled={page === 1}
+              className="inline-flex items-center gap-1 rounded-full border border-border-primary px-4 py-2 text-sm font-medium text-text-primary transition hover:border-primary disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              <ChevronLeft className="size-4" />
+              Previous
+            </button>
+            <span className="text-sm text-text-secondary">
+              {page} / {totalPages}
+            </span>
+            <button
+              type="button"
+              onClick={() => goToPage(page + 1)}
+              disabled={page === totalPages}
+              className="inline-flex items-center gap-1 rounded-full border border-border-primary px-4 py-2 text-sm font-medium text-text-primary transition hover:border-primary disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              Next
+              <ChevronRight className="size-4" />
+            </button>
+          </div>
         )}
       </section>
     </>

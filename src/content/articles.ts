@@ -43,14 +43,14 @@ export interface Article {
 export const ARTICLES: ArticleMeta[] = indexData as ArticleMeta[];
 
 /**
- * Article bodies are eagerly globbed so they render synchronously, which keeps
- * the static-site prerender correct (the HTML contains the full article text).
+ * Article bodies are loaded on demand: each markdown file is its own chunk.
+ * The article route resolves loadArticle() before rendering, so the static
+ * prerender still produces HTML containing the full article text.
  */
 const rawArticles = import.meta.glob('../../content/articles/**/*.md', {
   query: '?raw',
   import: 'default',
-  eager: true,
-}) as Record<string, string>;
+}) as Record<string, () => Promise<string>>;
 
 /** Minimal YAML frontmatter parser. The format is controlled by the migration script. */
 function parseFrontmatter(raw: string): { frontmatter: ArticleFrontmatter; body: string } {
@@ -78,11 +78,11 @@ function parseFrontmatter(raw: string): { frontmatter: ArticleFrontmatter; body:
   return { frontmatter: fm as unknown as ArticleFrontmatter, body: body.trim() };
 }
 
-/** Get a full parsed article by its URL slug. Returns null if not found. */
-export function getArticle(slug: string): Article | null {
-  const raw = rawArticles[`../../content/articles${slug}.md`];
-  if (raw === undefined) return null;
-  return parseFrontmatter(raw);
+/** Load and parse a full article by its URL slug. Returns null if not found. */
+export async function loadArticle(slug: string): Promise<Article | null> {
+  const loader = rawArticles[`../../content/articles${slug}.md`];
+  if (!loader) return null;
+  return parseFrontmatter(await loader());
 }
 
 export function getArticleMeta(slug: string): ArticleMeta | undefined {
