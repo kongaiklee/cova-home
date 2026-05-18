@@ -2,12 +2,18 @@ import React from 'react';
 import { useNavigate } from 'react-router-dom';
 import LandingHeader from './landing/LandingHeader';
 import LandingFooter from './landing/LandingFooter';
+import Seo from '../components/Seo';
 
 const NotFound: React.FC = () => {
   const navigate = useNavigate();
 
   return (
     <div className="min-h-screen flex flex-col">
+      <Seo
+        title="Off course (404) | Covarage"
+        description="This page could not be found. Head back to the harbour."
+        path="/404"
+      />
       <section className="relative flex-1 flex flex-col overflow-hidden min-h-[600px]">
         <img
           src="/assets/images/404/harbour-pause.jpg"

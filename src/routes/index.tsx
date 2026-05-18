@@ -1,29 +1,30 @@
-import React from 'react';
-import { useRoutes } from 'react-router-dom';
-// import MainLayout from '../layouts/MainLayout';
-// import Home from '../pages/Home';
-// import Corporates from '../pages/Corporates';
-// import Features from '../pages/Features';
+import type { RouteRecord } from 'vite-react-ssg';
 import NotFound from '../pages/NotFound';
 import Landing from '../pages/landing/index';
+import BlogLayout from '../pages/blog/BlogLayout';
+import BlogIndex from '../pages/blog/BlogIndex';
+import ArticlePage from '../pages/blog/ArticlePage';
+import { ARTICLES } from '../content/articles';
 
-const AppRoutes: React.FC = () => {
-  const routes = useRoutes([
-    // {
-    //   element: <MainLayout />,
-    //   children: [
-    //     { path: '/', element: <Home /> },
-    //     { path: '/corporates', element: <Corporates /> },
-    //     { path: '/features', element: <Features /> },
-    //   ],
-    // },
-    // Landing page without MainLayout (no header/footer)
-    { path: '/', element: <Landing /> },
-    // 404 page - catch all unmatched routes
-    { path: '*', element: <NotFound /> },
-  ]);
-
-  return routes;
-};
-
-export default AppRoutes;
+/**
+ * Route table consumed by vite-react-ssg.
+ *
+ * - `/` renders the existing landing page.
+ * - `/blog` and every article URL share BlogLayout (header + footer).
+ * - Article routes are generated explicitly from the article index so the
+ *   static-site build prerenders one HTML file per article.
+ */
+export const routes: RouteRecord[] = [
+  { path: '/', element: <Landing /> },
+  {
+    element: <BlogLayout />,
+    children: [
+      { path: 'blog', element: <BlogIndex /> },
+      ...ARTICLES.map((a) => ({
+        path: a.slug.replace(/^\//, ''),
+        element: <ArticlePage slug={a.slug} />,
+      })),
+    ],
+  },
+  { path: '*', element: <NotFound /> },
+];
