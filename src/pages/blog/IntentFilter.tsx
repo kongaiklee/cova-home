@@ -44,7 +44,6 @@ export default function IntentFilter({ value, onChange, counts }: IntentFilterPr
             <button
               key={pill.id}
               type="button"
-              title={pill.subtext}
               onClick={() => onChange(pill.id)}
               onMouseEnter={() => setHovered(pill.id)}
               onMouseLeave={() => setHovered(null)}

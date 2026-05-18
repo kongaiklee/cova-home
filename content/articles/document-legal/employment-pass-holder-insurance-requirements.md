@@ -9,7 +9,7 @@ published: "2026-05-03"
 source_verified: "2026-05-03"
 word_count: 940
 status: "published"
-hero_image: "/assets/banner/banner_image_04.jpg"
+hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/employment-pass-holder-insurance-requirements"
 meta_description: "Find a licensed IFA →"
 og_title: "What Insurance Must Employers Provide for Employment Pass Holders?"

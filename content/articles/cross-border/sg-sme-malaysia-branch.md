@@ -9,7 +9,7 @@ published: "2026-05-04"
 source_verified: "2026-05-04"
 word_count: 1963
 status: "published"
-hero_image: "/assets/banner/banner_image_14.jpg"
+hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/cross-border/sg-sme-malaysia-branch"
 meta_description: "Singapore insurance generally does not extend to Malaysia operations as standard — Singapore policies typically cover Singapore-based risks. A Singapore..."
 og_title: "Singapore SME With a Malaysia Branch: How Insurance Works Across the Causeway"

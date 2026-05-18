@@ -9,7 +9,7 @@ published: "2026-05-03"
 source_verified: "2026-05-03"
 word_count: 1085
 status: "published"
-hero_image: "/assets/banner/banner_image_11.jpg"
+hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/licensing/bca-crs-bizsafe-level-3-insurance-proof"
 meta_description: "Per the BCA Contractors Registration System (CRS), bizSAFE Level 3 (or ISO 45001) is a registration requirement for many CW, CR, and ME workhead grades...."
 og_title: "BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements"

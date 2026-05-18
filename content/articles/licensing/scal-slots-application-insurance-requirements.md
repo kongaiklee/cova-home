@@ -9,7 +9,7 @@ published: "2026-05-03"
 source_verified: "2026-05-03"
 word_count: 1211
 status: "published"
-hero_image: "/assets/banner/banner_image_10.jpg"
+hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/licensing/scal-slots-application-insurance-requirements"
 meta_description: "The published SCAL SLOTS Application Terms & Conditions do not make Workmen's Compensation, Public Liability or Contractors All Risk insurance a..."
 og_title: "SCAL SLOTS Application: Insurance Requirements (Singapore 2026)"

@@ -9,7 +9,7 @@ published: "2026-05-04"
 source_verified: "2026-05-04"
 word_count: 1792
 status: "published"
-hero_image: "/assets/banner/banner_image_11.jpg"
+hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/edge-case/drone-aerial-photography"
 meta_description: "Commercial drone (Unmanned Aircraft, UA) operations in Singapore are regulated by the Civil Aviation Authority of Singapore (CAAS) under the Air..."
 og_title: "Drone Aerial Photography Insurance: What Singapore Operators Actually Need"

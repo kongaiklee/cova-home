@@ -9,7 +9,7 @@ published: "2026-05-04"
 source_verified: "2026-05-04"
 word_count: 1312
 status: "published"
-hero_image: "/assets/banner/banner_image_03.jpg"
+hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/broker-vs-direct-sme"
 meta_description: "There is no MAS rule that makes one channel cheaper than the other. The premium an SME pays through a MAS-licensed insurance broker under the Insurance..."
 og_title: "Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?"

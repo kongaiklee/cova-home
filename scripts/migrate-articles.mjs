@@ -67,14 +67,8 @@ const MONTHS = {
   november: '11', december: '12',
 };
 
-/** Banner photos in public/assets/banner (15 of them). */
-const BANNER_COUNT = 15;
-/** Per-category starting offset so a category's articles use a consistent run. */
-const CATEGORY_BANNER_BASE = {
-  'procedural-howto': 0, 'document-legal': 3, 'regulatory-change': 6,
-  licensing: 9, association: 11, comparison: 1, 'decision-tree': 4,
-  crisis: 7, 'edge-case': 10, 'cross-border': 13, 'emerging-risk': 2,
-};
+/** Hero image per category (public/assets/blog/{category}.jpg). */
+const heroImageFor = (category) => `/assets/blog/${category}.jpg`;
 
 function toISODate(human) {
   const m = String(human).trim().match(/(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/);
@@ -150,7 +144,6 @@ function main() {
 
   const articles = [];
   const errors = [];
-  const categoryCounts = {};
 
   for (let i = 1; i < blocks.length; i += 3) {
     const articleNum = parseInt(blocks[i], 10);
@@ -228,11 +221,7 @@ function main() {
     }
 
     const wordCount = (cleanBody.match(/\b[\w'-]+\b/g) || []).length;
-    const idx = categoryCounts[category] || 0;
-    categoryCounts[category] = idx + 1;
-    const bannerN =
-      ((CATEGORY_BANNER_BASE[category] ?? 0) + idx) % BANNER_COUNT + 1;
-    const heroImage = `/assets/banner/banner_image_${String(bannerN).padStart(2, '0')}.jpg`;
+    const heroImage = heroImageFor(category);
 
     const metaDescription = truncate(summary, 155);
     const canonicalUrl = `https://covarage.com${slug}`;

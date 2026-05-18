@@ -9,7 +9,7 @@ published: "2026-05-04"
 source_verified: "2026-05-04"
 word_count: 1344
 status: "published"
-hero_image: "/assets/banner/banner_image_04.jpg"
+hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/tied-agent-vs-ifa"
 meta_description: "A tied agent in Singapore represents one financial institution and can only sell that institution's products. An Independent Financial Adviser (IFA) is..."
 og_title: "Tied Agent vs Independent Financial Adviser (IFA) in Singapore"

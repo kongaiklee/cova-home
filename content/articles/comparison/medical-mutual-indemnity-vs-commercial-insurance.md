@@ -9,7 +9,7 @@ published: "2026-05-03"
 source_verified: "2026-05-03"
 word_count: 1120
 status: "published"
-hero_image: "/assets/banner/banner_image_02.jpg"
+hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/medical-mutual-indemnity-vs-commercial-insurance"
 meta_description: "Find a licensed IFA →"
 og_title: "Why Do Singapore Doctors Use \"Mutual Indemnity\" Instead of Insurance?"

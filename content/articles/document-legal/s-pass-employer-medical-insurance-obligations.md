@@ -9,7 +9,7 @@ published: "2026-05-03"
 source_verified: "2026-05-03"
 word_count: 958
 status: "published"
-hero_image: "/assets/banner/banner_image_05.jpg"
+hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/s-pass-employer-medical-insurance-obligations"
 meta_description: "Find a licensed IFA →"
 og_title: "What Are S Pass Employers' Medical Insurance Obligations?"
