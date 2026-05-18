@@ -45,7 +45,7 @@ export default function BlogHeader() {
             href={`${APP_URL}/work/signup`}
             className="rounded-full bg-primary px-4 py-2 text-sm font-medium text-white transition hover:bg-primary-hover"
           >
-            Book a demo
+            Start free
           </a>
         </nav>
 
@@ -88,7 +88,7 @@ export default function BlogHeader() {
             href={`${APP_URL}/work/signup`}
             className="mt-1 rounded-full bg-primary px-3 py-2.5 text-center text-sm font-medium text-white hover:bg-primary-hover"
           >
-            Book a demo
+            Start free
           </a>
         </nav>
       </div>
