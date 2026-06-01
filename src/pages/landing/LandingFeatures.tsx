@@ -34,7 +34,7 @@ export default function LandingFeatures() {
         {/* Label + headline */}
         <div>
           <p className="text-xs font-semibold tracking-tight">
-            Coverage features
+            Covarage features
           </p>
           <h2 className="mt-3 text-3xl/tight font-serif hidden lg:block text-text-primary sm:text-4xl lg:text-4xl/tight">
             You didn&apos;t build this business to spend

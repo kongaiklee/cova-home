@@ -14,7 +14,7 @@ export default function LandingHeader() {
           to="/"
           className="flex shrink-0 items-center lg:absolute lg:left-1/2 lg:-translate-x-1/2"
         >
-          <span className="[&_svg]:h-6 [&_svg]:w-auto lg:[&_svg]:h-8">
+          <span className="[&_svg]:h-8 [&_svg]:w-auto lg:[&_svg]:h-10">
             <img src="/assets/images/landing/LOGOMARK.png" />
           </span>
         </Link>
@@ -33,6 +33,19 @@ export default function LandingHeader() {
             )}
           </button>
           <div className="hidden items-center gap-6 lg:flex">
+            <a
+              href="/for-partners"
+              className="text-sm uppercase tracking-wide text-white transition hover:text-white/90"
+            >
+              FOR PARTNERS
+            </a>
+            <a
+              href="/for-brokers"
+              className="text-sm uppercase tracking-wide text-white transition hover:text-white/90"
+            >
+              FOR BROKERS
+            </a>
+            <span className="h-4 w-px bg-white/30" aria-hidden />
             <a
               target="_blank"
               href={`${import.meta.env.VITE_APP_COVARAGE_URL}/signin`}
@@ -55,12 +68,27 @@ export default function LandingHeader() {
       <div
         className={clsx(
           'overflow-hidden transition-all duration-200 ease-out lg:hidden',
-          mobileOpen ? 'max-h-68 opacity-100' : 'max-h-0 opacity-0'
+          mobileOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'
         )}
         aria-hidden={!mobileOpen}
       >
         <div className="border-t border-white/20 bg-white/10 p-4 backdrop-blur-md">
           <nav className="flex flex-col gap-1 pb-3" aria-label="Mobile menu">
+            <a
+              href="/for-partners"
+              className="rounded-lg px-3 py-2.5 text-sm font-medium uppercase tracking-wide text-white hover:bg-white/10"
+              onClick={() => setMobileOpen(false)}
+            >
+              FOR PARTNERS
+            </a>
+            <a
+              href="/for-brokers"
+              className="rounded-lg px-3 py-2.5 text-sm font-medium uppercase tracking-wide text-white hover:bg-white/10"
+              onClick={() => setMobileOpen(false)}
+            >
+              FOR BROKERS
+            </a>
+            <div className="my-1 h-px bg-white/20" aria-hidden />
             <a
               target="_blank"
               href={`${import.meta.env.VITE_APP_COVARAGE_URL}/signin`}

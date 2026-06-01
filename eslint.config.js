@@ -8,12 +8,12 @@ import tseslint from 'typescript-eslint';
 
 /** @type {import('eslint').Linter.Config[]} */
 export default [
-  { ignores: ['dist', 'node_modules'] },
+  { ignores: ['dist', 'node_modules', 'public'] },
 
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {
-    files: ['**/*.{ts,tsx,js,jsx}'],
+    files: ['**/*.{ts,tsx,js,jsx,mjs}'],
     ...betterTailwindcss.configs.recommended,
     rules: {
       ...betterTailwindcss.configs.recommended.rules,
@@ -31,7 +31,7 @@ export default [
     },
   },
   {
-    files: ['**/*.{ts,tsx,js,jsx}'],
+    files: ['**/*.{ts,tsx,js,jsx,mjs}'],
     languageOptions: {
       ecmaVersion: 'latest',
       parser: tseslint.parser,

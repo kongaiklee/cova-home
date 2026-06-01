@@ -108,6 +108,8 @@ h3{font-family:var(--dp);font-weight:400;font-size:22px;line-height:1.2;color:va
 .m-nav{position:fixed;bottom:0;left:0;right:0;z-index:100;background:rgba(255,255,255,0.95);backdrop-filter:blur(10px);display:flex;align-items:center;justify-content:center;padding:8px 0;gap:16px;border-top:1px solid rgba(0,0,0,0.08);}
 .m-nav__btn{width:36px;height:36px;border:none;border-radius:50%;background:var(--hz);color:var(--wh);font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;}
 .m-nav__count{font-size:11px;color:var(--mi);min-width:42px;text-align:center;}
+.m-nav__home{position:absolute;left:14px;top:50%;transform:translateY(-50%);width:32px;height:32px;border-radius:50%;color:var(--mi);font-size:15px;text-decoration:none;display:flex;align-items:center;justify-content:center;transition:color 0.2s ease;}
+.m-nav__home:hover,.m-nav__home:active{color:var(--hz);}
 .progress{position:fixed;top:0;left:0;height:2px;background:var(--hz);z-index:100;transition:width 0.4s ease;}
 </style>
 </head>
@@ -302,6 +304,7 @@ h3{font-family:var(--dp);font-weight:400;font-size:22px;line-height:1.2;color:va
 
 </div>
 <div class="m-nav">
+  <a href="/" class="m-nav__home" aria-label="Back to home">⌂</a>
   <button class="m-nav__btn" onclick="prev()">←</button>
   <span class="m-nav__count" id="counter">1 / 11</span>
   <button class="m-nav__btn" onclick="next()">→</button>
