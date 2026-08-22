@@ -183,6 +183,6 @@ The cost of a properly structured indoor playground insurance programme is typic
 - [Specialty Fitness Studio: The Specific Insurance Profile for Yoga, Pilates, CrossFit, Boxing, and Specialty Movement Operations](/edge-case/specialty-fitness-studio-singapore)
 - /document-legal/unfair-contract-terms-act-waiver-enforceability
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*
 
 ---

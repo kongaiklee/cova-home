@@ -152,4 +152,4 @@ The decision should be made with the broker on a wording-comparison basis, not j
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 - [Indemnity vs Reinstatement Settlement Basis: Which Pays Out More?](/comparison/indemnity-vs-reinstatement-basis)
 
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

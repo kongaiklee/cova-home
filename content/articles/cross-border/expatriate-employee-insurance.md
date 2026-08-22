@@ -195,6 +195,6 @@ The annual cost of properly structured expatriate insurance for a single seconde
 - [Foreign Subsidiary Insurance Scope: What the Singapore Parent Policy Covers (and Where It Stops)](/cross-border/foreign-subsidiary-insurance-scope)
 - /comparison/group-medical-vs-individual-medical
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*
 
 ---

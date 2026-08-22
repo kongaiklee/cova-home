@@ -279,6 +279,6 @@ When sitting down with a licensed IFA or broker, the following questions surface
 - [Article 417 — AI-Generated Code Security Vulnerabilities for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
 - [PDPA 2022 Penalty Framework Reference](/regulatory-change/pdpa-2022-penalty)
 
-*Published 8 May 2026. Source verified 8 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 8 May 2026. Source verified 8 May 2026.*
 
 ---

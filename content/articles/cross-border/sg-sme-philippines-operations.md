@@ -166,6 +166,6 @@ For substantive operations, specialist Philippines-experienced commercial broker
 - [Singapore SME with Thailand Operations: Insurance and Regulatory Framework](/cross-border/sg-sme-thailand-operations)
 - [Singapore SMEs Operating in India: Cross-Border Insurance and Commercial Framework](/cross-border/sg-sme-india-operations)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*
 
 ---

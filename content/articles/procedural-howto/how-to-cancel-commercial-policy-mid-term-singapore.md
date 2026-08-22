@@ -18,7 +18,7 @@ og_description: "Mid-term cancellation looks administrative. It is not. It is a 
 
 Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every cycle: the short-period premium retention formula that reduces the refund below time-on-risk, the run-off exposure for claims that have occurred but not yet been reported, and the trap that destroys cover entirely on claims-made wordings if cancellation is executed without an Extended Reporting Period. Each of these has produced contested outcomes in Singapore practice. Each is avoidable with a structured workflow.
 
-This article walks through that workflow. It is built for SMEs cancelling a commercial policy mid-term for one of the standard reasons — switching insurer mid-cycle, divesting an insured asset, closing the business, removing a line of cover that is no longer required, or replacing an underperforming adviser. It applies to property, public liability, Work Injury Compensation, motor, marine, D&O, professional indemnity, cyber, and similar commercial lines. COVA is registered with the Monetary Authority of Singapore as an introducer under [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) and is not permitted to advise on, recommend, or arrange any insurance product. The workflow described here is the workflow you run with a licensed Independent Financial Adviser or insurance broker, who handles the placement-side mechanics and confirms run-off provisions in writing.
+This article walks through that workflow. It is built for SMEs cancelling a commercial policy mid-term for one of the standard reasons — switching insurer mid-cycle, divesting an insured asset, closing the business, removing a line of cover that is no longer required, or replacing an underperforming adviser. It applies to property, public liability, Work Injury Compensation, motor, marine, D&O, professional indemnity, cyber, and similar commercial lines. COVA is not licensed or registered by the Monetary Authority of Singapore and is not permitted to advise on, recommend, or arrange any insurance product. The workflow described here is the workflow you run with a licensed Independent Financial Adviser or insurance broker, who handles the placement-side mechanics and confirms run-off provisions in writing.
 
 ## The Three Contractual Levers at Cancellation
 
@@ -224,6 +224,6 @@ The licensed adviser handling your programme is the right party to run the workf
 - [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
 - [Claims-Made vs Occurrence Cover Comparison](/comparison/claims-made-vs-occurrence-cover)
 
-*Published 14 May 2026. Source verified 14 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 14 May 2026. Source verified 14 May 2026.*
 
 ---

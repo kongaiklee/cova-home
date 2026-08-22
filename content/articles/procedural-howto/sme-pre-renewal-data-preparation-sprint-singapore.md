@@ -18,7 +18,7 @@ og_description: "Most Singapore SMEs treat insurance renewal as a one-week scram
 
 Most Singapore SMEs treat insurance renewal as a one-week scramble. The renewal email arrives, the broker quotes a number, the finance team pays, and the policy rolls over with a small loading. That workflow is now actively losing SMEs money, because the 2026 commercial insurance market is the most insured-friendly market in seven years and a properly prepared renewal can convert that market into actual premium relief — but only if the data package lands on the underwriter's desk before the quote is set. According to Marsh's [Global Insurance Market Index for Q1 2026](https://www.marsh.com/en/about/media/global-commercial-insurance-rates-fall-5-percent-in-q1-2026.html), released 22 April 2026, Asia commercial rates fell 5% — the seventh consecutive quarter of rate decreases, with property down 5% in Asia, financial and professional lines down 7% in Asia, and cyber down 5% globally. A clean account in this market should expect at minimum a flat renewal. A loading on a clean account is a signal the submission was thin.
 
-This article walks through the 90/60/30-day pre-renewal data sprint — the structured workflow Singapore SMEs running composite programmes (property, Work Injury Compensation, public liability, group hospital and surgical, D&O, cyber) should run before every renewal. It is built around three sub-deadlines anchored on the policy expiry date: T-90, T-60, T-30. Each phase has specific deliverables, specific owners, and specific consequences if skipped. The article finishes by routing readers to a licensed Independent Financial Adviser (IFA) or broker, because COVA is registered with the Monetary Authority of Singapore as an introducer under [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) and is not permitted to advise, recommend, or arrange policies.
+This article walks through the 90/60/30-day pre-renewal data sprint — the structured workflow Singapore SMEs running composite programmes (property, Work Injury Compensation, public liability, group hospital and surgical, D&O, cyber) should run before every renewal. It is built around three sub-deadlines anchored on the policy expiry date: T-90, T-60, T-30. Each phase has specific deliverables, specific owners, and specific consequences if skipped. The article finishes by routing readers to a licensed Independent Financial Adviser (IFA) or broker, because COVA is not licensed or registered by the Monetary Authority of Singapore and is not permitted to advise, recommend, or arrange policies.
 
 ## What a Pre-Renewal Sprint Actually Is
 
@@ -198,6 +198,6 @@ The discipline is procedural, not technical. None of this requires actuarial sop
 
 ---
 
-*Published 8 May 2026. Source verified 8 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 8 May 2026. Source verified 8 May 2026.*
 
 ---

@@ -138,4 +138,4 @@ The indemnity-vs-reinstatement choice is not a marginal premium decision. It's s
 - [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
 - [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
 
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

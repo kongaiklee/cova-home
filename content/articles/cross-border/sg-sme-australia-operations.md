@@ -218,4 +218,4 @@ The added complexity of Australian operations is meaningful but proportionate to
 - [Singapore SME With Japan Operations: How Insurance Works for Japanese Subsidiaries and Branches](/cross-border/sg-sme-japan-operations)
 - [Singapore SME With a Malaysia Branch: How Insurance Works Across the Causeway](/cross-border/sg-sme-malaysia-branch)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

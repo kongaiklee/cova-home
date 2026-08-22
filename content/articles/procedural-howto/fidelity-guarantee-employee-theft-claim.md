@@ -89,6 +89,6 @@ For SMEs with under 20 staff, dual-signature controls feel onerous but are exact
 - [Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
 - [Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure](/document-legal/insurance-act-disclosure-duty)
 
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*
 
 ---

@@ -249,6 +249,6 @@ Three things to do this quarter, before the soft cyber market hardens:
 - [PDPA 2022 penalty regime](/regulatory-change/pdpa-2022-penalty) (PDPA Section 26D 3-day notification, 10% turnover / S$1m cap)
 - [Cybersecurity Act 2024 amendments](/regulatory-change/cyber-act-2024) (Cybersecurity (Amendment) Act 2024, in force 31 October 2025)
 
-*Published 8 May 2026. Source verified 8 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 8 May 2026. Source verified 8 May 2026.*
 
 ---

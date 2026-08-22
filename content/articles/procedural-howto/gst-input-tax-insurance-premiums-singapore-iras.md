@@ -284,6 +284,6 @@ The cost of GST input tax mistakes is meaningful — typical SME unrecovered GST
 - [Group Term Life Death Benefit Claim Process: From Notification to Beneficiary Payment](/procedural-howto/group-term-life-claim-process)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
 
-*Published 7 May 2026. Source verified 7 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 7 May 2026. Source verified 7 May 2026.*
 
 ---

@@ -169,4 +169,4 @@ The Fire vs PAR decision is foundational for property cover. PAR's broader scope
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

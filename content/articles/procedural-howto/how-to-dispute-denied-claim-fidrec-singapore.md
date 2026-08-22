@@ -215,4 +215,4 @@ The expansion of FIDReC jurisdiction to SMEs represents a material improvement i
 - /document-legal/financial-services-and-markets-act-singapore
 - /crisis/denied-claim-response-framework
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*

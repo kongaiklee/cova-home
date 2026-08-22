@@ -274,6 +274,6 @@ The cost of PSSCOC compliance failure is acute — a single non-compliant bid ca
 - [Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim](/procedural-howto/performance-bond-claim-obligee)
 - [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
 
-*Published 7 May 2026. Source verified 7 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 7 May 2026. Source verified 7 May 2026.*
 
 ---

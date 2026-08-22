@@ -96,6 +96,6 @@ Three things to do *before* an incident:
 - Cybersecurity (Amendment) Act 2024: what changed on 31 October 2025
 - Cyber insurance buying basics for Singapore SMEs
 
-*Published 3 May 2026. Source verified 3 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 3 May 2026. Source verified 3 May 2026.*
 
 ---

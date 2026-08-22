@@ -83,6 +83,6 @@ If the deal is in a regulated industry (financial services, healthcare, educatio
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*
 
 ---

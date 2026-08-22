@@ -121,6 +121,6 @@ A licensed adviser can help test whether existing Tech E&O / PI and Cyber cover 
 - [Cyber Tower Claim Coordination: Managing Notification, Defence, and Settlement Across Layers](/procedural-howto/cyber-tower-claim-coordination)
 - [The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
 
-*Published 17 May 2026. Source verified 17 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 17 May 2026. Source verified 17 May 2026.*
 
 ---

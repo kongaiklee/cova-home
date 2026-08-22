@@ -71,7 +71,7 @@ Per the [MAS draft amendments to FAA-N02](https://www.mas.gov.sg/-/media/mas/reg
 
 #### How COVA's structure maps to FAA-N02
 
-COVA (covarage.com) is registered as an introducer to licensed financial advisers in Singapore. Practically, this means:
+COVA (covarage.com) is not licensed or registered by the Monetary Authority of Singapore. Practically, this means:
 
 - Every page on COVA, including this one, provides factual information sourced from primary regulators (MOM, BCA, SCAL, CASE, SCDF, MAS)
 - COVA does not name a "best" insurer for any line of cover. It cannot, structurally
@@ -105,6 +105,6 @@ Companies typically need to consider three things when evaluating any insurance 
 
 ---
 
-*Published 3 May 2026. Source verified 3 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 3 May 2026. Source verified 3 May 2026.*
 
 ---

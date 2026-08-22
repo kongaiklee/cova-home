@@ -91,6 +91,6 @@ A common compliance error worth flagging: failing to renew the medical insurance
 - MOM EP holders: why no FWMI applies
 - WICA vs medical insurance: don't confuse them
 
-*Published 3 May 2026. Source verified 3 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 3 May 2026. Source verified 3 May 2026.*
 
 ---

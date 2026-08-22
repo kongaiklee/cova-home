@@ -212,6 +212,6 @@ For SME AI vendors not selling into MAS-regulated FIs, the AIRG framework is not
 - [Cyber Architecture Tower vs Monoline](/comparison/cyber-architecture-tower-vs-monoline)
 - [Composite Management Liability Package vs Standalone Modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme) (article 393)
 
-*Published 14 May 2026. Source verified 14 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 14 May 2026. Source verified 14 May 2026.*
 
 ---

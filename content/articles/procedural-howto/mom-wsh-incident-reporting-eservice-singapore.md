@@ -251,6 +251,6 @@ A maintenance technician is exposed to a chemical leak and admitted overnight (m
 - [/decision-tree/light-manufacturing-sme](/decision-tree/light-manufacturing-sme) — sector-specific WSH risk routing
 - /procedural-howto/corppass-setup-for-mom-eservices — getting CorpPass right before an incident happens
 
-*Published 8 May 2026. Source verified 8 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 8 May 2026. Source verified 8 May 2026.*
 
 ---

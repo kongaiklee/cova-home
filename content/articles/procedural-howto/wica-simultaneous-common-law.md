@@ -97,4 +97,4 @@ The most useful approach is disciplined neutrality: report properly, preserve re
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - /comparison/comparewica-statute-vs-common-law
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under <a href="https://www.mas.gov.sg/regulation/notices/notice-faa-n02">MAS Notice FAA-N02</a>. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

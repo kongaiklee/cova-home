@@ -20,7 +20,7 @@ A Notice of Circumstance (NoC) is the most under-used and most consequential pro
 
 Filed correctly, an NoC saves SMEs hundreds of thousands of dollars in uninsured tail liability. Filed incorrectly — or not filed at all — it produces the most common claim denial pattern on D&O, professional indemnity, employment practices liability, and cyber claims-made wordings: "the claim was first made after the policy period expired, and no notice of circumstances was given during the policy period."
 
-This article walks through the NoC mechanics in Singapore. It covers what counts as a notifiable circumstance, the wording triggers that activate the NoC right, the procedural steps to file, the strategic considerations on timing, and the common errors that destroy the cover. It is built for SMEs carrying any claims-made cover — D&O, PI, EPL, cyber, management liability, technology errors and omissions, media liability — and for the licensed advisers handling those programmes. COVA is registered with the Monetary Authority of Singapore as an introducer under [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) and is not permitted to advise on, recommend, or arrange any insurance product. The workflow described here is the workflow you run with a licensed adviser, who confirms the wording trigger and submits the NoC to the insurer.
+This article walks through the NoC mechanics in Singapore. It covers what counts as a notifiable circumstance, the wording triggers that activate the NoC right, the procedural steps to file, the strategic considerations on timing, and the common errors that destroy the cover. It is built for SMEs carrying any claims-made cover — D&O, PI, EPL, cyber, management liability, technology errors and omissions, media liability — and for the licensed advisers handling those programmes. COVA is not licensed or registered by the Monetary Authority of Singapore and is not permitted to advise on, recommend, or arrange any insurance product. The workflow described here is the workflow you run with a licensed adviser, who confirms the wording trigger and submits the NoC to the insurer.
 
 ## The Claims-Made Architecture
 
@@ -250,6 +250,6 @@ The hardest case is the borderline circumstance — the customer complaint that 
 - [Cyber Tower Claim Coordination](/procedural-howto/cyber-tower-claim-coordination)
 - [How to Coordinate Multi-Policy on a Single Incident](/procedural-howto/how-to-coordinate-multi-policy-single-incident)
 
-*Published 14 May 2026. Source verified 14 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 14 May 2026. Source verified 14 May 2026.*
 
 ---

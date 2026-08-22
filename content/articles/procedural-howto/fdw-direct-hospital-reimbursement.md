@@ -119,4 +119,4 @@ Companies that employ MDWs in a business-linked setting, such as live-in domesti
 - [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - /comparison/comparegroup-medical-vs-wica
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under <a href="https://www.mas.gov.sg/regulation/notices/notice-faa-n02">MAS Notice FAA-N02</a>. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

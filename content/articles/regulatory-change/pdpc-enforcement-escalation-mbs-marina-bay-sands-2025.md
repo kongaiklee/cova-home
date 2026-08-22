@@ -277,4 +277,4 @@ The cost of cyber maturity is meaningful but bounded — typical SME cyber basel
 - [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 - [PDPC NRIC Authentication Ban Effective 31 December 2026: SME Compliance and Insurance Implications](/regulatory-change/pdpc-nric-authentication-ban-31-december-2026)
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*

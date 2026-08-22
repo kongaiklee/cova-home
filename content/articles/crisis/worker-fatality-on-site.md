@@ -178,4 +178,4 @@ Most workplace fatalities, on review, were preceded by warning signs: near-miss 
 - [How To Handle Simultaneous Claims WICA And Common Law](/procedural-howto/wica-simultaneous-common-law)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

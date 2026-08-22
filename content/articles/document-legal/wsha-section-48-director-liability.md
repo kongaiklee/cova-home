@@ -327,4 +327,4 @@ The asymmetry of WSHA Section 48 is significant: protecting against it through D
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [A Worker Just Died on Site — What Do I Do Now?](/crisis/worker-fatality-on-site)
 
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

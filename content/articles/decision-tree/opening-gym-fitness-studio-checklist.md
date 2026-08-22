@@ -371,4 +371,4 @@ The fitness industry has significant member-injury exposure that insurance can a
 - [Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist](/decision-tree/opening-salon-checklist)
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

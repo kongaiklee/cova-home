@@ -21,7 +21,7 @@ A finance employee at the Hong Kong office of British engineering firm Arup join
 
 That was the wake-up call for Asia-Pacific finance and treasury teams, including in Singapore. By 25 March 2025, a finance director at a multinational firm in Singapore had wired US$499,000 (about S$670,000) after a near-identical Zoom-call ruse, this time with the company's "CFO" and "CEO" both deepfaked, and an "external lawyer" sending an NDA on the side. ([Singapore Police Force / MAS / CSA Joint Advisory, 12 March 2025](https://www.police.gov.sg/media-hub/news/2025/03/20250312_joint_advisory_on_scams_involving_digital_manipulation).)
 
-If your business pays vendors, runs payroll, or moves money on instruction from senior staff — which is to say, if your business is a business — this article is for you. The next sections cover what is happening, what the law in Singapore says, and where Cyber, Crime/Fidelity, and Social Engineering insurance does and does not respond. We are an MAS-registered introducer under FAA-N02; we do not advise on, recommend, or arrange policies. We point you to a licensed Independent Financial Adviser (IFA) at the end so you can compare actual wordings.
+If your business pays vendors, runs payroll, or moves money on instruction from senior staff — which is to say, if your business is a business — this article is for you. The next sections cover what is happening, what the law in Singapore says, and where Cyber, Crime/Fidelity, and Social Engineering insurance does and does not respond. We are not licensed or registered by the Monetary Authority of Singapore; we do not advise on, recommend, or arrange policies. We point you to a licensed Independent Financial Adviser (IFA) at the end so you can compare actual wordings.
 
 ## The Arup case, reconstructed
 
@@ -201,7 +201,7 @@ When you sit with a licensed IFA or commercial broker to review your policies, a
 7. Does the Cyber policy respond to a **supplier-impersonation deepfake** (vendor change-of-bank-account fraud), or only to executive impersonation? Where would the line be drawn?
 8. If the loss is partly recovered by SPF/Anti-Scam Centre/INTERPOL after the claim is paid, what is the **subrogation** position — does the recovery flow back to me, the insurer, or split?
 
-COVA is a Singapore B2B insurance management platform registered as an introducer under MAS Notice FAA-N02. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
+COVA is a Singapore B2B insurance administration platform. It is not licensed or registered by the Monetary Authority of Singapore. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
 
 ## Related Information
 
@@ -214,6 +214,6 @@ COVA is a Singapore B2B insurance management platform registered as an introduce
 - [PDPA 2022 financial penalty regime](/regulatory-change/pdpa-2022-penalty)
 - [Singapore Cybersecurity Act 2024](/regulatory-change/cyber-act-2024)
 
-*Published 8 May 2026. Source verified 8 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 8 May 2026. Source verified 8 May 2026.*
 
 ---

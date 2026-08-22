@@ -297,4 +297,4 @@ The cost of a harassment investigation is meaningful — an external investigati
 - [We Need to Conduct a Mass Layoff or Major Restructuring — What Do I Do Now?](/crisis/mass-layoff-restructuring)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*

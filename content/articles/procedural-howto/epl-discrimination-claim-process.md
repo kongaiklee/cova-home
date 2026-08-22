@@ -390,4 +390,4 @@ The EPL claim process is the most consequential operational scenario where the W
 - [Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know](/regulatory-change/wfa-2024-phase-2-implementation)
 - /comparison/epl-vs-do-vs-pi
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

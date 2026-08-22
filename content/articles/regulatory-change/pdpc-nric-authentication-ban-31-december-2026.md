@@ -258,4 +258,4 @@ The cost of NRIC authentication remediation is moderate — typically SGD 10,000
 - [PDPC Enforcement Escalation 2024-2026: Marina Bay Sands SGD 315,000 and the Pattern Insurers Are Underwriting Against](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025)
 - [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*

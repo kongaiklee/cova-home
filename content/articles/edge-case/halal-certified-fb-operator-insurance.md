@@ -211,6 +211,6 @@ The cost of properly structured halal F&B operator insurance is typically SGD 5,
 - [Kombucha Brewery in Singapore: What Insurance Do I Actually Need?](/edge-case/kombucha-brewery-insurance)
 - /document-legal/sale-of-food-act-licensing-framework
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*
 
 ---

@@ -338,4 +338,4 @@ The Cybersecurity Act framework continues to evolve. First-year operation has cl
 - [Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?](/crisis/cyber-extortion-ransomware)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*
