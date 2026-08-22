@@ -5,9 +5,7 @@ const FOOTER_COLUMNS = [
   {
     heading: 'PRODUCTS',
     links: [
-      { label: 'COVACONCIERGE', to: '#' },
       { label: 'COVAVAULT', to: '#' },
-      { label: 'QUOTE CALLBACK', to: '#' },
     ],
   },
   {
@@ -15,7 +13,6 @@ const FOOTER_COLUMNS = [
     links: [
       { label: 'ABOUT', to: '#' },
       { label: 'CONTACT', to: '#' },
-      { label: 'MAS INTRODUCER (FAA-N02)', to: '#' },
     ],
   },
   {
