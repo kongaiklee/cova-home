@@ -19,17 +19,17 @@ export default function LandingHandles() {
           <div className="mt-10 flex flex-col gap-12">
             <div>
               <h3 className="text-2xl font-serif font-bold text-text-primary">
-                Quotation
+                Quotation documents
               </h3>
               <div className="mt-4 overflow-hidden rounded-xl bg-background-card border border-border-primary">
                 <img
                   src="/assets/images/landing/mobile-quotation.png"
-                  alt="Quotation: GL New Business Submission with documents"
+                  alt="Quotation documents stored against a business record"
                   className="w-full object-contain object-top"
                 />
                 <p className="border-t border-border-primary px-4 py-3 text-sm/relaxed text-text-secondary">
-                  Submit insurance requests in one place and track progress with
-                  your broker from enquiry to confirmation.
+                  Record what your business needs and see the documents your
+                  intermediary sends you, all in one place.
                 </p>
               </div>
             </div>
@@ -56,12 +56,22 @@ export default function LandingHandles() {
               <div className="mt-4 overflow-hidden rounded-xl bg-background-card border border-border-primary">
                 <img
                   src="/assets/images/landing/mobile-concierge.png"
-                  alt="Concierge: Claims and document handling"
+                  alt="Concierge: appointment booking and document storage"
                   className="w-full object-contain object-top"
                 />
                 <p className="border-t border-border-primary px-4 py-3 text-sm/relaxed text-text-secondary">
                   Get administrative support for bookings and coordination
                   related to your employee benefits and covered services.
+                </p>
+                <p className="border-t border-border-primary px-4 py-3 text-[11px] leading-relaxed text-text-secondary">
+                  Medical concierge services are provided by IASO Pte.
+                  Ltd., a separate company connected to COVA through a
+                  shared founder. IASO arranges clinic and doctor
+                  appointments. It is not an insurance intermediary and
+                  takes no part in insurance advice, arranging,
+                  placement or claims. Concierge support is
+                  administrative and does not replace advice from
+                  licensed medical or insurance professionals.
                 </p>
               </div>
             </div>
@@ -82,11 +92,12 @@ export default function LandingHandles() {
           <div className="relative">
             <div className="relative flex flex-col overflow-hidden bg-background-card p-6 pb-0 max-h-[425px]">
               <h3 className="text-2xl font-serif text-text-primary">
-                Quotation
+                Quotation documents
               </h3>
               <p className="mt-3 text-sm/relaxed text-text-secondary">
-                Tell us what your business needs. We get brokers working on it.
-                You stay informed without chasing anyone.
+                Tell us what your business needs. With your consent we pass it
+                to a licensed intermediary, who quotes and advises. Their
+                documents are stored here so you can find them.
               </p>
               <div className="mt-6 -mr-20 min-w-0 lg:-mr-24">
                 <div className="bg-white border border-border-primary rounded-xl">
@@ -128,11 +139,10 @@ export default function LandingHandles() {
                             Your policy is ready for review.
                           </p>
                           <p className="mt-0.5 truncate text-xs/snug text-text-secondary">
-                            This policy has been completed and is ready for
-                            review.
+                            Your intermediary has uploaded your policy document.
                           </p>
                           <p className="mt-0.5 truncate text-xs/snug text-text-secondary">
-                            Please review the details before making any payment.
+                            Payment is made directly to the insurer.
                           </p>
                         </div>
                       </div>
@@ -164,11 +174,6 @@ export default function LandingHandles() {
                 aria-hidden
               />
             </div>
-            {/* Subtle right-edge line to suggest overflow clip */}
-            <p className="absolute w-full font-semibold mt-8 text-[11px] leading-relaxed text-black lg:mt-6">
-              *Concierge support is administrative in nature and does not
-              replace advice from licensed medical or insurance professionals.
-            </p>
           </div>
 
           {/* Policy Management */}
@@ -215,6 +220,16 @@ export default function LandingHandles() {
             <p className="mt-3 text-sm/relaxed text-text-secondary">
               Clinic bookings. Benefits coordination. The admin your HR team is
               currently doing on WhatsApp. Handled.
+            </p>
+            <p className="mt-3 text-[11px] leading-relaxed text-text-secondary">
+              Medical concierge services are provided by IASO Pte.
+              Ltd., a separate company connected to COVA through a
+              shared founder. IASO arranges clinic and doctor
+              appointments. It is not an insurance intermediary and
+              takes no part in insurance advice, arranging, placement
+              or claims. Concierge support is administrative and does
+              not replace advice from licensed medical or insurance
+              professionals.
             </p>
             <div className="mt-6 space-y-4">
               <div className="rounded-xl rounded-bl-sm bg-white p-4 border border-border-primary max-w-[150px]">

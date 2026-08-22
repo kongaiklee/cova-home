@@ -11,9 +11,9 @@ const STAGES: { value: Exclude<Stage, null>; label: string }[] = [
 ];
 
 const INTENTS: { value: Exclude<Intent, null>; label: string }[] = [
-  { value: 'buy', label: 'Buy insurance' },
-  { value: 'advice', label: 'Get broker advice' },
-  { value: 'review', label: 'Review my portfolio' },
+  { value: 'buy', label: 'Take out new cover' },
+  { value: 'advice', label: 'Speak to a licensed adviser' },
+  { value: 'review', label: 'Organise the policies I already have' },
 ];
 
 const LINES = [
@@ -75,7 +75,8 @@ export default function NeedsForm() {
           Tell us what you need.
         </h3>
         <p className="mt-1 text-sm text-text-secondary">
-          We&apos;ll match you with a licensed broker.
+          With your consent, we introduce you to a licensed insurance
+          intermediary. They give all advice; we do not.
         </p>
       </div>
 
@@ -166,7 +167,9 @@ export default function NeedsForm() {
       </button>
 
       <p className="mt-3 text-center text-[11px] text-text-secondary">
-        Free. No obligation. Licensed brokers only.
+        Free while in early access. No obligation to take out cover. By
+        continuing you agree that COVA may pass the requirements you have
+        recorded to a licensed insurance intermediary.
       </p>
     </form>
   );

@@ -2,32 +2,24 @@
 
 **Insurance, without the admin.**
 
-COVA is a modern insurance management platform that helps individuals and businesses manage their insurance coverage, book healthcare services, and organize insurance documents—all in one place, without paperwork or back-and-forth.
+COVA is a Singapore technology platform for SME insurance administration.
 
-## 🎯 Overview
+COVA is not an insurer, an insurance broker or a financial adviser, and holds no licence from the Monetary Authority of Singapore. It does not advise on, recommend, rank, compare, arrange or bind insurance, and it never handles premium or claims money. All advice, quotations and cover come from licensed intermediaries and insurers.
 
-COVA simplifies insurance management by providing:
+## 🎯 What this is
 
-- **Concierge Services**: Book GP visits, health screenings, and other covered services directly through COVA, knowing what applies before you go
-- **Document Management**: Upload, store, and manage policies in one secure location
-- **Profile Management**: Manage personal information, addresses, and employer details seamlessly
-- **Corporate Solutions**: Tools for businesses to manage insurance, employees, and company assets
+- **Document storage**: upload and keep policy documents in one place
+- **Renewal visibility**: every renewal date visible in one view. There are no automated reminders - the feature does not exist and must not be described as if it does
+- **Recorded requirements**: what a business states it needs, recorded as stated and passed on unevaluated. COVA does not assess requirements
+- **Claim documents**: forwarded to the intermediary on the client's request. COVA does not assess, negotiate, adjust or decide any claim
+- **Introductions**: with the client's consent, an introduction to a licensed insurance intermediary, who gives all advice
 
-## ✨ Features
+## ✨ What this is not
 
-### For Individuals
-
-- **Coverage-aware bookings**: Request appointments based on your policy coverage
-- **Central document storage**: Access all insurance documents without searching through emails
-- **Unified profile**: Manage personal and work-related coverage in one account
-- **Service coordination**: Book healthcare services through one channel
-
-### For Corporates
-
-- **Quotation management**: Browse, compare, and secure business insurance plans digitally
-- **Employee management**: Centralized employee records with automatic profile linkage
-- **Vehicle records**: Track company vehicles and their insurance details
-- **Company management**: Control admin access, roles, and permissions
+- **Not a quotation engine.** COVA does not browse, compare or secure insurance plans
+- **Not a recommendation engine.** COVA expresses no view on any insurer, product or premium
+- **Not a payment rail.** Premium is paid directly to the insurer in every case
+- **Not a concierge.** Medical concierge services are provided by IASO Pte. Ltd., a separate company connected to COVA through a shared founder. IASO arranges clinic and doctor appointments; it is not an insurance intermediary and takes no part in insurance advice, arranging, placement or claims
 
 ## 📦 Installation
 

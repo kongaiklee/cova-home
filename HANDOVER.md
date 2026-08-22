@@ -2,7 +2,7 @@
 
 **Repo:** `cova-home` at `D:\covarage\cova-home`
 **Owner:** Kong (`kongaiklee` / `hello.konglee@gmail.com`)
-**Purpose:** Public marketing site for Covarage, a Singapore SME insurance brokerage.
+**Purpose:** Public marketing site for Covarage (COVA) — a Singapore technology platform for SME insurance administration. COVA is not an insurer, broker or financial adviser and holds no MAS licence.
 **Workflow:** Kong writes specs → Claude executes → push to `staging`. Never push to `main`.
 
 ---

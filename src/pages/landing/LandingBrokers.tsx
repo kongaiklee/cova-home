@@ -22,7 +22,9 @@ export default function LandingBrokers() {
       <div className="mx-auto max-w-5xl">
         {/* Heading: hidden on mobile, visible on desktop */}
         <h2 className="hidden text-center font-semibold text-xs tracking-widest text-text-primary sm:block">
-          Access licensed brokers who place policies with leading insurers.
+          Licensed intermediaries on the platform place business with insurers
+          across the Singapore market. Logos are those of insurers; COVA has no
+          relationship with any insurer and is paid by none.
         </h2>
         <div className="relative">
           <div

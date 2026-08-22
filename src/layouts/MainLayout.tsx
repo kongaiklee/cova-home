@@ -362,30 +362,16 @@ const MainLayout: React.FC = () => {
       </section>
 
       <footer className="bg-white border-t border-border-secondary">
-        <div className="max-w-container px-6 md:px-12 lg:px-20 py-5 mx-auto flex flex-col sm:flex-row gap-2 sm:gap-4">
-          <div className="flex-1">
-            <p className="text-sm text-text-secondary">
-              © COVA {new Date().getFullYear()}
-            </p>
-          </div>
-          <div className="flex flex-1">
-            <div className="flex-1">
-              <Link
-                to="/#"
-                className="text-sm text-text-secondary hover:underline transition-colors"
-              >
-                Privacy Policy
-              </Link>
-            </div>
-            <div className="flex-1">
-              <Link
-                to="/#"
-                className="text-sm text-text-secondary hover:underline transition-colors"
-              >
-                Terms of Use
-              </Link>
-            </div>
-          </div>
+        <div className="max-w-container px-6 md:px-12 lg:px-20 py-5 mx-auto flex flex-col gap-2">
+          <p className="text-sm text-text-secondary">
+            © COVA {new Date().getFullYear()}
+          </p>
+          <p className="max-w-2xl text-sm/relaxed text-text-secondary">
+            COVA is a technology platform. We are not a licensed insurance
+            broker regulated by the Monetary Authority of Singapore (MAS) and do
+            not provide any financial advice. All insurance advice, quotations
+            and cover are provided by licensed intermediaries and insurers.
+          </p>
         </div>
       </footer>
     </div>

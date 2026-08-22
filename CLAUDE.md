@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Public marketing site for Covarage (COVA) — a Singapore SME insurance brokerage. Vite + React 19 + TypeScript, deployed on Vercel. There is no backend in this repo; lead-capture forms redirect users to a separate work app at `VITE_APP_COVARAGE_URL`.
+Public marketing site for Covarage (COVA) — a Singapore technology platform for SME insurance administration. COVA is not an insurer, broker or financial adviser and holds no MAS licence. Never describe COVA as advising, recommending, comparing, ranking, quoting, arranging, binding, underwriting, or handling premium or claims. Vite + React 19 + TypeScript, deployed on Vercel. There is no backend in this repo; lead-capture forms redirect users to a separate work app at `VITE_APP_COVARAGE_URL`.
 
 `HANDOVER.md` is a detailed session-handover doc (brand system, deck nav grammar, workflow, outstanding tasks, pitfalls) — read it for anything not covered here.
 
@@ -50,3 +50,43 @@ Tailwind CSS v4 via `@tailwindcss/vite` — **there is no `tailwind.config.js`**
 - Apply edits surgically — don't refactor surrounding code or add features outside the request's scope.
 - Don't edit `.env`; hand env-var changes to the owner for the Vercel dashboard / `vercel env add`.
 - The owner is on Windows — give shell commands in PowerShell syntax.
+
+## Prohibited words and claims - standing constraint
+
+Added by FIX-SPEC-A Task 4.9. This repo previously described COVA as "a Singapore SME insurance
+brokerage", which is why compare/quote/bind copy kept reappearing. Fixing copy without fixing the
+premise guarantees regression.
+
+**COVA is a technology platform. It is not an insurer, an insurance broker or a financial adviser,
+and it holds no licence from the Monetary Authority of Singapore.** MAS does not register
+introducers, so COVA is never "MAS-registered" or "registered with MAS".
+
+Never introduce any of these into this repo:
+
+```text
+registered with MAS / MAS-registered / regulated by MAS (about COVA)
+exclusively / exclusive
+the full market / access to all insurers / shops the entire market
+best deal / best match / most competitive option / the right answer is
+compare, rank, recommend, advise, arrange, bind, place, underwrite (as things COVA does)
+we match you / we match them / we match to you / matched to your industry
+we route the lead / routed by specialisation / priority matching
+premium, claims, money handled by COVA
+our concierge team / our booking page / our health screening packages (IASO's, not COVA's)
+guarantee (of any bill, benefit or outcome)
+always free / free for every company / free-to-use / no subscription (about the platform)
+our adviser / COVA's adviser / our licensed advisers / COVA is licensed
+automated renewal reminders / reminds you before they lapse (the feature does not exist)
+```
+
+Two further standing constraints:
+
+- **Do not assert an FAA-N02 introducer appointment.** No executed appointment exists yet. Until it
+  does, describe what COVA does and say it holds no MAS licence. Do not write "acts as an introducer
+  under MAS Notice FAA-N02" anywhere.
+- **Pricing.** The platform is free while in early access. Never publish an unbounded promise
+  ("always free", "we will never charge you") - it forecloses the paywall. Never publish a price
+  until the paywall exists.
+
+**Statements that a THIRD PARTY is MAS-registered are true and must be preserved.** Insurers,
+brokers and financial advisers genuinely are registered. Do not sweep them.

@@ -52,8 +52,7 @@ export default function BlogIndex() {
         </h1>
         <p className="mx-auto mt-4 max-w-xl text-base/relaxed text-text-secondary">
           Clear, sourced answers to the insurance questions Singapore business
-          owners actually ask. No jargon, no sales pitch, just what you need to
-          protect what you have built.
+          owners actually ask. No jargon, no sales pitch, no recommendations.
         </p>
         <div className="mt-10">
           <IntentFilter value={intent} onChange={changeIntent} counts={counts} />

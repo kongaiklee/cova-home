@@ -115,8 +115,8 @@ export default function ArticlePage({ article }: { article: Article }) {
               Insurance, without the admin.
             </h2>
             <p className="mt-2 max-w-md text-sm/relaxed text-white/90">
-              Covarage keeps your policies in one place, reminds you before they
-              lapse, and connects you to licensed brokers when you need one.
+              Covarage keeps your policies in one place and — where you ask us
+              to — introduces you to a licensed insurance intermediary.
             </p>
           </div>
           <a
