@@ -287,7 +287,7 @@ For SME buyers, the introducer model can provide:
 - Referral to suitable IFA for actual advice and placement
 - Often simpler initial engagement than directly approaching a broker
 
-COVA operates as an introducer under FAA-N02 — meaning we provide factual information about insurance topics and route SME buyers to licensed IFAs for actual advice and placement. We don't provide financial advice, don't recommend specific products, and don't handle premium or claim funds.
+COVA is not licensed or registered by the Monetary Authority of Singapore. We provide factual information about insurance topics and, on request, introduce SME buyers to a licensed insurance intermediary for advice and placement. We don't provide financial advice, don't recommend specific products, and don't handle premium or claim funds.
 
 #### Recent regulatory developments
 

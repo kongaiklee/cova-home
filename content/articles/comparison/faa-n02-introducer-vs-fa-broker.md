@@ -69,14 +69,14 @@ An **Independent Financial Adviser (IFA)** is an FA that is not tied to any sing
 
 #### COVA's framework
 
-COVA operates as an **introducer under FAA-N02**. Within that scope, COVA:
+COVA is **not licensed or registered by the Monetary Authority of Singapore** and carries on no regulated activity. COVA:
 - Introduces SME prospects to licensed IFAs
 - Provides factual information sourced from primary regulators
 - Does **not** recommend specific products
 - Does **not** conduct fact-finds
 - Does **not** hold premium or client funds
 
-The commercial model follows from that scope: the service is **free for SMEs**, with no premium markup, and COVA's revenue comes from successfully matching an SME to a licensed broker. The rationale is division of labour — the lighter introducer scope allows COVA to engage SMEs broadly on factual, educational terms, while the licensed IFA handles the regulated advisory activity where the full consumer protections apply.
+The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup, and COVA is paid an introduction fee by the licensed intermediary. The rationale is division of labour — the lighter introducer scope allows COVA to engage SMEs broadly on factual, educational terms, while the licensed IFA handles the regulated advisory activity where the full consumer protections apply.
 
 #### What it means for SMEs
 
