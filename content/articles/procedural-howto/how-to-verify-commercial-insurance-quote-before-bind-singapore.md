@@ -20,7 +20,7 @@ The moment of binding is the moment the contract forms. Whatever is in the polic
 
 The pre-bind verification step is the moment to find every gap. It is also the step Singapore SMEs most consistently skip. The quote arrives, the finance team pays the premium, and the broker confirms cover is in force. Three months later a claim arrives, the wording is read for the first time, and a sub-limit, a warranty, or an exclusion is discovered that the SME did not know existed.
 
-This article walks through the pre-bind verification workflow. It is built for Singapore SMEs receiving renewal or new-business quotes from a licensed Independent Financial Adviser or broker. The workflow takes 30 to 90 minutes per quote depending on programme complexity and reliably surfaces the issues that bite at claim time. COVA is not licensed or registered by the Monetary Authority of Singapore and is not permitted to advise on, recommend, or arrange any insurance product. The workflow described here is the verification workflow you run before authorising the licensed adviser to bind.
+This article walks through the pre-bind verification workflow. It is built for Singapore SMEs receiving renewal or new-business quotes from a licensed Independent Financial Adviser or broker. The workflow takes 30 to 90 minutes per quote depending on programme complexity and reliably surfaces the issues that bite at claim time. COVA does not advise on, recommend, or arrange any insurance product. The workflow described here is the verification workflow you run before authorising the licensed adviser to bind.
 
 ## What a Quote Actually Is
 

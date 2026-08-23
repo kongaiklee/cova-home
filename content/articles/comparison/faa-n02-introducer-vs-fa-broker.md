@@ -69,7 +69,7 @@ An **Independent Financial Adviser (IFA)** is an FA that is not tied to any sing
 
 #### COVA's framework
 
-COVA is **not licensed or registered by the Monetary Authority of Singapore** and carries on no regulated activity. COVA:
+COVA carries on no regulated activity. COVA:
 - Introduces SME prospects to licensed IFAs
 - Provides factual information sourced from primary regulators
 - Does **not** recommend specific products

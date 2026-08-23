@@ -21,7 +21,7 @@ When a Singapore software-as-a-service founder pastes "build me a login page wit
 
 This is the article 417 instalment of COVA's emerging-risk cluster on artificial intelligence. It sits alongside our regulatory-anchor piece on the [MAS, AI Verify and EU AI Act compliance timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline), and our coverage of [chatbot misrepresentation](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme), [deepfake funds-transfer fraud](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme), and [AI bias in hiring](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme). Where those articles deal with how AI talks, defrauds, or discriminates, this one deals with the code itself — the silent, structural risk sitting inside every product a Singapore SME has shipped using GitHub Copilot, Cursor, Claude Code, Replit Agent, Lovable, Bolt, v0, or Devin.
 
-COVA (Covarage Pte. Ltd., UEN 202531227H) is not licensed or registered by the Monetary Authority of Singapore. We do not advise, recommend, rank or arrange insurance. The information below is factual and routes you to a licensed Independent Financial Adviser at the end.
+COVA does not advise, recommend, rank or arrange insurance. The information below is factual and routes you to a licensed Independent Financial Adviser at the end.
 
 ---
 

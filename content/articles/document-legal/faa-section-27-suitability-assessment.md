@@ -87,7 +87,7 @@ For Singapore SMEs, this distinction matters: working with an IFA generally prov
 
 #### Section 27 and COVA
 
-COVA is not licensed or registered by the Monetary Authority of Singapore and is not a licensed FA. Section 27 therefore does not directly apply to COVA's operations: COVA does not make recommendations, does not conduct fact-finds, does not assess suitability. COVA's role ends at introduction; the licensed IFA that the SME engages then operates under full Section 27 obligations.
+COVA is not a licensed FA. Section 27 therefore does not directly apply to COVA's operations: COVA does not make recommendations, does not conduct fact-finds, does not assess suitability. COVA's role ends at introduction; the licensed IFA that the SME engages then operates under full Section 27 obligations.
 
 This complementary model serves SMEs by separating the gateway function (where introducers reduce friction and provide factual orientation) from the regulated advisory function (where licensed FAs deliver Section 27-compliant fact-find and recommendation). The SME benefits from both: lower friction at engagement, full regulatory protection at advisory.
 

@@ -17,7 +17,7 @@ og_description: "Per MAS Notice FAA-N02, an \"introducer\" can introduce clients
 ---
 
 > **The Answer in 60 Seconds**
-> Per [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02), an "introducer" can introduce clients to a licensed financial adviser, share factual product information, and provide a script — but cannot give advice, recommend products, or handle client money. The Notice is issued under section 58 of the Financial Advisers Act (Cap. 110). **COVA is not licensed or registered by the Monetary Authority of Singapore**, which is structurally why we never recommend a product.
+> Per [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02), an "introducer" can introduce clients to a licensed financial adviser, share factual product information, and provide a script — but cannot give advice, recommend products, or handle client money. The Notice is issued under section 58 of the Financial Advisers Act (Cap. 110). **COVA never recommends a product**, and that is structural rather than a matter of policy.
 
 ### The Sourced Detail
 
@@ -71,7 +71,7 @@ Per the [MAS draft amendments to FAA-N02](https://www.mas.gov.sg/-/media/mas/reg
 
 #### How COVA is structured
 
-COVA (covarage.com) is not licensed or registered by the Monetary Authority of Singapore. Practically, this means:
+COVA (covarage.com) does not advise on, recommend or arrange insurance. Practically, this means:
 
 - Every page on COVA, including this one, provides factual information sourced from primary regulators (MOM, BCA, SCAL, CASE, SCDF, MAS)
 - COVA does not name a "best" insurer for any line of cover. It cannot, structurally
