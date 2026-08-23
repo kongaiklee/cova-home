@@ -76,7 +76,7 @@ export default function NeedsForm() {
         </h3>
         <p className="mt-1 text-sm text-text-secondary">
           With your consent, we introduce you to a licensed insurance
-          intermediary. They give all advice; we do not.
+          intermediary, who gives all advice.
         </p>
       </div>
 
