@@ -92,6 +92,17 @@ const RULES = [
   { id: 'IASO-AS-OURS',
     re: /our concierge team|our booking page|our health screening/i,
     why: 'Medical concierge is IASO Pte. Ltd., a separate related-party company. Attribute it.' },
+
+  // Added after batch E. The GHS article gave nine named insurers merit adjectives and told the
+  // reader "the right answer is" twice - once in the blockquote that feeds FAQPage results.
+  { id: 'INSURER-RANKING', selfRequired: false,
+    re: /the right answer is|(?:typically|clearly|usually) the better choice|strong (?:hospital network|panel-doctor|domestic SME presence|PRUWorks)/i,
+    why: 'COVA does not rank, rate or recommend a named insurer or product. State facts; let a licensed adviser judge.' },
+
+  // Added after batch E. COVA holds no pricing data, so it cannot observe ranges or quote premium.
+  { id: 'PREMIUM-DATA', selfRequired: false,
+    re: /ranges observed on the COVA platform|observed on the (?:COVA|Covarage) platform|insurance for less than \$?[0-9]/i,
+    why: 'COVA holds no pricing data and cannot quote or compare premium. A licensed adviser prices a placement.' },
 ];
 
 /** Exact approved strings. A line containing one of these is the fix, not the defect. */

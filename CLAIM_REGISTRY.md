@@ -40,3 +40,22 @@ registry only has to answer "where is it stated", not "has it regressed".
 - **The four loose decks at `d:/vault/Covarage/`** - not served by anything and not
   reachable from either site, but MAILABLE, and they still carry "Always free for
   companies", "free-to-use platform" and the Bill Guarantee. Outside every fence.
+
+## Added 2026-08-23 after batch E - two more classes the guard now blocks
+
+| Class | Rule id | What it forbids |
+|---|---|---|
+| **Insurer ranking** | `INSURER-RANKING` | merit adjectives on a named insurer, `the right answer is`, `typically the better choice`. The GHS article gave nine named insurers merit judgements and recommended a switching cadence twice, once inside the blockquote that feeds FAQPage results. |
+| **Premium data** | `PREMIUM-DATA` | `ranges observed on the COVA platform`, and any `insurance for less than $N` price claim. COVA holds no pricing data and cannot quote or compare premium. |
+
+Both rules were proved by breaking them: a probe file carrying all four strings made the guard
+exit 1; removing it returned exit 0.
+
+## The one corpus this registry CANNOT cover
+
+**`public/ig-content/` - 399 published Instagram PNGs.** The copy is rasterised into the images and
+the source content bank does not exist anywhere in `D:/vault`, so no grep and no guard can reach it.
+Sampled three, two defective: a premium price claim, and a client-specific criminal-liability
+determination with profanity under the COVA logo. They are served from the marketing domain and are
+now `noindex, nofollow` via `vercel.json`, which stops indexing and nothing else.
+**Do not describe the published estate as reviewed while these stand.** -> `nodes/PENDING_KONG.md`
