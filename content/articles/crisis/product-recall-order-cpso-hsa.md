@@ -328,7 +328,7 @@ The cost of product recall is substantial — and, because it is largely first-p
 - [A Customer Group Just Demanded Mass Refunds — What Do I Do Now?](/crisis/mass-refund-demand)
 - /comparison/cpr-vs-pl-recall-extension-singapore-fb
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*
 
 ## Batch 38 — /procedural-howto Operational Procedures (Articles 371-380)
 

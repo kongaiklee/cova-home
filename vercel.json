@@ -5,5 +5,19 @@
     { "source": "/for-corpsecs", "destination": "/decks/CovaPartnership_Mobile.html" },
     { "source": "/for-brokers", "destination": "/decks/CovaBroker_Mobile.html" },
     { "source": "/(.*)", "destination": "/" }
+  ],
+  "headers": [
+    {
+      "source": "/decks/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+      ]
+    },
+    {
+      "source": "/ig-content/(.*)",
+      "headers": [
+        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+      ]
+    }
   ]
 }

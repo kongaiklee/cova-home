@@ -303,4 +303,4 @@ The architectural choice between Master/Local and DIC/DIL is foundational for mu
 - [Singapore SME With Australia Operations: How Insurance Works for Australian Subsidiaries and Branches](/cross-border/sg-sme-australia-operations)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

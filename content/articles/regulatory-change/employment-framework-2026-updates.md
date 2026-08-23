@@ -352,7 +352,7 @@ The Singapore employment framework continues to mature. SMEs that engage thought
 - [Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know](/regulatory-change/platform-workers-act-first-year-review)
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*
 
 ---
 

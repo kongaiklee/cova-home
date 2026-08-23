@@ -97,6 +97,6 @@ If your landlord enforces the lease and you cannot produce a valid COI matching 
 - Public Liability for tenants: lease vs. statutory minimums
 - "Additional insured" vs. "certificate holder": what each means
 
-*Published 3 May 2026. Source verified 3 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 3 May 2026. Source verified 3 May 2026.*
 
 ---

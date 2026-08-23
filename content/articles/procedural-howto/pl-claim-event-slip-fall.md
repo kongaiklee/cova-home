@@ -112,4 +112,4 @@ If your event uses multiple vendors and temporary setups, the contract map matte
 - [How to File a Public Liability Claim — Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
 - /document-legal/glossaryindemnity-to-principal
 - /document-legal/glossarycross-liability
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under <a href="https://www.mas.gov.sg/regulation/notices/notice-faa-n02">MAS Notice FAA-N02</a>. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

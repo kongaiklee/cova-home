@@ -280,6 +280,6 @@ The decision is not permanent. As your SME grows, as your exposure profile chang
 - [D&O Claim Notification Process](/procedural-howto/do-claim-notification-process)
 - [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
 
-*Published 14 May 2026. Source verified 14 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 14 May 2026. Source verified 14 May 2026.*
 
 ---

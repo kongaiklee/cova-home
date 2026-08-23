@@ -226,4 +226,4 @@ The added complexity of US operations is substantial but proportionate to the op
 - [Singapore SME With Hong Kong Operations: How Insurance Works for HK Subsidiaries and Branches](/cross-border/sg-sme-hong-kong-operations)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

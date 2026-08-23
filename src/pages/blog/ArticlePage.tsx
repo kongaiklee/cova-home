@@ -25,6 +25,29 @@ const markdownComponents = {
   },
 };
 
+/** W5 - article firewall disclaimer. Rendered on every article, both properties.
+ *  Canonical text. Do not vary it, and do not duplicate it in article markdown.
+ *  FAA-N02 FREE: no introducer appointment exists as at 2026-08-23. Do not
+ *  reinstate any FAA-N02 reference here without a signed appointment. */
+function ArticleDisclaimer() {
+  return (
+    <aside
+      className="mx-auto w-full max-w-3xl px-6 pb-12 sm:px-8"
+      aria-label="Regulatory disclosure"
+    >
+      <p className="border-t border-border-primary pt-6 text-sm/relaxed text-text-secondary">
+        COVA is a technology platform. We are not an insurer, an insurance broker
+        or a financial adviser, and we are not licensed or registered by the
+        Monetary Authority of Singapore. We do not advise on, recommend, rank,
+        compare or arrange insurance, and we never handle premium or claims. This
+        article is general information, not financial advice. Where you ask us to,
+        we introduce you to a licensed insurance intermediary, who provides all
+        advice.
+      </p>
+    </aside>
+  );
+}
+
 export default function ArticlePage({ article }: { article: Article }) {
   const { frontmatter, body } = article;
   const intent = INTENT_BY_ID[frontmatter.intent];
@@ -107,6 +130,8 @@ export default function ArticlePage({ article }: { article: Article }) {
         </div>
       </article>
 
+      <ArticleDisclaimer />
+
       {/* CTA band */}
       <section className="bg-linear-to-br from-landing-hero-from to-landing-hero-to">
         <div className="mx-auto flex w-full max-w-3xl flex-col items-start gap-5 px-6 py-12 sm:px-8 lg:flex-row lg:items-center lg:justify-between">
@@ -115,8 +140,8 @@ export default function ArticlePage({ article }: { article: Article }) {
               Insurance, without the admin.
             </h2>
             <p className="mt-2 max-w-md text-sm/relaxed text-white/90">
-              Covarage keeps your policies in one place, reminds you before they
-              lapse, and connects you to licensed brokers when you need one.
+              Covarage keeps your policies in one place and — where you ask us
+              to — introduces you to a licensed insurance intermediary.
             </p>
           </div>
           <a

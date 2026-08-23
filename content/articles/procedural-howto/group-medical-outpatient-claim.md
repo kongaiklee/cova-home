@@ -123,4 +123,4 @@ A short internal guide can fix most of this: which clinics are panel, when refer
 - /comparison/comparegroup-medical-vs-wica
 - /comparison/comparegroup-hospital-vs-outpatient
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
-*Published 4 May 2026. Source verified 4 May 2026. COVA is an introducer under <a href="https://www.mas.gov.sg/regulation/notices/notice-faa-n02">MAS Notice FAA-N02</a>. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 4 May 2026. Source verified 4 May 2026.*

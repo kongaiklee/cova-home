@@ -17,7 +17,7 @@ og_description: "Per MAS Notice FAA-N02, an \"introducer\" can introduce clients
 ---
 
 > **The Answer in 60 Seconds**
-> Per [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02), an "introducer" can introduce clients to a licensed financial adviser, share factual product information, and provide a script — but cannot give advice, recommend products, or handle client money. The Notice is issued under section 58 of the Financial Advisers Act (Cap. 110). **COVA operates as an introducer under FAA-N02**, which is structurally why we never recommend a product.
+> Per [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02), an "introducer" can introduce clients to a licensed financial adviser, share factual product information, and provide a script — but cannot give advice, recommend products, or handle client money. The Notice is issued under section 58 of the Financial Advisers Act (Cap. 110). **COVA never recommends a product**, and that is structural rather than a matter of policy.
 
 ### The Sourced Detail
 
@@ -69,17 +69,16 @@ Per the [MAS draft amendments to FAA-N02](https://www.mas.gov.sg/-/media/mas/reg
 - **Prohibition on handling client's money or property**
 - **Restriction on full-time / sole-business introducers** : financial advisers should take reasonable steps not to appoint any introducer whose carrying out of introducing activities is, for a corporation, its sole business activity, or, for an individual, their full-time occupation
 
-#### How COVA's structure maps to FAA-N02
+#### How COVA is structured
 
-COVA (covarage.com) is registered as an introducer to licensed financial advisers in Singapore. Practically, this means:
+COVA (covarage.com) does not advise on, recommend or arrange insurance. Practically, this means:
 
 - Every page on COVA, including this one, provides factual information sourced from primary regulators (MOM, BCA, SCAL, CASE, SCDF, MAS)
 - COVA does not name a "best" insurer for any line of cover. It cannot, structurally
 - When you click "Find a licensed IFA →", the introduction is to a licensed FA verifiable on the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid) and on the [MAS Register of Representatives](https://eservices.mas.gov.sg/rr)
 - COVA does not handle premium money. Premiums flow directly between you and the insurer, via the licensed FA
-- COVA's script and disclosures are subject to its appointing FA's approval, per FAA-N02
 
-This is what we mean by "recommendation firewall": it's not a brand promise, it's a regulatory structure.
+This is what we mean by "recommendation firewall": it is not a brand promise.
 
 ### What This Means for Your Business
 
@@ -105,6 +104,6 @@ Companies typically need to consider three things when evaluating any insurance 
 
 ---
 
-*Published 3 May 2026. Source verified 3 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 3 May 2026. Source verified 3 May 2026.*
 
 ---

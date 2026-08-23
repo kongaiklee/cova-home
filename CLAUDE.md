@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Public marketing site for Covarage (COVA) — a Singapore SME insurance brokerage. Vite + React 19 + TypeScript, deployed on Vercel. There is no backend in this repo; lead-capture forms redirect users to a separate work app at `VITE_APP_COVARAGE_URL`.
+Public marketing site for Covarage (COVA) — a Singapore technology platform for SME insurance administration. COVA is not an insurer, broker or financial adviser and holds no MAS licence. Never describe COVA as advising, recommending, comparing, ranking, quoting, arranging, binding, underwriting, or handling premium or claims. Vite + React 19 + TypeScript, deployed on Vercel. There is no backend in this repo; lead-capture forms redirect users to a separate work app at `VITE_APP_COVARAGE_URL`.
 
 `HANDOVER.md` is a detailed session-handover doc (brand system, deck nav grammar, workflow, outstanding tasks, pitfalls) — read it for anything not covered here.
 
@@ -50,3 +50,67 @@ Tailwind CSS v4 via `@tailwindcss/vite` — **there is no `tailwind.config.js`**
 - Apply edits surgically — don't refactor surrounding code or add features outside the request's scope.
 - Don't edit `.env`; hand env-var changes to the owner for the Vercel dashboard / `vercel env add`.
 - The owner is on Windows — give shell commands in PowerShell syntax.
+
+## Prohibited words and claims - standing constraint
+
+Added by FIX-SPEC-A Task 4.9. This repo previously described COVA as "a Singapore SME insurance
+brokerage", which is why compare/quote/bind copy kept reappearing. Fixing copy without fixing the
+premise guarantees regression.
+
+**COVA is a technology platform. It is not an insurer, an insurance broker or a financial adviser,
+and it holds no licence from the Monetary Authority of Singapore.** MAS does not register
+introducers, so COVA is never "MAS-registered" or "registered with MAS".
+
+Never introduce any of these into this repo:
+
+```text
+registered with MAS / MAS-registered / regulated by MAS (about COVA)
+exclusively / exclusive
+the full market / access to all insurers / shops the entire market
+best deal / best match / most competitive option / the right answer is
+compare, rank, recommend, advise, arrange, bind, place, underwrite (as things COVA does)
+we match you / we match them / we match to you / matched to your industry
+we route the lead / routed by specialisation / priority matching
+premium, claims, money handled by COVA
+our concierge team / our booking page / our health screening packages (IASO's, not COVA's)
+guarantee (of any bill, benefit or outcome)
+always free / free for every company / free-to-use / no subscription (about the platform)
+our adviser / COVA's adviser / our licensed advisers / COVA is licensed
+automated renewal reminders / reminds you before they lapse (the feature does not exist)
+```
+
+Two further standing constraints:
+
+- **Do not assert an FAA-N02 introducer appointment.** No executed appointment exists yet. Until it
+  does, describe what COVA does and say it holds no MAS licence. Do not write "acts as an introducer
+  under MAS Notice FAA-N02" anywhere.
+- **Pricing.** The platform is free while in early access. Never publish an unbounded promise
+  ("always free", "we will never charge you") - it forecloses the paywall. Never publish a price
+  until the paywall exists.
+
+**Statements that a THIRD PARTY is MAS-registered are true and must be preserved.** Insurers,
+brokers and financial advisers genuinely are registered. Do not sweep them.
+
+### No reverse marketing - KONG, 2026-08-23
+
+Verbatim: *"there is NO NEED to state what isnt available. that isnt marketing, that is REVERSE
+MARKETING if u are actively trying to tell someone not to consider you"*, and earlier the same day:
+*"the bus company doesn't need to state it isn't licensed or registered by MAS. neither does the
+hawker. why do we if we are not?"*
+
+**State what COVA DOES. Never append a denial of a capability to marketing copy.**
+
+A denial is itself a claim about the perimeter - you only deny what a reader might otherwise
+assume - so a page full of denials argues the opposite of what it intends.
+
+| Do not write | Write instead |
+|---|---|
+| `COVA does not assess your requirements.` | `Whether any of it applies to your business is a question for a licensed adviser.` |
+| `COVA expresses no view on who is right for you.` | `The intermediary gives all advice.` |
+| `COVA does not compare, rank or express a view.` | `Which route suits a business is a question for a licensed adviser.` |
+| `COVA is not licensed or registered by MAS` (in body copy) | say nothing; the footer disclaimer carries it once |
+
+**The exceptions, and they are the only two.** The counsel-approved disclaimer at the foot of a
+page or deck, which is a legal notice and not marketing; and the IASO attribution, which names a
+related party and is required disclosure. Both stay verbatim. Neither belongs in body copy a
+second time.

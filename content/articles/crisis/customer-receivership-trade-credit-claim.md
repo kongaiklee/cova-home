@@ -282,4 +282,4 @@ The cost of TCI claim mismanagement is acute — an uninsured receivable loss sc
 - [When a Critical Vendor Goes Insolvent: Singapore Framework for Vendor Insolvency Cascade Response](/crisis/vendor-insolvency-cascade)
 - [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*

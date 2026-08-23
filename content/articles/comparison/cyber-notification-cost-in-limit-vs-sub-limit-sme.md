@@ -346,6 +346,6 @@ The post-breach moment is not when to find out the cover is inadequate. The plac
 - [PI vs Tech E&O for SaaS](/comparison/pi-vs-tech-eo-for-saas)
 - [Cyber Tower Claim Coordination](/procedural-howto/cyber-tower-claim-coordination)
 
-*Published 14 May 2026. Source verified 14 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 14 May 2026. Source verified 14 May 2026.*
 
 ---

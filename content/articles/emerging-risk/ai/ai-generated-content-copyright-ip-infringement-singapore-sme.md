@@ -26,7 +26,7 @@ When OpenAI rolled out the GPT-4o native image generator on 25 March 2025, Singa
 
 This article is about that demand letter. It is article 415 in the COVA Emerging Risk / AI series. It covers AI-generated content copyright and IP infringement risk for Singapore SMEs, framed as a Media Liability, Intellectual Property Liability, Professional Indemnity (PI) and Technology Errors & Omissions (Tech E&O) insurance issue. The companion articles in this same-day cluster cover regulatory anchors (article 411), chatbot misrepresentation (412), deepfake funds-transfer fraud (414), AI bias in hiring (416) and AI-generated code security (417). All of them sit at /emerging-risk/ai/ on covarage.com.
 
-Two threshold disclosures up front. COVA (Covarage Pte. Ltd., UEN 202531227H) is registered as an introducer under MAS Notice FAA-N02 — "Notice on Appointment and Use of Introducers by Financial Advisers" issued under section 58 of the Financial Advisers Act (Cap. 110). We do not advise on, recommend, rank or arrange insurance. We provide factual information sourced from primary regulators and route SMEs to licensed Independent Financial Advisers (IFAs) and brokers. Second, every regulatory claim, statutory section, court case and product detail below is linked to a primary source. Where Singapore-specific data does not yet exist, we say so and pivot to the closest comparable jurisdiction.
+Two threshold disclosures up front. COVA does not advise on, recommend, rank or arrange insurance. We provide factual information sourced from primary regulators and route SMEs to licensed Independent Financial Advisers (IFAs) and brokers. Second, every regulatory claim, statutory section, court case and product detail below is linked to a primary source. Where Singapore-specific data does not yet exist, we say so and pivot to the closest comparable jurisdiction.
 
 ## Key Findings
 
@@ -225,6 +225,6 @@ Stage the work in three blocks. The benchmarks below are the triggers that shoul
 - [Article 417 — AI-generated code security vulnerabilities for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
 - [PDPA 2022 penalty regime](/regulatory-change/pdpa-2022-penalty)
 
-*Published 8 May 2026. Source verified 8 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 8 May 2026. Source verified 8 May 2026.*
 
 ---

@@ -5,9 +5,7 @@ const FOOTER_COLUMNS = [
   {
     heading: 'PRODUCTS',
     links: [
-      { label: 'COVACONCIERGE', to: '#' },
       { label: 'COVAVAULT', to: '#' },
-      { label: 'QUOTE CALLBACK', to: '#' },
     ],
   },
   {
@@ -15,7 +13,6 @@ const FOOTER_COLUMNS = [
     links: [
       { label: 'ABOUT', to: '#' },
       { label: 'CONTACT', to: '#' },
-      { label: 'MAS INTRODUCER (FAA-N02)', to: '#' },
     ],
   },
   {
@@ -78,12 +75,16 @@ export default function LandingFooter() {
             Some important things you should know
           </h3>
           <p className="mt-3 max-w-2xl text-sm/relaxed text-text-primary">
-            Covarage is a technology platform that helps businesses organise
-            insurance information and connect with licensed insurance brokers.
-            COVA is not an insurer and does not provide insurance advice or
-            recommendations. All insurance quotations, policies, coverage
-            decisions, and claims outcomes are provided by licensed brokers and
-            insurers and are subject to their terms and approvals.
+            COVA is a technology platform. We are not a licensed insurance
+            broker regulated by the Monetary Authority of Singapore (MAS) and do
+            not provide any financial advice. All insurance advice, quotations
+            and cover are provided by licensed intermediaries and insurers.
+          </p>
+          <p className="mt-3 max-w-2xl text-sm/relaxed text-text-primary">
+            COVA does not arrange or bind cover, does not handle premium or
+            client money, and takes no part in claims. On request, COVA
+            introduces a business to a licensed insurance intermediary, and that
+            intermediary provides all advice.
           </p>
         </div>
 

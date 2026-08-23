@@ -81,6 +81,6 @@ Another commonly-missed area: cyber. Parental WhatsApp groups, photo-sharing app
 - WICA for staff in education sector
 - PDPA exposure for centres holding parent and child data
 
-*Published 3 May 2026. Source verified 3 May 2026. COVA is an introducer under MAS Notice FAA-N02. We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 3 May 2026. Source verified 3 May 2026.*
 
 ---

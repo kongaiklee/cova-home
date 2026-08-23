@@ -205,4 +205,4 @@ Organisations that approach DSAR handling as a customer-service question — res
 - /procedural-howto/pdpa-data-breach-notification-process
 - [How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore)
 
-*Published 5 May 2026. Source verified 5 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 5 May 2026. Source verified 5 May 2026.*

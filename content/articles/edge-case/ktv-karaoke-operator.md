@@ -238,6 +238,6 @@ The cost of properly structured cover for a typical mid-range KTV operation (10â
 - [Vape, E-Cigarette, and Tobacco Retail Post-Regulation: Singapore Framework Considerations](/edge-case/vape-tobacco-retail-singapore)
 - /document-legal/public-entertainments-act-framework
 
-*Published 6 May 2026. Source verified 6 May 2026. COVA is an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). We do not recommend insurance products. We provide factual information sourced from primary regulators and route you to a licensed IFA who can match a policy to your specific situation.*
+*Published 6 May 2026. Source verified 6 May 2026.*
 
 ---
