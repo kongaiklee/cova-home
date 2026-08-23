@@ -34,6 +34,7 @@ registry only has to answer "where is it stated", not "has it regressed".
 | `INSURER-RANKING` | COVA does not rank, rate or recommend a named insurer or product. State facts; let a licensed adviser judge. |
 | `PREMIUM-DATA` | COVA holds no pricing data and cannot quote or compare premium. A licensed adviser prices a placement. |
 | `PARTNER-SHARE-SPLIT` | The introducer fee passes through to the partner WHOLESALE. No split, no multiplier, and it is not "a share". |
+| `INTERNAL-MEMO-LEAK` | Internal governance artefacts do not belong in a served file. The build gate enforces a rule; a comment on the marketing site publishes it. |
 
 ## Not in this repo, and not fixable from it
 

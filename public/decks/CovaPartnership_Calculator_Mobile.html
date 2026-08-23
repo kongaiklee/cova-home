@@ -144,7 +144,7 @@ h1{font-family:var(--display);font-size:32px;line-height:1.15;color:var(--teak);
 <div class="result">
   <p class="result__label">Estimated Annual Take</p>
   <div class="result__num" id="output">S$ 12,000</div>
-    <p class="result__sub">The referral fee, passed through to you in full while in early access. Paid within 14 business days.</p>
+    <p class="result__sub">Yours in full. Paid within 14 business days.</p>
 </div>
 
 <div class="breakdown">
@@ -152,7 +152,7 @@ h1{font-family:var(--display);font-size:32px;line-height:1.15;color:var(--teak);
   <div class="breakdown__row"><span>Clients placed per year</span><span id="b-clients">20</span></div>
   <div class="breakdown__row"><span>Total premium volume</span><span id="b-volume">S$ 80,000</span></div>
   <div class="breakdown__row"><span>Broker referral fee pool</span><span id="b-pool">S$ 12,000</span></div>
-  <div class="breakdown__row"><span>Passed through to you</span><span id="b-share">S$ 12,000</span></div>
+  <div class="breakdown__row"><span>You keep</span><span id="b-share">S$ 12,000</span></div>
 </div>
 
 <a href="mailto:zul@covarage.com" class="cta" id="cta">Contact Partnerships &nbsp;→</a>
@@ -186,8 +186,6 @@ function recalc(){
   const annualClients=c*4;
   const volume=annualClients*p;
   const pool=volume*r;
-  // Wholesale pass-through: the introducer fee goes to the partner in full.
-  // Do not reintroduce a multiplier here without a ruling - KONG 2026-08-23.
   const share=pool;
 
   outputEl.textContent=fmt(share);

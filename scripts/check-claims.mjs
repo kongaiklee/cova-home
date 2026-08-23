@@ -111,6 +111,15 @@ const RULES = [
   { id: 'PARTNER-SHARE-SPLIT', selfRequired: false,
     re: /(?:^|[^A-Za-z])share\s*=\s*pool\s*\*|your share of the (?:referral|introducer) fee|\d{1,3}\s*(?:%|per ?cent)\s+of\s+the\s+(?:referral|introducer)\s+fee/i,
     why: 'The introducer fee passes through to the partner WHOLESALE. No split, no multiplier, and it is not "a share".' },
+
+  // Added 2026-08-24 on Kong's complaint that seats keep writing internal-memo language onto the
+  // marketing site. This seat shipped a code comment naming him and a ruling date into a deck that
+  // is served from the marketing domain and readable with view-source. Deliberately NARROW - it
+  // matches internal artefact names only, never register or tone, because a tone rule would fire on
+  // editorial and get widened until it means nothing. 'HONG KONG' is why bare KONG is not matched.
+  { id: 'INTERNAL-MEMO-LEAK', selfRequired: false,
+    re: /PENDING_KONG|COVA_RULINGS|FIX-SPEC-[AB]|KONG \d{4}-\d{2}-\d{2}|nodes\/(?:tm|cpo|coo|cd|cmo|cfo|cro|ux)\//,
+    why: 'Internal governance artefacts do not belong in a served file. The build gate enforces a rule; a comment on the marketing site publishes it.' },
 ];
 
 /** Exact approved strings. A line containing one of these is the fix, not the defect. */
