@@ -114,3 +114,32 @@ assume - so a page full of denials argues the opposite of what it intends.
 page or deck, which is a legal notice and not marketing; and the IASO attribution, which names a
 related party and is required disclosure. Both stay verbatim. Neither belongs in body copy a
 second time.
+
+### An internal memo is not marketing copy - KONG, 2026-08-24
+
+Verbatim: *"guys u all really like writing additional shit from INTERNAL MEMOS to the MARKETING
+SITE"* and *"do u understand the difference between an internal memo and marketing customer facing
+copy?"*
+
+**A memo explains the mechanism to US and hedges for US. Marketing copy tells the READER what they
+get.** If a sentence only makes sense to someone who has read our rulings, it is a memo.
+
+This was written after the partner calculator shipped reading *"The referral fee, passed through to
+you in full while in early access"* - our own money-flow vocabulary plus a caveat that told a
+partner their cut was temporary, on the one page whose job is to make the offer worth taking.
+
+| Do not write | Write instead |
+|---|---|
+| `The referral fee, passed through to you in full` | `Yours in full.` |
+| `Passed through to you` (a row label) | `You keep` |
+| `... while in early access` on what WE PAY someone | say nothing; the estimate footnote already qualifies it |
+| `Wholesale pass-through`, `processing fee`, `value metric` | describe the outcome, not our model |
+
+**`Free while in early access` is ruled for what COVA CHARGES and does not transfer to what COVA
+PAYS.** Adjustability on an earnings figure belongs in the disclaimer footnote - *"Estimate only.
+Actual fees depend on product mix and renewal behaviour."* - never in the headline.
+
+**No governance artefact ever ships in a served file**, comments included. No `PENDING_KONG`, no
+`COVA_RULINGS`, no `FIX-SPEC-A/B`, no `KONG <date>`, no `nodes/<seat>/` path. A build gate enforces
+a rule; a comment on the marketing site publishes it. `INTERNAL-MEMO-LEAK` in
+`scripts/check-claims.mjs` fails the build on all of those.
