@@ -96,13 +96,21 @@ const RULES = [
   // Added after batch E. The GHS article gave nine named insurers merit adjectives and told the
   // reader "the right answer is" twice - once in the blockquote that feeds FAQPage results.
   { id: 'INSURER-RANKING', selfRequired: false,
-    re: /the right answer is|(?:typically|clearly|usually) the better choice|strong (?:hospital network|panel-doctor|domestic SME presence|PRUWorks)/i,
+    re: /the right answer is|\b(?:typically|clearly|usually) the better choice\b|\bstrong (?:hospital network|panel-doctor|domestic SME presence|PRUWorks)/i,
     why: 'COVA does not rank, rate or recommend a named insurer or product. State facts; let a licensed adviser judge.' },
 
   // Added after batch E. COVA holds no pricing data, so it cannot observe ranges or quote premium.
   { id: 'PREMIUM-DATA', selfRequired: false,
     re: /ranges observed on the COVA platform|observed on the (?:COVA|Covarage) platform|insurance for less than \$?[0-9]/i,
     why: 'COVA holds no pricing data and cannot quote or compare premium. A licensed adviser prices a placement.' },
+
+  // Added 2026-08-24. The partner calculator paid share = pool * 0.80 while the ruled model passes
+  // the introducer fee through WHOLESALE, so the live page understated our own offer by 20 percent
+  // on every input. An arithmetic defect does not show up in a copy sweep, which is why this rule
+  // reads the expression and not only the prose.
+  { id: 'PARTNER-SHARE-SPLIT', selfRequired: false,
+    re: /(?:^|[^A-Za-z])share\s*=\s*pool\s*\*|your share of the (?:referral|introducer) fee|\d{1,3}\s*(?:%|per ?cent)\s+of\s+the\s+(?:referral|introducer)\s+fee/i,
+    why: 'The introducer fee passes through to the partner WHOLESALE. No split, no multiplier, and it is not "a share".' },
 ];
 
 /** Exact approved strings. A line containing one of these is the fix, not the defect. */
@@ -220,8 +228,19 @@ if (process.argv.includes('--registry')) {
   out.push('  `request/config.ts` still carries "The platform is free for your business to use.');
   out.push('  COVA will never charge you." That is banned wording and belongs to the dev team.');
   out.push('- **The four loose decks at `d:/vault/Covarage/`** - not served by anything and not');
-  out.push('  reachable from either site, but MAILABLE, and they still carry "Always free for');
-  out.push('  companies", "free-to-use platform" and the Bill Guarantee. Outside every fence.');
+  out.push('  reachable from either site, but MAILABLE. Corrected by hand on 2026-08-23 (backup at');
+  out.push('  `_loose_decks_backup_2026-08-23_pre-fix/`), and outside every fence, so no guard holds');
+  out.push('  them. They can regress and nothing here would know.');
+  out.push('');
+  out.push('## The one corpus this registry CANNOT cover');
+  out.push('');
+  out.push('**`public/ig-content/` - 399 published Instagram PNGs.** The copy is rasterised into the');
+  out.push('images and the source content bank does not exist anywhere in `D:/vault`, so no grep and no');
+  out.push('guard can reach it. Sampled three, two defective: a premium price claim, and a');
+  out.push('client-specific criminal-liability determination with profanity under the COVA logo. They');
+  out.push('are served from the marketing domain and are `noindex, nofollow` via `vercel.json`, which');
+  out.push('stops indexing and nothing else - they still return HTTP 200.');
+  out.push('**Do not describe the published estate as reviewed while these stand.** -> `nodes/PENDING_KONG.md`');
   writeFileSync(join(ROOT, 'CLAIM_REGISTRY.md'), out.join('\n') + '\n', 'utf8');
   console.log('check-claims: wrote CLAIM_REGISTRY.md');
 }

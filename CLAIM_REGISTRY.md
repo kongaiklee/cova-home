@@ -12,7 +12,7 @@ registry only has to answer "where is it stated", not "has it regressed".
 
 | Claim class | Where it is stated |
 |---|---|
-| **Regulatory position (the approved disclaimer)** | `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaPartnership_Calculator_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `src/layouts/MainLayout.tsx`, `src/pages/blog/ArticlePage.tsx`, `src/pages/landing/LandingFooter.tsx` |
+| **Regulatory position (the approved disclaimer)** | `CLAUDE.md`, `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaPartnership_Calculator_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `src/layouts/MainLayout.tsx`, `src/pages/blog/ArticlePage.tsx`, `src/pages/landing/LandingFooter.tsx` |
 | **Pricing position** | `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `src/components/NeedsForm.tsx`, `src/pages/blog/BlogHeader.tsx` |
 | **Renewal wording (the feature that does NOT exist)** | `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html` |
 | **Introduction wording** | `content/articles/comparison/faa-n02-introducer-vs-fa-broker.md`, `content/articles/document-legal/mas-notice-faa-n03-ifa-conduct.md`, `content/articles/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore.md`, `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `README.md`, `src/components/NeedsForm.tsx`, `src/pages/blog/ArticlePage.tsx`, `src/pages/landing/LandingFooter.tsx`, `src/pages/landing/LandingHandles.tsx` |
@@ -31,6 +31,9 @@ registry only has to answer "where is it stated", not "has it regressed".
 | `MARKET-ACCESS` | COVA cannot deliver or substantiate a market-access or best-outcome claim. |
 | `COVA-AS-INTERMEDIARY` | COVA does not arrange, bind, place or underwrite. Licensed intermediaries do. |
 | `IASO-AS-OURS` | Medical concierge is IASO Pte. Ltd., a separate related-party company. Attribute it. |
+| `INSURER-RANKING` | COVA does not rank, rate or recommend a named insurer or product. State facts; let a licensed adviser judge. |
+| `PREMIUM-DATA` | COVA holds no pricing data and cannot quote or compare premium. A licensed adviser prices a placement. |
+| `PARTNER-SHARE-SPLIT` | The introducer fee passes through to the partner WHOLESALE. No split, no multiplier, and it is not "a share". |
 
 ## Not in this repo, and not fixable from it
 
@@ -38,24 +41,16 @@ registry only has to answer "where is it stated", not "has it regressed".
   `request/config.ts` still carries "The platform is free for your business to use.
   COVA will never charge you." That is banned wording and belongs to the dev team.
 - **The four loose decks at `d:/vault/Covarage/`** - not served by anything and not
-  reachable from either site, but MAILABLE, and they still carry "Always free for
-  companies", "free-to-use platform" and the Bill Guarantee. Outside every fence.
-
-## Added 2026-08-23 after batch E - two more classes the guard now blocks
-
-| Class | Rule id | What it forbids |
-|---|---|---|
-| **Insurer ranking** | `INSURER-RANKING` | merit adjectives on a named insurer, `the right answer is`, `typically the better choice`. The GHS article gave nine named insurers merit judgements and recommended a switching cadence twice, once inside the blockquote that feeds FAQPage results. |
-| **Premium data** | `PREMIUM-DATA` | `ranges observed on the COVA platform`, and any `insurance for less than $N` price claim. COVA holds no pricing data and cannot quote or compare premium. |
-
-Both rules were proved by breaking them: a probe file carrying all four strings made the guard
-exit 1; removing it returned exit 0.
+  reachable from either site, but MAILABLE. Corrected by hand on 2026-08-23 (backup at
+  `_loose_decks_backup_2026-08-23_pre-fix/`), and outside every fence, so no guard holds
+  them. They can regress and nothing here would know.
 
 ## The one corpus this registry CANNOT cover
 
-**`public/ig-content/` - 399 published Instagram PNGs.** The copy is rasterised into the images and
-the source content bank does not exist anywhere in `D:/vault`, so no grep and no guard can reach it.
-Sampled three, two defective: a premium price claim, and a client-specific criminal-liability
-determination with profanity under the COVA logo. They are served from the marketing domain and are
-now `noindex, nofollow` via `vercel.json`, which stops indexing and nothing else.
+**`public/ig-content/` - 399 published Instagram PNGs.** The copy is rasterised into the
+images and the source content bank does not exist anywhere in `D:/vault`, so no grep and no
+guard can reach it. Sampled three, two defective: a premium price claim, and a
+client-specific criminal-liability determination with profanity under the COVA logo. They
+are served from the marketing domain and are `noindex, nofollow` via `vercel.json`, which
+stops indexing and nothing else - they still return HTTP 200.
 **Do not describe the published estate as reviewed while these stand.** -> `nodes/PENDING_KONG.md`
