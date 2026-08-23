@@ -112,7 +112,7 @@ Many micro-SMEs face the position of being:
 - Insurance-eligible in principle.
 - Effectively unable to access broker-mediated cover due to scale.
 
-The [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) FAA-N02 framework provides one route by which insurance access is widened. Under FAA-N02, introducers like COVA can connect SMEs to insurers without acting as appointed financial advisers. This widens the accessibility of standard SME insurance to firms that do not engage an appointed broker.
+The [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) FAA-N02 framework provides one route by which insurance access is widened. Under FAA-N02, introducers can connect SMEs to licensed intermediaries without acting as appointed financial advisers. This widens the accessibility of standard SME insurance to firms that do not engage an appointed broker.
 
 The Insurance Act 1966 framework governs licensed insurers and brokers. COVA is not an Insurance Act 1966-licensed broker.
 

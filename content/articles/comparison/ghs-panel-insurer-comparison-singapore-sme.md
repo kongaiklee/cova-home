@@ -18,7 +18,7 @@ og_description: "Group Hospital & Surgical (GHS) insurance provides medical cove
 
 > **The Answer in 60 Seconds**
 >
-> Group Hospital & Surgical (GHS) insurance provides medical cover for employees in respect of hospitalisation, surgery, and (commonly through bolted-on Outpatient or Specialist riders) ambulatory care. For Singapore SMEs, GHS is one of the most visible employee-benefits components — the cover most employees actually use, and the cover most likely to be tested against satisfaction at renewal. The Singapore SME GHS market is served by a panel of major insurers, with [AIA Singapore](https://www.aia.com.sg/), [Great Eastern](https://www.greateasternlife.com/sg/en/), [Prudential Singapore](https://www.prudential.com.sg/), [Income](https://www.income.com.sg/), [HSBC Life Singapore](https://www.hsbc.com.sg/insurance/) (formerly AXA Singapore retail; the brand change took effect February 2023), [Allianz Singapore](https://www.allianz.com.sg/) — through its Singapore branch operations — [MSIG](https://www.msig.com.sg/), [Tokio Marine Singapore](https://www.tokiomarine.com/sg/en.html), and [Liberty Specialty Markets](https://www.libertyspecialtymarkets.com/asia/sg/) carrying material market share. The selection rests on six axes: (1) hospital network access (panel hospitals, restructured hospitals, private hospitals); (2) panel doctor access and specialist referral mechanics; (3) cashless / e-filing experience for employees; (4) outpatient and specialist rider availability and pricing; (5) renewal pricing discipline and claim-experience treatment; (6) administrative service levels for the SME's HR / finance team. GHS programmes operate on annual renewal cycles with claim-experience-rated pricing for groups above approximately 25 employees. For most Singapore SMEs, the right answer is to test 3-4 panel insurers at renewal every 2-3 years rather than letting the same insurer roll forward indefinitely.
+> Group Hospital & Surgical (GHS) insurance provides medical cover for employees in respect of hospitalisation, surgery, and (commonly through bolted-on Outpatient or Specialist riders) ambulatory care. For Singapore SMEs, GHS is one of the most visible employee-benefits components — the cover most employees actually use, and the cover most likely to be tested against satisfaction at renewal. The Singapore SME GHS market is served by a panel of major insurers, with [AIA Singapore](https://www.aia.com.sg/), [Great Eastern](https://www.greateasternlife.com/sg/en/), [Prudential Singapore](https://www.prudential.com.sg/), [Income](https://www.income.com.sg/), [HSBC Life Singapore](https://www.hsbc.com.sg/insurance/) (formerly AXA Singapore retail; the brand change took effect February 2023), [Allianz Singapore](https://www.allianz.com.sg/) — through its Singapore branch operations — [MSIG](https://www.msig.com.sg/), [Tokio Marine Singapore](https://www.tokiomarine.com/sg/en.html), and [Liberty Specialty Markets](https://www.libertyspecialtymarkets.com/asia/sg/) carrying material market share. The selection rests on six axes: (1) hospital network access (panel hospitals, restructured hospitals, private hospitals); (2) panel doctor access and specialist referral mechanics; (3) cashless / e-filing experience for employees; (4) outpatient and specialist rider availability and pricing; (5) renewal pricing discipline and claim-experience treatment; (6) administrative service levels for the SME's HR / finance team. GHS programmes operate on annual renewal cycles with claim-experience-rated pricing for groups above approximately 25 employees. How often to test the market, and whether to move, is a decision for you and your licensed adviser.
 
 ## The GHS Market Architecture
 
@@ -62,19 +62,19 @@ The Singapore SME GHS market is concentrated among approximately 8-10 carriers w
 
 ### AIA Singapore
 
-[AIA Singapore](https://www.aia.com.sg/) — large life insurer with substantial group medical book. Strong hospital network access, well-developed e-filing system, broad outpatient rider availability. Distribution principally through tied agents and broker / IFA channels.
+[AIA Singapore](https://www.aia.com.sg/) — licensed life insurer with a substantial group medical book. Distribution principally through tied agents and broker / adviser channels. Hospital network access, e-filing arrangements and rider availability vary by scheme and should be confirmed with a licensed adviser.
 
 ### Great Eastern
 
-[Great Eastern](https://www.greateasternlife.com/sg/en/) — established life insurer with material SME group medical presence. Strong panel-doctor framework, integrated with parent OCBC's banking SME relationships. Renewal pricing discipline depends on segment.
+[Great Eastern](https://www.greateasternlife.com/sg/en/) — licensed life insurer with a material SME group medical presence, part of the OCBC group. Panel-doctor arrangements and renewal pricing vary by scheme and should be confirmed with a licensed adviser.
 
 ### Prudential Singapore
 
-[Prudential Singapore](https://www.prudential.com.sg/) — life insurer with growing group medical business. Strong PRUWorks platform for SME HR administration. Outpatient rider integration with personal IP cross-sell.
+[Prudential Singapore](https://www.prudential.com.sg/) — licensed life insurer with a group medical business. Operates the PRUWorks platform for SME HR administration. Outpatient rider integration varies by scheme and should be confirmed with a licensed adviser.
 
 ### Income
 
-[Income](https://www.income.com.sg/) — Singapore-incorporated, formerly a co-operative, now a public company after corporatisation. Strong domestic SME presence with mass-market positioning. Plan structures often calibrated to budget-sensitive SME segments.
+[Income](https://www.income.com.sg/) — Singapore-incorporated, formerly a co-operative, now a public company after corporatisation. Operates in the domestic SME segment. Plan structures vary by scheme and should be confirmed with a licensed adviser.
 
 ### HSBC Life Singapore
 
@@ -225,7 +225,7 @@ SMEs with employees in Singapore and overseas need multi-jurisdictional cover. S
 
 If you are running a Singapore SME with employees, GHS is one of the most visible employee-benefits decisions you make. It is also one of the most renewal-sensitive — annual reviews are the rule, not the exception. The licensed adviser handling your programme should walk you through annual market testing, claim-experience reporting, and the six-axis comparison framework above.
 
-The right answer is rarely "stay with incumbent indefinitely." Multi-year stability with a single carrier has relationship value, but periodic market testing keeps the incumbent honest. Test every 2-3 years; switch when the analysis supports it.
+How often to test the market, and whether to move, is a decision for you and your licensed adviser.
 
 For SMEs without GHS today, the case for providing it rests on (i) employee attraction and retention, (ii) employee productivity (faster recovery, less absenteeism), and (iii) compensation philosophy (broader benefit beyond cash salary). The economics depend on workforce profile and benefits strategy.
 

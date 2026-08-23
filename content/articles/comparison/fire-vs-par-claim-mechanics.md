@@ -138,7 +138,7 @@ Fire with reasonable extensions carries a lower base premium; PAR carries a high
 
 For Singapore SMEs choosing between Fire and PAR:
 
-1. **For material commercial operations, PAR is typically the better choice** — despite the higher premium.
+1. **PAR responds to accidental damage that a Fire policy does not; the trade-off is a higher premium.** Which is appropriate for your operation is a question for a licensed adviser.
 
 2. **Understand the policy you actually hold.** Named-perils and all-risks cover differ fundamentally.
 

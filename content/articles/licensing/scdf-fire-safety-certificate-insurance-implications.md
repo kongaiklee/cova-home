@@ -93,7 +93,7 @@ Companies typically need to consider four interactions between SCDF compliance a
 3. **Change-of-use disclosures** : notify your insurer **before** changing premises use
 4. **PE inspection records** : keep pre-test reports, RI certifications, and the FC submission audit trail; insurers commonly ask for these post-loss
 
-Factors that affect Fire / PAR underwriting include: occupancy type (F&B and warehousing typically priced higher than office), construction type, sprinkler protection, occupancy load, neighbouring occupancies, and prior loss history. Ranges observed on the COVA platform suggest premium quotes can move substantially between insurers for the same risk depending on warranty wording.
+Factors that affect Fire / PAR underwriting include: occupancy type (F&B and warehousing typically priced higher than office), construction type, sprinkler protection, occupancy load, neighbouring occupancies, and prior loss history. Premium for the same risk can vary between insurers depending on warranty wording. A licensed adviser can tell you how that applies to your own placement.
 
 ### Questions to Ask Your Adviser
 
