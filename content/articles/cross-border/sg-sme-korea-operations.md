@@ -26,7 +26,7 @@ og_description: "A Singapore SME extending to South Korea operations encounters 
 
 South Korea is among the most sophisticated commercial markets in Asia and a frequent destination for Singapore SMEs operating in technology, beauty / cosmetics, F&B, professional services, and consumer goods. The regulatory framework differs materially from Singapore: locally-admitted insurance is typically required for Korean risks, four mandatory social insurance schemes govern employment, employment law is more protective of employees, and Korean is the operational language for substantial regulatory engagement.
 
-This article walks through the framework. For material Korean operations, engagement with Korean-licensed counsel and a Singapore IFA experienced in coordinated Korean programmes is operational requirement.
+This article walks through the framework. For material Korean operations, engagement with Korean-licensed counsel and a Singapore licensed adviser experienced in coordinated Korean programmes is operational requirement.
 
 #### The Four Major Insurances framework
 

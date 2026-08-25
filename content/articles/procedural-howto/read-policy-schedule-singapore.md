@@ -90,7 +90,7 @@ Your policy schedule is a legal instrument. Treat it the way you'd treat a tenan
 1. **The 30-minute annual review.** At each renewal, the founder, ops lead, and finance lead read the schedule together. Verify named insured, UEN, addresses, sums insured, excesses, and any warranties. Flag changes year-on-year.
 2. **The "what changed" log.** New product line, new location, new machine, new key person, new contract type - anything that changes the risk profile gets logged and disclosed to the insurer mid-term, not at renewal. Material non-disclosure mid-term is as serious as at inception.
 
-Your IFA's job is to translate the schedule into business terms and flag mismatches. Their job is *not* to recommend a specific product to you blindly - under MAS Notice FAA-N02 and related rules, advice on a specific contract is a regulated activity requiring specific licensing. Covarage's role is to introduce you to a licensed IFA who can do that work.
+Your licensed adviser's job is to translate the schedule into business terms and flag mismatches. Their job is *not* to recommend a specific product to you blindly - under MAS Notice FAA-N02 and related rules, advice on a specific contract is a regulated activity requiring specific licensing. Covarage's role is to introduce you to a licensed adviser who can do that work.
 
 ### Questions to Ask Your Adviser
 

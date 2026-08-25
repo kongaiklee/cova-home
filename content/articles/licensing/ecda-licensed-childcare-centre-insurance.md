@@ -13,14 +13,11 @@ word_count: 1114
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/licensing/ecda-licensed-childcare-centre-insurance"
-meta_description: "Find a licensed IFA →"
 og_title: "What Insurance Does an ECDA-Licensed Childcare Centre Need?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** Per the [Early Childhood Development Centres Regulations 2018](https://sso.agc.gov.sg/SL-Supp/S890-2018/Published/20181228) and the [ECDA Code of Practice (Fourth Edition, 2025)](https://www.ecda.gov.sg/docs/default-source/default-document-library/operator/ecda-cop-(third-edition).pdf), **ECDA does not prescribe a mandatory minimum sum insured for public liability insurance** in the Regulations or Code. WICA is mandatory under MOM rules. Public liability, professional indemnity, and abuse/molestation cover are operational necessities and standard insurer offerings - but not regulatory minimums set by ECDA itself.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -76,7 +73,6 @@ Another commonly-missed area: cyber. Parental WhatsApp groups, photo-sharing app
 4. Cyber and PDPA - am I covered for parental data breaches?
 5. Field trips and external contractors (e.g., bus operators) - are their insurances additional named insureds on mine, or vice versa?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - ECDA Code of Practice - what's mandatory and what isn't

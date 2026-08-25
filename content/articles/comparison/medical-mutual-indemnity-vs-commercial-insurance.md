@@ -13,14 +13,11 @@ word_count: 1120
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/medical-mutual-indemnity-vs-commercial-insurance"
-meta_description: "Find a licensed IFA →"
 og_title: "Why Do Singapore Doctors Use \"Mutual Indemnity\" Instead of Insurance?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** Per the [Singapore Medical Council](https://www.smc.gov.sg/) (the statutory regulator under the Medical Registration Act 1997), all medical practitioners must hold a valid Practising Certificate, and they must maintain professional indemnity cover appropriate to their scope of practice. Most Singapore doctors use **mutual protection organisations** - primarily Medical Protection Society (MPS) - rather than traditional insurance. The structural difference matters: mutuals offer discretionary, occurrence-based protection without a stated policy limit; insurers offer contractual, often claims-made coverage with stated limits.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -81,7 +78,6 @@ For multi-doctor practices, also consider clinic-level corporate PI on top of ea
 4. As I approach retirement, what run-off do I need and for how long?
 5. My clinic has locums - what's my process for verifying their PI before each rotation?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - MOH HCSA clinic licensing - what insurance is implied

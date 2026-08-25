@@ -77,19 +77,19 @@ Several remedies exist for breach:
 
 **Specific case considerations.** Singapore courts have addressed Section 27 in published judgments through [eLitigation](https://www.elitigation.sg/), with the general approach being substantive examination of whether reasonable basis was established.
 
-#### Section 27 and IFAs vs tied agents
+#### Section 27 and licensed advisers vs tied agents
 
 Section 27 applies to all licensed FAs but the practical implementation differs between:
 
-**Independent Financial Advisers (IFAs).** Not tied to a specific insurer. Section 27 investigation can consider products across multiple insurers, supporting recommendation that the client receives the best-fit option from the available market.
+**licensed advisers.** Not tied to a specific insurer. Section 27 investigation can consider products across multiple insurers, supporting recommendation that the client receives the best-fit option from the available market.
 
 **Tied agents.** Restricted to products of a specific insurer (or limited group). Section 27 still applies, but the suitability assessment is constrained: the agent can only recommend within their available product range. This doesn't eliminate the suitability obligation - it means tied agents must explicitly recognise where their available range may not be optimal and refer the client elsewhere if appropriate.
 
-For Singapore SMEs, this distinction matters: working with an IFA generally provides broader suitability assessment scope than working with a tied agent, though tied agents serving simple needs can still meet Section 27 requirements.
+For Singapore SMEs, this distinction matters: working with a licensed adviser generally provides broader suitability assessment scope than working with a tied agent, though tied agents serving simple needs can still meet Section 27 requirements.
 
 #### Section 27 and Covarage
 
-Covarage is not a licensed FA. Section 27 therefore does not directly apply to Covarage's operations: Covarage does not make recommendations, does not conduct fact-finds, does not assess suitability. Covarage's role ends at introduction; the licensed IFA that the SME engages then operates under full Section 27 obligations.
+Covarage is not a licensed FA. Section 27 therefore does not directly apply to Covarage's operations: Covarage does not make recommendations, does not conduct fact-finds, does not assess suitability. Covarage's role ends at introduction; the licensed adviser that the SME engages then operates under full Section 27 obligations.
 
 This complementary model serves SMEs by separating the gateway function (where introducers reduce friction and provide factual orientation) from the regulated advisory function (where licensed FAs deliver Section 27-compliant fact-find and recommendation). The SME benefits from both: lower friction at engagement, full regulatory protection at advisory.
 
@@ -140,7 +140,7 @@ For Singapore SMEs working with FAs:
 4. **For specialised industries, specialised FA.** Section 27 effectively requires it.
 5. **Documentation matters for protection.** Both FA's records and SME's own records.
 6. **For dispute scenarios, FIDReC and courts provide framework.**
-7. **For tied agent vs IFA decision, consider scope of need.** Specific suitability implications.
+7. **For tied agent vs licensed adviser decision, consider scope of need.** Specific suitability implications.
 8. **Annual review even if FA hasn't initiated.** Specific evolving circumstances trigger refresh.
 
 Section 27 is the protection mechanism that separates regulated advisory from pure sales. SMEs that engage with FAs holding them to Section 27 standards benefit from operational alignment; SMEs that treat insurance procurement as transactional miss the protection the provision creates.

@@ -13,14 +13,11 @@ word_count: 951
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/handle-subrogation-claim"
-meta_description: "Find a licensed IFA →"
 og_title: "How to Handle a Subrogation Claim Against Your Business"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party - confirmed in Singapore in cases including *Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.
 
-**Find a licensed IFA →**
 
 ### What subrogation is, in plain English
 Your neighbour's warehouse catches fire because (allegedly) of your faulty electrical wiring. Your neighbour's insurer pays the neighbour S$800,000 under their property policy. The neighbour's insurer then writes to **you** demanding S$800,000 because, by paying out, they have stepped into the neighbour's shoes. They have the same right of action against you as the neighbour would have had at common law.
@@ -34,12 +31,12 @@ Per *Castellian v Preston* (1883) 11 QBD 380, the insurer takes "the advantage o
 **Step 2 - Do not admit liability, do not respond directly.** Per typical liability policy conditions: "The Insured shall not, without our prior written consent, admit liability, make any offer, promise or payment in respect of any claim." Responding directly may breach this condition and let your insurer decline cover.
 
 **Step 3 - Forward to your liability insurer immediately.** Identify the relevant policy:
-- Customer's property damaged on your premises → **Public Liability**
-- Fire from your premises spread to neighbour → **Public Liability** + your **Fire/PAR** (subrogation goes against you)
-- Goods in your care/custody/control damaged → **PL with care/custody/control extension** or **bailee cover**
-- Vehicle accident → **Motor**
-- Professional advice loss → **Professional Indemnity**
-- Cyber breach affecting third parties → **Cyber Liability**
+- Customer's property damaged on your premises -> **Public Liability**
+- Fire from your premises spread to neighbour -> **Public Liability** + your **Fire/PAR** (subrogation goes against you)
+- Goods in your care/custody/control damaged -> **PL with care/custody/control extension** or **bailee cover**
+- Vehicle accident -> **Motor**
+- Professional advice loss -> **Professional Indemnity**
+- Cyber breach affecting third parties -> **Cyber Liability**
 
 **Step 4 - Provide your insurer with full facts.** Incident timeline, your records, photos, witness statements, contracts in force at the time, any waiver of subrogation clauses in those contracts.
 
@@ -72,7 +69,6 @@ For SMEs without in-house legal, brief your liability broker on every contract w
 4. Will this subrogation claim affect my renewal premium and which loss-record databases will record it?
 5. Should I engage a coverage lawyer separately if my insurer reserves rights?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)

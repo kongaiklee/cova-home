@@ -165,7 +165,7 @@ ASME does not itself underwrite insurance. The partnerships are commercial arran
 
 For a Singapore SME, the structural priority is the operational insurance baseline aligned with regulatory and contractual obligations: WICI 2019 from an MOM Designated Insurer; PL adequate for premises and operations; Property for assets and premises; Cyber for operational and data exposure; D&O for incorporated SMEs; Group Medical and PA for talent.
 
-For micro-SMEs, the MAS FAA-N02 introducer framework offers access to standard SME insurance through introducers like Covarage, without requiring engagement of an appointed broker.
+For micro-SMEs, the MAS FAA-N02 introducer framework offers access to standard SME insurance through introducers, without requiring engagement of an appointed broker.
 
 For ASME-member SMEs, the ASME Insurance-partner programmes offer member-discounted access. Comparative quotes from alternative brokers, direct insurer portals, or introducers should be considered at renewal to ensure competitive placement.
 

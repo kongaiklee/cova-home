@@ -13,14 +13,11 @@ word_count: 940
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/employment-pass-holder-insurance-requirements"
-meta_description: "Find a licensed IFA →"
 og_title: "What Insurance Must Employers Provide for Employment Pass Holders?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** Per [MOM's FAQ](https://www.mom.gov.sg/faq/employment-pass/are-employers-required-to-buy-medical-insurance-for-employment-pass-holders), "Providing medical insurance is not a requirement for employing Employment Pass (EP) holders." The mandatory S$60,000 medical insurance regime applies only to Work Permit and S Pass holders, not EP holders. However, market practice across Singapore is to provide group medical, life, and sometimes dental cover as part of the EP holder's remuneration package.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -72,7 +69,6 @@ The structure of a sensible benefits package for EP holders typically includes i
 4. How does the group plan interact with the EP holder's MediShield Life (if they're a PR) or with their home-country private cover (if they retain it)?
 5. If I'm a SME with fewer than 5 lives, what micro-group structures exist?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - MOM S Pass medical insurance - the S$60,000 rule

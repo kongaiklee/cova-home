@@ -13,14 +13,14 @@ word_count: 1357
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/property-fire-claim-deep-dive"
-meta_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence → immediate safety / emergency response →..."
+meta_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence -> immediate safety / emergency response ->..."
 og_title: "Property/Fire Claim Deep-Dive: From Incident to Settlement"
-og_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence → immediate safety / emergency response →..."
+og_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence -> immediate safety / emergency response ->..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** → **immediate safety / emergency response** → **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) → **specific evidence preservation** → **insurer notification** (typically within 7 days) → **adjuster / surveyor appointment** → **damage assessment and quantification** → **specific salvage / mitigation actions** → **specific BI claim coordination** (where applicable; per [Article 159](/comparison/bi-vs-cbi-worked-example)) → **specific subrogation framework engagement** (per [Article 187](/document-legal/castellian-preston-subrogation)) → **specific reinstatement / replacement** → **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [Article 174](/regulatory-change/scdf-fc-36-month-renewal-2026)), and **specific contemporaneous documentation**.
+> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [Article 159](/comparison/bi-vs-cbi-worked-example)) -> **specific subrogation framework engagement** (per [Article 187](/document-legal/castellian-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [Article 174](/regulatory-change/scdf-fc-36-month-renewal-2026)), and **specific contemporaneous documentation**.
 
 ### The Sourced Detail
 

@@ -131,13 +131,13 @@ Per MOM's published guidance:
 ### The Submission Flow
 
 1. **Log in via CorpPass / SingPass.** The dashboard shows submitted reports and drafts.
-2. **Click "Actions" → "Create Report".** Gather information and documents before proceeding (the service times out).
+2. **Click "Actions" -> "Create Report".** Gather information and documents before proceeding (the service times out).
 3. **Fill the mandatory fields.** The system asks specifically: "Did the accident result in death of the injured person?" - answering "Yes" routes the report to the immediate-notification track.
 4. **Add the injured person.** Enter NRIC / FIN, click "Retrieve," verify particulars, complete remaining fields.
 5. **Indicate platform-worker status** if the worker is also a platform worker and the accident is on or after 1 January 2025.
 6. **Upload supporting documents.**
 7. **Submit and capture the case reference number.** MOM issues an acknowledgement on screen and via email.
-8. **Amend if needed.** Under "Submitted incident reports" → "Actions" → "Amend" you can correct errors. Late amendments that look like attempts to mislead can constitute false notification under Reg 10 - itself an offence carrying up to S$5,000 fine and/or 6 months' imprisonment under Reg 11(3).
+8. **Amend if needed.** Under "Submitted incident reports" -> "Actions" -> "Amend" you can correct errors. Late amendments that look like attempts to mislead can constitute false notification under Reg 10 - itself an offence carrying up to S$5,000 fine and/or 6 months' imprisonment under Reg 11(3).
 
 ### The 24/7 Phone Channel
 
@@ -145,7 +145,7 @@ For fatalities and dangerous occurrences, the eService is **not the first call**
 
 ### Three-Year Record-Keeping Duty
 
-Regulation 8(2) requires that "the employer, platform operator or occupier, as the case may be, shall keep every record made by him for a period of 3 years from the time of the notification or report." Failure carries up to S$5,000 (first conviction) under Reg 11(2). SMEs should download the PDF copy of every submitted report from "Submitted incident reports" → "Download report" and store it in their incident file.
+Regulation 8(2) requires that "the employer, platform operator or occupier, as the case may be, shall keep every record made by him for a period of 3 years from the time of the notification or report." Failure carries up to S$5,000 (first conviction) under Reg 11(2). SMEs should download the PDF copy of every submitted report from "Submitted incident reports" -> "Download report" and store it in their incident file.
 
 For a step-by-step internal SME flowchart, the authoritative resource is the [WSH Council's "WSH Guidelines for Investigating Workplace Incidents for SMEs"](https://www.tal.sg/wshc/-/media/TAL/Wshc/Resources/Publications/WSH-Guidelines/Files/WSH_Guidelines_Investigating_Workplace_Incidents_for_SMEs.pdf).
 

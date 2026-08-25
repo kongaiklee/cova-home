@@ -70,7 +70,7 @@ If you operate a ride-hail or delivery platform, three implications stand out.
 
 **Your CPF cost is real and will scale.** The phasing schedule means CPF cost rises every year from 2025 to 2029. SME platform operators should model the cumulative impact through to 2029 rather than just 2025, because the early-year transitional support tapers.
 
-**If you contract with a platform - but are not the platform - your obligations are different.** A logistics SME that uses Grab Express to fulfil deliveries does not become a "platform operator" by that fact. The Act's obligations sit with the platform operator (Grab), not the SME shipper. But if your business model puts you in the position of dispatching gig workers under management control via your own app, you may be in scope. [Section 4 of the Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) sets out the operator definition. A licensed IFA on the Covarage platform can route the policy question alongside legal counsel review of operator status.
+**If you contract with a platform - but are not the platform - your obligations are different.** A logistics SME that uses Grab Express to fulfil deliveries does not become a "platform operator" by that fact. The Act's obligations sit with the platform operator (Grab), not the SME shipper. But if your business model puts you in the position of dispatching gig workers under management control via your own app, you may be in scope. [Section 4 of the Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) sets out the operator definition. A licensed adviser on the Covarage platform can route the policy question alongside legal counsel review of operator status.
 
 ## Questions to Ask Your Adviser
 

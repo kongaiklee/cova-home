@@ -152,8 +152,8 @@ Catalogue each policy:
 **Step 2 - Claimability assessment.**
 
 Apply Reg 26/27 framework:
-- Is it medical / accident insurance providing personal benefits? → Reg 26 block (subject to carve-outs)
-- Is it motor insurance for private car? → Reg 27 block
+- Is it medical / accident insurance providing personal benefits? -> Reg 26 block (subject to carve-outs)
+- Is it motor insurance for private car? -> Reg 27 block
 - Is the WICA carve-out applicable?
 - Is the collective agreement carve-out applicable?
 
@@ -180,7 +180,7 @@ For Reg 26/27 blocked premiums:
 - Specific deduction in tax computation
 - Specific accounting treatment
 
-#### GST rate change (8% → 9% transition)
+#### GST rate change (8% -> 9% transition)
 
 **Effective 1 January 2024:**
 - Standard rate raised from 8% to 9%

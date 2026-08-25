@@ -68,7 +68,7 @@ First, **review job declarations**. WICA premium hinges on accurate occupation c
 
 Second, **rebuild your incident playbook around the new numbers**. Internally, your finance team budgets contingency reserves; HR drafts notification templates; legal advises on common-law liability above the WICA cap. Each of those numbers needs updating.
 
-Third, **clarify your common-law exposure**. WICA caps the no-fault statutory liability. It does not cap common-law liability for negligence. An employee who can prove employer negligence may sue at common law, where damages are uncapped. Many businesses buy a separate Employer's Liability extension or standalone policy to address this. An IFA on the Covarage platform can walk through the gap between statutory and common-law exposure for your specific industry.
+Third, **clarify your common-law exposure**. WICA caps the no-fault statutory liability. It does not cap common-law liability for negligence. An employee who can prove employer negligence may sue at common law, where damages are uncapped. Many businesses buy a separate Employer's Liability extension or standalone policy to address this. An licensed adviser on the Covarage platform can walk through the gap between statutory and common-law exposure for your specific industry.
 
 ## Questions to Ask Your Adviser
 

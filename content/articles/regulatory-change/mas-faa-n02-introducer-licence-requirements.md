@@ -77,7 +77,6 @@ Covarage (covarage.com) does not advise on, recommend or arrange insurance. Prac
 
 - Every page on Covarage, including this one, provides factual information sourced from primary regulators (MOM, BCA, SCAL, CASE, SCDF, MAS)
 - Covarage does not name a "best" insurer for any line of cover. It cannot, structurally
-- When you click "Find a licensed IFA →", the introduction is to a licensed FA verifiable on the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid) and on the [MAS Register of Representatives](https://eservices.mas.gov.sg/rr)
 - Covarage does not handle premium money. Premiums flow directly between you and the insurer, via the licensed FA
 
 This is what we mean by "recommendation firewall": it is not a brand promise.

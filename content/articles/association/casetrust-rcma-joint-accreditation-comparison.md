@@ -13,14 +13,11 @@ word_count: 923
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/association/casetrust-rcma-joint-accreditation-comparison"
-meta_description: "Find a licensed IFA →"
 og_title: "CaseTrust-RCMA Joint Accreditation: How Is It Different from CaseTrust-Only?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** The CaseTrust-RCMA Joint Accreditation Scheme is the higher tier of CaseTrust accreditation for renovation businesses, jointly operated by CASE and the Singapore Renovation Contractors and Material Suppliers Association (RCMA) since August 2014 ([RCMA CaseTrust page](https://rcma.org.sg/casetrust/)). RCMA membership is a prerequisite. The scheme uses the same deposit performance bond mechanism as CaseTrust-only accreditation - currently arranged through bolttech Insurance Brokers - but adds RCMA-specific contract and dispute-resolution standards.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -78,7 +75,6 @@ The CaseTrust standard renovation contract is itself a risk-management tool: it 
 4. If I expand from HDB renovations into commercial fit-outs, does my insurance stack need to change?
 5. What's the typical claims experience under CaseTrust deposit bonds - how often do firms call them in?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - CaseTrust Renovation: the basic scheme explained

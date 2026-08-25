@@ -149,7 +149,7 @@ For wholesale importers and large retailers importing direct:
 
 **Phytosanitary detention.** Where shipment fails NParks inspection and is detained or destroyed, cargo loss applies (typically excluded unless specific endorsement).
 
-**Multi-leg transit.** Origin → Singapore → operator premises. Each leg has its own exposure.
+**Multi-leg transit.** Origin -> Singapore -> operator premises. Each leg has its own exposure.
 
 Marine Cargo cover with specific perishables clause is appropriate. Premium reflects higher exposure.
 
@@ -157,9 +157,9 @@ Marine Cargo cover with specific perishables clause is appropriate. Premium refl
 
 Daily / weekly movements:
 
-- Cold-room → delivery vehicle → customer (e-commerce orders)
-- Cold-room → event venue → installation → return
-- Imports → cold-room (where applicable)
+- Cold-room -> delivery vehicle -> customer (e-commerce orders)
+- Cold-room -> event venue -> installation -> return
+- Imports -> cold-room (where applicable)
 
 Refrigerated vehicle transit, hot-day delivery delays, traffic-related delays all create exposure. Cover scope should include all expected movement patterns and conditions.
 

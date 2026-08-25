@@ -54,7 +54,7 @@ Per [CaseTrust's prepayment-protection explainer](https://www.case.org.sg/casetr
 
 #### Why CaseTrust accreditation is partially compulsory for spa operators
 
-Per the [CaseTrust spa page](https://www.case.org.sg/casetrust/casetrust-accreditation-for-spa-and-wellness-businesses/): "Spa operators who wish to attain the Police Regulatory Department's (PRD) Category 1 Massage Establishment (Cat 1 ME) Licence are required to attain CaseTrust accreditation." So the accreditation is a gate to a more liberal operating regime under the PLRD, not just a marketing badge. The application sequence: CaseTrust online → Provisional Cat 1 ME via PRD → CaseTrust accredited → Full Cat 1 ME licence.
+Per the [CaseTrust spa page](https://www.case.org.sg/casetrust/casetrust-accreditation-for-spa-and-wellness-businesses/): "Spa operators who wish to attain the Police Regulatory Department's (PRD) Category 1 Massage Establishment (Cat 1 ME) Licence are required to attain CaseTrust accreditation." So the accreditation is a gate to a more liberal operating regime under the PLRD, not just a marketing badge. The application sequence: CaseTrust online -> Provisional Cat 1 ME via PRD -> CaseTrust accredited -> Full Cat 1 ME licence.
 
 ### What This Means for Your Business
 

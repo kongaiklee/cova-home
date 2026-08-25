@@ -24,7 +24,7 @@ og_description: "---"
 
 Religious tour operations sit at an unusual intersection - regulated travel industry, faith-based community service, often substantial group travel to specific destinations with limited substitute options, and customer relationships that span years and multiple trips. The insurance and regulatory framework requires deliberate handling.
 
-This article walks through the framework for Singapore-based religious tour operators. It is not legal or insurance advice. The regulatory landscape involves multiple agencies (STB, ICA, MUIS for Hajj specifically, MFA travel advisories) and operators should engage with NATAS and a licensed Singapore IFA familiar with travel-industry programmes.
+This article walks through the framework for Singapore-based religious tour operators. It is not legal or insurance advice. The regulatory landscape involves multiple agencies (STB, ICA, MUIS for Hajj specifically, MFA travel advisories) and operators should engage with NATAS and a licensed Singapore licensed adviser familiar with travel-industry programmes.
 
 ---
 
@@ -175,7 +175,7 @@ Documentation discipline supports both customer service and litigation defence. 
 
 Religious tour operations sit at the intersection of regulated travel industry, faith-community service, and substantial overseas operational dependency. The Travel Agents Act framework provides the regulatory foundation; the insurance architecture must address operator exposure (PI, PL, CBI, group-travel extensions), customer protection (travel insurance), and specific Hajj framework where applicable.
 
-A licensed IFA familiar with travel-industry programmes can structure operator cover, group travel insurance arrangements, and the supplier-dependency exposures specific to religious tour operations. Generalist programmes structured for office-based services typically miss the specific exposures of this segment.
+A licensed adviser familiar with travel-industry programmes can structure operator cover, group travel insurance arrangements, and the supplier-dependency exposures specific to religious tour operations. Generalist programmes structured for office-based services typically miss the specific exposures of this segment.
 
 ---
 

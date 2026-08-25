@@ -44,7 +44,7 @@ If the unit was a warehouse last year and is now an F&B kitchen, the underlying 
 **Step 6 - Confirm warranties and conditions are still met.**
 Common warranties include: hot work permits for any cutting/welding, sprinkler maintenance, no storage of flammable goods exceeding stated limits, premises-not-left-unattended clauses, security/fire alarm activation. Breach of warranty entitles the insurer to be "wholly discharged from all liabilities under the policy as from the date of the breach" (CMS Singapore insurance law guide).
 
-**Step 7 - Compare quotes from MAS-licensed general insurers via your IFA or broker.**
+**Step 7 - Compare quotes from MAS-licensed general insurers via your licensed adviser or broker.**
 Specifics vary widely by insurer, occupancy class, location, and prior claims. Don't pick on price alone - sub-limits, excess, and exclusion wording differ.
 
 **Step 8 - Sign and pay before expiry.**
@@ -56,7 +56,7 @@ Premium warranty clauses commonly state premium must be paid within 60 days of i
 2. **Insuring market value instead of reinstatement cost.** Market value of a leasehold factory can be far below the cost to rebuild after a fire. The average clause applies on reinstatement value if you've elected the reinstatement basis.
 3. **Letting the SCDF FC lapse.** SCDF sends a reminder four months before expiry, but many SMEs miss it. An FC-maintenance warranty in your fire policy can be triggered.
 4. **Not declaring a change in tenant or use.** A landlord adding a new commercial tenant changes the risk profile - disclose to the insurer.
-5. **Auto-renewing without comparison.** The fire/PAR market repriced sharply after 2023. A multi-quote comparison through an IFA is normal practice.
+5. **Auto-renewing without comparison.** The fire/PAR market repriced sharply after 2023. A multi-quote comparison through a licensed adviser is normal practice.
 
 ### What This Means for Your Business
 
@@ -68,7 +68,7 @@ Practical checklist before renewal:
 - Disclose any new tenant, new machine, new chemical, or new manufacturing process.
 - Confirm Business Interruption sum insured matches your *current* gross profit / payroll, not last year's.
 
-The biggest risk is silent underinsurance - paying premiums every year and discovering at claim time that the average clause halves the payout. Treat fire insurance renewal as a 30-minute desk exercise plus one conversation with an IFA, not a 5-minute click-through.
+The biggest risk is silent underinsurance - paying premiums every year and discovering at claim time that the average clause halves the payout. Treat fire insurance renewal as a 30-minute desk exercise plus one conversation with a licensed adviser, not a 5-minute click-through.
 
 ### Questions to Ask Your Adviser
 

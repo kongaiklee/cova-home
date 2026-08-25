@@ -147,13 +147,13 @@ Bridal salon PL must cover:
 #### Goods in Transit - logistics complexity
 
 Daily / weekly movements:
-- Operator → dry cleaner
-- Dry cleaner → operator
-- Operator → alteration tailor
-- Alteration tailor → operator
-- Operator → customer (delivery)
-- Customer → operator (return)
-- Operator → wedding venue (delivery)
+- Operator -> dry cleaner
+- Dry cleaner -> operator
+- Operator -> alteration tailor
+- Alteration tailor -> operator
+- Operator -> customer (delivery)
+- Customer -> operator (return)
+- Operator -> wedding venue (delivery)
 
 Each leg is a Goods in Transit exposure. Cover scope should include all expected movement patterns.
 

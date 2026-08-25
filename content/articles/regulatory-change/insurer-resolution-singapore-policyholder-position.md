@@ -100,7 +100,7 @@ MAS exercise of Part IVB MAS Act resolution powers on the Scheme member.
 
 On activation, MAS may choose one of three outcomes: transfer of business to another insurer (under Insurance Act 1966 Part 3AA); run-off by SDIC; or termination of policies with compensation. For general insurance, compensation covers claims incurred up to 30 days after the winding-up order and refunds pro-rated unearned premium where the policy expressly entitles to a refund.
 
-#### The Singapore precedent: AXA → HSBC Life scheme of transfer
+#### The Singapore precedent: AXA -> HSBC Life scheme of transfer
 
 The closest live Singapore precedent for an insurer-resolution-style transaction is a solvent scheme of transfer, not a failure. HSBC Insurance (Asia Pacific) Holdings Limited acquired AXA Insurance Pte Ltd in August 2021 (closing 11 February 2022 for consideration of US$529 million / S$694 million). On 1 February 2023, the insurance business of HSBC Insurance (Singapore) Pte. Limited was transferred into HSBC Life (Singapore) Pte. Ltd. (formerly AXA Insurance Pte. Ltd.) via a court-confirmed Scheme of Transfer under the Insurance Act 1966 Part 3AA mechanism. No PPF Scheme activation occurred because there was no failure.
 

@@ -23,7 +23,7 @@ A finance employee at the Hong Kong office of British engineering firm Arup join
 
 That was the wake-up call for Asia-Pacific finance and treasury teams, including in Singapore. By 25 March 2025, a finance director at a multinational firm in Singapore had wired US$499,000 (about S$670,000) after a near-identical Zoom-call ruse, this time with the company's "CFO" and "CEO" both deepfaked, and an "external lawyer" sending an NDA on the side. ([Singapore Police Force / MAS / CSA Joint Advisory, 12 March 2025](https://www.police.gov.sg/media-hub/news/2025/03/20250312_joint_advisory_on_scams_involving_digital_manipulation).)
 
-If your business pays vendors, runs payroll, or moves money on instruction from senior staff - which is to say, if your business is a business - this article is for you. The next sections cover what is happening, what the law in Singapore says, and where Cyber, Crime/Fidelity, and Social Engineering insurance does and does not respond. We do not advise on, recommend, or arrange policies. We point you to a licensed Independent Financial Adviser (IFA) at the end so you can compare actual wordings.
+If your business pays vendors, runs payroll, or moves money on instruction from senior staff - which is to say, if your business is a business - this article is for you. The next sections cover what is happening, what the law in Singapore says, and where Cyber, Crime/Fidelity, and Social Engineering insurance does and does not respond. We do not advise on, recommend, or arrange policies. We point you to a licensed adviser at the end so you can compare actual wordings.
 
 ## The Arup case, reconstructed
 
@@ -192,7 +192,7 @@ A deepfake-driven funds-transfer fraud is not a cyber-defence problem you can fi
 
 ## Questions to Ask Your Adviser
 
-When you sit with a licensed IFA or commercial broker to review your policies, ask these questions specifically. Take written answers. The wording shifts year to year and insurer to insurer.
+When you sit with a licensed adviser or commercial broker to review your policies, ask these questions specifically. Take written answers. The wording shifts year to year and insurer to insurer.
 
 1. Does my Cyber policy include affirmative Funds Transfer Fraud and Social Engineering Fraud coverage, or is it "silent" on these losses? If silent, will you add an endorsement or recommend a separate Crime policy?
 2. What is the **sub-limit** for Social Engineering Fraud and Funds Transfer Fraud, and how does that sub-limit compare to my exposure (largest single payment my AP team can make in a day)?

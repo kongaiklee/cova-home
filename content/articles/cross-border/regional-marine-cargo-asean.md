@@ -74,7 +74,7 @@ Used for:
 
 **Structure 3 - Stock-Throughput**
 
-Combined cover for goods in transit *and* in storage. Single policy across the supply chain: factory storage → inland transit → port → vessel → discharge port → inland transit → warehouse storage → distribution.
+Combined cover for goods in transit *and* in storage. Single policy across the supply chain: factory storage -> inland transit -> port -> vessel -> discharge port -> inland transit -> warehouse storage -> distribution.
 
 Used for:
 - Manufacturers with regional warehousing

@@ -24,7 +24,7 @@ og_description: "There is no MAS rule that makes one channel cheaper than the ot
 
 ### The Sourced Detail
 
-Three things are true at the same time, and they are usually conflated. First, MAS regulates *who* may sell insurance - broker, agent, IFA, introducer - under different parts of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001). Second, MAS does not set premium rates for commercial insurance - pricing is determined by the underwriter. Third, commission paid to brokers and tied agents comes out of the premium that the insurer charges, not as an extra layer added on top.
+Three things are true at the same time, and they are usually conflated. First, MAS regulates *who* may sell insurance - broker, agent, licensed adviser, introducer - under different parts of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001). Second, MAS does not set premium rates for commercial insurance - pricing is determined by the underwriter. Third, commission paid to brokers and tied agents comes out of the premium that the insurer charges, not as an extra layer added on top.
 
 That third point is the source of most confusion. SME founders often assume that going "direct" cuts out the middleman fee. In commercial insurance distribution, the insurer's pricing structure typically already assumes a distribution cost. Going direct does not automatically reclaim it - the insurer may simply keep it.
 
@@ -93,7 +93,7 @@ The cleanest test is to run both. Get a direct quote from the insurer's portal. 
 5. If I switch broker mid-year via a BOR letter, who keeps the commission for the unexpired period?
 
 ### Related Information
-- [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
+- [Tied Agent vs licensed adviser in Singapore](/comparison/tied-agent-vs-ifa)
 - [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 

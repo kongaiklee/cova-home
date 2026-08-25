@@ -13,14 +13,11 @@ word_count: 1013
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/cancel-policy-mid-term"
-meta_description: "Find a licensed IFA →"
 og_title: "How to Cancel a Commercial Insurance Policy Mid-Term"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** You can cancel most commercial insurance policies mid-term by giving written notice to the insurer; the insurer calculates the refund using a **short-period (penalty) rate** rather than a straight pro-rata. Some statutory covers - notably WICA under [the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) and motor third-party under the [Motor Vehicles (Third Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) - cannot lapse without immediate replacement coverage. Outstanding claims typically block the refund.
 
-**Find a licensed IFA →**
 
 ### Pro-rata vs short-period rate - the difference matters
 Pro-rata refund = unused proportion of premium returned. Short-period rate = the insurer keeps a higher percentage to recover its acquisition costs (commission, underwriting, policy issuance). Per [GIA Motor Insurance guidance](https://gia.org.sg/motor-insurance/21-buying-a-motor.html): "Some insurers refund the premium on a pro-rata basis with the deduction of a small administration fee. Others use a method that calculates what would have been charged if your policy were a short-term policy. This usually applies if the cancellation is at your request."
@@ -62,7 +59,6 @@ If you are cancelling because the business is closing, ensure you address run-of
 4. For claims-made policies (PI/D&O/Cyber), should I buy an Extended Reporting Period before cancelling?
 5. Will the insurer report the cancellation in the industry claims database and affect future renewals?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)

@@ -13,14 +13,11 @@ word_count: 942
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/add-new-location"
-meta_description: "Find a licensed IFA →"
 og_title: "How to Add a New Operating Location to Existing Insurance Policy"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** Notify your insurer in writing **before** you start operating from the new location, provide full underwriting information (address, occupancy, construction, sums insured, fire safety status), and the insurer will issue an **endorsement** that adds the location to your policy schedule. A pro-rata additional premium is charged for the unexpired period. Most Fire and Property All Risks policies are written on a **scheduled-premises** basis - losses at an undeclared location are not covered.
 
-**Find a licensed IFA →**
 
 ### The Step-by-Step
 
@@ -72,7 +69,6 @@ Note PUB's published context: flood-prone areas in Singapore have reduced from 3
 4. Does the new lease impose insurance obligations (named insured, waiver of subrogation, COI)?
 5. Are there fire safety, security or storage requirements I need to meet for this occupancy class?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)

@@ -65,7 +65,7 @@ For an SME, the CRS expansion is not itself an insurance change - but it changes
 - **Foreign-worker medical insurance.** MOM requires employers to hold medical insurance for Work Permit and S Pass holders, subject to a published annual minimum sum insured. (Confirm the current minimum and co-payment rules on the MOM website.)
 - **Security bond.** For non-Malaysian Work Permit holders, MOM requires a security bond, which is commonly satisfied through an insurer-issued bond.
 
-The practical sequence for an SME is therefore: CRS registration → work-permit application → the WIC, medical-insurance and bond obligations that attach to each foreign worker. A gap or delay at the CRS stage stalls everything downstream.
+The practical sequence for an SME is therefore: CRS registration -> work-permit application -> the WIC, medical-insurance and bond obligations that attach to each foreign worker. A gap or delay at the CRS stage stalls everything downstream.
 
 **Underwriting signal.** A firm's CRS workhead and grade are an objective, BCA-maintained record of its financial standing, track record and safety certification. Contractors' all-risks (CAR) and employer's/public-liability underwriters may ask for CRS workhead and grade as part of a renewal submission, because it corroborates the firm's scale and capability. It is one input an underwriter can weigh - not a rating in itself, and not a substitute for claims history.
 

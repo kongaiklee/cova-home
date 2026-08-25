@@ -159,9 +159,8 @@ The penalty for failing to maintain insurance is set out directly at WICA 2019 s
 5. For each Work Permit and S Pass holder, do my FWMI policies meet Stage 1 (1 July 2023) and Stage 2 (1 July 2025) requirements per the [MOM 31 March 2023 press release](https://www.mom.gov.sg/newsroom/press-releases/2023/0331-implementation-of-enhanced-medical-insurance-for-foreign-employees-to-better-support-employers)?
 6. If I operate a platform, is my approved platform worker insurance policy in force from 1 January 2025 per the [MOM 17 December 2024 press release](https://www.mom.gov.sg/newsroom/press-releases/2024/1217-commencement-of-platform-workers-act-from-1-jan-2025)?
 7. What is my insurer's specific minimum-premium floor, and where does it apply across cancellation by company, cancellation by insured, premium adjustment, and policy-level retained premium?
-8. Has my IFA documented, in writing, the disclosure I made on each mid-policy adjustment, so that the insurer's all-or-nothing avoidance remedy under MIA 1906 ss.17-18 cannot be invoked at claim stage?
+8. Has my licensed adviser documented, in writing, the disclosure I made on each mid-policy adjustment, so that the insurer's all-or-nothing avoidance remedy under MIA 1906 ss.17-18 cannot be invoked at claim stage?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 

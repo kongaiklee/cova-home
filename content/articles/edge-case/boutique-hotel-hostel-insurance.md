@@ -107,7 +107,7 @@ Inn-keeper liability is hospitality's bailee equivalent. Operator owes duty over
 
 OTA platforms aggregate booking data across many properties. The data flow:
 
-- Guest books on OTA → OTA sends booking + guest data to property → property processes via PMS → potentially shared with payment processor
+- Guest books on OTA -> OTA sends booking + guest data to property -> property processes via PMS -> potentially shared with payment processor
 
 Each link is a potential breach point. PDPA Section 26D notification obligations apply to the property as data controller of guest data. PDPA breach at OTA level may or may not cascade to property obligations depending on data residency.
 

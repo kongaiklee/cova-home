@@ -169,7 +169,7 @@ Beyond the immediate event, recovery and remediation obligations include:
 
 7. **Backup viability unverified pre-event.** Companies discover during the event that backups are corrupted, incomplete, or recoverable only over unacceptable timelines. Periodic restoration testing is the verification.
 
-8. **Insurance scope misunderstood.** Cyber policy scope varies substantially - extortion sub-limits, panel requirements, sanctions-screening conditions, BI extension scope. Pre-event review with the IFA is the operational foundation.
+8. **Insurance scope misunderstood.** Cyber policy scope varies substantially - extortion sub-limits, panel requirements, sanctions-screening conditions, BI extension scope. Pre-event review with the licensed adviser is the operational foundation.
 
 ---
 
@@ -179,7 +179,7 @@ Cyber-extortion events are now within the foreseeable risk profile of any Singap
 
 The framework is not "buy cyber insurance." Insurance funds the response but does not constitute the response. The response is the panel, the plan, the documented procedures, the periodic testing, and the executive engagement with the framework before any event occurs. Companies that approach cyber risk as a procurement question - buy the policy, file it, hope - face the worst outcomes when events occur.
 
-A licensed IFA can match a cyber policy to your operational profile, coordinate panel pre-arrangement with the insurer's preferred providers, and structure the BI extension and ransomware sub-limit appropriately. The IFA is not the incident responder; the IFA structures the framework that funds and coordinates response when the event occurs.
+A licensed adviser can match a cyber policy to your operational profile, coordinate panel pre-arrangement with the insurer's preferred providers, and structure the BI extension and ransomware sub-limit appropriately. The licensed adviser is not the incident responder; the licensed adviser structures the framework that funds and coordinates response when the event occurs.
 
 ---
 

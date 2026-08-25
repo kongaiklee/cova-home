@@ -13,14 +13,11 @@ word_count: 984
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/flood-water-damage-claim"
-meta_description: "Find a licensed IFA →"
 og_title: "How to File a Property All Risks Claim - Flood and Water Damage"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** Stop further damage immediately, photograph everything, do not throw out damaged items, and notify your insurer the same day. Per [GIA claims guidance](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html), "all risks" property wordings have a long exclusion list despite the name - flood may be a named peril, an extension, or excluded entirely. Read your policy schedule before assuming you are covered.
 
-**Find a licensed IFA →**
 
 ### Is flood actually covered?
 Property insurance in Singapore comes in two main shapes:
@@ -71,7 +68,6 @@ For F&B operators with cellars, basement kitchens or ground-floor units, the BI 
 4. Is my Business Interruption cover triggered by flood damage to the premises and to denial of access?
 5. What is the notification deadline on my specific wording, and to whom must notice be given?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)

@@ -13,14 +13,11 @@ word_count: 958
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/s-pass-employer-medical-insurance-obligations"
-meta_description: "Find a licensed IFA →"
 og_title: "What Are S Pass Employers' Medical Insurance Obligations?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** Per [MOM's S Pass medical insurance page](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance), employers must buy and maintain medical insurance with annual coverage of at least **S$60,000 per S Pass holder** for policies starting on or after 1 July 2023. The employer co-pays 25% of claim amounts above the first S$15,000; the insurer covers 75%. From 1 July 2025, age-differentiated premiums (≤50 vs >50), direct hospital reimbursement, and standardised exclusions apply.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -86,7 +83,6 @@ A common compliance error worth flagging: failing to renew the medical insurance
 4. The employer co-pay-to-worker rules - can you draft compliant contract language?
 5. If a worker has a serious illness mid-employment, what's my exposure beyond the insurer's S$60k limit?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - MOM Work Permit medical insurance: same S$60,000 rule

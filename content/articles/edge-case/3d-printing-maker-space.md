@@ -59,7 +59,7 @@ og_description: "3D printing service operators and maker spaces in Singapore ope
 
 **Product Liability** - central layer for service printing:
 
-- Printed part fails in customer use → injury or property damage
+- Printed part fails in customer use -> injury or property damage
 - Design / engineering responsibility flow: who designed, who specified material, who specified geometry, who printed
 - Material certification considerations (food-safe, medical-grade, structural-grade vs hobbyist-grade)
 - Failure modes: layer delamination, dimensional error, material brittleness, design failure
@@ -103,10 +103,10 @@ Standard PI / PL may not respond to IP infringement; specialty IP cover provides
 This is the operational core for service printing:
 
 **The responsibility allocation question.** When a printed part fails:
-- Customer specified design → customer's design liability
-- Operator suggested material → operator's material recommendation liability
-- Operator specified post-processing → operator's process liability
-- Failure due to inherent material / process limitation that operator should have flagged → operator's advisory failure liability
+- Customer specified design -> customer's design liability
+- Operator suggested material -> operator's material recommendation liability
+- Operator specified post-processing -> operator's process liability
+- Failure due to inherent material / process limitation that operator should have flagged -> operator's advisory failure liability
 
 **Material certification.** Different materials carry different end-use suitability:
 - Hobbyist PLA: not load-bearing, not food-safe, not biocompatible

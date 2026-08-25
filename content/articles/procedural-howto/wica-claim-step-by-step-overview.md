@@ -70,7 +70,7 @@ The 1 November 2025 limits raise the financial stakes for every employer. A fata
 Operationally, three things are worth getting right *before* an incident:
 
 1. **A written incident response playbook.** Who reports to MOM? Who calls the insurer? Where are the iReport login credentials? You don't want to be working this out at midnight after a fall from height.
-2. **Cash reserves for medical-expense reimbursement.** Under the Employment of Foreign Manpower Act, employers remain liable for foreign worker medical expenses even *above* the WICA S$53,000 cap. Some insurers offer enhanced limits up to S$300,000 - your IFA can compare.
+2. **Cash reserves for medical-expense reimbursement.** Under the Employment of Foreign Manpower Act, employers remain liable for foreign worker medical expenses even *above* the WICA S$53,000 cap. Some insurers offer enhanced limits up to S$300,000 - your licensed adviser can compare.
 3. **Accurate annual payroll declarations.** Premiums are based on Estimated Annual Earnings and occupation class. Misclassifying a manual worker as non-manual is the single most common WICA non-disclosure issue.
 
 WICA insurance is the *only* insurance that some Singapore employers legally must hold. Treat it like a regulated obligation, not a commodity purchase.

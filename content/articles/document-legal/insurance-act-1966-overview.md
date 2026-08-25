@@ -141,7 +141,7 @@ For SME buyers, this means:
 Distinct from broking, **introducer** activities are addressed through specific MAS frameworks. [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) on the requirements for the appointment and use of introducers by financial advisers establishes the framework.
 
 **An introducer:**
-- Refers prospective clients to licensed financial advisers (insurance brokers, IFAs)
+- Refers prospective clients to licensed financial advisers (insurance brokers, licensed advisers)
 - Does not provide financial advice
 - Does not handle premium or claim funds
 - Operates under specific written agreements with the licensed FA

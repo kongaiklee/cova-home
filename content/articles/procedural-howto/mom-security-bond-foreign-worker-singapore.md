@@ -269,7 +269,7 @@ These are distinct obligations - both required for Work Permit holders.
 
 For Singapore SMEs hiring foreign workers:
 
-1. **Standard bond procurement protocol** - IPA → bond quote → SB Effective Date → worker arrival.
+1. **Standard bond procurement protocol** - IPA -> bond quote -> SB Effective Date -> worker arrival.
 
 2. **Counter-indemnity assessment** - explicit decision on waiver based on contingent liability exposure.
 

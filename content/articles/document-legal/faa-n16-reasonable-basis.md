@@ -40,11 +40,11 @@ The notice further requires that the recommendation be appropriate to the inform
 
 FAA-N16 applies to **financial advisers and their representatives** licensed under the FAA 2001. This includes:
 
-- Licensed Financial Advisers (LFAs) - typically IFA firms
+- Licensed Financial Advisers (LFAs) - typically licensed adviser firms
 - Exempt Financial Advisers (EFAs) - banks, insurers, and other regulated entities providing advice
 - Appointed representatives of either
 
-The notice applies regardless of whether the adviser is tied to one principal or operates independently. Tied agents face the same reasonable-basis duty as IFAs.
+The notice applies regardless of whether the adviser is tied to one principal or operates independently. Tied agents face the same reasonable-basis duty as licensed advisers.
 
 #### What "investment products" covers
 
@@ -148,7 +148,7 @@ For business owners considering an adviser switch (life cover, group medical, ke
 5. If I am switching from an existing product, what specific advantages of the new product justify the switch - and have any disadvantages been considered?
 
 ### Related Information
-- [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
+- [Tied Agent vs licensed adviser in Singapore](/comparison/tied-agent-vs-ifa)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 

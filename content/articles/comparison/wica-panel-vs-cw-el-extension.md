@@ -227,9 +227,9 @@ The CW/EL extension premium typically modest (often 10-30% addition to WICA prem
 
 Per [MOM press release 8 February 2024](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), WICA limits increased substantially (see [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
-- Death: S$225k → S$269k
-- Total PI: S$289k → S$346k
-- Medical: S$45k → S$53k
+- Death: S$225k -> S$269k
+- Total PI: S$289k -> S$346k
+- Medical: S$45k -> S$53k
 
 The increases reduce the WICA-CW/EL gap modestly but the gap remains substantial. CW/EL extension continues to be operationally essential.
 

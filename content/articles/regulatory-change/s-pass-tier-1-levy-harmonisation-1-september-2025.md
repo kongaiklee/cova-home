@@ -24,7 +24,7 @@ og_description: "Effective 1 September 2025, the Ministry of Manpower (MOM) rais
 
 ### The Sourced Detail
 
-The S Pass levy harmonisation is the third and final step of a planned three-step progressive increase that began in September 2022 (SGD 330 → SGD 450), continued September 2023 (→ SGD 550), and concluded September 2025 (→ SGD 650). The cumulative effect is a near-doubling of the S Pass Tier 1 levy in three years, materially recalibrating SME workforce economics.
+The S Pass levy harmonisation is the third and final step of a planned three-step progressive increase that began in September 2022 (SGD 330 -> SGD 450), continued September 2023 (-> SGD 550), and concluded September 2025 (-> SGD 650). The cumulative effect is a near-doubling of the S Pass Tier 1 levy in three years, materially recalibrating SME workforce economics.
 
 #### Statutory and regulatory framework
 
@@ -81,9 +81,9 @@ WICA insurance premium is calculated per worker per year, with rate cards differ
 - Specific employer claims history
 
 The levy harmonisation does not change WICA rates directly - but it changes the **mix of workers an SME is incentivised to hire**. SMEs that previously preferred S Pass holders at Tier 1 (cheaper levy + higher skill profile) now face the same SGD 650/month levy regardless of tier. Some will:
-- Reduce S Pass headcount and upskill local employees → reduces total WICA-insured headcount
-- Substitute lower-tier Work Permit holders for S Pass roles → reshuffles WICA classification mix
-- Hold S Pass headcount steady and absorb levy uplift as operating cost → no WICA mix change
+- Reduce S Pass headcount and upskill local employees -> reduces total WICA-insured headcount
+- Substitute lower-tier Work Permit holders for S Pass roles -> reshuffles WICA classification mix
+- Hold S Pass headcount steady and absorb levy uplift as operating cost -> no WICA mix change
 
 The decision matters because a single severe workplace injury can give rise to a substantial **Common Law** claim - which, unlike the WICA statutory route, is not capped by the WICA compensation limits (as updated on 1 November 2025: death SGD 269,000, total permanent incapacity SGD 346,000, medical expenses SGD 53,000). That is why the Common Law extension on WICA cover matters - see Article 357 framework on the WICA limit increase.
 
@@ -172,8 +172,8 @@ Build the levy uplift into 24-month financial plans:
 
 | Date | Change |
 |---|---|
-| 1 September 2025 | Tier 1 levy SGD 550 → SGD 650 (new applications) |
-| 1 September 2025 | Qualifying salary SGD 3,150 → SGD 3,300 (most sectors); SGD 3,650 → SGD 3,800 (financial services) - new applications |
+| 1 September 2025 | Tier 1 levy SGD 550 -> SGD 650 (new applications) |
+| 1 September 2025 | Qualifying salary SGD 3,150 -> SGD 3,300 (most sectors); SGD 3,650 -> SGD 3,800 (financial services) - new applications |
 | 1 September 2026 | Renewal applications subject to new levy and salary thresholds |
 
 ### Common Mistakes / What Goes Wrong

@@ -21,7 +21,7 @@ og_description: "A Singapore SME founder reads a headline: a US human resources 
 
 A Singapore SME founder reads a headline: a US human resources software vendor is on the hook for a collective action that, on the vendor's own admission to the court, could reach "hundreds of millions" of users. The same software vendor sells into Singapore. The founder's HR director uses a similar resume parser. And in roughly 18 months, the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025/Uncommenced/20250304073414?DocDate=20250213) and its companion dispute-resolution framework will turn workplace discrimination from a guideline into a statutory tort with a S$250,000 claim cap at the Employment Claims Tribunal.
 
-That is the news. AI in hiring is no longer an HR efficiency story. It is a primary Employment Practices Liability (EPL) exposure. This article walks through what is actually happening, what changes for Singapore SMEs, where the gaps in standard EPL wordings sit, and what to ask a licensed Independent Financial Adviser (IFA) before the WFA commences at the end of 2027.
+That is the news. AI in hiring is no longer an HR efficiency story. It is a primary Employment Practices Liability (EPL) exposure. This article walks through what is actually happening, what changes for Singapore SMEs, where the gaps in standard EPL wordings sit, and what to ask a licensed adviser before the WFA commences at the end of 2027.
 
 ## The News in One Paragraph
 
@@ -235,7 +235,7 @@ Standard SaaS caps (fees paid in prior twelve months) are not commensurate with 
 
 ### Step 8 - Insurance gap audit
 
-Sit down with the licensed IFA or broker. Map each AI tool against the EPL, D&O, and Cyber policies. Identify silences and exclusions. Ask explicitly whether the EPL responds to claims arising from algorithmic hiring decisions. Document the answer in writing.
+Sit down with the licensed adviser or broker. Map each AI tool against the EPL, D&O, and Cyber policies. Identify silences and exclusions. Ask explicitly whether the EPL responds to claims arising from algorithmic hiring decisions. Document the answer in writing.
 
 ## Singapore Insurance Market Context
 
@@ -257,7 +257,7 @@ Three takeaways at the operating level.
 
 ## Questions to Ask Your Adviser
 
-When sitting down with a licensed IFA or broker, the following questions surface the issues that matter for AI bias in hiring and promotion. They are diagnostic, not prescriptive.
+When sitting down with a licensed adviser or broker, the following questions surface the issues that matter for AI bias in hiring and promotion. They are diagnostic, not prescriptive.
 
 1. **Does our existing EPL policy explicitly address claims arising from AI or automated decision-making in employment decisions?** If yes, is it an inclusion or an exclusion? If silent, what does the underwriter say in writing about how it would respond?
 2. **What is our retroactive date and does it cover the period before our current AI hiring tools were deployed?** Can it be backdated?
@@ -268,7 +268,6 @@ When sitting down with a licensed IFA or broker, the following questions surface
 7. **What is the position on extraterritorial exposure** if the SME hires EU-resident candidates and falls within the EU AI Act's high-risk deployer perimeter from 2 August 2026?
 8. **For the Workplace Fairness Act specifically, what is the underwriter's view on coverage for the new statutory tort of discrimination created by the WFDRA**, including for pre-employment claims at the S$5,000 cap and ECT claims up to S$250,000?
 
-****[Match with a licensed IFA →]****
 
 ## Related Information
 

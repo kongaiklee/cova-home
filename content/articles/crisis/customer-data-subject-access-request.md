@@ -188,7 +188,7 @@ A material proportion of DSARs are filed in connection with disputes - disgruntl
 
 DSARs are now a routine part of operating in Singapore. Customers, employees, and former employees use them - sometimes routinely, sometimes in connection with disputes. The framework requires deliberate operational handling: routing protocols, DPO tooling, search capability, vendor cooperation provisions, redaction protocols, and communication standards.
 
-A licensed IFA cannot prevent DSARs but can ensure cyber and PDPA-related cover responds appropriately to PDPC enforcement actions, regulatory investigations, and litigation arising from DSAR mishandling. Cyber policies with privacy regulatory cover, D&O policies for board-level PDPA exposure, and EPL policies for employee-related DSARs all engage in different scenarios.
+A licensed adviser cannot prevent DSARs but can ensure cyber and PDPA-related cover responds appropriately to PDPC enforcement actions, regulatory investigations, and litigation arising from DSAR mishandling. Cyber policies with privacy regulatory cover, D&O policies for board-level PDPA exposure, and EPL policies for employee-related DSARs all engage in different scenarios.
 
 Organisations that approach DSAR handling as a customer-service question - responding in the moment, ad-hoc - face the worst outcomes. Organisations that build the framework with DPO engagement, operational protocols, and insurance coordination handle DSARs deliberately and reduce follow-on exposure.
 

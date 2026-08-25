@@ -24,7 +24,7 @@ None of those things wait for renewal - and your policy does not automatically c
 
 This is the second article in Covarage's procedural-howto cluster on SME insurance operations in Singapore (article 404 covered the MOM/WSH incident-reporting eService). It walks through what an endorsement actually is under Singapore law, the nine common types of endorsement Singapore SMEs encounter, the documentation each requires, the timing benchmarks pulled from publicly accessible Singapore insurer wordings, premium-calculation mechanics, and four concrete scenarios showing the workflow end-to-end. It also flags why the current insurance market - Marsh's [Global Insurance Market Index for Q1 2026](https://www.corporate.marsh.com/news-events/2026/april/global-commercial-insurance-falls-5-percent-q1-2026.html) shows global commercial rates fell 5% in Q1 2026, with Asia down 5%, marking the seventh consecutive quarterly decline - has turned mid-term endorsements into a tool to capture savings, not just absorb new costs.
 
-Covarage does not advise, recommend, rank, or arrange. We provide factual information sourced from primary regulators and route SMEs to licensed Independent Financial Advisers (IFAs) and brokers, in accordance with our position as an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). Every fact below is linked to a primary source.
+Covarage does not advise, recommend, rank, or arrange. We provide factual information sourced from primary regulators and route SMEs to licensed advisers and brokers, in accordance with our position as an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). Every fact below is linked to a primary source.
 
 ---
 
@@ -176,7 +176,7 @@ In practice, the working rule for an SME is: if the change would have affected t
 
 **Step 1: Identify the trigger event.** New lease signed. Vehicle bought. Contract awarded. Headcount jumped. Operations changed.
 
-**Step 2: Notify your broker or IFA in writing within the policy notification window** (typically 7-14 days; 30 days under wordings such as the AIG CGL form for business description changes). Email is fine; the test is whether you have a written record.
+**Step 2: Notify your broker or licensed adviser in writing within the policy notification window** (typically 7-14 days; 30 days under wordings such as the AIG CGL form for business description changes). Email is fine; the test is whether you have a written record.
 
 **Step 3: Complete the underwriter's endorsement request form** - or have the broker submit on your behalf. Singapore insurers all maintain endorsement request forms; the Chubb Independent Distribution Partner FAQ describes the equivalent termination, third-party authorisation, and policy-amendment forms operated by Chubb's IDP team in Singapore ([Chubb Singapore - FAQ for Independent Distribution Partners](https://www.chubb.com/sg-en/partners/faq.html)).
 
@@ -258,7 +258,7 @@ The risk of *not* endorsing - quietly running an out-of-date policy - is asymmet
 A practical operating cadence for a Singapore SME:
 
 - **Monthly:** ten-minute check at the management meeting - has anything changed materially since last month?
-- **Quarterly:** broker/IFA call to review fleet, headcount, locations, sums insured, contracts won that require AI status, contracts ended that no longer need it.
+- **Quarterly:** broker/licensed adviser call to review fleet, headcount, locations, sums insured, contracts won that require AI status, contracts ended that no longer need it.
 - **On any trigger event:** notify the broker in writing within 7-14 days. Don't wait for renewal.
 
 ---

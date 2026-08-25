@@ -261,7 +261,6 @@ When you sit down with a licensed Independent Financial Adviser or broker, the f
 7. Does the policy contain any AI-specific warranties or conditions precedent (for example, mandatory human review of AI-generated code) whose breach would void cover?
 8. If we sell software products into the EU, does our cover respond to penalties or defence costs under the EU Cyber Resilience Act (vulnerability reporting from 11 September 2026, full obligations from 11 December 2027)?
 
-**Match with a licensed IFA →**
 
 ---
 

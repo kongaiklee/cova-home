@@ -37,7 +37,7 @@ Required coverage (per MOM):
 - Security bond: **S$5,000** for non-Malaysian FDWs.
 
 **Stage 2 enhancements (policies starting on or after 1 July 2025):** per MOM's 31 March 2023 press release, "Other enhancements (ie. standardisation of allowable exclusion clauses, age-differentiated premiums, and direct reimbursement by insurers) will be applied to policies on or after 1 July 2025." Practical effects:
-- Premiums for FDWs aged 50 and above are higher under the new age-differentiated bands. The exact uplift varies by insurer; obtain comparative quotes via your IFA rather than relying on rule-of-thumb percentages.
+- Premiums for FDWs aged 50 and above are higher under the new age-differentiated bands. The exact uplift varies by insurer; obtain comparative quotes via your licensed adviser rather than relying on rule-of-thumb percentages.
 - All insurers now use a standardised list of allowable exclusion clauses - easier to compare like-for-like.
 - For admissible claims, insurers reimburse the hospital directly. You no longer front-pay the bill.
 
@@ -65,7 +65,7 @@ Direct hospital reimbursement (Stage 2) means your FDW can present at a partnere
 
 If your business runs a household component (e.g., live-in caregiver for a director's family) or you're a household employer, treat FDW insurance like any other regulated annual filing: calendar-it 90 days before expiry, run a 3-quote comparison, and don't pay above market. Per IPG's 2025 Maid Insurance Guide, "the cost of maid insurance in Singapore typically ranges from **S$250 to S$500 for a 26-month policy (before GST)**" for compliant plans on FDWs under 50; premiums for FDWs 50 and above rise materially under Stage 2's age-differentiated bands.
 
-The one risk that never goes away: under the Employment of Foreign Manpower Act, you remain ultimately liable for medical expenses *above* the policy limit. The S$60,000 minimum is now generous, but a complex hospitalisation can still exceed it. Consider whether enhanced limits make sense for your situation - your IFA will price this against your risk appetite.
+The one risk that never goes away: under the Employment of Foreign Manpower Act, you remain ultimately liable for medical expenses *above* the policy limit. The S$60,000 minimum is now generous, but a complex hospitalisation can still exceed it. Consider whether enhanced limits make sense for your situation - your licensed adviser will price this against your risk appetite.
 
 ### Questions to Ask Your Adviser
 

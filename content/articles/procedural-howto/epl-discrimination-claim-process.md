@@ -20,7 +20,7 @@ og_description: "EPL discrimination claims - under the Workplace Fairness Act 20
 
 > **The Answer in 60 Seconds**
 >
-> EPL discrimination claims - under the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) once it commences, and under the voluntary fair-employment framework until then - typically progress through defined stages: **internal complaint** (employee raises concern internally) → **internal investigation** (HR / management investigates per company policy) → **resolution attempt** (mediation, accommodation, specific resolution) → **TAFEP complaint** (if internal resolution fails, employee files with [TAFEP](https://www.tafep.sg/)) → **TADM mediation** (under [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016)) → **Employment Claims Tribunal (ECT)** (formal adjudication) → **specific civil proceedings** (where applicable). EPL coverage typically engages at the formal stage (TAFEP / TADM / ECT). Critical operational discipline: **internal investigation quality** (sets foundation for defence), **HR documentation** (specific recruitment, performance management, termination records), **specific manager training**, **specific accommodation framework**, and **specific privilege protection** for sensitive communications. For Singapore SMEs, with the WFA passed but not yet in force (commencement expected end-2027), EPL claim infrastructure is becoming substantially more important.
+> EPL discrimination claims - under the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) once it commences, and under the voluntary fair-employment framework until then - typically progress through defined stages: **internal complaint** (employee raises concern internally) -> **internal investigation** (HR / management investigates per company policy) -> **resolution attempt** (mediation, accommodation, specific resolution) -> **TAFEP complaint** (if internal resolution fails, employee files with [TAFEP](https://www.tafep.sg/)) -> **TADM mediation** (under [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016)) -> **Employment Claims Tribunal (ECT)** (formal adjudication) -> **specific civil proceedings** (where applicable). EPL coverage typically engages at the formal stage (TAFEP / TADM / ECT). Critical operational discipline: **internal investigation quality** (sets foundation for defence), **HR documentation** (specific recruitment, performance management, termination records), **specific manager training**, **specific accommodation framework**, and **specific privilege protection** for sensitive communications. For Singapore SMEs, with the WFA passed but not yet in force (commencement expected end-2027), EPL claim infrastructure is becoming substantially more important.
 
 ### The Sourced Detail
 
@@ -110,9 +110,9 @@ Standard elements:
 
 **Specific outcome scenarios.**
 
-- Substantiated complaint → corrective action / accommodation / operational scope
-- Unsubstantiated complaint → specific documented findings, complainant communication
-- Specific partially substantiated → operational considerations
+- Substantiated complaint -> corrective action / accommodation / operational scope
+- Unsubstantiated complaint -> specific documented findings, complainant communication
+- Specific partially substantiated -> operational considerations
 
 #### Stage 3 - Resolution attempt
 

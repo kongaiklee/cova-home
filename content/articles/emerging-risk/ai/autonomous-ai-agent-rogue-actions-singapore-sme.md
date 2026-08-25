@@ -26,7 +26,7 @@ On 18 July 2025, an AI coding agent built by Replit deleted a live production da
 ## TL;DR
 
 - **The Replit Agent incident on 18 July 2025 is no longer a curiosity - it is the template for an emerging insurance claim type that does not map cleanly onto cyber, Tech E&O, Crime, or D&O policies as currently worded.** Singapore courts will likely apply the *B2C2 v Quoine* attribution principle (the programmer's mind, not the algorithm's, governs liability) to extend the company's responsibility for what its agents do, while the CSA's Draft Addendum on Securing Agentic AI (consultation 22 Oct 2025 - 31 Dec 2025) is set to become Singapore's de facto governance benchmark.
-- **Standard cyber and Tech E&O policies sold in Singapore today contain "silent AI" gaps.** Affirmative AI products from Coalition (March 2024 endorsement; Allianz Commercial transitioned its global cyber book to Coalition on 6 May 2026), AXA XL (CyberRiskConnect Gen AI endorsement, 21 October 2024), Munich Re (aiSure / aiSelf), Armilla AI with Chaucer at Lloyd's (30 April 2025; Vanguard AI launched February 2026 with up to USD 25 million AI aggregate limits), and the Google Cloud Risk Protection Programme (Beazley, Chubb, Munich Re) close some of those gaps - but most are not yet broadly distributed in Singapore for SME-sized risks, so coverage clarity must be negotiated wording-by-wording with a licensed broker or IFA.
+- **Standard cyber and Tech E&O policies sold in Singapore today contain "silent AI" gaps.** Affirmative AI products from Coalition (March 2024 endorsement; Allianz Commercial transitioned its global cyber book to Coalition on 6 May 2026), AXA XL (CyberRiskConnect Gen AI endorsement, 21 October 2024), Munich Re (aiSure / aiSelf), Armilla AI with Chaucer at Lloyd's (30 April 2025; Vanguard AI launched February 2026 with up to USD 25 million AI aggregate limits), and the Google Cloud Risk Protection Programme (Beazley, Chubb, Munich Re) close some of those gaps - but most are not yet broadly distributed in Singapore for SME-sized risks, so coverage clarity must be negotiated wording-by-wording with a licensed broker or licensed adviser.
 - **The single most cost-effective control is environment segregation plus a human-in-the-loop gate on irreversible actions** (deletes, payments, external communications). The Replit incident, the Sakana AI Scientist self-modifying its startup script (August 2024), the McDonald's drive-thru rollback (June 2024), and the documented prompt-injection attacks on Anthropic Claude Computer Use (October 2024) and Microsoft 365 Copilot (the "EchoLeak" pattern) all share one root cause OWASP labels **LLM06:2025 Excessive Agency** - agents granted more privilege than their task requires.
 
 ---
@@ -186,7 +186,7 @@ Underwriting has become more selective, but for SMEs with strong risk profiles -
 7. **Eliminate the lethal trifecta.** For each agent, ask: does it have private data + untrusted content + external communication? If all three, redesign - usually by cutting external communication to "display only" or by sandboxing untrusted content through a separate, tool-less LLM call.
 8. **Red-team for indirect prompt injection.** Test the agent's tool boundaries with adversarial inputs: malicious emails, poisoned web pages, hostile documents, embedded instructions in customer support tickets.
 9. **Vendor due diligence.** For each platform (Replit, Lovable, Cursor, Claude Code, Devin, Cognition, OpenAI Operator/Agents, Anthropic Computer Use): incident history, environment segregation defaults, rollback guarantees, log retention, data residency for SG PDPA compliance, breach notification SLA.
-10. **Insurance gap audit.** With a licensed broker or IFA, walk every cyber, Tech E&O, Crime, D&O, BI wording and ask: does this respond to (a) an external attacker manipulating my agent, (b) my agent acting on its own initiative outside instructions, (c) vendor-side agent failure that propagates to my systems? Get the answers in writing.
+10. **Insurance gap audit.** With a licensed broker or licensed adviser, walk every cyber, Tech E&O, Crime, D&O, BI wording and ask: does this respond to (a) an external attacker manipulating my agent, (b) my agent acting on its own initiative outside instructions, (c) vendor-side agent failure that propagates to my systems? Get the answers in writing.
 11. **PDPA Section 26D incident response playbook.** A pre-drafted notification template, named DPO, decision tree for "is this notifiable" (significant harm OR ≥500 individuals), counsel on speed-dial. The 3-day clock starts the moment assessment concludes.
 
 ### 10. Five concrete scenarios for SG SMEs
@@ -218,7 +218,7 @@ If your SME deploys any autonomous AI agent - coding agent, customer-service age
 Three things to do this quarter, before the soft cyber market hardens:
 
 1. Run the eleven-step risk management playbook and produce a written agent inventory with assigned owners.
-2. Schedule a wording review meeting with a licensed IFA or broker - bring the agent inventory, ask each policy "does this respond if our agent acts on its own initiative outside instructions?" and get the answer in writing.
+2. Schedule a wording review meeting with a licensed adviser or broker - bring the agent inventory, ask each policy "does this respond if our agent acts on its own initiative outside instructions?" and get the answer in writing.
 3. If the answer is uncertain or negative, request affirmative AI endorsement language (e.g., Coalition-style, AXA XL CyberRiskConnect Gen AI-style) or evaluate standalone AI liability cover (Munich Re aiSure / Armilla-Chaucer Vanguard AI-style) through the appropriate Lloyd's Asia channel.
 
 ---
@@ -236,7 +236,6 @@ Three things to do this quarter, before the soft cyber market hardens:
 
 ---
 
-****[Match with a licensed IFA →]****
 
 ---
 

@@ -13,14 +13,11 @@ word_count: 1322
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/complete-proposal-form"
-meta_description: "Find a licensed IFA →"
 og_title: "How to Complete an Insurance Proposal Form Properly"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** The proposal form is the cornerstone of the insurance contract. Singapore law applies the duty of **utmost good faith (uberrimae fidei)** - codified in [section 17 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applied at common law to all insurance contracts. Material non-disclosure or misrepresentation lets the insurer **avoid the policy ab initio** - meaning the policy is treated as if it never existed. Answer every question, disclose every material fact even if not asked, verify with primary records, and have the proper authorised signatory sign.
 
-**Find a licensed IFA →**
 
 ### The legal stakes
 Per the [ICLG Insurance & Reinsurance Laws and Regulations - Singapore Chapter (15 March 2024, KGP Legal LLC)](https://iclg.com/practice-areas/insurance-and-reinsurance-laws-and-regulations/singapore): "An insured must disclose to the insurer, before the contract is concluded, every material circumstance which is known to the insured, and the insured is deemed to know every circumstance, which in the ordinary course of business, ought to be known by him or her. If the insured fails to make such disclosure, the insurer may avoid the contract." The same chapter affirms: "Common law implies a duty of utmost good faith (uberrimae fides) into all insurance and reinsurance contracts."
@@ -84,7 +81,6 @@ For SMEs, the cost of getting this right is process discipline. The cost of gett
 4. Should I attach a written disclosure annex with our pending litigation, regulatory matters, and prior claims history?
 5. Who at the company should sign - and is that authority documented?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
@@ -95,4 +91,4 @@ For SMEs, the cost of getting this right is process discipline. The cost of gett
 
 ---
 
-Articles 51-55 cover claim filing for marine cargo, FDW direct reimbursement, group medical outpatient, public liability event slip-and-fall, and the WICA-vs-common-law election. Articles 56-58 are comparison VS articles (broker vs direct, tied agent vs IFA, WICA vs GPA). Article 59 is the first glossary explainer for the document-legal category (indemnity to principal).
+Articles 51-55 cover claim filing for marine cargo, FDW direct reimbursement, group medical outpatient, public liability event slip-and-fall, and the WICA-vs-common-law election. Articles 56-58 are comparison VS articles (broker vs direct, tied agent vs licensed adviser, WICA vs GPA). Article 59 is the first glossary explainer for the document-legal category (indemnity to principal).

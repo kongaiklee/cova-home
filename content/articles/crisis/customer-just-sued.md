@@ -57,13 +57,13 @@ For employment-related claims:
 - **Do not delete, modify, or "tidy" any records.** Spoliation of evidence is a separate legal issue and can result in adverse inferences.
 - **Do not respond to the customer or their lawyer.** Even a well-meaning "we'll look into this" can be construed as acknowledgment.
 - **Identify what insurance might respond.** Look at the claim type:
-  - Property damage to a customer or their property → PL
-  - Defective product caused harm → Product Liability
-  - Negligent professional advice → PI
-  - Wrongful dismissal, discrimination → EPL
-  - Director governance failure → D&O
-  - Data breach → Cyber
-  - Unpaid invoice / contract dispute → typically not covered by insurance (Trade Credit may apply in some scenarios)
+  - Property damage to a customer or their property -> PL
+  - Defective product caused harm -> Product Liability
+  - Negligent professional advice -> PI
+  - Wrongful dismissal, discrimination -> EPL
+  - Director governance failure -> D&O
+  - Data breach -> Cyber
+  - Unpaid invoice / contract dispute -> typically not covered by insurance (Trade Credit may apply in some scenarios)
 
 #### Hour 4-24 - Notify insurers, engage counsel
 

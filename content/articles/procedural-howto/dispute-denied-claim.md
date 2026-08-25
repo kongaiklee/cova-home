@@ -13,14 +13,11 @@ word_count: 1040
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/dispute-denied-claim"
-meta_description: "Find a licensed IFA →"
 og_title: "How to Dispute a Denied Insurance Claim in Singapore"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** First, get the denial in writing with the specific policy clause cited. Submit an internal appeal to the insurer's CEO (allow 15 business days for reply per the [GIA disputes process](https://gia.org.sg/help-support/insurance-disputes.html)). If unresolved within 4 weeks, escalate to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/). FIDReC offers free mediation; adjudication is binding on the insurer (not on you) up to **S$150,000 per claim** for claims filed on or after 1 July 2024. Since 1 July 2025, **small businesses with group annual turnover ≤ S$1 million in each of the prior two financial years** are eligible complainants.
 
-**Find a licensed IFA →**
 
 ### The Step-by-Step
 
@@ -63,7 +60,6 @@ A coverage denial based on an exclusion is harder. Check whether (a) the exclusi
 4. Should I bring in a coverage lawyer before the CEO appeal or before FIDReC adjudication?
 5. Are there any pre-action protocols I need to comply with for litigation if FIDReC fails?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure](/document-legal/insurance-act-disclosure-duty)

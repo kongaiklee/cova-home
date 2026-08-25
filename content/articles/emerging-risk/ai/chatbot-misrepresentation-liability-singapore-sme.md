@@ -21,7 +21,7 @@ og_description: "A British Columbia tribunal made it official in February 2024: 
 
 A British Columbia tribunal made it official in February 2024: if your chatbot tells a customer something untrue and that customer relies on it, your business pays. Air Canada tried the obvious defence - that the chatbot was "a separate legal entity responsible for its own actions" - and it failed. The tribunal called the chatbot what it really is: part of the company's website, and the company is responsible for everything on its website. That ruling, *Moffatt v Air Canada* [2024 BCCRT 149](https://canlii.ca/t/k2spq), is now the most-cited common-law decision on chatbot liability in the world. It is small in dollar terms. It is enormous in legal terms. And it is directly relevant to every Singapore SME that has put a chatbot on its website, in its app, or inside its WhatsApp Business account.
 
-This article walks through what the case actually says, how Singapore law would treat the same facts, what the Consumer Protection (Fair Trading) Act 2003 ("CPFTA") and the Misrepresentation Act 1967 add to the exposure, and which insurance lines - Professional Indemnity (PI), Tech Errors & Omissions (Tech E&O), Public Liability, and Media Liability - actually respond when a chatbot says something it should not have said. We end with a practical risk-management checklist and questions you should put to a licensed Independent Financial Adviser (IFA) or broker before your next renewal.
+This article walks through what the case actually says, how Singapore law would treat the same facts, what the Consumer Protection (Fair Trading) Act 2003 ("CPFTA") and the Misrepresentation Act 1967 add to the exposure, and which insurance lines - Professional Indemnity (PI), Tech Errors & Omissions (Tech E&O), Public Liability, and Media Liability - actually respond when a chatbot says something it should not have said. We end with a practical risk-management checklist and questions you should put to a licensed adviser or broker before your next renewal.
 
 ## Moffatt v Air Canada: the centerpiece
 
@@ -160,7 +160,6 @@ Treat the next 12 months as a chatbot-governance project. Nine practical steps.
 7. What is the notification trigger? Do we have to notify a chatbot incident as a "circumstance which may give rise to a claim", and what is the timeframe?
 8. Given the soft Q1 2026 market, what affirmative AI language can the broker negotiate at renewal - and at what additional premium, if any?
 
-****[Match with a licensed IFA →]****
 
 ## Related Information
 

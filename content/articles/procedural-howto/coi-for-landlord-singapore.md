@@ -36,9 +36,9 @@ Look for:
 
 **Step 2 - Identify the gap between your policy and the lease.**
 Common mismatches:
-- Lease requires S$3m PL; your policy is S$1m → you need to top up.
-- Lease requires landlord as additional insured; your policy doesn't have the endorsement → request from insurer.
-- Lease requires waiver of subrogation; not standard on most PL → request endorsement.
+- Lease requires S$3m PL; your policy is S$1m -> you need to top up.
+- Lease requires landlord as additional insured; your policy doesn't have the endorsement -> request from insurer.
+- Lease requires waiver of subrogation; not standard on most PL -> request endorsement.
 
 **Step 3 - Request the COI from your insurer or broker.**
 Provide:

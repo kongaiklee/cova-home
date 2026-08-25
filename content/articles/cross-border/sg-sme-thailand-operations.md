@@ -26,7 +26,7 @@ og_description: "A Singapore SME extending to Thailand operations encounters Off
 
 Thailand is among ASEAN's largest economies and a frequent destination for Singapore SMEs in F&B / hospitality, retail, professional services, manufacturing, and tourism-related operations. The regulatory framework differs materially from Singapore: locally-admitted insurance is typically required, social security and work injury cover are state-administered, the foreign ownership framework affects business structures, and Thai is the operational language for substantial regulatory engagement.
 
-This article walks through the framework. For material Thailand operations, engagement with Thailand-licensed counsel and a Singapore IFA experienced in coordinated Thailand programmes is operational requirement.
+This article walks through the framework. For material Thailand operations, engagement with Thailand-licensed counsel and a Singapore licensed adviser experienced in coordinated Thailand programmes is operational requirement.
 
 #### The OIC supervisory framework
 

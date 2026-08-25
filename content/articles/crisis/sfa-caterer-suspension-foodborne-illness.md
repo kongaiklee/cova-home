@@ -38,7 +38,7 @@ A foodborne illness cluster linked to an SME caterer or F&B operator triggers a 
 
 **Elsie's Kitchen, November 2023.** 166 cases. SGD 500 fine.
 
-The SFA pattern is consistent: suspension → premises sanitisation → food handlers re-attend Level 1 food safety course → Food Hygiene Officer must pass Level 3 → laboratory clearance → resumption.
+The SFA pattern is consistent: suspension -> premises sanitisation -> food handlers re-attend Level 1 food safety course -> Food Hygiene Officer must pass Level 3 -> laboratory clearance -> resumption.
 
 #### Statutory framework
 

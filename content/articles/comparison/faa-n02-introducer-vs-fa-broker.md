@@ -65,20 +65,20 @@ With that scope come obligations: documented fact-finds, a suitability assessmen
 
 An **insurance broker** is registered under the Insurance Act and acts **on behalf of the client** in placing insurance - in contrast to an insurance *agent*, who represents the insurer. That orientation is the defining feature: the broker's duty runs to the client. Where a broker advises on life policies, the FAA obligations apply on top. Major Singapore brokers range from global firms to local specialists.
 
-#### The IFA distinction
+#### The licensed adviser distinction
 
-An **Independent Financial Adviser (IFA)** is an FA that is not tied to any single insurer, and so can advise across the market. A **tied agent**, by contrast, represents one insurer and distributes that insurer's products.
+An **licensed adviser** is an FA that is not tied to any single insurer, and so can advise across the market. A **tied agent**, by contrast, represents one insurer and distributes that insurer's products.
 
 #### Covarage's framework
 
 Covarage carries on no regulated activity. Covarage:
-- Introduces SME prospects to licensed IFAs
+- Introduces SME prospects to licensed advisers
 - Provides factual information sourced from primary regulators
 - Does **not** recommend specific products
 - Does **not** conduct fact-finds
 - Does **not** hold premium or client funds
 
-The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup, and Covarage is paid an introduction fee by the licensed intermediary. The rationale is division of labour - the lighter introducer scope allows Covarage to engage SMEs broadly on factual, educational terms, while the licensed IFA handles the regulated advisory activity where the full consumer protections apply.
+The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup, and Covarage is paid an introduction fee by the licensed intermediary. The rationale is division of labour - the lighter introducer scope allows Covarage to engage SMEs broadly on factual, educational terms, while the licensed adviser handles the regulated advisory activity where the full consumer protections apply.
 
 #### What it means for SMEs
 
@@ -94,7 +94,7 @@ Going **direct to a licensed FA or broker** fits where the need is already a com
 
 #### The complementary role
 
-The introducer and the licensed IFA are not competitors - they are complementary stages. The **introducer** provides market education, factual orientation, and the gateway function; the **IFA or broker** provides the regulated advice, the fact-find and suitability assessment, and the product placement. For the SME, the result is lower friction at the point of initial engagement, with the full regulatory protections applying once regulated advice begins.
+The introducer and the licensed adviser are not competitors - they are complementary stages. The **introducer** provides market education, factual orientation, and the gateway function; the **licensed adviser or broker** provides the regulated advice, the fact-find and suitability assessment, and the product placement. For the SME, the result is lower friction at the point of initial engagement, with the full regulatory protections applying once regulated advice begins.
 
 #### Regulatory oversight
 

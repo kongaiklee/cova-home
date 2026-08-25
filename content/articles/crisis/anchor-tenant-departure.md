@@ -281,7 +281,7 @@ The decision to stay or exit considers:
 **Some Singapore malls have experienced:**
 - Successful repositioning after anchor departure
 - Decline despite anchor presence
-- Specific category shifts (department stores → F&B + experiences)
+- Specific category shifts (department stores -> F&B + experiences)
 
 **The tenancy decision matrix:**
 

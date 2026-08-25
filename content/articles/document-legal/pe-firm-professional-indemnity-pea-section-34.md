@@ -13,14 +13,11 @@ word_count: 1214
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/pe-firm-professional-indemnity-pea-section-34"
-meta_description: "Find a licensed IFA →"
 og_title: "When Must a PE Firm Carry Professional Indemnity Under the Professional Engineers Act?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** Per **Section 34 of the [Professional Engineers Act 1991](https://sso.agc.gov.sg/Act/PEA1991)** (renumbered from the older Section 24 by Act 36 of 2017), every licensed corporation (other than an unlimited corporation) and every licensed limited liability partnership supplying professional engineering services in Singapore must be insured against liability for breach of professional duty. Per the [Professional Engineers Board](https://www1.peb.gov.sg/LC-common-queries/), **"the PE Act does not specify the amount to be insured."** The minimum sum insured is left to the licensee's judgement, subject to compliance with section 34 and the Professional Engineers Rules.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -99,7 +96,6 @@ A frequent trap: the "design-and-build" boundary. If your PE corporation is also
 4. I'm both a PE corporation and a licensed builder under BCA - how do my PI, CAR, and PL coordinate?
 5. My biggest project carries QP responsibility - does my current limit hold up against worst-case?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - BCA QPs and the Building Control Act

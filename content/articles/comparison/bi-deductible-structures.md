@@ -216,9 +216,9 @@ Customer / supplier coordination during disruption:
 
 #### Specific cost economics
 
-**Time deductible cost reduction.** Each level of time deductible (24 → 48 → 72 hour) typically reduces premium 10-25% incrementally.
+**Time deductible cost reduction.** Each level of time deductible (24 -> 48 -> 72 hour) typically reduces premium 10-25% incrementally.
 
-**Indemnity deductible cost reduction.** Each level of indemnity deductible (S$5k → S$10k → S$25k) similarly reduces premium incrementally.
+**Indemnity deductible cost reduction.** Each level of indemnity deductible (S$5k -> S$10k -> S$25k) similarly reduces premium incrementally.
 
 **Specific commercial trade-off.**
 

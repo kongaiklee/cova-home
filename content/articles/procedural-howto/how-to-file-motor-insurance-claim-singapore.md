@@ -73,7 +73,7 @@ Insurer pays the workshop directly (own-damage claim) or settles with the third 
 If your business runs commercial vehicles - vans, lorries, motorbikes for delivery - three operational habits prevent most claim disputes:
 
 1. **Driver pack in every vehicle.** Includes: insurer hotline number, accident reporting cheat-sheet, ARC list, blank exchange-of-particulars form, and a "Do NOT admit liability" reminder card.
-2. **Telematics or dashcam.** Footage settles ambiguity. Some insurers offer premium discounts for verified dashcam installation - ask your IFA which insurers in your fleet's risk class currently apply such discounts.
+2. **Telematics or dashcam.** Footage settles ambiguity. Some insurers offer premium discounts for verified dashcam installation - ask your licensed adviser which insurers in your fleet's risk class currently apply such discounts.
 3. **Quarterly review of all reported incidents** (claimable or not). Trend data identifies the high-risk routes, drivers, or vehicle types and feeds into renewal negotiations with your insurer.
 
 The Motor Claims Framework was designed to standardise reporting and contain claim costs. Working with it (not around it) protects your premium and your NCD.

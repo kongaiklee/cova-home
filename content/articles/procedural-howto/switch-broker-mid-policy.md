@@ -13,14 +13,11 @@ word_count: 967
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/switch-broker-mid-policy"
-meta_description: "Find a licensed IFA →"
 og_title: "How to Switch Insurance Brokers Mid-Policy in Singapore"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The Answer in 60 Seconds:** You can switch insurance brokers mid-policy by issuing a Broker of Record (BOR) letter - a signed instruction from the policyholder to the insurer appointing a new broker as your sole representative on a named policy. Your existing policy terms, premium and cover do **not** change. Per the Monetary Authority of Singapore's [register of registered/approved insurance brokers under the Insurance Act 1966](https://www.mas.gov.sg/regulation/insurance), only MAS-licensed entities may act as brokers; the BOR simply transfers servicing rights from one MAS-regulated broker to another.
 
-**Find a licensed IFA →**
 
 ### What a BOR letter actually does
 A BOR letter is a one-page instruction on your company letterhead telling the insurer that, with effect from a stated date, [New Broker Pte Ltd] is your appointed broker for the policy listed and [Old Broker Pte Ltd] no longer has authority to act on it. It does **not** cancel the policy, change the insurer, or alter cover. It transfers the right to service, advise, place renewal terms, and (typically) the future commission stream.
@@ -68,7 +65,6 @@ If your business is regulated (MAS-licensed, MOH-licensed, MOM-licensed), check 
 4. How will mid-term endorsements and any pending claims be handled across the changeover?
 5. Will you do a full coverage review post-BOR or just renew "as expiring"?
 
-**Match with a licensed IFA →**
 
 ### Related Information
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)

@@ -77,7 +77,7 @@ Practical sequencing for a new office or industrial fit-out:
 3. Bake RI inspection time into the contractor's programme.
 4. Coordinate the FSC issuance date with your fire insurance policy inception.
 
-A fire insurance policy is rarely the binding constraint on opening day. The FSC usually is. Your IFA can help align the insurance side; your QP and main contractor must own the SCDF side.
+A fire insurance policy is rarely the binding constraint on opening day. The FSC usually is. Your licensed adviser can help align the insurance side; your QP and main contractor must own the SCDF side.
 
 ### Questions to Ask Your Adviser
 

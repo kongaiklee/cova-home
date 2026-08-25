@@ -24,7 +24,7 @@ og_description: "---"
 
 The United Kingdom is a frequent expansion market for Singapore SMEs - common law alignment, English language operations, time zone position between Asia and the Americas, and post-Brexit clarity (most Singapore SMEs are not affected by EU access questions in the way EU-based businesses might be). The regulatory framework is substantively different from Singapore in specific respects that require deliberate handling.
 
-This article walks through the framework. It covers compulsory insurance, employment law, data protection, and Master/Local insurance architecture. It is not legal or insurance advice; engagement with UK-licensed counsel and a licensed Singapore IFA experienced in UK programmes is operational requirement for material operations.
+This article walks through the framework. It covers compulsory insurance, employment law, data protection, and Master/Local insurance architecture. It is not legal or insurance advice; engagement with UK-licensed counsel and a licensed Singapore licensed adviser experienced in UK programmes is operational requirement for material operations.
 
 ---
 
@@ -192,7 +192,7 @@ The architecture provides regulatory compliance, local claim handling, and progr
 
 #### What This Means for Your Business
 
-UK operations require their own architecture, designed by advisors familiar with UK regulatory framework, FCA/PRA-authorised insurer landscape, and UK litigation and regulatory enforcement environment. A Singapore-only IFA without UK programme experience cannot structure this; engagement with international programme capability is required.
+UK operations require their own architecture, designed by advisors familiar with UK regulatory framework, FCA/PRA-authorised insurer landscape, and UK litigation and regulatory enforcement environment. A Singapore-only licensed adviser without UK programme experience cannot structure this; engagement with international programme capability is required.
 
 The UK is generally a more accessible expansion market for Singapore SMEs than the US - common law alignment, simpler federal structure, and generally lower litigation severity. But "simpler" is not "simple" - the framework requires deliberate operational handling.
 

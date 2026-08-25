@@ -24,7 +24,7 @@ og_description: "---"
 
 The Singapore cleaning and facilities management industry is among the most regulated service sectors. Operations require coordinated handling of NEA licensing, MOM employment compliance under the Progressive Wage Model framework, occupational safety, customer-site liability, and the operational realities of an industry with elevated WSH incidents (slips, falls, manual handling, chemical handling) and substantial customer trust dependency.
 
-This article walks through the decision-tree for opening a cleaning or facilities management operation. It is not legal or insurance advice; engagement with NEA, MOM, the Environmental Management Association of Singapore (EMAS), and a licensed Singapore IFA is operational requirement.
+This article walks through the decision-tree for opening a cleaning or facilities management operation. It is not legal or insurance advice; engagement with NEA, MOM, the Environmental Management Association of Singapore (EMAS), and a licensed Singapore licensed adviser is operational requirement.
 
 ---
 
@@ -233,7 +233,7 @@ Cleaning customer contracts have specific provisions to review:
 
 Opening a Singapore cleaning operation is a regulated activity with substantial pre-operations preparation: NEA licensing, ECWSQ training framework, PWM-compliant cost structure, WICA designated insurer arrangement, WSH framework, and customer contract review with insurance coordination. The insurance architecture (WICA, EL, PL with C&C extension, Pollution Liability, Crime, Motor, Property) must be in place before customer engagement.
 
-A licensed IFA familiar with cleaning industry programmes can structure the cover stack and coordinate the WICA designated insurer arrangement, EL extensions, PL scope (including care, custody, control), pollution provisions, and crime cover appropriately for the operational profile.
+A licensed adviser familiar with cleaning industry programmes can structure the cover stack and coordinate the WICA designated insurer arrangement, EL extensions, PL scope (including care, custody, control), pollution provisions, and crime cover appropriately for the operational profile.
 
 For facilities management operations extending beyond cleaning (mechanical maintenance, security coordination, integrated services), additional cover scope (professional indemnity for advisory work, specialised technical liability) layers onto the cleaning foundation.
 

@@ -120,8 +120,8 @@ If your deposit loss involved any of these - particularly social engineering (a 
 Some Cyber policies include social engineering fraud sub-limits. If the deposit was paid based on compromised email communications (Business Email Compromise - BEC), Cyber may respond.
 
 **Key question for any deposit loss:**
-- Was there fraud in the *payment instruction* (e.g. email impersonation redirecting funds to fraudster's account)? → Commercial Crime / Cyber may respond
-- Was there fraud in the *underlying contract* (legitimate vendor account, but vendor disappeared with deposit)? → Insurance generally does not respond
+- Was there fraud in the *payment instruction* (e.g. email impersonation redirecting funds to fraudster's account)? -> Commercial Crime / Cyber may respond
+- Was there fraud in the *underlying contract* (legitimate vendor account, but vendor disappeared with deposit)? -> Insurance generally does not respond
 
 The distinction matters significantly.
 

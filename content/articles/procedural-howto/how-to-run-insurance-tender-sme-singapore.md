@@ -65,7 +65,7 @@ The panel should include:
 
 - **The incumbent.** Always. The incumbent has the most data on the account and is the easiest to evaluate against. The incumbent also has the strongest commercial incentive to retain and will frequently sharpen pricing when challenged.
 - **One challenger broker with deep Singapore SME presence.** [MAS maintains the public Financial Institutions Directory of registered insurance brokers](https://eservices.mas.gov.sg/fid/institution?category=Registered+Insurance+Broker). The directory is the authoritative source for licensing status. The challenger broker should have demonstrated capability in the SME's specific sector (construction, F&B, professional services, tech, logistics).
-- **One challenger IFA firm with corporate appointment.** Financial adviser firms licensed under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) can advise on commercial insurance products subject to the scope of their licence. The MAS [list of licensed financial advisers](https://eservices.mas.gov.sg/fid/institution?category=Licensed+Financial+Adviser) is searchable by name and licence type.
+- **One challenger licensed adviser firm with corporate appointment.** Financial adviser firms licensed under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) can advise on commercial insurance products subject to the scope of their licence. The MAS [list of licensed financial advisers](https://eservices.mas.gov.sg/fid/institution?category=Licensed+Financial+Adviser) is searchable by name and licence type.
 
 For specialty programmes - D&O for SGX-listed entities, large WICA portfolios, manufacturing property - consider including one Lloyd's Asia coverholder or one direct relationship with an international broker (Marsh, Aon, WTW, Howden, Lockton) that can access the London market for layered or excess capacity.
 
@@ -203,7 +203,7 @@ The memo is the institutional record. If staff turnover affects the finance or o
 
 If your commercial insurance programme has not been market-tested in three or more renewals, run a tender in the 2026 cycle. The market is structurally soft, capacity is ample, and a properly run process produces verifiable savings in the 5-20% range on most SME composite programmes, with measurable coverage upgrades on top.
 
-If you do not have internal capacity to run a tender, the licensed adviser is your tender lead. A reputable broker or IFA will run the process - or, if they are the incumbent, will agree to a contested renewal exercise - and document the result. Ask for the conduct disclosure under MAS Notice FAA-N03 in writing before you begin.
+If you do not have internal capacity to run a tender, the licensed adviser is your tender lead. A reputable broker or licensed adviser will run the process - or, if they are the incumbent, will agree to a contested renewal exercise - and document the result. Ask for the conduct disclosure under MAS Notice FAA-N03 in writing before you begin.
 
 The tender is a process, not a transaction. The output is not just lower premium - it is a refreshed programme specification, current exposure data, a written instruction record, and a relationship with a licensed adviser who understands your business and competes for it.
 

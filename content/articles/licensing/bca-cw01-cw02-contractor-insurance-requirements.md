@@ -13,14 +13,11 @@ word_count: 1021
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/licensing/bca-cw01-cw02-contractor-insurance-requirements"
-meta_description: "Find a licensed IFA →"
 og_title: "What Insurance Do BCA CW01 and CW02 Contractors Actually Need?"
-og_description: "Find a licensed IFA →"
 ---
 
 > **The 60-second answer:** BCA's Contractors Registration System grades CW01 (General Building) and CW02 (Civil Engineering) firms from C3 up to A1 based on financial capacity, personnel, and management certification - but BCA itself does not directly impose insurance minimums in the CW Specific Registration Requirements ([CW SRR, Jun 2025 Edition](https://file.go.gov.sg/bca-crs-srr-cw.pdf)). The insurance you actually need flows from three other sources: the Work Injury Compensation Act (mandatory), your Builders Licence under the Building Control Act, and the tender or contract clauses of the project owner.
 
-**Find a licensed IFA →**
 
 ## The Sourced Detail
 
@@ -72,7 +69,6 @@ A common mistake: assuming "BCA registered" implies "insurance handled." BCA's r
 4. My biggest contract is design-and-build - do I need separate Professional Indemnity, and how does it interact with my PE corporation's section 34 cover?
 5. How do my bizSAFE Star and ISO 45001 certifications affect my WICA and PL premiums on renewal?
 
-**Match with a licensed IFA →**
 
 ## Related Information
 - BCA Builders Licensing Scheme (GB1 vs GB2)

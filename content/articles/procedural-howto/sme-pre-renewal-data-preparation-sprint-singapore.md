@@ -20,11 +20,11 @@ og_description: "Most Singapore SMEs treat insurance renewal as a one-week scram
 
 Most Singapore SMEs treat insurance renewal as a one-week scramble. The renewal email arrives, the broker quotes a number, the finance team pays, and the policy rolls over with a small loading. That workflow is now actively losing SMEs money, because the 2026 commercial insurance market is the most insured-friendly market in seven years and a properly prepared renewal can convert that market into actual premium relief - but only if the data package lands on the underwriter's desk before the quote is set. According to Marsh's [Global Insurance Market Index for Q1 2026](https://www.marsh.com/en/about/media/global-commercial-insurance-rates-fall-5-percent-in-q1-2026.html), released 22 April 2026, Asia commercial rates fell 5% - the seventh consecutive quarter of rate decreases, with property down 5% in Asia, financial and professional lines down 7% in Asia, and cyber down 5% globally. A clean account in this market should expect at minimum a flat renewal. A loading on a clean account is a signal the submission was thin.
 
-This article walks through the 90/60/30-day pre-renewal data sprint - the structured workflow Singapore SMEs running composite programmes (property, Work Injury Compensation, public liability, group hospital and surgical, D&O, cyber) should run before every renewal. It is built around three sub-deadlines anchored on the policy expiry date: T-90, T-60, T-30. Each phase has specific deliverables, specific owners, and specific consequences if skipped. The article finishes by routing readers to a licensed Independent Financial Adviser (IFA) or broker, because Covarage does not advise, recommend, or arrange policies.
+This article walks through the 90/60/30-day pre-renewal data sprint - the structured workflow Singapore SMEs running composite programmes (property, Work Injury Compensation, public liability, group hospital and surgical, D&O, cyber) should run before every renewal. It is built around three sub-deadlines anchored on the policy expiry date: T-90, T-60, T-30. Each phase has specific deliverables, specific owners, and specific consequences if skipped. The article finishes by routing readers to a licensed adviser or broker, because Covarage does not advise, recommend, or arrange policies.
 
 ## What a Pre-Renewal Sprint Actually Is
 
-A pre-renewal data preparation sprint is a calendar-driven workflow that runs in the 90 days before policy expiry and assembles, in a single submission package, the exposure data, claims history, valuations, and risk-management evidence an underwriter needs to quote the renewal competitively. It replaces the "renewal email a week before expiry" pattern with a structured document pull anchored to three checkpoints - T-90, T-60, and T-30 - and a clear handoff to a licensed broker or IFA who tests the market on the SME's behalf.
+A pre-renewal data preparation sprint is a calendar-driven workflow that runs in the 90 days before policy expiry and assembles, in a single submission package, the exposure data, claims history, valuations, and risk-management evidence an underwriter needs to quote the renewal competitively. It replaces the "renewal email a week before expiry" pattern with a structured document pull anchored to three checkpoints - T-90, T-60, and T-30 - and a clear handoff to a licensed broker or licensed adviser who tests the market on the SME's behalf.
 
 Two facts make the sprint matter more than most SME finance leads realise.
 
@@ -82,7 +82,7 @@ A Claims Experience Report (CER) is the incumbent insurer's record of paid claim
 
 CERs are issued by the incumbent insurer on request, typically free of charge, and SMEs should request the CER from the incumbent at T-60 to allow turnaround time and to leave a working window to triangulate against the SME's own claims log. Where there is a discrepancy between the CER and the internal log - a paid claim the insurer recorded but the SME does not, or vice versa - that needs to be reconciled before the document goes into the broker submission package.
 
-For group medical and group hospital and surgical lines, the CER allows the SME and its broker to argue against an automatic loading at renewal. Group medical schemes are typically repriced when the loss ratio sits materially above the insurer's pricing assumption, and a single large inpatient claim in a 20-person group can move the loss ratio above the threshold on its own, with consequences across all covered lives. The specific repricing band varies by insurer and is not publicly disclosed - confirm with your IFA or broker against your specific policy's loss-ratio history.
+For group medical and group hospital and surgical lines, the CER allows the SME and its broker to argue against an automatic loading at renewal. Group medical schemes are typically repriced when the loss ratio sits materially above the insurer's pricing assumption, and a single large inpatient claim in a 20-person group can move the loss ratio above the threshold on its own, with consequences across all covered lives. The specific repricing band varies by insurer and is not publicly disclosed - confirm with your licensed adviser or broker against your specific policy's loss-ratio history.
 
 ### Insurer Pre-Renewal Questionnaires
 
@@ -110,13 +110,13 @@ The practical implication: a clean account in 2026 should expect at minimum a fl
 
 Thirty days before expiry, the data package converts into a formal market submission and the claims-made lines need their continuity declarations.
 
-### Letter of Authority to the Broker or IFA
+### Letter of Authority to the Broker or licensed adviser
 
-A Letter of Authority (LoA) is a one-page document, signed by a director or authorised officer, that authorises a broker or IFA to approach the market on the SME's behalf and to obtain information from current and former insurers. Without an LoA, alternate insurers in Singapore will not engage - the LoA is what tells them they are allowed to quote.
+A Letter of Authority (LoA) is a one-page document, signed by a director or authorised officer, that authorises a broker or licensed adviser to approach the market on the SME's behalf and to obtain information from current and former insurers. Without an LoA, alternate insurers in Singapore will not engage - the LoA is what tells them they are allowed to quote.
 
 The Singapore broking industry operates under the [Singapore Insurance Brokers Association Code of Practice](https://www.siba.sg/wp-content/uploads/2023/10/SIBA-CODE-SL.pdf), which describes "key service standards that clients can expect from brokers, as well as an overview of the complaints and disputes handling process." Insurance brokers in Singapore are also separately licensed and regulated under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), which requires brokers to be registered before carrying on business. SIBA reports its members manage more than 90% of commercial insurance transacted in Singapore.
 
-Where the SME engages an IFA rather than a broker, the IFA is licensed under the Financial Advisers Act and operates under MAS notices including [FAA-N03 on Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03), which requires standardised disclosure of regulatory status, remuneration, conflicts of interest, and product features.
+Where the SME engages a licensed adviser rather than a broker, the licensed adviser is licensed under the Financial Advisers Act and operates under MAS notices including [FAA-N03 on Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03), which requires standardised disclosure of regulatory status, remuneration, conflicts of interest, and product features.
 
 ### The Broker Submission Package
 

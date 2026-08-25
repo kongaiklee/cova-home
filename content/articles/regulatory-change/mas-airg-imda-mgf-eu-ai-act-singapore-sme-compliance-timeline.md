@@ -269,7 +269,7 @@ Five practical points.
 
 **Your existing PI / Tech E&O / Cyber / Media / D&O / EPL stack needs a deliberate AI gap audit.** The soft market gives you negotiating room *now*; that window will close as insurers harden wordings.
 
-**A licensed IFA can match your current programme to an AI-aware programme.** Singapore-licensed IFAs and brokers - Marsh, Aon, WTW, Howden, Lockton, Gallagher, Jardine Lloyd Thompson and the domestic broker community - have access to the Lloyd's Asia specialty market for AI-vendor risks and to the AXA XL Gen AI endorsement. Covarage introduces SMEs to licensed IFAs who can match current programme to AI-aware programme without recommending a specific product.
+**A licensed adviser can match your current programme to an AI-aware programme.** Singapore-licensed advisers and brokers - Marsh, Aon, WTW, Howden, Lockton, Gallagher, Jardine Lloyd Thompson and the domestic broker community - have access to the Lloyd's Asia specialty market for AI-vendor risks and to the AXA XL Gen AI endorsement. Covarage introduces SMEs to licensed advisers who can match current programme to AI-aware programme without recommending a specific product.
 
 ## Questions to Ask Your Adviser
 

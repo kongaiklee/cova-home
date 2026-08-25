@@ -20,7 +20,7 @@ og_description: "Step 1 - Confirm the new hire is in WICA scope. Per MOM: cover 
 
 ### The Answer in 60 Seconds
 
-> Per MOM (mom.gov.sg/workplace-safety-and-health/work-injury-compensation), employers must hold WICA insurance for all manual workers (regardless of salary) and all non-manual workers earning **≤ S$2,600/month**. Most WICA policies are written on an **annual aggregate / declaration basis** - meaning you don't pay per head; you pay against estimated annual earnings, and the insurer issues an endorsement when staff change. To add a new employee, notify your insurer (via your IFA/broker) with name, NRIC/FIN, job title, salary, and start date. The insurer issues an endorsement and (if material) charges a pro-rata additional premium.
+> Per MOM (mom.gov.sg/workplace-safety-and-health/work-injury-compensation), employers must hold WICA insurance for all manual workers (regardless of salary) and all non-manual workers earning **≤ S$2,600/month**. Most WICA policies are written on an **annual aggregate / declaration basis** - meaning you don't pay per head; you pay against estimated annual earnings, and the insurer issues an endorsement when staff change. To add a new employee, notify your insurer (via your licensed adviser/broker) with name, NRIC/FIN, job title, salary, and start date. The insurer issues an endorsement and (if material) charges a pro-rata additional premium.
 
 ### The Step-by-Step
 
@@ -57,7 +57,7 @@ Your endorsement is the legal proof of cover. Save it in the employee's HR file.
 
 1. **Assuming the policy "covers everyone automatically" without notifying the insurer.** True for annual EAE policies *only if* your declared EAE and occupation class still cover the new hire. If you've added a delivery rider to an "office-only" policy, it doesn't.
 2. **Misclassifying manual work as non-manual.** A barista is manual. A warehouse picker is manual. A "junior assistant" who lifts boxes is manual. If in doubt, treat as manual - the salary threshold doesn't apply.
-3. **Forgetting platform workers.** Since 1 January 2025, platform operators must purchase WIC insurance for platform workers (Platform Workers Act 2024). Different policy form - check with your IFA.
+3. **Forgetting platform workers.** Since 1 January 2025, platform operators must purchase WIC insurance for platform workers (Platform Workers Act 2024). Different policy form - check with your licensed adviser.
 4. **Adding staff after a contract starts.** WICA cover should be in force on Day 1. A worker injured on Day 1 with no policy in force still triggers your statutory liability - you'd pay out of pocket.
 5. **Not updating EAE at year-end.** Leads to non-disclosure and possible recovery action.
 
@@ -65,8 +65,8 @@ Your endorsement is the legal proof of cover. Save it in the employee's HR file.
 
 WICA is one of the few insurances where the policy administration *follows* hiring, not the other way around. Build the workflow:
 
-1. **HR signs offer letter** → triggers a notification to broker/IFA with the data above.
-2. **Broker/IFA confirms endorsement and additional premium** within 5 working days.
+1. **HR signs offer letter** -> triggers a notification to broker/licensed adviser with the data above.
+2. **Broker/licensed adviser confirms endorsement and additional premium** within 5 working days.
 3. **HR files endorsement** in the employee's record.
 4. **At policy renewal** , HR pulls actual annual earnings (CPF + cash wages) for the year and declares them honestly.
 

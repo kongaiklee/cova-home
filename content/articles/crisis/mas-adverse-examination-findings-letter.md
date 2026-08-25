@@ -48,7 +48,7 @@ Per [MAS Enforcement Report 2023/2024 (released 14 April 2025)](https://www.mas.
 - [Banking Act 1970](https://sso.agc.gov.sg/Act/BA1970) - for banks
 
 **Key MAS Notices:**
-- [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) - exemption for introducer activity (the Covarage framework)
+- [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) - exemption for introducer activity
 - Notice FAA-N06 - AML/CFT for FAs
 - Notice FAA-N17 - Reporting of Suspicious Activities and Incidents of Fraud
 - Notice FSM-N05 (effective 10 May 2024) - Technology Risk Management; 1-hour incident notification

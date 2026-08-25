@@ -122,17 +122,17 @@ For F&B operators, importers, and manufacturers selling consumables, the gap bet
 #### Case study illustrations
 
 **F&B operator with combined PL/Product:**
-- Customer slips at the entrance during normal service hours → PL responds
-- Customer hospitalised from food poisoning after eating at the restaurant → Product Liability responds (food is a product, even consumed on premises)
+- Customer slips at the entrance during normal service hours -> PL responds
+- Customer hospitalised from food poisoning after eating at the restaurant -> Product Liability responds (food is a product, even consumed on premises)
 - Both claims could exhaust the per-occurrence limit; aggregate matters
 
 **Renovation contractor with PL only (no Product cover):**
-- Workman damages client's flooring during installation → PL responds
-- Cabinet installed by the contractor falls 6 months later, injures occupant → Product Liability would respond, but if the policy is PL-only, claim is uncovered
+- Workman damages client's flooring during installation -> PL responds
+- Cabinet installed by the contractor falls 6 months later, injures occupant -> Product Liability would respond, but if the policy is PL-only, claim is uncovered
 - For contractors installing fixed products, the boundary between "operations" and "product" matters; some wordings have "completed operations" extensions to handle this
 
 **Importer selling on Shopify globally:**
-- US customer claims product caused injury → Product Liability responds *only if* USA territorial cover is in place
+- US customer claims product caused injury -> Product Liability responds *only if* USA territorial cover is in place
 - Without USA endorsement: uncovered, potentially exposed to US legal system
 
 ### Common Mistakes / What Goes Wrong

@@ -117,15 +117,15 @@ Different regulators notify differently:
 
 The relevant insurance depends on the complaint type:
 
-- **PDPA complaint** → Cyber Liability typically responds (if held)
-- **Medical complaint** → Medical Indemnity / PI
-- **Legal complaint** → Lawyers PI
-- **Architect / PE complaint** → Professional PI
-- **Employment complaint** → EPL or D&O (depending on nature)
-- **WSH complaint** → D&O for governance, WICA for injury
-- **Financial services complaint** → D&O, possibly PI
-- **Food safety complaint** → Product Liability for injury, PL for premises issues, possibly D&O for governance angle
-- **Consumer protection complaint** → various depending on issue
+- **PDPA complaint** -> Cyber Liability typically responds (if held)
+- **Medical complaint** -> Medical Indemnity / PI
+- **Legal complaint** -> Lawyers PI
+- **Architect / PE complaint** -> Professional PI
+- **Employment complaint** -> EPL or D&O (depending on nature)
+- **WSH complaint** -> D&O for governance, WICA for injury
+- **Financial services complaint** -> D&O, possibly PI
+- **Food safety complaint** -> Product Liability for injury, PL for premises issues, possibly D&O for governance angle
+- **Consumer protection complaint** -> various depending on issue
 
 Notify within policy windows. Initial notification with available information; updates as inquiry develops.
 

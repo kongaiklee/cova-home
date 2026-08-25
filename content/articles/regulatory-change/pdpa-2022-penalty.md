@@ -67,7 +67,7 @@ Standard policy wordings typically cover:
 - Third-party liability for affected individuals;
 - Business interruption from cyber events.
 
-Whether the **financial penalty itself** is insurable is a wording-dependent question. Some insurers exclude regulatory fines outright; others cover them where insurable by law. Singapore law does not have a clear statutory bar on insuring PDPA penalties, but public-policy considerations may apply. This is exactly the kind of question to put to a licensed IFA before assuming "I have cyber, I'm covered."
+Whether the **financial penalty itself** is insurable is a wording-dependent question. Some insurers exclude regulatory fines outright; others cover them where insurable by law. Singapore law does not have a clear statutory bar on insuring PDPA penalties, but public-policy considerations may apply. This is exactly the kind of question to put to a licensed adviser before assuming "I have cyber, I'm covered."
 
 ## What This Means for Your Business
 
@@ -77,7 +77,7 @@ Three practical points.
 
 **Your incident-response plan must hit the 3-day window.** That means pre-drafted notification templates, a named decision-maker, current legal counsel contact details, and a forensics provider on retainer.
 
-**Your cyber insurance wording matters more than the brand.** Whether your policy responds to a regulatory penalty, breach notification cost, or third-party class action depends on the specific wording. An IFA on the Covarage platform can match the wording to your data footprint, sectoral exposure and regulatory profile.
+**Your cyber insurance wording matters more than the brand.** Whether your policy responds to a regulatory penalty, breach notification cost, or third-party class action depends on the specific wording. An licensed adviser on the Covarage platform can match the wording to your data footprint, sectoral exposure and regulatory profile.
 
 ## Questions to Ask Your Adviser
 

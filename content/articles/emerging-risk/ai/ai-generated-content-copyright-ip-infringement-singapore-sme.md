@@ -28,7 +28,7 @@ When OpenAI rolled out the GPT-4o native image generator on 25 March 2025, Singa
 
 This article is about that demand letter. It is article 415 in the Covarage Emerging Risk / AI series. It covers AI-generated content copyright and IP infringement risk for Singapore SMEs, framed as a Media Liability, Intellectual Property Liability, Professional Indemnity (PI) and Technology Errors & Omissions (Tech E&O) insurance issue. The companion articles in this same-day cluster cover regulatory anchors (article 411), chatbot misrepresentation (412), deepfake funds-transfer fraud (414), AI bias in hiring (416) and AI-generated code security (417). All of them sit at /emerging-risk/ai/ on covarage.com.
 
-Two threshold disclosures up front. Covarage does not advise on, recommend, rank or arrange insurance. We provide factual information sourced from primary regulators and route SMEs to licensed Independent Financial Advisers (IFAs) and brokers. Second, every regulatory claim, statutory section, court case and product detail below is linked to a primary source. Where Singapore-specific data does not yet exist, we say so and pivot to the closest comparable jurisdiction.
+Two threshold disclosures up front. Covarage does not advise on, recommend, rank or arrange insurance. We provide factual information sourced from primary regulators and route SMEs to licensed advisers and brokers. Second, every regulatory claim, statutory section, court case and product detail below is linked to a primary source. Where Singapore-specific data does not yet exist, we say so and pivot to the closest comparable jurisdiction.
 
 ## Key Findings
 
@@ -185,7 +185,7 @@ Stage the work in three blocks. The benchmarks below are the triggers that shoul
 - Update client master service agreements to push back IP indemnities and to limit the agency's liability for outputs the client directs.
 
 **At your next renewal - insurance.**
-- Ask your broker or IFA to confirm in writing whether AI-generated content is covered under your existing Media Liability, PI and Tech E&O policies.
+- Ask your broker or licensed adviser to confirm in writing whether AI-generated content is covered under your existing Media Liability, PI and Tech E&O policies.
 - Request an affirmative AI endorsement (e.g., AXA XL CyberRiskConnect Generative AI endorsement) where capacity allows.
 - Use the Marsh GIMI Q1 2026 -5% Asia signal to ask for higher IP sub-limits, broader retro dates, and removal of any "silent AI" exclusions inserted in the last 12 months.
 
@@ -215,7 +215,6 @@ Stage the work in three blocks. The benchmarks below are the triggers that shoul
 7. If we receive a cease-and-desist or DMCA-style takedown notice on AI-generated content, what is the policy notice trigger - is the takedown letter itself a "claim" or does the policy require a formal demand for damages?
 8. Given the Marsh Q1 2026 Asia financial-and-professional-lines decline of 7%, are there broader coverage extensions or higher limits available at our next renewal that we should be exploring?
 
-****[Match with a licensed IFA →]****
 
 ## Related Information
 

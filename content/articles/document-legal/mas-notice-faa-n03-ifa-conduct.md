@@ -20,11 +20,11 @@ og_description: "MAS Notice FAA-N03 - issued under the Financial Advisers Act 20
 
 > **The Answer in 60 Seconds**
 >
-> [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices) - issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) - establishes information disclosure requirements for licensed financial advisers (FAs), including Independent Financial Advisers (IFAs) selling insurance to SME and individual buyers. Combined with related notices including [FAA-N16](https://www.mas.gov.sg/regulation/notices) (recommendations on investment products) and the underlying [FAA Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2), this framework imposes specific conduct obligations on IFAs: **disclosure of remuneration**, **suitability assessment** for products recommended, **documentation of advice**, **specific representation and selling restrictions**, and **complaint resolution mechanisms**. For SME insurance buyers, this means: licensed IFAs must adhere to specific standards when advising on insurance, and these standards form the basis for accountability if advice proves inadequate. Verify current notices on the [MAS regulation page](https://www.mas.gov.sg/regulation) - notices are amended periodically.
+> [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices) - issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) - establishes information disclosure requirements for licensed financial advisers (FAs), including licensed advisers selling insurance to SME and individual buyers. Combined with related notices including [FAA-N16](https://www.mas.gov.sg/regulation/notices) (recommendations on investment products) and the underlying [FAA Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2), this framework imposes specific conduct obligations on licensed advisers: **disclosure of remuneration**, **suitability assessment** for products recommended, **documentation of advice**, **specific representation and selling restrictions**, and **complaint resolution mechanisms**. For SME insurance buyers, this means: licensed advisers must adhere to specific standards when advising on insurance, and these standards form the basis for accountability if advice proves inadequate. Verify current notices on the [MAS regulation page](https://www.mas.gov.sg/regulation) - notices are amended periodically.
 
 ### The Sourced Detail
 
-For SME founders evaluating insurance advisers, understanding the regulatory framework that applies to IFAs explains both the protections that exist and the standards that licensed advisers must meet. The framework is more developed for life insurance and investment products than for pure general insurance, but key principles apply across.
+For SME founders evaluating insurance advisers, understanding the regulatory framework that applies to licensed advisers explains both the protections that exist and the standards that licensed advisers must meet. The framework is more developed for life insurance and investment products than for pure general insurance, but key principles apply across.
 
 #### The licensing baseline
 
@@ -43,9 +43,9 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), perso
 
 For pure insurance brokers serving commercial SMEs, additional licensing under the **Insurance Act 1966 Section 36** for insurance broking applies (see [Article 128](/document-legal/insurance-act-1966-overview)).
 
-#### What an IFA actually is in Singapore context
+#### What a licensed adviser actually is in Singapore context
 
-The term "Independent Financial Adviser" (IFA) typically denotes:
+The term "Independent Financial Adviser" (licensed adviser) typically denotes:
 - Licensed Financial Adviser (under FAA 2001)
 - Independent of any single insurer (i.e., not tied agent of one insurer)
 - Distributes products from multiple insurers
@@ -57,7 +57,7 @@ Distinct from:
 - **Insurance brokers** - typically commercial-focused, may serve corporate
 - **Direct insurer sales** - buying directly from insurer without intermediary
 
-For SME buyers, the IFA structure typically provides:
+For SME buyers, the licensed adviser structure typically provides:
 - Multi-insurer placement options
 - Independent advice (not tied to single insurer's products)
 - Commission-based remuneration (typically paid by insurer)
@@ -73,7 +73,7 @@ Per [FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) and [MAS Notice FAA-N16
 - Client's investment objectives
 - Risk tolerance
 
-While FAA-N16 specifically addresses investment products, the broader principle of reasonable basis applies to insurance advice. For SME insurance, this means the IFA should:
+While FAA-N16 specifically addresses investment products, the broader principle of reasonable basis applies to insurance advice. For SME insurance, this means the licensed adviser should:
 - Understand the SME's business and risk profile
 - Identify relevant exposures
 - Recommend products appropriate to the exposures
@@ -150,11 +150,11 @@ The Notice has been amended multiple times; verify current version on MAS regula
 - Documentation requirements
 - Specific product-class restrictions
 
-For SME insurance buyers, even where strict FAA-N16 doesn't apply, IFAs typically operate within similar frameworks for general insurance advice as a matter of standard practice and broader conduct expectations.
+For SME insurance buyers, even where strict FAA-N16 doesn't apply, licensed advisers typically operate within similar frameworks for general insurance advice as a matter of standard practice and broader conduct expectations.
 
 #### The complaint and dispute framework
 
-When SME insurance buyers have concerns about IFA conduct or advice:
+When SME insurance buyers have concerns about licensed adviser conduct or advice:
 
 **1. FA's own complaint process:**
 - Each FA has internal complaint handling procedures
@@ -181,14 +181,14 @@ When SME insurance buyers have concerns about IFA conduct or advice:
 
 **1. Commission disclosure transparency:**
 
-IFAs typically receive commission from insurers (rather than fees from clients). Disclosure of:
+licensed advisers typically receive commission from insurers (rather than fees from clients). Disclosure of:
 - Whether commission paid
 - Approximate amount or percentage
 - Other potential incentives (volume bonuses, etc.)
 
 **2. Conflict management:**
 
-IFAs may face conflicts of interest including:
+licensed advisers may face conflicts of interest including:
 - Differential commission across insurers
 - Volume-based incentives
 - Long-term partner relationships with specific insurers
@@ -210,9 +210,9 @@ Most regulatory framework was designed with individual consumers in mind. SME in
 - Receive less procedural protection in some scenarios
 - Generally have access to similar substantive standards
 
-#### How to assess an IFA
+#### How to assess a licensed adviser
 
-For SME buyers selecting an IFA:
+For SME buyers selecting a licensed adviser:
 
 **Verification:**
 - MAS-licensed (verify on [MAS Financial Institutions Directory](https://www.mas.gov.sg/regulation/financial-institutions-directory))
@@ -242,7 +242,7 @@ For SME buyers selecting an IFA:
 - Industry reputation
 - Specific case examples (with appropriate confidentiality)
 
-#### Specific MAS-licensed brokers and IFAs serving SMEs
+#### Specific MAS-licensed brokers and licensed advisers serving SMEs
 
 The Singapore market has multiple categories serving SMEs:
 
@@ -261,8 +261,8 @@ The Singapore market has multiple categories serving SMEs:
 - Boutique service models
 - Sometimes specialised cover expertise
 
-**IFA networks:**
-- Larger IFA firms with multiple representatives
+**licensed adviser networks:**
+- Larger licensed adviser firms with multiple representatives
 - Often more focused on personal lines + small business
 - Specific conduct framework
 
@@ -286,7 +286,7 @@ Distinct from FAs themselves, **introducers** can refer prospective clients to F
 For SME buyers, the introducer model can provide:
 - Educational content about insurance
 - Initial assessment of insurance needs
-- Referral to suitable IFA for actual advice and placement
+- Referral to suitable licensed adviser for actual advice and placement
 - Often simpler initial engagement than directly approaching a broker
 
 Covarage provides factual information about insurance topics and, on request, introduce SME buyers to a licensed insurance intermediary for advice and placement. We don't provide financial advice, don't recommend specific products, and don't handle premium or claim funds.
@@ -318,22 +318,22 @@ Verify current frameworks on [MAS regulation page](https://www.mas.gov.sg/regula
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Selecting IFA based on commission rebate or premium discount alone.** Conduct standards may be subordinated to price.
+1. **Selecting licensed adviser based on commission rebate or premium discount alone.** Conduct standards may be subordinated to price.
 2. **No documented fact-find or recommendation rationale.** No basis for accountability if advice proves inadequate.
-3. **Concentrating with single IFA without market checks.** Loss of competitive tension.
+3. **Concentrating with single licensed adviser without market checks.** Loss of competitive tension.
 4. **No annual review process.** Insurance becomes stale; gaps emerge.
-5. **Treating IFA as transactional rather than ongoing relationship.** Limits service quality.
+5. **Treating licensed adviser as transactional rather than ongoing relationship.** Limits service quality.
 6. **No FIDReC awareness when issues arise.** Free dispute resolution not utilised.
-7. **Selecting IFA without industry-specific expertise where relevant.** Generic advice for specialised SME needs.
-8. **Confused expectations around licensed IFA vs introducer vs broker.** Different roles, different services.
+7. **Selecting licensed adviser without industry-specific expertise where relevant.** Generic advice for specialised SME needs.
+8. **Confused expectations around licensed adviser vs introducer vs broker.** Different roles, different services.
 
 ### What This Means for Your Business
 
-For SME founders engaging IFAs for insurance:
+For SME founders engaging licensed advisers for insurance:
 
 1. **Verify MAS licensing.** Foundation compliance step.
 
-2. **Engage IFA appropriate to your scale and complexity.** Match to needs.
+2. **Engage licensed adviser appropriate to your scale and complexity.** Match to needs.
 
 3. **Expect documented fact-find and recommendation rationale.** Foundation of accountability.
 
@@ -343,11 +343,11 @@ For SME founders engaging IFAs for insurance:
 
 6. **Use FIDReC for eligible disputes.** Free or low-cost resolution.
 
-7. **For specialised needs (industry-specific, cross-border, complex covers), seek specialist capability.** Not all IFAs serve all needs.
+7. **For specialised needs (industry-specific, cross-border, complex covers), seek specialist capability.** Not all licensed advisers serve all needs.
 
 8. **Document your own decisions.** Decisions to accept, modify, or decline recommendations.
 
-The IFA framework provides regulatory protection and accountability. Operating within it benefits SME buyers; selecting IFAs without due consideration can create both immediate service issues and longer-term advice quality issues.
+The licensed adviser framework provides regulatory protection and accountability. Operating within it benefits SME buyers; selecting licensed advisers without due consideration can create both immediate service issues and longer-term advice quality issues.
 
 ### Questions to Ask Your Adviser
 
@@ -361,7 +361,7 @@ The IFA framework provides regulatory protection and accountability. Operating w
 ### Related Information
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
 - /comparison/broker-vs-direct
-- [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
+- [Tied Agent vs licensed adviser in Singapore](/comparison/tied-agent-vs-ifa)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 
