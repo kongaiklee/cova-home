@@ -18,8 +18,8 @@ const FOOTER_COLUMNS = [
   {
     heading: 'LEGAL',
     links: [
-      { label: 'PRIVACY POLICY', to: '#' },
-      { label: 'TERMS OF USE', to: '#' },
+      { label: 'PRIVACY POLICY', to: '/privacy' },
+      { label: 'TERMS OF USE', to: '/terms' },
     ],
   },
   {
