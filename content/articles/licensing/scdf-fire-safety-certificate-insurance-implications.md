@@ -4,6 +4,8 @@ slug: "/licensing/scdf-fire-safety-certificate-insurance-implications"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["SCDF", "Singapore Statutes", "GoBusiness", "MHA", "MAS"]
 article_number: 10
 published: "2026-05-03"
 source_verified: "2026-05-03"

@@ -4,6 +4,8 @@ slug: "/crisis/it-vendor-saas-disappearance"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire", "Professional Indemnity", "Management Liability (D&O)"]
+industries: ["Tech / startup"]
+agencies: ["Singapore Statutes", "MAS", "Courts"]
 article_number: 300
 published: "2026-05-14"
 source_verified: "2026-05-14"

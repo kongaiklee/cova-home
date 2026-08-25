@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-india-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Motor & Fleet", "Management Liability (D&O)"]
+industries: []
+agencies: ["FTA"]
 article_number: 230
 published: "2026-05-05"
 source_verified: "2026-05-05"

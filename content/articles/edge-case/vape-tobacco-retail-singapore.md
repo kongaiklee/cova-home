@@ -4,6 +4,8 @@ slug: "/edge-case/vape-tobacco-retail-singapore"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire"]
+industries: ["Retail / e-commerce"]
+agencies: ["Singapore Statutes", "HSA", "HPB"]
 article_number: 225
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/comparison/cyber-architecture-tower-vs-monoline"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Cyber"]
+industries: ["Professional services"]
+agencies: ["Singapore Statutes", "MAS", "GIA", "PDPC"]
 article_number: 278
 published: "2026-05-05"
 source_verified: "2026-05-05"

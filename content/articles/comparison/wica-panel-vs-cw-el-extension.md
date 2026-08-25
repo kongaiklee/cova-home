@@ -4,6 +4,8 @@ slug: "/comparison/wica-panel-vs-cw-el-extension"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Professional Indemnity"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 194
 published: "2026-05-05"
 source_verified: "2026-05-05"

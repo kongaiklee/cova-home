@@ -4,6 +4,8 @@ slug: "/crisis/worker-fatality-on-site"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 80
 published: "2026-05-04"
 source_verified: "2026-05-04"

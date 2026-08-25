@@ -4,6 +4,8 @@ slug: "/regulatory-change/wica-update-nov-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["MOM"]
 article_number: 11
 published: "2026-05-03"
 source_verified: "2026-05-03"

@@ -4,6 +4,8 @@ slug: "/crisis/lifting-equipment-collapse-crane-incident"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire", "Construction"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 363
 published: "2026-05-06"
 source_verified: "2026-05-06"

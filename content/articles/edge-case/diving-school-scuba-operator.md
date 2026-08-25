@@ -4,6 +4,8 @@ slug: "/edge-case/diving-school-scuba-operator"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Education"]
+agencies: ["Singapore Statutes", "MPA", "SCDF"]
 article_number: 337
 published: "2026-05-06"
 source_verified: "2026-05-06"

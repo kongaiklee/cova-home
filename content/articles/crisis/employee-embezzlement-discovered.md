@@ -4,6 +4,8 @@ slug: "/crisis/employee-embezzlement-discovered"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Fidelity"]
+industries: []
+agencies: ["SPF", "Singapore Statutes"]
 article_number: 91
 published: "2026-05-04"
 source_verified: "2026-05-04"

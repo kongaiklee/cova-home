@@ -4,6 +4,8 @@ slug: "/comparison/claims-made-vs-occurrence"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Motor & Fleet"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 64
 published: "2026-05-04"
 source_verified: "2026-05-04"

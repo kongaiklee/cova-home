@@ -4,6 +4,8 @@ slug: "/procedural-howto/cyber-ransomware-claim-process"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Cyber"]
+industries: []
+agencies: []
 article_number: 37
 published: "2026-05-03"
 source_verified: "2026-05-03"

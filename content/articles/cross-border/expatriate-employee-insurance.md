@@ -4,6 +4,8 @@ slug: "/cross-border/expatriate-employee-insurance"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Group Health"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "CPF Board", "LIA"]
 article_number: 303
 published: "2026-05-06"
 source_verified: "2026-05-06"

@@ -4,6 +4,8 @@ slug: "/edge-case/bicycle-cycling-shop-servicing"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Retail / e-commerce"]
+agencies: ["Singapore Statutes", "LTA", "SFA", "SCDF", "CUSTOMS", "IRAS", "BCA"]
 article_number: 331
 published: "2026-05-06"
 source_verified: "2026-05-06"

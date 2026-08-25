@@ -4,6 +4,8 @@ slug: "/procedural-howto/pl-claim-customer-slip-fnb"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Public Liability"]
+industries: ["F&B"]
+agencies: []
 article_number: 34
 published: "2026-05-03"
 source_verified: "2026-05-03"

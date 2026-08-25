@@ -4,6 +4,8 @@ slug: "/edge-case/tutoring-enrichment-centre-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Education"]
+agencies: ["ACRA", "CPE", "Singapore Statutes", "SSG", "MSF"]
 article_number: 104
 published: "2026-05-04"
 source_verified: "2026-05-04"

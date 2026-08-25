@@ -4,6 +4,8 @@ slug: "/crisis/tenant-caused-major-fire-landlord-sme-workflow"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Property"]
+agencies: ["Singapore Statutes", "HDB", "JTC", "SLA"]
 article_number: 295
 published: "2026-05-14"
 source_verified: "2026-05-14"

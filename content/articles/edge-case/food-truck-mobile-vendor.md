@@ -4,6 +4,8 @@ slug: "/edge-case/food-truck-mobile-vendor"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Motor & Fleet"]
+industries: ["F&B", "Logistics"]
+agencies: ["SFA", "GoBusiness", "LTA"]
 article_number: 103
 published: "2026-05-04"
 source_verified: "2026-05-04"

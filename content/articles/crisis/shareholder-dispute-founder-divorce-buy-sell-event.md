@@ -4,6 +4,8 @@ slug: "/crisis/shareholder-dispute-founder-divorce-buy-sell-event"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Management Liability (D&O)"]
+industries: ["Events"]
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 297
 published: "2026-05-14"
 source_verified: "2026-05-14"

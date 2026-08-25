@@ -4,6 +4,8 @@ slug: "/regulatory-change/cea-res-2026-changes"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Professional Indemnity"]
+industries: ["Property"]
+agencies: ["CEA", "Singapore Statutes"]
 article_number: 178
 published: "2026-05-05"
 source_verified: "2026-05-05"

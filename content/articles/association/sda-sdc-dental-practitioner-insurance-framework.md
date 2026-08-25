@@ -4,6 +4,8 @@ slug: "/association/sda-sdc-dental-practitioner-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity"]
+industries: ["Healthcare"]
+agencies: ["SDC", "Singapore Statutes", "MOH"]
 article_number: 287
 published: "2026-05-14"
 source_verified: "2026-05-14"

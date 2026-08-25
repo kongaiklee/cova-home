@@ -4,6 +4,8 @@ slug: "/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Motor & Fleet"]
+industries: []
+agencies: ["SDIC", "Singapore Statutes", "MAS"]
 article_number: 268
 published: "2026-05-14"
 source_verified: "2026-05-14"

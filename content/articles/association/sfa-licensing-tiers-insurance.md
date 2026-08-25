@@ -4,6 +4,8 @@ slug: "/association/sfa-licensing-tiers-insurance"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: ["F&B", "Professional services"]
+agencies: ["SFA", "Singapore Statutes", "GoBusiness", "NEA", "MOM", "ACRA", "IRAS", "CUSTOMS", "HSA", "ECDA"]
 article_number: 102
 published: "2026-05-04"
 source_verified: "2026-05-04"

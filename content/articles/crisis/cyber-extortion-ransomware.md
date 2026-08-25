@@ -4,6 +4,8 @@ slug: "/crisis/cyber-extortion-ransomware"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Cyber"]
+industries: []
+agencies: ["PDPC", "Singapore Statutes", "CSA", "SPF"]
 article_number: 164
 published: "2026-05-05"
 source_verified: "2026-05-05"

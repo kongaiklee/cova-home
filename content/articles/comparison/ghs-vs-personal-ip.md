@@ -4,6 +4,8 @@ slug: "/comparison/ghs-vs-personal-ip"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Group Health"]
+industries: []
+agencies: ["CPF Board", "LIA"]
 article_number: 73
 published: "2026-05-04"
 source_verified: "2026-05-04"

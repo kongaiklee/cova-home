@@ -4,6 +4,8 @@ slug: "/document-legal/wsha-section-48-director-liability"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "ACRA"]
 article_number: 118
 published: "2026-05-04"
 source_verified: "2026-05-04"

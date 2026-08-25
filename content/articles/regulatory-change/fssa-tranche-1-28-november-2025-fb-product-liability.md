@@ -4,6 +4,8 @@ slug: "/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: ["F&B", "Security / facilities"]
+agencies: ["Singapore Statutes", "SFA"]
 article_number: 390
 published: "2026-05-14"
 source_verified: "2026-05-14"

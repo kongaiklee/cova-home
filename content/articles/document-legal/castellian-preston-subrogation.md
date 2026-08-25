@@ -4,6 +4,8 @@ slug: "/document-legal/castellian-preston-subrogation"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Courts", "Singapore Statutes", "MAS", "GIA"]
 article_number: 187
 published: "2026-05-05"
 source_verified: "2026-05-05"

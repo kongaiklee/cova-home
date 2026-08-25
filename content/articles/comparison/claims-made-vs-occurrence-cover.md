@@ -4,6 +4,8 @@ slug: "/comparison/claims-made-vs-occurrence-cover"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Public Liability", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 271
 published: "2026-05-05"
 source_verified: "2026-05-05"

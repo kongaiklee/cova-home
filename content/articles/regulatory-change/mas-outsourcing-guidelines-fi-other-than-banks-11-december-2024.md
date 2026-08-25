@@ -4,6 +4,8 @@ slug: "/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-dece
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity", "Cyber"]
+industries: ["Tech / startup"]
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 382
 published: "2026-05-17"
 source_verified: "2026-05-17"

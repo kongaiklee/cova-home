@@ -4,6 +4,8 @@ slug: "/comparison/composite-management-liability-package-vs-standalone-modules-
 category: "comparison"
 intent: "make-the-call"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: []
 article_number: 393
 published: "2026-05-14"
 source_verified: "2026-05-14"

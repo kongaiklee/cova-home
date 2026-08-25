@@ -4,6 +4,8 @@ slug: "/document-legal/see-toh-siew-kee-occupiers-liability"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Public Liability"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 188
 published: "2026-05-05"
 source_verified: "2026-05-05"

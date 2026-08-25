@@ -4,6 +4,8 @@ slug: "/document-legal/limitation-act-6-year-clock"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Marine & Cargo"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 75
 published: "2026-05-04"
 source_verified: "2026-05-04"

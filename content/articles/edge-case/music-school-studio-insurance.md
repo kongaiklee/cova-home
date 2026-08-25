@@ -4,6 +4,8 @@ slug: "/edge-case/music-school-studio-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Education"]
+agencies: ["BCA", "Singapore Statutes", "ECDA"]
 article_number: 326
 published: "2026-05-06"
 source_verified: "2026-05-06"

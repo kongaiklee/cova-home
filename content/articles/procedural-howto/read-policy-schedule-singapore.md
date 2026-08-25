@@ -4,6 +4,8 @@ slug: "/procedural-howto/read-policy-schedule-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: []
 article_number: 40
 published: "2026-05-03"
 source_verified: "2026-05-03"

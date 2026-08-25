@@ -4,6 +4,8 @@ slug: "/procedural-howto/premium-financing-commercial-insurance-singapore-sme"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: []
+agencies: ["EnterpriseSG", "Singapore Statutes", "MAS"]
 article_number: 375
 published: "2026-05-07"
 source_verified: "2026-05-07"

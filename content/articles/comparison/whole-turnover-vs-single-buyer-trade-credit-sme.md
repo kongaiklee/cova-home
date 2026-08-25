@@ -4,6 +4,8 @@ slug: "/comparison/whole-turnover-vs-single-buyer-trade-credit-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Marine & Cargo"]
+industries: []
+agencies: ["GIA"]
 article_number: 399
 published: "2026-05-14"
 source_verified: "2026-05-14"

@@ -4,6 +4,8 @@ slug: "/comparison/do-vs-pi-vs-epl-coordination"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 193
 published: "2026-05-05"
 source_verified: "2026-05-05"

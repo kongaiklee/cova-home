@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-logistics-freight-forwarder-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Logistics"]
+agencies: ["CUSTOMS", "LTA", "IMDA", "Singapore Statutes", "URA", "SCDF"]
 article_number: 110
 published: "2026-05-04"
 source_verified: "2026-05-04"

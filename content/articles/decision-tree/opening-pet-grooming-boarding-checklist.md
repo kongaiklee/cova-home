@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-pet-grooming-boarding-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Property & Fire", "Professional Indemnity"]
+industries: []
+agencies: ["NPARKS", "Singapore Statutes"]
 article_number: 218
 published: "2026-05-05"
 source_verified: "2026-05-05"

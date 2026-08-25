@@ -4,6 +4,8 @@ slug: "/licensing/ecda-licensed-childcare-centre-insurance"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: ["Education"]
+agencies: ["Singapore Statutes", "ECDA", "MSF"]
 article_number: 29
 published: "2026-05-03"
 source_verified: "2026-05-03"

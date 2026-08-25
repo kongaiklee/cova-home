@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-coordinate-insurance-with-acra-strike-off-singap
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "ACRA", "MOM", "MAS"]
 article_number: 409
 published: "2026-05-14"
 source_verified: "2026-05-14"

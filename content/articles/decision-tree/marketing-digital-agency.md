@@ -4,6 +4,8 @@ slug: "/decision-tree/marketing-digital-agency"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Property & Fire", "Professional Indemnity"]
+industries: ["Tech / startup", "Professional services"]
+agencies: ["PDPC", "Singapore Statutes", "MAS", "GIA", "IPOS"]
 article_number: 244
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/wsh-penalty-doubling-2024"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Marine & Cargo"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "WSH Council"]
 article_number: 351
 published: "2026-05-06"
 source_verified: "2026-05-06"

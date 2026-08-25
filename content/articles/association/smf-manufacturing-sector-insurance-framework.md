@@ -4,6 +4,8 @@ slug: "/association/smf-manufacturing-sector-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Professional services", "Manufacturing"]
+agencies: ["Singapore Statutes"]
 article_number: 288
 published: "2026-05-14"
 source_verified: "2026-05-14"

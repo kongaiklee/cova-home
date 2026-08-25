@@ -4,6 +4,8 @@ slug: "/edge-case/drone-aerial-photography"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Professional Indemnity"]
+industries: ["Events"]
+agencies: ["CAAS", "Singapore Statutes"]
 article_number: 69
 published: "2026-05-04"
 source_verified: "2026-05-04"

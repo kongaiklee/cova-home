@@ -4,6 +4,8 @@ slug: "/document-legal/soga-1979-implied-terms"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Public Liability"]
+industries: []
+agencies: ["Singapore Statutes", "CCCS"]
 article_number: 253
 published: "2026-05-05"
 source_verified: "2026-05-05"

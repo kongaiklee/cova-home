@@ -4,6 +4,8 @@ slug: "/document-legal/standard-waiver-of-subrogation-clause"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Marine & Cargo", "Construction"]
+industries: []
+agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 260
 published: "2026-05-05"
 source_verified: "2026-05-05"

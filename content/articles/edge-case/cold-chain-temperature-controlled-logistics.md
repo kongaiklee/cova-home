@@ -4,6 +4,8 @@ slug: "/edge-case/cold-chain-temperature-controlled-logistics"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Logistics"]
+agencies: ["SFA", "HSA", "Singapore Statutes", "CUSTOMS", "NEA", "LTA"]
 article_number: 330
 published: "2026-05-06"
 source_verified: "2026-05-06"

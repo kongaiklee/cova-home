@@ -4,6 +4,8 @@ slug: "/licensing/bca-me-workhead-contractor-insurance-requirements"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Construction"]
+industries: ["Construction"]
+agencies: ["EMA", "BCA", "PEB", "MOM"]
 article_number: 22
 published: "2026-05-03"
 source_verified: "2026-05-03"

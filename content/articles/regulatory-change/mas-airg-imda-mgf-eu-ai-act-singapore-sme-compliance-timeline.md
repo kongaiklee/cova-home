@@ -4,6 +4,8 @@ slug: "/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-t
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: ["Tech / startup"]
+agencies: ["MAS", "PDPC"]
 article_number: 411
 published: "2026-05-07"
 source_verified: "2026-05-07"

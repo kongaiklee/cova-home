@@ -4,6 +4,8 @@ slug: "/crisis/internal-fraud-cfo-embezzlement-day-one-workflow"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Fidelity"]
+industries: []
+agencies: ["SPF", "Singapore Statutes", "Courts"]
 article_number: 293
 published: "2026-05-14"
 source_verified: "2026-05-14"

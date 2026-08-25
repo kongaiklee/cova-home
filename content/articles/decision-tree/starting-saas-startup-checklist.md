@@ -4,6 +4,8 @@ slug: "/decision-tree/starting-saas-startup-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Tech / startup"]
+agencies: ["Singapore Statutes"]
 article_number: 85
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "PDPC"]
 article_number: 263
 published: "2026-05-14"
 source_verified: "2026-05-14"

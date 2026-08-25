@@ -4,6 +4,8 @@ slug: "/document-legal/mas-guidelines-on-outsourcing"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Professional Indemnity", "Cyber"]
+industries: []
+agencies: ["MAS"]
 article_number: 139
 published: "2026-05-05"
 source_verified: "2026-05-05"

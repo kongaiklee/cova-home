@@ -4,6 +4,8 @@ slug: "/procedural-howto/group-term-life-claim-process"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Group Health"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "LIA"]
 article_number: 203
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/crisis/key-supplier-insolvency-contingent-bi-trigger"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire", "Marine & Cargo", "Construction"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 292
 published: "2026-05-14"
 source_verified: "2026-05-14"

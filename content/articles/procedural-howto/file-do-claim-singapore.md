@@ -4,6 +4,8 @@ slug: "/procedural-howto/file-do-claim-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 108
 published: "2026-05-04"
 source_verified: "2026-05-04"

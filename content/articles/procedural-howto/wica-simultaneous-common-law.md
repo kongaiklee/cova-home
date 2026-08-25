@@ -4,6 +4,8 @@ slug: "/procedural-howto/wica-simultaneous-common-law"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["MOM"]
 article_number: 55
 published: "2026-05-04"
 source_verified: "2026-05-04"

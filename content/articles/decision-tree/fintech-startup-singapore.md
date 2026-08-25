@@ -4,6 +4,8 @@ slug: "/decision-tree/fintech-startup-singapore"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: ["Tech / startup"]
+agencies: ["Singapore Statutes", "MAS"]
 article_number: 249
 published: "2026-05-05"
 source_verified: "2026-05-05"

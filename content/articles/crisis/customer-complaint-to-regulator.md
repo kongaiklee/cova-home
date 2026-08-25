@@ -4,6 +4,8 @@ slug: "/crisis/customer-complaint-to-regulator"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Cyber"]
+industries: []
+agencies: ["PDPC", "SMC", "SFA", "HSA", "MOM", "CCCS", "Singapore Statutes"]
 article_number: 106
 published: "2026-05-04"
 source_verified: "2026-05-04"

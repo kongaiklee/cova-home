@@ -4,6 +4,8 @@ slug: "/crisis/mom-workplace-incident-investigation"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Work Injury (WICA)", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 165
 published: "2026-05-05"
 source_verified: "2026-05-05"

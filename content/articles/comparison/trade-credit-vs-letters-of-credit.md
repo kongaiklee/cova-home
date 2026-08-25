@@ -4,6 +4,8 @@ slug: "/comparison/trade-credit-vs-letters-of-credit"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 199
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Foreign Workers"]
+industries: ["Healthcare", "Foreign workers"]
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 352
 published: "2026-05-06"
 source_verified: "2026-05-06"

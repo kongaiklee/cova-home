@@ -4,6 +4,8 @@ slug: "/crisis/ransomware-active-negotiation-phase"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire", "Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "CSA"]
 article_number: 365
 published: "2026-05-06"
 source_verified: "2026-05-06"

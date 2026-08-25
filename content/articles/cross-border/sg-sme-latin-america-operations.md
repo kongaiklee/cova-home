@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-latin-america-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: []
+agencies: []
 article_number: 239
 published: "2026-05-05"
 source_verified: "2026-05-05"

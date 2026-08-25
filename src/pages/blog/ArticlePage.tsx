@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom';
 import { relatedArticles, type Article } from '../../content/articles';
 import { INTENT_BY_ID } from '../../content/intents';
 import Seo, { SITE_URL } from '../../components/Seo';
+import { agencyLinks, valueSlug } from '../../content/facets';
 import { ArticleTile } from './ArticleCard';
 import { formatDate, readingTime } from './util';
 
@@ -53,6 +54,9 @@ export default function ArticlePage({ article }: { article: Article }) {
   const intent = INTENT_BY_ID[frontmatter.intent];
   const related = relatedArticles(frontmatter.slug);
   const topics = frontmatter.topics.filter((t) => t !== 'General');
+  const industries = frontmatter.industries ?? [];
+  // derived from the body so the link is one the article actually makes
+  const agencies = agencyLinks(body);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -104,17 +108,49 @@ export default function ArticlePage({ article }: { article: Article }) {
           <span>{readingTime(frontmatter.word_count)}</span>
         </div>
 
-        {topics.length > 0 && (
+        {(topics.length > 0 || industries.length > 0) && (
           <div className="mt-3 flex flex-wrap gap-2">
             {topics.map((t) => (
-              <span
+              <Link
                 key={t}
-                className="rounded-full bg-primary/10 px-2.5 py-1 text-xs font-medium text-primary"
+                to={`/blog?policy=${valueSlug('policy', t)}`}
+                className="rounded-full bg-primary/10 px-2.5 py-1 text-xs font-medium text-primary hover:bg-primary/20"
               >
                 {t}
-              </span>
+              </Link>
+            ))}
+            {industries.map((t) => (
+              <Link
+                key={t}
+                to={`/blog?industry=${valueSlug('industry', t)}`}
+                className="rounded-full border border-border-primary px-2.5 py-1 text-xs font-medium text-text-primary hover:border-primary"
+              >
+                {t}
+              </Link>
             ))}
           </div>
+        )}
+
+        {/* The agency tag IS the backlink: each one is the first page on that agency's host that
+            this article cites, so the proof is one click away (Kong, 2026-08-26). Derived from
+            the body at render time with the same host map the generator uses. */}
+        {agencies.length > 0 && (
+          <p className="mt-3 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-text-secondary" data-agencies>
+            <span>Cites</span>
+            {agencies.map((g) => (
+              <a
+                key={g.name}
+                href={g.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded-full border border-border-primary px-2.5 py-1 font-medium text-text-primary hover:border-primary"
+                title={g.url}
+              >
+                {g.name}
+                <span className="ml-1 font-normal text-text-secondary">{g.count}</span>
+              </a>
+            ))}
+          </p>
         )}
 
         <img

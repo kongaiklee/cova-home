@@ -5,6 +5,8 @@ category: "emerging-risk"
 subcategory: "ai"
 intent: "beyond-the-basics"
 topics: ["Professional Indemnity", "Cyber"]
+industries: ["Tech / startup", "Security / facilities"]
+agencies: ["CSA", "Singapore Statutes", "Courts", "IMDA", "MAS"]
 article_number: 417
 published: "2026-05-08"
 source_verified: "2026-05-08"

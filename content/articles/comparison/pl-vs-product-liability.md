@@ -4,6 +4,8 @@ slug: "/comparison/pl-vs-product-liability"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Public Liability"]
+industries: []
+agencies: ["GIA", "Singapore Statutes"]
 article_number: 70
 published: "2026-05-04"
 source_verified: "2026-05-04"

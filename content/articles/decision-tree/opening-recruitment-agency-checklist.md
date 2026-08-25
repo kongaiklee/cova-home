@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-recruitment-agency-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Public Liability"]
+industries: ["Professional services"]
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 112
 published: "2026-05-04"
 source_verified: "2026-05-04"

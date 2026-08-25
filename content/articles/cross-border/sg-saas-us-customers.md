@@ -4,6 +4,8 @@ slug: "/cross-border/sg-saas-us-customers"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: ["Tech / startup"]
+agencies: []
 article_number: 87
 published: "2026-05-04"
 source_verified: "2026-05-04"

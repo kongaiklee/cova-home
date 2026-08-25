@@ -4,6 +4,8 @@ slug: "/comparison/cyber-tower-follow-form-mechanics"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "PDPC"]
 article_number: 197
 published: "2026-05-05"
 source_verified: "2026-05-05"

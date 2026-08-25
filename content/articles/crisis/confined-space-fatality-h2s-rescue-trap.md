@@ -4,6 +4,8 @@ slug: "/crisis/confined-space-fatality-h2s-rescue-trap"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Work Injury (WICA)", "Public Liability", "Management Liability (D&O)"]
+industries: []
+agencies: ["MSE", "Singapore Statutes"]
 article_number: 362
 published: "2026-05-06"
 source_verified: "2026-05-06"

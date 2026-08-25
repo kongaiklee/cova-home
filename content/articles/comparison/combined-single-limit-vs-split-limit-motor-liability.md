@@ -4,6 +4,8 @@ slug: "/comparison/combined-single-limit-vs-split-limit-motor-liability"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Public Liability", "Motor & Fleet"]
+industries: []
+agencies: ["Singapore Statutes", "GIA", "Courts"]
 article_number: 276
 published: "2026-05-14"
 source_verified: "2026-05-14"

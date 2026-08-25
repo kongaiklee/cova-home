@@ -4,6 +4,8 @@ slug: "/crisis/customer-just-sued"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 82
 published: "2026-05-04"
 source_verified: "2026-05-04"

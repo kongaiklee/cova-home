@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-physiotherapy-allied-health-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Healthcare"]
+agencies: ["MOH", "Singapore Statutes"]
 article_number: 132
 published: "2026-05-05"
 source_verified: "2026-05-05"

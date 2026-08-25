@@ -4,6 +4,8 @@ slug: "/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Motor & Fleet"]
+industries: ["Logistics"]
+agencies: ["LTA", "Singapore Statutes"]
 article_number: 396
 published: "2026-05-14"
 source_verified: "2026-05-14"

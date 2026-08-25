@@ -5,6 +5,8 @@ category: "emerging-risk"
 subcategory: "ai"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: ["Tech / startup"]
+agencies: ["Courts", "Singapore Statutes", "CCS", "PDPC"]
 article_number: 412
 published: "2026-05-08"
 source_verified: "2026-05-08"

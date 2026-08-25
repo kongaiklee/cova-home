@@ -4,6 +4,8 @@ slug: "/regulatory-change/mas-faa-n16-n20-updates"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 177
 published: "2026-05-05"
 source_verified: "2026-05-05"

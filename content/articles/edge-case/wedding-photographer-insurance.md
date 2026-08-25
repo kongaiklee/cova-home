@@ -4,6 +4,8 @@ slug: "/edge-case/wedding-photographer-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Marine & Cargo"]
+industries: ["Events"]
+agencies: ["Singapore Statutes", "CAAS"]
 article_number: 113
 published: "2026-05-04"
 source_verified: "2026-05-04"

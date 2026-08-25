@@ -4,6 +4,8 @@ slug: "/comparison/bi-deductible-structures"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 195
 published: "2026-05-05"
 source_verified: "2026-05-05"

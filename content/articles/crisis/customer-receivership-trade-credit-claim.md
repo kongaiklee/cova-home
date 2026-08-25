@@ -4,6 +4,8 @@ slug: "/crisis/customer-receivership-trade-credit-claim"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MinLaw", "EnterpriseSG", "Courts"]
 article_number: 369
 published: "2026-05-06"
 source_verified: "2026-05-06"

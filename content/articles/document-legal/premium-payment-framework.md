@@ -4,6 +4,8 @@ slug: "/document-legal/premium-payment-framework"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["GIA", "MAS"]
 article_number: 251
 published: "2026-05-05"
 source_verified: "2026-05-05"

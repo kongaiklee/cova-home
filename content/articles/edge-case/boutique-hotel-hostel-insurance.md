@@ -4,6 +4,8 @@ slug: "/edge-case/boutique-hotel-hostel-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Hospitality / travel"]
+agencies: ["Singapore Statutes", "HLB", "BCA", "SFA", "ICA"]
 article_number: 324
 published: "2026-05-06"
 source_verified: "2026-05-06"

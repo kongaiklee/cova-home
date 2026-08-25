@@ -4,6 +4,8 @@ slug: "/edge-case/cleanroom-specialty-manufacturing"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Property & Fire", "Marine & Cargo"]
+industries: ["Manufacturing"]
+agencies: ["HSA", "SFA", "EnterpriseSG", "BCA", "SCDF", "Singapore Statutes", "NEA", "CUSTOMS"]
 article_number: 339
 published: "2026-05-06"
 source_verified: "2026-05-06"

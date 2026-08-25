@@ -4,6 +4,8 @@ slug: "/regulatory-change/s-pass-tier-1-levy-harmonisation-1-september-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Foreign Workers"]
+industries: ["Foreign workers"]
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 381
 published: "2026-05-07"
 source_verified: "2026-05-07"

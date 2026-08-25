@@ -4,6 +4,8 @@ slug: "/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Property & Fire", "Construction"]
+industries: ["Construction", "Property"]
+agencies: ["Singapore Statutes", "HDB"]
 article_number: 379
 published: "2026-05-17"
 source_verified: "2026-05-17"

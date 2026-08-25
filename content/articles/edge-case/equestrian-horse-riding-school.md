@@ -4,6 +4,8 @@ slug: "/edge-case/equestrian-horse-riding-school"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Education"]
+agencies: ["NPARKS", "Singapore Statutes"]
 article_number: 335
 published: "2026-05-06"
 source_verified: "2026-05-06"

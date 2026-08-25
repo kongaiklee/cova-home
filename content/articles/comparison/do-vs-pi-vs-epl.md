@@ -4,6 +4,8 @@ slug: "/comparison/do-vs-pi-vs-epl"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "SMC"]
 article_number: 71
 published: "2026-05-04"
 source_verified: "2026-05-04"

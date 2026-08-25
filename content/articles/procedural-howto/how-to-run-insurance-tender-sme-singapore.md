@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-run-insurance-tender-sme-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes", "MOM"]
 article_number: 403
 published: "2026-05-14"
 source_verified: "2026-05-14"

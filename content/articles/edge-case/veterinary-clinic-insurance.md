@@ -4,6 +4,8 @@ slug: "/edge-case/veterinary-clinic-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Healthcare"]
+agencies: ["Singapore Statutes", "NPARKS", "HSA"]
 article_number: 322
 published: "2026-05-06"
 source_verified: "2026-05-06"

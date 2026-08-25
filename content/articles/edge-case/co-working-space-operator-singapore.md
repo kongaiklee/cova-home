@@ -4,6 +4,8 @@ slug: "/edge-case/co-working-space-operator-singapore"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA", "PDPC", "SCDF"]
 article_number: 228
 published: "2026-05-05"
 source_verified: "2026-05-05"

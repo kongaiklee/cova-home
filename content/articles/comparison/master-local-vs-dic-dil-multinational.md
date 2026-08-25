@@ -4,6 +4,8 @@ slug: "/comparison/master-local-vs-dic-dil-multinational"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS"]
 article_number: 190
 published: "2026-05-05"
 source_verified: "2026-05-05"

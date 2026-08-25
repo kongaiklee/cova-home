@@ -4,6 +4,8 @@ slug: "/edge-case/medical-aesthetics-injectables-clinics"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Management Liability (D&O)"]
+industries: ["Healthcare"]
+agencies: ["Singapore Statutes", "MOH"]
 article_number: 221
 published: "2026-05-05"
 source_verified: "2026-05-05"

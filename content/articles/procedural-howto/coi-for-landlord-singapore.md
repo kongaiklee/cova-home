@@ -4,6 +4,8 @@ slug: "/procedural-howto/coi-for-landlord-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability"]
+industries: ["Property"]
+agencies: []
 article_number: 39
 published: "2026-05-03"
 source_verified: "2026-05-03"

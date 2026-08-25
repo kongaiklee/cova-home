@@ -4,6 +4,8 @@ slug: "/edge-case/art-conservator-restoration-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "NHB", "CUSTOMS"]
 article_number: 114
 published: "2026-05-04"
 source_verified: "2026-05-04"

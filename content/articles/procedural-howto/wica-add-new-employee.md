@@ -4,6 +4,8 @@ slug: "/procedural-howto/wica-add-new-employee"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: []
 article_number: 35
 published: "2026-05-03"
 source_verified: "2026-05-03"

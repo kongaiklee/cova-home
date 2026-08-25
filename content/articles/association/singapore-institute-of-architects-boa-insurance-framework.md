@@ -4,6 +4,8 @@ slug: "/association/singapore-institute-of-architects-boa-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity", "Construction"]
+industries: ["Professional services"]
+agencies: ["BOA", "Singapore Statutes"]
 article_number: 281
 published: "2026-05-14"
 source_verified: "2026-05-14"

@@ -4,6 +4,8 @@ slug: "/decision-tree/ecommerce-dropshipping-operator"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Property & Fire", "Marine & Cargo"]
+industries: ["Maritime / cargo", "Retail / e-commerce", "Tech / startup"]
+agencies: ["CUSTOMS", "PDPC", "Singapore Statutes", "Courts"]
 article_number: 240
 published: "2026-05-05"
 source_verified: "2026-05-05"

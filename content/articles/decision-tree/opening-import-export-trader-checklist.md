@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-import-export-trader-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["ACRA", "CUSTOMS", "Singapore Statutes", "HSA", "SFA"]
 article_number: 161
 published: "2026-05-05"
 source_verified: "2026-05-05"

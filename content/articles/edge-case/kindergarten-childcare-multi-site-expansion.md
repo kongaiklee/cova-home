@@ -4,6 +4,8 @@ slug: "/edge-case/kindergarten-childcare-multi-site-expansion"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Management Liability (D&O)"]
+industries: ["Education"]
+agencies: ["ECDA", "Singapore Statutes", "MAS", "GIA", "MSF"]
 article_number: 229
 published: "2026-05-05"
 source_verified: "2026-05-05"

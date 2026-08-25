@@ -4,6 +4,8 @@ slug: "/procedural-howto/group-medical-outpatient-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Foreign Workers", "Group Health"]
+industries: ["Healthcare"]
+agencies: ["MOM"]
 article_number: 53
 published: "2026-05-04"
 source_verified: "2026-05-04"

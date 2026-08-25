@@ -4,6 +4,8 @@ slug: "/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["GIA", "MPA", "Singapore Statutes"]
 article_number: 397
 published: "2026-05-14"
 source_verified: "2026-05-14"

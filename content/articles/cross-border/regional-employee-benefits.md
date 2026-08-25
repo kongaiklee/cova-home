@@ -4,6 +4,8 @@ slug: "/cross-border/regional-employee-benefits"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Group Health"]
+industries: []
+agencies: ["CPF Board", "MOH", "Singapore Statutes", "MOM"]
 article_number: 310
 published: "2026-05-06"
 source_verified: "2026-05-06"

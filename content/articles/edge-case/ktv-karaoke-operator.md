@@ -4,6 +4,8 @@ slug: "/edge-case/ktv-karaoke-operator"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "SPF", "SCDF", "SFA", "URA", "NEA", "MOM", "PDPC"]
 article_number: 316
 published: "2026-05-06"
 source_verified: "2026-05-06"

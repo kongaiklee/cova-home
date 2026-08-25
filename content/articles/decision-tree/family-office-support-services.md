@@ -4,6 +4,8 @@ slug: "/decision-tree/family-office-support-services"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: ["Tech / startup"]
+agencies: ["MAS", "Singapore Statutes", "GIA", "PDPC"]
 article_number: 243
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-interior-design-renovation-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Construction"]
+agencies: ["ACRA", "BCA", "HDB", "URA", "SCDF", "EMA", "PUB"]
 article_number: 140
 published: "2026-05-05"
 source_verified: "2026-05-05"

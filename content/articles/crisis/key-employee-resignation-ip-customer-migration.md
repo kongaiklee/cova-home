@@ -4,6 +4,8 @@ slug: "/crisis/key-employee-resignation-ip-customer-migration"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Cyber", "Fidelity"]
+industries: []
+agencies: ["Courts", "Singapore Statutes"]
 article_number: 115
 published: "2026-05-04"
 source_verified: "2026-05-04"

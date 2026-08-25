@@ -4,6 +4,8 @@ slug: "/regulatory-change/wica-2025-limit-increase-claim-patterns"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 173
 published: "2026-05-05"
 source_verified: "2026-05-05"

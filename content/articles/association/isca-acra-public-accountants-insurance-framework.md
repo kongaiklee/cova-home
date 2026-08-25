@@ -4,6 +4,8 @@ slug: "/association/isca-acra-public-accountants-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity"]
+industries: ["Professional services"]
+agencies: ["ACRA", "Singapore Statutes"]
 article_number: 284
 published: "2026-05-14"
 source_verified: "2026-05-14"

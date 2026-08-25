@@ -4,6 +4,8 @@ slug: "/comparison/defense-costs-inside-vs-outside-limits-liability"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Public Liability", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 273
 published: "2026-05-14"
 source_verified: "2026-05-14"

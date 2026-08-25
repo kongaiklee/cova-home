@@ -4,6 +4,8 @@ slug: "/regulatory-change/scdf-fc-3-year-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["SCDF", "Singapore Statutes", "GoBusiness"]
 article_number: 20
 published: "2026-05-03"
 source_verified: "2026-05-03"

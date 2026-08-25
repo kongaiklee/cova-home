@@ -4,6 +4,8 @@ slug: "/procedural-howto/complete-proposal-form"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 50
 published: "2026-05-04"
 source_verified: "2026-05-04"

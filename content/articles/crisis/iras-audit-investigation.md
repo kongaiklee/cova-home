@@ -4,6 +4,8 @@ slug: "/crisis/iras-audit-investigation"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "IRAS"]
 article_number: 156
 published: "2026-05-05"
 source_verified: "2026-05-05"

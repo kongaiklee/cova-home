@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-handle-renewal-with-claims-history-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Group Health"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "MOM"]
 article_number: 350
 published: "2026-05-06"
 source_verified: "2026-05-06"

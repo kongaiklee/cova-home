@@ -4,6 +4,8 @@ slug: "/edge-case/bridal-salon-dress-rental"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Beauty / wellness"]
+agencies: ["ACRA", "URA", "SCDF", "NEA", "CCCS", "Singapore Statutes", "PDPC"]
 article_number: 317
 published: "2026-05-06"
 source_verified: "2026-05-06"

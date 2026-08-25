@@ -4,6 +4,8 @@ slug: "/procedural-howto/pl-claim-event-slip-fall"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Public Liability"]
+industries: ["Events"]
+agencies: ["Courts", "GIA"]
 article_number: 54
 published: "2026-05-04"
 source_verified: "2026-05-04"

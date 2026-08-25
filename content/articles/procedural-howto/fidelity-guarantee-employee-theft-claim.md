@@ -4,6 +4,8 @@ slug: "/procedural-howto/fidelity-guarantee-employee-theft-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Fidelity"]
+industries: []
+agencies: []
 article_number: 48
 published: "2026-05-04"
 source_verified: "2026-05-04"

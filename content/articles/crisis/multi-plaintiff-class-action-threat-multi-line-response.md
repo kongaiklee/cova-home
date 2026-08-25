@@ -4,6 +4,8 @@ slug: "/crisis/multi-plaintiff-class-action-threat-multi-line-response"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Public Liability", "Property & Fire", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 294
 published: "2026-05-14"
 source_verified: "2026-05-14"

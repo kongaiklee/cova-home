@@ -4,6 +4,8 @@ slug: "/edge-case/vending-machine-operator-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Cyber"]
+industries: []
+agencies: ["SFA", "HSA", "Singapore Statutes", "MAS", "GIA"]
 article_number: 224
 published: "2026-05-05"
 source_verified: "2026-05-05"

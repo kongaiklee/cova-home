@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-malaysia-branch"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "LTA", "MAS"]
 article_number: 86
 published: "2026-05-04"
 source_verified: "2026-05-04"

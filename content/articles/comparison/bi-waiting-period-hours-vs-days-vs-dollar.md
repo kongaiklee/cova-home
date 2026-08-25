@@ -4,6 +4,8 @@ slug: "/comparison/bi-waiting-period-hours-vs-days-vs-dollar"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 277
 published: "2026-05-14"
 source_verified: "2026-05-14"

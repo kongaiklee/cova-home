@@ -4,6 +4,8 @@ slug: "/regulatory-change/mas-ai-risk-management-guidelines-consultation-13-nove
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: ["Tech / startup", "Professional services"]
+agencies: ["MAS", "Singapore Statutes", "PDPC"]
 article_number: 389
 published: "2026-05-14"
 source_verified: "2026-05-14"

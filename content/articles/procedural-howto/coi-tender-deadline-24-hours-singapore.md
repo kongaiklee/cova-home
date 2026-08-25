@@ -4,6 +4,8 @@ slug: "/procedural-howto/coi-tender-deadline-24-hours-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: []
+agencies: ["MOF", "BCA", "ACRA", "Singapore Statutes", "MAS"]
 article_number: 371
 published: "2026-05-07"
 source_verified: "2026-05-07"

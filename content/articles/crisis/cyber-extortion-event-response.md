@@ -4,6 +4,8 @@ slug: "/crisis/cyber-extortion-event-response"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Cyber"]
+industries: ["Events"]
+agencies: ["PDPC", "CSA", "MAS"]
 article_number: 210
 published: "2026-05-05"
 source_verified: "2026-05-05"

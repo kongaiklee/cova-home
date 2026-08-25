@@ -4,6 +4,8 @@ slug: "/procedural-howto/marine-cargo-claim-with-icc"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["Singapore Statutes"]
 article_number: 204
 published: "2026-05-05"
 source_verified: "2026-05-05"

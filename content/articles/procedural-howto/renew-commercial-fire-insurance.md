@@ -4,6 +4,8 @@ slug: "/procedural-howto/renew-commercial-fire-insurance"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire"]
+industries: []
+agencies: []
 article_number: 32
 published: "2026-05-03"
 source_verified: "2026-05-03"

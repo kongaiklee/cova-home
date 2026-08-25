@@ -4,6 +4,8 @@ slug: "/cross-border/regional-professional-indemnity"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Professional Indemnity"]
+industries: ["Professional services"]
+agencies: ["PEB", "MOH", "Singapore Statutes", "BOA", "ACRA", "CEA", "MAS"]
 article_number: 309
 published: "2026-05-06"
 source_verified: "2026-05-06"

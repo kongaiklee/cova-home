@@ -4,6 +4,8 @@ slug: "/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tor
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "TAFEP", "PARLIAMENT", "MOM"]
 article_number: 386
 published: "2026-05-14"
 source_verified: "2026-05-14"

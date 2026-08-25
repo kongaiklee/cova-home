@@ -4,6 +4,8 @@ slug: "/procedural-howto/mom-wsh-incident-reporting-eservice-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "ACRA", "GovTech"]
 article_number: 404
 published: "2026-05-08"
 source_verified: "2026-05-08"

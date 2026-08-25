@@ -4,6 +4,8 @@ slug: "/comparison/ghs-panel-insurer-comparison-singapore-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Marine & Cargo", "Group Health"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 395
 published: "2026-05-14"
 source_verified: "2026-05-14"

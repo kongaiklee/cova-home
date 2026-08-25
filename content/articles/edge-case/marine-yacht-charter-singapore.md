@@ -4,6 +4,8 @@ slug: "/edge-case/marine-yacht-charter-singapore"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["MPA", "Singapore Statutes", "MAS", "GIA"]
 article_number: 226
 published: "2026-05-05"
 source_verified: "2026-05-05"

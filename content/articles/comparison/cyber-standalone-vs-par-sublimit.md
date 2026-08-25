@@ -4,6 +4,8 @@ slug: "/comparison/cyber-standalone-vs-par-sublimit"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire", "Cyber"]
+industries: []
+agencies: ["CSA", "Singapore Statutes"]
 article_number: 72
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-gym-fitness-studio-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Beauty / wellness"]
+agencies: ["ACRA", "SCDF", "URA", "SPORTSINGAPORE", "Singapore Statutes"]
 article_number: 120
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/crisis/currency-loss-fx-hedge-failure"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Fidelity"]
+industries: []
+agencies: ["MAS", "IRAS", "Singapore Statutes", "SPF"]
 article_number: 126
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/moh-integrated-shield-rider-redesign-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Group Health"]
+industries: ["Healthcare"]
+agencies: ["MOH", "MEDISHIELDLIFE", "MAS", "Singapore Statutes", "LIA"]
 article_number: 354
 published: "2026-05-06"
 source_verified: "2026-05-06"

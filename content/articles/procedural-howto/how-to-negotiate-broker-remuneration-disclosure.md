@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-negotiate-broker-remuneration-disclosure"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Motor & Fleet", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 346
 published: "2026-05-06"
 source_verified: "2026-05-06"

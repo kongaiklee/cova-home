@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-comply-platform-workers-act-wic-insurance"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "CPF Board"]
 article_number: 344
 published: "2026-05-06"
 source_verified: "2026-05-06"

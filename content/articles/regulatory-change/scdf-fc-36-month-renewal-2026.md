@@ -4,6 +4,8 @@ slug: "/regulatory-change/scdf-fc-36-month-renewal-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["SCDF", "Singapore Statutes"]
 article_number: 174
 published: "2026-05-05"
 source_verified: "2026-05-05"

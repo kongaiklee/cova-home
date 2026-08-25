@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-coordinate-multi-policy-single-incident"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "GIA"]
 article_number: 345
 published: "2026-05-06"
 source_verified: "2026-05-06"

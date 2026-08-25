@@ -4,6 +4,8 @@ slug: "/edge-case/pet-cafe-animal-cafe"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["F&B"]
+agencies: ["ACRA", "SFA", "SCDF", "URA", "NPARKS", "Singapore Statutes", "NEA", "MOM", "CCCS"]
 article_number: 320
 published: "2026-05-06"
 source_verified: "2026-05-06"

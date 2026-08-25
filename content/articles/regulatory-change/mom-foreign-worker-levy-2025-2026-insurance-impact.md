@@ -4,6 +4,8 @@ slug: "/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Marine & Cargo"]
+industries: ["Foreign workers"]
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 267
 published: "2026-05-14"
 source_verified: "2026-05-14"

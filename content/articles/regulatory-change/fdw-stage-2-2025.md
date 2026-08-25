@@ -4,6 +4,8 @@ slug: "/regulatory-change/fdw-stage-2-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Foreign Workers"]
+industries: ["Foreign workers"]
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 14
 published: "2026-05-03"
 source_verified: "2026-05-03"

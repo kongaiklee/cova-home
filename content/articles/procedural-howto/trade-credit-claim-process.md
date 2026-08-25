@@ -4,6 +4,8 @@ slug: "/procedural-howto/trade-credit-claim-process"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 202
 published: "2026-05-05"
 source_verified: "2026-05-05"

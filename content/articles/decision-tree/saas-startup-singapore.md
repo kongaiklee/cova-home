@@ -4,6 +4,8 @@ slug: "/decision-tree/saas-startup-singapore"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Property & Fire", "Professional Indemnity"]
+industries: ["Tech / startup"]
+agencies: ["PDPC", "Singapore Statutes"]
 article_number: 241
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/comparison/wica-designated-insurer-panel"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 169
 published: "2026-05-05"
 source_verified: "2026-05-05"

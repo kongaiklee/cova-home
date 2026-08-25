@@ -4,6 +4,8 @@ slug: "/association/asme-sme-cross-sector-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Professional services"]
+agencies: ["Singapore Statutes"]
 article_number: 290
 published: "2026-05-14"
 source_verified: "2026-05-14"

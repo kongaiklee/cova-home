@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-new-zealand-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["FTA"]
 article_number: 234
 published: "2026-05-05"
 source_verified: "2026-05-05"

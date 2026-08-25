@@ -4,6 +4,8 @@ slug: "/association/scs-sgtech-technology-sector-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: ["Professional services"]
+agencies: ["Singapore Statutes"]
 article_number: 289
 published: "2026-05-14"
 source_verified: "2026-05-14"

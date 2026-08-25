@@ -4,6 +4,8 @@ slug: "/procedural-howto/bi-claim-deep-dive"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 208
 published: "2026-05-05"
 source_verified: "2026-05-05"

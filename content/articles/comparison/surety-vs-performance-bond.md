@@ -4,6 +4,8 @@ slug: "/comparison/surety-vs-performance-bond"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Construction"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "CUSTOMS"]
 article_number: 198
 published: "2026-05-05"
 source_verified: "2026-05-05"

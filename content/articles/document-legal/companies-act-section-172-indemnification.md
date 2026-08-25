@@ -4,6 +4,8 @@ slug: "/document-legal/companies-act-section-172-indemnification"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 119
 published: "2026-05-04"
 source_verified: "2026-05-04"

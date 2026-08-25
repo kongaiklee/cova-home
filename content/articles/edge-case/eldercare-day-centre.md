@@ -4,6 +4,8 @@ slug: "/edge-case/eldercare-day-centre"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Healthcare"]
+agencies: ["Singapore Statutes", "MOH", "MSF", "CHARITIES", "PDPC"]
 article_number: 313
 published: "2026-05-06"
 source_verified: "2026-05-06"

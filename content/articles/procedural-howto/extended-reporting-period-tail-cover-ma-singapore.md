@@ -4,6 +4,8 @@ slug: "/procedural-howto/extended-reporting-period-tail-cover-ma-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 377
 published: "2026-05-17"
 source_verified: "2026-05-17"

@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-interior-design-firm-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["BCA", "ACRA", "HDB"]
 article_number: 94
 published: "2026-05-04"
 source_verified: "2026-05-04"

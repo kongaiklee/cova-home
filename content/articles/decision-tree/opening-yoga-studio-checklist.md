@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-yoga-studio-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Beauty / wellness"]
+agencies: ["Singapore Statutes"]
 article_number: 83
 published: "2026-05-04"
 source_verified: "2026-05-04"

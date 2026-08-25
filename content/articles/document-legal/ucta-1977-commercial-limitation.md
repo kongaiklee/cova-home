@@ -4,6 +4,8 @@ slug: "/document-legal/ucta-1977-commercial-limitation"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "CCCS"]
 article_number: 254
 published: "2026-05-05"
 source_verified: "2026-05-05"

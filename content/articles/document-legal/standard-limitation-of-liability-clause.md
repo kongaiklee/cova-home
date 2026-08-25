@@ -4,6 +4,8 @@ slug: "/document-legal/standard-limitation-of-liability-clause"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 257
 published: "2026-05-05"
 source_verified: "2026-05-05"

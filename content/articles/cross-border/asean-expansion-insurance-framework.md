@@ -4,6 +4,8 @@ slug: "/cross-border/asean-expansion-insurance-framework"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Motor & Fleet", "Marine & Cargo", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 301
 published: "2026-05-06"
 source_verified: "2026-05-06"

@@ -4,6 +4,8 @@ slug: "/comparison/per-occurrence-vs-aggregate-limits"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Public Liability", "Professional Indemnity", "Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 272
 published: "2026-05-05"
 source_verified: "2026-05-05"

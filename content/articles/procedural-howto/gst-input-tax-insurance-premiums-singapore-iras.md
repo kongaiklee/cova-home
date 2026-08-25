@@ -4,6 +4,8 @@ slug: "/procedural-howto/gst-input-tax-insurance-premiums-singapore-iras"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability", "Motor & Fleet"]
+industries: []
+agencies: ["IRAS", "Singapore Statutes"]
 article_number: 376
 published: "2026-05-07"
 source_verified: "2026-05-07"

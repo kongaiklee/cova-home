@@ -4,6 +4,8 @@ slug: "/comparison/tied-agent-vs-ifa"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "MOM"]
 article_number: 57
 published: "2026-05-04"
 source_verified: "2026-05-04"

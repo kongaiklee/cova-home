@@ -4,6 +4,8 @@ slug: "/document-legal/employment-act-section-14-wrongful-dismissal"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "Courts"]
 article_number: 138
 published: "2026-05-05"
 source_verified: "2026-05-05"

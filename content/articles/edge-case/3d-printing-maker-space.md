@@ -4,6 +4,8 @@ slug: "/edge-case/3d-printing-maker-space"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["BCA", "Singapore Statutes", "IPOS", "EnterpriseSG"]
 article_number: 336
 published: "2026-05-06"
 source_verified: "2026-05-06"

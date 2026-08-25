@@ -4,6 +4,8 @@ slug: "/edge-case/mobile-beauty-wellness-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Marine & Cargo"]
+industries: ["Beauty / wellness"]
+agencies: ["Singapore Statutes", "HSA", "NEA"]
 article_number: 133
 published: "2026-05-05"
 source_verified: "2026-05-05"

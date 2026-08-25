@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-childcare-centre-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Public Liability"]
+industries: ["Education"]
+agencies: ["ECDA", "Singapore Statutes", "MOM"]
 article_number: 95
 published: "2026-05-04"
 source_verified: "2026-05-04"

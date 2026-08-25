@@ -4,6 +4,8 @@ slug: "/crisis/multi-injury-mass-casualty-mom-major-classification"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Public Liability"]
+industries: []
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 361
 published: "2026-05-06"
 source_verified: "2026-05-06"

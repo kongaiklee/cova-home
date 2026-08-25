@@ -4,6 +4,8 @@ slug: "/crisis/jv-partnership-breakdown-allocation-run-off-dissolution"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Fidelity"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 298
 published: "2026-05-14"
 source_verified: "2026-05-14"

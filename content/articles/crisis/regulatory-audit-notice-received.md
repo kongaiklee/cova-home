@@ -4,6 +4,8 @@ slug: "/crisis/regulatory-audit-notice-received"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Foreign Workers", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["PDPC", "MOM", "SFA", "MOH", "HSA", "MAS", "IRAS", "CUSTOMS", "Singapore Statutes"]
 article_number: 105
 published: "2026-05-04"
 source_verified: "2026-05-04"

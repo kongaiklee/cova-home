@@ -4,6 +4,8 @@ slug: "/document-legal/faa-n16-reasonable-basis"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes", "Courts"]
 article_number: 68
 published: "2026-05-04"
 source_verified: "2026-05-04"

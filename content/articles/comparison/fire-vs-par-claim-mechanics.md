@@ -4,6 +4,8 @@ slug: "/comparison/fire-vs-par-claim-mechanics"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire"]
+industries: ["Property"]
+agencies: ["MAS", "Singapore Statutes", "GIA", "SCDF", "Courts"]
 article_number: 158
 published: "2026-05-05"
 source_verified: "2026-05-05"

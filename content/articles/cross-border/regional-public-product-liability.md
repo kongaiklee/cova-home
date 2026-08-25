@@ -4,6 +4,8 @@ slug: "/cross-border/regional-public-product-liability"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Public Liability"]
+industries: []
+agencies: ["Singapore Statutes", "SFA"]
 article_number: 308
 published: "2026-05-06"
 source_verified: "2026-05-06"

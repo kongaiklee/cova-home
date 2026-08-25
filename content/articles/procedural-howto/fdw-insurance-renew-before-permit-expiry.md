@@ -4,6 +4,8 @@ slug: "/procedural-howto/fdw-insurance-renew-before-permit-expiry"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Foreign Workers"]
+industries: ["Foreign workers"]
+agencies: []
 article_number: 33
 published: "2026-05-03"
 source_verified: "2026-05-03"

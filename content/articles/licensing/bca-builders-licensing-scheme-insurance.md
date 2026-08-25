@@ -4,6 +4,8 @@ slug: "/licensing/bca-builders-licensing-scheme-insurance"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: ["Construction"]
+agencies: ["BCA", "MOM", "Singapore Statutes"]
 article_number: 3
 published: "2026-05-03"
 source_verified: "2026-05-03"

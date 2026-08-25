@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-event-management-company-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Professional Indemnity"]
+industries: ["Events"]
+agencies: ["ACRA", "SPF", "SCDF", "URA", "MOH", "Singapore Statutes", "STB", "WSG"]
 article_number: 142
 published: "2026-05-05"
 source_verified: "2026-05-05"

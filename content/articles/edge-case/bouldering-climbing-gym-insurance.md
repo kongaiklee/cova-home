@@ -4,6 +4,8 @@ slug: "/edge-case/bouldering-climbing-gym-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Beauty / wellness"]
+agencies: ["ACRA", "SCDF", "URA", "SPORTSINGAPORE", "Singapore Statutes"]
 article_number: 162
 published: "2026-05-05"
 source_verified: "2026-05-05"

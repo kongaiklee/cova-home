@@ -4,6 +4,8 @@ slug: "/document-legal/crotpa-2001-additional-insured-third-party-rights"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability", "Motor & Fleet"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 255
 published: "2026-05-14"
 source_verified: "2026-05-14"

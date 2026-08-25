@@ -4,6 +4,8 @@ slug: "/regulatory-change/platform-workers-act-first-year-review"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "CPF Board"]
 article_number: 170
 published: "2026-05-05"
 source_verified: "2026-05-05"

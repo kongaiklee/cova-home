@@ -4,6 +4,8 @@ slug: "/document-legal/insurance-act-1966-overview"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "SDIC"]
 article_number: 128
 published: "2026-05-05"
 source_verified: "2026-05-05"

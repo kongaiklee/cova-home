@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-indonesian-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Property & Fire"]
+industries: []
+agencies: []
 article_number: 109
 published: "2026-05-04"
 source_verified: "2026-05-04"

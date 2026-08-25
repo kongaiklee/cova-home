@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-overseas-property"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Property & Fire", "Marine & Cargo"]
+industries: ["Property"]
+agencies: ["MAS"]
 article_number: 96
 published: "2026-05-04"
 source_verified: "2026-05-04"

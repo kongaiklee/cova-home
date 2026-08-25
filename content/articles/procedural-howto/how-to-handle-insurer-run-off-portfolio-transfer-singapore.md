@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singap
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "SDIC"]
 article_number: 410
 published: "2026-05-14"
 source_verified: "2026-05-14"

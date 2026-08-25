@@ -4,6 +4,8 @@ slug: "/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Cyber"]
+industries: []
+agencies: ["PDPC", "Singapore Statutes", "CSA"]
 article_number: 400
 published: "2026-05-14"
 source_verified: "2026-05-14"

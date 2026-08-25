@@ -4,6 +4,8 @@ slug: "/decision-tree/real-estate-agency-singapore"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Professional Indemnity", "Management Liability (D&O)"]
+industries: ["Tech / startup", "Professional services", "Property"]
+agencies: ["CEA", "Singapore Statutes", "IRAS", "HDB", "JTC"]
 article_number: 247
 published: "2026-05-05"
 source_verified: "2026-05-05"

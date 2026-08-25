@@ -4,6 +4,8 @@ slug: "/procedural-howto/switch-broker-mid-policy"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS"]
 article_number: 41
 published: "2026-05-04"
 source_verified: "2026-05-04"

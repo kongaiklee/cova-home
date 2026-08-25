@@ -4,6 +4,8 @@ slug: "/procedural-howto/group-hospital-surgical-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Group Health"]
+industries: []
+agencies: ["LIA", "MOH", "MAS"]
 article_number: 60
 published: "2026-05-04"
 source_verified: "2026-05-04"

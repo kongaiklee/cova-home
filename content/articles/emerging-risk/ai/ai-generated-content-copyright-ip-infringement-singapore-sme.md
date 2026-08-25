@@ -5,6 +5,8 @@ category: "emerging-risk"
 subcategory: "ai"
 intent: "beyond-the-basics"
 topics: ["Professional Indemnity"]
+industries: ["Tech / startup"]
+agencies: []
 article_number: 415
 published: "2026-05-08"
 source_verified: "2026-05-08"

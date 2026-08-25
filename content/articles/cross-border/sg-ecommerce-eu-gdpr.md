@@ -4,6 +4,8 @@ slug: "/cross-border/sg-ecommerce-eu-gdpr"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Cyber"]
+industries: ["Retail / e-commerce"]
+agencies: ["Singapore Statutes"]
 article_number: 97
 published: "2026-05-04"
 source_verified: "2026-05-04"

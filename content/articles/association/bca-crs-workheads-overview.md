@@ -4,6 +4,8 @@ slug: "/association/bca-crs-workheads-overview"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Construction"]
+industries: ["Construction"]
+agencies: ["BCA", "Singapore Statutes"]
 article_number: 100
 published: "2026-05-04"
 source_verified: "2026-05-04"

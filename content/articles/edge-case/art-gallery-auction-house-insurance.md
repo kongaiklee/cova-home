@@ -4,6 +4,8 @@ slug: "/edge-case/art-gallery-auction-house-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["CUSTOMS", "Singapore Statutes", "MAS", "GIA"]
 article_number: 223
 published: "2026-05-05"
 source_verified: "2026-05-05"

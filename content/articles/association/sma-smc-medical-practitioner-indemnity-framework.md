@@ -4,6 +4,8 @@ slug: "/association/sma-smc-medical-practitioner-indemnity-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity"]
+industries: ["Healthcare"]
+agencies: ["SMC", "Singapore Statutes"]
 article_number: 286
 published: "2026-05-14"
 source_verified: "2026-05-14"

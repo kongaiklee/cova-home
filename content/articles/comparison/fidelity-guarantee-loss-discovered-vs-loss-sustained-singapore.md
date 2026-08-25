@@ -4,6 +4,8 @@ slug: "/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapor
 category: "comparison"
 intent: "make-the-call"
 topics: ["Fidelity"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 279
 published: "2026-05-14"
 source_verified: "2026-05-14"

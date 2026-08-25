@@ -4,6 +4,8 @@ slug: "/regulatory-change/mas-faa-n02-introducer-licence-requirements"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: []
+agencies: ["MAS"]
 article_number: 8
 published: "2026-05-03"
 source_verified: "2026-05-03"

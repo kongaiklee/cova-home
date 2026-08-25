@@ -4,6 +4,8 @@ slug: "/procedural-howto/mid-term-endorsement-workflow-sme-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes", "Courts", "LTA", "IRAS", "MOM"]
 article_number: 405
 published: "2026-05-08"
 source_verified: "2026-05-08"

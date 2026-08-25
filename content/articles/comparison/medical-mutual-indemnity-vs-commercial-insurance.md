@@ -4,6 +4,8 @@ slug: "/comparison/medical-mutual-indemnity-vs-commercial-insurance"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: ["Healthcare"]
+agencies: ["SMC", "Singapore Statutes"]
 article_number: 28
 published: "2026-05-03"
 source_verified: "2026-05-03"

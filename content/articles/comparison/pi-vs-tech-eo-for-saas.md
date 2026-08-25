@@ -4,6 +4,8 @@ slug: "/comparison/pi-vs-tech-eo-for-saas"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Professional Indemnity", "Cyber"]
+industries: ["Tech / startup", "Professional services"]
+agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 191
 published: "2026-05-05"
 source_verified: "2026-05-05"

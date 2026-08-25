@@ -4,6 +4,8 @@ slug: "/document-legal/pdpa-section-24-protection-obligation"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Cyber"]
+industries: ["Security / facilities"]
+agencies: ["Singapore Statutes", "PDPC"]
 article_number: 98
 published: "2026-05-04"
 source_verified: "2026-05-04"

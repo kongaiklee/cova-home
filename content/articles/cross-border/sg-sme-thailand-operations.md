@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-thailand-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Cyber"]
+industries: []
+agencies: []
 article_number: 215
 published: "2026-05-05"
 source_verified: "2026-05-05"

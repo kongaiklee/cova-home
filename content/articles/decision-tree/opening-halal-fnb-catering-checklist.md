@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-halal-fnb-catering-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["F&B"]
+agencies: ["MUIS", "Singapore Statutes", "GoBusiness"]
 article_number: 101
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/crisis/pr-crisis-social-media-incident"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["PDPC", "Singapore Statutes"]
 article_number: 135
 published: "2026-05-05"
 source_verified: "2026-05-05"

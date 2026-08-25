@@ -4,6 +4,8 @@ slug: "/comparison/property-all-risks-exclusions-deep-dive"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire", "Cyber"]
+industries: ["Property"]
+agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 196
 published: "2026-05-05"
 source_verified: "2026-05-05"

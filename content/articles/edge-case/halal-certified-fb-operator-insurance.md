@@ -4,6 +4,8 @@ slug: "/edge-case/halal-certified-fb-operator-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["F&B"]
+agencies: ["SFA", "Singapore Statutes", "MUIS", "MOM"]
 article_number: 328
 published: "2026-05-06"
 source_verified: "2026-05-06"

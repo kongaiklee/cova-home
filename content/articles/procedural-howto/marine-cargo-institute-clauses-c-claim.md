@@ -4,6 +4,8 @@ slug: "/procedural-howto/marine-cargo-institute-clauses-c-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire", "Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["Singapore Statutes"]
 article_number: 62
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/fire-code-2023"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Property & Fire", "Motor & Fleet"]
+industries: ["F&B", "Retail / e-commerce", "Manufacturing"]
+agencies: ["SCDF", "Singapore Statutes", "LTA"]
 article_number: 19
 published: "2026-05-03"
 source_verified: "2026-05-03"

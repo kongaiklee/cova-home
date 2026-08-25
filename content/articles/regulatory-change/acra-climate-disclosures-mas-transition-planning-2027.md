@@ -4,6 +4,8 @@ slug: "/regulatory-change/acra-climate-disclosures-mas-transition-planning-2027"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["ACRA", "MAS", "Singapore Statutes"]
 article_number: 359
 published: "2026-05-06"
 source_verified: "2026-05-06"

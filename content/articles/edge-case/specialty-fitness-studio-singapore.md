@@ -4,6 +4,8 @@ slug: "/edge-case/specialty-fitness-studio-singapore"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Professional Indemnity"]
+industries: ["Beauty / wellness"]
+agencies: ["Singapore Statutes", "MAS", "GIA", "MOM"]
 article_number: 227
 published: "2026-05-05"
 source_verified: "2026-05-05"

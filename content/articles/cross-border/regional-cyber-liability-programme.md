@@ -4,6 +4,8 @@ slug: "/cross-border/regional-cyber-liability-programme"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "PDPC", "MAS"]
 article_number: 306
 published: "2026-05-06"
 source_verified: "2026-05-06"

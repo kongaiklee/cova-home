@@ -4,6 +4,8 @@ slug: "/licensing/bca-cw01-cw02-contractor-insurance-requirements"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Construction"]
+industries: ["Construction"]
+agencies: ["BCA", "MOM"]
 article_number: 21
 published: "2026-05-03"
 source_verified: "2026-05-03"

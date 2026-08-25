@@ -4,6 +4,8 @@ slug: "/procedural-howto/performance-bond-claim-obligee"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "BCA", "HDB"]
 article_number: 206
 published: "2026-05-05"
 source_verified: "2026-05-05"

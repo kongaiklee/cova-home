@@ -4,6 +4,8 @@ slug: "/comparison/wica-vs-gpa"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 58
 published: "2026-05-04"
 source_verified: "2026-05-04"

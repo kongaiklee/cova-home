@@ -4,6 +4,8 @@ slug: "/crisis/vendor-insolvency-cascade"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "BCA"]
 article_number: 211
 published: "2026-05-05"
 source_verified: "2026-05-05"

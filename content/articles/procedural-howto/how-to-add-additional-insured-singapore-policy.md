@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-add-additional-insured-singapore-policy"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "GIA"]
 article_number: 348
 published: "2026-05-06"
 source_verified: "2026-05-06"

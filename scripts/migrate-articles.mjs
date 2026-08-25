@@ -16,6 +16,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { deriveFacets } from './lib/facets.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = path.resolve(__dirname, '..');
@@ -114,6 +115,8 @@ function buildFrontmatter(fm) {
   if (fm.subcategory) lines.push(`subcategory: ${yamlString(fm.subcategory)}`);
   lines.push(`intent: ${yamlString(fm.intent)}`);
   lines.push(`topics: [${fm.topics.map(yamlString).join(', ')}]`);
+  lines.push(`industries: [${fm.industries.map(yamlString).join(', ')}]`);
+  lines.push(`agencies: [${fm.agencies.map(yamlString).join(', ')}]`);
   lines.push(`article_number: ${fm.article_number}`);
   lines.push(`published: ${yamlString(fm.published)}`);
   lines.push(`source_verified: ${yamlString(fm.source_verified)}`);
@@ -231,6 +234,8 @@ function main() {
       published, sourceVerified, wordCount, heroImage, canonicalUrl,
       summary, metaDescription, cleanBody,
       topics: classifyTopics(`${title} ${slug} ${summary}`),
+      // industry from title + slug, agency from the hosts the body links to (scripts/lib/facets.mjs)
+      ...deriveFacets(title, slug, cleanBody),
     });
   }
 
@@ -339,6 +344,7 @@ function main() {
     const fm = buildFrontmatter({
       title: a.title, slug: a.slug, category: a.category,
       subcategory: a.subcategory, intent: a.intent, topics: a.topics,
+      industries: a.industries, agencies: a.agencies,
       article_number: a.articleNum, published: a.published,
       source_verified: a.sourceVerified, word_count: a.wordCount,
       hero_image: a.heroImage, canonical_url: a.canonicalUrl,
@@ -356,7 +362,8 @@ function main() {
     index.push({
       title: a.title, slug: a.slug, category: a.category,
       subcategory: a.subcategory || undefined, intent: a.intent,
-      topics: a.topics, published: a.published,
+      topics: a.topics, industries: a.industries, agencies: a.agencies,
+      published: a.published,
       meta_description: a.metaDescription, hero_image: a.heroImage,
       word_count: a.wordCount, article_number: a.articleNum,
     });

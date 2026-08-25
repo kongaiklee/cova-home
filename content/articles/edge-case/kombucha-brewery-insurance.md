@@ -4,6 +4,8 @@ slug: "/edge-case/kombucha-brewery-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["SFA", "Singapore Statutes"]
 article_number: 79
 published: "2026-05-04"
 source_verified: "2026-05-04"

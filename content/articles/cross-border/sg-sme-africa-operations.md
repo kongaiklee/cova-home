@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-africa-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 238
 published: "2026-05-05"
 source_verified: "2026-05-05"

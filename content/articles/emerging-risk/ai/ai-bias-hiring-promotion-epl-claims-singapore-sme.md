@@ -5,6 +5,8 @@ category: "emerging-risk"
 subcategory: "ai"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: ["Tech / startup"]
+agencies: ["Singapore Statutes", "PARLIAMENT", "MOM", "PDPC", "IMDA"]
 article_number: 416
 published: "2026-05-08"
 source_verified: "2026-05-08"

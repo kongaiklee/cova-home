@@ -4,6 +4,8 @@ slug: "/edge-case/watchmaker-watch-repair-specialty-retail"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Cyber"]
+industries: ["Retail / e-commerce"]
+agencies: ["CUSTOMS", "IRAS", "ACRA", "Singapore Statutes"]
 article_number: 334
 published: "2026-05-06"
 source_verified: "2026-05-06"

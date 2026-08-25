@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "PDPC"]
 article_number: 343
 published: "2026-05-06"
 source_verified: "2026-05-06"

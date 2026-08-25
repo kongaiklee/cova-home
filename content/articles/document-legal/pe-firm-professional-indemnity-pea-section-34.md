@@ -4,6 +4,8 @@ slug: "/document-legal/pe-firm-professional-indemnity-pea-section-34"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Professional Indemnity"]
+industries: ["Professional services"]
+agencies: ["Singapore Statutes", "PEB"]
 article_number: 30
 published: "2026-05-03"
 source_verified: "2026-05-03"

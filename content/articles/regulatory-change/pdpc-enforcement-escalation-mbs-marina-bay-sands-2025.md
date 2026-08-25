@@ -4,6 +4,8 @@ slug: "/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: []
+agencies: ["PDPC", "Singapore Statutes", "IMDA"]
 article_number: 357
 published: "2026-05-06"
 source_verified: "2026-05-06"

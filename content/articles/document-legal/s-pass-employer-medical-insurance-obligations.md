@@ -4,6 +4,8 @@ slug: "/document-legal/s-pass-employer-medical-insurance-obligations"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Foreign Workers"]
+industries: ["Healthcare"]
+agencies: ["MOM"]
 article_number: 26
 published: "2026-05-03"
 source_verified: "2026-05-03"

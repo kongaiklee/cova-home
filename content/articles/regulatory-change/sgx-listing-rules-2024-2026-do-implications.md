@@ -4,6 +4,8 @@ slug: "/regulatory-change/sgx-listing-rules-2024-2026-do-implications"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MAS"]
 article_number: 266
 published: "2026-05-14"
 source_verified: "2026-05-14"

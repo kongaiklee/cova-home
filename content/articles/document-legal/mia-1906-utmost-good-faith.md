@@ -4,6 +4,8 @@ slug: "/document-legal/mia-1906-utmost-good-faith"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 252
 published: "2026-05-05"
 source_verified: "2026-05-05"

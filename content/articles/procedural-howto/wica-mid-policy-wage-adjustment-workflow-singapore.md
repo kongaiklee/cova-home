@@ -4,6 +4,8 @@ slug: "/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Marine & Cargo"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "Courts", "IRAS"]
 article_number: 402
 published: "2026-05-08"
 source_verified: "2026-05-09"

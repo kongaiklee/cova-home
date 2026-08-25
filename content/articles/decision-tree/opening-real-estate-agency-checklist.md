@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-real-estate-agency-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Professional services", "Property"]
+agencies: ["CEA", "Singapore Statutes"]
 article_number: 111
 published: "2026-05-04"
 source_verified: "2026-05-04"

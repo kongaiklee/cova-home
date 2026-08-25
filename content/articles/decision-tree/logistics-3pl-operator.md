@@ -4,6 +4,8 @@ slug: "/decision-tree/logistics-3pl-operator"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Property & Fire", "Motor & Fleet"]
+industries: ["Logistics", "Tech / startup"]
+agencies: ["CUSTOMS", "LTA", "Singapore Statutes"]
 article_number: 245
 published: "2026-05-05"
 source_verified: "2026-05-05"

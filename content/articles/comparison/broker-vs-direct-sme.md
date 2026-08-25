@@ -4,6 +4,8 @@ slug: "/comparison/broker-vs-direct-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 56
 published: "2026-05-04"
 source_verified: "2026-05-04"

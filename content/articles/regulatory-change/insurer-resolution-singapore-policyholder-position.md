@@ -4,6 +4,8 @@ slug: "/regulatory-change/insurer-resolution-singapore-policyholder-position"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Motor & Fleet"]
+industries: []
+agencies: ["Singapore Statutes", "SDIC", "MAS"]
 article_number: 262
 published: "2026-05-14"
 source_verified: "2026-05-14"

@@ -4,6 +4,8 @@ slug: "/cross-border/regional-marine-cargo-asean"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Marine & Cargo"]
+industries: ["Maritime / cargo", "Professional services"]
+agencies: ["Singapore Statutes"]
 article_number: 304
 published: "2026-05-06"
 source_verified: "2026-05-06"

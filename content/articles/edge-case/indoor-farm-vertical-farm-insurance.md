@@ -4,6 +4,8 @@ slug: "/edge-case/indoor-farm-vertical-farm-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["SFA", "BCA", "Singapore Statutes", "PUB", "NPARKS"]
 article_number: 329
 published: "2026-05-06"
 source_verified: "2026-05-06"

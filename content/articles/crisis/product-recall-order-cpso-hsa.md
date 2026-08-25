@@ -4,6 +4,8 @@ slug: "/crisis/product-recall-order-cpso-hsa"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "CONSUMERPRODUCTSAFETY", "EnterpriseSG", "HSA"]
 article_number: 370
 published: "2026-05-06"
 source_verified: "2026-05-06"

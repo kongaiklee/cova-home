@@ -4,6 +4,8 @@ slug: "/regulatory-change/wfa-2024-phase-2-implementation"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "TAFEP", "MOM", "Courts"]
 article_number: 171
 published: "2026-05-05"
 source_verified: "2026-05-05"

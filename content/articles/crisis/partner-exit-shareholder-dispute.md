@@ -4,6 +4,8 @@ slug: "/crisis/partner-exit-shareholder-dispute"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "ACRA", "Courts"]
 article_number: 155
 published: "2026-05-05"
 source_verified: "2026-05-05"

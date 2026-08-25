@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-tour-travel-agency-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Professional services", "Hospitality / travel"]
+agencies: ["STB", "Singapore Statutes"]
 article_number: 151
 published: "2026-05-05"
 source_verified: "2026-05-05"

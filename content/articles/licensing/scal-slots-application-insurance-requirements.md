@@ -4,6 +4,8 @@ slug: "/licensing/scal-slots-application-insurance-requirements"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Construction"]
+industries: ["Construction"]
+agencies: ["MOM", "GIA", "BCA"]
 article_number: 1
 published: "2026-05-03"
 source_verified: "2026-05-03"

@@ -4,6 +4,8 @@ slug: "/decision-tree/real-estate-agency-misrepresentation-pi-disclosure-singapo
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Professional services", "Property"]
+agencies: ["Singapore Statutes", "CEA"]
 article_number: 141
 published: "2026-05-05"
 source_verified: "2026-05-05"

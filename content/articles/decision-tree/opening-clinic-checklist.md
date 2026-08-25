@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-clinic-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Healthcare"]
+agencies: ["SMC", "MOH", "SCDF", "Singapore Statutes", "HSA"]
 article_number: 78
 published: "2026-05-04"
 source_verified: "2026-05-04"

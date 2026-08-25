@@ -4,6 +4,8 @@ slug: "/document-legal/wica-section-24-mandatory-insurance"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "Courts"]
 article_number: 180
 published: "2026-05-05"
 source_verified: "2026-05-05"

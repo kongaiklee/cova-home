@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-cafe-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Public Liability"]
+industries: ["F&B"]
+agencies: ["Singapore Statutes", "GoBusiness", "SCDF", "MOM"]
 article_number: 77
 published: "2026-05-04"
 source_verified: "2026-05-04"

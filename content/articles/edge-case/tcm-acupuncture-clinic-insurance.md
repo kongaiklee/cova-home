@@ -4,6 +4,8 @@ slug: "/edge-case/tcm-acupuncture-clinic-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Healthcare"]
+agencies: ["MOH", "Singapore Statutes", "HSA", "SPF"]
 article_number: 321
 published: "2026-05-06"
 source_verified: "2026-05-06"

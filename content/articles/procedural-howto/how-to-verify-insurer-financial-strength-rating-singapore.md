@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapo
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "SDIC", "Singapore Statutes"]
 article_number: 349
 published: "2026-05-06"
 source_verified: "2026-05-06"

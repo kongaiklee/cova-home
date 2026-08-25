@@ -4,6 +4,8 @@ slug: "/edge-case/content-creator-influencer-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Cyber"]
+industries: ["F&B", "Tech / startup", "Beauty / wellness"]
+agencies: ["Singapore Statutes", "IMDA", "HSA", "MAS"]
 article_number: 144
 published: "2026-05-05"
 source_verified: "2026-05-05"

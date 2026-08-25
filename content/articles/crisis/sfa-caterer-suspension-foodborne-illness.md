@@ -4,6 +4,8 @@ slug: "/crisis/sfa-caterer-suspension-foodborne-illness"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["General"]
+industries: ["F&B"]
+agencies: ["SFA", "MOH", "Singapore Statutes"]
 article_number: 368
 published: "2026-05-06"
 source_verified: "2026-05-06"

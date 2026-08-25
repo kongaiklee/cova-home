@@ -4,6 +4,8 @@ slug: "/comparison/group-personal-accident-vs-group-term-life-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Group Health"]
+industries: []
+agencies: ["LIA", "GIA", "Singapore Statutes", "SDIC", "MOM", "MOH"]
 article_number: 392
 published: "2026-05-14"
 source_verified: "2026-05-14"

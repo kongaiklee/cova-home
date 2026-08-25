@@ -5,6 +5,8 @@ category: "emerging-risk"
 subcategory: "ai"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: ["Tech / startup"]
+agencies: ["Courts", "CSA", "Singapore Statutes", "MAS"]
 article_number: 413
 published: "2026-05-08"
 source_verified: "2026-05-08"

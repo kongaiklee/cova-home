@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapor
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["Courts", "Singapore Statutes"]
 article_number: 408
 published: "2026-05-14"
 source_verified: "2026-05-14"

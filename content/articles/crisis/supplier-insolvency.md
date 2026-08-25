@@ -4,6 +4,8 @@ slug: "/crisis/supplier-insolvency"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "ACRA", "Courts", "GIA", "MAS"]
 article_number: 125
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/comparison/side-a-only-vs-abc-tower-do-singapore-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 394
 published: "2026-05-14"
 source_verified: "2026-05-14"

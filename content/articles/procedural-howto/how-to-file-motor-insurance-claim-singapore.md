@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-file-motor-insurance-claim-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Motor & Fleet"]
+industries: []
+agencies: []
 article_number: 38
 published: "2026-05-03"
 source_verified: "2026-05-03"

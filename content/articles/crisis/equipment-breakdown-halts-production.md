@@ -4,6 +4,8 @@ slug: "/crisis/equipment-breakdown-halts-production"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["SFA", "Singapore Statutes", "MAS"]
 article_number: 116
 published: "2026-05-04"
 source_verified: "2026-05-04"

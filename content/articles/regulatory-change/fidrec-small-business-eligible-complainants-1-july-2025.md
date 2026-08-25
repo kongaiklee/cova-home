@@ -4,6 +4,8 @@ slug: "/regulatory-change/fidrec-small-business-eligible-complainants-1-july-202
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Motor & Fleet"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "ACRA"]
 article_number: 360
 published: "2026-05-06"
 source_verified: "2026-05-06"

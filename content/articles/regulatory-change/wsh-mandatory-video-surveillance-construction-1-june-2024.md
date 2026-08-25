@@ -4,6 +4,8 @@ slug: "/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: ["Construction"]
+agencies: ["Singapore Statutes"]
 article_number: 383
 published: "2026-05-17"
 source_verified: "2026-05-17"

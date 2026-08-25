@@ -4,6 +4,8 @@ slug: "/document-legal/wfa-2024-protected-characteristics"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "TAFEP", "MOM"]
 article_number: 189
 published: "2026-05-05"
 source_verified: "2026-05-05"

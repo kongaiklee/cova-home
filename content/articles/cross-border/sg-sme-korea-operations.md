@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-korea-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: []
+agencies: []
 article_number: 213
 published: "2026-05-05"
 source_verified: "2026-05-05"

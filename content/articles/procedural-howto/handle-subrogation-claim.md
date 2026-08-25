@@ -4,6 +4,8 @@ slug: "/procedural-howto/handle-subrogation-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: []
 article_number: 47
 published: "2026-05-04"
 source_verified: "2026-05-04"

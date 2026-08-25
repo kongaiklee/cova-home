@@ -4,6 +4,8 @@ slug: "/procedural-howto/event-liability-insurance-singapore-mice-venue"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Public Liability"]
+industries: ["Events"]
+agencies: ["SFA", "Singapore Statutes"]
 article_number: 378
 published: "2026-05-17"
 source_verified: "2026-05-17"

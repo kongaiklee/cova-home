@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-tuition-enrichment-centre-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Education"]
+agencies: ["ACRA", "MOE", "Singapore Statutes", "SCDF", "URA", "SSG"]
 article_number: 150
 published: "2026-05-05"
 source_verified: "2026-05-05"

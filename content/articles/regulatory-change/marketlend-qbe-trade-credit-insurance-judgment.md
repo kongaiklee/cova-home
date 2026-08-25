@@ -4,6 +4,8 @@ slug: "/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: []
+agencies: ["Courts", "SICC", "Singapore Statutes", "GIA"]
 article_number: 355
 published: "2026-05-06"
 source_verified: "2026-05-06"

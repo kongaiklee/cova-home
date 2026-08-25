@@ -4,6 +4,8 @@ slug: "/comparison/first-loss-vs-full-value-average-clause-property"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: ["Property"]
+agencies: ["Singapore Statutes"]
 article_number: 275
 published: "2026-05-14"
 source_verified: "2026-05-14"

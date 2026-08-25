@@ -4,6 +4,8 @@ slug: "/comparison/bi-vs-cbi-worked-example"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["MAS", "Singapore Statutes", "GIA", "Courts"]
 article_number: 159
 published: "2026-05-05"
 source_verified: "2026-05-05"

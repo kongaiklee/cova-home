@@ -4,6 +4,8 @@ slug: "/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["Courts", "Singapore Statutes"]
 article_number: 356
 published: "2026-05-06"
 source_verified: "2026-05-06"

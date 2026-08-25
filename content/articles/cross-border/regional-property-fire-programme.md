@@ -4,6 +4,8 @@ slug: "/cross-border/regional-property-fire-programme"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Property & Fire", "Motor & Fleet"]
+industries: ["Property"]
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 305
 published: "2026-05-06"
 source_verified: "2026-05-06"

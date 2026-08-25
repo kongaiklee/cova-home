@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-logistics-warehousing-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Logistics"]
+agencies: ["ACRA", "CUSTOMS", "LTA", "SCDF", "URA", "JTC", "Singapore Statutes"]
 article_number: 152
 published: "2026-05-05"
 source_verified: "2026-05-05"

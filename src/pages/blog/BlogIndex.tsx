@@ -1,9 +1,10 @@
 import { useEffect, useMemo, useState } from 'react';
-import { ChevronLeft, ChevronRight, X } from 'lucide-react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import { useSearchParams } from 'react-router-dom';
 import { ARTICLES } from '../../content/articles';
 import { INTENTS } from '../../content/intents';
-import { resolveTopic, TOPIC_COUNTS, topicSlug } from '../../content/topics';
+import { AXES, EMPTY, type Axis, type Selection, axisValues, isEmpty, matches, readSelection, writeSelection } from '../../content/facets';
+import FacetFilter from './FacetFilter';
 import { ArticleRow } from './ArticleCard';
 import IntentFilter, { type IntentFilterValue } from './IntentFilter';
 import Seo from '../../components/Seo';
@@ -15,22 +16,39 @@ export default function BlogIndex() {
   const [page, setPage] = useState(1);
   const [searchParams, setSearchParams] = useSearchParams();
 
-  // `?topic=<slug>` pre-filters on the corpus topic tags. The landing page's
-  // cover-line chips deep-link here. Read after mount, not during render: the
-  // prerendered HTML is the unfiltered index, and reading the URL during the
-  // first client render would make hydration disagree with it.
-  const [topic, setTopic] = useState<string | null>(null);
+  // Three-axis filter state lives in the URL (?industry, ?policy, ?agency, ?required=law) so
+  // the landing page's chips and any shared link land on a filtered index. Read after mount,
+  // not during render: the prerendered HTML is the unfiltered index, and reading the URL during
+  // the first client render would make hydration disagree with it.
+  const [selection, setSelection] = useState<Selection>(EMPTY);
   useEffect(() => {
-    setTopic(resolveTopic(searchParams.get('topic')));
+    setSelection(readSelection(searchParams));
     setPage(1);
   }, [searchParams]);
 
-  // Everything below filters within the topic, so the intent pill counts and
+  // Everything below filters within the selection, so the intent pill counts and
   // the total describe what the reader can actually see.
-  const base = useMemo(
-    () => (topic ? ARTICLES.filter((a) => a.topics.includes(topic)) : ARTICLES),
-    [topic]
-  );
+  const base = useMemo(() => ARTICLES.filter((a) => matches(a, selection)), [selection]);
+
+  // Per-axis counts are taken with that axis's OWN selection removed, so a reader can widen
+  // within an axis (OR) while the other axes still narrow (AND).
+  const facetCounts = useMemo(() => {
+    const out = {} as Record<Axis, Record<string, number>>;
+    for (const { key } of AXES) {
+      const others = { ...selection, [key]: [] } as Selection;
+      out[key] = axisValues(key, ARTICLES.filter((a) => matches(a, others)));
+    }
+    return out;
+  }, [selection]);
+  const hasRequired = useMemo(() => ARTICLES.some((a) => a.required_by_law), []);
+
+  function update(next: Selection) {
+    setSearchParams(writeSelection(searchParams, next), { replace: true });
+  }
+  function toggle(axis: Axis, label: string) {
+    const cur = selection[axis];
+    update({ ...selection, [axis]: cur.includes(label) ? cur.filter((v) => v !== label) : [...cur, label] });
+  }
 
   const counts = useMemo(() => {
     const c: Record<string, number> = {};
@@ -45,11 +63,6 @@ export default function BlogIndex() {
     [base, intent]
   );
 
-  function clearTopic() {
-    const next = new URLSearchParams(searchParams);
-    next.delete('topic');
-    setSearchParams(next, { replace: true });
-  }
 
   const totalPages = Math.max(1, Math.ceil(visible.length / PER_PAGE));
   const paged = visible.slice((page - 1) * PER_PAGE, page * PER_PAGE);
@@ -83,21 +96,14 @@ export default function BlogIndex() {
         <div className="mt-10">
           <IntentFilter value={intent} onChange={changeIntent} counts={counts} />
         </div>
-        {topic && (
-          <p className="mt-6 text-sm text-text-secondary" data-topic={topicSlug(topic)}>
-            Showing guides on{' '}
-            <span className="font-semibold text-text-primary">{topic}</span>
-            <span className="ml-1.5 text-xs">{TOPIC_COUNTS[topic] ?? 0}</span>
-            <button
-              type="button"
-              onClick={clearTopic}
-              className="ml-3 inline-flex items-center gap-1 rounded-full border border-border-primary px-3 py-1 text-xs font-medium text-text-primary transition hover:border-primary"
-            >
-              <X className="size-3" />
-              Show all topics
-            </button>
-          </p>
-        )}
+        <FacetFilter
+          selection={selection}
+          counts={facetCounts}
+          onToggle={toggle}
+          onToggleRequired={() => update({ ...selection, required: !selection.required })}
+          onClear={() => update(EMPTY)}
+          hasRequired={hasRequired}
+        />
       </section>
 
       <section className="mx-auto w-full max-w-4xl px-6 pb-24 sm:px-10">
@@ -114,7 +120,7 @@ export default function BlogIndex() {
           </div>
         ) : (
           <p className="py-16 text-center text-text-secondary">
-            Nothing here yet. Try another filter{topic ? ', or show all topics' : ''}.
+            Nothing here yet. Try another filter{!isEmpty(selection) ? ', or clear the filters' : ''}.
           </p>
         )}
 

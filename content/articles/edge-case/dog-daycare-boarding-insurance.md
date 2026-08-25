@@ -4,6 +4,8 @@ slug: "/edge-case/dog-daycare-boarding-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["NPARKS", "Singapore Statutes", "HDB", "URA"]
 article_number: 89
 published: "2026-05-04"
 source_verified: "2026-05-04"

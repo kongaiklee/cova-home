@@ -4,6 +4,8 @@ slug: "/regulatory-change/cyber-act-2024"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: ["Security / facilities"]
+agencies: ["Singapore Statutes", "CSA"]
 article_number: 17
 published: "2026-05-03"
 source_verified: "2026-05-03"

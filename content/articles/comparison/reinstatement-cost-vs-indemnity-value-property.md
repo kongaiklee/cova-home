@@ -4,6 +4,8 @@ slug: "/comparison/reinstatement-cost-vs-indemnity-value-property"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire", "Construction"]
+industries: ["Property"]
+agencies: ["Singapore Statutes", "SLA", "JTC", "HDB", "Courts"]
 article_number: 274
 published: "2026-05-14"
 source_verified: "2026-05-14"

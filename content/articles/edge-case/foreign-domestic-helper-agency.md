@@ -4,6 +4,8 @@ slug: "/edge-case/foreign-domestic-helper-agency"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Professional Indemnity", "Cyber"]
+industries: ["Professional services"]
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 217
 published: "2026-05-05"
 source_verified: "2026-05-05"

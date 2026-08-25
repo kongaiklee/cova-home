@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-salon-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Beauty / wellness"]
+agencies: ["CUSTOMS", "NEA", "MOH", "Singapore Statutes"]
 article_number: 84
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/bca-crs-expansion-national-registry-1-june-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Construction"]
+industries: ["Construction"]
+agencies: ["BCA", "Singapore Statutes"]
 article_number: 384
 published: "2026-05-17"
 source_verified: "2026-05-17"

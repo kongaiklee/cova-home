@@ -4,6 +4,8 @@ slug: "/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Public Liability", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["MAS", "Singapore Statutes", "SDIC"]
 article_number: 385
 published: "2026-05-17"
 source_verified: "2026-05-17"

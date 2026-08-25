@@ -4,6 +4,8 @@ slug: "/document-legal/employment-pass-holder-insurance-requirements"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MOM", "EDB"]
 article_number: 25
 published: "2026-05-03"
 source_verified: "2026-05-03"

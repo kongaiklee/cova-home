@@ -4,6 +4,8 @@ slug: "/decision-tree/private-hire-chauffeur-services"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Motor & Fleet", "Professional Indemnity"]
+industries: ["Tech / startup"]
+agencies: ["LTA", "Singapore Statutes", "MOM"]
 article_number: 250
 published: "2026-05-05"
 source_verified: "2026-05-05"

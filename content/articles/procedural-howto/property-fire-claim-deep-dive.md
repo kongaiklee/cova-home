@@ -4,6 +4,8 @@ slug: "/procedural-howto/property-fire-claim-deep-dive"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire"]
+industries: ["Property"]
+agencies: ["SCDF", "Singapore Statutes", "MAS", "GIA"]
 article_number: 207
 published: "2026-05-05"
 source_verified: "2026-05-05"

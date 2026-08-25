@@ -4,6 +4,8 @@ slug: "/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Public Liability", "Professional Indemnity"]
+industries: ["Construction"]
+agencies: ["BCA", "Singapore Statutes", "MOM"]
 article_number: 388
 published: "2026-05-14"
 source_verified: "2026-05-14"

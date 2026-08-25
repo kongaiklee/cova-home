@@ -4,6 +4,8 @@ slug: "/edge-case/second-hand-luxury-reseller-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Marine & Cargo"]
+industries: ["Retail / e-commerce"]
+agencies: ["ACRA", "SPF", "Singapore Statutes", "SCDF", "URA"]
 article_number: 154
 published: "2026-05-05"
 source_verified: "2026-05-05"

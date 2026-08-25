@@ -4,6 +4,8 @@ slug: "/crisis/tafep-harassment-investigation-served"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 367
 published: "2026-05-06"
 source_verified: "2026-05-06"

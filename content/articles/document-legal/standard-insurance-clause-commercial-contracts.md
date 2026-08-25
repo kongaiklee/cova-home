@@ -4,6 +4,8 @@ slug: "/document-legal/standard-insurance-clause-commercial-contracts"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability", "Marine & Cargo"]
+industries: []
+agencies: ["MAS", "GIA", "Singapore Statutes", "MOM", "Courts"]
 article_number: 259
 published: "2026-05-05"
 source_verified: "2026-05-05"

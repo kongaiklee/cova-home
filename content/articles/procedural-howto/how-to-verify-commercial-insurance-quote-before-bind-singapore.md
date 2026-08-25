@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-si
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["ACRA", "Singapore Statutes", "BCA", "MOM", "GIA", "MAS"]
 article_number: 407
 published: "2026-05-14"
 source_verified: "2026-05-14"

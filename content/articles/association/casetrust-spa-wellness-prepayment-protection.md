@@ -4,6 +4,8 @@ slug: "/association/casetrust-spa-wellness-prepayment-protection"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: ["Beauty / wellness"]
+agencies: []
 article_number: 5
 published: "2026-05-03"
 source_verified: "2026-05-03"

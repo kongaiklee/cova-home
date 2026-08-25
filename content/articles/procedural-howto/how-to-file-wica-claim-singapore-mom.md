@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-file-wica-claim-singapore-mom"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 341
 published: "2026-05-06"
 source_verified: "2026-05-06"

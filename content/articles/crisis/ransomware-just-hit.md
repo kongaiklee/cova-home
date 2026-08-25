@@ -4,6 +4,8 @@ slug: "/crisis/ransomware-just-hit"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "PDPC", "CSA"]
 article_number: 81
 published: "2026-05-04"
 source_verified: "2026-05-04"

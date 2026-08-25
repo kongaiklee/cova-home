@@ -4,6 +4,8 @@ slug: "/procedural-howto/non-renewal-notice-commercial-insurer-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS"]
 article_number: 380
 published: "2026-05-17"
 source_verified: "2026-05-17"

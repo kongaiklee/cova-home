@@ -4,6 +4,8 @@ slug: "/procedural-howto/equipment-breakdown-claim-process"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire", "Motor & Fleet"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA", "MOM"]
 article_number: 209
 published: "2026-05-05"
 source_verified: "2026-05-05"

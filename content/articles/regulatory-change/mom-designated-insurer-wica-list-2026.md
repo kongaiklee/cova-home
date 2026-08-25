@@ -4,6 +4,8 @@ slug: "/regulatory-change/mom-designated-insurer-wica-list-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["MOM", "MAS"]
 article_number: 6
 published: "2026-05-03"
 source_verified: "2026-05-03"

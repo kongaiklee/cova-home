@@ -4,6 +4,8 @@ slug: "/cross-border/regional-do-programme"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 307
 published: "2026-05-06"
 source_verified: "2026-05-06"

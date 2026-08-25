@@ -4,6 +4,8 @@ slug: "/edge-case/personal-chef-private-dining"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["ACRA", "SFA", "SCDF", "SPF", "Singapore Statutes", "NEA", "MOM"]
 article_number: 315
 published: "2026-05-06"
 source_verified: "2026-05-06"

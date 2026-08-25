@@ -4,6 +4,8 @@ slug: "/procedural-howto/marine-cargo-institute-clauses-a-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: []
 article_number: 51
 published: "2026-05-04"
 source_verified: "2026-05-04"

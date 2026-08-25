@@ -4,6 +4,8 @@ slug: "/document-legal/indemnity-to-principal"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Construction"]
+industries: []
+agencies: ["Courts"]
 article_number: 59
 published: "2026-05-04"
 source_verified: "2026-05-04"

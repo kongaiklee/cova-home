@@ -4,6 +4,8 @@ slug: "/document-legal/companies-act-section-157-director-duties"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "ACRA", "Courts"]
 article_number: 184
 published: "2026-05-05"
 source_verified: "2026-05-05"

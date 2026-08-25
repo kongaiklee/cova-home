@@ -4,6 +4,8 @@ slug: "/document-legal/mas-notice-faa-n03-ifa-conduct"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 129
 published: "2026-05-05"
 source_verified: "2026-05-05"

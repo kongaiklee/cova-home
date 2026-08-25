@@ -4,6 +4,8 @@ slug: "/comparison/side-a-side-b-side-c-do-singapore"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 280
 published: "2026-05-14"
 source_verified: "2026-05-14"

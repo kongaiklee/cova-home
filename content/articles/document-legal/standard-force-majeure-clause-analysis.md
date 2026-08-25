@@ -4,6 +4,8 @@ slug: "/document-legal/standard-force-majeure-clause-analysis"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Construction"]
+industries: []
+agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 258
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/cybersecurity-act-2024-cii-designation-sme"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: ["Security / facilities"]
+agencies: ["Singapore Statutes", "CSA"]
 article_number: 270
 published: "2026-05-14"
 source_verified: "2026-05-14"

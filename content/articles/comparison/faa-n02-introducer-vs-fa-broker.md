@@ -4,6 +4,8 @@ slug: "/comparison/faa-n02-introducer-vs-fa-broker"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 168
 published: "2026-05-05"
 source_verified: "2026-05-05"

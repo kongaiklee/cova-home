@@ -4,6 +4,8 @@ slug: "/regulatory-change/wsh-tewp-director-training-mandate-1-march-2024"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Marine & Cargo", "Management Liability (D&O)", "Construction"]
+industries: []
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 387
 published: "2026-05-14"
 source_verified: "2026-05-14"

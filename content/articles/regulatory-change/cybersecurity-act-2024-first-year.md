@@ -4,6 +4,8 @@ slug: "/regulatory-change/cybersecurity-act-2024-first-year"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: ["Security / facilities"]
+agencies: ["Singapore Statutes", "CSA"]
 article_number: 172
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -5,6 +5,8 @@ category: "emerging-risk"
 subcategory: "ai"
 intent: "beyond-the-basics"
 topics: ["Cyber"]
+industries: ["Tech / startup", "Professional services"]
+agencies: ["SPF", "MAS", "SCAMSHIELD", "CSA", "Singapore Statutes", "MHA"]
 article_number: 414
 published: "2026-05-08"
 source_verified: "2026-05-08"

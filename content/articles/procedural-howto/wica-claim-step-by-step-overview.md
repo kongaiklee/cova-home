@@ -4,6 +4,8 @@ slug: "/procedural-howto/wica-claim-step-by-step-overview"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: []
 article_number: 31
 published: "2026-05-03"
 source_verified: "2026-05-03"

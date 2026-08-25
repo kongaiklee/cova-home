@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-taiwan-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Cyber"]
+industries: []
+agencies: ["FTA"]
 article_number: 232
 published: "2026-05-05"
 source_verified: "2026-05-05"

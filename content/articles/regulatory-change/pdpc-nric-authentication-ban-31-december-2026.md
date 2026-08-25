@@ -4,6 +4,8 @@ slug: "/regulatory-change/pdpc-nric-authentication-ban-31-december-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["PDPC", "Singapore Statutes", "IMDA", "MAS", "MOH", "CSA", "MDDI", "GovTech"]
 article_number: 358
 published: "2026-05-06"
 source_verified: "2026-05-06"

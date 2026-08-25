@@ -4,6 +4,8 @@ slug: "/crisis/mas-adverse-examination-findings-letter"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 366
 published: "2026-05-06"
 source_verified: "2026-05-06"

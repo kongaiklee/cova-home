@@ -4,6 +4,8 @@ slug: "/edge-case/indoor-playground-soft-play"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["ACRA", "SCDF", "URA", "SFA", "ECDA", "NEA", "MOH", "Singapore Statutes"]
 article_number: 311
 published: "2026-05-06"
 source_verified: "2026-05-06"

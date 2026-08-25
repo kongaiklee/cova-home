@@ -4,6 +4,8 @@ slug: "/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Public Liability", "Professional Indemnity", "Construction"]
+industries: ["Construction"]
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 269
 published: "2026-05-14"
 source_verified: "2026-05-14"

@@ -4,6 +4,8 @@ slug: "/procedural-howto/mas-register-verify-insurance-broker"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["MAS", "SCAMSHIELD", "MOM"]
 article_number: 9
 published: "2026-05-03"
 source_verified: "2026-05-03"

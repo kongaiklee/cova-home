@@ -4,6 +4,8 @@ slug: "/regulatory-change/mom-designated-insurer-mechanics-wica-2019"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Professional Indemnity"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 264
 published: "2026-05-14"
 source_verified: "2026-05-14"

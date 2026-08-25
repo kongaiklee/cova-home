@@ -4,6 +4,8 @@ slug: "/regulatory-change/bca-crs-workhead-evolution-construction-insurance"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Foreign Workers", "Professional Indemnity"]
+industries: ["Construction"]
+agencies: ["BCA", "Singapore Statutes"]
 article_number: 265
 published: "2026-05-14"
 source_verified: "2026-05-14"

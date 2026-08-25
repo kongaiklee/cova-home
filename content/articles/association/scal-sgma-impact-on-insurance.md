@@ -4,6 +4,8 @@ slug: "/association/scal-sgma-impact-on-insurance"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Construction"]
+industries: ["Construction"]
+agencies: []
 article_number: 23
 published: "2026-05-03"
 source_verified: "2026-05-03"

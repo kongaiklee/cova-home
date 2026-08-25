@@ -4,6 +4,8 @@ slug: "/edge-case/mortuary-funeral-services-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Professional Indemnity"]
+industries: []
+agencies: ["NEA", "MOH", "Singapore Statutes", "MAS"]
 article_number: 220
 published: "2026-05-05"
 source_verified: "2026-05-05"

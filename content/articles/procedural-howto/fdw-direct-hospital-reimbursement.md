@@ -4,6 +4,8 @@ slug: "/procedural-howto/fdw-direct-hospital-reimbursement"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Foreign Workers"]
+industries: ["Healthcare", "Foreign workers"]
+agencies: ["MOM"]
 article_number: 52
 published: "2026-05-04"
 source_verified: "2026-05-04"

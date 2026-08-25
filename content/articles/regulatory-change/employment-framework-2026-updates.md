@@ -4,6 +4,8 @@ slug: "/regulatory-change/employment-framework-2026-updates"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "TAFEP", "MOM"]
 article_number: 179
 published: "2026-05-05"
 source_verified: "2026-05-05"

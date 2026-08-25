@@ -4,6 +4,8 @@ slug: "/edge-case/pawnshop-pawnbroker-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes", "MinLaw", "SPF"]
 article_number: 332
 published: "2026-05-06"
 source_verified: "2026-05-06"

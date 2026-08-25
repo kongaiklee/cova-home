@@ -4,6 +4,8 @@ slug: "/document-legal/faa-section-27-suitability-assessment"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "Courts"]
 article_number: 181
 published: "2026-05-05"
 source_verified: "2026-05-05"

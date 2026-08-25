@@ -4,6 +4,8 @@ slug: "/regulatory-change/pdpa-2022-penalty"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "PDPC"]
 article_number: 13
 published: "2026-05-03"
 source_verified: "2026-05-03"

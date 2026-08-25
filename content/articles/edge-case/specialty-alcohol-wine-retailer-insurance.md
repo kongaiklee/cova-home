@@ -4,6 +4,8 @@ slug: "/edge-case/specialty-alcohol-wine-retailer-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Public Liability", "Property & Fire", "Marine & Cargo"]
+industries: ["Retail / e-commerce"]
+agencies: ["Singapore Statutes", "SPF", "CUSTOMS", "SFA", "IRAS"]
 article_number: 325
 published: "2026-05-06"
 source_verified: "2026-05-06"

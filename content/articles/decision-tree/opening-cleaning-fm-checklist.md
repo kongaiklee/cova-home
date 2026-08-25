@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-cleaning-fm-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["General"]
+industries: ["Security / facilities"]
+agencies: ["NEA", "MOM", "Singapore Statutes"]
 article_number: 219
 published: "2026-05-05"
 source_verified: "2026-05-05"

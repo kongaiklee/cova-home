@@ -4,6 +4,8 @@ slug: "/edge-case/specialty-tea-coffee-roaster"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["SFA", "CUSTOMS", "BCA", "Singapore Statutes"]
 article_number: 338
 published: "2026-05-06"
 source_verified: "2026-05-06"

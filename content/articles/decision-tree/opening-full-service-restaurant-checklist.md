@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-full-service-restaurant-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["F&B"]
+agencies: ["SCDF", "URA", "NEA", "SFA", "SPF", "Singapore Statutes", "MUIS"]
 article_number: 122
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/cross-border/sg-saas-data-residency-decisions"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Property & Fire", "Professional Indemnity", "Cyber"]
+industries: ["Tech / startup"]
+agencies: ["Singapore Statutes", "PDPC"]
 article_number: 117
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/edge-case/axe-throwing-experiential-venue-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Events"]
+agencies: ["ACRA", "SCDF", "URA", "SPF", "SFA", "Singapore Statutes"]
 article_number: 163
 published: "2026-05-05"
 source_verified: "2026-05-05"

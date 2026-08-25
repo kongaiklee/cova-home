@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-private-security-firm-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Professional services", "Security / facilities"]
+agencies: ["Singapore Statutes", "SPF"]
 article_number: 160
 published: "2026-05-05"
 source_verified: "2026-05-05"

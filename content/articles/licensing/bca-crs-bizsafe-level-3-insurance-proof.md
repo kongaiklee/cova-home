@@ -4,6 +4,8 @@ slug: "/licensing/bca-crs-bizsafe-level-3-insurance-proof"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: ["Construction"]
+agencies: ["BCA", "MOM", "WSH Council"]
 article_number: 2
 published: "2026-05-03"
 source_verified: "2026-05-03"

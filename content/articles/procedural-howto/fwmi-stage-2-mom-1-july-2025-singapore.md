@@ -4,6 +4,8 @@ slug: "/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Foreign Workers"]
+industries: []
+agencies: ["MOM", "Singapore Statutes"]
 article_number: 374
 published: "2026-05-07"
 source_verified: "2026-05-07"

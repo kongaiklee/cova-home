@@ -4,6 +4,8 @@ slug: "/decision-tree/light-manufacturing-sme"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Property & Fire", "Motor & Fleet"]
+industries: ["Tech / startup", "Manufacturing"]
+agencies: ["Singapore Statutes", "MOM", "SFA", "HSA", "NEA"]
 article_number: 246
 published: "2026-05-05"
 source_verified: "2026-05-05"

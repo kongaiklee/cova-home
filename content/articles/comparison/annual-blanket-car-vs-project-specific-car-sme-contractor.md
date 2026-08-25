@@ -4,6 +4,8 @@ slug: "/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Public Liability", "Construction"]
+industries: ["Construction"]
+agencies: ["GIA", "BCA"]
 article_number: 398
 published: "2026-05-14"
 source_verified: "2026-05-14"

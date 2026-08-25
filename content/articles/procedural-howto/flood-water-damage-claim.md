@@ -4,6 +4,8 @@ slug: "/procedural-howto/flood-water-damage-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire"]
+industries: ["Property"]
+agencies: ["GIA", "PUB"]
 article_number: 45
 published: "2026-05-04"
 source_verified: "2026-05-04"

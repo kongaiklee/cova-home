@@ -4,6 +4,8 @@ slug: "/document-legal/cybersecurity-act-cii-designation"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Cyber"]
+industries: ["Security / facilities"]
+agencies: ["Singapore Statutes", "CSA"]
 article_number: 76
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/association/casetrust-rcma-joint-accreditation-comparison"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["General"]
+industries: []
+agencies: ["MOM"]
 article_number: 24
 published: "2026-05-03"
 source_verified: "2026-05-03"

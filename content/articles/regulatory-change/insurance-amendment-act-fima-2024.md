@@ -4,6 +4,8 @@ slug: "/regulatory-change/insurance-amendment-act-fima-2024"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "PDPC", "MOM"]
 article_number: 353
 published: "2026-05-06"
 source_verified: "2026-05-06"

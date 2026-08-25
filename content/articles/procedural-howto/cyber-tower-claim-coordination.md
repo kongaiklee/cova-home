@@ -4,6 +4,8 @@ slug: "/procedural-howto/cyber-tower-claim-coordination"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "CSA", "PDPC"]
 article_number: 205
 published: "2026-05-05"
 source_verified: "2026-05-05"

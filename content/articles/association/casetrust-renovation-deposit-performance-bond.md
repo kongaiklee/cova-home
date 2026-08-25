@@ -4,6 +4,8 @@ slug: "/association/casetrust-renovation-deposit-performance-bond"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Construction"]
+industries: ["Construction"]
+agencies: []
 article_number: 4
 published: "2026-05-03"
 source_verified: "2026-05-03"

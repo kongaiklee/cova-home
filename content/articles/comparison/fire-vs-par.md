@@ -4,6 +4,8 @@ slug: "/comparison/fire-vs-par"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire"]
+industries: ["Property"]
+agencies: ["GIA"]
 article_number: 63
 published: "2026-05-04"
 source_verified: "2026-05-04"

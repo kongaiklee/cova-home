@@ -4,6 +4,8 @@ slug: "/crisis/mass-layoff-restructuring"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["General"]
+industries: []
+agencies: ["MOM", "Singapore Statutes", "WSG"]
 article_number: 146
 published: "2026-05-05"
 source_verified: "2026-05-05"

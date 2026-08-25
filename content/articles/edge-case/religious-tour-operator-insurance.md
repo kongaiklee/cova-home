@@ -4,6 +4,8 @@ slug: "/edge-case/religious-tour-operator-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: ["Hospitality / travel"]
+agencies: ["Singapore Statutes", "STB", "MUIS", "MAS", "MFA"]
 article_number: 216
 published: "2026-05-05"
 source_verified: "2026-05-05"

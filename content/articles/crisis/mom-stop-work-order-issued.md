@@ -4,6 +4,8 @@ slug: "/crisis/mom-stop-work-order-issued"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Work Injury (WICA)", "Property & Fire", "Professional Indemnity"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "GIA"]
 article_number: 92
 published: "2026-05-04"
 source_verified: "2026-05-04"

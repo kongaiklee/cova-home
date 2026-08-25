@@ -4,6 +4,8 @@ slug: "/edge-case/floristry-event-florist"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Events"]
+agencies: ["ACRA", "URA", "SCDF", "NPARKS", "Singapore Statutes", "NEA", "MOM", "CCCS"]
 article_number: 319
 published: "2026-05-06"
 source_verified: "2026-05-06"

@@ -4,6 +4,8 @@ slug: "/edge-case/commercial-drone-operator-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Professional Indemnity"]
+industries: ["Logistics", "Events"]
+agencies: ["CAAS", "Singapore Statutes", "ACRA"]
 article_number: 143
 published: "2026-05-05"
 source_verified: "2026-05-05"

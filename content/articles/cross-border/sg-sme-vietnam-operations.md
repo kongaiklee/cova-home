@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-vietnam-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Construction"]
+industries: []
+agencies: []
 article_number: 127
 published: "2026-05-05"
 source_verified: "2026-05-05"

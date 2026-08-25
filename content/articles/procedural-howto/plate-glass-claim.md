@@ -4,6 +4,8 @@ slug: "/procedural-howto/plate-glass-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["GIA", "BCA"]
 article_number: 61
 published: "2026-05-04"
 source_verified: "2026-05-04"

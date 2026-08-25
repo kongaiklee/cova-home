@@ -4,6 +4,8 @@ slug: "/decision-tree/opening-dental-practice-checklist"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Healthcare"]
+agencies: ["MOH", "Singapore Statutes"]
 article_number: 131
 published: "2026-05-05"
 source_verified: "2026-05-05"

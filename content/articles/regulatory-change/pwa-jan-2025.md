@@ -4,6 +4,8 @@ slug: "/regulatory-change/pwa-jan-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)"]
+industries: []
+agencies: ["Singapore Statutes", "MOM"]
 article_number: 12
 published: "2026-05-03"
 source_verified: "2026-05-03"

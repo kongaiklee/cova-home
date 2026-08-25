@@ -4,6 +4,8 @@ slug: "/association/sisv-land-surveyors-board-insurance-framework"
 category: "association"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity"]
+industries: []
+agencies: ["MinLaw", "Singapore Statutes", "SLA"]
 article_number: 283
 published: "2026-05-14"
 source_verified: "2026-05-14"

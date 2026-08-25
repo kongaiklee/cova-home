@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["MOM", "Singapore Statutes", "GIA"]
 article_number: 347
 published: "2026-05-06"
 source_verified: "2026-05-06"

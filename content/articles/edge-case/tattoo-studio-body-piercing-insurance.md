@@ -4,6 +4,8 @@ slug: "/edge-case/tattoo-studio-body-piercing-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: []
+agencies: ["ACRA", "NEA", "SCDF", "URA", "MOH"]
 article_number: 153
 published: "2026-05-05"
 source_verified: "2026-05-05"

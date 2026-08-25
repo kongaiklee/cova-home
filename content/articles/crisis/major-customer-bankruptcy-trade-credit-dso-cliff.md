@@ -4,6 +4,8 @@ slug: "/crisis/major-customer-bankruptcy-trade-credit-dso-cliff"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["General"]
+industries: ["Events"]
+agencies: ["Singapore Statutes", "Courts"]
 article_number: 291
 published: "2026-05-14"
 source_verified: "2026-05-14"

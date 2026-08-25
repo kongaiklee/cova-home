@@ -4,6 +4,8 @@ slug: "/edge-case/escape-room-entertainment-venue-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Events"]
+agencies: ["ACRA", "SCDF", "URA", "Singapore Statutes"]
 article_number: 123
 published: "2026-05-05"
 source_verified: "2026-05-05"

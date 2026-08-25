@@ -4,6 +4,8 @@ slug: "/regulatory-change/hcsa-full-implementation-review"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity"]
+industries: ["Healthcare"]
+agencies: ["Singapore Statutes", "MOH"]
 article_number: 176
 published: "2026-05-05"
 source_verified: "2026-05-05"

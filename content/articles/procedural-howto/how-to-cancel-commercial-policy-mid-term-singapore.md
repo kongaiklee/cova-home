@@ -4,6 +4,8 @@ slug: "/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "MOM", "Courts", "IRAS"]
 article_number: 406
 published: "2026-05-14"
 source_verified: "2026-05-14"

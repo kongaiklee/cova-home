@@ -4,6 +4,8 @@ slug: "/decision-tree/property-management-firm"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Professional Indemnity", "Management Liability (D&O)"]
+industries: ["Tech / startup", "Property"]
+agencies: ["BCA", "Singapore Statutes", "STRATATB", "MAS", "GIA", "PDPC"]
 article_number: 248
 published: "2026-05-05"
 source_verified: "2026-05-05"

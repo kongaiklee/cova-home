@@ -4,6 +4,8 @@ slug: "/edge-case/cryptocurrency-web3-operator-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Professional Indemnity", "Management Liability (D&O)", "Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 222
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -4,6 +4,8 @@ slug: "/comparison/epl-standalone-vs-bundled-management-liability-sme"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Management Liability (D&O)", "Cyber", "Fidelity"]
+industries: []
+agencies: ["Singapore Statutes", "PARLIAMENT"]
 article_number: 391
 published: "2026-05-14"
 source_verified: "2026-05-14"

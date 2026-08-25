@@ -4,6 +4,8 @@ slug: "/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "Courts", "BCA", "MTI", "MOM", "CPF Board", "CSA", "MAS", "IRAS"]
 article_number: 401
 published: "2026-05-08"
 source_verified: "2026-05-08"

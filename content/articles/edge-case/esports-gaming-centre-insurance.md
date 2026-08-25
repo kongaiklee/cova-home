@@ -4,6 +4,8 @@ slug: "/edge-case/esports-gaming-centre-insurance"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["F&B"]
+agencies: ["ACRA", "SCDF", "URA", "SPF"]
 article_number: 124
 published: "2026-05-05"
 source_verified: "2026-05-05"

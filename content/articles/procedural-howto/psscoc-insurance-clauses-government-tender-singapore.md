@@ -4,6 +4,8 @@ slug: "/procedural-howto/psscoc-insurance-clauses-government-tender-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Public Liability", "Construction"]
+industries: ["Construction"]
+agencies: ["BCA", "Singapore Statutes"]
 article_number: 372
 published: "2026-05-07"
 source_verified: "2026-05-07"

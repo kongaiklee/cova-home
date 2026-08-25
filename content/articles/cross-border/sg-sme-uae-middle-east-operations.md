@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-uae-middle-east-operations"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Motor & Fleet"]
+industries: []
+agencies: ["FTA"]
 article_number: 237
 published: "2026-05-05"
 source_verified: "2026-05-05"

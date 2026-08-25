@@ -4,6 +4,8 @@ slug: "/comparison/indemnity-vs-reinstatement-basis"
 category: "comparison"
 intent: "make-the-call"
 topics: ["General"]
+industries: []
+agencies: ["GIA", "Singapore Statutes", "BCA"]
 article_number: 65
 published: "2026-05-04"
 source_verified: "2026-05-04"

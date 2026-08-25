@@ -4,6 +4,8 @@ slug: "/crisis/director-death-sudden-incapacity-key-person-event"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Management Liability (D&O)"]
+industries: ["Events"]
+agencies: ["Singapore Statutes", "ACRA"]
 article_number: 296
 published: "2026-05-14"
 source_verified: "2026-05-14"

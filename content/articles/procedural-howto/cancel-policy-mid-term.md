@@ -4,6 +4,8 @@ slug: "/procedural-howto/cancel-policy-mid-term"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["Singapore Statutes", "GIA", "LTA"]
 article_number: 42
 published: "2026-05-04"
 source_verified: "2026-05-04"

@@ -4,6 +4,8 @@ slug: "/cross-border/multi-country-regional-structure"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["General"]
+industries: ["Professional services"]
+agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 236
 published: "2026-05-05"
 source_verified: "2026-05-05"

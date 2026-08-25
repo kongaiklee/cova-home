@@ -4,6 +4,8 @@ slug: "/crisis/vendor-data-breach-affecting-your-customers"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes", "PDPC"]
 article_number: 299
 published: "2026-05-14"
 source_verified: "2026-05-14"

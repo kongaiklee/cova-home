@@ -4,6 +4,8 @@ slug: "/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-mana
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Property & Fire"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 261
 published: "2026-05-14"
 source_verified: "2026-05-14"

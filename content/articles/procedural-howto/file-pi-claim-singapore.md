@@ -4,6 +4,8 @@ slug: "/procedural-howto/file-pi-claim-singapore"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Professional Indemnity"]
+industries: ["Professional services"]
+agencies: ["Singapore Statutes"]
 article_number: 107
 published: "2026-05-04"
 source_verified: "2026-05-04"

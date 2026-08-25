@@ -4,6 +4,8 @@ slug: "/edge-case/driving-school-motoring-instructor"
 category: "edge-case"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Public Liability", "Property & Fire"]
+industries: ["Education"]
+agencies: ["SPF", "Singapore Statutes", "LTA"]
 article_number: 340
 published: "2026-05-06"
 source_verified: "2026-05-06"

@@ -4,6 +4,8 @@ slug: "/crisis/bec-wire-fraud-loss-discovered"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Cyber"]
+industries: []
+agencies: ["Singapore Statutes", "CSA", "SPF", "SCAMSHIELD"]
 article_number: 364
 published: "2026-05-06"
 source_verified: "2026-05-06"

@@ -4,6 +4,8 @@ slug: "/regulatory-change/iras-invoicenow-einvoicing-rollout"
 category: "regulatory-change"
 intent: "know-where-you-stand"
 topics: ["Cyber"]
+industries: []
+agencies: ["IRAS", "IMDA"]
 article_number: 175
 published: "2026-05-05"
 source_verified: "2026-05-05"

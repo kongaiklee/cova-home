@@ -4,6 +4,8 @@ slug: "/procedural-howto/dispute-denied-claim"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["General"]
+industries: []
+agencies: ["GIA"]
 article_number: 43
 published: "2026-05-04"
 source_verified: "2026-05-04"

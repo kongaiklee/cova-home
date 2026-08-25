@@ -4,6 +4,8 @@ slug: "/cross-border/sg-sme-philippines-remote-workers"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["Singapore Statutes"]
 article_number: 88
 published: "2026-05-04"
 source_verified: "2026-05-04"

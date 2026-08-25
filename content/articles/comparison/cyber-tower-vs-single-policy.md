@@ -4,6 +4,8 @@ slug: "/comparison/cyber-tower-vs-single-policy"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Cyber"]
+industries: []
+agencies: ["MAS", "Singapore Statutes", "GIA", "PDPC", "Courts"]
 article_number: 167
 published: "2026-05-05"
 source_verified: "2026-05-05"

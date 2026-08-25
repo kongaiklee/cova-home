@@ -4,6 +4,8 @@ slug: "/procedural-howto/apply-fsc-scdf-fire-safety-certificate"
 category: "procedural-howto"
 intent: "get-it-right"
 topics: ["Property & Fire"]
+industries: []
+agencies: []
 article_number: 36
 published: "2026-05-03"
 source_verified: "2026-05-03"

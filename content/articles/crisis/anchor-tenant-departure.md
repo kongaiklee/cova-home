@@ -4,6 +4,8 @@ slug: "/crisis/anchor-tenant-departure"
 category: "crisis"
 intent: "steady-the-ship"
 topics: ["Property & Fire"]
+industries: ["Property"]
+agencies: ["SLA", "Singapore Statutes", "IPOS"]
 article_number: 136
 published: "2026-05-05"
 source_verified: "2026-05-05"

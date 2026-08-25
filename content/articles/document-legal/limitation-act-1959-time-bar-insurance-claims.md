@@ -4,6 +4,8 @@ slug: "/document-legal/limitation-act-1959-time-bar-insurance-claims"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Marine & Cargo"]
+industries: []
+agencies: ["Singapore Statutes", "Courts", "MOM"]
 article_number: 256
 published: "2026-05-14"
 source_verified: "2026-05-14"

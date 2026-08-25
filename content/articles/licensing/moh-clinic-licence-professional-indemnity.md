@@ -4,6 +4,8 @@ slug: "/licensing/moh-clinic-licence-professional-indemnity"
 category: "licensing"
 intent: "know-where-you-stand"
 topics: ["Professional Indemnity"]
+industries: ["Healthcare", "Professional services"]
+agencies: ["MOH"]
 article_number: 27
 published: "2026-05-03"
 source_verified: "2026-05-03"

@@ -4,6 +4,8 @@ slug: "/cross-border/foreign-subsidiary-insurance-scope"
 category: "cross-border"
 intent: "beyond-the-basics"
 topics: ["Work Injury (WICA)", "Professional Indemnity", "Management Liability (D&O)"]
+industries: []
+agencies: ["MAS", "Singapore Statutes"]
 article_number: 302
 published: "2026-05-06"
 source_verified: "2026-05-06"

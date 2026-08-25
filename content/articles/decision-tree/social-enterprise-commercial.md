@@ -4,6 +4,8 @@ slug: "/decision-tree/social-enterprise-commercial"
 category: "decision-tree"
 intent: "make-the-call"
 topics: ["Public Liability", "Professional Indemnity", "Management Liability (D&O)"]
+industries: ["Tech / startup"]
+agencies: ["CHARITIES", "ACRA", "Singapore Statutes", "MCCY", "MSF", "MOM"]
 article_number: 242
 published: "2026-05-05"
 source_verified: "2026-05-05"

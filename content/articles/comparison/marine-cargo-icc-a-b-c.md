@@ -4,6 +4,8 @@ slug: "/comparison/marine-cargo-icc-a-b-c"
 category: "comparison"
 intent: "make-the-call"
 topics: ["Property & Fire", "Marine & Cargo"]
+industries: ["Maritime / cargo"]
+agencies: ["Singapore Statutes", "GIA", "Courts"]
 article_number: 192
 published: "2026-05-05"
 source_verified: "2026-05-05"
