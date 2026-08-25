@@ -1,5 +1,6 @@
 ---
 title: "How to Handle a Subrogation Claim Against Your Business"
+meta_description: "Per Castellian v Preston (1883) 11 QBD 380, the insurer takes \"the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in..."
 slug: "/procedural-howto/handle-subrogation-claim"
 category: "procedural-howto"
 intent: "get-it-right"

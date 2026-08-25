@@ -1,5 +1,6 @@
 ---
 title: "How to Add a New Operating Location to Existing Insurance Policy"
+meta_description: "Step 1 - Notify before you operate. The duty of utmost good faith (uberrimae fidei) - codified in section 17 of the Marine Insurance Act and applied at..."
 slug: "/procedural-howto/add-new-location"
 category: "procedural-howto"
 intent: "get-it-right"

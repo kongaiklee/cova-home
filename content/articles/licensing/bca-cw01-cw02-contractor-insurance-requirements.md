@@ -1,5 +1,6 @@
 ---
 title: "What Insurance Do BCA CW01 and CW02 Contractors Actually Need?"
+meta_description: "CW01 and CW02 are BCA's two main \"construction workheads\" under the Contractors Registration System (CRS). Per the BCA CW SRR (Jun 2025 Edition), CW01..."
 slug: "/licensing/bca-cw01-cw02-contractor-insurance-requirements"
 category: "licensing"
 intent: "know-where-you-stand"

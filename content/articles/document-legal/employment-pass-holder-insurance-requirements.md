@@ -1,5 +1,6 @@
 ---
 title: "What Insurance Must Employers Provide for Employment Pass Holders?"
+meta_description: "The Employment Pass is for foreign professionals, managers, and executives. Per MOM's Employment Pass page and the Singapore EDB announcement, from 1..."
 slug: "/document-legal/employment-pass-holder-insurance-requirements"
 category: "document-legal"
 intent: "get-it-right"

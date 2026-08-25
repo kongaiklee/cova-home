@@ -1,5 +1,6 @@
 ---
 title: "What Is SCAL's SgMA, and How Does It Affect My Insurance?"
+meta_description: "Per the SC2 SgMA page, SgMA is \"a simplified version of the WSH Management System introduced by SCAL to enhance the WSH capabilities of the Singapore List..."
 slug: "/association/scal-sgma-impact-on-insurance"
 category: "association"
 intent: "know-where-you-stand"

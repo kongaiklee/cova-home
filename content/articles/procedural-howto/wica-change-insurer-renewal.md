@@ -1,5 +1,6 @@
 ---
 title: "How to Renew WICA When Changing to a Different Insurer"
+meta_description: "For platform operators (6 designated, list dated 26 Dec 2024): Chubb, Etiqa, Grabinsure (S), Great Eastern General, Income Insurance, Singapore Life."
 slug: "/procedural-howto/wica-change-insurer-renewal"
 category: "procedural-howto"
 intent: "get-it-right"

@@ -1,5 +1,6 @@
 ---
 title: "How to Update Insurance After Acquiring Another Business"
+meta_description: "Step 1 - Pre-completion: notify current insurers. Most commercial wordings require notification within set windows (commonly 14-30 days for subsidiary..."
 slug: "/procedural-howto/update-insurance-after-acquisition"
 category: "procedural-howto"
 intent: "get-it-right"

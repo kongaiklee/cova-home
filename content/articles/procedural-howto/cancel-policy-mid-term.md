@@ -1,5 +1,6 @@
 ---
 title: "How to Cancel a Commercial Insurance Policy Mid-Term"
+meta_description: "A representative regional short-period scale (Lawyerment, citing Malaysian customary practice that broadly mirrors regional market norms) keeps roughly..."
 slug: "/procedural-howto/cancel-policy-mid-term"
 category: "procedural-howto"
 intent: "get-it-right"

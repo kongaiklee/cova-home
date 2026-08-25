@@ -1,5 +1,6 @@
 ---
 title: "Why Do Singapore Doctors Use \"Mutual Indemnity\" Instead of Insurance?"
+meta_description: "Per the SMC Practising Certificate page, every fully or conditionally registered medical practitioner must apply for and renew a PC to practise medicine..."
 slug: "/comparison/medical-mutual-indemnity-vs-commercial-insurance"
 category: "comparison"
 intent: "make-the-call"

@@ -1,5 +1,6 @@
 ---
 title: "How to File a Fidelity Guarantee Claim - Employee Dishonesty"
+meta_description: "Does not cover: losses by directors/owners; losses by employees not on the declared list (some policies); losses discovered after the run-off window..."
 slug: "/procedural-howto/fidelity-guarantee-employee-theft-claim"
 category: "procedural-howto"
 intent: "get-it-right"

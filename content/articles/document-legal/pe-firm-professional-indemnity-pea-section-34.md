@@ -1,5 +1,6 @@
 ---
 title: "When Must a PE Firm Carry Professional Indemnity Under the Professional Engineers Act?"
+meta_description: "The Professional Engineers Board Singapore (PEB) is a statutory board under the Ministry of National Development. Per the PEB website, PEB is responsible..."
 slug: "/document-legal/pe-firm-professional-indemnity-pea-section-34"
 category: "document-legal"
 intent: "get-it-right"

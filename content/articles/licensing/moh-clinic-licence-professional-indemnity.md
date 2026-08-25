@@ -1,5 +1,6 @@
 ---
 title: "Does an MOH Clinic Licence Require Professional Indemnity Insurance?"
+meta_description: "Singapore's regulation of medical practice splits cleanly between:"
 slug: "/licensing/moh-clinic-licence-professional-indemnity"
 category: "licensing"
 intent: "know-where-you-stand"

@@ -1,5 +1,6 @@
 ---
 title: "What Insurance Does an ECDA-Licensed Childcare Centre Need?"
+meta_description: "Per the ECDA setting-up page, all Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development..."
 slug: "/licensing/ecda-licensed-childcare-centre-insurance"
 category: "licensing"
 intent: "know-where-you-stand"

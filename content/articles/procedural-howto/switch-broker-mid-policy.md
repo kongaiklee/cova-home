@@ -1,5 +1,6 @@
 ---
 title: "How to Switch Insurance Brokers Mid-Policy in Singapore"
+meta_description: "Insurance brokers in Singapore are regulated under the Insurance Act 1966 and must be either registered insurance brokers or approved insurance brokers,..."
 slug: "/procedural-howto/switch-broker-mid-policy"
 category: "procedural-howto"
 intent: "get-it-right"

@@ -1,5 +1,6 @@
 ---
 title: "How to File a Property All Risks Claim - Flood and Water Damage"
+meta_description: "Per GIA: \"Offering a wider but more expensive cover is the all risks policy. Although it includes accidental damage, it can have a longer exclusion list..."
 slug: "/procedural-howto/flood-water-damage-claim"
 category: "procedural-howto"
 intent: "get-it-right"

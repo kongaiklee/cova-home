@@ -1,5 +1,6 @@
 ---
 title: "CaseTrust-RCMA Joint Accreditation: How Is It Different from CaseTrust-Only?"
+meta_description: "Per the CaseTrust accreditation FAQ, there are two parallel schemes for renovation businesses:"
 slug: "/association/casetrust-rcma-joint-accreditation-comparison"
 category: "association"
 intent: "know-where-you-stand"

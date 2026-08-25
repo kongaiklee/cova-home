@@ -1,5 +1,6 @@
 ---
 title: "How to Complete an Insurance Proposal Form Properly"
+meta_description: "Materiality test (per CMS Singapore guide): non-disclosure is material if (i) it relates to circumstances that a prudent insurer would objectively have..."
 slug: "/procedural-howto/complete-proposal-form"
 category: "procedural-howto"
 intent: "get-it-right"

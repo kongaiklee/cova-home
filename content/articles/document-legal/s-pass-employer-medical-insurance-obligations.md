@@ -1,5 +1,6 @@
 ---
 title: "What Are S Pass Employers' Medical Insurance Obligations?"
+meta_description: "The S Pass is a mid-skilled work pass. Per MOM's S Pass page and the March 2025 Committee of Supply update, from 1 September 2025 the minimum qualifying..."
 slug: "/document-legal/s-pass-employer-medical-insurance-obligations"
 category: "document-legal"
 intent: "get-it-right"

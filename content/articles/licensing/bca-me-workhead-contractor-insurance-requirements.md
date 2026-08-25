@@ -1,5 +1,6 @@
 ---
 title: "What Insurance Do BCA ME Workhead Contractors Need?"
+meta_description: "The ME Specific Registration Requirements (ME SRR) define each ME workhead and the regulatory licences each requires. Examples:"
 slug: "/licensing/bca-me-workhead-contractor-insurance-requirements"
 category: "licensing"
 intent: "know-where-you-stand"

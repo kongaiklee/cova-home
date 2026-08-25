@@ -1,5 +1,6 @@
 ---
 title: "How to Dispute a Denied Insurance Claim in Singapore"
+meta_description: "Step 1 - Demand a written denial. The insurer must specify the policy clause and the factual basis. Verbal \"we won't pay\" is not actionable. Get it on..."
 slug: "/procedural-howto/dispute-denied-claim"
 category: "procedural-howto"
 intent: "get-it-right"
