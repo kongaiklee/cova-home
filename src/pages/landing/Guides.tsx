@@ -42,7 +42,7 @@ export default function Guides() {
                   <Link key={it.href} to={it.href} className="block border-t border-border-primary py-[18px] font-serif text-[22px]/[1.3] tracking-[-0.5px] text-text-primary no-underline hover:text-primary">{it.title}</Link>
                 ))}
                 <div className="mt-[22px]">
-                  <Link to={g.moreHref} className="inline-block border-b border-[#c2d4e2] pb-px text-[15px] font-medium text-primary">{g.more} &rarr;</Link>
+                  <Link to={g.moreHref} className="inline-block border-b border-[#c2d4e2] pb-px text-[15px] font-medium text-primary">{g.more}</Link>
                 </div>
               </div>
             ))}
@@ -67,7 +67,7 @@ export default function Guides() {
                   <Link key={it.href} to={it.href} className="block border-t border-border-primary py-3.5 font-serif text-[19px]/[1.3] tracking-[-0.4px] text-text-primary no-underline">{it.title}</Link>
                 ))}
                 <div className="mt-4">
-                  <Link to={g.moreHref} className="inline-block border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">{g.more} &rarr;</Link>
+                  <Link to={g.moreHref} className="inline-block border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">{g.more}</Link>
                 </div>
               </div>
             </div>
