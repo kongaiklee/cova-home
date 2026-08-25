@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes"]
 article_number: 135
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1782
+word_count: 1757
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/pr-crisis-social-media-incident"
+canonical_url: "https://covarage.com/guides/crisis/pr-crisis-social-media-incident"
 meta_description: "First, do not make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response..."
 og_title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?"
 og_description: "First, do not make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response..."

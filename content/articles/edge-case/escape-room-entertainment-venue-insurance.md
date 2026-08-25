@@ -9,10 +9,10 @@ agencies: ["ACRA", "SCDF", "URA", "Singapore Statutes"]
 article_number: 123
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1702
+word_count: 1682
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/escape-room-entertainment-venue-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/escape-room-entertainment-venue-insurance"
 meta_description: "Singapore escape rooms and similar interactive entertainment venues (immersive experiences, mini-golf indoor centres, themed entertainment, virtual..."
 og_title: "Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need"
 og_description: "Singapore escape rooms and similar interactive entertainment venues (immersive experiences, mini-golf indoor centres, themed entertainment, virtual..."

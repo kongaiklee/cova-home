@@ -9,10 +9,10 @@ agencies: ["LIA", "GIA", "Singapore Statutes", "SDIC", "MOM", "MOH"]
 article_number: 392
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2534
+word_count: 2488
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/group-personal-accident-vs-group-term-life-sme"
+canonical_url: "https://covarage.com/guides/comparison/group-personal-accident-vs-group-term-life-sme"
 meta_description: "Singapore SMEs offering group employee benefits typically choose between (or combine) two structural products: (1) Group Personal Accident (GPA) - pays..."
 og_title: "Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework"
 og_description: "Singapore SMEs offering group employee benefits typically choose between (or combine) two structural products: (1) Group Personal Accident (GPA) - pays..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "GIA", "Courts"]
 article_number: 192
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1890
+word_count: 1871
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/marine-cargo-icc-a-b-c"
+canonical_url: "https://covarage.com/guides/comparison/marine-cargo-icc-a-b-c"
 meta_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest - \"all..."
 og_title: "Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope"
 og_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest - \"all..."

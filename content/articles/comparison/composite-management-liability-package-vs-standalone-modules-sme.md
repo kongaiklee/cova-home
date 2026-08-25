@@ -9,10 +9,10 @@ agencies: []
 article_number: 393
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2502
+word_count: 2456
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/composite-management-liability-package-vs-standalone-modules-sme"
+canonical_url: "https://covarage.com/guides/comparison/composite-management-liability-package-vs-standalone-modules-sme"
 meta_description: "Singapore SMEs procure their management and professional liability portfolio through two structural routes: (1) Composite Management Liability Package - a..."
 og_title: "Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework"
 og_description: "Singapore SMEs procure their management and professional liability portfolio through two structural routes: (1) Composite Management Liability Package - a..."

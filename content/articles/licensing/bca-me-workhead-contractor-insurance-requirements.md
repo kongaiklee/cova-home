@@ -1,6 +1,5 @@
 ---
 title: "What Insurance Do BCA ME Workhead Contractors Need?"
-meta_description: "The ME Specific Registration Requirements (ME SRR) define each ME workhead and the regulatory licences each requires. Examples:"
 slug: "/licensing/bca-me-workhead-contractor-insurance-requirements"
 category: "licensing"
 intent: "know-where-you-stand"
@@ -10,15 +9,16 @@ agencies: ["EMA", "BCA", "PEB", "MOM"]
 article_number: 22
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 983
+word_count: 936
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
-canonical_url: "https://covarage.com/licensing/bca-me-workhead-contractor-insurance-requirements"
+canonical_url: "https://covarage.com/guides/licensing/bca-me-workhead-contractor-insurance-requirements"
+meta_description: "The ME Specific Registration Requirements (ME SRR) define each ME workhead and the regulatory licences each requires. Examples:"
 og_title: "What Insurance Do BCA ME Workhead Contractors Need?"
+og_description: "The ME Specific Registration Requirements (ME SRR) define each ME workhead and the regulatory licences each requires. Examples:"
 ---
 
 > **The 60-second answer:** BCA's ME workheads (ME01 to ME15) cover specialist mechanical and electrical work - air-conditioning, electrical engineering, fire protection, building automation, lifts and escalators, and more. Per the [BCA ME SRR (Jun 2022 Edition)](https://file.go.gov.sg/bca-crs-srr-me.pdf), ME registration requires specific personnel licences (e.g., a Licensed Electrical Worker for ME05, IMDA telecom contractor's licence for ME10) - but BCA does not directly mandate insurance amounts. Insurance for ME firms typically comes from WICA, project tender requirements, and - for design-and-build M&E work - Professional Indemnity.
-
 
 ## The Sourced Detail
 
@@ -66,7 +66,6 @@ Two practical traps worth flagging. First, the "subcontractor PI gap": if you're
 3. Does my PL policy cover fire damage caused by my electrical work, or is there a sub-limit?
 4. For lift/escalator/chiller installation, should I be on CAR or EAR? What's the practical difference for my biggest project?
 5. If I'm a licensed PE corporation, what indemnity limit should my section 34 policy carry?
-
 
 ## Related Information
 - Licensed Electrical Workers under EMA - what your firm needs

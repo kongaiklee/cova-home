@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "ACRA", "Courts"]
 article_number: 155
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1788
+word_count: 1785
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/partner-exit-shareholder-dispute"
+canonical_url: "https://covarage.com/guides/crisis/partner-exit-shareholder-dispute"
 meta_description: "First, immediately review the company's shareholders' agreement, constitution, and any founder agreements for: exit / buy-sell mechanisms, valuation..."
 og_title: "A Co-Founder or Major Shareholder Wants to Exit and Things Have Turned Adversarial - What Do I Do Now?"
 og_description: "First, immediately review the company's shareholders' agreement, constitution, and any founder agreements for: exit / buy-sell mechanisms, valuation..."

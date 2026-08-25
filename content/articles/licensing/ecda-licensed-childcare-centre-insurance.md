@@ -1,6 +1,5 @@
 ---
 title: "What Insurance Does an ECDA-Licensed Childcare Centre Need?"
-meta_description: "Per the ECDA setting-up page, all Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development..."
 slug: "/licensing/ecda-licensed-childcare-centre-insurance"
 category: "licensing"
 intent: "know-where-you-stand"
@@ -10,15 +9,16 @@ agencies: ["Singapore Statutes", "ECDA", "MSF"]
 article_number: 29
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1114
+word_count: 1067
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
-canonical_url: "https://covarage.com/licensing/ecda-licensed-childcare-centre-insurance"
+canonical_url: "https://covarage.com/guides/licensing/ecda-licensed-childcare-centre-insurance"
+meta_description: "Per the ECDA setting-up page, all Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development..."
 og_title: "What Insurance Does an ECDA-Licensed Childcare Centre Need?"
+og_description: "Per the ECDA setting-up page, all Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development..."
 ---
 
 > **The 60-second answer:** Per the [Early Childhood Development Centres Regulations 2018](https://sso.agc.gov.sg/SL-Supp/S890-2018/Published/20181228) and the [ECDA Code of Practice (Fourth Edition, 2025)](https://www.ecda.gov.sg/docs/default-source/default-document-library/operator/ecda-cop-(third-edition).pdf), **ECDA does not prescribe a mandatory minimum sum insured for public liability insurance** in the Regulations or Code. WICA is mandatory under MOM rules. Public liability, professional indemnity, and abuse/molestation cover are operational necessities and standard insurer offerings - but not regulatory minimums set by ECDA itself.
-
 
 ## The Sourced Detail
 
@@ -73,7 +73,6 @@ Another commonly-missed area: cyber. Parental WhatsApp groups, photo-sharing app
 3. Educators' PI - do I have it, and what's the trigger (negligent advice, misjudgement of medical emergency)?
 4. Cyber and PDPA - am I covered for parental data breaches?
 5. Field trips and external contractors (e.g., bus operators) - are their insurances additional named insureds on mine, or vice versa?
-
 
 ## Related Information
 - ECDA Code of Practice - what's mandatory and what isn't

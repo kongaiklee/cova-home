@@ -9,13 +9,13 @@ agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 199
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2019
+word_count: 2009
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/trade-credit-vs-letters-of-credit"
-meta_description: "Trade Credit insurance and Letters of Credit (L/C) address the same fundamental commercial question - how to protect against customer non-payment  - ..."
+canonical_url: "https://covarage.com/guides/comparison/trade-credit-vs-letters-of-credit"
+meta_description: "Trade Credit insurance and Letters of Credit (L/C) address the same fundamental commercial question - how to protect against customer non-payment -..."
 og_title: "Trade Credit Insurance vs Letters of Credit: Two Approaches to Customer Payment Risk"
-og_description: "Trade Credit insurance and Letters of Credit (L/C) address the same fundamental commercial question - how to protect against customer non-payment  - ..."
+og_description: "Trade Credit insurance and Letters of Credit (L/C) address the same fundamental commercial question - how to protect against customer non-payment -..."
 ---
 
 > **The Answer in 60 Seconds**

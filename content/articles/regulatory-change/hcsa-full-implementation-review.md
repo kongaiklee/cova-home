@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOH"]
 article_number: 176
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1317
+word_count: 1294
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/hcsa-full-implementation-review"
+canonical_url: "https://covarage.com/guides/regulatory-change/hcsa-full-implementation-review"
 meta_description: "The Healthcare Services Act 2020 (HCSA), administered by MOH, replaces the prior Private Hospitals and Medical Clinics Act framework with a service-based..."
 og_title: "Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know"
 og_description: "The Healthcare Services Act 2020 (HCSA), administered by MOH, replaces the prior Private Hospitals and Medical Clinics Act framework with a service-based..."

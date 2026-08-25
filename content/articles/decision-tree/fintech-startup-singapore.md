@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS"]
 article_number: 249
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1405
+word_count: 1402
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/fintech-startup-singapore"
+canonical_url: "https://covarage.com/guides/decision-tree/fintech-startup-singapore"
 meta_description: "Fintech startups in Singapore - covering payment service providers under Payment Services Act 2019 (PSA), digital banking, lending platforms,..."
 og_title: "SME Startup Decision Tree: Fintech Startup - Foundational Insurance Procurement"
 og_description: "Fintech startups in Singapore - covering payment service providers under Payment Services Act 2019 (PSA), digital banking, lending platforms,..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "PDPC", "SCDF"]
 article_number: 228
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1284
+word_count: 1276
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/co-working-space-operator-singapore"
+canonical_url: "https://covarage.com/guides/edge-case/co-working-space-operator-singapore"
 meta_description: "Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
 og_title: "Co-Working Space Operator: The Specific Insurance Profile for Singapore Flexible Workspace Operations"
 og_description: "Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."

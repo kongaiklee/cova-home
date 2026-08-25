@@ -9,10 +9,10 @@ agencies: []
 article_number: 4
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1038
+word_count: 1000
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/casetrust-renovation-deposit-performance-bond"
+canonical_url: "https://covarage.com/guides/association/casetrust-renovation-deposit-performance-bond"
 meta_description: "Per the CaseTrust Accreditation for Renovation Businesses page: \"Initial deposits are also capped at maximum 20% of the total cost.\" Accredited firms must..."
 og_title: "CaseTrust Renovation: The Deposit Performance Bond Explained"
 og_description: "Per the CaseTrust Accreditation for Renovation Businesses page: \"Initial deposits are also capped at maximum 20% of the total cost.\" Accredited firms must..."

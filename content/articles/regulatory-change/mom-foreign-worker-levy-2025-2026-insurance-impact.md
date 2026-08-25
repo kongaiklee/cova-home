@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 267
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2656
+word_count: 2664
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact"
+canonical_url: "https://covarage.com/guides/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact"
 meta_description: "The Singapore foreign-worker cost stack is reshaping through 2025-2026 with concurrent changes to levy rates, quota frameworks, and insurance..."
 og_title: "MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers"
 og_description: "The Singapore foreign-worker cost stack is reshaping through 2025-2026 with concurrent changes to levy rates, quota frameworks, and insurance..."

@@ -9,10 +9,10 @@ agencies: ["SPF", "Singapore Statutes"]
 article_number: 91
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1785
+word_count: 1763
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/employee-embezzlement-discovered"
+canonical_url: "https://covarage.com/guides/crisis/employee-embezzlement-discovered"
 meta_description: "First, do not confront the employee. Preserve evidence quietly: lock email, retain server logs, secure physical records, take backups. File a police..."
 og_title: "We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?"
 og_description: "First, do not confront the employee. Preserve evidence quietly: lock email, retain server logs, secure physical records, take backups. File a police..."

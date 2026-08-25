@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 261
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2448
+word_count: 2455
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management"
+canonical_url: "https://covarage.com/guides/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management"
 meta_description: "When a Singapore customer files for judicial management or a scheme of arrangement, the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) and the..."
 og_title: "IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement"
 og_description: "When a Singapore customer files for judicial management or a scheme of arrangement, the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) and the..."

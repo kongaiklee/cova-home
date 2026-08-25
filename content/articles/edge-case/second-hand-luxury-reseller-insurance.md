@@ -9,10 +9,10 @@ agencies: ["ACRA", "SPF", "Singapore Statutes", "SCDF", "URA"]
 article_number: 154
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1675
+word_count: 1639
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/second-hand-luxury-reseller-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/second-hand-luxury-reseller-insurance"
 meta_description: "A Singapore second-hand luxury reseller (pre-owned watches, bags, sneakers, jewellery, fashion) typically requires: business registration with ACRA;..."
 og_title: "Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore (Watches, Bags, Sneakers, Designer Apparel)"
 og_description: "A Singapore second-hand luxury reseller (pre-owned watches, bags, sneakers, jewellery, fashion) typically requires: business registration with ACRA;..."

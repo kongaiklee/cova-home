@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 383
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 1890
+word_count: 1886
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024"
+canonical_url: "https://covarage.com/guides/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024"
 meta_description: "Effective 1 June 2024, the Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024 (S 471/2024) made a Video Surveillance..."
 og_title: "WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact"
 og_description: "Effective 1 June 2024, the Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024 (S 471/2024) made a Video Surveillance..."

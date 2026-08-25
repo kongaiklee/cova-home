@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "MOM"]
 article_number: 403
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3532
+word_count: 3458
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-run-insurance-tender-sme-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-run-insurance-tender-sme-singapore"
 meta_description: "Most Singapore SMEs do not run an insurance tender. They renew with whoever placed the cover last year, accept a small loading, and move on. That is a..."
 og_title: "How to Run an Insurance Tender for a Singapore SME: A Procedural Playbook for the 2026 Soft Market"
 og_description: "Most Singapore SMEs do not run an insurance tender. They renew with whoever placed the cover last year, accept a small loading, and move on. That is a..."

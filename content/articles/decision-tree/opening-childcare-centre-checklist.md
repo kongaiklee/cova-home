@@ -9,10 +9,10 @@ agencies: ["ECDA", "Singapore Statutes", "MOM"]
 article_number: 95
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1937
+word_count: 1907
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-childcare-centre-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-childcare-centre-checklist"
 meta_description: "A Singapore childcare centre or kindergarten requires ECDA (Early Childhood Development Agency) licensing under the Early Childhood Development Centres..."
 og_title: "Opening a Private Kindergarten or Childcare Centre in Singapore: Full Insurance Checklist"
 og_description: "A Singapore childcare centre or kindergarten requires ECDA (Early Childhood Development Agency) licensing under the Early Childhood Development Centres..."

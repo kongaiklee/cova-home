@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 186
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1920
+word_count: 1917
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/pan-atlantic-pine-top-materiality-test"
+canonical_url: "https://covarage.com/guides/document-legal/pan-atlantic-pine-top-materiality-test"
 meta_description: "Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd [1995] 1 AC 501 is the House of Lords decision that established the modern materiality test..."
 og_title: "Pan Atlantic v Pine Top: The Case That Defined Materiality in Insurance Disclosure"
 og_description: "Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd [1995] 1 AC 501 is the House of Lords decision that established the modern materiality test..."

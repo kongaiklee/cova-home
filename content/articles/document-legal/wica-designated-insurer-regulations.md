@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 99
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 2311
+word_count: 2291
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/wica-designated-insurer-regulations"
+canonical_url: "https://covarage.com/guides/document-legal/wica-designated-insurer-regulations"
 meta_description: "Per Section 31 of the Work Injury Compensation Act 2019 (Designation by Commissioner), only insurers designated by the Commissioner for Workplace Safety..."
 og_title: "WICA Designated Insurer Regulations: How the MOM List Actually Works"
 og_description: "Per Section 31 of the Work Injury Compensation Act 2019 (Designation by Commissioner), only insurers designated by the Commissioner for Workplace Safety..."

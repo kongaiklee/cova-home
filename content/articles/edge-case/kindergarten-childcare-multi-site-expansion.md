@@ -9,10 +9,10 @@ agencies: ["ECDA", "Singapore Statutes", "MAS", "GIA", "MSF"]
 article_number: 229
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1420
+word_count: 1407
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/kindergarten-childcare-multi-site-expansion"
+canonical_url: "https://covarage.com/guides/edge-case/kindergarten-childcare-multi-site-expansion"
 meta_description: "Kindergarten and childcare operators expanding from single-site to multi-site operations in Singapore face commercial considerations beyond the standard..."
 og_title: "Kindergarten and Childcare Expansion: Multi-Site Operational Considerations Beyond Single-Site Foundation"
 og_description: "Kindergarten and childcare operators expanding from single-site to multi-site operations in Singapore face commercial considerations beyond the standard..."

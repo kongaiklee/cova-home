@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 177
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1119
+word_count: 1100
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mas-faa-n16-n20-updates"
+canonical_url: "https://covarage.com/guides/regulatory-change/mas-faa-n16-n20-updates"
 meta_description: "The Monetary Authority of Singapore (MAS) periodically updates the Notices issued under the Financial Advisers Act 2001 (FAA) governing financial advisory..."
 og_title: "MAS Notice FAA-N16 and FAA-N20 Updates: What Singapore SMEs Need to Know"
 og_description: "The Monetary Authority of Singapore (MAS) periodically updates the Notices issued under the Financial Advisers Act 2001 (FAA) governing financial advisory..."

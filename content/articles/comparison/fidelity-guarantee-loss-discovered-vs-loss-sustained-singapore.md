@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 279
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3037
+word_count: 3043
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore"
+canonical_url: "https://covarage.com/guides/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore"
 meta_description: "Fidelity Guarantee and Commercial Crime insurance in Singapore comes in two distinct trigger architectures, and the choice matters when employee fraud is..."
 og_title: "Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework"
 og_description: "Fidelity Guarantee and Commercial Crime insurance in Singapore comes in two distinct trigger architectures, and the choice matters when employee fraud is..."

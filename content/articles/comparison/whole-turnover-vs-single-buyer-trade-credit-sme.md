@@ -9,10 +9,10 @@ agencies: ["GIA"]
 article_number: 399
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2537
+word_count: 2491
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/whole-turnover-vs-single-buyer-trade-credit-sme"
+canonical_url: "https://covarage.com/guides/comparison/whole-turnover-vs-single-buyer-trade-credit-sme"
 meta_description: "Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) Whole Turnover - blanket policy covering all qualifying..."
 og_title: "Whole Turnover vs Single-Buyer Trade Credit Insurance for Singapore SMEs: A Coverage Structure Decision Framework"
 og_description: "Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) Whole Turnover - blanket policy covering all qualifying..."

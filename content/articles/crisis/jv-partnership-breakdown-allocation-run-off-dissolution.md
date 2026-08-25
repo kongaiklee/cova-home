@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 298
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2709
+word_count: 2718
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/jv-partnership-breakdown-allocation-run-off-dissolution"
+canonical_url: "https://covarage.com/guides/crisis/jv-partnership-breakdown-allocation-run-off-dissolution"
 meta_description: "The Singapore SME is in a joint venture (incorporated SPV or contractual JV) or partnership that has broken down. JV agreement governs but disputes have..."
 og_title: "JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow"
 og_description: "The Singapore SME is in a joint venture (incorporated SPV or contractual JV) or partnership that has broken down. JV agreement governs but disputes have..."

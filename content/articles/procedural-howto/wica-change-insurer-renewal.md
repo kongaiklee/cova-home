@@ -1,6 +1,5 @@
 ---
 title: "How to Renew WICA When Changing to a Different Insurer"
-meta_description: "For platform operators (6 designated, list dated 26 Dec 2024): Chubb, Etiqa, Grabinsure (S), Great Eastern General, Income Insurance, Singapore Life."
 slug: "/procedural-howto/wica-change-insurer-renewal"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 46
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1036
+word_count: 1020
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/wica-change-insurer-renewal"
+canonical_url: "https://covarage.com/guides/procedural-howto/wica-change-insurer-renewal"
+meta_description: "For platform operators (6 designated, list dated 26 Dec 2024): Chubb, Etiqa, Grabinsure (S), Great Eastern General, Income Insurance, Singapore Life."
 og_title: "How to Renew WICA When Changing to a Different Insurer"
+og_description: "For platform operators (6 designated, list dated 26 Dec 2024): Chubb, Etiqa, Grabinsure (S), Great Eastern General, Income Insurance, Singapore Life."
 ---
 
 > **The Answer in 60 Seconds:** Per [the MOM Designated Insurer list](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer), there are **24 designated insurers for employers** (list dated 1 January 2026) and **6 for platform operators** (list dated 26 December 2024). The new policy must take effect with **zero gap** from the old policy expiry - Section 24 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires continuous cover, and Section 25 makes failure to insure an offence. Existing claims under the old policy remain with the old insurer (run-off).
-
 
 ### The 24 designated insurers for employers (MOM list, 1 January 2026)
 AIG Asia Pacific · Allianz Insurance Singapore · Allied World Assurance · Berkshire Hathaway Specialty · China Taiping · Chubb Insurance Singapore · EQ Insurance · ERGO Insurance · Etiqa Insurance · Great American Insurance · Great Eastern General · HL Assurance · Income Insurance · India International Insurance · Liberty Specialty Markets · Lonpac Insurance · MS First Capital · MSIG Insurance · QBE Insurance · Singapore Life · Sompo Insurance · Tokio Marine · United Overseas Insurance · Zurich Insurance (Singapore Branch).
@@ -66,7 +66,6 @@ The mitigation is process discipline: 90 days before renewal, request loss runs 
 3. How will open claims from the prior policy year be handled, and have employees been informed?
 4. Do we have a complete archive of past WICA policies for occupational disease claim attribution?
 5. Has the FWMI policy been considered separately, and is renewal aligned?
-
 
 ### Related Information
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)

@@ -9,10 +9,10 @@ agencies: ["ACRA", "SCDF", "URA", "SPORTSINGAPORE", "Singapore Statutes"]
 article_number: 120
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1916
+word_count: 1880
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-gym-fitness-studio-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-gym-fitness-studio-checklist"
 meta_description: "A Singapore gym or fitness studio typically requires: business registration with ACRA, SCDF Fire Safety Certificate for the premises, URA zoning..."
 og_title: "Opening a Gym or Fitness Studio in Singapore: Full Insurance Checklist"
 og_description: "A Singapore gym or fitness studio typically requires: business registration with ACRA, SCDF Fire Safety Certificate for the premises, URA zoning..."

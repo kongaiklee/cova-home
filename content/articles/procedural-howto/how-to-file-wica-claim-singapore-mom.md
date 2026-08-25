@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 341
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1574
+word_count: 1551
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-file-wica-claim-singapore-mom"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom"
 meta_description: "When an employee suffers a work-related injury or contracts an occupational disease in Singapore, the employer must file a Work Injury Compensation claim..."
 og_title: "How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers"
 og_description: "When an employee suffers a work-related injury or contracts an occupational disease in Singapore, the employer must file a Work Injury Compensation claim..."

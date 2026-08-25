@@ -9,10 +9,10 @@ agencies: []
 article_number: 147
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1991
+word_count: 1974
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-japan-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-japan-operations"
 meta_description: "Singapore SMEs operating in Japan typically need: a Japanese-licensed insurer for commercial property and liability (a regulatory requirement under the..."
 og_title: "Singapore SME With Japan Operations: How Insurance Works for Japanese Subsidiaries and Branches"
 og_description: "Singapore SMEs operating in Japan typically need: a Japanese-licensed insurer for commercial property and liability (a regulatory requirement under the..."

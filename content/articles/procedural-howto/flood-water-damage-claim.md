@@ -1,6 +1,5 @@
 ---
 title: "How to File a Property All Risks Claim - Flood and Water Damage"
-meta_description: "Per GIA: \"Offering a wider but more expensive cover is the all risks policy. Although it includes accidental damage, it can have a longer exclusion list..."
 slug: "/procedural-howto/flood-water-damage-claim"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: ["GIA", "PUB"]
 article_number: 45
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 984
+word_count: 971
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/flood-water-damage-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/flood-water-damage-claim"
+meta_description: "Per GIA: \"Offering a wider but more expensive cover is the all risks policy. Although it includes accidental damage, it can have a longer exclusion list..."
 og_title: "How to File a Property All Risks Claim - Flood and Water Damage"
+og_description: "Per GIA: \"Offering a wider but more expensive cover is the all risks policy. Although it includes accidental damage, it can have a longer exclusion list..."
 ---
 
 > **The Answer in 60 Seconds:** Stop further damage immediately, photograph everything, do not throw out damaged items, and notify your insurer the same day. Per [GIA claims guidance](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html), "all risks" property wordings have a long exclusion list despite the name - flood may be a named peril, an extension, or excluded entirely. Read your policy schedule before assuming you are covered.
-
 
 ### Is flood actually covered?
 Property insurance in Singapore comes in two main shapes:
@@ -68,7 +68,6 @@ For F&B operators with cellars, basement kitchens or ground-floor units, the BI 
 3. Is my premises in a PUB-published flood-prone area, and how does that affect underwriting?
 4. Is my Business Interruption cover triggered by flood damage to the premises and to denial of access?
 5. What is the notification deadline on my specific wording, and to whom must notice be given?
-
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)

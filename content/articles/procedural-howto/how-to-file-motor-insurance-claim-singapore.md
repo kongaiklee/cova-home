@@ -9,10 +9,10 @@ agencies: []
 article_number: 38
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1043
+word_count: 1006
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-file-motor-insurance-claim-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-motor-insurance-claim-singapore"
 meta_description: "Step 1 - At the scene: safety, photos, particulars. - Hazard lights on, deploy warning triangle, move vehicles only if absolutely necessary for traffic..."
 og_title: "How to File a Motor Insurance Claim - Commercial Vehicle Accident"
 og_description: "Step 1 - At the scene: safety, photos, particulars. - Hazard lights on, deploy warning triangle, move vehicles only if absolutely necessary for traffic..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 58
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1446
+word_count: 1423
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/wica-vs-gpa"
+canonical_url: "https://covarage.com/guides/comparison/wica-vs-gpa"
 meta_description: "Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under Section 24 of the Work Injury Compensation Act 2019 for all manual..."
 og_title: "WICA vs Group Personal Accident: Which Does My Business Need?"
 og_description: "Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under Section 24 of the Work Injury Compensation Act 2019 for all manual..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "ACRA"]
 article_number: 360
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1878
+word_count: 1864
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/fidrec-small-business-eligible-complainants-1-july-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/fidrec-small-business-eligible-complainants-1-july-2025"
 meta_description: "Effective 1 July 2025, Financial Industry Disputes Resolution Centre Ltd (FIDReC) Terms of Reference v2.2 extended Eligible Complainant status to small..."
 og_title: "FIDReC Terms of Reference v2.2 (1 July 2025): Small Businesses Now Eligible Complainants for Insurance Disputes Up to SGD 150,000"
 og_description: "Effective 1 July 2025, Financial Industry Disputes Resolution Centre Ltd (FIDReC) Terms of Reference v2.2 extended Eligible Complainant status to small..."

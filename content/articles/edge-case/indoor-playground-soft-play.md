@@ -9,10 +9,10 @@ agencies: ["ACRA", "SCDF", "URA", "SFA", "ECDA", "NEA", "MOH", "Singapore Statut
 article_number: 311
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1835
+word_count: 1818
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/indoor-playground-soft-play"
+canonical_url: "https://covarage.com/guides/edge-case/indoor-playground-soft-play"
 meta_description: "Singapore indoor playgrounds, soft play centres, ball pit venues, and trampoline-mat play areas (catering primarily to children under 12) face one of the..."
 og_title: "Indoor Playground or Soft Play Centre in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore indoor playgrounds, soft play centres, ball pit venues, and trampoline-mat play areas (catering primarily to children under 12) face one of the..."

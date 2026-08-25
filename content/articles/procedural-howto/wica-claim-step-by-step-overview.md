@@ -9,10 +9,10 @@ agencies: []
 article_number: 31
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1298
+word_count: 1260
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/wica-claim-step-by-step-overview"
+canonical_url: "https://covarage.com/guides/procedural-howto/wica-claim-step-by-step-overview"
 meta_description: "WICA claims are messy. Workers get hurt at the worst times. Insurers ask for documents you don't have. MOM emails arrive at 6pm on a Friday. The..."
 og_title: "How to File a WICA Claim - Step by Step (Singapore)"
 og_description: "WICA claims are messy. Workers get hurt at the worst times. Insurers ask for documents you don't have. MOM emails arrive at 6pm on a Friday. The..."

@@ -9,10 +9,10 @@ agencies: ["MOM"]
 article_number: 52
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1181
+word_count: 1152
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/fdw-direct-hospital-reimbursement"
+canonical_url: "https://covarage.com/guides/procedural-howto/fdw-direct-hospital-reimbursement"
 meta_description: "Singapore’s Ministry of Manpower states on its <a href=\"https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-r..."
 og_title: "How to File FDW Medical Claim Direct Hospital Reimbursement"
 og_description: "Singapore’s Ministry of Manpower states on its <a href=\"https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-r..."

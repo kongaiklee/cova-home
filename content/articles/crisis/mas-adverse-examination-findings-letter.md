@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 366
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1885
+word_count: 1884
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/mas-adverse-examination-findings-letter"
+canonical_url: "https://covarage.com/guides/crisis/mas-adverse-examination-findings-letter"
 meta_description: "Monetary Authority of Singapore (MAS) has issued a post-inspection findings letter to a licensed Financial Adviser, Capital Markets Services Licensee..."
 og_title: "MAS Adverse Examination Findings Letter: Day 1 of a Regulatory Crisis for an FA, FMC, or PSP"
 og_description: "Monetary Authority of Singapore (MAS) has issued a post-inspection findings letter to a licensed Financial Adviser, Capital Markets Services Licensee..."

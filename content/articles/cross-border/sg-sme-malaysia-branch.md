@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "LTA", "MAS"]
 article_number: 86
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1963
+word_count: 1949
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-malaysia-branch"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-malaysia-branch"
 meta_description: "Singapore insurance generally does not extend to Malaysia operations as standard - Singapore policies typically cover Singapore-based risks. A Singapore..."
 og_title: "Singapore SME With a Malaysia Branch: How Insurance Works Across the Causeway"
 og_description: "Singapore insurance generally does not extend to Malaysia operations as standard - Singapore policies typically cover Singapore-based risks. A Singapore..."

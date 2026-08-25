@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "TAFEP", "MOM", "Courts"]
 article_number: 171
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1480
+word_count: 1444
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/wfa-2024-phase-2-implementation"
+canonical_url: "https://covarage.com/guides/regulatory-change/wfa-2024-phase-2-implementation"
 meta_description: "The Workplace Fairness Act 2024 (WFA) establishes Singapore's first comprehensive statutory framework prohibiting workplace discrimination on protected..."
 og_title: "Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know"
 og_description: "The Workplace Fairness Act 2024 (WFA) establishes Singapore's first comprehensive statutory framework prohibiting workplace discrimination on protected..."

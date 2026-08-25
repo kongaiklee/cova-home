@@ -9,10 +9,10 @@ agencies: ["SFA", "BCA", "Singapore Statutes", "PUB", "NPARKS"]
 article_number: 329
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1805
+word_count: 1766
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/indoor-farm-vertical-farm-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/indoor-farm-vertical-farm-insurance"
 meta_description: "Indoor farms and vertical farms in Singapore operate under Singapore Food Agency (SFA) farm licensing frameworks for food production, with BCA building..."
 og_title: "Indoor Farm and Vertical Farm Insurance: Singapore Operator Framework"
 og_description: "Indoor farms and vertical farms in Singapore operate under Singapore Food Agency (SFA) farm licensing frameworks for food production, with BCA building..."

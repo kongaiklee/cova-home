@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS"]
 article_number: 266
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2665
+word_count: 2672
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/sgx-listing-rules-2024-2026-do-implications"
+canonical_url: "https://covarage.com/guides/regulatory-change/sgx-listing-rules-2024-2026-do-implications"
 meta_description: "Two streams of SGX regulatory change reshape director personal exposure in 2024-2026 and drive D&O cover requirements for Singapore listed and pre-IPO..."
 og_title: "SGX Listing Rules 2024-2026 D&O Implications: ISSB Climate Disclosure, Continuous Disclosure, and Director Personal Exposure"
 og_description: "Two streams of SGX regulatory change reshape director personal exposure in 2024-2026 and drive D&O cover requirements for Singapore listed and pre-IPO..."

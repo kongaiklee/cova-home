@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "SDIC"]
 article_number: 385
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 2807
+word_count: 2798
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025"
 meta_description: "On 1 January 2025, MAS Notice 134 on Recovery and Resolution Planning for Insurers and the accompanying Guidelines to MAS Notice 134 took effect. The..."
 og_title: "MAS Notice 134 Recovery and Resolution Planning for Insurers Effective 1 January 2025: SME Counterparty Risk Implications"
 og_description: "On 1 January 2025, MAS Notice 134 on Recovery and Resolution Planning for Insurers and the accompanying Guidelines to MAS Notice 134 took effect. The..."

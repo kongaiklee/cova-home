@@ -9,10 +9,10 @@ agencies: ["HSA", "SFA", "EnterpriseSG", "BCA", "SCDF", "Singapore Statutes", "N
 article_number: 339
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1819
+word_count: 1790
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/cleanroom-specialty-manufacturing"
+canonical_url: "https://covarage.com/guides/edge-case/cleanroom-specialty-manufacturing"
 meta_description: "Cleanroom-based specialty manufacturing operators in Singapore - semiconductor packaging, medical device manufacturing, biopharmaceutical contract..."
 og_title: "Cleanroom and Specialty Manufacturing Service Insurance: Singapore Operator Framework"
 og_description: "Cleanroom-based specialty manufacturing operators in Singapore - semiconductor packaging, medical device manufacturing, biopharmaceutical contract..."

@@ -9,10 +9,10 @@ agencies: ["SFA", "MOH", "Singapore Statutes"]
 article_number: 368
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1805
+word_count: 1785
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/sfa-caterer-suspension-foodborne-illness"
+canonical_url: "https://covarage.com/guides/crisis/sfa-caterer-suspension-foodborne-illness"
 meta_description: "Singapore Food Agency (SFA) and Ministry of Health (MOH) have received gastroenteritis cluster reports linked to your SME's food. SFA has suspended..."
 og_title: "SFA Caterer Suspension Order: Restoring Operations After a Foodborne Illness Cluster"
 og_description: "Singapore Food Agency (SFA) and Ministry of Health (MOH) have received gastroenteritis cluster reports linked to your SME's food. SFA has suspended..."

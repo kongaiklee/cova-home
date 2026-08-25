@@ -9,10 +9,10 @@ agencies: ["PDPC", "SMC", "SFA", "HSA", "MOM", "CCCS", "Singapore Statutes"]
 article_number: 106
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1807
+word_count: 1791
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/customer-complaint-to-regulator"
+canonical_url: "https://covarage.com/guides/crisis/customer-complaint-to-regulator"
 meta_description: "A customer complaint to a regulator is more serious than a direct complaint or a CASE/FIDReC referral - it triggers the regulator's inquiry process, even..."
 og_title: "A Customer Just Filed a Complaint With a Regulator - What Do I Do Now?"
 og_description: "A customer complaint to a regulator is more serious than a direct complaint or a CASE/FIDReC referral - it triggers the regulator's inquiry process, even..."

@@ -9,10 +9,10 @@ agencies: ["ACRA", "SFA", "SCDF", "URA", "NPARKS", "Singapore Statutes", "NEA", 
 article_number: 320
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1758
+word_count: 1742
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/pet-cafe-animal-cafe"
+canonical_url: "https://covarage.com/guides/edge-case/pet-cafe-animal-cafe"
 meta_description: "Singapore pet cafes (cat cafes, dog cafes, hamster cafes, reptile cafes) operate at the intersection of F&B, animal handling, and customer interaction - a..."
 og_title: "Pet Cafe or Animal Cafe in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore pet cafes (cat cafes, dog cafes, hamster cafes, reptile cafes) operate at the intersection of F&B, animal handling, and customer interaction - a..."

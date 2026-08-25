@@ -9,10 +9,10 @@ agencies: ["CPF Board", "MOH", "Singapore Statutes", "MOM"]
 article_number: 310
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2323
+word_count: 2305
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/regional-employee-benefits"
+canonical_url: "https://covarage.com/guides/cross-border/regional-employee-benefits"
 meta_description: "Regional Employee Benefits has two distinct layers that must not be confused. Layer 1 - mandatory statutory benefits are non-negotiable and..."
 og_title: "Regional Employee Benefits: Coordinated GMP and Group Life Across ASEAN Operations"
 og_description: "Regional Employee Benefits has two distinct layers that must not be confused. Layer 1 - mandatory statutory benefits are non-negotiable and..."

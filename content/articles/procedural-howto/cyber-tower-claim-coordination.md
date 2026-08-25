@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CSA", "PDPC"]
 article_number: 205
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1383
+word_count: 1385
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/cyber-tower-claim-coordination"
+canonical_url: "https://covarage.com/guides/procedural-howto/cyber-tower-claim-coordination"
 meta_description: "When a Cyber claim arises in a tower structure (per Article 167 and Article 197), coordination across primary and excess layers is operationally critical...."
 og_title: "Cyber Tower Claim Coordination: Managing Notification, Defence, and Settlement Across Layers"
 og_description: "When a Cyber claim arises in a tower structure (per Article 167 and Article 197), coordination across primary and excess layers is operationally critical...."

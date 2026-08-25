@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 85
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1785
+word_count: 1751
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/starting-saas-startup-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/starting-saas-startup-checklist"
 meta_description: "A Singapore SaaS startup typically needs: Cyber Liability (the most critical line - typical limits S$2M-S$10M+ for early-stage; covers breach response,..."
 og_title: "Starting a SaaS Startup in Singapore: Full Insurance Checklist"
 og_description: "A Singapore SaaS startup typically needs: Cyber Liability (the most critical line - typical limits S$2M-S$10M+ for early-stage; covers breach response,..."

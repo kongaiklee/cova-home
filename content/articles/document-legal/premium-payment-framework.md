@@ -9,10 +9,10 @@ agencies: ["GIA", "MAS"]
 article_number: 251
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1404
+word_count: 1388
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/premium-payment-framework"
+canonical_url: "https://covarage.com/guides/document-legal/premium-payment-framework"
 meta_description: "The Premium Payment Framework (PPF) - a self-regulatory framework introduced by the General Insurance Association of Singapore (GIA) and the Singapore..."
 og_title: "The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications"
 og_description: "The Premium Payment Framework (PPF) - a self-regulatory framework introduced by the General Insurance Association of Singapore (GIA) and the Singapore..."

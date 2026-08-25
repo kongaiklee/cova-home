@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 75
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 2121
+word_count: 2106
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/limitation-act-6-year-clock"
+canonical_url: "https://covarage.com/guides/document-legal/limitation-act-6-year-clock"
 meta_description: "The Limitation Act 1959 (Singapore) sets out time limits within which civil actions must be commenced. For most actions arising from contract or tort, the..."
 og_title: "The Limitation Act 1959 6-Year Clock: Why It Matters for Insurance Claims"
 og_description: "The Limitation Act 1959 (Singapore) sets out time limits within which civil actions must be commenced. For most actions arising from contract or tort, the..."

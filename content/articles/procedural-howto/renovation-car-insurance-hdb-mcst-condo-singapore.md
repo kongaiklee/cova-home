@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "HDB"]
 article_number: 379
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 1672
+word_count: 1664
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore"
 meta_description: "A renovation Contractors' All Risks (CAR) policy is the cover a renovation or interior-design firm carries for fit-out works - in an HDB flat, a..."
 og_title: "How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works"
 og_description: "A renovation Contractors' All Risks (CAR) policy is the cover a renovation or interior-design firm carries for fit-out works - in an HDB flat, a..."

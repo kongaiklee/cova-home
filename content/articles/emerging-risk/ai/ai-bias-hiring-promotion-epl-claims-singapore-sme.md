@@ -10,10 +10,10 @@ agencies: ["Singapore Statutes", "PARLIAMENT", "MOM", "PDPC", "IMDA"]
 article_number: 416
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 5923
+word_count: 5868
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
-canonical_url: "https://covarage.com/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme"
+canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme"
 meta_description: "A Singapore SME founder reads a headline: a US human resources software vendor is on the hook for a collective action that, on the vendor's own admission..."
 og_title: "When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs"
 og_description: "A Singapore SME founder reads a headline: a US human resources software vendor is on the hook for a collective action that, on the vendor's own admission..."
@@ -267,7 +267,6 @@ When sitting down with a licensed adviser or broker, the following questions sur
 6. **What endorsements or wording amendments are available in the current soft market** to add affirmative AI coverage or clarify automated-decision-making language?
 7. **What is the position on extraterritorial exposure** if the SME hires EU-resident candidates and falls within the EU AI Act's high-risk deployer perimeter from 2 August 2026?
 8. **For the Workplace Fairness Act specifically, what is the underwriter's view on coverage for the new statutory tort of discrimination created by the WFDRA**, including for pre-employment claims at the S$5,000 cap and ECT claims up to S$250,000?
-
 
 ## Related Information
 

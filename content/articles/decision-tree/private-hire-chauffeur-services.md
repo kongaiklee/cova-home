@@ -9,10 +9,10 @@ agencies: ["LTA", "Singapore Statutes", "MOM"]
 article_number: 250
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1450
+word_count: 1433
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/private-hire-chauffeur-services"
+canonical_url: "https://covarage.com/guides/decision-tree/private-hire-chauffeur-services"
 meta_description: "Private hire and chauffeur service operators in Singapore - covering Private Hire Car (PHC) operations, chauffeur services, executive transport, limousine..."
 og_title: "SME Startup Decision Tree: Private Hire and Chauffeur Services - Foundational Insurance Procurement"
 og_description: "Private hire and chauffeur service operators in Singapore - covering Private Hire Car (PHC) operations, chauffeur services, executive transport, limousine..."

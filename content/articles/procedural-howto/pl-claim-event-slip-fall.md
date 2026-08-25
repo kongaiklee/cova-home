@@ -9,10 +9,10 @@ agencies: ["Courts", "GIA"]
 article_number: 54
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1272
+word_count: 1235
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/pl-claim-event-slip-fall"
+canonical_url: "https://covarage.com/guides/procedural-howto/pl-claim-event-slip-fall"
 meta_description: "If someone slips and falls at your event, the insurance process usually starts before anyone discusses liability. The first priorities are medical..."
 og_title: "How to File Public Liability Claim Event Slip And Fall"
 og_description: "If someone slips and falls at your event, the insurance process usually starts before anyone discusses liability. The first priorities are medical..."

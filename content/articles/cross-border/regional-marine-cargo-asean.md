@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 304
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1975
+word_count: 1944
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/regional-marine-cargo-asean"
+canonical_url: "https://covarage.com/guides/cross-border/regional-marine-cargo-asean"
 meta_description: "Marine Cargo is one of the few insurance lines that works regionally as a single programme. The Institute Cargo Clauses (ICC A, B, or C) are global by..."
 og_title: "Regional Marine Cargo for ASEAN Trade: Single-Programme Architecture Across Multiple Jurisdictions"
 og_description: "Marine Cargo is one of the few insurance lines that works regionally as a single programme. The Institute Cargo Clauses (ICC A, B, or C) are global by..."

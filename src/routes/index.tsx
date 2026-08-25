@@ -6,6 +6,7 @@ import BlogIndex from '../pages/blog/BlogIndex';
 import ArticlePage from '../pages/blog/ArticlePage';
 import Terms from '../pages/legal/Terms';
 import Privacy from '../pages/legal/Privacy';
+import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
 import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
 
 /**
@@ -27,6 +28,8 @@ export const routes: RouteRecord[] = [
       { path: 'blog', element: <BlogIndex /> },
       { path: 'terms', element: <Terms /> },
       { path: 'privacy', element: <Privacy /> },
+      // moved from blog.covarage.com with the corpus; the blog host 301s its old path here
+      { path: 'guides/tools/insurance-gap-check', element: <InsuranceGapTool /> },
       // Every article lives under /guides/<category>/<slug>; the old paths 301 here (vercel.json).
       ...ARTICLES.map((a) => ({
         path: `${GUIDES_PREFIX}${a.slug}`.replace(/^\//, ''),

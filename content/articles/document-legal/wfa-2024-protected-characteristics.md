@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "TAFEP", "MOM"]
 article_number: 189
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2370
+word_count: 2349
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/wfa-2024-protected-characteristics"
+canonical_url: "https://covarage.com/guides/document-legal/wfa-2024-protected-characteristics"
 meta_description: "The Workplace Fairness Act 2024 (WFA) - passed by Parliament on 8 January 2025 - establishes Singapore's first comprehensive statutory framework..."
 og_title: "WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework"
 og_description: "The Workplace Fairness Act 2024 (WFA) - passed by Parliament on 8 January 2025 - establishes Singapore's first comprehensive statutory framework..."

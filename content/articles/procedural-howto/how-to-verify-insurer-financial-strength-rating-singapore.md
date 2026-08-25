@@ -9,10 +9,10 @@ agencies: ["MAS", "SDIC", "Singapore Statutes"]
 article_number: 349
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1796
+word_count: 1760
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore"
 meta_description: "Verifying an insurer's financial strength is foundational due diligence for any Singapore SME placing material commercial cover - premium paid today is..."
 og_title: "How to Verify a Singapore Insurer's Financial Strength Rating"
 og_description: "Verifying an insurer's financial strength is foundational due diligence for any Singapore SME placing material commercial cover - premium paid today is..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "LTA", "SFA", "SCDF", "CUSTOMS", "IRAS", "BCA"]
 article_number: 331
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1761
+word_count: 1744
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/bicycle-cycling-shop-servicing"
+canonical_url: "https://covarage.com/guides/edge-case/bicycle-cycling-shop-servicing"
 meta_description: "Bicycle retailers and cycling servicing operators in Singapore operate under standard retail/business licensing with specific intersections: Active..."
 og_title: "Bicycle and Cycling Shop Insurance: Singapore Operator Framework"
 og_description: "Bicycle retailers and cycling servicing operators in Singapore operate under standard retail/business licensing with specific intersections: Active..."

@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 352
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1493
+word_count: 1475
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums"
+canonical_url: "https://covarage.com/guides/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums"
 meta_description: "Effective 1 July 2025, MOM's enhanced Medical Insurance requirements for Work Permit and S Pass holders entered Stage 2, introducing three structural..."
 og_title: "Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement"
 og_description: "Effective 1 July 2025, MOM's enhanced Medical Insurance requirements for Work Permit and S Pass holders entered Stage 2, introducing three structural..."

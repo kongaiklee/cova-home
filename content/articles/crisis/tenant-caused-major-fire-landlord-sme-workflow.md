@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "HDB", "JTC", "SLA"]
 article_number: 295
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2715
+word_count: 2726
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/tenant-caused-major-fire-landlord-sme-workflow"
+canonical_url: "https://covarage.com/guides/crisis/tenant-caused-major-fire-landlord-sme-workflow"
 meta_description: "The Singapore SME landlord (or master-lessee subletting) has suffered a major fire or catastrophic damage caused by a tenant. SCDF has attended and may be..."
 og_title: "Tenant-Caused Major Fire: Landlord SME Day-One Workflow"
 og_description: "The Singapore SME landlord (or master-lessee subletting) has suffered a major fire or catastrophic damage caused by a tenant. SCDF has attended and may be..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MinLaw", "SPF"]
 article_number: 332
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1624
+word_count: 1600
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/pawnshop-pawnbroker-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/pawnshop-pawnbroker-insurance"
 meta_description: "Pawnbroking in Singapore is regulated under the Pawnbrokers Act 2015 administered by the Ministry of Law (MinLaw) through the Registry of Pawnbrokers...."
 og_title: "Pawnshop and Pawnbroker Insurance: Singapore Operator Framework"
 og_description: "Pawnbroking in Singapore is regulated under the Pawnbrokers Act 2015 administered by the Ministry of Law (MinLaw) through the Registry of Pawnbrokers...."

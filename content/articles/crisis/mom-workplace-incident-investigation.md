@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 165
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1468
+word_count: 1436
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/mom-workplace-incident-investigation"
+canonical_url: "https://covarage.com/guides/crisis/mom-workplace-incident-investigation"
 meta_description: "First, distinguish what has been triggered: a WICA claim notification (an employee reporting a work injury for compensation), an MOM Occupational Safety..."
 og_title: "MOM Just Notified Us of a Workplace Incident Investigation - What Do I Do Now?"
 og_description: "First, distinguish what has been triggered: a WICA claim notification (an employee reporting a work injury for compensation), an MOM Occupational Safety..."

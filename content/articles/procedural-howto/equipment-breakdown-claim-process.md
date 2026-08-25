@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "MOM"]
 article_number: 209
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1489
+word_count: 1481
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/equipment-breakdown-claim-process"
+canonical_url: "https://covarage.com/guides/procedural-howto/equipment-breakdown-claim-process"
 meta_description: "Equipment Breakdown (EBD) - also called Boiler & Machinery in some markets - addresses mechanical and electrical breakdown scenarios that standard..."
 og_title: "Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures"
 og_description: "Equipment Breakdown (EBD) - also called Boiler & Machinery in some markets - addresses mechanical and electrical breakdown scenarios that standard..."

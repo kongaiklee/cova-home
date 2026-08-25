@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 301
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2171
+word_count: 2156
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/asean-expansion-insurance-framework"
+canonical_url: "https://covarage.com/guides/cross-border/asean-expansion-insurance-framework"
 meta_description: "ASEAN expansion involves ten distinct insurance regimes - Singapore plus Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, and..."
 og_title: "ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore"
 og_description: "ASEAN expansion involves ten distinct insurance regimes - Singapore plus Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, and..."

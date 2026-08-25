@@ -9,10 +9,10 @@ agencies: []
 article_number: 127
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1971
+word_count: 1958
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-vietnam-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-vietnam-operations"
 meta_description: "Singapore SMEs operating in Vietnam typically need: a Vietnamese-licensed insurer for commercial property and liability (regulatory requirement under the..."
 og_title: "Singapore SME With Vietnam Operations: How Insurance Works for Vietnamese Subsidiaries and Branches"
 og_description: "Singapore SMEs operating in Vietnam typically need: a Vietnamese-licensed insurer for commercial property and liability (regulatory requirement under the..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "GIA"]
 article_number: 348
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1896
+word_count: 1871
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-add-additional-insured-singapore-policy"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-add-additional-insured-singapore-policy"
 meta_description: "Adding an \"additional insured\" to a Singapore commercial policy is a procedural endorsement that extends specific cover protections to a named third party..."
 og_title: "How to Add an Additional Insured to a Singapore Commercial Policy"
 og_description: "Adding an \"additional insured\" to a Singapore commercial policy is a procedural endorsement that extends specific cover protections to a named third party..."

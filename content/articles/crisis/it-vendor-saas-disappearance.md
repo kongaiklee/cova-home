@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "Courts"]
 article_number: 300
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2827
+word_count: 2836
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/it-vendor-saas-disappearance"
+canonical_url: "https://covarage.com/guides/crisis/it-vendor-saas-disappearance"
 meta_description: "The Singapore SME's critical IT vendor or SaaS provider has unexpectedly become unavailable: Singapore insolvency under IRDA 2018, foreign insolvency (US..."
 og_title: "IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs"
 og_description: "The Singapore SME's critical IT vendor or SaaS provider has unexpectedly become unavailable: Singapore insolvency under IRDA 2018, foreign insolvency (US..."

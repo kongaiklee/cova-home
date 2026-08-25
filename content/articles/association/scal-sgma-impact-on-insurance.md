@@ -1,6 +1,5 @@
 ---
 title: "What Is SCAL's SgMA, and How Does It Affect My Insurance?"
-meta_description: "Per the SC2 SgMA page, SgMA is \"a simplified version of the WSH Management System introduced by SCAL to enhance the WSH capabilities of the Singapore List..."
 slug: "/association/scal-sgma-impact-on-insurance"
 category: "association"
 intent: "know-where-you-stand"
@@ -10,15 +9,16 @@ agencies: []
 article_number: 23
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 887
+word_count: 840
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/scal-sgma-impact-on-insurance"
+canonical_url: "https://covarage.com/guides/association/scal-sgma-impact-on-insurance"
+meta_description: "Per the SC2 SgMA page, SgMA is \"a simplified version of the WSH Management System introduced by SCAL to enhance the WSH capabilities of the Singapore List..."
 og_title: "What Is SCAL's SgMA, and How Does It Affect My Insurance?"
+og_description: "Per the SC2 SgMA page, SgMA is \"a simplified version of the WSH Management System introduced by SCAL to enhance the WSH capabilities of the Singapore List..."
 ---
 
 > **The 60-second answer:** Safety & Green Management Assessment (SgMA) is a simplified workplace safety and environmental management audit operated by **SC2 Pte Ltd**, a subsidiary of the Singapore Contractors Association (SCAL) ([SC2 SgMA page](https://www.sc2.com.sg/what-we-do/safety-and-green-management-assessment-sgma/)). All SLOTS-registered sub-contractors must complete SgMA, or qualify for a waiver via ISO 45001 + ISO 14001 + an SGSecure Representative letter ([SCAL SLOTS T&Cs](https://www.scal.com.sg/membership/slots-application-tnc)). SgMA is not insurance - but it shapes how WICA and PL underwriters price your premiums.
-
 
 ## The Sourced Detail
 
@@ -67,7 +67,6 @@ The honest framing: SgMA is not protection. It's a discipline. Your insurance is
 3. If I'm pursuing the SgMA waiver via ISO 45001, what's the timeline impact on my SLOTS renewal and my insurance renewal cycle?
 4. Are there insurers in Singapore that work specifically with SCAL-SLOTS-and-SgMA holders?
 5. Does an audit non-conformity (Stage 2 finding) need to be disclosed at insurance renewal as a "material change"?
-
 
 ## Related Information
 - SCAL SLOTS - what sub-contractors need to know

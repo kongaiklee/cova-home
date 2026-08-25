@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 129
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2184
+word_count: 2176
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/mas-notice-faa-n03-ifa-conduct"
+canonical_url: "https://covarage.com/guides/document-legal/mas-notice-faa-n03-ifa-conduct"
 meta_description: "MAS Notice FAA-N03 - issued under the Financial Advisers Act 2001 - establishes information disclosure requirements for licensed financial advisers (FAs),..."
 og_title: "MAS Notice FAA-N03: How Independent Financial Advisers Are Regulated and What That Means When You Buy Insurance"
 og_description: "MAS Notice FAA-N03 - issued under the Financial Advisers Act 2001 - establishes information disclosure requirements for licensed financial advisers (FAs),..."

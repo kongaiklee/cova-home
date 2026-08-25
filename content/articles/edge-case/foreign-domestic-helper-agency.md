@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 217
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1798
+word_count: 1777
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/foreign-domestic-helper-agency"
+canonical_url: "https://covarage.com/guides/edge-case/foreign-domestic-helper-agency"
 meta_description: "Foreign Domestic Helper (FDH) agencies in Singapore operate under a distinctive regulatory framework administered by the Ministry of Manpower (MOM) and..."
 og_title: "Foreign Domestic Helper Agency: The Specific Insurance Profile for FDH Placement Operations"
 og_description: "Foreign Domestic Helper (FDH) agencies in Singapore operate under a distinctive regulatory framework administered by the Ministry of Manpower (MOM) and..."

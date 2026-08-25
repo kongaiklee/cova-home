@@ -9,10 +9,10 @@ agencies: ["PEB", "MOH", "Singapore Statutes", "BOA", "ACRA", "CEA", "MAS"]
 article_number: 309
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2033
+word_count: 2014
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/regional-professional-indemnity"
+canonical_url: "https://covarage.com/guides/cross-border/regional-professional-indemnity"
 meta_description: "Professional Indemnity (PI) cover is shaped by the regulated profession framework in each jurisdiction. For regulated professions (law, medicine,..."
 og_title: "Regional Professional Indemnity: Cross-Border Services and Multi-Jurisdiction Practice"
 og_description: "Professional Indemnity (PI) cover is shaped by the regulated profession framework in each jurisdiction. For regulated professions (law, medicine,..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 88
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1981
+word_count: 1966
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-philippines-remote-workers"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-philippines-remote-workers"
 meta_description: "Hiring Filipino remote workers from Singapore can be done via three main structures: independent contractor, Employer of Record (EOR) services, or..."
 og_title: "Singapore SME Hiring Remote Workers in the Philippines: Insurance and Statutory Implications"
 og_description: "Hiring Filipino remote workers from Singapore can be done via three main structures: independent contractor, Employer of Record (EOR) services, or..."

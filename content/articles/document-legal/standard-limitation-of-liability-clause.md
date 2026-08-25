@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 257
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1108
+word_count: 1082
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/standard-limitation-of-liability-clause"
+canonical_url: "https://covarage.com/guides/document-legal/standard-limitation-of-liability-clause"
 meta_description: "Limitation of liability clauses operate as substantive risk allocation mechanism in Singapore commercial contracts. Standard commercial scope around..."
 og_title: "Standard Limitation of Liability Clauses: Drafting and Commercial Implications"
 og_description: "Limitation of liability clauses operate as substantive risk allocation mechanism in Singapore commercial contracts. Standard commercial scope around..."

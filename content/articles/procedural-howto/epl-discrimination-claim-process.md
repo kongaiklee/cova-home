@@ -9,13 +9,13 @@ agencies: ["Singapore Statutes", "TAFEP"]
 article_number: 201
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1306
+word_count: 1287
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/epl-discrimination-claim-process"
-meta_description: "EPL discrimination claims - under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then  - ..."
+canonical_url: "https://covarage.com/guides/procedural-howto/epl-discrimination-claim-process"
+meta_description: "EPL discrimination claims - under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then -..."
 og_title: "EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution"
-og_description: "EPL discrimination claims - under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then  - ..."
+og_description: "EPL discrimination claims - under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then -..."
 ---
 
 > **The Answer in 60 Seconds**

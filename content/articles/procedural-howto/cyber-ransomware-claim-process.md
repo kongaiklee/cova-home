@@ -9,10 +9,10 @@ agencies: []
 article_number: 37
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1212
+word_count: 1168
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/cyber-ransomware-claim-process"
+canonical_url: "https://covarage.com/guides/procedural-howto/cyber-ransomware-claim-process"
 meta_description: "The first 4 hours after detection define whether you have an insurable, defensible incident or a self-inflicted disaster. Here's the order."
 og_title: "How to File a Cyber Insurance Claim After a Ransomware Attack"
 og_description: "The first 4 hours after detection define whether you have an insurable, defensible incident or a self-inflicted disaster. Here's the order."

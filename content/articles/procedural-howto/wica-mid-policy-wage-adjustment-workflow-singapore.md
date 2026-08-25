@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "Courts", "IRAS"]
 article_number: 402
 published: "2026-05-08"
 source_verified: "2026-05-09"
-word_count: 3839
+word_count: 3756
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore"
 meta_description: "A clerk crosses S$2,600 a month after a mid-year salary review. A factory promotes a leading hand to a non-manual coordinator role on 1 June. A logistics..."
 og_title: "WICA Mid-Policy Wage Adjustment Workflow: What Singapore SMEs Must Do When Headcount or Wages Change"
 og_description: "A clerk crosses S$2,600 a month after a mid-year salary review. A factory promotes a leading hand to a non-manual coordinator role on 1 June. A logistics..."
@@ -160,7 +160,6 @@ The penalty for failing to maintain insurance is set out directly at WICA 2019 s
 6. If I operate a platform, is my approved platform worker insurance policy in force from 1 January 2025 per the [MOM 17 December 2024 press release](https://www.mom.gov.sg/newsroom/press-releases/2024/1217-commencement-of-platform-workers-act-from-1-jan-2025)?
 7. What is my insurer's specific minimum-premium floor, and where does it apply across cancellation by company, cancellation by insured, premium adjustment, and policy-level retained premium?
 8. Has my licensed adviser documented, in writing, the disclosure I made on each mid-policy adjustment, so that the insurer's all-or-nothing avoidance remedy under MIA 1906 ss.17-18 cannot be invoked at claim stage?
-
 
 ### Related Information
 

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "ACRA", "MOM", "MAS"]
 article_number: 409
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3571
+word_count: 3500
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-coordinate-insurance-with-acra-strike-off-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-coordinate-insurance-with-acra-strike-off-singapore"
 meta_description: "The closure of a Singapore company is a calendar-driven legal process under the Companies Act, with hard ACRA deadlines, statutory creditor-notification..."
 og_title: "How to Coordinate Insurance Cancellation with ACRA Strike-Off or Winding-Up: The Closure Workflow for Singapore SMEs"
 og_description: "The closure of a Singapore company is a calendar-driven legal process under the Companies Act, with hard ACRA deadlines, statutory creditor-notification..."

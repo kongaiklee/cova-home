@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "PDPC"]
 article_number: 278
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 681
+word_count: 635
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/cyber-architecture-tower-vs-monoline"
+canonical_url: "https://covarage.com/guides/comparison/cyber-architecture-tower-vs-monoline"
 meta_description: "Cyber Liability cover architecture distinguishes single policy approach (single insurer providing cover up to specific limit) and cyber tower approach..."
 og_title: "Cyber Architecture Tower vs Monoline Policy Comparison"
 og_description: "Cyber Liability cover architecture distinguishes single policy approach (single insurer providing cover up to specific limit) and cyber tower approach..."

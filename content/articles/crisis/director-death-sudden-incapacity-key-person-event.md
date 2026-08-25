@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "ACRA"]
 article_number: 296
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2876
+word_count: 2882
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/director-death-sudden-incapacity-key-person-event"
+canonical_url: "https://covarage.com/guides/crisis/director-death-sudden-incapacity-key-person-event"
 meta_description: "The Singapore SME's founder, CEO, or key director has died or been suddenly incapacitated. Operational signing authority, customer relationships, banking..."
 og_title: "Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow"
 og_description: "The Singapore SME's founder, CEO, or key director has died or been suddenly incapacitated. Operational signing authority, customer relationships, banking..."

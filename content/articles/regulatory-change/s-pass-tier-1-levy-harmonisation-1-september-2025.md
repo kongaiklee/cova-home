@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 381
 published: "2026-05-07"
 source_verified: "2026-05-07"
-word_count: 1984
+word_count: 1971
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/s-pass-tier-1-levy-harmonisation-1-september-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/s-pass-tier-1-levy-harmonisation-1-september-2025"
 meta_description: "Effective 1 September 2025, the Ministry of Manpower (MOM) raised the S Pass Tier 1 monthly levy from SGD 550 to SGD 650 - harmonising Tier 1 with the..."
 og_title: "S Pass Tier 1 Levy Harmonisation 1 September 2025: Foreign Worker Programme Cost Impact"
 og_description: "Effective 1 September 2025, the Ministry of Manpower (MOM) raised the S Pass Tier 1 monthly levy from SGD 550 to SGD 650 - harmonising Tier 1 with the..."

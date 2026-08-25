@@ -9,10 +9,10 @@ agencies: ["CHARITIES", "ACRA", "Singapore Statutes", "MCCY", "MSF", "MOM"]
 article_number: 242
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1428
+word_count: 1411
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/social-enterprise-commercial"
+canonical_url: "https://covarage.com/guides/decision-tree/social-enterprise-commercial"
 meta_description: "Social enterprises in Singapore - covering raiSE (Singapore Centre for Social Enterprise) member organisations, Charity Council governance frameworks, and..."
 og_title: "SME Startup Decision Tree: Social Enterprise - Foundational Insurance Procurement"
 og_description: "Social enterprises in Singapore - covering raiSE (Singapore Centre for Social Enterprise) member organisations, Charity Council governance frameworks, and..."

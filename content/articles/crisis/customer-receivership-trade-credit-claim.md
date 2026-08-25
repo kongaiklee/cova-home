@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MinLaw", "EnterpriseSG", "Courts"]
 article_number: 369
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1665
+word_count: 1660
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/customer-receivership-trade-credit-claim"
+canonical_url: "https://covarage.com/guides/crisis/customer-receivership-trade-credit-claim"
 meta_description: "A major customer has entered judicial management, scheme of arrangement, court-ordered liquidation, or appointed receivers under Insolvency, Restructuring..."
 og_title: "Customer Receivership Mid-Receivable: The Trade Credit Insurance Notification Window"
 og_description: "A major customer has entered judicial management, scheme of arrangement, court-ordered liquidation, or appointed receivers under Insolvency, Restructuring..."

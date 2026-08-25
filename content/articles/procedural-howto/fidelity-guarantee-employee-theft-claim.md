@@ -1,6 +1,5 @@
 ---
 title: "How to File a Fidelity Guarantee Claim - Employee Dishonesty"
-meta_description: "Does not cover: losses by directors/owners; losses by employees not on the declared list (some policies); losses discovered after the run-off window..."
 slug: "/procedural-howto/fidelity-guarantee-employee-theft-claim"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: []
 article_number: 48
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1171
+word_count: 1158
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/fidelity-guarantee-employee-theft-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/fidelity-guarantee-employee-theft-claim"
+meta_description: "Does not cover: losses by directors/owners; losses by employees not on the declared list (some policies); losses discovered after the run-off window..."
 og_title: "How to File a Fidelity Guarantee Claim - Employee Dishonesty"
+og_description: "Does not cover: losses by directors/owners; losses by employees not on the declared list (some policies); losses discovered after the run-off window..."
 ---
 
 > **The Answer in 60 Seconds:** Fidelity Guarantee (FG) cover is **voluntary, not statutory**. It indemnifies a business against direct financial loss from employee fraud or dishonesty. Per [Tokio Marine's published Fidelity Guarantee policy summary](https://www.tokiomarine.com/sg/en/non-life/products/business/property/fidelity-guarantee.html): a police report is generally required, notification windows are short, and claims must arise from acts discovered within a fixed window after employment ends (the Tokio Marine wording specifies discovery within three months of policy or employment termination). A forensic accountant report is typically required.
-
 
 ### What FG covers and what it doesn't
 Covers: theft, embezzlement, forgery, misappropriation by an employee acting alone or in collusion. Per Lonpac's published policy summary: "This insurance policy protects the employer against loss sustained as a result of acts of fraud or dishonesty committed by their employees." Covers vicarious liability if your employee defrauds a third party (per Provide.com.sg's published example: "Liability to defrauded business partner").
@@ -81,7 +81,6 @@ For SMEs with under 20 staff, dual-signature controls feel onerous but are exact
 3. What internal control warranties does my policy require, and am I compliant?
 4. Will the insurer pre-approve my forensic accountant of choice or appoint one?
 5. How does subrogation operate - can the insurer pursue the employee in my name?
-
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 290
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 1836
+word_count: 1826
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/asme-sme-cross-sector-insurance-framework"
+canonical_url: "https://covarage.com/guides/association/asme-sme-cross-sector-insurance-framework"
 meta_description: "The Association of Small and Medium Enterprises (ASME) is a non-statutory SME-focused trade association covering Singapore SMEs across all sectors. It..."
 og_title: "Association of Small and Medium Enterprises (ASME): SME Trade Association and Cross-Sector Insurance Architecture"
 og_description: "The Association of Small and Medium Enterprises (ASME) is a non-statutory SME-focused trade association covering Singapore SMEs across all sectors. It..."

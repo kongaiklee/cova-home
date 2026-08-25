@@ -9,10 +9,10 @@ agencies: ["SPF", "Singapore Statutes", "Courts"]
 article_number: 293
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3124
+word_count: 3133
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/internal-fraud-cfo-embezzlement-day-one-workflow"
+canonical_url: "https://covarage.com/guides/crisis/internal-fraud-cfo-embezzlement-day-one-workflow"
 meta_description: "The Singapore SME has just discovered internal fraud, typically by a long-serving finance officer running for 2 to 7 years with magnitude S$100,000 to S$2..."
 og_title: "Internal Fraud Discovered: The 8-Step Day-One Workflow for Singapore SMEs"
 og_description: "The Singapore SME has just discovered internal fraud, typically by a long-serving finance officer running for 2 to 7 years with magnitude S$100,000 to S$2..."

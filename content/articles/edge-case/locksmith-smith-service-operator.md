@@ -9,10 +9,10 @@ agencies: ["ACRA", "IRAS", "MAS", "SPF", "Singapore Statutes"]
 article_number: 333
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1585
+word_count: 1557
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/locksmith-smith-service-operator"
+canonical_url: "https://covarage.com/guides/edge-case/locksmith-smith-service-operator"
 meta_description: "Locksmiths and smith service operators in Singapore operate as standard commercial services without dedicated profession-specific licensing - but the..."
 og_title: "Locksmith and Smith Service Operator Insurance: Singapore Operator Framework"
 og_description: "Locksmiths and smith service operators in Singapore operate as standard commercial services without dedicated profession-specific licensing - but the..."

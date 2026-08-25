@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SPF", "BCA", "MOM", "ICA"]
 article_number: 327
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1708
+word_count: 1677
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/karaoke-ktv-operator-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/karaoke-ktv-operator-insurance"
 meta_description: "Karaoke and KTV operators in Singapore operate under Public Entertainments Act 1958 Public Entertainments Licence administered by Singapore Police Force..."
 og_title: "Karaoke and KTV Operator Insurance: Singapore Operator Framework"
 og_description: "Karaoke and KTV operators in Singapore operate under Public Entertainments Act 1958 Public Entertainments Licence administered by Singapore Police Force..."

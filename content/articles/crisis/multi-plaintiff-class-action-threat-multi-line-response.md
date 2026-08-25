@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 294
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2927
+word_count: 2941
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/multi-plaintiff-class-action-threat-multi-line-response"
+canonical_url: "https://covarage.com/guides/crisis/multi-plaintiff-class-action-threat-multi-line-response"
 meta_description: "The Singapore SME has been served with a writ or letter of demand by multiple plaintiffs alleging coordinated harm: consumer claims, employment..."
 og_title: "Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously"
 og_description: "The Singapore SME has been served with a writ or letter of demand by multiple plaintiffs alleging coordinated harm: consumer claims, employment..."

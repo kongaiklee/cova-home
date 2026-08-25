@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 193
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1777
+word_count: 1774
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/do-vs-pi-vs-epl-coordination"
+canonical_url: "https://covarage.com/guides/comparison/do-vs-pi-vs-epl-coordination"
 meta_description: "Three management liability covers commonly confused and frequently miscoordinated. D&O (Directors & Officers) covers directors and officers personally for..."
 og_title: "D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)"
 og_description: "Three management liability covers commonly confused and frequently miscoordinated. D&O (Directors & Officers) covers directors and officers personally for..."

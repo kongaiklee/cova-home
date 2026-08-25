@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 264
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2438
+word_count: 2444
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mom-designated-insurer-mechanics-wica-2019"
+canonical_url: "https://covarage.com/guides/regulatory-change/mom-designated-insurer-mechanics-wica-2019"
 meta_description: "Under the Work Injury Compensation Act 2019 (WICA 2019), every Singapore employer of manual employees (regardless of salary) and every employer of..."
 og_title: "MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019"
 og_description: "Under the Work Injury Compensation Act 2019 (WICA 2019), every Singapore employer of manual employees (regardless of salary) and every employer of..."

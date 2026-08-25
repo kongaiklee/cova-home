@@ -1,24 +1,24 @@
 ---
 title: "How to Add a New Operating Location to Existing Insurance Policy"
-meta_description: "Step 1 - Notify before you operate. The duty of utmost good faith (uberrimae fidei) - codified in section 17 of the Marine Insurance Act and applied at..."
 slug: "/procedural-howto/add-new-location"
 category: "procedural-howto"
 intent: "get-it-right"
-topics: ["General"]
+topics: ["Marine & Cargo"]
 industries: []
 agencies: ["Singapore Statutes", "SCDF"]
 article_number: 44
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 942
+word_count: 926
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/add-new-location"
+canonical_url: "https://covarage.com/guides/procedural-howto/add-new-location"
+meta_description: "Step 1 - Notify before you operate. The duty of utmost good faith (uberrimae fidei) - codified in section 17 of the Marine Insurance Act and applied at..."
 og_title: "How to Add a New Operating Location to Existing Insurance Policy"
+og_description: "Step 1 - Notify before you operate. The duty of utmost good faith (uberrimae fidei) - codified in section 17 of the Marine Insurance Act and applied at..."
 ---
 
 > **The Answer in 60 Seconds:** Notify your insurer in writing **before** you start operating from the new location, provide full underwriting information (address, occupancy, construction, sums insured, fire safety status), and the insurer will issue an **endorsement** that adds the location to your policy schedule. A pro-rata additional premium is charged for the unexpired period. Most Fire and Property All Risks policies are written on a **scheduled-premises** basis - losses at an undeclared location are not covered.
-
 
 ### The Step-by-Step
 
@@ -69,7 +69,6 @@ Note PUB's published context: flood-prone areas in Singapore have reduced from 3
 3. Will the new location's risk profile trigger a re-rating of my existing locations at renewal?
 4. Does the new lease impose insurance obligations (named insured, waiver of subrogation, COI)?
 5. Are there fire safety, security or storage requirements I need to meet for this occupancy class?
-
 
 ### Related Information
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)

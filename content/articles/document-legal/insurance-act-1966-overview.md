@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "SDIC"]
 article_number: 128
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2342
+word_count: 2322
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/insurance-act-1966-overview"
+canonical_url: "https://covarage.com/guides/document-legal/insurance-act-1966-overview"
 meta_description: "The Insurance Act 1966 is Singapore's primary legislation regulating insurance business - administered by the Monetary Authority of Singapore (MAS) and..."
 og_title: "Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy"
 og_description: "The Insurance Act 1966 is Singapore's primary legislation regulating insurance business - administered by the Monetary Authority of Singapore (MAS) and..."

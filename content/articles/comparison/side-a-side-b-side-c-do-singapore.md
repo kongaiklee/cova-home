@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 280
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3272
+word_count: 3279
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/side-a-side-b-side-c-do-singapore"
+canonical_url: "https://covarage.com/guides/comparison/side-a-side-b-side-c-do-singapore"
 meta_description: "Directors & Officers Liability cover has three internal \"sides\" with structurally different protection architectures, and Singapore SMEs need to..."
 og_title: "Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework"
 og_description: "Directors & Officers Liability cover has three internal \"sides\" with structurally different protection architectures, and Singapore SMEs need to..."

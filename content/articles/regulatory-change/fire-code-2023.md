@@ -9,10 +9,10 @@ agencies: ["SCDF", "Singapore Statutes", "LTA"]
 article_number: 19
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1032
+word_count: 994
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/fire-code-2023"
+canonical_url: "https://covarage.com/guides/regulatory-change/fire-code-2023"
 meta_description: "The Code of Practice for Fire Precautions in Buildings 2023 (Fire Code 2023) is the 9th edition of Singapore's Fire Code, published by SCDF on 25 August..."
 og_title: "Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing"
 og_description: "The Code of Practice for Fire Precautions in Buildings 2023 (Fire Code 2023) is the 9th edition of Singapore's Fire Code, published by SCDF on 25 August..."

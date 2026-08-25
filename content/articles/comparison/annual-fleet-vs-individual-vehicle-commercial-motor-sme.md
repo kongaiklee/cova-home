@@ -9,10 +9,10 @@ agencies: ["LTA", "Singapore Statutes"]
 article_number: 396
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2512
+word_count: 2466
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme"
+canonical_url: "https://covarage.com/guides/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme"
 meta_description: "Singapore SMEs operating commercial vehicles - delivery vans, light trucks, prime movers, contractor vehicles, taxi or private-hire fleets - choose..."
 og_title: "Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision"
 og_description: "Singapore SMEs operating commercial vehicles - delivery vans, light trucks, prime movers, contractor vehicles, taxi or private-hire fleets - choose..."

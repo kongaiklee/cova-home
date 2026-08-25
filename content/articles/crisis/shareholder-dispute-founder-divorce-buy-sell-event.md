@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 297
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2995
+word_count: 3002
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/shareholder-dispute-founder-divorce-buy-sell-event"
+canonical_url: "https://covarage.com/guides/crisis/shareholder-dispute-founder-divorce-buy-sell-event"
 meta_description: "The Singapore SME has a shareholder dispute (founder versus founder, founder versus investor, family-business succession) or a founder is going through..."
 og_title: "Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow"
 og_description: "The Singapore SME has a shareholder dispute (founder versus founder, founder versus investor, family-business succession) or a founder is going through..."

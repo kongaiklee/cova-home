@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "GIA", "PDPC"]
 article_number: 243
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1502
+word_count: 1490
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/family-office-support-services"
+canonical_url: "https://covarage.com/guides/decision-tree/family-office-support-services"
 meta_description: "Family office support service providers in Singapore - covering single-family office (SFO) operational support, multi-family office (MFO) operations,..."
 og_title: "SME Startup Decision Tree: Family Office Support Services - Foundational Insurance Procurement"
 og_description: "Family office support service providers in Singapore - covering single-family office (SFO) operational support, multi-family office (MFO) operations,..."

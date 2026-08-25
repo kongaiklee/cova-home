@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 233
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1425
+word_count: 1401
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-cambodia-laos-myanmar"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-cambodia-laos-myanmar"
 meta_description: "Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) face emerging market commercial frameworks where the regulatory infrastructure is..."
 og_title: "Singapore SMEs Operating in Cambodia, Laos, and Myanmar: Emerging Market Cross-Border Considerations"
 og_description: "Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) face emerging market commercial frameworks where the regulatory infrastructure is..."

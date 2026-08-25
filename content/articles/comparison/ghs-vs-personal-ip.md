@@ -9,10 +9,10 @@ agencies: ["CPF Board", "LIA"]
 article_number: 73
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1498
+word_count: 1478
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/ghs-vs-personal-ip"
+canonical_url: "https://covarage.com/guides/comparison/ghs-vs-personal-ip"
 meta_description: "An employer Group Hospitalisation & Surgical (GHS) plan is a private benefit policy purchased by the employer; it covers in-patient and (sometimes)..."
 og_title: "Group Hospitalisation & Surgical vs Personal Integrated Shield Plan: How They Coordinate"
 og_description: "An employer Group Hospitalisation & Surgical (GHS) plan is a private benefit policy purchased by the employer; it covers in-patient and (sometimes)..."

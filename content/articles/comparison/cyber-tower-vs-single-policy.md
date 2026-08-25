@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "GIA", "PDPC", "Courts"]
 article_number: 167
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1503
+word_count: 1487
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/cyber-tower-vs-single-policy"
+canonical_url: "https://covarage.com/guides/comparison/cyber-tower-vs-single-policy"
 meta_description: "A single Cyber policy has one insurer providing all cover up to the policy limit; simpler administratively, easier claim coordination, but..."
 og_title: "Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?"
 og_description: "A single Cyber policy has one insurer providing all cover up to the policy limit; simpler administratively, easier claim coordination, but..."

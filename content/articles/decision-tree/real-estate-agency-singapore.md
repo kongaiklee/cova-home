@@ -9,10 +9,10 @@ agencies: ["CEA", "Singapore Statutes", "IRAS", "HDB", "JTC"]
 article_number: 247
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1361
+word_count: 1350
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/real-estate-agency-singapore"
+canonical_url: "https://covarage.com/guides/decision-tree/real-estate-agency-singapore"
 meta_description: "Real estate agencies in Singapore - covering residential brokerage, commercial brokerage, industrial brokerage, valuation services, property management..."
 og_title: "SME Startup Decision Tree: Real Estate Agency - Foundational Insurance Procurement"
 og_description: "Real estate agencies in Singapore - covering residential brokerage, commercial brokerage, industrial brokerage, valuation services, property management..."

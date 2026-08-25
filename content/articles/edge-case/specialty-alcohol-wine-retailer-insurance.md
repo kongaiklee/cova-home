@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SPF", "CUSTOMS", "SFA", "IRAS"]
 article_number: 325
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1696
+word_count: 1681
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/specialty-alcohol-wine-retailer-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/specialty-alcohol-wine-retailer-insurance"
 meta_description: "Specialty alcohol retailers (wine merchants, craft spirits retailers, sake / whisky specialists) in Singapore operate under Liquor Control (Supply and..."
 og_title: "Specialty Alcohol and Wine Retailer Insurance: Singapore Operator Framework"
 og_description: "Specialty alcohol retailers (wine merchants, craft spirits retailers, sake / whisky specialists) in Singapore operate under Liquor Control (Supply and..."

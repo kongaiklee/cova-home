@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CSA"]
 article_number: 76
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1703
+word_count: 1691
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/cybersecurity-act-cii-designation"
+canonical_url: "https://covarage.com/guides/document-legal/cybersecurity-act-cii-designation"
 meta_description: "The Cybersecurity Act 2018, administered by the Cyber Security Agency of Singapore (CSA), establishes a framework for protecting Critical Information..."
 og_title: "Cybersecurity Act 2018 (Singapore): What Critical Information Infrastructure (CII) Designation Means"
 og_description: "The Cybersecurity Act 2018, administered by the Cyber Security Agency of Singapore (CSA), establishes a framework for protecting Critical Information..."

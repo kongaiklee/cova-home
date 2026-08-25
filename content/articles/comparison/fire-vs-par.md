@@ -9,10 +9,10 @@ agencies: ["GIA"]
 article_number: 63
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1566
+word_count: 1544
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/fire-vs-par"
+canonical_url: "https://covarage.com/guides/comparison/fire-vs-par"
 meta_description: "A Fire policy in Singapore covers a defined list of named perils - typically fire, lightning, and explosion (domestic gas only as standard) - with..."
 og_title: "Fire Insurance vs Property All Risks (PAR): What's the Difference?"
 og_description: "A Fire policy in Singapore covers a defined list of named perils - typically fire, lightning, and explosion (domestic gas only as standard) - with..."

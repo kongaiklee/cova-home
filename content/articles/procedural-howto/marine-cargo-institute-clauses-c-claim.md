@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 62
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1617
+word_count: 1579
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/marine-cargo-institute-clauses-c-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-c-claim"
 meta_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of named perils..."
 og_title: "How to Claim Under Marine Cargo Institute Clauses C"
 og_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of named perils..."

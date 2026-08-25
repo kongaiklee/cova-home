@@ -9,10 +9,10 @@ agencies: ["Courts", "SICC", "Singapore Statutes", "GIA"]
 article_number: 355
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1583
+word_count: 1570
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment"
+canonical_url: "https://covarage.com/guides/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment"
 meta_description: "[Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd [2025] SGHC(I) 1](https://www.elitigation.sg/) (judgment 8 January 2025, Singapore..."
 og_title: "Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment"
 og_description: "[Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd [2025] SGHC(I) 1](https://www.elitigation.sg/) (judgment 8 January 2025, Singapore..."

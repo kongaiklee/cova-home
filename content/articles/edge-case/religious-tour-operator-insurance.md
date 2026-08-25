@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "STB", "MUIS", "MAS", "MFA"]
 article_number: 216
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1746
+word_count: 1712
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/religious-tour-operator-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/religious-tour-operator-insurance"
 meta_description: "---"
 og_title: "Religious Tour Operator: Insurance Framework for Pilgrimage and Faith-Based Travel Operations"
 og_description: "---"

@@ -9,10 +9,10 @@ agencies: ["SDC", "Singapore Statutes", "MOH"]
 article_number: 287
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 1690
+word_count: 1696
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/sda-sdc-dental-practitioner-insurance-framework"
+canonical_url: "https://covarage.com/guides/association/sda-sdc-dental-practitioner-insurance-framework"
 meta_description: "The Singapore Dental Association (SDA) is the professional body for the dental profession. The Singapore Dental Council (SDC) is the statutory..."
 og_title: "Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications"
 og_description: "The Singapore Dental Association (SDA) is the professional body for the dental profession. The Singapore Dental Council (SDC) is the statutory..."

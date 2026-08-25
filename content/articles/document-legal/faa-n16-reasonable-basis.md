@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "Courts"]
 article_number: 68
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1590
+word_count: 1574
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/faa-n16-reasonable-basis"
+canonical_url: "https://covarage.com/guides/document-legal/faa-n16-reasonable-basis"
 meta_description: "MAS Notice FAA-N16 on Recommendations on Investment Products issued under the Financial Advisers Act 2001 requires every licensed financial adviser making..."
 og_title: "MAS Notice FAA-N16: The \"Reasonable Basis for Recommendation\" Duty Explained"
 og_description: "MAS Notice FAA-N16 on Recommendations on Investment Products issued under the Financial Advisers Act 2001 requires every licensed financial adviser making..."

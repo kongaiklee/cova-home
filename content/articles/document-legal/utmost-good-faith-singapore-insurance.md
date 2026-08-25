@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts", "GIA"]
 article_number: 182
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1746
+word_count: 1743
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/utmost-good-faith-singapore-insurance"
+canonical_url: "https://covarage.com/guides/document-legal/utmost-good-faith-singapore-insurance"
 meta_description: "\"Utmost good faith\" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial..."
 og_title: "Utmost Good Faith in Singapore Insurance Law: The Doctrine That Underpins Every Policy"
 og_description: "\"Utmost good faith\" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial..."

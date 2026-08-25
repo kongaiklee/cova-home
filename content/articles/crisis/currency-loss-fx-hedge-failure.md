@@ -9,10 +9,10 @@ agencies: ["MAS", "IRAS", "Singapore Statutes", "SPF"]
 article_number: 126
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1852
+word_count: 1848
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/currency-loss-fx-hedge-failure"
+canonical_url: "https://covarage.com/guides/crisis/currency-loss-fx-hedge-failure"
 meta_description: "First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in..."
 og_title: "A Currency Movement or FX Hedge Failure Just Wiped Out Our Margin - What Do I Do Now?"
 og_description: "First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in..."

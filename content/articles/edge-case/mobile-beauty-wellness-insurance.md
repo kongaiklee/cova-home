@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "HSA", "NEA"]
 article_number: 133
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1751
+word_count: 1732
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/mobile-beauty-wellness-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/mobile-beauty-wellness-insurance"
 meta_description: "A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa,..."
 og_title: "Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)"
 og_description: "A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa,..."

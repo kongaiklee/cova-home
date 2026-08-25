@@ -9,10 +9,10 @@ agencies: ["BCA", "MOM", "Singapore Statutes"]
 article_number: 3
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1060
+word_count: 1022
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
-canonical_url: "https://covarage.com/licensing/bca-builders-licensing-scheme-insurance"
+canonical_url: "https://covarage.com/guides/licensing/bca-builders-licensing-scheme-insurance"
 meta_description: "Per the BCA Builders Licensing Scheme page, the BLS itself does not mandate specific insurance policies as a licence condition. It mandates paid-up..."
 og_title: "BCA Builders Licensing Scheme: Insurance Requirements (Singapore)"
 og_description: "Per the BCA Builders Licensing Scheme page, the BLS itself does not mandate specific insurance policies as a licence condition. It mandates paid-up..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 13
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1169
+word_count: 1132
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/pdpa-2022-penalty"
+canonical_url: "https://covarage.com/guides/regulatory-change/pdpa-2022-penalty"
 meta_description: "Since 1 October 2022, the maximum financial penalty under the Personal Data Protection Act for a data-protection breach is the higher of S$1 million or..."
 og_title: "PDPA Amendment: 10% Turnover Penalty for Data Breaches"
 og_description: "Since 1 October 2022, the maximum financial penalty under the Personal Data Protection Act for a data-protection breach is the higher of S$1 million or..."

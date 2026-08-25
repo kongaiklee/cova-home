@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "WSH Council"]
 article_number: 351
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1703
+word_count: 1681
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/wsh-penalty-doubling-2024"
+canonical_url: "https://covarage.com/guides/regulatory-change/wsh-penalty-doubling-2024"
 meta_description: "Effective 1 June 2024, the Workplace Safety and Health (Amendment of Penalties) Regulations 2024 (S 434/2024) raised maximum fines across the WSH..."
 og_title: "WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing"
 og_description: "Effective 1 June 2024, the Workplace Safety and Health (Amendment of Penalties) Regulations 2024 (S 434/2024) raised maximum fines across the WSH..."

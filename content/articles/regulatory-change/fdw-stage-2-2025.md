@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 14
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 848
+word_count: 810
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/fdw-stage-2-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/fdw-stage-2-2025"
 meta_description: "From 1 July 2025, all new and renewed FDW medical insurance policies must comply with MOM's Stage 2 enhancements: (1) standardised exclusion clauses..."
 og_title: "FDW Insurance Stage 2 Enhancement: Effective 1 July 2025"
 og_description: "From 1 July 2025, all new and renewed FDW medical insurance policies must comply with MOM's Stage 2 enhancements: (1) standardised exclusion clauses..."

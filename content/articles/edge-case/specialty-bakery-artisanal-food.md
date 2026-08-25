@@ -9,10 +9,10 @@ agencies: ["ACRA", "SFA", "SCDF", "URA", "NEA", "Singapore Statutes", "MUIS", "M
 article_number: 318
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1754
+word_count: 1738
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/specialty-bakery-artisanal-food"
+canonical_url: "https://covarage.com/guides/edge-case/specialty-bakery-artisanal-food"
 meta_description: "Singapore specialty bakeries, artisanal food producers, sourdough operators, gluten-free bakeries, vegan-only producers, fermentation specialists,..."
 og_title: "Specialty Bakery or Artisanal Food Producer in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore specialty bakeries, artisanal food producers, sourdough operators, gluten-free bakeries, vegan-only producers, fermentation specialists,..."

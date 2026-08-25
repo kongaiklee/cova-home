@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SPF"]
 article_number: 160
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1494
+word_count: 1454
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-private-security-firm-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-private-security-firm-checklist"
 meta_description: "A Singapore private security firm requires licensing under the Private Security Industry Act 2007 (PSIA), administered by the Police Licensing and..."
 og_title: "Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist"
 og_description: "A Singapore private security firm requires licensing under the Private Security Industry Act 2007 (PSIA), administered by the Police Licensing and..."

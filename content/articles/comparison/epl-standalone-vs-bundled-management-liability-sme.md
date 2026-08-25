@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PARLIAMENT"]
 article_number: 391
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2441
+word_count: 2395
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/epl-standalone-vs-bundled-management-liability-sme"
+canonical_url: "https://covarage.com/guides/comparison/epl-standalone-vs-bundled-management-liability-sme"
 meta_description: "Singapore SMEs procure Employment Practices Liability (EPL) cover through two structural routes: (1) Standalone EPL - a dedicated single-module policy..."
 og_title: "EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework"
 og_description: "Singapore SMEs procure Employment Practices Liability (EPL) cover through two structural routes: (1) Standalone EPL - a dedicated single-module policy..."

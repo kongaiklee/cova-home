@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 285
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2214
+word_count: 2221
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/law-society-pii-scheme-insurance-framework"
+canonical_url: "https://covarage.com/guides/association/law-society-pii-scheme-insurance-framework"
 meta_description: "The Law Society of Singapore is the professional body for solicitors constituted under the Legal Profession Act 1966 (LPA). The Law Society operates the..."
 og_title: "Law Society of Singapore Compulsory Professional Indemnity Insurance Scheme: Statutory Framework and Insurance Implications"
 og_description: "The Law Society of Singapore is the professional body for solicitors constituted under the Legal Profession Act 1966 (LPA). The Law Society operates the..."

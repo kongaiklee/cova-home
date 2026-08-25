@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "MOM"]
 article_number: 227
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1361
+word_count: 1353
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/specialty-fitness-studio-singapore"
+canonical_url: "https://covarage.com/guides/edge-case/specialty-fitness-studio-singapore"
 meta_description: "Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
 og_title: "Specialty Fitness Studio: The Specific Insurance Profile for Yoga, Pilates, CrossFit, Boxing, and Specialty Movement Operations"
 og_description: "Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."

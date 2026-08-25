@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 202
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1369
+word_count: 1362
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/trade-credit-claim-process"
+canonical_url: "https://covarage.com/guides/procedural-howto/trade-credit-claim-process"
 meta_description: "Trade Credit claim submission is highly process-driven, with operational discipline determining claim outcomes. The standard sequence: customer payment..."
 og_title: "Trade Credit Claim Submission Process: From Customer Default to Insurer Recovery"
 og_description: "Trade Credit claim submission is highly process-driven, with operational discipline determining claim outcomes. The standard sequence: customer payment..."

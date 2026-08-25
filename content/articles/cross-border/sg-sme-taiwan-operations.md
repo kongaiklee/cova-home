@@ -9,10 +9,10 @@ agencies: ["FTA"]
 article_number: 232
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1460
+word_count: 1446
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-taiwan-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-taiwan-operations"
 meta_description: "Singapore SMEs operating in Taiwan through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered..."
 og_title: "Singapore SMEs Operating in Taiwan: Cross-Border Insurance and Commercial Framework"
 og_description: "Singapore SMEs operating in Taiwan through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "CPF Board"]
 article_number: 170
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1528
+word_count: 1503
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/platform-workers-act-first-year-review"
+canonical_url: "https://covarage.com/guides/regulatory-change/platform-workers-act-first-year-review"
 meta_description: "The Platform Workers Act 2024 (PWA) commenced 1 January 2025, establishing a distinct legal category - platform worker - separate from employee or..."
 og_title: "Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know"
 og_description: "The Platform Workers Act 2024 (PWA) commenced 1 January 2025, establishing a distinct legal category - platform worker - separate from employee or..."

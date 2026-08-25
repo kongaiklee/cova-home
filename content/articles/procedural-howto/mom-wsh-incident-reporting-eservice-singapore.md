@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "ACRA", "GovTech"]
 article_number: 404
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 4796
+word_count: 4741
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/mom-wsh-incident-reporting-eservice-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/mom-wsh-incident-reporting-eservice-singapore"
 meta_description: "When a worker in your Singapore SME slips on a wet kitchen floor, falls from a scaffold, or is hospitalised after a chemical splash, the clock starts..."
 og_title: "How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs"
 og_description: "When a worker in your Singapore SME slips on a wet kitchen floor, falls from a scaffold, or is hospitalised after a chemical splash, the clock starts..."

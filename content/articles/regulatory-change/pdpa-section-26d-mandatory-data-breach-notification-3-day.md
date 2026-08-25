@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 263
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2571
+word_count: 2579
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day"
+canonical_url: "https://covarage.com/guides/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day"
 meta_description: "Every Singapore organisation collecting, using, or disclosing personal data is subject to mandatory data breach notification under Personal Data..."
 og_title: "PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs"
 og_description: "Every Singapore organisation collecting, using, or disclosing personal data is subject to mandatory data breach notification under Personal Data..."

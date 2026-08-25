@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 346
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1699
+word_count: 1652
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-negotiate-broker-remuneration-disclosure"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-negotiate-broker-remuneration-disclosure"
 meta_description: "Singapore SMEs engaging insurance brokers / financial advisers should obtain explicit disclosure of broker remuneration under MAS Notice FAA-N03 on..."
 og_title: "How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03"
 og_description: "Singapore SMEs engaging insurance brokers / financial advisers should obtain explicit disclosure of broker remuneration under MAS Notice FAA-N03 on..."

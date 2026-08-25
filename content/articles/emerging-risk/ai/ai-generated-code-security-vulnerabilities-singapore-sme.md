@@ -10,10 +10,10 @@ agencies: ["CSA", "Singapore Statutes", "Courts", "IMDA", "MAS"]
 article_number: 417
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 5163
+word_count: 5070
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
-canonical_url: "https://covarage.com/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme"
+canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme"
 meta_description: "When a Singapore software-as-a-service founder pastes \"build me a login page with JWT auth\" into Cursor at midnight and ships the result by lunch, the..."
 og_title: "AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs"
 og_description: "When a Singapore software-as-a-service founder pastes \"build me a login page with JWT auth\" into Cursor at midnight and ships the result by lunch, the..."
@@ -260,7 +260,6 @@ When you sit down with a licensed Independent Financial Adviser or broker, the f
 6. What documentation will the carrier require in a claim - code-review logs, SAST/SCA reports, AI-tool usage logs, prompt histories - and do we maintain those today?
 7. Does the policy contain any AI-specific warranties or conditions precedent (for example, mandatory human review of AI-generated code) whose breach would void cover?
 8. If we sell software products into the EU, does our cover respond to penalties or defence costs under the EU Cyber Resilience Act (vulnerability reporting from 11 September 2026, full obligations from 11 December 2027)?
-
 
 ---
 

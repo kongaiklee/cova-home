@@ -9,10 +9,10 @@ agencies: ["SPF", "Singapore Statutes", "LTA"]
 article_number: 340
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1721
+word_count: 1697
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/driving-school-motoring-instructor"
+canonical_url: "https://covarage.com/guides/edge-case/driving-school-motoring-instructor"
 meta_description: "Driving schools and motoring instructors in Singapore are regulated by the Singapore Police Force Traffic Police Division under the Road Traffic Act 1961..."
 og_title: "Driving School and Motoring Instructor Insurance: Singapore Operator Framework"
 og_description: "Driving schools and motoring instructors in Singapore are regulated by the Singapore Police Force Traffic Police Division under the Road Traffic Act 1961..."

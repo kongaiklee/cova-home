@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SFA"]
 article_number: 390
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2578
+word_count: 2532
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability"
+canonical_url: "https://covarage.com/guides/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability"
 meta_description: "The Food Safety and Security Act 2025 (FSSA) consolidates Singapore's food regulation framework, which was previously spread across the Sale of Food Act..."
 og_title: "Food Safety and Security Act 2025 Tranche 1 Effective 28 November 2025: F&B Product Liability, Recall, and Contamination Cover Implications for Singapore SMEs"
 og_description: "The Food Safety and Security Act 2025 (FSSA) consolidates Singapore's food regulation framework, which was previously spread across the Sale of Food Act..."

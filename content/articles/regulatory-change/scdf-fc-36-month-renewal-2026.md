@@ -9,10 +9,10 @@ agencies: ["SCDF", "Singapore Statutes"]
 article_number: 174
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1355
+word_count: 1339
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/scdf-fc-36-month-renewal-2026"
+canonical_url: "https://covarage.com/guides/regulatory-change/scdf-fc-36-month-renewal-2026"
 meta_description: "The Singapore Civil Defence Force (SCDF) Fire Certificate (FC) renewal cycle moved from annual to 36-month from 1 April 2026, per SCDF announcement and..."
 og_title: "SCDF Fire Certificate 36-Month Renewal Cycle from 1 April 2026: Operator Readiness"
 og_description: "The Singapore Civil Defence Force (SCDF) Fire Certificate (FC) renewal cycle moved from annual to 36-month from 1 April 2026, per SCDF announcement and..."

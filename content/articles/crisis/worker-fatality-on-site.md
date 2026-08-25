@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 80
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1931
+word_count: 1904
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/worker-fatality-on-site"
+canonical_url: "https://covarage.com/guides/crisis/worker-fatality-on-site"
 meta_description: "First: secure the scene, call 995 for ambulance and 999 for police. Do not move the body or alter the scene. Per the Workplace Safety and Health (Incident..."
 og_title: "A Worker Just Died on Site - What Do I Do Now?"
 og_description: "First: secure the scene, call 995 for ambulance and 999 for police. Do not move the body or alter the scene. Per the Workplace Safety and Health (Incident..."

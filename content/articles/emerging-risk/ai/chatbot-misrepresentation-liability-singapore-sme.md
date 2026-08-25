@@ -10,10 +10,10 @@ agencies: ["Courts", "Singapore Statutes", "CCS", "PDPC"]
 article_number: 412
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 4990
+word_count: 4934
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
-canonical_url: "https://covarage.com/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme"
+canonical_url: "https://covarage.com/guides/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme"
 meta_description: "A British Columbia tribunal made it official in February 2024: if your chatbot tells a customer something untrue and that customer relies on it, your..."
 og_title: "When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs"
 og_description: "A British Columbia tribunal made it official in February 2024: if your chatbot tells a customer something untrue and that customer relies on it, your..."
@@ -159,7 +159,6 @@ Treat the next 12 months as a chatbot-governance project. Nine practical steps.
 6. Does the media-liability cover treat chatbot output as "content published by the insured"?
 7. What is the notification trigger? Do we have to notify a chatbot incident as a "circumstance which may give rise to a claim", and what is the timeframe?
 8. Given the soft Q1 2026 market, what affirmative AI language can the broker negotiate at renewal - and at what additional premium, if any?
-
 
 ## Related Information
 

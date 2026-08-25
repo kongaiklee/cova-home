@@ -9,10 +9,10 @@ agencies: ["CUSTOMS", "LTA", "IMDA", "Singapore Statutes", "URA", "SCDF"]
 article_number: 110
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1949
+word_count: 1923
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-logistics-freight-forwarder-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-logistics-freight-forwarder-checklist"
 meta_description: "A Singapore logistics or freight forwarder firm typically requires: licensing under the Singapore Customs for declaring agent status, LTA commercial..."
 og_title: "Opening a Logistics or Freight Forwarder Firm in Singapore: Full Insurance Checklist"
 og_description: "A Singapore logistics or freight forwarder firm typically requires: licensing under the Singapore Customs for declaring agent status, LTA commercial..."

@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "GIA", "SCDF", "Courts"]
 article_number: 158
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1726
+word_count: 1729
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/fire-vs-par-claim-mechanics"
+canonical_url: "https://covarage.com/guides/comparison/fire-vs-par-claim-mechanics"
 meta_description: "Fire insurance covers loss / damage to property from a defined list of perils - fire, lightning, explosion (within specified limits), and specific named..."
 og_title: "Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work"
 og_description: "Fire insurance covers loss / damage to property from a defined list of perils - fire, lightning, explosion (within specified limits), and specific named..."

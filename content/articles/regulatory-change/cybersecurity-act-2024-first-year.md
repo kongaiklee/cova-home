@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CSA"]
 article_number: 172
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1349
+word_count: 1348
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/cybersecurity-act-2024-first-year"
+canonical_url: "https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-first-year"
 meta_description: "The Cybersecurity Act 2018, as amended by the Cybersecurity (Amendment) Act 2024, had most of its amending provisions come into force on 31 October 2025,..."
 og_title: "Cybersecurity Act 2024 Amendment First-Year Compliance Review"
 og_description: "The Cybersecurity Act 2018, as amended by the Cybersecurity (Amendment) Act 2024, had most of its amending provisions come into force on 31 October 2025,..."

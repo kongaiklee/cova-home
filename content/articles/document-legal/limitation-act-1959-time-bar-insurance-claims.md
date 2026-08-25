@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts", "MOM"]
 article_number: 256
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3998
+word_count: 4004
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/limitation-act-1959-time-bar-insurance-claims"
+canonical_url: "https://covarage.com/guides/document-legal/limitation-act-1959-time-bar-insurance-claims"
 meta_description: "The Limitation Act 1959 (2020 Rev Ed) sets the statutory deadlines for commencing civil proceedings in Singapore. The default rule is in section 6: 6..."
 og_title: "Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims"
 og_description: "The Limitation Act 1959 (2020 Rev Ed) sets the statutory deadlines for commencing civil proceedings in Singapore. The default rule is in section 6: 6..."

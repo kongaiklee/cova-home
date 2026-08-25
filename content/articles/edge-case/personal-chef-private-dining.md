@@ -9,10 +9,10 @@ agencies: ["ACRA", "SFA", "SCDF", "SPF", "Singapore Statutes", "NEA", "MOM"]
 article_number: 315
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1822
+word_count: 1813
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/personal-chef-private-dining"
+canonical_url: "https://covarage.com/guides/edge-case/personal-chef-private-dining"
 meta_description: "Singapore personal chefs, private home dining operators, omakase-at-home services, and small-format catering chefs operating without their own restaurant..."
 og_title: "Personal Chef or Private Dining Service in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore personal chefs, private home dining operators, omakase-at-home services, and small-format catering chefs operating without their own restaurant..."

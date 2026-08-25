@@ -9,10 +9,10 @@ agencies: ["ACRA", "BCA", "HDB", "URA", "SCDF", "EMA", "PUB"]
 article_number: 140
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1759
+word_count: 1737
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-interior-design-renovation-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-interior-design-renovation-checklist"
 meta_description: "A Singapore interior design or renovation business typically requires: business registration with ACRA, BCA registration depending on works (general..."
 og_title: "Opening an Interior Design Firm or Renovation Contractor in Singapore: Full Insurance Checklist"
 og_description: "A Singapore interior design or renovation business typically requires: business registration with ACRA, BCA registration depending on works (general..."

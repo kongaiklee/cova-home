@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 191
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1758
+word_count: 1753
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/pi-vs-tech-eo-for-saas"
+canonical_url: "https://covarage.com/guides/comparison/pi-vs-tech-eo-for-saas"
 meta_description: "Professional Indemnity (PI) is the traditional cover for advisory and service errors - designed for professionals (accountants, lawyers, engineers,..."
 og_title: "Professional Indemnity vs Tech E&O: What's the Difference for SaaS and Technology Companies?"
 og_description: "Professional Indemnity (PI) is the traditional cover for advisory and service errors - designed for professionals (accountants, lawyers, engineers,..."

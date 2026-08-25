@@ -9,10 +9,10 @@ agencies: ["BCA", "ACRA", "HDB"]
 article_number: 94
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1830
+word_count: 1800
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-interior-design-firm-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-interior-design-firm-checklist"
 meta_description: "A Singapore interior design firm typically needs: CaseTrust Renovation accreditation (per CASE / Renovation, Contractors & Material Suppliers Association..."
 og_title: "Opening an Interior Design Firm in Singapore: Full Insurance Checklist"
 og_description: "A Singapore interior design firm typically needs: CaseTrust Renovation accreditation (per CASE / Renovation, Contractors & Material Suppliers Association..."

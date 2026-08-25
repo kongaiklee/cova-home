@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "MOM"]
 article_number: 350
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1679
+word_count: 1661
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-handle-renewal-with-claims-history-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-handle-renewal-with-claims-history-singapore"
 meta_description: "Singapore SME commercial insurance renewal with a loss history is one of the most consequential procedural exercises an SME finance / HR lead manages...."
 og_title: "How to Handle SME Commercial Insurance Renewal With a Loss History"
 og_description: "Singapore SME commercial insurance renewal with a loss history is one of the most consequential procedural exercises an SME finance / HR lead manages...."

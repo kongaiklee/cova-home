@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 145
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1783
+word_count: 1784
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/mass-refund-demand"
+canonical_url: "https://covarage.com/guides/crisis/mass-refund-demand"
 meta_description: "First, assess which of five situations you are in: (a) a quality or product issue triggering legitimate refund demands, (b) a service failure or..."
 og_title: "A Customer Group Just Demanded Mass Refunds - What Do I Do Now?"
 og_description: "First, assess which of five situations you are in: (a) a quality or product issue triggering legitimate refund demands, (b) a service failure or..."

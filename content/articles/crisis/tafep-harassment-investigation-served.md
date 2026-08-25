@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 367
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1601
+word_count: 1604
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/tafep-harassment-investigation-served"
+canonical_url: "https://covarage.com/guides/crisis/tafep-harassment-investigation-served"
 meta_description: "Your SME has received contact from the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) - either via the TAFEP hotline (6838..."
 og_title: "TAFEP / Sexual Harassment Investigation Served on the Employer"
 og_description: "Your SME has received contact from the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) - either via the TAFEP hotline (6838..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "GIA"]
 article_number: 92
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 2000
+word_count: 1987
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/mom-stop-work-order-issued"
+canonical_url: "https://covarage.com/guides/crisis/mom-stop-work-order-issued"
 meta_description: "A Stop-Work Order (SWO) under Section 21 of the Workplace Safety and Health Act 2006 is issued where the Ministry of Manpower (MOM) considers there is an..."
 og_title: "MOM Just Issued a Stop-Work Order on Our Site - What Do I Do Now?"
 og_description: "A Stop-Work Order (SWO) under Section 21 of the Workplace Safety and Health Act 2006 is issued where the Ministry of Manpower (MOM) considers there is an..."

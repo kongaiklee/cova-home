@@ -9,10 +9,10 @@ agencies: ["ACRA", "CUSTOMS", "LTA", "SCDF", "URA", "JTC", "Singapore Statutes"]
 article_number: 152
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1671
+word_count: 1640
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-logistics-warehousing-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-logistics-warehousing-checklist"
 meta_description: "A Singapore logistics, warehousing, or freight forwarding business typically requires: business registration with ACRA; registration with Singapore..."
 og_title: "Opening a Logistics, Warehousing, or Freight Forwarding Operation in Singapore: Full Insurance Checklist"
 og_description: "A Singapore logistics, warehousing, or freight forwarding business typically requires: business registration with ACRA; registration with Singapore..."

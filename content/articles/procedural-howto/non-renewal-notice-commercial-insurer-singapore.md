@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS"]
 article_number: 380
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 1924
+word_count: 1911
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/non-renewal-notice-commercial-insurer-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/non-renewal-notice-commercial-insurer-singapore"
 meta_description: "A non-renewal notice is the insurer telling you it will not offer renewal terms when your current commercial policy expires. It is the insurer's..."
 og_title: "How to Respond to a Non-Renewal Notice from a Commercial Insurer"
 og_description: "A non-renewal notice is the insurer telling you it will not offer renewal terms when your current commercial policy expires. It is the insurer's..."

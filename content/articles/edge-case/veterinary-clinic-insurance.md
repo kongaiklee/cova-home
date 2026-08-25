@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "NPARKS", "HSA"]
 article_number: 322
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1749
+word_count: 1724
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/veterinary-clinic-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/veterinary-clinic-insurance"
 meta_description: "Veterinary practice in Singapore is regulated under the Animals and Birds Act 1965, administered by the Animal & Veterinary Service (AVS), part of NParks...."
 og_title: "Veterinary Clinic Insurance: Singapore Operator Framework"
 og_description: "Veterinary practice in Singapore is regulated under the Animals and Birds Act 1965, administered by the Animal & Veterinary Service (AVS), part of NParks...."

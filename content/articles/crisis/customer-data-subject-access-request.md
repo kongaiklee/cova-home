@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes"]
 article_number: 212
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2377
+word_count: 2357
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/customer-data-subject-access-request"
+canonical_url: "https://covarage.com/guides/crisis/customer-data-subject-access-request"
 meta_description: "---"
 og_title: "Customer Data Subject Access Request: Singapore PDPA Section 21 Response Framework"
 og_description: "---"

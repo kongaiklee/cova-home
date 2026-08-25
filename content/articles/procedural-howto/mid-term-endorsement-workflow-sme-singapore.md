@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes", "Courts", "LTA", "IRAS", "MOM"]
 article_number: 405
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 5502
+word_count: 5448
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/mid-term-endorsement-workflow-sme-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/mid-term-endorsement-workflow-sme-singapore"
 meta_description: "You signed a 12-month commercial insurance policy in February. By July, your business looks different. You opened a second outlet. You bought a new lorry...."
 og_title: "The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It"
 og_description: "You signed a 12-month commercial insurance policy in February. By July, your business looks different. You opened a second outlet. You bought a new lorry...."

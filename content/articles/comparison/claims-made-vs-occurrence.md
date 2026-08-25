@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 64
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1648
+word_count: 1629
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/claims-made-vs-occurrence"
+canonical_url: "https://covarage.com/guides/comparison/claims-made-vs-occurrence"
 meta_description: "An occurrence-based policy responds to events that occurred during the policy period, regardless of when the claim is later notified. A claims-made policy..."
 og_title: "Claims-Made vs Occurrence Triggers: Why It Matters Which Lines Use Which"
 og_description: "An occurrence-based policy responds to events that occurred during the policy period, regardless of when the claim is later notified. A claims-made policy..."

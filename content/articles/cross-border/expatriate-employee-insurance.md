@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "CPF Board", "LIA"]
 article_number: 303
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2228
+word_count: 2200
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/expatriate-employee-insurance"
+canonical_url: "https://covarage.com/guides/cross-border/expatriate-employee-insurance"
 meta_description: "Sending Singapore staff to work overseas creates a layered insurance question: WICA generally extends to short business trips and temporary assignments..."
 og_title: "Expatriate Employee Insurance: Singapore SMEs Sending Staff Overseas"
 og_description: "Sending Singapore staff to work overseas creates a layered insurance question: WICA generally extends to short business trips and temporary assignments..."

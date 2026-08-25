@@ -10,10 +10,10 @@ agencies: []
 article_number: 415
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 5991
+word_count: 5900
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
-canonical_url: "https://covarage.com/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme"
+canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme"
 meta_description: "TL;DR - For Singapore SMEs, AI-generated content is now a live IP litigation risk: training data is broadly defensible after Bartz v. Anthropic and Kadrey..."
 og_title: "AI-Generated Content, Copyright and IP Infringement: What Singapore SMEs Actually Face - and Whether Insurance Will Respond"
 og_description: "TL;DR - For Singapore SMEs, AI-generated content is now a live IP litigation risk: training data is broadly defensible after Bartz v. Anthropic and Kadrey..."
@@ -214,7 +214,6 @@ Stage the work in three blocks. The benchmarks below are the triggers that shoul
 6. How do the indemnities from our AI vendors (Microsoft CCC, OpenAI Copyright Shield, Adobe Firefly, Google) interact with our insurance - does our insurer subrogate against the vendor, or treat the vendor indemnity as primary?
 7. If we receive a cease-and-desist or DMCA-style takedown notice on AI-generated content, what is the policy notice trigger - is the takedown letter itself a "claim" or does the policy require a formal demand for damages?
 8. Given the Marsh Q1 2026 Asia financial-and-professional-lines decline of 7%, are there broader coverage extensions or higher limits available at our next renewal that we should be exploring?
-
 
 ## Related Information
 

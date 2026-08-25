@@ -9,10 +9,10 @@ agencies: ["NPARKS", "Singapore Statutes", "HDB", "URA"]
 article_number: 89
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1926
+word_count: 1894
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/dog-daycare-boarding-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/dog-daycare-boarding-insurance"
 meta_description: "A Singapore dog daycare or boarding business typically needs: AVS (Animal & Veterinary Service) licensing under the National Parks Board's pet shop and..."
 og_title: "Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?"
 og_description: "A Singapore dog daycare or boarding business typically needs: AVS (Animal & Veterinary Service) licensing under the National Parks Board's pet shop and..."

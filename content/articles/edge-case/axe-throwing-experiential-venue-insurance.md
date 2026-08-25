@@ -9,10 +9,10 @@ agencies: ["ACRA", "SCDF", "URA", "SPF", "SFA", "Singapore Statutes"]
 article_number: 163
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1482
+word_count: 1463
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/axe-throwing-experiential-venue-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/axe-throwing-experiential-venue-insurance"
 meta_description: "A Singapore axe throwing venue, archery range, escape room, VR arcade, ninja course, or similar experiential entertainment venue requires: business..."
 og_title: "Axe Throwing, Knife Throwing, and Experiential Entertainment Venue Insurance in Singapore"
 og_description: "A Singapore axe throwing venue, archery range, escape room, VR arcade, ninja course, or similar experiential entertainment venue requires: business..."

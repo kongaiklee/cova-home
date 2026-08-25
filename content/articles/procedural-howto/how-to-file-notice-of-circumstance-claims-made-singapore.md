@@ -9,10 +9,10 @@ agencies: ["Courts", "Singapore Statutes"]
 article_number: 408
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3296
+word_count: 3225
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore"
 meta_description: "A Notice of Circumstance (NoC) is the most under-used and most consequential procedural mechanism in Singapore SME commercial insurance. It is the..."
 og_title: "How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs"
 og_description: "A Notice of Circumstance (NoC) is the most under-used and most consequential procedural mechanism in Singapore SME commercial insurance. It is the..."

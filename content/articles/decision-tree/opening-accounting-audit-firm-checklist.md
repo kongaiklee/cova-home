@@ -9,10 +9,10 @@ agencies: ["ACRA", "Singapore Statutes"]
 article_number: 121
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1797
+word_count: 1777
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-accounting-audit-firm-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-accounting-audit-firm-checklist"
 meta_description: "A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public..."
 og_title: "Opening an Accounting or Audit Firm in Singapore: Full Insurance Checklist"
 og_description: "A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public..."

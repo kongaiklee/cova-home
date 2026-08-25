@@ -9,10 +9,10 @@ agencies: ["CUSTOMS", "LTA", "Singapore Statutes"]
 article_number: 245
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1272
+word_count: 1262
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/logistics-3pl-operator"
+canonical_url: "https://covarage.com/guides/decision-tree/logistics-3pl-operator"
 meta_description: "Logistics and third-party logistics (3PL) operators in Singapore - covering warehousing operations, transport / trucking operations, freight forwarding,..."
 og_title: "SME Startup Decision Tree: Logistics and 3PL Operator - Foundational Insurance Procurement"
 og_description: "Logistics and third-party logistics (3PL) operators in Singapore - covering warehousing operations, transport / trucking operations, freight forwarding,..."

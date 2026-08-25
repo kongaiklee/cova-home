@@ -3,8 +3,8 @@
   "cleanUrls": true,
   "redirects": [
     {
-      "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:slug",
-      "destination": "/guides/:category/:slug",
+      "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*",
+      "destination": "/guides/:category/:path*",
       "permanent": true
     }
   ],

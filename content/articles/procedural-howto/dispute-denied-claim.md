@@ -1,6 +1,5 @@
 ---
 title: "How to Dispute a Denied Insurance Claim in Singapore"
-meta_description: "Step 1 - Demand a written denial. The insurer must specify the policy clause and the factual basis. Verbal \"we won't pay\" is not actionable. Get it on..."
 slug: "/procedural-howto/dispute-denied-claim"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: ["GIA"]
 article_number: 43
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1040
+word_count: 1023
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/dispute-denied-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/dispute-denied-claim"
+meta_description: "Step 1 - Demand a written denial. The insurer must specify the policy clause and the factual basis. Verbal \"we won't pay\" is not actionable. Get it on..."
 og_title: "How to Dispute a Denied Insurance Claim in Singapore"
+og_description: "Step 1 - Demand a written denial. The insurer must specify the policy clause and the factual basis. Verbal \"we won't pay\" is not actionable. Get it on..."
 ---
 
 > **The Answer in 60 Seconds:** First, get the denial in writing with the specific policy clause cited. Submit an internal appeal to the insurer's CEO (allow 15 business days for reply per the [GIA disputes process](https://gia.org.sg/help-support/insurance-disputes.html)). If unresolved within 4 weeks, escalate to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/). FIDReC offers free mediation; adjudication is binding on the insurer (not on you) up to **S$150,000 per claim** for claims filed on or after 1 July 2024. Since 1 July 2025, **small businesses with group annual turnover ≤ S$1 million in each of the prior two financial years** are eligible complainants.
-
 
 ### The Step-by-Step
 
@@ -60,7 +60,6 @@ A coverage denial based on an exclusion is harder. Check whether (a) the exclusi
 3. Do I qualify as a "small business" under FIDReC's definition (group turnover ≤ S$1M for each of the prior two FYs)?
 4. Should I bring in a coverage lawyer before the CEO appeal or before FIDReC adjudication?
 5. Are there any pre-action protocols I need to comply with for litigation if FIDReC fails?
-
 
 ### Related Information
 - [Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure](/document-legal/insurance-act-disclosure-duty)

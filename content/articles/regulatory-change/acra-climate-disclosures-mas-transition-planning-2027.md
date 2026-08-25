@@ -9,10 +9,10 @@ agencies: ["ACRA", "MAS", "Singapore Statutes"]
 article_number: 359
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1620
+word_count: 1594
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/acra-climate-disclosures-mas-transition-planning-2027"
+canonical_url: "https://covarage.com/guides/regulatory-change/acra-climate-disclosures-mas-transition-planning-2027"
 meta_description: "Two parallel regulatory developments establish climate-related disclosure as material Singapore SME consideration: (1) Accounting and Corporate Regulatory..."
 og_title: "ACRA Mandatory Climate-Related Disclosures and MAS Transition Planning Guidelines (September 2027): D&O and ESG Risk Implications"
 og_description: "Two parallel regulatory developments establish climate-related disclosure as material Singapore SME consideration: (1) Accounting and Corporate Regulatory..."

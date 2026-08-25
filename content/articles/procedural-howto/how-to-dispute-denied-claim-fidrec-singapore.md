@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "CHARITIES", "ACRA"]
 article_number: 342
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1607
+word_count: 1574
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore"
 meta_description: "Singapore SMEs disputing a denied insurance claim now have access to the Financial Industry Disputes Resolution Centre (FIDReC) following the 1 July 2025..."
 og_title: "How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure"
 og_description: "Singapore SMEs disputing a denied insurance claim now have access to the Financial Industry Disputes Resolution Centre (FIDReC) following the 1 July 2025..."

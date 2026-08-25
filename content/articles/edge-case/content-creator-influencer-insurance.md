@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "IMDA", "HSA", "MAS"]
 article_number: 144
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1712
+word_count: 1680
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/content-creator-influencer-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/content-creator-influencer-insurance"
 meta_description: "A Singapore content creator or influencer (food blogger, lifestyle YouTuber, Instagram beauty creator, tech reviewer, family vlogger, gaming streamer)..."
 og_title: "Content Creator and Influencer Insurance in Singapore (Food, Lifestyle, Beauty, Tech, Family)"
 og_description: "A Singapore content creator or influencer (food blogger, lifestyle YouTuber, Instagram beauty creator, tech reviewer, family vlogger, gaming streamer)..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 292
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2550
+word_count: 2557
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/key-supplier-insolvency-contingent-bi-trigger"
+canonical_url: "https://covarage.com/guides/crisis/key-supplier-insolvency-contingent-bi-trigger"
 meta_description: "The Singapore SME's sole-source supplier (component, raw material, exclusive licensor, critical service provider) has filed under the Insolvency,..."
 og_title: "Key Supplier Insolvency: The Contingent BI Trigger"
 og_description: "The Singapore SME's sole-source supplier (component, raw material, exclusive licensor, critical service provider) has filed under the Insolvency,..."

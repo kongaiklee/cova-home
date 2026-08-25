@@ -9,10 +9,10 @@ agencies: ["ACRA", "CPE", "Singapore Statutes", "SSG", "MSF"]
 article_number: 104
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1775
+word_count: 1756
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/tutoring-enrichment-centre-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/tutoring-enrichment-centre-insurance"
 meta_description: "Tutoring centres and enrichment centres serving children aged 7 and above in Singapore are not regulated by ECDA (which covers children below 7). They..."
 og_title: "Tutoring or Enrichment Centre Insurance in Singapore (Non-ECDA, Children 7+)"
 og_description: "Tutoring centres and enrichment centres serving children aged 7 and above in Singapore are not regulated by ECDA (which covers children below 7). They..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOH"]
 article_number: 221
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1578
+word_count: 1571
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/medical-aesthetics-injectables-clinics"
+canonical_url: "https://covarage.com/guides/edge-case/medical-aesthetics-injectables-clinics"
 meta_description: "Medical aesthetics operations in Singapore - covering injectables (Botox, fillers), energy-based treatments (laser, IPL, RF, HIFU), specific advanced..."
 og_title: "Specialty Medical Aesthetics: The Distinct Insurance Profile for Aesthetic Medicine, Injectables, and Energy-Based Treatments"
 og_description: "Medical aesthetics operations in Singapore - covering injectables (Botox, fillers), energy-based treatments (laser, IPL, RF, HIFU), specific advanced..."

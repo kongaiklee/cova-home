@@ -9,10 +9,10 @@ agencies: ["MSE", "Singapore Statutes"]
 article_number: 362
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1675
+word_count: 1667
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/confined-space-fatality-h2s-rescue-trap"
+canonical_url: "https://covarage.com/guides/crisis/confined-space-fatality-h2s-rescue-trap"
 meta_description: "A worker has collapsed inside a tank, vessel, or manhole. Colleagues attempted rescue without self-contained breathing apparatus (SCBA) and were also..."
 og_title: "Confined Space Fatality: Hydrogen Sulphide Exposure and the Multi-Casualty Rescue Trap"
 og_description: "A worker has collapsed inside a tank, vessel, or manhole. Colleagues attempted rescue without self-contained breathing apparatus (SCBA) and were also..."

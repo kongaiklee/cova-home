@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SLA", "JTC", "HDB", "Courts"]
 article_number: 274
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2852
+word_count: 2860
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/reinstatement-cost-vs-indemnity-value-property"
+canonical_url: "https://covarage.com/guides/comparison/reinstatement-cost-vs-indemnity-value-property"
 meta_description: "Singapore property insurance settles on one of two bases. Reinstatement (or Replacement) Cost pays the cost of replacing damaged property with new..."
 og_title: "Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework"
 og_description: "Singapore property insurance settles on one of two bases. Reinstatement (or Replacement) Cost pays the cost of replacing damaged property with new..."

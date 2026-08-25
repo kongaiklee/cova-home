@@ -9,10 +9,10 @@ agencies: ["ACRA", "URA", "SCDF", "NPARKS", "Singapore Statutes", "NEA", "MOM", 
 article_number: 319
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1806
+word_count: 1786
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/floristry-event-florist"
+canonical_url: "https://covarage.com/guides/edge-case/floristry-event-florist"
 meta_description: "Singapore florists, wedding florists, event florists, corporate floral design houses, and floral subscription services (Far East Flora, A Better Florist,..."
 og_title: "Floristry or Event Florist Business in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore florists, wedding florists, event florists, corporate floral design houses, and floral subscription services (Far East Flora, A Better Florist,..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "PDPC"]
 article_number: 197
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1602
+word_count: 1600
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/cyber-tower-follow-form-mechanics"
+canonical_url: "https://covarage.com/guides/comparison/cyber-tower-follow-form-mechanics"
 meta_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics - excess layers adopting the terms..."
 og_title: "Cyber Tower Follow-Form Mechanics Deep-Dive: How Excess Layers Coordinate (and Where Gaps Emerge)"
 og_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics - excess layers adopting the terms..."

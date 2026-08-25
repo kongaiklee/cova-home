@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 236
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1576
+word_count: 1580
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/multi-country-regional-structure"
+canonical_url: "https://covarage.com/guides/cross-border/multi-country-regional-structure"
 meta_description: "Singapore SMEs operating across multiple jurisdictions face commercial complexity substantially exceeding single-country cross-border scope. Master..."
 og_title: "Multi-Country Regional Structure: Master Programme Architecture for Singapore-Headquartered SMEs"
 og_description: "Singapore SMEs operating across multiple jurisdictions face commercial complexity substantially exceeding single-country cross-border scope. Master..."

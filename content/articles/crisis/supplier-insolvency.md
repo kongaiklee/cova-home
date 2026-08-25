@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "ACRA", "Courts", "GIA", "MAS"]
 article_number: 125
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1845
+word_count: 1834
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/supplier-insolvency"
+canonical_url: "https://covarage.com/guides/crisis/supplier-insolvency"
 meta_description: "First, assess immediate operational impact: which orders are in flight, what stock is available, what alternative suppliers exist, what's the lead time...."
 og_title: "Our Critical Supplier Just Declared Insolvency - What Do I Do Now?"
 og_description: "First, assess immediate operational impact: which orders are in flight, what stock is available, what alternative suppliers exist, what's the lead time...."

@@ -9,10 +9,10 @@ agencies: ["SFA", "HSA", "Singapore Statutes", "MAS", "GIA"]
 article_number: 224
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1366
+word_count: 1359
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/vending-machine-operator-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/vending-machine-operator-insurance"
 meta_description: "Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
 og_title: "Vending Machine Operator: The Specific Insurance Profile for Singapore's Distributed Commercial Operations"
 og_description: "Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."

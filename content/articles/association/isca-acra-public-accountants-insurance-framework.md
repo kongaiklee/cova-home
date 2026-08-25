@@ -9,10 +9,10 @@ agencies: ["ACRA", "Singapore Statutes"]
 article_number: 284
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2037
+word_count: 2043
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/isca-acra-public-accountants-insurance-framework"
+canonical_url: "https://covarage.com/guides/association/isca-acra-public-accountants-insurance-framework"
 meta_description: "The Institute of Singapore Chartered Accountants (ISCA) is the national accountancy body conferring the Chartered Accountant of Singapore (CA Singapore)..."
 og_title: "Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications"
 og_description: "The Institute of Singapore Chartered Accountants (ISCA) is the national accountancy body conferring the Chartered Accountant of Singapore (CA Singapore)..."

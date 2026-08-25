@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 265
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2188
+word_count: 2196
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/bca-crs-workhead-evolution-construction-insurance"
+canonical_url: "https://covarage.com/guides/regulatory-change/bca-crs-workhead-evolution-construction-insurance"
 meta_description: "The BCA Contractors Registration System (CRS) is the registry through which contractors qualify to tender for public-sector construction work and (from 1..."
 og_title: "BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know"
 og_description: "The BCA Contractors Registration System (CRS) is the registry through which contractors qualify to tender for public-sector construction work and (from 1..."

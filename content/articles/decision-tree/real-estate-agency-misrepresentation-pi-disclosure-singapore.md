@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CEA"]
 article_number: 141
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2083
+word_count: 2066
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/real-estate-agency-misrepresentation-pi-disclosure-singapore"
+canonical_url: "https://covarage.com/guides/decision-tree/real-estate-agency-misrepresentation-pi-disclosure-singapore"
 meta_description: "A Singapore real estate agency requires licensing under the Estate Agents Act 2010 administered by the Council for Estate Agencies (CEA). Every agency..."
 og_title: "Real Estate Agency Misrepresentation Cover and PI Disclosure Framework"
 og_description: "A Singapore real estate agency requires licensing under the Estate Agents Act 2010 administered by the Council for Estate Agencies (CEA). Every agency..."

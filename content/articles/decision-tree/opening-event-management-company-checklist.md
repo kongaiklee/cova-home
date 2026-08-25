@@ -9,10 +9,10 @@ agencies: ["ACRA", "SPF", "SCDF", "URA", "MOH", "Singapore Statutes", "STB", "WS
 article_number: 142
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1899
+word_count: 1878
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-event-management-company-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-event-management-company-checklist"
 meta_description: "A Singapore event management company registers its business with ACRA; the company itself needs no single industry licence, but each event typically needs..."
 og_title: "Opening an Event Management Company in Singapore: Full Insurance Checklist"
 og_description: "A Singapore event management company registers its business with ACRA; the company itself needs no single industry licence, but each event typically needs..."

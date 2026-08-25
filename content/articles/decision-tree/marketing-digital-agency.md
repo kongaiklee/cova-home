@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes", "MAS", "GIA", "IPOS"]
 article_number: 244
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1555
+word_count: 1546
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/marketing-digital-agency"
+canonical_url: "https://covarage.com/guides/decision-tree/marketing-digital-agency"
 meta_description: "Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
 og_title: "SME Startup Decision Tree: Marketing and Digital Agency - Foundational Insurance Procurement"
 og_description: "Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."

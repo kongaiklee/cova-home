@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 363
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1657
+word_count: 1650
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/lifting-equipment-collapse-crane-incident"
+canonical_url: "https://covarage.com/guides/crisis/lifting-equipment-collapse-crane-incident"
 meta_description: "A tower crane jib has failed, a lorry crane has toppled, or a mobile crane has collapsed. A worker is struck or trapped. This article addresses the..."
 og_title: "Lifting Operation Failure: Crane Collapse, Lorry Crane Topple, Tower Crane Failure"
 og_description: "A tower crane jib has failed, a lorry crane has toppled, or a mobile crane has collapsed. A worker is struck or trapped. This article addresses the..."

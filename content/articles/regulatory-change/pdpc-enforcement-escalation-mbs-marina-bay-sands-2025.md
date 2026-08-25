@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes", "IMDA"]
 article_number: 357
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1554
+word_count: 1548
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025"
 meta_description: "Personal Data Protection Commission (PDPC) enforcement decisions across 2024-2026 reveal a consistent pattern of breaches under PDPA Section 24 Protection..."
 og_title: "PDPC Enforcement Escalation 2024-2026: Marina Bay Sands SGD 315,000 and the Pattern Insurers Are Underwriting Against"
 og_description: "Personal Data Protection Commission (PDPC) enforcement decisions across 2024-2026 reveal a consistent pattern of breaches under PDPA Section 24 Protection..."

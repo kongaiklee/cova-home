@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 12
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1147
+word_count: 1108
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/pwa-jan-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/pwa-jan-2025"
 meta_description: "The Platform Workers Act 2024 (Act 30 of 2024) came into full force on 1 January 2025, per the MOM press release of 17 December 2024. It creates three..."
 og_title: "Platform Workers Act: Full Commencement on 1 January 2025"
 og_description: "The Platform Workers Act 2024 (Act 30 of 2024) came into full force on 1 January 2025, per the MOM press release of 17 December 2024. It creates three..."

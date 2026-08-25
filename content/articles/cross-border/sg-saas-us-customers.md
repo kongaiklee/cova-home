@@ -9,10 +9,10 @@ agencies: []
 article_number: 87
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1956
+word_count: 1929
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-saas-us-customers"
+canonical_url: "https://covarage.com/guides/cross-border/sg-saas-us-customers"
 meta_description: "US customers materially change the insurance profile for a Singapore SaaS. USA/Canada exclusion is standard on most Singapore-issued liability policies..."
 og_title: "Singapore SaaS Selling to US Customers: The Insurance Implications"
 og_description: "US customers materially change the insurance profile for a Singapore SaaS. USA/Canada exclusion is standard on most Singapore-issued liability policies..."

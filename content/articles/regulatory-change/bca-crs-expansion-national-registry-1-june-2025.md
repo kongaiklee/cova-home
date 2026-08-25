@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 384
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 1958
+word_count: 1959
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/bca-crs-expansion-national-registry-1-june-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/bca-crs-expansion-national-registry-1-june-2025"
 meta_description: "On 5 March 2024 the Building and Construction Authority (BCA) announced that, with effect from 1 June 2025, its Contractors Registration System (CRS)..."
 og_title: "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications"
 og_description: "On 5 March 2024 the Building and Construction Authority (BCA) announced that, with effect from 1 June 2025, its Contractors Registration System (CRS)..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 204
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1399
+word_count: 1394
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/marine-cargo-claim-with-icc"
+canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-claim-with-icc"
 meta_description: "Marine Cargo claim handling combines specific Institute Cargo Clauses (ICC) coverage analysis (per Article 192) with operational discipline. The standard..."
 og_title: "Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough"
 og_description: "Marine Cargo claim handling combines specific Institute Cargo Clauses (ICC) coverage analysis (per Article 192) with operational discipline. The standard..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "LIA"]
 article_number: 203
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1331
+word_count: 1294
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/group-term-life-claim-process"
+canonical_url: "https://covarage.com/guides/procedural-howto/group-term-life-claim-process"
 meta_description: "Group Term Life (GTL) death benefit claims are typically simpler than commercial liability claims because the trigger (death of insured employee) and..."
 og_title: "Group Term Life Death Benefit Claim Process: From Notification to Beneficiary Payment"
 og_description: "Group Term Life (GTL) death benefit claims are typically simpler than commercial liability claims because the trigger (death of insured employee) and..."

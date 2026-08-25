@@ -9,10 +9,10 @@ agencies: ["SFA", "Singapore Statutes", "GoBusiness", "NEA", "MOM", "ACRA", "IRA
 article_number: 102
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1629
+word_count: 1613
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/sfa-licensing-tiers-insurance"
+canonical_url: "https://covarage.com/guides/association/sfa-licensing-tiers-insurance"
 meta_description: "The Singapore Food Agency (SFA) administers food licensing under the Sale of Food Act 1973 and related regulations. Food businesses fall into multiple..."
 og_title: "Singapore Food Agency Licensing Tiers and Insurance Implications"
 og_description: "The Singapore Food Agency (SFA) administers food licensing under the Sale of Food Act 1973 and related regulations. Food businesses fall into multiple..."

@@ -9,10 +9,10 @@ agencies: ["NEA", "MOM", "Singapore Statutes"]
 article_number: 219
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1996
+word_count: 1964
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-cleaning-fm-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-cleaning-fm-checklist"
 meta_description: "---"
 og_title: "Opening a Cleaning or Facilities Management Operation in Singapore: Insurance and Regulatory Checklist"
 og_description: "---"

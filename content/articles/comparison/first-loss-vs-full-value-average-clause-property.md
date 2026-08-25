@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 275
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3038
+word_count: 3045
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/first-loss-vs-full-value-average-clause-property"
+canonical_url: "https://covarage.com/guides/comparison/first-loss-vs-full-value-average-clause-property"
 meta_description: "Singapore property insurance settles the sum insured question in one of two architectures. Full Value with Average Clause requires the SME to insure the..."
 og_title: "First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework"
 og_description: "Singapore property insurance settles the sum insured question in one of two architectures. Full Value with Average Clause requires the SME to insure the..."

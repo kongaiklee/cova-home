@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 183
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1816
+word_count: 1811
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/marine-insurance-act-disclosure-sections-17-19"
+canonical_url: "https://covarage.com/guides/document-legal/marine-insurance-act-disclosure-sections-17-19"
 meta_description: "Sections 17, 18, and 19 of the Marine Insurance Act 1906 form the codified architecture of pre-contractual disclosure in insurance. While the Act is..."
 og_title: "Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance"
 og_description: "Sections 17, 18, and 19 of the Marine Insurance Act 1906 form the codified architecture of pre-contractual disclosure in insurance. While the Act is..."

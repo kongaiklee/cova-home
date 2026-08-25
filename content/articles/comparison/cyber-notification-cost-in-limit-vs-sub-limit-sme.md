@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes", "CSA"]
 article_number: 400
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2871
+word_count: 2825
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme"
+canonical_url: "https://covarage.com/guides/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme"
 meta_description: "Singapore cyber liability policies treat notification cost - the cost of complying with PDPC Mandatory Data Breach Notification (effective 1 February..."
 og_title: "Cyber Notification Cost: In-Limit vs Separate Sub-Limit for Singapore SMEs"
 og_description: "Singapore cyber liability policies treat notification cost - the cost of complying with PDPC Mandatory Data Breach Notification (effective 1 February..."

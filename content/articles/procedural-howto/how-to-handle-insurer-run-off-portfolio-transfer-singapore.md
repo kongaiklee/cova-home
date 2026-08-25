@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "SDIC"]
 article_number: 410
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3291
+word_count: 3164
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore"
 meta_description: "The standard SME workflow assumes the insurer is a stable counterparty. The annual renewal happens, the policy responds at claim time, and the SME's only..."
 og_title: "How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs"
 og_description: "The standard SME workflow assumes the insurer is a stable counterparty. The annual renewal happens, the policy responds at claim time, and the SME's only..."
@@ -213,6 +213,4 @@ The structural protection against insurer disruption is on the underwriting side
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 
-**End of master report.**
-
-Build status: **416/552 articles (75.4%)** · 416 articles across 11 categories · ~790k words · last updated 16 May 2026 (article 16 deleted; ~99% duplicate content; unique sections - per-insurer expiry dates, Singlife/Aviva history, 2026 re-designation watch - merged into article 6 which gains ~480 words from the merge; net article count 417->416).
+---

@@ -1,6 +1,5 @@
 ---
 title: "How to Handle a Subrogation Claim Against Your Business"
-meta_description: "Per Castellian v Preston (1883) 11 QBD 380, the insurer takes \"the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in..."
 slug: "/procedural-howto/handle-subrogation-claim"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: []
 article_number: 47
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 951
+word_count: 937
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/handle-subrogation-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/handle-subrogation-claim"
+meta_description: "Per Castellian v Preston (1883) 11 QBD 380, the insurer takes \"the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in..."
 og_title: "How to Handle a Subrogation Claim Against Your Business"
+og_description: "Per Castellian v Preston (1883) 11 QBD 380, the insurer takes \"the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in..."
 ---
 
 > **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party - confirmed in Singapore in cases including *Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.
-
 
 ### What subrogation is, in plain English
 Your neighbour's warehouse catches fire because (allegedly) of your faulty electrical wiring. Your neighbour's insurer pays the neighbour S$800,000 under their property policy. The neighbour's insurer then writes to **you** demanding S$800,000 because, by paying out, they have stepped into the neighbour's shoes. They have the same right of action against you as the neighbour would have had at common law.
@@ -69,7 +69,6 @@ For SMEs without in-house legal, brief your liability broker on every contract w
 3. How much defence cost is included within or in addition to the policy limit?
 4. Will this subrogation claim affect my renewal premium and which loss-record databases will record it?
 5. Should I engage a coverage lawyer separately if my insurer reserves rights?
-
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)

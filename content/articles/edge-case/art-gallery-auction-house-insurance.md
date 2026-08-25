@@ -9,10 +9,10 @@ agencies: ["CUSTOMS", "Singapore Statutes", "MAS", "GIA"]
 article_number: 223
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1598
+word_count: 1591
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/art-gallery-auction-house-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/art-gallery-auction-house-insurance"
 meta_description: "Art galleries, auction houses, and fine art dealers in Singapore operate within a distinctive commercial framework where the foundational insurance is..."
 og_title: "Art Gallery, Auction House, and Fine Art Dealer: The Specific Insurance Profile for Singapore Art Market Operations"
 og_description: "Art galleries, auction houses, and fine art dealers in Singapore operate within a distinctive commercial framework where the foundational insurance is..."

@@ -12,7 +12,7 @@ source_verified: "2026-05-05"
 word_count: 1649
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/employment-framework-2026-updates"
+canonical_url: "https://covarage.com/guides/regulatory-change/employment-framework-2026-updates"
 meta_description: "Singapore's employment framework continues to evolve through 2026 across multiple dimensions: the Workplace Fairness Act 2024 (WFA), passed but not yet in..."
 og_title: "Singapore Employment Framework Updates 2026: What Singapore SMEs Need to Know"
 og_description: "Singapore's employment framework continues to evolve through 2026 across multiple dimensions: the Workplace Fairness Act 2024 (WFA), passed but not yet in..."

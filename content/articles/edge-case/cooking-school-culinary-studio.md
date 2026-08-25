@@ -9,10 +9,10 @@ agencies: ["ACRA", "SFA", "SCDF", "URA", "SKILLSFUTURE", "SSG", "NEA", "MOM", "E
 article_number: 314
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1744
+word_count: 1726
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/cooking-school-culinary-studio"
+canonical_url: "https://covarage.com/guides/edge-case/cooking-school-culinary-studio"
 meta_description: "Singapore cooking schools, hands-on culinary studios, baking studios, and chef-led private cooking experiences (Palate Sensations, Coriander Leaf, ToTT..."
 og_title: "Cooking School or Culinary Studio in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore cooking schools, hands-on culinary studios, baking studios, and chef-led private cooking experiences (Palate Sensations, Coriander Leaf, ToTT..."

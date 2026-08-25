@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "HSA", "HPB"]
 article_number: 225
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1416
+word_count: 1401
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/vape-tobacco-retail-singapore"
+canonical_url: "https://covarage.com/guides/edge-case/vape-tobacco-retail-singapore"
 meta_description: "Singapore prohibits the import, distribution, sale, and offer for sale of all imitation tobacco products and electronic vaporisers (vapes / e-cigarettes)..."
 og_title: "Vape, E-Cigarette, and Tobacco Retail Post-Regulation: Singapore Framework Considerations"
 og_description: "Singapore prohibits the import, distribution, sale, and offer for sale of all imitation tobacco products and electronic vaporisers (vapes / e-cigarettes)..."

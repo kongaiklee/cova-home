@@ -9,13 +9,13 @@ agencies: ["SCDF", "Singapore Statutes", "MAS", "GIA"]
 article_number: 207
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1357
+word_count: 1364
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/property-fire-claim-deep-dive"
-meta_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence -> immediate safety / emergency response ->..."
+canonical_url: "https://covarage.com/guides/procedural-howto/property-fire-claim-deep-dive"
+meta_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence - immediate safety / emergency response -..."
 og_title: "Property/Fire Claim Deep-Dive: From Incident to Settlement"
-og_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence -> immediate safety / emergency response ->..."
+og_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence - immediate safety / emergency response -..."
 ---
 
 > **The Answer in 60 Seconds**

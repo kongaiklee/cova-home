@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 374
 published: "2026-05-07"
 source_verified: "2026-05-07"
-word_count: 1661
+word_count: 1649
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore"
 meta_description: "Your SME has Foreign Worker Medical Insurance (FWMI) policies that need to comply with Ministry of Manpower (MOM) Stage 2 requirements applicable to all..."
 og_title: "How to Comply with FWMI Stage 2 Requirements (1 July 2025+)"
 og_description: "Your SME has Foreign Worker Medical Insurance (FWMI) policies that need to comply with Ministry of Manpower (MOM) Stage 2 requirements applicable to all..."

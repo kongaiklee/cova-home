@@ -9,10 +9,10 @@ agencies: ["SFA", "CUSTOMS", "BCA", "Singapore Statutes"]
 article_number: 338
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1712
+word_count: 1680
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/specialty-tea-coffee-roaster"
+canonical_url: "https://covarage.com/guides/edge-case/specialty-tea-coffee-roaster"
 meta_description: "Specialty tea and coffee roasters in Singapore - small-batch artisan roasters, third-wave specialty operators, specialty tea importers - operate under..."
 og_title: "Specialty Tea and Coffee Roaster Insurance: Singapore Operator Framework"
 og_description: "Specialty tea and coffee roasters in Singapore - small-batch artisan roasters, third-wave specialty operators, specialty tea importers - operate under..."

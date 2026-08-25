@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MPA", "SCDF"]
 article_number: 337
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1730
+word_count: 1718
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/diving-school-scuba-operator"
+canonical_url: "https://covarage.com/guides/edge-case/diving-school-scuba-operator"
 meta_description: "Diving schools and scuba operators in Singapore typically operate under a recognised certification agency framework - PADI (Professional Association of..."
 og_title: "Diving School and Scuba Operator Insurance: Singapore Operator Framework"
 og_description: "Diving schools and scuba operators in Singapore typically operate under a recognised certification agency framework - PADI (Professional Association of..."

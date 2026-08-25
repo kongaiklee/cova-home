@@ -9,10 +9,10 @@ agencies: ["PDPC", "MOM", "SFA", "MOH", "HSA", "MAS", "IRAS", "CUSTOMS", "Singap
 article_number: 105
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1784
+word_count: 1768
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/regulatory-audit-notice-received"
+canonical_url: "https://covarage.com/guides/crisis/regulatory-audit-notice-received"
 meta_description: "Read the notice carefully - identify the regulator, scope, deadline, and any documents demanded. Singapore SMEs receive audit notices from various..."
 og_title: "A Regulator Just Issued an Audit Notice - What Do I Do Now?"
 og_description: "Read the notice carefully - identify the regulator, scope, deadline, and any documents demanded. Singapore SMEs receive audit notices from various..."

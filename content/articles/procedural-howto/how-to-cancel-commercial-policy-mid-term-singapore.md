@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "Courts", "IRAS"]
 article_number: 406
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3606
+word_count: 3535
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore"
 meta_description: "Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every..."
 og_title: "How to Cancel a Commercial Insurance Policy Mid-Term in Singapore: Short-Period Premium, Run-Off, and the Claims-Made Trap"
 og_description: "Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every..."

@@ -9,10 +9,10 @@ agencies: ["CUSTOMS", "IRAS", "ACRA", "Singapore Statutes"]
 article_number: 334
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1865
+word_count: 1844
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/watchmaker-watch-repair-specialty-retail"
+canonical_url: "https://covarage.com/guides/edge-case/watchmaker-watch-repair-specialty-retail"
 meta_description: "Watchmakers, watch repair operators, and specialty watch retailers in Singapore concentrate one of the highest-value-per-square-metre inventory profiles..."
 og_title: "Watchmaker, Watch Repair, and Specialty Watch Retail Insurance: Singapore Operator Framework"
 og_description: "Watchmakers, watch repair operators, and specialty watch retailers in Singapore concentrate one of the highest-value-per-square-metre inventory profiles..."

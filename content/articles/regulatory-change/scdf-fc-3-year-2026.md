@@ -9,10 +9,10 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness"]
 article_number: 20
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1029
+word_count: 991
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/scdf-fc-3-year-2026"
+canonical_url: "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026"
 meta_description: "Per the SCDF Fire Certificate page, from 1 April 2026 new and renewed Fire Certificates are valid for 36 months (up from 12 months). Revised application..."
 og_title: "SCDF Fire Certificate: 36-Month Validity From 1 April 2026"
 og_description: "Per the SCDF Fire Certificate page, from 1 April 2026 new and renewed Fire Certificates are valid for 36 months (up from 12 months). Revised application..."

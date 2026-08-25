@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 82
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1925
+word_count: 1909
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/customer-just-sued"
+canonical_url: "https://covarage.com/guides/crisis/customer-just-sued"
 meta_description: "First, identify what you've received. A Letter of Demand is a pre-litigation warning; a Writ of Summons is the start of formal court proceedings. Per the..."
 og_title: "A Customer Just Sued Us - What Do I Do Now?"
 og_description: "First, identify what you've received. A Letter of Demand is a pre-litigation warning; a Writ of Summons is the start of formal court proceedings. Per the..."

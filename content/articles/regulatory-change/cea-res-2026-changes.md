@@ -9,10 +9,10 @@ agencies: ["CEA", "Singapore Statutes"]
 article_number: 178
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1237
+word_count: 1215
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/cea-res-2026-changes"
+canonical_url: "https://covarage.com/guides/regulatory-change/cea-res-2026-changes"
 meta_description: "The Council for Estate Agencies (CEA) periodically updates the framework governing estate agents and real estate salespersons (RES) under the Estate..."
 og_title: "CEA Real Estate Salesperson 2026 Framework Changes: What Singapore Real Estate SMEs Need to Know"
 og_description: "The Council for Estate Agencies (CEA) periodically updates the framework governing estate agents and real estate salespersons (RES) under the Estate..."

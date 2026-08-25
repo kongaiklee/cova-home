@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 302
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2005
+word_count: 1986
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/foreign-subsidiary-insurance-scope"
+canonical_url: "https://covarage.com/guides/cross-border/foreign-subsidiary-insurance-scope"
 meta_description: "A Singapore parent's insurance policy does not automatically cover a foreign subsidiary. Coverage depends entirely on three policy mechanics: the..."
 og_title: "Foreign Subsidiary Insurance Scope: What the Singapore Parent Policy Covers (and Where It Stops)"
 og_description: "A Singapore parent's insurance policy does not automatically cover a foreign subsidiary. Coverage depends entirely on three policy mechanics: the..."

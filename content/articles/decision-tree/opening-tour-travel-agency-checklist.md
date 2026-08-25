@@ -9,10 +9,10 @@ agencies: ["STB", "Singapore Statutes"]
 article_number: 151
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1614
+word_count: 1578
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-tour-travel-agency-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-tour-travel-agency-checklist"
 meta_description: "A Singapore tour or travel agency requires a Travel Agent Licence under the Travel Agents Act 1975 and the Travel Agents Regulations 2017, administered by..."
 og_title: "Opening a Tour or Travel Agency in Singapore: Full Insurance Checklist"
 og_description: "A Singapore tour or travel agency requires a Travel Agent Licence under the Travel Agents Act 1975 and the Travel Agents Regulations 2017, administered by..."

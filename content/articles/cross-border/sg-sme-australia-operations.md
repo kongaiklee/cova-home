@@ -9,10 +9,10 @@ agencies: []
 article_number: 157
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1920
+word_count: 1903
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-australia-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-australia-operations"
 meta_description: "Singapore SMEs operating in Australia typically need: an Australian-licensed insurer for commercial property and liability (Australia's insurance market..."
 og_title: "Singapore SME With Australia Operations: How Insurance Works for Australian Subsidiaries and Branches"
 og_description: "Singapore SMEs operating in Australia typically need: an Australian-licensed insurer for commercial property and liability (Australia's insurance market..."

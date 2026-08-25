@@ -9,10 +9,10 @@ agencies: ["GIA", "MPA", "Singapore Statutes"]
 article_number: 397
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2575
+word_count: 2529
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme"
+canonical_url: "https://covarage.com/guides/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme"
 meta_description: "Singapore SMEs engaged in international trade choose between two structural approaches to marine cargo cover: (1) Annual Open Cover - declaration-based..."
 og_title: "Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework"
 og_description: "Singapore SMEs engaged in international trade choose between two structural approaches to marine cargo cover: (1) Annual Open Cover - declaration-based..."

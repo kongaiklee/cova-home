@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "CUSTOMS"]
 article_number: 198
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1582
+word_count: 1550
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/surety-vs-performance-bond"
+canonical_url: "https://covarage.com/guides/comparison/surety-vs-performance-bond"
 meta_description: "\"Surety bond\" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
 og_title: "Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate"
 og_description: "\"Surety bond\" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."

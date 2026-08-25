@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 377
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 1604
+word_count: 1590
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/extended-reporting-period-tail-cover-ma-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/extended-reporting-period-tail-cover-ma-singapore"
 meta_description: "If your SME is being sold, wound down or restructured, watch the claims-made policies - directors' & officers' (D&O), professional indemnity (PI), cyber,..."
 og_title: "How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale"
 og_description: "If your SME is being sold, wound down or restructured, watch the claims-made policies - directors' & officers' (D&O), professional indemnity (PI), cyber,..."

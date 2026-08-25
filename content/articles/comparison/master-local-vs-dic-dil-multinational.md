@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS"]
 article_number: 190
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1672
+word_count: 1671
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/master-local-vs-dic-dil-multinational"
+canonical_url: "https://covarage.com/guides/comparison/master-local-vs-dic-dil-multinational"
 meta_description: "Singapore SMEs with cross-border operations face a structural choice in insurance procurement. Master/Local is the traditional multinational programme:..."
 og_title: "Master/Local vs DIC/DIL: Multinational Insurance Structures Explained"
 og_description: "Singapore SMEs with cross-border operations face a structural choice in insurance procurement. Master/Local is the traditional multinational programme:..."

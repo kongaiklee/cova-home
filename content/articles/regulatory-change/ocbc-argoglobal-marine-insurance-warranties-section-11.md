@@ -9,10 +9,10 @@ agencies: ["Courts", "Singapore Statutes"]
 article_number: 356
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1598
+word_count: 1581
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11"
+canonical_url: "https://covarage.com/guides/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11"
 meta_description: "[Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asia Pacific Pte Ltd and others [2025] SGHC 82](https://www.elitigation.sg/) (judgment 30..."
 og_title: "OCBC v Argoglobal Underwriting Asia Pacific [2025] SGHC 82: Marine Insurance Warranties and the UK Insurance Act 2015 in Singapore Courts"
 og_description: "[Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asia Pacific Pte Ltd and others [2025] SGHC 82](https://www.elitigation.sg/) (judgment 30..."

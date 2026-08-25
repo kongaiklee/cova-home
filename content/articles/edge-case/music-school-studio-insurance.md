@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes", "ECDA"]
 article_number: 326
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1779
+word_count: 1754
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/music-school-studio-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/music-school-studio-insurance"
 meta_description: "Music schools, studios, and instrument-instruction operators in Singapore generally fall outside ECDA preschool licensing scope (which applies to children..."
 og_title: "Music School and Music Studio Insurance: Singapore Operator Framework"
 og_description: "Music schools, studios, and instrument-instruction operators in Singapore generally fall outside ECDA preschool licensing scope (which applies to children..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 394
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2921
+word_count: 2875
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/side-a-only-vs-abc-tower-do-singapore-sme"
+canonical_url: "https://covarage.com/guides/comparison/side-a-only-vs-abc-tower-do-singapore-sme"
 meta_description: "Directors & Officers (D&O) liability cover is structured around three coverage \"Sides\": Side A - pays the director personally when the company cannot..."
 og_title: "Side A Only vs ABC Tower D&O for Singapore SME and Private Companies: A Coverage Structure Decision Framework"
 og_description: "Directors & Officers (D&O) liability cover is structured around three coverage \"Sides\": Side A - pays the director personally when the company cannot..."

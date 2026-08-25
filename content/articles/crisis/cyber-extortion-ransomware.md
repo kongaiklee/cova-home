@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes", "CSA", "SPF"]
 article_number: 164
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1429
+word_count: 1408
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/cyber-extortion-ransomware"
+canonical_url: "https://covarage.com/guides/crisis/cyber-extortion-ransomware"
 meta_description: "Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. Disconnect affected systems from the network (don't..."
 og_title: "Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?"
 og_description: "Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. Disconnect affected systems from the network (don't..."

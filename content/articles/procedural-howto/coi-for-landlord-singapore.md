@@ -9,10 +9,10 @@ agencies: []
 article_number: 39
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 981
+word_count: 943
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/coi-for-landlord-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/coi-for-landlord-singapore"
 meta_description: "Step 1 - Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
 og_title: "How to Get a Certificate of Insurance for Your Landlord"
 og_description: "Step 1 - Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."

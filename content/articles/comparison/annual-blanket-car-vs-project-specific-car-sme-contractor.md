@@ -9,10 +9,10 @@ agencies: ["GIA", "BCA"]
 article_number: 398
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2765
+word_count: 2719
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor"
+canonical_url: "https://covarage.com/guides/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor"
 meta_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR - single 12-month policy covering all..."
 og_title: "Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision"
 og_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR - single 12-month policy covering all..."

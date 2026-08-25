@@ -9,10 +9,10 @@ agencies: []
 article_number: 109
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 2046
+word_count: 2031
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-indonesian-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-indonesian-operations"
 meta_description: "Indonesia operates one of ASEAN's most regulated insurance markets, supervised by Otoritas Jasa Keuangan (OJK) - the Financial Services Authority...."
 og_title: "Singapore SME With Indonesian Operations: How Insurance Works Across the Strait"
 og_description: "Indonesia operates one of ASEAN's most regulated insurance markets, supervised by Otoritas Jasa Keuangan (OJK) - the Financial Services Authority...."

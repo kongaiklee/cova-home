@@ -9,10 +9,10 @@ agencies: ["SFA", "Singapore Statutes"]
 article_number: 79
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1908
+word_count: 1873
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/kombucha-brewery-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/kombucha-brewery-insurance"
 meta_description: "A Singapore kombucha brewery sits at the intersection of food production (regulated by the Singapore Food Agency) and beverage manufacturing. Insurance..."
 og_title: "Kombucha Brewery in Singapore: What Insurance Do I Actually Need?"
 og_description: "A Singapore kombucha brewery sits at the intersection of food production (regulated by the Singapore Food Agency) and beverage manufacturing. Insurance..."

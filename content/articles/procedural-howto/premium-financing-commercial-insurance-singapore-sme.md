@@ -9,10 +9,10 @@ agencies: ["EnterpriseSG", "Singapore Statutes", "MAS"]
 article_number: 375
 published: "2026-05-07"
 source_verified: "2026-05-07"
-word_count: 1641
+word_count: 1624
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/premium-financing-commercial-insurance-singapore-sme"
+canonical_url: "https://covarage.com/guides/procedural-howto/premium-financing-commercial-insurance-singapore-sme"
 meta_description: "Your SME has a SGD 25,000-500,000 commercial insurance programme (CAR/PL/WICA/property bundle) and wants to replace the annual lump-sum premium with..."
 og_title: "How to Obtain Premium Financing for Commercial Insurance"
 og_description: "Your SME has a SGD 25,000-500,000 commercial insurance programme (CAR/PL/WICA/property bundle) and wants to replace the annual lump-sum premium with..."

@@ -9,10 +9,10 @@ agencies: ["PDPC", "CSA", "MAS"]
 article_number: 210
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2251
+word_count: 2230
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/cyber-extortion-event-response"
+canonical_url: "https://covarage.com/guides/crisis/cyber-extortion-event-response"
 meta_description: "---"
 og_title: "Cyber-Extortion Event Response: Singapore Framework for Ransomware, Data Theft, and Payment Decisions"
 og_description: "---"

@@ -9,10 +9,10 @@ agencies: ["MAS"]
 article_number: 96
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1799
+word_count: 1789
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-overseas-property"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-overseas-property"
 meta_description: "Singapore-issued Property/PAR insurance generally does not extend to overseas property as standard. SMEs holding overseas commercial property (warehouse,..."
 og_title: "Singapore SME With Overseas Property: How to Insure It Properly"
 og_description: "Singapore-issued Property/PAR insurance generally does not extend to overseas property as standard. SMEs holding overseas commercial property (warehouse,..."

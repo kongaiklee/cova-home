@@ -9,10 +9,10 @@ agencies: []
 article_number: 51
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1291
+word_count: 1242
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/marine-cargo-institute-clauses-a-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-a-claim"
 meta_description: "If your marine cargo certificate or wording is based on the <a..."
 og_title: "How to Claim Under Marine Cargo Institute Clauses A"
 og_description: "If your marine cargo certificate or wording is based on the <a..."

@@ -9,10 +9,10 @@ agencies: ["SFA", "Singapore Statutes"]
 article_number: 378
 published: "2026-05-17"
 source_verified: "2026-05-17"
-word_count: 1519
+word_count: 1508
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/event-liability-insurance-singapore-mice-venue"
+canonical_url: "https://covarage.com/guides/procedural-howto/event-liability-insurance-singapore-mice-venue"
 meta_description: "Your SME is hosting or exhibiting at an event at a Singapore venue - a convention centre, an exhibition hall, a hotel, a community venue or an outdoor..."
 og_title: "How to Obtain Event Liability Insurance for MICE Events and Venue Bookings"
 og_description: "Your SME is hosting or exhibiting at an event at a Singapore venue - a convention centre, an exhibition hall, a hotel, a community venue or an outdoor..."

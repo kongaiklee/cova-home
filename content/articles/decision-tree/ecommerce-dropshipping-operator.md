@@ -9,10 +9,10 @@ agencies: ["CUSTOMS", "PDPC", "Singapore Statutes", "Courts"]
 article_number: 240
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1502
+word_count: 1491
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/ecommerce-dropshipping-operator"
+canonical_url: "https://covarage.com/guides/decision-tree/ecommerce-dropshipping-operator"
 meta_description: "E-commerce and dropshipping operators in Singapore - covering own-inventory direct-to-consumer brands, marketplace sellers (Shopee, Lazada, Amazon SG),..."
 og_title: "SME Startup Decision Tree: E-Commerce and Dropshipping Operator - Foundational Insurance Procurement"
 og_description: "E-commerce and dropshipping operators in Singapore - covering own-inventory direct-to-consumer brands, marketplace sellers (Shopee, Lazada, Amazon SG),..."

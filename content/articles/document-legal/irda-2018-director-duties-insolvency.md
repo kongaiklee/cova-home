@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 149
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2307
+word_count: 2301
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/irda-2018-director-duties-insolvency"
+canonical_url: "https://covarage.com/guides/document-legal/irda-2018-director-duties-insolvency"
 meta_description: "The Insolvency, Restructuring and Dissolution Act 2018 (IRDA) consolidated Singapore's insolvency framework - replacing the earlier Bankruptcy Act and the..."
 og_title: "IRDA 2018 and Director Personal Liability in Insolvency: How Singapore Law Handles Distressed Companies and What D&O Insurance Actually Covers"
 og_description: "The Insolvency, Restructuring and Dissolution Act 2018 (IRDA) consolidated Singapore's insolvency framework - replacing the earlier Bankruptcy Act and the..."

@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 7
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1078
+word_count: 1040
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mom-platform-operator-designated-insurer-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/mom-platform-operator-designated-insurer-2025"
 meta_description: "Per the MOM List of Designated Platform Operator (PO) Insurers PDF, 6 insurers are designated for platform operator WICA policies under the Platform..."
 og_title: "MOM Platform Operator Designated Insurer (Singapore 2025)"
 og_description: "Per the MOM List of Designated Platform Operator (PO) Insurers PDF, 6 insurers are designated for platform operator WICA policies under the Platform..."

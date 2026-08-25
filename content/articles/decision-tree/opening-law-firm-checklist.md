@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 93
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1786
+word_count: 1763
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-law-firm-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-law-firm-checklist"
 meta_description: "A Singapore law firm has insurance requirements that are partly mandatory by Legal Profession (Professional Indemnity Insurance) Rules and partly..."
 og_title: "Opening a Law Firm in Singapore: Full Insurance Checklist"
 og_description: "A Singapore law firm has insurance requirements that are partly mandatory by Legal Profession (Professional Indemnity Insurance) Rules and partly..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 222
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1514
+word_count: 1504
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/cryptocurrency-web3-operator-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/cryptocurrency-web3-operator-insurance"
 meta_description: "Cryptocurrency exchanges, digital payment token (DPT) service providers, and Web3 operators in Singapore operate under the Payment Services Act 2019 (PSA)..."
 og_title: "Cryptocurrency Exchange, Digital Asset, and Web3 Operator: The Specific Insurance Profile for MAS-Licensed and Adjacent Operations"
 og_description: "Cryptocurrency exchanges, digital payment token (DPT) service providers, and Web3 operators in Singapore operate under the Payment Services Act 2019 (PSA)..."

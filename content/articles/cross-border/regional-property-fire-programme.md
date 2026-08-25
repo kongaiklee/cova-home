@@ -9,10 +9,10 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 305
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1904
+word_count: 1876
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/regional-property-fire-programme"
+canonical_url: "https://covarage.com/guides/cross-border/regional-property-fire-programme"
 meta_description: "Property and Fire insurance is the most jurisdictionally fragmented commercial line in regional SME programmes. Almost every country requires..."
 og_title: "Regional Property and Fire Programme: Singapore-HQ SMEs With Property Across Multiple Countries"
 og_description: "Property and Fire insurance is the most jurisdictionally fragmented commercial line in regional SME programmes. Almost every country requires..."

@@ -9,10 +9,10 @@ agencies: ["CUSTOMS", "NEA", "MOH", "Singapore Statutes"]
 article_number: 84
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1635
+word_count: 1612
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-salon-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-salon-checklist"
 meta_description: "A Singapore salon typically needs: Public Liability (S$1M-S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips),..."
 og_title: "Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist"
 og_description: "A Singapore salon typically needs: Public Liability (S$1M-S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips),..."

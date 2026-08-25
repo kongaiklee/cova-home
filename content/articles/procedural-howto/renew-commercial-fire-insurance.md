@@ -9,10 +9,10 @@ agencies: []
 article_number: 32
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1113
+word_count: 1077
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/renew-commercial-fire-insurance"
+canonical_url: "https://covarage.com/guides/procedural-howto/renew-commercial-fire-insurance"
 meta_description: "Step 1 - Pull last year's claims history (60 days before expiry). Insurers ask. Get a list of any incidents - even those that didn't become claims. This..."
 og_title: "How to Renew Commercial Fire Insurance in Singapore"
 og_description: "Step 1 - Pull last year's claims history (60 days before expiry). Insurers ask. Get a list of any incidents - even those that didn't become claims. This..."

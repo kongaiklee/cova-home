@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CSA", "SPF", "SCAMSHIELD"]
 article_number: 364
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1695
+word_count: 1693
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/bec-wire-fraud-loss-discovered"
+canonical_url: "https://covarage.com/guides/crisis/bec-wire-fraud-loss-discovered"
 meta_description: "Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier..."
 og_title: "Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered"
 og_description: "Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier..."

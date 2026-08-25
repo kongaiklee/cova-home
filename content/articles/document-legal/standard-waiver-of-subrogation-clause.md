@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 260
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1221
+word_count: 1186
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/standard-waiver-of-subrogation-clause"
+canonical_url: "https://covarage.com/guides/document-legal/standard-waiver-of-subrogation-clause"
 meta_description: "Subrogation operates as common law and statutory doctrine providing that an insurer paying a claim acquires the insured's rights to recover from third..."
 og_title: "Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications"
 og_description: "Subrogation operates as common law and statutory doctrine providing that an insurer paying a claim acquires the insured's rights to recover from third..."

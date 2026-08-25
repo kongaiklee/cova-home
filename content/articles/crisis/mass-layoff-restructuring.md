@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes", "WSG"]
 article_number: 146
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1726
+word_count: 1725
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/mass-layoff-restructuring"
+canonical_url: "https://covarage.com/guides/crisis/mass-layoff-restructuring"
 meta_description: "First, ensure foundational compliance: review the Tripartite Advisory on Managing Excess Manpower and Responsible Retrenchment issued by MOM, NTUC, and..."
 og_title: "We Need to Conduct a Mass Layoff or Major Restructuring - What Do I Do Now?"
 og_description: "First, ensure foundational compliance: review the Tripartite Advisory on Managing Excess Manpower and Responsible Retrenchment issued by MOM, NTUC, and..."

@@ -9,10 +9,10 @@ agencies: ["FTA"]
 article_number: 230
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1655
+word_count: 1642
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-india-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-india-operations"
 meta_description: "Singapore SMEs operating in India through subsidiary, branch, or distributor structures face a substantively distinctive regulatory framework administered..."
 og_title: "Singapore SMEs Operating in India: Cross-Border Insurance and Commercial Framework"
 og_description: "Singapore SMEs operating in India through subsidiary, branch, or distributor structures face a substantively distinctive regulatory framework administered..."

@@ -9,10 +9,10 @@ agencies: ["MOM", "GIA", "BCA"]
 article_number: 1
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1211
+word_count: 1173
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
-canonical_url: "https://covarage.com/licensing/scal-slots-application-insurance-requirements"
+canonical_url: "https://covarage.com/guides/licensing/scal-slots-application-insurance-requirements"
 meta_description: "The published SCAL SLOTS Application Terms & Conditions do not make Workmen's Compensation, Public Liability or Contractors All Risk insurance a..."
 og_title: "SCAL SLOTS Application: Insurance Requirements (Singapore 2026)"
 og_description: "The published SCAL SLOTS Application Terms & Conditions do not make Workmen's Compensation, Public Liability or Contractors All Risk insurance a..."

@@ -9,10 +9,10 @@ agencies: ["LIA", "MOH", "MAS"]
 article_number: 60
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1414
+word_count: 1382
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/group-hospital-surgical-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/group-hospital-surgical-claim"
 meta_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless - the employee presents at a panel hospital, the..."
 og_title: "How to File a Group Hospitalisation & Surgical Claim (Singapore)"
 og_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless - the employee presents at a panel hospital, the..."

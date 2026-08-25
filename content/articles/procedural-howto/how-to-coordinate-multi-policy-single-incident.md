@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "GIA"]
 article_number: 345
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1717
+word_count: 1699
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-coordinate-multi-policy-single-incident"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-coordinate-multi-policy-single-incident"
 meta_description: "A single incident can trigger multiple insurance policies simultaneously: a fire causes property damage (Property/Fire), business interruption (BI),..."
 og_title: "How to Coordinate a Multi-Policy Insurance Response to a Single Incident"
 og_description: "A single incident can trigger multiple insurance policies simultaneously: a fire causes property damage (Property/Fire), business interruption (BI),..."

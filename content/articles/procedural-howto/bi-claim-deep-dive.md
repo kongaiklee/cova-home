@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 208
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1317
+word_count: 1309
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/bi-claim-deep-dive"
+canonical_url: "https://covarage.com/guides/procedural-howto/bi-claim-deep-dive"
 meta_description: "BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on..."
 og_title: "BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management"
 og_description: "BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on..."

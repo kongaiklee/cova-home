@@ -9,10 +9,10 @@ agencies: ["SFA", "GoBusiness", "LTA"]
 article_number: 103
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1598
+word_count: 1572
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/food-truck-mobile-vendor"
+canonical_url: "https://covarage.com/guides/edge-case/food-truck-mobile-vendor"
 meta_description: "Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the Singapore Food Agency (SFA) does not..."
 og_title: "Food Truck or Mobile F&B Vendor in Singapore: What Insurance Do You Actually Need?"
 og_description: "Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the Singapore Food Agency (SFA) does not..."

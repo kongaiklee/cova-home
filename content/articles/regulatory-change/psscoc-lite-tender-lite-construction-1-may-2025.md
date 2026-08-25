@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes", "MOM"]
 article_number: 388
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2556
+word_count: 2508
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025"
+canonical_url: "https://covarage.com/guides/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025"
 meta_description: "Tender Lite is the simplified procurement track for sub-S$1m public-works construction contracts, used by Singapore government and statutory-board buyers..."
 og_title: "PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore"
 og_description: "Tender Lite is the simplified procurement track for sub-S$1m public-works construction contracts, used by Singapore government and statutory-board buyers..."

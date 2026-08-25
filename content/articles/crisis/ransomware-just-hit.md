@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC", "CSA"]
 article_number: 81
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1696
+word_count: 1674
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/ransomware-just-hit"
+canonical_url: "https://covarage.com/guides/crisis/ransomware-just-hit"
 meta_description: "The first 4 hours determine the outcome. Hour 0: isolate affected systems (disconnect from network - do NOT power off, which destroys forensic evidence)...."
 og_title: "We Just Discovered Ransomware on Our Systems - What Do I Do Now?"
 og_description: "The first 4 hours determine the outcome. Hour 0: isolate affected systems (disconnect from network - do NOT power off, which destroys forensic evidence)...."

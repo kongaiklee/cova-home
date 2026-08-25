@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "BCA", "HDB"]
 article_number: 206
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1125
+word_count: 1096
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/performance-bond-claim-obligee"
+canonical_url: "https://covarage.com/guides/procedural-howto/performance-bond-claim-obligee"
 meta_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) - the obligee..."
 og_title: "Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim"
 og_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) - the obligee..."

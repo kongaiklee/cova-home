@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts", "BCA", "MTI", "MOM", "CPF Board", "CS
 article_number: 401
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 5009
+word_count: 4937
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore"
 meta_description: "Most Singapore SMEs treat insurance renewal as a one-week scramble. The renewal email arrives, the broker quotes a number, the finance team pays, and the..."
 og_title: "The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs"
 og_description: "Most Singapore SMEs treat insurance renewal as a one-week scramble. The renewal email arrives, the broker quotes a number, the finance team pays, and the..."

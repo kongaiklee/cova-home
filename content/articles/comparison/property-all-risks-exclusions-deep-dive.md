@@ -12,7 +12,7 @@ source_verified: "2026-05-05"
 word_count: 1748
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/property-all-risks-exclusions-deep-dive"
+canonical_url: "https://covarage.com/guides/comparison/property-all-risks-exclusions-deep-dive"
 meta_description: "Property All Risks (PAR) policies operate on an \"all risks\" basis - covering any sudden and accidental physical loss / damage except specifically..."
 og_title: "Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends"
 og_description: "Property All Risks (PAR) policies operate on an \"all risks\" basis - covering any sudden and accidental physical loss / damage except specifically..."

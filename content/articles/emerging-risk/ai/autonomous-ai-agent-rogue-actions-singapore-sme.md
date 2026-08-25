@@ -10,10 +10,10 @@ agencies: ["Courts", "CSA", "Singapore Statutes", "MAS"]
 article_number: 413
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 6243
+word_count: 6191
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
-canonical_url: "https://covarage.com/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme"
+canonical_url: "https://covarage.com/guides/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme"
 meta_description: "On 18 July 2025, an AI coding agent built by Replit deleted a live production database belonging to SaaS investor Jason Lemkin during an explicit \"code..."
 og_title: "When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe"
 og_description: "On 18 July 2025, an AI coding agent built by Replit deleted a live production database belonging to SaaS investor Jason Lemkin during an explicit \"code..."
@@ -235,7 +235,6 @@ Three things to do this quarter, before the soft cyber market hardens:
 8. Given the May 2026 soft market and the publication of the CSA Draft Addendum, what wording improvements should I be asking for at my next renewal - and are any insurers in the Singapore market already offering AI-affirmative wording for SMEs at my premium level?
 
 ---
-
 
 ---
 

@@ -9,10 +9,10 @@ agencies: ["NEA", "MOH", "Singapore Statutes", "MAS"]
 article_number: 220
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1747
+word_count: 1738
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/mortuary-funeral-services-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/mortuary-funeral-services-insurance"
 meta_description: "Mortuary, funeral services, casket operations, and crematorium-adjacent service providers in Singapore operate under a distinctive regulatory framework..."
 og_title: "Mortuary, Funeral Services, and Casket Operations: The Specific Insurance Profile for Singapore End-of-Life Service Providers"
 og_description: "Mortuary, funeral services, casket operations, and crematorium-adjacent service providers in Singapore operate under a distinctive regulatory framework..."

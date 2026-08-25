@@ -9,10 +9,10 @@ agencies: ["MUIS", "Singapore Statutes", "GoBusiness"]
 article_number: 101
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1916
+word_count: 1895
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-halal-fnb-catering-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-halal-fnb-catering-checklist"
 meta_description: "A Halal-certified F&B or catering operation in Singapore typically needs: MUIS Halal Certification from the Islamic Religious Council of Singapore (Majlis..."
 og_title: "Opening a Halal F&B or Catering Operation in Singapore: Full Insurance Checklist"
 og_description: "A Halal-certified F&B or catering operation in Singapore typically needs: MUIS Halal Certification from the Islamic Religious Council of Singapore (Majlis..."

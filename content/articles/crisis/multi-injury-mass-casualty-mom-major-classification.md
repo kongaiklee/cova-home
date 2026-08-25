@@ -9,10 +9,10 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 361
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1788
+word_count: 1787
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/multi-injury-mass-casualty-mom-major-classification"
+canonical_url: "https://covarage.com/guides/crisis/multi-injury-mass-casualty-mom-major-classification"
 meta_description: "A single workplace event has injured three or more workers - structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on..."
 og_title: "Multi-Injury Workplace Incident: 3+ Workers Down, MOM Major-Incident Classification"
 og_description: "A single workplace event has injured three or more workers - structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on..."

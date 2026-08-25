@@ -9,10 +9,10 @@ agencies: ["GIA", "BCA"]
 article_number: 61
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1363
+word_count: 1340
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/plate-glass-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/plate-glass-claim"
 meta_description: "Plate Glass insurance is usually a sub-section of a Property All Risks (PAR) or Fire policy, or a standalone policy for businesses with significant glass..."
 og_title: "How to File a Plate Glass Insurance Claim"
 og_description: "Plate Glass insurance is usually a sub-section of a Property All Risks (PAR) or Fire policy, or a standalone policy for businesses with significant glass..."

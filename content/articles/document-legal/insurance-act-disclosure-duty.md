@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 74
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1940
+word_count: 1929
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/insurance-act-disclosure-duty"
+canonical_url: "https://covarage.com/guides/document-legal/insurance-act-disclosure-duty"
 meta_description: "Singapore insurance contracts are governed by the common law duty of utmost good faith (uberrimae fidei) - codified in section 17 of the Marine Insurance..."
 og_title: "Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure"
 og_description: "Singapore insurance contracts are governed by the common law duty of utmost good faith (uberrimae fidei) - codified in section 17 of the Marine Insurance..."

@@ -9,10 +9,10 @@ agencies: ["CAAS", "Singapore Statutes", "ACRA"]
 article_number: 143
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1608
+word_count: 1584
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/commercial-drone-operator-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/commercial-drone-operator-insurance"
 meta_description: "A Singapore commercial drone operator (aerial photography, building inspection, surveying, mapping, delivery, agricultural application) operates under the..."
 og_title: "Commercial Drone Operator Insurance in Singapore (Aerial Photography, Surveying, Inspection, Delivery)"
 og_description: "A Singapore commercial drone operator (aerial photography, building inspection, surveying, mapping, delivery, agricultural application) operates under the..."

@@ -1,6 +1,5 @@
 ---
 title: "Does an MOH Clinic Licence Require Professional Indemnity Insurance?"
-meta_description: "Singapore's regulation of medical practice splits cleanly between:"
 slug: "/licensing/moh-clinic-licence-professional-indemnity"
 category: "licensing"
 intent: "know-where-you-stand"
@@ -10,15 +9,16 @@ agencies: ["MOH"]
 article_number: 27
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 891
+word_count: 844
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
-canonical_url: "https://covarage.com/licensing/moh-clinic-licence-professional-indemnity"
+canonical_url: "https://covarage.com/guides/licensing/moh-clinic-licence-professional-indemnity"
+meta_description: "Singapore's regulation of medical practice splits cleanly between:"
 og_title: "Does an MOH Clinic Licence Require Professional Indemnity Insurance?"
+og_description: "Singapore's regulation of medical practice splits cleanly between:"
 ---
 
 > **The 60-second answer:** Per [MOH's Healthcare Services Act page](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing/), the HCSA (enacted 2020, replacing the Private Hospitals and Medical Clinics Act) regulates 16 healthcare services on a services-based, risk-based framework: *"There are currently 16 healthcare services regulated under the HCSA and healthcare providers who offer any of these services in Singapore will need to hold the relevant HCSA licences before offering the service."* The **HCSA licence itself does not impose a strict statutory PI insurance requirement** on the clinic premises. PI obligations come from a different regulator - the Singapore Medical Council, which requires every doctor with a Practising Certificate to be covered.
-
 
 ## The Sourced Detail
 
@@ -91,7 +91,6 @@ A frequent gap worth naming: locum doctors. A locum joining for three months who
 3. Telemedicine across the Singapore-Malaysia border - is my PI valid? My PL?
 4. Patient data breach: do I need cyber and PDPA cover separate from PI?
 5. If MOH suspends my licence pending an investigation, do I have business interruption cover for that scenario?
-
 
 ## Related Information
 - Singapore Medical Council PI requirement for doctors

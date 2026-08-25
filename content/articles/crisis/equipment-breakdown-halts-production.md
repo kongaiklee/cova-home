@@ -9,10 +9,10 @@ agencies: ["SFA", "Singapore Statutes", "MAS"]
 article_number: 116
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1714
+word_count: 1695
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/equipment-breakdown-halts-production"
+canonical_url: "https://covarage.com/guides/crisis/equipment-breakdown-halts-production"
 meta_description: "First, secure the area and ensure no injury (if there's any chance of injury, call 995). Then in parallel: notify your Equipment Breakdown / Machinery..."
 og_title: "Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?"
 og_description: "First, secure the area and ensure no injury (if there's any chance of injury, call 995). Then in parallel: notify your Equipment Breakdown / Machinery..."

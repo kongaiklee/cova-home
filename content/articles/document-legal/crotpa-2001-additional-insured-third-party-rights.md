@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 255
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3748
+word_count: 3755
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/crotpa-2001-additional-insured-third-party-rights"
+canonical_url: "https://covarage.com/guides/document-legal/crotpa-2001-additional-insured-third-party-rights"
 meta_description: "When a Singapore commercial contract or insurance policy names a person who is not a contracting party and confers a benefit on that person, the Contracts..."
 og_title: "Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications"
 og_description: "When a Singapore commercial contract or insurance policy names a person who is not a contracting party and confers a benefit on that person, the Contracts..."

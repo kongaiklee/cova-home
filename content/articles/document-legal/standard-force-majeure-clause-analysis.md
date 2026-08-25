@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 258
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1048
+word_count: 1011
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/standard-force-majeure-clause-analysis"
+canonical_url: "https://covarage.com/guides/document-legal/standard-force-majeure-clause-analysis"
 meta_description: "Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair..."
 og_title: "Standard Force Majeure Clauses: Drafting, Triggering, and Commercial Implications"
 og_description: "Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair..."

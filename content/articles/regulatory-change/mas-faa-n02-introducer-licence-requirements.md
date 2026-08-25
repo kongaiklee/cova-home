@@ -9,13 +9,13 @@ agencies: ["MAS"]
 article_number: 8
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1150
+word_count: 1050
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mas-faa-n02-introducer-licence-requirements"
-meta_description: "Per MAS Notice FAA-N02, an \"introducer\" can introduce clients to a licensed financial adviser, share factual product information, and provide a script  - ..."
+canonical_url: "https://covarage.com/guides/regulatory-change/mas-faa-n02-introducer-licence-requirements"
+meta_description: "Per MAS Notice FAA-N02, an \"introducer\" can introduce clients to a licensed financial adviser, share factual product information, and provide a script -..."
 og_title: "MAS Notice FAA-N02: Introducer Licence Requirements Explained"
-og_description: "Per MAS Notice FAA-N02, an \"introducer\" can introduce clients to a licensed financial adviser, share factual product information, and provide a script  - ..."
+og_description: "Per MAS Notice FAA-N02, an \"introducer\" can introduce clients to a licensed financial adviser, share factual product information, and provide a script -..."
 ---
 
 > **The Answer in 60 Seconds**

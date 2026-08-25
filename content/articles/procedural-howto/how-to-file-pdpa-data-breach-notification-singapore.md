@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 343
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1542
+word_count: 1508
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore"
 meta_description: "When a Singapore organisation experiences a notifiable data breach, the Personal Data Protection Act 2012 Section 26D requires notification to the..."
 og_title: "How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained"
 og_description: "When a Singapore organisation experiences a notifiable data breach, the Personal Data Protection Act 2012 Section 26D requires notification to the..."

@@ -10,10 +10,10 @@ agencies: ["SPF", "MAS", "SCAMSHIELD", "CSA", "Singapore Statutes", "MHA"]
 article_number: 414
 published: "2026-05-08"
 source_verified: "2026-05-08"
-word_count: 6160
+word_count: 6092
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
-canonical_url: "https://covarage.com/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme"
+canonical_url: "https://covarage.com/guides/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme"
 meta_description: "A finance employee at the Hong Kong office of British engineering firm Arup joined what looked like a routine Microsoft Teams call with the company's..."
 og_title: "Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance"
 og_description: "A finance employee at the Hong Kong office of British engineering firm Arup joined what looked like a routine Microsoft Teams call with the company's..."

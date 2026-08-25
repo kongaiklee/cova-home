@@ -1,6 +1,5 @@
 ---
 title: "How to Complete an Insurance Proposal Form Properly"
-meta_description: "Materiality test (per CMS Singapore guide): non-disclosure is material if (i) it relates to circumstances that a prudent insurer would objectively have..."
 slug: "/procedural-howto/complete-proposal-form"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: ["Singapore Statutes"]
 article_number: 50
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1322
+word_count: 1306
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/complete-proposal-form"
+canonical_url: "https://covarage.com/guides/procedural-howto/complete-proposal-form"
+meta_description: "Materiality test (per CMS Singapore guide): non-disclosure is material if (i) it relates to circumstances that a prudent insurer would objectively have..."
 og_title: "How to Complete an Insurance Proposal Form Properly"
+og_description: "Materiality test (per CMS Singapore guide): non-disclosure is material if (i) it relates to circumstances that a prudent insurer would objectively have..."
 ---
 
 > **The Answer in 60 Seconds:** The proposal form is the cornerstone of the insurance contract. Singapore law applies the duty of **utmost good faith (uberrimae fidei)** - codified in [section 17 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applied at common law to all insurance contracts. Material non-disclosure or misrepresentation lets the insurer **avoid the policy ab initio** - meaning the policy is treated as if it never existed. Answer every question, disclose every material fact even if not asked, verify with primary records, and have the proper authorised signatory sign.
-
 
 ### The legal stakes
 Per the [ICLG Insurance & Reinsurance Laws and Regulations - Singapore Chapter (15 March 2024, KGP Legal LLC)](https://iclg.com/practice-areas/insurance-and-reinsurance-laws-and-regulations/singapore): "An insured must disclose to the insurer, before the contract is concluded, every material circumstance which is known to the insured, and the insured is deemed to know every circumstance, which in the ordinary course of business, ought to be known by him or her. If the insured fails to make such disclosure, the insurer may avoid the contract." The same chapter affirms: "Common law implies a duty of utmost good faith (uberrimae fides) into all insurance and reinsurance contracts."
@@ -81,7 +81,6 @@ For SMEs, the cost of getting this right is process discipline. The cost of gett
 3. Is there a basis clause on this proposal, and what's the consequence of an inaccurate answer?
 4. Should I attach a written disclosure annex with our pending litigation, regulatory matters, and prior claims history?
 5. Who at the company should sign - and is that authority documented?
-
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)

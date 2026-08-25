@@ -9,10 +9,10 @@ agencies: ["Courts", "Singapore Statutes"]
 article_number: 115
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1883
+word_count: 1868
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/key-employee-resignation-ip-customer-migration"
+canonical_url: "https://covarage.com/guides/crisis/key-employee-resignation-ip-customer-migration"
 meta_description: "First, do not confront with accusations - preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent),..."
 og_title: "A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?"
 og_description: "First, do not confront with accusations - preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent),..."

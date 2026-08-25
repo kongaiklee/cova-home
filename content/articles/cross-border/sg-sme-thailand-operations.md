@@ -9,10 +9,10 @@ agencies: []
 article_number: 215
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1761
+word_count: 1752
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-thailand-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-thailand-operations"
 meta_description: "A Singapore SME extending to Thailand operations encounters Office of Insurance Commission (OIC) supervision over the Thai insurance market requiring..."
 og_title: "Singapore SME with Thailand Operations: Insurance and Regulatory Framework"
 og_description: "A Singapore SME extending to Thailand operations encounters Office of Insurance Commission (OIC) supervision over the Thai insurance market requiring..."

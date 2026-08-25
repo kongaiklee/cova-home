@@ -9,10 +9,10 @@ agencies: ["MOH", "Singapore Statutes"]
 article_number: 132
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1465
+word_count: 1450
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-physiotherapy-allied-health-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-physiotherapy-allied-health-checklist"
 meta_description: "A Singapore physiotherapy, occupational therapy, podiatry, speech-language therapy, or other allied health practice typically requires: HCSA licensing..."
 og_title: "Opening a Physiotherapy or Allied Health Practice in Singapore: Full Insurance Checklist"
 og_description: "A Singapore physiotherapy, occupational therapy, podiatry, speech-language therapy, or other allied health practice typically requires: HCSA licensing..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SPF", "SCDF", "SFA", "URA", "NEA", "MOM", "PDP
 article_number: 316
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1782
+word_count: 1750
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/ktv-karaoke-operator"
+canonical_url: "https://covarage.com/guides/edge-case/ktv-karaoke-operator"
 meta_description: "Singapore KTV and karaoke operators (Manekineko, K Suites, Cash Studio, Teo Heng, family KTV operators) sit in a public entertainment vertical with..."
 og_title: "KTV or Karaoke Operator in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore KTV and karaoke operators (Manekineko, K Suites, Cash Studio, Teo Heng, family KTV operators) sit in a public entertainment vertical with..."

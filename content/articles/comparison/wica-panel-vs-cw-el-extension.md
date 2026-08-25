@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 194
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1611
+word_count: 1618
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/wica-panel-vs-cw-el-extension"
+canonical_url: "https://covarage.com/guides/comparison/wica-panel-vs-cw-el-extension"
 meta_description: "WICA cover (mandatory under WICA 2019 Section 24) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance..."
 og_title: "WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate"
 og_description: "WICA cover (mandatory under WICA 2019 Section 24) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance..."

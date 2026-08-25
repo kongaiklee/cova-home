@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 395
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2539
+word_count: 2496
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/ghs-panel-insurer-comparison-singapore-sme"
+canonical_url: "https://covarage.com/guides/comparison/ghs-panel-insurer-comparison-singapore-sme"
 meta_description: "Group Hospital & Surgical (GHS) insurance provides medical cover for employees in respect of hospitalisation, surgery, and (commonly through bolted-on..."
 og_title: "Group Hospital & Surgical (GHS) Panel Insurer Comparison: Singapore SME Decision Framework"
 og_description: "Group Hospital & Surgical (GHS) insurance provides medical cover for employees in respect of hospitalisation, surgery, and (commonly through bolted-on..."

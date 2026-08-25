@@ -9,10 +9,10 @@ agencies: ["PEB", "Singapore Statutes"]
 article_number: 282
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2213
+word_count: 2220
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/ies-peb-professional-engineers-insurance-framework"
+canonical_url: "https://covarage.com/guides/association/ies-peb-professional-engineers-insurance-framework"
 meta_description: "The Institution of Engineers, Singapore (IES) is the professional learned society for engineers; the Professional Engineers Board (PEB) is the statutory..."
 og_title: "Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices"
 og_description: "The Institution of Engineers, Singapore (IES) is the professional learned society for engineers; the Professional Engineers Board (PEB) is the statutory..."

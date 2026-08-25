@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 277
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2818
+word_count: 2824
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/bi-waiting-period-hours-vs-days-vs-dollar"
+canonical_url: "https://covarage.com/guides/comparison/bi-waiting-period-hours-vs-days-vs-dollar"
 meta_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is..."
 og_title: "Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period"
 og_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "GIA", "Courts"]
 article_number: 276
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3069
+word_count: 3075
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/combined-single-limit-vs-split-limit-motor-liability"
+canonical_url: "https://covarage.com/guides/comparison/combined-single-limit-vs-split-limit-motor-liability"
 meta_description: "Singapore motor and liability insurance present limits in one of two architectures. Combined Single Limit (CSL) is a single per-occurrence limit that..."
 og_title: "Combined Single Limit vs Split Limit: Motor and Liability Limit Structure"
 og_description: "Singapore motor and liability insurance present limits in one of two architectures. Combined Single Limit (CSL) is a single per-occurrence limit that..."

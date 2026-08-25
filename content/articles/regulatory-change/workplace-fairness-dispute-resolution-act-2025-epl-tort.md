@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "TAFEP", "PARLIAMENT", "MOM"]
 article_number: 386
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3067
+word_count: 3021
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort"
+canonical_url: "https://covarage.com/guides/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort"
 meta_description: "The Workplace Fairness (Dispute Resolution) Bill (Bill No. 17/2025) was introduced in Parliament on 14 October 2025 and passed on 4 November 2025; it is..."
 og_title: "Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs"
 og_description: "The Workplace Fairness (Dispute Resolution) Bill (Bill No. 17/2025) was introduced in Parliament on 14 October 2025 and passed on 4 November 2025; it is..."

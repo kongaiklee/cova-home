@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SMC"]
 article_number: 71
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1629
+word_count: 1607
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/do-vs-pi-vs-epl"
+canonical_url: "https://covarage.com/guides/comparison/do-vs-pi-vs-epl"
 meta_description: "Directors & Officers (D&O) covers individual directors, officers, and senior managers personally for \"wrongful acts\" - primarily breach of duty,..."
 og_title: "D&O vs PI vs EPL: Three Liability Covers Often Confused"
 og_description: "Directors & Officers (D&O) covers individual directors, officers, and senior managers personally for \"wrongful acts\" - primarily breach of duty,..."

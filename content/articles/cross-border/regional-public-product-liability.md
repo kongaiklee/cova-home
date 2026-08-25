@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "SFA"]
 article_number: 308
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1918
+word_count: 1893
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/regional-public-product-liability"
+canonical_url: "https://covarage.com/guides/cross-border/regional-public-product-liability"
 meta_description: "Public Liability and Product Liability across borders fragment along a clean rule: operations physically performed in a country require local-admitted PL,..."
 og_title: "Regional Public Liability and Product Liability: Cross-Border Operations Coverage"
 og_description: "Public Liability and Product Liability across borders fragment along a clean rule: operations physically performed in a country require local-admitted PL,..."

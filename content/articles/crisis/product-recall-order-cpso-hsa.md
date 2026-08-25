@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CONSUMERPRODUCTSAFETY", "EnterpriseSG", "HSA"]
 article_number: 370
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2236
+word_count: 2234
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/product-recall-order-cpso-hsa"
+canonical_url: "https://covarage.com/guides/crisis/product-recall-order-cpso-hsa"
 meta_description: "Your SME has received a mandatory recall order under Consumer Protection (Safety Requirements) Regulations (Consumer Product Safety Office (CPSO),..."
 og_title: "Product Recall Order Served by CPSO or HSA: The 24-Hour Window and the BI Cliff"
 og_description: "Your SME has received a mandatory recall order under Consumer Protection (Safety Requirements) Regulations (Consumer Product Safety Office (CPSO),..."

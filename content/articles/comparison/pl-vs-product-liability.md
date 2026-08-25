@@ -9,10 +9,10 @@ agencies: ["GIA", "Singapore Statutes"]
 article_number: 70
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1600
+word_count: 1584
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/pl-vs-product-liability"
+canonical_url: "https://covarage.com/guides/comparison/pl-vs-product-liability"
 meta_description: "Public Liability (PL) covers third-party bodily injury and property damage arising from the insured's business operations or premises - a customer..."
 og_title: "Public Liability vs Product Liability: What Each Actually Covers"
 og_description: "Public Liability (PL) covers third-party bodily injury and property damage arising from the insured's business operations or premises - a customer..."

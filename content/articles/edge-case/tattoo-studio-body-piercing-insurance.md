@@ -9,10 +9,10 @@ agencies: ["ACRA", "NEA", "SCDF", "URA", "MOH"]
 article_number: 153
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1610
+word_count: 1584
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/tattoo-studio-body-piercing-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/tattoo-studio-body-piercing-insurance"
 meta_description: "A Singapore tattoo studio or body piercing business typically requires: business registration with ACRA, compliance with NEA public-health and hygiene..."
 og_title: "Tattoo Studio and Body Piercing Insurance in Singapore"
 og_description: "A Singapore tattoo studio or body piercing business typically requires: business registration with ACRA, compliance with NEA public-health and hygiene..."

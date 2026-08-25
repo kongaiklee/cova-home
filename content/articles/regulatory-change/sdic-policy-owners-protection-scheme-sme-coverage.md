@@ -9,10 +9,10 @@ agencies: ["SDIC", "Singapore Statutes", "MAS"]
 article_number: 268
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2692
+word_count: 2699
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage"
+canonical_url: "https://covarage.com/guides/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage"
 meta_description: "The Policy Owners' Protection (PPF) Scheme is administered by the Singapore Deposit Insurance Corporation Limited (SDIC) under the Deposit Insurance and..."
 og_title: "SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails"
 og_description: "The Policy Owners' Protection (PPF) Scheme is administered by the Singapore Deposit Insurance Corporation Limited (SDIC) under the Deposit Insurance and..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 289
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 1906
+word_count: 1916
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/scs-sgtech-technology-sector-insurance-framework"
+canonical_url: "https://covarage.com/guides/association/scs-sgtech-technology-sector-insurance-framework"
 meta_description: "The Singapore Computer Society (SCS) is the professional learned society for ICT practitioners; SGTech is the trade association for Singapore's technology..."
 og_title: "Singapore Computer Society (SCS) and SGTech: Industry Framework and Technology-Sector Insurance Architecture"
 og_description: "The Singapore Computer Society (SCS) is the professional learned society for ICT practitioners; SGTech is the trade association for Singapore's technology..."

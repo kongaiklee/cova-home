@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 372
 published: "2026-05-07"
 source_verified: "2026-05-07"
-word_count: 2074
+word_count: 2068
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/psscoc-insurance-clauses-government-tender-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/psscoc-insurance-clauses-government-tender-singapore"
 meta_description: "Your SME contractor is bidding a Building and Construction Authority (BCA) or other public sector tender governed by PSSCOC for Construction Works 8th..."
 og_title: "How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender"
 og_description: "Your SME contractor is bidding a Building and Construction Authority (BCA) or other public sector tender governed by PSSCOC for Construction Works 8th..."

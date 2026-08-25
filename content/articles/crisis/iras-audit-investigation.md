@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "IRAS"]
 article_number: 156
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1566
+word_count: 1565
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/iras-audit-investigation"
+canonical_url: "https://covarage.com/guides/crisis/iras-audit-investigation"
 meta_description: "First, distinguish what you have received: an IRAS Compliance Programme review (sectoral / risk-based selection), an information request under the..."
 og_title: "IRAS Just Notified Us of a Tax Audit or Investigation - What Do I Do Now?"
 og_description: "First, distinguish what you have received: an IRAS Compliance Programme review (sectoral / risk-based selection), an information request under the..."

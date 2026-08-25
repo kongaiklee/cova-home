@@ -9,10 +9,10 @@ agencies: ["MOF", "BCA", "ACRA", "Singapore Statutes", "MAS"]
 article_number: 371
 published: "2026-05-07"
 source_verified: "2026-05-07"
-word_count: 1929
+word_count: 1918
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/coi-tender-deadline-24-hours-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/coi-tender-deadline-24-hours-singapore"
 meta_description: "Your SME has just been told it has 24-48 hours to produce a Certificate of Insurance (COI) to validate a tender bid on GeBIZ, BCA, a private MCST/landlord..."
 og_title: "How to Obtain a Certificate of Insurance for a Tender Deadline in 24 Hours"
 og_description: "Your SME has just been told it has 24-48 hours to produce a Certificate of Insurance (COI) to validate a tender bid on GeBIZ, BCA, a private MCST/landlord..."

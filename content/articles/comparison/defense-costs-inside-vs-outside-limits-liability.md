@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 273
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 2986
+word_count: 2993
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/defense-costs-inside-vs-outside-limits-liability"
+canonical_url: "https://covarage.com/guides/comparison/defense-costs-inside-vs-outside-limits-liability"
 meta_description: "When two liability insurance quotes show the same nominal limit (say S$1 million), the structure of defense costs is the single biggest hidden driver of..."
 og_title: "Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework"
 og_description: "When two liability insurance quotes show the same nominal limit (say S$1 million), the structure of defense costs is the single biggest hidden driver of..."

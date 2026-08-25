@@ -9,10 +9,10 @@ agencies: []
 article_number: 36
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1099
+word_count: 1062
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/apply-fsc-scdf-fire-safety-certificate"
+canonical_url: "https://covarage.com/guides/procedural-howto/apply-fsc-scdf-fire-safety-certificate"
 meta_description: "This is a building-works regime, not an annual filing. The FSC is applied for once, on completion of fire safety works, before occupation. The annual..."
 og_title: "How to Apply for a Fire Safety Certificate (FSC) Step by Step"
 og_description: "This is a building-works regime, not an annual filing. The FSC is applied for once, on completion of fire safety works, before occupation. The annual..."

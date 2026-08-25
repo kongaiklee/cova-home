@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 100
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1708
+word_count: 1664
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/bca-crs-workheads-overview"
+canonical_url: "https://covarage.com/guides/association/bca-crs-workheads-overview"
 meta_description: "The Building and Construction Authority (BCA) Contractors Registration System (CRS) is the official register of construction-related contractors in..."
 og_title: "BCA Contractors Registration System (CRS): Workheads, Tiers, and Insurance Implications"
 og_description: "The Building and Construction Authority (BCA) Contractors Registration System (CRS) is the official register of construction-related contractors in..."

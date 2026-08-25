@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOH", "MSF", "CHARITIES", "PDPC"]
 article_number: 313
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1655
+word_count: 1603
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/eldercare-day-centre"
+canonical_url: "https://covarage.com/guides/edge-case/eldercare-day-centre"
 meta_description: "Singapore eldercare day centres, dementia day care, senior activity centres, and active ageing centres operate within a regulatory layer significantly..."
 og_title: "Eldercare Day Centre or Senior Activity Centre in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore eldercare day centres, dementia day care, senior activity centres, and active ageing centres operate within a regulatory layer significantly..."

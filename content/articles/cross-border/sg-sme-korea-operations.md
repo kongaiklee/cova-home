@@ -9,10 +9,10 @@ agencies: []
 article_number: 213
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1793
+word_count: 1787
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-korea-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-korea-operations"
 meta_description: "A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the \"Four Major Insurances\" - National Health..."
 og_title: "Singapore SME with Korea Operations: Insurance and Regulatory Framework"
 og_description: "A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the \"Four Major Insurances\" - National Health..."

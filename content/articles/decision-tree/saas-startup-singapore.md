@@ -9,10 +9,10 @@ agencies: ["PDPC", "Singapore Statutes"]
 article_number: 241
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1392
+word_count: 1382
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/saas-startup-singapore"
+canonical_url: "https://covarage.com/guides/decision-tree/saas-startup-singapore"
 meta_description: "Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer..."
 og_title: "SME Startup Decision Tree: SaaS Startup - Foundational Insurance Procurement"
 og_description: "Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer..."

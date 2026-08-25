@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes", "IPOS", "EnterpriseSG"]
 article_number: 336
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1747
+word_count: 1718
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/3d-printing-maker-space"
+canonical_url: "https://covarage.com/guides/edge-case/3d-printing-maker-space"
 meta_description: "3D printing service operators and maker spaces in Singapore operate as standard commercial services with specific intersections: BCA building usage..."
 og_title: "3D Printing Service and Maker Space Insurance: Singapore Operator Framework"
 og_description: "3D printing service operators and maker spaces in Singapore operate as standard commercial services with specific intersections: BCA building usage..."

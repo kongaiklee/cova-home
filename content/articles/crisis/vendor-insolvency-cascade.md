@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "BCA"]
 article_number: 211
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1694
+word_count: 1693
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/vendor-insolvency-cascade"
+canonical_url: "https://covarage.com/guides/crisis/vendor-insolvency-cascade"
 meta_description: "A critical vendor's insolvency triggers a cascade scenario for Singapore SMEs: operational disruption (where the vendor's services / supplies are..."
 og_title: "When a Critical Vendor Goes Insolvent: Singapore Framework for Vendor Insolvency Cascade Response"
 og_description: "A critical vendor's insolvency triggers a cascade scenario for Singapore SMEs: operational disruption (where the vendor's services / supplies are..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 200
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1692
+word_count: 1690
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/do-claim-notification-process"
+canonical_url: "https://covarage.com/guides/procedural-howto/do-claim-notification-process"
 meta_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis - meaning the claim must both arise and be reported..."
 og_title: "D&O Claim Notification Process: From First Indication to Defence Engagement"
 og_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis - meaning the claim must both arise and be reported..."

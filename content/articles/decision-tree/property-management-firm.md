@@ -9,10 +9,10 @@ agencies: ["BCA", "Singapore Statutes", "STRATATB", "MAS", "GIA", "PDPC"]
 article_number: 248
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1307
+word_count: 1292
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/property-management-firm"
+canonical_url: "https://covarage.com/guides/decision-tree/property-management-firm"
 meta_description: "Property management firms in Singapore - covering managing agent (MA) services for Management Corporation Strata Title (MCST) operations under Building..."
 og_title: "SME Startup Decision Tree: Property Management Firm - Foundational Insurance Procurement"
 og_description: "Property management firms in Singapore - covering managing agent (MA) services for Management Corporation Strata Title (MCST) operations under Building..."

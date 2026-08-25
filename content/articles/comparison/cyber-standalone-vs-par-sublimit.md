@@ -9,10 +9,10 @@ agencies: ["CSA", "Singapore Statutes"]
 article_number: 72
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1599
+word_count: 1584
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/cyber-standalone-vs-par-sublimit"
+canonical_url: "https://covarage.com/guides/comparison/cyber-standalone-vs-par-sublimit"
 meta_description: "Many Singapore SMEs hold a small \"Cyber\" sub-limit (typically S$50,000 to S$250,000) as part of their Property All Risks (PAR) or business package policy...."
 og_title: "Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?"
 og_description: "Many Singapore SMEs hold a small \"Cyber\" sub-limit (typically S$50,000 to S$250,000) as part of their Property All Risks (PAR) or business package policy...."

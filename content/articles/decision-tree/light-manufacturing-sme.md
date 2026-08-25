@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "SFA", "HSA", "NEA"]
 article_number: 246
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1408
+word_count: 1399
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/light-manufacturing-sme"
+canonical_url: "https://covarage.com/guides/decision-tree/light-manufacturing-sme"
 meta_description: "Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
 og_title: "SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement"
 og_description: "Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."

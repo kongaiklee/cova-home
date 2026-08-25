@@ -9,10 +9,10 @@ agencies: ["Courts"]
 article_number: 59
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1557
+word_count: 1527
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/indemnity-to-principal"
+canonical_url: "https://covarage.com/guides/document-legal/indemnity-to-principal"
 meta_description: "\"Indemnity to Principal\" is a liability policy extension typically used in construction, fit-out, maintenance, and event services, where one party (the..."
 og_title: "What \"Indemnity to Principal\" Actually Means in Singapore Insurance"
 og_description: "\"Indemnity to Principal\" is a liability policy extension typically used in construction, fit-out, maintenance, and event services, where one party (the..."

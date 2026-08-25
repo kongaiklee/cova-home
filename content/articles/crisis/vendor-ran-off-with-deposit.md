@@ -9,10 +9,10 @@ agencies: ["SPF", "Singapore Statutes", "Courts", "ACRA"]
 article_number: 90
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1862
+word_count: 1841
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/vendor-ran-off-with-deposit"
+canonical_url: "https://covarage.com/guides/crisis/vendor-ran-off-with-deposit"
 meta_description: "First, attempt direct contact and document non-response. Then in parallel: file a Singapore Police Force report if facts suggest fraud (criminal..."
 og_title: "A Vendor Just Ran Off With Our Deposit - What Do I Do Now?"
 og_description: "First, attempt direct contact and document non-response. Then in parallel: file a Singapore Police Force report if facts suggest fraud (criminal..."

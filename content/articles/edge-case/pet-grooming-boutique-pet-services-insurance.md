@@ -9,10 +9,10 @@ agencies: ["NPARKS", "SCDF", "URA", "Singapore Statutes"]
 article_number: 134
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1508
+word_count: 1492
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/pet-grooming-boutique-pet-services-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/pet-grooming-boutique-pet-services-insurance"
 meta_description: "A Singapore pet grooming salon, boutique pet retailer, mobile pet groomer, or pet day-spa typically requires: licensing under the Animal and Veterinary..."
 og_title: "Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore"
 og_description: "A Singapore pet grooming salon, boutique pet retailer, mobile pet groomer, or pet day-spa typically requires: licensing under the Animal and Veterinary..."

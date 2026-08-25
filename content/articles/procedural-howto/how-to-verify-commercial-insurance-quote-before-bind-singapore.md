@@ -9,10 +9,10 @@ agencies: ["ACRA", "Singapore Statutes", "BCA", "MOM", "GIA", "MAS"]
 article_number: 407
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3227
+word_count: 3149
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore"
 meta_description: "The moment of binding is the moment the contract forms. Whatever is in the policy schedule and wording at that moment is the cover. Whatever was promised..."
 og_title: "How to Verify a Commercial Insurance Quote Before You Bind: The Pre-Bind Checklist for Singapore SMEs"
 og_description: "The moment of binding is the moment the contract forms. Whatever is in the policy schedule and wording at that moment is the cover. Whatever was promised..."

@@ -9,10 +9,10 @@ agencies: []
 article_number: 33
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1013
+word_count: 975
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/fdw-insurance-renew-before-permit-expiry"
+canonical_url: "https://covarage.com/guides/procedural-howto/fdw-insurance-renew-before-permit-expiry"
 meta_description: "Step 1 - Note your dates (8 weeks before expiry). Per MOM, the renewal letter is sent ~8 weeks pre-expiry. Best practice is to apply between seven and..."
 og_title: "How to Renew FDW Insurance Before Work Permit Expiry"
 og_description: "Step 1 - Note your dates (8 weeks before expiry). Per MOM, the renewal letter is sent ~8 weeks pre-expiry. Best practice is to apply between seven and..."

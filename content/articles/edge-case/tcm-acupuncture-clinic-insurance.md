@@ -9,10 +9,10 @@ agencies: ["MOH", "Singapore Statutes", "HSA", "SPF"]
 article_number: 321
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1720
+word_count: 1698
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/tcm-acupuncture-clinic-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/tcm-acupuncture-clinic-insurance"
 meta_description: "Traditional Chinese Medicine (TCM) practitioners and acupuncturists in Singapore are regulated by the Traditional Chinese Medicine Practitioners Board..."
 og_title: "TCM Clinic and Acupuncture Practice Insurance: Singapore Operator Framework"
 og_description: "Traditional Chinese Medicine (TCM) practitioners and acupuncturists in Singapore are regulated by the Traditional Chinese Medicine Practitioners Board..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MAS", "GIA"]
 article_number: 271
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1026
+word_count: 992
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/claims-made-vs-occurrence-cover"
+canonical_url: "https://covarage.com/guides/comparison/claims-made-vs-occurrence-cover"
 meta_description: "Insurance cover trigger framework distinguishes between two foundational approaches: claims-made cover (responds to claims first made during the policy..."
 og_title: "Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications"
 og_description: "Insurance cover trigger framework distinguishes between two foundational approaches: claims-made cover (responds to claims first made during the policy..."

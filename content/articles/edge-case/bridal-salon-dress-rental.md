@@ -9,10 +9,10 @@ agencies: ["ACRA", "URA", "SCDF", "NEA", "CCCS", "Singapore Statutes", "PDPC"]
 article_number: 317
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1715
+word_count: 1695
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/bridal-salon-dress-rental"
+canonical_url: "https://covarage.com/guides/edge-case/bridal-salon-dress-rental"
 meta_description: "Singapore bridal salons, gown rental businesses, qipao / cheongsam rental, and formal dress rental operators (Blessed Brides, Beautiful Bride, Brides..."
 og_title: "Bridal Salon or Dress Rental Business in Singapore: What Insurance Do You Actually Need?"
 og_description: "Singapore bridal salons, gown rental businesses, qipao / cheongsam rental, and formal dress rental operators (Blessed Brides, Beautiful Bride, Brides..."

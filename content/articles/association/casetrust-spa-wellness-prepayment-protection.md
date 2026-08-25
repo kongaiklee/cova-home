@@ -9,10 +9,10 @@ agencies: []
 article_number: 5
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 942
+word_count: 904
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/casetrust-spa-wellness-prepayment-protection"
+canonical_url: "https://covarage.com/guides/association/casetrust-spa-wellness-prepayment-protection"
 meta_description: "Per the CaseTrust Accreditation for Spa and Wellness Businesses page, accredited spas must purchase prepayment protection insurance through CaseTrust's..."
 og_title: "CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained"
 og_description: "Per the CaseTrust Accreditation for Spa and Wellness Businesses page, accredited spas must purchase prepayment protection insurance through CaseTrust's..."

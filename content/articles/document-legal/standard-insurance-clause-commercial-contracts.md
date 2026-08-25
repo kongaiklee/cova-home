@@ -9,10 +9,10 @@ agencies: ["MAS", "GIA", "Singapore Statutes", "MOM", "Courts"]
 article_number: 259
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1153
+word_count: 1120
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/standard-insurance-clause-commercial-contracts"
+canonical_url: "https://covarage.com/guides/document-legal/standard-insurance-clause-commercial-contracts"
 meta_description: "Insurance clauses in Singapore commercial contracts impose specific insurance procurement obligations on contracting parties. Standard commercial scope..."
 og_title: "Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications"
 og_description: "Insurance clauses in Singapore commercial contracts impose specific insurance procurement obligations on contracting parties. Standard commercial scope..."

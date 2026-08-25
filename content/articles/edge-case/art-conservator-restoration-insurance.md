@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "NHB", "CUSTOMS"]
 article_number: 114
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1800
+word_count: 1776
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
-canonical_url: "https://covarage.com/edge-case/art-conservator-restoration-insurance"
+canonical_url: "https://covarage.com/guides/edge-case/art-conservator-restoration-insurance"
 meta_description: "A Singapore art conservator or fine art restorer typically needs: Bailee Cover / Care, Custody and Control extension for artwork in studio (often the..."
 og_title: "Art Conservator and Fine Art Restoration Insurance in Singapore"
 og_description: "A Singapore art conservator or fine art restorer typically needs: Bailee Cover / Care, Custody and Control extension for artwork in studio (often the..."

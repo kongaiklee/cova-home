@@ -9,10 +9,10 @@ agencies: ["FTA"]
 article_number: 234
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1625
+word_count: 1613
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-new-zealand-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-new-zealand-operations"
 meta_description: "Singapore SMEs operating in New Zealand through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework..."
 og_title: "Singapore SMEs Operating in New Zealand: Cross-Border Insurance and Commercial Framework"
 og_description: "Singapore SMEs operating in New Zealand through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework..."

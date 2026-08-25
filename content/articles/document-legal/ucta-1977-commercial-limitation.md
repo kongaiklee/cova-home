@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "CCCS"]
 article_number: 254
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1255
+word_count: 1229
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/ucta-1977-commercial-limitation"
+canonical_url: "https://covarage.com/guides/document-legal/ucta-1977-commercial-limitation"
 meta_description: "The Unfair Contract Terms Act 1977 (UCTA) creates the foundational framework for control of contractual liability exclusion / restriction in Singapore...."
 og_title: "Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework"
 og_description: "The Unfair Contract Terms Act 1977 (UCTA) creates the foundational framework for control of contractual liability exclusion / restriction in Singapore...."

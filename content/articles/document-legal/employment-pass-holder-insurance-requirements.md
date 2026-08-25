@@ -1,6 +1,5 @@
 ---
 title: "What Insurance Must Employers Provide for Employment Pass Holders?"
-meta_description: "The Employment Pass is for foreign professionals, managers, and executives. Per MOM's Employment Pass page and the Singapore EDB announcement, from 1..."
 slug: "/document-legal/employment-pass-holder-insurance-requirements"
 category: "document-legal"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: ["MOM", "EDB"]
 article_number: 25
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 940
+word_count: 892
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/employment-pass-holder-insurance-requirements"
+canonical_url: "https://covarage.com/guides/document-legal/employment-pass-holder-insurance-requirements"
+meta_description: "The Employment Pass is for foreign professionals, managers, and executives. Per MOM's Employment Pass page and the Singapore EDB announcement, from 1..."
 og_title: "What Insurance Must Employers Provide for Employment Pass Holders?"
+og_description: "The Employment Pass is for foreign professionals, managers, and executives. Per MOM's Employment Pass page and the Singapore EDB announcement, from 1..."
 ---
 
 > **The 60-second answer:** Per [MOM's FAQ](https://www.mom.gov.sg/faq/employment-pass/are-employers-required-to-buy-medical-insurance-for-employment-pass-holders), "Providing medical insurance is not a requirement for employing Employment Pass (EP) holders." The mandatory S$60,000 medical insurance regime applies only to Work Permit and S Pass holders, not EP holders. However, market practice across Singapore is to provide group medical, life, and sometimes dental cover as part of the EP holder's remuneration package.
-
 
 ## The Sourced Detail
 
@@ -69,7 +69,6 @@ The structure of a sensible benefits package for EP holders typically includes i
 3. Do I need to extend cover to spouse/children, and at what age cap for children?
 4. How does the group plan interact with the EP holder's MediShield Life (if they're a PR) or with their home-country private cover (if they retain it)?
 5. If I'm a SME with fewer than 5 lives, what micro-group structures exist?
-
 
 ## Related Information
 - MOM S Pass medical insurance - the S$60,000 rule

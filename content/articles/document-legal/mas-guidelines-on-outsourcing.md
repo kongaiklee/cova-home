@@ -9,10 +9,10 @@ agencies: ["MAS"]
 article_number: 139
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 2030
+word_count: 2021
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/mas-guidelines-on-outsourcing"
+canonical_url: "https://covarage.com/guides/document-legal/mas-guidelines-on-outsourcing"
 meta_description: "The MAS Guidelines on Outsourcing (most recently revised in 2018, with subsequent guidance) establish the framework for how Singapore's financial..."
 og_title: "MAS Guidelines on Outsourcing: What Singapore SMEs Serving Financial Institutions Need to Know"
 og_description: "The MAS Guidelines on Outsourcing (most recently revised in 2018, with subsequent guidance) establish the framework for how Singapore's financial..."

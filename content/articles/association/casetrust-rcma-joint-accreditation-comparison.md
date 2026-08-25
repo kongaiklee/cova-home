@@ -1,24 +1,24 @@
 ---
 title: "CaseTrust-RCMA Joint Accreditation: How Is It Different from CaseTrust-Only?"
-meta_description: "Per the CaseTrust accreditation FAQ, there are two parallel schemes for renovation businesses:"
 slug: "/association/casetrust-rcma-joint-accreditation-comparison"
 category: "association"
 intent: "know-where-you-stand"
-topics: ["General"]
+topics: ["Construction"]
 industries: []
 agencies: ["MOM"]
 article_number: 24
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 923
+word_count: 876
 status: "published"
 hero_image: "/assets/blog/association.jpg"
-canonical_url: "https://covarage.com/association/casetrust-rcma-joint-accreditation-comparison"
+canonical_url: "https://covarage.com/guides/association/casetrust-rcma-joint-accreditation-comparison"
+meta_description: "Per the CaseTrust accreditation FAQ, there are two parallel schemes for renovation businesses:"
 og_title: "CaseTrust-RCMA Joint Accreditation: How Is It Different from CaseTrust-Only?"
+og_description: "Per the CaseTrust accreditation FAQ, there are two parallel schemes for renovation businesses:"
 ---
 
 > **The 60-second answer:** The CaseTrust-RCMA Joint Accreditation Scheme is the higher tier of CaseTrust accreditation for renovation businesses, jointly operated by CASE and the Singapore Renovation Contractors and Material Suppliers Association (RCMA) since August 2014 ([RCMA CaseTrust page](https://rcma.org.sg/casetrust/)). RCMA membership is a prerequisite. The scheme uses the same deposit performance bond mechanism as CaseTrust-only accreditation - currently arranged through bolttech Insurance Brokers - but adds RCMA-specific contract and dispute-resolution standards.
-
 
 ## The Sourced Detail
 
@@ -75,7 +75,6 @@ The CaseTrust standard renovation contract is itself a risk-management tool: it 
 3. Customer NRIC data is required for the bond - what's my PDPA exposure and should I have cyber cover?
 4. If I expand from HDB renovations into commercial fit-outs, does my insurance stack need to change?
 5. What's the typical claims experience under CaseTrust deposit bonds - how often do firms call them in?
-
 
 ## Related Information
 - CaseTrust Renovation: the basic scheme explained

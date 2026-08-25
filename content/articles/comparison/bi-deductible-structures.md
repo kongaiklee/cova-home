@@ -9,13 +9,13 @@ agencies: ["Singapore Statutes", "MAS", "GIA", "Courts"]
 article_number: 195
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1615
+word_count: 1604
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/bi-deductible-structures"
-meta_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\")  - ..."
+canonical_url: "https://covarage.com/guides/comparison/bi-deductible-structures"
+meta_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\") -..."
 og_title: "Business Interruption Deductible Structures: Time-Based vs Indemnity-Based, and How They Affect Claims"
-og_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\")  - ..."
+og_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\") -..."
 ---
 
 > **The Answer in 60 Seconds**

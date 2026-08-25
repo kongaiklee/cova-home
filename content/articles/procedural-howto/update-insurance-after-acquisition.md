@@ -1,6 +1,5 @@
 ---
 title: "How to Update Insurance After Acquiring Another Business"
-meta_description: "Step 1 - Pre-completion: notify current insurers. Most commercial wordings require notification within set windows (commonly 14-30 days for subsidiary..."
 slug: "/procedural-howto/update-insurance-after-acquisition"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -10,15 +9,16 @@ agencies: ["Singapore Statutes"]
 article_number: 49
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1145
+word_count: 1126
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/update-insurance-after-acquisition"
+canonical_url: "https://covarage.com/guides/procedural-howto/update-insurance-after-acquisition"
+meta_description: "Step 1 - Pre-completion: notify current insurers. Most commercial wordings require notification within set windows (commonly 14-30 days for subsidiary..."
 og_title: "How to Update Insurance After Acquiring Another Business"
+og_description: "Step 1 - Pre-completion: notify current insurers. Most commercial wordings require notification within set windows (commonly 14-30 days for subsidiary..."
 ---
 
 > **The Answer in 60 Seconds:** Notify all your current insurers **before completion** - most policies impose a "material change" notification duty. Buy **run-off / tail cover** for the acquired entity's claims-made policies (PI, D&O, Cyber). Review the target's existing policies and decide retain, run off, or cancel. Update the Named Insured to include the acquired entity. Failure to notify can void cover under the common-law duty of utmost good faith codified in [section 17 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applied across all insurance contracts in Singapore.
-
 
 ### Why this is more than admin
 An acquisition creates four overlapping insurance issues: (1) the buyer's policies may not extend to the new entity automatically; (2) the seller's claims-made policies (PI, D&O, Cyber, EPL) need run-off or they leave directors personally exposed; (3) the seller's occurrence policies (Property, GL, WICA) cover events during their term but not after; (4) duty of utmost good faith requires immediate disclosure of the change in risk profile.
@@ -75,7 +75,6 @@ If the deal is in a regulated industry (financial services, healthcare, educatio
 3. What's the retroactive date implication on Cyber and PI for the acquired customer base?
 4. Has WICA continuity been addressed for transferring employees, with no Section 24 gap?
 5. Are there contract-specific COI or waiver of subrogation requirements I need to reissue?
-
 
 ### Related Information
 - [ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore](/cross-border/asean-expansion-insurance-framework)

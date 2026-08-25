@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 299
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3006
+word_count: 3015
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/vendor-data-breach-affecting-your-customers"
+canonical_url: "https://covarage.com/guides/crisis/vendor-data-breach-affecting-your-customers"
 meta_description: "A vendor of the Singapore SME (CRM, payroll, cloud provider, customer support, marketing automation) has notified the SME that the vendor suffered a data..."
 og_title: "Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow"
 og_description: "A vendor of the Singapore SME (CRM, payroll, cloud provider, customer support, marketing automation) has notified the SME that the vendor suffered a data..."

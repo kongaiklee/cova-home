@@ -9,10 +9,10 @@ agencies: []
 article_number: 214
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1967
+word_count: 1949
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-uk-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-uk-operations"
 meta_description: "---"
 og_title: "Singapore SME with UK Operations: Insurance and Regulatory Framework"
 og_description: "---"

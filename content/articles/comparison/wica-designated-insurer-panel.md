@@ -9,13 +9,13 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 169
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1928
+word_count: 1881
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
-canonical_url: "https://covarage.com/comparison/wica-designated-insurer-panel"
-meta_description: "Under the Work Injury Compensation Act 2019 (WICA), employers must procure insurance for WICA-covered employees from one of MOM's designated insurers  - ..."
+canonical_url: "https://covarage.com/guides/comparison/wica-designated-insurer-panel"
+meta_description: "Under the Work Injury Compensation Act 2019 (WICA), employers must procure insurance for WICA-covered employees from one of MOM's designated insurers -..."
 og_title: "WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement"
-og_description: "Under the Work Injury Compensation Act 2019 (WICA), employers must procure insurance for WICA-covered employees from one of MOM's designated insurers  - ..."
+og_description: "Under the Work Injury Compensation Act 2019 (WICA), employers must procure insurance for WICA-covered employees from one of MOM's designated insurers -..."
 ---
 
 > **The Answer in 60 Seconds**

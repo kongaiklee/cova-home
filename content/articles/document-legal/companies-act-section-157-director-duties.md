@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "ACRA", "Courts"]
 article_number: 184
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1880
+word_count: 1885
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/companies-act-section-157-director-duties"
+canonical_url: "https://covarage.com/guides/document-legal/companies-act-section-157-director-duties"
 meta_description: "Section 157 of the Companies Act 1967 is the foundational provision establishing director duties in Singapore. It codifies that directors must act..."
 og_title: "Companies Act Section 157: Director Duties and the D&O Insurance Foundation"
 og_description: "Section 157 of the Companies Act 1967 is the foundational provision establishing director duties in Singapore. It codifies that directors must act..."

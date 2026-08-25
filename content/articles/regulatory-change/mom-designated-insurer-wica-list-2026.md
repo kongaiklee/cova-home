@@ -9,10 +9,10 @@ agencies: ["MOM", "MAS"]
 article_number: 6
 published: "2026-05-03"
 source_verified: "2026-05-03"
-word_count: 1368
+word_count: 1329
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
-canonical_url: "https://covarage.com/regulatory-change/mom-designated-insurer-wica-list-2026"
+canonical_url: "https://covarage.com/guides/regulatory-change/mom-designated-insurer-wica-list-2026"
 meta_description: "Per the MOM List of Designated Insurers PDF dated 1 January 2026, 24 insurers are currently designated to sell WICA 2019 employer policies in Singapore...."
 og_title: "MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore"
 og_description: "Per the MOM List of Designated Insurers PDF dated 1 January 2026, 24 insurers are currently designated to sell WICA 2019 employer policies in Singapore...."

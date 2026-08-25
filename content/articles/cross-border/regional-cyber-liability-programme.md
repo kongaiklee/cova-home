@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "PDPC", "MAS"]
 article_number: 306
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 2071
+word_count: 2047
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/regional-cyber-liability-programme"
+canonical_url: "https://covarage.com/guides/cross-border/regional-cyber-liability-programme"
 meta_description: "Cyber Liability is the regional line that has converged toward global structure. A Singapore-issued cyber programme can typically cover cross-border data,..."
 og_title: "Regional Cyber Liability Programme: Cross-Border Data and Multi-Jurisdiction Notification"
 og_description: "Cyber Liability is the regional line that has converged toward global structure. A Singapore-issued cyber programme can typically cover cross-border data,..."

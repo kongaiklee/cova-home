@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes"]
 article_number: 119
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 2402
+word_count: 2389
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/document-legal/companies-act-section-172-indemnification"
+canonical_url: "https://covarage.com/guides/document-legal/companies-act-section-172-indemnification"
 meta_description: "Per Section 172 of the Companies Act 1967, any provision in a company's constitution or contract that purports to exempt a director, officer, or auditor..."
 og_title: "Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company"
 og_description: "Per Section 172 of the Companies Act 1967, any provision in a company's constitution or contract that purports to exempt a director, officer, or auditor..."

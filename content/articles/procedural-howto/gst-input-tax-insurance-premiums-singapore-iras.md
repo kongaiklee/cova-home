@@ -9,10 +9,10 @@ agencies: ["IRAS", "Singapore Statutes"]
 article_number: 376
 published: "2026-05-07"
 source_verified: "2026-05-07"
-word_count: 1857
+word_count: 1844
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/gst-input-tax-insurance-premiums-singapore-iras"
+canonical_url: "https://covarage.com/guides/procedural-howto/gst-input-tax-insurance-premiums-singapore-iras"
 meta_description: "Your GST-registered SME is paying GST on commercial insurance premiums and needs to determine which premiums attract claimable input tax and which fall..."
 og_title: "How to Claim GST Input Tax on Insurance Premiums"
 og_description: "Your GST-registered SME is paying GST on commercial insurance premiums and needs to determine which premiums attract claimable input tax and which fall..."

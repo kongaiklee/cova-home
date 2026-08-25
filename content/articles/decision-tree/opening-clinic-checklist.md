@@ -9,10 +9,10 @@ agencies: ["SMC", "MOH", "SCDF", "Singapore Statutes", "HSA"]
 article_number: 78
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1842
+word_count: 1818
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
-canonical_url: "https://covarage.com/decision-tree/opening-clinic-checklist"
+canonical_url: "https://covarage.com/guides/decision-tree/opening-clinic-checklist"
 meta_description: "A Singapore medical or dental clinic typically needs: Medical Indemnity (Professional Indemnity for medical practitioners) - mandatory for Singapore..."
 og_title: "Opening a Medical Clinic in Singapore: Full Insurance Checklist"
 og_description: "A Singapore medical or dental clinic typically needs: Medical Indemnity (Professional Indemnity for medical practitioners) - mandatory for Singapore..."

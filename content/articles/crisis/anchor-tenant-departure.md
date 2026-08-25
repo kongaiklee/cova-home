@@ -9,10 +9,10 @@ agencies: ["SLA", "Singapore Statutes", "IPOS"]
 article_number: 136
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1805
+word_count: 1792
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/anchor-tenant-departure"
+canonical_url: "https://covarage.com/guides/crisis/anchor-tenant-departure"
 meta_description: "First, assess actual operational impact (footfall change, co-tenancy clauses, customer perception) and review your tenancy agreement (registered under SLA..."
 og_title: "Our Anchor Tenant Just Announced They're Leaving the Mall - What Do I Do Now?"
 og_description: "First, assess actual operational impact (footfall change, co-tenancy clauses, customer perception) and review your tenancy agreement (registered under SLA..."

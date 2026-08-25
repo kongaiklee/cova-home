@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "MOM", "CPF Board"]
 article_number: 344
 published: "2026-05-06"
 source_verified: "2026-05-06"
-word_count: 1672
+word_count: 1634
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/how-to-comply-platform-workers-act-wic-insurance"
+canonical_url: "https://covarage.com/guides/procedural-howto/how-to-comply-platform-workers-act-wic-insurance"
 meta_description: "The Platform Workers Act 2024 (Act No. 30 of 2024) came fully into force on 1 January 2025, requiring Singapore platform operators (Grab, Gojek,..."
 og_title: "How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures"
 og_description: "The Platform Workers Act 2024 (Act No. 30 of 2024) came fully into force on 1 January 2025, requiring Singapore platform operators (Grab, Gojek,..."

@@ -9,10 +9,10 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 291
 published: "2026-05-14"
 source_verified: "2026-05-14"
-word_count: 3031
+word_count: 3038
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
-canonical_url: "https://covarage.com/crisis/major-customer-bankruptcy-trade-credit-dso-cliff"
+canonical_url: "https://covarage.com/guides/crisis/major-customer-bankruptcy-trade-credit-dso-cliff"
 meta_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) - scheme of arrangement under Part 5..."
 og_title: "Major Customer Bankruptcy: The Trade Credit DSO Cliff Event"
 og_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) - scheme of arrangement under Part 5..."

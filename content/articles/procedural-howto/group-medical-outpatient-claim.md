@@ -9,10 +9,10 @@ agencies: ["MOM"]
 article_number: 53
 published: "2026-05-04"
 source_verified: "2026-05-04"
-word_count: 1052
+word_count: 1014
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
-canonical_url: "https://covarage.com/procedural-howto/group-medical-outpatient-claim"
+canonical_url: "https://covarage.com/guides/procedural-howto/group-medical-outpatient-claim"
 meta_description: "In Singapore, the Ministry of Manpower’s official pages for <a href=\"https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance\"S Pass medical..."
 og_title: "How to File Group Medical Claim Outpatient Singapore"
 og_description: "In Singapore, the Ministry of Manpower’s official pages for <a href=\"https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance\"S Pass medical..."

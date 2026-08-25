@@ -227,7 +227,7 @@ function main() {
     const heroImage = heroImageFor(category);
 
     const metaDescription = truncate(summary, 155);
-    const canonicalUrl = `https://covarage.com${slug}`;
+    const canonicalUrl = `https://covarage.com/guides${slug}`;
 
     articles.push({
       articleNum, title, slug, category, subcategory, intent, filename,

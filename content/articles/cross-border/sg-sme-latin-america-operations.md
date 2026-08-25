@@ -9,10 +9,10 @@ agencies: []
 article_number: 239
 published: "2026-05-05"
 source_verified: "2026-05-05"
-word_count: 1783
+word_count: 1769
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
-canonical_url: "https://covarage.com/cross-border/sg-sme-latin-america-operations"
+canonical_url: "https://covarage.com/guides/cross-border/sg-sme-latin-america-operations"
 meta_description: "Singapore SMEs operating in Latin America face substantively diverse commercial frameworks across 33 jurisdictions, with major operational markets..."
 og_title: "Singapore SMEs Operating in Latin America: Cross-Border Insurance and Commercial Framework"
 og_description: "Singapore SMEs operating in Latin America face substantively diverse commercial frameworks across 33 jurisdictions, with major operational markets..."
