@@ -1,10 +1,11 @@
 {
+  "cleanUrls": true,
+  "trailingSlash": false,
   "rewrites": [
     { "source": "/for-partners/calculator", "destination": "/decks/CovaPartnership_Calculator_Mobile.html" },
     { "source": "/for-partners", "destination": "/decks/CovaPartnership_Mobile.html" },
     { "source": "/for-corpsecs", "destination": "/decks/CovaPartnership_Mobile.html" },
-    { "source": "/for-brokers", "destination": "/decks/CovaBroker_Mobile.html" },
-    { "source": "/(.*)", "destination": "/" }
+    { "source": "/for-brokers", "destination": "/decks/CovaBroker_Mobile.html" }
   ],
   "headers": [
     {
