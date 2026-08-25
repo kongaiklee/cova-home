@@ -110,7 +110,7 @@ const RULES = [
   // reads the expression and not only the prose.
   { id: 'PARTNER-SHARE-SPLIT', selfRequired: false,
     re: /(?:^|[^A-Za-z])share\s*=\s*pool\s*\*|your share of the (?:referral|introducer) fee|\d{1,3}\s*(?:%|per ?cent)\s+of\s+the\s+(?:referral|introducer)\s+fee/i,
-    why: 'The introducer fee passes through to the partner WHOLESALE. No split, no multiplier, and it is not "a share".' },
+    why: 'No published partner share, split or multiplier. COVA takes a tiered processing fee out of the introducer fee and the scale is not set (Kong, 2026-08-24). Show the pool; promise no number.' },
 
   // Added 2026-08-24 on Kong's complaint that seats keep writing internal-memo language onto the
   // marketing site. This seat shipped a code comment naming him and a ruling date into a deck that
