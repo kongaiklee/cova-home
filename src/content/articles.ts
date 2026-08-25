@@ -18,6 +18,11 @@ export interface ArticleMeta {
   subcategory?: string;
   intent: IntentId;
   topics: string[];
+  /** Industry (from title + slug) and agencies the body links to - scripts/lib/facets.mjs. */
+  industries: string[];
+  agencies: string[];
+  /** Hand-curated by an editor in frontmatter; absent means false. */
+  required_by_law?: boolean;
   published: string;
   meta_description: string;
   hero_image: string;
@@ -54,11 +59,13 @@ const rawArticles = import.meta.glob('../../content/articles/**/*.md', {
 
 /** Minimal YAML frontmatter parser. The format is controlled by the migration script. */
 function parseFrontmatter(raw: string): { frontmatter: ArticleFrontmatter; body: string } {
-  const match = raw.match(/^---\n([\s\S]*?)\n---\n?([\s\S]*)$/);
+  // Tolerate CRLF: a Windows checkout with core.autocrlf hands this parser \r\n files, and an
+  // LF-only match here killed every local dev server and SSG build on that platform.
+  const match = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/);
   if (!match) throw new Error('Article is missing frontmatter');
   const [, fmBlock, body] = match;
   const fm: Record<string, unknown> = {};
-  for (const line of fmBlock.split('\n')) {
+  for (const line of fmBlock.split(/\r?\n/)) {
     const kv = line.match(/^([a-z_]+):\s*(.*)$/);
     if (!kv) continue;
     const [, key, rawValue] = kv;
