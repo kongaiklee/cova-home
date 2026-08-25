@@ -1,5 +1,6 @@
 {
   "buildCommand": "npm run build",
+  "cleanUrls": true,
   "rewrites": [
     { "source": "/for-partners/calculator", "destination": "/decks/CovaPartnership_Calculator_Mobile.html" },
     { "source": "/for-partners", "destination": "/decks/CovaPartnership_Mobile.html" },
