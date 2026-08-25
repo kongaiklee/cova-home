@@ -1,29 +1,39 @@
 import Seo from '../../components/Seo';
-import LandingBrokers from './LandingBrokers';
-import LandingFeatures from './LandingFeatures';
+import LanderHeader from './LanderHeader';
+import Hero from './Hero';
+import { Problem, Proof, Stake, TradeLine } from './Sections';
+import Trades from './Trades';
+import Guides from './Guides';
+import { Chase, Close, HowItWorks, Money, Onboarding, Renewal, WhatYouGet } from './Sections2';
+import Rotator from './Rotator';
 import LandingFooter from './LandingFooter';
-import LandingHandles from './LandingHandles';
-import LandingHeader from './LandingHeader';
-import LandingHero from './LandingHero';
-import LandingMap from './LandingMap';
-import LandingProducts from './LandingProducts';
 
+/** The vanilla end-user page, Revision 3a. Section order is the artboards' and is not negotiable here. */
 export default function LandingPage() {
   return (
-    <>
+    <div className="bg-background-primary text-text-primary">
       <Seo
-        title="Covarage: Insurance, Without the Admin"
-        description="Covarage connects Singapore businesses to licensed insurance brokers and keeps every policy organised in one place. No chasing, no paperwork pile-ups."
+        title="Covarage: the insurance team you thought you were too small for"
+        description="A named adviser who knows your company, a review at every renewal, and someone who chases so you never have to. Free for your business while we are in early access."
         path="/"
       />
-      <LandingHeader />
-      <LandingHero />
-      <LandingBrokers />
-      <LandingProducts />
-      <LandingHandles />
-      <LandingFeatures />
-      <LandingMap />
+      <LanderHeader />
+      <Hero />
+      <TradeLine />
+      <Stake />
+      <Proof />
+      <Problem />
+      <Trades />
+      <Guides />
+      <WhatYouGet />
+      <Renewal />
+      <Chase />
+      <HowItWorks />
+      <Onboarding />
+      <Rotator />
+      <Money />
+      <Close />
       <LandingFooter />
-    </>
+    </div>
   );
 }

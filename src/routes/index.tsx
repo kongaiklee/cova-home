@@ -6,7 +6,7 @@ import BlogIndex from '../pages/blog/BlogIndex';
 import ArticlePage from '../pages/blog/ArticlePage';
 import Terms from '../pages/legal/Terms';
 import Privacy from '../pages/legal/Privacy';
-import { ARTICLES, loadArticle } from '../content/articles';
+import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
 
 /**
  * Route table consumed by vite-react-ssg.
@@ -27,8 +27,9 @@ export const routes: RouteRecord[] = [
       { path: 'blog', element: <BlogIndex /> },
       { path: 'terms', element: <Terms /> },
       { path: 'privacy', element: <Privacy /> },
+      // Every article lives under /guides/<category>/<slug>; the old paths 301 here (vercel.json).
       ...ARTICLES.map((a) => ({
-        path: a.slug.replace(/^\//, ''),
+        path: `${GUIDES_PREFIX}${a.slug}`.replace(/^\//, ''),
         lazy: async () => {
           const article = await loadArticle(a.slug);
           return {

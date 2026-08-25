@@ -1,7 +1,11 @@
 @import 'tailwindcss';
 
 @theme {
-  /* Brand palette — Covarage Brand Guidelines v2026 */
+  /* Type: Inter for text (loaded in index.html), the system serif for display - the approved artboards' stack. */
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-serif: ui-serif, Georgia, Cambria, 'Times New Roman', serif;
+
+  /* Brand palette - Covarage Brand Guidelines v2026 */
   --color-primary: #5f88ae;             /* Horizon Blue */
   --color-primary-hover: #4f7398;       /* Horizon Blue −10% L */
   --color-primary-extended: #423226;    /* Teak */

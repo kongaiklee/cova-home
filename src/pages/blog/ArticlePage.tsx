@@ -3,20 +3,18 @@ import { ArrowRight } from 'lucide-react';
 import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Link } from 'react-router-dom';
-import { relatedArticles, type Article } from '../../content/articles';
+import { articleUrl, internalHref, relatedArticles, type Article } from '../../content/articles';
 import { INTENT_BY_ID } from '../../content/intents';
 import Seo, { SITE_URL } from '../../components/Seo';
 import { agencyLinks, valueSlug } from '../../content/facets';
 import { ArticleTile } from './ArticleCard';
 import { formatDate, readingTime } from './util';
 
-const APP_URL = import.meta.env.VITE_APP_COVARAGE_URL;
-
-/** Render Markdown links as SPA links when internal, new-tab when external. */
+/** Render Markdown links as SPA links when internal (rewritten to /guides/), new-tab when external. */
 const markdownComponents = {
   a({ href, children }: { href?: string; children?: ReactNode }) {
     if (href && href.startsWith('/')) {
-      return <Link to={href}>{children}</Link>;
+      return <Link to={internalHref(href)}>{children}</Link>;
     }
     return (
       <a href={href} target="_blank" rel="noopener noreferrer">
@@ -37,7 +35,7 @@ function ArticleDisclaimer() {
       aria-label="Regulatory disclosure"
     >
       <p className="border-t border-border-primary pt-6 text-sm/relaxed text-text-secondary">
-        COVA is a technology platform. We are not an insurer, an insurance broker
+        Covarage is a technology platform. We are not an insurer, an insurance broker
         or a financial adviser, and we are not licensed or registered by the
         Monetary Authority of Singapore. We do not advise on, recommend, rank,
         compare or arrange insurance, and we never handle premium or claims. This
@@ -72,7 +70,7 @@ export default function ArticlePage({ article }: { article: Article }) {
       name: 'Covarage',
       logo: { '@type': 'ImageObject', url: `${SITE_URL}/assets/logo.png` },
     },
-    mainEntityOfPage: `${SITE_URL}${frontmatter.slug}`,
+    mainEntityOfPage: `${SITE_URL}${articleUrl(frontmatter.slug)}`,
   };
 
   return (
@@ -80,7 +78,7 @@ export default function ArticlePage({ article }: { article: Article }) {
       <Seo
         title={`${frontmatter.title} | Covarage`}
         description={frontmatter.meta_description}
-        path={frontmatter.slug}
+        path={articleUrl(frontmatter.slug)}
         image={frontmatter.hero_image}
         type="article"
         publishedTime={frontmatter.published}
@@ -176,15 +174,15 @@ export default function ArticlePage({ article }: { article: Article }) {
               Insurance, without the admin.
             </h2>
             <p className="mt-2 max-w-md text-sm/relaxed text-white/90">
-              Covarage keeps your policies in one place and — where you ask us
-              to — introduces you to a licensed insurance intermediary.
+              Covarage keeps your policies in one place and, where you ask us
+              to, introduces you to a licensed insurance intermediary.
             </p>
           </div>
           <a
-            href={`${APP_URL}/work/signup`}
+            href="/#request"
             className="inline-flex shrink-0 items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-white/90"
           >
-            Get started
+            Request access
             <ArrowRight className="size-4" />
           </a>
         </div>

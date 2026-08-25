@@ -1,100 +1,33 @@
 import { Link } from 'react-router-dom';
-import { LANDING_CONTAINER_CLASS } from './landingContainer';
+import { WRAP } from './Sections';
 
-const FOOTER_COLUMNS = [
-  {
-    heading: 'PRODUCTS',
-    links: [
-      { label: 'COVAVAULT', to: '#' },
-    ],
-  },
-  {
-    heading: 'COMPANY',
-    links: [
-      { label: 'ABOUT', to: '#' },
-      { label: 'CONTACT', to: '#' },
-    ],
-  },
-  {
-    heading: 'LEGAL',
-    links: [
-      { label: 'PRIVACY POLICY', to: '/privacy' },
-      { label: 'TERMS OF USE', to: '/terms' },
-    ],
-  },
-  {
-    heading: 'SOCIAL',
-    links: [
-      { label: 'LINKEDIN', to: '#' },
-    ],
-  },
-];
-
+/**
+ * Site footer, shared by the lander, the blog and the legal pages. One status line, the entity
+ * line, the document versions. `Contact` is a label until its page exists - never a `#` link,
+ * which the router resolves to the current page.
+ */
 export default function LandingFooter() {
+  const link = 'text-[13px] font-medium text-text-primary no-underline hover:text-primary';
+  const fine = 'm-0 text-[11px]/[1.6] tracking-[0.05em] text-[#b3aca6]';
   return (
-    <footer className="bg-landing-footer py-12 lg:py-16">
-      <div className={LANDING_CONTAINER_CLASS}>
-        {/* Top: logo + nav columns */}
-        <div className="flex flex-col gap-10 lg:flex-row lg:items-start lg:gap-16">
-          <Link to="/" className="shrink-0">
-            <img
-              src="/assets/images/landing/Logo.png"
-              alt="Covarage"
-              className="h-8 w-auto object-contain"
-            />
-          </Link>
-          <nav
-            className="grid flex-1 gap-8 sm:grid-cols-2 lg:grid-cols-4"
-            aria-label="Footer"
-          >
-            {FOOTER_COLUMNS.map((col) => (
-              <div key={col.heading}>
-                <p className="text-xs font-medium uppercase tracking-wider text-text-secondary">
-                  {col.heading}
-                </p>
-                <ul className="mt-3 space-y-2">
-                  {col.links.map((link) => (
-                    <li key={link.label}>
-                      <Link
-                        to={link.to}
-                        className="text-sm text-text-secondary hover:text-text-primary"
-                      >
-                        {link.label}
-                      </Link>
-                    </li>
-                  ))}
-                </ul>
-              </div>
-            ))}
-          </nav>
-        </div>
-
-        {/* Disclaimer */}
-        <div className="mt-12 border-t border-border-primary pt-8">
-          <h3 className="text-sm font-bold uppercase tracking-wide text-text-primary">
-            Some important things you should know
-          </h3>
-          <p className="mt-3 max-w-2xl text-sm/relaxed text-text-primary">
-            COVA is a technology platform. We are not a licensed insurance
-            broker regulated by the Monetary Authority of Singapore (MAS) and do
-            not provide any financial advice. All insurance advice, quotations
-            and cover are provided by licensed intermediaries and insurers.
-          </p>
-          <p className="mt-3 max-w-2xl text-sm/relaxed text-text-primary">
-            COVA does not arrange or bind cover, does not handle premium or
-            client money, and takes no part in claims. On request, COVA
-            introduces a business to a licensed insurance intermediary, and that
-            intermediary provides all advice.
-          </p>
-        </div>
-
-        {/* Copyright */}
-        <div className="mt-8 border-t border-border-primary pt-6">
-          <p className="text-xs uppercase text-text-secondary">
-            © Copyright 2025 Covarage Pte. Ltd. UEN: 202531227H.
-          </p>
-        </div>
+    <footer className={`${WRAP} border-t border-border-primary pt-7 pb-11 lg:border-t-0 lg:pt-14 lg:pb-[72px]`}>
+      <div className="mb-3.5 flex items-center gap-2.5 lg:mb-5">
+        <img src="/assets/images/landing/Logo.png" alt="" className="block h-5 w-auto opacity-70" />
+        <span className="text-[15px] font-semibold text-text-secondary">Covarage</span>
       </div>
+      <nav className="mb-[18px] flex flex-wrap gap-4 lg:gap-7" aria-label="Footer">
+        <Link to="/blog" className={link}>Guides</Link>
+        <Link to="/privacy" className={link}>Privacy Policy</Link>
+        <Link to="/terms" className={link}>Terms of Use</Link>
+        <span className="text-[13px] font-medium text-text-primary">Contact</span>
+      </nav>
+      <p className={`${fine} mb-2.5 max-w-[90ch]`}>
+        Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.
+      </p>
+      <p className={`${fine} mb-2.5`}>
+        Covarage Pte. Ltd. &middot; UEN 202531227H &middot; 143 Cecil Street, #03-01, GB Building, Singapore 069542 &middot; Data protection: dpo@covarage.com
+      </p>
+      <p className={fine}>&copy; Covarage 2026 &middot; Privacy Policy v1.0 and Terms of Use v1.0, 25 August 2026</p>
     </footer>
   );
 }

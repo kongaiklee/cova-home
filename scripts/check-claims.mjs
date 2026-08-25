@@ -89,9 +89,13 @@ const RULES = [
     re: /\b(?:COVA|Covarage)\s+(?:will |can |may |also )?(?:binds?|arranges?|underwrites?|places?)\s+(?:the |your |any )?(?:cover|policy|policies|insurance)\b|policies you bind through/i,
     why: 'COVA does not arrange, bind, place or underwrite. Licensed intermediaries do.' },
 
-  { id: 'IASO-AS-OURS',
-    re: /our concierge team|our booking page|our health screening/i,
-    why: 'Medical concierge is IASO Pte. Ltd., a separate related-party company. Attribute it.' },
+  // Narrowed 2026-08-26 on Kong's G4 ruling: a service line that names no provider passes
+  // ("Someone else calls the clinic", "We fill the insurer forms for you"). What is blocked is
+  // IASO NAMED as ours, or a liability / guarantee claim for the concierge - the old deck's
+  // "Bill Guarantee ... assumes financial liability" is the probe this must still fail on.
+  { id: 'IASO-AS-OURS', selfRequired: false,
+    re: /our (?:IASO|concierge (?:team|partner|company)|booking page|health screening)|IASO(?:'s)?(?: \w+){0,3} (?:is|as) (?:ours|our own|part of (?:COVA|Covarage))|\bbill guarantee\b|assumes? financial liability|guarantee[sd]? (?:that )?(?:no|every|any) (?:policy|claim|bill|exclusion)/i,
+    why: 'Medical concierge is IASO Pte. Ltd., a separate related-party company. Never name IASO as ours and never promise a guarantee or liability on its behalf (Kong, 2026-08-26).' },
 
   // Added after batch E. The GHS article gave nine named insurers merit adjectives and told the
   // reader "the right answer is" twice - once in the blockquote that feeds FAQPage results.

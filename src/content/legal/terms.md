@@ -1,12 +1,12 @@
 **Version 1.0 - 25 August 2026**
 
-## 1. About COVA
+## 1. About Covarage
 
-Covarage Pte. Ltd. (UEN 202531227H) ("COVA", "we", "us") provides a technology platform for Singapore
+Covarage Pte. Ltd. (UEN 202531227H) ("Covarage", "we", "us") provides a technology platform for Singapore
 businesses. This agreement applies whenever you access or use the platform or covarage.com. By using
 either, you agree to these terms.
 
-## 2. What COVA does
+## 2. What Covarage does
 
 The platform lets your business:
 
@@ -16,10 +16,10 @@ The platform lets your business:
 - store a claim document and forward it when you ask us to; and
 - be introduced to a licensed insurance intermediary, if you ask us to.
 
-## 3. What COVA does not do
+## 3. What Covarage does not do
 
-COVA is not an insurer, an insurance broker or a financial adviser, and does not hold any licence from
-the Monetary Authority of Singapore. COVA does not:
+Covarage is not an insurer, an insurance broker or a financial adviser, and does not hold any licence from
+the Monetary Authority of Singapore. Covarage does not:
 
 - give advice or make any recommendation about insurance;
 - assess whether the cover you describe is adequate or appropriate for your business;
@@ -30,13 +30,13 @@ the Monetary Authority of Singapore. COVA does not:
 - issue policy documents; or
 - receive, hold or handle premium or any other money belonging to you.
 
-All advice about insurance is given to you by the licensed intermediary, not by COVA. Where you are
+All advice about insurance is given to you by the licensed intermediary, not by Covarage. Where you are
 shown a comparison of options, it is prepared and presented by that intermediary using a format the
-platform provides. COVA does not populate it or influence what it contains.
+platform provides. Covarage does not populate it or influence what it contains.
 
 ## 4. Introductions and our partners
 
-COVA works with licensed insurance intermediaries. We are not tied to any one of them, no intermediary
+Covarage works with licensed insurance intermediaries. We are not tied to any one of them, no intermediary
 has exclusivity over the platform, and we may work with others.
 
 We will only introduce you to an intermediary if you ask us to, and we will tell you which intermediary
@@ -47,18 +47,18 @@ After an introduction, we may monitor how promptly and how completely the interm
 that you can judge the service you are receiving. That monitoring measures service
 only. We do not review, rate or comment on the cover an intermediary proposes to you.
 
-## 5. What it costs, and how COVA is paid
+## 5. What it costs, and how Covarage is paid
 
 The platform is free while in early access. We will tell you before any charge applies.
 
-If an introduction leads to you taking out a policy, COVA is paid an introduction fee by the
+If an introduction leads to you taking out a policy, Covarage is paid an introduction fee by the
 intermediary, out of the intermediary's own commission. That fee does not increase your premium. It
-does not vary according to which insurer, product or premium you choose, and COVA is not paid anything
-by any insurer. COVA therefore has no financial interest in the outcome of any advice you receive.
+does not vary according to which insurer, product or premium you choose, and Covarage is not paid anything
+by any insurer. Covarage therefore has no financial interest in the outcome of any advice you receive.
 
 ## 6. Your account
 
-Accounts are opened by COVA's team after you contact us. You must give accurate
+Accounts are opened by Covarage's team after you contact us. You must give accurate
 information and keep it up to date. You are responsible for keeping your account credentials
 confidential and for activity that takes place under your account. Please tell us promptly if you
 believe your account has been used without your authority.
@@ -75,17 +75,17 @@ out in the Covarage Privacy Policy, which forms part of this agreement.
 ## 8. Claims
 
 Where you upload a claim document, we store it and - only when you ask us to - forward it to your
-intermediary or insurer. That is the whole of our role in a claim. COVA does not assess, negotiate,
+intermediary or insurer. That is the whole of our role in a claim. Covarage does not assess, negotiate,
 adjust or handle claims, does not act for any insurer in relation to a claim, and takes no part in
 deciding whether a claim is paid.
 
 ## 9. The platform is provided as it is
 
-COVA provides the platform on an "as is" basis and does not warrant that it will be uninterrupted or
+Covarage provides the platform on an "as is" basis and does not warrant that it will be uninterrupted or
 error-free.
 
 Information about insurance products, cover, terms and premiums comes from intermediaries and
-insurers, not from COVA, and COVA does not verify it. COVA is not responsible for any advice given to
+insurers, not from Covarage, and Covarage does not verify it. Covarage is not responsible for any advice given to
 you by an intermediary, for any policy you take out, or for any decision you make about insurance.
 
 Renewal dates are shown as you record them. Responsibility for renewing your policies on time remains

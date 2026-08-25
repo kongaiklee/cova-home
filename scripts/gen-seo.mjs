@@ -24,7 +24,7 @@ const urls = [
   { loc: `${SITE}/terms`, lastmod: null, priority: '0.3' },
   { loc: `${SITE}/privacy`, lastmod: null, priority: '0.3' },
   ...articles.map((a) => ({
-    loc: `${SITE}${a.slug}`,
+    loc: `${SITE}/guides${a.slug}`,
     lastmod: a.published,
     priority: '0.8',
   })),

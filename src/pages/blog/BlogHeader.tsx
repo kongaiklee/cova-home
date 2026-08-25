@@ -39,13 +39,13 @@ export default function BlogHeader() {
             href={`${APP_URL}/signin`}
             className="text-sm font-medium text-text-primary transition hover:text-primary"
           >
-            Login
+            Log in
           </a>
           <a
-            href={`${APP_URL}/work/signup`}
-            className="rounded-full bg-primary px-4 py-2 text-sm font-medium text-white transition hover:bg-primary-hover"
+            href="/#request"
+            className="rounded-sm bg-primary-extended px-4 py-2 text-sm font-medium text-white transition hover:opacity-90"
           >
-            Free while in early access
+            Request access
           </a>
         </nav>
 
@@ -82,13 +82,13 @@ export default function BlogHeader() {
             href={`${APP_URL}/signin`}
             className="rounded-lg px-3 py-2.5 text-sm font-medium text-text-primary hover:bg-black/5"
           >
-            Login
+            Log in
           </a>
           <a
-            href={`${APP_URL}/work/signup`}
-            className="mt-1 rounded-full bg-primary px-3 py-2.5 text-center text-sm font-medium text-white hover:bg-primary-hover"
+            href="/#request"
+            className="mt-1 rounded-sm bg-primary-extended px-3 py-2.5 text-center text-sm font-medium text-white hover:opacity-90"
           >
-            Free while in early access
+            Request access
           </a>
         </nav>
       </div>

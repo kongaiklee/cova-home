@@ -1,6 +1,13 @@
 {
   "buildCommand": "npm run build",
   "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:slug",
+      "destination": "/guides/:category/:slug",
+      "permanent": true
+    }
+  ],
   "rewrites": [
     { "source": "/for-partners/calculator", "destination": "/decks/CovaPartnership_Calculator_Mobile" },
     { "source": "/for-partners", "destination": "/decks/CovaPartnership_Mobile" },

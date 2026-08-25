@@ -48,6 +48,26 @@ export interface Article {
 export const ARTICLES: ArticleMeta[] = indexData as ArticleMeta[];
 
 /**
+ * Every article is served under /guides/<category>/<slug>. The slug in the index keeps its
+ * historical shape (/<category>/<slug>) because the content files, the hero images and the
+ * facet derivation all key on it; only the URL carries the prefix. The old paths 301 here in
+ * vercel.json, so an article's URL is built by this function and nowhere else.
+ */
+export const GUIDES_PREFIX = '/guides';
+export function articleUrl(slug: string): string {
+  return `${GUIDES_PREFIX}${slug}`;
+}
+
+/** The category segments that exist in the corpus - the set the redirect rule must cover. */
+export const ARTICLE_CATEGORIES: string[] = [...new Set(ARTICLES.map((a) => a.slug.split('/')[1]))];
+
+/** Rewrite an in-body internal link (/<category>/<slug>) to its served URL. Others pass through. */
+export function internalHref(href: string): string {
+  const seg = href.split('/')[1];
+  return seg && ARTICLE_CATEGORIES.includes(seg) ? articleUrl(href) : href;
+}
+
+/**
  * Article bodies are loaded on demand: each markdown file is its own chunk.
  * The article route resolves loadArticle() before rendering, so the static
  * prerender still produces HTML containing the full article text.

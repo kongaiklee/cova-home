@@ -3,12 +3,13 @@ import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Link } from 'react-router-dom';
 import Seo from '../../components/Seo';
+import { internalHref } from '../../content/articles';
 
 /** Same link behaviour as the article body: internal links stay in the SPA. */
 const markdownComponents = {
   a({ href, children }: { href?: string; children?: ReactNode }) {
     if (href && href.startsWith('/')) {
-      return <Link to={href}>{children}</Link>;
+      return <Link to={internalHref(href)}>{children}</Link>;
     }
     return (
       <a href={href} target="_blank" rel="noopener noreferrer">

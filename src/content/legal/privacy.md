@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-COVARAGE PTE. LTD. (UEN 202531227H) ("COVA", "we", "our", "us") is committed to protecting the
+COVARAGE PTE. LTD. (UEN 202531227H) ("Covarage", "we", "our", "us") is committed to protecting the
 Personal Data of our users, customers, tenants, employees, partners, and vendors in accordance with the
 Personal Data Protection Act 2012 ("PDPA") of Singapore. This Policy explains how we collect, use,
 disclose, store, retain, and protect Personal Data in connection with our insurance document platform,
@@ -14,9 +14,9 @@ policy record-keeping.
 - Personal Data: Data, whether true or not, about an identifiable individual.
 - Business Contact Information (BCI): Business email, business phone number, job title or business
   address. BCI is excluded from PDPA obligations under Section 4(5).
-- Data Intermediaries: Vendors or service providers that process data on behalf of COVA, including
+- Data Intermediaries: Vendors or service providers that process data on behalf of Covarage, including
   cloud and hosting providers.
-- User: Any individual interacting with COVA's website, APIs, mobile applications, concierge services,
+- User: Any individual interacting with Covarage's website, APIs, mobile applications, concierge services,
   or insurance operations.
 
 ## 3. Collection of Personal Data
@@ -25,7 +25,7 @@ We collect Personal Data when individuals:
 
 - Record the insurance requirements they wish to obtain cover for, or provide renewal details.
 - Upload policy documents, employment information, or claim documents.
-- Interact with COVA's apps, web portals, WhatsApp, email, or support channels.
+- Interact with Covarage's apps, web portals, WhatsApp, email, or support channels.
 - Communicate with us for account support, document handling or servicing.
 - Engage our concierge or medical partners.
 - Submit documents such as NRIC, passport, medical reports, or invoices.
@@ -57,7 +57,7 @@ We disclose Personal Data only where necessary to:
 
 ## 6. Cross-Border Transfers
 
-COVA's production systems are currently hosted in Singapore. If data is transferred outside Singapore,
+Covarage's production systems are currently hosted in Singapore. If data is transferred outside Singapore,
 we ensure PDPA compliance through legally enforceable obligations, data processing agreements, or
 binding corporate rules.
 
