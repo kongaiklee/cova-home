@@ -20,25 +20,25 @@ og_description: "Your SME has a SGD 25,000-500,000 commercial insurance programm
 
 > **The Answer in 60 Seconds**
 >
-> Your SME has a SGD 25,000-500,000 commercial insurance programme (CAR/PL/WICA/property bundle) and wants to replace the annual lump-sum premium with monthly instalments — preserving working capital and bank facility headroom. Critical distinction: **commercial premium funding** (subject of this article) is a specialty product replacing annual cash outlay with monthly debt, distinct from bank "premium financing" products which primarily serve high-net-worth life insurance. The Singapore commercial premium-funding market is comparatively thin — a small number of broker-arranged funding propositions and insurer instalment plans, rather than a deep dedicated-funder market. Step-by-step: (1) confirm SME eligibility with your broker or adviser; (2) request an indicative funding quote alongside the annual premium quote; (3) compare the effective interest rate against the cost of a bank working-capital line; (4) sign the funding agreement (separate from the policy); (5) policy assigned to the funder as collateral; (6) monthly direct debit; (7) cancellation handling — the funder claws back unearned premium directly from the insurer. Commercial premium-funding rates in Singapore are not publicly published, so the effective rate must be obtained as a quote and compared against the cost of a bank facility. Off-balance-sheet treatment (P&L expense rather than balance sheet liability) is the most cited benefit. Specific instalment terms typically 2, 6, 8, 10, or 12 months. SME definition per [Enterprise Singapore](https://www.enterprisesg.gov.sg/): group revenue ≤ SGD 100m or ≤ 200 employees.
+> Your SME has a SGD 25,000-500,000 commercial insurance programme (CAR/PL/WICA/property bundle) and wants to replace the annual lump-sum premium with monthly instalments - preserving working capital and bank facility headroom. Critical distinction: **commercial premium funding** (subject of this article) is a specialty product replacing annual cash outlay with monthly debt, distinct from bank "premium financing" products which primarily serve high-net-worth life insurance. The Singapore commercial premium-funding market is comparatively thin - a small number of broker-arranged funding propositions and insurer instalment plans, rather than a deep dedicated-funder market. Step-by-step: (1) confirm SME eligibility with your broker or adviser; (2) request an indicative funding quote alongside the annual premium quote; (3) compare the effective interest rate against the cost of a bank working-capital line; (4) sign the funding agreement (separate from the policy); (5) policy assigned to the funder as collateral; (6) monthly direct debit; (7) cancellation handling - the funder claws back unearned premium directly from the insurer. Commercial premium-funding rates in Singapore are not publicly published, so the effective rate must be obtained as a quote and compared against the cost of a bank facility. Off-balance-sheet treatment (P&L expense rather than balance sheet liability) is the most cited benefit. Specific instalment terms typically 2, 6, 8, 10, or 12 months. SME definition per [Enterprise Singapore](https://www.enterprisesg.gov.sg/): group revenue ≤ SGD 100m or ≤ 200 employees.
 
 ### The Sourced Detail
 
-Commercial premium financing is a niche specialty product in Singapore — much less developed than in Australia or the US where dedicated funders dominate. The structural benefits (cash flow preservation, off-balance-sheet treatment) are real but the Singapore SME market depth is limited.
+Commercial premium financing is a niche specialty product in Singapore - much less developed than in Australia or the US where dedicated funders dominate. The structural benefits (cash flow preservation, off-balance-sheet treatment) are real but the Singapore SME market depth is limited.
 
 #### Statutory and regulatory framework
 
-**Insurance regulation.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) — establishes insurance regulation framework.
+**Insurance regulation.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - establishes insurance regulation framework.
 
 **Broker conduct.** A broker arranging premium funding remains subject to MAS conduct-of-business and disclosure requirements for insurance intermediaries; the broker should disclose the funding arrangement, its cost, and the assignment of the policy to the funder.
 
-**Insurance intermediaries.** [Insurance (Intermediaries) Regulations](https://www.mas.gov.sg/regulation/regulations/insurance-intermediaries-regulations) — specific regulatory framework.
+**Insurance intermediaries.** [Insurance (Intermediaries) Regulations](https://www.mas.gov.sg/regulation/regulations/insurance-intermediaries-regulations) - specific regulatory framework.
 
-**SME definition.** [Enterprise Singapore SME framework](https://www.enterprisesg.gov.sg/) — group revenue ≤ SGD 100m or ≤ 200 employees.
+**SME definition.** [Enterprise Singapore SME framework](https://www.enterprisesg.gov.sg/) - group revenue ≤ SGD 100m or ≤ 200 employees.
 
-**Consumer protection (life context).** [FIDReC consumer guidance on premium financing risks](https://www.fidrec.com.sg/) — addresses life insurance premium financing typically; less applicable to commercial premium funding.
+**Consumer protection (life context).** [FIDReC consumer guidance on premium financing risks](https://www.fidrec.com.sg/) - addresses life insurance premium financing typically; less applicable to commercial premium funding.
 
-#### Distinction — premium funding vs premium financing vs instalment plans
+#### Distinction - premium funding vs premium financing vs instalment plans
 
 Three different products are often conflated:
 
@@ -69,18 +69,18 @@ This article addresses (1) commercial premium funding only.
 #### Singapore market structure
 
 **How the market is structured.**
-- Some larger brokers offer a premium-funding facility — arranged with a third-party funder — as an option presented alongside the annual premium quote, typically with a choice of instalment terms
+- Some larger brokers offer a premium-funding facility - arranged with a third-party funder - as an option presented alongside the annual premium quote, typically with a choice of instalment terms
 - Some insurers offer their own instalment plans directly
 - The dedicated third-party premium-funding market is comparatively limited in Singapore
 
 **Market thinness considerations.**
-- Commercial premium-funding rates are not publicly published in Singapore — the effective rate must be obtained as a quote
+- Commercial premium-funding rates are not publicly published in Singapore - the effective rate must be obtained as a quote
 - Bank working-capital and term-loan rates are more transparent and serve as a useful benchmark
 - An SME should ask its broker or adviser what funding options are actually available for its programme
 
 #### Step-by-step procedure
 
-**Step 1 — SME eligibility confirmation (Day 0-3).**
+**Step 1 - SME eligibility confirmation (Day 0-3).**
 
 Confirm with broker:
 - SME size (revenue, headcount)
@@ -89,7 +89,7 @@ Confirm with broker:
 - Specific banking relationships
 - Specific funding eligibility per provider
 
-**Step 2 — Indicative funding quote (Day 3-7).**
+**Step 2 - Indicative funding quote (Day 3-7).**
 
 Request alongside annual premium quote:
 - Specific funding interest rate
@@ -98,7 +98,7 @@ Request alongside annual premium quote:
 - Specific total cost
 - Specific cancellation mechanics
 
-**Step 3 — Comparative analysis (Day 7-10).**
+**Step 3 - Comparative analysis (Day 7-10).**
 
 Compare against:
 - **Annual premium upfront:** the baseline cost
@@ -106,7 +106,7 @@ Compare against:
 - **An insurer instalment plan:** where the insurer offers one directly
 - **Internal cash deployment:** the opportunity cost of paying the premium in full from cash
 
-**Step 4 — Funding agreement (Day 10-14).**
+**Step 4 - Funding agreement (Day 10-14).**
 
 Sign separate from policy:
 - Specific principal (annual premium amount)
@@ -117,21 +117,21 @@ Sign separate from policy:
 - Specific cancellation provisions
 - Specific assignment of policy as collateral
 
-**Step 5 — Policy binding and assignment (Day 14-21).**
+**Step 5 - Policy binding and assignment (Day 14-21).**
 
 - Insurer issues policy
 - Policy assigned to funder
 - Funder pays premium directly to insurer
 - SME receives policy schedule with assignment endorsement
 
-**Step 6 — Monthly direct debit (ongoing).**
+**Step 6 - Monthly direct debit (ongoing).**
 
 - Specific monthly amount
 - Specific payment date
 - Specific failure handling
 - Specific bank account requirements
 
-**Step 7 — Cancellation handling (if needed).**
+**Step 7 - Cancellation handling (if needed).**
 
 - SME cancels policy
 - Insurer refunds unearned premium directly to funder
@@ -139,7 +139,7 @@ Sign separate from policy:
 - Specific recovery from SME if shortfall
 - Specific surplus refund if excess
 
-#### Insurance angle — what funding affects
+#### Insurance angle - what funding affects
 
 **Policy assignment.**
 - Funder takes specific assignment as collateral
@@ -167,25 +167,25 @@ Sign separate from policy:
 
 **Example: SME with SGD 100,000 annual commercial premium.**
 
-**Option A — Annual premium upfront.**
+**Option A - Annual premium upfront.**
 - Cost: SGD 100,000 cash outflow at policy commencement
 - Specific working capital impact
 - Specific opportunity cost
 
-**Option B — Premium funding 12 months at 7% p.a.**
+**Option B - Premium funding 12 months at 7% p.a.**
 - Monthly payment: ~SGD 8,652
 - Total cost: ~SGD 103,824
 - Effective premium: SGD 100,000
 - Effective financing cost: SGD 3,824
 - Specific cash flow smoothing
 
-**Option C — Bank SME loan 12 months at 8% p.a.**
+**Option C - Bank SME loan 12 months at 8% p.a.**
 - Monthly payment: ~SGD 8,696
 - Total cost: ~SGD 104,353
 - Specific facility utilisation
 - Specific working capital impact
 
-**Option D — Insurer instalment 6 months.**
+**Option D - Insurer instalment 6 months.**
 - Specific 6-month payment cycle
 - Specific premium loading
 - Specific reduced flexibility
@@ -257,27 +257,27 @@ For SMEs with bank covenant constraints (debt-to-equity, current ratio), premium
 
 For Singapore SMEs considering premium funding:
 
-1. **Premium funding eligibility assessment** — programme size, credit profile, banking position.
+1. **Premium funding eligibility assessment** - programme size, credit profile, banking position.
 
-2. **Indicative quote sourcing** — ask your broker or adviser what funding propositions are available for your programme.
+2. **Indicative quote sourcing** - ask your broker or adviser what funding propositions are available for your programme.
 
-3. **Comparative economic analysis** — premium funding vs bank loan vs annual upfront.
+3. **Comparative economic analysis** - premium funding vs bank loan vs annual upfront.
 
-4. **Banking facility coordination** — specific covenant impact, working capital optimisation.
+4. **Banking facility coordination** - specific covenant impact, working capital optimisation.
 
-5. **Specific cancellation framework** — specific recovery mechanism understood.
+5. **Specific cancellation framework** - specific recovery mechanism understood.
 
-6. **Specific renewal coordination** — specific transition planning.
+6. **Specific renewal coordination** - specific transition planning.
 
-7. **Specific multi-policy bundle** — specific simplification benefits.
+7. **Specific multi-policy bundle** - specific simplification benefits.
 
-8. **Specific accounting treatment** — specific P&L vs balance sheet positioning.
+8. **Specific accounting treatment** - specific P&L vs balance sheet positioning.
 
-9. **Specific governance** — specific board / finance committee approval framework.
+9. **Specific governance** - specific board / finance committee approval framework.
 
-10. **Specific monitoring** — specific actual cost vs projected, specific renewal review.
+10. **Specific monitoring** - specific actual cost vs projected, specific renewal review.
 
-The cost of premium funding is bounded but real — an effective financing rate on the funded principal, plus any administrative fees. The benefit is bounded but tangible — cash-flow smoothing across the policy year and, where it matters, preservation of bank-covenant headroom.
+The cost of premium funding is bounded but real - an effective financing rate on the funded principal, plus any administrative fees. The benefit is bounded but tangible - cash-flow smoothing across the policy year and, where it matters, preservation of bank-covenant headroom.
 
 ### Questions to Ask Your Adviser
 

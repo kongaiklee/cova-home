@@ -20,7 +20,7 @@ og_description: "The Singapore foreign-worker cost stack is reshaping through 20
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore foreign-worker cost stack is reshaping through 2025-2026 with concurrent changes to levy rates, quota frameworks, and insurance requirements. S Pass Tier 1 levy raised to S$650 per month from 1 September 2025 (Tier 2 remains S$650). Local Qualifying Salary (LQS) rises from S$1,600 to S$1,800 per month from 1 July 2026 — local employees must earn at least the LQS to count fully towards the foreign-worker quota denominator. Sector-specific Basic Skilled levy uplifts from Budget 2026: marine shipyard +S$100, process sector +S$150. The [Workplace Fairness Act 2025 (Act 8 of 2025)](https://sso.agc.gov.sg/Act/WFA2025) and the [Workplace Fairness (Dispute Resolution) Act 2025 (Act 22 of 2025)](https://sso.agc.gov.sg/Act/WFDRA2025) passed Parliament on 8 January 2025 and 4 November 2025; commencement expected end-2027. From 1 November 2025, WICA compensation limits uplifted (death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000) — see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019). Foreign Worker Medical Insurance (FWMI) is mandatory under the Employment of Foreign Manpower Act 1990 for Work Permit and S Pass holders; the employer is statutorily liable for medical expenses even where they exceed the WICA cap of S$53,000, with some market insurers offering extended medical cover to S$300,000 to address this gap. Foreign Domestic Worker (FDW) Insurance Scheme requires distinct cover. Employment Pass holders are not subject to FWMI. The Workplace Fairness Act will commence with a 25-employee threshold (below which TGFEP continues to apply) and the Employment Claims Tribunal jurisdictional limit was raised to S$250,000 by the Dispute Resolution Act, expanding the SME EPL exposure.
+> The Singapore foreign-worker cost stack is reshaping through 2025-2026 with concurrent changes to levy rates, quota frameworks, and insurance requirements. S Pass Tier 1 levy raised to S$650 per month from 1 September 2025 (Tier 2 remains S$650). Local Qualifying Salary (LQS) rises from S$1,600 to S$1,800 per month from 1 July 2026 - local employees must earn at least the LQS to count fully towards the foreign-worker quota denominator. Sector-specific Basic Skilled levy uplifts from Budget 2026: marine shipyard +S$100, process sector +S$150. The [Workplace Fairness Act 2025 (Act 8 of 2025)](https://sso.agc.gov.sg/Act/WFA2025) and the [Workplace Fairness (Dispute Resolution) Act 2025 (Act 22 of 2025)](https://sso.agc.gov.sg/Act/WFDRA2025) passed Parliament on 8 January 2025 and 4 November 2025; commencement expected end-2027. From 1 November 2025, WICA compensation limits uplifted (death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000) - see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019). Foreign Worker Medical Insurance (FWMI) is mandatory under the Employment of Foreign Manpower Act 1990 for Work Permit and S Pass holders; the employer is statutorily liable for medical expenses even where they exceed the WICA cap of S$53,000, with some market insurers offering extended medical cover to S$300,000 to address this gap. Foreign Domestic Worker (FDW) Insurance Scheme requires distinct cover. Employment Pass holders are not subject to FWMI. The Workplace Fairness Act will commence with a 25-employee threshold (below which TGFEP continues to apply) and the Employment Claims Tribunal jurisdictional limit was raised to S$250,000 by the Dispute Resolution Act, expanding the SME EPL exposure.
 
 ### The Sourced Detail
 
@@ -112,7 +112,7 @@ The foreign-worker cost stack interacts with insurance through several channels:
 
 **Employment Practices Liability Insurance (EPLI)** is the line that will become materially more relevant from expected end-2027 WFA commencement. With the ECT jurisdictional limit at S$250,000 per claim, EPLI exposure for Singapore SMEs is structurally elevated.
 
-#### Verbatim regulatory text — primary-source routing
+#### Verbatim regulatory text - primary-source routing
 
 The primary-source URLs for the regulatory framework:
 
@@ -190,11 +190,11 @@ For SMEs in marine shipyard or process sectors affected by Budget 2026 Basic Ski
 
 ### Related Information
 
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 11 — WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
-- [Article 14 — FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
-- [Article 12 — Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 11 - WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [Article 14 - FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
+- [Article 12 - Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)
 
 ---

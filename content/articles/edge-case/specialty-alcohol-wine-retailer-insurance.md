@@ -40,9 +40,9 @@ Specialty alcohol retail concentrates significant inventory value in compact, th
 
 #### Insurance commercial spine
 
-**Stock cover** — the central insurance question. Specialty retail stock characteristics:
+**Stock cover** - the central insurance question. Specialty retail stock characteristics:
 
-- **High value concentration.** A specialty wine merchant with strong inventory may hold SGD 1–5 million in stock at landed cost; retail value materially higher. Specialty whisky retailer with allocated bottlings or aged inventory may concentrate millions in compact format.
+- **High value concentration.** A specialty wine merchant with strong inventory may hold SGD 1-5 million in stock at landed cost; retail value materially higher. Specialty whisky retailer with allocated bottlings or aged inventory may concentrate millions in compact format.
 - **Specialty bottlings and allocations.** Limited-allocation bottlings (specific wine vintages from prestigious producers, single-cask whisky releases) carry replacement-difficulty premiums beyond market price.
 - **Aged inventory.** Cellared stock matures and appreciates; declared values must reflect current market values, not historical purchase costs.
 - **Vintage rarity.** Specific vintages may not be replaceable at any price; stock cover may include "agreed value" provisions for specific high-value items.
@@ -54,13 +54,13 @@ Stock cover must address:
 - Temperature excursion (loss of refrigeration / climate control damages wine specifically)
 - Breakage (handling, customer-related, transport)
 
-**Property / Fire** — covers building fixtures, fit-out, climate-control equipment (which is critical for wine retailers), shelving, counters, POS equipment.
+**Property / Fire** - covers building fixtures, fit-out, climate-control equipment (which is critical for wine retailers), shelving, counters, POS equipment.
 
-**Theft / Burglary cover** — specific cover provisions for high-value-stock scenarios. Some carriers require alarm systems, safe-room provisions, security camera coverage as conditions of cover. Sub-limits per item and aggregate limits per incident matter.
+**Theft / Burglary cover** - specific cover provisions for high-value-stock scenarios. Some carriers require alarm systems, safe-room provisions, security camera coverage as conditions of cover. Sub-limits per item and aggregate limits per incident matter.
 
-**Public Liability** — covers premises liability and any tasting / consumption events. If consumption on premise is licensed, alcohol-service-related claims attach.
+**Public Liability** - covers premises liability and any tasting / consumption events. If consumption on premise is licensed, alcohol-service-related claims attach.
 
-**Liquor Liability** — specific cover for sale-related claims:
+**Liquor Liability** - specific cover for sale-related claims:
 - Sale to minor and consequential injury
 - Over-service to intoxicated person and consequential third-party harm
 - Counterfeit / contaminated product sale
@@ -68,7 +68,7 @@ Stock cover must address:
 
 Standard PL may exclude or limit alcohol-related liability; Liquor Liability endorsement or standalone cover responds.
 
-**Marine Cargo / Transit** — for inbound stock movement. Specialty wines are sensitive cargo:
+**Marine Cargo / Transit** - for inbound stock movement. Specialty wines are sensitive cargo:
 - Container heat exposure during shipping
 - Handling damage
 - Theft during transit
@@ -76,13 +76,13 @@ Standard PL may exclude or limit alcohol-related liability; Liquor Liability end
 
 [ICC (A) clauses](https://iumi.com/) typically apply with specific provisions for wine cargo. Reefer (refrigerated) container shipping has specific breakdown cover considerations.
 
-**Business Interruption** — covers revenue loss following property loss. Indemnity period considerations: stock replacement timelines for specialty wines can be long (specific vintages may not be available at any price); BI period should reflect realistic re-stocking timeline.
+**Business Interruption** - covers revenue loss following property loss. Indemnity period considerations: stock replacement timelines for specialty wines can be long (specific vintages may not be available at any price); BI period should reflect realistic re-stocking timeline.
 
-**WICA** — for employees: store staff, sommelier, warehouse staff, delivery staff.
+**WICA** - for employees: store staff, sommelier, warehouse staff, delivery staff.
 
-**Cyber / PDPA cover** — for customer data, online retail platform, payment systems.
+**Cyber / PDPA cover** - for customer data, online retail platform, payment systems.
 
-**Crime / Fidelity Guarantee** — for employee theft. Specialty alcohol retail is meaningfully exposed to employee theft given product portability and value.
+**Crime / Fidelity Guarantee** - for employee theft. Specialty alcohol retail is meaningfully exposed to employee theft given product portability and value.
 
 #### The stock value declaration question
 
@@ -176,7 +176,7 @@ Standard retail PL / Stock cover may not extend to cross-border-shipment scenari
 
 ### What This Means for Your Business
 
-For a typical Singapore specialty alcohol retailer — single location, mixed retail and tasting, online order channel:
+For a typical Singapore specialty alcohol retailer - single location, mixed retail and tasting, online order channel:
 
 1. **Confirm liquor licence scope aligned with operations.** Retail vs. retail-plus-consumption distinction.
 
@@ -198,7 +198,7 @@ For a typical Singapore specialty alcohol retailer — single location, mixed re
 
 10. **Cyber / PDPA cover for customer data and online operations.**
 
-The cost of properly structured specialty alcohol retailer insurance varies significantly with stock value: a moderate retailer with SGD 1 million stock might pay SGD 12,000–25,000 annually; a major specialty cellar with SGD 5+ million stock concentration substantially more. The cost of a single major incident — burglary loss of allocated whisky cellar, temperature-excursion damage to vintage wine inventory, sale-to-minor liability claim — typically exceeds many years of premium.
+The cost of properly structured specialty alcohol retailer insurance varies significantly with stock value: a moderate retailer with SGD 1 million stock might pay SGD 12,000-25,000 annually; a major specialty cellar with SGD 5+ million stock concentration substantially more. The cost of a single major incident - burglary loss of allocated whisky cellar, temperature-excursion damage to vintage wine inventory, sale-to-minor liability claim - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

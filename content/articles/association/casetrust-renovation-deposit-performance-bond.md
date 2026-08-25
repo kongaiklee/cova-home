@@ -39,7 +39,7 @@ The bond is the financial backstop. The deposit cap is the structural backstop. 
 
 Per [CaseTrust's published FAQ](https://www.case.org.sg/casetrust/helpie_faq/how-do-i-purchase-the-insurance-for-renovation-businesses/): "CaseTrust will connect you with bolttech Insurance Brokers Pte Ltd to apply for insurance, after your business completes the assessment stage. Should you require general advice on insurance matters, you may contact bolttech Insurance Brokers Pte Ltd at: 6535 1828 broker-core@bolttech.sg."
 
-bolttech is the appointed broker. The actual underwriter is the insurance company that issues the bond — verified with bolttech at the time of application. Per [CaseTrust FAQ](https://www.case.org.sg/casetrust/faq/), full NRIC numbers are required from homeowners because the bond is issued in the homeowner's name, in line with PDPC guidelines.
+bolttech is the appointed broker. The actual underwriter is the insurance company that issues the bond - verified with bolttech at the time of application. Per [CaseTrust FAQ](https://www.case.org.sg/casetrust/faq/), full NRIC numbers are required from homeowners because the bond is issued in the homeowner's name, in line with PDPC guidelines.
 
 #### How the mechanism works
 
@@ -48,7 +48,7 @@ Per [RCMA's published explainer of the bond mechanism](https://media-group.com.s
 - A master policy is issued to the renovation business
 - An approved limit is set in a customised system the operator accesses
 - The operator issues a certificate to **all customers** who paid a deposit
-- The limit is on a drawdown basis — once a deposit is logged, it draws down the operator's available bond capacity
+- The limit is on a drawdown basis - once a deposit is logged, it draws down the operator's available bond capacity
 - The operator must top up the limit as it runs low
 - Operators cannot generate certificates if there is insufficient limit
 - On insolvency, compulsory liquidation or bankruptcy of the renovation firm, the consumer can call for compensation for the un-utilised deposit
@@ -58,7 +58,7 @@ Per [RCMA's published explainer of the bond mechanism](https://media-group.com.s
 
 Per case.org.sg directly, the bond protects **deposits**. It is not a workmanship warranty, not a defects liability bond, and not a contractor's all-risk policy. Once the firm starts work and collects milestone payments, those subsequent payments fall outside the bond's deposit-protection scope. Disputes about quality, delays, or scope go to CASE mediation or, failing that, the Small Claims Tribunal or the State Courts.
 
-Cumulative scheme exposure is significant: per the [2022 CASE update](https://www.case.org.sg/casetrust/affected-by-spa-closures-collect-your-insurance-payouts-if-you-have-prepayments-with-any-of-these-28-casetrusted-spas/) (referencing the structurally analogous spa scheme), "The cumulative amount of prepayments protected since the introduction of the prepayment protection feature in the scheme stands at more than $263 million" — evidence the master-policy mechanism does process payouts at scale when required.
+Cumulative scheme exposure is significant: per the [2022 CASE update](https://www.case.org.sg/casetrust/affected-by-spa-closures-collect-your-insurance-payouts-if-you-have-prepayments-with-any-of-these-28-casetrusted-spas/) (referencing the structurally analogous spa scheme), "The cumulative amount of prepayments protected since the introduction of the prepayment protection feature in the scheme stands at more than $263 million" - evidence the master-policy mechanism does process payouts at scale when required.
 
 #### A note on S$ figures
 
@@ -82,16 +82,16 @@ Companies typically need to consider, separately: project-related Public Liabili
 
 ### Questions to Ask Your Adviser
 
-1. "What's the current deposit performance bond cap for a firm at my paid-up capital level — and what does bolttech's standard wording include?"
-2. "If a homeowner pays a 20% deposit by PayNow, when is the bond certificate triggered — at receipt or at contract signature?"
-3. "I have both renovation and spa wellness arms — do I need separate bond schemes under CaseTrust?"
+1. "What's the current deposit performance bond cap for a firm at my paid-up capital level - and what does bolttech's standard wording include?"
+2. "If a homeowner pays a 20% deposit by PayNow, when is the bond certificate triggered - at receipt or at contract signature?"
+3. "I have both renovation and spa wellness arms - do I need separate bond schemes under CaseTrust?"
 4. "What's the difference between the CaseTrust-only bond and the CaseTrust-RCMA Joint Accreditation bond from a coverage perspective?"
-5. "If I close down, what happens to the master policy — is there a tail period for outstanding consumer claims?"
+5. "If I close down, what happens to the master policy - is there a tail period for outstanding consumer claims?"
 
 ### Related Information
 
-- [CaseTrust Spa & Wellness — Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)
-- [BCA Builders Licensing Scheme — Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
+- [CaseTrust Spa & Wellness - Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)
+- [BCA Builders Licensing Scheme - Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
 - [SCAL SLOTS Application: Insurance Requirements](/licensing/scal-slots-application-insurance-requirements)
 
 ---

@@ -20,7 +20,7 @@ og_description: "WICA cover (mandatory under WICA 2019 Section 24) and Common-La
 
 > **The Answer in 60 Seconds**
 >
-> WICA cover (mandatory under [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019)) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance components that together address Singapore employer workplace injury exposure. **WICA cover** responds to compensation under the WICA framework — capped at statutory limits (currently S$269k death, S$346k total PI, S$53k medical per [1 November 2025 increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). It must be procured from one of the [24 designated insurers](https://www.mom.gov.sg/) (see [Article 169](/comparison/wica-designated-insurer-panel)) and is criminally enforced. **CW/EL extension** responds to common-law negligence claims by employees against employers — claims for damages exceeding WICA caps where employer negligence is established. The extension is operationally essential because the gap between WICA caps (S$346k) and actual claim values for severe injuries (often S$500k-S$2M+) is substantial. The two work together: WICA handles the statutory compensation; CW/EL handles the common-law gap. For Singapore SMEs, both components are typically procured as a single package from the same designated insurer.
+> WICA cover (mandatory under [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019)) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance components that together address Singapore employer workplace injury exposure. **WICA cover** responds to compensation under the WICA framework - capped at statutory limits (currently S$269k death, S$346k total PI, S$53k medical per [1 November 2025 increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). It must be procured from one of the [24 designated insurers](https://www.mom.gov.sg/) (see [Article 169](/comparison/wica-designated-insurer-panel)) and is criminally enforced. **CW/EL extension** responds to common-law negligence claims by employees against employers - claims for damages exceeding WICA caps where employer negligence is established. The extension is operationally essential because the gap between WICA caps (S$346k) and actual claim values for severe injuries (often S$500k-S$2M+) is substantial. The two work together: WICA handles the statutory compensation; CW/EL handles the common-law gap. For Singapore SMEs, both components are typically procured as a single package from the same designated insurer.
 
 ### The Sourced Detail
 
@@ -28,7 +28,7 @@ The combination of WICA cover and CW/EL extension addresses the integrated workp
 
 #### The WICA cover component
 
-**Scope.** WICA cover responds to the employer's liability under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). The WICA framework is no-fault — employees don't need to prove employer negligence to claim compensation; the Act provides a statutory compensation framework regardless of fault.
+**Scope.** WICA cover responds to the employer's liability under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). The WICA framework is no-fault - employees don't need to prove employer negligence to claim compensation; the Act provides a statutory compensation framework regardless of fault.
 
 **Compensation framework (effective 1 November 2025):**
 
@@ -84,11 +84,11 @@ CW/EL responds to:
 - Specific medical costs beyond WICA framework
 - Specific other heads of damages per common law
 
-The combination matters because severe injuries (e.g. permanent disability with substantial earning capacity loss) commonly produce common-law claims of S$1M-S$2M+ — substantially exceeding WICA's S$346k cap. Without CW/EL extension, the employer faces direct exposure for the gap.
+The combination matters because severe injuries (e.g. permanent disability with substantial earning capacity loss) commonly produce common-law claims of S$1M-S$2M+ - substantially exceeding WICA's S$346k cap. Without CW/EL extension, the employer faces direct exposure for the gap.
 
 #### How they coordinate at claim time
 
-**Initial response — WICA framework.**
+**Initial response - WICA framework.**
 
 When a workplace injury occurs:
 

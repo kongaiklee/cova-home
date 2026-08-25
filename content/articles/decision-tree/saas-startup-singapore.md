@@ -1,5 +1,5 @@
 ---
-title: "SME Startup Decision Tree: SaaS Startup — Foundational Insurance Procurement"
+title: "SME Startup Decision Tree: SaaS Startup - Foundational Insurance Procurement"
 slug: "/decision-tree/saas-startup-singapore"
 category: "decision-tree"
 intent: "make-the-call"
@@ -14,7 +14,7 @@ status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/decision-tree/saas-startup-singapore"
 meta_description: "Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer..."
-og_title: "SME Startup Decision Tree: SaaS Startup — Foundational Insurance Procurement"
+og_title: "SME Startup Decision Tree: SaaS Startup - Foundational Insurance Procurement"
 og_description: "Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer..."
 ---
 
@@ -30,15 +30,15 @@ SaaS represents a substantial Singapore SME startup vertical, supported by Singa
 
 The first decision point distinguishes customer commercial scope.
 
-**SMB customer base** — operator serves SME customers with commercial conventions. Operational scope considerations including specific MSA / SLA discipline, operational considerations. Lower individual claim quantum but specific aggregate commercial scope.
+**SMB customer base** - operator serves SME customers with commercial conventions. Operational scope considerations including specific MSA / SLA discipline, operational considerations. Lower individual claim quantum but specific aggregate commercial scope.
 
-**Mid-market customer base** — operator serves mid-market customers with commercial conventions. Considerations on MSA / SLA negotiation, operational Cyber Liability and Tech E&O scope, operational scope.
+**Mid-market customer base** - operator serves mid-market customers with commercial conventions. Considerations on MSA / SLA negotiation, operational Cyber Liability and Tech E&O scope, operational scope.
 
-**Enterprise customer base** — operator serves enterprise customers with commercial conventions. Considerations on enterprise commercial relationships, substantial Cyber Liability and Tech E&O scope (typical enterprise contracts require specific minimum insurance evidence), commercial relationships scope.
+**Enterprise customer base** - operator serves enterprise customers with commercial conventions. Considerations on enterprise commercial relationships, substantial Cyber Liability and Tech E&O scope (typical enterprise contracts require specific minimum insurance evidence), commercial relationships scope.
 
-**Consumer-facing (B2C) base** — operator serves consumer customers. Specific consumer protection scope under [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), specific privacy scope, operational scope.
+**Consumer-facing (B2C) base** - operator serves consumer customers. Specific consumer protection scope under [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), specific privacy scope, operational scope.
 
-**Mixed customer base** — operator serves mixed customer profile. Considerations on varied commercial scope.
+**Mixed customer base** - operator serves mixed customer profile. Considerations on varied commercial scope.
 
 For each customer base, specific Cyber Liability and Tech E&O / PI scope matters. Enterprise customer commercial scope typically drives substantial limits requirements.
 
@@ -46,67 +46,67 @@ For each customer base, specific Cyber Liability and Tech E&O / PI scope matters
 
 The second decision point distinguishes data scope.
 
-**Limited data scope** — operator processes limited customer data, operational scope. Foundational Cyber Liability scope.
+**Limited data scope** - operator processes limited customer data, operational scope. Foundational Cyber Liability scope.
 
-**Substantial data scope** — operator processes substantive customer data including personal data, payment scope (where applicable), operational scope. Substantial Cyber Liability scope.
+**Substantial data scope** - operator processes substantive customer data including personal data, payment scope (where applicable), operational scope. Substantial Cyber Liability scope.
 
-**Sensitive data scope** — operator processes sensitive data scope including health data (HIPAA-equivalent scope where US customers), financial data (operational scope), operational other sensitive data. Substantial Cyber Liability scope with specific provisions.
+**Sensitive data scope** - operator processes sensitive data scope including health data (HIPAA-equivalent scope where US customers), financial data (operational scope), operational other sensitive data. Substantial Cyber Liability scope with specific provisions.
 
-**Critical infrastructure-adjacent scope** — operator's commercial scope intersects with [Critical Information Infrastructure (CII) Act framework](https://sso.agc.gov.sg/Act/CA2018) under operational scope. Considerations on CSA 2024 framework.
+**Critical infrastructure-adjacent scope** - operator's commercial scope intersects with [Critical Information Infrastructure (CII) Act framework](https://sso.agc.gov.sg/Act/CA2018) under operational scope. Considerations on CSA 2024 framework.
 
 #### Decision Point 3: Operational geographic scope
 
 The third decision point distinguishes operational geographic scope.
 
-**Singapore-only commercial scope** — primarily Singapore commercial scope. Specific [PDPA](https://www.pdpc.gov.sg/) scope.
+**Singapore-only commercial scope** - primarily Singapore commercial scope. Specific [PDPA](https://www.pdpc.gov.sg/) scope.
 
-**ASEAN regional commercial scope** — operator serves regional commercial scope. Specific multi-jurisdictional data protection framework variation.
+**ASEAN regional commercial scope** - operator serves regional commercial scope. Specific multi-jurisdictional data protection framework variation.
 
-**Global commercial scope** — operator serves global commercial scope. Specific multi-jurisdictional regulatory framework including [GDPR](https://gdpr.eu/), [CCPA](https://www.oag.ca.gov/privacy/ccpa), [PIPL](http://www.gov.cn/), specific other frameworks.
+**Global commercial scope** - operator serves global commercial scope. Specific multi-jurisdictional regulatory framework including [GDPR](https://gdpr.eu/), [CCPA](https://www.oag.ca.gov/privacy/ccpa), [PIPL](http://www.gov.cn/), specific other frameworks.
 
-**US-customer-significant commercial scope** — operator has substantive US customer base. Specific US data protection framework scope (state-by-state), specific [HIPAA](https://www.hhs.gov/) where applicable, operational other commercial scope.
+**US-customer-significant commercial scope** - operator has substantive US customer base. Specific US data protection framework scope (state-by-state), specific [HIPAA](https://www.hhs.gov/) where applicable, operational other commercial scope.
 
 #### Decision Point 4: Service-level commitment scope
 
 The fourth decision point distinguishes service-level commitment scope.
 
-**Standard SLA scope** — operator commits to specific uptime, response time, operational operational scope under commercial standards. Specific Tech E&O scope addresses SLA breach scenarios.
+**Standard SLA scope** - operator commits to specific uptime, response time, operational operational scope under commercial standards. Specific Tech E&O scope addresses SLA breach scenarios.
 
-**Enhanced SLA scope** — operator commits to specific elevated SLA scope. Substantial Tech E&O / PI scope matters substantially.
+**Enhanced SLA scope** - operator commits to specific elevated SLA scope. Substantial Tech E&O / PI scope matters substantially.
 
-**Mission-critical SLA scope** — operator's services are mission-critical for customer operations. Considerations on substantial Tech E&O / PI scope and operational scope.
+**Mission-critical SLA scope** - operator's services are mission-critical for customer operations. Considerations on substantial Tech E&O / PI scope and operational scope.
 
 #### Decision Point 5: Funding and investor commercial scope
 
 The fifth decision point distinguishes investor commercial scope.
 
-**Bootstrap / founder-funded** — minimal D&O scope considerations. Foundational D&O for incorporated structure.
+**Bootstrap / founder-funded** - minimal D&O scope considerations. Foundational D&O for incorporated structure.
 
-**Angel-funded** — specific investor commercial relationships create specific D&O considerations.
+**Angel-funded** - specific investor commercial relationships create specific D&O considerations.
 
-**Series A+ VC-funded** — substantive investor commercial relationships create specific D&O considerations. Framework for investor commercial relationships, specific board commercial scope, considerations on D&O scope. Typical D&O limits S$3M-S$10M+ for substantive scope.
+**Series A+ VC-funded** - substantive investor commercial relationships create specific D&O considerations. Framework for investor commercial relationships, specific board commercial scope, considerations on D&O scope. Typical D&O limits S$3M-S$10M+ for substantive scope.
 
-**Pre-IPO / IPO-track** — considerations on D&O including IPO-specific scope and operational commercial relationships.
+**Pre-IPO / IPO-track** - considerations on D&O including IPO-specific scope and operational commercial relationships.
 
 #### Foundational Cover Architecture
 
 For Singapore SaaS startup SMEs, foundational cover stack scales with operational scope.
 
-**Cyber Liability** — foundational across all SaaS operations. Specific provisions covering first-party scope (own data breach response, business interruption, ransomware), third-party scope (customer data breach liability, regulatory penalties, defence costs), operational scope. Limits scale substantially with customer commercial scope and data scope.
+**Cyber Liability** - foundational across all SaaS operations. Specific provisions covering first-party scope (own data breach response, business interruption, ransomware), third-party scope (customer data breach liability, regulatory penalties, defence costs), operational scope. Limits scale substantially with customer commercial scope and data scope.
 
-**Technology Errors & Omissions / Professional Indemnity** — foundational covering software defects, SLA breach scenarios, specific advisory scope. Considerations on scope coordination with Cyber Liability.
+**Technology Errors & Omissions / Professional Indemnity** - foundational covering software defects, SLA breach scenarios, specific advisory scope. Considerations on scope coordination with Cyber Liability.
 
-**Public Liability** — for premises and operational scope.
+**Public Liability** - for premises and operational scope.
 
-**D&O cover** — for incorporated structures with substantial limits reflecting investor commercial scope.
+**D&O cover** - for incorporated structures with substantial limits reflecting investor commercial scope.
 
-**EPL cover** — addressing employment relationships, particularly relevant for technology employee scope and operational scope.
+**EPL cover** - addressing employment relationships, particularly relevant for technology employee scope and operational scope.
 
-**Property/Fire** — for premises and equipment scope.
+**Property/Fire** - for premises and equipment scope.
 
-**BI cover** — for operational disruption.
+**BI cover** - for operational disruption.
 
-**Commercial Crime** — for substantive operational scope.
+**Commercial Crime** - for substantive operational scope.
 
 **Specific Crime / Specie cover for cryptocurrency holdings** where applicable.
 
@@ -122,7 +122,7 @@ Specific software defect scenarios engage Tech E&O / PI scope.
 
 Specific SLA breach scenarios engage Tech E&O / PI and operational scope.
 
-Specific D&O scenarios engage D&O cover — investor disputes, regulatory engagement, operational scope.
+Specific D&O scenarios engage D&O cover - investor disputes, regulatory engagement, operational scope.
 
 Specific employment scenarios engage EPL.
 

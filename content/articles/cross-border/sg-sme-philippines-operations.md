@@ -20,7 +20,7 @@ og_description: "Singapore SMEs operating in the Philippines through subsidiary,
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in the Philippines through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered by the [Insurance Commission Philippines (IC)](https://www.insurance.gov.ph/). The Philippines operates an admitted market — insurance covering Philippine risks must generally be placed with IC-authorised insurers, with limited reinsurance frameworks. Mandatory schemes include Social Security System (SSS), PhilHealth (national health insurance), and Pag-IBIG Fund (housing development), with Workers' Compensation under the Employees' Compensation Program. Specific [Securities and Exchange Commission (SEC)](https://www.sec.gov.ph/) corporate framework, [Data Privacy Act 2012](https://www.privacy.gov.ph/) under the National Privacy Commission, and specific [Bureau of Internal Revenue (BIR)](https://www.bir.gov.ph/) tax compliance create substantial operational sophistication considerations. Framework for Manila / Metro Manila operations, Cebu, Davao, and specific provincial commercial scope.
+> Singapore SMEs operating in the Philippines through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered by the [Insurance Commission Philippines (IC)](https://www.insurance.gov.ph/). The Philippines operates an admitted market - insurance covering Philippine risks must generally be placed with IC-authorised insurers, with limited reinsurance frameworks. Mandatory schemes include Social Security System (SSS), PhilHealth (national health insurance), and Pag-IBIG Fund (housing development), with Workers' Compensation under the Employees' Compensation Program. Specific [Securities and Exchange Commission (SEC)](https://www.sec.gov.ph/) corporate framework, [Data Privacy Act 2012](https://www.privacy.gov.ph/) under the National Privacy Commission, and specific [Bureau of Internal Revenue (BIR)](https://www.bir.gov.ph/) tax compliance create substantial operational sophistication considerations. Framework for Manila / Metro Manila operations, Cebu, Davao, and specific provincial commercial scope.
 
 ### The Sourced Detail
 
@@ -30,7 +30,7 @@ Philippine operations represent substantial commercial opportunity for Singapore
 
 Philippine insurance operations sit within the [Insurance Code](https://www.insurance.gov.ph/) framework administered by the [Insurance Commission (IC)](https://www.insurance.gov.ph/). Specific frameworks include:
 
-The Philippine market is substantively admitted — insurance covering Philippine risks must generally be placed with IC-authorised insurers. Specific exceptions exist for specific reinsurance arrangements and operational scope.
+The Philippine market is substantively admitted - insurance covering Philippine risks must generally be placed with IC-authorised insurers. Specific exceptions exist for specific reinsurance arrangements and operational scope.
 
 Commercial relationships with major Philippine insurers (PhilamLife, Pioneer, FPG Insurance, Standard Insurance, BPI/MS, AXA Philippines, specific other Philippine insurers) and Philippine commercial brokers matter substantially.
 
@@ -40,7 +40,7 @@ For Singapore SMEs, Philippine subsidiary / branch operations require Philippine
 
 The Philippines mandates several social benefit and insurance frameworks affecting commercial operations.
 
-**Social Security System (SSS)** under [Republic Act 11199](https://www.sss.gov.ph/) administered by [SSS](https://www.sss.gov.ph/) covers private sector employees. The total contribution rate rose progressively under the SSS Act of 2018 to 15% from 1 January 2025 — 10% employer + 5% employee. Coverage includes retirement, disability, death, sickness, maternity, unemployment, and funeral benefits.
+**Social Security System (SSS)** under [Republic Act 11199](https://www.sss.gov.ph/) administered by [SSS](https://www.sss.gov.ph/) covers private sector employees. The total contribution rate rose progressively under the SSS Act of 2018 to 15% from 1 January 2025 - 10% employer + 5% employee. Coverage includes retirement, disability, death, sickness, maternity, unemployment, and funeral benefits.
 
 **PhilHealth** under [Republic Act 11223 (Universal Health Care Act)](https://www.philhealth.gov.ph/) administered by [Philippine Health Insurance Corporation](https://www.philhealth.gov.ph/) provides national health insurance. The premium rate rose progressively under the Universal Health Care Act to 5% (split equally between employer and employee), applied to monthly basic salary between a ₱10,000 floor and a ₱100,000 ceiling.
 
@@ -48,7 +48,7 @@ The Philippines mandates several social benefit and insurance frameworks affecti
 
 **Employees' Compensation Program (ECP)** administered by [Employees' Compensation Commission](https://www.ecc.gov.ph/) provides workplace injury and disease benefits. Employer contribution typically ₱10/month or ₱30/month depending on employee monthly salary credit.
 
-**13th Month Pay** under [Presidential Decree 851](https://www.dole.gov.ph/) is mandatory for rank-and-file employees regardless of position or employment status — equivalent to one month's basic salary, payable by 24 December each year.
+**13th Month Pay** under [Presidential Decree 851](https://www.dole.gov.ph/) is mandatory for rank-and-file employees regardless of position or employment status - equivalent to one month's basic salary, payable by 24 December each year.
 
 #### The Corporate Code framework
 

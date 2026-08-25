@@ -20,19 +20,19 @@ og_description: "Singapore prohibits the import, distribution, sale, and offer f
 
 > **The Answer in 60 Seconds**
 >
-> Singapore prohibits the import, distribution, sale, and offer for sale of all imitation tobacco products and electronic vaporisers (vapes / e-cigarettes) under the [Tobacco (Control of Advertisements and Sale) Act 1993](https://sso.agc.gov.sg/Act/TCASA1993) (TCASA) — substantively prohibited since 1 February 2018. Possession and use are also prohibited. The framework is administered by the [Health Sciences Authority (HSA)](https://www.hsa.gov.sg/) with substantial enforcement scope. Tobacco retail (specifically combustible tobacco products) operates under specific licensing framework with operational commercial conventions. For Singapore SMEs, vape retail operations are not legally available; tobacco retail operations require specific HSA Tobacco Retail Licence and operational considerations around regulatory compliance. Foundational insurance for compliant tobacco retail includes Public Liability, Property/Fire, BI cover, Commercial Crime, and standard SME commercial scope, with considerations on regulatory compliance.
+> Singapore prohibits the import, distribution, sale, and offer for sale of all imitation tobacco products and electronic vaporisers (vapes / e-cigarettes) under the [Tobacco (Control of Advertisements and Sale) Act 1993](https://sso.agc.gov.sg/Act/TCASA1993) (TCASA) - substantively prohibited since 1 February 2018. Possession and use are also prohibited. The framework is administered by the [Health Sciences Authority (HSA)](https://www.hsa.gov.sg/) with substantial enforcement scope. Tobacco retail (specifically combustible tobacco products) operates under specific licensing framework with operational commercial conventions. For Singapore SMEs, vape retail operations are not legally available; tobacco retail operations require specific HSA Tobacco Retail Licence and operational considerations around regulatory compliance. Foundational insurance for compliant tobacco retail includes Public Liability, Property/Fire, BI cover, Commercial Crime, and standard SME commercial scope, with considerations on regulatory compliance.
 
 ### The Sourced Detail
 
-The vape and tobacco retail segment in Singapore operates within one of the strictest regulatory frameworks globally for tobacco-adjacent commercial operations. Understanding the framework is foundational — both for compliance with the prohibition framework on vapes and for operating compliant tobacco retail.
+The vape and tobacco retail segment in Singapore operates within one of the strictest regulatory frameworks globally for tobacco-adjacent commercial operations. Understanding the framework is foundational - both for compliance with the prohibition framework on vapes and for operating compliant tobacco retail.
 
 #### The vape prohibition framework
 
 Singapore comprehensively prohibits vapes and e-cigarettes under the [Tobacco (Control of Advertisements and Sale) Act 1993](https://sso.agc.gov.sg/Act/TCASA1993). The prohibition has operational dimensions:
 
-The framework prohibits the import, distribution, sale, and offer for sale of all imitation tobacco products and electronic vaporisers — the import, sale, and distribution prohibition took effect from 1 August 2016. The framework additionally prohibits possession, use, and purchase from 1 February 2018.
+The framework prohibits the import, distribution, sale, and offer for sale of all imitation tobacco products and electronic vaporisers - the import, sale, and distribution prohibition took effect from 1 August 2016. The framework additionally prohibits possession, use, and purchase from 1 February 2018.
 
-Specific penalty framework is substantial — fines up to S$10,000 and imprisonment up to 6 months for first offences (with elevated penalties for subsequent offences) for distribution / import / sale offences. Possession / use offences carry fines up to S$2,000.
+Specific penalty framework is substantial - fines up to S$10,000 and imprisonment up to 6 months for first offences (with elevated penalties for subsequent offences) for distribution / import / sale offences. Possession / use offences carry fines up to S$2,000.
 
 Specific enforcement is sustained. [HSA](https://www.hsa.gov.sg/), [Health Promotion Board (HPB)](https://www.hpb.gov.sg/), and specific other enforcement bodies coordinate enforcement across borders, online platforms, and physical locations.
 
@@ -108,11 +108,11 @@ Commercial dispute scenarios with distributors engage commercial counsel.
 
 Tobacco retail operations involve commercial conventions affecting insurance.
 
-Operational scope evolution. The framework evolves progressively — operational minimum legal age has increased progressively, specific packaging requirements have been introduced, operational other framework evolution. Considerations on regulatory monitoring matters.
+Operational scope evolution. The framework evolves progressively - operational minimum legal age has increased progressively, specific packaging requirements have been introduced, operational other framework evolution. Considerations on regulatory monitoring matters.
 
 Commercial relationships with distributors and operational other commercial parties create commercial framework considerations.
 
-Operational scope relative to other retail categories means operational considerations may not require specialist segment-aware brokers in same way as more specialised segments — but commercial relationships with industry-aware insurers and considerations on regulatory compliance matter.
+Operational scope relative to other retail categories means operational considerations may not require specialist segment-aware brokers in same way as more specialised segments - but commercial relationships with industry-aware insurers and considerations on regulatory compliance matter.
 
 #### Operational considerations
 
@@ -141,7 +141,7 @@ The specific public health framework reasoning includes operational concerns abo
 
 For Singapore SMEs in tobacco retail or considering tobacco-adjacent operations:
 
-Vape retail operations are not legally available in Singapore — the framework prohibition is comprehensive and sustained. Tobacco retail operates under specific Tobacco Retail Licence with substantial regulatory compliance overhead. Foundational insurance for compliant tobacco retail follows standard retail SME architecture with considerations on regulatory compliance, theft considerations, and commercial relationships.
+Vape retail operations are not legally available in Singapore - the framework prohibition is comprehensive and sustained. Tobacco retail operates under specific Tobacco Retail Licence with substantial regulatory compliance overhead. Foundational insurance for compliant tobacco retail follows standard retail SME architecture with considerations on regulatory compliance, theft considerations, and commercial relationships.
 
 For SMEs operating tobacco retail, specific HSA-experienced commercial counsel relationships, commercial relationships with industry-aware insurers, and operational discipline around regulatory compliance form the operational foundation. The progressive regulatory evolution (minimum age increases, packaging requirements, specific other framework evolution) requires specific annual review and operational operational sophistication.
 

@@ -55,7 +55,7 @@ Per [Article 158](/comparison/fire-vs-par-claim-mechanics):
 - Operational operational discipline records
 - Operational operational considerations
 
-#### Stage 1 — Incident occurrence and immediate response
+#### Stage 1 - Incident occurrence and immediate response
 
 **Safety first.**
 
@@ -74,7 +74,7 @@ Per [Article 158](/comparison/fire-vs-par-claim-mechanics):
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 2 — SCDF coordination (for fire incidents)
+#### Stage 2 - SCDF coordination (for fire incidents)
 
 **SCDF response.**
 
@@ -100,7 +100,7 @@ For 36-month FC renewal cycle premises (per [Article 174](/regulatory-change/scd
 - Operational operational discipline demonstration
 - Operational operational considerations
 
-#### Stage 3 — Evidence preservation
+#### Stage 3 - Evidence preservation
 
 **Documentation discipline.**
 
@@ -119,7 +119,7 @@ Per [Article 187](/document-legal/castellian-preston-subrogation) on Castellian 
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 4 — Insurer notification
+#### Stage 4 - Insurer notification
 
 **Notification timing.**
 
@@ -140,7 +140,7 @@ Property/Fire policies typically require notification:
 - Coverage may be affected
 - Operational commercial implications
 
-#### Stage 5 — Adjuster / surveyor appointment
+#### Stage 5 - Adjuster / surveyor appointment
 
 **Adjuster framework.**
 
@@ -158,7 +158,7 @@ For substantive claims:
 - Operational considerations
 - Operational commercial relationships
 
-#### Stage 6 — Damage assessment and quantification
+#### Stage 6 - Damage assessment and quantification
 
 **Assessment scope.**
 
@@ -185,7 +185,7 @@ For different policy bases:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 7 — Salvage / mitigation actions
+#### Stage 7 - Salvage / mitigation actions
 
 **Salvage considerations.**
 
@@ -203,7 +203,7 @@ The insured has duty to mitigate:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 8 — BI claim coordination
+#### Stage 8 - BI claim coordination
 
 For claims involving BI (per [Article 159](/comparison/bi-vs-cbi-worked-example)):
 
@@ -226,7 +226,7 @@ Per [Article 195](/comparison/bi-deductible-structures):
 - Operational specific Civil Authority extension
 - Operational specific Contingent BI
 
-#### Stage 9 — Specific subrogation framework
+#### Stage 9 - Specific subrogation framework
 
 For incidents potentially involving third-party fault:
 
@@ -246,7 +246,7 @@ Per [Article 187](/document-legal/castellian-preston-subrogation):
 - Operational neighbor / third-party fault
 - Operational operational considerations
 
-#### Stage 10 — Reinstatement / replacement
+#### Stage 10 - Reinstatement / replacement
 
 **Reinstatement framework.**
 
@@ -268,7 +268,7 @@ For most claims:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 11 — Claim payment
+#### Stage 11 - Claim payment
 
 **Payment process.**
 

@@ -20,11 +20,11 @@ og_description: "Per Section 31 of the Work Injury Compensation Act 2019 (Design
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 31 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), only **insurers designated by the Commissioner for Workplace Safety and Health (MOM)** may issue WICA-approved policies. The current designated insurer list (dated 1 January 2026) contains **24 insurers for employers** and **6 for platform operators** (separate list dated 26 December 2024). Designation requires meeting specific operational, financial, and claims-handling standards. Designated insurers are obligated to **process all WICA claims** under their issued policies, share claims data with MOM, and comply with the MOM-approved policy wording. The designation framework exists to ensure injured workers receive consistent, prompt compensation regardless of insurer choice. Buying WICA from a non-designated insurer is **non-compliance** under [Section 24](https://sso.agc.gov.sg/Act/WICA2019) (Employer must be insured against liabilities under Act) — the policy is not WICA-compliant and the employer remains exposed to [Section 25](https://sso.agc.gov.sg/Act/WICA2019) offence under [Article 67](/document-legal/wica-section-25-offence).
+> Per [Section 31 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), only **insurers designated by the Commissioner for Workplace Safety and Health (MOM)** may issue WICA-approved policies. The current designated insurer list (dated 1 January 2026) contains **24 insurers for employers** and **6 for platform operators** (separate list dated 26 December 2024). Designation requires meeting specific operational, financial, and claims-handling standards. Designated insurers are obligated to **process all WICA claims** under their issued policies, share claims data with MOM, and comply with the MOM-approved policy wording. The designation framework exists to ensure injured workers receive consistent, prompt compensation regardless of insurer choice. Buying WICA from a non-designated insurer is **non-compliance** under [Section 24](https://sso.agc.gov.sg/Act/WICA2019) (Employer must be insured against liabilities under Act) - the policy is not WICA-compliant and the employer remains exposed to [Section 25](https://sso.agc.gov.sg/Act/WICA2019) offence under [Article 67](/document-legal/wica-section-25-offence).
 
 ### The Sourced Detail
 
-The designated insurer framework is one of the most distinctive features of Singapore's WICA regime — it ensures injured workers receive consistent treatment by limiting WICA insurance to a curated panel of insurers operating under specific obligations. For employers, the practical effect is constraint on insurer choice (only the designated list) but the strategic effect is regulatory clarity and operational consistency.
+The designated insurer framework is one of the most distinctive features of Singapore's WICA regime - it ensures injured workers receive consistent treatment by limiting WICA insurance to a curated panel of insurers operating under specific obligations. For employers, the practical effect is constraint on insurer choice (only the designated list) but the strategic effect is regulatory clarity and operational consistency.
 
 #### What "designated insurer" means under WICA
 
@@ -94,7 +94,7 @@ Becoming and remaining a designated insurer requires meeting MOM's operational s
 The standard WICA policy wording is prescribed by MOM. All designated insurers issue policies in this standard form, ensuring consistency for employers and workers.
 
 **2. Process all WICA claims under their issued policies.**
-Per [Section 32 of WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Obligations of designated insurer), designated insurers are obligated to process WICA claims — they cannot decline to handle claims under policies they've issued (subject to coverage disputes on specific facts).
+Per [Section 32 of WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Obligations of designated insurer), designated insurers are obligated to process WICA claims - they cannot decline to handle claims under policies they've issued (subject to coverage disputes on specific facts).
 
 **3. Calculate compensation per the WICA schedule.**
 For policies issued from 1 January 2021, designated insurers calculate compensation under the statutory schedule and issue a Notice of Computation (NOC). For older policies, MOM calculates and issues a Notice of Assessment (NOA).
@@ -143,9 +143,9 @@ MOM may add or remove insurers from the list. Historical pattern:
 
 For employers, the practical implication: at renewal, verify that your insurer is still on the current list. A change could affect your placement options.
 
-#### Common-Law extension — separate consideration
+#### Common-Law extension - separate consideration
 
-The MOM-approved WICA policy provides the statutory cover. **Common-Law / Employer's Liability extension** is *separate* — not part of the standard WICA wording, and not all designated insurers offer it as standard.
+The MOM-approved WICA policy provides the statutory cover. **Common-Law / Employer's Liability extension** is *separate* - not part of the standard WICA wording, and not all designated insurers offer it as standard.
 
 Per [MOM's summary of the regulatory regime for WIC insurers under WICA 2019](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2020/0807-annex-a-summary-of-regulatory-regime-for-wic-insurers-under-wica-2019.pdf), Common-Law Coverage is not part of the MOM Approved Wording. Insurers may offer Common Law Coverage as a separate policy or in addition to the MOM Approved Wording.
 
@@ -154,9 +154,9 @@ This matters because:
 - Common-law negligence claims by injured workers can exceed these limits
 - Without Common-Law extension, the employer is exposed to common-law damages above WICA
 
-For employers in higher-risk industries (construction, marine, manufacturing), Common-Law extension is typically essential — see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
+For employers in higher-risk industries (construction, marine, manufacturing), Common-Law extension is typically essential - see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
 
-#### Foreign Worker Medical Insurance — separate but related
+#### Foreign Worker Medical Insurance - separate but related
 
 [Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/sector-specific-rules/insurance-requirements) is mandatory for Work Permit holders and S Pass holders, separate from WICA. Many designated WICA insurers also offer FWMI, often bundled at renewal.
 
@@ -192,7 +192,7 @@ The designated insurer framework affects the WICA insurance market:
 **For employers:**
 - Insurer choice constrained but quality ensured
 - Premium variation across the 24 reflects underwriting differences
-- Service quality varies — broker advice useful
+- Service quality varies - broker advice useful
 
 #### How to verify designation status
 
@@ -200,13 +200,13 @@ Before binding any WICA policy:
 
 1. **Check the [MOM Designated Insurer page](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer)** for current list with effective date
 
-2. **Verify insurer name exactly** — exact legal entity name matters (e.g. "Allianz Insurance Singapore" not "Allianz Group")
+2. **Verify insurer name exactly** - exact legal entity name matters (e.g. "Allianz Insurance Singapore" not "Allianz Group")
 
-3. **Confirm list applies to your context** — employer list vs platform operator list
+3. **Confirm list applies to your context** - employer list vs platform operator list
 
-4. **Note effective date of list** — designation can change
+4. **Note effective date of list** - designation can change
 
-5. **For renewals — re-check at each renewal** — insurer designation is not permanent
+5. **For renewals - re-check at each renewal** - insurer designation is not permanent
 
 #### What happens if your insurer leaves the list
 
@@ -217,7 +217,7 @@ If an insurer is removed from the designated list:
 - Switching to a remaining designated insurer at renewal is required
 - See [Article 46](/procedural-howto/wica-change-insurer-renewal) on changing WICA insurer
 
-For most employers, this is a non-event — broker handles the transition. For employers with long-term insurer relationships or specialised arrangements, more attention may be needed.
+For most employers, this is a non-event - broker handles the transition. For employers with long-term insurer relationships or specialised arrangements, more attention may be needed.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -226,7 +226,7 @@ For most employers, this is a non-event — broker handles the transition. For e
 3. **Confusing employer designated list with platform operator designated list.** Separate lists, different applications.
 4. **Skipping Common-Law extension because "WICA covers everything."** WICA covers statutory amounts only; common-law exposure is separate.
 5. **Misunderstanding designation as quality endorsement.** Designation means meeting MOM standards; doesn't indicate that any specific insurer is most suitable for your specific situation.
-6. **Not verifying designation before binding.** Trust but verify — broker should but employer is ultimately responsible.
+6. **Not verifying designation before binding.** Trust but verify - broker should but employer is ultimately responsible.
 7. **Bundling WICA with FWMI without scrutiny.** They're separate covers; bundling has trade-offs.
 8. **Renewing with same insurer without market check.** The MOM list provides 24 options; broker should compare across multiple at renewal.
 
@@ -236,11 +236,11 @@ For Singapore employers, the WICA designated insurer framework provides regulato
 
 1. **Verify designation before binding.** Single most important compliance check.
 
-2. **Compare across multiple designated insurers at renewal.** Premium, claims handling, common-law extension, FWMI bundling — all vary.
+2. **Compare across multiple designated insurers at renewal.** Premium, claims handling, common-law extension, FWMI bundling - all vary.
 
 3. **Maintain Common-Law extension at appropriate limits.** Statutory WICA isn't enough for serious incidents.
 
-4. **For platform operators specifically — use the platform operator list.** Different framework applies.
+4. **For platform operators specifically - use the platform operator list.** Different framework applies.
 
 5. **Monitor list changes.** MOM publishes updates; track at least at renewal.
 
@@ -267,4 +267,4 @@ The designated insurer framework reflects a deliberate regulatory choice: ensuri
 
 ---
 
-This batch crosses the 100-article milestone. Article 100 itself returns to the Industry Association category with the BCA Contractors Registration System (CRS) — workheads, tiers, and insurance implications — a foundational reference for any construction-adjacent SME. Articles 101 expands Decision Trees with Halal F&B / catering operations; Article 102 adds another Industry Association anchor with SFA Licensing Tiers (the food retail / production / catering classification framework). Articles 103–104 continue Edge Case with food truck operators and tutoring/enrichment centres for ages 7+ (non-ECDA framework, distinct from Article 95's childcare focus). Articles 105–106 continue Crisis Claim Experience with two regulator-engagement scenarios: receiving an audit notice and receiving notification of a customer complaint filed with a regulator. Articles 107–108 deepen Procedural How-To with two of the most-searched specialised claim types: filing a Professional Indemnity claim and filing a Directors & Officers claim — both claims-made covers with specific timelines and documentation. Article 109 continues Cross-Border with Singapore SME with Indonesian operations (BPJS, OJK, local insurer requirements).
+This batch crosses the 100-article milestone. Article 100 itself returns to the Industry Association category with the BCA Contractors Registration System (CRS) - workheads, tiers, and insurance implications - a foundational reference for any construction-adjacent SME. Articles 101 expands Decision Trees with Halal F&B / catering operations; Article 102 adds another Industry Association anchor with SFA Licensing Tiers (the food retail / production / catering classification framework). Articles 103-104 continue Edge Case with food truck operators and tutoring/enrichment centres for ages 7+ (non-ECDA framework, distinct from Article 95's childcare focus). Articles 105-106 continue Crisis Claim Experience with two regulator-engagement scenarios: receiving an audit notice and receiving notification of a customer complaint filed with a regulator. Articles 107-108 deepen Procedural How-To with two of the most-searched specialised claim types: filing a Professional Indemnity claim and filing a Directors & Officers claim - both claims-made covers with specific timelines and documentation. Article 109 continues Cross-Border with Singapore SME with Indonesian operations (BPJS, OJK, local insurer requirements).

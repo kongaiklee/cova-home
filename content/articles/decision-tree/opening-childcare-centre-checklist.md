@@ -20,7 +20,7 @@ og_description: "A Singapore childcare centre or kindergarten requires ECDA (Ear
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore childcare centre or kindergarten requires **[ECDA (Early Childhood Development Agency)](https://www.ecda.gov.sg/) licensing** under the [Early Childhood Development Centres Act 2017](https://sso.agc.gov.sg/Act/ECDCA2017), which has its own insurance requirements as a licence condition. The insurance build typically includes: **Public Liability** with adequate limits and child-specific coverage (S$3M–S$5M+ commonly required by ECDA), **Professional Indemnity** for educational services, **WICA** for all staff (manual and admin), **Property/Fire** for premises and educational equipment, **Cyber** for child and parent personal data (high PDPA significance for minor data), and **Group Personal Accident** for children attending. Additional considerations: **Foreign Worker Medical Insurance** for any non-Singaporean staff, **Group Travel** for excursions, and rigorous **incident reporting** processes that align with both ECDA requirements and insurance notification obligations.
+> A Singapore childcare centre or kindergarten requires **[ECDA (Early Childhood Development Agency)](https://www.ecda.gov.sg/) licensing** under the [Early Childhood Development Centres Act 2017](https://sso.agc.gov.sg/Act/ECDCA2017), which has its own insurance requirements as a licence condition. The insurance build typically includes: **Public Liability** with adequate limits and child-specific coverage (S$3M-S$5M+ commonly required by ECDA), **Professional Indemnity** for educational services, **WICA** for all staff (manual and admin), **Property/Fire** for premises and educational equipment, **Cyber** for child and parent personal data (high PDPA significance for minor data), and **Group Personal Accident** for children attending. Additional considerations: **Foreign Worker Medical Insurance** for any non-Singaporean staff, **Group Travel** for excursions, and rigorous **incident reporting** processes that align with both ECDA requirements and insurance notification obligations.
 
 ### The Sourced Detail
 
@@ -30,9 +30,9 @@ Childcare centres and kindergartens operate under the most regulated SME framewo
 
 Per the [Early Childhood Development Centres Act 2017](https://sso.agc.gov.sg/Act/ECDCA2017) and ECDA regulations, all centres providing care or education for children below 7 years require licensing. ECDA categories:
 
-- **Childcare centres** — full-day or half-day, infant care to pre-school age
-- **Kindergartens** — typically half-day, ages 3–6
-- **Playgroups** — pre-formal childcare/educational settings
+- **Childcare centres** - full-day or half-day, infant care to pre-school age
+- **Kindergartens** - typically half-day, ages 3-6
+- **Playgroups** - pre-formal childcare/educational settings
 
 Licence categories carry different requirements; the [ECDA licensing portal](https://www.ecda.gov.sg/) documents specifics. Common requirements include:
 
@@ -61,13 +61,13 @@ Singapore courts apply elevated standards of care for child welfare. The duty of
 Outbreaks (HFMD, varicella, gastroenteritis, respiratory infections) affecting multiple children can give rise to multiple parallel claims.
 
 **3. Behavioural incidents.**
-Bites, scratches, falls, scuffles between children — these are common and require careful handling for both child welfare and parent communication.
+Bites, scratches, falls, scuffles between children - these are common and require careful handling for both child welfare and parent communication.
 
 **4. Allergies and dietary issues.**
 Food allergies (peanut, dairy, egg, seafood) require careful management; mistakes can be life-threatening.
 
 **5. Pickup and drop-off vulnerabilities.**
-Custody disputes, unauthorised pickup, child wandering — operational risks at transition points.
+Custody disputes, unauthorised pickup, child wandering - operational risks at transition points.
 
 **6. Photography and image use.**
 PDPA and parent consent for photography, social media, marketing materials.
@@ -86,8 +86,8 @@ Claims for psychological harm to children may surface years after the alleged co
 - Procure insurance per ECDA requirements
 - Premises certified (ECDA inspection, SCDF FSC)
 
-**Year 1 (typical 50–100 children, 5–15 staff):**
-- Public Liability per ECDA minimum (typically S$3M–S$5M)
+**Year 1 (typical 50-100 children, 5-15 staff):**
+- Public Liability per ECDA minimum (typically S$3M-S$5M)
 - Professional Indemnity
 - WICA for all staff
 - Group Personal Accident for children
@@ -96,7 +96,7 @@ Claims for psychological harm to children may surface years after the alleged co
 - Cyber Liability
 - FWMI for any non-Singaporean staff
 
-**Years 2–5 (growth phase):**
+**Years 2-5 (growth phase):**
 - Higher PL/PI limits as enrolment grows
 - D&O for incorporated structures
 - EPL as headcount grows
@@ -124,9 +124,9 @@ PL for childcare centres is the most-claimed line. Standard coverage:
 - Damage to neighbouring property
 
 **Limit considerations:**
-- ECDA minimum (typically S$3M–S$5M)
-- Mall / landlord requirements (often S$3M–S$5M)
-- Realistic exposure for serious child injury can exceed standard SME PL — consider S$5M–S$10M
+- ECDA minimum (typically S$3M-S$5M)
+- Mall / landlord requirements (often S$3M-S$5M)
+- Realistic exposure for serious child injury can exceed standard SME PL - consider S$5M-S$10M
 
 **Policy specific items to confirm:**
 - Children explicitly within "third party" definition
@@ -159,9 +159,9 @@ PI for childcare:
 - Defamation in parent/staff communications
 - Curriculum-related claims
 
-Limits typically S$500k–S$3M depending on enrolment scale and revenue.
+Limits typically S$500k-S$3M depending on enrolment scale and revenue.
 
-#### Cyber Liability — significantly more sensitive than typical SME
+#### Cyber Liability - significantly more sensitive than typical SME
 
 Childcare centres hold:
 - Children's personal data (highly sensitive PDPA category)
@@ -237,12 +237,12 @@ Bus/transport providers should have own commercial vehicle and PL cover; verify.
 
 For a typical Singapore childcare centre:
 
-**Small centre (50–80 children, 8–15 staff):**
-- PL with ECDA-minimum limits: S$3,000–S$10,000
-- PI: S$1,500–S$5,000
-- Group PA for children: S$2,000–S$8,000 (premium scales with enrolment)
-- WICA, Property, BI, Cyber, Group Medical/PA staff: S$8,000–S$25,000
-- **Total annual insurance budget** typically S$15,000–S$50,000
+**Small centre (50-80 children, 8-15 staff):**
+- PL with ECDA-minimum limits: S$3,000-S$10,000
+- PI: S$1,500-S$5,000
+- Group PA for children: S$2,000-S$8,000 (premium scales with enrolment)
+- WICA, Property, BI, Cyber, Group Medical/PA staff: S$8,000-S$25,000
+- **Total annual insurance budget** typically S$15,000-S$50,000
 
 **Larger / multiple centres:**
 - Higher limits, comprehensive programme
@@ -310,7 +310,7 @@ For founders opening a childcare centre or kindergarten in Singapore, insurance 
 
 4. **Run pre-opening tabletop exercise.** Walk through: child injury, allergy emergency, parent complaint escalation, communicable disease outbreak. Test the response infrastructure before opening.
 
-5. **Maintain documentation discipline operationally.** Daily logs, incident reports, staff training records, parent consents — all support both regulatory compliance and claim defence.
+5. **Maintain documentation discipline operationally.** Daily logs, incident reports, staff training records, parent consents - all support both regulatory compliance and claim defence.
 
 6. **Build the parent communication framework.** Most childcare claims start as parent dissatisfaction; effective communication often resolves issues before they become claims.
 
@@ -321,7 +321,7 @@ The childcare sector has one of the highest reputational sensitivity profiles am
 ### Questions to Ask Your Adviser
 
 1. Does my PL specifically cover inter-child incidents, communicable disease, and excursion exposures?
-2. What is the Group PA structure — included in fees, separately purchased by parents, or centre-absorbed?
+2. What is the Group PA structure - included in fees, separately purchased by parents, or centre-absorbed?
 3. For my Cyber Liability, does the policy address PDPA significant-harm category for child data specifically?
 4. As I scale enrolment or open additional centres, what insurance milestones should I plan for?
 5. For ECDA licence renewal, what insurance documentation will the regulator review?

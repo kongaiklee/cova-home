@@ -28,7 +28,7 @@ The phrase "we have an insurance policy" is one of the more dangerous founder be
 
 #### The three mechanics that determine subsidiary cover
 
-**Mechanic 1 — Definition of Insured**
+**Mechanic 1 - Definition of Insured**
 
 Every commercial liability policy defines who counts as an "Insured." Standard Singapore wordings typically include:
 - The named insured (the policy purchaser)
@@ -37,21 +37,21 @@ Every commercial liability policy defines who counts as an "Insured." Standard S
 
 The critical question for cross-border SMEs: does the policy automatically pick up new subsidiaries acquired or formed during the policy year, or does each new subsidiary require an endorsement? Most policies have a hybrid approach: automatic cover for newly formed entities below a stated turnover or asset threshold (e.g. SGD 5 million); endorsement required above the threshold or for entities outside the territorial scope.
 
-**Mechanic 2 — Territorial scope**
+**Mechanic 2 - Territorial scope**
 
 Even if a foreign subsidiary qualifies as an Insured, the policy must cover acts or operations in that jurisdiction. Standard territorial scopes:
 
-- **Singapore only** — acts, operations, premises in Singapore. Most narrow scope.
-- **Singapore + worldwide for Singapore-arising operations** — the subsidiary's local operations are not covered.
-- **Asia-regional** — covers Asian jurisdictions specifically named.
-- **Worldwide excluding USA/Canada** — common for liability policies.
-- **Worldwide** — broadest; typically requires explicit selection and premium uplift.
+- **Singapore only** - acts, operations, premises in Singapore. Most narrow scope.
+- **Singapore + worldwide for Singapore-arising operations** - the subsidiary's local operations are not covered.
+- **Asia-regional** - covers Asian jurisdictions specifically named.
+- **Worldwide excluding USA/Canada** - common for liability policies.
+- **Worldwide** - broadest; typically requires explicit selection and premium uplift.
 
 A subsidiary in Japan whose Japanese-resident director faces a Japanese D&O claim: covered only if territorial scope includes Japan and Japanese law claims. A Singapore-only territorial scope would exclude.
 
-**Mechanic 3 — Admitted insurance requirements**
+**Mechanic 3 - Admitted insurance requirements**
 
-This is the constraint most SMEs underestimate. A host country may legally prohibit "non-admitted" insurance — that is, insurance issued by a foreign insurer not licensed in the host country. The implications:
+This is the constraint most SMEs underestimate. A host country may legally prohibit "non-admitted" insurance - that is, insurance issued by a foreign insurer not licensed in the host country. The implications:
 
 - Even if the Singapore policy says it covers the subsidiary, the host country may not recognise the policy
 - Local courts may not enforce against the Singapore policy
@@ -82,10 +82,10 @@ Country regulators that publish admitted-insurance positions include [Bank Negar
 
 Standard Singapore D&O typically allows subsidiary cover via the definition of Insured. Key endorsement points:
 
-- "Subsidiary" definition — usually 50 percent or 51 percent direct/indirect ownership; some wordings include managed entities or joint ventures
-- Past directors of acquired subsidiaries — covered if "Prior Acts" extension is included
-- Newly acquired subsidiaries — automatic cover up to a stated threshold (often turnover or asset-based); endorsement required above
-- Sold or divested subsidiaries — typically tail cover for prior acts, no go-forward cover
+- "Subsidiary" definition - usually 50 percent or 51 percent direct/indirect ownership; some wordings include managed entities or joint ventures
+- Past directors of acquired subsidiaries - covered if "Prior Acts" extension is included
+- Newly acquired subsidiaries - automatic cover up to a stated threshold (often turnover or asset-based); endorsement required above
+- Sold or divested subsidiaries - typically tail cover for prior acts, no go-forward cover
 
 For Singapore-HQ SMEs with ASEAN subsidiaries, D&O programmes commonly use a Singapore master policy with worldwide territory (excluding specified countries) plus local DIC/DIL policies in countries where local cover is legally required.
 
@@ -130,19 +130,19 @@ Difference-in-conditions / difference-in-limits (DIC/DIL) is a programme structu
 - Common for D&O, Cyber, PI in multinational programmes
 - Less common for Property and PL where admitted-insurance rules are strict
 
-DIC/DIL is sophisticated and not appropriate for early-stage SMEs. The threshold typically begins around SGD 30–50 million combined regional revenue.
+DIC/DIL is sophisticated and not appropriate for early-stage SMEs. The threshold typically begins around SGD 30-50 million combined regional revenue.
 
 #### Acquisition scenarios
 
-**Scenario A — Acquiring a new subsidiary mid-policy.** Most Singapore D&O, PI, and Cyber policies provide automatic cover for newly acquired subsidiaries up to a stated threshold (e.g. assets below SGD 25 million, turnover below SGD 10 million, no US exposure). Above the threshold or with materially different risk profile, written notice to the insurer and an endorsement are required. Failure to notify can void cover from the acquisition date.
+**Scenario A - Acquiring a new subsidiary mid-policy.** Most Singapore D&O, PI, and Cyber policies provide automatic cover for newly acquired subsidiaries up to a stated threshold (e.g. assets below SGD 25 million, turnover below SGD 10 million, no US exposure). Above the threshold or with materially different risk profile, written notice to the insurer and an endorsement are required. Failure to notify can void cover from the acquisition date.
 
-**Scenario B — Subsidiary in a country not in the territorial scope.** Cover does not extend. Either endorse the territorial scope or arrange local cover.
+**Scenario B - Subsidiary in a country not in the territorial scope.** Cover does not extend. Either endorse the territorial scope or arrange local cover.
 
-**Scenario C — Subsidiary in a country requiring admitted insurance.** Even with territorial scope, the Singapore policy may not be enforceable locally. Local cover is typically required for compliance.
+**Scenario C - Subsidiary in a country requiring admitted insurance.** Even with territorial scope, the Singapore policy may not be enforceable locally. Local cover is typically required for compliance.
 
-**Scenario D — Subsidiary in a high-risk regulatory environment (US, EU, Australia).** Premium implications are significant. Most Singapore SME policies require specific country endorsements at material premium uplift.
+**Scenario D - Subsidiary in a high-risk regulatory environment (US, EU, Australia).** Premium implications are significant. Most Singapore SME policies require specific country endorsements at material premium uplift.
 
-**Scenario E — Joint venture rather than subsidiary.** "Subsidiary" definitions typically require majority ownership; JV partners below the threshold are not Insured. Specific JV endorsements are required.
+**Scenario E - Joint venture rather than subsidiary.** "Subsidiary" definitions typically require majority ownership; JV partners below the threshold are not Insured. Specific JV endorsements are required.
 
 #### What founders should establish at policy renewal
 
@@ -183,11 +183,11 @@ For Singapore SMEs with foreign subsidiaries, insurance scope is a structural qu
 
 4. **Notify acquisitions and divestments promptly.** Most policies have specific notification requirements; missing them creates avoidable exposure.
 
-5. **Use DIC/DIL only when scale justifies the complexity.** Below SGD 30–50 million regional revenue, standalone country covers usually work.
+5. **Use DIC/DIL only when scale justifies the complexity.** Below SGD 30-50 million regional revenue, standalone country covers usually work.
 
 6. **Build subsidiary cover into M&A diligence.** The diligence checklist should include "is the target's existing insurance assignable, or do we need to issue cover from day one?"
 
-The cost of getting subsidiary scope wrong is asymmetric. The premium difference between proper structure and weak structure is typically modest. The exposure on a single uncovered subsidiary claim — director defence costs in a foreign jurisdiction, statutory penalty for missed local cover, denial on a property loss — can exceed multiple years of premium savings.
+The cost of getting subsidiary scope wrong is asymmetric. The premium difference between proper structure and weak structure is typically modest. The exposure on a single uncovered subsidiary claim - director defence costs in a foreign jurisdiction, statutory penalty for missed local cover, denial on a property loss - can exceed multiple years of premium savings.
 
 ### Questions to Ask Your Adviser
 

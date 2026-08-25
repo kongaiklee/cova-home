@@ -1,5 +1,5 @@
 ---
-title: "Our Critical Supplier Just Declared Insolvency — What Do I Do Now?"
+title: "Our Critical Supplier Just Declared Insolvency - What Do I Do Now?"
 slug: "/crisis/supplier-insolvency"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,19 +14,19 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/supplier-insolvency"
 meta_description: "First, assess immediate operational impact: which orders are in flight, what stock is available, what alternative suppliers exist, what's the lead time...."
-og_title: "Our Critical Supplier Just Declared Insolvency — What Do I Do Now?"
+og_title: "Our Critical Supplier Just Declared Insolvency - What Do I Do Now?"
 og_description: "First, assess immediate operational impact: which orders are in flight, what stock is available, what alternative suppliers exist, what's the lead time...."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> First, assess immediate operational impact: which orders are in flight, what stock is available, what alternative suppliers exist, what's the lead time. Then in parallel: file as creditor in the supplier's insolvency proceedings (typically through the appointed liquidator or judicial manager — see [Singapore's Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018)), notify your customers of any impact on delivery, engage alternative suppliers urgently, and review insurance options. **Trade Credit insurance** may respond if you had cover protecting accounts receivable from the failed supplier (uncommon for SMEs). **Property/Stock insurance** addresses inventory shortfall in limited scenarios. **Business Interruption** typically only responds to BI from covered insured events at your own premises, **not** from supplier failure — though specific **Contingent Business Interruption (CBI)** extensions exist and may respond. The honest assessment: most supplier insolvency commercial impact is not insurance-coverable. Recovery is operational and contractual.
+> First, assess immediate operational impact: which orders are in flight, what stock is available, what alternative suppliers exist, what's the lead time. Then in parallel: file as creditor in the supplier's insolvency proceedings (typically through the appointed liquidator or judicial manager - see [Singapore's Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018)), notify your customers of any impact on delivery, engage alternative suppliers urgently, and review insurance options. **Trade Credit insurance** may respond if you had cover protecting accounts receivable from the failed supplier (uncommon for SMEs). **Property/Stock insurance** addresses inventory shortfall in limited scenarios. **Business Interruption** typically only responds to BI from covered insured events at your own premises, **not** from supplier failure - though specific **Contingent Business Interruption (CBI)** extensions exist and may respond. The honest assessment: most supplier insolvency commercial impact is not insurance-coverable. Recovery is operational and contractual.
 
 ### The Step-by-Step
 
-For SMEs dependent on critical suppliers — manufacturers, raw material providers, specialised service providers, software platforms — supplier insolvency can cascade quickly into operational crisis. The article below sets out the practical sequence; insurance plays a limited but specific role.
+For SMEs dependent on critical suppliers - manufacturers, raw material providers, specialised service providers, software platforms - supplier insolvency can cascade quickly into operational crisis. The article below sets out the practical sequence; insurance plays a limited but specific role.
 
-#### Hour 0–24 — Verify and assess
+#### Hour 0-24 - Verify and assess
 
 **Verify the insolvency.**
 
@@ -38,7 +38,7 @@ What's actually happened?
 
 Check via:
 - [ACRA](https://www.bizfile.gov.sg/) filings (judicial manager / liquidator appointment)
-- Court records (winding-up applications) — searchable on [eLitigation](https://www.elitigation.sg/) for High Court matters
+- Court records (winding-up applications) - searchable on [eLitigation](https://www.elitigation.sg/) for High Court matters
 - The supplier's own communications
 - Industry information
 
@@ -58,7 +58,7 @@ The response differs based on the actual situation.
 - Geographic alternatives (overseas if domestic options limited)
 - Higher-cost alternatives (premium pricing for urgency)
 
-#### Day 1–7 — Creditor positioning and customer communication
+#### Day 1-7 - Creditor positioning and customer communication
 
 **File as creditor:**
 
@@ -100,7 +100,7 @@ The customer communication frame:
 - Customer-facing staff on customer messaging
 - Finance on cash flow impact
 
-#### Day 7–30 — Operational continuity
+#### Day 7-30 - Operational continuity
 
 **Establish alternative supply:**
 - Vendor due diligence on alternatives
@@ -329,8 +329,8 @@ The asymmetry: prevention through diversification and contractual protection cos
 5. As my supply chain evolves, what insurance considerations should I review?
 
 ### Related Information
-- [A Vendor Just Ran Off With Our Deposit — What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
-- [Critical Equipment Just Broke and Halted Our Production — What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
+- [A Vendor Just Ran Off With Our Deposit - What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
+- [Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
 - [The Limitation Act 1959 6-Year Clock: Why It Matters for Insurance Claims](/document-legal/limitation-act-6-year-clock)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

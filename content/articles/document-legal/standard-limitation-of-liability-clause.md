@@ -20,7 +20,7 @@ og_description: "Limitation of liability clauses operate as substantive risk all
 
 > **The Answer in 60 Seconds**
 >
-> Limitation of liability clauses operate as substantive risk allocation mechanism in Singapore commercial contracts. Standard commercial scope around limitation of liability includes monetary cap clauses (limiting aggregate liability to specific amount, typically referenced to fees paid or operational scope), exclusion of consequential / indirect / specific damages clauses, exclusion of specific damage categories (loss of profits, loss of revenue, loss of business opportunity, loss of data, loss of goodwill), and framework for carve-outs (typically gross negligence, wilful misconduct, breach of confidentiality, IP indemnification). Framework for enforceability operates under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework with specific reasonableness assessment under Schedule 2 factors. Framework for insurance integration matters substantially — limitation amounts must coordinate with available cover limits to avoid commercial gap exposure.
+> Limitation of liability clauses operate as substantive risk allocation mechanism in Singapore commercial contracts. Standard commercial scope around limitation of liability includes monetary cap clauses (limiting aggregate liability to specific amount, typically referenced to fees paid or operational scope), exclusion of consequential / indirect / specific damages clauses, exclusion of specific damage categories (loss of profits, loss of revenue, loss of business opportunity, loss of data, loss of goodwill), and framework for carve-outs (typically gross negligence, wilful misconduct, breach of confidentiality, IP indemnification). Framework for enforceability operates under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework with specific reasonableness assessment under Schedule 2 factors. Framework for insurance integration matters substantially - limitation amounts must coordinate with available cover limits to avoid commercial gap exposure.
 
 ### The Sourced Detail
 
@@ -30,14 +30,14 @@ Limitation of liability clauses operate as foundational risk allocation mechanis
 
 Standard limitation of liability clauses include several structural elements:
 
-**Monetary cap framework** — considerations on aggregate liability cap. Typical commercial conventions include:
+**Monetary cap framework** - considerations on aggregate liability cap. Typical commercial conventions include:
 
 - Cap referenced to fees paid (e.g., "aggregate liability shall not exceed fees paid in 12 months preceding claim")
 - Cap referenced to specific amount (e.g., "aggregate liability shall not exceed S$1M")
 - Cap referenced to insurance limits (e.g., "aggregate liability shall not exceed insurance proceeds available")
 - Hybrid caps combining elements
 
-**Specific damage type exclusions** — considerations on excluding specific damage types. Typical commercial conventions include:
+**Specific damage type exclusions** - considerations on excluding specific damage types. Typical commercial conventions include:
 
 - Indirect / consequential damages
 - Special / incidental / punitive damages
@@ -46,7 +46,7 @@ Standard limitation of liability clauses include several structural elements:
 - Loss of data / loss of goodwill
 - Loss of anticipated savings
 
-**Carve-outs from limitation** — considerations on exclusions from limitation. Typical carve-outs include:
+**Carve-outs from limitation** - considerations on exclusions from limitation. Typical carve-outs include:
 
 - Death / personal injury caused by negligence (cannot be excluded under [UCTA](https://sso.agc.gov.sg/Act/UCTA1977) Section 2)
 - Gross negligence / wilful misconduct
@@ -59,13 +59,13 @@ Standard limitation of liability clauses include several structural elements:
 
 [UCTA 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework substantively constrains commercial scope around limitation clauses. Operational scope considerations:
 
-**Section 2 framework** — death / personal injury liability from negligence cannot be excluded; other negligence liability subject to reasonableness.
+**Section 2 framework** - death / personal injury liability from negligence cannot be excluded; other negligence liability subject to reasonableness.
 
-**Section 3 framework** — applies to standard form contracts and consumer commercial scope. Specific reasonableness assessment.
+**Section 3 framework** - applies to standard form contracts and consumer commercial scope. Specific reasonableness assessment.
 
-**Section 11 reasonableness test** — applies across applicable framework.
+**Section 11 reasonableness test** - applies across applicable framework.
 
-**Schedule 2 reasonableness factors** — considerations on assessment factors.
+**Schedule 2 reasonableness factors** - considerations on assessment factors.
 
 For commercial scope around standard contract terms, considerations on UCTA enforceability matters substantially. Framework for B2B vs B2C commercial scope, operational scope around bargaining position assessment, operational operational scope.
 
@@ -73,7 +73,7 @@ For commercial scope around standard contract terms, considerations on UCTA enfo
 
 Singapore commercial common law has substantially developed reasonableness assessment for limitation clauses. Specific factors typically informing assessment:
 
-**Bargaining position assessment** — substantively symmetric commercial scope between commercial parties of similar sophistication tends to support reasonableness; substantively asymmetric scope tends to weigh against reasonableness.
+**Bargaining position assessment** - substantively symmetric commercial scope between commercial parties of similar sophistication tends to support reasonableness; substantively asymmetric scope tends to weigh against reasonableness.
 
 **Insurance availability:** where party seeking limitation has insurance available addressing operational scope, reasonableness assessment may consider whether limitation reflects insurance scope. Operational considerations matters.
 
@@ -81,30 +81,30 @@ Singapore commercial common law has substantially developed reasonableness asses
 
 Standard exclusions of specific damage types create commercial considerations.
 
-**Indirect / consequential damages** — considerations on scope. Singapore common law has substantially developed framework around what constitutes "indirect" or "consequential" damages. The framework distinguishes:
+**Indirect / consequential damages** - considerations on scope. Singapore common law has substantially developed framework around what constitutes "indirect" or "consequential" damages. The framework distinguishes:
 
-- Direct damages — damages flowing naturally from breach
-- Indirect damages — damages requiring specific knowledge of special circumstances at time of contract (per Hadley v Baxendale framework)
+- Direct damages - damages flowing naturally from breach
+- Indirect damages - damages requiring specific knowledge of special circumstances at time of contract (per Hadley v Baxendale framework)
 
 Considerations on precise drafting matters substantially.
 
-**Specific damage categories** — exclusions of specific categories (loss of profits, revenue, business opportunity, data, goodwill) operate within general limitation framework. Considerations on scope and enforceability matters.
+**Specific damage categories** - exclusions of specific categories (loss of profits, revenue, business opportunity, data, goodwill) operate within general limitation framework. Considerations on scope and enforceability matters.
 
 #### The carve-out framework
 
 Specific carve-outs from limitation operate as commercial scope.
 
-**Death / personal injury negligence carve-out** — required under UCTA Section 2 framework. Operational scope.
+**Death / personal injury negligence carve-out** - required under UCTA Section 2 framework. Operational scope.
 
-**Gross negligence / wilful misconduct carve-out** — considerations on scope. Singapore common law has developed specific framework around gross negligence vs ordinary negligence distinction. Considerations on enforceability where specific clauses purport to exclude gross negligence matters.
+**Gross negligence / wilful misconduct carve-out** - considerations on scope. Singapore common law has developed specific framework around gross negligence vs ordinary negligence distinction. Considerations on enforceability where specific clauses purport to exclude gross negligence matters.
 
-**IP indemnification carve-out** — considerations on IP commercial scope.
+**IP indemnification carve-out** - considerations on IP commercial scope.
 
-**Confidentiality breach carve-out** — considerations on confidentiality commercial scope.
+**Confidentiality breach carve-out** - considerations on confidentiality commercial scope.
 
-**Specific fraud carve-outs** — considerations on fraud commercial scope.
+**Specific fraud carve-outs** - considerations on fraud commercial scope.
 
-**Specific fundamental breach carve-outs** — considerations on fundamental breach scope.
+**Specific fundamental breach carve-outs** - considerations on fundamental breach scope.
 
 #### The insurance integration framework
 
@@ -114,13 +114,13 @@ Limitation of liability clauses integrate with insurance procurement substantive
 
 Commercial scenarios under limitation framework include:
 
-**Specific Professional Indemnity scenarios** — considerations on limitation in professional services contracts.
+**Specific Professional Indemnity scenarios** - considerations on limitation in professional services contracts.
 
 #### The commercial sophistication framework
 
 For commercial scope around limitation clauses, operational considerations includes several elements.
 
-**Commercial counsel engagement** — commercial relationships for framework for drafting and negotiation.
+**Commercial counsel engagement** - commercial relationships for framework for drafting and negotiation.
 
 ### Common Mistakes / What Goes Wrong
 

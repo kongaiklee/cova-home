@@ -1,5 +1,5 @@
 ---
-title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand — What Do I Do Now?"
+title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?"
 slug: "/crisis/pr-crisis-social-media-incident"
 category: "crisis"
 intent: "steady-the-ship"
@@ -13,20 +13,20 @@ word_count: 1782
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/pr-crisis-social-media-incident"
-meta_description: "First, do not make immediate public statements without considered response — what you say in hour 1 sets the trajectory. Convene crisis response..."
-og_title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand — What Do I Do Now?"
-og_description: "First, do not make immediate public statements without considered response — what you say in hour 1 sets the trajectory. Convene crisis response..."
+meta_description: "First, do not make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response..."
+og_title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?"
+og_description: "First, do not make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> First, do **not** make immediate public statements without considered response — what you say in hour 1 sets the trajectory. Convene crisis response (founder/CEO + senior team + external counsel + PR adviser if available) within hours. Assess whether the issue involves (a) factual product/service issue, (b) employee conduct, (c) customer complaint amplified, (d) misinformation/false content, (e) cyber/data incident, or (f) accusations of regulatory or ethical violation — each has different response patterns. **Insurance considerations are limited but specific:** **Cyber Liability** with reputation/PR sub-limits may fund crisis communications and reputation management; **D&O** may respond if directors face claims; **Defamation cover** under PI or specific media liability may respond for false content; **Product Liability** if related to actual product issue; **Employment Practices Liability (EPL)** if employee conduct dimension. The honest assessment: most reputation impact is not insurance-coverable and most PR cost is not pre-funded — operational response and legal/communications discipline are foundational.
+> First, do **not** make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response (founder/CEO + senior team + external counsel + PR adviser if available) within hours. Assess whether the issue involves (a) factual product/service issue, (b) employee conduct, (c) customer complaint amplified, (d) misinformation/false content, (e) cyber/data incident, or (f) accusations of regulatory or ethical violation - each has different response patterns. **Insurance considerations are limited but specific:** **Cyber Liability** with reputation/PR sub-limits may fund crisis communications and reputation management; **D&O** may respond if directors face claims; **Defamation cover** under PI or specific media liability may respond for false content; **Product Liability** if related to actual product issue; **Employment Practices Liability (EPL)** if employee conduct dimension. The honest assessment: most reputation impact is not insurance-coverable and most PR cost is not pre-funded - operational response and legal/communications discipline are foundational.
 
 ### The Step-by-Step
 
-PR crises affect Singapore SMEs across industries — F&B operators with food safety concerns going viral, fitness studios with inappropriate staff conduct, tech startups with product failures, retail with discrimination allegations. The article below sets out the response sequence and the limited insurance dimension.
+PR crises affect Singapore SMEs across industries - F&B operators with food safety concerns going viral, fitness studios with inappropriate staff conduct, tech startups with product failures, retail with discrimination allegations. The article below sets out the response sequence and the limited insurance dimension.
 
-#### Hour 0–4 — Detection and immediate response
+#### Hour 0-4 - Detection and immediate response
 
 **Detection signals:**
 - Sudden spike in social media mentions
@@ -34,7 +34,7 @@ PR crises affect Singapore SMEs across industries — F&B operators with food sa
 - Customer service inquiry surge
 - Media inquiries (often via email or LinkedIn)
 - Direct messages from journalists
-- Specific platform notifications (per the platforms' own complaint mechanisms — typically referenced under the [PDPC framework](https://www.pdpc.gov.sg/) for personal data complaints and the platforms' own terms)
+- Specific platform notifications (per the platforms' own complaint mechanisms - typically referenced under the [PDPC framework](https://www.pdpc.gov.sg/) for personal data complaints and the platforms' own terms)
 - Internal escalations (staff, customers, partners)
 
 **Immediate actions:**
@@ -42,7 +42,7 @@ PR crises affect Singapore SMEs across industries — F&B operators with food sa
 - **Confirm the incident.** What's actually happening? Read the original post / content. Watch the video. Read the customer review. Don't respond to summaries.
 - **Document the source.** Screenshot original content (it may be deleted), capture engagement metrics, identify the original poster.
 - **Don't engage publicly yet.** Reactive comments compound the issue.
-- **Don't delete content.** Don't delete legitimate customer complaints from your own pages — looks like cover-up.
+- **Don't delete content.** Don't delete legitimate customer complaints from your own pages - looks like cover-up.
 - **Convene senior team.** Founder/CEO, communications lead, legal counsel, ops lead.
 
 **What not to do in hour 1:**
@@ -53,56 +53,56 @@ PR crises affect Singapore SMEs across industries — F&B operators with food sa
 - Deleting your own pages or content
 - Restricting employee social media activity broadly
 
-#### Hour 4–24 — Crisis response setup
+#### Hour 4-24 - Crisis response setup
 
 **Engage external advisors:**
 
-- **Legal counsel** — for any potential litigation, defamation, regulatory exposure
-- **PR / crisis communications adviser** — for material crises (recommended for SMEs of any meaningful scale)
-- **Insurance broker** — early notification of all potentially-relevant policies
+- **Legal counsel** - for any potential litigation, defamation, regulatory exposure
+- **PR / crisis communications adviser** - for material crises (recommended for SMEs of any meaningful scale)
+- **Insurance broker** - early notification of all potentially-relevant policies
 
 **Assess the issue type:**
 
-**Type A — Factual product / service issue:**
+**Type A - Factual product / service issue:**
 - E.g. food poisoning at restaurant, product defect, service failure
 - Immediate operational response (recall, repair, refund)
 - Public communication frame: acknowledgment, explanation, remediation
 - Possibly Product Liability or service-specific insurance engagement
 
-**Type B — Employee conduct:**
+**Type B - Employee conduct:**
 - E.g. discrimination allegation, misconduct, inappropriate behaviour
 - HR investigation
 - Possible employment action
 - Communication frame: investigation, accountability, change
 - EPL may be relevant
 
-**Type C — Customer complaint amplified:**
+**Type C - Customer complaint amplified:**
 - E.g. specific customer experience going viral
 - Direct engagement with customer (often privately first)
 - Resolution if possible
 - Communication frame: acknowledgment, resolution, learning
 
-**Type D — Misinformation / false content:**
+**Type D - Misinformation / false content:**
 - E.g. fabricated stories, mistaken identity, deliberate misinformation
 - Documentation
 - Legal options (defamation, content takedown)
 - Communication frame: factual correction
 - PI defamation cover may be relevant
 
-**Type E — Cyber / data incident with reputation dimension:**
+**Type E - Cyber / data incident with reputation dimension:**
 - E.g. data breach disclosed publicly
 - Breach response (PDPA Section 26D timeline)
 - Cyber Liability engagement
 - Communication frame: facts, response, support
 
-**Type F — Regulatory / ethical accusation:**
+**Type F - Regulatory / ethical accusation:**
 - E.g. allegations of regulatory non-compliance, environmental issues, ethical violations
 - Internal investigation
 - Possible regulator engagement
 - Communication frame: investigation, transparency, action
 - D&O may be relevant
 
-#### Hour 24–72 — Public communication
+#### Hour 24-72 - Public communication
 
 **The first public statement:**
 
@@ -135,7 +135,7 @@ Generally, a measured first statement within 24-48 hours of the issue surfacing:
 - Blaming others
 - Over-promising remedies
 
-#### Day 3–14 — Sustained response
+#### Day 3-14 - Sustained response
 
 **Operational response:**
 
@@ -167,7 +167,7 @@ If the issue involves factual operational failure:
 
 The honest landscape:
 
-**Cyber Liability — Reputation/PR sub-limits:**
+**Cyber Liability - Reputation/PR sub-limits:**
 - Many modern Cyber policies include reputation management or PR cover
 - Specifically for cyber-related incidents
 - Sub-limits often modest (S$50k-S$250k typical)
@@ -220,7 +220,7 @@ The honest landscape:
 
 #### Specific scenarios
 
-**Scenario A: F&B operator — food poisoning incident at restaurant goes viral on TikTok**
+**Scenario A: F&B operator - food poisoning incident at restaurant goes viral on TikTok**
 
 - Type A (factual product/service)
 - SFA notification likely required
@@ -230,7 +230,7 @@ The honest landscape:
 - Operational remediation (kitchen review, staff training)
 - Long-tail brand impact substantial
 
-**Scenario B: Tech startup — alleged discrimination by senior executive**
+**Scenario B: Tech startup - alleged discrimination by senior executive**
 
 - Type B (employee conduct)
 - Internal investigation
@@ -240,7 +240,7 @@ The honest landscape:
 - Communication challenges (privacy of employees, public perception)
 - Cultural and operational changes
 
-**Scenario C: Retail brand — accused of cultural insensitivity in marketing**
+**Scenario C: Retail brand - accused of cultural insensitivity in marketing**
 
 - Type C/F (customer complaint or ethical accusation)
 - Apology and review
@@ -249,7 +249,7 @@ The honest landscape:
 - Generally not insurance-coverable
 - Brand impact varies with response quality
 
-**Scenario D: Service business — customer's negative experience goes viral**
+**Scenario D: Service business - customer's negative experience goes viral**
 
 - Type C (customer complaint amplified)
 - Direct customer engagement (often resolves)
@@ -258,7 +258,7 @@ The honest landscape:
 - Generally not insurance-coverable
 - Typically time-limited impact
 
-**Scenario E: Professional services firm — false accusations from departing client**
+**Scenario E: Professional services firm - false accusations from departing client**
 
 - Type D (misinformation)
 - Documentation of facts
@@ -266,7 +266,7 @@ The honest landscape:
 - PI defamation cover may respond
 - Communication frame: factual without engaging the false content directly
 
-**Scenario F: SaaS company — data breach disclosed publicly**
+**Scenario F: SaaS company - data breach disclosed publicly**
 
 - Type E (cyber incident)
 - PDPA Section 26D notification
@@ -378,7 +378,7 @@ The reputational dimension of operating a Singapore SME has elevated significant
 
 ### Related Information
 - /crisis/pdpa-breach-discovery
-- [We Just Discovered an Employee Has Embezzled From Us — What Do I Do Now?](/crisis/employee-embezzlement-discovered)
+- [We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?](/crisis/employee-embezzlement-discovered)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

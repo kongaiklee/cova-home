@@ -20,7 +20,7 @@ og_description: "Section 157 of the Companies Act 1967 is the foundational provi
 
 > **The Answer in 60 Seconds**
 >
-> [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) is the foundational provision establishing director duties in Singapore. It codifies that directors must act honestly and use reasonable diligence in the discharge of their duties, and that directors and officers cannot use their position to gain personal advantage that would cause detriment to the company. Breach is a criminal offence carrying fines and potential imprisonment, plus civil exposure to the company. The provision interacts with broader common-law director duties (fiduciary duty, duty of care, duty to act within powers, etc.) which Singapore courts have developed extensively. For Singapore SMEs, Section 157 is the regulatory foundation that makes **D&O (Directors & Officers) insurance** essential — D&O responds to defence costs and damages for director-level claims, with specific policy provisions addressing the criminal / fraud exclusions that limit cover for deliberate breach. The provision also informs the [WSHA Section 48](/licensing/bca-me-workhead-contractor-insurance-requirements) personal director liability framework.
+> [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) is the foundational provision establishing director duties in Singapore. It codifies that directors must act honestly and use reasonable diligence in the discharge of their duties, and that directors and officers cannot use their position to gain personal advantage that would cause detriment to the company. Breach is a criminal offence carrying fines and potential imprisonment, plus civil exposure to the company. The provision interacts with broader common-law director duties (fiduciary duty, duty of care, duty to act within powers, etc.) which Singapore courts have developed extensively. For Singapore SMEs, Section 157 is the regulatory foundation that makes **D&O (Directors & Officers) insurance** essential - D&O responds to defence costs and damages for director-level claims, with specific policy provisions addressing the criminal / fraud exclusions that limit cover for deliberate breach. The provision also informs the [WSHA Section 48](/licensing/bca-me-workhead-contractor-insurance-requirements) personal director liability framework.
 
 ### The Sourced Detail
 
@@ -59,7 +59,7 @@ The "honestly" standard is subjective in some respects (genuine belief) but obje
 
 #### What "reasonable diligence" means
 
-The diligence standard is generally objective — what a reasonable director with the qualifications, experience, and role would do in the circumstances. The standard:
+The diligence standard is generally objective - what a reasonable director with the qualifications, experience, and role would do in the circumstances. The standard:
 
 - Considers the director's specific role and qualifications
 - Specifically scales with the complexity of the issue
@@ -68,7 +68,7 @@ The diligence standard is generally objective — what a reasonable director wit
 
 For SME directors, the diligence standard means active engagement with company operations rather than passive role-holding. Sleeping directors, nominee directors who don't engage, and directors who delegate without supervision all carry elevated Section 157 risk.
 
-#### Section 157(2) — improper use of position
+#### Section 157(2) - improper use of position
 
 Subsection (2) addresses what's commonly called the "no profit / no conflict" rule:
 
@@ -106,7 +106,7 @@ Per Section 157(3), breach creates civil liability:
 - Liable to the company for profit made
 - Liable for damage suffered by the company
 
-These civil remedies can be pursued by the company itself or, where the company won't pursue, by shareholders through derivative action under Section 216A of the Companies Act. Settlement amounts and damages can be substantial — particularly for director conduct that has materially affected company financial performance.
+These civil remedies can be pursued by the company itself or, where the company won't pursue, by shareholders through derivative action under Section 216A of the Companies Act. Settlement amounts and damages can be substantial - particularly for director conduct that has materially affected company financial performance.
 
 #### Criminal consequences of breach
 
@@ -118,18 +118,18 @@ Section 157(3) creates a criminal offence:
 
 Beyond the codified Section 157(3) penalties, broader criminal frameworks may apply:
 - [Penal Code 1871](https://sso.agc.gov.sg/Act/PC1871) for criminal breach of trust, cheating, etc.
-- [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018) — Section 239 (wrongful trading) and Section 238 (fraudulent trading)
+- [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018) - Section 239 (wrongful trading) and Section 238 (fraudulent trading)
 - Specific securities / financial services regulation where applicable
 
 #### D&O insurance as the protection mechanism
 
 D&O insurance exists specifically to address director-level claims under Section 157 and broader frameworks. Standard D&O cover provides:
 
-**Side A — Direct cover for individual directors and officers.** Where the company cannot indemnify (e.g. company is insolvent, indemnification is prohibited).
+**Side A - Direct cover for individual directors and officers.** Where the company cannot indemnify (e.g. company is insolvent, indemnification is prohibited).
 
-**Side B — Reimbursement to the company.** Where the company has indemnified directors and officers per the company's constitution / Section 172 framework.
+**Side B - Reimbursement to the company.** Where the company has indemnified directors and officers per the company's constitution / Section 172 framework.
 
-**Side C — Entity cover.** For specific claims against the company itself (typically in securities-related or specific commercial contexts).
+**Side C - Entity cover.** For specific claims against the company itself (typically in securities-related or specific commercial contexts).
 
 For SMEs, Side A and Side B coverage are typically the foundational layers, with Section 157 claims commonly addressed through the defence costs and indemnification components.
 
@@ -142,7 +142,7 @@ D&O policies typically exclude:
 - Specific conduct outside the scope of duties
 - Specific Insured vs Insured (claims between insureds) with carve-outs
 
-For Section 157 claims, the fraud / dishonesty exclusion is particularly relevant — Section 157(1) requires "honestly," and findings of dishonesty would commonly engage the exclusion. However:
+For Section 157 claims, the fraud / dishonesty exclusion is particularly relevant - Section 157(1) requires "honestly," and findings of dishonesty would commonly engage the exclusion. However:
 
 - The exclusion typically applies on final adjudication, meaning defence costs are advanced through the proceedings
 - Allegations of dishonesty don't automatically engage the exclusion until proven

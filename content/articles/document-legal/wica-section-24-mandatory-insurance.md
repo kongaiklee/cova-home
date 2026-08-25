@@ -20,7 +20,7 @@ og_description: "Section 24 of the Work Injury Compensation Act 2019 is the prov
 
 > **The Answer in 60 Seconds**
 >
-> [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) is the provision that makes WICA workable. Headed "Employer must be insured against liabilities under Act", it requires every employer to be insured for the full extent of the employer's liability under the Act for every employee in scope. Without this provision, WICA's compensation framework would be theoretical — Section 24 makes it actual by ensuring funds exist to pay claims. Failure to insure is an offence under the related Section 25, carrying significant penalties; an uninsured employer also remains directly liable to the injured worker. For Singapore SMEs, Section 24 explains why WICA cover is non-negotiable, why the policy must be an approved policy placed with an insurer on [MOM's](https://www.mom.gov.sg/) list of WICA insurers (the platform-operator panel of designated insurers runs separately — see [Article 169](/comparison/wica-designated-insurer-panel)), and why operational compliance matters at every renewal cycle.
+> [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) is the provision that makes WICA workable. Headed "Employer must be insured against liabilities under Act", it requires every employer to be insured for the full extent of the employer's liability under the Act for every employee in scope. Without this provision, WICA's compensation framework would be theoretical - Section 24 makes it actual by ensuring funds exist to pay claims. Failure to insure is an offence under the related Section 25, carrying significant penalties; an uninsured employer also remains directly liable to the injured worker. For Singapore SMEs, Section 24 explains why WICA cover is non-negotiable, why the policy must be an approved policy placed with an insurer on [MOM's](https://www.mom.gov.sg/) list of WICA insurers (the platform-operator panel of designated insurers runs separately - see [Article 169](/comparison/wica-designated-insurer-panel)), and why operational compliance matters at every renewal cycle.
 
 ### The Sourced Detail
 
@@ -30,7 +30,7 @@ Section 24 of WICA is one of the most consequential single provisions in Singapo
 
 Per [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019):
 
-The section — headed "Employer must be insured against liabilities under Act" — requires every employer to be insured:
+The section - headed "Employer must be insured against liabilities under Act" - requires every employer to be insured:
 - For the full extent of liability under the Act
 - For every employee in WICA scope
 - With an insurer, under an approved policy
@@ -80,15 +80,15 @@ Beyond the criminal offence, the more material commercial exposure is civil: emp
 
 #### Section 24 and Common-Law claims
 
-A point that confuses many SMEs: Section 24 mandates insurance for WICA liability — meaning compensation under the WICA framework. It does not require insurance for common-law negligence claims that might arise from the same incident.
+A point that confuses many SMEs: Section 24 mandates insurance for WICA liability - meaning compensation under the WICA framework. It does not require insurance for common-law negligence claims that might arise from the same incident.
 
 Common-law claims (employer negligence beyond the WICA framework) are typically addressed via the **Employer's Liability** extension to WICA, often called "Common-Law Liability" or "Employer's Indemnity" extension. This extension is not technically required by Section 24 but is operationally essential because the gap between WICA caps (S$346k for total PI) and actual claim values (often S$500k-S$2M+ for severe injuries) is substantial.
 
-For Singapore SMEs, the practical insurance approach is therefore "WICA + EL extension" rather than WICA alone — the former satisfies Section 24 and addresses the broader negligence exposure; the latter satisfies Section 24 but leaves a material common-law gap.
+For Singapore SMEs, the practical insurance approach is therefore "WICA + EL extension" rather than WICA alone - the former satisfies Section 24 and addresses the broader negligence exposure; the latter satisfies Section 24 but leaves a material common-law gap.
 
 #### Section 24 and platform workers
 
-Following the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)), platform workers are not employees in the traditional sense and Section 24 of WICA does not directly apply to them. Instead, platform operators are required to procure WICA-equivalent cover under PWA — substantively similar protection routed through the separate platform operator panel.
+Following the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)), platform workers are not employees in the traditional sense and Section 24 of WICA does not directly apply to them. Instead, platform operators are required to procure WICA-equivalent cover under PWA - substantively similar protection routed through the separate platform operator panel.
 
 The two regimes (Section 24 WICA + PWA equivalent) operate in parallel, with classification of a worker as employee vs platform worker determining which framework governs. Misclassification is a meaningful operational risk: a worker treated as a platform worker but later determined to be an employee could create retroactive Section 24 exposure for the employer.
 
@@ -100,7 +100,7 @@ For Singapore SMEs employing workers outside Singapore, Section 24 generally doe
 - Foreign employees working in Singapore are covered by Section 24 like any other employee
 - Specific case-by-case evaluation may be needed for hybrid arrangements
 
-Cross-border SMEs typically structure Singapore WICA + foreign jurisdiction equivalents (state Workers' Comp in US, scheme-based in Australia, etc. — see cross-border articles for specific frameworks).
+Cross-border SMEs typically structure Singapore WICA + foreign jurisdiction equivalents (state Workers' Comp in US, scheme-based in Australia, etc. - see cross-border articles for specific frameworks).
 
 #### Specific case considerations
 
@@ -111,7 +111,7 @@ Singapore courts have addressed Section 24 issues in several reported decisions 
 - Specific willingness to enforce against non-compliant employers
 - Specific recognition of the public policy importance of the provision
 
-This means Section 24 disputes typically resolve against employers who attempt to argue technical exceptions — the courts treat the protection of employees as the dominant interpretive principle.
+This means Section 24 disputes typically resolve against employers who attempt to argue technical exceptions - the courts treat the protection of employees as the dominant interpretive principle.
 
 #### Common operational issues
 
@@ -129,7 +129,7 @@ Section 24 establishes the foundation that every Singapore SME WICA procurement 
 
 The employer must hold WICA cover under an approved policy for every WICA-scope employee at all times. The cover must respond to full statutory liability. Common-law gap is addressed via Employer's Liability extension as a commercial (not Section 24) matter. Cross-border, platform worker, and contractor scenarios require specific evaluation.
 
-For SMEs, this means WICA renewal is not a routine renewal — it's a regulatory compliance event with criminal consequences for failure. Operational discipline matters at every cycle.
+For SMEs, this means WICA renewal is not a routine renewal - it's a regulatory compliance event with criminal consequences for failure. Operational discipline matters at every cycle.
 
 ### Common Mistakes / What Goes Wrong
 

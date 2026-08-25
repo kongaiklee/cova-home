@@ -13,18 +13,18 @@ word_count: 1748
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/property-all-risks-exclusions-deep-dive"
-meta_description: "Property All Risks (PAR) policies operate on an \"all risks\" basis — covering any sudden and accidental physical loss / damage except specifically..."
+meta_description: "Property All Risks (PAR) policies operate on an \"all risks\" basis - covering any sudden and accidental physical loss / damage except specifically..."
 og_title: "Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends"
-og_description: "Property All Risks (PAR) policies operate on an \"all risks\" basis — covering any sudden and accidental physical loss / damage except specifically..."
+og_description: "Property All Risks (PAR) policies operate on an \"all risks\" basis - covering any sudden and accidental physical loss / damage except specifically..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Property All Risks (PAR) policies operate on an "all risks" basis — covering any sudden and accidental physical loss / damage except specifically excluded. The exclusions are therefore foundational: they define where coverage ends. Standard PAR exclusions include: **wear and tear / gradual deterioration**, **inherent vice / latent defect**, **mechanical / electrical breakdown** (often, with separate Equipment Breakdown cover available), **faulty design / workmanship** (varies), **specific consequential losses**, **war / nuclear / radioactive**, **specific cyber-related exclusions** (evolving), and **specific other defined exclusions**. For Singapore SMEs evaluating PAR cover (per [Article 158](/comparison/fire-vs-par-claim-mechanics)), understanding the exclusions explains both what's actually covered and where complementary covers (Equipment Breakdown, Cyber, specific specialty covers) become essential. The 2017-2024 period has seen significant evolution in cyber-related exclusions across the global property market — Singapore-issued PAR policies have followed these trends.
+> Property All Risks (PAR) policies operate on an "all risks" basis - covering any sudden and accidental physical loss / damage except specifically excluded. The exclusions are therefore foundational: they define where coverage ends. Standard PAR exclusions include: **wear and tear / gradual deterioration**, **inherent vice / latent defect**, **mechanical / electrical breakdown** (often, with separate Equipment Breakdown cover available), **faulty design / workmanship** (varies), **specific consequential losses**, **war / nuclear / radioactive**, **specific cyber-related exclusions** (evolving), and **specific other defined exclusions**. For Singapore SMEs evaluating PAR cover (per [Article 158](/comparison/fire-vs-par-claim-mechanics)), understanding the exclusions explains both what's actually covered and where complementary covers (Equipment Breakdown, Cyber, specific specialty covers) become essential. The 2017-2024 period has seen significant evolution in cyber-related exclusions across the global property market - Singapore-issued PAR policies have followed these trends.
 
 ### The Sourced Detail
 
-PAR's broad coverage scope is defined negatively — through what's excluded rather than what's listed. Understanding the exclusions in detail is therefore foundational for SMEs procuring PAR cover, both for understanding actual coverage and for identifying complementary cover needs. PAR operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Specific exclusion case law and dispute resolution treatment is available through [eLitigation](https://www.elitigation.sg/).
+PAR's broad coverage scope is defined negatively - through what's excluded rather than what's listed. Understanding the exclusions in detail is therefore foundational for SMEs procuring PAR cover, both for understanding actual coverage and for identifying complementary cover needs. PAR operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Specific exclusion case law and dispute resolution treatment is available through [eLitigation](https://www.elitigation.sg/).
 
 #### Wear and tear / gradual deterioration
 
@@ -34,16 +34,16 @@ PAR's broad coverage scope is defined negatively — through what's excluded rat
 
 **Common application scenarios:**
 
-- Roof gradually deteriorating and beginning to leak — excluded
-- Specific equipment showing age-related decline — excluded
-- Specific materials reaching end of useful life — excluded
-- Specific floor wear from regular use — excluded
+- Roof gradually deteriorating and beginning to leak - excluded
+- Specific equipment showing age-related decline - excluded
+- Specific materials reaching end of useful life - excluded
+- Specific floor wear from regular use - excluded
 
 **The boundary issue.** The line between "gradual deterioration" and "sudden and accidental" can be disputed:
 
-- Gradual deterioration that culminates in sudden failure (e.g. accumulating roof damage that finally fails during storm) — typically the sudden failure portion is covered, the gradual portion is not
-- Specific maintenance-related issues — typically excluded if attributable to inadequate maintenance
-- Specific industrial wear patterns — typically excluded
+- Gradual deterioration that culminates in sudden failure (e.g. accumulating roof damage that finally fails during storm) - typically the sudden failure portion is covered, the gradual portion is not
+- Specific maintenance-related issues - typically excluded if attributable to inadequate maintenance
+- Specific industrial wear patterns - typically excluded
 
 **Operational implications.** Maintenance discipline matters substantially:
 
@@ -61,15 +61,15 @@ Without maintenance discipline, claims may face wear-and-tear exclusion challeng
 
 **Common application scenarios:**
 
-- Specific commodity inherent characteristics (e.g. specific food spoilage, specific chemical instability) — excluded
-- Specific manufacturing defects existing at inception — excluded if latent
-- Specific structural issues from original construction — excluded if latent
-- Specific equipment design characteristics — excluded
+- Specific commodity inherent characteristics (e.g. specific food spoilage, specific chemical instability) - excluded
+- Specific manufacturing defects existing at inception - excluded if latent
+- Specific structural issues from original construction - excluded if latent
+- Specific equipment design characteristics - excluded
 
 **The boundary with manufacturing defect.** Specific manufacturing defects can cross between latent (excluded) and patent (covered if accidentally manifesting):
 
-- Latent defect existing at inception, manifesting as gradual deterioration — excluded
-- Patent defect causing sudden accidental damage — typically covered (subject to specific manufacturing defect exclusions where applicable)
+- Latent defect existing at inception, manifesting as gradual deterioration - excluded
+- Patent defect causing sudden accidental damage - typically covered (subject to specific manufacturing defect exclusions where applicable)
 
 **Operational implications.**
 
@@ -107,14 +107,14 @@ EBD is a specialty cover separate from PAR. For SMEs with material equipment dep
 
 Specific scenarios cross the boundary:
 
-- External force causing equipment damage — typically PAR
-- Internal breakdown — typically EBD
-- Specific lightning strike causing electrical damage — depends on policy and circumstances
-- Specific power surge — depends
+- External force causing equipment damage - typically PAR
+- Internal breakdown - typically EBD
+- Specific lightning strike causing electrical damage - depends on policy and circumstances
+- Specific power surge - depends
 
 #### Faulty design / workmanship
 
-**The exclusion.** Loss / damage attributable to faulty design, faulty workmanship, or faulty materials is typically excluded — at least in part.
+**The exclusion.** Loss / damage attributable to faulty design, faulty workmanship, or faulty materials is typically excluded - at least in part.
 
 **Specific variations.** Different policy forms handle this differently:
 
@@ -135,7 +135,7 @@ Specific scenarios cross the boundary:
 
 #### Consequential losses
 
-**The exclusion.** PAR typically excludes consequential losses — losses arising from but not directly being physical damage to insured property.
+**The exclusion.** PAR typically excludes consequential losses - losses arising from but not directly being physical damage to insured property.
 
 **Specific scope.** Consequential losses include:
 
@@ -178,12 +178,12 @@ For specific premises types (high-profile commercial, specific high-density urba
 
 **The pre-NMA 2914 era.** Most PAR policies were silent on cyber. Specific scenarios (cyber attack causing physical damage, malware bricking equipment) generated uncertain claims responses.
 
-**The NMA 2914 / NMA 2915 era.** Lloyd's market introduced specific cyber exclusions — addressing cyber attack as cause but with specific carve-outs for physical damage to insured property.
+**The NMA 2914 / NMA 2915 era.** Lloyd's market introduced specific cyber exclusions - addressing cyber attack as cause but with specific carve-outs for physical damage to insured property.
 
-**The LMA5400 / LMA5401 evolution.** Subsequent evolution — the Lloyd's Market Association property cyber endorsement (LMA5400) and exclusion (LMA5401), published November 2019 — clarified scope further:
+**The LMA5400 / LMA5401 evolution.** Subsequent evolution - the Lloyd's Market Association property cyber endorsement (LMA5400) and exclusion (LMA5401), published November 2019 - clarified scope further:
 
-- Specific physical damage from cyber attack — often carved back in
-- Specific cyber-only loss — excluded
+- Specific physical damage from cyber attack - often carved back in
+- Specific cyber-only loss - excluded
 - Specific industry-specific provisions
 
 **The current Singapore market.** Most Singapore PAR policies now include specific cyber exclusions with specific carve-out provisions. Standalone Cyber Liability (see [Article 167](/comparison/cyber-tower-vs-single-policy)) addresses the cyber-specific scope.

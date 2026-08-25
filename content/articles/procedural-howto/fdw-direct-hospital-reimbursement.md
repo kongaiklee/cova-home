@@ -30,13 +30,13 @@ The first thing to understand is that not every domestic helper medical bill fol
 
 That means a valid claim today should start with the policy date and the hospitalisation facts, not with assumptions based on how older helper policies worked.
 
-#### Step 1 — Check that the policy is active and whether Stage 2 applies
+#### Step 1 - Check that the policy is active and whether Stage 2 applies
 
 Pull the current policy certificate or renewal confirmation. Check the effective date carefully. If the medical insurance policy, renewal, or extension started on or after 1 July 2025, MOM says the Stage 2 rules apply. If the policy predates that and has not rolled into a new Stage 2 period, the operational handling may differ.
 
 This step is essential because direct hospital payment is tied to the Stage 2 implementation date on the official MOM framework, not just to the fact that the treatment happened after July 2025.
 
-#### Step 2 — Confirm that the admission falls within mandatory medical insurance scope
+#### Step 2 - Confirm that the admission falls within mandatory medical insurance scope
 
 MOM’s page says employers must buy and maintain medical insurance for MDWs and sets the minimum framework for that cover. The focus is hospitalisation-related medical costs rather than every outpatient visit. So for claim filing, confirm:
 
@@ -47,7 +47,7 @@ MOM’s page says employers must buy and maintain medical insurance for MDWs and
 
 If those basics are wrong, the claim can get delayed before admissibility is even assessed.
 
-#### Step 3 — Notify the insurer and make sure the hospital has the policy details
+#### Step 3 - Notify the insurer and make sure the hospital has the policy details
 
 Under the Stage 2 framework, insurers reimburse hospitals directly upon admissibility of the claim. In practice, that means the hospital and insurer need to be connected to the same policy record early. Give the hospital:
 
@@ -58,7 +58,7 @@ Under the Stage 2 framework, insurers reimburse hospitals directly upon admissib
 
 Even with the regulatory framework in place, the operational process is still insurer-specific. Early contact reduces the chance that the employer gets asked to settle first simply because the hospital could not match the patient to the policy.
 
-#### Step 4 — Understand the co-payment rule clearly
+#### Step 4 - Understand the co-payment rule clearly
 
 MOM’s official page states that for Stage 1, the annual claim limit is at least S$60,000 and there is a co-payment of 75% by insurers and 25% by employers for claim amounts above the first S$15,000. That means a hospital bill can still leave some amount payable by the employer even where the insurer pays the hospital directly.
 
@@ -71,7 +71,7 @@ So when the bill is large, ask for four numbers separately:
 
 That prevents confusion between a partial payment and a denial.
 
-#### Step 5 — Check exclusions and non-admissible items
+#### Step 5 - Check exclusions and non-admissible items
 
 MOM says Stage 2 standardises allowable exclusion clauses, which is helpful because it reduces variation across products. But exclusions still exist. If a bill is only partly paid, check whether the shortfall is due to:
 
@@ -82,7 +82,7 @@ MOM says Stage 2 standardises allowable exclusion clauses, which is helpful beca
 
 A shortfall is not always a coverage dispute. Sometimes it is a claims-processing issue or a line-item issue.
 
-#### Step 6 — Keep the full record set even when payment went straight to the hospital
+#### Step 6 - Keep the full record set even when payment went straight to the hospital
 
 Direct payment should reduce cash-flow strain, but you still need records. Keep:
 

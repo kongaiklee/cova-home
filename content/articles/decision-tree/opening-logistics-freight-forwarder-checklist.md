@@ -24,14 +24,14 @@ og_description: "A Singapore logistics or freight forwarder firm typically requi
 
 ### The Sourced Detail
 
-Logistics and freight forwarding sits at the intersection of transport, regulated cargo handling, customs compliance, and warehouse operations. The insurance build reflects this multi-domain nature — no single policy covers the full exposure, and the structure differs significantly between pure freight forwarders (who arrange carriage but don't carry goods themselves) and integrated logistics operators (who handle, warehouse, and transport directly).
+Logistics and freight forwarding sits at the intersection of transport, regulated cargo handling, customs compliance, and warehouse operations. The insurance build reflects this multi-domain nature - no single policy covers the full exposure, and the structure differs significantly between pure freight forwarders (who arrange carriage but don't carry goods themselves) and integrated logistics operators (who handle, warehouse, and transport directly).
 
 #### The two main operating models
 
-**Model A — Pure freight forwarder.**
+**Model A - Pure freight forwarder.**
 The firm arranges carriage with carriers (shipping lines, airlines, road transport providers) on behalf of customers but doesn't physically handle goods or operate transport. Acts as agent or principal under the Standard Trading Conditions (STC) of the [Singapore Logistics Association (SLA)](https://www.sla.org.sg/). Lower physical risk; documentary and contractual liability dominates.
 
-**Model B — Integrated logistics / 3PL.**
+**Model B - Integrated logistics / 3PL.**
 The firm handles, warehouses, and may transport goods directly. Significant physical-handling exposure plus all the contractual exposure of Model A. Most established Singapore logistics firms operate Model B.
 
 #### The licensing baseline
@@ -44,7 +44,7 @@ Per Singapore Customs requirements, freight forwarders submitting customs declar
 - Compliance with declaration accuracy requirements
 - Records retention obligations
 
-Compliance failures (incorrect declarations, undervaluation, misclassification) can give rise to Customs penalties and potential criminal exposure under the [Customs Act 1960](https://sso.agc.gov.sg/Act/CA1960) — distinct from civil liability to the customer.
+Compliance failures (incorrect declarations, undervaluation, misclassification) can give rise to Customs penalties and potential criminal exposure under the [Customs Act 1960](https://sso.agc.gov.sg/Act/CA1960) - distinct from civil liability to the customer.
 
 **LTA commercial vehicle registration:**
 
@@ -90,8 +90,8 @@ This is the central professional cover for freight forwarders. **Freight Forward
 Most Singapore freight forwarders contract under the [SLA Standard Trading Conditions](https://www.sla.org.sg/) which limit liability per package, per consignment, or by reference to international conventions ([Hague-Visby Rules](https://comitemaritime.org/) for sea, [Warsaw/Montreal Convention](https://www.icao.int/) for air, [CMR](https://unece.org/transport/cmr) for international road). FFL coverage often dovetails with these limitation regimes.
 
 **Limit considerations:**
-- Small forwarder (1–5 staff): S$1M–S$3M typical
-- Mid-size: S$3M–S$10M
+- Small forwarder (1-5 staff): S$1M-S$3M typical
+- Mid-size: S$3M-S$10M
 - Larger / specialised cargo: S$10M+
 
 #### The Marine Cargo / Goods in Transit layer
@@ -108,7 +108,7 @@ Distinct from FFL (which covers the forwarder's professional liability), Marine 
 - Goods at consolidation/deconsolidation points
 - Goods at warehouse (between Marine Cargo and Warehouse cover)
 
-The two often coordinate through a master programme. For 3PL operators, the cargo may be on the customer's policy, the forwarder's policy, or both — the contractual allocation matters.
+The two often coordinate through a master programme. For 3PL operators, the cargo may be on the customer's policy, the forwarder's policy, or both - the contractual allocation matters.
 
 #### Warehouse-specific covers
 
@@ -157,7 +157,7 @@ Specific WICA exposures:
 - Falls from height in warehouses
 - Repetitive strain
 
-For larger firms, **Common-Law / Employer's Liability extension** at appropriate limits is standard — see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
+For larger firms, **Common-Law / Employer's Liability extension** at appropriate limits is standard - see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
 
 #### Foreign worker considerations
 
@@ -194,14 +194,14 @@ For 3PL operators with sophisticated TMS and Warehouse Management Systems, Cyber
 - SLA membership consideration
 - Procure insurance before commencing operations
 
-**Year 1 (small firm, 3–10 staff, no own warehouse):**
+**Year 1 (small firm, 3-10 staff, no own warehouse):**
 - Freight Forwarder's Liability
 - WICA, PL for office
 - Group Medical / Group PA
 - Cyber Liability
 - Motor cover if any vehicles
 
-**Years 2–5 (growth, possibly own warehouse):**
+**Years 2-5 (growth, possibly own warehouse):**
 - Higher FFL limits
 - Warehouse-related covers (Property, Bailee, PL)
 - Commercial fleet motor
@@ -242,17 +242,17 @@ For 3PL operators with sophisticated TMS and Warehouse Management Systems, Cyber
 
 For a typical Singapore freight forwarder / logistics firm:
 
-**Small forwarder (3–8 staff, no warehouse, no fleet):**
-- FFL: S$3,000–S$10,000
-- WICA, PL, Cyber, Group Medical/PA: S$5,000–S$15,000
-- **Total annual insurance budget** typically S$10,000–S$30,000
+**Small forwarder (3-8 staff, no warehouse, no fleet):**
+- FFL: S$3,000-S$10,000
+- WICA, PL, Cyber, Group Medical/PA: S$5,000-S$15,000
+- **Total annual insurance budget** typically S$10,000-S$30,000
 
-**Mid-size 3PL (15–50 staff, warehouse, small fleet):**
-- FFL at higher limits, Bailee cover: S$15,000–S$40,000
-- Warehouse Property/PL/BI: S$10,000–S$30,000
-- Fleet motor: S$15,000–S$50,000+
-- Cyber, WICA, employee benefits: S$30,000–S$80,000
-- **Total: S$70,000–S$200,000+**
+**Mid-size 3PL (15-50 staff, warehouse, small fleet):**
+- FFL at higher limits, Bailee cover: S$15,000-S$40,000
+- Warehouse Property/PL/BI: S$10,000-S$30,000
+- Fleet motor: S$15,000-S$50,000+
+- Cyber, WICA, employee benefits: S$30,000-S$80,000
+- **Total: S$70,000-S$200,000+**
 
 **Larger / specialised:**
 - Comprehensive programme
@@ -299,11 +299,11 @@ For founders opening logistics or freight forwarding in Singapore:
 
 4. **Coordinate FFL with Marine Cargo/GIT.** Boundary issues are common.
 
-5. **For warehouse operators — emphasise Bailee cover.** CCC for customer goods is often the largest single exposure.
+5. **For warehouse operators - emphasise Bailee cover.** CCC for customer goods is often the largest single exposure.
 
 6. **Plan for scale.** Each growth stage (warehouse addition, fleet addition, regional expansion) has insurance implications.
 
-7. **Maintain documentation discipline.** Bill of lading templates, customs declarations, claims handling — all support both operations and insurance defence.
+7. **Maintain documentation discipline.** Bill of lading templates, customs declarations, claims handling - all support both operations and insurance defence.
 
 The logistics insurance market is mature but specialised. The cost of properly-structured cover is meaningful but proportionate to the multi-domain exposure being managed.
 

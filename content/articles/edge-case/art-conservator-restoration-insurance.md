@@ -20,18 +20,18 @@ og_description: "A Singapore art conservator or fine art restorer typically need
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore art conservator or fine art restorer typically needs: **Bailee Cover / Care, Custody and Control extension** for artwork in studio (often the largest single exposure — single pieces can be valued in millions), **Professional Indemnity** for restoration work errors, **Public Liability** for studio premises, **Property/Fire** for studio and equipment, **Goods in Transit** for collection and delivery of artworks, **Cyber Liability** for client and provenance data, and **WICA** for staff. Standard SME PL **excludes property in care/custody/control** — explicit Bailee or CCC extension is essential for any conservator handling client artwork. For high-value pieces, **scheduled-item Bailee cover** with named pieces and stated values is typical, often through specialty fine-art insurers or Lloyd's syndicates. Provenance documentation, condition reports, photographic records, and chain-of-custody records are critical defence material against any claim alleging damage during conservation.
+> A Singapore art conservator or fine art restorer typically needs: **Bailee Cover / Care, Custody and Control extension** for artwork in studio (often the largest single exposure - single pieces can be valued in millions), **Professional Indemnity** for restoration work errors, **Public Liability** for studio premises, **Property/Fire** for studio and equipment, **Goods in Transit** for collection and delivery of artworks, **Cyber Liability** for client and provenance data, and **WICA** for staff. Standard SME PL **excludes property in care/custody/control** - explicit Bailee or CCC extension is essential for any conservator handling client artwork. For high-value pieces, **scheduled-item Bailee cover** with named pieces and stated values is typical, often through specialty fine-art insurers or Lloyd's syndicates. Provenance documentation, condition reports, photographic records, and chain-of-custody records are critical defence material against any claim alleging damage during conservation.
 
 ### The Sourced Detail
 
-Fine art conservation is among the highest-value, lowest-volume specialty service businesses in Singapore. A single conservator may have S$5–50 million worth of client artwork in studio at any time. Standard SME insurance is structurally inadequate; specialty fine-art insurance is the appropriate framework.
+Fine art conservation is among the highest-value, lowest-volume specialty service businesses in Singapore. A single conservator may have S$5-50 million worth of client artwork in studio at any time. Standard SME insurance is structurally inadequate; specialty fine-art insurance is the appropriate framework.
 
 #### The unique risk profile
 
 **1. Concentrated single-item value.**
 Unlike most service businesses, the value at risk per item can be substantial. A single oil painting, sculpture, or antique furniture piece can be valued in six or seven figures.
 
-**2. Custodial liability — the dominant exposure.**
+**2. Custodial liability - the dominant exposure.**
 The conservator holds client artwork as bailee. Damage during transit, treatment, storage, or return travels through the conservator's custody. Standard PL excludes property in CCC; specific Bailee or CCC cover is essential.
 
 **3. Treatment-related risks.**
@@ -44,7 +44,7 @@ Treatment effects may not manifest for years (yellowing of varnishes, mechanical
 Conservation work in Singapore may interact with [National Heritage Board](https://www.nhb.gov.sg/) and other cultural authorities for protected items. Conservation may reveal authenticity issues; conservator opinions on authenticity create exposure.
 
 **6. Client expectations vs realistic outcomes.**
-Conservation is not "restoration to new" — ethical conservation respects original intent and material. Client expectations vs ethical conservation can create dispute.
+Conservation is not "restoration to new" - ethical conservation respects original intent and material. Client expectations vs ethical conservation can create dispute.
 
 **7. Insurance-mandated documentation.**
 Insurers expect comprehensive condition reports, treatment proposals, photographic records, chain-of-custody documentation. These are also the defence material if a claim arises.
@@ -72,18 +72,18 @@ The single most important insurance for any working conservator:
 - Per-piece limits explicit
 - Suitable for high-value individual pieces or sparser inventory
 
-Many established conservators combine both — blanket cover for ongoing inventory plus scheduled additions for exceptional pieces.
+Many established conservators combine both - blanket cover for ongoing inventory plus scheduled additions for exceptional pieces.
 
 **Limit considerations:**
 - Per-piece limit: should accommodate the highest-value piece likely to be in custody
 - Aggregate per occurrence: should accommodate a worst-case scenario (e.g. studio fire affecting all pieces simultaneously)
 - Annual aggregate: total exposure across the year
 
-For conservators handling pieces routinely in the S$100k+ range, individual-piece limits of S$1M–S$10M per item are typical. For specialist conservators with museum-quality pieces, higher limits apply.
+For conservators handling pieces routinely in the S$100k+ range, individual-piece limits of S$1M-S$10M per item are typical. For specialist conservators with museum-quality pieces, higher limits apply.
 
 **Treatment exclusion considerations:**
 
-Some Bailee policies exclude "damage during treatment" — meaning a chemical reaction that damages the piece while being conserved is uncovered. This boundary varies by wording:
+Some Bailee policies exclude "damage during treatment" - meaning a chemical reaction that damages the piece while being conserved is uncovered. This boundary varies by wording:
 - **Inclusive policies** cover treatment-related damage subject to PI-style coverage of negligent treatment
 - **Exclusive policies** require separate PI cover for treatment errors
 
@@ -100,8 +100,8 @@ PI for conservators covers:
 - Loss of documents
 
 **Limit considerations:**
-- Single conservator working independently: S$1M–S$3M
-- Established conservator with high-value clientele: S$3M–S$10M
+- Single conservator working independently: S$1M-S$3M
+- Established conservator with high-value clientele: S$3M-S$10M
 - Specialist studio with museum work: S$10M+
 
 #### Specialist insurer considerations
@@ -138,7 +138,7 @@ Studio premises require:
 **Property/Fire/PAR:**
 - Building and contents
 - Specialist equipment (UV lights, microscopes, x-ray fluorescence, infrared imaging, vibration analysis tools)
-- Materials inventory (varnishes, solvents, fillers, pigments — some hazardous)
+- Materials inventory (varnishes, solvents, fillers, pigments - some hazardous)
 - Reference library
 - Office equipment
 
@@ -218,15 +218,15 @@ PI cover typically addresses this provided the conservator stays within their pr
 
 For Singapore fine-art conservators:
 
-**Independent conservator (S$1–5M typical inventory):**
-- Bailee cover: S$3,000–S$15,000+
-- PI: S$2,000–S$8,000
-- Other commercial insurance: S$3,000–S$10,000
-- **Total annual insurance budget** typically S$10,000–S$40,000
+**Independent conservator (S$1-5M typical inventory):**
+- Bailee cover: S$3,000-S$15,000+
+- PI: S$2,000-S$8,000
+- Other commercial insurance: S$3,000-S$10,000
+- **Total annual insurance budget** typically S$10,000-S$40,000
 
-**Established conservator with regular high-value work (S$5–20M typical inventory):**
+**Established conservator with regular high-value work (S$5-20M typical inventory):**
 - Higher Bailee and PI limits
-- **Total typically S$25,000–S$80,000**
+- **Total typically S$25,000-S$80,000**
 
 **Museum-quality / specialist studio:**
 - Comprehensive programme
@@ -283,17 +283,17 @@ For Singapore fine-art conservators, the insurance build is foundational:
 
 2. **Build Bailee + PI + PL + GIT + Property as coordinated package.** Each addresses a different exposure.
 
-3. **Document exhaustively.** Pre-treatment condition reports, photographs, treatment records — all support both quality assurance and claim defence.
+3. **Document exhaustively.** Pre-treatment condition reports, photographs, treatment records - all support both quality assurance and claim defence.
 
-4. **Maintain studio at appropriate professional standard.** Climate, fire, security, access — all matter for both conservation outcomes and insurance underwriting.
+4. **Maintain studio at appropriate professional standard.** Climate, fire, security, access - all matter for both conservation outcomes and insurance underwriting.
 
 5. **Coordinate with industry bodies.** International conservation associations have guidance on professional standards.
 
-6. **Build appropriate referral network.** Authentication specialists, frame conservators, paper conservators — knowing when to refer is professional discipline.
+6. **Build appropriate referral network.** Authentication specialists, frame conservators, paper conservators - knowing when to refer is professional discipline.
 
 7. **At any major piece intake, consider scheduled cover separately.** Above blanket limit, schedule the specific piece.
 
-The cost of comprehensive fine-art insurance is meaningful but proportionate to the value at risk. The cost of inadequate cover — a single major incident with one high-value piece — can end the practice.
+The cost of comprehensive fine-art insurance is meaningful but proportionate to the value at risk. The cost of inadequate cover - a single major incident with one high-value piece - can end the practice.
 
 ### Questions to Ask Your Adviser
 

@@ -20,7 +20,7 @@ og_description: "The Singapore SME has just discovered internal fraud, typically
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME has just discovered internal fraud, typically by a long-serving finance officer running for 2 to 7 years with magnitude S$100,000 to S$2 million. Discovery usually occurs on departure (resignation, termination, audit, or whistleblower report). The 8-step Day-One workflow: (1) preserve evidence (image laptops, suspend cloud accounts, preserve email archives, do not interrogate the employee yet); (2) secure systems access (change passwords, revoke approvals, suspend bank signatory rights); (3) engage external forensic accountant under privilege via external solicitors; (4) engage legal counsel (criminal counsel for CAD interface, civil counsel for recovery, employment counsel for HR action); (5) report to the [Commercial Affairs Department (CAD)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department) — a police report is typically a condition precedent under Fidelity Guarantee and Commercial Crime policies; (6) report to insurer within the policy notification window (Crime policies on Discovery basis typically require 30 to 60 days from Discovery); (7) civil recovery (proprietary tracing claim, Mareva injunction, Anton Piller order, Norwich Pharmacal orders against banks); (8) HR action (disciplinary inquiry, termination for cause, final-pay computation). [Penal Code 1871](https://sso.agc.gov.sg/Act/PC1871) sections 405-409 (criminal breach of trust) and 415-420 (cheating) are the principal charging provisions. Section 408 (CBT by clerk or servant) carries up to 15 years imprisonment and fine; section 409 (CBT by director, officer, partner, key executive, or fiduciary) carries up to 20 years and fine — expanded by the Criminal Law Reform Act 2019 effective 1 January 2020, overturning the narrow reading of "agent" in *Public Prosecutor v Lam Leng Hung* [2018] SGCA 7. [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) section 29 postpones the 6-year contract limitation in section 6 until the fraud is discovered or could with reasonable diligence have been discovered, per *SW Trustees Pte Ltd v Tesemma* [2023] SGHC 273. Fidelity Guarantee and Commercial Crime trigger architecture covered in [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore); this article focuses on the Day-One operational workflow.
+> The Singapore SME has just discovered internal fraud, typically by a long-serving finance officer running for 2 to 7 years with magnitude S$100,000 to S$2 million. Discovery usually occurs on departure (resignation, termination, audit, or whistleblower report). The 8-step Day-One workflow: (1) preserve evidence (image laptops, suspend cloud accounts, preserve email archives, do not interrogate the employee yet); (2) secure systems access (change passwords, revoke approvals, suspend bank signatory rights); (3) engage external forensic accountant under privilege via external solicitors; (4) engage legal counsel (criminal counsel for CAD interface, civil counsel for recovery, employment counsel for HR action); (5) report to the [Commercial Affairs Department (CAD)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department) - a police report is typically a condition precedent under Fidelity Guarantee and Commercial Crime policies; (6) report to insurer within the policy notification window (Crime policies on Discovery basis typically require 30 to 60 days from Discovery); (7) civil recovery (proprietary tracing claim, Mareva injunction, Anton Piller order, Norwich Pharmacal orders against banks); (8) HR action (disciplinary inquiry, termination for cause, final-pay computation). [Penal Code 1871](https://sso.agc.gov.sg/Act/PC1871) sections 405-409 (criminal breach of trust) and 415-420 (cheating) are the principal charging provisions. Section 408 (CBT by clerk or servant) carries up to 15 years imprisonment and fine; section 409 (CBT by director, officer, partner, key executive, or fiduciary) carries up to 20 years and fine - expanded by the Criminal Law Reform Act 2019 effective 1 January 2020, overturning the narrow reading of "agent" in *Public Prosecutor v Lam Leng Hung* [2018] SGCA 7. [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) section 29 postpones the 6-year contract limitation in section 6 until the fraud is discovered or could with reasonable diligence have been discovered, per *SW Trustees Pte Ltd v Tesemma* [2023] SGHC 273. Fidelity Guarantee and Commercial Crime trigger architecture covered in [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore); this article focuses on the Day-One operational workflow.
 
 ### The Sourced Detail
 
@@ -46,31 +46,31 @@ The magnitude is typically S$100,000 to S$2 million for SME-scale frauds, runnin
 
 The principal Singapore Penal Code provisions for internal fraud:
 
-**Section 24 — "Dishonestly"** provides the foundational definition: doing anything with the intention of causing wrongful gain or wrongful loss.
+**Section 24 - "Dishonestly"** provides the foundational definition: doing anything with the intention of causing wrongful gain or wrongful loss.
 
-**Section 405 — Criminal Breach of Trust** defines CBT: "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law … or of any legal contract …, commits 'criminal breach of trust'." The five elements are: (i) entrustment of property; (ii) dishonest misappropriation or conversion to own use, or dishonest use or disposal in violation of direction or contract; (iii) mens rea of dishonesty; (iv) actus reus matching the description; (v) the property being entrusted in the relevant capacity.
+**Section 405 - Criminal Breach of Trust** defines CBT: "Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law … or of any legal contract …, commits 'criminal breach of trust'." The five elements are: (i) entrustment of property; (ii) dishonest misappropriation or conversion to own use, or dishonest use or disposal in violation of direction or contract; (iii) mens rea of dishonesty; (iv) actus reus matching the description; (v) the property being entrusted in the relevant capacity.
 
 **Section 406** punishes plain CBT with imprisonment up to 7 years and fine.
 
 **Section 407** punishes CBT by carrier, wharfinger, or warehouse-keeper with up to 15 years and fine.
 
-**Section 408 — CBT by Clerk or Servant.** Up to 15 years and fine. This is the typical charge for finance officers and accounting heads embezzling from their employer.
+**Section 408 - CBT by Clerk or Servant.** Up to 15 years and fine. This is the typical charge for finance officers and accounting heads embezzling from their employer.
 
-**Section 409 — CBT by Public Servant, Banker, Merchant, Agent, Director, Officer, Partner, Key Executive, or Fiduciary.** Up to 20 years and fine. The provision was expanded by the Criminal Law Reform Act 2019 (effective 1 January 2020) to specifically include directors, officers, partners, key executives, and fiduciaries. The expansion was a legislative response to *Public Prosecutor v Lam Leng Hung* [2018] SGCA 7 (the City Harvest Church case), which had narrowly read "agent" in the legacy section 409.
+**Section 409 - CBT by Public Servant, Banker, Merchant, Agent, Director, Officer, Partner, Key Executive, or Fiduciary.** Up to 20 years and fine. The provision was expanded by the Criminal Law Reform Act 2019 (effective 1 January 2020) to specifically include directors, officers, partners, key executives, and fiduciaries. The expansion was a legislative response to *Public Prosecutor v Lam Leng Hung* [2018] SGCA 7 (the City Harvest Church case), which had narrowly read "agent" in the legacy section 409.
 
-**Section 415 — Cheating.** Definition.
+**Section 415 - Cheating.** Definition.
 
-**Section 416** — Cheating by personation.
+**Section 416** - Cheating by personation.
 
-**Section 416A** — Illegally obtained personal information (relevant where fraud involves data exfiltration).
+**Section 416A** - Illegally obtained personal information (relevant where fraud involves data exfiltration).
 
-**Section 417** — Punishment for cheating: up to 3 years and/or fine.
+**Section 417** - Punishment for cheating: up to 3 years and/or fine.
 
-**Section 418** — Cheating with knowledge that wrongful loss may be caused to a person whose interest the offender is bound to protect: enhanced punishment.
+**Section 418** - Cheating with knowledge that wrongful loss may be caused to a person whose interest the offender is bound to protect: enhanced punishment.
 
-**Section 419** — Cheating by personation: up to 5 years.
+**Section 419** - Cheating by personation: up to 5 years.
 
-**Section 420 — Cheating and Dishonestly Inducing Delivery of Property.** Up to 10 years and fine. This is a frequent charge for invoice-redirection and procurement frauds.
+**Section 420 - Cheating and Dishonestly Inducing Delivery of Property.** Up to 10 years and fine. This is a frequent charge for invoice-redirection and procurement frauds.
 
 The choice between section 408, section 409, and section 420 depends on the relationship between the dishonest employee and the SME, and on the operational mechanism of the fraud. The Public Prosecutor (through the Attorney-General's Chambers) determines the charge.
 
@@ -86,29 +86,29 @@ The section 29 protection is the legal foundation that makes civil recovery viab
 
 #### The 8-step Day-One workflow
 
-**Step 1 — Preserve evidence.** Image laptops, mobile devices, and any work-from-home equipment. Suspend cloud accounts (Microsoft 365, Google Workspace, accounting platform, banking platform) without deleting (preservation, not termination of access trails). Preserve email archives. Instruct IT to preserve audit logs from all relevant systems. **Do not interrogate the employee yet.** Premature confrontation alerts the employee to remove evidence or transfer assets out of jurisdictional reach.
+**Step 1 - Preserve evidence.** Image laptops, mobile devices, and any work-from-home equipment. Suspend cloud accounts (Microsoft 365, Google Workspace, accounting platform, banking platform) without deleting (preservation, not termination of access trails). Preserve email archives. Instruct IT to preserve audit logs from all relevant systems. **Do not interrogate the employee yet.** Premature confrontation alerts the employee to remove evidence or transfer assets out of jurisdictional reach.
 
-**Step 2 — Secure systems access.** Change passwords on all systems the employee had access to. Revoke approvals in workflow systems. Suspend signatory rights at banks via written notice. Recall corporate credit cards. Suspend procurement-system access. Block remote-access tokens.
+**Step 2 - Secure systems access.** Change passwords on all systems the employee had access to. Revoke approvals in workflow systems. Suspend signatory rights at banks via written notice. Recall corporate credit cards. Suspend procurement-system access. Block remote-access tokens.
 
-**Step 3 — Engage external forensic accountant under privilege.** Engage through external solicitors to maximise legal privilege over forensic findings. **Do not engage the SME's external auditors** (independence and conflict-of-interest issues). The forensic accountant's scope: identify the fraud pattern, quantify the loss, identify all affected periods, trace the proceeds, identify any co-conspirators or external facilitators.
+**Step 3 - Engage external forensic accountant under privilege.** Engage through external solicitors to maximise legal privilege over forensic findings. **Do not engage the SME's external auditors** (independence and conflict-of-interest issues). The forensic accountant's scope: identify the fraud pattern, quantify the loss, identify all affected periods, trace the proceeds, identify any co-conspirators or external facilitators.
 
-**Step 4 — Engage legal counsel.** Three parallel work streams require specialist counsel:
+**Step 4 - Engage legal counsel.** Three parallel work streams require specialist counsel:
 - Criminal counsel for CAD interface and any prosecution interaction.
 - Civil counsel for recovery action (proprietary tracing, Mareva injunction, Anton Piller order, Norwich Pharmacal orders).
 - Employment counsel for HR action (disciplinary inquiry, termination, final pay, notice forfeiture).
 
-**Step 5 — Report to the Commercial Affairs Department (CAD).** The CAD is the specialist commercial-crime unit of the [Singapore Police Force](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department). Reporting is typically a condition precedent under Fidelity Guarantee and Commercial Crime policies. CAD investigative powers are exercised under the Criminal Procedure Code 2010 (production orders under section 20) and the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 (CDSA). A formal police report can be filed at any Neighbourhood Police Centre or via direct CAD intake.
+**Step 5 - Report to the Commercial Affairs Department (CAD).** The CAD is the specialist commercial-crime unit of the [Singapore Police Force](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department). Reporting is typically a condition precedent under Fidelity Guarantee and Commercial Crime policies. CAD investigative powers are exercised under the Criminal Procedure Code 2010 (production orders under section 20) and the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 (CDSA). A formal police report can be filed at any Neighbourhood Police Centre or via direct CAD intake.
 
-**Step 6 — Report to insurer.** Fidelity Guarantee and Commercial Crime policies on Discovery basis (Singapore market default, see [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)) typically require notification within 30 to 60 days from Discovery as defined in the policy. The police-report number from Step 5 is typically required at notification. Notification too late can prejudice or void the claim.
+**Step 6 - Report to insurer.** Fidelity Guarantee and Commercial Crime policies on Discovery basis (Singapore market default, see [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)) typically require notification within 30 to 60 days from Discovery as defined in the policy. The police-report number from Step 5 is typically required at notification. Notification too late can prejudice or void the claim.
 
-**Step 7 — Civil recovery.** Coordinated civil action runs in parallel with the criminal investigation. The principal civil remedies:
+**Step 7 - Civil recovery.** Coordinated civil action runs in parallel with the criminal investigation. The principal civil remedies:
 - Proprietary tracing claim where the employee converted SME property.
 - Mareva injunction (worldwide freezing order) to preserve the employee's assets pending judgment.
 - Anton Piller order (search-and-seizure) to preserve documentary evidence at the employee's premises.
 - Norwich Pharmacal orders against banks to obtain account information for tracing.
 - Personal action against the employee under Companies Act section 157 (where employee is also a director or officer) and under general fiduciary-duty principles.
 
-**Step 8 — HR action.** Disciplinary inquiry under the employment contract and any collective agreement. Termination for cause typically based on serious misconduct findings. Final-pay computation: under the Employment Act 1968, salary owing must be paid within 7 days of the last day of employment, but where dishonest conduct is established, the SME may have set-off rights against accrued bonus, unused leave, or notice pay. The SME should obtain employment-counsel advice before withholding any final pay.
+**Step 8 - HR action.** Disciplinary inquiry under the employment contract and any collective agreement. Termination for cause typically based on serious misconduct findings. Final-pay computation: under the Employment Act 1968, salary owing must be paid within 7 days of the last day of employment, but where dishonest conduct is established, the SME may have set-off rights against accrued bonus, unused leave, or notice pay. The SME should obtain employment-counsel advice before withholding any final pay.
 
 #### Director personal exposure
 
@@ -204,11 +204,11 @@ For directors, the section 157 duty-of-diligence defence requires documented dec
 
 ### Related Information
 
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 364 - Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
+- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

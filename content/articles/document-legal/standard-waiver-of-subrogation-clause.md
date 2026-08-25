@@ -20,7 +20,7 @@ og_description: "Subrogation operates as common law and statutory doctrine provi
 
 > **The Answer in 60 Seconds**
 >
-> Subrogation operates as common law and statutory doctrine providing that an insurer paying a claim acquires the insured's rights to recover from third parties responsible for the loss. Waiver of subrogation clauses operate as contractual mechanism by which parties waive insurer's subrogation rights against specified parties. Standard commercial scope around waiver of subrogation includes mutual waiver across commercial relationships (typical in lease agreements, construction contracts, joint venture agreements), framework for waiver scope (specific perils, commercial relationships), and framework for insurer consent requirements. The framework operates within [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Section 79 statutory subrogation framework and substantial common law development. Commercial implications matter substantially — waiver provisions reduce commercial recovery exposure between contracting parties while preserving cover for the insured party, but require considerations on insurer consent and operational discipline.
+> Subrogation operates as common law and statutory doctrine providing that an insurer paying a claim acquires the insured's rights to recover from third parties responsible for the loss. Waiver of subrogation clauses operate as contractual mechanism by which parties waive insurer's subrogation rights against specified parties. Standard commercial scope around waiver of subrogation includes mutual waiver across commercial relationships (typical in lease agreements, construction contracts, joint venture agreements), framework for waiver scope (specific perils, commercial relationships), and framework for insurer consent requirements. The framework operates within [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Section 79 statutory subrogation framework and substantial common law development. Commercial implications matter substantially - waiver provisions reduce commercial recovery exposure between contracting parties while preserving cover for the insured party, but require considerations on insurer consent and operational discipline.
 
 ### The Sourced Detail
 
@@ -30,9 +30,9 @@ Subrogation and waiver of subrogation operate as foundational commercial scope m
 
 Subrogation operates as both common law doctrine and statutory framework.
 
-**Common law subrogation** — provides that an insurer paying a claim under indemnity insurance acquires the insured's rights to recover from third parties responsible for the loss. The framework prevents double recovery and shifts ultimate financial responsibility to the party at fault.
+**Common law subrogation** - provides that an insurer paying a claim under indemnity insurance acquires the insured's rights to recover from third parties responsible for the loss. The framework prevents double recovery and shifts ultimate financial responsibility to the party at fault.
 
-**Statutory subrogation** under [Marine Insurance Act 1906 Section 79](https://sso.agc.gov.sg/Act/MIA1906) — provides specific framework for marine insurance subrogation. The framework substantively informs Singapore commercial subrogation conventions.
+**Statutory subrogation** under [Marine Insurance Act 1906 Section 79](https://sso.agc.gov.sg/Act/MIA1906) - provides specific framework for marine insurance subrogation. The framework substantively informs Singapore commercial subrogation conventions.
 
 **Subrogation operation:** subrogation operates by way of equitable assignment. Insurer, having paid claim, steps into insured's shoes and pursues recovery in insured's name (typically) against responsible third parties.
 
@@ -40,7 +40,7 @@ Subrogation operates as both common law doctrine and statutory framework.
 
 Waiver of subrogation operates as contractual mechanism by which parties waive insurer's subrogation rights against specified parties.
 
-**Contractual waiver framework** — parties agree contractually that no subrogation will operate against specified parties for specified scope. The waiver typically operates as mutual waiver across commercial relationships.
+**Contractual waiver framework** - parties agree contractually that no subrogation will operate against specified parties for specified scope. The waiver typically operates as mutual waiver across commercial relationships.
 
 **Waiver effect:** where waiver operates effectively, insurer's subrogation rights are substantively constrained. Considerations on enforceability matters.
 
@@ -50,35 +50,35 @@ Waiver of subrogation operates as contractual mechanism by which parties waive i
 
 Standard waiver of subrogation clauses include several structural elements:
 
-**Waiver scope** — considerations on what is waived. Typical commercial conventions include:
+**Waiver scope** - considerations on what is waived. Typical commercial conventions include:
 
 - Commercial relationships waived (e.g., "all rights of subrogation against [counterparty] and its affiliates")
 - Specific perils waived (e.g., "with respect to property damage")
 - Operational scope waived (e.g., "arising from operations under this Agreement")
 
-**Mutual waiver framework** — typical commercial conventions include mutual waiver where each party's insurance waives subrogation against the other.
+**Mutual waiver framework** - typical commercial conventions include mutual waiver where each party's insurance waives subrogation against the other.
 
 #### The mutual waiver framework
 
 Mutual waiver across commercial relationships operates as substantive commercial mechanism.
 
-**Lease agreements** — mutual waiver framework substantively standard in commercial lease agreements. Tenant's insurer waives subrogation against landlord for property damage scope; landlord's insurer waives subrogation against tenant.
+**Lease agreements** - mutual waiver framework substantively standard in commercial lease agreements. Tenant's insurer waives subrogation against landlord for property damage scope; landlord's insurer waives subrogation against tenant.
 
-**Construction contracts** — mutual waiver framework substantively standard. Construction All Risks (CAR) policies typically include waiver of subrogation in favour of all named insureds (typically employer, main contractor, subcontractors).
+**Construction contracts** - mutual waiver framework substantively standard. Construction All Risks (CAR) policies typically include waiver of subrogation in favour of all named insureds (typically employer, main contractor, subcontractors).
 
-**Joint venture agreements** — considerations on joint venture-specific scope.
+**Joint venture agreements** - considerations on joint venture-specific scope.
 
 #### The insurer consent framework
 
 Framework for insurer consent for waiver of subrogation matters substantially.
 
-**Standard commercial conventions** — most insurance policies include provisions requiring insurer consent for waiver of subrogation. Insurer consent typically obtained at procurement or through specific endorsement.
+**Standard commercial conventions** - most insurance policies include provisions requiring insurer consent for waiver of subrogation. Insurer consent typically obtained at procurement or through specific endorsement.
 
 #### The waiver scope analysis
 
-**Limited waiver scope** — considerations on limited waiver (commercial relationships, specific perils, specific scope). Operational scope considerations.
+**Limited waiver scope** - considerations on limited waiver (commercial relationships, specific perils, specific scope). Operational scope considerations.
 
-**Broad waiver scope** — considerations on broad waiver. Framework for broader scope may face insurer constraints.
+**Broad waiver scope** - considerations on broad waiver. Framework for broader scope may face insurer constraints.
 
 - Gross negligence carve-out
 - Wilful misconduct carve-out
@@ -89,7 +89,7 @@ Framework for insurer consent for waiver of subrogation matters substantially.
 
 Waiver of subrogation and indemnification clauses (per [Article 259](/document-legal/standard-insurance-clause-commercial-contracts)) interact substantively. Operational scope considerations:
 
-**Specific knock-for-knock arrangements with mutual waiver** — considerations on offshore commercial scope where knock-for-knock combines with mutual waiver substantively.
+**Specific knock-for-knock arrangements with mutual waiver** - considerations on offshore commercial scope where knock-for-knock combines with mutual waiver substantively.
 
 **Primary / non-contributory clause integration:**
 
@@ -101,21 +101,21 @@ Waiver of subrogation provisions integrate with insurance procurement substantiv
 
 Commercial scenarios under waiver of subrogation framework include:
 
-**Specific lease scenarios** — fire damage to leased premises typically engaged through tenant's commercial property cover with mutual waiver against landlord.
+**Specific lease scenarios** - fire damage to leased premises typically engaged through tenant's commercial property cover with mutual waiver against landlord.
 
-**Specific construction scenarios** — incidents on construction projects engaged through CAR cover with broad waiver among project parties.
+**Specific construction scenarios** - incidents on construction projects engaged through CAR cover with broad waiver among project parties.
 
-**Specific joint venture scenarios** — operational incidents engaged through joint commercial scope with appropriate waiver framework.
+**Specific joint venture scenarios** - operational incidents engaged through joint commercial scope with appropriate waiver framework.
 
-**Specific service provider scenarios** — service provider incidents engaged with appropriate waiver scope.
+**Specific service provider scenarios** - service provider incidents engaged with appropriate waiver scope.
 
 #### The commercial sophistication framework
 
 For commercial scope around waiver of subrogation, operational considerations includes several elements.
 
-**Commercial counsel engagement** — commercial relationships for operational scope.
+**Commercial counsel engagement** - commercial relationships for operational scope.
 
-**Specific broker engagement** — commercial relationships for procurement coordination.
+**Specific broker engagement** - commercial relationships for procurement coordination.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -134,7 +134,7 @@ For commercial scope around waiver of subrogation, operational considerations in
 
 For Singapore SMEs in commercial scope:
 
-Waiver of subrogation operates as contractual mechanism reducing commercial recovery exposure between contracting parties while preserving cover for the insured party. Considerations on waiver scope, mutual waiver framework, insurer consent, and interactions with indemnification framework matters substantially. Procurement alignment with contractual waiver requirements is essential — gaps create operational scope risk.
+Waiver of subrogation operates as contractual mechanism reducing commercial recovery exposure between contracting parties while preserving cover for the insured party. Considerations on waiver scope, mutual waiver framework, insurer consent, and interactions with indemnification framework matters substantially. Procurement alignment with contractual waiver requirements is essential - gaps create operational scope risk.
 
 For substantive operations, considerations on waiver of subrogation, commercial counsel and broker engagement, and operational discipline around insurer consent and procurement alignment form the operational foundation.
 

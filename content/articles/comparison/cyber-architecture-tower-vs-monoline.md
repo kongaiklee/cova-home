@@ -20,7 +20,7 @@ og_description: "Cyber Liability cover architecture distinguishes single policy 
 
 > **The Answer in 60 Seconds**
 >
-> Cyber Liability cover architecture distinguishes single policy approach (single insurer providing cover up to specific limit) and cyber tower approach (multiple insurers providing layered cover — primary layer, excess layers, lead market, follow markets — combining to provide substantively higher aggregate limits). Cyber tower approach operates substantively in commercial scope requiring higher limits (typically S$10M+ aggregate). Commercial implications include cover scope coordination across layers, considerations on primary layer scope (typically broadest with specific incident response capability), excess layer scope (typically follow primary layer terms), framework for premium efficiency at scale, and considerations on claim coordination across multiple insurers. Singapore commercial cover operates within [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) and Singapore [PDPA framework](https://www.pdpc.gov.sg/) integration considerations.
+> Cyber Liability cover architecture distinguishes single policy approach (single insurer providing cover up to specific limit) and cyber tower approach (multiple insurers providing layered cover - primary layer, excess layers, lead market, follow markets - combining to provide substantively higher aggregate limits). Cyber tower approach operates substantively in commercial scope requiring higher limits (typically S$10M+ aggregate). Commercial implications include cover scope coordination across layers, considerations on primary layer scope (typically broadest with specific incident response capability), excess layer scope (typically follow primary layer terms), framework for premium efficiency at scale, and considerations on claim coordination across multiple insurers. Singapore commercial cover operates within [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) and Singapore [PDPA framework](https://www.pdpc.gov.sg/) integration considerations.
 
 ### The Sourced Detail
 
@@ -79,9 +79,9 @@ Cyber Liability cover integrates with [PDPA framework](https://sso.agc.gov.sg/Ac
 
 #### The commercial sophistication framework
 
-**Specific broker engagement** — commercial relationships for cover coordination.
+**Specific broker engagement** - commercial relationships for cover coordination.
 
-**Commercial counsel engagement** — commercial relationships for operational scope.
+**Commercial counsel engagement** - commercial relationships for operational scope.
 
 ### Common Mistakes / What Goes Wrong
 

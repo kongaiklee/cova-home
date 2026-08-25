@@ -13,14 +13,14 @@ word_count: 1615
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/bi-deductible-structures"
-meta_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\") —..."
+meta_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\")  - ..."
 og_title: "Business Interruption Deductible Structures: Time-Based vs Indemnity-Based, and How They Affect Claims"
-og_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\") —..."
+og_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\")  - ..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Business Interruption (BI) deductibles are typically structured in two architectures. **Time deductible** (also called "waiting period" or "time excess") — coverage starts only after a specified period (typically 24, 48, or 72 hours, sometimes longer) of business interruption. **Indemnity deductible** (also called "monetary excess") — coverage applies to losses above a specified dollar amount, regardless of time elapsed. Some policies combine both — coverage starts after the waiting period and beyond the monetary excess. The structures have substantially different implications: time deductible favours longer / larger interruptions (small short interruptions are entirely uninsured); indemnity deductible favours operations where small losses occur regularly (predictable cost). For Singapore SMEs procuring BI (whether standalone or as part of Property/Fire programmes — see [Article 158](/comparison/fire-vs-par-claim-mechanics) and [Article 159](/comparison/bi-vs-cbi-worked-example)), the deductible structure affects both premium and operational claim experience materially.
+> Business Interruption (BI) deductibles are typically structured in two architectures. **Time deductible** (also called "waiting period" or "time excess") - coverage starts only after a specified period (typically 24, 48, or 72 hours, sometimes longer) of business interruption. **Indemnity deductible** (also called "monetary excess") - coverage applies to losses above a specified dollar amount, regardless of time elapsed. Some policies combine both - coverage starts after the waiting period and beyond the monetary excess. The structures have substantially different implications: time deductible favours longer / larger interruptions (small short interruptions are entirely uninsured); indemnity deductible favours operations where small losses occur regularly (predictable cost). For Singapore SMEs procuring BI (whether standalone or as part of Property/Fire programmes - see [Article 158](/comparison/fire-vs-par-claim-mechanics) and [Article 159](/comparison/bi-vs-cbi-worked-example)), the deductible structure affects both premium and operational claim experience materially.
 
 ### The Sourced Detail
 
@@ -39,7 +39,7 @@ BI deductibles are one of the most consequential commercial decisions in BI proc
 
 After the waiting period elapses, coverage engages and responds to ongoing BI losses up to the indemnity period (typically 12-24 months).
 
-**The mechanism.** Losses during the waiting period are entirely the SME's exposure — uninsured. Losses after the waiting period are insured up to policy limits.
+**The mechanism.** Losses during the waiting period are entirely the SME's exposure - uninsured. Losses after the waiting period are insured up to policy limits.
 
 **The economics.** Time deductibles are common because:
 
@@ -100,7 +100,7 @@ Some policies combine time and indemnity deductibles:
 
 - Coverage requires both elapsed time beyond waiting period AND loss beyond indemnity deductible
 
-This is more restrictive than either alone — short losses (regardless of dollar value) and small losses (regardless of time) are both excluded.
+This is more restrictive than either alone - short losses (regardless of dollar value) and small losses (regardless of time) are both excluded.
 
 **Specific commercial application.** Combined structures appear in:
 
@@ -172,7 +172,7 @@ The deductible interacts with the BI sum insured:
 - Time deductible: how long can operations sustain without coverage
 - Indemnity deductible: what loss amount can be absorbed
 
-The interplay matters. A high deductible with appropriate sum insured is different from a low deductible with reduced sum insured — both reduce premium but in different ways with different operational implications.
+The interplay matters. A high deductible with appropriate sum insured is different from a low deductible with reduced sum insured - both reduce premium but in different ways with different operational implications.
 
 #### Specific BI extensions
 

@@ -20,7 +20,7 @@ og_description: "The Building and Construction Authority (BCA) Contractors Regis
 
 > **The Answer in 60 Seconds**
 >
-> The [Building and Construction Authority (BCA) Contractors Registration System (CRS)](https://www1.bca.gov.sg/procurement/contractors-registration-system-crs) is the official register of construction-related contractors in Singapore. Registration is required for contractors tendering for public sector projects and is a common pre-qualification standard in private sector work. CRS classifies contractors across **workhead categories** (CW for Construction Workheads, ME for Mechanical & Electrical, FM for Facilities Management, SY for Supply, etc.) and **financial grades** (typically L1–L6 for construction; LB1–LB2 for specialist; reflecting tendering capacity). Each workhead has insurance, licensing, and capability requirements. Registration is not insurance per se but drives insurance requirements through tender conditions, contract requirements, and BCA's own minimum standards. Verify current requirements directly on the BCA portal before placing cover.
+> The [Building and Construction Authority (BCA) Contractors Registration System (CRS)](https://www1.bca.gov.sg/procurement/contractors-registration-system-crs) is the official register of construction-related contractors in Singapore. Registration is required for contractors tendering for public sector projects and is a common pre-qualification standard in private sector work. CRS classifies contractors across **workhead categories** (CW for Construction Workheads, ME for Mechanical & Electrical, FM for Facilities Management, SY for Supply, etc.) and **financial grades** (typically L1-L6 for construction; LB1-LB2 for specialist; reflecting tendering capacity). Each workhead has insurance, licensing, and capability requirements. Registration is not insurance per se but drives insurance requirements through tender conditions, contract requirements, and BCA's own minimum standards. Verify current requirements directly on the BCA portal before placing cover.
 
 ### The Sourced Detail
 
@@ -30,8 +30,8 @@ The CRS is the central qualification mechanism for Singapore's construction indu
 
 CRS classifies contractors along two axes:
 
-**1. Workhead categories** — what type of work the contractor does
-**2. Financial grades** — what tendering capacity the contractor has
+**1. Workhead categories** - what type of work the contractor does
+**2. Financial grades** - what tendering capacity the contractor has
 
 A contractor may register for multiple workheads at different grades, reflecting the breadth of work undertaken.
 
@@ -40,8 +40,8 @@ A contractor may register for multiple workheads at different grades, reflecting
 Per the [BCA CRS workhead listing](https://www1.bca.gov.sg/procurement/contractors-registration-system-crs/categories-of-registration), the principal categories are:
 
 **Construction Workheads (CW):**
-- **CW01** General Building — buildings of all types
-- **CW02** Civil Engineering — roads, drains, infrastructure, bridges
+- **CW01** General Building - buildings of all types
+- **CW02** Civil Engineering - roads, drains, infrastructure, bridges
 - **CW03** Demolition (specialist)
 - **CW04** Marine Construction
 - **CW05** Earthworks (specialist)
@@ -52,7 +52,7 @@ Per the [BCA CRS workhead listing](https://www1.bca.gov.sg/procurement/contracto
 - **ME05** Air-Conditioning, Refrigeration, Ventilation Works
 - **ME11** Lift, Escalator, Travelator Installation
 - **ME12** Building Automation Systems
-- (and others — full listing on BCA portal)
+- (and others - full listing on BCA portal)
 
 **Construction-Related Workheads (CR):**
 - **CR01** Aluminium Works
@@ -62,7 +62,7 @@ Per the [BCA CRS workhead listing](https://www1.bca.gov.sg/procurement/contracto
 - **CR05** Tiling and Marble
 - **CR06** Painting and Decoration
 - **CR07** Waterproofing
-- (and others — full listing on BCA portal)
+- (and others - full listing on BCA portal)
 
 **Facilities Management Workheads (FM):**
 - **FM01** Facilities Management Services
@@ -76,12 +76,12 @@ Per the [BCA CRS workhead listing](https://www1.bca.gov.sg/procurement/contracto
 
 #### Financial grades
 
-Grades reflect tendering capacity — the maximum value of public sector contracts the contractor can tender for. Grades typically range:
+Grades reflect tendering capacity - the maximum value of public sector contracts the contractor can tender for. Grades typically range:
 
-- **L1, L2** — entry-level, smaller contracts
-- **L3, L4** — mid-tier
-- **L5, L6** — major contractors, larger contract values
-- **LB1, LB2** — specialist categories
+- **L1, L2** - entry-level, smaller contracts
+- **L3, L4** - mid-tier
+- **L5, L6** - major contractors, larger contract values
+- **LB1, LB2** - specialist categories
 
 Specific financial thresholds vary by workhead and are revised periodically by BCA. The [BCA financial grade thresholds](https://www1.bca.gov.sg/procurement/contractors-registration-system-crs) are published and updated on the portal.
 
@@ -122,7 +122,7 @@ Different workheads carry different risk profiles and insurance expectations:
 - Cross-border project considerations sometimes
 
 **Construction-Related (CR):**
-- Workhead-specific exposures — see [Article 21](/licensing/bca-cw01-cw02-contractor-insurance-requirements) on CW01/CW02, [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements) on ME workheads, and dedicated articles on individual workheads
+- Workhead-specific exposures - see [Article 21](/licensing/bca-cw01-cw02-contractor-insurance-requirements) on CW01/CW02, [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements) on ME workheads, and dedicated articles on individual workheads
 
 **Facilities Management (FM):**
 - Long-term service exposure
@@ -245,7 +245,7 @@ For contractors operating under CRS:
 - D&O may become relevant at scale
 
 **At adverse events:**
-- Safety incidents, project failures, regulatory action — all can affect both CRS standing and insurance terms
+- Safety incidents, project failures, regulatory action - all can affect both CRS standing and insurance terms
 - Coordinated response important
 
 #### Specific scenarios
@@ -283,7 +283,7 @@ For contractors operating under CRS:
 4. **Letting registration lapse during quiet periods.** Re-registration is more onerous than continuous renewal.
 5. **Not coordinating CRS, BLS, SCAL, and industry-specific licensing.** Each has separate insurance interactions.
 6. **Subcontractor CRS verification overlooked.** Contracting with non-registered subcontractors can affect main contract compliance.
-7. **At adverse events — not addressing both CRS and insurance dimensions.** Both regulatory standing and insurance terms can be affected.
+7. **At adverse events - not addressing both CRS and insurance dimensions.** Both regulatory standing and insurance terms can be affected.
 
 ### What This Means for Your Business
 
@@ -293,7 +293,7 @@ For Singapore construction contractors, CRS registration is the foundational reg
 
 2. **Match insurance to grade.** Higher grades typically warrant higher PL, PI, CAR, and Performance Bond capacity.
 
-3. **Maintain continuous compliance.** WICA, PL, project insurance — all must be current to support CRS standing.
+3. **Maintain continuous compliance.** WICA, PL, project insurance - all must be current to support CRS standing.
 
 4. **Plan for grade upgrades.** Insurance and track record must build together.
 
@@ -303,7 +303,7 @@ For Singapore construction contractors, CRS registration is the foundational reg
 
 For founders entering construction, the CRS pathway is structured but requires multi-year capability building. Insurance is a continuous discipline alongside operational and financial capability.
 
-For established contractors, CRS is foundation — the strategic question is grade progression and workhead expansion, with insurance scaling alongside.
+For established contractors, CRS is foundation - the strategic question is grade progression and workhead expansion, with insurance scaling alongside.
 
 ### Questions to Ask Your Adviser
 

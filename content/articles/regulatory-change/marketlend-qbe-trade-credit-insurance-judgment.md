@@ -20,11 +20,11 @@ og_description: "[Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte
 
 > **The Answer in 60 Seconds**
 >
-> [**Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd [2025] SGHC(I) 1**](https://www.elitigation.sg/) (judgment 8 January 2025, Singapore International Commercial Court, Sir Henry Bernard Eder IJ) is **Singapore's first trade credit insurance (TCI) judgment** and establishes critical precedents on TCI claim documentation, policy assignment, and physical-trade evidence requirements. **Eight claims totalling US$9,035,365.38 dismissed.** Court found multiple trades fictitious — Sealoud Asia tin ingots transactions (US$1.35m) and NSJ General wheat transactions (US$0.9m) specifically; remainder inferred fictitious. **Three QBE defences accepted:** (1) policy assignment to Marketlend without QBE's prior written consent voided coverage; (2) Novita Trading's failure to provide requested documents breached condition precedent to indemnity; (3) the claimants failed to prove the underlying trades were genuine physical trades — two were found outright fictitious — so no insured trade loss was established. Costs awarded to QBE: **SGD 1,476,831.90** ([2025] SGHC(I) 8). Singapore SME procurement implications for TCI: (a) **physical trade evidence is foundational** — paper-trade-only structures uninsurable; (b) **assignment requires explicit insurer consent** — invoice-finance / factoring arrangements creating insurance assignment without consent void cover; (c) **document request compliance is condition precedent** — insurer requests for specific documentation cannot be ignored or partially answered; (d) **fair presentation duty material** — full disclosure of trading history at inception is non-negotiable.
+> [**Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd [2025] SGHC(I) 1**](https://www.elitigation.sg/) (judgment 8 January 2025, Singapore International Commercial Court, Sir Henry Bernard Eder IJ) is **Singapore's first trade credit insurance (TCI) judgment** and establishes critical precedents on TCI claim documentation, policy assignment, and physical-trade evidence requirements. **Eight claims totalling US$9,035,365.38 dismissed.** Court found multiple trades fictitious - Sealoud Asia tin ingots transactions (US$1.35m) and NSJ General wheat transactions (US$0.9m) specifically; remainder inferred fictitious. **Three QBE defences accepted:** (1) policy assignment to Marketlend without QBE's prior written consent voided coverage; (2) Novita Trading's failure to provide requested documents breached condition precedent to indemnity; (3) the claimants failed to prove the underlying trades were genuine physical trades - two were found outright fictitious - so no insured trade loss was established. Costs awarded to QBE: **SGD 1,476,831.90** ([2025] SGHC(I) 8). Singapore SME procurement implications for TCI: (a) **physical trade evidence is foundational** - paper-trade-only structures uninsurable; (b) **assignment requires explicit insurer consent** - invoice-finance / factoring arrangements creating insurance assignment without consent void cover; (c) **document request compliance is condition precedent** - insurer requests for specific documentation cannot be ignored or partially answered; (d) **fair presentation duty material** - full disclosure of trading history at inception is non-negotiable.
 
 ### The Sourced Detail
 
-The Marketlend v QBE judgment fills what was previously a substantial gap in Singapore TCI jurisprudence. Before January 2025, TCI claims handling principles in Singapore drew from English authority (with associated translation issues). Now Singapore-domiciled TCI policies have direct local precedent — and the precedent strongly emphasises the operational discipline insurers expect.
+The Marketlend v QBE judgment fills what was previously a substantial gap in Singapore TCI jurisprudence. Before January 2025, TCI claims handling principles in Singapore drew from English authority (with associated translation issues). Now Singapore-domiciled TCI policies have direct local precedent - and the precedent strongly emphasises the operational discipline insurers expect.
 
 #### Case background
 
@@ -33,7 +33,7 @@ The Marketlend v QBE judgment fills what was previously a substantial gap in Sin
 - **Defendant:** [QBE Insurance (Singapore) Pte Ltd](https://www.qbe.com/sg)
 - **Underlying insured:** Novita Trading Limited (Singapore commodity trader; subsequently liquidated)
 
-**Court.** [Singapore International Commercial Court (SICC)](https://www.sicc.gov.sg/) — division of [Supreme Court of Singapore](https://www.judiciary.gov.sg/) — chosen for international commercial disputes.
+**Court.** [Singapore International Commercial Court (SICC)](https://www.sicc.gov.sg/) - division of [Supreme Court of Singapore](https://www.judiciary.gov.sg/) - chosen for international commercial disputes.
 
 **Underlying statutory framework.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966); common-law insurance principles; [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) for utmost-good-faith doctrine.
 
@@ -50,21 +50,21 @@ The Marketlend v QBE judgment fills what was previously a substantial gap in Sin
 
 Justice Sir Henry Bernard Eder IJ dismissed all eight claims, accepting QBE's defences:
 
-**Defence 1 — Assignment without consent.**
+**Defence 1 - Assignment without consent.**
 
 QBE policy contained explicit provision requiring written consent for assignment. Novita-to-Marketlend assignment proceeded without obtaining consent.
 
-Court held: although the assignment gave Marketlend standing to sue as assignee, the assignment without QBE's consent breached the policy — and QBE was therefore entitled to avoid the policy as against Marketlend and Australian Executor Trustees.
+Court held: although the assignment gave Marketlend standing to sue as assignee, the assignment without QBE's consent breached the policy - and QBE was therefore entitled to avoid the policy as against Marketlend and Australian Executor Trustees.
 
-Critically, this defence applied independently of the underlying merits — even if the trades had been genuine, the assignment defect alone would defeat the claims.
+Critically, this defence applied independently of the underlying merits - even if the trades had been genuine, the assignment defect alone would defeat the claims.
 
-**Defence 2 — Document request compliance breach.**
+**Defence 2 - Document request compliance breach.**
 
 QBE requested specific documentation during claim handling: contracts, shipping evidence, payment evidence, communications. Novita provided incomplete documentation; specific items requested were not produced.
 
 Court held: document request compliance was condition precedent to indemnity. Failure to comply with request breached condition precedent regardless of insurer's later willingness to consider claim on partial documentation.
 
-**Defence 3 — Underlying trades not proven genuine.**
+**Defence 3 - Underlying trades not proven genuine.**
 
 The burden lay on the claimants to prove, on the balance of probabilities, that the underlying trades were genuine physical trades. The court found they failed to do so:
 - Sealoud Asia tin ingot trades: court found "fictitious"
@@ -77,13 +77,13 @@ Court held: a TCI policy responds to losses on genuine physical trade defaults, 
 
 #### Key precedent points for TCI
 
-**Point 1 — Physical trade is foundational.**
+**Point 1 - Physical trade is foundational.**
 
 The court held that TCI is for genuine commercial trade defaults. Paper-trade structures (where goods don't physically move, or move only nominally) are uninsurable.
 
 For Singapore SMEs in commodity trading, manufacturing, distribution: TCI cover assumes physical trade flow. SMEs whose trade pattern is partially or wholly paper-based (back-to-back trading, structured commodity trade with minimal physical handling) face cover challenges.
 
-**Point 2 — Assignment requires consent.**
+**Point 2 - Assignment requires consent.**
 
 Many SMEs use TCI alongside invoice finance or factoring. The judgment establishes that assignment of TCI without insurer consent voids cover.
 
@@ -92,16 +92,16 @@ For SMEs:
 - Standard finance documents purporting to assign all-related-rights without specific TCI consent are insufficient
 - Pre-engagement disclosure to insurer of intended assignment is best practice
 
-**Point 3 — Document compliance is condition precedent.**
+**Point 3 - Document compliance is condition precedent.**
 
-Insurer document requests during claim handling are not advisory — they're contractual. Compliance is condition precedent to indemnity.
+Insurer document requests during claim handling are not advisory - they're contractual. Compliance is condition precedent to indemnity.
 
 For SMEs:
 - Maintain complete documentation throughout policy period
 - Treat insurer requests promptly and completely
 - Don't selectively respond to document requests
 
-**Point 4 — Fair presentation duty.**
+**Point 4 - Fair presentation duty.**
 
 Per [Article 356](/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11) (OCBC v Argoglobal), Singapore court has engaged with UK Insurance Act 2015 fair presentation principles. For TCI, this means full disclosure of trading practice, counterparty patterns, and historical performance at policy inception.
 
@@ -204,27 +204,27 @@ For SME TCI compliance, ensure documentation captures:
 
 For Singapore SMEs using or considering TCI:
 
-1. **Trade pattern review** — confirm physical-trade-based vs paper-trade structure.
+1. **Trade pattern review** - confirm physical-trade-based vs paper-trade structure.
 
-2. **Assignment management** — TCI consent for any finance arrangement involving assignment.
+2. **Assignment management** - TCI consent for any finance arrangement involving assignment.
 
-3. **Documentation discipline** — full records throughout policy period.
+3. **Documentation discipline** - full records throughout policy period.
 
-4. **Document request response** — prompt and complete to insurer queries.
+4. **Document request response** - prompt and complete to insurer queries.
 
-5. **Fair presentation at inception** — full disclosure of trading practice.
+5. **Fair presentation at inception** - full disclosure of trading practice.
 
-6. **Credit limit compliance** — never trade above insurer-approved limits.
+6. **Credit limit compliance** - never trade above insurer-approved limits.
 
-7. **Overdue notification timing** — within policy-specified window.
+7. **Overdue notification timing** - within policy-specified window.
 
-8. **Pre-existing dispute disclosure** — full transparency.
+8. **Pre-existing dispute disclosure** - full transparency.
 
-9. **Counterparty concentration** — proactive insurer engagement.
+9. **Counterparty concentration** - proactive insurer engagement.
 
-10. **Specialty broker engagement** — TCI market access via specialty broker.
+10. **Specialty broker engagement** - TCI market access via specialty broker.
 
-The cost of TCI compliance failure is substantial — Marketlend lost US$9.04m in claims plus SGD 1.48m in costs. The cost of compliance discipline is modest — primarily documentation rigor and insurer engagement quality.
+The cost of TCI compliance failure is substantial - Marketlend lost US$9.04m in claims plus SGD 1.48m in costs. The cost of compliance discipline is modest - primarily documentation rigor and insurer engagement quality.
 
 ### Questions to Ask Your Adviser
 

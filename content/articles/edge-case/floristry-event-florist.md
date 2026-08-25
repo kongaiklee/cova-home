@@ -20,7 +20,7 @@ og_description: "Singapore florists, wedding florists, event florists, corporate
 
 > **The Answer in 60 Seconds**
 >
-> Singapore florists, wedding florists, event florists, corporate floral design houses, and floral subscription services (Far East Flora, A Better Florist, Floral Magic, Bloomthis, Petal Pushers) operate in a vertical with a distinctive insurance challenge — perishable inventory, off-premises installation work, customer event timing dependency, and meaningful capital tied up in cold-chain infrastructure. Operating requirements: business registration with [ACRA](https://www.bizfile.gov.sg/), [URA](https://www.ura.gov.sg/) approved use, [SCDF](https://www.scdf.gov.sg/) compliance, and where importing flowers [NParks AVS](https://www.nparks.gov.sg/avs) phytosanitary requirements under the [Control of Plants Act 1993](https://sso.agc.gov.sg/Act/CPA1993). Insurance baseline: **Public Liability** including off-premises installation work (S$1M–S$5M; ladder work, structure attachment, venue property exposure), **Property/Fire** for cold-room and equipment (typical S$50,000–S$300,000), **Marine Cargo** for imported flowers (perishable cargo with cold-chain exposure), **Goods in Transit** for delivery and event installation, **WICA** for designers and operations staff, **Professional Indemnity** where event design / consultation creates contractual obligation, and **Cyber Liability** for booking and customer data. Distinctive risks: **wedding / event timing dependency** (no second chance for wedding day), **off-premises installation** at venues with own rules and exposures, **perishable cargo loss** from cold-chain breaks, and **venue property damage** during installation (ladder marks, ceiling attachments, fixture damage).
+> Singapore florists, wedding florists, event florists, corporate floral design houses, and floral subscription services (Far East Flora, A Better Florist, Floral Magic, Bloomthis, Petal Pushers) operate in a vertical with a distinctive insurance challenge - perishable inventory, off-premises installation work, customer event timing dependency, and meaningful capital tied up in cold-chain infrastructure. Operating requirements: business registration with [ACRA](https://www.bizfile.gov.sg/), [URA](https://www.ura.gov.sg/) approved use, [SCDF](https://www.scdf.gov.sg/) compliance, and where importing flowers [NParks AVS](https://www.nparks.gov.sg/avs) phytosanitary requirements under the [Control of Plants Act 1993](https://sso.agc.gov.sg/Act/CPA1993). Insurance baseline: **Public Liability** including off-premises installation work (S$1M-S$5M; ladder work, structure attachment, venue property exposure), **Property/Fire** for cold-room and equipment (typical S$50,000-S$300,000), **Marine Cargo** for imported flowers (perishable cargo with cold-chain exposure), **Goods in Transit** for delivery and event installation, **WICA** for designers and operations staff, **Professional Indemnity** where event design / consultation creates contractual obligation, and **Cyber Liability** for booking and customer data. Distinctive risks: **wedding / event timing dependency** (no second chance for wedding day), **off-premises installation** at venues with own rules and exposures, **perishable cargo loss** from cold-chain breaks, and **venue property damage** during installation (ladder marks, ceiling attachments, fixture damage).
 
 ### The Sourced Detail
 
@@ -44,7 +44,7 @@ The floristry vertical in Singapore has expanded materially through e-commerce f
 
 #### The unique risk profile
 
-**1. Perishable inventory.** Cut flowers have 5–14 day useful life. Cold-room failures, electrical outages, transport delays directly destroy inventory.
+**1. Perishable inventory.** Cut flowers have 5-14 day useful life. Cold-room failures, electrical outages, transport delays directly destroy inventory.
 
 **2. Wedding / event timing dependency.** A wedding-day floral failure has no second chance. Bride's emotional weight, guest experience, photography all affected. Settlement values reflect this dynamic.
 
@@ -62,19 +62,19 @@ The floristry vertical in Singapore has expanded materially through e-commerce f
 
 #### Regulatory layer
 
-**[ACRA](https://www.bizfile.gov.sg/)** — Business registration.
+**[ACRA](https://www.bizfile.gov.sg/)** - Business registration.
 
-**[URA](https://www.ura.gov.sg/)** — Approved retail / commercial use.
+**[URA](https://www.ura.gov.sg/)** - Approved retail / commercial use.
 
-**[NParks AVS](https://www.nparks.gov.sg/avs)** — Plant import permits and phytosanitary inspection under [Control of Plants Act](https://sso.agc.gov.sg/Act/CPA1993). Imported cut flowers require [Plant Import Licence](https://www.nparks.gov.sg/avs/plants/plant-imports-and-exports) and shipment-specific phytosanitary certificates.
+**[NParks AVS](https://www.nparks.gov.sg/avs)** - Plant import permits and phytosanitary inspection under [Control of Plants Act](https://sso.agc.gov.sg/Act/CPA1993). Imported cut flowers require [Plant Import Licence](https://www.nparks.gov.sg/avs/plants/plant-imports-and-exports) and shipment-specific phytosanitary certificates.
 
-**[SCDF](https://www.scdf.gov.sg/)** — Fire safety certificate for premises.
+**[SCDF](https://www.scdf.gov.sg/)** - Fire safety certificate for premises.
 
-**[NEA](https://www.nea.gov.sg/)** — Environmental health, waste management.
+**[NEA](https://www.nea.gov.sg/)** - Environmental health, waste management.
 
-**[MOM](https://www.mom.gov.sg/)** — WICA for staff. [Work at Heights regulations](https://www.mom.gov.sg/workplace-safety-and-health/work-at-heights) where installation work involves elevated work (ceiling installations, ladder use, scaffolding access).
+**[MOM](https://www.mom.gov.sg/)** - WICA for staff. [Work at Heights regulations](https://www.mom.gov.sg/workplace-safety-and-health/work-at-heights) where installation work involves elevated work (ceiling installations, ladder use, scaffolding access).
 
-**[CCCS](https://www.cccs.gov.sg/) / [CPFTA 2003](https://sso.agc.gov.sg/Act/CPFTA2003)** — the Consumer Protection (Fair Trading) Act, administered by the Competition and Consumer Commission of Singapore, governs contractual obligations, refund terms, and quality standards; consumer complaints are also handled by [CASE](https://www.case.org.sg/).
+**[CCCS](https://www.cccs.gov.sg/) / [CPFTA 2003](https://sso.agc.gov.sg/Act/CPFTA2003)** - the Consumer Protection (Fair Trading) Act, administered by the Competition and Consumer Commission of Singapore, governs contractual obligations, refund terms, and quality standards; consumer complaints are also handled by [CASE](https://www.case.org.sg/).
 
 #### Insurance build per business stage
 
@@ -88,7 +88,7 @@ The floristry vertical in Singapore has expanded materially through e-commerce f
 - Service agreement template (wedding / event clients)
 
 **Pre-launch insurance:**
-- **Public Liability** S$1M–S$5M (higher for event/wedding heavy operations)
+- **Public Liability** S$1M-S$5M (higher for event/wedding heavy operations)
 - **Property / Fire** for cold-room, equipment, fit-out, inventory
 - **Marine Cargo** for imported flower shipments (where applicable)
 - **Goods in Transit** for delivery and event installation
@@ -106,7 +106,7 @@ The floristry vertical in Singapore has expanded materially through e-commerce f
 - **Specific event cover** for high-value weddings / corporate events where standard PL may not extend
 - **Loss of Licence** where applicable (Plant Import Licence dependency)
 
-#### Public Liability — off-premises installation focus
+#### Public Liability - off-premises installation focus
 
 PL for event florists must specifically address:
 
@@ -124,7 +124,7 @@ PL for event florists must specifically address:
 
 **Customer / guest / venue staff injury** during installation or removal.
 
-#### Property and Fire — cold-room specific
+#### Property and Fire - cold-room specific
 
 Cold-room infrastructure is the operational core for serious florists:
 
@@ -141,7 +141,7 @@ Property / Fire scope should specifically address:
 
 Some standard policies exclude refrigeration failure unless equipment breakdown is the cause; ensure scope explicit.
 
-#### Marine Cargo — imported flowers specifically
+#### Marine Cargo - imported flowers specifically
 
 For wholesale importers and large retailers importing direct:
 
@@ -153,7 +153,7 @@ For wholesale importers and large retailers importing direct:
 
 Marine Cargo cover with specific perishables clause is appropriate. Premium reflects higher exposure.
 
-#### Goods in Transit — delivery and event logistics
+#### Goods in Transit - delivery and event logistics
 
 Daily / weekly movements:
 
@@ -163,7 +163,7 @@ Daily / weekly movements:
 
 Refrigerated vehicle transit, hot-day delivery delays, traffic-related delays all create exposure. Cover scope should include all expected movement patterns and conditions.
 
-#### Professional Indemnity — design and consultation
+#### Professional Indemnity - design and consultation
 
 Where event florist provides design consultation, mood-board work, contractual aesthetic obligation:
 
@@ -204,7 +204,7 @@ Settlement values for wedding-day failures often exceed pure financial loss meas
 
 5. **Goods in Transit gap.** Movement legs not all covered.
 
-6. **Work-at-heights compliance gap.** Ladder / elevated work without [MOM Work at Heights](https://www.mom.gov.sg/workplace-safety-and-health/work-at-heights) compliance — both regulatory and insurance exposure.
+6. **Work-at-heights compliance gap.** Ladder / elevated work without [MOM Work at Heights](https://www.mom.gov.sg/workplace-safety-and-health/work-at-heights) compliance - both regulatory and insurance exposure.
 
 7. **Venue property damage scope unclear.** Standard PL may exclude property in operator's care/control.
 
@@ -238,7 +238,7 @@ For Singapore florist / event florist operators:
 
 10. **Engage broker familiar with floristry / events vertical.** General retail brokers may default to standard retail that misses cold-chain and off-premises depth.
 
-The cost of properly structured cover for a Singapore floristry / event florist (S$300,000–S$1.5M annual revenue) is typically SGD 3,500–12,000 annually. The cost of a single significant claim — wedding-day failure, cold-room destruction at peak season, multi-shipment phytosanitary loss — can exceed many years of premium.
+The cost of properly structured cover for a Singapore floristry / event florist (S$300,000-S$1.5M annual revenue) is typically SGD 3,500-12,000 annually. The cost of a single significant claim - wedding-day failure, cold-room destruction at peak season, multi-shipment phytosanitary loss - can exceed many years of premium.
 
 ### Questions to Ask Your Adviser
 

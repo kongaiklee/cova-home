@@ -13,67 +13,67 @@ word_count: 1788
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/multi-injury-mass-casualty-mom-major-classification"
-meta_description: "A single workplace event has injured three or more workers — structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on..."
+meta_description: "A single workplace event has injured three or more workers - structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on..."
 og_title: "Multi-Injury Workplace Incident: 3+ Workers Down, MOM Major-Incident Classification"
-og_description: "A single workplace event has injured three or more workers — structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on..."
+og_description: "A single workplace event has injured three or more workers - structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A single workplace event has injured three or more workers — structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on scene, police are investigating, [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) is classifying it as a "major incident" under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). Critical first 6 hours: (1) site lockdown — do not move equipment unless SCDF directs; (2) **issue written instruction to your VSS provider extending footage retention from 30 to 180 days BEFORE routine rotation overwrites** (mandatory for projects ≥ SGD 5m since 1 June 2024); (3) preserve permit-to-work documentation, witness accounts taken separately, gas detector calibration logs, equipment maintenance records; (4) activate WICA insurer 24-hour line. First 72 hours: WSH (Incident Reporting) Regulations notification via MOM iReport, hospital coordination, family notification, Workplace Safety and Health Officer designation. First 14 days: Demerit Points System exposure (25+ points / 18 months can debar new foreign worker passes), mandatory external safety audit if classified "major injuries," potential Top Executive WSH Programme attendance for CEO/Board. Insurance angles: WICA mandatory designated insurer (per [Article 269](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026) framework); public liability if third parties injured; D&O notification immediately on receipt of any MOM investigation correspondence (claims-made trigger); BI typically excluded for stop-work order period — specific carve-back required. Enforcement context: maximum first-conviction WSH fine raised to SGD 50,000 from 1 June 2024; 43 workplace fatalities recorded in 2024; nine construction sites received stop-work orders in 2H2024.
+> A single workplace event has injured three or more workers - structural collapse, gas release, scaffold failure, fire, electrical incident. SCDF is on scene, police are investigating, [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) is classifying it as a "major incident" under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). Critical first 6 hours: (1) site lockdown - do not move equipment unless SCDF directs; (2) **issue written instruction to your VSS provider extending footage retention from 30 to 180 days BEFORE routine rotation overwrites** (mandatory for projects ≥ SGD 5m since 1 June 2024); (3) preserve permit-to-work documentation, witness accounts taken separately, gas detector calibration logs, equipment maintenance records; (4) activate WICA insurer 24-hour line. First 72 hours: WSH (Incident Reporting) Regulations notification via MOM iReport, hospital coordination, family notification, Workplace Safety and Health Officer designation. First 14 days: Demerit Points System exposure (25+ points / 18 months can debar new foreign worker passes), mandatory external safety audit if classified "major injuries," potential Top Executive WSH Programme attendance for CEO/Board. Insurance angles: WICA mandatory designated insurer (per [Article 269](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026) framework); public liability if third parties injured; D&O notification immediately on receipt of any MOM investigation correspondence (claims-made trigger); BI typically excluded for stop-work order period - specific carve-back required. Enforcement context: maximum first-conviction WSH fine raised to SGD 50,000 from 1 June 2024; 43 workplace fatalities recorded in 2024; nine construction sites received stop-work orders in 2H2024.
 
 ### The Sourced Detail
 
-A multi-casualty workplace event compresses several different operational and statutory clocks into the same first 24 hours. The actions taken in those hours determine whether the SME's WICA, public liability, and D&O insurance positions are preserved or compromised — independent of the underlying merits of the incident.
+A multi-casualty workplace event compresses several different operational and statutory clocks into the same first 24 hours. The actions taken in those hours determine whether the SME's WICA, public liability, and D&O insurance positions are preserved or compromised - independent of the underlying merits of the incident.
 
 #### Statutory framework engaged
 
-**Primary statute.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) — Part 4 establishes the duties of workplace stakeholders: occupiers under section 11, employers under section 12, principals under section 14.
+**Primary statute.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) - Part 4 establishes the duties of workplace stakeholders: occupiers under section 11, employers under section 12, principals under section 14.
 
-**Reporting framework.** [Workplace Safety and Health (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3) — requires reporting of workplace incidents, dangerous occurrences, and occupational diseases.
+**Reporting framework.** [Workplace Safety and Health (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3) - requires reporting of workplace incidents, dangerous occurrences, and occupational diseases.
 
-**Penalty framework.** [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) — effective 1 June 2024, raised the maximum fine for a WSH subsidiary-legislation breach that is a major cause of serious harm to SGD 50,000 (tiered: SGD 20,000 for a contributing-factor breach; SGD 10,000 or below for administrative breaches).
+**Penalty framework.** [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) - effective 1 June 2024, raised the maximum fine for a WSH subsidiary-legislation breach that is a major cause of serious harm to SGD 50,000 (tiered: SGD 20,000 for a contributing-factor breach; SGD 10,000 or below for administrative breaches).
 
-**VSS framework.** WSH (General Provisions) (Amendment No. 2) Regulations 2024 — mandatory video surveillance system for projects ≥ SGD 5m contract sum, retention 30 days normal / 180 days post-incident, 1080p HD / 12 fps minimum.
+**VSS framework.** WSH (General Provisions) (Amendment No. 2) Regulations 2024 - mandatory video surveillance system for projects ≥ SGD 5m contract sum, retention 30 days normal / 180 days post-incident, 1080p HD / 12 fps minimum.
 
-**Compensation framework.** [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) — mandatory designated insurer cover, limits raised effective 1 November 2025.
+**Compensation framework.** [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - mandatory designated insurer cover, limits raised effective 1 November 2025.
 
 #### Hour-by-hour response
 
-**Hour 0-1 — Triage and immediate safety.**
+**Hour 0-1 - Triage and immediate safety.**
 
-- Account for all workers — confirm casualty count
+- Account for all workers - confirm casualty count
 - Coordinate with SCDF on rescue and medical evacuation
 - Cordon area; do not allow movement of equipment unless SCDF directs
 - Identify on-site Workplace Safety and Health Officer (mandatory for ≥ 100 employees)
 - Initiate company emergency response plan
 
-**Hour 1-3 — Evidence preservation.**
+**Hour 1-3 - Evidence preservation.**
 
-- **Issue written notice to VSS provider extending retention to 180 days** — without this written instruction, routine 30-day rotation will overwrite footage
+- **Issue written notice to VSS provider extending retention to 180 days** - without this written instruction, routine 30-day rotation will overwrite footage
 - Preserve permit-to-work for the activity in question
 - Collect gas detector calibration logs, equipment maintenance records, lifting plan if applicable
-- Take initial witness accounts SEPARATELY — do not allow witnesses to discuss before statement
+- Take initial witness accounts SEPARATELY - do not allow witnesses to discuss before statement
 - Photograph the scene comprehensively (multiple angles, scale references, timestamps)
 - Identify and preserve digital evidence (PLC logs, control system logs, badge access records)
 
-**Hour 3-6 — Notification and stakeholder management.**
+**Hour 3-6 - Notification and stakeholder management.**
 
-- Notify [MOM via iReport](https://www.mom.gov.sg/) — immediate notification required for fatality or dangerous occurrence
-- Activate WICA insurer 24-hour line — every designated WICA insurer maintains one
+- Notify [MOM via iReport](https://www.mom.gov.sg/) - immediate notification required for fatality or dangerous occurrence
+- Activate WICA insurer 24-hour line - every designated WICA insurer maintains one
 - Engage external safety consultant if not already on retainer
-- Family notification protocol for injured / deceased workers — coordinate with hospital, employment agency if foreign workers
-- Internal communication protocol — single spokesperson, no external statements without legal review
+- Family notification protocol for injured / deceased workers - coordinate with hospital, employment agency if foreign workers
+- Internal communication protocol - single spokesperson, no external statements without legal review
 
-**Hour 6-24 — Document and notify systematically.**
+**Hour 6-24 - Document and notify systematically.**
 
 - Complete iReport submission with available facts
 - Engage external WSH legal counsel if MOM presence indicates investigation
-- D&O insurer claims-made notification — receipt of any MOM correspondence is itself the "circumstance" triggering coverage
+- D&O insurer claims-made notification - receipt of any MOM correspondence is itself the "circumstance" triggering coverage
 - Public liability insurer notification if any third parties (visitors, contractors, neighbouring properties) affected
 - Coordinate with employment agency for foreign workers' families
 
-#### First 72 hours — formal compliance phase
+#### First 72 hours - formal compliance phase
 
 **WSH (Incident Reporting) compliance.** Specific reporting timelines:
 - Workplace fatality: immediate notification + 10 days written report
@@ -94,9 +94,9 @@ A multi-casualty workplace event compresses several different operational and st
 - Family/employer liaison for ongoing care decisions
 - Repatriation considerations for foreign workers (if recovery in home country)
 
-**Communications.** No external statements without legal review. Employees, customers, suppliers may have heard about the incident — internal communication strategy needed before media contact.
+**Communications.** No external statements without legal review. Employees, customers, suppliers may have heard about the incident - internal communication strategy needed before media contact.
 
-#### First 14 days — investigation and exposure assessment
+#### First 14 days - investigation and exposure assessment
 
 **Demerit Points System exposure.** For construction and certain other sectors:
 - Each WSH contravention: specific demerit points
@@ -119,7 +119,7 @@ A multi-casualty workplace event compresses several different operational and st
 - Inadequate safety management system
 - Pattern of non-compliance
 
-#### Insurance angle — what to notify, when, to whom
+#### Insurance angle - what to notify, when, to whom
 
 **WICA designated insurer (mandatory).**
 - Activated within hour 0-3
@@ -134,7 +134,7 @@ A multi-casualty workplace event compresses several different operational and st
 - Coordinate with WICA where employee and visitor both injured
 
 **D&O.**
-- Critical: claims-made cover requires "circumstance" notification on receipt of any MOM investigation correspondence — even before formal investigation outcome
+- Critical: claims-made cover requires "circumstance" notification on receipt of any MOM investigation correspondence - even before formal investigation outcome
 - Defence costs cover for personal prosecution of a director or officer under WSHA section 48 (offences by bodies corporate)
 - Indemnification claims against company
 - Side A protection for personal liability where company indemnification unavailable
@@ -152,7 +152,7 @@ A multi-casualty workplace event compresses several different operational and st
 **Construction.**
 - Highest fatality rate per sector (20 of 43 in 2024)
 - Demerit points system most actively applied
-- Tendering implications — government tender debarment for poor records
+- Tendering implications - government tender debarment for poor records
 - Sub-contractor liability cascade
 
 **Manufacturing.**
@@ -210,7 +210,7 @@ For Singapore SMEs facing multi-casualty workplace incidents:
 
 1. **Immediate evidence preservation** including VSS retention extension in writing.
 
-2. **Witness statement protocol** — separate, documented, professional.
+2. **Witness statement protocol** - separate, documented, professional.
 
 3. **Statutory notification compliance** within applicable windows.
 
@@ -222,13 +222,13 @@ For Singapore SMEs facing multi-casualty workplace incidents:
 
 7. **Internal communication discipline** with single spokesperson.
 
-8. **Stakeholder management** — workers, customers, suppliers, regulators.
+8. **Stakeholder management** - workers, customers, suppliers, regulators.
 
 9. **Demerit points exposure** assessment for tender impact.
 
 10. **Long-term remediation** including safety management system review.
 
-The cost of a major workplace incident extends well beyond the immediate casualties — corporate prosecution, director personal liability, demerit points, tender debarment, and reputation harm can collectively exceed SGD 1m+ even for moderate-severity events. The cost of pre-incident preparation (incident response plan, broker engagement, document discipline) is bounded — typically under SGD 50,000 / year for a meaningful programme.
+The cost of a major workplace incident extends well beyond the immediate casualties - corporate prosecution, director personal liability, demerit points, tender debarment, and reputation harm can collectively exceed SGD 1m+ even for moderate-severity events. The cost of pre-incident preparation (incident response plan, broker engagement, document discipline) is bounded - typically under SGD 50,000 / year for a meaningful programme.
 
 ### Questions to Ask Your Adviser
 
@@ -239,8 +239,8 @@ The cost of a major workplace incident extends well beyond the immediate casualt
 5. For external counsel, is on-call WSH legal counsel engaged with relationship and rate established before incident?
 
 ### Related Information
-- [A Worker Just Died on Site — What Do I Do Now?](/crisis/worker-fatality-on-site)
-- [MOM Just Notified Us of a Workplace Incident Investigation — What Do I Do Now?](/crisis/mom-workplace-incident-investigation)
+- [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
+- [MOM Just Notified Us of a Workplace Incident Investigation - What Do I Do Now?](/crisis/mom-workplace-incident-investigation)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

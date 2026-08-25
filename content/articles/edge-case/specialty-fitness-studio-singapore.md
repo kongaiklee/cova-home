@@ -13,14 +13,14 @@ word_count: 1361
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/edge-case/specialty-fitness-studio-singapore"
-meta_description: "Specialty fitness studios in Singapore — covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
+meta_description: "Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
 og_title: "Specialty Fitness Studio: The Specific Insurance Profile for Yoga, Pilates, CrossFit, Boxing, and Specialty Movement Operations"
-og_description: "Specialty fitness studios in Singapore — covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
+og_description: "Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Specialty fitness studios in Singapore — covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre, specialty movement, and adjacent operations — face an insurance profile distinct from generic commercial gym operations. The combination of specific instructor-led participation (creating advisory liability scope), specific equipment-related exposure (reformers, kettlebells, barbells, specific other equipment), specific premises scope, and framework for membership models and class-pack models creates an insurance profile that benefits from specialist understanding. Foundational insurance includes Public Liability with elevated limits given participation injury scope, Professional Indemnity for instructor advisory scope, Property/Fire with specific equipment provisions, BI cover, EPL, D&O, Commercial Crime for membership payment handling, Cyber Liability for member data, and commercial sensitivity around participant injury management.
+> Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre, specialty movement, and adjacent operations - face an insurance profile distinct from generic commercial gym operations. The combination of specific instructor-led participation (creating advisory liability scope), specific equipment-related exposure (reformers, kettlebells, barbells, specific other equipment), specific premises scope, and framework for membership models and class-pack models creates an insurance profile that benefits from specialist understanding. Foundational insurance includes Public Liability with elevated limits given participation injury scope, Professional Indemnity for instructor advisory scope, Property/Fire with specific equipment provisions, BI cover, EPL, D&O, Commercial Crime for membership payment handling, Cyber Liability for member data, and commercial sensitivity around participant injury management.
 
 ### The Sourced Detail
 
@@ -70,15 +70,15 @@ Commercial Crime / employee dishonesty cover. Where studios handle membership an
 
 D&O cover for incorporated structures.
 
-EPL cover addressing employment relationships — particularly relevant for specific instructor relationships (where instructors operate as employees vs contractors; misclassification carries WICA Section 25 exposure per [Article 67](/document-legal/wica-section-25-offence)).
+EPL cover addressing employment relationships - particularly relevant for specific instructor relationships (where instructors operate as employees vs contractors; misclassification carries WICA Section 25 exposure per [Article 67](/document-legal/wica-section-25-offence)).
 
 Cyber Liability cover for member personal data and specific commercial information.
 
 #### Specific instructor classification considerations
 
-Instructor classification — employee versus contractor — matters substantially for specialty fitness operations; treating a substantively employed instructor as a contractor creates WICA Section 25 exposure (per [Article 67](/document-legal/wica-section-25-offence) on the WICA Section 25 offence).
+Instructor classification - employee versus contractor - matters substantially for specialty fitness operations; treating a substantively employed instructor as a contractor creates WICA Section 25 exposure (per [Article 67](/document-legal/wica-section-25-offence) on the WICA Section 25 offence).
 
-Operational scenarios include studio-employed instructors (clearly within employer-employee framework, specific WICA scope, specific EPL scope), specific contractor instructors (where instructors operate independently — considerations on classification matters; specific MOM scrutiny applies where classification is mismatched to operational reality), specific hybrid operational scope, operational considerations.
+Operational scenarios include studio-employed instructors (clearly within employer-employee framework, specific WICA scope, specific EPL scope), specific contractor instructors (where instructors operate independently - considerations on classification matters; specific MOM scrutiny applies where classification is mismatched to operational reality), specific hybrid operational scope, operational considerations.
 
 #### Specific incident scenarios
 

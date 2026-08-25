@@ -1,5 +1,5 @@
 ---
-title: "MOM Just Issued a Stop-Work Order on Our Site — What Do I Do Now?"
+title: "MOM Just Issued a Stop-Work Order on Our Site - What Do I Do Now?"
 slug: "/crisis/mom-stop-work-order-issued"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,17 +14,17 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/mom-stop-work-order-issued"
 meta_description: "A Stop-Work Order (SWO) under Section 21 of the Workplace Safety and Health Act 2006 is issued where the Ministry of Manpower (MOM) considers there is an..."
-og_title: "MOM Just Issued a Stop-Work Order on Our Site — What Do I Do Now?"
+og_title: "MOM Just Issued a Stop-Work Order on Our Site - What Do I Do Now?"
 og_description: "A Stop-Work Order (SWO) under Section 21 of the Workplace Safety and Health Act 2006 is issued where the Ministry of Manpower (MOM) considers there is an..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Stop-Work Order (SWO) under [Section 21 of the Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) is issued where the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) considers there is an imminent risk to safety, health, or life. The order requires you to **stop the specified work immediately** until MOM is satisfied that remedial measures have been taken. Failure to comply is a criminal offence — fines and imprisonment for individuals; corporate liability for the entity. Most insurance policies do **not** directly cover the cost of an SWO (production loss, idle workforce, contract penalties), but **Business Interruption** under property covers may respond if the SWO follows a covered insured event (e.g. fire, accident). **WICA, PI, D&O, and EPL** may all respond to associated claims arising from the underlying incident. Engage a workplace safety lawyer and your insurance broker within hours of receipt.
+> A Stop-Work Order (SWO) under [Section 21 of the Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) is issued where the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) considers there is an imminent risk to safety, health, or life. The order requires you to **stop the specified work immediately** until MOM is satisfied that remedial measures have been taken. Failure to comply is a criminal offence - fines and imprisonment for individuals; corporate liability for the entity. Most insurance policies do **not** directly cover the cost of an SWO (production loss, idle workforce, contract penalties), but **Business Interruption** under property covers may respond if the SWO follows a covered insured event (e.g. fire, accident). **WICA, PI, D&O, and EPL** may all respond to associated claims arising from the underlying incident. Engage a workplace safety lawyer and your insurance broker within hours of receipt.
 
 ### The Step-by-Step
 
-A Stop-Work Order is a regulatory enforcement instrument that halts business operations on safety grounds. The financial impact accumulates by the day — idle workforce, contract penalties, customer commitments missed, fixed costs continuing. The regulatory dimension and the commercial dimension run in parallel and need coordinated handling.
+A Stop-Work Order is a regulatory enforcement instrument that halts business operations on safety grounds. The financial impact accumulates by the day - idle workforce, contract penalties, customer commitments missed, fixed costs continuing. The regulatory dimension and the commercial dimension run in parallel and need coordinated handling.
 
 #### What an SWO actually is
 
@@ -41,7 +41,7 @@ The order specifies:
 - The conditions for resumption
 - Any specific remedial measures required
 
-#### Hour 0–4 — Immediate response
+#### Hour 0-4 - Immediate response
 
 **Read the order carefully.** Identify:
 - What specific work is stopped
@@ -54,7 +54,7 @@ The order specifies:
 
 **Make the site safe.** If the SWO follows an incident, secure the area, preserve evidence, address immediate safety hazards.
 
-**Activate emergency response if relevant.** If the SWO relates to a recent serious incident (injury or near-miss), the response sequence may include MOM iReport, insurer notification, family notification — see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
+**Activate emergency response if relevant.** If the SWO relates to a recent serious incident (injury or near-miss), the response sequence may include MOM iReport, insurer notification, family notification - see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
 
 **Engage workplace safety lawyer.** Within hours, not days. The lawyer's role:
 - Review the SWO for procedural validity
@@ -63,7 +63,7 @@ The order specifies:
 - Manage any associated criminal exposure (WSHA penalties)
 - Coordinate with insurer counsel if applicable
 
-#### Hour 4–24 — Notify insurer and broker
+#### Hour 4-24 - Notify insurer and broker
 
 **Notify your broker.** The broker can identify which policies may respond to associated losses:
 - Property/Fire/PAR if the SWO relates to a covered property event
@@ -73,7 +73,7 @@ The order specifies:
 - PI if the SWO arises from a professional service failure (e.g. structural engineer's design causing site safety concern)
 - D&O if the matter has director-level governance implications
 
-**Notify all relevant insurers.** For a complex incident, multiple insurance lines may need notification — each within its own window.
+**Notify all relevant insurers.** For a complex incident, multiple insurance lines may need notification - each within its own window.
 
 **Document the chronology.** Time-stamped record of:
 - When SWO was received
@@ -82,7 +82,7 @@ The order specifies:
 - Remedial actions taken
 - Communications with MOM
 
-#### Day 1–7 — Remedial action
+#### Day 1-7 - Remedial action
 
 **Implement specified remedial measures.** Per the SWO. Document each step with photographs, time stamps, and responsible person.
 
@@ -103,9 +103,9 @@ The order specifies:
 - Affected workers may be redirected to other work, sent on leave, or temporarily suspended
 - Employment contracts and statutory obligations continue
 - Salary obligations continue (per Employment Act 1968 unless specific arrangement applies)
-- Communication to staff matters — uncertainty is corrosive
+- Communication to staff matters - uncertainty is corrosive
 
-#### Day 7–30 — Re-inspection and lifting
+#### Day 7-30 - Re-inspection and lifting
 
 **Request re-inspection** when remedial measures are complete. MOM will typically:
 - Schedule re-inspection
@@ -114,7 +114,7 @@ The order specifies:
 - May lift the SWO partially or fully
 - May extend the SWO if compliance is inadequate
 
-**Documentation throughout matters.** Photographs, technical reports, training records, equipment certifications — all support the lift application.
+**Documentation throughout matters.** Photographs, technical reports, training records, equipment certifications - all support the lift application.
 
 **Public communications.** Generally hold any public statement until the SWO is lifted. Premature messaging can complicate the regulatory process.
 
@@ -150,11 +150,11 @@ If the SWO follows an insured event (e.g. fire, machinery breakdown causing inju
 - What is the indemnity period?
 - Is "denial of access" or "regulatory action following insured event" specifically covered?
 
-Some BI policies have specific extensions for "denial of access" or "Public Authority orders following insured event" — these may extend cover to SWO-driven losses where the SWO follows a covered cause.
+Some BI policies have specific extensions for "denial of access" or "Public Authority orders following insured event" - these may extend cover to SWO-driven losses where the SWO follows a covered cause.
 
 **WICA (if injury underlies the SWO):**
 
-Standard WICA response to the worker injury — see [Article 80](/crisis/worker-fatality-on-site). Doesn't directly cover the SWO impact but addresses the worker compensation claim.
+Standard WICA response to the worker injury - see [Article 80](/crisis/worker-fatality-on-site). Doesn't directly cover the SWO impact but addresses the worker compensation claim.
 
 **Public Liability (if third parties affected):**
 
@@ -162,7 +162,7 @@ If third parties were injured or property damaged by the underlying event, PL ma
 
 **Professional Indemnity (if professional service failure caused the situation):**
 
-If a designer, engineer, or consultant's professional failure contributed to the unsafe condition, PI may respond — to the consultant's policy, not the operator's.
+If a designer, engineer, or consultant's professional failure contributed to the unsafe condition, PI may respond - to the consultant's policy, not the operator's.
 
 **D&O (governance angle):**
 
@@ -248,17 +248,17 @@ The discipline:
 
 1. **Maintain WSH compliance proactively.** Most SWOs follow detectable patterns of compliance drift; addressing them early prevents the enforcement event.
 
-2. **Hold appropriate insurance for associated risks.** WICA, PL, BI with denial-of-access extension, D&O — each may respond to different aspects.
+2. **Hold appropriate insurance for associated risks.** WICA, PL, BI with denial-of-access extension, D&O - each may respond to different aspects.
 
 3. **Engage MOM cooperatively at routine inspections.** A contentious inspection relationship escalates faster.
 
 4. **Maintain pre-engaged workplace safety legal counsel.** A WSHA matter is not the moment to be searching for a lawyer.
 
-5. **Build incident response that includes regulatory dimension.** Not just emergency services and insurance — also MOM, Coroner, SPF where applicable.
+5. **Build incident response that includes regulatory dimension.** Not just emergency services and insurance - also MOM, Coroner, SPF where applicable.
 
 6. **Document compliance continuously.** The defence to most enforcement matters is contemporaneous documentation of safe practices.
 
-The cost of the SWO itself is unavoidable once issued. The cost of poor response — extended stoppage, criminal liability, damaged regulatory relationship, contested insurance claims — is largely controllable.
+The cost of the SWO itself is unavoidable once issued. The cost of poor response - extended stoppage, criminal liability, damaged regulatory relationship, contested insurance claims - is largely controllable.
 
 ### Questions to Ask Your Adviser
 
@@ -269,7 +269,7 @@ The cost of the SWO itself is unavoidable once issued. The cost of poor response
 5. What pre-incident WSH compliance documentation does the insurer recommend or require for renewal?
 
 ### Related Information
-- [A Worker Just Died on Site — What Do I Do Now?](/crisis/worker-fatality-on-site)
+- [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
 

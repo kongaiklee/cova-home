@@ -13,14 +13,14 @@ word_count: 1335
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/mia-1906-utmost-good-faith"
-meta_description: "The Marine Insurance Act 1906 (MIA) — applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance..."
+meta_description: "The Marine Insurance Act 1906 (MIA) - applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance..."
 og_title: "Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications"
-og_description: "The Marine Insurance Act 1906 (MIA) — applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance..."
+og_description: "The Marine Insurance Act 1906 (MIA) - applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The [Marine Insurance Act 1906 (MIA)](https://sso.agc.gov.sg/Act/MIA1906) — applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance commercial scope — creates the utmost good faith (uberrimae fidei) doctrine through Sections 17-20. Section 17 imposes utmost good faith as the foundational duty, Section 18 addresses the assured's duty of disclosure, Section 19 addresses the agent's duty of disclosure, and Section 20 addresses representations during placement. The framework substantively shapes Singapore commercial insurance — while MIA 1906 directly applies to marine insurance scope, the utmost good faith doctrine has been substantially extended through common law and specific statutory frameworks to non-marine commercial insurance scope. Commercial implications include disclosure discipline at placement, operational representation scope, considerations on material non-disclosure scenarios, and operational avoidance remedies available to insurers. Modern reforms in specific other jurisdictions ([UK Insurance Act 2015](https://www.legislation.gov.uk/), [Insurance Contracts Act 1984](https://www.legislation.gov.au/) in Australia) have substantively modernised utmost good faith framework but Singapore retains the MIA 1906 framework as foundational.
+> The [Marine Insurance Act 1906 (MIA)](https://sso.agc.gov.sg/Act/MIA1906) - applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance commercial scope - creates the utmost good faith (uberrimae fidei) doctrine through Sections 17-20. Section 17 imposes utmost good faith as the foundational duty, Section 18 addresses the assured's duty of disclosure, Section 19 addresses the agent's duty of disclosure, and Section 20 addresses representations during placement. The framework substantively shapes Singapore commercial insurance - while MIA 1906 directly applies to marine insurance scope, the utmost good faith doctrine has been substantially extended through common law and specific statutory frameworks to non-marine commercial insurance scope. Commercial implications include disclosure discipline at placement, operational representation scope, considerations on material non-disclosure scenarios, and operational avoidance remedies available to insurers. Modern reforms in specific other jurisdictions ([UK Insurance Act 2015](https://www.legislation.gov.uk/), [Insurance Contracts Act 1984](https://www.legislation.gov.au/) in Australia) have substantively modernised utmost good faith framework but Singapore retains the MIA 1906 framework as foundational.
 
 ### The Sourced Detail
 
@@ -44,17 +44,17 @@ The materiality test under Section 18 has been substantially developed through c
 
 Materially relevant circumstances typically include:
 
-**Risk-affecting circumstances** — claims history, prior losses, operational scope, operational scope considerations.
+**Risk-affecting circumstances** - claims history, prior losses, operational scope, operational scope considerations.
 
-**Moral hazard circumstances** — prior insurance refusals, prior policy cancellations, operational scope considerations.
+**Moral hazard circumstances** - prior insurance refusals, prior policy cancellations, operational scope considerations.
 
-**Operational scope** — circumstances operational scope where prudent insurer would consider the circumstance material.
+**Operational scope** - circumstances operational scope where prudent insurer would consider the circumstance material.
 
 #### The non-disclosure framework
 
 Where the assured fails to disclose material circumstances, framework for insurer remedies arises.
 
-Under traditional MIA 1906 framework, the insurer may avoid the contract from inception (avoidance ab initio). The remedy is substantively severe — the contract is treated as void, premium may be returnable but cover is treated as never having operated.
+Under traditional MIA 1906 framework, the insurer may avoid the contract from inception (avoidance ab initio). The remedy is substantively severe - the contract is treated as void, premium may be returnable but cover is treated as never having operated.
 
 Modern commercial scope considerations include:
 
@@ -68,11 +68,11 @@ Singapore commercial common law has substantially developed the utmost good fait
 
 Considerations on Singapore commercial scope distinguishes between:
 
-**Marine insurance scope** — direct MIA 1906 application.
+**Marine insurance scope** - direct MIA 1906 application.
 
-**Non-marine commercial insurance scope** — common law extension of utmost good faith doctrine.
+**Non-marine commercial insurance scope** - common law extension of utmost good faith doctrine.
 
-**Specific consumer insurance scope** — considerations on consumer commercial scope (though less commercially relevant for SME commercial scope).
+**Specific consumer insurance scope** - considerations on consumer commercial scope (though less commercially relevant for SME commercial scope).
 
 #### Modern reforms in specific other jurisdictions
 
@@ -84,29 +84,29 @@ Modern reforms in specific other jurisdictions provide specific commercial conte
 
 **[Marine Insurance Act 1909 (Australia)](https://www.legislation.gov.au/)** provides Australian MIA framework with specific Australian commercial scope.
 
-Singapore commercial scope has not adopted the UK 2015 reforms — MIA 1906 framework continues to operate as foundational for Singapore commercial scope. Considerations on the distinction matters substantially.
+Singapore commercial scope has not adopted the UK 2015 reforms - MIA 1906 framework continues to operate as foundational for Singapore commercial scope. Considerations on the distinction matters substantially.
 
 #### Commercial scenarios
 
 Commercial scenarios under MIA 1906 framework include:
 
-**Placement scenarios** — considerations on disclosure discipline at placement. Framework for proposal forms, operational underwriting submissions, operational operational scope.
+**Placement scenarios** - considerations on disclosure discipline at placement. Framework for proposal forms, operational underwriting submissions, operational operational scope.
 
-**Renewal scenarios** — considerations on disclosure at renewal. Renewal generally treated as new contract; full disclosure obligations apply.
+**Renewal scenarios** - considerations on disclosure at renewal. Renewal generally treated as new contract; full disclosure obligations apply.
 
-**Mid-term endorsement scenarios** — considerations on disclosure for mid-term coverage extensions.
+**Mid-term endorsement scenarios** - considerations on disclosure for mid-term coverage extensions.
 
-**Claim scenarios** — considerations on scenarios where insurer raises non-disclosure as defence to claim. Framework for proving materiality, operational framework for insurer waiver arguments.
+**Claim scenarios** - considerations on scenarios where insurer raises non-disclosure as defence to claim. Framework for proving materiality, operational framework for insurer waiver arguments.
 
 #### Operational considerations framework
 
 For substantive commercial insurance buyers, considerations on utmost good faith framework includes several elements.
 
-**Disclosure discipline at placement** — considerations on comprehensive disclosure including operational scope, operational operational scope, operational claims history, operational operational scope.
+**Disclosure discipline at placement** - considerations on comprehensive disclosure including operational scope, operational operational scope, operational claims history, operational operational scope.
 
-**Specific broker engagement around disclosure** — considerations on broker disclosure assistance ensures comprehensive disclosure.
+**Specific broker engagement around disclosure** - considerations on broker disclosure assistance ensures comprehensive disclosure.
 
-**Commercial counsel engagement** — commercial relationships for utmost good faith framework where claim scenarios arise.
+**Commercial counsel engagement** - commercial relationships for utmost good faith framework where claim scenarios arise.
 
 #### Commercial counsel engagement
 

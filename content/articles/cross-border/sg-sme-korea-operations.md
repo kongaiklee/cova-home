@@ -13,14 +13,14 @@ word_count: 1793
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/cross-border/sg-sme-korea-operations"
-meta_description: "A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the \"Four Major Insurances\" — National Health..."
+meta_description: "A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the \"Four Major Insurances\" - National Health..."
 og_title: "Singapore SME with Korea Operations: Insurance and Regulatory Framework"
-og_description: "A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the \"Four Major Insurances\" — National Health..."
+og_description: "A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the \"Four Major Insurances\" - National Health..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the "Four Major Insurances" — National Health Insurance, National Pension, Employment Insurance, Industrial Accident Compensation Insurance), [Financial Services Commission (FSC)](https://www.fsc.go.kr/) supervision over the insurance market with [Financial Supervisory Service (FSS)](https://www.fss.or.kr/) operational oversight, the [Personal Information Protection Act (PIPA)](https://www.pipc.go.kr/) as one of Asia's strictest data privacy regimes, and a substantial commercial insurance market with specific local conventions. Master/Local architecture with Korean-admitted policies coordinated from a Singapore master is the standard structure for SMEs with material Korean presence. Korean labour law is materially more protective of employees than Singapore law; operational discipline matters substantially.
+> A Singapore SME extending to South Korea operations encounters four mandatory employee insurance schemes (the "Four Major Insurances" - National Health Insurance, National Pension, Employment Insurance, Industrial Accident Compensation Insurance), [Financial Services Commission (FSC)](https://www.fsc.go.kr/) supervision over the insurance market with [Financial Supervisory Service (FSS)](https://www.fss.or.kr/) operational oversight, the [Personal Information Protection Act (PIPA)](https://www.pipc.go.kr/) as one of Asia's strictest data privacy regimes, and a substantial commercial insurance market with specific local conventions. Master/Local architecture with Korean-admitted policies coordinated from a Singapore master is the standard structure for SMEs with material Korean presence. Korean labour law is materially more protective of employees than Singapore law; operational discipline matters substantially.
 
 ### The Sourced Detail
 
@@ -30,17 +30,17 @@ This article walks through the framework. For material Korean operations, engage
 
 #### The Four Major Insurances framework
 
-Korean employment carries four mandatory social insurance schemes that employers must register and contribute to. The aggregate employer cost typically reaches 10-12% of payroll across the four schemes — substantially higher than equivalent Singapore CPF employer contributions, and a material consideration for Korean operations economics.
+Korean employment carries four mandatory social insurance schemes that employers must register and contribute to. The aggregate employer cost typically reaches 10-12% of payroll across the four schemes - substantially higher than equivalent Singapore CPF employer contributions, and a material consideration for Korean operations economics.
 
-**National Health Insurance (NHI / 건강보험).** Per the [National Health Insurance Service (NHIS)](https://www.nhis.or.kr/), all employees and their dependents receive health coverage through this single-payer system. Combined contribution rate (employer + employee) is approximately 7.09% of monthly wages as of 2024-2025, split equally — meaning employer pays approximately 3.54%. Long-term care insurance adds approximately 0.46% additional. The system covers most medical care; supplemental private medical insurance is common but not mandatory.
+**National Health Insurance (NHI / 건강보험).** Per the [National Health Insurance Service (NHIS)](https://www.nhis.or.kr/), all employees and their dependents receive health coverage through this single-payer system. Combined contribution rate (employer + employee) is approximately 7.09% of monthly wages as of 2024-2025, split equally - meaning employer pays approximately 3.54%. Long-term care insurance adds approximately 0.46% additional. The system covers most medical care; supplemental private medical insurance is common but not mandatory.
 
-**National Pension (NPS / 국민연금).** Per the [National Pension Service](https://www.nps.or.kr/), the contribution rate is 9% of monthly wages capped at specific thresholds, split equally between employer and employee — meaning employer pays 4.5%. The scheme provides retirement, disability, and survivor benefits.
+**National Pension (NPS / 국민연금).** Per the [National Pension Service](https://www.nps.or.kr/), the contribution rate is 9% of monthly wages capped at specific thresholds, split equally between employer and employee - meaning employer pays 4.5%. The scheme provides retirement, disability, and survivor benefits.
 
 **Employment Insurance (EI / 고용보험).** Per the [Korea Employment Information Service](https://www.keis.or.kr/) framework, EI covers unemployment benefits, employment stabilisation, and vocational competency development. Total contribution is approximately 1.8% of monthly wages, with specific employer / employee split varying by company size and type. EI is administered through [Korea Employment & Labor Ministry](https://www.moel.go.kr/).
 
-**Industrial Accident Compensation Insurance (IACI / 산재보험).** This is Korea's mandatory work injury insurance — analogous to Singapore's WICA framework but with substantially different operational architecture. IACI is paid entirely by employer at rates ranging from approximately 0.7% to 18% of monthly wages depending on industry risk classification (high-risk industries like construction, mining, and certain manufacturing pay substantially higher rates). IACI is administered through the [Korea Workers' Compensation & Welfare Service (KCOMWEL)](https://www.kcomwel.or.kr/).
+**Industrial Accident Compensation Insurance (IACI / 산재보험).** This is Korea's mandatory work injury insurance - analogous to Singapore's WICA framework but with substantially different operational architecture. IACI is paid entirely by employer at rates ranging from approximately 0.7% to 18% of monthly wages depending on industry risk classification (high-risk industries like construction, mining, and certain manufacturing pay substantially higher rates). IACI is administered through the [Korea Workers' Compensation & Welfare Service (KCOMWEL)](https://www.kcomwel.or.kr/).
 
-For Singapore SMEs entering Korea, the Four Major Insurances framework is non-negotiable and requires operational infrastructure — payroll providers familiar with Korean systems, specific accounting discipline, and operational considerations.
+For Singapore SMEs entering Korea, the Four Major Insurances framework is non-negotiable and requires operational infrastructure - payroll providers familiar with Korean systems, specific accounting discipline, and operational considerations.
 
 #### The FSC / FSS supervisory framework
 
@@ -54,7 +54,7 @@ Commercial conventions include local Korean wordings (which can differ from Asia
 
 #### The PIPA data privacy framework
 
-Korea's [Personal Information Protection Act (PIPA)](https://www.pipc.go.kr/) — administered by the [Personal Information Protection Commission (PIPC)](https://www.pipc.go.kr/) — is among Asia's strictest data privacy regimes. The framework was substantially strengthened in 2020 amendments and continues to evolve.
+Korea's [Personal Information Protection Act (PIPA)](https://www.pipc.go.kr/) - administered by the [Personal Information Protection Commission (PIPC)](https://www.pipc.go.kr/) - is among Asia's strictest data privacy regimes. The framework was substantially strengthened in 2020 amendments and continues to evolve.
 
 Key PIPA framework elements include:
 
@@ -66,9 +66,9 @@ For Singapore SMEs operating in Korea (particularly technology, e-commerce, cons
 
 Korean employment law is materially more protective of employees than Singapore law. The [Labor Standards Act](https://www.law.go.kr/) provides comprehensive employee protections that affect SME operations substantially.
 
-Termination protections are substantially stronger than Singapore. The Labor Standards Act's restriction on dismissal applies to businesses ordinarily employing 5 or more employees; within scope, employees with a substantive employment relationship are protected against dismissal except for "just cause" — and Korean courts interpret just cause restrictively. Pre-termination procedures, severance obligations, and commercial sensitivity matter substantially.
+Termination protections are substantially stronger than Singapore. The Labor Standards Act's restriction on dismissal applies to businesses ordinarily employing 5 or more employees; within scope, employees with a substantive employment relationship are protected against dismissal except for "just cause" - and Korean courts interpret just cause restrictively. Pre-termination procedures, severance obligations, and commercial sensitivity matter substantially.
 
-Severance pay (퇴직금) is mandatory for employees with one year or more of continuous service — typically one month's wages per year of service. The framework operates through Defined Benefit (DB) or Defined Contribution (DC) retirement pension systems.
+Severance pay (퇴직금) is mandatory for employees with one year or more of continuous service - typically one month's wages per year of service. The framework operates through Defined Benefit (DB) or Defined Contribution (DC) retirement pension systems.
 
 Working hours and overtime regulation has been progressively tightened. The 52-hour work week framework (40 standard + 12 overtime maximum) has affected operations across industries; the recent move toward more flexible work arrangements has been politically contested.
 

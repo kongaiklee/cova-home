@@ -20,7 +20,7 @@ og_description: "You are 24+ hours into a ransomware incident. Encryption is con
 
 > **The Answer in 60 Seconds**
 >
-> You are 24+ hours into a ransomware incident. Encryption is confirmed across multiple systems. The threat actor has issued a ransom demand, often with a leak-site countdown for exfiltrated data. Existing /crisis articles cover the initial detection and the [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) Section 26D 3-day notification clock. This article addresses the negotiation phase — the decision to pay, the regulatory and legal exposure, and the operational playbook. Critical decisions in the next 24-72 hours: (1) **engage external Digital Forensics & Incident Response (DFIR) firm and ransomware negotiator** — do NOT engage attacker directly without specialist support; (2) **separate breach coach legal counsel** from corporate counsel — privilege and conflict of interest considerations; (3) **OFAC and MAS sanctions screening of threat actor** — payment to a sanctioned entity is a criminal offence under [Terrorism (Suppression of Financing) Act 2002](https://sso.agc.gov.sg/Act/TSFA2002) and [US Treasury Office of Foreign Assets Control (OFAC)](https://ofac.treasury.gov/) lists; (4) **board-level "pay vs not-pay" decision** with structured CEO / CFO / Board chair input. Statutory exposure: [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) 3-day notification; [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) supply-chain reporting if firm is a CII vendor; [CSA SingCERT](https://www.csa.gov.sg/) voluntary reporting. Insurance angles: cyber policy ransomware negotiation services pre-approval; ransom payment sub-limit; business interruption waiting period (typically 8-12 hours); data restoration; regulatory defence costs; third-party liability if customer data exposed. Reference: CSA recorded 132 ransomware cases in 2022, mostly affecting SMEs in manufacturing and retail.
+> You are 24+ hours into a ransomware incident. Encryption is confirmed across multiple systems. The threat actor has issued a ransom demand, often with a leak-site countdown for exfiltrated data. Existing /crisis articles cover the initial detection and the [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) Section 26D 3-day notification clock. This article addresses the negotiation phase - the decision to pay, the regulatory and legal exposure, and the operational playbook. Critical decisions in the next 24-72 hours: (1) **engage external Digital Forensics & Incident Response (DFIR) firm and ransomware negotiator** - do NOT engage attacker directly without specialist support; (2) **separate breach coach legal counsel** from corporate counsel - privilege and conflict of interest considerations; (3) **OFAC and MAS sanctions screening of threat actor** - payment to a sanctioned entity is a criminal offence under [Terrorism (Suppression of Financing) Act 2002](https://sso.agc.gov.sg/Act/TSFA2002) and [US Treasury Office of Foreign Assets Control (OFAC)](https://ofac.treasury.gov/) lists; (4) **board-level "pay vs not-pay" decision** with structured CEO / CFO / Board chair input. Statutory exposure: [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) 3-day notification; [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) supply-chain reporting if firm is a CII vendor; [CSA SingCERT](https://www.csa.gov.sg/) voluntary reporting. Insurance angles: cyber policy ransomware negotiation services pre-approval; ransom payment sub-limit; business interruption waiting period (typically 8-12 hours); data restoration; regulatory defence costs; third-party liability if customer data exposed. Reference: CSA recorded 132 ransomware cases in 2022, mostly affecting SMEs in manufacturing and retail.
 
 ### The Sourced Detail
 
@@ -37,21 +37,21 @@ PDPC enforcement against ransomware-related Protection Obligation breaches per [
 
 #### Statutory framework engaged
 
-**Primary statute (data protection).** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) — Section 24 Protection Obligation; Section 26D 3-day notification.
+**Primary statute (data protection).** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - Section 24 Protection Obligation; Section 26D 3-day notification.
 
-**Cybersecurity framework.** [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) — applicable to Critical Information Infrastructure (CII) and certain regulated entities.
+**Cybersecurity framework.** [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) and [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) - applicable to Critical Information Infrastructure (CII) and certain regulated entities.
 
 **Sanctions framework.**
-- [Terrorism (Suppression of Financing) Act 2002](https://sso.agc.gov.sg/Act/TSFA2002) — Singapore criminal exposure for payment to sanctioned terrorist entities
-- [US OFAC](https://ofac.treasury.gov/) — extraterritorial application; SDN list and SDGT list
+- [Terrorism (Suppression of Financing) Act 2002](https://sso.agc.gov.sg/Act/TSFA2002) - Singapore criminal exposure for payment to sanctioned terrorist entities
+- [US OFAC](https://ofac.treasury.gov/) - extraterritorial application; SDN list and SDGT list
 - UN Security Council sanctions list
 - Specific sanctions against ransomware-as-a-service operators (Conti, REvil, etc.)
 
-**Cyber criminal framework.** [Computer Misuse Act 1993](https://sso.agc.gov.sg/Act/CMA1993) — applies to perpetrators; victim has standing as complainant.
+**Cyber criminal framework.** [Computer Misuse Act 1993](https://sso.agc.gov.sg/Act/CMA1993) - applies to perpetrators; victim has standing as complainant.
 
 #### Hour-by-hour response (continuing from initial detection)
 
-**Hour 24-48 — Negotiation infrastructure.**
+**Hour 24-48 - Negotiation infrastructure.**
 
 - Engage external DFIR firm (pre-engaged retainer typically activates here)
 - Engage specialist ransomware negotiator (separate firm, typically through cyber insurer panel)
@@ -59,7 +59,7 @@ PDPC enforcement against ransomware-related Protection Obligation breaches per [
 - Cyber insurer engagement and pre-approval for negotiator engagement
 - Police engagement (Singapore Police Force; FBI / IC3 if US nexus)
 
-**Hour 24-48 — Sanctions screening.**
+**Hour 24-48 - Sanctions screening.**
 
 - Threat actor identification (often by tactic / leak site / ransom note style)
 - Wallet address verification
@@ -72,7 +72,7 @@ PDPC enforcement against ransomware-related Protection Obligation breaches per [
 
 **If sanctions match identified:** payment is criminal offence; cannot proceed regardless of business impact.
 
-**Hour 48-72 — Decision framework.**
+**Hour 48-72 - Decision framework.**
 
 Board-level "pay vs not-pay" decision incorporating:
 
@@ -98,7 +98,7 @@ Board-level "pay vs not-pay" decision incorporating:
 
 #### Forensic and operational restoration
 
-**Hour 72+ — Restoration phase.**
+**Hour 72+ - Restoration phase.**
 
 - Backup restoration assessment
 - Forensic determination of attack vector
@@ -116,7 +116,7 @@ Board-level "pay vs not-pay" decision incorporating:
 - Cross-border notification (GDPR, US state laws if applicable)
 - Customer / partner notification
 
-#### Insurance angle — multi-cover engagement
+#### Insurance angle - multi-cover engagement
 
 **Cyber policy.**
 
@@ -154,7 +154,7 @@ Most cyber policies cover:
 **Errors and Omissions / PI.**
 - Where customer data exposure leads to customer claims
 
-#### Decision to pay — what insurance allows
+#### Decision to pay - what insurance allows
 
 **Cyber insurer requirements before sanctioning payment:**
 - Sanctions screening completed and clean
@@ -174,7 +174,7 @@ Most cyber policies cover:
 - Singapore licensed Digital Payment Token Service Providers
 - Specific KYC requirements
 
-#### Decision to not pay — what to expect
+#### Decision to not pay - what to expect
 
 **Operational consequences:**
 - Restoration timeline 14-90 days typical
@@ -206,7 +206,7 @@ Most cyber policies cover:
 - Specific incident handling support
 - Sector-specific advisories
 
-For SMEs: SingCERT engagement is generally beneficial — provides technical guidance, supports law enforcement investigation, and demonstrates proactive response to PDPC.
+For SMEs: SingCERT engagement is generally beneficial - provides technical guidance, supports law enforcement investigation, and demonstrates proactive response to PDPC.
 
 #### Communication strategy
 
@@ -254,27 +254,27 @@ For SMEs: SingCERT engagement is generally beneficial — provides technical gui
 
 For Singapore SMEs facing active ransomware negotiation:
 
-1. **Pre-engaged DFIR retainer** — relationship and rates established before incident.
+1. **Pre-engaged DFIR retainer** - relationship and rates established before incident.
 
-2. **Cyber insurance coverage map** — pre-approvals, sublimits, exclusions, notification requirements.
+2. **Cyber insurance coverage map** - pre-approvals, sublimits, exclusions, notification requirements.
 
-3. **Sanctions screening capability** — OFAC, MAS, UN list checks.
+3. **Sanctions screening capability** - OFAC, MAS, UN list checks.
 
-4. **Breach coach legal counsel** — separate from corporate counsel, privilege protected.
+4. **Breach coach legal counsel** - separate from corporate counsel, privilege protected.
 
-5. **Backup restoration capability** — tested, validated, current.
+5. **Backup restoration capability** - tested, validated, current.
 
-6. **PDPA notification framework** — assessment, drafting, regulator engagement.
+6. **PDPA notification framework** - assessment, drafting, regulator engagement.
 
-7. **Communication discipline** — single spokesperson, structured cadence.
+7. **Communication discipline** - single spokesperson, structured cadence.
 
-8. **Board-level decision protocol** — for "pay vs not-pay" determination.
+8. **Board-level decision protocol** - for "pay vs not-pay" determination.
 
-9. **Tax and accounting framework** — for ransom payment if made.
+9. **Tax and accounting framework** - for ransom payment if made.
 
-10. **Post-incident review and remediation** — vulnerability identified and addressed.
+10. **Post-incident review and remediation** - vulnerability identified and addressed.
 
-The cost of ransomware response is substantial — typical SME total cost (incident response, recovery, regulatory, notification, reputation) SGD 500,000 - SGD 5m+ depending on scale. The cost of pre-incident preparation is bounded — typical cyber maturity programme SGD 50,000 - SGD 200,000 per year for a meaningful capability.
+The cost of ransomware response is substantial - typical SME total cost (incident response, recovery, regulatory, notification, reputation) SGD 500,000 - SGD 5m+ depending on scale. The cost of pre-incident preparation is bounded - typical cyber maturity programme SGD 50,000 - SGD 200,000 per year for a meaningful capability.
 
 ### Questions to Ask Your Adviser
 
@@ -286,7 +286,7 @@ The cost of ransomware response is substantial — typical SME total cost (incid
 
 ### Related Information
 - [Cyber-Extortion Event Response: Singapore Framework for Ransomware, Data Theft, and Payment Decisions](/crisis/cyber-extortion-event-response)
-- [We Just Discovered Ransomware on Our Systems — What Do I Do Now?](/crisis/ransomware-just-hit)
+- [We Just Discovered Ransomware on Our Systems - What Do I Do Now?](/crisis/ransomware-just-hit)
 - [PDPC Enforcement Escalation 2024-2026: Marina Bay Sands SGD 315,000 and the Pattern Insurers Are Underwriting Against](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

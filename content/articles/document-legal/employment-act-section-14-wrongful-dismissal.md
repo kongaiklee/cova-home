@@ -13,14 +13,14 @@ word_count: 1824
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/employment-act-section-14-wrongful-dismissal"
-meta_description: "Section 14 of the Employment Act 1968 governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) —..."
+meta_description: "Section 14 of the Employment Act 1968 governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2)  - ..."
 og_title: "Employment Act 1968 Section 14 and Wrongful Dismissal: How Singapore Law Handles Termination Disputes and What EPL Insurance Actually Covers"
-og_description: "Section 14 of the Employment Act 1968 governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) —..."
+og_description: "Section 14 of the Employment Act 1968 governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2)  - ..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> [Section 14 of the Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) — together with the 2019 amendments to the definition of "dismissal" in the Act (which expressly captures constructive dismissal scenarios where an employee resigns under the employer's conduct or omissions) — and the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/) issued by [MOM](https://www.mom.gov.sg/), [NTUC](https://www.ntuc.org.sg/), and [SNEF](https://www.snef.org.sg/), Singapore's wrongful dismissal framework provides specific procedural and substantive protections. Disputes are heard by the [Employment Claims Tribunals (ECT)](https://www.judiciary.gov.sg/state-courts) under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) for eligible matters. **Employment Practices Liability (EPL)** insurance covers defence costs and potentially settlements/awards for wrongful dismissal, discrimination, harassment, and related employment claims — but not severance pay, statutory entitlements, or back wages. EPL becomes increasingly important as headcount and complexity grow, particularly with the [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) implementation.
+> [Section 14 of the Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) - together with the 2019 amendments to the definition of "dismissal" in the Act (which expressly captures constructive dismissal scenarios where an employee resigns under the employer's conduct or omissions) - and the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/) issued by [MOM](https://www.mom.gov.sg/), [NTUC](https://www.ntuc.org.sg/), and [SNEF](https://www.snef.org.sg/), Singapore's wrongful dismissal framework provides specific procedural and substantive protections. Disputes are heard by the [Employment Claims Tribunals (ECT)](https://www.judiciary.gov.sg/state-courts) under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) for eligible matters. **Employment Practices Liability (EPL)** insurance covers defence costs and potentially settlements/awards for wrongful dismissal, discrimination, harassment, and related employment claims - but not severance pay, statutory entitlements, or back wages. EPL becomes increasingly important as headcount and complexity grow, particularly with the [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) implementation.
 
 ### The Sourced Detail
 
@@ -30,19 +30,19 @@ For Singapore SMEs, employment termination is among the most common sources of l
 
 The [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) is Singapore's primary employment legislation. The core termination provisions:
 
-**Section 10 — Notice of termination:**
+**Section 10 - Notice of termination:**
 - Either party may terminate by giving notice
 - Notice period as specified in contract or per statutory minimum
 - In lieu of notice payment available
 
-**Section 11 — Termination without notice:**
+**Section 11 - Termination without notice:**
 - Specific circumstances permitting termination without notice
 - Misconduct, breach of express conditions
 - Other specified grounds
 
-**Section 14(1) — Dismissal for misconduct after due inquiry:**
+**Section 14(1) - Dismissal for misconduct after due inquiry:**
 
-Section 14(1) permits an employer to dismiss an employee without notice on the grounds of misconduct that is inconsistent with the express or implied conditions of service — provided the employer conducts a "due inquiry" before doing so. (Verify the consolidated statutory text on Singapore Statutes Online before relying on specific wording.)
+Section 14(1) permits an employer to dismiss an employee without notice on the grounds of misconduct that is inconsistent with the express or implied conditions of service - provided the employer conducts a "due inquiry" before doing so. (Verify the consolidated statutory text on Singapore Statutes Online before relying on specific wording.)
 
 The procedural requirement is "due inquiry":
 - Employee informed of the allegations
@@ -50,15 +50,15 @@ The procedural requirement is "due inquiry":
 - Decision based on inquiry findings
 - Documentation of process
 
-**Constructive dismissal — captured within the section 14 definition of "dismissal" (2019 amendments):**
+**Constructive dismissal - captured within the section 14 definition of "dismissal" (2019 amendments):**
 
-The 2019 amendments to the Employment Act expanded the statutory definition of "dismissal" to include the scenario where an employee resigns but the resignation was not voluntary — i.e. the employee was forced to resign because of the conduct or omissions of the employer. This is the statutory anchor for constructive dismissal claims in Singapore; there is no standalone Section 14A. Typical scenarios:
+The 2019 amendments to the Employment Act expanded the statutory definition of "dismissal" to include the scenario where an employee resigns but the resignation was not voluntary - i.e. the employee was forced to resign because of the conduct or omissions of the employer. This is the statutory anchor for constructive dismissal claims in Singapore; there is no standalone Section 14A. Typical scenarios:
 - Material change in employment terms without consent
 - Unilateral reduction in salary or benefits
 - Hostile work environment
 - Other employer conduct that repudiates the employment relationship
 
-**Section 14(2) — Wrongful dismissal challenge mechanism:**
+**Section 14(2) - Wrongful dismissal challenge mechanism:**
 
 An employee dismissed under section 14(1) (or otherwise) may challenge the dismissal as wrongful under section 14(2). Wrongful dismissal claims are filed with the Tripartite Alliance for Dispute Management (TADM) for mandatory mediation, and unresolved disputes proceed to the Employment Claims Tribunals. Remedies the tribunal can order include:
 - Reinstatement to the previous position (rare in practice)
@@ -70,10 +70,10 @@ An employee dismissed under section 14(1) (or otherwise) may challenge the dismi
 Issued jointly by MOM, NTUC, and SNEF, the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/) provide practical guidance:
 
 **Categories of wrongful dismissal:**
-- **Misconduct-related** — dismissal claimed as misconduct without due inquiry or without basis
-- **Discrimination-related** — dismissal based on protected characteristics
-- **Retaliation-related** — dismissal for whistleblowing or exercising legal rights
-- **Specific procedural failures** — failure to follow contractual or statutory procedures
+- **Misconduct-related** - dismissal claimed as misconduct without due inquiry or without basis
+- **Discrimination-related** - dismissal based on protected characteristics
+- **Retaliation-related** - dismissal for whistleblowing or exercising legal rights
+- **Specific procedural failures** - failure to follow contractual or statutory procedures
 
 **What's typically not wrongful dismissal:**
 - Genuine retrenchment (subject to specific procedures)
@@ -106,7 +106,7 @@ Per the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016), the EC
 
 #### The Workplace Fairness Act 2024 dimension
 
-The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) — see [Article 4](/association/casetrust-renovation-deposit-performance-bond) — introduces specific anti-discrimination provisions:
+The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - see [Article 4](/association/casetrust-renovation-deposit-performance-bond) - introduces specific anti-discrimination provisions:
 
 **Protected characteristics:**
 - Age, race, religion, language, sex, marital status, family responsibilities, sexual orientation, gender identity (specific provisions per Act)
@@ -114,7 +114,7 @@ The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) — see [A
 - Pregnancy and breastfeeding
 
 **Implications for termination:**
-- Termination based on protected characteristics — wrongful dismissal
+- Termination based on protected characteristics - wrongful dismissal
 - Specific complaint mechanism
 - Specific remedies
 
@@ -135,12 +135,12 @@ For founders of Singapore SMEs, WFA significantly expands the wrongful dismissal
 
 The "due inquiry" under Section 14 typically involves:
 
-1. **Investigation** — facts gathered, witnesses interviewed
-2. **Notice to employee** — specific allegations, evidence, timeframe to respond
-3. **Hearing** — opportunity to respond, present evidence, possibly representation
-4. **Decision** — based on findings; documented
-5. **Communication** — termination decision communicated with specific reasons
-6. **Documentation** — entire process documented
+1. **Investigation** - facts gathered, witnesses interviewed
+2. **Notice to employee** - specific allegations, evidence, timeframe to respond
+3. **Hearing** - opportunity to respond, present evidence, possibly representation
+4. **Decision** - based on findings; documented
+5. **Communication** - termination decision communicated with specific reasons
+6. **Documentation** - entire process documented
 
 **For performance-related termination:**
 - Performance management process documented

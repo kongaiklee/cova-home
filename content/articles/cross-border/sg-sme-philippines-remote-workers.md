@@ -20,11 +20,11 @@ og_description: "Hiring Filipino remote workers from Singapore can be done via t
 
 > **The Answer in 60 Seconds**
 >
-> Hiring Filipino remote workers from Singapore can be done via three main structures: **independent contractor**, **Employer of Record (EOR)** services, or **directly establishing a Philippine entity**. Each has different statutory insurance and benefits implications. Singapore [WICA](https://sso.agc.gov.sg/Act/WICA2019) does not extend to Philippine-resident workers in any structure. Filipino employees engaged directly or via EOR receive coverage under the **Philippine Social Security System (SSS)**, **PhilHealth (national health insurance)**, **Employees' Compensation Commission (ECC)**, and **Pag-IBIG (housing fund)** — administered by the [Department of Labor and Employment (DOLE)](https://www.dole.gov.ph/) framework. Independent contractors generally don't trigger employer obligations but require careful classification — Philippine Department of Labor and Employment uses substantive tests, and misclassification carries penalties. Singapore commercial liability covers (PI, D&O, Cyber) typically have territorial scope considerations for Philippine operations.
+> Hiring Filipino remote workers from Singapore can be done via three main structures: **independent contractor**, **Employer of Record (EOR)** services, or **directly establishing a Philippine entity**. Each has different statutory insurance and benefits implications. Singapore [WICA](https://sso.agc.gov.sg/Act/WICA2019) does not extend to Philippine-resident workers in any structure. Filipino employees engaged directly or via EOR receive coverage under the **Philippine Social Security System (SSS)**, **PhilHealth (national health insurance)**, **Employees' Compensation Commission (ECC)**, and **Pag-IBIG (housing fund)** - administered by the [Department of Labor and Employment (DOLE)](https://www.dole.gov.ph/) framework. Independent contractors generally don't trigger employer obligations but require careful classification - Philippine Department of Labor and Employment uses substantive tests, and misclassification carries penalties. Singapore commercial liability covers (PI, D&O, Cyber) typically have territorial scope considerations for Philippine operations.
 
 ### The Sourced Detail
 
-Hiring remote workers in the Philippines has become common for Singapore SMEs scaling lean — talented workforce, English language proficiency, time-zone alignment, lower wage rates than Singapore. The structural options each have different cost profiles, compliance requirements, and insurance implications. Choosing between them affects what insurance applies and whether the engagement is properly compliant under Philippine law.
+Hiring remote workers in the Philippines has become common for Singapore SMEs scaling lean - talented workforce, English language proficiency, time-zone alignment, lower wage rates than Singapore. The structural options each have different cost profiles, compliance requirements, and insurance implications. Choosing between them affects what insurance applies and whether the engagement is properly compliant under Philippine law.
 
 #### The three main engagement structures
 
@@ -43,7 +43,7 @@ The Singapore SME engages the Filipino worker as an independent contractor, typi
 - SG SME's PI/Tech E&O may need extension to cover work performed by the contractor on behalf of the SG SME
 
 **Risk:**
-- **Misclassification.** Philippine [Department of Labor and Employment (DOLE)](https://www.dole.gov.ph/) applies a substantive "four-fold test" to determine employer-employee relationship: selection and engagement, payment of wages, power of dismissal, control over work. If the substantive arrangement looks like employment (regular schedule, exclusivity, integrated supervision), Philippine authorities can deem the relationship an employment relationship — triggering retroactive employer obligations.
+- **Misclassification.** Philippine [Department of Labor and Employment (DOLE)](https://www.dole.gov.ph/) applies a substantive "four-fold test" to determine employer-employee relationship: selection and engagement, payment of wages, power of dismissal, control over work. If the substantive arrangement looks like employment (regular schedule, exclusivity, integrated supervision), Philippine authorities can deem the relationship an employment relationship - triggering retroactive employer obligations.
 
 **Structure 2: Employer of Record (EOR) services**
 
@@ -63,7 +63,7 @@ The Singapore SME contracts an EOR provider (Deel, Remote, Multiplier, RemoteOK,
 - EOR contracts typically include indemnities and insurance representations
 
 **Cost:**
-- EOR service fee: typically USD 200–USD 600 per worker per month, plus salary and statutory contributions
+- EOR service fee: typically USD 200-USD 600 per worker per month, plus salary and statutory contributions
 - Premium over direct employment but lower than establishing a Philippine entity for small headcount
 
 **Structure 3: Direct establishment of Philippine entity**
@@ -116,13 +116,13 @@ For Singapore SMEs using EORs, all four schemes are handled by the EOR; for thos
 #### What Singapore commercial insurance does and doesn't cover
 
 **Does cover (typically):**
-- Singapore-employed staff (regardless of where they work physically) — Singapore WICA
+- Singapore-employed staff (regardless of where they work physically) - Singapore WICA
 - Singapore HQ premises and operations
 - Liability for services performed from Singapore by Singapore staff
 - Cyber and data breaches affecting Singapore-resident personal data
 
 **Does not cover (typically):**
-- Philippine-employed workers (whether direct, via EOR, or via subsidiary) — Singapore WICA does not extend
+- Philippine-employed workers (whether direct, via EOR, or via subsidiary) - Singapore WICA does not extend
 - Philippine-located premises if any (separate property cover needed)
 - Philippine-law tort or contract liabilities arising in Philippine courts (territorial scope considerations)
 - Philippine personal data (Philippine Data Privacy Act 2012 has separate compliance regime)
@@ -136,7 +136,7 @@ For Singapore SMEs using EORs, all four schemes are handled by the EOR; for thos
 #### Typical insurance considerations by structure
 
 **Independent contractor:**
-- Singapore SME's existing PI/Tech E&O should cover services performed by contractors on the SG SME's behalf — verify the policy wording
+- Singapore SME's existing PI/Tech E&O should cover services performed by contractors on the SG SME's behalf - verify the policy wording
 - Singapore SME's Cyber should cover any Filipino personal data accessed by the contractor
 - Contractor is responsible for own personal cover
 - Contract should clarify confidentiality, IP, indemnities
@@ -159,13 +159,13 @@ For Singapore SMEs using EORs, all four schemes are handled by the EOR; for thos
 
 **For all three structures:**
 
-1. **Equipment and IT security.** Filipino workers using personal devices vs company-issued. Endpoint protection, MDM (mobile device management), VPN access, device encryption — all matter for Cyber risk profile.
+1. **Equipment and IT security.** Filipino workers using personal devices vs company-issued. Endpoint protection, MDM (mobile device management), VPN access, device encryption - all matter for Cyber risk profile.
 
-2. **Personal data handling.** Filipino workers with access to Singapore customer data, EU customer data, US customer data — the regulatory exposure follows the data, not the worker.
+2. **Personal data handling.** Filipino workers with access to Singapore customer data, EU customer data, US customer data - the regulatory exposure follows the data, not the worker.
 
 3. **Confidentiality and IP.** Robust agreements regardless of structure; the SG SME's IP needs protection across borders.
 
-4. **Service delivery to customers.** If Filipino workers deliver services to Singapore SME's customers, the customer-facing liability typically remains with the SG SME — its PI, Tech E&O, Cyber must cover the work output.
+4. **Service delivery to customers.** If Filipino workers deliver services to Singapore SME's customers, the customer-facing liability typically remains with the SG SME - its PI, Tech E&O, Cyber must cover the work output.
 
 #### Common scenarios
 
@@ -231,13 +231,13 @@ For Singapore SMEs scaling with Filipino remote workers, the structural choice (
 
 3. **Coordinate Singapore commercial liability with cross-border work.** PI, Tech E&O, Cyber territorial scope matters.
 
-4. **Maintain robust documentation regardless of structure.** Service agreements, IP assignments, confidentiality, indemnities — all matter.
+4. **Maintain robust documentation regardless of structure.** Service agreements, IP assignments, confidentiality, indemnities - all matter.
 
 5. **For data handling, comply with both Singapore PDPA and Philippine DPA.** Cross-border data transfer protections.
 
-6. **Review at scale milestones.** 5 contractors, 10 EOR employees, 20+ Philippine staff — each level prompts review of structure and insurance.
+6. **Review at scale milestones.** 5 contractors, 10 EOR employees, 20+ Philippine staff - each level prompts review of structure and insurance.
 
-The Philippines remote workforce model is increasingly mature and well-supported. The compliance and insurance layers reward proactive management; the cost of getting it wrong is asymmetric — retroactive statutory obligations, regulatory exposure, and uninsured liability claims. Most issues come from drift: a structure chosen years ago that no longer fits current scale or risk profile.
+The Philippines remote workforce model is increasingly mature and well-supported. The compliance and insurance layers reward proactive management; the cost of getting it wrong is asymmetric - retroactive statutory obligations, regulatory exposure, and uninsured liability claims. Most issues come from drift: a structure chosen years ago that no longer fits current scale or risk profile.
 
 ### Questions to Ask Your Adviser
 

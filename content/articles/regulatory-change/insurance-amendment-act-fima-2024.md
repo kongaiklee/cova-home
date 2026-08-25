@@ -20,7 +20,7 @@ og_description: "Effective 24 January 2025, the second phase of the Financial In
 
 > **The Answer in 60 Seconds**
 >
-> Effective **24 January 2025**, the second phase of the [Financial Institutions (Miscellaneous Amendments) Act 2024](https://sso.agc.gov.sg/Acts-Supp/12-2024/Published/20240401) (FIMA Act 2024, Act 12 of 2024) consolidated and rationalised [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) investigative and supervisory powers across financial institutions including insurers. (A separate 2024 statute — the [Insurance (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/37-2024/Published/20241118) (Act 37 of 2024) — is not part of this supervisory consolidation: it was an urgent amendment requiring the relevant Ministry's approval for transactions involving co-operative-linked insurers, the change that halted the proposed Allianz–Income Insurance acquisition.) Key changes affecting Singapore SMEs: (1) **harmonised regulatory restitution and prohibition powers** giving MAS consistent enforcement tools across banks, insurers, capital market intermediaries; (2) **enhanced fit-and-proper assessment** for insurer key persons including non-executive directors; (3) **expanded regulator information powers** for systemic risk assessment; (4) **technology and cyber risk supervisory framework** alignment with the MAS Cyber Hygiene notices — Notice FSM-N04 for insurers and FSM-N06 for banks, which replaced the former Notices 132 and 655 from 10 May 2024. SME procurement implications: (a) increased insurer underwriting discipline driven by MAS supervisory expectations flowing through to SME-facing premium and cover decisions; (b) financial strength rating verification (per [Article 349](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)) becomes more material as MAS supervisory tools sharpen; (c) commercial cyber covers reflect MAS Technology Risk Management Guidelines as baseline expectation. Important: these are insurer-side and intermediary-side reforms primarily, but their effects flow through to SME insurance market in pricing, cover availability, and claims handling discipline.
+> Effective **24 January 2025**, the second phase of the [Financial Institutions (Miscellaneous Amendments) Act 2024](https://sso.agc.gov.sg/Acts-Supp/12-2024/Published/20240401) (FIMA Act 2024, Act 12 of 2024) consolidated and rationalised [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) investigative and supervisory powers across financial institutions including insurers. (A separate 2024 statute - the [Insurance (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/37-2024/Published/20241118) (Act 37 of 2024) - is not part of this supervisory consolidation: it was an urgent amendment requiring the relevant Ministry's approval for transactions involving co-operative-linked insurers, the change that halted the proposed Allianz-Income Insurance acquisition.) Key changes affecting Singapore SMEs: (1) **harmonised regulatory restitution and prohibition powers** giving MAS consistent enforcement tools across banks, insurers, capital market intermediaries; (2) **enhanced fit-and-proper assessment** for insurer key persons including non-executive directors; (3) **expanded regulator information powers** for systemic risk assessment; (4) **technology and cyber risk supervisory framework** alignment with the MAS Cyber Hygiene notices - Notice FSM-N04 for insurers and FSM-N06 for banks, which replaced the former Notices 132 and 655 from 10 May 2024. SME procurement implications: (a) increased insurer underwriting discipline driven by MAS supervisory expectations flowing through to SME-facing premium and cover decisions; (b) financial strength rating verification (per [Article 349](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)) becomes more material as MAS supervisory tools sharpen; (c) commercial cyber covers reflect MAS Technology Risk Management Guidelines as baseline expectation. Important: these are insurer-side and intermediary-side reforms primarily, but their effects flow through to SME insurance market in pricing, cover availability, and claims handling discipline.
 
 ### The Sourced Detail
 
@@ -28,9 +28,9 @@ The 24 January 2025 commencement represents one of the most significant consolid
 
 #### Regulatory framework
 
-**The supervisory-powers consolidation — FIMA Act 2024.** The second phase of the [Financial Institutions (Miscellaneous Amendments) Act 2024](https://sso.agc.gov.sg/Acts-Supp/12-2024/Published/20240401) (Act 12 of 2024) commenced **24 January 2025**, harmonising and enhancing MAS's investigative and supervisory powers; an earlier phase had commenced 30 August 2024.
+**The supervisory-powers consolidation - FIMA Act 2024.** The second phase of the [Financial Institutions (Miscellaneous Amendments) Act 2024](https://sso.agc.gov.sg/Acts-Supp/12-2024/Published/20240401) (Act 12 of 2024) commenced **24 January 2025**, harmonising and enhancing MAS's investigative and supervisory powers; an earlier phase had commenced 30 August 2024.
 
-**A separate 2024 statute — the Insurance (Amendment) Act 2024.** The [Insurance (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/37-2024/Published/20241118) (Act 37 of 2024) is a distinct, urgent amendment to the Insurance Act 1966 — it requires MAS to obtain the relevant Ministry's approval for transactions involving insurers that are, or are linked to, co-operatives. It was the amendment that halted the proposed Allianz acquisition of a majority stake in Income Insurance, and is not part of the MAS supervisory-powers consolidation.
+**A separate 2024 statute - the Insurance (Amendment) Act 2024.** The [Insurance (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/37-2024/Published/20241118) (Act 37 of 2024) is a distinct, urgent amendment to the Insurance Act 1966 - it requires MAS to obtain the relevant Ministry's approval for transactions involving insurers that are, or are linked to, co-operatives. It was the amendment that halted the proposed Allianz acquisition of a majority stake in Income Insurance, and is not part of the MAS supervisory-powers consolidation.
 
 **Statutes amended by the FIMA Act 2024:**
 - [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966)
@@ -40,40 +40,40 @@ The 24 January 2025 commencement represents one of the most significant consolid
 - [Payment Services Act 2019](https://sso.agc.gov.sg/Act/PSA2019)
 - Trust Companies Act 2005
 
-**Administering body.** [MAS](https://www.mas.gov.sg/) — supervises and enforces.
+**Administering body.** [MAS](https://www.mas.gov.sg/) - supervises and enforces.
 
 #### Key changes effective 24 January 2025
 
-**Change 1 — Harmonised regulatory restitution and prohibition powers.**
+**Change 1 - Harmonised regulatory restitution and prohibition powers.**
 
 MAS now has consistent toolkit across all FIs:
-- **Restitution orders** — requiring FI to return monies to affected customers
-- **Prohibition orders** — barring individuals from operating in financial industry
-- **Reprimand and direction powers** — formal cautions with public visibility
+- **Restitution orders** - requiring FI to return monies to affected customers
+- **Prohibition orders** - barring individuals from operating in financial industry
+- **Reprimand and direction powers** - formal cautions with public visibility
 
 Previously, MAS powers varied by sector. Now consistent across banking, insurance, capital markets.
 
-**Change 2 — Enhanced fit-and-proper assessment.**
+**Change 2 - Enhanced fit-and-proper assessment.**
 
 Insurer key persons (CEO, CFO, CRO, Compliance, Internal Audit, key actuarial, key non-executive directors):
 - Strengthened fit-and-proper criteria
 - Ongoing monitoring obligation on FI
 - Specific MAS approval requirement for senior appointments
 
-**Change 3 — Expanded information powers.**
+**Change 3 - Expanded information powers.**
 
 MAS can require:
 - Specific systemic risk information
 - Group-level information from FI parents
 - Cross-jurisdictional information
 
-**Change 4 — Technology and cyber risk supervisory framework.**
+**Change 4 - Technology and cyber risk supervisory framework.**
 
 Aligned with:
-- MAS Notice FSM-N04 on Cyber Hygiene (insurers) and FSM-N06 (banks) — these replaced the former Notices 132 and 655 from 10 May 2024
+- MAS Notice FSM-N04 on Cyber Hygiene (insurers) and FSM-N06 (banks) - these replaced the former Notices 132 and 655 from 10 May 2024
 - [MAS Technology Risk Management Guidelines](https://www.mas.gov.sg/regulation/guidelines/technology-risk-management-guidelines)
 
-**Change 5 — Resolution and recovery framework.**
+**Change 5 - Resolution and recovery framework.**
 
 Enhanced framework for FI resolution:
 - Recovery and resolution planning
@@ -84,7 +84,7 @@ Enhanced framework for FI resolution:
 
 The regulatory consolidation cascades to SME insurance buyers through several channels:
 
-**Channel 1 — Insurer underwriting discipline.**
+**Channel 1 - Insurer underwriting discipline.**
 
 MAS supervisory expectations on insurer pricing and reserving flow through to SME-facing decisions:
 - Greater pricing discipline (reduced under-pricing competition)
@@ -93,7 +93,7 @@ MAS supervisory expectations on insurer pricing and reserving flow through to SM
 
 For SMEs: more disciplined market, less aggressive new-business pricing, more rigorous renewal analysis.
 
-**Channel 2 — Capital adequacy and reinsurance.**
+**Channel 2 - Capital adequacy and reinsurance.**
 
 Insurers maintain stricter capital adequacy:
 - Risk-Based Capital framework continues to evolve
@@ -102,7 +102,7 @@ Insurers maintain stricter capital adequacy:
 
 For SMEs: financial strength of placement insurers improves on average; price floor rises slightly.
 
-**Channel 3 — Claims handling discipline.**
+**Channel 3 - Claims handling discipline.**
 
 MAS supervisory focus on conduct standards:
 - Claim settlement timeliness expectations
@@ -111,7 +111,7 @@ MAS supervisory focus on conduct standards:
 
 For SMEs: improved claims handling experience, especially with mid-tier and larger insurers; FIDReC route available where issues arise.
 
-**Channel 4 — Technology and cyber baseline.**
+**Channel 4 - Technology and cyber baseline.**
 
 MAS Notice FSM-N04 (Cyber Hygiene) and the Technology Risk Management Guidelines establish baseline cyber expectations for insurers:
 - Insurer's own systems must meet specific standards
@@ -120,7 +120,7 @@ MAS Notice FSM-N04 (Cyber Hygiene) and the Technology Risk Management Guidelines
 
 For SMEs: cyber cover availability and pricing increasingly reflects underlying cyber maturity.
 
-**Channel 5 — Conduct enforcement against intermediaries.**
+**Channel 5 - Conduct enforcement against intermediaries.**
 
 Enhanced MAS enforcement against:
 - Insurance brokers / financial advisers

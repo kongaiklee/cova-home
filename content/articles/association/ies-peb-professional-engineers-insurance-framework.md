@@ -184,11 +184,11 @@ For IES-member engineers, the Chartered Engineer (Singapore) designation confers
 
 ### Related Information
 
-- [Article 271 — Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 281 — Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications](/association/singapore-institute-of-architects-boa-insurance-framework)
-- [Article 283 — Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications](/association/sisv-land-surveyors-board-insurance-framework)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 271 - Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 281 - Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications](/association/singapore-institute-of-architects-boa-insurance-framework)
+- [Article 283 - Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications](/association/sisv-land-surveyors-board-insurance-framework)
+- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 
 ---

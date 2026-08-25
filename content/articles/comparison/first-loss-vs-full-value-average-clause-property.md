@@ -20,7 +20,7 @@ og_description: "Singapore property insurance settles the sum insured question i
 
 > **The Answer in 60 Seconds**
 >
-> Singapore property insurance settles the sum insured question in one of two architectures. **Full Value with Average Clause** requires the SME to insure the full reinstatement value of the property at risk; if the sum insured at the time of loss is less than the full value, the insurer's payment is reduced pro rata. Most Singapore market wordings carry an 85% trigger: if the sum insured is at least 85% of the value at risk, the clause does not apply; below 85%, averaging applies to the full proportionate shortfall. **First Loss basis** allows the SME to insure a fraction of total value (a maximum probable loss) at the agreed first-loss limit, with no average clause applying. Premium per S$1m of cover is materially higher under First Loss, but the SME insures a smaller number. First Loss is structurally suited to risks where total simultaneous loss is implausible (large multi-compartment warehouses, distributed inventory, high-value portable items in a sea of low-value stock). Full Value with Average is the universal default for buildings, fixed plant, and stock-in-trade. Critical Singapore statutory point: under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the Insurance (General Provisions) Regulations, the existence of a Condition of Average must be clearly disclosed on the policy in order to be operative — undisclosed average clauses have no legal effect. The published [MSIG Singapore consumer guidance](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) confirms the disclosure-as-precondition rule in plain terms. The claim-time arithmetic is unforgiving: a Singapore wholesale SME insuring S$2m of stock when the true value at risk is S$5m, suffering a S$1m loss, recovers only S$400,000 under Average — versus S$1m under First Loss at the same insured amount.
+> Singapore property insurance settles the sum insured question in one of two architectures. **Full Value with Average Clause** requires the SME to insure the full reinstatement value of the property at risk; if the sum insured at the time of loss is less than the full value, the insurer's payment is reduced pro rata. Most Singapore market wordings carry an 85% trigger: if the sum insured is at least 85% of the value at risk, the clause does not apply; below 85%, averaging applies to the full proportionate shortfall. **First Loss basis** allows the SME to insure a fraction of total value (a maximum probable loss) at the agreed first-loss limit, with no average clause applying. Premium per S$1m of cover is materially higher under First Loss, but the SME insures a smaller number. First Loss is structurally suited to risks where total simultaneous loss is implausible (large multi-compartment warehouses, distributed inventory, high-value portable items in a sea of low-value stock). Full Value with Average is the universal default for buildings, fixed plant, and stock-in-trade. Critical Singapore statutory point: under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the Insurance (General Provisions) Regulations, the existence of a Condition of Average must be clearly disclosed on the policy in order to be operative - undisclosed average clauses have no legal effect. The published [MSIG Singapore consumer guidance](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) confirms the disclosure-as-precondition rule in plain terms. The claim-time arithmetic is unforgiving: a Singapore wholesale SME insuring S$2m of stock when the true value at risk is S$5m, suffering a S$1m loss, recovers only S$400,000 under Average - versus S$1m under First Loss at the same insured amount.
 
 ### The Sourced Detail
 
@@ -46,7 +46,7 @@ The standard Singapore market 85% Condition of Average wording, carried in mater
 
 "If at the time of any loss or damage the Property Insured shall be of greater value than the Sum Insured stated in the Schedule, the Insured shall be considered as being his own insurer for the difference and shall bear a rateable proportion of the loss accordingly. Where, however, the Sum Insured at the time of any loss or damage is not less than 85 per cent of the value of the Property Insured at the time of such loss or damage, this Condition shall not apply."
 
-Drafters and procurement teams should reproduce each insurer's wording verbatim from the issued SUMO, Tokio Marine, AIG Singapore, or Chubb Singapore wording in question rather than generalising from one wording. The 85% threshold is widely standardised but not universal — some specialist wordings use 80% or no margin at all.
+Drafters and procurement teams should reproduce each insurer's wording verbatim from the issued SUMO, Tokio Marine, AIG Singapore, or Chubb Singapore wording in question rather than generalising from one wording. The 85% threshold is widely standardised but not universal - some specialist wordings use 80% or no margin at all.
 
 For First Loss cover, the wording typically inserts a "First Loss Memorandum" or "First Loss Endorsement" that explicitly disapplies the Condition of Average and confirms the first-loss limit as the cap on cover regardless of total value at risk. The Endorsement is granted at the underwriter's discretion and is conditional on the SME providing a credible Maximum Probable Loss estimate from a quantity surveyor or risk engineer.
 
@@ -54,13 +54,13 @@ For First Loss cover, the wording typically inserts a "First Loss Memorandum" or
 
 **Buildings, fixed plant, fixed renovation, tenants' improvements.** Full Value with 85% Condition of Average is the universal Singapore market default. First Loss is not offered for fixed building cover; the structural assumption is that simultaneous total loss is the relevant scenario.
 
-**Stock-in-trade.** Full Value with Average — sum insured set at the highest stock value during the period — is standard, often paired with a Stock Declaration Memorandum (adjustment at year-end against declared monthly stock levels). SMEs with seasonal stock peaks (typically retail and F&B in advance of Chinese New Year and year-end) should specifically request the Stock Declaration mechanism rather than insuring at average stock value.
+**Stock-in-trade.** Full Value with Average - sum insured set at the highest stock value during the period - is standard, often paired with a Stock Declaration Memorandum (adjustment at year-end against declared monthly stock levels). SMEs with seasonal stock peaks (typically retail and F&B in advance of Chinese New Year and year-end) should specifically request the Stock Declaration mechanism rather than insuring at average stock value.
 
 **Theft of high-value portable items from a warehouse with hundreds of SKUs.** First Loss is genuinely used where the maximum probable theft loss is a small fraction of total stock value. The First Loss premium per S$1m is materially higher than the Full Value premium per S$1m, but the SME insures a much smaller number.
 
 **Goods in transit, Money insurance, electronic equipment under specified perils.** First Loss is a common architecture, because total simultaneous loss across all conveyances or locations is implausible. The cover is sized to a single-conveyance or single-location maximum.
 
-**Engineering classes — Computer All Risk, Machinery Breakdown, Equipment All Risk, Contractors Plant and Equipment All Risk.** Full Value with Average is standard for fixed plant; First Loss may be applicable for distributed mobile equipment.
+**Engineering classes - Computer All Risk, Machinery Breakdown, Equipment All Risk, Contractors Plant and Equipment All Risk.** Full Value with Average is standard for fixed plant; First Loss may be applicable for distributed mobile equipment.
 
 #### Claim-time worked example: SME wholesale stock
 
@@ -68,13 +68,13 @@ A Singapore wholesale SME holds stock with a true total value at risk of S$5,000
 
 Fire destroys S$1,000,000 of stock. Settlement outcomes:
 
-**Scenario A — Full Value with 85% Average, sum insured S$2,000,000, loss S$1,000,000.** Sum insured is 40% of true value, well below the 85% threshold. Average applies pro rata: payment = S$1,000,000 × (S$2,000,000 / S$5,000,000) = S$400,000. The SME absorbs S$600,000 of the loss even though it insured for S$2,000,000.
+**Scenario A - Full Value with 85% Average, sum insured S$2,000,000, loss S$1,000,000.** Sum insured is 40% of true value, well below the 85% threshold. Average applies pro rata: payment = S$1,000,000 × (S$2,000,000 / S$5,000,000) = S$400,000. The SME absorbs S$600,000 of the loss even though it insured for S$2,000,000.
 
-**Scenario B — Full Value with 85% Average, sum insured S$4,250,000 (=85% of S$5m), loss S$1,000,000.** Sum insured equals the 85% threshold. Average does not apply. Payment = S$1,000,000 less deductible.
+**Scenario B - Full Value with 85% Average, sum insured S$4,250,000 (=85% of S$5m), loss S$1,000,000.** Sum insured equals the 85% threshold. Average does not apply. Payment = S$1,000,000 less deductible.
 
-**Scenario C — First Loss basis, first-loss limit S$2,000,000 declared with total value at risk S$5,000,000, loss S$1,000,000.** No average. Payment = S$1,000,000 less deductible. Premium for the S$2m first-loss limit is materially higher per dollar than the premium for S$2m sum insured under full-value-with-average, but lower than the premium for S$5m full-value cover. The SME has bought certainty within the S$2m envelope.
+**Scenario C - First Loss basis, first-loss limit S$2,000,000 declared with total value at risk S$5,000,000, loss S$1,000,000.** No average. Payment = S$1,000,000 less deductible. Premium for the S$2m first-loss limit is materially higher per dollar than the premium for S$2m sum insured under full-value-with-average, but lower than the premium for S$5m full-value cover. The SME has bought certainty within the S$2m envelope.
 
-**Scenario D — First Loss basis, first-loss limit S$2,000,000, loss S$3,000,000.** Payment capped at S$2,000,000 less deductible. The SME bears the S$1,000,000 excess. First Loss is structurally inappropriate where a single-event total loss is possible.
+**Scenario D - First Loss basis, first-loss limit S$2,000,000, loss S$3,000,000.** Payment capped at S$2,000,000 less deductible. The SME bears the S$1,000,000 excess. First Loss is structurally inappropriate where a single-event total loss is possible.
 
 #### Claim-time worked example: tenants' improvements
 
@@ -150,11 +150,11 @@ The Singapore statutory disclosure rule (Condition of Average must be disclosed 
 
 ### Related Information
 
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Article 254 — Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
-- [Article 252 — Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
-- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [Article 388 — PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 274 - Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 254 - Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Article 252 - Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [Article 401 - How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [Article 388 - PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

@@ -33,34 +33,34 @@ The regime took full effect from 1 January 2021. You cannot legally hold WICA fr
 
 Per the [MOM-published list dated 1 January 2026](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf), the following 24 insurers are designated for employer WICA policies (alphabetical, with designation expiry dates):
 
-1. AIG Asia Pacific Insurance Pte. Ltd. — exp. 7 Sep 2026
-2. Allianz Insurance Singapore Pte. Ltd. — exp. 8 Sep 2026
-3. Allied World Assurance Company, Ltd. — exp. 3 Sep 2026
-4. Berkshire Hathaway Specialty Insurance Company — exp. 3 Sep 2026
-5. China Taiping Insurance (Singapore) Pte. Ltd — exp. 4 Sep 2026
-6. Chubb Insurance Singapore Limited — exp. 4 Sep 2026
-7. EQ Insurance Company Limited — exp. 1 Sep 2026
-8. ERGO Insurance Pte. Ltd. — exp. 9 Sep 2026
-9. Etiqa Insurance Pte. Ltd. — exp. 9 Sep 2026
-10. Great American Insurance Company — exp. 1 Sep 2026
-11. Great Eastern General Insurance Limited — exp. 10 Sep 2026
-12. HL Assurance Pte. Ltd. — exp. 7 Sep 2026
-13. Income Insurance Limited — exp. 1 Sep 2026
-14. India International Insurance Pte Ltd — exp. 7 Sep 2026
-15. Liberty Specialty Markets Singapore Pte. Limited — exp. 2 Sep 2026
-16. Lonpac Insurance Bhd — exp. 1 Sep 2026
-17. MS First Capital Insurance Limited — exp. 3 Sep 2026
-18. MSIG Insurance (Singapore) Pte Ltd — exp. 10 Sep 2026
-19. QBE Insurance (Singapore) Pte Ltd — exp. 4 Sep 2026
-20. Singapore Life Ltd — exp. 9 Sep 2026
-21. Sompo Insurance Singapore Pte. Ltd. — exp. 9 Sep 2026
-22. Tokio Marine Insurance Singapore Ltd — exp. 1 Sep 2026
-23. United Overseas Insurance Limited — exp. 9 Sep 2026
-24. Zurich Insurance Company Ltd (Singapore Branch) — exp. 4 Sep 2026
+1. AIG Asia Pacific Insurance Pte. Ltd. - exp. 7 Sep 2026
+2. Allianz Insurance Singapore Pte. Ltd. - exp. 8 Sep 2026
+3. Allied World Assurance Company, Ltd. - exp. 3 Sep 2026
+4. Berkshire Hathaway Specialty Insurance Company - exp. 3 Sep 2026
+5. China Taiping Insurance (Singapore) Pte. Ltd - exp. 4 Sep 2026
+6. Chubb Insurance Singapore Limited - exp. 4 Sep 2026
+7. EQ Insurance Company Limited - exp. 1 Sep 2026
+8. ERGO Insurance Pte. Ltd. - exp. 9 Sep 2026
+9. Etiqa Insurance Pte. Ltd. - exp. 9 Sep 2026
+10. Great American Insurance Company - exp. 1 Sep 2026
+11. Great Eastern General Insurance Limited - exp. 10 Sep 2026
+12. HL Assurance Pte. Ltd. - exp. 7 Sep 2026
+13. Income Insurance Limited - exp. 1 Sep 2026
+14. India International Insurance Pte Ltd - exp. 7 Sep 2026
+15. Liberty Specialty Markets Singapore Pte. Limited - exp. 2 Sep 2026
+16. Lonpac Insurance Bhd - exp. 1 Sep 2026
+17. MS First Capital Insurance Limited - exp. 3 Sep 2026
+18. MSIG Insurance (Singapore) Pte Ltd - exp. 10 Sep 2026
+19. QBE Insurance (Singapore) Pte Ltd - exp. 4 Sep 2026
+20. Singapore Life Ltd - exp. 9 Sep 2026
+21. Sompo Insurance Singapore Pte. Ltd. - exp. 9 Sep 2026
+22. Tokio Marine Insurance Singapore Ltd - exp. 1 Sep 2026
+23. United Overseas Insurance Limited - exp. 9 Sep 2026
+24. Zurich Insurance Company Ltd (Singapore Branch) - exp. 4 Sep 2026
 
-The cluster of expiry dates between 1 and 10 September 2026 reflects MOM's annual re-designation cycle. Each entry on the list also shows the insurer's UEN, WICA hotline and claims email. The full PDF is the canonical document; bookmark it. Note: published commentary occasionally cites the list as having "25 insurers" — readers should treat the MOM-published PDF as authoritative on any given date.
+The cluster of expiry dates between 1 and 10 September 2026 reflects MOM's annual re-designation cycle. Each entry on the list also shows the insurer's UEN, WICA hotline and claims email. The full PDF is the canonical document; bookmark it. Note: published commentary occasionally cites the list as having "25 insurers" - readers should treat the MOM-published PDF as authoritative on any given date.
 
-A separate list of **6 designated platform-operator insurers** ([here](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers-platform-operator.pdf)) covers Platform Workers Act WICA, with designations running to October–December 2027. Of the 24 employer-WICA insurers, only 5 (Chubb, Etiqa, Great Eastern, Income, Singlife) are also PO-designated. Grabinsure is PO-only.
+A separate list of **6 designated platform-operator insurers** ([here](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers-platform-operator.pdf)) covers Platform Workers Act WICA, with designations running to October-December 2027. Of the 24 employer-WICA insurers, only 5 (Chubb, Etiqa, Great Eastern, Income, Singlife) are also PO-designated. Grabinsure is PO-only.
 
 #### What's in the compulsory MOM-approved policy wording
 
@@ -101,21 +101,21 @@ These limits flow through automatically into all approved WICA 2019 policies.
 
 ### What This Means for Your Business
 
-Companies typically need to consider three structural points when buying WICA: (1) designated insurer only — anything else is non-compliant; (2) the compulsory wording is uniform but coverage extensions vary (Common Law Coverage, occupational disease extensions, foreign worker medical, 24-hour worldwide cover are commercial differentiators); (3) premiums depend on declared payroll, manual/non-manual mix, occupation classifications, and claims history shared via MOM's EmPOWER-WIC data-exchange system.
+Companies typically need to consider three structural points when buying WICA: (1) designated insurer only - anything else is non-compliant; (2) the compulsory wording is uniform but coverage extensions vary (Common Law Coverage, occupational disease extensions, foreign worker medical, 24-hour worldwide cover are commercial differentiators); (3) premiums depend on declared payroll, manual/non-manual mix, occupation classifications, and claims history shared via MOM's EmPOWER-WIC data-exchange system.
 
 ### Questions to Ask Your Adviser
 
-1. "Three of the designated insurers quoted me — can you compare the Common Law extension wording side-by-side?"
-2. "From 1 November 2025, my new policy must reflect the S$269k/S$346k/S$53k limits — can you show me where in the policy schedule that's documented?"
-3. "I have a mix of manual workers and office staff — what's the optimal way to declare for premium efficiency without under-insuring?"
+1. "Three of the designated insurers quoted me - can you compare the Common Law extension wording side-by-side?"
+2. "From 1 November 2025, my new policy must reflect the S$269k/S$346k/S$53k limits - can you show me where in the policy schedule that's documented?"
+3. "I have a mix of manual workers and office staff - what's the optimal way to declare for premium efficiency without under-insuring?"
 4. "If I switch designated insurers mid-year, what happens to in-flight claims under MOM's data sharing?"
-5. "I'm a platform operator — am I on the right designated list (the PO list, not the employer list)?"
+5. "I'm a platform operator - am I on the right designated list (the PO list, not the employer list)?"
 
 ### Related Information
 
 - [MOM Platform Operator Designated Insurer (Singapore 2025)](/regulatory-change/mom-platform-operator-designated-insurer-2025)
-- [BCA CRS bizSAFE Level 3 — Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
-- [MAS Register of Representatives — How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
+- [BCA CRS bizSAFE Level 3 - Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
 
 ---
 

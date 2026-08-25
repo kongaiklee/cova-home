@@ -13,14 +13,14 @@ word_count: 2818
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/bi-waiting-period-hours-vs-days-vs-dollar"
-meta_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period — also called the time excess, BI deductible, or franchise — is..."
+meta_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is..."
 og_title: "Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period"
-og_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period — also called the time excess, BI deductible, or franchise — is..."
+og_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Business Interruption cover does not pay from the first dollar of loss. The waiting period — also called the time excess, BI deductible, or franchise — is a real cost the SME bears before cover responds. Singapore market wordings use three architectures. **Hours-based** waiting periods (typically 24, 48, or 72 hours) start cover at a fixed number of hours from the moment of insured interruption. **Day-based** waiting periods (typically 3, 5, 7, or 14 days) start cover after a fixed number of business or calendar days as defined in the wording. **Dollar-based** monetary deductibles start cover after the SME has absorbed a fixed S$ amount of BI loss. Hybrid structures combining time and monetary deductibles ("greater of" or "in addition to") are common in Singapore SME packaged property+BI bundles. Critical second concept: the **Indemnity Period** is the maximum period (months or weeks) for which BI responds from the date of damage, distinct from the waiting period. The Indemnity Period must be long enough to fund operations through realistic rebuilding, while the waiting period must be calibrated against the SME's working-capital buffer for first-week interruption. The [MSIG Singapore SUMO SME Insurance](https://www.msig.com.sg/sites/msig_sg/files/2024-01/SMO022401_SUMO_Insurance_Policy.pdf) BI section sets out the standard architecture; mid-market BI placements use day-based time excess with longer Indemnity Periods. There is no Singapore statute prescribing BI deductible structures; the policy wording controls. The claim-time arithmetic on a 30-day full-then-partial interruption with S$8,000 daily gross-profit run-rate shows the SME absorbing S$24,000 under 72-hour waiting versus S$10,000 under a S$10,000 dollar deductible versus S$34,000 under "time AND monetary in addition" hybrid.
+> Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is a real cost the SME bears before cover responds. Singapore market wordings use three architectures. **Hours-based** waiting periods (typically 24, 48, or 72 hours) start cover at a fixed number of hours from the moment of insured interruption. **Day-based** waiting periods (typically 3, 5, 7, or 14 days) start cover after a fixed number of business or calendar days as defined in the wording. **Dollar-based** monetary deductibles start cover after the SME has absorbed a fixed S$ amount of BI loss. Hybrid structures combining time and monetary deductibles ("greater of" or "in addition to") are common in Singapore SME packaged property+BI bundles. Critical second concept: the **Indemnity Period** is the maximum period (months or weeks) for which BI responds from the date of damage, distinct from the waiting period. The Indemnity Period must be long enough to fund operations through realistic rebuilding, while the waiting period must be calibrated against the SME's working-capital buffer for first-week interruption. The [MSIG Singapore SUMO SME Insurance](https://www.msig.com.sg/sites/msig_sg/files/2024-01/SMO022401_SUMO_Insurance_Policy.pdf) BI section sets out the standard architecture; mid-market BI placements use day-based time excess with longer Indemnity Periods. There is no Singapore statute prescribing BI deductible structures; the policy wording controls. The claim-time arithmetic on a 30-day full-then-partial interruption with S$8,000 daily gross-profit run-rate shows the SME absorbing S$24,000 under 72-hour waiting versus S$10,000 under a S$10,000 dollar deductible versus S$34,000 under "time AND monetary in addition" hybrid.
 
 ### The Sourced Detail
 
@@ -32,7 +32,7 @@ This article addresses the waiting period structures. The Indemnity Period selec
 
 **Hours-based time deductible.** Cover commences after a stated number of hours from the moment of insured business interruption. Common Singapore market settings: 24, 48, 72 hours. The SME absorbs the loss for that fixed number of hours.
 
-**Day-based time deductible.** Cover commences after a stated number of days. Common Singapore settings: 3, 5, 7, or 14 days. "Day" is defined in the wording — whether business days (excluding weekends and public holidays) or calendar days depends on the definition.
+**Day-based time deductible.** Cover commences after a stated number of days. Common Singapore settings: 3, 5, 7, or 14 days. "Day" is defined in the wording - whether business days (excluding weekends and public holidays) or calendar days depends on the definition.
 
 **Dollar-based monetary deductible.** Cover commences after the SME has absorbed a stated S$ amount of BI loss. Common Singapore market settings: S$5,000, S$10,000, S$25,000, S$50,000. The deductible converts the loss-time question into a loss-amount question.
 
@@ -42,7 +42,7 @@ This article addresses the waiting period structures. The Indemnity Period selec
 
 The Indemnity Period is the maximum period for which BI cover responds, measured from the date of the property damage. Common Singapore SME settings: 6 months, 12 months, 18 months, 24 months. For larger commercial placements: 36 months or more.
 
-The Indemnity Period is the outer limit of cover; the waiting period is the inner deductible. They are not interchangeable. An SME with a 6-month Indemnity Period and a 72-hour waiting period has cover from hour 73 of interruption to month 6 from date of damage. If the realistic rebuilding timeline is 12 months, the SME has 6 months of uninsured exposure at the back end — not at the front end.
+The Indemnity Period is the outer limit of cover; the waiting period is the inner deductible. They are not interchangeable. An SME with a 6-month Indemnity Period and a 72-hour waiting period has cover from hour 73 of interruption to month 6 from date of damage. If the realistic rebuilding timeline is 12 months, the SME has 6 months of uninsured exposure at the back end - not at the front end.
 
 The structural priority for an SME is usually to size the Indemnity Period correctly first (against realistic rebuilding plus customer recovery time) and then optimise the waiting period against working-capital buffer.
 
@@ -109,7 +109,7 @@ BI loss calculation:
 
 **Cyber policy 8-hour waiting period.** Cover commences 8 hours after the cyber event. Day 1 partial loss after hour 22:00 is covered; Days 2-4 fully covered. SME absorbs Day 1 partial loss only.
 
-**Property policy 72-hour waiting period.** If the cyber BI were notified under a property-package BI rather than a dedicated cyber BI, the 72-hour waiting would mean cover starts late Day 4 — by which time the system is restored and there is no remaining BI loss. The SME absorbs the full S$5,400.
+**Property policy 72-hour waiting period.** If the cyber BI were notified under a property-package BI rather than a dedicated cyber BI, the 72-hour waiting would mean cover starts late Day 4 - by which time the system is restored and there is no remaining BI loss. The SME absorbs the full S$5,400.
 
 The lesson: matching waiting period to recovery profile matters. Cyber events have rapid-recovery profiles that fit hours-based short waiting periods; property events have longer-tail recovery profiles where days-based or hybrid structures fit.
 
@@ -121,7 +121,7 @@ Decision factors:
 
 - The SME's cash buffer to absorb the first 24-72 hours of interruption is the binding constraint for the waiting period selection. An SME with 4 weeks of working-capital buffer can rationally accept a 7-day waiting period; an SME running tight cash should prioritise a 24-hour or 48-hour waiting period.
 - The realistic time to substitute production (back-up unit, third-party manufacturer, supplier dual-sourcing) determines whether the loss profile is front-loaded (favouring short waiting periods) or back-loaded (where Indemnity Period matters more than waiting period).
-- The long-tail risk of a major loss requiring months-long rebuilding is the structural driver of Indemnity Period sizing — and is more often the binding constraint than the waiting period.
+- The long-tail risk of a major loss requiring months-long rebuilding is the structural driver of Indemnity Period sizing - and is more often the binding constraint than the waiting period.
 
 #### Singapore court treatment
 
@@ -143,7 +143,7 @@ Decision factors:
 
 7. **Ignoring the Increased Cost of Working sub-limit.** Many wordings include ICW (the additional cost of mitigating BI loss by relocating, expediting deliveries, leasing back-up equipment) as a sub-limit within the BI cover. SMEs whose interruption mitigation is expensive (expedited shipping, third-party manufacturing, premium-rate temporary premises) should specifically size the ICW sub-limit.
 
-8. **Not testing the Indemnity Period against the property Reinstatement Period.** A 12-month Reinstatement basis for property and a 12-month Indemnity Period for BI means the SME's cover ends at the same moment construction completes — leaving no cover for customer recovery time. For most SMEs, the BI Indemnity Period should exceed the realistic rebuild timeline by 3-6 months to fund customer recovery.
+8. **Not testing the Indemnity Period against the property Reinstatement Period.** A 12-month Reinstatement basis for property and a 12-month Indemnity Period for BI means the SME's cover ends at the same moment construction completes - leaving no cover for customer recovery time. For most SMEs, the BI Indemnity Period should exceed the realistic rebuild timeline by 3-6 months to fund customer recovery.
 
 9. **Forgetting that BI requires an underlying property damage trigger.** Standalone BI cover is rare in the Singapore SME market; most BI is written as an extension to property cover and is triggered only by an insured property damage event. SMEs relying on BI for non-physical interruption (cyber outage, supplier failure, regulatory shutdown) need separate cover.
 
@@ -153,7 +153,7 @@ Decision factors:
 
 For a Singapore SME procuring BI cover, the structural order of operations is: realistic rebuilding timeline assessment (factory, plant, premises rebuild duration); customer recovery time assessment (how long after operations restart before revenue returns to pre-loss level); Indemnity Period sized to cover both, plus a 3-6 month buffer; waiting period sized against working-capital buffer for first-week interruption; deductible structure tested for hybrid traps ("time AND monetary in addition" should be specifically queried); cyber BI written separately under a dedicated cyber policy with hours-based short waiting; and gross-profit declared value set at current projected, not historical, gross profit.
 
-For SMEs with short recovery profiles (small-format F&B, retail, professional services), a 72-hour or 7-day waiting period is typically rational. For SMEs with extended recovery profiles (manufacturing, B2B fulfilment, specialty equipment), a longer waiting period may be acceptable in exchange for a longer Indemnity Period — the structural priority shifts to the back end of the cover.
+For SMEs with short recovery profiles (small-format F&B, retail, professional services), a 72-hour or 7-day waiting period is typically rational. For SMEs with extended recovery profiles (manufacturing, B2B fulfilment, specialty equipment), a longer waiting period may be acceptable in exchange for a longer Indemnity Period - the structural priority shifts to the back end of the cover.
 
 For SMEs whose business survival depends on speed of cash recovery in the first week of interruption, hourly or short-day waiting periods are the structurally important choice regardless of premium efficiency on longer-tail elements.
 
@@ -169,11 +169,11 @@ For SMEs whose business survival depends on speed of cash recovery in the first 
 
 ### Related Information
 
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Article 275 — First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
-- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [Article 388 — PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 274 - Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 275 - First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
+- [Article 401 - How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [Article 388 - PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
 
 ---

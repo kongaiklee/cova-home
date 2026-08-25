@@ -20,15 +20,15 @@ og_description: "A major customer has entered judicial management, scheme of arr
 
 > **The Answer in 60 Seconds**
 >
-> A major customer has entered judicial management, scheme of arrangement, court-ordered liquidation, or appointed receivers under [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018). Your SME has unpaid invoices — Singapore-based or export. Critical first 7 days: (1) **file proof of claim** with appointed liquidator / JM via [Insolvency Office, Ministry of Law](https://io.mlaw.gov.sg/); (2) cease all collection efforts to avoid void preferences / transactions; (3) retention-of-title clause activation if drafted with precision; (4) IRDA 2018 Section 219 mutual credit set-off claim if dealings exist both ways; (5) **trigger trade credit insurance notification** — most policies have specific 10-20 day insolvency notification window. Trade credit insurance (TCI) angles: notification window is policy-specific but typically tight — protracted default 60-180 days from due date; **insolvency 10-20 days from receipt of court notice** typical. Coface, Allianz Trade, and Atradius all require online claim filing with full supporting pack (PO, contract, invoice, BOL/POD, aging report, collection trail). "Disputed debts" typically excluded — but Singapore arbitration precedent holds insurers cannot rely on unmeritorious "dispute" assertions to deny coverage. Funding bridge: consider invoice financing or factoring on the remaining receivables, and check whether any current [Enterprise Singapore](https://www.enterprisesg.gov.sg/) SME-internationalisation support applies. Reference judgment: [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1](https://www.elitigation.sg/) — Singapore's first TCI judgment per [Article 355](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment) framework.
+> A major customer has entered judicial management, scheme of arrangement, court-ordered liquidation, or appointed receivers under [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018). Your SME has unpaid invoices - Singapore-based or export. Critical first 7 days: (1) **file proof of claim** with appointed liquidator / JM via [Insolvency Office, Ministry of Law](https://io.mlaw.gov.sg/); (2) cease all collection efforts to avoid void preferences / transactions; (3) retention-of-title clause activation if drafted with precision; (4) IRDA 2018 Section 219 mutual credit set-off claim if dealings exist both ways; (5) **trigger trade credit insurance notification** - most policies have specific 10-20 day insolvency notification window. Trade credit insurance (TCI) angles: notification window is policy-specific but typically tight - protracted default 60-180 days from due date; **insolvency 10-20 days from receipt of court notice** typical. Coface, Allianz Trade, and Atradius all require online claim filing with full supporting pack (PO, contract, invoice, BOL/POD, aging report, collection trail). "Disputed debts" typically excluded - but Singapore arbitration precedent holds insurers cannot rely on unmeritorious "dispute" assertions to deny coverage. Funding bridge: consider invoice financing or factoring on the remaining receivables, and check whether any current [Enterprise Singapore](https://www.enterprisesg.gov.sg/) SME-internationalisation support applies. Reference judgment: [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1](https://www.elitigation.sg/) - Singapore's first TCI judgment per [Article 355](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment) framework.
 
 ### The Sourced Detail
 
-A major customer's insolvency creates simultaneous pressures: receivable recovery, trade credit insurance notification, ongoing relationship management, and operational cash flow. The trade credit insurance notification window is often the most time-sensitive element — missing the window can void otherwise valid claim.
+A major customer's insolvency creates simultaneous pressures: receivable recovery, trade credit insurance notification, ongoing relationship management, and operational cash flow. The trade credit insurance notification window is often the most time-sensitive element - missing the window can void otherwise valid claim.
 
 #### Statutory framework
 
-**Primary statute.** [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) — establishes:
+**Primary statute.** [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) - establishes:
 - Judicial management
 - Scheme of arrangement
 - Voluntary liquidation
@@ -37,22 +37,22 @@ A major customer's insolvency creates simultaneous pressures: receivable recover
 - Specific creditor protection provisions
 
 **Specific provisions of interest:**
-- Part 7 (judicial management) — section 89 sets out the purposes for which a judicial management order may be made
-- Section 219 — mutual credit and set-off
-- Sections 224–226 — transactions at an undervalue, unfair preferences, and the relevant time periods
-- Section 230 — disclaimer of onerous property
+- Part 7 (judicial management) - section 89 sets out the purposes for which a judicial management order may be made
+- Section 219 - mutual credit and set-off
+- Sections 224-226 - transactions at an undervalue, unfair preferences, and the relevant time periods
+- Section 230 - disclaimer of onerous property
 
-**Administrative body.** [Insolvency Office, Ministry of Law](https://io.mlaw.gov.sg/) — administers personal and corporate insolvency.
+**Administrative body.** [Insolvency Office, Ministry of Law](https://io.mlaw.gov.sg/) - administers personal and corporate insolvency.
 
 **Industry framework.** Trade credit insurance market dominated by:
-- [Allianz Trade (formerly Euler Hermes)](https://www.allianz-trade.com/) — global market leader
-- [Atradius](https://group.atradius.com/) — Singapore-based operations
-- [Coface](https://www.coface.com.sg/) — Singapore office, CofaNet platform
+- [Allianz Trade (formerly Euler Hermes)](https://www.allianz-trade.com/) - global market leader
+- [Atradius](https://group.atradius.com/) - Singapore-based operations
+- [Coface](https://www.coface.com.sg/) - Singapore office, CofaNet platform
 - Specialist insurers via Lloyd's syndicates
 
 #### Hour-by-hour response
 
-**Hour 0-2 — Confirmation and information gathering.**
+**Hour 0-2 - Confirmation and information gathering.**
 
 - Confirm customer status (judicial management vs liquidation vs scheme)
 - Identify appointed Insolvency Practitioner (JM, liquidator, scheme administrator)
@@ -60,7 +60,7 @@ A major customer's insolvency creates simultaneous pressures: receivable recover
 - Identify outstanding receivables (current, overdue, disputed)
 - Identify any retention of title / security position
 
-**Hour 2-24 — Internal mobilisation.**
+**Hour 2-24 - Internal mobilisation.**
 
 - Cease collection efforts (avoid potential preference recovery)
 - Halt further deliveries pending payment terms
@@ -68,9 +68,9 @@ A major customer's insolvency creates simultaneous pressures: receivable recover
 - Notify finance team, sales team, leadership
 - Specific board notification for material exposure
 
-**Day 1-3 — Trade credit insurance notification.**
+**Day 1-3 - Trade credit insurance notification.**
 
-- **Trade credit policy notification** — typically 10-20 days from receipt of court notice
+- **Trade credit policy notification** - typically 10-20 days from receipt of court notice
 - Specific notification per policy:
   - Coface CofaNet platform online filing
   - Allianz Trade EOLIS platform
@@ -83,14 +83,14 @@ A major customer's insolvency creates simultaneous pressures: receivable recover
   - Dispute history (where applicable)
   - Specific guarantee documentation (where applicable)
 
-**Day 3-7 — Proof of claim filing.**
+**Day 3-7 - Proof of claim filing.**
 
 - Insolvency Office proof of claim filing
 - Specific supporting documentation
 - Specific creditor classification (secured, preferential, unsecured)
 - Specific timely filing (deadline per court order or specific 30-day window)
 
-**Day 7-14 — Strategic positioning.**
+**Day 7-14 - Strategic positioning.**
 
 - Specific recovery strategy
 - Specific creditor committee participation if material
@@ -148,9 +148,9 @@ The specific notification timing is the single most consequential variable for S
 - Specific share of recoveries
 - Specific cooperation requirements
 
-#### Singapore TCI legal framework — key precedents
+#### Singapore TCI legal framework - key precedents
 
-**Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1** — Singapore's first TCI judgment (per [Article 355](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment) framework). Key precedent points:
+**Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1** - Singapore's first TCI judgment (per [Article 355](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment) framework). Key precedent points:
 - Physical trade evidence is foundational (paper-trade structures uninsurable)
 - Assignment without insurer consent voids cover
 - Document compliance is condition precedent to indemnity
@@ -173,10 +173,10 @@ Where supply contract includes retention of title:
 - Specific recovery of identified goods
 - Specific cover gap if goods not separable
 
-**Avoidance of vulnerable transactions (Sections 224–226).**
+**Avoidance of vulnerable transactions (Sections 224-226).**
 A liquidator or judicial manager may apply to court to unwind transactions entered into before the insolvency:
-- **Unfair preferences** — a one-year look-back, extended to two years where the preference was given to a connected person / associate of the company
-- **Transactions at an undervalue** — a three-year look-back
+- **Unfair preferences** - a one-year look-back, extended to two years where the preference was given to a connected person / associate of the company
+- **Transactions at an undervalue** - a three-year look-back
 - The avoidance turns on the specific facts (including the company's solvency at the time); take advice before assuming a past dealing is, or is not, at risk
 
 **Specific creditor classifications:**
@@ -249,27 +249,27 @@ Where insolvent customer operates across jurisdictions:
 
 For Singapore SMEs facing customer insolvency:
 
-1. **TCI notification within window** — specific 10-20 day insolvency clock tracked.
+1. **TCI notification within window** - specific 10-20 day insolvency clock tracked.
 
-2. **Documentation discipline** — comprehensive evidence pack ready.
+2. **Documentation discipline** - comprehensive evidence pack ready.
 
-3. **Cease collection** — preference recovery exposure managed.
+3. **Cease collection** - preference recovery exposure managed.
 
-4. **Proof of claim filing** — Insolvency Office submission timely.
+4. **Proof of claim filing** - Insolvency Office submission timely.
 
-5. **Set-off opportunities** — IRDA Section 219 evaluated.
+5. **Set-off opportunities** - IRDA Section 219 evaluated.
 
-6. **Retention of title** — operational discipline matched to contract terms.
+6. **Retention of title** - operational discipline matched to contract terms.
 
-7. **Funding bridge** — cash flow management during recovery.
+7. **Funding bridge** - cash flow management during recovery.
 
-8. **Cross-border coordination** — multi-jurisdiction recovery if applicable.
+8. **Cross-border coordination** - multi-jurisdiction recovery if applicable.
 
-9. **Recovery rights** — TCI insurer cooperation post-assignment.
+9. **Recovery rights** - TCI insurer cooperation post-assignment.
 
-10. **Long-term TCI strategy** — specific cover reviewed for future exposure.
+10. **Long-term TCI strategy** - specific cover reviewed for future exposure.
 
-The cost of TCI claim mismanagement is acute — an uninsured receivable loss scales with the size of the failed customer, and a missed notification can void an otherwise valid claim. The cost of TCI procurement is comparatively modest — a premium rated as a small percentage of insured turnover, quoted against the buyer portfolio.
+The cost of TCI claim mismanagement is acute - an uninsured receivable loss scales with the size of the failed customer, and a missed notification can void an otherwise valid claim. The cost of TCI procurement is comparatively modest - a premium rated as a small percentage of insured turnover, quoted against the buyer portfolio.
 
 ### Questions to Ask Your Adviser
 
@@ -280,7 +280,7 @@ The cost of TCI claim mismanagement is acute — an uninsured receivable loss sc
 5. For funding bridge, is Enterprise Singapore co-funding and banking facilities position assessed?
 
 ### Related Information
-- [Our Critical Supplier Just Declared Insolvency — What Do I Do Now?](/crisis/supplier-insolvency)
+- [Our Critical Supplier Just Declared Insolvency - What Do I Do Now?](/crisis/supplier-insolvency)
 - [When a Critical Vendor Goes Insolvent: Singapore Framework for Vendor Insolvency Cascade Response](/crisis/vendor-insolvency-cascade)
 - [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
 

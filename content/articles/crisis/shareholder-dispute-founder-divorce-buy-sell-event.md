@@ -20,7 +20,7 @@ og_description: "The Singapore SME has a shareholder dispute (founder versus fou
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME has a shareholder dispute (founder versus founder, founder versus investor, family-business succession) or a founder is going through divorce affecting shareholding. Operations, governance, and insurance posture are affected. [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 216 — Personal Remedies in Cases of Oppression or Injustice — is the principal statutory remedy: relief includes share-purchase orders, regulation of company affairs, or winding up. Section 216A provides the statutory derivative action by shareholder. Sections 76 to 76K govern share buyback. The [Women's Charter 1961](https://sso.agc.gov.sg/Act/WC1961) section 112 governs division of matrimonial assets including business shareholdings; Family Justice Courts jurisdiction. Singapore arbitration and mediation framework: [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg), [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg), [Singapore International Mediation Centre (SIMC)](https://www.simc.com.sg) provide dispute resolution routes that may be contractually mandated under the shareholders' agreement. Insurance triggers: D&O Side A for defending oppression action; Keyman if dispute leads to founder departure; buy-sell life cover triggered by departure under the shareholders' agreement. Day-One workflow: preserve board and shareholder communication records; engage corporate counsel to review the shareholders' agreement dispute-resolution clause; maintain operational continuity (banking and statutory filings cannot be held hostage); consider mediation invitation; D&O notice of circumstances if oppression litigation imminent. The leading authority on the oppression test: *Over & Over Ltd v Bonvests Holdings Ltd* [2010] 2 SLR 776 (Court of Appeal), available on [elitigation.sg](https://www.elitigation.sg).
+> The Singapore SME has a shareholder dispute (founder versus founder, founder versus investor, family-business succession) or a founder is going through divorce affecting shareholding. Operations, governance, and insurance posture are affected. [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 216 - Personal Remedies in Cases of Oppression or Injustice - is the principal statutory remedy: relief includes share-purchase orders, regulation of company affairs, or winding up. Section 216A provides the statutory derivative action by shareholder. Sections 76 to 76K govern share buyback. The [Women's Charter 1961](https://sso.agc.gov.sg/Act/WC1961) section 112 governs division of matrimonial assets including business shareholdings; Family Justice Courts jurisdiction. Singapore arbitration and mediation framework: [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg), [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg), [Singapore International Mediation Centre (SIMC)](https://www.simc.com.sg) provide dispute resolution routes that may be contractually mandated under the shareholders' agreement. Insurance triggers: D&O Side A for defending oppression action; Keyman if dispute leads to founder departure; buy-sell life cover triggered by departure under the shareholders' agreement. Day-One workflow: preserve board and shareholder communication records; engage corporate counsel to review the shareholders' agreement dispute-resolution clause; maintain operational continuity (banking and statutory filings cannot be held hostage); consider mediation invitation; D&O notice of circumstances if oppression litigation imminent. The leading authority on the oppression test: *Over & Over Ltd v Bonvests Holdings Ltd* [2010] 2 SLR 776 (Court of Appeal), available on [elitigation.sg](https://www.elitigation.sg).
 
 ### The Sourced Detail
 
@@ -42,7 +42,7 @@ Three principal trigger patterns:
 
 #### Statutory framework
 
-**Companies Act 1967 section 216 — Personal Remedies in Cases of Oppression or Injustice.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). The provision permits any member to apply to the court if:
+**Companies Act 1967 section 216 - Personal Remedies in Cases of Oppression or Injustice.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). The provision permits any member to apply to the court if:
 - the affairs of the company are being conducted or the powers of the directors are being exercised in a manner oppressive to one or more of the members or in disregard of their interests as members; or
 - some act of the company has been done or is threatened or some resolution has been passed which unfairly discriminates against or is otherwise prejudicial to one or more of the members.
 
@@ -53,11 +53,11 @@ Relief available includes:
 - An order winding up the company.
 - Any other order that the court considers appropriate.
 
-**Section 216A — Statutory Derivative Action.** Permits a complainant (including a shareholder) with leave of court to bring an action in the name of the company against directors or third parties. Used where the company itself is wronged but the controlling directors will not pursue the action.
+**Section 216A - Statutory Derivative Action.** Permits a complainant (including a shareholder) with leave of court to bring an action in the name of the company against directors or third parties. Used where the company itself is wronged but the controlling directors will not pursue the action.
 
-**Section 216B** — Court approval required to discontinue derivative action.
+**Section 216B** - Court approval required to discontinue derivative action.
 
-**Sections 76 to 76K — Share Buyback.** Companies Act framework for company purchase of its own shares. Subject to solvency tests, shareholder authorisation, and procedural requirements. The principal mechanism for company-purchase buy-sell arrangements under shareholders' agreements.
+**Sections 76 to 76K - Share Buyback.** Companies Act framework for company purchase of its own shares. Subject to solvency tests, shareholder authorisation, and procedural requirements. The principal mechanism for company-purchase buy-sell arrangements under shareholders' agreements.
 
 **Women's Charter 1961 section 112.** Available on [SSO](https://sso.agc.gov.sg/Act/WC1961). Governs division of matrimonial assets on divorce. Family Justice Courts apply a structured analysis to identify matrimonial assets, ascribe values, and order division. Business shareholdings acquired during marriage, or whose value increased during marriage, can be matrimonial assets subject to division.
 
@@ -73,9 +73,9 @@ The leading Singapore authority on the section 216 oppression test is *Over & Ov
 
 Subsequent authorities have applied the framework in family-business and joint-venture contexts:
 
-*Ho Yew Kong v Sakae Holdings Ltd* [2018] SGCA 33, the Court of Appeal decision in the Sakae Holdings / Gryphon joint-venture dispute — oppression in a joint-venture context, and the distinction between personal wrongs against a shareholder and corporate wrongs against the company.
+*Ho Yew Kong v Sakae Holdings Ltd* [2018] SGCA 33, the Court of Appeal decision in the Sakae Holdings / Gryphon joint-venture dispute - oppression in a joint-venture context, and the distinction between personal wrongs against a shareholder and corporate wrongs against the company.
 
-*Ng Kek Wee v Sim City Technology Ltd* [2014] 4 SLR 723 — commercial unfairness as the unifying element across the section 216 limbs, and the principle that a shareholder who holds the power to remedy the prejudice complained of is not relevantly oppressed.
+*Ng Kek Wee v Sim City Technology Ltd* [2014] 4 SLR 723 - commercial unfairness as the unifying element across the section 216 limbs, and the principle that a shareholder who holds the power to remedy the prejudice complained of is not relevantly oppressed.
 
 For an SME considering section 216 relief, the framework analysis typically covers:
 - Whether the affairs of the company are conducted in a manner oppressive or in disregard of the petitioner's interests.
@@ -86,11 +86,11 @@ For an SME considering section 216 relief, the framework analysis typically cove
 
 Most Singapore SME shareholders' agreements include dispute-resolution clauses governing escalation:
 
-**Tier 1 — Direct discussion.** Mandatory good-faith discussion between the disputing parties.
+**Tier 1 - Direct discussion.** Mandatory good-faith discussion between the disputing parties.
 
-**Tier 2 — Mediation.** SMC or SIMC mediation typically prescribed.
+**Tier 2 - Mediation.** SMC or SIMC mediation typically prescribed.
 
-**Tier 3 — Arbitration or court.** SIAC arbitration is the typical choice for sophisticated SHAs; Singapore High Court for simpler arrangements. Section 216 oppression actions are court-only and cannot be referred to arbitration (the court has exclusive jurisdiction over the section 216 remedy).
+**Tier 3 - Arbitration or court.** SIAC arbitration is the typical choice for sophisticated SHAs; Singapore High Court for simpler arrangements. Section 216 oppression actions are court-only and cannot be referred to arbitration (the court has exclusive jurisdiction over the section 216 remedy).
 
 **Buy-sell mechanics.** Most SHAs include buy-sell provisions covering departure events: voluntary resignation, retirement, death, incapacity, divorce (sometimes), termination for cause. Common architectures:
 - Right of first refusal.
@@ -220,11 +220,11 @@ For founders going through divorce, the structurally important step is early eng
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 296 — Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](/crisis/director-death-sudden-incapacity-key-person-event)
-- [Article 298 — JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](/crisis/jv-partnership-breakdown-allocation-run-off-dissolution)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 296 - Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](/crisis/director-death-sudden-incapacity-key-person-event)
+- [Article 298 - JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](/crisis/jv-partnership-breakdown-allocation-run-off-dissolution)
+- [Article 393 - Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

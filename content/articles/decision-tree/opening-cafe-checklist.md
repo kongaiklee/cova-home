@@ -20,11 +20,11 @@ og_description: "A Singapore café typically needs: WICA (mandatory under Sectio
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore café typically needs: **WICA** (mandatory under [Section 24 WICA 2019](https://sso.agc.gov.sg/Act/WICA2019)), **Public Liability and Product Liability** (typically required by mall/landlord lease, baseline S$1M–S$3M), **Property/Fire** (lease typically requires; covers fit-out, equipment, stock), **Business Interruption** (paired with Property), and depending on circumstances: **Cyber** (POS, customer data, online ordering), **Money insurance** (cash takings), **Glass insurance** (storefront), **Group Medical and Group PA** for staff, and **Foreign Worker Medical Insurance** if hiring Work Permit holders. Licensing baseline: [SFA Food Shop Licence](https://www.gobusiness.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) where applicable, and various other permits per location and concept.
+> A Singapore café typically needs: **WICA** (mandatory under [Section 24 WICA 2019](https://sso.agc.gov.sg/Act/WICA2019)), **Public Liability and Product Liability** (typically required by mall/landlord lease, baseline S$1M-S$3M), **Property/Fire** (lease typically requires; covers fit-out, equipment, stock), **Business Interruption** (paired with Property), and depending on circumstances: **Cyber** (POS, customer data, online ordering), **Money insurance** (cash takings), **Glass insurance** (storefront), **Group Medical and Group PA** for staff, and **Foreign Worker Medical Insurance** if hiring Work Permit holders. Licensing baseline: [SFA Food Shop Licence](https://www.gobusiness.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) where applicable, and various other permits per location and concept.
 
 ### The Sourced Detail
 
-Opening a café in Singapore involves a stack of insurance and licensing requirements that interlock. Get one wrong and the others can fail too — a missing FSC voids the fire policy warranty; a missing WICA cover triggers Section 25 criminal exposure; a missing PL leaves the lease in breach. Working through the full checklist before opening is the discipline.
+Opening a café in Singapore involves a stack of insurance and licensing requirements that interlock. Get one wrong and the others can fail too - a missing FSC voids the fire policy warranty; a missing WICA cover triggers Section 25 criminal exposure; a missing PL leaves the lease in breach. Working through the full checklist before opening is the discipline.
 
 #### The mandatory-by-statute layer
 
@@ -36,7 +36,7 @@ Per [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg
 - Cashiers and front-of-house earning at or below S$2,600 (non-manual within scope)
 - Cleaners, delivery staff, support staff (typically manual)
 
-Cover must be from one of the [24 MOM-designated insurers](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer) (list dated 1 January 2026). Failure to insure is an offence under Section 25; directors face personal liability under Section 25(3) — see [Article 67](/document-legal/wica-section-25-offence).
+Cover must be from one of the [24 MOM-designated insurers](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer) (list dated 1 January 2026). Failure to insure is an offence under Section 25; directors face personal liability under Section 25(3) - see [Article 67](/document-legal/wica-section-25-offence).
 
 **2. Motor third-party (if any vehicles)**
 
@@ -48,10 +48,10 @@ If the café operates a delivery van or motorbike, motor third-party cover is ma
 
 Almost every commercial lease in Singapore requires the tenant to maintain Public Liability insurance, typically:
 - S$1M minimum for HDB/JTC industrial units and smaller commercial spaces
-- S$3M–S$5M for shopping mall units and prime retail
+- S$3M-S$5M for shopping mall units and prime retail
 - Higher for hotels, airports, premium venues
 
-For F&B specifically, the lease often also requires Product Liability — covering food contamination, foreign object injuries, allergic reactions. See [Article 70](/comparison/pl-vs-product-liability) on the PL/Product distinction.
+For F&B specifically, the lease often also requires Product Liability - covering food contamination, foreign object injuries, allergic reactions. See [Article 70](/comparison/pl-vs-product-liability) on the PL/Product distinction.
 
 The lease typically requires:
 - Landlord named as additional insured or "indemnity to principal" extension (see [Article 59](/document-legal/indemnity-to-principal))
@@ -62,7 +62,7 @@ The lease typically requires:
 
 Most leases require fire insurance on the tenant's improvements, fit-out, equipment, and stock. The landlord typically holds master fire insurance on the building structure but expects the tenant to insure their own assets and indemnify damage caused by tenant operations.
 
-For a café with significant fit-out (custom counters, espresso machines, ovens, refrigeration, furniture, signage), the sum insured at reinstatement value is often S$80,000–S$300,000 depending on size and concept. See [Article 65](/comparison/indemnity-vs-reinstatement-basis) on indemnity vs reinstatement basis.
+For a café with significant fit-out (custom counters, espresso machines, ovens, refrigeration, furniture, signage), the sum insured at reinstatement value is often S$80,000-S$300,000 depending on size and concept. See [Article 65](/comparison/indemnity-vs-reinstatement-basis) on indemnity vs reinstatement basis.
 
 **5. Business Interruption (BI)**
 
@@ -71,7 +71,7 @@ A fire, flood, or major property event that closes the café for weeks or months
 - Additional cost of working (alternative premises, expedited equipment replacement)
 - Increased operating costs while restoring normal operations
 
-For a café with monthly gross profit of S$30,000–S$60,000, the BI sum insured at 12 months indemnity period is typically S$360k–S$720k. Set realistically based on actual gross profit, not turnover.
+For a café with monthly gross profit of S$30,000-S$60,000, the BI sum insured at 12 months indemnity period is typically S$360k-S$720k. Set realistically based on actual gross profit, not turnover.
 
 #### The licensing layer (insurance interaction)
 
@@ -93,12 +93,12 @@ Per the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), most commerc
 - Fire Safety Certificate before occupation
 - Annual or 3-year (from 1 April 2026) Fire Certificate renewal where applicable
 
-See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) on FSC application process. Property and fire insurance policies typically include a "compliance with fire safety requirements" warranty — a lapsed FC can void the policy.
+See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) on FSC application process. Property and fire insurance policies typically include a "compliance with fire safety requirements" warranty - a lapsed FC can void the policy.
 
 **8. Foreign worker permits (if applicable)**
 
 If hiring Work Permit holders or S Pass holders, the Employment of Foreign Manpower regime requires:
-- Foreign Worker Medical Insurance (FWMI) — minimum S$60,000 inpatient cover (post-1 July 2023 enhancement)
+- Foreign Worker Medical Insurance (FWMI) - minimum S$60,000 inpatient cover (post-1 July 2023 enhancement)
 - Security bond (S$5,000 for non-Malaysian Work Permit holders)
 - 6-monthly medical examination compliance
 - WICA insurance covering them
@@ -113,7 +113,7 @@ For cash-handling cafés, Money insurance covers theft of cash:
 - In transit (to bank or office)
 - Sometimes: at director's residence
 
-For a café with daily takings of S$2,000–S$5,000 and weekly bank deposits, Money cover is typically S$10,000–S$50,000. Subject to security warranties (safe specifications, cash-in-transit limits, banking frequency).
+For a café with daily takings of S$2,000-S$5,000 and weekly bank deposits, Money cover is typically S$10,000-S$50,000. Subject to security warranties (safe specifications, cash-in-transit limits, banking frequency).
 
 **10. Plate Glass insurance**
 
@@ -126,7 +126,7 @@ See [Article 61](/procedural-howto/plate-glass-claim). Often included as a secti
 
 **11. Group Medical and Group Personal Accident**
 
-Once headcount reaches 5–10+, group medical and group PA become standard:
+Once headcount reaches 5-10+, group medical and group PA become standard:
 - Group Hospitalisation & Surgical (see [Article 60](/procedural-howto/group-hospital-surgical-claim))
 - Group Personal Accident (see [Article 58](/comparison/wica-vs-gpa))
 - Sometimes outpatient clinic schemes for higher-end cafés competing for talent
@@ -149,33 +149,33 @@ For a small café, Cyber may be a small sub-limit on a business package; for caf
 
 **13. Equipment Breakdown**
 
-For cafés with significant equipment investment (custom espresso machines costing S$15,000+, commercial ovens, refrigeration), Equipment Breakdown cover responds to mechanical and electrical failure of specified equipment — distinct from Property/Fire which covers external causes.
+For cafés with significant equipment investment (custom espresso machines costing S$15,000+, commercial ovens, refrigeration), Equipment Breakdown cover responds to mechanical and electrical failure of specified equipment - distinct from Property/Fire which covers external causes.
 
 #### Premium budget for a typical Singapore café
 
-For a typical 50–80 sqm café with 5–8 staff and S$50,000–S$80,000 monthly gross profit, a complete insurance programme typically costs **S$5,000–S$12,000 annually** depending on:
+For a typical 50-80 sqm café with 5-8 staff and S$50,000-S$80,000 monthly gross profit, a complete insurance programme typically costs **S$5,000-S$12,000 annually** depending on:
 - Concept (alcohol service, late-night hours, kitchen complexity)
 - Location risk (mall vs HDB shop vs heritage shophouse)
 - Sums insured
 - Claims history of prior owner (for franchise/transfer)
 
 Allocated roughly:
-- WICA: 15–25%
-- PL/Product: 15–25%
-- Property/Fire/BI: 30–40%
-- Group medical/PA: 15–25%
-- Cyber, Money, Glass, Equipment Breakdown: 10–15% combined
+- WICA: 15-25%
+- PL/Product: 15-25%
+- Property/Fire/BI: 30-40%
+- Group medical/PA: 15-25%
+- Cyber, Money, Glass, Equipment Breakdown: 10-15% combined
 
 #### Sequence of bind
 
 The insurance procurement should align with the operational timeline:
 
-1. **At lease signing** — confirm the lease's insurance requirements; obtain commitment letter from broker
-2. **At fit-out start** — Contractor's All Risks (CAR) insurance for the fit-out works (often the contractor's responsibility but verify in the contract)
-3. **Before SCDF FSC application** — confirm fire policy in principle
-4. **Before FSC issuance and occupation** — bind Property/Fire, Public Liability, Product Liability, WICA, Group Medical
-5. **At operational start** — confirm all policies are in force with schedules received
-6. **Within 30 days** — provide Certificates of Insurance to landlord, mall management, suppliers as required
+1. **At lease signing** - confirm the lease's insurance requirements; obtain commitment letter from broker
+2. **At fit-out start** - Contractor's All Risks (CAR) insurance for the fit-out works (often the contractor's responsibility but verify in the contract)
+3. **Before SCDF FSC application** - confirm fire policy in principle
+4. **Before FSC issuance and occupation** - bind Property/Fire, Public Liability, Product Liability, WICA, Group Medical
+5. **At operational start** - confirm all policies are in force with schedules received
+6. **Within 30 days** - provide Certificates of Insurance to landlord, mall management, suppliers as required
 
 #### Renewal calendar
 
@@ -202,14 +202,14 @@ Opening a café is operationally complex. The insurance side often gets compress
 
 The discipline that produces a clean insurance build:
 
-1. **Engage a broker 90 days before target opening.** Not at signing the lease — that's late.
+1. **Engage a broker 90 days before target opening.** Not at signing the lease - that's late.
 2. **Provide the broker with the lease, fit-out scope, equipment list, headcount plan, projected turnover.** Comprehensive submission produces comprehensive quotes.
 3. **Run a multi-line, multi-insurer comparison.** Don't accept the first quote on each line.
 4. **Read the wordings.** Premium is one number; coverage is everything else.
-5. **Build the COI/endorsement deliverables list early.** Landlord, mall, suppliers — all may need certificates.
+5. **Build the COI/endorsement deliverables list early.** Landlord, mall, suppliers - all may need certificates.
 6. **Calendar renewals across 12 months.** Stagger if possible to smooth cash flow; if not, be ready for the bunched renewal.
 
-The cost of getting the insurance build right is mostly time and attention, not money. The cost of getting it wrong is the difference between a covered loss and an uncovered one — sometimes the difference between recovery and closure.
+The cost of getting the insurance build right is mostly time and attention, not money. The cost of getting it wrong is the difference between a covered loss and an uncovered one - sometimes the difference between recovery and closure.
 
 ### Questions to Ask Your Adviser
 
@@ -220,7 +220,7 @@ The cost of getting the insurance build right is mostly time and attention, not 
 5. What is the renewal calendar, and how can I stagger annual premiums to manage cash flow?
 
 ### Related Information
-- [How to File a Public Liability Claim — Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
+- [How to File a Public Liability Claim - Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
 

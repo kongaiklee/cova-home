@@ -20,23 +20,23 @@ og_description: "Your SME is hiring a non-Malaysian Work Permit holder for the f
 
 > **The Answer in 60 Seconds**
 >
-> Your SME is hiring a non-Malaysian Work Permit holder for the first time and needs to lodge the SGD 5,000 [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) Security Bond before the worker arrives. The bond covers MOM's costs if the worker absconds, breaches Work Permit conditions, or requires repatriation. Critical workflow: (1) Submit Work Permit application via [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits); (2) wait for In-Principle Approval (IPA) — IPA is regenerated next working day after FIN issued; (3) request bond quote from MOM-approved insurer or bank with IPA + ACRA Bizfile; (4) accept terms — choose insurance bond (cheapest) or banker's guarantee (more expensive but no counter-indemnity recovery exposure); (5) insurer transmits to MOM electronically (typically 1-3 working days); (6) verify "SB Effective Date" on WPOL before worker arrives in Singapore; (7) on cessation of employment, discharge ~1 week after worker departs Singapore. Quantitative anchors: SGD 5,000 per non-Malaysian Work Permit holder (no bond required for S Pass or Malaysian Work Permit holders); 14-month bond period (12-month WP + 2-month buffer) or 26-month (24-month WP + 2-month buffer); the bond premium is a small fraction of the SGD 5,000 face value, obtained as a quote; a counter-indemnity waiver, where bought, adds to that premium. **Critical insurance angle:** standard insurance bond contains counter-indemnity clause allowing insurer to recover from employer if MOM forfeits bond — most SMEs don't realise this. Waiver of counter-indemnity is the specific endorsement to demand if affordable.
+> Your SME is hiring a non-Malaysian Work Permit holder for the first time and needs to lodge the SGD 5,000 [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) Security Bond before the worker arrives. The bond covers MOM's costs if the worker absconds, breaches Work Permit conditions, or requires repatriation. Critical workflow: (1) Submit Work Permit application via [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits); (2) wait for In-Principle Approval (IPA) - IPA is regenerated next working day after FIN issued; (3) request bond quote from MOM-approved insurer or bank with IPA + ACRA Bizfile; (4) accept terms - choose insurance bond (cheapest) or banker's guarantee (more expensive but no counter-indemnity recovery exposure); (5) insurer transmits to MOM electronically (typically 1-3 working days); (6) verify "SB Effective Date" on WPOL before worker arrives in Singapore; (7) on cessation of employment, discharge ~1 week after worker departs Singapore. Quantitative anchors: SGD 5,000 per non-Malaysian Work Permit holder (no bond required for S Pass or Malaysian Work Permit holders); 14-month bond period (12-month WP + 2-month buffer) or 26-month (24-month WP + 2-month buffer); the bond premium is a small fraction of the SGD 5,000 face value, obtained as a quote; a counter-indemnity waiver, where bought, adds to that premium. **Critical insurance angle:** standard insurance bond contains counter-indemnity clause allowing insurer to recover from employer if MOM forfeits bond - most SMEs don't realise this. Waiver of counter-indemnity is the specific endorsement to demand if affordable.
 
 ### The Sourced Detail
 
-The MOM Security Bond is a hybrid product — a financial guarantee that satisfies a regulatory requirement while creating a discrete commercial relationship between employer and insurer. The structure has substantial implications for SME cash flow and contingent liability that most SMEs don't fully appreciate at the point of purchase.
+The MOM Security Bond is a hybrid product - a financial guarantee that satisfies a regulatory requirement while creating a discrete commercial relationship between employer and insurer. The structure has substantial implications for SME cash flow and contingent liability that most SMEs don't fully appreciate at the point of purchase.
 
 #### Statutory framework
 
-**Primary statute.** [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) — establishes Work Permit framework and security bond requirements.
+**Primary statute.** [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) - establishes Work Permit framework and security bond requirements.
 
-**Specific regulations.** Employment of Foreign Manpower (Work Passes) Regulations 2012 — Work Permit conditions including security bond.
+**Specific regulations.** Employment of Foreign Manpower (Work Passes) Regulations 2012 - Work Permit conditions including security bond.
 
-**MOM administration.** [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits) — electronic submission and bond transmission platform.
+**MOM administration.** [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits) - electronic submission and bond transmission platform.
 
-**Insurance framework.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) — insurance bond regulation.
+**Insurance framework.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - insurance bond regulation.
 
-**Banking framework.** [Banking Act 1970](https://sso.agc.gov.sg/Act/BA1970) — banker's guarantee regulation.
+**Banking framework.** [Banking Act 1970](https://sso.agc.gov.sg/Act/BA1970) - banker's guarantee regulation.
 
 #### Who needs a Security Bond
 
@@ -63,16 +63,16 @@ The bond is forfeitable by MOM where employer fails to fulfil specific obligatio
 
 #### Step-by-step procedure
 
-**Step 1 — Work Permit application (Day 0).**
+**Step 1 - Work Permit application (Day 0).**
 
 Submit via WPOL:
 - Worker biographical data (passport, country of origin)
-- Worker classification (sector — construction, marine, manufacturing, services, etc.)
+- Worker classification (sector - construction, marine, manufacturing, services, etc.)
 - Specific employer information
 - Specific quota verification (foreign worker dependency ratio per sector)
 - Specific Foreign Worker Levy classification
 
-**Step 2 — In-Principle Approval (IPA) (Day 1-7).**
+**Step 2 - In-Principle Approval (IPA) (Day 1-7).**
 
 MOM processes application:
 - Specific eligibility verification
@@ -82,24 +82,24 @@ MOM processes application:
 
 After FIN issued: regenerate IPA next working day for use in bond purchase.
 
-**Step 3 — Bond quote and selection (Day 7-10).**
+**Step 3 - Bond quote and selection (Day 7-10).**
 
 Request bond from:
 
-**Option A — Insurance bond (most common).**
+**Option A - Insurance bond (most common).**
 - MOM-approved insurer (specific list maintained by MOM)
 - Premium is a small fraction of the SGD 5,000 face value, quoted by the insurer
 - Counter-indemnity clause standard
 - Faster issuance (often same-day during business hours)
 
-**Option B — Banker's guarantee.**
+**Option B - Banker's guarantee.**
 - Singapore-incorporated bank
 - Specific cash collateral or letter of credit typically required
 - More expensive total cost
 - No counter-indemnity recovery exposure (banker holds collateral)
 - Slower issuance
 
-**Option C — Bond + Foreign Worker Medical Insurance + WICA bundle.**
+**Option C - Bond + Foreign Worker Medical Insurance + WICA bundle.**
 - Specific bundled product from MOM-approved insurer
 - Specific cost saving on combined premium
 - Specific operational simplification
@@ -110,28 +110,28 @@ Request bond from:
 - Specific employer registration documents
 - Specific bank account details for premium payment
 
-**Step 4 — Bond issuance (Day 10-14).**
+**Step 4 - Bond issuance (Day 10-14).**
 
 - Insurer or bank issues bond document
 - Bond electronically transmitted to MOM (typically 1-3 working days)
 - WPOL "SB Effective Date" updated
 - Specific WP issuance condition satisfied
 
-**Step 5 — Worker arrival (Day 14-21).**
+**Step 5 - Worker arrival (Day 14-21).**
 
 - Worker arrives in Singapore
 - Specific SB Effective Date must precede arrival
 - Specific WP medical examination
 - Specific WP issuance and FIN activation
 
-**Step 6 — Ongoing maintenance (during WP period).**
+**Step 6 - Ongoing maintenance (during WP period).**
 
 - Bond active throughout 12-month or 24-month WP cycle
 - Plus 2-month buffer for repatriation
 - Specific renewal coordination if WP renewed
 - Specific premium payments if multi-year structure
 
-**Step 7 — Discharge (post-cessation).**
+**Step 7 - Discharge (post-cessation).**
 
 - Worker departs Singapore
 - Specific WP cancellation via WPOL
@@ -139,7 +139,7 @@ Request bond from:
 - Bond discharge ~1 week after verified departure
 - Specific premium pro-rata refund if applicable
 
-#### Insurance bond mechanics — counter-indemnity
+#### Insurance bond mechanics - counter-indemnity
 
 **Standard structure.**
 - Insurer issues bond to MOM (face value SGD 5,000)
@@ -163,13 +163,13 @@ For SMEs hiring multiple foreign workers, the counter-indemnity waiver decision 
 - 10 workers × SGD 5,000 = SGD 50,000 contingent liability without waiver
 - 100 workers × SGD 5,000 = SGD 500,000 contingent liability without waiver
 
-#### Bundle considerations — FWMI and WICA
+#### Bundle considerations - FWMI and WICA
 
 Many MOM-approved insurers offer combined products:
 
 **Standard bundle:**
 - MOM Security Bond
-- Foreign Worker Medical Insurance (FWMI) — see Article 374 framework
+- Foreign Worker Medical Insurance (FWMI) - see Article 374 framework
 - Work Injury Compensation Insurance (WICA)
 
 **Bundle benefits:**
@@ -241,7 +241,7 @@ Specific employer due diligence:
 - Operating cost, not contingent liability
 - Specific quota implications
 
-These are distinct obligations — both required for Work Permit holders.
+These are distinct obligations - both required for Work Permit holders.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -269,27 +269,27 @@ These are distinct obligations — both required for Work Permit holders.
 
 For Singapore SMEs hiring foreign workers:
 
-1. **Standard bond procurement protocol** — IPA → bond quote → SB Effective Date → worker arrival.
+1. **Standard bond procurement protocol** - IPA → bond quote → SB Effective Date → worker arrival.
 
-2. **Counter-indemnity assessment** — explicit decision on waiver based on contingent liability exposure.
+2. **Counter-indemnity assessment** - explicit decision on waiver based on contingent liability exposure.
 
-3. **Bundle vs standalone evaluation** — total cost analysis across Bond + FWMI + WICA.
+3. **Bundle vs standalone evaluation** - total cost analysis across Bond + FWMI + WICA.
 
-4. **MOM-approved insurer relationship** — current relationship with specific carrier.
+4. **MOM-approved insurer relationship** - current relationship with specific carrier.
 
-5. **Specific WPOL access** — credentials, specific user roles, document upload tested.
+5. **Specific WPOL access** - credentials, specific user roles, document upload tested.
 
-6. **Specific renewal coordination** — bond cycles aligned with WP cycles.
+6. **Specific renewal coordination** - bond cycles aligned with WP cycles.
 
-7. **Specific discharge process** — post-cessation documentation and bond release.
+7. **Specific discharge process** - post-cessation documentation and bond release.
 
-8. **Specific forfeiture risk management** — worker recruitment, training, welfare, retention.
+8. **Specific forfeiture risk management** - worker recruitment, training, welfare, retention.
 
-9. **Specific compliance history** — proactive MOM relationship, specific audit response.
+9. **Specific compliance history** - proactive MOM relationship, specific audit response.
 
-10. **Specific scaling considerations** — bulk procurement for multi-worker SMEs.
+10. **Specific scaling considerations** - bulk procurement for multi-worker SMEs.
 
-The cost of bond mismanagement is bounded but real — single forfeiture is SGD 5,000 (per worker); aggregate exposure scales with workforce size. The cost of pre-incident discipline is minimal — the bond premium is a small, quotable fraction of the SGD 5,000 face value.
+The cost of bond mismanagement is bounded but real - single forfeiture is SGD 5,000 (per worker); aggregate exposure scales with workforce size. The cost of pre-incident discipline is minimal - the bond premium is a small, quotable fraction of the SGD 5,000 face value.
 
 ### Questions to Ask Your Adviser
 

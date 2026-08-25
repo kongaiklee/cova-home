@@ -48,29 +48,29 @@ Certification scope categories include:
 
 #### Insurance commercial spine
 
-**Public Liability** — covers premises and customer injury. Considerations:
+**Public Liability** - covers premises and customer injury. Considerations:
 
 - Food contamination claims (food-borne illness, allergen reaction, foreign object)
 - Slip-and-fall, fixture failure, premises liability
 - F&B-specific PL extension for food-related claims
 
-**Product Liability** — for packaged or distributed product:
+**Product Liability** - for packaged or distributed product:
 
 - Catering products delivered to customers
 - Packaged goods sold beyond direct-service location
 - Distributed products through retail or wholesale channels
 
-**Property / Fire** — covers kitchen equipment, dining fit-out, cold storage, ventilation systems, dishware, fixtures. Halal-certified kitchen equipment is dedicated; dual operations (halal and non-halal under same roof under endorsement scheme) require separated equipment which doubles equipment scope.
+**Property / Fire** - covers kitchen equipment, dining fit-out, cold storage, ventilation systems, dishware, fixtures. Halal-certified kitchen equipment is dedicated; dual operations (halal and non-halal under same roof under endorsement scheme) require separated equipment which doubles equipment scope.
 
-**Business Interruption** — covers revenue loss following property loss. Critical extension consideration: **does BI extend to certification-suspension scenarios?**
+**Business Interruption** - covers revenue loss following property loss. Critical extension consideration: **does BI extend to certification-suspension scenarios?**
 
-**WICA** — for all employed staff: kitchen, service, delivery, management.
+**WICA** - for all employed staff: kitchen, service, delivery, management.
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Crime / Fidelity Guarantee** — for cash handling and stock-protection scenarios.
+**Crime / Fidelity Guarantee** - for cash handling and stock-protection scenarios.
 
-**Cyber / PDPA cover** — for delivery-platform integration, customer data, payment systems.
+**Cyber / PDPA cover** - for delivery-platform integration, customer data, payment systems.
 
 #### The certification-loss exposure question
 
@@ -120,7 +120,7 @@ Halal certification depends on supply chain integrity end-to-end:
 
 #### The dual-operation exposure (endorsement scheme)
 
-Some operators run dual halal and non-halal operations under MUIS endorsement scheme — typically separate kitchens / preparation areas / service areas but shared premises:
+Some operators run dual halal and non-halal operations under MUIS endorsement scheme - typically separate kitchens / preparation areas / service areas but shared premises:
 
 **Cross-contamination risk.** Operationally constant risk requiring strict segregation
 **Equipment duplication.** Halal and non-halal equipment must be separate; Property cover scope reflects this
@@ -172,7 +172,7 @@ Halal certification is typically per-location for eating establishments. Multi-l
 
 ### What This Means for Your Business
 
-For a typical Singapore halal-certified F&B operator — single location, 30–80 covers, halal-customer-base focus:
+For a typical Singapore halal-certified F&B operator - single location, 30-80 covers, halal-customer-base focus:
 
 1. **Confirm SFA food licence current and operations compliant.**
 
@@ -198,7 +198,7 @@ For dual operations (endorsement scheme): same spine plus rigorous operational s
 
 For catering operators: same spine plus off-site PL extension and event-specific risk management.
 
-The cost of properly structured halal F&B operator insurance is typically SGD 5,000–15,000 annually depending on scale and operational scope. Specific certification-suspension BI extension where available may add to premium. The cost of a single major incident — food poisoning outbreak, certification suspension causing extended customer-base contraction — typically exceeds many years of premium.
+The cost of properly structured halal F&B operator insurance is typically SGD 5,000-15,000 annually depending on scale and operational scope. Specific certification-suspension BI extension where available may add to premium. The cost of a single major incident - food poisoning outbreak, certification suspension causing extended customer-base contraction - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

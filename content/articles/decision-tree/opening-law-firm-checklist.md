@@ -20,13 +20,13 @@ og_description: "A Singapore law firm has insurance requirements that are partly
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore law firm has insurance requirements that are partly mandatory by [Legal Profession (Professional Indemnity Insurance) Rules](https://sso.agc.gov.sg/SL/LPA1966-R11) and partly commercial. **Mandatory PI insurance** through the [Singapore Law Society's Professional Indemnity Insurance Scheme](https://www.lawsociety.org.sg/) — minimum limits per the Rules with annual renewal aligned to the [Practice Year](https://www.lawsociety.org.sg/) (1 April–31 March). **WICA** for staff. **Public Liability** for office premises. **Cyber Liability** with attention to client confidentiality and PDPA (legal data is highly sensitive). **Property/Fire** for fit-out and equipment. **D&O** as practice scales or for partnership/incorporation structures. **Employment Practices Liability** as headcount grows. The Singapore Law Society administers the mandatory PI scheme; certified PI is a condition of holding a [Practising Certificate](https://www.lawsociety.org.sg/).
+> A Singapore law firm has insurance requirements that are partly mandatory by [Legal Profession (Professional Indemnity Insurance) Rules](https://sso.agc.gov.sg/SL/LPA1966-R11) and partly commercial. **Mandatory PI insurance** through the [Singapore Law Society's Professional Indemnity Insurance Scheme](https://www.lawsociety.org.sg/) - minimum limits per the Rules with annual renewal aligned to the [Practice Year](https://www.lawsociety.org.sg/) (1 April-31 March). **WICA** for staff. **Public Liability** for office premises. **Cyber Liability** with attention to client confidentiality and PDPA (legal data is highly sensitive). **Property/Fire** for fit-out and equipment. **D&O** as practice scales or for partnership/incorporation structures. **Employment Practices Liability** as headcount grows. The Singapore Law Society administers the mandatory PI scheme; certified PI is a condition of holding a [Practising Certificate](https://www.lawsociety.org.sg/).
 
 ### The Sourced Detail
 
 Law firm insurance in Singapore is structurally different from most SME insurance because Professional Indemnity is mandatory by professional rules and centrally administered through the Law Society's scheme. The other lines (WICA, Property, Cyber, etc.) are layered on top. For founders setting up a new firm, the mandatory PI must be in place before commencing practice; the rest of the build follows.
 
-#### The mandatory layer — Law Society PI
+#### The mandatory layer - Law Society PI
 
 **Legal basis:**
 - [Legal Profession Act 1966](https://sso.agc.gov.sg/Act/LPA1966)
@@ -35,12 +35,12 @@ Law firm insurance in Singapore is structurally different from most SME insuranc
 **The scheme:**
 The Law Society administers a mandatory PI scheme. Every Singapore lawyer holding a Practising Certificate must have current PI cover that meets the Rules' specifications. The scheme:
 - Provides a default cover at minimum specified limits
-- Operates on the Practice Year (1 April–31 March)
+- Operates on the Practice Year (1 April-31 March)
 - Premiums calculated based on firm size, practice areas, claims history
 - Some firms purchase top-up cover above the scheme minimum from commercial insurers
 
 **Minimum limits and excess:**
-Per the Rules. Verify current minimums directly with the [Law Society Professional Indemnity Insurance page](https://www.lawsociety.org.sg/) — figures are revised periodically.
+Per the Rules. Verify current minimums directly with the [Law Society Professional Indemnity Insurance page](https://www.lawsociety.org.sg/) - figures are revised periodically.
 
 **What it covers:**
 - Negligent legal advice
@@ -57,7 +57,7 @@ Per the Rules. Verify current minimums directly with the [Law Society Profession
 - Specific carve-outs per the scheme wording
 
 **Top-up cover:**
-Many firms — particularly those handling material commercial transactions, large-value real estate matters, or specialist work — purchase top-up PI above the scheme minimum from commercial insurers. The top-up structure typically:
+Many firms - particularly those handling material commercial transactions, large-value real estate matters, or specialist work - purchase top-up PI above the scheme minimum from commercial insurers. The top-up structure typically:
 - Sits above the scheme cover (excess of loss)
 - Provides higher per-claim and aggregate limits
 - May offer broader wording on specific exposures
@@ -70,16 +70,16 @@ Many firms — particularly those handling material commercial transactions, lar
 - Confirm PI scheme registration and premium payment
 - Engage commercial broker for non-PI lines
 
-**Year 1 (small firm, 1–5 lawyers, 2–10 staff):**
+**Year 1 (small firm, 1-5 lawyers, 2-10 staff):**
 - Mandatory PI scheme cover
 - Top-up PI if practice area warrants
 - WICA for all staff
 - Public Liability for office
 - Property/Fire for fit-out
 - Group Medical / Group PA for staff retention
-- Cyber Liability — increasingly essential
+- Cyber Liability - increasingly essential
 
-**Years 2–5 (growing firm, 5–25 lawyers):**
+**Years 2-5 (growing firm, 5-25 lawyers):**
 - Higher top-up PI as transaction values scale
 - D&O if firm structure includes incorporation or partnership governance
 - EPL as headcount scales
@@ -109,10 +109,10 @@ PI is claims-made and notified. Retroactive date and run-off matter, particularl
 Errors in commercial transactions, real estate matters, M&A advice can give rise to multi-million claims. Limit selection matters.
 
 **Conflict of interest exposure:**
-Conflicts can give rise to claims independent of substantive errors — failure to identify or manage conflicts is itself a basis for claims.
+Conflicts can give rise to claims independent of substantive errors - failure to identify or manage conflicts is itself a basis for claims.
 
 **Conduct-related matters:**
-Disciplinary proceedings under the [Legal Profession Act](https://sso.agc.gov.sg/Act/LPA1966) and the Law Society's disciplinary regime — separate from civil PI claims but may have related insurance dimensions.
+Disciplinary proceedings under the [Legal Profession Act](https://sso.agc.gov.sg/Act/LPA1966) and the Law Society's disciplinary regime - separate from civil PI claims but may have related insurance dimensions.
 
 #### Cyber considerations for law firms
 
@@ -129,13 +129,13 @@ Legal data is among the most sensitive personal data categories handled by SMEs:
 - Privileged communications exposure
 
 **Recommended Cyber stack for law firms:**
-- Standalone Cyber with appropriate limits (S$2M–S$10M+ depending on practice scale)
+- Standalone Cyber with appropriate limits (S$2M-S$10M+ depending on practice scale)
 - Business Email Compromise / Social Engineering Fraud cover (significant exposure for real estate and transactional firms)
 - Panel breach counsel familiar with privilege issues
 - PDPC investigation defence cover
 - Third-party liability for affected clients
 
-The [PDPC Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/help-and-resources/2021/01/guide-on-managing-and-notifying-data-breaches-under-the-pdpa) applies — but with privilege considerations layered on. See [Article 66](/document-legal/pdpa-section-26d-breach-notification) on PDPA Section 26D.
+The [PDPC Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/help-and-resources/2021/01/guide-on-managing-and-notifying-data-breaches-under-the-pdpa) applies - but with privilege considerations layered on. See [Article 66](/document-legal/pdpa-section-26d-breach-notification) on PDPA Section 26D.
 
 #### Real estate / conveyancing-specific issues
 
@@ -149,7 +149,7 @@ Singapore real estate practice has specific PI exposure:
 Settlement funds in particular sit in the firm's client account. The [Law Society Members' Conduct Rules](https://www.lawsociety.org.sg/) and [Solicitors' Accounts Rules](https://sso.agc.gov.sg/SL/LPA1966-RG6) impose specific account handling requirements; breaches can give rise to disciplinary and civil exposure.
 
 **Cyber + Crime cover for real estate firms:**
-Real estate practice is a primary target for Business Email Compromise — fraudsters intercept email between firms and clients, redirect settlement funds. Specific Cyber/Crime cover with:
+Real estate practice is a primary target for Business Email Compromise - fraudsters intercept email between firms and clients, redirect settlement funds. Specific Cyber/Crime cover with:
 - Social Engineering Fraud sub-limit at appropriate level
 - Pre-transaction verification protocols (callback before any payment instruction change)
 - Panel response infrastructure
@@ -179,17 +179,17 @@ For Law Corporations and LLPs, D&O addresses governance-related claims that PI d
 
 For a typical Singapore law firm:
 
-**Small firm (3–8 lawyers):**
+**Small firm (3-8 lawyers):**
 - Mandatory PI scheme premium: per Law Society scheme calculation
 - Top-up PI: optional, depending on practice
-- Other lines (WICA, Property, BI, Group Medical, Cyber): S$8,000–S$25,000
-- **Total annual insurance budget** typically S$15,000–S$50,000+
+- Other lines (WICA, Property, BI, Group Medical, Cyber): S$8,000-S$25,000
+- **Total annual insurance budget** typically S$15,000-S$50,000+
 
-**Mid-size firm (10–25 lawyers):**
+**Mid-size firm (10-25 lawyers):**
 - Higher PI scheme premium
 - Top-up PI typical
-- Other lines: S$25,000–S$80,000
-- **Total: S$50,000–S$200,000+**
+- Other lines: S$25,000-S$80,000
+- **Total: S$50,000-S$200,000+**
 
 **Larger firm:**
 - Comprehensive programme
@@ -199,14 +199,14 @@ These are illustrative; obtain comparative quotes for actual circumstances.
 
 #### Specialist practice areas with elevated risk
 
-**Tax advice** — long-tail exposure, technical complexity, potential Inland Revenue Authority of Singapore (IRAS) investigation interaction
-**M&A and corporate transactions** — high-value, multi-jurisdictional complexity
-**Banking and finance** — regulated industry interaction, MAS oversight overlap
-**Insolvency** — fiduciary exposure
-**Family law** — emotionally charged, complaint-frequent
-**Personal injury** — outcomes-driven, contingency considerations
-**Intellectual property** — international scope, technical complexity
-**Construction** — long-tail under [Limitation Act 1959 Section 24A](https://sso.agc.gov.sg/Act/LA1959) 15-year long-stop
+**Tax advice** - long-tail exposure, technical complexity, potential Inland Revenue Authority of Singapore (IRAS) investigation interaction
+**M&A and corporate transactions** - high-value, multi-jurisdictional complexity
+**Banking and finance** - regulated industry interaction, MAS oversight overlap
+**Insolvency** - fiduciary exposure
+**Family law** - emotionally charged, complaint-frequent
+**Personal injury** - outcomes-driven, contingency considerations
+**Intellectual property** - international scope, technical complexity
+**Construction** - long-tail under [Limitation Act 1959 Section 24A](https://sso.agc.gov.sg/Act/LA1959) 15-year long-stop
 
 Each specialist practice area may benefit from underwriting review and tailored cover.
 
@@ -216,7 +216,7 @@ Each specialist practice area may benefit from underwriting review and tailored 
 2. **Relying solely on the mandatory scheme minimum.** May be inadequate for transactional practice values.
 3. **Skipping Cyber for "we don't hold financial data."** Legal data is highly sensitive PDPA category.
 4. **No Crime / Social Engineering Fraud cover for real estate / transactional firms.**
-5. **At lawyer departure / firm change — not coordinating PI tail.** Departing lawyers need run-off; firm needs continuity for prior acts.
+5. **At lawyer departure / firm change - not coordinating PI tail.** Departing lawyers need run-off; firm needs continuity for prior acts.
 6. **Underestimating long-tail latency.** Errors may surface 6+ years later; cover continuity matters.
 7. **Treating EPL as optional at small firm size.** Workplace Fairness Act 2024 and harassment exposures don't scale with size.
 8. **No coordination at firm restructuring (LLP conversion, incorporation, merger).** Each event has insurance implications.

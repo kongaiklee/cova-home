@@ -1,5 +1,5 @@
 ---
-title: "Our Anchor Tenant Just Announced They're Leaving the Mall — What Do I Do Now?"
+title: "Our Anchor Tenant Just Announced They're Leaving the Mall - What Do I Do Now?"
 slug: "/crisis/anchor-tenant-departure"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,7 +14,7 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/anchor-tenant-departure"
 meta_description: "First, assess actual operational impact (footfall change, co-tenancy clauses, customer perception) and review your tenancy agreement (registered under SLA..."
-og_title: "Our Anchor Tenant Just Announced They're Leaving the Mall — What Do I Do Now?"
+og_title: "Our Anchor Tenant Just Announced They're Leaving the Mall - What Do I Do Now?"
 og_description: "First, assess actual operational impact (footfall change, co-tenancy clauses, customer perception) and review your tenancy agreement (registered under SLA..."
 ---
 
@@ -24,9 +24,9 @@ og_description: "First, assess actual operational impact (footfall change, co-te
 
 ### The Step-by-Step
 
-For Singapore SMEs in malls, mixed-use developments, food halls, and shopping centres, the anchor tenant — typically a department store, supermarket, or major brand — drives footfall that benefits ancillary tenants. Anchor departure can materially impact business viability. The article below sets out the response sequence.
+For Singapore SMEs in malls, mixed-use developments, food halls, and shopping centres, the anchor tenant - typically a department store, supermarket, or major brand - drives footfall that benefits ancillary tenants. Anchor departure can materially impact business viability. The article below sets out the response sequence.
 
-#### Hour 0–24 — Verify and assess
+#### Hour 0-24 - Verify and assess
 
 **Verify the announcement:**
 
@@ -55,12 +55,12 @@ This assessment matters for both decision-making and any negotiation with landlo
 **Review your tenancy agreement:**
 
 Critical sections to identify:
-- **Co-tenancy clauses** — may provide rent abatement or termination rights if anchor occupancy falls
-- **Occupancy clauses** — minimum occupancy thresholds for the centre
-- **Use clauses** — your permitted use and any restrictions
-- **Termination rights** — circumstances permitting termination
-- **Rent review provisions** — periodic rent adjustment mechanisms
-- **Force majeure provisions** — though typically not applicable to commercial market events
+- **Co-tenancy clauses** - may provide rent abatement or termination rights if anchor occupancy falls
+- **Occupancy clauses** - minimum occupancy thresholds for the centre
+- **Use clauses** - your permitted use and any restrictions
+- **Termination rights** - circumstances permitting termination
+- **Rent review provisions** - periodic rent adjustment mechanisms
+- **Force majeure provisions** - though typically not applicable to commercial market events
 
 Co-tenancy clauses are the most commercially significant in this scenario.
 
@@ -99,7 +99,7 @@ If the anchor tenant ceases operations, the secondary tenant may have:
 
 Co-tenancy clauses are common in Singapore mall tenancies but specific scope varies significantly. Standard form leases used by major mall landlords often include limited co-tenancy provisions; tenants in stronger negotiating positions may have negotiated more comprehensive provisions.
 
-#### Day 1–7 — Engage counsel and landlord
+#### Day 1-7 - Engage counsel and landlord
 
 **Engage tenancy counsel:**
 
@@ -124,14 +124,14 @@ The conversation typically covers:
 - Retain marketing materials and communications
 - Keep specific records of the situation
 
-#### Day 7–60 — Negotiation and decision
+#### Day 7-60 - Negotiation and decision
 
 **Decision framework:**
 
-1. **Stay and adapt** — if relationship strong, alternative attractions emerging, customer base resilient
-2. **Negotiate enhanced terms** — leverage co-tenancy clause for rent reduction, marketing support, lease modifications
-3. **Stay and exercise co-tenancy remedies** — formally invoke contract provisions
-4. **Exit** — terminate (if rights available) and relocate
+1. **Stay and adapt** - if relationship strong, alternative attractions emerging, customer base resilient
+2. **Negotiate enhanced terms** - leverage co-tenancy clause for rent reduction, marketing support, lease modifications
+3. **Stay and exercise co-tenancy remedies** - formally invoke contract provisions
+4. **Exit** - terminate (if rights available) and relocate
 
 **Negotiation positioning:**
 
@@ -186,7 +186,7 @@ While negotiations proceed, operational adjustments:
 - Specific customer-acquisition channels
 - Possibly multi-location
 
-#### Insurance considerations — limited
+#### Insurance considerations - limited
 
 The honest insurance landscape:
 
@@ -196,7 +196,7 @@ The honest insurance landscape:
 - BI does not respond
 
 **Loss of Rent (for landlords):**
-- Reciprocal — landlord cover, not tenant
+- Reciprocal - landlord cover, not tenant
 - Different scenario entirely
 
 **Contingent Business Interruption (CBI):**
@@ -232,35 +232,35 @@ The insurance dimension of this scenario is small. Operational, contractual, and
 
 #### Specific scenarios
 
-**Scenario A: Standalone retail in suburban mall — anchor department store closing**
+**Scenario A: Standalone retail in suburban mall - anchor department store closing**
 
 - Co-tenancy clause review
 - Negotiation with landlord
 - Operational adjustment
 - Decision: stay with negotiated terms vs exit
 
-**Scenario B: F&B in food hall — anchor brand vacating**
+**Scenario B: F&B in food hall - anchor brand vacating**
 
 - Specific food hall dynamics
 - Customer flow patterns
 - Negotiation position
 - Possible relocation within hall or out
 
-**Scenario C: Specialty retailer in shopping centre — multiple ancillary tenants leaving with anchor**
+**Scenario C: Specialty retailer in shopping centre - multiple ancillary tenants leaving with anchor**
 
 - Cascade effect concerns
 - Shopping centre's overall trajectory
 - More aggressive co-tenancy enforcement
 - Earlier decision point
 
-**Scenario D: Health/fitness studio in mixed-use development — anchor commercial office tenant departing**
+**Scenario D: Health/fitness studio in mixed-use development - anchor commercial office tenant departing**
 
 - Different anchor type
 - Different customer flow dynamics
 - Specific to the development
 - Different negotiation considerations
 
-**Scenario E: Boutique tenant in luxury mall — anchor luxury brand exiting**
+**Scenario E: Boutique tenant in luxury mall - anchor luxury brand exiting**
 
 - Specific brand environment dynamics
 - Customer demographic considerations
@@ -370,8 +370,8 @@ The asymmetry: lease negotiation costs little; lease decisions made in distress 
 5. As I plan for resilience (multi-location, channel diversification), what insurance milestones should evolve?
 
 ### Related Information
-- [Our Critical Supplier Just Declared Insolvency — What Do I Do Now?](/crisis/supplier-insolvency)
-- [A Key Employee Just Resigned and Is Taking Customers/IP With Them — What Do I Do Now?](/crisis/key-employee-resignation-ip-customer-migration)
+- [Our Critical Supplier Just Declared Insolvency - What Do I Do Now?](/crisis/supplier-insolvency)
+- [A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?](/crisis/key-employee-resignation-ip-customer-migration)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -29,7 +29,7 @@ Per CASE: "CASE is concerned with the loss of consumer prepayment due to sudden 
 
 That 2022 update is also where the historical scale becomes visible: as of 13 July 2022, the amount of consumer prepayments insured under the scheme stood at more than **S$15.8 million**, with cumulative protected prepayments since the scheme launch exceeding **S$263 million**. Between February 2017 and June 2022, **28 CaseTrust-accredited spas closed**, with **more than S$280,000 paid out to 512 affected consumers** (average ~S$540 per consumer).
 
-#### Who is the current broker — bolttech, not AVA
+#### Who is the current broker - bolttech, not AVA
 
 This is a frequently-confused fact. The 2022 CASE press release referenced **AVA Insurance Brokers Pte Ltd** as the appointed insurer at that time. As of source verification on 3 May 2026, the current case.org.sg pages name **bolttech Insurance Brokers Pte Ltd** as CaseTrust's appointed insurance broker.
 
@@ -60,23 +60,23 @@ Per the [CaseTrust spa page](https://www.case.org.sg/casetrust/casetrust-accredi
 
 If you run a spa or wellness business in Singapore that sells prepaid packages, two regulators care: the Police Licensing & Regulatory Department for the Massage Establishment licence, and CASE/CaseTrust for the prepayment protection scheme (gate to Cat 1 ME).
 
-Companies typically need to consider operationally: every prepayment session must trigger a certificate issuance via bolttech's system; the operator must top up the bond limit before adding new prepayment certificates; insurance coverage is valid for a fixed period per the operator's policy terms — confirm with bolttech.
+Companies typically need to consider operationally: every prepayment session must trigger a certificate issuance via bolttech's system; the operator must top up the bond limit before adding new prepayment certificates; insurance coverage is valid for a fixed period per the operator's policy terms - confirm with bolttech.
 
 Companies typically also need to consider parallel covers that the bond does *not* address: WICA for therapists (statutory), Public Liability for premises (slip-and-fall, treatment-related claims), and Professional Indemnity for treatment-specific advice.
 
 ### Questions to Ask Your Adviser
 
-1. "Our average package is S$1,200 over 12 sessions — at what point in the customer purchase process should the bond certificate be issued?"
+1. "Our average package is S$1,200 over 12 sessions - at what point in the customer purchase process should the bond certificate be issued?"
 2. "If we sell a multi-year package, does the bond cover the full duration or only the first 12-month policy period?"
-3. "We have multiple outlets — does CaseTrust accreditation cover all outlets, or do we apply per outlet?"
-4. "We're transitioning from AVA-issued historical certificates to bolttech-issued new ones — how do we communicate this to existing customers?"
+3. "We have multiple outlets - does CaseTrust accreditation cover all outlets, or do we apply per outlet?"
+4. "We're transitioning from AVA-issued historical certificates to bolttech-issued new ones - how do we communicate this to existing customers?"
 5. "Beyond the prepayment bond, what PL/WICA structures do most spa operators carry, and at what limits?"
 
 ### Related Information
 
 - [CaseTrust Renovation: The Deposit Performance Bond Explained](/association/casetrust-renovation-deposit-performance-bond)
 - [SCDF Fire Safety Certificate: Insurance Implications](/licensing/scdf-fire-safety-certificate-insurance-implications)
-- [MAS Register of Representatives — How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
+- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
 
 ---
 

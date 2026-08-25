@@ -20,7 +20,7 @@ og_description: "The Workplace Fairness Act 2024 (WFA) establishes Singapore's f
 
 > **The Answer in 60 Seconds**
 >
-> The [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) establishes Singapore's first comprehensive statutory framework prohibiting workplace discrimination on protected characteristics. It was passed by Parliament on 8 January 2025 but **is not yet in force** — the WFA is uncommenced and is expected to take effect by the end of 2027, after a lead-in period for employers to prepare. **Phase 1** focused on the foundational framework — passage of the Bill and the operational lead time. **Phase 2** is the implementation runway — preparing HR policies and practices for the coming protected-characteristics regime, ahead of enforcement through [TAFEP](https://www.tafep.sg/) and [MOM](https://www.mom.gov.sg/) and dispute resolution under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) framework. Protected characteristics include age, nationality, sex, marital status, pregnancy status, caregiving responsibilities, race, religion, language, disability, and mental health condition. **Employers with fewer than 25 employees will be exempt for the first five years** after commencement. For Singapore SMEs, implications: **EPL (Employment Practices Liability)** insurance becomes substantially more relevant given the new statutory claim avenue, **HR documentation discipline** matters for defence, and **specific HR practices** (recruitment, performance management, termination) require review against the coming framework. The runway to commencement is the time to prepare.
+> The [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) establishes Singapore's first comprehensive statutory framework prohibiting workplace discrimination on protected characteristics. It was passed by Parliament on 8 January 2025 but **is not yet in force** - the WFA is uncommenced and is expected to take effect by the end of 2027, after a lead-in period for employers to prepare. **Phase 1** focused on the foundational framework - passage of the Bill and the operational lead time. **Phase 2** is the implementation runway - preparing HR policies and practices for the coming protected-characteristics regime, ahead of enforcement through [TAFEP](https://www.tafep.sg/) and [MOM](https://www.mom.gov.sg/) and dispute resolution under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) framework. Protected characteristics include age, nationality, sex, marital status, pregnancy status, caregiving responsibilities, race, religion, language, disability, and mental health condition. **Employers with fewer than 25 employees will be exempt for the first five years** after commencement. For Singapore SMEs, implications: **EPL (Employment Practices Liability)** insurance becomes substantially more relevant given the new statutory claim avenue, **HR documentation discipline** matters for defence, and **specific HR practices** (recruitment, performance management, termination) require review against the coming framework. The runway to commencement is the time to prepare.
 
 ### The Sourced Detail
 
@@ -57,9 +57,9 @@ The Act protects against discrimination on:
 
 **Specific exemptions:**
 - Specific bona fide occupational qualifications
-- Employers with fewer than 25 employees — exempt for the first five years after commencement, after which the Government has said it will review the threshold
+- Employers with fewer than 25 employees - exempt for the first five years after commencement, after which the Government has said it will review the threshold
 
-#### Phase 1 (2024-2025) — Foundation
+#### Phase 1 (2024-2025) - Foundation
 
 **Phase 1 focus:**
 
@@ -75,7 +75,7 @@ The Act protects against discrimination on:
 - Performance management practices
 - Termination practices
 
-#### Phase 2 (2025-2027 runway) — Implementation preparation
+#### Phase 2 (2025-2027 runway) - Implementation preparation
 
 **Phase 2 focus:**
 
@@ -165,7 +165,7 @@ Once the Act commences, the claim categories most likely to arise are:
 
 - Operational commercial considerations
 
-#### Insurance implications — EPL becomes substantially more relevant
+#### Insurance implications - EPL becomes substantially more relevant
 
 **The EPL framework:**
 
@@ -363,7 +363,7 @@ For Singapore SME founders and HR leaders:
 
 8. **For specific industries with elevated patterns, specific industry-aware guidance.**
 
-The WFA represents a structural shift requiring substantive operational adaptation. Because it is not yet in force, SMEs have a defined runway to prepare — and EPL insurance becomes a foundation rather than optional layer for material employment operations.
+The WFA represents a structural shift requiring substantive operational adaptation. Because it is not yet in force, SMEs have a defined runway to prepare - and EPL insurance becomes a foundation rather than optional layer for material employment operations.
 
 ### Questions to Ask Your Adviser
 

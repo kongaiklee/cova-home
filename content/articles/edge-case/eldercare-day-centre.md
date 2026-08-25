@@ -20,7 +20,7 @@ og_description: "Singapore eldercare day centres, dementia day care, senior acti
 
 > **The Answer in 60 Seconds**
 >
-> Singapore eldercare day centres, dementia day care, senior activity centres, and active ageing centres operate within a regulatory layer significantly heavier than typical commercial activity — primarily under [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by [MOH / HCSA Branch](https://www.hcsa.gov.sg/), [Agency for Integrated Care (AIC)](https://www.aic.sg/) for funding-linked operators, and where applicable [MSF](https://www.msf.gov.sg/) for community programmes. Insurance baseline: **Public Liability** at substantial limits (S$3M–S$10M; senior population creates elevated injury and emotional-component exposure), **Professional Indemnity** for clinical / care-planning staff (nurse-led centres), **Group Personal Accident** for participants, **Property/Fire** for centre fit-out and equipment, **WICA** for care staff, **Cyber Liability** for client/family contact and clinical records, and **Medical Malpractice** where applicable. Distinctive considerations: **fall claims are the dominant injury type** in eldercare, **medication management exposure** where applicable, **family communication and decision-making protocols** materially affect claim outcomes, and **regulatory licensing dependency** means licence loss can shut operations entirely. Get the regulatory layer right first; insurance must layer on top of robust care protocols, not substitute for them.
+> Singapore eldercare day centres, dementia day care, senior activity centres, and active ageing centres operate within a regulatory layer significantly heavier than typical commercial activity - primarily under [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by [MOH / HCSA Branch](https://www.hcsa.gov.sg/), [Agency for Integrated Care (AIC)](https://www.aic.sg/) for funding-linked operators, and where applicable [MSF](https://www.msf.gov.sg/) for community programmes. Insurance baseline: **Public Liability** at substantial limits (S$3M-S$10M; senior population creates elevated injury and emotional-component exposure), **Professional Indemnity** for clinical / care-planning staff (nurse-led centres), **Group Personal Accident** for participants, **Property/Fire** for centre fit-out and equipment, **WICA** for care staff, **Cyber Liability** for client/family contact and clinical records, and **Medical Malpractice** where applicable. Distinctive considerations: **fall claims are the dominant injury type** in eldercare, **medication management exposure** where applicable, **family communication and decision-making protocols** materially affect claim outcomes, and **regulatory licensing dependency** means licence loss can shut operations entirely. Get the regulatory layer right first; insurance must layer on top of robust care protocols, not substitute for them.
 
 ### The Sourced Detail
 
@@ -28,19 +28,19 @@ Singapore's eldercare landscape operates across regulatory tiers that determine 
 
 #### Regulatory tiers
 
-**Tier 1 — Healthcare Services Act regulated services**
+**Tier 1 - Healthcare Services Act regulated services**
 Day Care Centres (Day Care for the Elderly), Day Hospice services, Senior Care Centres providing nursing or therapy services fall under [HCSA](https://www.hcsa.gov.sg/) licensing administered by [MOH](https://www.moh.gov.sg/). Specific licensing standards apply per service type, including manpower ratios, qualifications, infrastructure, and clinical governance.
 
-**Tier 2 — AIC-funded community programmes**
+**Tier 2 - AIC-funded community programmes**
 [Agency for Integrated Care (AIC)](https://www.aic.sg/) administers funding for community-based eldercare programmes. AIC funding agreements typically include service standards, reporting, audit, and minimum insurance requirements. Operators receiving AIC funding for Day Care, Active Ageing Centres (AAC), Eldercare Centres face contractual obligations beyond statutory licensing.
 
-**Tier 3 — MSF community programmes**
+**Tier 3 - MSF community programmes**
 [Ministry of Social and Family Development](https://www.msf.gov.sg/) supports community programmes for senior wellbeing where applicable.
 
-**Tier 4 — Private senior wellness / activity centres**
+**Tier 4 - Private senior wellness / activity centres**
 Privately operated senior wellness or activity centres (without nursing or therapy services) may operate without HCSA licensing but should clearly demarcate scope. Crossing into "care" or "therapy" provision triggers HCSA scope.
 
-**Tier 5 — Voluntary Welfare Organisation (VWO) operators**
+**Tier 5 - Voluntary Welfare Organisation (VWO) operators**
 Many eldercare operators are VWOs registered with [Commissioner of Charities](https://www.charities.gov.sg/) under the [Charities Act 1994](https://sso.agc.gov.sg/Act/CA1994). VWO governance overlaid on operational regulation.
 
 #### The unique risk profile
@@ -57,7 +57,7 @@ Many eldercare operators are VWOs registered with [Commissioner of Charities](ht
 
 **6. End-of-life and serious illness.** Some clients deteriorate during enrolment; transitions to higher-acuity care or end of life are common.
 
-**7. Multi-stakeholder accountability.** Client, family, GP, hospital, AIC case manager, MOH if licensed — multiple parties coordinate.
+**7. Multi-stakeholder accountability.** Client, family, GP, hospital, AIC case manager, MOH if licensed - multiple parties coordinate.
 
 **8. Regulatory licensing dependency.** Licence suspension or revocation shuts operations entirely; this is a Loss of Licence exposure beyond typical commercial.
 
@@ -72,7 +72,7 @@ Many eldercare operators are VWOs registered with [Commissioner of Charities](ht
 - Infrastructure compliance with HCSA premises requirements
 
 **Pre-launch insurance:**
-- **Public Liability** S$3M–S$10M (per AIC funding requirements where applicable; mall landlords where mall-located)
+- **Public Liability** S$3M-S$10M (per AIC funding requirements where applicable; mall landlords where mall-located)
 - **Professional Indemnity** for nurses, occupational therapists, physiotherapists, programme staff
 - **Property / Fire** for centre fit-out, therapy equipment, F&B equipment
 - **WICA** for all staff
@@ -120,16 +120,16 @@ For nurse-led, occupational-therapy-led, or physiotherapy-led centres, individua
 
 Individual professional registration with [Singapore Nursing Board](https://www.healthprofessionals.gov.sg/), [Allied Health Professions Council](https://www.healthprofessionals.gov.sg/), or [Singapore Medical Council](https://www.healthprofessionals.gov.sg/) requires professional discipline; PI cover typically follows.
 
-#### Group Personal Accident — operational and family-relations value
+#### Group Personal Accident - operational and family-relations value
 
 GPA pays without admission of fault. For elderly clientele where minor falls are common, immediate medical reimbursement to the family without claim friction has both pastoral and litigation-prevention benefit. AIC funding agreements may specify GPA requirements.
 
 Typical structure:
-- Death benefit: S$30,000–S$100,000
-- Medical reimbursement: S$2,000–S$10,000 per accident
+- Death benefit: S$30,000-S$100,000
+- Medical reimbursement: S$2,000-S$10,000 per accident
 - Specific allowances per fall / specified event
 
-#### Cyber Liability — PDPA and clinical record scope
+#### Cyber Liability - PDPA and clinical record scope
 
 Eldercare centres handle:
 - Client clinical and care information
@@ -140,7 +140,7 @@ Eldercare centres handle:
 
 [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) data breach notification applies. [PDPC](https://www.pdpc.gov.sg/) has enforced healthcare-context breaches with substantial financial penalties. Cyber Liability with specific scope for healthcare-context PDPA response is appropriate.
 
-#### Loss of Licence — the existential exposure
+#### Loss of Licence - the existential exposure
 
 For HCSA-licensed centres or AIC-funded operators, regulatory licence is the foundation of operational existence. Licence suspension or revocation following:
 
@@ -186,9 +186,9 @@ Volunteer engagement should be documented and within insurance scope.
 
 For Singapore eldercare day centre / senior activity centre operators:
 
-1. **Verify regulatory positioning first.** HCSA-licensed, AIC-funded, MSF-supported, or private — this determines insurance shape.
+1. **Verify regulatory positioning first.** HCSA-licensed, AIC-funded, MSF-supported, or private - this determines insurance shape.
 
-2. **Carry Public Liability at S$3M–S$10M.** Fall claims and family-driven settlements justify this scale.
+2. **Carry Public Liability at S$3M-S$10M.** Fall claims and family-driven settlements justify this scale.
 
 3. **Carry institutional + individual Professional Indemnity for clinical staff.** Where applicable.
 
@@ -206,7 +206,7 @@ For Singapore eldercare day centre / senior activity centre operators:
 
 10. **Engage broker with eldercare / healthcare experience.** General commercial brokers may miss critical structural elements.
 
-The cost of properly structured eldercare cover is typically SGD 8,000–25,000 annually depending on size, service type, and licensing tier. AIC funding rates for eldercare services are tight; insurance must be efficient but also appropriate to the genuine risk.
+The cost of properly structured eldercare cover is typically SGD 8,000-25,000 annually depending on size, service type, and licensing tier. AIC funding rates for eldercare services are tight; insurance must be efficient but also appropriate to the genuine risk.
 
 ### Questions to Ask Your Adviser
 

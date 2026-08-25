@@ -28,7 +28,7 @@ FDH agencies occupy a distinctive position in Singapore's employment agency land
 
 #### The regulatory foundation
 
-FDH agency operations sit within Singapore's broader employment agency framework administered by [MOM](https://www.mom.gov.sg/) under the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and the Employment Agencies Rules. All employment agencies in Singapore require MOM EA Licence with specific licence categories — and FDH placement is among the most regulated sub-categories.
+FDH agency operations sit within Singapore's broader employment agency framework administered by [MOM](https://www.mom.gov.sg/) under the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and the Employment Agencies Rules. All employment agencies in Singapore require MOM EA Licence with specific licence categories - and FDH placement is among the most regulated sub-categories.
 
 The licensing framework includes operational standards, specific personnel qualifications, commercial relationships discipline, and specific demerit-point system. Agencies with substantive demerit points face licence suspension or revocation. The specific regulatory standards have evolved progressively with FDH welfare considerations as central themes.
 
@@ -42,7 +42,7 @@ S$60,000 medical insurance per FDH per year, covering hospitalisation and relate
 
 S$60,000 personal accident insurance per FDH per year, payable to the FDH or her beneficiaries in the event of death or permanent disability arising from an accident. This is distinct from the medical insurance.
 
-The S$5,000 security bond per FDH — required by MOM for each non-Malaysian work-permit holder — fulfilled through a banker's guarantee or an insurance bond, securing the employer's defined obligations to MOM.
+The S$5,000 security bond per FDH - required by MOM for each non-Malaysian work-permit holder - fulfilled through a banker's guarantee or an insurance bond, securing the employer's defined obligations to MOM.
 
 For each FDH placement, the agency typically coordinates these insurance elements as part of the placement package. Commercial relationships with insurers and operational efficiency matter substantially.
 
@@ -78,7 +78,7 @@ Cyber Liability cover. FDH agencies handle substantial personal data (employer d
 
 D&O cover for incorporated agencies addressing director-level exposure under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967) (per [Article 184](/document-legal/companies-act-section-157-director-duties)) and specific framework exposure.
 
-EPL cover addressing employee-related claims — particularly relevant given [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) (per [Article 189](/document-legal/wfa-2024-protected-characteristics)) protected characteristics framework. The agency's own employees (counsellors, operations staff, management) face specific employment law framework.
+EPL cover addressing employee-related claims - particularly relevant given [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) (per [Article 189](/document-legal/wfa-2024-protected-characteristics)) protected characteristics framework. The agency's own employees (counsellors, operations staff, management) face specific employment law framework.
 
 Operational scope considerations include specific source country counterparty risk, commercial relationships, and commercial sensitivity.
 
@@ -86,19 +86,19 @@ Operational scope considerations include specific source country counterparty ri
 
 FDH agencies face specific incident scenarios that inform insurance procurement.
 
-FDH incidents at employer premises — accidents, injuries, illnesses, mental health crises — engage the mandatory FDH medical insurance and bond framework. The agency may have specific advisory or operational liability scope.
+FDH incidents at employer premises - accidents, injuries, illnesses, mental health crises - engage the mandatory FDH medical insurance and bond framework. The agency may have specific advisory or operational liability scope.
 
-FDH-employer disputes — abuse allegations (in either direction), wage disputes, working conditions disputes, specific other commercial conflicts — create specific advisory and operational exposure. Specific MOM dispute resolution framework engages; commercial sensitivity matters substantially.
+FDH-employer disputes - abuse allegations (in either direction), wage disputes, working conditions disputes, specific other commercial conflicts - create specific advisory and operational exposure. Specific MOM dispute resolution framework engages; commercial sensitivity matters substantially.
 
-FDH transitions — situations where placement breaks down requiring specific intervention — create operational and advisory scope. commercial sensitivity around vulnerable parties matters.
+FDH transitions - situations where placement breaks down requiring specific intervention - create operational and advisory scope. commercial sensitivity around vulnerable parties matters.
 
-Source country counterparty issues — where overseas recruitment partner faces specific commercial issues — create specific cross-border exposure with operational considerations required.
+Source country counterparty issues - where overseas recruitment partner faces specific commercial issues - create specific cross-border exposure with operational considerations required.
 
-Specific premises incidents — accidents at agency premises, commercial scenarios — engage standard Public Liability framework.
+Specific premises incidents - accidents at agency premises, commercial scenarios - engage standard Public Liability framework.
 
-Specific PDPA-related incidents — data breach scenarios involving employer or FDH data — engage PDPA Section 26D notification framework (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) and Cyber Liability cover.
+Specific PDPA-related incidents - data breach scenarios involving employer or FDH data - engage PDPA Section 26D notification framework (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) and Cyber Liability cover.
 
-Specific MOM regulatory enforcement — demerit points, licence suspension scenarios, specific compliance investigations — engage commercial counsel and operational considerations.
+Specific MOM regulatory enforcement - demerit points, licence suspension scenarios, specific compliance investigations - engage commercial counsel and operational considerations.
 
 #### Commercial considerations
 
@@ -135,7 +135,7 @@ For agencies operating across multiple source countries, specific cross-border c
 
 For Singapore FDH agencies:
 
-The insurance profile substantially exceeds standard employment agency coverage. Mandatory FDH cover (S$60,000 medical insurance, S$60,000 personal accident insurance, and the S$5,000 security bond) forms the regulatory floor. Foundational covers — Public Liability, Professional Indemnity, Commercial Crime, Cyber, D&O, EPL — should be coordinated with EA-aware brokers familiar with the segment. commercial sensitivity around vulnerable demographic matters substantially throughout operations. Annual review should reflect ongoing regulatory evolution at MOM level.
+The insurance profile substantially exceeds standard employment agency coverage. Mandatory FDH cover (S$60,000 medical insurance, S$60,000 personal accident insurance, and the S$5,000 security bond) forms the regulatory floor. Foundational covers - Public Liability, Professional Indemnity, Commercial Crime, Cyber, D&O, EPL - should be coordinated with EA-aware brokers familiar with the segment. commercial sensitivity around vulnerable demographic matters substantially throughout operations. Annual review should reflect ongoing regulatory evolution at MOM level.
 
 For substantive operations, specialist commercial counsel relationships, specific industry expertise, and operational sophistication form the foundation that complements insurance procurement. SMEs that engage thoughtfully with the specific risk profile benefit from operational protection that supports both commercial continuity and regulatory standing. SMEs that treat FDH agency insurance as standard EA cover face material gaps at exactly the moments when the gaps cost most.
 

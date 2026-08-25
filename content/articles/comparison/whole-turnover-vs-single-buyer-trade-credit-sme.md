@@ -13,28 +13,28 @@ word_count: 2537
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/whole-turnover-vs-single-buyer-trade-credit-sme"
-meta_description: "Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) Whole Turnover — blanket policy covering all qualifying..."
+meta_description: "Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) Whole Turnover - blanket policy covering all qualifying..."
 og_title: "Whole Turnover vs Single-Buyer Trade Credit Insurance for Singapore SMEs: A Coverage Structure Decision Framework"
-og_description: "Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) Whole Turnover — blanket policy covering all qualifying..."
+og_description: "Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) Whole Turnover - blanket policy covering all qualifying..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) **Whole Turnover** — blanket policy covering all qualifying buyers under a single credit-management discipline, with the insurer monitoring all approved counterparties; (2) **Single-Buyer / Key-Accounts** — focused policy covering one named high-risk customer or a select group of key accounts. Both approaches protect against buyer payment default — insolvency, prolonged default, or political risk for export receivables. **Indemnity ratio:** typically 75-95% for private buyers; up to 100% for sovereign / quasi-sovereign buyers. **Premium:** 0.05-0.6% of gross monthly sales (typical 0.2%) for whole turnover; per-buyer pricing for single-buyer cover. The four major trade credit underwriters in Singapore are [Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html) (formerly Euler Hermes), Atradius, Coface, and Tokio Marine HCC. Marsh, Aon, WTW, and Howden distribute. Per [GIA FY2024 sector data](https://gia.org.sg/), Trade Credit / Surety / Bonds sit within the offshore Miscellaneous category. **Decision factor:** SMEs with concentrated risk (single buyer >30% revenue) typically benefit from single-buyer cover; diversified exporters benefit from whole-turnover discipline. Receivables typically represent a substantial proportion of business value for trade-credit-exposed SMEs; confirm the receivables-to-balance-sheet ratio against the firm's own management accounts rather than industry rules of thumb.
+> Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) **Whole Turnover** - blanket policy covering all qualifying buyers under a single credit-management discipline, with the insurer monitoring all approved counterparties; (2) **Single-Buyer / Key-Accounts** - focused policy covering one named high-risk customer or a select group of key accounts. Both approaches protect against buyer payment default - insolvency, prolonged default, or political risk for export receivables. **Indemnity ratio:** typically 75-95% for private buyers; up to 100% for sovereign / quasi-sovereign buyers. **Premium:** 0.05-0.6% of gross monthly sales (typical 0.2%) for whole turnover; per-buyer pricing for single-buyer cover. The four major trade credit underwriters in Singapore are [Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html) (formerly Euler Hermes), Atradius, Coface, and Tokio Marine HCC. Marsh, Aon, WTW, and Howden distribute. Per [GIA FY2024 sector data](https://gia.org.sg/), Trade Credit / Surety / Bonds sit within the offshore Miscellaneous category. **Decision factor:** SMEs with concentrated risk (single buyer >30% revenue) typically benefit from single-buyer cover; diversified exporters benefit from whole-turnover discipline. Receivables typically represent a substantial proportion of business value for trade-credit-exposed SMEs; confirm the receivables-to-balance-sheet ratio against the firm's own management accounts rather than industry rules of thumb.
 
 ## What Trade Credit Insurance Does
 
-Trade credit insurance protects sellers against the risk that buyers will not pay for goods or services delivered on credit terms. The product is structurally distinct from cash flow financing, factoring, or letters of credit — it is loss insurance against payment default.
+Trade credit insurance protects sellers against the risk that buyers will not pay for goods or services delivered on credit terms. The product is structurally distinct from cash flow financing, factoring, or letters of credit - it is loss insurance against payment default.
 
 ### The Triggers
 
 Standard trade credit policies respond to three principal triggers:
 
-- **Buyer insolvency** — formal insolvency proceedings (bankruptcy, judicial management, liquidation, scheme of arrangement) against the buyer, recognised in the buyer's jurisdiction.
-- **Protracted default / prolonged default** — non-payment for a defined period (typically 90 to 180 days after due date) without formal insolvency proceedings. The trigger captures buyers who are commercially insolvent but not yet formally insolvent.
-- **Political risk** — for export receivables, non-payment caused by political events affecting the buyer's country (war, currency inconvertibility, government action preventing payment, expropriation).
+- **Buyer insolvency** - formal insolvency proceedings (bankruptcy, judicial management, liquidation, scheme of arrangement) against the buyer, recognised in the buyer's jurisdiction.
+- **Protracted default / prolonged default** - non-payment for a defined period (typically 90 to 180 days after due date) without formal insolvency proceedings. The trigger captures buyers who are commercially insolvent but not yet formally insolvent.
+- **Political risk** - for export receivables, non-payment caused by political events affecting the buyer's country (war, currency inconvertibility, government action preventing payment, expropriation).
 
-The "non-payment from dispute" exposure is typically excluded — disputes over the goods, services, or contract terms are commercial matters between the parties, not insurance triggers.
+The "non-payment from dispute" exposure is typically excluded - disputes over the goods, services, or contract terms are commercial matters between the parties, not insurance triggers.
 
 ### Indemnity Structure
 
@@ -156,9 +156,9 @@ Whole turnover effectively outsources part of the credit-monitoring function to 
 Trade credit cover in Singapore is provided principally by four major underwriters with global trade-credit franchises:
 
 - **[Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html)** (formerly Euler Hermes; rebranded under Allianz Trade in March 2022).
-- **Atradius** — global trade credit insurer with Singapore office.
-- **Coface** — French-origin global trade credit insurer.
-- **Tokio Marine HCC** — specialty division of Tokio Marine with global trade credit capability.
+- **Atradius** - global trade credit insurer with Singapore office.
+- **Coface** - French-origin global trade credit insurer.
+- **Tokio Marine HCC** - specialty division of Tokio Marine with global trade credit capability.
 
 Major brokers in the Singapore trade credit market include Marsh, Aon, WTW, and Howden. Singapore-specialist trade credit brokerages also operate in the segment.
 
@@ -166,7 +166,7 @@ Per the [GIA FY2024 sector results](https://gia.org.sg/), Trade Credit / Surety 
 
 ## The Marketlend / QBE Trade Credit Case
 
-The Singapore International Commercial Court's judgment in **Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd** [2025] SGHC(I) 1 addressed important questions on trade credit insurance interpretation and is summarised in our [regulatory-change article](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment). The court found in favour of the insurer — holding QBE not liable for the disputed claim of roughly US$9 million — and the judgment underlines the importance of:
+The Singapore International Commercial Court's judgment in **Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd** [2025] SGHC(I) 1 addressed important questions on trade credit insurance interpretation and is summarised in our [regulatory-change article](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment). The court found in favour of the insurer - holding QBE not liable for the disputed claim of roughly US$9 million - and the judgment underlines the importance of:
 
 - Not assigning the policy's rights or benefits to a financier without the insurer's written consent.
 - The insured's burden of proving that the underlying transactions were genuine physical trades (the court found two of the trades to be fictitious).
@@ -270,7 +270,7 @@ Standard exclusions include:
 
 ## What This Means for Your Business
 
-If you sell on credit terms as a Singapore SME — whether domestically, regionally, or globally — receivables are a significant balance-sheet exposure. Trade credit insurance is the structural protection against buyer default.
+If you sell on credit terms as a Singapore SME - whether domestically, regionally, or globally - receivables are a significant balance-sheet exposure. Trade credit insurance is the structural protection against buyer default.
 
 The whole turnover vs single-buyer decision rests on portfolio concentration, revenue scale, export profile, financing arrangement, and credit-management infrastructure. For most SMEs above S$5m revenue with diversified portfolios, whole turnover is the structural answer. For SMEs with concentrated revenue or specific high-risk relationships, single-buyer or hybrid structures are the answer.
 
@@ -282,9 +282,9 @@ Your licensed adviser should walk you through the portfolio analysis, the major 
 2. Which of the four major underwriters (Allianz Trade, Atradius, Coface, Tokio Marine HCC) are competitive for my profile, and what are the differentiating features?
 3. What indemnity ratio do you recommend, and what is the premium impact of going from 75% to 90%?
 4. For my export receivables, what political-risk coverage is included, and what countries are within scope?
-5. How does the credit-limit mechanism work — what is the workflow when an insurer reduces a limit on a buyer I am actively selling to?
+5. How does the credit-limit mechanism work - what is the workflow when an insurer reduces a limit on a buyer I am actively selling to?
 6. What is the overdue-account notification timetable, and how is the documentation requirement managed when a buyer raises a dispute?
-7. How does the cover coordinate with my receivables-financing facility — do my lender's documentation requirements align with the trade credit wording?
+7. How does the cover coordinate with my receivables-financing facility - do my lender's documentation requirements align with the trade credit wording?
 8. For the recovery process after an indemnified loss, what is the workflow, and how are recoveries shared between me and the insurer?
 
 ## Related Information

@@ -24,17 +24,17 @@ og_description: "Singapore SMEs disputing a denied insurance claim now have acce
 
 ### The Sourced Detail
 
-The 2025 expansion of FIDReC jurisdiction to small businesses and charities is the most significant change to Singapore SME insurance dispute resolution in over a decade. Previously, SMEs disputing denied claims had only court action (high cost, formal process) or industry association mediation (limited binding authority). FIDReC provides a structured, low-cost, binding-on-insurer alternative — but only when the procedural framework is followed correctly.
+The 2025 expansion of FIDReC jurisdiction to small businesses and charities is the most significant change to Singapore SME insurance dispute resolution in over a decade. Previously, SMEs disputing denied claims had only court action (high cost, formal process) or industry association mediation (limited binding authority). FIDReC provides a structured, low-cost, binding-on-insurer alternative - but only when the procedural framework is followed correctly.
 
 #### Regulatory framework
 
-**Primary statute.** [Financial Services and Markets Act 2022](https://sso.agc.gov.sg/Act/FSMA2022) — Part 6 establishes the dispute resolution scheme framework.
+**Primary statute.** [Financial Services and Markets Act 2022](https://sso.agc.gov.sg/Act/FSMA2022) - Part 6 establishes the dispute resolution scheme framework.
 
-**Subsidiary regulations.** [Financial Services and Markets (Dispute Resolution Schemes) Regulations 2023](https://sso.agc.gov.sg/SL/FSMA2022-S232-2023) — establishes FIDReC as approved dispute resolution scheme.
+**Subsidiary regulations.** [Financial Services and Markets (Dispute Resolution Schemes) Regulations 2023](https://sso.agc.gov.sg/SL/FSMA2022-S232-2023) - establishes FIDReC as approved dispute resolution scheme.
 
 **Operational framework.** [FIDReC Terms of Reference v2.2](https://www.fidrec.com.sg/) effective 1 July 2025.
 
-**Administering body.** [Financial Industry Disputes Resolution Centre Ltd (FIDReC)](https://www.fidrec.com.sg/) — independent dispute resolution body.
+**Administering body.** [Financial Industry Disputes Resolution Centre Ltd (FIDReC)](https://www.fidrec.com.sg/) - independent dispute resolution body.
 
 **Regulator oversight.** [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) approves FIDReC's scheme and Terms of Reference.
 
@@ -46,7 +46,7 @@ The 2025 expansion of FIDReC jurisdiction to small businesses and charities is t
 
 FIDReC's June 2025 announcement noted the extension brings approximately 200,000 small businesses and 2,000 charities into scope.
 
-Previously, only individual consumers (and some sole proprietors) could access FIDReC — leaving SMEs with limited dispute options.
+Previously, only individual consumers (and some sole proprietors) could access FIDReC - leaving SMEs with limited dispute options.
 
 #### Eligibility criteria for SME complainants
 
@@ -65,12 +65,12 @@ To bring an insurance dispute to FIDReC, an SME must satisfy:
 
 **Excluded disputes:**
 - Disputes already in court or arbitration
-- Disputes about commercial decisions of FI (e.g., decision not to renew, decision on premium pricing — these are not "claims")
+- Disputes about commercial decisions of FI (e.g., decision not to renew, decision on premium pricing - these are not "claims")
 - Disputes about products not within FIDReC scope
 
 #### The dispute procedure step-by-step
 
-**Step 1 — Escalate within insurer.**
+**Step 1 - Escalate within insurer.**
 
 Before FIDReC, the SME must:
 - Submit written complaint to insurer's customer service / claims function
@@ -80,11 +80,11 @@ Before FIDReC, the SME must:
 
 The "final response" letter is a key procedural document. It must explicitly state insurer's final position and reference dispute resolution rights.
 
-**Step 2 — Obtain the insurer's final reply.**
+**Step 2 - Obtain the insurer's final reply.**
 
-FIDReC requires that the SME has first given the insurer the opportunity to resolve the dispute. The insurer's written **final reply** is the trigger document — there is no mandatory waiting period after it is received, and the SME may proceed straight to FIDReC. The **6-month** filing clock runs from the date of that final reply.
+FIDReC requires that the SME has first given the insurer the opportunity to resolve the dispute. The insurer's written **final reply** is the trigger document - there is no mandatory waiting period after it is received, and the SME may proceed straight to FIDReC. The **6-month** filing clock runs from the date of that final reply.
 
-**Step 3 — File complaint with FIDReC.**
+**Step 3 - File complaint with FIDReC.**
 
 Within **6 months** of insurer's final response, file via [FIDReC's complaint portal](https://www.fidrec.com.sg/) or paper submission.
 
@@ -97,7 +97,7 @@ Within **6 months** of insurer's final response, file via [FIDReC's complaint po
 - Supporting documentation
 - Resolution sought
 
-**Step 4 — Mediation phase.**
+**Step 4 - Mediation phase.**
 
 FIDReC assigns case manager who:
 - Reviews submissions
@@ -111,7 +111,7 @@ FIDReC assigns case manager who:
 
 Mediation is **free** for complainant. Most cases resolve at mediation stage.
 
-**Step 5 — Adjudication phase.**
+**Step 5 - Adjudication phase.**
 
 If mediation fails and complainant elects adjudication:
 - Adjudication fee: **SGD 250 + GST per claim** for small businesses (SGD 50 + GST for individual / sole proprietor consumers)
@@ -119,11 +119,11 @@ If mediation fails and complainant elects adjudication:
 - May convene hearing (virtual or in-person)
 - Issues written decision
 
-**Step 6 — Decision and binding effect.**
+**Step 6 - Decision and binding effect.**
 
 Adjudicator's decision:
 - **Binding on insurer** (FIDReC subscriber agreement creates contractual binding effect)
-- **Not binding on complainant** — complainant may accept (decision becomes binding) or reject (proceed to court if desired)
+- **Not binding on complainant** - complainant may accept (decision becomes binding) or reject (proceed to court if desired)
 - Subscribers must comply with binding decisions; non-compliance subject to MAS oversight
 
 #### The monetary jurisdiction context
@@ -160,9 +160,9 @@ Adjudicator's decision:
 
 1. **Filing without exhausting insurer escalation.** FIDReC requires final response letter; case rejected if escalation incomplete.
 
-2. **Missing 6-month deadline.** Filing more than 6 months after insurer's final response — case time-barred.
+2. **Missing 6-month deadline.** Filing more than 6 months after insurer's final response - case time-barred.
 
-3. **Misjudging the start of the 6-month clock.** The filing deadline runs from the insurer's written final reply — not from the original claim denial or later informal correspondence.
+3. **Misjudging the start of the 6-month clock.** The filing deadline runs from the insurer's written final reply - not from the original claim denial or later informal correspondence.
 
 4. **Eligibility miscalculation.** Group turnover exceeding SGD 1m threshold; case rejected on eligibility.
 
@@ -186,21 +186,21 @@ For Singapore SMEs facing denied insurance claims:
 
 2. **Document insurer escalation thoroughly** with written communications.
 
-3. **Obtain insurer's "final response" letter** explicitly — don't rely on email confirmations.
+3. **Obtain insurer's "final response" letter** explicitly - don't rely on email confirmations.
 
 4. **Note the 6-month filing window** from the insurer's final reply carefully.
 
-5. **Prepare submission with complete documentation** — claim file, policy, communications, evidence.
+5. **Prepare submission with complete documentation** - claim file, policy, communications, evidence.
 
-6. **Engage substantively with mediation** — most cases settle.
+6. **Engage substantively with mediation** - most cases settle.
 
-7. **Consider adjudication strategically** — fee modest, decision binding on insurer.
+7. **Consider adjudication strategically** - fee modest, decision binding on insurer.
 
-8. **Coordinate with broker** if applicable — broker may add procedural support.
+8. **Coordinate with broker** if applicable - broker may add procedural support.
 
 9. **Preserve court option** by understanding decision binding effect.
 
-10. **Time budget realistic expectations** — typically 6-12 months total resolution.
+10. **Time budget realistic expectations** - typically 6-12 months total resolution.
 
 The expansion of FIDReC jurisdiction to SMEs represents a material improvement in dispute resolution access. The cost differential (SGD 250 + GST vs court costs typically SGD 50,000+) is substantial. The procedural discipline matters: missing deadlines, eligibility errors, or escalation gaps all trigger case rejection.
 

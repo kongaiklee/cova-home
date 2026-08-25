@@ -68,8 +68,8 @@ DIC/DIL programmes operate on a different architecture:
 **Master policy.** Held by the Singapore parent. Provides:
 - Broadest coverage scope (the "best" terms across the programme)
 - Highest limits across the programme
-- Difference In Conditions (DIC) — fills coverage gaps where local policies are narrower
-- Difference In Limits (DIL) — fills limit gaps where local policies are lower
+- Difference In Conditions (DIC) - fills coverage gaps where local policies are narrower
+- Difference In Limits (DIL) - fills limit gaps where local policies are lower
 - Specific scope addressing operations across all jurisdictions
 
 **Local policies (where required).** Generally held only where required by:
@@ -262,7 +262,7 @@ The architectural choice should be made with specialist multinational broker eng
 - Commercial relationships with global insurer networks
 - Operational sophistication
 
-For SMEs without multinational broker relationships, the choice often defaults to whatever the existing broker is comfortable with — which may not be optimal.
+For SMEs without multinational broker relationships, the choice often defaults to whatever the existing broker is comfortable with - which may not be optimal.
 
 ### Common Mistakes / What Goes Wrong
 

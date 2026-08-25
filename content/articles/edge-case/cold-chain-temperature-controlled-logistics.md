@@ -44,7 +44,7 @@ Cold chain operations combine bailee custody of high-value condition-sensitive c
 
 #### Insurance commercial spine
 
-**Bailee Liability** — the central commercial layer for storage-focused operations:
+**Bailee Liability** - the central commercial layer for storage-focused operations:
 
 - Covers operator's liability for damage / loss to customer cargo in custody
 - Limit per customer / per location / per occurrence considerations
@@ -52,14 +52,14 @@ Cold chain operations combine bailee custody of high-value condition-sensitive c
 - Defence costs typically separate from indemnity limit
 - Specific provisions for pharmaceutical / biologic / specialty cargo
 
-**Marine Cargo / Goods in Transit** — for cargo in movement:
+**Marine Cargo / Goods in Transit** - for cargo in movement:
 
 - Standard cargo cover ([ICC clauses](https://iumi.com/)) with refrigerated cargo extensions
 - Reefer breakdown cover for refrigeration equipment failure during transport
 - Temperature deviation cover (specific extension)
 - Theft, hijacking, transit damage
 
-**Property / Fire** — covers operator-owned facilities:
+**Property / Fire** - covers operator-owned facilities:
 
 - Refrigerated warehouse buildings (if owned) or fixtures (if leased)
 - Refrigeration equipment (chillers, compressors, evaporators, condensers)
@@ -68,7 +68,7 @@ Cold chain operations combine bailee custody of high-value condition-sensitive c
 - Forklifts, MHE, refrigerated vehicles
 - Office systems, administrative infrastructure
 
-**Equipment Breakdown / Machinery** — critical given refrigeration dependency:
+**Equipment Breakdown / Machinery** - critical given refrigeration dependency:
 
 - Compressor failure (the most common cold chain equipment failure)
 - Condenser / evaporator failure
@@ -78,31 +78,31 @@ Cold chain operations combine bailee custody of high-value condition-sensitive c
 
 Equipment Breakdown responds where Property excludes (Property covers external perils; Equipment Breakdown covers internal mechanical / electrical failure). Many cold chain failures are mechanical-breakdown events rather than physical-damage events.
 
-**Business Interruption with Refrigeration Breakdown extension** — critical:
+**Business Interruption with Refrigeration Breakdown extension** - critical:
 
 - Standard BI may exclude refrigeration breakdown
 - Refrigeration Breakdown extension covers consequential loss from refrigeration failure
 - Indemnity period considerations
 - Customer cargo loss + operational revenue loss + customer relationship loss layers
 
-**Public Liability** — premises liability and any third-party harm.
+**Public Liability** - premises liability and any third-party harm.
 
-**Liability for Cargo in Care, Custody, or Control (CCC)** — some carriers offer CCC cover combining bailee and operator liability for customer cargo across storage and transport.
+**Liability for Cargo in Care, Custody, or Control (CCC)** - some carriers offer CCC cover combining bailee and operator liability for customer cargo across storage and transport.
 
-**Cyber cover** — increasingly material:
+**Cyber cover** - increasingly material:
 
 - Warehouse Management System (WMS) breach
 - Temperature monitoring system integrity
 - Customer order data, customer-cargo-value data
 - Vehicle telematics / GPS tracking systems
 
-**WICA** — for all employed staff with specific consideration of cold-environment work.
+**WICA** - for all employed staff with specific consideration of cold-environment work.
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Crime / Fidelity Guarantee** — for high-value cargo theft scenarios; pharmaceutical cargo has specific theft profile.
+**Crime / Fidelity Guarantee** - for high-value cargo theft scenarios; pharmaceutical cargo has specific theft profile.
 
-**Pollution / Environmental cover** — refrigerant leaks have environmental exposure under NEA framework; specific cover may be available.
+**Pollution / Environmental cover** - refrigerant leaks have environmental exposure under NEA framework; specific cover may be available.
 
 #### The bailee customer-cargo concentration question
 
@@ -150,7 +150,7 @@ Pharmaceutical cold chain has commercial implications:
 
 **Validation and qualification.** GDP storage and transport must be validated; equipment must be qualified; people must be trained. Audit findings can drive licensing action independent of any specific cargo loss.
 
-**Biologic and vaccine sensitivity.** Some products have very narrow temperature tolerances (vaccine cold chain typically 2–8°C with strict excursion limits); minor deviations have cargo-loss consequences.
+**Biologic and vaccine sensitivity.** Some products have very narrow temperature tolerances (vaccine cold chain typically 2-8°C with strict excursion limits); minor deviations have cargo-loss consequences.
 
 **Specific bailee considerations.** Bailee cover for GDP-licensed operations may have specific conditions, exclusions, or requirements.
 
@@ -188,7 +188,7 @@ Cyber cover should respond to data integrity events; cover scope question matter
 
 ### What This Means for Your Business
 
-For a typical Singapore cold chain operator — single facility (5,000–20,000 cubic metres), pharmaceutical or food cargo focus, with limited transport operation:
+For a typical Singapore cold chain operator - single facility (5,000-20,000 cubic metres), pharmaceutical or food cargo focus, with limited transport operation:
 
 1. **Confirm SFA / HSA / Customs licensing alignment** with operational scope.
 
@@ -214,7 +214,7 @@ For pharmaceutical / GDP operations: same spine plus elevated bailee considerati
 
 For multi-site operators: group structure with site schedule plus aggregate limit consideration.
 
-The cost of properly structured cold chain operator insurance varies significantly with bailee exposure: a moderate operator might run SGD 30,000–80,000 annually; large operators handling pharmaceutical cargo or large-scale food distribution substantially more. The cost of a single major incident — refrigeration failure destroying multiple-customer cargo, GDP violation cascade, vaccine cold chain breach — typically exceeds many years of premium and may permanently impair customer relationships beyond direct claim cost.
+The cost of properly structured cold chain operator insurance varies significantly with bailee exposure: a moderate operator might run SGD 30,000-80,000 annually; large operators handling pharmaceutical cargo or large-scale food distribution substantially more. The cost of a single major incident - refrigeration failure destroying multiple-customer cargo, GDP violation cascade, vaccine cold chain breach - typically exceeds many years of premium and may permanently impair customer relationships beyond direct claim cost.
 
 ### Questions to Ask Your Adviser
 

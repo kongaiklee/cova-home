@@ -53,7 +53,7 @@ For a 5-storey non-residential building: prior cost was S$33 × 5 × 3 = S$495 o
 Per the [3-year FC implementation document](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/implementation-of-three-year-fire-certificate-regime-from-1-april-2026.pdf):
 - The owner/occupier must still engage a Professional Engineer (PE) and contractor to inspect fire safety systems annually.
 - During non-renewal years (years 2 and 3 of the 3-year cycle), the owner submits an **annual FC Form** via GoBusiness Portal certifying ongoing compliance.
-- SCDF conducts **selective audits** — owners are notified to submit inspection schedules.
+- SCDF conducts **selective audits** - owners are notified to submit inspection schedules.
 
 ### Revocation and the 1-year-regime fallback
 
@@ -97,8 +97,8 @@ If you own or occupy a designated building:
 5. If my FC is revoked and I'm placed back on the 1-year regime, what happens to my insurance terms at the next renewal?
 
 ## Related Information
-- [Fire Code 2023 — Insurance Implications for Retail and F&B](/regulatory-change/fire-code-2023)
-- [WICA Compensation Limit Update — 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [Fire Code 2023 - Insurance Implications for Retail and F&B](/regulatory-change/fire-code-2023)
+- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
 - [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---

@@ -13,14 +13,14 @@ word_count: 1404
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/premium-payment-framework"
-meta_description: "The Premium Payment Framework (PPF) — a self-regulatory framework introduced by the General Insurance Association of Singapore (GIA) and the Singapore..."
+meta_description: "The Premium Payment Framework (PPF) - a self-regulatory framework introduced by the General Insurance Association of Singapore (GIA) and the Singapore..."
 og_title: "The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications"
-og_description: "The Premium Payment Framework (PPF) — a self-regulatory framework introduced by the General Insurance Association of Singapore (GIA) and the Singapore..."
+og_description: "The Premium Payment Framework (PPF) - a self-regulatory framework introduced by the General Insurance Association of Singapore (GIA) and the Singapore..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The [Premium Payment Framework (PPF)](https://www.gia.org.sg/) — a self-regulatory framework introduced by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) and the Singapore Insurance Brokers' Association (SIBA), announced on 18 March 2005 and revised since — governs premium payment in Singapore general insurance commercial scope. The framework operates through a contractual premium payment warranty incorporated into general insurance policies: where the period of insurance exceeds 60 days, premium must be paid in full within 60 days of inception, failing which cover is terminated (with specific exceptions and operational scope). The framework substantively shapes Singapore commercial insurance commercial scope by making timely premium settlement a condition of continuing cover, distinguishing Singapore practice from common law commercial conventions where cover may incept and continue regardless of premium settlement. Commercial implications include the 60-day premium payment warranty, operational claim scenarios where premium settlement timing affects cover availability, and considerations on commercial premium funding arrangements. The framework is a general insurance industry arrangement, not a statutory provision; specific [MAS](https://www.mas.gov.sg/) regulatory oversight of insurers, specific [GIA](https://www.gia.org.sg/) industry conventions, and commercial counsel relationships all coordinate around the Premium Payment Framework.
+> The [Premium Payment Framework (PPF)](https://www.gia.org.sg/) - a self-regulatory framework introduced by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) and the Singapore Insurance Brokers' Association (SIBA), announced on 18 March 2005 and revised since - governs premium payment in Singapore general insurance commercial scope. The framework operates through a contractual premium payment warranty incorporated into general insurance policies: where the period of insurance exceeds 60 days, premium must be paid in full within 60 days of inception, failing which cover is terminated (with specific exceptions and operational scope). The framework substantively shapes Singapore commercial insurance commercial scope by making timely premium settlement a condition of continuing cover, distinguishing Singapore practice from common law commercial conventions where cover may incept and continue regardless of premium settlement. Commercial implications include the 60-day premium payment warranty, operational claim scenarios where premium settlement timing affects cover availability, and considerations on commercial premium funding arrangements. The framework is a general insurance industry arrangement, not a statutory provision; specific [MAS](https://www.mas.gov.sg/) regulatory oversight of insurers, specific [GIA](https://www.gia.org.sg/) industry conventions, and commercial counsel relationships all coordinate around the Premium Payment Framework.
 
 ### The Sourced Detail
 
@@ -30,7 +30,7 @@ The [Premium Payment Framework](https://www.gia.org.sg/) operates as one of the 
 
 The [Premium Payment Framework](https://www.gia.org.sg/) provides, in substance, that a general insurance policy with a period of insurance exceeding 60 days carries a premium payment warranty under which premium must be paid in full within 60 days of inception of cover; where premium is not settled within that period, cover is terminated. The framework creates a substantively distinctive commercial framework distinct from common law positions where cover may incept and continue regardless of premium payment status.
 
-The framework is a self-regulatory industry arrangement — not a statutory provision — operating through warranty terms incorporated into general insurance contracts. It operates in conjunction with specific MAS regulatory oversight of insurers and specific industry commercial conventions. Considerations on the framework matters substantially.
+The framework is a self-regulatory industry arrangement - not a statutory provision - operating through warranty terms incorporated into general insurance contracts. It operates in conjunction with specific MAS regulatory oversight of insurers and specific industry commercial conventions. Considerations on the framework matters substantially.
 
 #### The framework's origin and purpose
 
@@ -52,21 +52,21 @@ Singapore general insurance conventionally operates with 60-day premium payment 
 
 commercial scenarios around the framework include:
 
-**Premium paid within 60 days** — cover operates per policy terms.
+**Premium paid within 60 days** - cover operates per policy terms.
 
-**Premium not paid within 60 days** — cover is terminated, conventionally with effect from the 61st day, depending on specific policy commercial scope.
+**Premium not paid within 60 days** - cover is terminated, conventionally with effect from the 61st day, depending on specific policy commercial scope.
 
 #### Specific claim scenarios affected
 
 The Premium Payment Framework affects specific claim scenarios in operational scope.
 
-**Claim where premium fully paid prior to incident** — standard commercial scope; the framework does not affect cover availability.
+**Claim where premium fully paid prior to incident** - standard commercial scope; the framework does not affect cover availability.
 
-**Claim where premium partially paid prior to incident** — considerations on cover availability. Framework for partial cover or termination depending on specific policy terms and operational considerations.
+**Claim where premium partially paid prior to incident** - considerations on cover availability. Framework for partial cover or termination depending on specific policy terms and operational considerations.
 
-**Claim where premium unpaid at incident date but the incident falls within the 60-day window** — considerations on scenarios where premium remains outstanding but the warranty period has not yet expired. Considerations on operational scope.
+**Claim where premium unpaid at incident date but the incident falls within the 60-day window** - considerations on scenarios where premium remains outstanding but the warranty period has not yet expired. Considerations on operational scope.
 
-**Claim where premium remains unpaid after the 60-day period** — considerations on cover availability where cover has been terminated under the warranty. Framework for commercial conventions.
+**Claim where premium remains unpaid after the 60-day period** - considerations on cover availability where cover has been terminated under the warranty. Framework for commercial conventions.
 
 #### The premium financing framework
 
@@ -74,7 +74,7 @@ For substantive commercial premium scope, specific premium financing arrangement
 
 Operational scope considerations include:
 
-**Premium financing commercial relationships** — commercial relationships with premium financing providers (typically specific banks, specific specialist premium financiers). commercial conventions around facility arrangement.
+**Premium financing commercial relationships** - commercial relationships with premium financing providers (typically specific banks, specific specialist premium financiers). commercial conventions around facility arrangement.
 
 **Premium financing terms:** operational facility terms including operational framework for facility duration, operational operational scope.
 
@@ -88,11 +88,11 @@ The Premium Payment Framework involves commercial considerations.
 
 For substantive commercial insurance buyers, considerations on the Premium Payment Framework includes several elements.
 
-**Premium settlement discipline** — commercial discipline ensuring premium settlement within the framework. Framework for accounts payable processes, operational framework for treasury management.
+**Premium settlement discipline** - commercial discipline ensuring premium settlement within the framework. Framework for accounts payable processes, operational framework for treasury management.
 
-**Premium financing arrangements where applicable** — commercial relationships providing facility for substantive premium scope.
+**Premium financing arrangements where applicable** - commercial relationships providing facility for substantive premium scope.
 
-**Commercial counsel engagement** — commercial relationships for the framework where claim scenarios arise.
+**Commercial counsel engagement** - commercial relationships for the framework where claim scenarios arise.
 
 **Mid-term and renewal scenarios:** commercial discipline ensuring continuous cover availability.
 

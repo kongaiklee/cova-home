@@ -20,7 +20,7 @@ og_description: "Singapore SMEs operating in Hong Kong typically need: a Hong Ko
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in Hong Kong typically need: a Hong Kong-licensed insurer for **commercial property and liability** (regulatory requirement under the [Insurance Authority (IA)](https://www.ia.org.hk/) framework), **mandatory Employees' Compensation insurance** for HK-based staff (per the [Employees' Compensation Ordinance Cap. 282](https://www.elegislation.gov.hk/hk/cap282)), specific **MPF (Mandatory Provident Fund)** contributions for HK employees, and Singapore parent's **multinational programme coordination** for cross-border risks. Hong Kong's insurance market is regulated by the [Insurance Authority](https://www.ia.org.hk/) under the [Insurance Ordinance Cap. 41](https://www.elegislation.gov.hk/hk/cap41). Hong Kong has more familiar regulatory features for Singapore-based founders than some Asian markets — common law jurisdiction, English-language regulation, sophisticated commercial insurance market — but specific local requirements remain. For Greater China expansion, HK is often the regional hub; structuring insurance accordingly matters.
+> Singapore SMEs operating in Hong Kong typically need: a Hong Kong-licensed insurer for **commercial property and liability** (regulatory requirement under the [Insurance Authority (IA)](https://www.ia.org.hk/) framework), **mandatory Employees' Compensation insurance** for HK-based staff (per the [Employees' Compensation Ordinance Cap. 282](https://www.elegislation.gov.hk/hk/cap282)), specific **MPF (Mandatory Provident Fund)** contributions for HK employees, and Singapore parent's **multinational programme coordination** for cross-border risks. Hong Kong's insurance market is regulated by the [Insurance Authority](https://www.ia.org.hk/) under the [Insurance Ordinance Cap. 41](https://www.elegislation.gov.hk/hk/cap41). Hong Kong has more familiar regulatory features for Singapore-based founders than some Asian markets - common law jurisdiction, English-language regulation, sophisticated commercial insurance market - but specific local requirements remain. For Greater China expansion, HK is often the regional hub; structuring insurance accordingly matters.
 
 ### The Sourced Detail
 
@@ -67,7 +67,7 @@ Under the [Employees' Compensation Ordinance Cap. 282](https://www.elegislation.
 
 **Mandatory insurance:**
 - Employer must maintain valid Employees' Compensation insurance
-- Failure to maintain — criminal offence
+- Failure to maintain - criminal offence
 - Specific premium calculation
 - Annual policies typical
 
@@ -283,7 +283,7 @@ The [Personal Data (Privacy) Ordinance Cap. 486](https://www.elegislation.gov.hk
 - Direct marketing requirements
 - Data subject access rights
 - Sensitive data considerations
-- Cross-border data transfer (Section 33 — currently not in force)
+- Cross-border data transfer (Section 33 - currently not in force)
 
 **Cross-border SG-HK data flows:**
 - Singapore PDPA Section 26 transfer requirements
@@ -311,7 +311,7 @@ The [Personal Data (Privacy) Ordinance Cap. 486](https://www.elegislation.gov.hk
 - Group medical / group life for HK employees
 - Coordination with Singapore parent insurance
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher local limits as scale grows
 - Specific industry / project cover
 - Multinational programme refinement
@@ -373,13 +373,13 @@ For typical Singapore SMEs with HK subsidiaries:
 #### Common pitfalls in HK operations
 
 **1. Underestimating EC vs WICA differences.**
-HK Employees' Compensation has broader scope than Singapore's WICA — all employees, technically unlimited employer liability. Standard insurance approaches differ.
+HK Employees' Compensation has broader scope than Singapore's WICA - all employees, technically unlimited employer liability. Standard insurance approaches differ.
 
 **2. MPF compliance gaps.**
 MPF different from Singapore CPF; specific calculation, contribution timing, scheme registration all require attention.
 
 **3. Cross-border employee considerations.**
-Singapore employees on HK assignment, HK employees on Singapore assignment — specific tax, social security, insurance considerations.
+Singapore employees on HK assignment, HK employees on Singapore assignment - specific tax, social security, insurance considerations.
 
 **4. Currency and limits review.**
 HKD-denominated cover may diverge from SGD-equivalent values; periodic review essential.

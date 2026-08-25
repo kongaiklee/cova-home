@@ -20,11 +20,11 @@ og_description: "\"Utmost good faith\" (uberrimae fidei) is the foundational doc
 
 > **The Answer in 60 Seconds**
 >
-> "Utmost good faith" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial contracts. Singapore inherits the common-law doctrine via [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) (Sections 17, 18, 19 — applicable directly to marine and by analogy to non-marine insurance) and through judicial development. The doctrine imposes a positive duty of disclosure on the insured before contract formation: every material fact that would influence a prudent insurer's underwriting decision must be disclosed, even if not specifically asked. Singapore courts apply this strictly. For Singapore SMEs, the doctrine has substantial practical implications: **proposal form discipline matters profoundly**, **non-disclosure can void cover at claim time**, **the standard is what a prudent insurer would consider material — not what the SME thinks is relevant**, and **the doctrine extends to renewals and amendments**, not just initial placement. The leading authority is *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test)).
+> "Utmost good faith" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial contracts. Singapore inherits the common-law doctrine via [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) (Sections 17, 18, 19 - applicable directly to marine and by analogy to non-marine insurance) and through judicial development. The doctrine imposes a positive duty of disclosure on the insured before contract formation: every material fact that would influence a prudent insurer's underwriting decision must be disclosed, even if not specifically asked. Singapore courts apply this strictly. For Singapore SMEs, the doctrine has substantial practical implications: **proposal form discipline matters profoundly**, **non-disclosure can void cover at claim time**, **the standard is what a prudent insurer would consider material - not what the SME thinks is relevant**, and **the doctrine extends to renewals and amendments**, not just initial placement. The leading authority is *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test)).
 
 ### The Sourced Detail
 
-Utmost good faith is the doctrine that explains why insurance applications are different from product purchases — and why getting them wrong has consequences far beyond a routine commercial dispute. Understanding the doctrine helps Singapore SMEs both procure insurance properly and respond appropriately if non-disclosure issues arise at claim time.
+Utmost good faith is the doctrine that explains why insurance applications are different from product purchases - and why getting them wrong has consequences far beyond a routine commercial dispute. Understanding the doctrine helps Singapore SMEs both procure insurance properly and respond appropriately if non-disclosure issues arise at claim time.
 
 #### The doctrinal foundation
 
@@ -52,11 +52,11 @@ A circumstance is material if it would influence the judgment of a prudent insur
 
 The "prudent insurer" standard is critical: the question is not what the SME thinks would matter, or what an ordinary person would think would matter, but what a hypothetical prudent insurer in the relevant market would consider influential.
 
-This standard means SMEs cannot rely on intuitive judgment. A fact the SME considers irrelevant might be material if a prudent insurer would treat it as relevant — past claims history, near-miss incidents, regulatory issues, financial difficulties, prior insurer non-renewals all commonly meet the materiality threshold even when an SME might not initially see them as relevant.
+This standard means SMEs cannot rely on intuitive judgment. A fact the SME considers irrelevant might be material if a prudent insurer would treat it as relevant - past claims history, near-miss incidents, regulatory issues, financial difficulties, prior insurer non-renewals all commonly meet the materiality threshold even when an SME might not initially see them as relevant.
 
 #### The "actual inducement" requirement
 
-Pan Atlantic also clarified that materiality alone is not sufficient to avoid a policy — the insurer must also show actual inducement: that the non-disclosure actually influenced the specific underwriting decision. This is a meaningful protection against opportunistic claim denial.
+Pan Atlantic also clarified that materiality alone is not sufficient to avoid a policy - the insurer must also show actual inducement: that the non-disclosure actually influenced the specific underwriting decision. This is a meaningful protection against opportunistic claim denial.
 
 In practice, insurers establish actual inducement through underwriting evidence: the underwriter's own decision-making, the insurer's underwriting guidelines, the way similar risks were treated. For SMEs facing claim denial on non-disclosure grounds, the actual inducement requirement creates a defensive avenue if the insurer cannot demonstrate the non-disclosed fact actually drove their decision.
 
@@ -64,11 +64,11 @@ In practice, insurers establish actual inducement through underwriting evidence:
 
 The utmost good faith duty extends to:
 
-**Material facts known to the insured.** The duty is to disclose what the insured knows, not what they should have known (though the line is sometimes blurred — willful blindness or reckless ignorance can be treated as constructive knowledge).
+**Material facts known to the insured.** The duty is to disclose what the insured knows, not what they should have known (though the line is sometimes blurred - willful blindness or reckless ignorance can be treated as constructive knowledge).
 
 **Facts not specifically asked.** This is the most operationally consequential aspect: even if the proposal form doesn't ask about a particular topic, a material fact must still be disclosed. SMEs cannot defend non-disclosure by arguing "you didn't ask."
 
-**Subsequent material changes.** The duty extends to renewals and material amendments — not just initial placement. A change in operations, expansion into new activities, change in financial position, new claims, or other material changes between initial placement and renewal must be disclosed at renewal.
+**Subsequent material changes.** The duty extends to renewals and material amendments - not just initial placement. A change in operations, expansion into new activities, change in financial position, new claims, or other material changes between initial placement and renewal must be disclosed at renewal.
 
 **Both express and implied disclosures.** Material facts not stated at all (non-disclosure) and material facts stated inaccurately (misrepresentation) both engage the doctrine.
 
@@ -85,7 +85,7 @@ These limits matter operationally. For example, an SME doesn't need to disclose 
 
 #### Consequences of breach
 
-Where the duty is breached, the standard remedy is **avoidance** — the insurer can treat the contract as if it had never existed, returning premium and refusing to pay any claims. This is a substantial remedy that reaches back to the inception of the policy.
+Where the duty is breached, the standard remedy is **avoidance** - the insurer can treat the contract as if it had never existed, returning premium and refusing to pay any claims. This is a substantial remedy that reaches back to the inception of the policy.
 
 Singapore courts have applied avoidance in published decisions (available through [eLitigation](https://www.elitigation.sg/)). The general approach has been:
 
@@ -98,7 +98,7 @@ Avoidance can be partial in some scenarios (avoidance only of specific extension
 
 #### The 1906 Act's duty as reciprocal
 
-Section 17 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) imposes the duty on "either party" — meaning the insurer also owes utmost good faith to the insured. In practice, the insurer's duty is less developed in case law but has been recognised in scenarios involving:
+Section 17 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) imposes the duty on "either party" - meaning the insurer also owes utmost good faith to the insured. In practice, the insurer's duty is less developed in case law but has been recognised in scenarios involving:
 
 - Non-disclosure of relevant insurer information at placement
 - Specific bad faith in claim handling
@@ -114,7 +114,7 @@ The doctrine creates operational obligations:
 
 **Discussion of operations, claims history, near-misses with the broker / FA.** The broker's role under [FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) (see [Article 181](/document-legal/faa-section-27-suitability-assessment)) includes drawing out material facts the SME might not volunteer.
 
-**Renewal discipline.** Material changes during the policy period need disclosure at renewal — operations expansion, new activities, claims history, regulatory issues, financial changes.
+**Renewal discipline.** Material changes during the policy period need disclosure at renewal - operations expansion, new activities, claims history, regulatory issues, financial changes.
 
 **Documentation of disclosures made.** The SME's own records protect against later disputes about what was disclosed.
 
@@ -122,7 +122,7 @@ The doctrine creates operational obligations:
 
 #### How brokers / FAs help
 
-Section 19 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) extends disclosure obligations to agents effecting insurance — meaning brokers carry their own disclosure duties. Practically, this means brokers should:
+Section 19 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) extends disclosure obligations to agents effecting insurance - meaning brokers carry their own disclosure duties. Practically, this means brokers should:
 
 - Probe operationally to identify material facts
 - Convert SME operational reality into insurer-relevant disclosures

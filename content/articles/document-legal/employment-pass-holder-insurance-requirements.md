@@ -29,7 +29,7 @@ The Employment Pass is for foreign professionals, managers, and executives. Per 
 ### What's mandatory for EP holders
 
 Per MOM:
-1. **Salary thresholds and COMPASS criteria** — must be met before MOM issues the pass.
+1. **Salary thresholds and COMPASS criteria** - must be met before MOM issues the pass.
 2. **No CPF contributions.** EP holders are not Singapore Citizens or Permanent Residents and CPF does not apply. (CPF contributions are mandatory only for SCs and PRs.)
 3. **No mandatory medical insurance under FWMI.** Per the [MOM EP medical insurance FAQ](https://www.mom.gov.sg/faq/employment-pass/are-employers-required-to-buy-medical-insurance-for-employment-pass-holders): "Providing medical insurance is not a requirement for employing Employment Pass (EP) holders. Most EP holders may already have their own medical insurance, or may want to choose their own coverage."
 
@@ -37,9 +37,9 @@ Per MOM:
 
 The Singapore labour market is competitive for the talent eligible for EPs. Most employers provide:
 
-- **Group Hospital & Surgical (GHS) insurance** — covers inpatient treatment.
-- **Group Outpatient (GP/Specialist)** — covers clinic visits.
-- **Group Term Life / Group Personal Accident** — typically a multiple of monthly salary set by the employer.
+- **Group Hospital & Surgical (GHS) insurance** - covers inpatient treatment.
+- **Group Outpatient (GP/Specialist)** - covers clinic visits.
+- **Group Term Life / Group Personal Accident** - typically a multiple of monthly salary set by the employer.
 - **Group Dental** (less universal).
 - **Maternity** (often required by senior hires).
 - **Coverage for spouse and dependants** (common at senior levels and for finance/tech roles).
@@ -48,9 +48,9 @@ These products are not mandated by MOM. They are commercial decisions driven by 
 
 ### Two areas of confusion worth flagging
 
-**Confusion #1: "EP holders are foreign workers, so the S$60,000 rule applies."** No. The S$60,000 mandatory medical insurance applies to Work Permit holders (including Migrant Domestic Workers) and S Pass holders only — per the [MOM S Pass medical insurance page](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance). EP holders are explicitly excluded.
+**Confusion #1: "EP holders are foreign workers, so the S$60,000 rule applies."** No. The S$60,000 mandatory medical insurance applies to Work Permit holders (including Migrant Domestic Workers) and S Pass holders only - per the [MOM S Pass medical insurance page](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance). EP holders are explicitly excluded.
 
-**Confusion #2: "Group medical for EP holders is just a perk."** Legally, yes — it is voluntary. Practically, an EP holder paying S$5,600+/month doesn't expect to be sent to a public polyclinic for an upper respiratory infection. Group medical is part of the package, and underwriters offer cleanly priced group plans for SMEs from as few as 3–5 lives.
+**Confusion #2: "Group medical for EP holders is just a perk."** Legally, yes - it is voluntary. Practically, an EP holder paying S$5,600+/month doesn't expect to be sent to a public polyclinic for an upper respiratory infection. Group medical is part of the package, and underwriters offer cleanly priced group plans for SMEs from as few as 3-5 lives.
 
 ### A note on Work Injury Compensation
 
@@ -58,9 +58,9 @@ Even though EP holders typically earn above the S$2,600 WICA threshold for non-m
 
 ## What This Means for Your Business
 
-If you're hiring EP holders, your statutory obligations are cleaner than for Work Permit holders: no FWMI, no levy, no foreign worker quota. But your competitive obligations are sharper — the talent you're hiring expects benefits comparable to local PMET packages or better.
+If you're hiring EP holders, your statutory obligations are cleaner than for Work Permit holders: no FWMI, no levy, no foreign worker quota. But your competitive obligations are sharper - the talent you're hiring expects benefits comparable to local PMET packages or better.
 
-The trap to avoid: assuming "no requirement" means "no provision." If your EP hire falls ill and incurs a S$25,000 hospital bill that's not covered because you didn't buy a group medical plan, the employee will pay (and resent), then leave. Or worse — they'll try to claim under your Work Injury Compensation policy for non-work illnesses, which it doesn't cover, leading to a dispute.
+The trap to avoid: assuming "no requirement" means "no provision." If your EP hire falls ill and incurs a S$25,000 hospital bill that's not covered because you didn't buy a group medical plan, the employee will pay (and resent), then leave. Or worse - they'll try to claim under your Work Injury Compensation policy for non-work illnesses, which it doesn't cover, leading to a dispute.
 
 The structure of a sensible benefits package for EP holders typically includes inpatient and outpatient cover, life and PA, and a clear handbook describing what's in scope. Whether that's a 3-life micro group plan or a 200-life enterprise plan depends on your headcount and your renewal economics.
 
@@ -75,7 +75,7 @@ The structure of a sensible benefits package for EP holders typically includes i
 **Match with a licensed IFA →**
 
 ## Related Information
-- MOM S Pass medical insurance — the S$60,000 rule
+- MOM S Pass medical insurance - the S$60,000 rule
 - WICA: when does it apply to EP holders?
 - Group medical for SMEs: structuring the package
 

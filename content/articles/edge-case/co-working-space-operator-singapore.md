@@ -13,14 +13,14 @@ word_count: 1284
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/edge-case/co-working-space-operator-singapore"
-meta_description: "Co-working space operators in Singapore — including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
+meta_description: "Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
 og_title: "Co-Working Space Operator: The Specific Insurance Profile for Singapore Flexible Workspace Operations"
-og_description: "Co-working space operators in Singapore — including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
+og_description: "Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Co-working space operators in Singapore — including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope, and specific specialty operations (members' clubs, specific industry-specific co-working) — face an insurance profile distinct from generic commercial premises operations. The combination of substantial member traffic, commercial relationships with members across short-term to long-term commercial scope, operational scope including events / programming, and specific landlord / sublease commercial scope creates an insurance profile that benefits from specialist understanding. Foundational insurance includes Public Liability with substantial limits given member traffic, Property/Fire with specific provisions for fitted-out commercial premises, BI cover, Cyber Liability for substantive member data and Wi-Fi infrastructure, EPL, D&O, Commercial Crime, and framework for member liability and specific premises subletting.
+> Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope, and specific specialty operations (members' clubs, specific industry-specific co-working) - face an insurance profile distinct from generic commercial premises operations. The combination of substantial member traffic, commercial relationships with members across short-term to long-term commercial scope, operational scope including events / programming, and specific landlord / sublease commercial scope creates an insurance profile that benefits from specialist understanding. Foundational insurance includes Public Liability with substantial limits given member traffic, Property/Fire with specific provisions for fitted-out commercial premises, BI cover, Cyber Liability for substantive member data and Wi-Fi infrastructure, EPL, D&O, Commercial Crime, and framework for member liability and specific premises subletting.
 
 ### The Sourced Detail
 
@@ -68,7 +68,7 @@ Public Liability cover with substantial limits given member traffic. Considerati
 
 Property/Fire cover with specific provisions for fitted-out commercial premises. Considerations on adequate sum insured for substantial fit-out scope (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on average clause considerations) matters substantially.
 
-Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies — HVAC critical for substantial commercial premises, operational other equipment.
+Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies - HVAC critical for substantial commercial premises, operational other equipment.
 
 BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Commercial scope, operational characteristics. Indemnity period adequacy matters given substantial fit-out scope and operational restoration timelines.
 

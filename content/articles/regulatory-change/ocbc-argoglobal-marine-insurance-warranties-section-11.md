@@ -20,7 +20,7 @@ og_description: "[Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asi
 
 > **The Answer in 60 Seconds**
 >
-> [**Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asia Pacific Pte Ltd and others [2025] SGHC 82**](https://www.elitigation.sg/) (judgment 30 April 2025, Justice Kwek Mean Luck, Singapore High Court) is the **first detailed Singapore High Court engagement with section 11 of the UK Insurance Act 2015** as foreign law applicable to English-law-governed marine insurance policies issued in Singapore. Vessel: TERAS LYZA (offshore lift boat); insured value Section A US$56m, Section B US$14m; total claim ~US$70m. Court found: (a) constructive total loss (CTL) proven; (b) perils-of-the-seas as proximate cause established; (c) no fair presentation breach under section 3 IA 2015; (d) Section B (Increased Value with PPI clause) **void as gaming/wagering contract** under section 4 [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906); (e) late-payment damages under section 13A IA 2015 not entertained because not pleaded. SME procurement implications for Singapore marine / hull / cargo cover: (1) **PPI (Policy Proof of Interest) clauses void** — Section B-style increased value structures using PPI must be carefully drafted; (2) **fair presentation duty material** — full disclosure at inception is the standard insurers will defend on; (3) **late-payment damages now actionable** but require explicit pleading; (4) **English-law governance common in Singapore marine market** but section 11 (terms defining risk) interpretation is now Singapore-tested. Important: section 11 IA 2015 is part of English law, not Singapore law — Singapore courts apply it as foreign law where governing-law clause selects England.
+> [**Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asia Pacific Pte Ltd and others [2025] SGHC 82**](https://www.elitigation.sg/) (judgment 30 April 2025, Justice Kwek Mean Luck, Singapore High Court) is the **first detailed Singapore High Court engagement with section 11 of the UK Insurance Act 2015** as foreign law applicable to English-law-governed marine insurance policies issued in Singapore. Vessel: TERAS LYZA (offshore lift boat); insured value Section A US$56m, Section B US$14m; total claim ~US$70m. Court found: (a) constructive total loss (CTL) proven; (b) perils-of-the-seas as proximate cause established; (c) no fair presentation breach under section 3 IA 2015; (d) Section B (Increased Value with PPI clause) **void as gaming/wagering contract** under section 4 [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906); (e) late-payment damages under section 13A IA 2015 not entertained because not pleaded. SME procurement implications for Singapore marine / hull / cargo cover: (1) **PPI (Policy Proof of Interest) clauses void** - Section B-style increased value structures using PPI must be carefully drafted; (2) **fair presentation duty material** - full disclosure at inception is the standard insurers will defend on; (3) **late-payment damages now actionable** but require explicit pleading; (4) **English-law governance common in Singapore marine market** but section 11 (terms defining risk) interpretation is now Singapore-tested. Important: section 11 IA 2015 is part of English law, not Singapore law - Singapore courts apply it as foreign law where governing-law clause selects England.
 
 ### The Sourced Detail
 
@@ -29,12 +29,12 @@ The OCBC v Argoglobal judgment fills a substantial gap in Singapore marine insur
 #### Case background
 
 **Parties.**
-- **Plaintiff:** [Oversea-Chinese Banking Corporation Limited (OCBC)](https://www.ocbc.com/) — financier of vessel as mortgagee
+- **Plaintiff:** [Oversea-Chinese Banking Corporation Limited (OCBC)](https://www.ocbc.com/) - financier of vessel as mortgagee
 - **Defendants:** [Argoglobal Underwriting Asia Pacific Pte Ltd](https://www.argoglobal.com/) (lead insurer) and consortium of insurers
 
-**Underlying insured.** Vessel owner / operator — affiliate of vessel operations.
+**Underlying insured.** Vessel owner / operator - affiliate of vessel operations.
 
-**Vessel.** TERAS LYZA — offshore lift boat used in oil and gas operations.
+**Vessel.** TERAS LYZA - offshore lift boat used in oil and gas operations.
 
 **Insured values:**
 - Section A (Hull and Machinery): **US$56 million**
@@ -47,25 +47,25 @@ The OCBC v Argoglobal judgment fills a substantial gap in Singapore marine insur
 
 **Justice Kwek Mean Luck** delivered judgment 30 April 2025 covering multiple substantive issues:
 
-**Issue 1 — Constructive total loss.**
+**Issue 1 - Constructive total loss.**
 
 Court accepted CTL was proven. Damage assessment exceeded vessel's insured value when factoring repair costs, related expenses, and economic salvage considerations.
 
-**Issue 2 — Proximate cause.**
+**Issue 2 - Proximate cause.**
 
 Court found "perils of the seas" was proximate cause. Detailed analysis of operational circumstances, weather conditions, and incident sequence supported finding.
 
-**Issue 3 — Fair presentation (section 3 IA 2015).**
+**Issue 3 - Fair presentation (section 3 IA 2015).**
 
 UK Insurance Act 2015 section 3 establishes "fair presentation" duty replacing pre-2015 utmost good faith. Court found insured satisfied fair presentation: relevant material was disclosed; nothing material was concealed; no misrepresentation.
 
-**Issue 4 — PPI clause and Section B (section 4 Marine Insurance Act 1906).**
+**Issue 4 - PPI clause and Section B (section 4 Marine Insurance Act 1906).**
 
 Section B (Increased Value cover) included a "Policy Proof of Interest" (PPI) clause. Court held PPI clauses make policies void as wagering contracts under section 4 MIA 1906.
 
-Specifically, Section B's structure didn't require proof of insurable interest — making it functionally a wagering contract on vessel performance rather than insurance against loss of insurable interest.
+Specifically, Section B's structure didn't require proof of insurable interest - making it functionally a wagering contract on vessel performance rather than insurance against loss of insurable interest.
 
-**Issue 5 — Section 11 IA 2015 (terms defining risk).**
+**Issue 5 - Section 11 IA 2015 (terms defining risk).**
 
 UK Insurance Act 2015 section 11 distinguishes:
 - Terms that define risk (breach prevents specific cover)
@@ -73,7 +73,7 @@ UK Insurance Act 2015 section 11 distinguishes:
 
 Court applied section 11 to specific policy terms, finding particular contractual provisions were "terms defining risk" affecting cover scope but not creating absolute warranties.
 
-**Issue 6 — Late-payment damages (section 13A IA 2015).**
+**Issue 6 - Late-payment damages (section 13A IA 2015).**
 
 Section 13A IA 2015 permits damages for unreasonable delay in claim payment. Court declined to consider this issue because it was not pleaded in the case. Significant for procedural strategy: section 13A claims require explicit pleading, not subsumed in CTL claims.
 
@@ -81,9 +81,9 @@ Section 13A IA 2015 permits damages for unreasonable delay in claim payment. Cou
 
 #### Key precedent points
 
-**Point 1 — Fair presentation in Singapore courts.**
+**Point 1 - Fair presentation in Singapore courts.**
 
-Section 3 IA 2015 fair presentation duty is now Singapore-tested in detail. The court applied a balanced standard — neither requiring full disclosure of every fact nor permitting selective presentation.
+Section 3 IA 2015 fair presentation duty is now Singapore-tested in detail. The court applied a balanced standard - neither requiring full disclosure of every fact nor permitting selective presentation.
 
 For Singapore marine SMEs:
 - Full disclosure of material facts at policy inception
@@ -91,7 +91,7 @@ For Singapore marine SMEs:
 - Documentation of disclosure quality
 - Engagement with specialty marine broker for fair presentation discipline
 
-**Point 2 — PPI clauses void.**
+**Point 2 - PPI clauses void.**
 
 Singapore court explicitly held PPI clauses void as wagering contracts under MIA 1906 section 4.
 
@@ -100,18 +100,18 @@ For Singapore marine SMEs:
 - Where Increased Value cover sought, use insurable-interest-based structures
 - Coordinate with specialty broker for compliant cover structure
 
-**Point 3 — Section 11 application.**
+**Point 3 - Section 11 application.**
 
-Section 11 IA 2015 treatment of "terms defining risk" vs other terms is now Singapore-tested. Distinction matters for breach scenarios — terms affecting specific risk only affect claims arising from that risk, not absolute cover.
+Section 11 IA 2015 treatment of "terms defining risk" vs other terms is now Singapore-tested. Distinction matters for breach scenarios - terms affecting specific risk only affect claims arising from that risk, not absolute cover.
 
 For Singapore marine SMEs:
 - Policy term review for "defining risk" vs general application
 - Specific compliance with operational warranties
 - Documentation of compliance discipline
 
-**Point 4 — Section 13A IA 2015 actionable.**
+**Point 4 - Section 13A IA 2015 actionable.**
 
-Late-payment damages under section 13A IA 2015 now applicable in Singapore courts where governing law is English. But — must be explicitly pleaded.
+Late-payment damages under section 13A IA 2015 now applicable in Singapore courts where governing law is English. But - must be explicitly pleaded.
 
 For Singapore marine SMEs:
 - Where insurer claim handling delays cause loss, section 13A may apply
@@ -142,7 +142,7 @@ Cover types include:
 
 **Lloyd's syndicate access.** Approximately 22 Lloyd's syndicates and 16+ Lloyd's service companies maintain Singapore presence, providing market access for hull, cargo, and specialty marine cover.
 
-**English-law governance.** Most Singapore-issued marine policies use English-law governing law (reflecting historical market structure). This means UK Insurance Act 2015 applies as foreign law — and OCBC v Argoglobal demonstrates Singapore court will apply it competently.
+**English-law governance.** Most Singapore-issued marine policies use English-law governing law (reflecting historical market structure). This means UK Insurance Act 2015 applies as foreign law - and OCBC v Argoglobal demonstrates Singapore court will apply it competently.
 
 **Specialty broker access.** Marine cover typically placed through specialty marine brokers (Aon, Marsh, WTW, Howden, McGill, Lockton, etc.) with Singapore offices.
 
@@ -159,11 +159,11 @@ Cover types include:
 
 The OCBC v Argoglobal Section B finding makes PPI structures problematic. SMEs requiring increased value cover should:
 
-**Option 1 — Insurable interest-based structure.** Cover designed to protect insurable interest in specific vessel improvements, contracts, or operations. Compliant.
+**Option 1 - Insurable interest-based structure.** Cover designed to protect insurable interest in specific vessel improvements, contracts, or operations. Compliant.
 
-**Option 2 — Specific named contract cover.** Cover for specific named operational contracts with quantified financial exposure. Compliant.
+**Option 2 - Specific named contract cover.** Cover for specific named operational contracts with quantified financial exposure. Compliant.
 
-**Option 3 — Loss of hire cover.** Specific cover for loss of hire / operational revenue impact. Compliant.
+**Option 3 - Loss of hire cover.** Specific cover for loss of hire / operational revenue impact. Compliant.
 
 **Avoid:** PPI structures or "no proof required" wagering-style cover.
 
@@ -193,27 +193,27 @@ The OCBC v Argoglobal Section B finding makes PPI structures problematic. SMEs r
 
 For Singapore SMEs in marine sector:
 
-1. **Fair presentation discipline at inception** — full disclosure documented.
+1. **Fair presentation discipline at inception** - full disclosure documented.
 
-2. **PPI clause avoidance** — insurable-interest-based cover structures.
+2. **PPI clause avoidance** - insurable-interest-based cover structures.
 
-3. **Operational warranty maintenance** — manning, class, certification continuous.
+3. **Operational warranty maintenance** - manning, class, certification continuous.
 
-4. **Documentation throughout policy period** — compliance evidence.
+4. **Documentation throughout policy period** - compliance evidence.
 
-5. **Mortgagee position addressed** — bank financing coordination.
+5. **Mortgagee position addressed** - bank financing coordination.
 
-6. **Specialty broker engagement** — marine market access.
+6. **Specialty broker engagement** - marine market access.
 
-7. **Multi-cover coordination** — H&M, cargo, P&I, specific operations.
+7. **Multi-cover coordination** - H&M, cargo, P&I, specific operations.
 
-8. **Late-payment damages awareness** — section 13A pleading where applicable.
+8. **Late-payment damages awareness** - section 13A pleading where applicable.
 
-9. **Section 11 understanding** — term-by-term cover scope analysis.
+9. **Section 11 understanding** - term-by-term cover scope analysis.
 
-10. **Cross-border coordination** — multi-jurisdiction claim protocol.
+10. **Cross-border coordination** - multi-jurisdiction claim protocol.
 
-The cost of marine insurance compliance failure is substantial — vessel total loss exposure can exceed SGD 50m+; SME marine operators typically have 70-90% of vessel value insured. The cost of compliance discipline is bounded — primarily documentation rigor and specialty broker engagement quality.
+The cost of marine insurance compliance failure is substantial - vessel total loss exposure can exceed SGD 50m+; SME marine operators typically have 70-90% of vessel value insured. The cost of compliance discipline is bounded - primarily documentation rigor and specialty broker engagement quality.
 
 ### Questions to Ask Your Adviser
 

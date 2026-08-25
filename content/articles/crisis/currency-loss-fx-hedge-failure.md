@@ -1,5 +1,5 @@
 ---
-title: "A Currency Movement or FX Hedge Failure Just Wiped Out Our Margin — What Do I Do Now?"
+title: "A Currency Movement or FX Hedge Failure Just Wiped Out Our Margin - What Do I Do Now?"
 slug: "/crisis/currency-loss-fx-hedge-failure"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,13 +14,13 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/currency-loss-fx-hedge-failure"
 meta_description: "First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in..."
-og_title: "A Currency Movement or FX Hedge Failure Just Wiped Out Our Margin — What Do I Do Now?"
+og_title: "A Currency Movement or FX Hedge Failure Just Wiped Out Our Margin - What Do I Do Now?"
 og_description: "First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in parallel: review the underlying contracts (was the FX exposure contractually allocable to the customer or supplier?), engage the bank or treasury counterparty on the failed hedge structure, communicate factually with stakeholders (board, customers if affected, lenders), and assess remediation options. **Standard insurance generally does not cover** currency losses, FX hedge failures, or commercial trading losses — these are commercial market risks, not insurable events. **Specific policies that may have limited application:** Trade Credit (if currency loss tied to non-payment), Crime / Fidelity Guarantee (if treasury staff dishonesty caused the loss), D&O (if directors face personal liability for inadequate FX risk management), Tech E&O (if treasury management software failure caused execution issues). For most currency losses, recovery is operational and commercial — not insurance-driven.
+> First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in parallel: review the underlying contracts (was the FX exposure contractually allocable to the customer or supplier?), engage the bank or treasury counterparty on the failed hedge structure, communicate factually with stakeholders (board, customers if affected, lenders), and assess remediation options. **Standard insurance generally does not cover** currency losses, FX hedge failures, or commercial trading losses - these are commercial market risks, not insurable events. **Specific policies that may have limited application:** Trade Credit (if currency loss tied to non-payment), Crime / Fidelity Guarantee (if treasury staff dishonesty caused the loss), D&O (if directors face personal liability for inadequate FX risk management), Tech E&O (if treasury management software failure caused execution issues). For most currency losses, recovery is operational and commercial - not insurance-driven.
 
 ### The Step-by-Step
 
@@ -52,7 +52,7 @@ For Singapore SMEs with foreign-currency exposure (importers, exporters, regiona
 
 Each has different remediation paths and different (if any) insurance considerations.
 
-#### Hour 0–24 — Assess and contain
+#### Hour 0-24 - Assess and contain
 
 **Quantify the damage:**
 
@@ -71,12 +71,12 @@ Each has different remediation paths and different (if any) insurance considerat
 
 **Engage advisors:**
 - [MAS-regulated](https://www.mas.gov.sg/regulation/banking) treasury bank relationship manager
-- Auditor (if material — likely affects financial statements)
+- Auditor (if material - likely affects financial statements)
 - Tax advisor (currency loss treatment under [IRAS](https://www.iras.gov.sg/) guidance and [Income Tax Act 1947](https://sso.agc.gov.sg/Act/ITA1947) provisions)
 - Legal counsel if contractual disputes arise
 - Insurance broker if any insurance angle exists
 
-#### Hour 24–7 days — Stakeholder communication and root cause
+#### Hour 24-7 days - Stakeholder communication and root cause
 
 **Internal communication:**
 - Brief CEO/founders if not already aware
@@ -109,7 +109,7 @@ What actually went wrong?
 
 The cause determines the remediation path and any insurance angle.
 
-#### Day 7–30 — Remediation and prevention
+#### Day 7-30 - Remediation and prevention
 
 **Hedging structure review:**
 
@@ -136,9 +136,9 @@ Many currency losses can be partially mitigated through contract structure:
 - Reconciliation discipline
 - Reporting accuracy
 
-#### Insurance considerations — what may apply
+#### Insurance considerations - what may apply
 
-**Crime / Fidelity Guarantee — for staff dishonesty:**
+**Crime / Fidelity Guarantee - for staff dishonesty:**
 
 If the loss was caused by employee dishonesty (e.g. treasury staff fraudulently misdirected funds, manipulated hedge transactions for personal benefit), Fidelity Guarantee may respond:
 - Subject to specific FG policy terms
@@ -146,7 +146,7 @@ If the loss was caused by employee dishonesty (e.g. treasury staff fraudulently 
 - Forensic investigation
 - See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [Article 91](/crisis/employee-embezzlement-discovered)
 
-**Crime / Computer Crime — for cyber-driven scenarios:**
+**Crime / Computer Crime - for cyber-driven scenarios:**
 
 If the loss was caused by:
 - Business Email Compromise (fraudster's email impersonating CFO/CEO directing transfer)
@@ -155,7 +155,7 @@ If the loss was caused by:
 
 Cyber and Crime policies with appropriate sub-limits may respond. See [Article 90](/crisis/vendor-ran-off-with-deposit) for vendor scenario; same principles apply to treasury scenarios.
 
-**D&O — for director liability:**
+**D&O - for director liability:**
 
 If directors face personal liability claims for:
 - Inadequate FX risk management oversight
@@ -165,14 +165,14 @@ If directors face personal liability claims for:
 
 D&O may cover defence and indemnity. See [Article 71](/comparison/do-vs-pi-vs-epl) and [Article 119](/document-legal/companies-act-section-172-indemnification).
 
-**Tech E&O — for systems failure:**
+**Tech E&O - for systems failure:**
 
 If a treasury management system failure (your own internal system or cloud-hosted treasury platform) caused executable trades to fail or execute incorrectly:
 - Tech E&O of the platform vendor may respond if it was their failure
 - Your own Tech E&O may respond if you provided the service to your own customers
 - Generally narrow application
 
-**Trade Credit — for related receivables impact:**
+**Trade Credit - for related receivables impact:**
 
 If currency loss is related to customer non-payment:
 - Trade Credit cover (where held) may respond to underlying non-payment
@@ -302,7 +302,7 @@ For Singapore SMEs with material foreign currency exposure:
 
 6. **Hold appropriate Crime / Fidelity Guarantee / Cyber for fraud scenarios.** These are the limited insurance angles.
 
-7. **For directors — engage personally with FX governance.** Director liability risk and effective oversight align.
+7. **For directors - engage personally with FX governance.** Director liability risk and effective oversight align.
 
 8. **Document policies and decisions.** Defence to allegations of inadequate management.
 
@@ -317,7 +317,7 @@ The objective is not eliminating FX exposure (often impossible for genuine comme
 5. As my regional operations grow, what insurance milestones (Crime limits, Cyber, etc.) should I plan for?
 
 ### Related Information
-- [We Just Discovered an Employee Has Embezzled From Us — What Do I Do Now?](/crisis/employee-embezzlement-discovered)
+- [We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?](/crisis/employee-embezzlement-discovered)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company](/document-legal/companies-act-section-172-indemnification)
 

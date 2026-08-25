@@ -20,17 +20,17 @@ og_description: "Singapore SMEs operating in New Zealand through subsidiary, bra
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in New Zealand through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered by the [Reserve Bank of New Zealand (RBNZ)](https://www.rbnz.govt.nz/) for prudential supervision and the [Financial Markets Authority (FMA)](https://www.fma.govt.nz/) for conduct supervision. New Zealand operates a distinctive accident compensation framework — the [Accident Compensation Corporation (ACC)](https://www.acc.co.nz/) provides comprehensive no-fault accident cover that substantively replaces traditional Workers' Compensation and personal injury liability. KiwiSaver provides retirement savings framework; specific [Privacy Act 2020](https://www.privacy.org.nz/) under the Office of the Privacy Commissioner addresses data protection. Specific [Health and Safety at Work Act 2015](https://www.worksafe.govt.nz/) under WorkSafe creates substantial workplace safety scope. Specific [Companies Act 1993](https://www.legislation.govt.nz/) D&O considerations and specific [Inland Revenue](https://www.ird.govt.nz/) tax compliance.
+> Singapore SMEs operating in New Zealand through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered by the [Reserve Bank of New Zealand (RBNZ)](https://www.rbnz.govt.nz/) for prudential supervision and the [Financial Markets Authority (FMA)](https://www.fma.govt.nz/) for conduct supervision. New Zealand operates a distinctive accident compensation framework - the [Accident Compensation Corporation (ACC)](https://www.acc.co.nz/) provides comprehensive no-fault accident cover that substantively replaces traditional Workers' Compensation and personal injury liability. KiwiSaver provides retirement savings framework; specific [Privacy Act 2020](https://www.privacy.org.nz/) under the Office of the Privacy Commissioner addresses data protection. Specific [Health and Safety at Work Act 2015](https://www.worksafe.govt.nz/) under WorkSafe creates substantial workplace safety scope. Specific [Companies Act 1993](https://www.legislation.govt.nz/) D&O considerations and specific [Inland Revenue](https://www.ird.govt.nz/) tax compliance.
 
 ### The Sourced Detail
 
 New Zealand operations represent commercial opportunity for Singapore SMEs with specific commercial frameworks distinct from comparable markets.
 
-#### The ACC framework — the distinctive feature
+#### The ACC framework - the distinctive feature
 
 New Zealand's [Accident Compensation Corporation (ACC)](https://www.acc.co.nz/) under the [Accident Compensation Act 2001](https://www.legislation.govt.nz/) provides comprehensive no-fault accident insurance. The framework is substantively distinct from comparable markets.
 
-Coverage scope includes work-related injuries, motor vehicle injuries, treatment injuries (medical misadventure), and non-work injuries. Coverage is universal — applies to anyone in New Zealand including visitors and tourists.
+Coverage scope includes work-related injuries, motor vehicle injuries, treatment injuries (medical misadventure), and non-work injuries. Coverage is universal - applies to anyone in New Zealand including visitors and tourists.
 
 Funding comes from multiple sources including employer levies (varying by industry classification under specific risk classification framework), employee levies (payroll deduction at specific rates), motor vehicle levies, and specific Crown contributions.
 
@@ -38,7 +38,7 @@ The framework substantively replaces traditional Workers' Compensation insurance
 
 For Singapore SMEs operating New Zealand commercial scope, ACC compliance is foundational. Considerations on employer levy classification, operational operational discipline, operational operational scope.
 
-The ACC framework substantively reduces typical Workers' Compensation insurance scope but does not eliminate all employer liability — specific Public Liability scope, specific Employment Practices Liability scope, and operational scope remain.
+The ACC framework substantively reduces typical Workers' Compensation insurance scope but does not eliminate all employer liability - specific Public Liability scope, specific Employment Practices Liability scope, and operational scope remain.
 
 #### The mandatory frameworks
 
@@ -56,7 +56,7 @@ Beyond ACC, New Zealand mandates several frameworks affecting commercial operati
 
 New Zealand's [Companies Act 1993](https://www.legislation.govt.nz/) administered by [Companies Office](https://www.companiesoffice.govt.nz/) creates corporate framework. Specific provisions include directors' duties under Sections 131-138 (good faith and best interests, exercise powers for proper purpose, not act in manner contrary to Act/constitution, exercise care/diligence/skill of reasonable director, not allow business to be carried on in manner likely to cause loss to creditors, not agree to/allow incurring of obligations unable to be performed), specific liability provisions, and specific resident director requirements.
 
-Specific resident director requirement — at least one director must reside in New Zealand or in an "enforcement country" (currently Australia). Operational considerations for Singapore-headquartered groups around director arrangements.
+Specific resident director requirement - at least one director must reside in New Zealand or in an "enforcement country" (currently Australia). Operational considerations for Singapore-headquartered groups around director arrangements.
 
 D&O cover with New Zealand operational scope addresses specific director liability scope including substantial Health and Safety at Work Act Officer liability scope.
 
@@ -106,7 +106,7 @@ Specific D&O scenarios engage New Zealand-issued D&O cover.
 
 Specific data breach scenarios engage Privacy Act 2020 notification framework and Cyber Liability.
 
-Specific natural disaster scenarios (earthquakes — Christchurch 2010-2011 events demonstrate substantial commercial exposure; specific other peril scope) engage Property/Fire and BI scope. Considerations on earthquake and natural-hazard cover and the [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/) framework (formerly the Earthquake Commission / EQC, renamed under the Natural Hazards Insurance Act 2023 with effect from 1 July 2024) matters substantially.
+Specific natural disaster scenarios (earthquakes - Christchurch 2010-2011 events demonstrate substantial commercial exposure; specific other peril scope) engage Property/Fire and BI scope. Considerations on earthquake and natural-hazard cover and the [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/) framework (formerly the Earthquake Commission / EQC, renamed under the Natural Hazards Insurance Act 2023 with effect from 1 July 2024) matters substantially.
 
 Commercial dispute scenarios engage specific New Zealand commercial counsel.
 
@@ -120,7 +120,7 @@ Specific catastrophic peril exposure (earthquakes, volcanic activity, specific w
 
 Specific cross-border commercial scope between Singapore and New Zealand under [Closer Economic Partnership (CEP)](https://www.fta.gov.sg/) and specific bilateral commercial scope.
 
-Specific Single Economic Market arrangements with Australia (CER — Closer Economic Relations) create commercial considerations.
+Specific Single Economic Market arrangements with Australia (CER - Closer Economic Relations) create commercial considerations.
 
 #### Operational considerations
 

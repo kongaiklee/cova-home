@@ -32,8 +32,8 @@ The Cybersecurity Act 2018 was Singapore's first dedicated cybersecurity legisla
 Per the [Cybersecurity (Amendment) Act 2024 (Commencement) Notification 2025 (S 677/2025)](https://sso.agc.gov.sg/SL-Supp/S677-2025/Published/20251015?DocDate=20251015), published in the Subsidiary Legislation Supplement on **15 October 2025**:
 
 **In force from 31 October 2025** (sections 2 to 15, 18, 19, 22, 23(b), 24, 25, 28(a) to (g), 29, 31 and 32(1) to (4), (6) and (7)):
-- New Part 3A — third-party-owned CII (3PO CII)
-- Updated Part 3 — provider-owned CII (PO CII), including extraterritorial designation
+- New Part 3A - third-party-owned CII (3PO CII)
+- Updated Part 3 - provider-owned CII (PO CII), including extraterritorial designation
 - New regime for Systems of Temporary Cybersecurity Concern (STCC)
 - Expanded incident reporting
 
@@ -67,7 +67,7 @@ Most SMEs are **not** CII owners. CII designation is targeted at the operators o
 - Do you have an incident-response plan that meets the 2-hour notification requirement?
 - Do you maintain audit logs sufficient for CSA's inspection regime?
 
-**(b) Premium differentiation is sharpening.** Per [Mordor Intelligence's Cyber Liability Insurance Market in Singapore report](https://www.mordorintelligence.com), the SG cyber market is forecast to grow from USD 56.72 million in 2025 to USD 94.73 million by 2031 (8.93% CAGR), with standalone covers holding 53.65% market share in 2025 (growing 9.84% CAGR) versus packaged add-ons at 46.35% — a bifurcation reflecting that sophisticated buyers go standalone while first-time SME purchasers lean on packaged add-ons.
+**(b) Premium differentiation is sharpening.** Per [Mordor Intelligence's Cyber Liability Insurance Market in Singapore report](https://www.mordorintelligence.com), the SG cyber market is forecast to grow from USD 56.72 million in 2025 to USD 94.73 million by 2031 (8.93% CAGR), with standalone covers holding 53.65% market share in 2025 (growing 9.84% CAGR) versus packaged add-ons at 46.35% - a bifurcation reflecting that sophisticated buyers go standalone while first-time SME purchasers lean on packaged add-ons.
 
 **(c) Coverage for regulatory defence costs is becoming standard.** Modern Singapore cyber wordings typically include defence costs for both [PDPA breaches](/regulatory-change/pdpa-2022-penalty) and Cybersecurity Act notifications. But coverage is wording-specific.
 
@@ -86,7 +86,7 @@ If you're an SME outside CII sectors, the Cybersecurity Act amendments do not di
 5. How does my cyber wording interact with E&O / professional liability for IT vendors?
 
 ## Related Information
-- [PDPA Amendment 1 October 2022 — 10% Turnover Penalty](/regulatory-change/pdpa-2022-penalty)
+- [PDPA Amendment 1 October 2022 - 10% Turnover Penalty](/regulatory-change/pdpa-2022-penalty)
 - [Workplace Fairness Act 2025](/regulatory-change/wfa-2024)
 - [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
 

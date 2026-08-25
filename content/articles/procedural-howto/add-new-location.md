@@ -18,32 +18,32 @@ og_title: "How to Add a New Operating Location to Existing Insurance Policy"
 og_description: "Find a licensed IFA →"
 ---
 
-> **The Answer in 60 Seconds:** Notify your insurer in writing **before** you start operating from the new location, provide full underwriting information (address, occupancy, construction, sums insured, fire safety status), and the insurer will issue an **endorsement** that adds the location to your policy schedule. A pro-rata additional premium is charged for the unexpired period. Most Fire and Property All Risks policies are written on a **scheduled-premises** basis — losses at an undeclared location are not covered.
+> **The Answer in 60 Seconds:** Notify your insurer in writing **before** you start operating from the new location, provide full underwriting information (address, occupancy, construction, sums insured, fire safety status), and the insurer will issue an **endorsement** that adds the location to your policy schedule. A pro-rata additional premium is charged for the unexpired period. Most Fire and Property All Risks policies are written on a **scheduled-premises** basis - losses at an undeclared location are not covered.
 
 **Find a licensed IFA →**
 
 ### The Step-by-Step
 
-**Step 1 — Notify before you operate.** The duty of utmost good faith (uberrimae fidei) — codified in [section 17 of the Marine Insurance Act](https://sso.agc.gov.sg/Act/MIA1906) and applied at common law to all insurance contracts in Singapore — requires you to disclose every material change. A new operating location is material because it changes the risk profile.
+**Step 1 - Notify before you operate.** The duty of utmost good faith (uberrimae fidei) - codified in [section 17 of the Marine Insurance Act](https://sso.agc.gov.sg/Act/MIA1906) and applied at common law to all insurance contracts in Singapore - requires you to disclose every material change. A new operating location is material because it changes the risk profile.
 
-**Step 2 — Gather underwriting information.** For Fire and PAR policies, insurers will typically need:
+**Step 2 - Gather underwriting information.** For Fire and PAR policies, insurers will typically need:
 - Full address and postal code
 - Occupancy type (office, warehouse, F&B, manufacturing, retail)
 - Building construction (concrete/steel vs timber; sprinklered vs not)
 - Building age
-- Fire Safety Certificate (FSC) status — relevant under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for premises required to obtain one
+- Fire Safety Certificate (FSC) status - relevant under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for premises required to obtain one
 - Sums insured for building (if owned), contents/fixtures, stock
 - Security and fire alarm systems
 - Adjacent risks (e.g. shophouse next to a chemical store)
 - Estimated turnover and stock cycle if Business Interruption is in scope
 
-**Step 3 — Submit the request.** Email the broker or insurer with the underwriting pack. Specify whether you want the new location added to the existing policy or a separate policy issued.
+**Step 3 - Submit the request.** Email the broker or insurer with the underwriting pack. Specify whether you want the new location added to the existing policy or a separate policy issued.
 
-**Step 4 — Receive the endorsement.** The insurer issues a written endorsement (a numbered amendment to the policy schedule) recording: the new location, the perils and sums insured applicable to it, the effective date, and the additional premium. Endorsements are part of the policy and should be filed with it.
+**Step 4 - Receive the endorsement.** The insurer issues a written endorsement (a numbered amendment to the policy schedule) recording: the new location, the perils and sums insured applicable to it, the effective date, and the additional premium. Endorsements are part of the policy and should be filed with it.
 
-**Step 5 — Pay the pro-rata additional premium.** Calculated on the unexpired policy term. Unlike cancellation, additions are normally pro-rata not short-period — you are paying *into* the policy, not exiting it.
+**Step 5 - Pay the pro-rata additional premium.** Calculated on the unexpired policy term. Unlike cancellation, additions are normally pro-rata not short-period - you are paying *into* the policy, not exiting it.
 
-**Step 6 — Update other policies that reference location.** Public Liability is sometimes written "anywhere in Singapore" but sometimes premises-based. Workers Compensation (WICA) is employer-based not location-based — but if the new site is a higher-risk environment (e.g. workshop vs office), insurers may need to re-rate. Money Insurance, Burglary, Glass, Signage, Equipment Breakdown — all may be schedule-bound.
+**Step 6 - Update other policies that reference location.** Public Liability is sometimes written "anywhere in Singapore" but sometimes premises-based. Workers Compensation (WICA) is employer-based not location-based - but if the new site is a higher-risk environment (e.g. workshop vs office), insurers may need to re-rate. Money Insurance, Burglary, Glass, Signage, Equipment Breakdown - all may be schedule-bound.
 
 ### Premises-based vs anywhere-in-Singapore wordings
 - **Fire / Property All Risks** : almost always premises-scheduled. Loss at an undeclared address is excluded.
@@ -59,11 +59,11 @@ og_description: "Find a licensed IFA →"
 5. **Not flagging high-hazard goods.** Adding a warehouse with combustible stock to a clean-office Fire policy may trigger an exclusion of stock altogether unless declared.
 
 ### What This Means for Your Business
-The cost of doing this properly is small (an endorsement premium and 30 minutes of paperwork). The cost of not doing it is potentially the entire policy — the insurer can avoid for material non-disclosure. The discipline is: every property-related change (new lease, sublease, additional unit, change of occupancy use) goes to the broker before signing the lease.
+The cost of doing this properly is small (an endorsement premium and 30 minutes of paperwork). The cost of not doing it is potentially the entire policy - the insurer can avoid for material non-disclosure. The discipline is: every property-related change (new lease, sublease, additional unit, change of occupancy use) goes to the broker before signing the lease.
 
 When you're growing fast, build a "material change checklist" and tape it to the wall: new location, new business activity, new revenue stream, new headcount tier, new asset class, M&A activity, regulatory licence change. Brokers can run a quarterly review to capture anything missed.
 
-Note PUB's published context: flood-prone areas in Singapore have reduced from 3,200 hectares in the 1970s to less than 30 hectares in 2023 per PUB's Flood Resilience Info Pack — but climate change is widening the tail of extreme rainfall events, so a new location's flood profile should be checked against the PUB published list.
+Note PUB's published context: flood-prone areas in Singapore have reduced from 3,200 hectares in the 1970s to less than 30 hectares in 2023 per PUB's Flood Resilience Info Pack - but climate change is widening the tail of extreme rainfall events, so a new location's flood profile should be checked against the PUB published list.
 
 ### Questions to Ask Your Adviser
 1. Which of my policies are premises-scheduled and which are anywhere-in-Singapore?

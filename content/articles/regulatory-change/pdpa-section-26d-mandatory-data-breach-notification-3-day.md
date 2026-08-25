@@ -60,7 +60,7 @@ Section 26C(3)(a) requires a data intermediary (a third-party processor) to noti
 
 For SMEs outsourcing data processing to vendors (cloud, payroll, CRM, marketing automation, customer support), the data intermediary obligation creates a notification cascade. The SME's vendor contracts should require prompt notification of any suspected breach, the standard form of notice, and cooperation in the section 26B assessment.
 
-#### Verbatim statutory text — section numbers and SSO routing
+#### Verbatim statutory text - section numbers and SSO routing
 
 The PDPA 2012 consolidated text is at [sso.agc.gov.sg/Act/PDPA2012](https://sso.agc.gov.sg/Act/PDPA2012). The Personal Data Protection (Notification of Data Breaches) Regulations 2021 are at [sso.agc.gov.sg/SL/PDPA2012-S64-2021](https://sso.agc.gov.sg/SL/PDPA2012-S64-2021).
 
@@ -82,17 +82,17 @@ The PDPA 2012 consolidated text is at [sso.agc.gov.sg/Act/PDPA2012](https://sso.
 
 Singapore market cyber insurance policies (issued by AIG Singapore, Chubb Singapore, MSIG Singapore, Tokio Marine Singapore, Allianz Singapore, Beazley Singapore, and others) typically respond to the following components of a data breach event:
 
-**Incident response cover** — forensic investigation, breach coach, legal counsel, public relations, customer notification logistics. Most policies include a 24/7 incident hotline and a panel of pre-approved vendors.
+**Incident response cover** - forensic investigation, breach coach, legal counsel, public relations, customer notification logistics. Most policies include a 24/7 incident hotline and a panel of pre-approved vendors.
 
-**Notification cost cover** — the cost of preparing and sending breach notifications to affected individuals (letters, emails, dedicated call centres). At the 500-individual significant-scale threshold, notification costs can be material.
+**Notification cost cover** - the cost of preparing and sending breach notifications to affected individuals (letters, emails, dedicated call centres). At the 500-individual significant-scale threshold, notification costs can be material.
 
-**Regulatory defence cover** — legal costs for PDPC investigation and any prosecution. Most Singapore cyber wordings include a sub-limit for regulatory defence; this should be tested at placement.
+**Regulatory defence cover** - legal costs for PDPC investigation and any prosecution. Most Singapore cyber wordings include a sub-limit for regulatory defence; this should be tested at placement.
 
-**PDPC financial penalty cover** — generally not insurable to the extent the penalty is treated as punitive under Singapore public-policy doctrine. The general legal principle is that fines and penalties imposed by a regulator for punitive purposes are not insurable. Some wordings include the cover "to the extent insurable by law in Singapore", which is a careful drafting position that protects the insurer if a court later determines the penalty is uninsurable. SMEs reading "fines and penalties cover" in a policy summary must specifically test this against the wording.
+**PDPC financial penalty cover** - generally not insurable to the extent the penalty is treated as punitive under Singapore public-policy doctrine. The general legal principle is that fines and penalties imposed by a regulator for punitive purposes are not insurable. Some wordings include the cover "to the extent insurable by law in Singapore", which is a careful drafting position that protects the insurer if a court later determines the penalty is uninsurable. SMEs reading "fines and penalties cover" in a policy summary must specifically test this against the wording.
 
-**Third-party liability cover** — claims by data subjects under section 48O PDPA, claims by business counterparties for downstream losses, claims by payment-card brands for PCI-DSS-related issues.
+**Third-party liability cover** - claims by data subjects under section 48O PDPA, claims by business counterparties for downstream losses, claims by payment-card brands for PCI-DSS-related issues.
 
-**Business interruption cover** — loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar) on BI waiting periods).
+**Business interruption cover** - loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar) on BI waiting periods).
 
 The cyber policy's notification window to the insurer is typically 60 days from awareness, with a "discovery" or "claim first made" trigger architecture. This runs in parallel with, not in place of, the PDPA 3-day clock. The wording should permit the SME to make regulatory notifications without prejudicing cover.
 
@@ -103,7 +103,7 @@ A 45-person Singapore marketing agency ("Marketer A") suffers a ransomware attac
 Section 26B assessment timeline:
 - Day 1 (Monday): incident detected; IT response begins.
 - Day 2 (Tuesday): scope of data exfiltration confirmed.
-- Day 3 (Wednesday): formal assessment completed at 11:00 — the breach is notifiable on both significant-harm grounds (partial NRIC) and significant-scale grounds (2,800 individuals exceeds 500).
+- Day 3 (Wednesday): formal assessment completed at 11:00 - the breach is notifiable on both significant-harm grounds (partial NRIC) and significant-scale grounds (2,800 individuals exceeds 500).
 
 Section 26D(1) clock starts Wednesday. Notification to PDPC is due by Saturday 23:59 (3 calendar days from assessment).
 
@@ -113,7 +113,7 @@ Cyber insurance triggers:
 - Day 1 (Monday): cyber policy discovery trigger fires. Incident-response retainer engaged via the policy's 24/7 hotline.
 - Day 1 onwards: forensic, breach coach, regulatory defence cover attaches.
 - Day 3 (Wednesday) onwards: notification cost cover funds the customer notification logistics.
-- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period — typically 8 to 12 hours for cyber BI; see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
+- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period - typically 8 to 12 hours for cyber BI; see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
 
 Subsequent PDPC investigation. If the PDPC imposes a financial penalty under section 48J, the policy responds only "to the extent insurable by law". For a punitive penalty, this is generally zero.
 
@@ -125,7 +125,7 @@ The SingHealth and IHIS decisions (2019, pre-mandatory regime) imposed combined 
 
 Since the mandatory regime took effect on 1 February 2021, the PDPC has continued to issue enforcement decisions and financial penalties against organisations for breaches of the Protection Obligation, with each published decision setting out the facts, the remediation expected, and the penalty quantum.
 
-Post-1 October 2022 turnover-linked penalty cases — the PDPC has the section 48J power to impose up to 10% of Singapore turnover for organisations above the S$10 million threshold. Drafters and SME advisers should review the [PDPC enforcement decisions index](https://www.pdpc.gov.sg/all-commissions-decisions) for the most recent on-point cases at the time of advising.
+Post-1 October 2022 turnover-linked penalty cases - the PDPC has the section 48J power to impose up to 10% of Singapore turnover for organisations above the S$10 million threshold. Drafters and SME advisers should review the [PDPC enforcement decisions index](https://www.pdpc.gov.sg/all-commissions-decisions) for the most recent on-point cases at the time of advising.
 
 The PDPC's published [Guide on Managing and Notifying Data Breaches Under the PDPA](https://www.pdpc.gov.sg/help-and-resources/2021/01/data-breach-management-guide) provides the practical step-by-step framework, including notification templates and the PDPC's preferred reporting channel.
 
@@ -137,7 +137,7 @@ The PDPC's published [Guide on Managing and Notifying Data Breaches Under the PD
 
 3. **Notifying individuals before the PDPC.** Section 26D(2) says individual notification is "on or after" notifying the PDPC. Early individual notification can prejudice forensic investigation and PDPC engagement.
 
-4. **Assuming financial penalty cover under cyber insurance is universal.** PDPC financial penalties are generally not insurable to the extent punitive. Policies that purport to cover financial penalties typically use the qualifier "to the extent insurable by law" — which often delivers zero recovery in practice.
+4. **Assuming financial penalty cover under cyber insurance is universal.** PDPC financial penalties are generally not insurable to the extent punitive. Policies that purport to cover financial penalties typically use the qualifier "to the extent insurable by law" - which often delivers zero recovery in practice.
 
 5. **Not aligning cyber policy notification windows with PDPA timing.** Some cyber wordings require notification to the insurer before public regulatory notifications. The wording should specifically permit PDPA notification under section 26D without prejudicing cyber cover.
 
@@ -171,11 +171,11 @@ For SMEs operating across borders, the section 26D PDPA clock interacts with for
 
 ### Related Information
 
-- [Article 270 — Cybersecurity Act 2024 CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 270 - Cybersecurity Act 2024 CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 364 - Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
+- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

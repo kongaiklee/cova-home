@@ -50,7 +50,7 @@ The compensation limit uplift reflects the rising cost of medical treatment, reh
 
 **1 April 2021 (prior context, still operative): mandatory insurance threshold.** Employers must hold WICI for every manual employee (regardless of salary) and every non-manual employee earning S$2,600 per month or less. The threshold was raised from S$1,600 to S$2,600 on 1 April 2021.
 
-#### Verbatim statutory text — section numbers and SSO routing
+#### Verbatim statutory text - section numbers and SSO routing
 
 The WICA 2019 consolidated text is at [sso.agc.gov.sg/Act/WICA2019](https://sso.agc.gov.sg/Act/WICA2019). The Work Injury Compensation (Insurance) Regulations 2020 and WICI Compulsory Terms are accessible from the WICA 2019 subsidiary-legislation index on SSO. The MOM insurance-requirements page is at [mom.gov.sg/workplace-safety-and-health/work-injury-compensation/insurance-requirements](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/insurance-requirements). The current MOM-designated insurers list is linked from the insurance-requirements page; SMEs and intermediaries should verify the current list at the time of placement, as the list is updated periodically.
 
@@ -170,11 +170,11 @@ For SMEs in platform operator businesses (food delivery, private-hire, taxi via 
 
 ### Related Information
 
-- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
-- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
-- [Article 268 — SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 11 — WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [Article 262 - Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
+- [Article 267 - MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Article 268 - SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
+- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 11 - WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
 
 ---

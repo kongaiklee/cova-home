@@ -38,41 +38,41 @@ Aggregate limit caps insurer liability across policy period. Operational scope c
 
 #### The combined limit structure framework
 
-**Combined per-occurrence + aggregate** — Public Liability conventionally provides per-occurrence limit (cap per incident) plus aggregate limit (cap across policy period). Aggregate limit typically substantial multiple of per-occurrence limit.
+**Combined per-occurrence + aggregate** - Public Liability conventionally provides per-occurrence limit (cap per incident) plus aggregate limit (cap across policy period). Aggregate limit typically substantial multiple of per-occurrence limit.
 
-**Aggregate-only structure** — Professional Indemnity, Cyber Liability conventionally provide aggregate limit only. Framework for continuing exposure across policy period.
+**Aggregate-only structure** - Professional Indemnity, Cyber Liability conventionally provide aggregate limit only. Framework for continuing exposure across policy period.
 
-**Per-claim + aggregate** — considerations on per-claim limit plus aggregate framework.
+**Per-claim + aggregate** - considerations on per-claim limit plus aggregate framework.
 
 #### The defence cost allocation framework
 
-**Defence costs within limits** — defence costs erode aggregate limit. Framework for scenarios where substantial defence costs may exhaust aggregate limit.
+**Defence costs within limits** - defence costs erode aggregate limit. Framework for scenarios where substantial defence costs may exhaust aggregate limit.
 
-**Defence costs outside limits** — defence costs do not erode aggregate limit; insurer pays defence costs in addition to indemnity limit. Framework for premium implications.
+**Defence costs outside limits** - defence costs do not erode aggregate limit; insurer pays defence costs in addition to indemnity limit. Framework for premium implications.
 
-**Hybrid frameworks** — considerations on hybrid frameworks combining elements.
+**Hybrid frameworks** - considerations on hybrid frameworks combining elements.
 
 #### The limit reinstatement framework
 
-**Automatic reinstatement** — considerations on automatic reinstatement provisions. Limit reinstates automatically after exhaustion subject to operational provisions.
+**Automatic reinstatement** - considerations on automatic reinstatement provisions. Limit reinstates automatically after exhaustion subject to operational provisions.
 
 #### The commercial scenario analysis
 
 Commercial scenarios under limit structure framework:
 
-**Single substantive incident** — considerations on per-occurrence limit adequacy.
+**Single substantive incident** - considerations on per-occurrence limit adequacy.
 
-**Multiple smaller claims** — considerations on aggregate limit erosion.
+**Multiple smaller claims** - considerations on aggregate limit erosion.
 
-**Substantive defence cost scenario** — considerations on defence cost allocation scope.
+**Substantive defence cost scenario** - considerations on defence cost allocation scope.
 
-**Late-policy-period claim scenario** — considerations on scenarios where late-policy-period claim faces eroded aggregate.
+**Late-policy-period claim scenario** - considerations on scenarios where late-policy-period claim faces eroded aggregate.
 
 #### The commercial sophistication framework
 
-**Specific broker engagement** — commercial relationships supporting limit structure analysis.
+**Specific broker engagement** - commercial relationships supporting limit structure analysis.
 
-**Commercial counsel engagement** — commercial relationships for operational scope.
+**Commercial counsel engagement** - commercial relationships for operational scope.
 
 ### Common Mistakes / What Goes Wrong
 

@@ -1,5 +1,5 @@
 ---
-title: "How to File a Property All Risks Claim — Flood and Water Damage"
+title: "How to File a Property All Risks Claim - Flood and Water Damage"
 slug: "/procedural-howto/flood-water-damage-claim"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -14,11 +14,11 @@ status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/flood-water-damage-claim"
 meta_description: "Find a licensed IFA →"
-og_title: "How to File a Property All Risks Claim — Flood and Water Damage"
+og_title: "How to File a Property All Risks Claim - Flood and Water Damage"
 og_description: "Find a licensed IFA →"
 ---
 
-> **The Answer in 60 Seconds:** Stop further damage immediately, photograph everything, do not throw out damaged items, and notify your insurer the same day. Per [GIA claims guidance](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html), "all risks" property wordings have a long exclusion list despite the name — flood may be a named peril, an extension, or excluded entirely. Read your policy schedule before assuming you are covered.
+> **The Answer in 60 Seconds:** Stop further damage immediately, photograph everything, do not throw out damaged items, and notify your insurer the same day. Per [GIA claims guidance](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html), "all risks" property wordings have a long exclusion list despite the name - flood may be a named peril, an extension, or excluded entirely. Read your policy schedule before assuming you are covered.
 
 **Find a licensed IFA →**
 
@@ -33,34 +33,34 @@ PUB's published flood-prone areas (per PUB's list updated 31 January 2024) have 
 
 ### The Step-by-Step
 
-**Step 1 — Mitigate and protect.** The policy imposes a duty to take reasonable steps to prevent further loss. Extract standing water, move stock to higher ground, switch off electricals at the mains for safety. Per Svalinn's published claims guidance (representative of Singapore market practice): "Take practical steps to reduce further loss or harm."
+**Step 1 - Mitigate and protect.** The policy imposes a duty to take reasonable steps to prevent further loss. Extract standing water, move stock to higher ground, switch off electricals at the mains for safety. Per Svalinn's published claims guidance (representative of Singapore market practice): "Take practical steps to reduce further loss or harm."
 
-**Step 2 — Photograph and video everything.** Before you move anything, document the water level, the affected items, the damaged stock, the building damage. Date-stamped photos win disputes.
+**Step 2 - Photograph and video everything.** Before you move anything, document the water level, the affected items, the damaged stock, the building damage. Date-stamped photos win disputes.
 
-**Step 3 — Do not dispose of damaged items.** Per GIA-aligned market practice: "Do not dispose of damaged items until assessed." The loss adjuster needs to inspect.
+**Step 3 - Do not dispose of damaged items.** Per GIA-aligned market practice: "Do not dispose of damaged items until assessed." The loss adjuster needs to inspect.
 
-**Step 4 — Notify the insurer immediately.** Notification deadlines are policy-specific; the standard wording is "as soon as reasonably practicable" and many policies impose specific calendar-day windows in the General Conditions. Late notification is a common ground for denial. Email the insurer (cc the broker) with: address, date/time, brief description, preliminary list of damage. Confirm by phone.
+**Step 4 - Notify the insurer immediately.** Notification deadlines are policy-specific; the standard wording is "as soon as reasonably practicable" and many policies impose specific calendar-day windows in the General Conditions. Late notification is a common ground for denial. Email the insurer (cc the broker) with: address, date/time, brief description, preliminary list of damage. Confirm by phone.
 
-**Step 5 — Loss adjuster appointment.** For non-trivial claims, the insurer appoints a loss adjuster — major firms operating in Singapore include Crawford & Company, McLarens, Sedgwick and Cunningham Lindsey (part of Sedgwick). Cooperate; they are gathering facts not adversaries — but everything you say goes on record.
+**Step 5 - Loss adjuster appointment.** For non-trivial claims, the insurer appoints a loss adjuster - major firms operating in Singapore include Crawford & Company, McLarens, Sedgwick and Cunningham Lindsey (part of Sedgwick). Cooperate; they are gathering facts not adversaries - but everything you say goes on record.
 
-**Step 6 — Make a reasonable claim form submission.** Items: incident report, photos/videos, inventory of damaged items with values, purchase receipts/quotations for replacements, repair estimates, business interruption records (if BI is in cover), police report (if relevant), PUB or NEA notices about the flood event.
+**Step 6 - Make a reasonable claim form submission.** Items: incident report, photos/videos, inventory of damaged items with values, purchase receipts/quotations for replacements, repair estimates, business interruption records (if BI is in cover), police report (if relevant), PUB or NEA notices about the flood event.
 
-**Step 7 — Restoration.** Some insurers require pre-approval before you engage restoration contractors. Get this in writing to avoid disputes about scope.
+**Step 7 - Restoration.** Some insurers require pre-approval before you engage restoration contractors. Get this in writing to avoid disputes about scope.
 
-**Step 8 — Settlement basis.** Two options depending on policy:
+**Step 8 - Settlement basis.** Two options depending on policy:
 - **Indemnity** : actual cash value (replacement cost minus depreciation). For 5-year-old stock or fittings, you receive less than replacement.
 - **Reinstatement** : replacement-as-new, subject to actual reinstatement happening. Usually requires a reinstatement memorandum on the policy and adequate sum insured.
 
 ### Common Mistakes
-1. **Disposing of damaged items before adjustment.** Adjuster cannot verify the loss — claim reduced or denied.
+1. **Disposing of damaged items before adjustment.** Adjuster cannot verify the loss - claim reduced or denied.
 2. **Assuming flood is in your "all risks" cover.** Read the exclusions schedule. Flood, storm, water damage from external causes are commonly carved out or sub-limited.
 3. **Late notification.** Past the policy notification window, the insurer can decline on procedural grounds.
 4. **Under-insurance.** Average clause: if the building was insured for S$1M but actually worth S$2M, a S$200k loss may be settled at S$100k.
 5. **Forgetting Business Interruption.** If F&B or retail is closed for a week post-flood, BI cover (if held) responds to lost gross profit and additional expenses.
-6. **Ignoring the landlord's policy.** If you're a tenant, the landlord's building policy and your tenant's contents policy interact — coordinate so the same damage isn't claimed twice or missed entirely.
+6. **Ignoring the landlord's policy.** If you're a tenant, the landlord's building policy and your tenant's contents policy interact - coordinate so the same damage isn't claimed twice or missed entirely.
 
 ### What This Means for Your Business
-PUB's "flood-prone areas have reduced from 3,200 hectares (ha) in the 1970s to less than 30 ha in 2023" but climate change is widening the tail of extreme rainfall events. If your premises are in or near a historically flood-prone zone, do three things now: (1) confirm in writing whether flood is covered, excluded, or sub-limited; (2) install physical mitigation (flood barriers, raised platforms, on-site detention) — PUB's published [flood protection measures guidance](https://www.pub.gov.sg/Public/KeyInitiatives/Flood-Management/Flood-Protection-Measures) is the reference; (3) keep digital backups of inventory, receipts and photographs of premises off-site.
+PUB's "flood-prone areas have reduced from 3,200 hectares (ha) in the 1970s to less than 30 ha in 2023" but climate change is widening the tail of extreme rainfall events. If your premises are in or near a historically flood-prone zone, do three things now: (1) confirm in writing whether flood is covered, excluded, or sub-limited; (2) install physical mitigation (flood barriers, raised platforms, on-site detention) - PUB's published [flood protection measures guidance](https://www.pub.gov.sg/Public/KeyInitiatives/Flood-Management/Flood-Protection-Measures) is the reference; (3) keep digital backups of inventory, receipts and photographs of premises off-site.
 
 For F&B operators with cellars, basement kitchens or ground-floor units, the BI exposure often dwarfs the direct property loss. A 7-day forced closure can be 20% of monthly gross profit. Make sure the BI indemnity period (usually 12 or 24 months) and gross-profit sum insured reflect reality.
 

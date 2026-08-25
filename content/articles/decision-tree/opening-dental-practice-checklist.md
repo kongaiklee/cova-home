@@ -20,11 +20,11 @@ og_description: "A Singapore dental practice requires HCSA licensing administere
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore dental practice requires HCSA licensing administered by [MOH](https://www.moh.gov.sg/), [Singapore Dental Council (SDC)](https://www.healthprofessionals.gov.sg/sdc) registration for the practising dentist, and where applicable specific dental specialty register approval. Insurance baseline: **Dental Indemnity** (typically through a defence organisation — MPS Dental, MDDUS Dental, MIPS, or commercial dental insurance product), **Public Liability** for clinic, **Property/Fire** for fit-out and dental equipment (chairs, X-ray, CAD/CAM equipment commonly S$50,000-S$300,000+ per chair setup), **Equipment Breakdown** for compressor, suction, autoclaves, X-ray equipment, and CAD/CAM systems, **WICA** for staff, **Cyber Liability** for patient records (including dental imaging which is patient-identifying), **Crime / Money** for cash handling, and **D&O** for incorporated practices. Cosmetic dentistry, orthodontics, oral and maxillofacial surgery, and implant practice face elevated indemnity considerations versus general dentistry.
+> A Singapore dental practice requires HCSA licensing administered by [MOH](https://www.moh.gov.sg/), [Singapore Dental Council (SDC)](https://www.healthprofessionals.gov.sg/sdc) registration for the practising dentist, and where applicable specific dental specialty register approval. Insurance baseline: **Dental Indemnity** (typically through a defence organisation - MPS Dental, MDDUS Dental, MIPS, or commercial dental insurance product), **Public Liability** for clinic, **Property/Fire** for fit-out and dental equipment (chairs, X-ray, CAD/CAM equipment commonly S$50,000-S$300,000+ per chair setup), **Equipment Breakdown** for compressor, suction, autoclaves, X-ray equipment, and CAD/CAM systems, **WICA** for staff, **Cyber Liability** for patient records (including dental imaging which is patient-identifying), **Crime / Money** for cash handling, and **D&O** for incorporated practices. Cosmetic dentistry, orthodontics, oral and maxillofacial surgery, and implant practice face elevated indemnity considerations versus general dentistry.
 
 ### The Sourced Detail
 
-Dental practice in Singapore sits within a similar regulatory framework to medical practice — HCSA service licensing, professional registration through SDC (parallel to SMC for doctors), and overlapping PDPA / health data considerations. The insurance build differs in equipment dependency, exposure profile, and specialty mix.
+Dental practice in Singapore sits within a similar regulatory framework to medical practice - HCSA service licensing, professional registration through SDC (parallel to SMC for doctors), and overlapping PDPA / health data considerations. The insurance build differs in equipment dependency, exposure profile, and specialty mix.
 
 #### The HCSA framework for dental services
 
@@ -50,7 +50,7 @@ Per the [Dental Registration Act 1999](https://sso.agc.gov.sg/Act/DRA1999):
 - Specialist Register (specific dental specialties)
 - Practising Certificate annual renewal
 - Continuing Professional Education compliance
-- Dental indemnity insurance — Practising Certificate condition
+- Dental indemnity insurance - Practising Certificate condition
 
 #### The Dental Indemnity layer
 
@@ -116,7 +116,7 @@ Dental practice has distinctive equipment dependency:
 - CAD/CAM milling units (CEREC, etc.)
 - 3D printers (increasingly common)
 
-**Equipment Breakdown specifically critical** — see [Article 116](/crisis/equipment-breakdown-halts-production). Compressor failure is a high-frequency claim line. Single-event failure can halt all chairs simultaneously.
+**Equipment Breakdown specifically critical** - see [Article 116](/crisis/equipment-breakdown-halts-production). Compressor failure is a high-frequency claim line. Single-event failure can halt all chairs simultaneously.
 
 **Spoilage considerations:**
 - Less critical than medical (limited refrigerated inventory)
@@ -143,7 +143,7 @@ Dental practice has distinctive equipment dependency:
 - Crime / Money
 - D&O if incorporated
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher limits as practice scales
 - Specialty extensions
 - EPL as headcount grows
@@ -330,7 +330,7 @@ Insurers and defence organisations underwrite dental practice on:
 ### Common Mistakes / What Goes Wrong
 
 1. **Operating without Dental Indemnity.** SDC Practising Certificate condition.
-2. **Equipment Breakdown skipped — single point of failure.** Compressor failure halts entire practice.
+2. **Equipment Breakdown skipped - single point of failure.** Compressor failure halts entire practice.
 3. **Cyber inadequate for patient imaging and records.** PDPA significant-harm category.
 4. **Specialty progression without indemnity update.** Implants, surgery, cosmetic work warrant review.
 5. **HCSA service licensing gaps.** Procedure-specific licensing requirements.
@@ -356,7 +356,7 @@ For dentists opening or running practices in Singapore:
 
 6. **Coordinate laboratory relationships.** Including insurance and quality assurance dimensions.
 
-7. **Plan for transitions.** Joining a group, sale of practice, retirement — all warrant indemnity coordination.
+7. **Plan for transitions.** Joining a group, sale of practice, retirement - all warrant indemnity coordination.
 
 8. **Annual review with dental-aware broker.** Specialist underwriting matters.
 
@@ -373,6 +373,6 @@ The dental practice insurance build is comprehensive but proportionate. Equipmen
 ### Related Information
 - [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
 - [Opening a Physiotherapy or Allied Health Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-physiotherapy-allied-health-checklist)
-- [Critical Equipment Just Broke and Halted Our Production — What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
+- [Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

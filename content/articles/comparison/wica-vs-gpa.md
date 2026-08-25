@@ -20,7 +20,7 @@ og_description: "Most Singapore SMEs need both, for different reasons. WICA insu
 
 > **The Answer in 60 Seconds**
 >
-> Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for all manual workers regardless of salary, and all non-manual workers earning S$2,600 or less per month. It covers work-related injury and disease only, with statutory compensation limits (S$269,000 death / S$346,000 total permanent incapacity / S$53,000 medical from 1 November 2025 per [MOM's 8 February 2024 announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). Group Personal Accident (GPA) is voluntary, covers 24/7 (on and off duty), and pays defined benefits regardless of fault. They overlap, but neither replaces the other — and **GPA does not satisfy the WICA Section 24 obligation**.
+> Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for all manual workers regardless of salary, and all non-manual workers earning S$2,600 or less per month. It covers work-related injury and disease only, with statutory compensation limits (S$269,000 death / S$346,000 total permanent incapacity / S$53,000 medical from 1 November 2025 per [MOM's 8 February 2024 announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). Group Personal Accident (GPA) is voluntary, covers 24/7 (on and off duty), and pays defined benefits regardless of fault. They overlap, but neither replaces the other - and **GPA does not satisfy the WICA Section 24 obligation**.
 
 ### The Sourced Detail
 
@@ -30,7 +30,7 @@ This is one of the most common confusions in SME insurance. A founder reads abou
 
 Per [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019): "It is the duty of every employer to insure, and maintain insurance, under approved policies of insurance with insurers authorised under section 30, against all liabilities which the employer may incur under this Act in respect of any employee employed by the employer."
 
-[Section 25](https://sso.agc.gov.sg/Act/WICA2019) makes failure to insure an offence punishable by fine, imprisonment, or both. [Section 30](https://sso.agc.gov.sg/Act/WICA2019) requires that the policy be issued by a designated insurer — currently 24 insurers per [MOM's Designated Insurer list dated 1 January 2026](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer).
+[Section 25](https://sso.agc.gov.sg/Act/WICA2019) makes failure to insure an offence punishable by fine, imprisonment, or both. [Section 30](https://sso.agc.gov.sg/Act/WICA2019) requires that the policy be issued by a designated insurer - currently 24 insurers per [MOM's Designated Insurer list dated 1 January 2026](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer).
 
 WICA is a **strict liability** regime. The employee does not need to prove employer fault. If the injury or disease arose out of and in the course of employment, compensation is payable under the statutory schedule. The compensation amounts are fixed by regulation and apply regardless of contract terms.
 
@@ -44,12 +44,12 @@ Employees outside this scope can still claim under WICA *only if* the employer v
 
 Group Personal Accident is a **voluntary**, **fault-independent**, **24-hour** accident benefit policy. There is no statute requiring it. Standard wordings cover:
 
-- Accidental death — lump sum
-- Permanent disablement — lump sum (scheduled benefits, e.g. % of sum insured for loss of limb, sight, etc.)
-- Temporary total disablement — weekly benefit
+- Accidental death - lump sum
+- Permanent disablement - lump sum (scheduled benefits, e.g. % of sum insured for loss of limb, sight, etc.)
+- Temporary total disablement - weekly benefit
 - Medical expenses reimbursement (sub-limited)
 
-GPA pays in addition to any other compensation. It is not subrogated against the employer (there is no fault question). It does not require an "arose out of employment" trigger — a staff member injured at home, on holiday, or in a road accident off-duty can claim, as long as the cause is accidental injury within the policy definition.
+GPA pays in addition to any other compensation. It is not subrogated against the employer (there is no fault question). It does not require an "arose out of employment" trigger - a staff member injured at home, on holiday, or in a road accident off-duty can claim, as long as the cause is accidental injury within the policy definition.
 
 #### Where the two overlap, and where they diverge
 
@@ -86,7 +86,7 @@ Each piece is separately motivated. None replaces another.
 
 This is the single most common compliance failure flagged by MOM enforcement. An employer assumes that because their staff have an accident benefit, the WICA obligation is met. It is not. The Section 24 duty is specific: cover must be on an approved policy, with a designated insurer, against the employer's WICA Act liabilities. A standalone GPA policy issued by any general insurer in Singapore does not meet that test.
 
-The reverse trap also exists: holding WICA and assuming "the worker is covered for everything." WICA pays a fixed statutory amount only; the employer remains exposed to common-law negligence claims for any shortfall (subject to the worker electing one route — see [Article 55](/procedural-howto/wica-simultaneous-common-law) on the WICA-or-common-law election). For employers, the practical defence is the **Common Law / Employer's Liability extension** that most WICA policies offer — a separate cover layered on top of statutory WICA, not a replacement for GPA.
+The reverse trap also exists: holding WICA and assuming "the worker is covered for everything." WICA pays a fixed statutory amount only; the employer remains exposed to common-law negligence claims for any shortfall (subject to the worker electing one route - see [Article 55](/procedural-howto/wica-simultaneous-common-law) on the WICA-or-common-law election). For employers, the practical defence is the **Common Law / Employer's Liability extension** that most WICA policies offer - a separate cover layered on top of statutory WICA, not a replacement for GPA.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -94,7 +94,7 @@ The reverse trap also exists: holding WICA and assuming "the worker is covered f
 2. **Treating WICA as a replacement for GPA.** A worker injured off-duty has no WICA claim. A worker dependent on a single salary has no off-duty income protection unless GPA exists.
 3. **Setting GPA sum insured at 12× monthly salary as a reflex.** The right multiple depends on dependant exposure. 24× to 60× is common for keyperson roles.
 4. **Forgetting to extend GPA to non-manual staff above WICA threshold.** They have no WICA cover at all; if the SME wants any safety net for them, GPA is usually the most efficient route.
-5. **Buying both from the same insurer without checking wording overlap.** Some bundled "employee benefits" packages have GPA wording that excludes events covered by WICA — meaning the GPA does not pay out for work-related accidents, only off-duty ones. Check the wording.
+5. **Buying both from the same insurer without checking wording overlap.** Some bundled "employee benefits" packages have GPA wording that excludes events covered by WICA - meaning the GPA does not pay out for work-related accidents, only off-duty ones. Check the wording.
 
 ### What This Means for Your Business
 
@@ -106,7 +106,7 @@ For a typical SG SME with a mix of manual, non-manual, junior, and senior staff:
 - GPA can extend to all employees including out-of-WICA-scope executives (voluntary, 24h, top-up benefit)
 - The two policies are placed separately, often through the same broker, and renewed independently
 
-The cost of confusing them is asymmetric. Treating GPA as a WICA substitute risks Section 25 prosecution and personal employer liability. Treating WICA as a GPA substitute leaves the workforce uncovered for off-duty events, which is a recruitment and retention issue more than a legal one — but a real one.
+The cost of confusing them is asymmetric. Treating GPA as a WICA substitute risks Section 25 prosecution and personal employer liability. Treating WICA as a GPA substitute leaves the workforce uncovered for off-duty events, which is a recruitment and retention issue more than a legal one - but a real one.
 
 ### Questions to Ask Your Adviser
 

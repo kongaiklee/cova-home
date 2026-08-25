@@ -30,7 +30,7 @@ The kindergarten and childcare segment in Singapore has experienced substantial 
 
 Multi-site operations create specific aggregate exposure considerations distinct from single-site operations.
 
-Operational scope considerations include specific reputational scope (single incident at one site can affect commercial scope across all sites — particularly relevant for child safety scenarios), operational scope (operational practices typically standardised across sites, creating specific aggregate scope), commercial relationships scope.
+Operational scope considerations include specific reputational scope (single incident at one site can affect commercial scope across all sites - particularly relevant for child safety scenarios), operational scope (operational practices typically standardised across sites, creating specific aggregate scope), commercial relationships scope.
 
 Specific aggregate insurance considerations apply. Public Liability aggregate scope across sites, specific Property/Fire aggregate scope, specific BI aggregate scope across multi-site disruption scenarios.
 
@@ -62,7 +62,7 @@ Multi-site operations benefit from specific multi-site insurance architecture ra
 
 Specific master programme scope provides specific commercial advantages. Considerations on premium efficiency, specific consistent coverage scope, operational discipline.
 
-Specific aggregate limit considerations matter substantially. Considerations on aggregate limit adequacy across sites — specific Public Liability aggregate, specific Property/Fire aggregate, specific other aggregate scope.
+Specific aggregate limit considerations matter substantially. Considerations on aggregate limit adequacy across sites - specific Public Liability aggregate, specific Property/Fire aggregate, specific other aggregate scope.
 
 Commercial relationships with insurers writing substantive multi-site childcare scope. The segment-specific specialist insurer scope is sufficiently developed to support substantive multi-site operations.
 
@@ -78,13 +78,13 @@ BI cover with specific provisions for multi-site disruption scenarios. Considera
 
 D&O cover reflecting elevated commercial scope. Substantive multi-site operations typically procure substantial D&O scope reflecting operational scope, operational considerations.
 
-EPL cover addressing employment relationships across sites — particularly relevant given the forthcoming Workplace Fairness Act framework (passed in 2025 but not yet in force; commencement expected end-2027 — per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)) and operational scope.
+EPL cover addressing employment relationships across sites - particularly relevant given the forthcoming Workplace Fairness Act framework (passed in 2025 but not yet in force; commencement expected end-2027 - per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)) and operational scope.
 
 Cyber Liability cover with substantial scope. Multi-site operations typically maintain substantive personal data scope across sites; considerations on PDPA Section 26D infrastructure (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)) and operational discipline.
 
 Commercial Crime / employee dishonesty cover with operational scope.
 
-Specific child safety specialty cover where applicable — specific specialty markets address child safety scope with specific commercial provisions.
+Specific child safety specialty cover where applicable - specific specialty markets address child safety scope with specific commercial provisions.
 
 #### Specific incident scenarios
 

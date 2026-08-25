@@ -24,7 +24,7 @@ og_description: "Singapore-issued Property/PAR insurance generally does not exte
 
 ### The Sourced Detail
 
-Singapore SMEs increasingly hold property in regional markets — Malaysian factories, Indonesian warehouses, Vietnamese manufacturing, Thai retail, Indian operations. The insurance side is more complex than for purely domestic property and benefits from structured approach rather than ad hoc procurement.
+Singapore SMEs increasingly hold property in regional markets - Malaysian factories, Indonesian warehouses, Vietnamese manufacturing, Thai retail, Indian operations. The insurance side is more complex than for purely domestic property and benefits from structured approach rather than ad hoc procurement.
 
 #### Why Singapore Property/PAR doesn't extend overseas as standard
 
@@ -105,7 +105,7 @@ For larger SMEs and family offices, a captive insurance company (typically based
 **Business Interruption:**
 - Coordination with property cover essential
 - Indemnity period, gross profit basis vary by jurisdiction
-- BI from overseas event affecting Singapore HQ — separate consideration
+- BI from overseas event affecting Singapore HQ - separate consideration
 
 **Marine Cargo / Goods in Transit:**
 - For goods moving between Singapore and overseas property
@@ -275,11 +275,11 @@ For Singapore SMEs with material overseas property, the insurance approach shoul
 
 1. **Map property holdings by jurisdiction.** Inventory: what's in each country, what's the insured value, what local cover is in place.
 
-2. **Decide on programme structure.** Local policies vs multinational programme — based on materiality, complexity, growth trajectory.
+2. **Decide on programme structure.** Local policies vs multinational programme - based on materiality, complexity, growth trajectory.
 
 3. **Engage broker with regional capability.** For multi-country exposure, a broker with regional partner network is valuable.
 
-4. **Maintain compliance discipline.** Local insurer licensing, premium tax, regulatory reporting — all matter.
+4. **Maintain compliance discipline.** Local insurer licensing, premium tax, regulatory reporting - all matter.
 
 5. **Coordinate at renewal.** Annual review covering all jurisdictions; consistent standards where appropriate.
 
@@ -287,12 +287,12 @@ For Singapore SMEs with material overseas property, the insurance approach shoul
 
 7. **Build relationship with local resources.** Insurer, broker, claim adjusters in each operating country.
 
-The added complexity of multi-jurisdictional property insurance is meaningful but proportionate to the operational complexity it reflects. The cost of getting it right is moderate; the cost of getting it wrong — uninsured overseas property loss, regulatory penalty for non-compliant cover — can be substantial.
+The added complexity of multi-jurisdictional property insurance is meaningful but proportionate to the operational complexity it reflects. The cost of getting it right is moderate; the cost of getting it wrong - uninsured overseas property loss, regulatory penalty for non-compliant cover - can be substantial.
 
 ### Questions to Ask Your Adviser
 
 1. For each overseas property, do I have local-jurisdiction insurance from a licensed local insurer?
-2. Is my insurance approach a multinational programme or a series of local policies — and is the structure appropriate to my scale?
+2. Is my insurance approach a multinational programme or a series of local policies - and is the structure appropriate to my scale?
 3. For each jurisdiction, am I compliant with local regulatory requirements on insurance, including premium tax?
 4. How does my Marine Cargo / Goods in Transit interact with property cover at each location?
 5. For overseas employment, am I compliant with each country's mandatory employer insurance schemes?

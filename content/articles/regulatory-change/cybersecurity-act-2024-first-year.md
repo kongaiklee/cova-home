@@ -20,7 +20,7 @@ og_description: "The Cybersecurity Act 2018, as amended by the Cybersecurity (Am
 
 > **The Answer in 60 Seconds**
 >
-> The [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), as amended by the **Cybersecurity (Amendment) Act 2024**, had most of its amending provisions come into force on 31 October 2025, expanding the framework administered by the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/). Key expansions: **Systems of Temporary Cybersecurity Concern (STCC)** capturing systems facing heightened risk during major events / major government activities, **Entities of Special Cybersecurity Interest (ESCI)**, and **Foundational Digital Infrastructure (FDI)** such as major cloud and data-centre providers — though the FDI regime (Part 3D) had **not yet commenced** as of 31 October 2025 and awaits a later commencement notification. The Amendment also expanded reporting / cybersecurity audit obligations. The first six months of operation has surfaced operational and insurance considerations. For Singapore SMEs operating CII or other designated scope: **2-hour incident reporting**, **specific cybersecurity audit cycles**, **specific incident response infrastructure**, and **specific Cyber Liability with regulatory defence cover** are operational requirements. For SMEs outside designated scope, the framework still influences market standards — Cyber Liability terms, panel response, and specific industry expectations have evolved.
+> The [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), as amended by the **Cybersecurity (Amendment) Act 2024**, had most of its amending provisions come into force on 31 October 2025, expanding the framework administered by the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/). Key expansions: **Systems of Temporary Cybersecurity Concern (STCC)** capturing systems facing heightened risk during major events / major government activities, **Entities of Special Cybersecurity Interest (ESCI)**, and **Foundational Digital Infrastructure (FDI)** such as major cloud and data-centre providers - though the FDI regime (Part 3D) had **not yet commenced** as of 31 October 2025 and awaits a later commencement notification. The Amendment also expanded reporting / cybersecurity audit obligations. The first six months of operation has surfaced operational and insurance considerations. For Singapore SMEs operating CII or other designated scope: **2-hour incident reporting**, **specific cybersecurity audit cycles**, **specific incident response infrastructure**, and **specific Cyber Liability with regulatory defence cover** are operational requirements. For SMEs outside designated scope, the framework still influences market standards - Cyber Liability terms, panel response, and specific industry expectations have evolved.
 
 ### The Sourced Detail
 
@@ -41,7 +41,7 @@ Per the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) with 2024 Am
 
 **1. Foundational Digital Infrastructure (FDI):**
 
-A new regulatory category for major digital infrastructure services — principally cloud computing services and data-centre facility services — that much of the economy depends on:
+A new regulatory category for major digital infrastructure services - principally cloud computing services and data-centre facility services - that much of the economy depends on:
 - Specific digital infrastructure underlying broader operations
 
 - Operational operational standards
@@ -55,7 +55,7 @@ The FDI regime (Part 3D of the Act) had **not commenced** as of 31 October 2025 
 
 **2. Entities of Special Cybersecurity Interest (ESCI):**
 
-Entities that hold sensitive information, or perform a function, whose disruption would have a significant detrimental effect on national interests — even where they are not CII.
+Entities that hold sensitive information, or perform a function, whose disruption would have a significant detrimental effect on national interests - even where they are not CII.
 
 **3. Systems of Temporary Cybersecurity Concern (STCC):**
 
@@ -321,7 +321,7 @@ For Singapore SMEs evaluating Cybersecurity Act compliance:
 
 6. **Pre-arranged incident response panel.** Operational sophistication.
 
-7. **The FDI regime is not yet live** — monitor CSA for the commencement of the Part 3D provisions if you operate cloud or data-centre services.
+7. **The FDI regime is not yet live** - monitor CSA for the commencement of the Part 3D provisions if you operate cloud or data-centre services.
 
 8. **For specific industries, sector-specific guidance.**
 
@@ -333,11 +333,11 @@ The Cybersecurity Act framework continues to evolve. First-year operation has cl
 2. How does my Cyber Liability address regulatory defence and 2-hour reporting?
 3. For incident response, what 24/7 panel capability is appropriate?
 4. For my industry, what sector-specific guidance applies?
-5. As the framework evolves — including the FDI commencement — what compliance evolution should I plan for?
+5. As the framework evolves - including the FDI commencement - what compliance evolution should I plan for?
 
 ### Related Information
 - [Cybersecurity Act 2018 (with 2024 Amendments): What Singapore CII Owners and Service Providers Need to Know](/document-legal/cybersecurity-act-cii-obligations)
-- [Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?](/crisis/cyber-extortion-ransomware)
+- [Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?](/crisis/cyber-extortion-ransomware)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

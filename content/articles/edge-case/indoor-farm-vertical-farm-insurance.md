@@ -44,7 +44,7 @@ Indoor farming combines technology-business equipment exposure (specialised LED,
 
 #### Insurance commercial spine
 
-**Property / Fire** — covers highly specialised infrastructure:
+**Property / Fire** - covers highly specialised infrastructure:
 
 - **LED arrays.** Modern indoor farms use multi-spectrum LED arrays which constitute a major portion of capital investment. Replacement costs are substantial; LED degradation profiles affect replacement value over time
 - **Hydroponic / aeroponic systems.** Growing channels, nutrient delivery systems, pumps, plumbing, sensors
@@ -55,15 +55,15 @@ Indoor farming combines technology-business equipment exposure (specialised LED,
 - **Cold chain.** Post-harvest cooling, packing rooms
 - **Fit-out.** Industrial space conversion typically extensive
 
-**Business Interruption** — covers revenue loss following property loss. Critical extension: **crop-in-progress loss**. Indoor farms have multi-week growing cycles; a single-event equipment failure destroys not only the current revenue stream but the in-progress pipeline of weeks-of-future-revenue. BI cover scope question:
+**Business Interruption** - covers revenue loss following property loss. Critical extension: **crop-in-progress loss**. Indoor farms have multi-week growing cycles; a single-event equipment failure destroys not only the current revenue stream but the in-progress pipeline of weeks-of-future-revenue. BI cover scope question:
 
 - Does BI respond to property-event-related crop loss?
 - Does BI respond to utility-outage-related crop loss (typically requiring "utility extension")?
 - What is the indemnity period and how does it relate to growing-cycle restart timeline?
 
-**Crop / Stock cover** — separate question from BI. Stock cover typically responds to harvested produce; crop-in-progress (in-growing) cover is a specialty consideration in indoor farming insurance. Available with some specialty carriers.
+**Crop / Stock cover** - separate question from BI. Stock cover typically responds to harvested produce; crop-in-progress (in-growing) cover is a specialty consideration in indoor farming insurance. Available with some specialty carriers.
 
-**Equipment Breakdown / Machinery cover** — critical for operations where single-equipment-failure cascades:
+**Equipment Breakdown / Machinery cover** - critical for operations where single-equipment-failure cascades:
 
 - Chiller failure causing temperature excursion
 - Climate control failure causing crop loss
@@ -73,13 +73,13 @@ Indoor farming combines technology-business equipment exposure (specialised LED,
 
 Equipment Breakdown cover typically responds to mechanical / electrical breakdown that Property cover excludes (Property covers external perils; Equipment Breakdown covers internal / mechanical failure).
 
-**Utility extension** — power outage / water supply interruption / data connectivity failure consequential loss. Standard Property typically excludes utility-only outages; specific extension available.
+**Utility extension** - power outage / water supply interruption / data connectivity failure consequential loss. Standard Property typically excludes utility-only outages; specific extension available.
 
-**Public Liability** — premises liability and any product-related claims.
+**Public Liability** - premises liability and any product-related claims.
 
-**Product Liability** — for produce sold to retail / F&B / consumer channels. Food-borne illness claims, foreign object claims, contamination claims.
+**Product Liability** - for produce sold to retail / F&B / consumer channels. Food-borne illness claims, foreign object claims, contamination claims.
 
-**Cyber cover** — modern indoor farms have substantial automation and control system exposure. Cyber events affecting:
+**Cyber cover** - modern indoor farms have substantial automation and control system exposure. Cyber events affecting:
 
 - Climate control systems
 - Automated harvesting
@@ -87,9 +87,9 @@ Equipment Breakdown cover typically responds to mechanical / electrical breakdow
 - Customer order management
 - Data and intellectual property (specific cultivation recipes, growing protocols)
 
-**WICA** — for all employed staff. Indoor farms have specific WICA exposures: working at height in vertical configurations, manual handling, equipment-related injury, chemical handling for nutrient management.
+**WICA** - for all employed staff. Indoor farms have specific WICA exposures: working at height in vertical configurations, manual handling, equipment-related injury, chemical handling for nutrient management.
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
 #### The crop-in-progress exposure question
 
@@ -184,7 +184,7 @@ Cold chain failure causes rapid spoilage; packing-area equipment failure causes 
 
 ### What This Means for Your Business
 
-For a typical Singapore indoor / vertical farm operator — leafy greens or specialty crops, 1,000–10,000 square metre facility, automated operations:
+For a typical Singapore indoor / vertical farm operator - leafy greens or specialty crops, 1,000-10,000 square metre facility, automated operations:
 
 1. **Confirm SFA farm licensing and food production compliance.**
 
@@ -206,7 +206,7 @@ For a typical Singapore indoor / vertical farm operator — leafy greens or spec
 
 10. **WICA for all employed staff** including working-at-height considerations.
 
-The cost of properly structured indoor farm insurance varies significantly with scale and equipment intensity. Mid-scale operations (1,000–3,000 sqm, modest automation) typically run SGD 25,000–75,000 annually. Larger automated operations substantially more. The cost of a single major incident — chiller failure destroying full crop pipeline, fire in LED-array facility, cyber event compromising automation — typically exceeds many years of premium and may threaten operational continuity without adequate cover.
+The cost of properly structured indoor farm insurance varies significantly with scale and equipment intensity. Mid-scale operations (1,000-3,000 sqm, modest automation) typically run SGD 25,000-75,000 annually. Larger automated operations substantially more. The cost of a single major incident - chiller failure destroying full crop pipeline, fire in LED-array facility, cyber event compromising automation - typically exceeds many years of premium and may threaten operational continuity without adequate cover.
 
 ### Questions to Ask Your Adviser
 

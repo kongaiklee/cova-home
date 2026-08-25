@@ -13,14 +13,14 @@ word_count: 1890
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/marine-cargo-icc-a-b-c"
-meta_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest — \"all..."
+meta_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest - \"all..."
 og_title: "Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope"
-og_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest — \"all..."
+og_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest - \"all..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. **ICC (A)** is the broadest — "all risks" basis covering any sudden and accidental physical loss / damage except specifically excluded. **ICC (B)** is moderate — covers a defined list of major perils (fire, sinking, stranding, collision, jettison, washing overboard, water damage, total loss of package overboard during loading, etc.). **ICC (C)** is the narrowest — covers only catastrophic perils (fire, sinking, stranding, collision, general average sacrifice, jettison). The premium difference between ICC (A) and ICC (C) is typically substantial; the coverage difference is also substantial. For Singapore SMEs procuring marine cargo cover, the choice depends on commodity value, transit risk profile, and commercial sophistication. **ICC (A) is the standard for high-value cargo**, **ICC (B) for moderate cargo where cost matters**, **ICC (C) only for very low-value or commercial scenarios**. The clauses operate within the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) framework and Singapore industry conventions.
+> The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. **ICC (A)** is the broadest - "all risks" basis covering any sudden and accidental physical loss / damage except specifically excluded. **ICC (B)** is moderate - covers a defined list of major perils (fire, sinking, stranding, collision, jettison, washing overboard, water damage, total loss of package overboard during loading, etc.). **ICC (C)** is the narrowest - covers only catastrophic perils (fire, sinking, stranding, collision, general average sacrifice, jettison). The premium difference between ICC (A) and ICC (C) is typically substantial; the coverage difference is also substantial. For Singapore SMEs procuring marine cargo cover, the choice depends on commodity value, transit risk profile, and commercial sophistication. **ICC (A) is the standard for high-value cargo**, **ICC (B) for moderate cargo where cost matters**, **ICC (C) only for very low-value or commercial scenarios**. The clauses operate within the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) framework and Singapore industry conventions.
 
 ### The Sourced Detail
 
@@ -28,17 +28,17 @@ The Institute Cargo Clauses are foundational to global marine cargo insurance. U
 
 #### The historical and architectural framework
 
-The Institute Cargo Clauses originated with the London market institutes — the Institute of London Underwriters and the Lloyd's Underwriters Association. The current standard forms, the 2009 clauses, were produced by the Lloyd's Market Association and the International Underwriting Association through the Joint Cargo Committee; they replaced the earlier 1982 versions, took effect on 1 January 2009, and are used as the basis for marine cargo cover globally.
+The Institute Cargo Clauses originated with the London market institutes - the Institute of London Underwriters and the Lloyd's Underwriters Association. The current standard forms, the 2009 clauses, were produced by the Lloyd's Market Association and the International Underwriting Association through the Joint Cargo Committee; they replaced the earlier 1982 versions, took effect on 1 January 2009, and are used as the basis for marine cargo cover globally.
 
-The clauses operate within the framework of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) — the foundational statute governing marine insurance contracts in Singapore and throughout the common-law world. The MIA framework provides the architecture; the ICC provide the specific coverage forms.
+The clauses operate within the framework of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) - the foundational statute governing marine insurance contracts in Singapore and throughout the common-law world. The MIA framework provides the architecture; the ICC provide the specific coverage forms.
 
 For Singapore SMEs, marine cargo cover typically uses ICC clauses with specific local market modifications and endorsements per [GIA (General Insurance Association of Singapore)](https://www.gia.org.sg/) market conventions.
 
-#### ICC (A) — All Risks
+#### ICC (A) - All Risks
 
 **Coverage scope.** Covers any sudden and accidental physical loss or damage to insured cargo from any cause, except for specifically excluded perils.
 
-**The "all risks" architecture.** This is the broadest basis. Coverage is defined negatively — covered unless excluded. The burden is on the insurer to establish exclusion application; the insured demonstrates loss occurred and was sudden / accidental.
+**The "all risks" architecture.** This is the broadest basis. Coverage is defined negatively - covered unless excluded. The burden is on the insurer to establish exclusion application; the insured demonstrates loss occurred and was sudden / accidental.
 
 **Standard exclusions.** Even ICC (A) has exclusions:
 
@@ -59,9 +59,9 @@ For Singapore SMEs, marine cargo cover typically uses ICC clauses with specific 
 - Specific commercial customer requirements
 - Modern logistics with diverse risk exposure
 
-**Premium implication.** ICC (A) is the highest-cost option, reflecting the broadest coverage. The premium differential vs ICC (C) is typically substantial — often 30-100%+ depending on commodity and route.
+**Premium implication.** ICC (A) is the highest-cost option, reflecting the broadest coverage. The premium differential vs ICC (C) is typically substantial - often 30-100%+ depending on commodity and route.
 
-#### ICC (B) — Named Perils (broader)
+#### ICC (B) - Named Perils (broader)
 
 **Coverage scope.** Covers loss / damage from a defined list of named perils. The list is reasonably broad but specific:
 
@@ -84,9 +84,9 @@ For Singapore SMEs, marine cargo cover typically uses ICC clauses with specific 
 - Commercial scenarios where cost matters and the named perils address the major risks
 - Specific industry conventions
 
-**Premium implication.** ICC (B) is intermediate cost — typically 60-80% of ICC (A) for similar cargo.
+**Premium implication.** ICC (B) is intermediate cost - typically 60-80% of ICC (A) for similar cargo.
 
-#### ICC (C) — Named Perils (narrowest)
+#### ICC (C) - Named Perils (narrowest)
 
 **Coverage scope.** Covers loss / damage from a more limited list of catastrophic perils:
 
@@ -111,7 +111,7 @@ The list is similar to ICC (B) but excludes:
 - Commercial scenarios where catastrophic-only cover is appropriate
 - Specific industry conventions
 
-**Premium implication.** ICC (C) is the lowest cost — typically 40-60% of ICC (A).
+**Premium implication.** ICC (C) is the lowest cost - typically 40-60% of ICC (A).
 
 #### How the three clauses compare in operation
 
@@ -121,9 +121,9 @@ ICC (A) is requested by default for most commercial cargo. ICC (B) requires spec
 
 **At claim time:**
 
-ICC (A) — the burden is on the insurer to establish exclusion. Most claims succeed.
+ICC (A) - the burden is on the insurer to establish exclusion. Most claims succeed.
 
-ICC (B) and (C) — the burden is on the insured to establish coverage by demonstrating the proximate cause was a covered peril. Claims for losses outside the named perils fail.
+ICC (B) and (C) - the burden is on the insured to establish coverage by demonstrating the proximate cause was a covered peril. Claims for losses outside the named perils fail.
 
 **Specific cause-determination disputes:**
 
@@ -197,7 +197,7 @@ The Singapore market conventions for marine cargo:
 
 For SMEs procuring marine cargo cover:
 
-**Specific declaration discipline.** Many cargo policies operate on declaration basis (Open Cover) — specific declaration of shipments is operational foundation.
+**Specific declaration discipline.** Many cargo policies operate on declaration basis (Open Cover) - specific declaration of shipments is operational foundation.
 
 **Specific sum insured discipline.** Specific cargo values declared accurately.
 

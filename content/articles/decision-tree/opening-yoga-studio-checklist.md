@@ -13,18 +13,18 @@ word_count: 1879
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/decision-tree/opening-yoga-studio-checklist"
-meta_description: "A Singapore yoga studio typically needs: Public Liability (S$1M–S$3M, mall/landlord typically requires; covers participant injury during classes, slips,..."
+meta_description: "A Singapore yoga studio typically needs: Public Liability (S$1M-S$3M, mall/landlord typically requires; covers participant injury during classes, slips,..."
 og_title: "Opening a Yoga Studio in Singapore: Full Insurance Checklist"
-og_description: "A Singapore yoga studio typically needs: Public Liability (S$1M–S$3M, mall/landlord typically requires; covers participant injury during classes, slips,..."
+og_description: "A Singapore yoga studio typically needs: Public Liability (S$1M-S$3M, mall/landlord typically requires; covers participant injury during classes, slips,..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore yoga studio typically needs: **Public Liability** (S$1M–S$3M, mall/landlord typically requires; covers participant injury during classes, slips, falls, equipment-related injuries), **Professional Indemnity for instructors** (covers negligent instruction or sequencing causing participant injury — increasingly required by studio insurance riders), **WICA** for any employees and **Personal Accident for self-employed instructors** if engaged as contractors, **Property/Fire** for fit-out, mirrors, equipment, retail stock, and **Cyber** if running booking systems with customer personal data. **Health and fitness waivers signed by participants** are not insurance but materially affect liability defence. Studios offering aerial yoga, hot yoga, or specialised practices need additional underwriting attention. Licensing baseline: lease and SCDF Fire Safety compliance; no specific MOM/MOH licensing for yoga in Singapore beyond general business registration unless the practice extends into healthcare claims.
+> A Singapore yoga studio typically needs: **Public Liability** (S$1M-S$3M, mall/landlord typically requires; covers participant injury during classes, slips, falls, equipment-related injuries), **Professional Indemnity for instructors** (covers negligent instruction or sequencing causing participant injury - increasingly required by studio insurance riders), **WICA** for any employees and **Personal Accident for self-employed instructors** if engaged as contractors, **Property/Fire** for fit-out, mirrors, equipment, retail stock, and **Cyber** if running booking systems with customer personal data. **Health and fitness waivers signed by participants** are not insurance but materially affect liability defence. Studios offering aerial yoga, hot yoga, or specialised practices need additional underwriting attention. Licensing baseline: lease and SCDF Fire Safety compliance; no specific MOM/MOH licensing for yoga in Singapore beyond general business registration unless the practice extends into healthcare claims.
 
 ### The Sourced Detail
 
-Yoga studios sit in a category sometimes called "fitness, recreation, and wellness" — a sector with specific liability characteristics that standard SME insurance often handles awkwardly. Participant injury during classes is the dominant exposure, and the boundary between Public Liability (premises-based) and Professional Indemnity (instruction-based) is the key insurance question.
+Yoga studios sit in a category sometimes called "fitness, recreation, and wellness" - a sector with specific liability characteristics that standard SME insurance often handles awkwardly. Participant injury during classes is the dominant exposure, and the boundary between Public Liability (premises-based) and Professional Indemnity (instruction-based) is the key insurance question.
 
 #### The two main liability questions
 
@@ -54,7 +54,7 @@ The misclassification trap: treating an instructor as a contractor when they are
 Per [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), all manual workers (regardless of salary) and non-manual workers earning ≤S$2,600 must be insured. For a yoga studio:
 - Front desk and admin staff (typically non-manual; in scope if salary ≤ S$2,600)
 - Cleaning and maintenance staff (manual; in scope regardless of salary)
-- Employed instructors: depends on substantive role — if classified as manual physical work, in scope regardless of salary
+- Employed instructors: depends on substantive role - if classified as manual physical work, in scope regardless of salary
 
 The "manual vs non-manual" classification for yoga instruction is fact-specific. Many studios classify instructors as non-manual; some insurers treat instruction involving physical demonstration as manual. Discuss with the broker.
 
@@ -66,13 +66,13 @@ Mandatory under the [Motor Vehicles (Third Party Risks and Compensation) Act 196
 
 **3. Public Liability**
 
-Almost every commercial lease requires PL with limits typically S$1M–S$5M. For yoga studios specifically:
+Almost every commercial lease requires PL with limits typically S$1M-S$5M. For yoga studios specifically:
 
-- **Slip and fall** — wet floors from showers, sweat from hot yoga, post-class cleaning
-- **Equipment injuries** — props falling, mats tearing, aerial silk anchors failing
-- **Heat-related illness** — particularly for hot yoga (Bikram, hot vinyasa)
-- **Allergic reactions** — if scented oils, incense, or product samples cause reactions
-- **Visitor injuries** — children of attending parents in waiting area
+- **Slip and fall** - wet floors from showers, sweat from hot yoga, post-class cleaning
+- **Equipment injuries** - props falling, mats tearing, aerial silk anchors failing
+- **Heat-related illness** - particularly for hot yoga (Bikram, hot vinyasa)
+- **Allergic reactions** - if scented oils, incense, or product samples cause reactions
+- **Visitor injuries** - children of attending parents in waiting area
 
 Standard PL responds to these scenarios subject to the policy notification, no-admission, and cooperation conditions.
 
@@ -88,11 +88,11 @@ Studio fit-out includes:
 - Equipment for water dispensers, refrigeration of beverages
 - Computer systems for booking and payment
 
-Sums insured at reinstatement value typically S$80,000–S$300,000 depending on size and fit-out spec.
+Sums insured at reinstatement value typically S$80,000-S$300,000 depending on size and fit-out spec.
 
 **5. Business Interruption**
 
-A fire or major damage event closes the studio. Lost class revenue, retained costs (lease, insurance, staff retainers, equipment financing) accumulate quickly. BI cover at gross profit with appropriate indemnity period (12–24 months).
+A fire or major damage event closes the studio. Lost class revenue, retained costs (lease, insurance, staff retainers, equipment financing) accumulate quickly. BI cover at gross profit with appropriate indemnity period (12-24 months).
 
 #### The yoga-specific considerations
 
@@ -120,13 +120,13 @@ A standard yoga class participation waiver typically:
 - Confirms the participant will inform the instructor of injuries, pregnancy, conditions
 - Releases the studio from liability arising from inherent risks
 
-Waivers are **not insurance** — they don't pay claims. But they materially affect the defence of any subsequent claim by:
+Waivers are **not insurance** - they don't pay claims. But they materially affect the defence of any subsequent claim by:
 - Establishing the participant's awareness of risk
 - Limiting the studio's liability for inherent risks
 - Documenting the participant's representation of fitness
 - Providing evidence of professional briefing
 
-Singapore courts approach waivers contextually — they are not absolute defences but are weighed in negligence analysis. Per the [Unfair Contract Terms Act 1977 (Singapore)](https://sso.agc.gov.sg/Act/UCTA1977), exclusion clauses for negligence causing personal injury are subject to reasonableness scrutiny.
+Singapore courts approach waivers contextually - they are not absolute defences but are weighed in negligence analysis. Per the [Unfair Contract Terms Act 1977 (Singapore)](https://sso.agc.gov.sg/Act/UCTA1977), exclusion clauses for negligence causing personal injury are subject to reasonableness scrutiny.
 
 **8. Specialised practice considerations**
 
@@ -184,27 +184,27 @@ For studios dependent on key revenue streams (corporate accounts, ClassPass netw
 
 #### Premium considerations
 
-For a typical Singapore yoga studio with 80–150 sqm space, 2–8 employees plus contracted instructors, S$30,000–S$60,000 monthly revenue:
+For a typical Singapore yoga studio with 80-150 sqm space, 2-8 employees plus contracted instructors, S$30,000-S$60,000 monthly revenue:
 
-- **Total annual insurance budget** typically S$5,000–S$12,000
+- **Total annual insurance budget** typically S$5,000-S$12,000
 
 Allocated approximately:
-- WICA: 10–15%
-- PL with PI extension: 25–35%
-- Property/Fire/BI: 30–40%
-- Group PA/Medical: 10–15%
+- WICA: 10-15%
+- PL with PI extension: 25-35%
+- Property/Fire/BI: 30-40%
+- Group PA/Medical: 10-15%
 - Cyber, Money, others: 10%
 
 For studios offering hot yoga, aerial work, or therapeutic practices, premium scales upward proportionate to the additional underwriting.
 
 #### Sequence of bind
 
-1. **At lease signing** — confirm lease insurance requirements
-2. **At fit-out start** — Contractor's All Risks for fit-out
-3. **At instructor onboarding** — confirm employee/contractor status; ensure PI in place; ensure waiver process works
-4. **Before opening** — bind PL/PI, Property, BI, WICA, Cyber, Group PA/Medical
-5. **At opening** — confirm policies in force; provide COIs to landlord
-6. **Operationally** — maintain participant waiver records, instructor credential records, equipment maintenance logs
+1. **At lease signing** - confirm lease insurance requirements
+2. **At fit-out start** - Contractor's All Risks for fit-out
+3. **At instructor onboarding** - confirm employee/contractor status; ensure PI in place; ensure waiver process works
+4. **Before opening** - bind PL/PI, Property, BI, WICA, Cyber, Group PA/Medical
+5. **At opening** - confirm policies in force; provide COIs to landlord
+6. **Operationally** - maintain participant waiver records, instructor credential records, equipment maintenance logs
 
 ### Common Mistakes / What Goes Wrong
 
@@ -219,17 +219,17 @@ For studios offering hot yoga, aerial work, or therapeutic practices, premium sc
 
 ### What This Means for Your Business
 
-Yoga studios operate in a regulatory grey zone — there's no specific Singapore licensing for yoga (unlike medical, dental, or psychology practices) — which gives operational flexibility but doesn't reduce liability exposure. The insurance build needs to address the specific physical-instruction-and-premises combination that yoga represents.
+Yoga studios operate in a regulatory grey zone - there's no specific Singapore licensing for yoga (unlike medical, dental, or psychology practices) - which gives operational flexibility but doesn't reduce liability exposure. The insurance build needs to address the specific physical-instruction-and-premises combination that yoga represents.
 
 The discipline that helps:
 
 1. **Document everything.** Waivers, instructor credentials, equipment maintenance, incident logs.
-2. **Match insurance to actual practice.** Hot yoga, aerial, children's classes, therapeutic practice — each has different underwriting.
+2. **Match insurance to actual practice.** Hot yoga, aerial, children's classes, therapeutic practice - each has different underwriting.
 3. **Communicate clearly with instructors.** Their employment status determines insurance scope.
-4. **Maintain participant records.** Waivers, contact details, declared conditions — relevant if a claim arises later.
+4. **Maintain participant records.** Waivers, contact details, declared conditions - relevant if a claim arises later.
 5. **Coordinate with industry bodies.** Yoga Alliance Singapore, local instructor associations, and insurance providers familiar with yoga have relevant guidance.
 
-The yoga studio is a low-frequency, moderate-severity claim environment. Most days nothing happens. When something happens, the question is whether the insurance, documentation, and operational discipline have been maintained — because the response in the moment depends entirely on what was done before.
+The yoga studio is a low-frequency, moderate-severity claim environment. Most days nothing happens. When something happens, the question is whether the insurance, documentation, and operational discipline have been maintained - because the response in the moment depends entirely on what was done before.
 
 ### Questions to Ask Your Adviser
 

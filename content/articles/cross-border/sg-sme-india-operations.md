@@ -108,7 +108,7 @@ Specific D&O scenarios engage Indian-issued D&O cover and commercial counsel.
 
 Specific data breach scenarios engage DPDPA notification framework and Cyber Liability.
 
-Commercial dispute scenarios engage commercial counsel — Indian commercial litigation has substantial timeline considerations.
+Commercial dispute scenarios engage commercial counsel - Indian commercial litigation has substantial timeline considerations.
 
 Specific tax compliance scenarios engage commercial counsel.
 

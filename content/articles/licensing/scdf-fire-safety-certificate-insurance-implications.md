@@ -13,23 +13,23 @@ word_count: 1408
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/licensing/scdf-fire-safety-certificate-insurance-implications"
-meta_description: "Per the SCDF Fire Certificate page, an FC is mandatory under Section 35 of the Fire Safety Act 1993 for designated buildings — public buildings with..."
+meta_description: "Per the SCDF Fire Certificate page, an FC is mandatory under Section 35 of the Fire Safety Act 1993 for designated buildings - public buildings with..."
 og_title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
-og_description: "Per the SCDF Fire Certificate page, an FC is mandatory under Section 35 of the Fire Safety Act 1993 for designated buildings — public buildings with..."
+og_description: "Per the SCDF Fire Certificate page, an FC is mandatory under Section 35 of the Fire Safety Act 1993 for designated buildings - public buildings with..."
 ---
 
 > **The Answer in 60 Seconds**
-> Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), an FC is mandatory under Section 35 of the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for designated buildings — public buildings with occupant load >200, industrial buildings with occupant load ≥1,000 (or floor/site area ≥5,000 m² or habitable height >24m), and several other categories. Per SCDF: "For FCs with validity start date from 1 April 2026 and after, the validity is for a period of 36 months unless otherwise stated, with revised application fees payable once every three years when all the FC requirements have been complied with."
+> Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), an FC is mandatory under Section 35 of the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for designated buildings - public buildings with occupant load >200, industrial buildings with occupant load ≥1,000 (or floor/site area ≥5,000 m² or habitable height >24m), and several other categories. Per SCDF: "For FCs with validity start date from 1 April 2026 and after, the validity is for a period of 36 months unless otherwise stated, with revised application fees payable once every three years when all the FC requirements have been complied with."
 
 ### The Sourced Detail
 
-#### Two different "fire" certificates — don't mix them up
+#### Two different "fire" certificates - don't mix them up
 
 SCDF issues two related but distinct certificates, often confused:
 
-**Fire Safety Certificate (FSC)** — per the [SCDF Fire Safety Certificate & Temporary Fire Permit page](https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/fire-safety-certificate-temporary-fire-permit), issued at completion of fire safety works, before a building is used or occupied. It certifies that fire safety installations and works comply with approved plans. Issued via CORENET.
+**Fire Safety Certificate (FSC)** - per the [SCDF Fire Safety Certificate & Temporary Fire Permit page](https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/fire-safety-certificate-temporary-fire-permit), issued at completion of fire safety works, before a building is used or occupied. It certifies that fire safety installations and works comply with approved plans. Issued via CORENET.
 
-**Fire Certificate (FC)** — per the [SCDF FC page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), issued for **continued occupation** of designated buildings under Section 35 of the Fire Safety Act 1993. Renewed periodically, subject to Professional Engineer (PE) inspection of fire safety systems.
+**Fire Certificate (FC)** - per the [SCDF FC page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), issued for **continued occupation** of designated buildings under Section 35 of the Fire Safety Act 1993. Renewed periodically, subject to Professional Engineer (PE) inspection of fire safety systems.
 
 This article focuses on the **FC** because it's the recurring obligation that interacts with insurance.
 
@@ -37,7 +37,7 @@ This article focuses on the **FC** because it's the recurring obligation that in
 
 Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), under Section 35 of the Fire Safety Act 1993, the owner or occupier of any public building such as offices, hospitals, shopping complexes, industrial buildings and private residential buildings that fall within the following criteria is required to apply for and obtain a Fire Certificate:
 
-1. **Public buildings** (except residential) with **occupant load > 200 persons** — excluding compliant serviced apartments, standalone carparks, and non-fully-enclosed hawker centres / wet markets
+1. **Public buildings** (except residential) with **occupant load > 200 persons** - excluding compliant serviced apartments, standalone carparks, and non-fully-enclosed hawker centres / wet markets
 2. **Industrial buildings** with: occupant load ≥1,000; OR floor/site area ≥5,000 m²; OR habitable height >24m
 3. **Foreign dormitories** with the same thresholds
 4. **Hospitals** (any size)
@@ -78,11 +78,11 @@ This is the key practical link for SMEs. Note: the points below describe common 
 
 Per insurer brochures published by [MAS-authorised general insurers](https://eservices.mas.gov.sg/fid), a typical Property All Risks or Fire policy in Singapore covers:
 
-- **Fire** — accidental fire damage to insured property
-- **Lightning, explosion, aircraft impact** — common extensions
-- **PAR perils** — broader, covering accidental physical damage (not just fire)
-- **Business Interruption** — loss of profits during the indemnity period (commonly 12 or 24 months) following an insured peril
-- **Public Liability** — third-party injury or property damage on insured premises (often a separate section or policy)
+- **Fire** - accidental fire damage to insured property
+- **Lightning, explosion, aircraft impact** - common extensions
+- **PAR perils** - broader, covering accidental physical damage (not just fire)
+- **Business Interruption** - loss of profits during the indemnity period (commonly 12 or 24 months) following an insured peril
+- **Public Liability** - third-party injury or property damage on insured premises (often a separate section or policy)
 
 Specific limits, deductibles, and warranties vary by insurer.
 
@@ -99,16 +99,16 @@ Factors that affect Fire / PAR underwriting include: occupancy type (F&B and war
 
 ### Questions to Ask Your Adviser
 
-1. "My FC renewal is on the new 3-year cycle from April 2026 — does my fire policy require me to refresh proof annually anyway?"
-2. "We're a F&B business in a multi-tenant building — does my landlord's FC cover me, or do I need my own?"
-3. "We've just gone through an A&A and changed from retail to F&B — what's the right sequence: SCDF re-certification first, then update insurer, or both in parallel?"
+1. "My FC renewal is on the new 3-year cycle from April 2026 - does my fire policy require me to refresh proof annually anyway?"
+2. "We're a F&B business in a multi-tenant building - does my landlord's FC cover me, or do I need my own?"
+3. "We've just gone through an A&A and changed from retail to F&B - what's the right sequence: SCDF re-certification first, then update insurer, or both in parallel?"
 4. "What does my Fire/PAR policy say about FC warranty, and what happens if my PE inspection is delayed by a contractor?"
 5. "If fire damages cause Business Interruption, what's the typical indemnity period in the local market and what triggers it?"
 
 ### Related Information
 
-- [BCA Builders Licensing Scheme — Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
-- [BCA CRS bizSAFE Level 3 — Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [BCA Builders Licensing Scheme - Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
+- [BCA CRS bizSAFE Level 3 - Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 - [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---

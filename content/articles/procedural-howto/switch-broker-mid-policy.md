@@ -18,7 +18,7 @@ og_title: "How to Switch Insurance Brokers Mid-Policy in Singapore"
 og_description: "Find a licensed IFA →"
 ---
 
-> **The Answer in 60 Seconds:** You can switch insurance brokers mid-policy by issuing a Broker of Record (BOR) letter — a signed instruction from the policyholder to the insurer appointing a new broker as your sole representative on a named policy. Your existing policy terms, premium and cover do **not** change. Per the Monetary Authority of Singapore's [register of registered/approved insurance brokers under the Insurance Act 1966](https://www.mas.gov.sg/regulation/insurance), only MAS-licensed entities may act as brokers; the BOR simply transfers servicing rights from one MAS-regulated broker to another.
+> **The Answer in 60 Seconds:** You can switch insurance brokers mid-policy by issuing a Broker of Record (BOR) letter - a signed instruction from the policyholder to the insurer appointing a new broker as your sole representative on a named policy. Your existing policy terms, premium and cover do **not** change. Per the Monetary Authority of Singapore's [register of registered/approved insurance brokers under the Insurance Act 1966](https://www.mas.gov.sg/regulation/insurance), only MAS-licensed entities may act as brokers; the BOR simply transfers servicing rights from one MAS-regulated broker to another.
 
 **Find a licensed IFA →**
 
@@ -29,9 +29,9 @@ Insurance brokers in Singapore are regulated under the Insurance Act 1966 and mu
 
 ### The Step-by-Step
 
-**Step 1 — Decide first, paper second.** Service issues, renewal price reviews, claims handling, or specialist line expertise are common reasons. Decide whether you want a clean cut (full transfer of all policies) or a partial transfer (e.g. property to new broker, employee benefits stays with incumbent). Industry guidance consistently warns business owners not to sign a BOR while still shopping for quotes — once signed and accepted by the insurer, the incumbent's authority ends.
+**Step 1 - Decide first, paper second.** Service issues, renewal price reviews, claims handling, or specialist line expertise are common reasons. Decide whether you want a clean cut (full transfer of all policies) or a partial transfer (e.g. property to new broker, employee benefits stays with incumbent). Industry guidance consistently warns business owners not to sign a BOR while still shopping for quotes - once signed and accepted by the insurer, the incumbent's authority ends.
 
-**Step 2 — Draft the BOR.** Standard BOR content (see [Chubb's published BOR guidelines](https://www.chubb.com/marketplace/CMSContent/en-us/documents/borrequestform.pdf)):
+**Step 2 - Draft the BOR.** Standard BOR content (see [Chubb's published BOR guidelines](https://www.chubb.com/marketplace/CMSContent/en-us/documents/borrequestform.pdf)):
 - Company name, UEN, address, letterhead
 - Policy number(s) and policy period
 - Named insurer
@@ -39,13 +39,13 @@ Insurance brokers in Singapore are regulated under the Insurance Act 1966 and mu
 - Statement that all prior broker appointments are rescinded for the listed policies
 - Authorised signatory (director or company secretary per ACRA filing)
 
-**Step 3 — Send to the insurer (cc the new broker).** The insurer updates its records and confirms the broker change. Per Chubb's guidance: "Broker of Record Letters should not be recognized by insurers, prior to effective date of the brokerage [change]" — the new broker takes over only from the BOR effective date.
+**Step 3 - Send to the insurer (cc the new broker).** The insurer updates its records and confirms the broker change. Per Chubb's guidance: "Broker of Record Letters should not be recognized by insurers, prior to effective date of the brokerage [change]" - the new broker takes over only from the BOR effective date.
 
-**Step 4 — Confirm with the incumbent.** Send a copy of the BOR to the incumbent broker so they cannot claim ignorance. Confirm the rescission window the insurer applies on your policy — it varies by carrier and is not subject to a Singapore-wide standard.
+**Step 4 - Confirm with the incumbent.** Send a copy of the BOR to the incumbent broker so they cannot claim ignorance. Confirm the rescission window the insurer applies on your policy - it varies by carrier and is not subject to a Singapore-wide standard.
 
-**Step 5 — Sit through the cooling-off, then transition.** During the rescission window the incumbent may try to retain you. After it lapses, the new broker should perform a full coverage review.
+**Step 5 - Sit through the cooling-off, then transition.** During the rescission window the incumbent may try to retain you. After it lapses, the new broker should perform a full coverage review.
 
-**Step 6 — Wait for renewal for substantive changes.** Mid-term, the new broker can service claims, issue endorsements and prepare the renewal strategy, but premium adjustments before the BOR effective date are the incumbent's responsibility (Chubb, point 9). The cleanest moment to switch is at renewal — no straddle on commission and a clean reunderwrite.
+**Step 6 - Wait for renewal for substantive changes.** Mid-term, the new broker can service claims, issue endorsements and prepare the renewal strategy, but premium adjustments before the BOR effective date are the incumbent's responsibility (Chubb, point 9). The cleanest moment to switch is at renewal - no straddle on commission and a clean reunderwrite.
 
 ### Common Mistakes
 1. **Confusing broker switch with insurer switch.** Changing broker keeps your insurer, premium and policy unchanged. Switching insurer is a different decision and may involve short-period cancellation penalties (see Article 42).
@@ -57,12 +57,12 @@ Insurance brokers in Singapore are regulated under the Insurance Act 1966 and mu
 ### What This Means for Your Business
 A broker switch is a low-risk administrative change. It does not affect your cover, your claim history, your No-Claim Discount or your continuity of insurance. What it changes is who advises you, who holds the file, and who gets paid commission on the policy.
 
-For an SME with a stack of policies — Fire/PAR, Public Liability, WICA, Group Health, Cyber, D&O — the broker is your single point of accountability when something goes wrong at 11pm. A sensible window to evaluate is 90–120 days before renewal: enough runway for a new broker to remarket, but past any honeymoon-period dissatisfaction with the incumbent. If you switch only one or two lines, document clearly which policies are in scope on the BOR; agents/brokers in Singapore will not assume.
+For an SME with a stack of policies - Fire/PAR, Public Liability, WICA, Group Health, Cyber, D&O - the broker is your single point of accountability when something goes wrong at 11pm. A sensible window to evaluate is 90-120 days before renewal: enough runway for a new broker to remarket, but past any honeymoon-period dissatisfaction with the incumbent. If you switch only one or two lines, document clearly which policies are in scope on the BOR; agents/brokers in Singapore will not assume.
 
 If your business is regulated (MAS-licensed, MOH-licensed, MOM-licensed), check whether your licensing condition requires a specific broker capability (e.g. PI cover with a particular wording).
 
 ### Questions to Ask Your Adviser
-1. Is this BOR for all my policies or specific lines only — and is that explicit on the letter?
+1. Is this BOR for all my policies or specific lines only - and is that explicit on the letter?
 2. What is the rescission window the incumbent has on this insurer, and what happens if they push back hard?
 3. Will my No-Claim Discount, claims data and policy schedule transfer cleanly to your servicing?
 4. How will mid-term endorsements and any pending claims be handled across the changeover?

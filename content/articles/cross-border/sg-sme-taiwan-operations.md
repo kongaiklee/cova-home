@@ -30,7 +30,7 @@ Taiwan represents substantial commercial opportunity for Singapore SMEs, particu
 
 Taiwan's insurance market sits within the [Insurance Act](https://law.moj.gov.tw/) framework administered by [Financial Supervisory Commission (FSC)](https://www.fsc.gov.tw/) Insurance Bureau. Specific frameworks include:
 
-Taiwan operates a substantively admitted market — insurance covering Taiwan risks must generally be placed with FSC-authorised insurers. Specific exceptions exist for specific reinsurance arrangements and operational scope.
+Taiwan operates a substantively admitted market - insurance covering Taiwan risks must generally be placed with FSC-authorised insurers. Specific exceptions exist for specific reinsurance arrangements and operational scope.
 
 Commercial relationships with major Taiwan insurers (Cathay Century Insurance, Fubon Insurance, Mingtai Fire & Marine, Taian Insurance, Shin Kong Insurance, specific other Taiwan insurers) and Taiwan commercial brokers matter substantially.
 
@@ -40,7 +40,7 @@ For Singapore SMEs, Taiwan subsidiary / branch operations require Taiwan-issued 
 
 Taiwan mandates several social benefit and insurance frameworks affecting commercial operations.
 
-**National Health Insurance (NHI)** under [National Health Insurance Act](https://law.moj.gov.tw/) administered by [National Health Insurance Administration](https://www.nhi.gov.tw/) provides comprehensive national health insurance. Premium rate is 5.17% (2024) shared across employer, employee, and government — typical employer share approximately 60%. Coverage is comprehensive across medical scope.
+**National Health Insurance (NHI)** under [National Health Insurance Act](https://law.moj.gov.tw/) administered by [National Health Insurance Administration](https://www.nhi.gov.tw/) provides comprehensive national health insurance. Premium rate is 5.17% (2024) shared across employer, employee, and government - typical employer share approximately 60%. Coverage is comprehensive across medical scope.
 
 **Labor Insurance** under [Labor Insurance Act](https://law.moj.gov.tw/) administered by [Bureau of Labor Insurance](https://www.bli.gov.tw/) covers private sector workers and provides ordinary injury, sickness, maternity, occupational injury, disability, old age, death, and unemployment benefits. Premium rate (2025) is 11.5% for ordinary insurance + occupational accident insurance rate (varying by industry classification, typically 0.13% to 1.07%); together with the 1% employment insurance premium, the combined labor insurance premium rate reached 12.5% from 1 January 2025.
 
@@ -120,11 +120,11 @@ Taiwan operations involve commercial conventions affecting insurance.
 
 Operational scope across Taipei (financial / services), Taichung (manufacturing), Kaohsiung (heavy industry / petrochemical), Hsinchu Science Park (semiconductor / technology), and specific other commercial centres creates commercial considerations.
 
-Specific catastrophic peril exposure (typhoons, earthquakes — Taiwan sits within Pacific Ring of Fire) creates substantive commercial considerations.
+Specific catastrophic peril exposure (typhoons, earthquakes - Taiwan sits within Pacific Ring of Fire) creates substantive commercial considerations.
 
 Specific technology / semiconductor commercial scope creates commercial considerations for SMEs in technology adjacent operations. Technology park commercial scope.
 
-Specific cross-border commercial scope between Singapore and Taiwan under [ASTEP — the Agreement between Singapore and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Partnership](https://www.fta.gov.sg/) (the bilateral Singapore–Taiwan economic partnership agreement, in force since April 2014) creates commercial framework considerations.
+Specific cross-border commercial scope between Singapore and Taiwan under [ASTEP - the Agreement between Singapore and the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu on Economic Partnership](https://www.fta.gov.sg/) (the bilateral Singapore-Taiwan economic partnership agreement, in force since April 2014) creates commercial framework considerations.
 
 #### Operational considerations
 

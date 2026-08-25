@@ -118,16 +118,16 @@ Cleaning operations work at customer sites with substantial third-party exposure
 
 Per the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), cleaning operations have substantial WSH obligations:
 
-**General employer duty.** Section 12 WSHA — employers must ensure, so far as reasonably practicable, the safety and health of employees.
+**General employer duty.** Section 12 WSHA - employers must ensure, so far as reasonably practicable, the safety and health of employees.
 
 **Customer site WSH.** Cleaners deployed at customer sites work within customer environments but employer's WSH obligations continue. Site-specific risk assessment is operational requirement.
 
 **Specific hazard categories.** Cleaning operations regularly engage with:
 
-- Working at height (window cleaning, high-level cleaning) — Work at Height Regulations apply
-- Chemical handling — appropriate PPE, training, safety data sheets
-- Manual handling — load assessment, equipment provision
-- Slips, trips, falls — site assessment, signage protocol
+- Working at height (window cleaning, high-level cleaning) - Work at Height Regulations apply
+- Chemical handling - appropriate PPE, training, safety data sheets
+- Manual handling - load assessment, equipment provision
+- Slips, trips, falls - site assessment, signage protocol
 
 **Training requirements.** ECWSQ framework includes WSH-relevant modules. Documented training records.
 
@@ -147,7 +147,7 @@ Cleaning operations carry substantial equipment:
 
 **Property all risks framework.** Standard PAR cover for fixed assets. Specific provisions for portable equipment used at customer sites (often "all risks anywhere" extension).
 
-**Goods in transit.** Equipment moving between depot and customer sites — vehicle accident, theft, damage.
+**Goods in transit.** Equipment moving between depot and customer sites - vehicle accident, theft, damage.
 
 **Specialised equipment.** Industrial equipment (e.g. cherry pickers for high-rise window cleaning) often involves leasing arrangements with specific insurance requirements.
 
@@ -157,7 +157,7 @@ Cleaning operations carry substantial equipment:
 
 Cleaning operations handle chemicals daily. Specific exposure framework:
 
-**Pollution Liability.** Sudden and accidental pollution events can occur — chemical spillage, contamination, drain damage. Standard PL typically excludes pollution beyond named-perils framework. Specific Pollution Liability cover or PL extensions address this.
+**Pollution Liability.** Sudden and accidental pollution events can occur - chemical spillage, contamination, drain damage. Standard PL typically excludes pollution beyond named-perils framework. Specific Pollution Liability cover or PL extensions address this.
 
 **Hazardous substance framework.** Per WSH (General Provisions) Regulations, hazardous substance handling has specific requirements (PPE, training, safety data sheets, incident response protocol).
 
@@ -169,7 +169,7 @@ Cleaning operations handle chemicals daily. Specific exposure framework:
 
 Cleaning operations work at customer sites with access to customer property and information:
 
-**Officer / cleaner dishonesty.** Cleaners working in customer premises during off-hours or with substantial site access can engage in dishonest acts — theft, collusion, abuse of access.
+**Officer / cleaner dishonesty.** Cleaners working in customer premises during off-hours or with substantial site access can engage in dishonest acts - theft, collusion, abuse of access.
 
 **Customer-side losses.** Where cleaner dishonesty contributes to customer losses, customer claims against the operator are foreseeable.
 
@@ -199,7 +199,7 @@ Cleaning customer contracts have specific provisions to review:
 
 **Service Level Agreement (SLA).** Performance standards, response times, KPIs. Performance issues can produce contract claims.
 
-**Indemnity provisions.** Customer contracts often shift substantial exposure to the operator (loss, damage, liability arising from operator's services). Operator should review with insurance coordination — what is insured, what cap applies, what's reasonable.
+**Indemnity provisions.** Customer contracts often shift substantial exposure to the operator (loss, damage, liability arising from operator's services). Operator should review with insurance coordination - what is insured, what cap applies, what's reasonable.
 
 **Sub-limits and care, custody, control.** PL coordination with care, custody, control exclusion is operational. Customer property under cleaning may not be PL-covered without specific extension.
 

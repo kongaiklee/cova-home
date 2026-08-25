@@ -13,14 +13,14 @@ word_count: 1366
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/edge-case/vending-machine-operator-insurance"
-meta_description: "Vending machine operators in Singapore — covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
+meta_description: "Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
 og_title: "Vending Machine Operator: The Specific Insurance Profile for Singapore's Distributed Commercial Operations"
-og_description: "Vending machine operators in Singapore — covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
+og_description: "Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Vending machine operators in Singapore — covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other categories), and integrated commercial scope (smart vending with cashless payment systems) — operate under a distributed commercial model where multiple machines across multiple premises create specific insurance considerations. Foundational coverage includes Public Liability with elevated limits given third-party premises exposure, Property/Fire with specific provisions for distributed equipment scope, Equipment Breakdown for substantial machine investment, BI cover, Commercial Crime / specie for cash-handling machines, Cyber Liability for cashless payment systems, and commercial relationships with premises owners. Specific [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) framework applies for F&B vending; specific [HSA](https://www.hsa.gov.sg/) framework where applicable. Operational scope at HDB / commercial premises has commercial conventions.
+> Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other categories), and integrated commercial scope (smart vending with cashless payment systems) - operate under a distributed commercial model where multiple machines across multiple premises create specific insurance considerations. Foundational coverage includes Public Liability with elevated limits given third-party premises exposure, Property/Fire with specific provisions for distributed equipment scope, Equipment Breakdown for substantial machine investment, BI cover, Commercial Crime / specie for cash-handling machines, Cyber Liability for cashless payment systems, and commercial relationships with premises owners. Specific [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) framework applies for F&B vending; specific [HSA](https://www.hsa.gov.sg/) framework where applicable. Operational scope at HDB / commercial premises has commercial conventions.
 
 ### The Sourced Detail
 
@@ -52,7 +52,7 @@ Specific HDB commercial scope has commercial conventions. Specific institutional
 
 For Singapore vending machine operators, foundational cover stack includes several elements.
 
-Public Liability cover with elevated limits given third-party premises exposure. Vending machines on third-party premises create specific Public Liability scope — specific incidents at machines (consumer injury from machine operation, food safety incidents from F&B vending, operational other commercial scenarios) typically engage operator's PL primarily.
+Public Liability cover with elevated limits given third-party premises exposure. Vending machines on third-party premises create specific Public Liability scope - specific incidents at machines (consumer injury from machine operation, food safety incidents from F&B vending, operational other commercial scenarios) typically engage operator's PL primarily.
 
 Standard PL limits for substantive operations typically S$2M-S$10M reflecting operational operational scope across distributed operations.
 
@@ -60,7 +60,7 @@ Property/Fire cover with specific provisions for distributed equipment scope. Op
 
 Equipment Breakdown cover (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for substantial machine investment. Modern vending machines (particularly smart vending with refrigeration, cashless payment integration, operational technology) carry substantial commercial value (typically S$5k-S$25k+ per machine). Operational scope across distributed operations creates specific Equipment Breakdown considerations.
 
-BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Distributed operations have operational characteristics — premises-by-premises BI scope, commercial relationships, operational scope. Indemnity period considerations matter for substantial commercial scope.
+BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Distributed operations have operational characteristics - premises-by-premises BI scope, commercial relationships, operational scope. Indemnity period considerations matter for substantial commercial scope.
 
 Commercial Crime / Specie cover. Cash-handling vending machines face operational scope including specific theft scenarios (machine break-in, cash collection theft scenarios, operational employee theft scenarios). Specific Crime cover with specific commercial provisions and operational Specie cover for cash collection / transit scope (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive) on cash limit considerations).
 

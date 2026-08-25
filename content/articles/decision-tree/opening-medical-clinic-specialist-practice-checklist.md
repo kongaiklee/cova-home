@@ -20,7 +20,7 @@ og_description: "A Singapore medical clinic or specialist practice requires lice
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore medical clinic or specialist practice requires licensing under the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by the [Ministry of Health (MOH)](https://www.moh.gov.sg/) — replacing the older Private Hospitals and Medical Clinics Act framework. Each licensed service has specific requirements. Insurance baseline includes **Medical Indemnity** (specialist-specific; minimums set by the [Singapore Medical Council (SMC)](https://www.healthprofessionals.gov.sg/smc) and / or the doctor's defence organisation — MPS, MDA Medical, MIPS, MDDUS commonly), **Public Liability** for clinic premises, **Property/Fire** for clinic and equipment, **WICA** for clinic staff, **Cyber Liability** with elevated attention to medical record sensitivity (PDPA significant-harm category and MOH's separate health data framework), **Equipment Breakdown** for medical equipment, and **D&O** for incorporated structures. Specialty practices (radiology, cardiology, orthopaedics, plastic/cosmetic surgery, ophthalmology) face higher Medical Indemnity premiums and specific underwriting; cosmetic practice in particular has elevated exposure.
+> A Singapore medical clinic or specialist practice requires licensing under the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by the [Ministry of Health (MOH)](https://www.moh.gov.sg/) - replacing the older Private Hospitals and Medical Clinics Act framework. Each licensed service has specific requirements. Insurance baseline includes **Medical Indemnity** (specialist-specific; minimums set by the [Singapore Medical Council (SMC)](https://www.healthprofessionals.gov.sg/smc) and / or the doctor's defence organisation - MPS, MDA Medical, MIPS, MDDUS commonly), **Public Liability** for clinic premises, **Property/Fire** for clinic and equipment, **WICA** for clinic staff, **Cyber Liability** with elevated attention to medical record sensitivity (PDPA significant-harm category and MOH's separate health data framework), **Equipment Breakdown** for medical equipment, and **D&O** for incorporated structures. Specialty practices (radiology, cardiology, orthopaedics, plastic/cosmetic surgery, ophthalmology) face higher Medical Indemnity premiums and specific underwriting; cosmetic practice in particular has elevated exposure.
 
 ### The Sourced Detail
 
@@ -31,8 +31,8 @@ Medical practice in Singapore operates within one of the most heavily-regulated 
 Per the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020), administered by MOH, healthcare service licensing operates on a service-based rather than premises-based model. Each healthcare service offered requires specific licensing.
 
 **Common services for clinics:**
-- Outpatient Medical Service (OMS) — general practice, specialist clinics
-- Specialist Outpatient Medical Service — specialty-specific
+- Outpatient Medical Service (OMS) - general practice, specialist clinics
+- Specialist Outpatient Medical Service - specialty-specific
 - Specific procedure-based services (e.g. day surgery)
 - Specific equipment-based services (e.g. radiology)
 
@@ -60,7 +60,7 @@ Per the [Medical Registration Act 1997](https://sso.agc.gov.sg/Act/MRA1997) and 
 **Practising Certificate:**
 - Annual renewal
 - Continuing Medical Education (CME) compliance
-- Professional indemnity insurance — typically a renewal condition
+- Professional indemnity insurance - typically a renewal condition
 
 **Specialist register:**
 - Specialty-specific accreditation
@@ -193,7 +193,7 @@ Cyber for medical clinics is critical:
 - PDPA Section 26D notification requirements
 - MOH-specific reporting obligations for some incidents
 
-Cyber Liability with appropriate limits (S$3M–S$10M+ for material practice), BI/CBI for operational disruption, and PDPA Section 26D notification cover essential.
+Cyber Liability with appropriate limits (S$3M-S$10M+ for material practice), BI/CBI for operational disruption, and PDPA Section 26D notification cover essential.
 
 #### Specific specialty considerations
 
@@ -202,12 +202,12 @@ Cyber Liability with appropriate limits (S$3M–S$10M+ for material practice), B
 - Standard clinic insurance
 - Multiple service lines (vaccinations, minor procedures, chronic disease management)
 
-**Specialist clinics — non-surgical:**
+**Specialist clinics - non-surgical:**
 - Specialty-specific Medical Indemnity rates
 - Equipment exposure varies
 - Typical clinic infrastructure
 
-**Specialist clinics — surgical:**
+**Specialist clinics - surgical:**
 - Higher Medical Indemnity rates
 - Significant equipment investment
 - Specific procedure-based licensing under HCSA
@@ -271,7 +271,7 @@ Clinics with pharmaceutical inventory have specific exposures:
 
 **Pre-launch:**
 - ACRA business registration
-- HCSA licence application(s) — service-specific
+- HCSA licence application(s) - service-specific
 - SMC verification of doctor(s)
 - Premises licensing
 - Insurance procured before opening
@@ -286,7 +286,7 @@ Clinics with pharmaceutical inventory have specific exposures:
 - Cyber Liability
 - D&O if incorporated
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher limits as practice scales
 - EPL as headcount grows
 - Specific procedure-related extensions

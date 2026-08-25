@@ -32,7 +32,7 @@ Different jurisdictions operate substantively different commercial frameworks re
 
 **Substantively admitted markets** include India (per [Article 230](/cross-border/sg-sme-india-operations)), the Philippines (per [Article 231](/cross-border/sg-sme-philippines-operations)), Taiwan (per [Article 232](/cross-border/sg-sme-taiwan-operations)), Korea (per [Article 213](/cross-border/sg-sme-korea-operations)), Thailand (per [Article 215](/cross-border/sg-sme-thailand-operations)), Indonesia (per [Article 109](/cross-border/sg-sme-indonesian-operations)), Vietnam (per [Article 127](/cross-border/sg-sme-vietnam-operations)), and specific other markets. In these markets, insurance covering local risks must generally be placed with locally-licensed insurers.
 
-**Substantively non-admitted-permissive markets** include the United Kingdom (per [Article 214](/cross-border/sg-sme-uk-operations)), Australia (per [Article 157](/cross-border/sg-sme-australia-operations)), New Zealand (per [Article 234](/cross-border/sg-sme-new-zealand-operations) — though typically practical to use locally-issued cover for ACC integration), Singapore itself, and specific other markets where non-admitted cover may be permissible under specific commercial frameworks.
+**Substantively non-admitted-permissive markets** include the United Kingdom (per [Article 214](/cross-border/sg-sme-uk-operations)), Australia (per [Article 157](/cross-border/sg-sme-australia-operations)), New Zealand (per [Article 234](/cross-border/sg-sme-new-zealand-operations) - though typically practical to use locally-issued cover for ACC integration), Singapore itself, and specific other markets where non-admitted cover may be permissible under specific commercial frameworks.
 
 **Mixed-frameworks** include the United States (per [Article 166](/cross-border/sg-sme-us-operations) where state-by-state framework varies), the European Union (per [Article 235](/cross-border/sg-sme-eu-germany-operations) where Solvency II passporting creates complex commercial scope), Japan (per [Article 147](/cross-border/sg-sme-japan-operations)), and specific other markets.
 
@@ -40,15 +40,15 @@ Different jurisdictions operate substantively different commercial frameworks re
 
 Master programme architecture coordinates insurance across multiple jurisdictions through specific commercial structures.
 
-**Master Policy** — issued at Singapore (or specific other hub jurisdiction) providing primary cover with operational scope. The Master Policy typically provides DIC/DIL cover and specific Excess of Loss cover above local underlying limits.
+**Master Policy** - issued at Singapore (or specific other hub jurisdiction) providing primary cover with operational scope. The Master Policy typically provides DIC/DIL cover and specific Excess of Loss cover above local underlying limits.
 
-**Locally-issued admitted policies** — issued in each operational jurisdiction by locally-licensed insurers providing primary cover within local regulatory framework. Commercial relationships with insurers' local network providing consistent commercial scope.
+**Locally-issued admitted policies** - issued in each operational jurisdiction by locally-licensed insurers providing primary cover within local regulatory framework. Commercial relationships with insurers' local network providing consistent commercial scope.
 
-**Difference in Conditions (DIC) cover** — addresses scope gaps where locally-issued cover provides narrower scope than Master Policy. Master Policy DIC scope provides broader cover where locally available cover is more restrictive.
+**Difference in Conditions (DIC) cover** - addresses scope gaps where locally-issued cover provides narrower scope than Master Policy. Master Policy DIC scope provides broader cover where locally available cover is more restrictive.
 
-**Difference in Limits (DIL) cover** — addresses limit gaps where locally-issued cover provides lower limits than Master Policy. Master Policy DIL scope provides excess limits where locally available cover provides insufficient commercial scope.
+**Difference in Limits (DIL) cover** - addresses limit gaps where locally-issued cover provides lower limits than Master Policy. Master Policy DIL scope provides excess limits where locally available cover provides insufficient commercial scope.
 
-**Tax compliance** — considerations on insurance premium tax considerations across jurisdictions. Framework for economic substance considerations and operational transfer pricing considerations.
+**Tax compliance** - considerations on insurance premium tax considerations across jurisdictions. Framework for economic substance considerations and operational transfer pricing considerations.
 
 For substantive multi-country operations, specialist multinational broker coordination provides considerations on master programme design and operational operational discipline.
 
@@ -56,11 +56,11 @@ For substantive multi-country operations, specialist multinational broker coordi
 
 Specialist multinational brokers (Marsh, Aon, Willis Towers Watson, Lockton, Howden, Arthur J. Gallagher, specific other multinational brokers) provide operational considerations for multi-country operations. Operational scope considerations:
 
-Specific global network coordination — specialist brokers operate global networks with operational consistency. Considerations on master programme design, specific local placement coordination, operational claim coordination, operational considerations.
+Specific global network coordination - specialist brokers operate global networks with operational consistency. Considerations on master programme design, specific local placement coordination, operational claim coordination, operational considerations.
 
-Specific service delivery framework — specialist brokers typically provide specific service delivery framework including dedicated client service team, operational account management, operational sophistication.
+Specific service delivery framework - specialist brokers typically provide specific service delivery framework including dedicated client service team, operational account management, operational sophistication.
 
-Specific premium scope considerations — specialist multinational broker scope typically involves specific premium scope reflecting operational considerations. Considerations on fee structures, operational commercial relationships, operational commercial conventions.
+Specific premium scope considerations - specialist multinational broker scope typically involves specific premium scope reflecting operational considerations. Considerations on fee structures, operational commercial relationships, operational commercial conventions.
 
 For SMEs with operations across 3+ jurisdictions, specialist multinational broker engagement is substantively essential commercial sophistication. For SMEs with operations across 2 jurisdictions, considerations on when to engage specialist coordination matters.
 
@@ -153,7 +153,7 @@ For Singapore-headquartered SMEs with multi-country operations, foundational mas
 
 Multi-country operations involve commercial conventions affecting insurance.
 
-Specific economic substance considerations matter. Master programme architecture must reflect substantive operational reality — considerations on economic substance requirements across jurisdictions.
+Specific economic substance considerations matter. Master programme architecture must reflect substantive operational reality - considerations on economic substance requirements across jurisdictions.
 
 Specific transfer pricing considerations matter for multi-country operations. Considerations on insurance premium allocation across jurisdictions.
 
@@ -163,7 +163,7 @@ Considerations on regulatory compliance across jurisdictions matters substantial
 
 #### Operational considerations
 
-For substantive multi-country operations, operational considerations includes specialist multinational broker engagement (essential — not optional), specific multi-jurisdictional commercial counsel relationships, specific local management commercial sophistication across operational jurisdictions, specific master programme operational discipline, operational sophistication around mandatory benefit framework coordination, and operational commercial sensitivity around regulatory enforcement across jurisdictions.
+For substantive multi-country operations, operational considerations includes specialist multinational broker engagement (essential - not optional), specific multi-jurisdictional commercial counsel relationships, specific local management commercial sophistication across operational jurisdictions, specific master programme operational discipline, operational sophistication around mandatory benefit framework coordination, and operational commercial sensitivity around regulatory enforcement across jurisdictions.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -182,7 +182,7 @@ For substantive multi-country operations, operational considerations includes sp
 
 For Singapore-headquartered SMEs with multi-country operations:
 
-Master programme architecture is substantively essential commercial sophistication for operations across 3+ jurisdictions and substantively beneficial for operations across 2 jurisdictions. Specialist multinational broker engagement is essential — not optional. Considerations on admitted vs non-admitted frameworks, mandatory benefit framework coordination, data protection framework coordination, and operational discipline forms the foundation.
+Master programme architecture is substantively essential commercial sophistication for operations across 3+ jurisdictions and substantively beneficial for operations across 2 jurisdictions. Specialist multinational broker engagement is essential - not optional. Considerations on admitted vs non-admitted frameworks, mandatory benefit framework coordination, data protection framework coordination, and operational discipline forms the foundation.
 
 For substantive operations, specialist multinational broker engagement, specific multi-jurisdictional commercial counsel relationships, and operational discipline form the operational foundation. SMEs that engage thoughtfully with multi-country complexity benefit from operational protection that supports substantial commercial scope across multiple regulatory environments.
 

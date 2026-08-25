@@ -25,13 +25,13 @@ og_description: "If your marine cargo certificate or wording is based on the <a.
 
 For many Singapore SMEs, the hardest part of a marine cargo claim is not opening the claim file. It is understanding whether the loss falls within the transit cover in the first place. The <a href="https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf">Institute Cargo Clauses (A) 1/1/2009</a> are broad, but they are not unlimited. Clause 1 gives wide “all risks” wording, while Clauses 4 to 7 carve out important exclusions such as ordinary leakage, ordinary loss in weight or volume, wear and tear, inherent vice, insufficient packing, delay, insolvency-related issues, war risks and strikes risks.
 
-#### Step 1 — Confirm the shipment was actually insured under ICC A
+#### Step 1 - Confirm the shipment was actually insured under ICC A
 
 Pull the policy schedule, certificate of insurance, invoice, packing list, and bill of lading or air waybill first. Do not assume every damaged shipment was insured on the same wording. The specific certificate matters because that document usually shows the insured transit, voyage, commodity, value, and whether the wording used was ICC A, B or C.
 
 This also helps answer a basic legal question: who bore the transit risk when the loss occurred? If your sales contract or purchase contract shifted risk earlier or later than you think, the party with the cargo loss may not be the same party named as insured on the document set.
 
-#### Step 2 — Notify the insurer as soon as the loss is discovered
+#### Step 2 - Notify the insurer as soon as the loss is discovered
 
 Marine cargo claims are evidence-sensitive. If the carton is crushed, the seal is broken, or the goods are wet on arrival, notify the insurer or claims contact immediately. That usually means the same day the damage is discovered, especially where the goods are perishable, high-value, or in a shared warehouse where the scene may change quickly.
 
@@ -43,19 +43,19 @@ Your first notice should usually include:
 4. Nature of the loss, such as shortage, breakage, wet damage, contamination, or theft indicators.  
 5. Whether the goods are still in original packing and available for survey.
 
-#### Step 3 — Preserve evidence and arrange survey
+#### Step 3 - Preserve evidence and arrange survey
 
 If damage is visible, do not rush to dispose of packaging or release all goods into production before the loss is documented. A surveyor’s report often becomes the central factual document in the claim. The survey usually records outer packing condition, inner packing condition, signs of impact or water ingress, extent of physical damage, and whether the damage pattern is consistent with transit handling.
 
 That matters because the same <a href="https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf">ICC A 2009 wording</a> excludes loss caused by insufficiency or unsuitability of packing in certain circumstances. So if the loss is really a packing problem rather than a transit accident, the claim can become an exclusion dispute instead of a simple payment case.
 
-#### Step 4 — Reserve rights against carriers and third parties
+#### Step 4 - Reserve rights against carriers and third parties
 
 If there is visible damage or shortage on delivery, mark that clearly on the delivery receipt or handover record. If the cargo was containerised, photograph the seal, container condition, and internal packing before unpacking everything. If the carrier, freight forwarder, warehouse, or terminal operator may have contributed to the loss, keep all correspondence and send written notice where required under the transport document.
 
 This step matters because cargo claims often lead to recovery action after the insurer pays. If evidence is lost early, the insurer’s ability to pursue a subrogation recovery against the carrier may be weakened.
 
-#### Step 5 — Build the claim file properly
+#### Step 5 - Build the claim file properly
 
 A typical marine cargo claim file includes:
 
@@ -72,7 +72,7 @@ A typical marine cargo claim file includes:
 
 The financial calculation matters as much as the photos. A claim can be factually valid but still delayed if the insurer cannot see how the amount claimed was derived.
 
-#### Step 6 — Check the main exclusion traps before assuming the claim is covered
+#### Step 6 - Check the main exclusion traps before assuming the claim is covered
 
 Three issues come up repeatedly on ICC A losses:
 
@@ -82,7 +82,7 @@ Three issues come up repeatedly on ICC A losses:
 
 Those points are important for Singapore importers and exporters because the commercial story and the insurance story can be different. A buyer may reject cargo because it arrived late and spoiled, but the policy may still focus on whether there was insured physical loss or damage that is not caught by the delay or inherent vice exclusions.
 
-#### Step 7 — Submit a clean narrative, not just raw documents
+#### Step 7 - Submit a clean narrative, not just raw documents
 
 The strongest cargo claims usually have a simple factual timeline:
 

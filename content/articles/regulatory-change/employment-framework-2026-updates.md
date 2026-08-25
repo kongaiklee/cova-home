@@ -20,7 +20,7 @@ og_description: "Singapore's employment framework continues to evolve through 20
 
 > **The Answer in 60 Seconds**
 >
-> Singapore's employment framework continues to evolve through 2026 across multiple dimensions: the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025), passed but not yet in force — commencement expected by end-2027 (see [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)), the [Platform Workers Act 2024 (PWA)](https://sso.agc.gov.sg/Act/PWA2024) phased CPF implementation (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)), the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) post-1 November 2025 limit increases (see [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)), specific [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) framework refinements, and specific [TAFEP](https://www.tafep.sg/) guidance evolution. Insurance implications are substantial: **EPL becomes substantially more relevant** given expanded statutory claim landscape, **WICA renewal cycles reflect post-2025 increases**, **specific industry-specific provisions** continue to evolve. For Singapore SME founders and HR leaders: **annual employment framework review is foundational** rather than optional, and **coordinated EPL / WICA / D&O cover** addresses the integrated risk landscape.
+> Singapore's employment framework continues to evolve through 2026 across multiple dimensions: the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025), passed but not yet in force - commencement expected by end-2027 (see [Article 171](/regulatory-change/wfa-2024-phase-2-implementation)), the [Platform Workers Act 2024 (PWA)](https://sso.agc.gov.sg/Act/PWA2024) phased CPF implementation (see [Article 170](/regulatory-change/platform-workers-act-first-year-review)), the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) post-1 November 2025 limit increases (see [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)), specific [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) framework refinements, and specific [TAFEP](https://www.tafep.sg/) guidance evolution. Insurance implications are substantial: **EPL becomes substantially more relevant** given expanded statutory claim landscape, **WICA renewal cycles reflect post-2025 increases**, **specific industry-specific provisions** continue to evolve. For Singapore SME founders and HR leaders: **annual employment framework review is foundational** rather than optional, and **coordinated EPL / WICA / D&O cover** addresses the integrated risk landscape.
 
 ### The Sourced Detail
 
@@ -30,14 +30,14 @@ The 2024-2026 period represents the most substantial period of Singapore employm
 
 **Foundation Acts in operation:**
 
-- [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) — foundation employment framework
-- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) — workplace injury compensation
-- [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) — workplace safety
-- [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) — workplace fairness / anti-discrimination (passed, not yet in force)
-- [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) — platform worker framework
-- [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) — employment dispute resolution
-- [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) — foreign worker framework
-- [Retirement and Re-employment Act 1993](https://sso.agc.gov.sg/Act/RRA1993) — retirement framework
+- [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) - foundation employment framework
+- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - workplace injury compensation
+- [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) - workplace safety
+- [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - workplace fairness / anti-discrimination (passed, not yet in force)
+- [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) - platform worker framework
+- [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) - employment dispute resolution
+- [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) - foreign worker framework
+- [Retirement and Re-employment Act 1993](https://sso.agc.gov.sg/Act/RRA1993) - retirement framework
 
 **Specific MOM administration:**
 
@@ -55,7 +55,7 @@ Per [TAFEP framework](https://www.tafep.sg/):
 
 #### 2026 framework evolution priorities
 
-**1. WFA — passed, not yet in force:**
+**1. WFA - passed, not yet in force:**
 
 Per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation):
 
@@ -121,7 +121,7 @@ Per [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns):
 - Operational operational scope
 - Operational operational considerations
 
-#### Insurance implications — integrated risk landscape
+#### Insurance implications - integrated risk landscape
 
 **Foundation employment-related insurance:**
 
@@ -267,24 +267,24 @@ For Singapore SMEs with cross-border employment:
 
 **For SMEs preparing for 2026 framework:**
 
-**Step 1 — Comprehensive framework review (immediate):**
+**Step 1 - Comprehensive framework review (immediate):**
 - WFA, PWA, WICA, Employment Act updates
 - Operational operational implications
 
-**Step 2 — Specific HR policy review (3-6 months):**
+**Step 2 - Specific HR policy review (3-6 months):**
 - Specific policy alignment
 - Operational operational standards
 
-**Step 3 — Specific manager training (3-6 months):**
+**Step 3 - Specific manager training (3-6 months):**
 - Specific framework awareness
 - Operational operational standards
 
-**Step 4 — Specific insurance review (annual cycle):**
+**Step 4 - Specific insurance review (annual cycle):**
 - Specific EPL adequacy review
 - Operational WICA renewal coordination
 - Operational D&O coordination
 
-**Step 5 — Operational discipline (ongoing):**
+**Step 5 - Operational discipline (ongoing):**
 - Specific documentation discipline
 - Operational incident response
 
@@ -358,4 +358,4 @@ The Singapore employment framework continues to mature. SMEs that engage thought
 
 ---
 
-Articles 180–189 substantially expand the Document-Legal category — from 16 articles at end of batch 18 to 26 — bringing it to parity with decision-tree (26) and procedural how-to (27). The cluster covers the foundational legal infrastructure of Singapore insurance and director liability. Article 180 covers WICA Section 24 mandatory insurance (the provision that makes WICA workable, the approved-insurer requirement, Common-Law / Employer's Liability extension as operationally essential gap-filler, Section 24 in platform worker and cross-border contexts). Article 181 covers FAA Section 27 suitability assessment (the obligation that elevates FA-client relationships above pure transaction, fact-find depth scaling with complexity, IFA vs tied agent practical distinctions, FIDReC dispute resolution scope). Article 182 covers utmost good faith doctrine (uberrimae fidei origin in Carter v Boehm 1766, Marine Insurance Act 1906 codification, prudent insurer materiality test, what need not be disclosed). Article 183 covers Marine Insurance Act 1906 Sections 17-19 (the disclosure architecture: Section 17 reciprocal duty, Section 18 assured's disclosure, Section 19 agent's disclosure, application by analogy to non-marine). Article 184 covers Companies Act Section 157 director duties (act honestly, reasonable diligence, no improper use of position, civil and criminal consequences, D&O response framework, Insured vs Insured exclusion treatment). Article 185 covers Companies Act Section 172 indemnification (general prohibition on indemnification for breaches of duty, defined exceptions, Section 172A insurance authorisation, Section 172B third-party indemnity, D&O Side A / Side B / Side C mapping). Article 186 covers Pan Atlantic v Pine Top [1995] 1 AC 501 (the materiality test definitive case: prudent insurer test plus actual inducement requirement, two-part defensive analysis for SMEs facing avoidance arguments). Article 187 covers Castellian v Preston (1883) 11 QBD 380 (subrogation foundation: indemnity principle, cooperation obligation, recovery distribution, waiver of subrogation in commercial contracts, Sompo v RSA 2021 SGHC 152 modern application). Article 188 covers See Toh Siew Kee v Ho Ah Lam Ferrocement [2013] SGCA 29 (occupiers' liability restructuring: abolished category-based duties to invitees/licensees/trespassers, unified negligence-based framework, reasonable care in the circumstances, PL underwriting and claim handling implications). Article 189 covers WFA 2024 protected characteristics deep-dive (age, nationality, sex, marital status, pregnancy, family responsibilities, race, religion, language, disability, mental health condition each unpacked with common scenarios, exemptions, operational guidance, EPL implications).
+Articles 180-189 substantially expand the Document-Legal category - from 16 articles at end of batch 18 to 26 - bringing it to parity with decision-tree (26) and procedural how-to (27). The cluster covers the foundational legal infrastructure of Singapore insurance and director liability. Article 180 covers WICA Section 24 mandatory insurance (the provision that makes WICA workable, the approved-insurer requirement, Common-Law / Employer's Liability extension as operationally essential gap-filler, Section 24 in platform worker and cross-border contexts). Article 181 covers FAA Section 27 suitability assessment (the obligation that elevates FA-client relationships above pure transaction, fact-find depth scaling with complexity, IFA vs tied agent practical distinctions, FIDReC dispute resolution scope). Article 182 covers utmost good faith doctrine (uberrimae fidei origin in Carter v Boehm 1766, Marine Insurance Act 1906 codification, prudent insurer materiality test, what need not be disclosed). Article 183 covers Marine Insurance Act 1906 Sections 17-19 (the disclosure architecture: Section 17 reciprocal duty, Section 18 assured's disclosure, Section 19 agent's disclosure, application by analogy to non-marine). Article 184 covers Companies Act Section 157 director duties (act honestly, reasonable diligence, no improper use of position, civil and criminal consequences, D&O response framework, Insured vs Insured exclusion treatment). Article 185 covers Companies Act Section 172 indemnification (general prohibition on indemnification for breaches of duty, defined exceptions, Section 172A insurance authorisation, Section 172B third-party indemnity, D&O Side A / Side B / Side C mapping). Article 186 covers Pan Atlantic v Pine Top [1995] 1 AC 501 (the materiality test definitive case: prudent insurer test plus actual inducement requirement, two-part defensive analysis for SMEs facing avoidance arguments). Article 187 covers Castellian v Preston (1883) 11 QBD 380 (subrogation foundation: indemnity principle, cooperation obligation, recovery distribution, waiver of subrogation in commercial contracts, Sompo v RSA 2021 SGHC 152 modern application). Article 188 covers See Toh Siew Kee v Ho Ah Lam Ferrocement [2013] SGCA 29 (occupiers' liability restructuring: abolished category-based duties to invitees/licensees/trespassers, unified negligence-based framework, reasonable care in the circumstances, PL underwriting and claim handling implications). Article 189 covers WFA 2024 protected characteristics deep-dive (age, nationality, sex, marital status, pregnancy, family responsibilities, race, religion, language, disability, mental health condition each unpacked with common scenarios, exemptions, operational guidance, EPL implications).

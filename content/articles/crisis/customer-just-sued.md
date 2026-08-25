@@ -1,5 +1,5 @@
 ---
-title: "A Customer Just Sued Us — What Do I Do Now?"
+title: "A Customer Just Sued Us - What Do I Do Now?"
 slug: "/crisis/customer-just-sued"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,24 +14,24 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/customer-just-sued"
 meta_description: "First, identify what you've received. A Letter of Demand is a pre-litigation warning; a Writ of Summons is the start of formal court proceedings. Per the..."
-og_title: "A Customer Just Sued Us — What Do I Do Now?"
+og_title: "A Customer Just Sued Us - What Do I Do Now?"
 og_description: "First, identify what you've received. A Letter of Demand is a pre-litigation warning; a Writ of Summons is the start of formal court proceedings. Per the..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> First, identify what you've received. A **Letter of Demand** is a pre-litigation warning; a **Writ of Summons** is the start of formal court proceedings. Per the [Singapore Courts' Rules of Court 2021](https://sso.agc.gov.sg/SL-Supp/S914-2021) (in force since 1 April 2022), civil proceedings now begin by **Originating Claim** (replacing the Writ of Summons under the revoked Rules of Court 2014). If served with an Originating Claim and Statement of Claim in Singapore, you typically have **14 days** after service of the Statement of Claim (21 days if served outside Singapore) to file a **Notice of Intention to Contest or Not Contest**; the **Defence** is due **21 days** after Statement of Claim service in Singapore (5 weeks outside). Failure to respond risks **default judgment**. Do **not** respond directly to the customer or their lawyer. Do **not** admit liability. Notify your relevant insurer (PL, Product Liability, PI, D&O, Cyber, EPL — depending on the claim) immediately. Forward all correspondence to the insurer; engage panel counsel; preserve evidence. Time bars matter — verify deadlines on the actual document and consult counsel within hours.
+> First, identify what you've received. A **Letter of Demand** is a pre-litigation warning; a **Writ of Summons** is the start of formal court proceedings. Per the [Singapore Courts' Rules of Court 2021](https://sso.agc.gov.sg/SL-Supp/S914-2021) (in force since 1 April 2022), civil proceedings now begin by **Originating Claim** (replacing the Writ of Summons under the revoked Rules of Court 2014). If served with an Originating Claim and Statement of Claim in Singapore, you typically have **14 days** after service of the Statement of Claim (21 days if served outside Singapore) to file a **Notice of Intention to Contest or Not Contest**; the **Defence** is due **21 days** after Statement of Claim service in Singapore (5 weeks outside). Failure to respond risks **default judgment**. Do **not** respond directly to the customer or their lawyer. Do **not** admit liability. Notify your relevant insurer (PL, Product Liability, PI, D&O, Cyber, EPL - depending on the claim) immediately. Forward all correspondence to the insurer; engage panel counsel; preserve evidence. Time bars matter - verify deadlines on the actual document and consult counsel within hours.
 
 ### The Step-by-Step
 
-A customer lawsuit is a structured legal process. The first 48 hours determine whether you defend it well, whether your insurance responds, and whether you avoid procedural defaults that hand the customer a win without merit. The article below is sequence and orientation — every lawsuit is fact-specific and qualified counsel should be engaged immediately, not after a few days of internal deliberation.
+A customer lawsuit is a structured legal process. The first 48 hours determine whether you defend it well, whether your insurance responds, and whether you avoid procedural defaults that hand the customer a win without merit. The article below is sequence and orientation - every lawsuit is fact-specific and qualified counsel should be engaged immediately, not after a few days of internal deliberation.
 
-#### What you've actually received — five common documents
+#### What you've actually received - five common documents
 
 Before reacting, identify what was actually delivered. Different documents trigger different obligations and timelines:
 
 **1. Letter of Demand**
-A pre-litigation letter from the customer or their lawyer setting out the alleged complaint and demanding action (typically: pay X amount within Y days, failing which legal action will follow). This is **not** court proceedings — it's a warning. There is no court-imposed deadline, but the demand letter typically gives 7–14 days to respond.
+A pre-litigation letter from the customer or their lawyer setting out the alleged complaint and demanding action (typically: pay X amount within Y days, failing which legal action will follow). This is **not** court proceedings - it's a warning. There is no court-imposed deadline, but the demand letter typically gives 7-14 days to respond.
 
 **2. Originating Claim** (formerly Writ of Summons under ROC 2014)
 The start of formal civil proceedings under the Rules of Court 2021. The Originating Claim states the parties and claim type, and is typically served together with a Statement of Claim. You must file a Notice of Intention to Contest within the prescribed time. **This is time-critical.** (Writ of Summons procedure under the revoked ROC 2014 continues to apply only to matters commenced before 1 April 2022.)
@@ -43,17 +43,17 @@ An alternative to a Writ for certain types of proceedings (e.g. seeking specific
 The detailed pleading setting out the customer's case. Under ROC 2021, the Statement of Claim is typically served together with the Originating Claim. The **Defence** is due **21 days** after service of the Statement of Claim in Singapore (5 weeks outside Singapore).
 
 **5. Notice of FIDReC Mediation**
-For insurance-related disputes, this is the [Financial Industry Disputes Resolution Centre](https://www.fidrec.com.sg/) process — different from court proceedings. Different timelines and process apply.
+For insurance-related disputes, this is the [Financial Industry Disputes Resolution Centre](https://www.fidrec.com.sg/) process - different from court proceedings. Different timelines and process apply.
 
 For employment-related claims:
 - **MOM Claim** under TADM (Tripartite Alliance for Dispute Management) for salary-related disputes
 - **Employment Claims Tribunals** for certain employee claims
 
-#### Hour 0–4 — Identify, preserve, do not respond
+#### Hour 0-4 - Identify, preserve, do not respond
 
 - **Note the date and time of service.** Procedural time limits run from service.
 - **Read the document carefully.** Identify: parties, court, claim type, amount claimed, alleged facts, time limit for response.
-- **Preserve all related correspondence.** Emails, contracts, invoices, delivery records, complaint history, internal communications — anything related to the customer relationship.
+- **Preserve all related correspondence.** Emails, contracts, invoices, delivery records, complaint history, internal communications - anything related to the customer relationship.
 - **Do not delete, modify, or "tidy" any records.** Spoliation of evidence is a separate legal issue and can result in adverse inferences.
 - **Do not respond to the customer or their lawyer.** Even a well-meaning "we'll look into this" can be construed as acknowledgment.
 - **Identify what insurance might respond.** Look at the claim type:
@@ -65,7 +65,7 @@ For employment-related claims:
   - Data breach → Cyber
   - Unpaid invoice / contract dispute → typically not covered by insurance (Trade Credit may apply in some scenarios)
 
-#### Hour 4–24 — Notify insurers, engage counsel
+#### Hour 4-24 - Notify insurers, engage counsel
 
 **Notify your insurer(s):**
 - Email and call the insurer's claims hotline
@@ -76,20 +76,20 @@ For employment-related claims:
 **Engage panel counsel:**
 - Liability insurers typically have panel law firms in Singapore (Allen & Gledhill, Rajah & Tann, WongPartnership, Drew & Napier, Dentons Rodyk, Withers KhattarWong, Shook Lin & Bok, and others)
 - Panel counsel reviews the claim, advises on response, drafts pleadings
-- Engage your own counsel separately only with insurer consent — usually not necessary if panel counsel is appointed
+- Engage your own counsel separately only with insurer consent - usually not necessary if panel counsel is appointed
 - For complex matters, the insurer may appoint a senior partner; routine matters may go to mid-level associates
 
 **For Originating Claims specifically (ROC 2021):**
 - The Notice of Intention to Contest must be filed within **14 days** of Statement of Claim service in Singapore (21 days outside Singapore)
 - The Defence must be filed within **21 days** of Statement of Claim service in Singapore (5 weeks outside Singapore)
-- Missing these deadlines can result in default judgment — a procedural loss without merit consideration
+- Missing these deadlines can result in default judgment - a procedural loss without merit consideration
 
-#### Day 1–7 — Initial procedural response
+#### Day 1-7 - Initial procedural response
 
 **Notice of Intention to Contest (ROC 2021) / Memorandum of Appearance (ROC 2014):**
 - Confirms you intend to defend the claim
 - Filed by your lawyer (panel counsel) electronically via the [eLitigation system](https://www.elitigation.sg/)
-- Time limit under ROC 2021 is 14 days from Statement of Claim service in Singapore (21 days outside) — verify on the actual document received
+- Time limit under ROC 2021 is 14 days from Statement of Claim service in Singapore (21 days outside) - verify on the actual document received
 
 **Investigation by insurer/lawyer:**
 - Review of contracts, communications, evidence
@@ -103,7 +103,7 @@ For employment-related claims:
 - Do not destroy, modify, or transfer assets that may be subject to preservation
 - Comply with any court orders served alongside the writ
 
-#### Week 1–4 — Pleadings phase
+#### Week 1-4 - Pleadings phase
 
 **Defence:**
 - Detailed response to the Statement of Claim
@@ -124,18 +124,18 @@ For employment-related claims:
 - Expert reports
 - Document bundles
 
-#### Months 2–18+ — Resolution paths
+#### Months 2-18+ - Resolution paths
 
 **Settlement:**
-- Most civil cases settle without trial — typically 70-80% in Singapore civil practice
+- Most civil cases settle without trial - typically 70-80% in Singapore civil practice
 - Insurer must consent to settlement (per policy conditions)
 - Settlement agreements typically include confidentiality, full and final discharge, no admission of liability
 - Mediation under [Singapore International Mediation Centre](https://www.simc.com.sg/) or court-ordered mediation may facilitate
 
 **Trial:**
-- For cases that proceed: trial dates typically set 6–18 months from filing
-- State Courts (claims up to S$250,000) — typically faster
-- General Division of the High Court (claims above S$250,000) — typically longer
+- For cases that proceed: trial dates typically set 6-18 months from filing
+- State Courts (claims up to S$250,000) - typically faster
+- General Division of the High Court (claims above S$250,000) - typically longer
 
 **Default judgment risk throughout:**
 - Missing procedural deadlines anywhere in the process can result in default judgment
@@ -181,7 +181,7 @@ If the customer is suing within the limitation period, the claim is procedurally
 5. **Destroying or "tidying" records.** Spoliation; adverse inferences; potential separate liability.
 6. **Late insurer notification.** May reduce or void cover.
 7. **Treating a Letter of Demand as an Originating Claim.** Different documents, different timelines.
-8. **Treating an Originating Claim as a Letter of Demand.** Different documents, different timelines — and ignoring the Originating Claim leads to default.
+8. **Treating an Originating Claim as a Letter of Demand.** Different documents, different timelines - and ignoring the Originating Claim leads to default.
 9. **Discussing the case publicly.** Defamation, contempt, evidence creation.
 10. **Trying to reach the customer via mutual contacts.** Witness tampering perception.
 
@@ -191,15 +191,15 @@ Civil litigation is a structured, slow-moving process. The instinct on receiving
 
 For Singapore SMEs, the practical preparation that helps if it happens:
 
-1. **Maintain liability insurance appropriate to your risk profile.** PL, Product Liability, PI, D&O, EPL, Cyber — each addresses a different exposure. See [Article 71](/comparison/do-vs-pi-vs-epl) on D&O/PI/EPL.
+1. **Maintain liability insurance appropriate to your risk profile.** PL, Product Liability, PI, D&O, EPL, Cyber - each addresses a different exposure. See [Article 71](/comparison/do-vs-pi-vs-epl) on D&O/PI/EPL.
 
-2. **Document customer relationships systematically.** Contracts, communications, deliverables, complaints, resolutions — all should be retrievable.
+2. **Document customer relationships systematically.** Contracts, communications, deliverables, complaints, resolutions - all should be retrievable.
 
 3. **Run a "what if we got sued" exercise.** Annually, walk through the response: who notifies the insurer, where are the documents, who is the company spokesperson, who briefs panel counsel.
 
-4. **Maintain insurance broker relationship.** The broker is the bridge to the insurer at incident time — knowing them before you need them matters.
+4. **Maintain insurance broker relationship.** The broker is the bridge to the insurer at incident time - knowing them before you need them matters.
 
-5. **For high-frequency claim types (slip-and-fall in retail, professional advice claims), maintain stronger contemporaneous documentation.** Incident logs, sign-offs, file notes — all become defence material.
+5. **For high-frequency claim types (slip-and-fall in retail, professional advice claims), maintain stronger contemporaneous documentation.** Incident logs, sign-offs, file notes - all become defence material.
 
 The cost of defending a baseless claim well is usually less than the cost of defending a meritorious claim badly. Insurance and counsel handle the technical defence; the business's role is providing them what they need promptly.
 

@@ -13,18 +13,18 @@ word_count: 981
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/coi-for-landlord-singapore"
-meta_description: "Step 1 — Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
+meta_description: "Step 1 - Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
 og_title: "How to Get a Certificate of Insurance for Your Landlord"
-og_description: "Step 1 — Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
+og_description: "Step 1 - Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
 ---
 
 ### The Answer in 60 Seconds
 
-> A Certificate of Insurance (COI) is a one-page summary issued by your insurer (or broker) that proves to a third party — typically your landlord — that your policy is in force, with stated limits, perils, and named insureds. Per IRMI and standard Singapore practice, a COI is **proof of insurance only** — it does not amend the policy or grant rights. To give the landlord *actual* rights under the policy, the lease must require, and the policy must be endorsed to include, the **landlord as additional insured** (or "indemnity to principal") — a separate endorsement, not the COI itself. Request the COI from your insurer/broker with the landlord's exact name, address, and any specific wording from the lease's insurance clause.
+> A Certificate of Insurance (COI) is a one-page summary issued by your insurer (or broker) that proves to a third party - typically your landlord - that your policy is in force, with stated limits, perils, and named insureds. Per IRMI and standard Singapore practice, a COI is **proof of insurance only** - it does not amend the policy or grant rights. To give the landlord *actual* rights under the policy, the lease must require, and the policy must be endorsed to include, the **landlord as additional insured** (or "indemnity to principal") - a separate endorsement, not the COI itself. Request the COI from your insurer/broker with the landlord's exact name, address, and any specific wording from the lease's insurance clause.
 
 ### The Step-by-Step
 
-**Step 1 — Read the lease's insurance clause carefully.**
+**Step 1 - Read the lease's insurance clause carefully.**
 Look for:
 - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements, Workers Compensation/WICA).
 - Minimum limits (e.g., PL S$1m, S$3m, or S$5m per occurrence).
@@ -34,20 +34,20 @@ Look for:
 - Required notice of cancellation (often 30 days written notice to landlord).
 - Required jurisdiction (Singapore).
 
-**Step 2 — Identify the gap between your policy and the lease.**
+**Step 2 - Identify the gap between your policy and the lease.**
 Common mismatches:
 - Lease requires S$3m PL; your policy is S$1m → you need to top up.
 - Lease requires landlord as additional insured; your policy doesn't have the endorsement → request from insurer.
 - Lease requires waiver of subrogation; not standard on most PL → request endorsement.
 
-**Step 3 — Request the COI from your insurer or broker.**
+**Step 3 - Request the COI from your insurer or broker.**
 Provide:
 - Landlord's exact legal name and address (must match the lease).
 - Address of the leased premises.
 - Lease commencement and expiry dates.
 - Specific lease clauses (forward the relevant page).
 
-**Step 4 — Verify the COI wording matches the lease.**
+**Step 4 - Verify the COI wording matches the lease.**
 The COI typically states:
 - Named insured (you) and policy number.
 - Insurer.
@@ -59,13 +59,13 @@ The COI typically states:
 
 If the lease says "additional insured" and the COI only lists the landlord as "certificate holder," that's not enough. Per Seyfarth Shaw's note on lease insurance: "A certificate that merely states that the property owner or landlord is a 'certificate holder' does not make the owner/landlord an additional insured. Without being named as an additional insured, a certificate holder is not entitled to any rights under the insurance policy referenced." Push the broker to add the AI endorsement.
 
-**Step 5 — Submit the COI to the landlord before move-in or lease commencement.**
+**Step 5 - Submit the COI to the landlord before move-in or lease commencement.**
 Most landlords require the COI before handing over keys. Build this into your fit-out timeline.
 
-**Step 6 — Renew the COI annually with the policy.**
+**Step 6 - Renew the COI annually with the policy.**
 Send the renewed COI to the landlord within 7 days of policy renewal. If the policy lapses or you change insurers, send the new COI immediately.
 
-**Step 7 — If the lease requires notice of cancellation: confirm the insurer will provide it.**
+**Step 7 - If the lease requires notice of cancellation: confirm the insurer will provide it.**
 Some Singapore insurers don't automatically notify landlords of cancellation. If the lease requires it, confirm in writing with the insurer that they will notify the landlord at the address on the COI.
 
 ### Common Mistakes / What Goes Wrong
@@ -82,9 +82,9 @@ The COI is the most-misunderstood document in commercial leasing. Treat it as a 
 
 1. **Assemble a "lease compliance pack"** for each leased site: lease, COI, additional insured endorsement, waiver of subrogation endorsement, FC/FSC where the tenant is responsible. Keep electronic copies.
 2. **Calendar lease-driven insurance dates.** COI renewal date, lease renewal date, FC renewal date often diverge.
-3. **For multi-site SMEs** , push for blanket additional insured endorsements (covers all "premises leased to the named insured") rather than scheduled (one specific address) — easier to administer.
+3. **For multi-site SMEs** , push for blanket additional insured endorsements (covers all "premises leased to the named insured") rather than scheduled (one specific address) - easier to administer.
 
-If your landlord enforces the lease and you cannot produce a valid COI matching the lease's insurance clause, you can be in technical breach of lease — sometimes a termination event. The COI itself is usually issued at no extra charge once the underlying endorsements are in place; the consequence of not having it can be a forced termination of tenancy.
+If your landlord enforces the lease and you cannot produce a valid COI matching the lease's insurance clause, you can be in technical breach of lease - sometimes a termination event. The COI itself is usually issued at no extra charge once the underlying endorsements are in place; the consequence of not having it can be a forced termination of tenancy.
 
 ### Questions to Ask Your Adviser
 

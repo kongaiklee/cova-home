@@ -67,7 +67,7 @@ For non-designated SMEs:
 - Operational commercial relationships
 - Operational operational sophistication
 
-#### Stage 1 — First indication of cyber event
+#### Stage 1 - First indication of cyber event
 
 **Triggers.**
 
@@ -92,7 +92,7 @@ From first indication:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 2 — Broker notification
+#### Stage 2 - Broker notification
 
 **The critical first call.**
 
@@ -107,7 +107,7 @@ The SME's broker is the operational gateway:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 3 — Coordinated insurer notification
+#### Stage 3 - Coordinated insurer notification
 
 **Single coordinated notification.**
 
@@ -128,7 +128,7 @@ Per the follow-form architecture (per [Article 197](/comparison/cyber-tower-foll
 - Operational specific known scope
 - Operational specific affected systems / data
 
-#### Stage 4 — Incident response panel engagement
+#### Stage 4 - Incident response panel engagement
 
 **Pre-arranged panel activation.**
 
@@ -144,7 +144,7 @@ Per the follow-form architecture (per [Article 197](/comparison/cyber-tower-foll
 
 - Single coordinated response team
 
-#### Stage 5 — PDPA Section 26D notification
+#### Stage 5 - PDPA Section 26D notification
 
 **The 3-day clock.**
 
@@ -166,7 +166,7 @@ Where personal data breach meets significant harm threshold (per [Article 66](/d
 - PDPA notification cost typically covered under Cyber
 - Operational operational scope
 
-#### Stage 6 — Cybersecurity Act regulatory cooperation
+#### Stage 6 - Cybersecurity Act regulatory cooperation
 
 For designated CII / FDI / STCC scope:
 
@@ -184,7 +184,7 @@ Per [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) (per [Article 17
 - Operational operational scope
 - Operational operational considerations
 
-#### Stage 7 — Defence cost coordination
+#### Stage 7 - Defence cost coordination
 
 **Cross-layer coordination.**
 
@@ -207,7 +207,7 @@ For tower structures, defence cost coordination matters:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 8 — Specific allocation provisions
+#### Stage 8 - Specific allocation provisions
 
 For mixed claims:
 
@@ -223,7 +223,7 @@ For mixed claims:
 - Operational operational considerations
 - Operational commercial relationships
 
-#### Stage 9 — Settlement coordination
+#### Stage 9 - Settlement coordination
 
 **Cross-layer consent provisions.**
 
@@ -240,7 +240,7 @@ Settlement decisions typically require consent:
 - Operational specific cross-layer coordination
 - Operational operational considerations
 
-#### Stage 10 — Recovery / subrogation
+#### Stage 10 - Recovery / subrogation
 
 For specific recovery scenarios (per [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston):
 
@@ -386,6 +386,6 @@ Cyber tower claim coordination is among the most operationally complex claim sce
 ### Related Information
 - [Cyber Tower Follow-Form Mechanics Deep-Dive: How Excess Layers Coordinate (and Where Gaps Emerge)](/comparison/cyber-tower-follow-form-mechanics)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
-- [Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?](/crisis/cyber-extortion-ransomware)
+- [Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?](/crisis/cyber-extortion-ransomware)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

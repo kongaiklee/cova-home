@@ -26,7 +26,7 @@ og_description: "Find a licensed IFA →"
 
 The S Pass is a mid-skilled work pass. Per [MOM's S Pass page](https://www.mom.gov.sg/passes-and-permits/s-pass) and the [March 2025 Committee of Supply update](https://www.humanresourcesonline.net/mom-committee-of-supply-2025-s-pass-minimum-qualifying-salary-to-be-increased-from-sep-2025-and-more-work-pass-updates), from **1 September 2025** the minimum qualifying salary is S$3,300/month (general) and S$3,800/month (financial services), with progressive age increases up to S$4,800 (general) and S$5,650 (financial services) for candidates in their mid-40s. The new salary applies to new applications from 1 Sep 2025 and to renewal applications expiring from 1 Sep 2026. The S Pass Tier 1 levy was harmonised with Tier 2 to S$650/month from 1 September 2025.
 
-### The S$60,000 medical insurance — Stage 1 (effective 1 July 2023)
+### The S$60,000 medical insurance - Stage 1 (effective 1 July 2023)
 
 Per [MOM](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance):
 
@@ -56,7 +56,7 @@ The employer must enter the insurer name, policy number, and validity dates into
 
 ### S Pass under COMPASS
 
-Note that COMPASS (the points-based EP framework) does **not** apply to S Pass — COMPASS is Employment Pass only. S Pass eligibility is governed by qualifying salary, levy quota, and dependency ratio ceiling. But MOM continues to publish guidance on S Pass quality benchmarks; expect periodic increases in qualifying salary.
+Note that COMPASS (the points-based EP framework) does **not** apply to S Pass - COMPASS is Employment Pass only. S Pass eligibility is governed by qualifying salary, levy quota, and dependency ratio ceiling. But MOM continues to publish guidance on S Pass quality benchmarks; expect periodic increases in qualifying salary.
 
 ### What S Pass medical insurance does NOT cover
 
@@ -66,7 +66,7 @@ Note that COMPASS (the points-based EP framework) does **not** apply to S Pass �
 - Pre-existing conditions during the first 12 months of employment (per the standardised exclusions from 1 July 2025).
 - Medically unnecessary procedures.
 
-If you want broader coverage — outpatient, dental, optical — you buy on top, voluntarily.
+If you want broader coverage - outpatient, dental, optical - you buy on top, voluntarily.
 
 ## What This Means for Your Business
 
@@ -80,10 +80,10 @@ A common compliance error worth flagging: failing to renew the medical insurance
 
 ## Questions to Ask Your Adviser
 
-1. My current S Pass insurer — does the policy reflect the 1 July 2025 standardised exclusions and age-band pricing?
+1. My current S Pass insurer - does the policy reflect the 1 July 2025 standardised exclusions and age-band pricing?
 2. With a mixed workforce (Work Permit + S Pass), can I run one MOM-compliant master policy?
 3. What's the difference in premium between a basic S$60k MOM-compliant plan and a richer plan with outpatient cover added?
-4. The employer co-pay-to-worker rules — can you draft compliant contract language?
+4. The employer co-pay-to-worker rules - can you draft compliant contract language?
 5. If a worker has a serious illness mid-employment, what's my exposure beyond the insurer's S$60k limit?
 
 **Match with a licensed IFA →**

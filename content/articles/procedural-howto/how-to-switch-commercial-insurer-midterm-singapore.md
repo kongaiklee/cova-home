@@ -20,7 +20,7 @@ og_description: "Singapore SMEs can switch commercial insurers mid-policy-term, 
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs can switch commercial insurers mid-policy-term, but the procedure has specific commercial and procedural traps. Standard procedure: (1) review current policy cancellation provisions (short-rate vs pro-rata refund, minimum earned premium clauses); (2) obtain new insurer's quote with **inception date set 1 day before old policy cancellation** to ensure continuous cover; (3) verify new insurer addresses any retroactive cover requirements (especially for claims-made covers like PI, D&O, Cyber); (4) confirm WICA is transferred to another [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) (cannot lapse); (5) submit cancellation notice to current insurer with 30-day notice (or per policy provisions); (6) coordinate with relevant third parties (landlords as additional insureds, finance counterparties, contract counterparties); (7) verify all certificates of insurance updated. Note: Singapore commercial insurance does **not** have statutory cooling-off / free-look period (unlike life/health policies); cancellation terms are contractual. Common traps: minimum earned premium clauses keeping insurer 25-50% of unearned premium; bundle discount loss when partial cancellation; open claim continuity (existing insurer continues handling claim despite cancellation). Mid-term switching is operationally feasible but rarely optimal — most switching benefits accrue at renewal timing.
+> Singapore SMEs can switch commercial insurers mid-policy-term, but the procedure has specific commercial and procedural traps. Standard procedure: (1) review current policy cancellation provisions (short-rate vs pro-rata refund, minimum earned premium clauses); (2) obtain new insurer's quote with **inception date set 1 day before old policy cancellation** to ensure continuous cover; (3) verify new insurer addresses any retroactive cover requirements (especially for claims-made covers like PI, D&O, Cyber); (4) confirm WICA is transferred to another [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) (cannot lapse); (5) submit cancellation notice to current insurer with 30-day notice (or per policy provisions); (6) coordinate with relevant third parties (landlords as additional insureds, finance counterparties, contract counterparties); (7) verify all certificates of insurance updated. Note: Singapore commercial insurance does **not** have statutory cooling-off / free-look period (unlike life/health policies); cancellation terms are contractual. Common traps: minimum earned premium clauses keeping insurer 25-50% of unearned premium; bundle discount loss when partial cancellation; open claim continuity (existing insurer continues handling claim despite cancellation). Mid-term switching is operationally feasible but rarely optimal - most switching benefits accrue at renewal timing.
 
 ### The Sourced Detail
 
@@ -28,14 +28,14 @@ Mid-term insurer switching is one of the more procedurally complex SME insurance
 
 #### Regulatory framework
 
-**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) — establishes general insurance contract framework including cancellation provisions.
+**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - establishes general insurance contract framework including cancellation provisions.
 
 **Specific cover requirements:**
-- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) — WICA cover from designated insurer cannot lapse
-- [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) — Compulsory motor third-party cover
-- [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), with insurance brokers also registered under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) — broker conduct in switching transactions
+- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - WICA cover from designated insurer cannot lapse
+- [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) - Compulsory motor third-party cover
+- [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), with insurance brokers also registered under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - broker conduct in switching transactions
 
-**Industry framework.** [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) — industry conventions on cancellation, refunds, double-insurance.
+**Industry framework.** [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) - industry conventions on cancellation, refunds, double-insurance.
 
 #### When mid-term switching is appropriate
 
@@ -92,7 +92,7 @@ For most SMEs, renewal timing is the optimal switching window; mid-term switchin
 
 #### The switching procedure step-by-step
 
-**Step 1 — Review current policy cancellation provisions.**
+**Step 1 - Review current policy cancellation provisions.**
 
 Examine current policy for:
 - Cancellation notice period (typically 30 days)
@@ -101,7 +101,7 @@ Examine current policy for:
 - Open claim implications
 - Specific cover-line provisions
 
-**Step 2 — Obtain new insurer's quote.**
+**Step 2 - Obtain new insurer's quote.**
 
 Quote must be specifically structured for mid-term inception:
 - Inception date set 1 day before current policy cancellation date
@@ -109,7 +109,7 @@ Quote must be specifically structured for mid-term inception:
 - For claims-made covers: explicit retroactive date addressing historical exposures
 - Same or comparable cover scope
 
-**Step 3 — Compare total cost.**
+**Step 3 - Compare total cost.**
 
 Total cost calculation:
 - New premium for remaining term
@@ -120,14 +120,14 @@ Total cost calculation:
 
 Cancellation cost can be substantial. SGD 5,000 unearned premium with 50% minimum earned clause = SGD 2,500 retained by current insurer; only SGD 2,500 refunded.
 
-**Step 4 — Coordinate with third parties.**
+**Step 4 - Coordinate with third parties.**
 
 - **Landlords as additional insureds.** Inform landlord; provide new certificate of insurance.
 - **Finance counterparties.** Mortgagee / finance party may require notification or approval.
 - **Contract counterparties.** Customer / supplier contracts requiring specific cover may have notification requirements.
 - **Other third parties** named on policy (joint insured, loss payees).
 
-**Step 5 — Submit cancellation notice.**
+**Step 5 - Submit cancellation notice.**
 
 To current insurer:
 - Written notice citing policy number
@@ -137,14 +137,14 @@ To current insurer:
 
 Per most policy terms, written notice required with 30 days advance.
 
-**Step 6 — Confirm new policy inception.**
+**Step 6 - Confirm new policy inception.**
 
 - New policy issued with correct inception date
 - All required information accurate
 - Certificates of insurance issued
 - Premium paid per terms
 
-**Step 7 — Coordinate transition.**
+**Step 7 - Coordinate transition.**
 
 For week before / after switch:
 - Internal awareness of insurer change
@@ -152,7 +152,7 @@ For week before / after switch:
 - Updated claim procedures
 - Certificates updated for relevant third parties
 
-**Step 8 — Manage open claims (if any).**
+**Step 8 - Manage open claims (if any).**
 
 Open claims at time of cancellation:
 - Current insurer continues handling existing claim regardless of cancellation
@@ -220,7 +220,7 @@ This is commonly misunderstood by SMEs assuming cooling-off applies to all insur
 
 For Singapore SMEs considering mid-term insurer switch:
 
-1. **Genuine trigger established** — service failure, material savings, scope change, etc.
+1. **Genuine trigger established** - service failure, material savings, scope change, etc.
 
 2. **Total cost calculation** including cancellation costs, bundle impacts, fees.
 
@@ -238,9 +238,9 @@ For Singapore SMEs considering mid-term insurer switch:
 
 9. **Documentation** of all communications and confirmations.
 
-10. **Renewal alternative considered** — many switches better timed at renewal.
+10. **Renewal alternative considered** - many switches better timed at renewal.
 
-The cost of mid-term switching errors is substantial — coverage gaps creating uninsured exposures, claims-made cover gaps for historical work, regulatory exposure for WICA gaps. Most mid-term switching scenarios benefit from broker support; navigating multi-line transitions independently is operationally demanding.
+The cost of mid-term switching errors is substantial - coverage gaps creating uninsured exposures, claims-made cover gaps for historical work, regulatory exposure for WICA gaps. Most mid-term switching scenarios benefit from broker support; navigating multi-line transitions independently is operationally demanding.
 
 ### Questions to Ask Your Adviser
 

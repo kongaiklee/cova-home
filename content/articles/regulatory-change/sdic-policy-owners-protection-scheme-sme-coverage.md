@@ -44,7 +44,7 @@ Personal-lines coverage is restricted to risks arising in Singapore or where the
 
 PPF coverage for general insurance is 100% with no caps, except:
 
-**Statutory limits for compulsory insurance** — these are not PPF caps but the underlying statutory ceilings (e.g., WICA compensation limits per the 1 November 2025 uplift).
+**Statutory limits for compulsory insurance** - these are not PPF caps but the underlying statutory ceilings (e.g., WICA compensation limits per the 1 November 2025 uplift).
 
 **S$50,000** for own property damage motor claims under personal motor policies.
 
@@ -58,7 +58,7 @@ PPF coverage for life insurance applies to all life policies including riders is
 
 The life-insurance scope is structurally different from general insurance:
 
-Guaranteed benefits only — non-guaranteed bonuses, terminal bonuses, and policy-illustrated future returns are not within PPF cover.
+Guaranteed benefits only - non-guaranteed bonuses, terminal bonuses, and policy-illustrated future returns are not within PPF cover.
 
 Caps apply per insurer per life insured, with separate caps for sum assured and for surrender value.
 
@@ -94,7 +94,7 @@ The transaction demonstrated the Part 3AA mechanism: court sanction was required
 
 Important disambiguation: AXA Insurance Pte Ltd was the local retail and SME general-insurance entity acquired by HSBC and renamed HSBC Life (Singapore). AXA XL is the separate global commercial and specialty lines business and continues to operate in Singapore unaffected by the 2023 transaction. SMEs holding AXA XL commercial-lines policies (typically larger Property, Marine, D&O, PI placements for mid-market and large-account business) were not affected.
 
-#### Verbatim regulatory text — primary-source routing
+#### Verbatim regulatory text - primary-source routing
 
 The primary-source URLs:
 
@@ -114,7 +114,7 @@ The primary-source URLs:
 
 [PPF FAQ](https://www.sdic.org.sg/pp_faq/).
 
-Current list of PPF Scheme members at [sdic.org.sg](https://www.sdic.org.sg) — drafters and SMEs should verify the current membership list at the time of advice.
+Current list of PPF Scheme members at [sdic.org.sg](https://www.sdic.org.sg) - drafters and SMEs should verify the current membership list at the time of advice.
 
 #### Counterparty diligence for non-PPF commercial lines
 
@@ -158,7 +158,7 @@ Non-PPF outcomes:
 - PL claims: SME D becomes an unsecured creditor.
 - D&O claims: SME D becomes an unsecured creditor.
 
-MAS preferred outcome: identify a willing transferee insurer to absorb Insurer Y's book under Insurance Act Part 3AA. If a transfer is completed, all policies (PPF and non-PPF) continue under the transferee insurer with terms preserved by operation of law. This is the AXA-to-HSBC precedent — applied to a failure context rather than a solvent commercial transaction.
+MAS preferred outcome: identify a willing transferee insurer to absorb Insurer Y's book under Insurance Act Part 3AA. If a transfer is completed, all policies (PPF and non-PPF) continue under the transferee insurer with terms preserved by operation of law. This is the AXA-to-HSBC precedent - applied to a failure context rather than a solvent commercial transaction.
 
 #### Premium and policyholder cost
 
@@ -168,7 +168,7 @@ PPF Scheme members include the major Singapore-licensed direct insurers underwri
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Assuming all SME insurance is PPF-protected.** The PPF safety net is robust for compulsory motor third-party and WICA cover, but commercial-lines general insurance is largely outside the Scheme. SMEs should not assume that "PPF protects my insurance" — most commercial covers are not protected.
+1. **Assuming all SME insurance is PPF-protected.** The PPF safety net is robust for compulsory motor third-party and WICA cover, but commercial-lines general insurance is largely outside the Scheme. SMEs should not assume that "PPF protects my insurance" - most commercial covers are not protected.
 
 2. **Confusing PPF membership with PPF coverage of a specific policy.** All direct-licensed Singapore general insurers are PPF members, but the policy issued may not be PPF-covered. The cover-scope analysis is per-policy, not per-insurer.
 
@@ -190,13 +190,13 @@ PPF Scheme members include the major Singapore-licensed direct insurers underwri
 
 ### What This Means for Your Business
 
-For a Singapore SME, the structural read on PPF is: confirm the carrier is a PPF Scheme member for all placements; understand that PPF protection extends primarily to compulsory cover and to personal lines; for commercial-lines policies (Property, Commercial PL, Marine, PI, Cyber, D&O, Trade Credit, Crime), there is no PPF protection — carrier financial-strength is the safety net.
+For a Singapore SME, the structural read on PPF is: confirm the carrier is a PPF Scheme member for all placements; understand that PPF protection extends primarily to compulsory cover and to personal lines; for commercial-lines policies (Property, Commercial PL, Marine, PI, Cyber, D&O, Trade Credit, Crime), there is no PPF protection - carrier financial-strength is the safety net.
 
 For SMEs with concentrated single-carrier exposure on commercial lines, consider carrier diversification at renewal. Splitting a high-concentration programme across two or more carriers materially reduces single-point-of-failure risk.
 
 For SMEs whose current insurer is the subject of market rumour or actual MAS intervention, the appropriate response is: do not cancel cover; monitor MAS and SDIC public communications; review renewal options with broker advice; if MAS has formally intervened, follow MAS and SDIC public communications and continue normal engagement with the insurer or its statutory manager.
 
-For SMEs procuring captive-issued cover or specialist-line cover, PPF protection is typically not available — the carrier's solvency is the SME's entire protection.
+For SMEs procuring captive-issued cover or specialist-line cover, PPF protection is typically not available - the carrier's solvency is the SME's entire protection.
 
 ### Questions to Ask Your Adviser
 
@@ -210,11 +210,11 @@ For SMEs procuring captive-issued cover or specialist-line cover, PPF protection
 
 ### Related Information
 
-- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 410 — How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
-- [Article 251 — The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 262 - Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 410 - How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
+- [Article 251 - The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 261 - IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
 
 ---

@@ -24,7 +24,7 @@ og_description: "Trade Credit claim submission is highly process-driven, with op
 
 ### The Sourced Detail
 
-Trade Credit claim handling is more operationally demanding than typical commercial insurance. The portfolio-based architecture and operational discipline requirements mean that Trade Credit claim outcomes depend substantially on whether the SME has maintained operational discipline throughout the policy period — not just on the loss event itself. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For specific Singapore subrogation case law application, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including the framework discussed in [Article 187](/document-legal/castellian-preston-subrogation).
+Trade Credit claim handling is more operationally demanding than typical commercial insurance. The portfolio-based architecture and operational discipline requirements mean that Trade Credit claim outcomes depend substantially on whether the SME has maintained operational discipline throughout the policy period - not just on the loss event itself. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For specific Singapore subrogation case law application, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including the framework discussed in [Article 187](/document-legal/castellian-preston-subrogation).
 
 #### The pre-claim foundation
 
@@ -64,7 +64,7 @@ For each shipment / receivable:
 - Operational payment due date
 - Operational customer communications
 
-#### Stage 1 — Customer payment default
+#### Stage 1 - Customer payment default
 
 **Initial indicators.**
 
@@ -78,7 +78,7 @@ For each shipment / receivable:
 - Operational commercial relationship management
 - Operational considerations
 
-#### Stage 2 — Overdue notification to insurer
+#### Stage 2 - Overdue notification to insurer
 
 **The notification trigger.**
 
@@ -101,7 +101,7 @@ Trade Credit policies typically require overdue notification at specific interva
 - Commercial implications
 - Specific recovery prejudice
 
-#### Stage 3 — Collection cooperation phase
+#### Stage 3 - Collection cooperation phase
 
 **Specific insurer requirements.**
 
@@ -124,7 +124,7 @@ After notification, insurer typically requires specific actions:
 - Operational considerations
 - Operational commercial relationship considerations
 
-#### Stage 4 — Claim submission
+#### Stage 4 - Claim submission
 
 **Claim trigger events.**
 
@@ -154,7 +154,7 @@ For claim submission:
 - Operational considerations
 - Operational discipline
 
-#### Stage 5 — Insurer investigation and validation
+#### Stage 5 - Insurer investigation and validation
 
 **Investigation scope.**
 
@@ -179,7 +179,7 @@ Insurer evaluates:
 - Operational considerations
 - Operational discipline
 
-#### Stage 6 — Specific recovery action coordination
+#### Stage 6 - Specific recovery action coordination
 
 **Insurer-coordinated recovery.**
 
@@ -203,7 +203,7 @@ For cross-border defaulted customers:
 - Operational considerations
 - Operational operational discipline
 
-#### Stage 7 — Claim payment
+#### Stage 7 - Claim payment
 
 **Payment timing.**
 

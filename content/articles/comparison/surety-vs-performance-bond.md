@@ -13,14 +13,14 @@ word_count: 1582
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/surety-vs-performance-bond"
-meta_description: "\"Surety bond\" is the broad category — a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
+meta_description: "\"Surety bond\" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
 og_title: "Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate"
-og_description: "\"Surety bond\" is the broad category — a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
+og_description: "\"Surety bond\" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> "Surety bond" is the broad category — a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the obligations of the principal (the SME) to the obligee (the party requiring the guarantee). "Performance bond" is a specific type of surety bond — guaranteeing the principal's performance under a specific contract (typically construction, supply, or service contracts). Other surety bond types include **bid bonds** (guaranteeing the principal will sign the contract if awarded), **payment bonds** (guaranteeing payment to subcontractors / suppliers), **maintenance bonds** (guaranteeing post-completion maintenance), **customs bonds** (guaranteeing customs duties), and specific other bond types. For Singapore SMEs operating in construction, government contracts, customs / trade, and commercial relationships, understanding the surety bond architecture is foundational. The bonds are commercial contracts not traditional insurance — the principal is liable to the surety for any payments made, with the bond essentially providing a credit-enhancement function rather than risk transfer.
+> "Surety bond" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the obligations of the principal (the SME) to the obligee (the party requiring the guarantee). "Performance bond" is a specific type of surety bond - guaranteeing the principal's performance under a specific contract (typically construction, supply, or service contracts). Other surety bond types include **bid bonds** (guaranteeing the principal will sign the contract if awarded), **payment bonds** (guaranteeing payment to subcontractors / suppliers), **maintenance bonds** (guaranteeing post-completion maintenance), **customs bonds** (guaranteeing customs duties), and specific other bond types. For Singapore SMEs operating in construction, government contracts, customs / trade, and commercial relationships, understanding the surety bond architecture is foundational. The bonds are commercial contracts not traditional insurance - the principal is liable to the surety for any payments made, with the bond essentially providing a credit-enhancement function rather than risk transfer.
 
 ### The Sourced Detail
 
@@ -43,7 +43,7 @@ The structure is fundamentally different from traditional insurance:
 
 The principal's liability to the surety is the key commercial point that distinguishes bonds from insurance.
 
-#### Performance bonds — the most common type
+#### Performance bonds - the most common type
 
 **Scope.** Performance bonds guarantee the principal's performance under a specific contract. If the principal fails to perform, the obligee can claim under the bond.
 
@@ -60,7 +60,7 @@ The principal's liability to the surety is the key commercial point that disting
 - Specific contract changes without surety consent
 - Specific other defined exclusions
 
-**Common application — construction.**
+**Common application - construction.**
 
 In Singapore construction:
 
@@ -69,7 +69,7 @@ In Singapore construction:
 - Specific bond duration (typically project duration plus defects liability period)
 - Commercial relationships
 
-**Common application — supply contracts.**
+**Common application - supply contracts.**
 
 For supply / service contracts:
 
@@ -77,7 +77,7 @@ For supply / service contracts:
 - Specific bond scope and amount
 - Commercial relationships
 
-**Common application — government contracts.**
+**Common application - government contracts.**
 
 For government procurement:
 
@@ -154,7 +154,7 @@ Per [Singapore Customs framework](https://www.customs.gov.sg/) (see [Article 161
 
 #### How surety bonds differ from insurance
 
-**Risk transfer.** Insurance transfers risk from insured to insurer. Surety bond is essentially credit enhancement — surety pays obligee but recovers from principal.
+**Risk transfer.** Insurance transfers risk from insured to insurer. Surety bond is essentially credit enhancement - surety pays obligee but recovers from principal.
 
 **Indemnity to surety.** Principal must indemnify surety for any payments made plus expenses. The principal therefore bears ultimate financial responsibility.
 
@@ -263,11 +263,11 @@ For SMEs requiring multiple bonds:
 
 Bonds operate within specific contracts:
 
-**The underlying contract.** The contract being bonded — its terms determine bond scope.
+**The underlying contract.** The contract being bonded - its terms determine bond scope.
 
-**The bond instrument.** The specific bond document — its terms determine surety obligations.
+**The bond instrument.** The specific bond document - its terms determine surety obligations.
 
-**The indemnity agreement.** Between principal and surety — determines principal's indemnification obligations.
+**The indemnity agreement.** Between principal and surety - determines principal's indemnification obligations.
 
 **Operational considerations required.** All three documents should be coordinated.
 

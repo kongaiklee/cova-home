@@ -49,15 +49,15 @@ The immediate operational impact:
 
 **Companies Act 1967.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967).
 
-**Section 145 — Resident Director.** Every Singapore company must have at least one director ordinarily resident in Singapore. The vacancy of this position triggers compliance issues; the remaining board must promptly appoint a replacement Singapore-resident director.
+**Section 145 - Resident Director.** Every Singapore company must have at least one director ordinarily resident in Singapore. The vacancy of this position triggers compliance issues; the remaining board must promptly appoint a replacement Singapore-resident director.
 
-**Section 156 — Disclosure of Director Interests.** Continuing obligation on remaining directors.
+**Section 156 - Disclosure of Director Interests.** Continuing obligation on remaining directors.
 
-**Section 157 — Director Duty.** Subsection (1): "A director shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office." Subsection (2): no improper use of information acquired by virtue of position. Subsection (3): liability for any profit and damages. The duty falls on the remaining directors, who must continue to discharge it through the crisis period.
+**Section 157 - Director Duty.** Subsection (1): "A director shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office." Subsection (2): no improper use of information acquired by virtue of position. Subsection (3): liability for any profit and damages. The duty falls on the remaining directors, who must continue to discharge it through the crisis period.
 
-**Section 173 — Register of Directors and Officers.** Filing of changes to ACRA via BizFile. The SME should verify the current filing period at [acra.gov.sg](https://www.acra.gov.sg). Late filing can result in compliance offences.
+**Section 173 - Register of Directors and Officers.** Filing of changes to ACRA via BizFile. The SME should verify the current filing period at [acra.gov.sg](https://www.acra.gov.sg). Late filing can result in compliance offences.
 
-**Section 175 — Annual General Meeting.** AGM framework continues to apply through the crisis period.
+**Section 175 - Annual General Meeting.** AGM framework continues to apply through the crisis period.
 
 **Constitution / Articles.** Each SME's Constitution typically governs appointment of directors, alternate directors, casual vacancy filling, chairman appointment, and director resignation procedures. The Constitution may include specific provisions for death or incapacity of a director.
 
@@ -112,7 +112,7 @@ The Office of the Public Trustee can administer small intestate estates where no
 
 For sudden incapacitation scenarios, the Mental Capacity Act 2008 framework governs:
 
-**LPA (Lasting Power of Attorney).** A document executed by an individual (the donor) appointing one or more donees to make decisions on their behalf if they lose mental capacity. An LPA covers two decision domains — Personal Welfare, and Property and Affairs — and the donor chooses whether to grant the donee authority over one or both. Two prescribed forms exist: Form 1, the standard form granting general powers subject to basic restrictions (used in the large majority of LPAs); and Form 2, used where the donor wants customised powers (for example, appointing more than two donees or imposing bespoke conditions) and which must be drafted by a lawyer. The LPA must be registered with the Office of the Public Guardian to be effective. For SME directors, the Property and Affairs domain is the relevant one; the donee can act on banking, contracts, and other property matters on the incapacitated director's behalf.
+**LPA (Lasting Power of Attorney).** A document executed by an individual (the donor) appointing one or more donees to make decisions on their behalf if they lose mental capacity. An LPA covers two decision domains - Personal Welfare, and Property and Affairs - and the donor chooses whether to grant the donee authority over one or both. Two prescribed forms exist: Form 1, the standard form granting general powers subject to basic restrictions (used in the large majority of LPAs); and Form 2, used where the donor wants customised powers (for example, appointing more than two donees or imposing bespoke conditions) and which must be drafted by a lawyer. The LPA must be registered with the Office of the Public Guardian to be effective. For SME directors, the Property and Affairs domain is the relevant one; the donee can act on banking, contracts, and other property matters on the incapacitated director's behalf.
 
 **Deputyship.** Where the director did not execute an LPA before incapacity, the Family Justice Courts can appoint a deputy under the Mental Capacity Act 2008. The process takes weeks to months and involves court application, medical assessment, and possibly contested hearings.
 
@@ -190,11 +190,11 @@ For directors of the SME, continuing section 157 duty of diligence requires docu
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 297 — Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)
-- [Article 298 — JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](/crisis/jv-partnership-breakdown-allocation-run-off-dissolution)
-- [Article 392 — GPA vs GTL: Group Personal Accident vs Group Term Life Decision Framework for Singapore SMEs](/comparison/group-personal-accident-vs-group-term-life-sme)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 297 - Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)
+- [Article 298 - JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow](/crisis/jv-partnership-breakdown-allocation-run-off-dissolution)
+- [Article 392 - GPA vs GTL: Group Personal Accident vs Group Term Life Decision Framework for Singapore SMEs](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Article 393 - Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

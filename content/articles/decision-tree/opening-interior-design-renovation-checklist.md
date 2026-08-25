@@ -65,7 +65,7 @@ Per [BCA's contractor registration framework](https://www1.bca.gov.sg/):
 **HDB Registered Renovation Contractor (RRC):**
 - Required for renovations on HDB premises
 - [HDB RRC scheme](https://www.hdb.gov.sg/) specifically governs renovations in HDB flats
-- Specific bond (currently S$15,000 — verify on HDB portal) required
+- Specific bond (currently S$15,000 - verify on HDB portal) required
 - Specific insurance requirements
 - Operational standards
 - Penalty / suspension framework for breaches

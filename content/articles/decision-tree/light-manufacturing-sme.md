@@ -1,5 +1,5 @@
 ---
-title: "SME Startup Decision Tree: Light Manufacturing — Foundational Insurance Procurement"
+title: "SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement"
 slug: "/decision-tree/light-manufacturing-sme"
 category: "decision-tree"
 intent: "make-the-call"
@@ -13,14 +13,14 @@ word_count: 1408
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/decision-tree/light-manufacturing-sme"
-meta_description: "Light manufacturing operators in Singapore — covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
-og_title: "SME Startup Decision Tree: Light Manufacturing — Foundational Insurance Procurement"
-og_description: "Light manufacturing operators in Singapore — covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
+meta_description: "Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
+og_title: "SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement"
+og_description: "Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Light manufacturing operators in Singapore — covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods manufacturing, contract manufacturing, and specific specialty manufacturing — face a foundational insurance profile centred on substantial Public Liability with Product Liability scope, Property/Fire with specific provisions for manufacturing premises and machinery, substantial Equipment Breakdown for manufacturing equipment, BI cover with adequate indemnity period reflecting equipment replacement timelines, Goods in Transit / Marine Cargo for raw material and finished goods movement, EPL, Cyber Liability for operational systems, Commercial Motor where applicable, and considerations on supply chain commercial relationships. Foundational regulatory framework includes [WSH Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) administered by [MOM](https://www.mom.gov.sg/), specific [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) framework for F&B manufacturing, [HSA](https://www.hsa.gov.sg/) framework where applicable for specific products, [NEA](https://www.nea.gov.sg/) environmental scope, and specific [Singapore Standards](https://www.singaporestandardseshop.sg/) compliance.
+> Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods manufacturing, contract manufacturing, and specific specialty manufacturing - face a foundational insurance profile centred on substantial Public Liability with Product Liability scope, Property/Fire with specific provisions for manufacturing premises and machinery, substantial Equipment Breakdown for manufacturing equipment, BI cover with adequate indemnity period reflecting equipment replacement timelines, Goods in Transit / Marine Cargo for raw material and finished goods movement, EPL, Cyber Liability for operational systems, Commercial Motor where applicable, and considerations on supply chain commercial relationships. Foundational regulatory framework includes [WSH Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) administered by [MOM](https://www.mom.gov.sg/), specific [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) framework for F&B manufacturing, [HSA](https://www.hsa.gov.sg/) framework where applicable for specific products, [NEA](https://www.nea.gov.sg/) environmental scope, and specific [Singapore Standards](https://www.singaporestandardseshop.sg/) compliance.
 
 ### The Sourced Detail
 
@@ -30,17 +30,17 @@ Light manufacturing represents Singapore SME vertical with commercial convention
 
 The first decision point distinguishes manufacturing scope.
 
-**Precision manufacturing** — operator produces precision components (semiconductors-adjacent, precision engineering, operational other precision scope). Framework for quality discipline, operational equipment dependencies, operational operational sophistication.
+**Precision manufacturing** - operator produces precision components (semiconductors-adjacent, precision engineering, operational other precision scope). Framework for quality discipline, operational equipment dependencies, operational operational sophistication.
 
-**Electronics manufacturing** — operator produces electronic products. Framework for component supply chain, operational Product Liability considerations, operational operational scope.
+**Electronics manufacturing** - operator produces electronic products. Framework for component supply chain, operational Product Liability considerations, operational operational scope.
 
-**Food and beverage manufacturing** — operator produces F&B products. Specific [SFA](https://www.sfa.gov.sg/) framework, operational cold chain considerations, operational recall scope.
+**Food and beverage manufacturing** - operator produces F&B products. Specific [SFA](https://www.sfa.gov.sg/) framework, operational cold chain considerations, operational recall scope.
 
-**Consumer goods manufacturing** — operator produces consumer goods. Specific Product Liability scope under [Sale of Goods Act 1979](https://sso.agc.gov.sg/Act/SGA1979) and [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), operational scope.
+**Consumer goods manufacturing** - operator produces consumer goods. Specific Product Liability scope under [Sale of Goods Act 1979](https://sso.agc.gov.sg/Act/SGA1979) and [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), operational scope.
 
-**Contract manufacturing** — operator produces under commercial relationships with brand-owners. Considerations on contractual liability allocation, operational scope.
+**Contract manufacturing** - operator produces under commercial relationships with brand-owners. Considerations on contractual liability allocation, operational scope.
 
-**Specialty manufacturing** — operator produces specialty products with commercial considerations.
+**Specialty manufacturing** - operator produces specialty products with commercial considerations.
 
 For each manufacturing scope, specific Product Liability scope and operational considerations matters.
 
@@ -48,13 +48,13 @@ For each manufacturing scope, specific Product Liability scope and operational c
 
 The second decision point distinguishes equipment intensity.
 
-**Light equipment scope** — operator operates with modest equipment scope. Foundational Property/Fire and Equipment Breakdown scope.
+**Light equipment scope** - operator operates with modest equipment scope. Foundational Property/Fire and Equipment Breakdown scope.
 
-**Substantive equipment scope** — operator operates with substantive equipment scope (S$500k-S$5M equipment value). Considerations on Property/Fire sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive)), specific Equipment Breakdown scope, specific BI indemnity period considerations.
+**Substantive equipment scope** - operator operates with substantive equipment scope (S$500k-S$5M equipment value). Considerations on Property/Fire sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive)), specific Equipment Breakdown scope, specific BI indemnity period considerations.
 
-**Substantial equipment scope** — operator operates with substantial equipment (S$5M+ equipment value). Considerations on limits, specific BI considerations given equipment replacement timelines that can extend substantially (12-24+ months for specific manufacturing equipment).
+**Substantial equipment scope** - operator operates with substantial equipment (S$5M+ equipment value). Considerations on limits, specific BI considerations given equipment replacement timelines that can extend substantially (12-24+ months for specific manufacturing equipment).
 
-**Specialty equipment scope** — operator operates operational specialty equipment with commercial considerations.
+**Specialty equipment scope** - operator operates operational specialty equipment with commercial considerations.
 
 For substantial equipment scope, BI indemnity period considerations matter substantially. Standard 12-month indemnity periods may be inadequate for specific manufacturing equipment replacement timelines.
 
@@ -62,13 +62,13 @@ For substantial equipment scope, BI indemnity period considerations matter subst
 
 The third decision point distinguishes product distribution scope.
 
-**Singapore-only distribution** — operator distributes only to Singapore market. Specific [CPFTA](https://sso.agc.gov.sg/Act/CPFTA2003), [Sale of Goods Act](https://sso.agc.gov.sg/Act/SGA1979) scope.
+**Singapore-only distribution** - operator distributes only to Singapore market. Specific [CPFTA](https://sso.agc.gov.sg/Act/CPFTA2003), [Sale of Goods Act](https://sso.agc.gov.sg/Act/SGA1979) scope.
 
-**Regional distribution** — operator distributes regionally. Specific multi-jurisdictional Product Liability framework variation, specific cross-border commercial scope.
+**Regional distribution** - operator distributes regionally. Specific multi-jurisdictional Product Liability framework variation, specific cross-border commercial scope.
 
-**Global distribution** — operator distributes globally. Specific multi-jurisdictional regulatory framework including [EU Product Liability Directive](https://eur-lex.europa.eu/) (substantively strict liability framework), operational US state-by-state product liability framework, operational other framework scope.
+**Global distribution** - operator distributes globally. Specific multi-jurisdictional regulatory framework including [EU Product Liability Directive](https://eur-lex.europa.eu/) (substantively strict liability framework), operational US state-by-state product liability framework, operational other framework scope.
 
-**OEM / contract manufacturing distribution** — operator produces under brand-owner specifications. Framework for contractual liability allocation.
+**OEM / contract manufacturing distribution** - operator produces under brand-owner specifications. Framework for contractual liability allocation.
 
 For cross-border distribution, substantial Product Liability scope and considerations on multi-jurisdictional framework matters.
 
@@ -76,51 +76,51 @@ For cross-border distribution, substantial Product Liability scope and considera
 
 The fourth decision point distinguishes supply chain scope.
 
-**Local supply chain** — operator sources primarily from Singapore / regional suppliers. Foundational supply chain scope.
+**Local supply chain** - operator sources primarily from Singapore / regional suppliers. Foundational supply chain scope.
 
-**Cross-border supply chain** — operator sources from multiple jurisdictions. Specific Marine Cargo scope, operational scope around supplier failures.
+**Cross-border supply chain** - operator sources from multiple jurisdictions. Specific Marine Cargo scope, operational scope around supplier failures.
 
-**Single-source dependency** — operator depends substantially on specific suppliers. Specific Contingent BI scope considerations addressing operational supplier failure scenarios.
+**Single-source dependency** - operator depends substantially on specific suppliers. Specific Contingent BI scope considerations addressing operational supplier failure scenarios.
 
-**Just-in-Time (JIT) operations** — operator operates JIT inventory creating specific supply chain commercial scope considerations.
+**Just-in-Time (JIT) operations** - operator operates JIT inventory creating specific supply chain commercial scope considerations.
 
 #### Decision Point 5: Operational scale
 
 The fifth decision point distinguishes operational scale.
 
-**Startup scale** — minimal foundational cover scope.
+**Startup scale** - minimal foundational cover scope.
 
-**Growth scale** — expanded foundational cover scope.
+**Growth scale** - expanded foundational cover scope.
 
-**Substantive scale** — comprehensive foundational cover with operational considerations.
+**Substantive scale** - comprehensive foundational cover with operational considerations.
 
 #### Foundational Cover Architecture
 
 For Singapore light manufacturing SMEs, foundational cover stack includes several elements.
 
-**Public Liability with Product Liability extension** — foundational. Substantial limits reflecting product distribution scope and commercial scope.
+**Public Liability with Product Liability extension** - foundational. Substantial limits reflecting product distribution scope and commercial scope.
 
-**Property/Fire** — foundational with specific provisions for manufacturing premises and machinery. Considerations on adequate sum insured.
+**Property/Fire** - foundational with specific provisions for manufacturing premises and machinery. Considerations on adequate sum insured.
 
-**Equipment Breakdown** — foundational given equipment-intensive operations. Specific provisions for manufacturing equipment.
+**Equipment Breakdown** - foundational given equipment-intensive operations. Specific provisions for manufacturing equipment.
 
-**BI cover** — foundational with adequate indemnity period reflecting equipment replacement timelines.
+**BI cover** - foundational with adequate indemnity period reflecting equipment replacement timelines.
 
-**Goods in Transit / Marine Cargo** — for raw material and finished goods movement. Specific Open Cover scope where appropriate (per [Article 192](/comparison/marine-cargo-icc-a-b-c) on Marine Cargo Institute Cargo Clauses).
+**Goods in Transit / Marine Cargo** - for raw material and finished goods movement. Specific Open Cover scope where appropriate (per [Article 192](/comparison/marine-cargo-icc-a-b-c) on Marine Cargo Institute Cargo Clauses).
 
-**Commercial Motor** — where transport scope.
+**Commercial Motor** - where transport scope.
 
-**EPL cover** — addressing employment relationships.
+**EPL cover** - addressing employment relationships.
 
-**Cyber Liability** — for operational systems.
+**Cyber Liability** - for operational systems.
 
-**Commercial Crime / employee dishonesty cover** — for substantive operations.
+**Commercial Crime / employee dishonesty cover** - for substantive operations.
 
-**D&O cover** — for incorporated structures.
+**D&O cover** - for incorporated structures.
 
-**Specific Product Recall cover** — for substantive consumer-product operations. Considerations on scope.
+**Specific Product Recall cover** - for substantive consumer-product operations. Considerations on scope.
 
-**Specific Contingent BI / Supply Chain cover** — where substantial supply chain dependencies.
+**Specific Contingent BI / Supply Chain cover** - where substantial supply chain dependencies.
 
 **Commercial relationships** with manufacturing-aware brokers familiar with sector commercial scope.
 

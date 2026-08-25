@@ -66,23 +66,23 @@ Claims-made cover responds to claims first made during the policy period regardl
 
 #### The cover type assignment patterns
 
-**Public Liability** — conventionally occurrence basis. Framework for long-tail exposure where personal injury claims may emerge years after incident.
+**Public Liability** - conventionally occurrence basis. Framework for long-tail exposure where personal injury claims may emerge years after incident.
 
-**Product Liability extension** — typically follows Public Liability occurrence basis.
+**Product Liability extension** - typically follows Public Liability occurrence basis.
 
-**Professional Indemnity** — conventionally claims-made basis. retroactive date framework, continuous cover discipline, runoff cover discipline.
+**Professional Indemnity** - conventionally claims-made basis. retroactive date framework, continuous cover discipline, runoff cover discipline.
 
-**Cyber Liability** — conventionally claims-made basis. Framework for retroactive date and continuous cover.
+**Cyber Liability** - conventionally claims-made basis. Framework for retroactive date and continuous cover.
 
-**D&O Liability** — conventionally claims-made basis. Framework for retroactive date, continuous cover, and operational runoff framework.
+**D&O Liability** - conventionally claims-made basis. Framework for retroactive date, continuous cover, and operational runoff framework.
 
-**EPL (Employment Practices Liability)** — typically claims-made basis. Framework for continuous cover discipline.
+**EPL (Employment Practices Liability)** - typically claims-made basis. Framework for continuous cover discipline.
 
-**Property/Fire** — typically per occurrence basis (incident-based, although technically distinct from "occurrence" liability framework).
+**Property/Fire** - typically per occurrence basis (incident-based, although technically distinct from "occurrence" liability framework).
 
-**Crime / Fidelity** — variable framework. discovery framework (cover triggered by discovery of loss).
+**Crime / Fidelity** - variable framework. discovery framework (cover triggered by discovery of loss).
 
-**WICA / Workers Compensation** — typically incident-based.
+**WICA / Workers Compensation** - typically incident-based.
 
 #### The Limitation Act framework integration
 
@@ -100,19 +100,19 @@ For each Limitation Act framework, considerations on cover trigger framework int
 
 Commercial scenarios under each framework:
 
-**Long-tail Public Liability scenario** — incident occurs during policy period, claim emerges 5 years post-policy. Occurrence cover responds; claims-made cover would not respond (assuming no cover at claim notification date).
+**Long-tail Public Liability scenario** - incident occurs during policy period, claim emerges 5 years post-policy. Occurrence cover responds; claims-made cover would not respond (assuming no cover at claim notification date).
 
-**Continuous claims-made Professional Indemnity scenario** — incident occurs during early policy period, claim emerges during later policy period. Cover responds (assuming continuous cover preserved with appropriate retroactive date).
+**Continuous claims-made Professional Indemnity scenario** - incident occurs during early policy period, claim emerges during later policy period. Cover responds (assuming continuous cover preserved with appropriate retroactive date).
 
-**Discontinued operations claims-made scenario** — incident occurs during operational period, claim emerges post-discontinuation. Runoff cover (where procured) addresses; standard cover would not respond.
+**Discontinued operations claims-made scenario** - incident occurs during operational period, claim emerges post-discontinuation. Runoff cover (where procured) addresses; standard cover would not respond.
 
-**Insurer change retroactive date scenario** — incident occurs under prior insurer, claim emerges under new insurer. Considerations on retroactive date preservation matters substantially.
+**Insurer change retroactive date scenario** - incident occurs under prior insurer, claim emerges under new insurer. Considerations on retroactive date preservation matters substantially.
 
 **Mid-term cancellation:** commercial scenarios around cancellation scenarios.
 
 #### The commercial sophistication framework
 
-**Specific broker engagement** — commercial relationships supporting cover trigger framework discipline.
+**Specific broker engagement** - commercial relationships supporting cover trigger framework discipline.
 
 ### Common Mistakes / What Goes Wrong
 

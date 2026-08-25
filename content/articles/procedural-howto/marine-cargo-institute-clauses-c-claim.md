@@ -13,18 +13,18 @@ word_count: 1617
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/marine-cargo-institute-clauses-c-claim"
-meta_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) — it covers a defined list of named perils..."
+meta_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of named perils..."
 og_title: "How to Claim Under Marine Cargo Institute Clauses C"
-og_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) — it covers a defined list of named perils..."
+og_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of named perils..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) — it covers a defined list of **named perils only**, not "all risks." Per the [published ICC C 1/1/2009 wording](https://www.lmalloyds.com/lma/wordings/marine-cargo) (Lloyd's Market Association), the perils covered are limited to fire/explosion, vessel grounded/stranded/sunk/capsized, overturning or derailment of land conveyance, collision of vessel with anything other than water, discharge at port of distress, general average sacrifice, and jettison. To file a claim under ICC C, you must demonstrate that the loss was caused by one of these named perils — proximate causation matters. Theft, washing overboard, water entry, and earthquake/lightning are **not** covered under ICC C (they are covered under ICC A and partially under ICC B).
+> Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of **named perils only**, not "all risks." Per the [published ICC C 1/1/2009 wording](https://www.lmalloyds.com/lma/wordings/marine-cargo) (Lloyd's Market Association), the perils covered are limited to fire/explosion, vessel grounded/stranded/sunk/capsized, overturning or derailment of land conveyance, collision of vessel with anything other than water, discharge at port of distress, general average sacrifice, and jettison. To file a claim under ICC C, you must demonstrate that the loss was caused by one of these named perils - proximate causation matters. Theft, washing overboard, water entry, and earthquake/lightning are **not** covered under ICC C (they are covered under ICC A and partially under ICC B).
 
 ### The Step-by-Step
 
-ICC C is the cheapest of the three Institute Cargo Clauses and is commonly chosen by SMEs shipping bulk commodities, low-value cargo, or goods where the buyer/seller has agreed only minimum cover under the sale contract (e.g. CIF Incoterms with the seller's obligation being minimum cover under ICC C). The claim mechanics are similar to ICC A — but the *coverage threshold* is higher because you must prove a named peril caused the loss.
+ICC C is the cheapest of the three Institute Cargo Clauses and is commonly chosen by SMEs shipping bulk commodities, low-value cargo, or goods where the buyer/seller has agreed only minimum cover under the sale contract (e.g. CIF Incoterms with the seller's obligation being minimum cover under ICC C). The claim mechanics are similar to ICC A - but the *coverage threshold* is higher because you must prove a named peril caused the loss.
 
 #### What ICC C 1/1/2009 actually covers
 
@@ -46,17 +46,17 @@ That's the entire list. Notably absent (compared to ICC A and B):
 - Washing overboard
 - Entry of sea, lake, or river water into the vessel/craft/hold/container
 - Total loss of any package lost overboard or dropped during loading/unloading
-- Theft (covered under ICC A only — even ICC B does not include theft as standard)
+- Theft (covered under ICC A only - even ICC B does not include theft as standard)
 - Malicious damage (covered under ICC A only)
 - Hooks/sling damage during loading
 
-#### Step 1 — Confirm the wording is ICC C
+#### Step 1 - Confirm the wording is ICC C
 
-Pull the marine cargo certificate or the open-cover declaration. The certificate should specify the wording: ICC A, ICC B, or ICC C (with the date — 1/1/2009 is the current standard; older certificates may reference 1/1/1982 wordings, which differ in some details).
+Pull the marine cargo certificate or the open-cover declaration. The certificate should specify the wording: ICC A, ICC B, or ICC C (with the date - 1/1/2009 is the current standard; older certificates may reference 1/1/1982 wordings, which differ in some details).
 
-If the certificate references ICC A or ICC B, this article is the wrong reference — the broader cover applies and the burden of proving cause is lighter.
+If the certificate references ICC A or ICC B, this article is the wrong reference - the broader cover applies and the burden of proving cause is lighter.
 
-#### Step 2 — Identify the proximate cause of the loss
+#### Step 2 - Identify the proximate cause of the loss
 
 ICC C requires you to demonstrate that the loss was caused by a named peril. The Marine Insurance Act 1906 (UK, but applied in Singapore via the [Marine Insurance Act 1906 (Singapore)](https://sso.agc.gov.sg/Act/MIA1906)) section 55 states: "Subject to the provisions of this Act, and unless the policy otherwise provides, the insurer is liable for any loss proximately caused by a peril insured against, but, subject as aforesaid, he is not liable for any loss which is not proximately caused by a peril insured against."
 
@@ -68,11 +68,11 @@ Examples:
 - **Container falls overboard during heavy weather.** Proximate cause = washing overboard (not covered under ICC C; covered under ICC B).
 - **Cargo damaged by fire on board.** Proximate cause = fire (covered). Claim valid under ICC C.
 
-#### Step 3 — Notify the insurer immediately
+#### Step 3 - Notify the insurer immediately
 
-Same notification discipline as any marine cargo claim — same day discovery, ideally. Provide certificate number, shipment reference, arrival details, nature of damage.
+Same notification discipline as any marine cargo claim - same day discovery, ideally. Provide certificate number, shipment reference, arrival details, nature of damage.
 
-#### Step 4 — Preserve evidence and arrange survey
+#### Step 4 - Preserve evidence and arrange survey
 
 A surveyor's report becomes the central evidentiary document. For ICC C claims especially, the surveyor's findings on the **cause** of loss determine whether cover applies. The surveyor will examine:
 - Outer container condition (intact seal, no evidence of vessel incident vs visible damage signs)
@@ -82,11 +82,11 @@ A surveyor's report becomes the central evidentiary document. For ICC C claims e
 - Port of distress declarations
 - General average declarations from the carrier
 
-#### Step 5 — Reserve rights against carriers
+#### Step 5 - Reserve rights against carriers
 
-If the loss was caused by a vessel incident (stranding, fire, collision), the carrier may have a separate liability under the Hague-Visby Rules or the carriage contract. The marine cargo insurer's right of subrogation depends on you preserving the recovery rights — file written notice of claim with the carrier within the carriage time bar (typically 1 year from delivery for Hague-Visby).
+If the loss was caused by a vessel incident (stranding, fire, collision), the carrier may have a separate liability under the Hague-Visby Rules or the carriage contract. The marine cargo insurer's right of subrogation depends on you preserving the recovery rights - file written notice of claim with the carrier within the carriage time bar (typically 1 year from delivery for Hague-Visby).
 
-#### Step 6 — Submit the claim file with cause-of-loss evidence
+#### Step 6 - Submit the claim file with cause-of-loss evidence
 
 For ICC C, the claim file *must* include cause-of-loss evidence:
 - Surveyor's report attributing damage to a named peril
@@ -98,15 +98,15 @@ For ICC C, the claim file *must* include cause-of-loss evidence:
 
 Without cause-of-loss evidence, the claim cannot be assessed against the named-perils list.
 
-#### Step 7 — Settlement basis
+#### Step 7 - Settlement basis
 
 Marine cargo claims are typically settled on:
-- **Insured value** (CIF + 10%, the standard mark-up for incidental costs and lost profits) — for total loss
-- **Apportioned loss** for partial damage — calculated as (depreciation %) × (insured value)
+- **Insured value** (CIF + 10%, the standard mark-up for incidental costs and lost profits) - for total loss
+- **Apportioned loss** for partial damage - calculated as (depreciation %) × (insured value)
 
 The insurer pays subject to the policy excess and any specific sub-limits.
 
-### When ICC C is — and isn't — the right choice
+### When ICC C is - and isn't - the right choice
 
 ICC C is typically used for:
 - Bulk commodities (raw materials, scrap metal, ore, grain) where named-perils cover is sufficient
@@ -122,10 +122,10 @@ ICC C is typically *not* the right choice for:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Buying ICC C to save premium, then discovering loss isn't covered.** The premium difference between ICC C and ICC A is usually 30–50%; the gap is not always worth the saving on high-value or sensitive cargo.
+1. **Buying ICC C to save premium, then discovering loss isn't covered.** The premium difference between ICC C and ICC A is usually 30-50%; the gap is not always worth the saving on high-value or sensitive cargo.
 2. **Assuming ICC C covers theft.** It does not. Even ICC B does not. Only ICC A.
 3. **Not securing the proximate cause evidence.** Without surveyor attribution to a named peril, the claim fails on coverage even if the damage is real.
-4. **Confusing CIF Incoterms with insurance coverage.** CIF requires *some* cover but defaults to minimum (ICC C). The buyer can require ICC A in the sale contract — this needs to be negotiated, not assumed.
+4. **Confusing CIF Incoterms with insurance coverage.** CIF requires *some* cover but defaults to minimum (ICC C). The buyer can require ICC A in the sale contract - this needs to be negotiated, not assumed.
 5. **Mixing 1982 and 2009 wordings.** The 2009 wordings refined some terms (notably the war/strikes exclusions). Make sure the certificate is on current wording.
 
 ### What This Means for Your Business
@@ -136,7 +136,7 @@ For an SME running international trade, the ICC choice is a commercial decision 
 
 2. **Read the sale contract Incoterms carefully.** CIF puts the *seller* on insurance; FOB puts the *buyer* on insurance from port-of-loading. Understand which side you're on, and negotiate the cover level explicitly.
 
-3. **For CIF sellers, consider whether ICC C exposes the *buyer* to gaps that come back to you commercially.** A buyer who suffers an uncovered loss under ICC C will often request goodwill credit or future business concessions — making the premium saving illusory.
+3. **For CIF sellers, consider whether ICC C exposes the *buyer* to gaps that come back to you commercially.** A buyer who suffers an uncovered loss under ICC C will often request goodwill credit or future business concessions - making the premium saving illusory.
 
 4. **For FOB buyers, take charge of the cover level.** Don't accept the seller's "we'll handle insurance" without specifying the wording in the contract. ICC A on a fixed-rate open cover is the standard for serious importers.
 
@@ -146,7 +146,7 @@ The single most expensive mistake in marine cargo is buying the cheapest cover, 
 
 1. Is my marine cargo open cover on ICC A, ICC B, or ICC C, and which wording date (1/1/1982 or 1/1/2009)?
 2. For my typical shipment values and routes, does the premium saving on ICC C justify the coverage gap?
-3. Are my CIF sales contracts with overseas buyers requiring ICC A or accepting ICC C — and what is the commercial implication if a buyer's cargo is damaged uncovered?
+3. Are my CIF sales contracts with overseas buyers requiring ICC A or accepting ICC C - and what is the commercial implication if a buyer's cargo is damaged uncovered?
 4. Does my open cover include War Risks and Strikes (separate Institute clauses, not part of ICC A/B/C)?
 5. What is my excess per shipment, and is there a per-vessel aggregate limit?
 

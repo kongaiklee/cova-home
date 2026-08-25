@@ -20,21 +20,21 @@ og_description: "Singapore cooking schools, hands-on culinary studios, baking st
 
 > **The Answer in 60 Seconds**
 >
-> Singapore cooking schools, hands-on culinary studios, baking studios, and chef-led private cooking experiences (Palate Sensations, Coriander Leaf, ToTT Studio, ABC Cooking Studio, etc.) operate at the intersection of education, hospitality, and active customer participation — a combination that most general commercial insurance treats poorly. Operating requirements: business registration with [ACRA](https://www.bizfile.gov.sg/), [SFA Food Shop Licence](https://www.sfa.gov.sg/) for the on-site food preparation kitchen, [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) with attention to commercial cooking equipment, [URA](https://www.ura.gov.sg/) approved use, and where cookery education is structured / certificated, [SkillsFuture](https://www.skillsfuture.gov.sg/) or [CPE / SSG](https://www.ssg.gov.sg/) registration where applicable. Insurance baseline: **Public Liability** with explicit Participant Cover (S$2M–S$5M), **Property/Fire** for kitchen equipment and fit-out (typical S$150,000–S$800,000), **Product Liability** for any food sold or served (including class outputs eaten by participants), **WICA** for instructors and operations staff, **Cyber Liability** for booking and customer data, and where applicable **Professional Indemnity** for chef-instructors providing certificated training. Distinctive risks: **knife and burn injuries to hands-on participants**, **food allergy and food safety** for class outputs consumed, **commercial kitchen fire exposure**, and **customer property** (laptops, bags) in customer-occupied teaching kitchens.
+> Singapore cooking schools, hands-on culinary studios, baking studios, and chef-led private cooking experiences (Palate Sensations, Coriander Leaf, ToTT Studio, ABC Cooking Studio, etc.) operate at the intersection of education, hospitality, and active customer participation - a combination that most general commercial insurance treats poorly. Operating requirements: business registration with [ACRA](https://www.bizfile.gov.sg/), [SFA Food Shop Licence](https://www.sfa.gov.sg/) for the on-site food preparation kitchen, [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) with attention to commercial cooking equipment, [URA](https://www.ura.gov.sg/) approved use, and where cookery education is structured / certificated, [SkillsFuture](https://www.skillsfuture.gov.sg/) or [CPE / SSG](https://www.ssg.gov.sg/) registration where applicable. Insurance baseline: **Public Liability** with explicit Participant Cover (S$2M-S$5M), **Property/Fire** for kitchen equipment and fit-out (typical S$150,000-S$800,000), **Product Liability** for any food sold or served (including class outputs eaten by participants), **WICA** for instructors and operations staff, **Cyber Liability** for booking and customer data, and where applicable **Professional Indemnity** for chef-instructors providing certificated training. Distinctive risks: **knife and burn injuries to hands-on participants**, **food allergy and food safety** for class outputs consumed, **commercial kitchen fire exposure**, and **customer property** (laptops, bags) in customer-occupied teaching kitchens.
 
 ### The Sourced Detail
 
-The cooking school / culinary studio category sits in an unusual place — neither a restaurant (food sale to walk-in customers) nor a school (formal education to enrolled students) nor a private event venue (one-time bookings only). The hybrid nature creates insurance complexity that general brokers frequently underestimate.
+The cooking school / culinary studio category sits in an unusual place - neither a restaurant (food sale to walk-in customers) nor a school (formal education to enrolled students) nor a private event venue (one-time bookings only). The hybrid nature creates insurance complexity that general brokers frequently underestimate.
 
 #### The format spectrum
 
-**Recreational hands-on classes.** Customers book a 2–4 hour class (Italian cuisine, Korean home cooking, sushi making, baking, etc.). Customer participation is hands-on under instructor supervision. Class output is typically eaten by participants on-site or taken home.
+**Recreational hands-on classes.** Customers book a 2-4 hour class (Italian cuisine, Korean home cooking, sushi making, baking, etc.). Customer participation is hands-on under instructor supervision. Class output is typically eaten by participants on-site or taken home.
 
 **Corporate team-building.** Companies book private group sessions for staff. Larger groups, less individual attention, more emphasis on social dynamic.
 
-**Children's classes.** Cooking classes for children (8–14 typically). Elevated supervision and safety focus given child participants.
+**Children's classes.** Cooking classes for children (8-14 typically). Elevated supervision and safety focus given child participants.
 
-**Certificated culinary training.** Structured training programmes leading to certifications — falls under CPE / SSG / SkillsFuture regulatory layer.
+**Certificated culinary training.** Structured training programmes leading to certifications - falls under CPE / SSG / SkillsFuture regulatory layer.
 
 **Private chef experiences.** Single-table booked experiences, often with more elaborate menu and instruction.
 
@@ -62,19 +62,19 @@ The cooking school / culinary studio category sits in an unusual place — neith
 
 #### Regulatory layer
 
-**[ACRA](https://www.bizfile.gov.sg/)** — Business registration; private limited typical.
+**[ACRA](https://www.bizfile.gov.sg/)** - Business registration; private limited typical.
 
-**[SFA Food Shop Licence](https://www.sfa.gov.sg/)** — Required for the on-site kitchen. Operators sometimes assume "we don't sell food, we teach cooking" exempts them — generally it does not where food is prepared and consumed on-site.
+**[SFA Food Shop Licence](https://www.sfa.gov.sg/)** - Required for the on-site kitchen. Operators sometimes assume "we don't sell food, we teach cooking" exempts them - generally it does not where food is prepared and consumed on-site.
 
-**[SCDF Fire Safety Certificate](https://www.scdf.gov.sg/)** — Required. Commercial cooking equipment with appropriate fire suppression (hood and duct system, grease management) is expected.
+**[SCDF Fire Safety Certificate](https://www.scdf.gov.sg/)** - Required. Commercial cooking equipment with appropriate fire suppression (hood and duct system, grease management) is expected.
 
-**[URA](https://www.ura.gov.sg/)** — Approved use must permit the activity; standard retail or office zoning may not, depending on cooking equipment scale.
+**[URA](https://www.ura.gov.sg/)** - Approved use must permit the activity; standard retail or office zoning may not, depending on cooking equipment scale.
 
-**[NEA](https://www.nea.gov.sg/)** — Environmental health, including waste management and grease trap requirements.
+**[NEA](https://www.nea.gov.sg/)** - Environmental health, including waste management and grease trap requirements.
 
-**[CPE / SSG / SkillsFuture](https://www.ssg.gov.sg/)** — Where structured certificated culinary training is offered, registration as a [Private Education Institution (PEI)](https://www.ssg.gov.sg/cpe-pei.html) under the Private Education Act 2009 may apply, with corresponding educational regulatory layer.
+**[CPE / SSG / SkillsFuture](https://www.ssg.gov.sg/)** - Where structured certificated culinary training is offered, registration as a [Private Education Institution (PEI)](https://www.ssg.gov.sg/cpe-pei.html) under the Private Education Act 2009 may apply, with corresponding educational regulatory layer.
 
-**[MOM](https://www.mom.gov.sg/) WICA** — For all employees including instructors, kitchen staff, host staff.
+**[MOM](https://www.mom.gov.sg/) WICA** - For all employees including instructors, kitchen staff, host staff.
 
 #### Insurance build per business stage
 
@@ -89,7 +89,7 @@ The cooking school / culinary studio category sits in an unusual place — neith
 - Allergen / dietary disclosure protocol
 
 **Pre-launch insurance:**
-- **Public Liability** S$2M–S$5M with explicit Participant Cover (no participation exclusion)
+- **Public Liability** S$2M-S$5M with explicit Participant Cover (no participation exclusion)
 - **Property / Fire** for fit-out, kitchen equipment, F&B inventory
 - **Theft / Burglary**
 - **WICA** for instructors and staff
@@ -105,7 +105,7 @@ The cooking school / culinary studio category sits in an unusual place — neith
 - **Professional Indemnity** for certificated training programmes (where applicable)
 - **Loss of Licence** specific cover where regulatory dependency is critical
 
-#### Public Liability — participation and food layered
+#### Public Liability - participation and food layered
 
 PL for cooking schools must specifically address two layered exposures:
 
@@ -117,7 +117,7 @@ PL for cooking schools must specifically address two layered exposures:
 
 **Children participant cover.** Where children's classes operate, parental waiver and supervision dynamics apply.
 
-#### Property and Fire — commercial kitchen scale
+#### Property and Fire - commercial kitchen scale
 
 Cooking school fit-out is materially more expensive than equivalent retail:
 
@@ -129,23 +129,23 @@ Cooking school fit-out is materially more expensive than equivalent retail:
 - Knife sets and small wares
 - F&B inventory
 
-Total investment commonly S$200,000–S$1M for a 1,500–3,500 sqft studio. Property / Fire at full reinstatement value is essential. Fire underwriting will scrutinise:
+Total investment commonly S$200,000-S$1M for a 1,500-3,500 sqft studio. Property / Fire at full reinstatement value is essential. Fire underwriting will scrutinise:
 
 - Hood and duct cleaning programme
 - Ansul system inspection certificate
 - Gas equipment installation by qualified [licensed gas service worker](https://www.spgroup.com.sg/)
 - Electrical compliance with [EMA](https://www.ema.gov.sg/) requirements
 
-#### Product Liability — food and class output specifics
+#### Product Liability - food and class output specifics
 
-Class outputs eaten by participants are within food liability scope. Operators sometimes assume that "the customer made it themselves" transfers liability — generally it does not. Operator provided ingredients, instruction, equipment, and supervision; food liability rests with operator. Cover scope:
+Class outputs eaten by participants are within food liability scope. Operators sometimes assume that "the customer made it themselves" transfers liability - generally it does not. Operator provided ingredients, instruction, equipment, and supervision; food liability rests with operator. Cover scope:
 
 - Foodborne illness from class output
 - Allergic reaction from class output
 - Choking / physical injury from class output
 - Misrepresentation of ingredient (e.g., undisclosed allergen)
 
-#### Customer property — the often-missed line
+#### Customer property - the often-missed line
 
 Customers in cooking kitchens place bags, phones, laptops on counters or hooks. Exposures:
 
@@ -156,7 +156,7 @@ Customers in cooking kitchens place bags, phones, laptops on counters or hooks. 
 
 Specific Customer Property endorsement to PL or standalone Bailee's Cover addresses this. Some operators address operationally (lockers, designated bag area) and accept residual exposure.
 
-#### Children's classes — the elevated layer
+#### Children's classes - the elevated layer
 
 Where children's classes operate:
 
@@ -167,7 +167,7 @@ Where children's classes operate:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **No SFA Food Shop Licence in place.** Common assumption that cooking instruction doesn't require food shop licensing — generally it does where food is prepared on-site.
+1. **No SFA Food Shop Licence in place.** Common assumption that cooking instruction doesn't require food shop licensing - generally it does where food is prepared on-site.
 
 2. **PL with participation exclusion.** Default policy gut cover for the most-likely claim type.
 
@@ -211,7 +211,7 @@ For Singapore cooking school / culinary studio operators:
 
 10. **Document hood and duct cleaning, fire suppression inspection, equipment maintenance.**
 
-The cost of properly structured cover for a Singapore cooking school (1,500–3,500 sqft, 4–10 staff) is typically SGD 6,000–18,000 annually. The cost of a single significant incident — kitchen fire, serious knife / burn injury, food allergy reaction — typically exceeds many years of premium.
+The cost of properly structured cover for a Singapore cooking school (1,500-3,500 sqft, 4-10 staff) is typically SGD 6,000-18,000 annually. The cost of a single significant incident - kitchen fire, serious knife / burn injury, food allergy reaction - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

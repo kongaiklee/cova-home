@@ -30,15 +30,15 @@ Marine cargo claim handling is one of the most operationally specific insurance 
 
 Before claim handling, the ICC clause governs scope (per [Article 192](/comparison/marine-cargo-icc-a-b-c)):
 
-**ICC (A) — All Risks.** Burden on insurer to establish exclusion. Most claims succeed unless specific exclusion applies.
+**ICC (A) - All Risks.** Burden on insurer to establish exclusion. Most claims succeed unless specific exclusion applies.
 
-**ICC (B) — Named Perils (broader).** Burden on insured to establish proximate cause matches listed peril.
+**ICC (B) - Named Perils (broader).** Burden on insured to establish proximate cause matches listed peril.
 
-**ICC (C) — Named Perils (narrowest).** Burden on insured to establish proximate cause matches limited list.
+**ICC (C) - Named Perils (narrowest).** Burden on insured to establish proximate cause matches limited list.
 
 The clause determines what proof is required at claim time. ICC (A) substantially simplifies claim preparation; ICC (B) and (C) require specific cause-determination evidence.
 
-#### Stage 1 — Damage / loss discovery at receipt
+#### Stage 1 - Damage / loss discovery at receipt
 
 **The critical moment.**
 
@@ -67,7 +67,7 @@ For SMEs receiving cargo:
 - Operational photographic documentation
 - Operational operational considerations
 
-#### Stage 2 — Documentation discipline
+#### Stage 2 - Documentation discipline
 
 **Immediate documentation.**
 
@@ -86,7 +86,7 @@ Standard documentation at receipt:
 - Operational specific contemporaneous documentation
 - Operational operational considerations
 
-#### Stage 3 — Insurer notification
+#### Stage 3 - Insurer notification
 
 **Notification timing.**
 
@@ -108,7 +108,7 @@ Marine cargo policies typically require notification:
 - Operational commercial implications
 - Operational subrogation prejudice
 
-#### Stage 4 — Surveyor appointment
+#### Stage 4 - Surveyor appointment
 
 **Surveyor framework.**
 
@@ -127,7 +127,7 @@ Major marine surveyors operate in Singapore:
 - Operational considerations
 - Operational commercial relationships
 
-#### Stage 5 — Survey and damage assessment
+#### Stage 5 - Survey and damage assessment
 
 **Survey process.**
 
@@ -149,7 +149,7 @@ Major marine surveyors operate in Singapore:
 - Operational operational considerations
 - Operational commercial relationships
 
-#### Stage 6 — Carrier claim preservation
+#### Stage 6 - Carrier claim preservation
 
 **Subrogation preservation.**
 
@@ -164,11 +164,11 @@ Per the framework discussed in [Article 187](/document-legal/castellian-preston-
 
 For different transport modes:
 
-**Sea carriage.** [Hague-Visby Rules](https://www.imo.org/) (or local equivalent) — specific limitation of liability per package or unit, specific time bars (typically 1 year).
+**Sea carriage.** [Hague-Visby Rules](https://www.imo.org/) (or local equivalent) - specific limitation of liability per package or unit, specific time bars (typically 1 year).
 
-**Air carriage.** Montreal Convention or Warsaw Convention — specific limitation of liability per kilogram, specific time bars (typically 2 years).
+**Air carriage.** Montreal Convention or Warsaw Convention - specific limitation of liability per kilogram, specific time bars (typically 2 years).
 
-**Road / land carriage.** Local frameworks — specific limitation of liability per consignment, specific time bars.
+**Road / land carriage.** Local frameworks - specific limitation of liability per consignment, specific time bars.
 
 **Specific Singapore framework.** Per [Bills of Lading Act 1992](https://sso.agc.gov.sg/Act/BLA1992) and commercial conventions.
 
@@ -178,7 +178,7 @@ For different transport modes:
 - Operational specific time bar awareness
 - Operational operational considerations
 
-#### Stage 7 — Salvage / mitigation actions
+#### Stage 7 - Salvage / mitigation actions
 
 **Salvage considerations.**
 
@@ -196,7 +196,7 @@ The insured has duty to mitigate:
 - Operational considerations
 - Operational operational discipline
 
-#### Stage 8 — Claim documentation submission
+#### Stage 8 - Claim documentation submission
 
 **Documentation required.**
 
@@ -219,7 +219,7 @@ Comprehensive claim file:
 - Operational contemporaneous documentation
 - Operational considerations
 
-#### Stage 9 — Insurer validation against ICC clause
+#### Stage 9 - Insurer validation against ICC clause
 
 **Validation scope.**
 
@@ -243,7 +243,7 @@ Insurer evaluates:
 - Operational cause analysis
 - Operational operational considerations
 
-#### Stage 10 — Claim payment
+#### Stage 10 - Claim payment
 
 **Payment process.**
 

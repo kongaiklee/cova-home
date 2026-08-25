@@ -25,15 +25,15 @@ og_description: "The Platform Workers Act 2024 (Act 30 of 2024) came into full f
 
 ## The Sourced Detail
 
-The Act is Singapore's first statute creating a "third class" worker — neither employee nor contractor — defined as someone who "performs platform work" (currently ride-hail and delivery) under a platform operator's management control, per [section 4 of the Act](https://sso.agc.gov.sg/Act/PWA2024).
+The Act is Singapore's first statute creating a "third class" worker - neither employee nor contractor - defined as someone who "performs platform work" (currently ride-hail and delivery) under a platform operator's management control, per [section 4 of the Act](https://sso.agc.gov.sg/Act/PWA2024).
 
 ### The three pillars
 
 **Pillar 1: CPF.** Per the [MOM announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/1217-commencement-of-platform-workers-act-from-1-jan-2025), CPF contributions are mandatory for platform workers born **on or after 1 January 1995**. Workers born before that date may opt in (and the decision is irreversible). Contribution rates phase in over five years from 2025 to 2029, eventually matching employee CPF rates. The Platform Workers CPF Transition Support (PCTS) offsets 100% of the worker's share of increase in 2025 for lower-income workers.
 
-**Pillar 2: Work Injury Compensation Insurance.** Per the Act and the consequential WICA amendments at the [Fifth Schedule](https://sso.agc.gov.sg/Act/PWA2024), platform operators must buy WIC insurance for every platform worker for the entirety of work performed. Coverage must mirror the WICA framework that applies to traditional employees — same medical, medical-leave-wage and permanent-incapacity benefits, including the [revised limits effective 1 November 2025](/regulatory-change/wica-update-nov-2025).
+**Pillar 2: Work Injury Compensation Insurance.** Per the Act and the consequential WICA amendments at the [Fifth Schedule](https://sso.agc.gov.sg/Act/PWA2024), platform operators must buy WIC insurance for every platform worker for the entirety of work performed. Coverage must mirror the WICA framework that applies to traditional employees - same medical, medical-leave-wage and permanent-incapacity benefits, including the [revised limits effective 1 November 2025](/regulatory-change/wica-update-nov-2025).
 
-**Pillar 3: Platform Work Associations.** [Part 2 of the Act](https://sso.agc.gov.sg/Act/PWA2024) creates a register of Platform Work Associations (PWAs) — distinct from trade unions. A registered PWA can negotiate collective representation agreements with platform operators on terms of work.
+**Pillar 3: Platform Work Associations.** [Part 2 of the Act](https://sso.agc.gov.sg/Act/PWA2024) creates a register of Platform Work Associations (PWAs) - distinct from trade unions. A registered PWA can negotiate collective representation agreements with platform operators on terms of work.
 
 ### Who is a "platform operator"?
 
@@ -52,7 +52,7 @@ Per the [MOM list of designated platform operator insurers](https://www.mom.gov.
 5. **Income Insurance Limited** (16 Oct 2027)
 6. **Singapore Life Ltd** (15 Oct 2027)
 
-This is materially smaller than the [24-insurer list for traditional employer WICA](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf). A platform operator cannot use any of the 18 other employer-WICA insurers for platform-worker coverage — the policy must be issued by a PO-designated insurer.
+This is materially smaller than the [24-insurer list for traditional employer WICA](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf). A platform operator cannot use any of the 18 other employer-WICA insurers for platform-worker coverage - the policy must be issued by a PO-designated insurer.
 
 ### Penalties
 
@@ -60,7 +60,7 @@ The [Platform Workers (Administrative Penalties) Regulations 2024 (S 1011/2024)]
 
 ### Insurance market response
 
-Grabinsure has [published its PO WICA wording](https://www.grabinsure.sg) and offers cover bundled with platform partnership. Chubb, Etiqa, Great Eastern, Income and Singlife distribute through brokers and direct channels. Per [NTUC's PO-WICA explainer](https://www.ntuc.org.sg/uportal/news/Work-Injury-Compensation-for-Platform-Workers-Complete-Guide-to-Singapores-New-Protection-System/), designated insurers cannot discriminate by age, race, gender or health status, and must respond to claimant hotline enquiries within 3 working days and emails within 5 working days. Premium structures typically reflect worker-hours of platform-active time rather than annual payroll, because platform workers are paid by trip/order — broker industry practice rather than a primary regulatory rule.
+Grabinsure has [published its PO WICA wording](https://www.grabinsure.sg) and offers cover bundled with platform partnership. Chubb, Etiqa, Great Eastern, Income and Singlife distribute through brokers and direct channels. Per [NTUC's PO-WICA explainer](https://www.ntuc.org.sg/uportal/news/Work-Injury-Compensation-for-Platform-Workers-Complete-Guide-to-Singapores-New-Protection-System/), designated insurers cannot discriminate by age, race, gender or health status, and must respond to claimant hotline enquiries within 3 working days and emails within 5 working days. Premium structures typically reflect worker-hours of platform-active time rather than annual payroll, because platform workers are paid by trip/order - broker industry practice rather than a primary regulatory rule.
 
 ## What This Means for Your Business
 
@@ -70,20 +70,20 @@ If you operate a ride-hail or delivery platform, three implications stand out.
 
 **Your CPF cost is real and will scale.** The phasing schedule means CPF cost rises every year from 2025 to 2029. SME platform operators should model the cumulative impact through to 2029 rather than just 2025, because the early-year transitional support tapers.
 
-**If you contract with a platform — but are not the platform — your obligations are different.** A logistics SME that uses Grab Express to fulfil deliveries does not become a "platform operator" by that fact. The Act's obligations sit with the platform operator (Grab), not the SME shipper. But if your business model puts you in the position of dispatching gig workers under management control via your own app, you may be in scope. [Section 4 of the Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) sets out the operator definition. A licensed IFA on the COVA platform can route the policy question alongside legal counsel review of operator status.
+**If you contract with a platform - but are not the platform - your obligations are different.** A logistics SME that uses Grab Express to fulfil deliveries does not become a "platform operator" by that fact. The Act's obligations sit with the platform operator (Grab), not the SME shipper. But if your business model puts you in the position of dispatching gig workers under management control via your own app, you may be in scope. [Section 4 of the Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) sets out the operator definition. A licensed IFA on the Covarage platform can route the policy question alongside legal counsel review of operator status.
 
 ## Questions to Ask Your Adviser
 
 1. Have we self-assessed against MOM's platform operator checklist and notified MOM where required?
 2. Which of the six PO-designated insurers offers terms aligned with our worker-hours data and claims history?
 3. How does our PO WICA policy interact with personal accident or top-up coverage some platforms offer?
-4. What is our cumulative 2025–2029 CPF cost projection on current worker volumes?
+4. What is our cumulative 2025-2029 CPF cost projection on current worker volumes?
 5. Have we updated our platform Terms of Service to reflect mandatory WIC insurance and PWA recognition?
 
 ## Related Information
-- [WICA Compensation Limit Update — 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
 - [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [Workplace Fairness Act 2025 — EPLI Implications](/regulatory-change/wfa-2024)
+- [Workplace Fairness Act 2025 - EPLI Implications](/regulatory-change/wfa-2024)
 
 ---
 

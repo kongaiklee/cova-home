@@ -128,13 +128,13 @@ For Singapore SME manufacturers, the typical insurance programme architecture:
 | WICI 2019 | Yes (WICA) | n/a | Statutory + common-law extension |
 | Motor TP | Yes (MVTRC Act) | n/a | Statutory |
 | Property / Fire | No | Often | Reinstatement value |
-| Public Liability | No | Often | S$1M – S$10M |
+| Public Liability | No | Often | S$1M - S$10M |
 | Marine Cargo | No | Often (Incoterms) | Per shipment |
-| Product Liability | No | Often (OEM, export) | S$2M – S$20M |
-| Product Recall | No | Often (branded) | S$500K – S$10M |
+| Product Liability | No | Often (OEM, export) | S$2M - S$20M |
+| Product Recall | No | Often (branded) | S$500K - S$10M |
 | Trade Credit | No | Sometimes | Discretionary credit limits |
-| Cyber Liability | No | Increasing | S$1M – S$10M |
-| D&O | No | No | S$1M – S$5M |
+| Cyber Liability | No | Increasing | S$1M - S$10M |
+| D&O | No | No | S$1M - S$5M |
 
 The composite programme should be placed on a single annual anniversary to enable broker arbitrage and avoid coverage gaps across policies.
 
@@ -180,11 +180,11 @@ For SMEs in export-dependent manufacturing, Marine Cargo Incoterm coordination, 
 
 ### Related Information
 
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 270 — Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Article 275 — First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 270 - Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Article 274 - Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 275 - First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 291 - Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
 
 ---

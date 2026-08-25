@@ -24,7 +24,7 @@ og_description: "A Singapore physiotherapy, occupational therapy, podiatry, spee
 
 ### The Sourced Detail
 
-Allied health is a broad category in Singapore, encompassing professions registered through AHPC under the [Allied Health Professions Act 2011](https://sso.agc.gov.sg/Act/AHPA2011). The diversity within the category — from clinic-based physiotherapy to specialised audiology to mobile occupational therapy — creates varied insurance considerations.
+Allied health is a broad category in Singapore, encompassing professions registered through AHPC under the [Allied Health Professions Act 2011](https://sso.agc.gov.sg/Act/AHPA2011). The diversity within the category - from clinic-based physiotherapy to specialised audiology to mobile occupational therapy - creates varied insurance considerations.
 
 #### The AHPC framework
 
@@ -42,7 +42,7 @@ Per the [Allied Health Professions Act 2011](https://sso.agc.gov.sg/Act/AHPA2011
 **Practising Certificate:**
 - Annual renewal
 - Continuing Professional Education compliance
-- Professional indemnity insurance — typically a renewal condition
+- Professional indemnity insurance - typically a renewal condition
 
 **Professional code:**
 - Specific code of conduct
@@ -165,7 +165,7 @@ Largest allied health profession in Singapore.
 - Cyber Liability
 - Crime / Money
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher PI limits as practice scales
 - D&O if incorporated
 - EPL as headcount grows
@@ -299,10 +299,10 @@ Insurers underwrite allied health practice on:
 - Documentation of communications
 
 **Specific specialty issues:**
-- Sports — return-to-play decisions
-- Paediatric — parental involvement
-- Neurological — outcome expectations
-- Post-surgical — coordination with surgeon
+- Sports - return-to-play decisions
+- Paediatric - parental involvement
+- Neurological - outcome expectations
+- Post-surgical - coordination with surgeon
 
 ### Common Mistakes / What Goes Wrong
 

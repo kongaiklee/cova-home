@@ -28,7 +28,7 @@ The accommodation sector spans full-service hotels, boutique hotels, hostels, an
 
 #### Regulatory framework
 
-**Hotels Act licensing.** Under [Hotels Act 1954](https://sso.agc.gov.sg/Act/HA1954), administered by the [Hotels Licensing Board (HLB)](https://www.hlb.gov.sg/) — whose secretariat function sits within the Singapore Tourism Board — commercial accommodation requires a hotel-keeper's licence. Licence categories distinguish between hotels and hostels with different requirements.
+**Hotels Act licensing.** Under [Hotels Act 1954](https://sso.agc.gov.sg/Act/HA1954), administered by the [Hotels Licensing Board (HLB)](https://www.hlb.gov.sg/) - whose secretariat function sits within the Singapore Tourism Board - commercial accommodation requires a hotel-keeper's licence. Licence categories distinguish between hotels and hostels with different requirements.
 
 **Building / fire safety.** [BCA building code](https://www1.bca.gov.sg/) for change-of-use approvals (converting commercial premises to accommodation), [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for occupant load, fire exits, smoke detection, sprinkler systems, fire compartmentation. Hostel dormitory configurations have specific fire safety requirements.
 
@@ -44,24 +44,24 @@ The accommodation sector spans full-service hotels, boutique hotels, hostels, an
 
 #### Insurance commercial spine
 
-**Property / Fire** — covers building (if owned), fixtures and fit-out, FF&E (furniture, fittings, equipment), guest amenities, F&B equipment if applicable. For leased premises, building insurance is typically the landlord's responsibility per the lease; the operator covers fixtures, fit-out, and contents.
+**Property / Fire** - covers building (if owned), fixtures and fit-out, FF&E (furniture, fittings, equipment), guest amenities, F&B equipment if applicable. For leased premises, building insurance is typically the landlord's responsibility per the lease; the operator covers fixtures, fit-out, and contents.
 
-**Business Interruption** — critical for accommodation. Revenue is consumed daily and cannot be recovered after the fact; even short-duration property closure causes irrecoverable revenue loss. Indemnity period considerations: typical 12 months minimum, often 18–24 months for boutique hotels given fit-out replacement timelines.
+**Business Interruption** - critical for accommodation. Revenue is consumed daily and cannot be recovered after the fact; even short-duration property closure causes irrecoverable revenue loss. Indemnity period considerations: typical 12 months minimum, often 18-24 months for boutique hotels given fit-out replacement timelines.
 
-**Public Liability** — guest and third-party visitor injury. Considerations:
+**Public Liability** - guest and third-party visitor injury. Considerations:
 
-- Standard limits (SGD 1–2 million) typically inadequate; recommended SGD 5 million minimum for boutique hotels
+- Standard limits (SGD 1-2 million) typically inadequate; recommended SGD 5 million minimum for boutique hotels
 - Pool / spa / rooftop / specific facility exposures may require specific endorsement
 - Food poisoning claims (if F&B operated) typically need specific F&B PL extension
 - Slip-and-fall in guest rooms, public areas, bathrooms
 
-**Guest Property / Inn-Keeper Liability** — covers guest belongings under custody of operator. Two layers:
+**Guest Property / Inn-Keeper Liability** - covers guest belongings under custody of operator. Two layers:
 
 - Common law inn-keeper liability (operator owes specific duty over guest goods on premises)
 - Statutory provisions under Hotels Act
 - Specific limits per guest typically apply; safe deposit / safe in room may shift liability allocation
 
-**Cyber / PDPA-aligned cover** — guest data flowing through:
+**Cyber / PDPA-aligned cover** - guest data flowing through:
 - Property Management System (PMS)
 - OTA (Booking.com, Agoda, Expedia, others) data feeds
 - Payment processing
@@ -69,13 +69,13 @@ The accommodation sector spans full-service hotels, boutique hotels, hostels, an
 
 PMS breach scenarios are frequent in hospitality industry globally; cover scope is material.
 
-**WICA** — all employees: front desk, housekeeping, F&B, maintenance, management.
+**WICA** - all employees: front desk, housekeeping, F&B, maintenance, management.
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Crime / Fidelity Guarantee** — material in cash-handling environment with multiple staff and high turnover. Front desk cash handling, F&B service cash, employee theft of guest property all material risks.
+**Crime / Fidelity Guarantee** - material in cash-handling environment with multiple staff and high turnover. Front desk cash handling, F&B service cash, employee theft of guest property all material risks.
 
-**Liquor Liability** — if alcohol is served. Specific exposure under [Liquor Control Act](https://sso.agc.gov.sg/Act/LCSCA2015) and tort-based claims for alcohol-service-related harm.
+**Liquor Liability** - if alcohol is served. Specific exposure under [Liquor Control Act](https://sso.agc.gov.sg/Act/LCSCA2015) and tort-based claims for alcohol-service-related harm.
 
 #### Hostel-specific considerations
 
@@ -128,7 +128,7 @@ Operators with 2+ properties need:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **PL limits sized for retail benchmark.** Hotel guest injury (slip in bathroom, stairwell fall) can carry significant quantum; SGD 1–2 million inadequate.
+1. **PL limits sized for retail benchmark.** Hotel guest injury (slip in bathroom, stairwell fall) can carry significant quantum; SGD 1-2 million inadequate.
 
 2. **Inn-keeper liability not covered.** Guest property loss claims fall outside standard PL; specific cover needed.
 
@@ -150,7 +150,7 @@ Operators with 2+ properties need:
 
 ### What This Means for Your Business
 
-For a typical Singapore boutique hotel — 30–50 rooms, single location, with F&B:
+For a typical Singapore boutique hotel - 30-50 rooms, single location, with F&B:
 
 1. **Confirm Hotels Act licensing current and Hotels Licensing Board requirements met.**
 
@@ -158,7 +158,7 @@ For a typical Singapore boutique hotel — 30–50 rooms, single location, with 
 
 3. **Property / Fire including FF&E.** Replacement values current; lease structure considered.
 
-4. **Business Interruption with appropriate indemnity period.** Typically 12–24 months.
+4. **Business Interruption with appropriate indemnity period.** Typically 12-24 months.
 
 5. **PL with adequate limits and facility-specific endorsements.** Pool, rooftop, F&B as applicable.
 
@@ -174,7 +174,7 @@ For a typical Singapore boutique hotel — 30–50 rooms, single location, with 
 
 For hostels: the same spine applies with hostel-specific limit sizing and dormitory/transient-population considerations.
 
-The cost of properly structured boutique hotel insurance typically runs SGD 20,000–80,000 annually depending on size, scope, and facility configuration. Hostels typically lower (SGD 8,000–25,000) reflecting smaller scale. The cost of a single severe incident — major fire, severe guest injury, large-scale data breach — typically exceeds many years of premium and may threaten the operator's continuity without adequate cover.
+The cost of properly structured boutique hotel insurance typically runs SGD 20,000-80,000 annually depending on size, scope, and facility configuration. Hostels typically lower (SGD 8,000-25,000) reflecting smaller scale. The cost of a single severe incident - major fire, severe guest injury, large-scale data breach - typically exceeds many years of premium and may threaten the operator's continuity without adequate cover.
 
 ### Questions to Ask Your Adviser
 

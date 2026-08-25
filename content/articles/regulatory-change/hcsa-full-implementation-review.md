@@ -55,17 +55,17 @@ Per [MOH HCSA framework](https://www.moh.gov.sg/):
 
 #### Phased implementation progress
 
-**Phase 1 — 3 January 2022:**
+**Phase 1 - 3 January 2022:**
 
 - Clinical support services (clinical laboratory, blood banking, radiological, emergency ambulance and medical transport), with the General and Advertisement Regulations
 - Operational operational lead time
 
-**Phase 2 — 26 June 2023:**
+**Phase 2 - 26 June 2023:**
 
-- The majority of services previously regulated under the PHMCA — hospitals, outpatient medical and dental services, ambulatory surgical centres and others
+- The majority of services previously regulated under the PHMCA - hospitals, outpatient medical and dental services, ambulatory surgical centres and others
 - Operational operational standards
 
-**Phase 3 — 18 December 2023:**
+**Phase 3 - 18 December 2023:**
 
 - Long-term care services and other specialised and newer services; Phase 3 repealed the Private Hospitals and Medical Clinics Act
 - Operational operational maturation
@@ -297,26 +297,26 @@ For allied health practitioners under [Allied Health Professions Act 2011](https
 
 **For new healthcare operations:**
 
-**Step 1 — HCSA service identification:**
+**Step 1 - HCSA service identification:**
 - Specific service categories applicable
 - Operational operational scope
 
-**Step 2 — Specific licensing application:**
+**Step 2 - Specific licensing application:**
 - Specific licence per service
 - Operational operational standards
 - Operational operational scope
 
-**Step 3 — Specific premises and operational compliance:**
+**Step 3 - Specific premises and operational compliance:**
 - Specific premises standards
 - Operational operational standards
 - Operational operational scope
 
-**Step 4 — Specific staff competence:**
+**Step 4 - Specific staff competence:**
 - Specific licensing per relevant frameworks
 - Operational operational scope
 - Operational operational standards
 
-**Step 5 — Specific insurance procurement:**
+**Step 5 - Specific insurance procurement:**
 - Specific service-specific PI
 - Operational operational scope
 - Operational operational sophistication

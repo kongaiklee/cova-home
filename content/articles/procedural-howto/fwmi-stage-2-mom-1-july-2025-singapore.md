@@ -28,19 +28,19 @@ FWMI Stage 2 represents the second phase of MOM's enhanced foreign worker medica
 
 #### Statutory framework
 
-**Primary statute.** [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) — establishes Work Permit conditions including FWMI requirement.
+**Primary statute.** [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) - establishes Work Permit conditions including FWMI requirement.
 
-**Specific regulations.** Employment of Foreign Manpower (Work Passes) Regulations 2012 — Work Permit conditions.
+**Specific regulations.** Employment of Foreign Manpower (Work Passes) Regulations 2012 - Work Permit conditions.
 
 **MOM administration.**
-- [MOM Medical Insurance Requirements for Migrant Workers](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) — primary guidance
-- [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits) — policy details submission
+- [MOM Medical Insurance Requirements for Migrant Workers](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) - primary guidance
+- [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits) - policy details submission
 
-**MOM announcement.** Press Release dated 31 March 2023 — establishes Stage 1 (1 July 2023) and Stage 2 (1 July 2025) framework.
+**MOM announcement.** Press Release dated 31 March 2023 - establishes Stage 1 (1 July 2023) and Stage 2 (1 July 2025) framework.
 
 #### What FWMI covers
 
-FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and Foreign Domestic Workers — covering non-work-related medical conditions. The cover scope includes:
+FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and Foreign Domestic Workers - covering non-work-related medical conditions. The cover scope includes:
 
 **Inpatient care:**
 - Hospital admission and stay
@@ -56,7 +56,7 @@ FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and
 - Pre-existing conditions (specific exclusion period typically 12 months)
 - Specific dental and eye care (separate cover required)
 - Specific outpatient general practitioner consultations (typically excluded)
-- Specific work-related injuries (covered under WICA — see Article 271 framework)
+- Specific work-related injuries (covered under WICA - see Article 271 framework)
 - Specific elective procedures
 - Specific cosmetic and aesthetic treatments
 
@@ -100,7 +100,7 @@ FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and
 
 #### Hour-by-hour compliance procedure
 
-**Step 1 — Policy audit (Day 0-7).**
+**Step 1 - Policy audit (Day 0-7).**
 
 Catalogue all current FWMI policies:
 - Insurer
@@ -115,7 +115,7 @@ Identify policies needing Stage 2 transition:
 - Policies expiring before 1 July 2025 (transition at renewal)
 - Policies expiring on/after 1 July 2025 (must be Stage 2 compliant at issuance)
 
-**Step 2 — Quote requests (Day 7-14).**
+**Step 2 - Quote requests (Day 7-14).**
 
 Request Stage-2-compliant quotes for Foreign Worker Medical Insurance. FWMI is offered by a range of general insurers in Singapore; a licensed broker or adviser can canvass the market on the SME's behalf rather than the SME approaching insurers individually.
 
@@ -126,7 +126,7 @@ For each quote, specify:
 - Specific employer co-payment waiver request
 - Specific bundle with WICA / MOM Security Bond if relevant
 
-**Step 3 — Selection and binding (Day 14-21).**
+**Step 3 - Selection and binding (Day 14-21).**
 
 Selection criteria:
 - Premium competitiveness (per worker per year)
@@ -135,7 +135,7 @@ Selection criteria:
 - Specific bundling discount with related products
 - Specific direct billing arrangement quality
 
-**Step 4 — WPOL policy submission (Day 21-28).**
+**Step 4 - WPOL policy submission (Day 21-28).**
 
 Update Work Permit Online with new policy details:
 - Policy number
@@ -146,7 +146,7 @@ Update Work Permit Online with new policy details:
 
 **Critical:** policy details must be submitted before WP issuance/renewal.
 
-**Step 5 — Worker communication (Day 28+).**
+**Step 5 - Worker communication (Day 28+).**
 
 Inform workers of:
 - Policy provider
@@ -154,17 +154,17 @@ Inform workers of:
 - Specific co-payment exposure (where applicable)
 - Specific claims procedures
 
-**Step 6 — Ongoing maintenance.**
+**Step 6 - Ongoing maintenance.**
 
 - Specific worker addition / removal
 - Specific renewal coordination
 - Specific claims monitoring
 - Specific MOM audit response
 
-#### Insurer co-payment waiver — economics
+#### Insurer co-payment waiver - economics
 
 **Without waiver (default Stage 1/2 framework):**
-- The employer carries a contingent liability of 25% of any claim in the SGD 15,001–60,000 band — a maximum of SGD 11,250 per worker per policy year
+- The employer carries a contingent liability of 25% of any claim in the SGD 15,001-60,000 band - a maximum of SGD 11,250 per worker per policy year
 - Actual claims for most workers fall well below that maximum
 - The exposure is a variable, claims-dependent cash-flow cost
 
@@ -253,27 +253,27 @@ WICA covers work-related injuries. FWMI covers non-work-related medical conditio
 
 For Singapore SMEs with foreign workers:
 
-1. **Stage 2 transition discipline** — all policies issued on/after 1 July 2025 compliant.
+1. **Stage 2 transition discipline** - all policies issued on/after 1 July 2025 compliant.
 
-2. **Co-payment waiver decision** — explicit economic analysis.
+2. **Co-payment waiver decision** - explicit economic analysis.
 
-3. **MOM-listed insurer relationship** — competitive sourcing across major carriers.
+3. **MOM-listed insurer relationship** - competitive sourcing across major carriers.
 
-4. **WPOL operational discipline** — policy details current and accurate.
+4. **WPOL operational discipline** - policy details current and accurate.
 
-5. **Worker communication framework** — direct billing protocol understood.
+5. **Worker communication framework** - direct billing protocol understood.
 
-6. **Specific claims monitoring** — actual claims experience tracked vs expected.
+6. **Specific claims monitoring** - actual claims experience tracked vs expected.
 
-7. **Specific bundle optimisation** — total cost across FWMI + WICA + Bond.
+7. **Specific bundle optimisation** - total cost across FWMI + WICA + Bond.
 
-8. **Specific renewal coordination** — bond, FWMI, WICA cycles aligned.
+8. **Specific renewal coordination** - bond, FWMI, WICA cycles aligned.
 
-9. **Specific MOM audit readiness** — compliance evidence maintained.
+9. **Specific MOM audit readiness** - compliance evidence maintained.
 
-10. **Specific scaling protocol** — for additional workers, sector changes, location changes.
+10. **Specific scaling protocol** - for additional workers, sector changes, location changes.
 
-The cost of FWMI compliance failure is acute — non-compliance can trigger Work Permit cancellation, MOM enforcement action, and liability for uninsured medical bills. The cost of pre-incident discipline is bounded and quotable in advance — a defined FWMI premium per worker per year, plus the co-payment exposure (or the waiver premium that removes it).
+The cost of FWMI compliance failure is acute - non-compliance can trigger Work Permit cancellation, MOM enforcement action, and liability for uninsured medical bills. The cost of pre-incident discipline is bounded and quotable in advance - a defined FWMI premium per worker per year, plus the co-payment exposure (or the waiver premium that removes it).
 
 ### Questions to Ask Your Adviser
 

@@ -40,9 +40,9 @@ For most Singapore residents, healthcare financing is a stack:
 
 Coordination depends on the GHS policy design. There are two main models:
 
-**Model A — GHS as primary.** The employer's GHS pays first up to its limits; MediShield Life and personal IP pay any residual. Less common for SME plans.
+**Model A - GHS as primary.** The employer's GHS pays first up to its limits; MediShield Life and personal IP pay any residual. Less common for SME plans.
 
-**Model B — GHS as secondary.** MediShield Life pays first up to its limits; the personal IP rider pays next; the employer GHS covers any residual within its benefit caps. More common for SME plans.
+**Model B - GHS as secondary.** MediShield Life pays first up to its limits; the personal IP rider pays next; the employer GHS covers any residual within its benefit caps. More common for SME plans.
 
 The hospital billing system identifies the order based on the employee's letter of guarantee (LOG) request and policy declarations. The employee/HR can specify the order in some cases.
 
@@ -67,14 +67,14 @@ What employer GHS typically excludes or sub-limits:
 
 #### What personal IP covers that employer GHS may not
 
-- **Continuous coverage for life** — IP doesn't end at job change or retirement
-- **Higher class wards** — IP plans range from public hospital A1 to private hospital coverage
-- **Private hospital choice** — IP allows access to Mount Elizabeth, Gleneagles, Raffles, Parkway East, etc.
-- **Specific specialist treatments** — chronic disease management, certain expensive treatments
+- **Continuous coverage for life** - IP doesn't end at job change or retirement
+- **Higher class wards** - IP plans range from public hospital A1 to private hospital coverage
+- **Private hospital choice** - IP allows access to Mount Elizabeth, Gleneagles, Raffles, Parkway East, etc.
+- **Specific specialist treatments** - chronic disease management, certain expensive treatments
 - **Sometimes: outpatient cancer drugs, dialysis, immunotherapy** (subject to policy design)
 - **Death/critical illness riders** (separate, optional)
 
-#### The continuity gap — the most-felt limitation of employer GHS
+#### The continuity gap - the most-felt limitation of employer GHS
 
 When an employee:
 - Resigns
@@ -89,7 +89,7 @@ The employer GHS typically ends at the date of separation or the end of the poli
 - Some conditions become uninsurable on individual plans
 - The employee discovers the gap at the worst time
 
-By contrast, an individual IP rider purchased at age 25 with no exclusions remains in force regardless of employment changes — the cover is portable.
+By contrast, an individual IP rider purchased at age 25 with no exclusions remains in force regardless of employment changes - the cover is portable.
 
 #### What the SME founder should know
 
@@ -111,23 +111,23 @@ GHS premium depends on:
 - Claims experience (renewal-rated)
 - Geographic scope (Singapore only, ASEAN, worldwide)
 
-Per LIA published data and Singapore market norms, group medical plans for SMEs typically run S$300–S$2,000+ per employee annually depending on these variables.
+Per LIA published data and Singapore market norms, group medical plans for SMEs typically run S$300-S$2,000+ per employee annually depending on these variables.
 
 #### Common employer GHS plan design tiers
 
-**Tier 1 — Basic** (typical for entry-level positions):
+**Tier 1 - Basic** (typical for entry-level positions):
 - B1 ward
 - Standard surgical schedule
 - Basic in-patient and limited outpatient
 - No maternity, dental, optical extensions
 
-**Tier 2 — Intermediate** (typical for mid-management):
+**Tier 2 - Intermediate** (typical for mid-management):
 - A1 ward or private hospital
 - Higher surgical schedule
 - Pre/post-hospitalisation extended
 - Some optional extensions (specialist outpatient)
 
-**Tier 3 — Executive** (typical for senior management):
+**Tier 3 - Executive** (typical for senior management):
 - Private hospital, single room
 - High or no surgical schedule cap
 - Comprehensive outpatient, dental, optical
@@ -138,8 +138,8 @@ Many SMEs design a 2-tier or 3-tier plan internally to reflect role seniority wh
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Communicating GHS as "comprehensive medical coverage."** It is not — it's a benefit layer. Employees should understand that personal IP and MediShield Life still apply.
-2. **Cancelling personal IP when joining a new employer with GHS.** A common mistake — leaves the employee with continuity gaps at the next job change.
+1. **Communicating GHS as "comprehensive medical coverage."** It is not - it's a benefit layer. Employees should understand that personal IP and MediShield Life still apply.
+2. **Cancelling personal IP when joining a new employer with GHS.** A common mistake - leaves the employee with continuity gaps at the next job change.
 3. **Setting class entitlement above what employees actually use.** A1 or private entitlement that no employee can practically use is wasted premium.
 4. **Forgetting moratorium periods on pre-existing conditions.** Most SME GHS has a 12 or 24-month moratorium; employees joining mid-year may not be covered for known conditions yet.
 5. **Not extending to dependants for senior staff.** Dependant cover is often the most-valued benefit for retention but is sometimes seen as "expensive." It often costs less than perceived.
@@ -159,7 +159,7 @@ For SME HR running a GHS programme, the design choices that materially affect em
 
 5. **At plan renewal, review claims experience by category.** High utilisation in mental health, maternity, or specialist outpatient signals where benefit design needs to evolve.
 
-GHS is the most "felt" employee benefit — used regularly, visible at every claim. Process clarity and design appropriateness matter more than the headline premium savings.
+GHS is the most "felt" employee benefit - used regularly, visible at every claim. Process clarity and design appropriateness matter more than the headline premium savings.
 
 ### Questions to Ask Your Adviser
 

@@ -32,15 +32,15 @@ One insurer writes a single Cyber policy with a defined limit (e.g. S$5M, S$10M,
 
 Its **advantages** are simplicity: a single insurer relationship, a single claim-coordination point, and cost efficiency at smaller limits. Its **disadvantage** is that the limit is capped by what one insurer is willing to write for the risk.
 
-Most SMEs with limits up to S$5M–S$10M use a single policy, and the Singapore market provides single-policy capacity at those levels.
+Most SMEs with limits up to S$5M-S$10M use a single policy, and the Singapore market provides single-policy capacity at those levels.
 
 #### The tower structure
 
 A tower structures the cover in **layers**:
 
-- **Layer 1 (Primary)** — the first insurer writes the first layer (e.g. the first S$5M), with the defined cover scope.
-- **Layer 2 (First Excess)** — a second insurer writes the next layer (e.g. "S$5M excess of S$5M" — the next S$5M), following the form of the primary, and responding only after the primary is exhausted.
-- **Layer 3 and above** — further insurers in higher layers, each following the form and responding in turn as the layers below exhaust.
+- **Layer 1 (Primary)** - the first insurer writes the first layer (e.g. the first S$5M), with the defined cover scope.
+- **Layer 2 (First Excess)** - a second insurer writes the next layer (e.g. "S$5M excess of S$5M" - the next S$5M), following the form of the primary, and responding only after the primary is exhausted.
+- **Layer 3 and above** - further insurers in higher layers, each following the form and responding in turn as the layers below exhaust.
 
 Together the layers make up the **total tower** (e.g. S$25M in five S$5M layers), coordinated across the insurers.
 
@@ -50,38 +50,38 @@ Its **advantages**: access to substantial limits no single insurer would write; 
 
 A tower becomes relevant where the required limit outgrows single-insurer appetite. The exposure indicators that push limits up:
 
-1. **Substantial customer or data exposure** — healthcare data, financial data, government contracts, and the class-action exposure that comes with large data volumes.
-2. **Cross-border exposure** — US operations (the class-action environment) and EU operations (GDPR exposure).
-3. **Industry factors** — designation as Critical Information Infrastructure (CII) under the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), financial services (MAS regulation), and healthcare (the HCSA framework). The case law on cyber claims can be traced through [eLitigation](https://www.elitigation.sg/).
-4. **Commercial customer requirements** — major customers may contractually require S$10M–S$25M+.
+1. **Substantial customer or data exposure** - healthcare data, financial data, government contracts, and the class-action exposure that comes with large data volumes.
+2. **Cross-border exposure** - US operations (the class-action environment) and EU operations (GDPR exposure).
+3. **Industry factors** - designation as Critical Information Infrastructure (CII) under the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), financial services (MAS regulation), and healthcare (the HCSA framework). The case law on cyber claims can be traced through [eLitigation](https://www.elitigation.sg/).
+4. **Commercial customer requirements** - major customers may contractually require S$10M-S$25M+.
 
 #### Follow-form mechanics
 
-In a tower, the excess insurers typically write on a **follow-form** basis — adopting the primary policy's terms — but the exclusions and endorsements can differ between layers.
+In a tower, the excess insurers typically write on a **follow-form** basis - adopting the primary policy's terms - but the exclusions and endorsements can differ between layers.
 
-The point to confirm is **alignment**: the definitions, exclusions, notification provisions, and defence-cooperation terms should be consistent across every layer. Where follow-form alignment fails, a **coverage gap** can open up between layers — a loss the primary covers but an excess layer excludes, or the reverse.
+The point to confirm is **alignment**: the definitions, exclusions, notification provisions, and defence-cooperation terms should be consistent across every layer. Where follow-form alignment fails, a **coverage gap** can open up between layers - a loss the primary covers but an excess layer excludes, or the reverse.
 
 #### The drop-down feature
 
-Some excess policies include a **drop-down provision**: if the primary insurer becomes insolvent, the excess layer "drops down" to respond in its place. **Without** a drop-down provision, an excess layer responds only once the primary limit is exhausted — so a primary insurer's insolvency leaves a gap.
+Some excess policies include a **drop-down provision**: if the primary insurer becomes insolvent, the excess layer "drops down" to respond in its place. **Without** a drop-down provision, an excess layer responds only once the primary limit is exhausted - so a primary insurer's insolvency leaves a gap.
 
 #### Worked scenarios
 
-- **Small Singapore SME (general business, S$5M Cyber)** — a single policy, cost-efficient and simple.
-- **Mid-size Singapore SME with significant data (S$10M Cyber)** — a single policy is still viable from major insurers.
-- **Singapore SME with US operations (S$15M–S$25M Cyber)** — a tower is typically relevant, given the class-action exposure and the limits required.
-- **Singapore SME with healthcare, financial-services, or CII exposure** — a tower is commonly used to reach the limits those exposures demand.
-- **Major established Singapore SME (S$25M–S$50M+)** — a tower is essential; that limit is not available from any single insurer.
+- **Small Singapore SME (general business, S$5M Cyber)** - a single policy, cost-efficient and simple.
+- **Mid-size Singapore SME with significant data (S$10M Cyber)** - a single policy is still viable from major insurers.
+- **Singapore SME with US operations (S$15M-S$25M Cyber)** - a tower is typically relevant, given the class-action exposure and the limits required.
+- **Singapore SME with healthcare, financial-services, or CII exposure** - a tower is commonly used to reach the limits those exposures demand.
+- **Major established Singapore SME (S$25M-S$50M+)** - a tower is essential; that limit is not available from any single insurer.
 
 #### Tower design considerations
 
-- **Layer sizing** — layers are typically S$5M–S$10M each, sized to balance insurer appetite against cost.
-- **Insurer selection** — spread the layers across a mix of insurers to avoid concentration, weighing each insurer's claims-handling track record.
-- **Limit structure** — confirm how the aggregate limit, the per-event limit, and defence and notification costs are handled across the tower.
+- **Layer sizing** - layers are typically S$5M-S$10M each, sized to balance insurer appetite against cost.
+- **Insurer selection** - spread the layers across a mix of insurers to avoid concentration, weighing each insurer's claims-handling track record.
+- **Limit structure** - confirm how the aggregate limit, the per-event limit, and defence and notification costs are handled across the tower.
 
 #### Cost economics
 
-The premium **per dollar of cover** falls as you move up the tower: the primary layer is the most expensive per dollar, the first excess significantly less, and higher layers progressively less again — because each higher layer is less likely to be reached. This is why, at substantial limits, a tower can be more cost-efficient than stretching a single policy.
+The premium **per dollar of cover** falls as you move up the tower: the primary layer is the most expensive per dollar, the first excess significantly less, and higher layers progressively less again - because each higher layer is less likely to be reached. This is why, at substantial limits, a tower can be more cost-efficient than stretching a single policy.
 
 #### Singapore market considerations
 
@@ -104,10 +104,10 @@ A tower needs disciplined coordination: consistent notification protocols across
 
 #### Stage-by-stage build
 
-- **Small / simple Singapore SME** — a single Cyber policy is appropriate.
-- **Mid-size Singapore SME** — a single policy, or a low-layer tower as limits rise.
-- **Large / sophisticated Singapore SME** — a tower is essential, with multi-insurer coordination.
-- **Cross-border or high-exposure SME** — a tower, structured with the relevant foreign-market exposures in mind.
+- **Small / simple Singapore SME** - a single Cyber policy is appropriate.
+- **Mid-size Singapore SME** - a single policy, or a low-layer tower as limits rise.
+- **Large / sophisticated Singapore SME** - a tower is essential, with multi-insurer coordination.
+- **Cross-border or high-exposure SME** - a tower, structured with the relevant foreign-market exposures in mind.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -126,11 +126,11 @@ A tower needs disciplined coordination: consistent notification protocols across
 
 For Singapore SMEs evaluating Cyber Liability structure:
 
-1. **A single policy is appropriate for most SMEs** — typically up to S$5M–S$10M.
+1. **A single policy is appropriate for most SMEs** - typically up to S$5M-S$10M.
 
 2. **A tower becomes relevant at S$10M+.**
 
-3. **For US-exposed operations, a tower is commonly essential** — the class-action environment drives the limits up.
+3. **For US-exposed operations, a tower is commonly essential** - the class-action environment drives the limits up.
 
 4. **For healthcare, financial-services, and CII exposures, a tower is commonly essential.**
 
@@ -155,6 +155,6 @@ The Cyber tower decision is a function of the exposure profile and the limit req
 ### Related Information
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
-- [Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?](/crisis/cyber-extortion-ransomware)
+- [Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?](/crisis/cyber-extortion-ransomware)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

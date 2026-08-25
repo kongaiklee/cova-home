@@ -1,5 +1,5 @@
 ---
-title: "A Vendor Just Ran Off With Our Deposit — What Do I Do Now?"
+title: "A Vendor Just Ran Off With Our Deposit - What Do I Do Now?"
 slug: "/crisis/vendor-ran-off-with-deposit"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,36 +14,36 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/vendor-ran-off-with-deposit"
 meta_description: "First, attempt direct contact and document non-response. Then in parallel: file a Singapore Police Force report if facts suggest fraud (criminal..."
-og_title: "A Vendor Just Ran Off With Our Deposit — What Do I Do Now?"
+og_title: "A Vendor Just Ran Off With Our Deposit - What Do I Do Now?"
 og_description: "First, attempt direct contact and document non-response. Then in parallel: file a Singapore Police Force report if facts suggest fraud (criminal..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> First, attempt direct contact and document non-response. Then in parallel: file a [Singapore Police Force](https://www.police.gov.sg/) report if facts suggest fraud (criminal misappropriation under the [Penal Code 1871](https://sso.agc.gov.sg/Act/PC1871)), file a civil claim for breach of contract / recovery of deposit, and check whether [CASE](https://www.case.org.sg/) (for consumer-facing transactions) or [Small Claims Tribunals](https://www.judiciary.gov.sg/) (for claims up to **S$20,000**, or up to **S$30,000** with a Memorandum of Consent signed by both parties) applies. **Trade Credit insurance** rarely covers single-vendor deposit losses (it covers receivables from buyers, not deposits paid to suppliers). **Fidelity Guarantee** covers employee dishonesty, not external vendor fraud. **Crime / Commercial Crime** insurance may respond to specific scenarios (impersonation, social engineering fraud) under defined wordings — verify your policy carefully. For most SME deposit losses, recovery depends on civil action and police investigation, not commercial insurance.
+> First, attempt direct contact and document non-response. Then in parallel: file a [Singapore Police Force](https://www.police.gov.sg/) report if facts suggest fraud (criminal misappropriation under the [Penal Code 1871](https://sso.agc.gov.sg/Act/PC1871)), file a civil claim for breach of contract / recovery of deposit, and check whether [CASE](https://www.case.org.sg/) (for consumer-facing transactions) or [Small Claims Tribunals](https://www.judiciary.gov.sg/) (for claims up to **S$20,000**, or up to **S$30,000** with a Memorandum of Consent signed by both parties) applies. **Trade Credit insurance** rarely covers single-vendor deposit losses (it covers receivables from buyers, not deposits paid to suppliers). **Fidelity Guarantee** covers employee dishonesty, not external vendor fraud. **Crime / Commercial Crime** insurance may respond to specific scenarios (impersonation, social engineering fraud) under defined wordings - verify your policy carefully. For most SME deposit losses, recovery depends on civil action and police investigation, not commercial insurance.
 
 ### The Step-by-Step
 
 A vendor disappearing with a deposit is one of the most demoralising SME experiences. The financial loss is direct; the time cost of recovery is significant; and the realisation that standard commercial insurance rarely responds to this exposure is unwelcome. The article below sets out the practical recovery sequence and the limited insurance angles to verify.
 
-#### Hour 0–24 — Verify the situation, document, contact
+#### Hour 0-24 - Verify the situation, document, contact
 
 Before assuming fraud or running to authorities, verify factually:
 
 - **Direct contact attempts.** Phone, email, WhatsApp, registered office address. Document each attempt with date and time.
-- **Check business registration.** Pull the vendor's [ACRA BizFile profile](https://www.bizfile.gov.sg/) — is the entity active? Has it been struck off? Are there recent changes in directors or address?
+- **Check business registration.** Pull the vendor's [ACRA BizFile profile](https://www.bizfile.gov.sg/) - is the entity active? Has it been struck off? Are there recent changes in directors or address?
 - **Check for warning signs.** Have other businesses reported similar issues? Public reviews, industry forums, news reports.
 - **Review the contract.** What does it say about deposits, refunds, force majeure, dispute resolution, governing law?
 - **Preserve all communications.** Emails, messages, payment records, invoices, contract drafts, marketing materials. Do not delete anything.
 
 Sometimes what initially looks like fraud turns out to be operational chaos (illness, business failure, communication breakdown). The response differs based on facts.
 
-#### Day 1–7 — Send formal demand, escalate
+#### Day 1-7 - Send formal demand, escalate
 
 If direct contact fails or the vendor refuses to refund:
 
 **Letter of Demand.**
-A formal letter from your lawyer (or a strongly-worded letter from you) demanding return of the deposit by a specified date (typically 7–14 days). Sets a contractual / litigation foundation.
+A formal letter from your lawyer (or a strongly-worded letter from you) demanding return of the deposit by a specified date (typically 7-14 days). Sets a contractual / litigation foundation.
 
 **Police report (if facts suggest crime).**
 Indicators of criminal conduct (not just contract breach):
@@ -56,28 +56,28 @@ Indicators of criminal conduct (not just contract breach):
 File via the [SPF e-Services portal](https://eservices.police.gov.sg/) or in person at any Neighbourhood Police Centre. The Commercial Affairs Department handles major commercial fraud; routine deposit disputes are typically referred back to civil resolution unless the criminal pattern is clear.
 
 **Bank notification (if relevant).**
-If payment was via bank transfer to a Singapore account, your bank may be able to assist with limited recall mechanisms — though success rates are low after the funds have been disbursed. For overseas transfers, recovery is significantly harder.
+If payment was via bank transfer to a Singapore account, your bank may be able to assist with limited recall mechanisms - though success rates are low after the funds have been disbursed. For overseas transfers, recovery is significantly harder.
 
-#### Day 7–30 — Civil recovery options
+#### Day 7-30 - Civil recovery options
 
-**Small Claims Tribunals (SCT)** — for claims up to **S$20,000** (raised to **S$30,000** if both parties sign a Memorandum of Consent):
+**Small Claims Tribunals (SCT)** - for claims up to **S$20,000** (raised to **S$30,000** if both parties sign a Memorandum of Consent):
 - Per the [Small Claims Tribunals Act 1984](https://sso.agc.gov.sg/Act/SCTA1984)
 - No lawyers required (and generally not allowed)
-- Streamlined process, typically 1–3 months
-- Fee modest (typically S$10–S$50 depending on claim size)
+- Streamlined process, typically 1-3 months
+- Fee modest (typically S$10-S$50 depending on claim size)
 - Suitable for clear deposit disputes against identifiable Singapore businesses
 - File via the [State Courts e-services](https://www.judiciary.gov.sg/state-courts)
 
-**Magistrate's Court** — for claims up to **S$60,000** (above the SCT ceiling):
+**Magistrate's Court** - for claims up to **S$60,000** (above the SCT ceiling):
 - Lawyers permitted but not required
 - More formal than SCT
 - Higher cost in time and money
 
-**District Court** — for claims S$60,000–S$250,000:
+**District Court** - for claims S$60,000-S$250,000:
 - Lawyers typical
 - Standard civil procedure
 
-**General Division of the High Court** — for claims above S$250,000:
+**General Division of the High Court** - for claims above S$250,000:
 - Lawyers required in practice
 - Most formal procedure
 - Highest cost but appropriate for material claims
@@ -91,7 +91,7 @@ If you are a consumer (not a business buyer), the [Consumers Association of Sing
 
 CASE is consumer-focused; B2B disputes typically don't qualify, but CASE can advise on appropriate forums.
 
-#### What insurance might respond — and usually doesn't
+#### What insurance might respond - and usually doesn't
 
 This is the part most SMEs find disappointing.
 
@@ -109,15 +109,15 @@ Covers physical loss or damage. Doesn't respond to commercial loss.
 
 **Commercial Crime / Crime Coverage**
 Some Crime policies cover specific scenarios:
-- **Computer fraud** — funds stolen via unauthorised system access
-- **Funds transfer fraud** — unauthorised transfer instructions
-- **Social engineering fraud** — funds transferred based on impersonation (e.g. fake CEO email, fake supplier email change)
-- **Impersonation fraud** — broader coverage for impersonation scenarios
+- **Computer fraud** - funds stolen via unauthorised system access
+- **Funds transfer fraud** - unauthorised transfer instructions
+- **Social engineering fraud** - funds transferred based on impersonation (e.g. fake CEO email, fake supplier email change)
+- **Impersonation fraud** - broader coverage for impersonation scenarios
 
-If your deposit loss involved any of these — particularly social engineering (a fraudulent email purporting to be from your legitimate vendor with new bank details, leading you to send funds to the fraudster instead) — Commercial Crime cover may respond. **Notification windows are typically short** (days to weeks); review the policy promptly.
+If your deposit loss involved any of these - particularly social engineering (a fraudulent email purporting to be from your legitimate vendor with new bank details, leading you to send funds to the fraudster instead) - Commercial Crime cover may respond. **Notification windows are typically short** (days to weeks); review the policy promptly.
 
 **Cyber insurance**
-Some Cyber policies include social engineering fraud sub-limits. If the deposit was paid based on compromised email communications (Business Email Compromise — BEC), Cyber may respond.
+Some Cyber policies include social engineering fraud sub-limits. If the deposit was paid based on compromised email communications (Business Email Compromise - BEC), Cyber may respond.
 
 **Key question for any deposit loss:**
 - Was there fraud in the *payment instruction* (e.g. email impersonation redirecting funds to fraudster's account)? → Commercial Crime / Cyber may respond
@@ -140,21 +140,21 @@ The distinction matters significantly.
 **Scenario C: New vendor email arrives with "updated bank details," funds sent to fraudster**
 - Social engineering / Business Email Compromise
 - Police report + Commercial Crime / Cyber claim if held
-- Insurance may respond — verify policy terms
+- Insurance may respond - verify policy terms
 
 **Scenario D: Online vendor (overseas) took deposit, no physical presence in Singapore**
 - Recovery against overseas entity is significantly harder
 - Police can refer to international cooperation (limited efficacy for civil deposit disputes)
-- Recovery typically pursued via the platform (if applicable — Alibaba dispute resolution, eBay buyer protection, etc.)
+- Recovery typically pursued via the platform (if applicable - Alibaba dispute resolution, eBay buyer protection, etc.)
 - Insurance: typically no response unless social engineering involved
 
 #### Forensic and recovery considerations
 
 For larger deposit losses (typically S$50,000+), engaging:
-- **Civil litigation lawyer** — for the underlying recovery action
-- **Forensic accountant** — to trace funds, particularly if multiple transfers
-- **Commercial intelligence firm** — for asset tracing if recovery is pursued
-- **Insolvency lawyer** — if the vendor entity has gone insolvent
+- **Civil litigation lawyer** - for the underlying recovery action
+- **Forensic accountant** - to trace funds, particularly if multiple transfers
+- **Commercial intelligence firm** - for asset tracing if recovery is pursued
+- **Insolvency lawyer** - if the vendor entity has gone insolvent
 
 These services come at significant cost; for smaller losses, the cost of pursuit may exceed the recoverable amount. Realistic recovery prospects matter when deciding whether to pursue formally.
 
@@ -220,7 +220,7 @@ The discipline:
 
 7. **Build broker relationship for the policy details.** Knowing exactly what your Crime/Cyber covers (and doesn't) is worth more than discovering it post-incident.
 
-The cost of this loss is usually borne by the SME directly. The objective post-incident is realistic recovery; the objective pre-incident is prevention. Insurance plays a smaller role here than in most other crisis categories — making the operational discipline more important.
+The cost of this loss is usually borne by the SME directly. The objective post-incident is realistic recovery; the objective pre-incident is prevention. Insurance plays a smaller role here than in most other crisis categories - making the operational discipline more important.
 
 ### Questions to Ask Your Adviser
 
@@ -232,7 +232,7 @@ The cost of this loss is usually borne by the SME directly. The objective post-i
 
 ### Related Information
 - [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
-- [A Customer Just Sued Us — What Do I Do Now?](/crisis/customer-just-sued)
+- [A Customer Just Sued Us - What Do I Do Now?](/crisis/customer-just-sued)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

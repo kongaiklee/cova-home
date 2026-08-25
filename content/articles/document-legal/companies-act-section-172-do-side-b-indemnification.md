@@ -24,7 +24,7 @@ og_description: "Section 172 of the Companies Act 1967 governs when a Singapore 
 
 ### The Sourced Detail
 
-Section 172 is the provision that determines when a company can financially protect its directors and officers from the consequences of their roles. The interaction with D&O insurance is fundamental — without Section 172, D&O Side B coverage couldn't exist; with it, the boundaries of indemnification (and therefore Side B coverage) are clearly defined.
+Section 172 is the provision that determines when a company can financially protect its directors and officers from the consequences of their roles. The interaction with D&O insurance is fundamental - without Section 172, D&O Side B coverage couldn't exist; with it, the boundaries of indemnification (and therefore Side B coverage) are clearly defined.
 
 #### The general prohibition
 
@@ -36,9 +36,9 @@ This general prohibition reflects the policy that companies shouldn't be able to
 
 #### The exceptions to the general prohibition
 
-Section 172 sets out specific exceptions — circumstances where indemnification is permitted notwithstanding the general prohibition:
+Section 172 sets out specific exceptions - circumstances where indemnification is permitted notwithstanding the general prohibition:
 
-**Section 172(2) — exempted indemnifications:**
+**Section 172(2) - exempted indemnifications:**
 
 The general prohibition does not apply to:
 
@@ -48,15 +48,15 @@ The general prohibition does not apply to:
 
 (c) Other specific scenarios per the Act.
 
-The architecture is deliberate: directors aren't protected from being held accountable to the company for genuine breaches, but they are protected from the cost of defending themselves — particularly where they ultimately prevail.
+The architecture is deliberate: directors aren't protected from being held accountable to the company for genuine breaches, but they are protected from the cost of defending themselves - particularly where they ultimately prevail.
 
 #### Section 172A and Section 172B
 
 Subsequent amendments expanded the framework:
 
-**Section 172A** — provides for company purchase of insurance for officers covering specific liabilities, including liabilities the company couldn't directly indemnify. This is the legal foundation for D&O Side A coverage (where the insurance directly responds to the director, not through company indemnification).
+**Section 172A** - provides for company purchase of insurance for officers covering specific liabilities, including liabilities the company couldn't directly indemnify. This is the legal foundation for D&O Side A coverage (where the insurance directly responds to the director, not through company indemnification).
 
-**Section 172B** — addresses qualifying third-party indemnity provisions, allowing indemnity for third-party claims (not claims by the company itself) under specific conditions.
+**Section 172B** - addresses qualifying third-party indemnity provisions, allowing indemnity for third-party claims (not claims by the company itself) under specific conditions.
 
 These provisions together create the legal infrastructure that allows D&O insurance to operate alongside Section 172. Without them, D&O cover would have substantial coverage gaps where the company couldn't legally indemnify and the policy couldn't legally respond.
 
@@ -64,11 +64,11 @@ These provisions together create the legal infrastructure that allows D&O insura
 
 D&O insurance is structured to fit the Section 172 architecture:
 
-**Side A — direct cover for individual directors and officers.** Operates under Section 172A. Responds where the company cannot indemnify (insolvency, prohibited indemnification, unwilling company). The director is the named insured; the policy responds directly.
+**Side A - direct cover for individual directors and officers.** Operates under Section 172A. Responds where the company cannot indemnify (insolvency, prohibited indemnification, unwilling company). The director is the named insured; the policy responds directly.
 
-**Side B — reimbursement of company indemnification.** Operates within Section 172(2) exceptions. The company indemnifies the director per its constitution / Section 172 framework, then the policy reimburses the company. This is the most commonly used coverage in practice.
+**Side B - reimbursement of company indemnification.** Operates within Section 172(2) exceptions. The company indemnifies the director per its constitution / Section 172 framework, then the policy reimburses the company. This is the most commonly used coverage in practice.
 
-**Side C — entity coverage.** Covers the company itself for specific claims (typically securities-related, though extending to other contexts). Less directly tied to Section 172 since it covers the company directly rather than indemnification.
+**Side C - entity coverage.** Covers the company itself for specific claims (typically securities-related, though extending to other contexts). Less directly tied to Section 172 since it covers the company directly rather than indemnification.
 
 The architecture matters because it determines how a claim flows: a director facing a Section 157 proceeding typically has costs advanced under Side A or Side B depending on company circumstances, with the ultimate financial responsibility allocated based on Section 172 (whether the company can / does indemnify) and the proceeding outcome.
 
@@ -87,13 +87,13 @@ For SMEs, ensuring constitutional provisions are appropriately drafted is founda
 
 Several common scenarios illustrate Section 172 in operation:
 
-**Director defends Section 157 proceeding and is acquitted.** Section 172(2) exception applies — company can indemnify defence costs. Side B D&O reimburses.
+**Director defends Section 157 proceeding and is acquitted.** Section 172(2) exception applies - company can indemnify defence costs. Side B D&O reimburses.
 
-**Director is found liable in Section 157 proceeding.** General prohibition applies — company cannot indemnify the damages. Side B D&O cannot reimburse what the company couldn't pay. Side A may respond directly to the director where policy terms allow (subject to fraud / dishonesty exclusions and other provisions).
+**Director is found liable in Section 157 proceeding.** General prohibition applies - company cannot indemnify the damages. Side B D&O cannot reimburse what the company couldn't pay. Side A may respond directly to the director where policy terms allow (subject to fraud / dishonesty exclusions and other provisions).
 
-**Director defends third-party claim.** Section 172(2)(a) exception applies — company can indemnify regardless of outcome (subject to specific conditions). Side B D&O typically reimburses.
+**Director defends third-party claim.** Section 172(2)(a) exception applies - company can indemnify regardless of outcome (subject to specific conditions). Side B D&O typically reimburses.
 
-**Director defends regulatory proceeding.** Outcome-dependent — if proceeding is in director's favour or director is acquitted, indemnification permitted; if not, prohibited (with specific carve-outs).
+**Director defends regulatory proceeding.** Outcome-dependent - if proceeding is in director's favour or director is acquitted, indemnification permitted; if not, prohibited (with specific carve-outs).
 
 **Insolvent company, director defends claim.** Company can't indemnify due to insolvency. Side A D&O responds directly to the director.
 
@@ -103,7 +103,7 @@ D&O policies typically exclude fraud / dishonesty (final adjudication required).
 
 - Section 172 doesn't allow indemnification for acts that are dishonest / criminal
 - D&O fraud exclusion mirrors this approach
-- Both typically operate on final adjudication — meaning defence costs are advanced through proceedings
+- Both typically operate on final adjudication - meaning defence costs are advanced through proceedings
 - Final findings of fraud / dishonesty trigger both Section 172 prohibition and D&O exclusion
 - Specific allocation provisions in D&O policies handle mixed-allegation scenarios
 

@@ -13,14 +13,14 @@ word_count: 1602
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/cyber-tower-follow-form-mechanics"
-meta_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics — excess layers adopting the terms..."
+meta_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics - excess layers adopting the terms..."
 og_title: "Cyber Tower Follow-Form Mechanics Deep-Dive: How Excess Layers Coordinate (and Where Gaps Emerge)"
-og_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics — excess layers adopting the terms..."
+og_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics - excess layers adopting the terms..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Cyber tower structures (covered conceptually in [Article 167](/comparison/cyber-tower-vs-single-policy)) coordinate across layers through "follow-form" mechanics — excess layers adopting the terms of the primary policy. The coordination matters because gaps between layers create coverage discontinuity exactly where SMEs need cover most. Key follow-form considerations: **definitions consistency** (covered events, claim, loss, etc. defined identically), **exclusions consistency** (excess insurer cannot exclude what primary covers, with specific carve-outs documented), **notification consistency** (single notification protocol across layers), **defence cooperation consistency** (single defence coordination), **drop-down provisions** (whether excess responds if primary insolvent), and **specific allocation provisions** (how mixed claims are allocated). For Singapore SMEs at substantial Cyber limits (S$10M+), tower follow-form mechanics are commercial sophistication that specialist multinational brokers handle. Understanding the framework helps SMEs participate effectively in tower structuring and identify potential gaps before they manifest at claim time.
+> Cyber tower structures (covered conceptually in [Article 167](/comparison/cyber-tower-vs-single-policy)) coordinate across layers through "follow-form" mechanics - excess layers adopting the terms of the primary policy. The coordination matters because gaps between layers create coverage discontinuity exactly where SMEs need cover most. Key follow-form considerations: **definitions consistency** (covered events, claim, loss, etc. defined identically), **exclusions consistency** (excess insurer cannot exclude what primary covers, with specific carve-outs documented), **notification consistency** (single notification protocol across layers), **defence cooperation consistency** (single defence coordination), **drop-down provisions** (whether excess responds if primary insolvent), and **specific allocation provisions** (how mixed claims are allocated). For Singapore SMEs at substantial Cyber limits (S$10M+), tower follow-form mechanics are commercial sophistication that specialist multinational brokers handle. Understanding the framework helps SMEs participate effectively in tower structuring and identify potential gaps before they manifest at claim time.
 
 ### The Sourced Detail
 
@@ -174,8 +174,8 @@ Primary policy must be "exhausted" before excess engages. Exhaustion typically r
 
 Critical commercial provision:
 
-- "Defence costs within limits" — defence costs erode the limit
-- "Defence costs outside limits" — defence costs in addition to limit
+- "Defence costs within limits" - defence costs erode the limit
+- "Defence costs outside limits" - defence costs in addition to limit
 
 These provisions affect when excess engages:
 
@@ -188,7 +188,7 @@ For consistent follow-form, primary and excess defence cost provisions should al
 
 **Scenario A: Primary insurer insolvent, no drop-down.**
 
-Without drop-down, excess cannot respond until primary exhausts — but exhaustion is impossible if primary insolvent.
+Without drop-down, excess cannot respond until primary exhausts - but exhaustion is impossible if primary insolvent.
 
 Outcome: Coverage gap. Drop-down is the structural solution.
 
@@ -347,7 +347,7 @@ The Cyber tower follow-form architecture is sophisticated commercial structure. 
 
 ### Related Information
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
-- [Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?](/crisis/cyber-extortion-ransomware)
+- [Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?](/crisis/cyber-extortion-ransomware)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

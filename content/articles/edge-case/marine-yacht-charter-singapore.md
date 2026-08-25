@@ -44,7 +44,7 @@ For Singapore SMEs entering marine charter operations, MPA framework compliance 
 
 Marine Hull cover is the foundational specialty cover that distinguishes marine operations from generic commercial scope.
 
-Marine Hull cover provides specific provisions for vessel cover including specific All Risks scope (broader than standard Property/Fire — addresses specific marine perils including specific weather, specific groundings, specific collisions, specific other marine scope), specific agreed value provisions (where insurance value is established at procurement), operational scope considerations.
+Marine Hull cover provides specific provisions for vessel cover including specific All Risks scope (broader than standard Property/Fire - addresses specific marine perils including specific weather, specific groundings, specific collisions, specific other marine scope), specific agreed value provisions (where insurance value is established at procurement), operational scope considerations.
 
 Specific scope considerations include operational scope (port and harbour, coastal, specific cross-border scope), operational scope, operational discipline.
 
@@ -56,7 +56,7 @@ P&I cover is the foundational marine third-party liability cover, distinct from 
 
 P&I cover provides specific provisions for marine third-party scope including specific crew injury, specific passenger injury, specific cargo damage (where applicable), specific pollution, specific other marine third-party scope.
 
-Operational scope considerations include specific limits reflecting potential marine claim quantum (which can be substantial — specific marine incidents historically have driven substantive claim values), operational scope, operational considerations.
+Operational scope considerations include specific limits reflecting potential marine claim quantum (which can be substantial - specific marine incidents historically have driven substantive claim values), operational scope, operational considerations.
 
 For SMEs operating charter operations specifically, P&I cover is foundational given passenger scope (charter operations involve commercially carrying passengers). Considerations on limits and scope matters substantially.
 

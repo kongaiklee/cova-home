@@ -20,15 +20,15 @@ og_description: "A Singapore interior design firm typically needs: CaseTrust Ren
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore interior design firm typically needs: **CaseTrust Renovation accreditation** (per [CASE / Renovation, Contractors & Material Suppliers Association (RCMA)](https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/)) including the associated **Deposit Performance Bond** if accepting customer deposits, **Professional Indemnity** for design and consultancy work (S$500k–S$5M+ depending on project values), **Public Liability** for site visits and showroom (S$1M–S$3M), **WICA** for any employed designers, draftsmen, and admin staff, **Contractors All Risks (CAR)** for renovation works (typically the contractor's responsibility but verify scope), **Property/Fire** for office/showroom fit-out, and **Cyber** for client data and design IP. Firms that also act as renovation contractors (combined ID/contractor model) need additional [BCA registration](https://www1.bca.gov.sg/) and contractor-side liability cover. Licensing baseline: business registration with [ACRA](https://www.bizfile.gov.sg/), [HDB renovation contractor licensing](https://www.hdb.gov.sg/) where applicable, and CaseTrust for consumer protection.
+> A Singapore interior design firm typically needs: **CaseTrust Renovation accreditation** (per [CASE / Renovation, Contractors & Material Suppliers Association (RCMA)](https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/)) including the associated **Deposit Performance Bond** if accepting customer deposits, **Professional Indemnity** for design and consultancy work (S$500k-S$5M+ depending on project values), **Public Liability** for site visits and showroom (S$1M-S$3M), **WICA** for any employed designers, draftsmen, and admin staff, **Contractors All Risks (CAR)** for renovation works (typically the contractor's responsibility but verify scope), **Property/Fire** for office/showroom fit-out, and **Cyber** for client data and design IP. Firms that also act as renovation contractors (combined ID/contractor model) need additional [BCA registration](https://www1.bca.gov.sg/) and contractor-side liability cover. Licensing baseline: business registration with [ACRA](https://www.bizfile.gov.sg/), [HDB renovation contractor licensing](https://www.hdb.gov.sg/) where applicable, and CaseTrust for consumer protection.
 
 ### The Sourced Detail
 
 Interior design firms in Singapore operate across two distinct business models that affect the insurance build:
 
-**Model A: Pure design** — design services only, with renovation works subcontracted to or directly engaged by the client. Lower physical-works exposure; PI is primary.
+**Model A: Pure design** - design services only, with renovation works subcontracted to or directly engaged by the client. Lower physical-works exposure; PI is primary.
 
-**Model B: Combined design + renovation contractor** — firm provides design *and* manages/executes renovation works. Significant physical-works exposure; multiple liability lines engaged.
+**Model B: Combined design + renovation contractor** - firm provides design *and* manages/executes renovation works. Significant physical-works exposure; multiple liability lines engaged.
 
 Most Singapore interior design firms operate Model B. The CaseTrust Renovation accreditation and the regulatory requirements reflect this combined model.
 
@@ -39,7 +39,7 @@ Per the [CaseTrust Accreditation for Renovation Businesses](https://www.case.org
 - Provides consumer protection for renovation deposits
 - Requires accredited firms to maintain a **Deposit Performance Bond**
 - Imposes business practices standards (transparent pricing, written contracts, dispute resolution)
-- Enables consumer trust signal — many consumers seek CaseTrust-accredited firms
+- Enables consumer trust signal - many consumers seek CaseTrust-accredited firms
 
 **Deposit Performance Bond:**
 The bond protects customer deposits against firm failure (insolvency, business closure). The amount is calculated based on the firm's projected revenue and deposit volumes. Bond providers are typically insurance companies; the firm pays a premium for the bond.
@@ -61,11 +61,11 @@ For ID firms operating in HDB, registration as an HDB Approved Renovation Contra
 **Pre-launch:**
 - Confirm ACRA business registration
 - Decide on Model A vs Model B
-- Apply for CaseTrust Renovation accreditation (recommended early — process takes time)
+- Apply for CaseTrust Renovation accreditation (recommended early - process takes time)
 - For Model B: Apply for HDB Renovation Contractor registration
 - For Model B: Consider [BCA Contractors Registration System](https://www1.bca.gov.sg/) workhead registration if pursuing larger commercial work
 
-**Year 1 (small firm, 1–5 staff):**
+**Year 1 (small firm, 1-5 staff):**
 - CaseTrust accreditation + Deposit Performance Bond
 - Professional Indemnity
 - Public Liability
@@ -76,7 +76,7 @@ For ID firms operating in HDB, registration as an HDB Approved Renovation Contra
 - For Model B: Contractors All Risks for active projects
 - For Model B: Possibly Performance Bond on individual contracts
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher PI limits as project values scale
 - D&O for incorporated structures
 - EPL as headcount grows
@@ -105,12 +105,12 @@ For ID firms operating in HDB, registration as an HDB Approved Renovation Contra
 - Specific carve-outs per wording
 
 **Limit considerations:**
-- Small residential projects (S$30k–S$200k value): S$500k–S$1M PI typically sufficient
-- Mid-residential / small commercial (S$200k–S$1M): S$1M–S$3M
-- Larger commercial / luxury residential: S$3M–S$10M+
+- Small residential projects (S$30k-S$200k value): S$500k-S$1M PI typically sufficient
+- Mid-residential / small commercial (S$200k-S$1M): S$1M-S$3M
+- Larger commercial / luxury residential: S$3M-S$10M+
 
 **Claims-made structure:**
-PI is claims-made and notified. Retroactive date matters — see [Article 64](/comparison/claims-made-vs-occurrence). For new firms, retroactive date typically defaults to inception; ensure continuity if switching insurers.
+PI is claims-made and notified. Retroactive date matters - see [Article 64](/comparison/claims-made-vs-occurrence). For new firms, retroactive date typically defaults to inception; ensure continuity if switching insurers.
 
 #### The physical works layer (Model B)
 
@@ -157,7 +157,7 @@ For residential ID firms specifically, the photographs and floor plans of client
 #### Property and showroom
 
 ID firms typically operate from:
-- Office only (Model A — pure design)
+- Office only (Model A - pure design)
 - Office with small showroom
 - Larger showroom + office (more common for established firms)
 
@@ -168,12 +168,12 @@ Property cover:
 - Equipment (computers, design software, plotters, samples)
 - Stock of materials if any
 
-Sums insured at reinstatement value typically S$30,000–S$300,000 depending on showroom scale.
+Sums insured at reinstatement value typically S$30,000-S$300,000 depending on showroom scale.
 
 #### Specific project-related considerations
 
 **Material defects and product issues:**
-- Defective products supplied/specified by firm — Product Liability angle
+- Defective products supplied/specified by firm - Product Liability angle
 - Manufacturer warranties as primary coverage
 - ID firm's exposure typically limited to negligent specification
 
@@ -198,18 +198,18 @@ Sums insured at reinstatement value typically S$30,000–S$300,000 depending on 
 
 For a typical Singapore interior design firm:
 
-**Small firm (1–5 staff, residential focus, Model A or B):**
+**Small firm (1-5 staff, residential focus, Model A or B):**
 - CaseTrust Deposit Performance Bond: per scheme calculation
-- PI: S$2,000–S$8,000
-- PL/WICA/Property/Cyber: S$4,000–S$12,000
-- For Model B: CAR per project or annual S$3,000–S$10,000+
-- **Total annual insurance budget** typically S$10,000–S$30,000+
+- PI: S$2,000-S$8,000
+- PL/WICA/Property/Cyber: S$4,000-S$12,000
+- For Model B: CAR per project or annual S$3,000-S$10,000+
+- **Total annual insurance budget** typically S$10,000-S$30,000+
 
-**Mid-size firm (5–15 staff, mix of residential and commercial):**
-- Higher PI limits: S$5,000–S$15,000
-- Comprehensive other lines: S$15,000–S$40,000
-- CAR programme: S$10,000–S$30,000
-- **Total: S$30,000–S$100,000+**
+**Mid-size firm (5-15 staff, mix of residential and commercial):**
+- Higher PI limits: S$5,000-S$15,000
+- Comprehensive other lines: S$15,000-S$40,000
+- CAR programme: S$10,000-S$30,000
+- **Total: S$30,000-S$100,000+**
 
 **Larger firm:**
 - Comprehensive programme
@@ -257,7 +257,7 @@ For a typical Singapore interior design firm:
 
 ### What This Means for Your Business
 
-For Singapore interior design firms, the insurance build reflects the dual nature of the business — professional service plus physical works. The discipline:
+For Singapore interior design firms, the insurance build reflects the dual nature of the business - professional service plus physical works. The discipline:
 
 1. **Make the model choice deliberately.** Pure design vs combined design+contractor has different insurance, regulatory, and commercial implications.
 
@@ -269,7 +269,7 @@ For Singapore interior design firms, the insurance build reflects the dual natur
 
 5. **Verify subcontractor insurance.** Every subcontractor mobilising on a project should have current WICA and PL; check certificates.
 
-6. **Maintain documentation discipline.** Design specs, change orders, client sign-offs, photographs — all support both quality assurance and claim defence.
+6. **Maintain documentation discipline.** Design specs, change orders, client sign-offs, photographs - all support both quality assurance and claim defence.
 
 7. **Plan for scaling.** Project values, headcount, and geographic scope all drive insurance requirements.
 

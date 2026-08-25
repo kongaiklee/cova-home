@@ -13,31 +13,31 @@ word_count: 1414
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/group-hospital-surgical-claim"
-meta_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless — the employee presents at a panel hospital, the..."
+meta_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless - the employee presents at a panel hospital, the..."
 og_title: "How to File a Group Hospitalisation & Surgical Claim (Singapore)"
-og_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless — the employee presents at a panel hospital, the..."
+og_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless - the employee presents at a panel hospital, the..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. **Cashless** — the employee presents at a panel hospital, the hospital obtains a Letter of Guarantee (LOG) from the insurer or Third Party Administrator (TPA), and the bill is settled directly between hospital and insurer subject to the policy excess and any non-admissible items. **Reimbursement** — the employee pays the hospital, then submits the claim to the insurer/TPA with the discharge summary, itemised tax invoice, MC, and receipts. Per the [Life Insurance Association Singapore (LIA) consumer guidance](https://www.lia.org.sg/consumer-tools/), claim documents must typically be submitted within the policy notification window (commonly 30–90 days from discharge, depending on the wording).
+> Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. **Cashless** - the employee presents at a panel hospital, the hospital obtains a Letter of Guarantee (LOG) from the insurer or Third Party Administrator (TPA), and the bill is settled directly between hospital and insurer subject to the policy excess and any non-admissible items. **Reimbursement** - the employee pays the hospital, then submits the claim to the insurer/TPA with the discharge summary, itemised tax invoice, MC, and receipts. Per the [Life Insurance Association Singapore (LIA) consumer guidance](https://www.lia.org.sg/consumer-tools/), claim documents must typically be submitted within the policy notification window (commonly 30-90 days from discharge, depending on the wording).
 
 ### The Step-by-Step
 
-GHS is the most-claimed cover on a typical SME staff benefits stack. Per the [Life Insurance Association Singapore](https://www.lia.org.sg/), most SME group medical plans operate through TPA-mediated panel hospital arrangements with Singapore Ministry of Health-licensed providers (per the [MOH Hospital Services framework](https://www.moh.gov.sg/home/our-healthcare-system)). The mechanics are well-trodden, but mistakes — late notification, out-of-panel admission, missing pre-authorisation — still cause avoidable delays and out-of-pocket gaps. Here is the sequence that works.
+GHS is the most-claimed cover on a typical SME staff benefits stack. Per the [Life Insurance Association Singapore](https://www.lia.org.sg/), most SME group medical plans operate through TPA-mediated panel hospital arrangements with Singapore Ministry of Health-licensed providers (per the [MOH Hospital Services framework](https://www.moh.gov.sg/home/our-healthcare-system)). The mechanics are well-trodden, but mistakes - late notification, out-of-panel admission, missing pre-authorisation - still cause avoidable delays and out-of-pocket gaps. Here is the sequence that works.
 
-#### Step 1 — Verify panel and pre-authorisation requirements *before* admission
+#### Step 1 - Verify panel and pre-authorisation requirements *before* admission
 
-If the admission is planned (elective surgery, scheduled day-procedure), check the panel hospital list and the pre-authorisation requirements first. Most Singapore GHS policies operate through a TPA — Fullerton Health, Integrated Health Plans (IHP), Mednet, MHC Asia, AIA Vitality Health network, Prudential PRUWorks Care, or insurer-branded networks (e.g. Income Health, GE Health Connect). The underlying insurers are MAS-licensed and listed on the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid).
+If the admission is planned (elective surgery, scheduled day-procedure), check the panel hospital list and the pre-authorisation requirements first. Most Singapore GHS policies operate through a TPA - Fullerton Health, Integrated Health Plans (IHP), Mednet, MHC Asia, AIA Vitality Health network, Prudential PRUWorks Care, or insurer-branded networks (e.g. Income Health, GE Health Connect). The underlying insurers are MAS-licensed and listed on the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid).
 
 Pre-authorisation is required for:
 - Most planned inpatient admissions
 - Day surgery above a sub-limit threshold
 - Specialist treatment in some plans
 
-For emergency admissions, pre-authorisation is not required *but* the hospital must notify the insurer/TPA within the policy emergency-notification window (often 24–48 hours).
+For emergency admissions, pre-authorisation is not required *but* the hospital must notify the insurer/TPA within the policy emergency-notification window (often 24-48 hours).
 
-#### Step 2 — Cashless route: Letter of Guarantee at admission
+#### Step 2 - Cashless route: Letter of Guarantee at admission
 
 At a panel hospital, the admission desk requests employee identification and a Letter of Guarantee from the insurer/TPA. Documents the employee should bring:
 
@@ -46,9 +46,9 @@ At a panel hospital, the admission desk requests employee identification and a L
 - Doctor's referral letter (if specialist consult)
 - Pre-authorisation reference (if obtained)
 
-The hospital's billing team contacts the TPA, the TPA confirms eligibility against the policy schedule, and an LOG is issued — typically within hours for routine cases. The hospital then processes admission with billing routed to the insurer at discharge.
+The hospital's billing team contacts the TPA, the TPA confirms eligibility against the policy schedule, and an LOG is issued - typically within hours for routine cases. The hospital then processes admission with billing routed to the insurer at discharge.
 
-#### Step 3 — Reimbursement route: collect the four documents
+#### Step 3 - Reimbursement route: collect the four documents
 
 If the admission is at a non-panel hospital, the employee pays the hospital directly and claims reimbursement. Required documents:
 
@@ -59,7 +59,7 @@ If the admission is at a non-panel hospital, the employee pays the hospital dire
 
 Some plans require additional documents for specific conditions (e.g. cancer treatment plans, accident incident reports for accident-related admissions).
 
-#### Step 4 — Submit through the correct channel within the notification window
+#### Step 4 - Submit through the correct channel within the notification window
 
 GHS claims are submitted through one of:
 - Insurer/TPA mobile app or portal (most common, faster turnaround)
@@ -67,13 +67,13 @@ GHS claims are submitted through one of:
 - HR-mediated submission (HR consolidates and submits)
 
 Notification windows vary by policy. Common defaults:
-- 30 days from discharge — strict
-- 90 days from discharge — common for SME group plans
-- "As soon as reasonably practicable" — most lenient, but still implies prompt action
+- 30 days from discharge - strict
+- 90 days from discharge - common for SME group plans
+- "As soon as reasonably practicable" - most lenient, but still implies prompt action
 
 Late submission can result in claim rejection on procedural grounds even if the underlying admission is otherwise covered.
 
-#### Step 5 — Understand the bill, line by line
+#### Step 5 - Understand the bill, line by line
 
 When the claim is settled, the employee or HR receives a benefit statement showing:
 
@@ -93,19 +93,19 @@ A shortfall is not always a denial. The most common shortfall causes are:
 
 Before disputing, get the breakdown.
 
-#### Step 6 — Coordinate with Integrated Shield (IP) plans where applicable
+#### Step 6 - Coordinate with Integrated Shield (IP) plans where applicable
 
 Many Singapore employees hold MediShield Life + an Integrated Shield Plan (IP) on top of their employer's GHS. The order of payment is usually:
 
-1. **MediShield Life** (mandatory base) — pays first up to its limits
-2. **Integrated Shield Plan rider** (private add-on) — covers the next layer
-3. **Employer GHS** — covers the residual, subject to its own benefit caps
+1. **MediShield Life** (mandatory base) - pays first up to its limits
+2. **Integrated Shield Plan rider** (private add-on) - covers the next layer
+3. **Employer GHS** - covers the residual, subject to its own benefit caps
 
 The order can be reversed by policy design (some employer GHS pays first as primary). The employee should clarify the coordination at admission so the right insurer is invoiced first.
 
-#### Step 7 — Pre-existing conditions: read the moratorium
+#### Step 7 - Pre-existing conditions: read the moratorium
 
-Most SME GHS plans have a 12-month or 24-month moratorium on pre-existing conditions — meaning conditions diagnosed or symptomatic before policy inception are excluded for that period, then covered if symptom-free for the moratorium duration. Some plans use a full pre-existing exclusion (never covered).
+Most SME GHS plans have a 12-month or 24-month moratorium on pre-existing conditions - meaning conditions diagnosed or symptomatic before policy inception are excluded for that period, then covered if symptom-free for the moratorium duration. Some plans use a full pre-existing exclusion (never covered).
 
 If a claim is denied on pre-existing grounds, the appeal route is to demonstrate that:
 - The condition was *not* known or symptomatic at policy inception, OR
@@ -134,7 +134,7 @@ For HR running a GHS programme, the operational discipline that matters:
 
 4. **For senior employees, consider supplementary cover.** Standard SME GHS plans often have caps that don't match senior executive expectations. Top-up via a personal IP rider or a separate executive medical plan is typical.
 
-GHS is the most "felt" insurance in any SME — it's the policy employees actually use. Process clarity matters more than premium savings.
+GHS is the most "felt" insurance in any SME - it's the policy employees actually use. Process clarity matters more than premium savings.
 
 ### Questions to Ask Your Adviser
 

@@ -1,5 +1,5 @@
 ---
-title: "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US — Insurance and Regulatory Implications"
+title: "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US - Insurance and Regulatory Implications"
 slug: "/cross-border/sg-saas-data-residency-decisions"
 category: "cross-border"
 intent: "beyond-the-basics"
@@ -14,7 +14,7 @@ status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/cross-border/sg-saas-data-residency-decisions"
 meta_description: "Where a Singapore SaaS hosts customer data materially affects regulatory exposure, customer contract requirements, and insurance posture. Singapore region..."
-og_title: "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US — Insurance and Regulatory Implications"
+og_title: "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US - Insurance and Regulatory Implications"
 og_description: "Where a Singapore SaaS hosts customer data materially affects regulatory exposure, customer contract requirements, and insurance posture. Singapore region..."
 ---
 
@@ -24,7 +24,7 @@ og_description: "Where a Singapore SaaS hosts customer data materially affects r
 
 ### The Sourced Detail
 
-For Singapore-based SaaS companies, data residency is one of the most consequential architectural decisions — affecting customer addressability, regulatory compliance, performance, cost, and insurance posture simultaneously. The decision is increasingly forced by customer requirements rather than purely technical considerations.
+For Singapore-based SaaS companies, data residency is one of the most consequential architectural decisions - affecting customer addressability, regulatory compliance, performance, cost, and insurance posture simultaneously. The decision is increasingly forced by customer requirements rather than purely technical considerations.
 
 #### The architectural options
 
@@ -64,9 +64,9 @@ For Singapore-based SaaS companies, data residency is one of the most consequent
 Customer enterprise contracts increasingly specify hosting region for several reasons:
 
 **1. Regulatory requirements:**
-- Singapore financial sector — MAS guidance on data outsourcing
-- Healthcare — health data sensitivity
-- Government — typically Singapore-only
+- Singapore financial sector - MAS guidance on data outsourcing
+- Healthcare - health data sensitivity
+- Government - typically Singapore-only
 - Some industries with cross-border data restrictions
 
 **2. Sovereign data concerns:**
@@ -112,7 +112,7 @@ If a Singapore SaaS hosts in the EU region (AWS eu-central-1 / eu-west-1, Azure 
 
 If a Singapore SaaS hosts in the US region:
 
-The [US Clarifying Lawful Overseas Use of Data (CLOUD) Act 2018](https://www.congress.gov/bill/115th-congress/house-bill/4943) provides US law enforcement with mechanisms to access data held by US-based providers, regardless of where the data is physically stored. For Singapore SaaS using US-based cloud providers (AWS, Google, Microsoft) — even hosting in non-US regions — CLOUD Act considerations apply because the providers are US entities.
+The [US Clarifying Lawful Overseas Use of Data (CLOUD) Act 2018](https://www.congress.gov/bill/115th-congress/house-bill/4943) provides US law enforcement with mechanisms to access data held by US-based providers, regardless of where the data is physically stored. For Singapore SaaS using US-based cloud providers (AWS, Google, Microsoft) - even hosting in non-US regions - CLOUD Act considerations apply because the providers are US entities.
 
 This affects:
 - Customer perception of data sovereignty
@@ -263,7 +263,7 @@ For SaaS serving enterprise customers, certifications increasingly drive both cu
 - FINRA for US financial
 - HKMA, MAS guidance for financial
 
-Certifications are not insurance but affect insurability — insurers price favourably for certified SaaS and may require specific certifications for higher limits.
+Certifications are not insurance but affect insurability - insurers price favourably for certified SaaS and may require specific certifications for higher limits.
 
 #### Data residency vs data sovereignty distinction
 
@@ -355,7 +355,7 @@ For Singapore SaaS, data residency is increasingly a strategic decision rather t
 
 7. **Maintain transparency with customers.** Where data is, why, what laws apply.
 
-The cost of getting data residency right is moderate; the cost of getting it wrong — customer compliance breach, regulatory exposure, lost enterprise deals — is substantial.
+The cost of getting data residency right is moderate; the cost of getting it wrong - customer compliance breach, regulatory exposure, lost enterprise deals - is substantial.
 
 ### Questions to Ask Your Adviser
 

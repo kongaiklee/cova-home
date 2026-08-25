@@ -22,7 +22,7 @@ og_description: "---"
 
 ---
 
-Religious tour operations sit at an unusual intersection — regulated travel industry, faith-based community service, often substantial group travel to specific destinations with limited substitute options, and customer relationships that span years and multiple trips. The insurance and regulatory framework requires deliberate handling.
+Religious tour operations sit at an unusual intersection - regulated travel industry, faith-based community service, often substantial group travel to specific destinations with limited substitute options, and customer relationships that span years and multiple trips. The insurance and regulatory framework requires deliberate handling.
 
 This article walks through the framework for Singapore-based religious tour operators. It is not legal or insurance advice. The regulatory landscape involves multiple agencies (STB, ICA, MUIS for Hajj specifically, MFA travel advisories) and operators should engage with NATAS and a licensed Singapore IFA familiar with travel-industry programmes.
 
@@ -105,11 +105,11 @@ Beyond customer-side travel insurance, the operator itself has its own insurance
 
 #### Business interruption and supplier failure
 
-Religious tour operators are heavily dependent on overseas suppliers — accommodation providers, transport, ground tour operators, religious site coordinators. Supplier failure or substantial change can disrupt operations:
+Religious tour operators are heavily dependent on overseas suppliers - accommodation providers, transport, ground tour operators, religious site coordinators. Supplier failure or substantial change can disrupt operations:
 
 **Contingent Business Interruption (CBI).** Cover for the operator's loss when an overseas supplier fails. Per the [MAS guidance on CBI](https://www.mas.gov.sg/) and standard insurer documentation, CBI is sub-limit cover; the supplier must be specified or generally captured by description.
 
-**Force majeure events.** Religious tour operations are particularly exposed to force majeure — pandemic, conflict, natural disaster, regulatory change. The COVID-19 disruption to 2020-2022 operations remains within recent operational memory.
+**Force majeure events.** Religious tour operations are particularly exposed to force majeure - pandemic, conflict, natural disaster, regulatory change. The COVID-19 disruption to 2020-2022 operations remains within recent operational memory.
 
 **Cancellation insurance for the operator.** Some operators carry cancellation cover for their own exposure when forced to cancel pre-paid arrangements due to events outside operator control.
 

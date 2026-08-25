@@ -20,21 +20,21 @@ og_description: "Singapore SME commercial insurance renewal with a loss history 
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SME commercial insurance renewal with a loss history is one of the most consequential procedural exercises an SME finance / HR lead manages. Premium increases of 20%+ on renewal are common after a single material claim; group medical premium can increase 50-100% after high-cost individual claims. The procedure: (1) request "Schedule of Loss" / claims experience report from current insurer 90+ days before renewal; (2) review loss ratio and individual claim drivers; (3) prepare renewal narrative documenting circumstances, remediation, and risk improvements; (4) coordinate with broker for market test (multiple insurer quotes); (5) negotiate at renewal — levers include limit reduction, deductible increase, cover scope changes, panel restrictions, splitting bundle, multi-year commitment; (6) document any prior claim-handling delays or service failures as part of the renewal narrative; (7) confirm cover continuity and compliance with regulatory requirements (especially WICA designated insurer continuity). Industry benchmarks: group medical loss ratio of 65-75% triggers full repricing; >75% typically attracts 20-50%+ premium increase. Group medical premiums in Singapore have historically risen well above general inflation, driven by medical cost inflation and rising utilisation; annual increases of 0-20% are common, while 20%+ typically requires explanation.
+> Singapore SME commercial insurance renewal with a loss history is one of the most consequential procedural exercises an SME finance / HR lead manages. Premium increases of 20%+ on renewal are common after a single material claim; group medical premium can increase 50-100% after high-cost individual claims. The procedure: (1) request "Schedule of Loss" / claims experience report from current insurer 90+ days before renewal; (2) review loss ratio and individual claim drivers; (3) prepare renewal narrative documenting circumstances, remediation, and risk improvements; (4) coordinate with broker for market test (multiple insurer quotes); (5) negotiate at renewal - levers include limit reduction, deductible increase, cover scope changes, panel restrictions, splitting bundle, multi-year commitment; (6) document any prior claim-handling delays or service failures as part of the renewal narrative; (7) confirm cover continuity and compliance with regulatory requirements (especially WICA designated insurer continuity). Industry benchmarks: group medical loss ratio of 65-75% triggers full repricing; >75% typically attracts 20-50%+ premium increase. Group medical premiums in Singapore have historically risen well above general inflation, driven by medical cost inflation and rising utilisation; annual increases of 0-20% are common, while 20%+ typically requires explanation.
 
 ### The Sourced Detail
 
-Renewal with claims history is where insurance economics becomes painfully concrete for SMEs. The procedural discipline of preparing for adverse renewal can preserve substantial value — and the absence of preparation can leave SMEs accepting steep increases that more disciplined preparation would have moderated.
+Renewal with claims history is where insurance economics becomes painfully concrete for SMEs. The procedural discipline of preparing for adverse renewal can preserve substantial value - and the absence of preparation can leave SMEs accepting steep increases that more disciplined preparation would have moderated.
 
 #### Regulatory framework
 
-**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) — establishes general insurance contract framework.
+**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - establishes general insurance contract framework.
 
 **Specific cover requirements:**
-- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) — WICA designated insurer continuity at renewal
-- [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) — Motor compulsory cover continuity
+- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - WICA designated insurer continuity at renewal
+- [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) - Motor compulsory cover continuity
 
-**MAS framework for health insurance.** [MAS Notice 117](https://www.mas.gov.sg/regulation/notices/notice-117) — Training and Competency Requirement: Health Insurance — sets the training, examination and CPD requirements for advisers dealing in health insurance (including group medical).
+**MAS framework for health insurance.** [MAS Notice 117](https://www.mas.gov.sg/regulation/notices/notice-117) - Training and Competency Requirement: Health Insurance - sets the training, examination and CPD requirements for advisers dealing in health insurance (including group medical).
 
 #### How insurers price renewals
 
@@ -64,7 +64,7 @@ Insurers analyse: was this an outlier or symptom of underlying risk?
 
 #### The renewal preparation procedure step-by-step
 
-**Step 1 — Request Schedule of Loss / Claims Experience Report.**
+**Step 1 - Request Schedule of Loss / Claims Experience Report.**
 
 90+ days before renewal, request from current insurer:
 - Schedule of all claims in current policy period
@@ -79,7 +79,7 @@ For group medical specifically:
 - Specific demographic patterns
 - Comparison to insurer book benchmarks
 
-**Step 2 — Review and analyse.**
+**Step 2 - Review and analyse.**
 
 Internal analysis:
 - Total claim count, frequency, severity
@@ -94,7 +94,7 @@ Identify:
 - Claim handling concerns to discuss
 - Risk improvements implemented since claims
 
-**Step 3 — Prepare renewal narrative.**
+**Step 3 - Prepare renewal narrative.**
 
 Document for insurer / broker:
 - Circumstances of significant claims (with appropriate detail)
@@ -105,7 +105,7 @@ Document for insurer / broker:
 
 Strong narrative materially affects renewal outcome. Weak / absent narrative leaves insurer to interpret claims unfavorably.
 
-**Step 4 — Coordinate market test.**
+**Step 4 - Coordinate market test.**
 
 With broker:
 - Identify alternative insurers appropriate to SME profile
@@ -115,7 +115,7 @@ With broker:
 
 Market test serves dual purpose: alternative options if current insurer's renewal unfavorable; leverage for current insurer negotiation.
 
-**Step 5 — Negotiate renewal.**
+**Step 5 - Negotiate renewal.**
 
 Common negotiation levers:
 
@@ -141,7 +141,7 @@ Common negotiation levers:
 - Specific safety / risk management investments
 - Premium credit for documented improvements
 
-**Step 6 — Reach decision.**
+**Step 6 - Reach decision.**
 
 Considerations:
 - Best renewal terms achievable from current insurer
@@ -150,7 +150,7 @@ Considerations:
 - Cover scope and continuity
 - WICA designated insurer continuity requirements
 
-**Step 7 — Confirm cover continuity.**
+**Step 7 - Confirm cover continuity.**
 
 Whether renewing or switching:
 - New / renewed policy effective date aligned with old policy expiry
@@ -158,7 +158,7 @@ Whether renewing or switching:
 - WICA from designated insurer continuously
 - Certificates updated for third parties
 
-**Step 8 — Document for next cycle.**
+**Step 8 - Document for next cycle.**
 
 Maintain:
 - Final renewal terms
@@ -170,13 +170,13 @@ Maintain:
 
 Group medical is the most claims-volatile cover for SMEs:
 
-**Pricing inflation context.** Singapore group medical premiums have for many years risen well above general price inflation — typically in the high single digits to low double digits annually — driven by medical cost inflation and rising healthcare utilisation. Recent years have seen larger increases driven by post-COVID utilisation and medical cost inflation.
+**Pricing inflation context.** Singapore group medical premiums have for many years risen well above general price inflation - typically in the high single digits to low double digits annually - driven by medical cost inflation and rising healthcare utilisation. Recent years have seen larger increases driven by post-COVID utilisation and medical cost inflation.
 
 **Loss ratio benchmarks (group medical):**
-- <60% — profitable; minimal increase (0-10%)
-- 60-75% — standard; moderate increase (10-20%)
-- 75-90% — elevated; substantial increase (25-50%)
-- >90% — loss-making; major increase or non-renewal (50-100%+)
+- <60% - profitable; minimal increase (0-10%)
+- 60-75% - standard; moderate increase (10-20%)
+- 75-90% - elevated; substantial increase (25-50%)
+- >90% - loss-making; major increase or non-renewal (50-100%+)
 
 **Single-claim sensitivity in small groups.** A 20-life group with one cancer treatment claim of SGD 200,000 against SGD 60,000 annual premium has 333% loss ratio for that claim alone. Insurer cannot reasonably absorb; renewal increase of 40-80%+ likely.
 
@@ -233,7 +233,7 @@ Non-renewal decision requires careful consideration but can be commercially soun
 
 8. **Group medical lever framework not used.** Panel / deductible / co-payment alternatives not considered; full premium increase accepted.
 
-9. **Prior claim-handling experience ignored.** If the incumbent insurer handled prior claims poorly — slow, unresponsive, or disputatious — that service record should weigh in the renew-versus-switch decision and the renewal narrative.
+9. **Prior claim-handling experience ignored.** If the incumbent insurer handled prior claims poorly - slow, unresponsive, or disputatious - that service record should weigh in the renew-versus-switch decision and the renewal narrative.
 
 10. **No multi-year strategic view.** Each renewal addressed transactionally rather than as part of multi-year cover strategy.
 
@@ -255,7 +255,7 @@ For Singapore SMEs facing renewal with loss history:
 
 7. **Decision documentation** of renewal terms and rationale.
 
-8. **Multi-year strategic context** — what does this renewal mean for cover plan over next 3-5 years?
+8. **Multi-year strategic context** - what does this renewal mean for cover plan over next 3-5 years?
 
 9. **Risk improvement commitments** documented and tracked.
 

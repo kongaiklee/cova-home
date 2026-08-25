@@ -28,65 +28,65 @@ Multi-policy claim coordination is one of the most operationally demanding scena
 
 #### Regulatory framework
 
-**Regulatory statute.** The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulates insurers carrying on insurance business in Singapore (licensing, conduct of business, MAS supervision). The contractual mechanics of a claim — notification, claim handling, contribution and subrogation — are governed mainly by the policy wording and common-law principles, with the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) codifying subrogation (s.79) for marine cover.
+**Regulatory statute.** The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulates insurers carrying on insurance business in Singapore (licensing, conduct of business, MAS supervision). The contractual mechanics of a claim - notification, claim handling, contribution and subrogation - are governed mainly by the policy wording and common-law principles, with the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) codifying subrogation (s.79) for marine cover.
 
 **Specific statutes by cover line:**
-- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) — WICA notification and claim
-- [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) — PDPA breach notification (Cyber)
-- [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) — WSHA reporting (workplace incidents)
+- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - WICA notification and claim
+- [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - PDPA breach notification (Cyber)
+- [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) - WSHA reporting (workplace incidents)
 
-**Industry framework.** [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) — industry conventions on claim coordination, contribution, double-insurance.
+**Industry framework.** [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) - industry conventions on claim coordination, contribution, double-insurance.
 
 #### Common multi-policy scenarios
 
-**Scenario 1 — Major fire incident.**
+**Scenario 1 - Major fire incident.**
 
 Single fire at SME premises triggers:
-- **Property / Fire policy** — building damage, contents, equipment
-- **Business Interruption policy** — revenue loss during reinstatement
-- **Public Liability policy** — third-party (customer, neighbour) injury or property damage
-- **WICA** — employee injury during incident or evacuation
-- **Goods in Trust** — customer property at premises (if applicable)
-- **Equipment Breakdown** — specialised equipment damage
-- **Property Owners' Liability** — if landlord/owner separate from operator
+- **Property / Fire policy** - building damage, contents, equipment
+- **Business Interruption policy** - revenue loss during reinstatement
+- **Public Liability policy** - third-party (customer, neighbour) injury or property damage
+- **WICA** - employee injury during incident or evacuation
+- **Goods in Trust** - customer property at premises (if applicable)
+- **Equipment Breakdown** - specialised equipment damage
+- **Property Owners' Liability** - if landlord/owner separate from operator
 
 Notification to: Property carrier (typically 7-14 days), BI carrier (often same), PL carrier (typically 30 days), WICA carrier (10 days for MOM, immediate for insurer), GIT carrier (typically 7-14 days).
 
-**Scenario 2 — Cyber incident.**
+**Scenario 2 - Cyber incident.**
 
 Single cyber attack triggers:
-- **Cyber Liability policy** — primary response (forensic, notification, regulatory defence)
-- **D&O Liability** — director / officer claims if breach attributed to oversight failure
-- **Professional Indemnity** — if breach involved client data and PI policy includes data scope
-- **Employment Practices Liability** — if employee data breached (employees may pursue claims)
-- **Crime / Fidelity** — if breach involved insider element
+- **Cyber Liability policy** - primary response (forensic, notification, regulatory defence)
+- **D&O Liability** - director / officer claims if breach attributed to oversight failure
+- **Professional Indemnity** - if breach involved client data and PI policy includes data scope
+- **Employment Practices Liability** - if employee data breached (employees may pursue claims)
+- **Crime / Fidelity** - if breach involved insider element
 
 Notification deadlines vary; cyber typically immediate (24-72 hours). Per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore), PDPA Section 26D 3-day notification is independent regulatory obligation.
 
-**Scenario 3 — Contractor / on-site incident.**
+**Scenario 3 - Contractor / on-site incident.**
 
 Sub-contractor incident at operator's premises triggers:
-- **Operator's Public Liability** — premises liability
-- **Operator's WICA** — if sub-contractor classified as employee for WICA purposes
-- **Sub-contractor's PL** — sub-contractor's own liability
-- **Sub-contractor's WICA** — sub-contractor employee injury
-- **Motor cover** — if vehicle involved
-- **Product Liability** — if product / equipment defect contributed
+- **Operator's Public Liability** - premises liability
+- **Operator's WICA** - if sub-contractor classified as employee for WICA purposes
+- **Sub-contractor's PL** - sub-contractor's own liability
+- **Sub-contractor's WICA** - sub-contractor employee injury
+- **Motor cover** - if vehicle involved
+- **Product Liability** - if product / equipment defect contributed
 
 Allocation of responsibility between operator and sub-contractor governed by contractual indemnity provisions plus underlying liability law.
 
-**Scenario 4 — Product recall.**
+**Scenario 4 - Product recall.**
 
 Defective product triggers:
-- **Product Liability** — third-party harm claims
-- **Product Recall** — recall execution costs
-- **Public Relations** — reputation management (if applicable)
-- **D&O** — if recall attributed to governance failure
-- **Trade Credit** — if customer credit impact significant
+- **Product Liability** - third-party harm claims
+- **Product Recall** - recall execution costs
+- **Public Relations** - reputation management (if applicable)
+- **D&O** - if recall attributed to governance failure
+- **Trade Credit** - if customer credit impact significant
 
 #### The coordination procedure step-by-step
 
-**Step 1 — Immediate stabilisation.**
+**Step 1 - Immediate stabilisation.**
 
 Before insurance considerations:
 - Address immediate safety concerns
@@ -95,7 +95,7 @@ Before insurance considerations:
 - Initiate emergency medical / containment as needed
 - Notify regulatory authorities where required (MOM via iReport, PDPC for cyber, etc.)
 
-**Step 2 — Inventory all potentially applicable policies.**
+**Step 2 - Inventory all potentially applicable policies.**
 
 Within 24-48 hours of incident:
 - Review entire policy portfolio
@@ -104,7 +104,7 @@ Within 24-48 hours of incident:
 
 Common oversight: assuming one policy is "the" claim. Multi-policy coordination requires explicit identification of all potentially-responsive cover.
 
-**Step 3 — Parallel notification.**
+**Step 3 - Parallel notification.**
 
 Notify each potentially-responsive carrier in writing within their respective deadlines:
 - Property cover (typically 7-14 days)
@@ -124,7 +124,7 @@ Notify each potentially-responsive carrier in writing within their respective de
 
 **Reservation of rights.** Important defensive step: notify carrier without admitting policy coverage, allowing carrier to investigate while preserving complainant's rights.
 
-**Step 4 — Identify primary carrier(s).**
+**Step 4 - Identify primary carrier(s).**
 
 For each cover line, identify which carrier is "primary":
 - Some risks have layered cover (primary + excess); primary handles initial response
@@ -133,7 +133,7 @@ For each cover line, identify which carrier is "primary":
 
 Coordinate so primary carrier(s) take operational lead while excess/secondary carriers receive parallel information.
 
-**Step 5 — Coordinate experts and adjusters.**
+**Step 5 - Coordinate experts and adjusters.**
 
 Multi-carrier scenarios risk:
 - Multiple adjusters / surveyors arriving with conflicting interests
@@ -147,7 +147,7 @@ Coordination tactics:
 
 Where carriers can agree on shared expert, costs and timeline both improve.
 
-**Step 6 — Document interactions.**
+**Step 6 - Document interactions.**
 
 Throughout the process:
 - Centralised log of all communications
@@ -157,7 +157,7 @@ Throughout the process:
 
 This documentation becomes critical if carriers dispute responsibility or if the insured needs to demonstrate compliance with notification obligations.
 
-**Step 7 — Manage subrogation and contribution.**
+**Step 7 - Manage subrogation and contribution.**
 
 After payment:
 - Subrogation against responsible third parties (other party's negligence, sub-contractor, manufacturer)
@@ -166,7 +166,7 @@ After payment:
 
 Carriers handle subrogation; insured cooperates per policy obligations.
 
-**Step 8 — Unified record of total claim costs.**
+**Step 8 - Unified record of total claim costs.**
 
 Maintain consolidated view across all cover lines:
 - What each cover line paid
@@ -237,7 +237,7 @@ For Singapore SMEs maintaining multi-line insurance portfolios:
 
 3. **Pre-incident: panel of pre-engaged advisers** (legal, forensic, broker) with multi-line capability.
 
-4. **Pre-incident: broker coordination role** clarified — broker often serves as notification coordinator.
+4. **Pre-incident: broker coordination role** clarified - broker often serves as notification coordinator.
 
 5. **Incident: immediate stabilisation** before insurance focus.
 
@@ -251,7 +251,7 @@ For Singapore SMEs maintaining multi-line insurance portfolios:
 
 10. **Documentation: unified record** maintained throughout.
 
-The cost of multi-policy coordination failure is substantial — partial recovery, denied cover lines, regulatory exposure. Conversely, disciplined coordination can recover substantially more than initial expectation. Pre-incident preparation determines outcome.
+The cost of multi-policy coordination failure is substantial - partial recovery, denied cover lines, regulatory exposure. Conversely, disciplined coordination can recover substantially more than initial expectation. Pre-incident preparation determines outcome.
 
 ### Questions to Ask Your Adviser
 

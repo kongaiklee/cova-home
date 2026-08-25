@@ -20,13 +20,13 @@ og_description: "Tender Lite is the simplified procurement track for sub-S$1m pu
 
 > **The Answer in 60 Seconds**
 >
-> Tender Lite is the simplified procurement track for sub-S$1m public-works construction contracts, used by Singapore government and statutory-board buyers to reduce administrative burden on smaller suppliers — particularly Singapore SMEs that cannot economically respond to the full [PSSCOC (Public Sector Standard Conditions of Contract)](https://www1.bca.gov.sg/procurement/post-tender-stage/public-sector-standard-conditions-of-contract-psscoc) framework. With effect from 1 May 2025, the [Building and Construction Authority's PSSCOC-lite](https://www1.bca.gov.sg/) was introduced as the standardised contract template for Tender Lite procurements. The structure preserves the core PSSCOC risk allocation but simplifies the insurance schedule materially: Contractors All Risks (CAR) is required at a per-project Sum Insured matching contract value plus a defined uplift (typically 10-15%); public liability minimum is S$1,000,000 (versus the standard PSSCOC's higher tiers for larger projects); WICA insurance per the statutory floor; and professional indemnity is contract-specific where the work involves design or design-build elements. The standardised template reduces the wording-amendment burden on the SME and on the licensed adviser placing the cover, and produces faster quote turnaround. Singapore's construction sector remains the dominant SME procurement category — [BCA projected total construction demand at between S$47 billion and S$53 billion for 2025](https://www1.bca.gov.sg/resources/newsroom/construction-demand-to-remain-strong-for-2025/) — and Tender Lite procurements account for a material share of sub-million-dollar public works. SME contractors should structure their insurance programme to respond to the PSSCOC-lite specification without negotiating bespoke amendments on each tender.
+> Tender Lite is the simplified procurement track for sub-S$1m public-works construction contracts, used by Singapore government and statutory-board buyers to reduce administrative burden on smaller suppliers - particularly Singapore SMEs that cannot economically respond to the full [PSSCOC (Public Sector Standard Conditions of Contract)](https://www1.bca.gov.sg/procurement/post-tender-stage/public-sector-standard-conditions-of-contract-psscoc) framework. With effect from 1 May 2025, the [Building and Construction Authority's PSSCOC-lite](https://www1.bca.gov.sg/) was introduced as the standardised contract template for Tender Lite procurements. The structure preserves the core PSSCOC risk allocation but simplifies the insurance schedule materially: Contractors All Risks (CAR) is required at a per-project Sum Insured matching contract value plus a defined uplift (typically 10-15%); public liability minimum is S$1,000,000 (versus the standard PSSCOC's higher tiers for larger projects); WICA insurance per the statutory floor; and professional indemnity is contract-specific where the work involves design or design-build elements. The standardised template reduces the wording-amendment burden on the SME and on the licensed adviser placing the cover, and produces faster quote turnaround. Singapore's construction sector remains the dominant SME procurement category - [BCA projected total construction demand at between S$47 billion and S$53 billion for 2025](https://www1.bca.gov.sg/resources/newsroom/construction-demand-to-remain-strong-for-2025/) - and Tender Lite procurements account for a material share of sub-million-dollar public works. SME contractors should structure their insurance programme to respond to the PSSCOC-lite specification without negotiating bespoke amendments on each tender.
 
 ## The PSSCOC and Tender Lite Architecture
 
 Public-sector construction procurement in Singapore operates principally through the [Public Sector Standard Conditions of Contract (PSSCOC)](https://www1.bca.gov.sg/procurement/post-tender-stage/public-sector-standard-conditions-of-contract-psscoc). The PSSCOC suite is a family of standardised contracts published by the Building and Construction Authority, used by government ministries, statutory boards, and other public-sector buyers for construction works. The suite includes PSSCOC for Construction Works, PSSCOC for Design and Build, and the supporting Particular Conditions, Specifications, and Insurance Schedules.
 
-The PSSCOC is comprehensive — it covers the full range of construction-contract risk allocation, payment mechanics, defects liability, dispute resolution, and insurance. For larger projects this is appropriate; for smaller projects it imposes administrative burden disproportionate to the project value.
+The PSSCOC is comprehensive - it covers the full range of construction-contract risk allocation, payment mechanics, defects liability, dispute resolution, and insurance. For larger projects this is appropriate; for smaller projects it imposes administrative burden disproportionate to the project value.
 
 ### The Tender Lite Procurement Track
 
@@ -49,7 +49,7 @@ The PSSCOC-lite document preserves the core PSSCOC risk allocation but simplifie
 - Defects-liability period typically 12 months (versus the standard PSSCOC's 12 or 18 months).
 - Standard payment schedule with progress payments at defined milestones.
 
-The standardised structure is the operational benefit. An SME contractor responding to multiple Tender Lite procurements within a year deals with a single insurance specification — not a sequence of bespoke schedules requiring per-tender negotiation.
+The standardised structure is the operational benefit. An SME contractor responding to multiple Tender Lite procurements within a year deals with a single insurance specification - not a sequence of bespoke schedules requiring per-tender negotiation.
 
 ## The PSSCOC-lite Insurance Schedule
 
@@ -59,9 +59,9 @@ The PSSCOC-lite insurance schedule prescribes the minimum cover the contractor m
 
 CAR is the primary project-construction cover. It comprises three sections:
 
-- **Section I — Material Damage.** Covers permanent works under construction, temporary works, materials on site, materials in transit between supplier and site, and (where covered) materials at off-site storage.
-- **Section II — Public Liability.** Covers third-party bodily injury and third-party property damage arising from the construction works.
-- **Section III — Plant and Equipment.** Covers contractor's plant and machinery on site, including hired-in plant where the hire contract requires the contractor to insure.
+- **Section I - Material Damage.** Covers permanent works under construction, temporary works, materials on site, materials in transit between supplier and site, and (where covered) materials at off-site storage.
+- **Section II - Public Liability.** Covers third-party bodily injury and third-party property damage arising from the construction works.
+- **Section III - Plant and Equipment.** Covers contractor's plant and machinery on site, including hired-in plant where the hire contract requires the contractor to insure.
 
 The PSSCOC-lite CAR requirement under the standardised schedule typically provides:
 
@@ -70,7 +70,7 @@ The PSSCOC-lite CAR requirement under the standardised schedule typically provid
 - **Section III Plant and Equipment** based on the contractor's declared plant value, with declared schedule of equipment.
 - **Maintenance Period** cover for the defects-liability period (typically 12 months).
 - **Standard Singapore construction-industry exclusions** (war, nuclear, asbestos, etc.).
-- **Optional design-defect cover** — a DE or LEG defects clause (DE1–DE5 / LEG1–LEG3) for projects with design elements, restoring cover for physical damage connected to a design defect.
+- **Optional design-defect cover** - a DE or LEG defects clause (DE1-DE5 / LEG1-LEG3) for projects with design elements, restoring cover for physical damage connected to a design defect.
 
 ### Public Liability (Separate, Where Required)
 
@@ -78,7 +78,7 @@ For projects where the buyer requires public liability separate from the Section
 
 ### Work Injury Compensation (WICA)
 
-WICA insurance is mandatory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for every employer with employees doing manual work, and for non-manual employees earning S$2,600 a month or below. The PSSCOC-lite schedule does not modify this statutory floor — it requires the contractor to maintain WICA insurance compliant with the Act.
+WICA insurance is mandatory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for every employer with employees doing manual work, and for non-manual employees earning S$2,600 a month or below. The PSSCOC-lite schedule does not modify this statutory floor - it requires the contractor to maintain WICA insurance compliant with the Act.
 
 The MOM-approved WICA panel insurers, listed in the [MOM list of designated WICA insurers (PDF)](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf), are the carriers approved to write the statutory cover. The contractor's WICA policy must be with one of the designated panel insurers.
 
@@ -88,13 +88,13 @@ Where the Tender Lite project involves design or design-build elements, the cont
 
 - **Sum Insured** of S$1,000,000 per occurrence and in the aggregate (for SME-scale design projects), with run-off cover for the maintenance / defects liability period plus the relevant limitation period (six years under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) for tort and contract).
 - **Retroactive cover** matching the project's design commencement (or earlier if prior projects with the same buyer or in the same scope are within scope).
-- **Conditions on claims-made trigger** — most PI policies are claims-made, and the run-off provision must be set to match the limitation period.
+- **Conditions on claims-made trigger** - most PI policies are claims-made, and the run-off provision must be set to match the limitation period.
 
 For pure-construction projects with no design element, PI is not required under PSSCOC-lite.
 
 ### Maintenance / Defects Liability Period Cover
 
-Beyond the construction period, the CAR Section I cover typically extends to the maintenance / defects liability period (often 12 months). This responds to physical damage arising during the maintenance period — for example, defective workmanship surfacing as physical loss during the defects window.
+Beyond the construction period, the CAR Section I cover typically extends to the maintenance / defects liability period (often 12 months). This responds to physical damage arising during the maintenance period - for example, defective workmanship surfacing as physical loss during the defects window.
 
 For PI cover, the run-off provision is the analog: claims made during the defects period and within the relevant limitation window are covered, provided the underlying wrongful act occurred during the policy period.
 
@@ -165,8 +165,8 @@ The PSSCOC-lite standardisation makes the annual-vs-project-specific decision (c
 
 - Best for SMEs with steady project flow (typically 4-12 PSSCOC-lite projects per year).
 - Single policy responds to all declared projects within the annual aggregate.
-- Administrative efficiency — single renewal, single insurer relationship, single set of wording amendments.
-- Premium efficiency — annual aggregate pricing typically 25-40% lower than equivalent project-specific placements summed.
+- Administrative efficiency - single renewal, single insurer relationship, single set of wording amendments.
+- Premium efficiency - annual aggregate pricing typically 25-40% lower than equivalent project-specific placements summed.
 - Requires declaration discipline; missed declarations create coverage gaps.
 
 **Project-Specific CAR:**
@@ -188,7 +188,7 @@ For SMEs targeting the Tender Lite market with sustained activity, the annual bl
 
 **Missing the defects liability period cover.** The CAR Section I cover typically must extend through the defects period (12 months post-practical completion). Cancelling at practical completion creates uninsured exposure.
 
-**Failing to plan PI run-off for design-build work.** Design-build work creates PI exposure that extends well past the contract — six years under the Limitation Act for tort and contract. PI run-off must be provisioned.
+**Failing to plan PI run-off for design-build work.** Design-build work creates PI exposure that extends well past the contract - six years under the Limitation Act for tort and contract. PI run-off must be provisioned.
 
 **Underestimating sub-contractor cascade.** Principal-contractor WICA and PL responsibility extends to sub-contractors' workers and operations. Sub-contractor insurance evidence must be collected before mobilisation.
 
@@ -198,7 +198,7 @@ For SMEs targeting the Tender Lite market with sustained activity, the annual bl
 
 ## What This Means for Your Business
 
-If you are an SME contractor active in Singapore public works at sub-S$1m project values, PSSCOC-lite is now the standard procurement framework you respond to. Structuring your insurance programme to respond to the PSSCOC-lite specification natively — annual blanket CAR with project declarations, annual PL aligned to the PSSCOC-lite minimum, WICA with a designated panel insurer, PI for design-build work — produces faster tender response, lower placement cost per project, and consistent buyer-facing documentation.
+If you are an SME contractor active in Singapore public works at sub-S$1m project values, PSSCOC-lite is now the standard procurement framework you respond to. Structuring your insurance programme to respond to the PSSCOC-lite specification natively - annual blanket CAR with project declarations, annual PL aligned to the PSSCOC-lite minimum, WICA with a designated panel insurer, PI for design-build work - produces faster tender response, lower placement cost per project, and consistent buyer-facing documentation.
 
 Your licensed adviser is the placement-side counterpart. A good adviser running an SME construction programme will pre-structure the annual CAR and PL cover to match the PSSCOC-lite template, will produce certificates of insurance within the tender response window, and will track defects liability period extensions across the project portfolio.
 
@@ -211,7 +211,7 @@ For SMEs targeting full-PSSCOC projects (above S$1m), the placement is more besp
 3. Is my WICA cover placed with one of the MOM-designated panel insurers, and can the carrier respond to the typical PSSCOC-lite worker count and wage profile?
 4. For design or design-build work, how is the PI run-off positioned, and does it extend to cover the six-year Limitation Act window?
 5. What is the per-occurrence and aggregate limit on my Public Liability cover, and is the aggregate sufficient for the cumulative project profile I am running through the year?
-6. How does the annual blanket CAR respond if I underdeclare projects mid-year — what is the consequence of a coverage gap, and what is the procedural fix?
+6. How does the annual blanket CAR respond if I underdeclare projects mid-year - what is the consequence of a coverage gap, and what is the procedural fix?
 7. For maintenance / defects liability period cover, how is the extended cover priced, and what is the workflow for activating it on project handover?
 8. If a sub-contractor on a PSSCOC-lite project produces a WICA or PL claim, how is the principal-contractor cascade handled under my cover, and what sub-contractor insurance evidence should I collect before mobilisation?
 
@@ -220,7 +220,7 @@ For SMEs targeting full-PSSCOC projects (above S$1m), the placement is more besp
 - [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor) (article 398)
 - [PSSCOC Insurance Clauses for Government Tenders in Singapore](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
 - [COI Tender Deadline 24 Hours in Singapore](/procedural-howto/coi-tender-deadline-24-hours-singapore)
-- [BCA CRS Expansion to National Registry — 1 June 2025](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [BCA CRS Expansion to National Registry - 1 June 2025](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 - [WSH Penalty Doubling 2024](/regulatory-change/wsh-penalty-doubling-2024)
 - [How to File a WICA Claim with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [MOM Security Bond for Foreign Worker in Singapore](/procedural-howto/mom-security-bond-foreign-worker-singapore)

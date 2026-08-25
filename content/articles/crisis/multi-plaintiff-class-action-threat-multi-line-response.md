@@ -68,7 +68,7 @@ Singapore's representative-action framework is opt-in (consent-based), distinct 
 
 Several Singapore statutes provide statutory rights of action that, combined with Order 4 Rule 6 or with simple joinder of plaintiffs, can produce multi-plaintiff exposure:
 
-**PDPA 2012 section 48O — Right of Private Action.** Available on [SSO](https://sso.agc.gov.sg/Act/PDPA2012). In force from 1 February 2021 (substantially re-enacting the former section 32). "A person who suffers loss or damage directly as a result of a contravention of any provision in Part 3, 4, 4A, 5, 6, 6A or 6B by an organisation … has a right of action for relief in civil proceedings in a court." Reliefs include injunction, declaration, damages, and other relief.
+**PDPA 2012 section 48O - Right of Private Action.** Available on [SSO](https://sso.agc.gov.sg/Act/PDPA2012). In force from 1 February 2021 (substantially re-enacting the former section 32). "A person who suffers loss or damage directly as a result of a contravention of any provision in Part 3, 4, 4A, 5, 6, 6A or 6B by an organisation … has a right of action for relief in civil proceedings in a court." Reliefs include injunction, declaration, damages, and other relief.
 
 For a Singapore SME suffering a data breach affecting 500 or more individuals (the significant-scale threshold under [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)), section 48O exposure can produce 500 or more separate claims. The claimants may individually file, or may use Order 4 Rule 6 to consolidate into a representative action.
 
@@ -82,7 +82,7 @@ For a Singapore SME suffering a data breach affecting 500 or more individuals (t
 
 **Civil Law Act 1909.** Available on [SSO](https://sso.agc.gov.sg/Act/CLA1909). Joint-and-several liability, contribution between tortfeasors, and indemnification. The framework for allocating liability among multiple defendants where multiple insurance lines fire.
 
-**Companies Act 1967 section 216 — Personal Remedies in Cases of Oppression or Injustice.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). Multi-shareholder oppression actions can be conducted in a class-like manner with multiple minority parties (see [Article 297](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)).
+**Companies Act 1967 section 216 - Personal Remedies in Cases of Oppression or Injustice.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). Multi-shareholder oppression actions can be conducted in a class-like manner with multiple minority parties (see [Article 297](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)).
 
 #### The multi-line insurance response
 
@@ -206,11 +206,11 @@ For an SME with customer terms or product terms exposing it to PDPA section 48O 
 
 ### Related Information
 
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
-- [Article 273 — Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 391 — EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 267 - MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Article 273 - Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

@@ -20,7 +20,7 @@ og_description: "Mid-term cancellation looks administrative. It is not. It is a 
 
 Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every cycle: the short-period premium retention formula that reduces the refund below time-on-risk, the run-off exposure for claims that have occurred but not yet been reported, and the trap that destroys cover entirely on claims-made wordings if cancellation is executed without an Extended Reporting Period. Each of these has produced contested outcomes in Singapore practice. Each is avoidable with a structured workflow.
 
-This article walks through that workflow. It is built for SMEs cancelling a commercial policy mid-term for one of the standard reasons — switching insurer mid-cycle, divesting an insured asset, closing the business, removing a line of cover that is no longer required, or replacing an underperforming adviser. It applies to property, public liability, Work Injury Compensation, motor, marine, D&O, professional indemnity, cyber, and similar commercial lines. COVA does not advise on, recommend, or arrange any insurance product. The workflow described here is the workflow you run with a licensed Independent Financial Adviser or insurance broker, who handles the placement-side mechanics and confirms run-off provisions in writing.
+This article walks through that workflow. It is built for SMEs cancelling a commercial policy mid-term for one of the standard reasons - switching insurer mid-cycle, divesting an insured asset, closing the business, removing a line of cover that is no longer required, or replacing an underperforming adviser. It applies to property, public liability, Work Injury Compensation, motor, marine, D&O, professional indemnity, cyber, and similar commercial lines. Covarage does not advise on, recommend, or arrange any insurance product. The workflow described here is the workflow you run with a licensed Independent Financial Adviser or insurance broker, who handles the placement-side mechanics and confirms run-off provisions in writing.
 
 ## The Three Contractual Levers at Cancellation
 
@@ -40,7 +40,7 @@ When the insured cancels, the refund is typically calculated on a short-period b
 
 Singapore has no industry-wide mandated short-period scale. Each insurer's wording governs. The [AIG Singapore Car Insurance FAQ](https://www.aig.sg/home/solutions/personal/frequently-asked-questions/car-insurance-faqs) publishes its motor cancellation formula in plain English: "You will receive a refund of 80% of the premium less a prorated amount to cover the period when you were covered under the policy." Applied to a S$1,200 annual motor premium cancelled at month four, the calculation is: 80% × S$1,200 = S$960; less time-on-risk of (4/12) × S$1,200 = S$400; refund = S$560. A pro-rata calculation would have returned S$800. The short-period retention costs the insured S$240.
 
-For commercial property and liability lines, short-period scales typically range from 25% of annual premium retained for cancellation in the first month, up to the full annual premium retained for cancellation in the last three months. The MSIG SUMO Work Injury Compensation section operates on a more flexible "premium paid less the actual premium payable for the period during which the Section had been in force" — effectively pro-rata with a S$50 minimum retention. The takeaway: the formula is not standard and must be read off the actual wording before issuing the cancellation notice.
+For commercial property and liability lines, short-period scales typically range from 25% of annual premium retained for cancellation in the first month, up to the full annual premium retained for cancellation in the last three months. The MSIG SUMO Work Injury Compensation section operates on a more flexible "premium paid less the actual premium payable for the period during which the Section had been in force" - effectively pro-rata with a S$50 minimum retention. The takeaway: the formula is not standard and must be read off the actual wording before issuing the cancellation notice.
 
 Note also: no refund is generally payable if a claim has been made or an incident has occurred during the policy year that may give rise to a claim. This is the most contested refund-clause issue at cancellation and is dealt with separately below under run-off.
 
@@ -50,7 +50,7 @@ For policies satisfying a statutory cover requirement, the cancellation cannot l
 
 **Work Injury Compensation insurance.** Under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must maintain WIC insurance for all employees doing manual work, and for non-manual employees earning S$2,600 a month or less. Cancellation without replacement cover creates a personal-liability exposure: the employer remains liable for compensation at common law and under the Act even without insurance, and faces enforcement action from MOM. Per the [Ministry of Manpower's WIC insurance page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation), failure to maintain WIC insurance is an offence under the Act. Cancellation must be sequenced so that replacement cover incepts the same day the original cover terminates.
 
-**Foreign worker medical insurance.** Under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) and the regulations made under it, employers of Work Permit and S Pass holders must maintain medical insurance with the minimum coverage specified by MOM ([currently S$60,000 annual minimum since 1 July 2023](https://www.mom.gov.sg/newsroom/press-releases/2023/0331-implementation-of-enhanced-medical-insurance-for-foreign-employees-to-better-support-employers)). Cancellation without replacement triggers EFMA penalties — fines, work-pass cancellation, and bars on future work-pass applications.
+**Foreign worker medical insurance.** Under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) and the regulations made under it, employers of Work Permit and S Pass holders must maintain medical insurance with the minimum coverage specified by MOM ([currently S$60,000 annual minimum since 1 July 2023](https://www.mom.gov.sg/newsroom/press-releases/2023/0331-implementation-of-enhanced-medical-insurance-for-foreign-employees-to-better-support-employers)). Cancellation without replacement triggers EFMA penalties - fines, work-pass cancellation, and bars on future work-pass applications.
 
 For any policy carrying a statutory floor, the cancellation workflow is "replace then cancel," not "cancel then replace." The order matters.
 
@@ -58,7 +58,7 @@ For any policy carrying a statutory floor, the cancellation workflow is "replace
 
 The single most expensive cancellation mistake Singapore SMEs make is cancelling a claims-made policy without arranging an Extended Reporting Period (ERP), commonly called "tail cover."
 
-A claims-made policy responds to claims first made against the insured during the policy period, regardless of when the underlying act or omission occurred (subject to any retroactive date). Cancellation ends the policy period. Any claim notified after cancellation falls outside the policy period and is not covered — even if the underlying act, the loss, and the claimant's awareness of the loss all preceded cancellation.
+A claims-made policy responds to claims first made against the insured during the policy period, regardless of when the underlying act or omission occurred (subject to any retroactive date). Cancellation ends the policy period. Any claim notified after cancellation falls outside the policy period and is not covered - even if the underlying act, the loss, and the claimant's awareness of the loss all preceded cancellation.
 
 D&O, professional indemnity, employment practices liability, cyber liability, and management liability policies are typically written on a claims-made basis. Cancellation of any of these without ERP arrangement exposes the SME to uninsured tail liability for events that have already occurred.
 
@@ -69,7 +69,7 @@ The mechanics:
 - The ERP premium is typically expressed as a percentage of the expiring annual premium: 100% to 200% for 12 months, scaling up for longer periods.
 - The ERP must be elected within a specified window after cancellation, typically 30 to 60 days. After the window closes, the right to elect is lost.
 
-The Singapore High Court in *Tan Yi Lin Cheryl v AIA Singapore Pte Ltd* [[2021] SGHC 130](https://www.elitigation.sg/gd/s/2021_SGHC_130) at paragraph 23 confirmed the continuing duty of disclosure runs up to the moment a contract of insurance is concluded. Chua Lee Ming J quoted Poh Chu Chai, *Principles of Insurance Law* (LexisNexis, 6th Ed, 2005) at p 158: "An insured's duty of disclosure continues right up to the moment a contract of insurance is concluded. If there is any material change in the risk to be insured before the contract is concluded, the change has to be disclosed to the insurer." That duty applies symmetrically to ERP elections — any circumstance the insured is aware of that may give rise to a future claim must be notified before the policy ends, not after.
+The Singapore High Court in *Tan Yi Lin Cheryl v AIA Singapore Pte Ltd* [[2021] SGHC 130](https://www.elitigation.sg/gd/s/2021_SGHC_130) at paragraph 23 confirmed the continuing duty of disclosure runs up to the moment a contract of insurance is concluded. Chua Lee Ming J quoted Poh Chu Chai, *Principles of Insurance Law* (LexisNexis, 6th Ed, 2005) at p 158: "An insured's duty of disclosure continues right up to the moment a contract of insurance is concluded. If there is any material change in the risk to be insured before the contract is concluded, the change has to be disclosed to the insurer." That duty applies symmetrically to ERP elections - any circumstance the insured is aware of that may give rise to a future claim must be notified before the policy ends, not after.
 
 The procedural rule: if the cancelling policy is claims-made, the cancellation workflow includes the ERP decision. The ERP is a one-time election with a hard deadline; the SME cannot defer it.
 
@@ -84,7 +84,7 @@ The workflow below assumes the SME has decided to cancel and has confirmed it ha
 Before doing anything else, locate the cancellation clause in the policy wording (not the schedule). Note:
 
 - The notice period required from the insured.
-- The required form of notice (commonly "written notice" — email is typically acceptable but registered post is the safer evidentiary record).
+- The required form of notice (commonly "written notice" - email is typically acceptable but registered post is the safer evidentiary record).
 - The refund formula (pro-rata, short-period scale, or other).
 - Any minimum retention amounts.
 - Any condition that no claim has arisen during the period.
@@ -96,9 +96,9 @@ Before issuing the cancellation, run an internal check across the affected line 
 
 - Open claims notified to the insurer (still in handling or pending settlement).
 - Closed claims with potential for reopening (e.g., a paid medical-expenses claim where the injured employee's condition deteriorates).
-- Known circumstances that have not yet been notified — incidents on site, employee complaints, customer disputes, supplier disputes, regulatory enquiries, near-miss events. Any of these may form the basis of a future claim.
+- Known circumstances that have not yet been notified - incidents on site, employee complaints, customer disputes, supplier disputes, regulatory enquiries, near-miss events. Any of these may form the basis of a future claim.
 
-For each open claim, the cancellation does not affect the insurer's continuing obligation to handle and pay that claim through to conclusion — the claim accrued during the period of cover and the insurer's liability is fixed. The cancellation does, however, typically void the refund where a claim has been made during the period.
+For each open claim, the cancellation does not affect the insurer's continuing obligation to handle and pay that claim through to conclusion - the claim accrued during the period of cover and the insurer's liability is fixed. The cancellation does, however, typically void the refund where a claim has been made during the period.
 
 For each known circumstance not yet notified, the SME should file a Notice of Circumstance with the cancelling insurer before issuing the cancellation notice. This is critical for claims-made wordings.
 
@@ -115,13 +115,13 @@ The replacement-cover workflow:
 
 ### Step 4: Issue the cancellation notice
 
-The cancellation notice should be a formal letter on company letterhead, sent both by email and registered post, addressed to the insurer (not the broker — the broker is the agent of the insured for placement purposes but the notice should reach the insurer directly to start the notice-period clock).
+The cancellation notice should be a formal letter on company letterhead, sent both by email and registered post, addressed to the insurer (not the broker - the broker is the agent of the insured for placement purposes but the notice should reach the insurer directly to start the notice-period clock).
 
 Include:
 
 - The policy number(s) being cancelled.
 - The named insured (matching the policy schedule exactly).
-- The effective date of cancellation (calculated forward from the date of notice by the contractual notice period — typically 7 days for SME commercial wordings).
+- The effective date of cancellation (calculated forward from the date of notice by the contractual notice period - typically 7 days for SME commercial wordings).
 - The reason for cancellation (not required by the wording, but reduces follow-up correspondence).
 - A request for the refund calculation, the deadline for the refund, and the bank account for the refund.
 - For claims-made lines: an explicit request for the ERP premium and election form.
@@ -143,7 +143,7 @@ When the insurer issues the refund, reconcile against the contractual formula. S
 
 - Confirm the refund is calculated on the correct premium base (gross, GST-inclusive).
 - Confirm the short-period scale or pro-rata formula applied matches the wording.
-- Confirm any GST refund is treated correctly — refunded premium typically attracts a corresponding GST adjustment, which for a GST-registered SME means the input tax previously claimed must be reversed in the GST return for the relevant accounting period. Per the [IRAS Goods and Services Tax e-Tax Guides](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change/gst-rate-change-for-business/overview-of-gst-rate-change), the GST rate has been 9% from 1 January 2024 onwards.
+- Confirm any GST refund is treated correctly - refunded premium typically attracts a corresponding GST adjustment, which for a GST-registered SME means the input tax previously claimed must be reversed in the GST return for the relevant accounting period. Per the [IRAS Goods and Services Tax e-Tax Guides](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change/gst-rate-change-for-business/overview-of-gst-rate-change), the GST rate has been 9% from 1 January 2024 onwards.
 - Confirm no claim retention has been applied unless a claim has actually been made.
 
 If the refund is materially below the formula, dispute it in writing within the policy's complaint window and, if unresolved, escalate to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/). FIDReC has handled SME disputes since 1 July 2025; [its knowledgebase confirms SME access](https://www.fidrec.com.sg/knowledgebase/article/KA-01324/en-us).
@@ -161,7 +161,7 @@ The insurer's cancellation rights are typically broader than commonly understood
 When the insurer cancels, the workflow inverts. The SME must:
 
 - Confirm the basis of cancellation in writing.
-- Identify replacement cover immediately — typically a much harder market exercise than a switch initiated by the insured, because the insurer's cancellation can be a signal to the rest of the market.
+- Identify replacement cover immediately - typically a much harder market exercise than a switch initiated by the insured, because the insurer's cancellation can be a signal to the rest of the market.
 - For statutory covers, the inability to find replacement cover within the notice period is reportable to the relevant regulator (MOM for WICA, etc.).
 - Consider whether the cancellation is wrongful (e.g., insurer cancellation in bad faith or in breach of contract) and seek legal advice if so.
 
@@ -186,7 +186,7 @@ For composite programmes where multiple insurers underwrite different lines, the
 
 **Cancelling claims-made cover without ERP.** The single most expensive mistake. Acts that occurred during the policy period but produce claims after cancellation are uninsured.
 
-**Forgetting the retroactive date on replacement claims-made cover.** A replacement D&O or PI policy with a retroactive date of "inception of replacement policy" gives no cover for prior acts. The replacement must match or pre-date the cancelling policy's retroactive date — and the SME must verify this in the replacement policy schedule, not in the broker's verbal assurance.
+**Forgetting the retroactive date on replacement claims-made cover.** A replacement D&O or PI policy with a retroactive date of "inception of replacement policy" gives no cover for prior acts. The replacement must match or pre-date the cancelling policy's retroactive date - and the SME must verify this in the replacement policy schedule, not in the broker's verbal assurance.
 
 **Cancelling on the wrong notice mechanism.** Email to the broker is not necessarily notice to the insurer. The wording specifies the form and recipient. Use the form and recipient specified.
 
@@ -204,7 +204,7 @@ For composite programmes where multiple insurers underwrite different lines, the
 
 If you are considering a mid-term cancellation, treat it as a structured project with the eight-step workflow above. Do not cancel by email. Do not cancel without reading the actual wording. Do not cancel a claims-made policy without arranging the ERP. Do not cancel a statutory-floor policy without replacement cover incepting the same day.
 
-The licensed adviser handling your programme is the right party to run the workflow. Where the adviser is the incumbent on the policy being cancelled and you are switching to a new adviser, expect resistance — the cancellation reduces the incumbent's commission income — and document the cancellation correspondence in writing both ways. If the cancellation is contested (refund disputed, ERP terms disputed), escalate first internally within the insurer, then to FIDReC if unresolved.
+The licensed adviser handling your programme is the right party to run the workflow. Where the adviser is the incumbent on the policy being cancelled and you are switching to a new adviser, expect resistance - the cancellation reduces the incumbent's commission income - and document the cancellation correspondence in writing both ways. If the cancellation is contested (refund disputed, ERP terms disputed), escalate first internally within the insurer, then to FIDReC if unresolved.
 
 ## Questions to Ask Your Adviser
 
@@ -215,7 +215,7 @@ The licensed adviser handling your programme is the right party to run the workf
 5. If the policy was premium-financed, what is the residual loan balance, and how will the cancellation refund be coordinated with the premium finance company?
 6. For my group medical, group term life, or group personal accident cover, what portability or conversion rights are available for affected employees, and what is the election window?
 7. What is the refund calculation methodology the insurer is likely to apply, and will you reconcile the actual refund against the contractual formula when it arrives?
-8. After cancellation, what is the procedure if a claim is notified that relates to the cancelled period — who is the claims contact at the prior insurer, and what documents will the prior insurer require?
+8. After cancellation, what is the procedure if a claim is notified that relates to the cancelled period - who is the claims contact at the prior insurer, and what documents will the prior insurer require?
 
 ## Related Information
 

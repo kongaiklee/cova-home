@@ -28,15 +28,15 @@ Additional insured endorsements are among the most frequently requested but comm
 
 #### Regulatory framework
 
-**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) — establishes general insurance contract framework.
+**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - establishes general insurance contract framework.
 
-**Third-party rights statute.** [Contracts (Rights of Third Parties) Act 2001](https://sso.agc.gov.sg/Act/CRTPA2001) — establishes default framework for third-party rights under contracts. Note: most insurance contracts contractually exclude or modify CRTPA application; specific endorsement provisions govern.
+**Third-party rights statute.** [Contracts (Rights of Third Parties) Act 2001](https://sso.agc.gov.sg/Act/CRTPA2001) - establishes default framework for third-party rights under contracts. Note: most insurance contracts contractually exclude or modify CRTPA application; specific endorsement provisions govern.
 
 **Industry framework.** Singapore insurance market typically uses ISO-equivalent endorsement language sourced from Lloyd's market or major commercial insurers. Common forms (referenced by edition):
-- **CG 20 10** — Additional Insured: Owners, Lessees or Contractors — Scheduled Person or Organization
-- **CG 20 37** — Additional Insured: Owners, Lessees or Contractors — Completed Operations
+- **CG 20 10** - Additional Insured: Owners, Lessees or Contractors - Scheduled Person or Organization
+- **CG 20 37** - Additional Insured: Owners, Lessees or Contractors - Completed Operations
 
-**Lloyd's market access.** Many Singapore commercial covers placed through [Lloyd's Asia syndicates](https://www.lloyds.com/en-sg/lloyds-around-the-world/service-companies) — endorsement language follows Lloyd's market standards.
+**Lloyd's market access.** Many Singapore commercial covers placed through [Lloyd's Asia syndicates](https://www.lloyds.com/en-sg/lloyds-around-the-world/service-companies) - endorsement language follows Lloyd's market standards.
 
 **Industry associations.** [Singapore Insurance Brokers' Association (SIBA)](https://www.siba.sg/) and [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) publish industry conventions on certificate of insurance formats and additional insured endorsement scope.
 
@@ -104,7 +104,7 @@ Standard lease provisions typically require:
 
 #### The endorsement procedure step-by-step
 
-**Step 1 — Identify trigger.**
+**Step 1 - Identify trigger.**
 
 Determine why additional insured is required:
 - Lease provision
@@ -115,17 +115,17 @@ Determine why additional insured is required:
 
 Confirm the contract specifies "Additional Insured" specifically, not "Certificate Holder" or "Loss Payee".
 
-**Step 2 — Confirm endorsement type required.**
+**Step 2 - Confirm endorsement type required.**
 
 Different additional insured endorsements have different scope:
-- **Ongoing operations** (CG 20 10 equivalent) — covers AI for liability arising from Named Insured's ongoing operations
-- **Completed operations** (CG 20 37 equivalent) — covers AI for liability arising from completed operations (relevant for construction / contractor scenarios)
-- **Combined** — both ongoing and completed
-- **Specific endorsement** — tailored to specific arrangement
+- **Ongoing operations** (CG 20 10 equivalent) - covers AI for liability arising from Named Insured's ongoing operations
+- **Completed operations** (CG 20 37 equivalent) - covers AI for liability arising from completed operations (relevant for construction / contractor scenarios)
+- **Combined** - both ongoing and completed
+- **Specific endorsement** - tailored to specific arrangement
 
 The contract typically specifies which type. If unclear, request both for completeness.
 
-**Step 3 — Request endorsement from insurer.**
+**Step 3 - Request endorsement from insurer.**
 
 To insurer / broker:
 - Specific party name (full legal name including any "Pte Ltd" / "Inc" / etc.)
@@ -133,7 +133,7 @@ To insurer / broker:
 - Endorsement type (ongoing operations, completed operations, both)
 - Additional terms required by contract (e.g., 30-day cancellation notice, primary cover wording)
 
-**Step 4 — Confirm cover scope and any premium impact.**
+**Step 4 - Confirm cover scope and any premium impact.**
 
 Insurer reviews and confirms:
 - Endorsement available under cover
@@ -141,7 +141,7 @@ Insurer reviews and confirms:
 - Premium impact (typically nominal or absorbed; substantial increases for high-risk additions)
 - Additional terms acceptable
 
-**Step 5 — Receive endorsement and certificate of insurance.**
+**Step 5 - Receive endorsement and certificate of insurance.**
 
 Endorsement issued attaching to policy:
 - Endorsement number
@@ -157,11 +157,11 @@ Certificate of insurance evidences cover:
 - Specific endorsements attached
 - Cancellation notice provisions
 
-**Step 6 — Deliver certificate to third party.**
+**Step 6 - Deliver certificate to third party.**
 
 Provide certificate to landlord / contractor / counterparty.
 
-**Step 7 — Maintain at renewal.**
+**Step 7 - Maintain at renewal.**
 
 At each renewal:
 - Confirm additional insured status maintained
@@ -170,9 +170,9 @@ At each renewal:
 
 #### Specific provisions commonly requested
 
-**Primary and non-contributory cover.** Some contracts require Named Insured's policy to respond as "primary and non-contributory" for AI's liability — meaning AI's own insurance doesn't contribute to defence/indemnity until Named Insured's policy exhausted.
+**Primary and non-contributory cover.** Some contracts require Named Insured's policy to respond as "primary and non-contributory" for AI's liability - meaning AI's own insurance doesn't contribute to defence/indemnity until Named Insured's policy exhausted.
 
-**Waiver of subrogation.** Some contracts require waiver of subrogation — Named Insured's insurer cannot pursue AI for any contribution. Important consideration; some insurers limit or charge for subrogation waiver.
+**Waiver of subrogation.** Some contracts require waiver of subrogation - Named Insured's insurer cannot pursue AI for any contribution. Important consideration; some insurers limit or charge for subrogation waiver.
 
 **30-day cancellation notice to AI.** Common landlord requirement; insurer notifies AI directly before cancellation.
 
@@ -247,9 +247,9 @@ For Singapore SMEs managing additional insured requirements:
 
 9. **Mid-term updates** when new contracts begin or end.
 
-10. **Premium impact awareness** — most absorbed, but specific scenarios increase cost.
+10. **Premium impact awareness** - most absorbed, but specific scenarios increase cost.
 
-The cost of additional insured procedural failure is substantial — contract breach for failure to provide compliant cover, AI's potential claim against Named Insured for failed cover, regulatory exposure if specific cover required. Procedural discipline matters especially for SMEs with multi-property leases or multi-contract operations where AI list management becomes operationally complex.
+The cost of additional insured procedural failure is substantial - contract breach for failure to provide compliant cover, AI's potential claim against Named Insured for failed cover, regulatory exposure if specific cover required. Procedural discipline matters especially for SMEs with multi-property leases or multi-contract operations where AI list management becomes operationally complex.
 
 ### Questions to Ask Your Adviser
 

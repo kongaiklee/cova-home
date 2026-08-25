@@ -50,33 +50,33 @@ The procedural shape:
 
 **Partnership Act 1890.** Available on [SSO](https://sso.agc.gov.sg/Act/PA1890). Governs general partnerships.
 
-**Section 1** — partnership definition: relation between persons carrying on a business in common with a view of profit.
+**Section 1** - partnership definition: relation between persons carrying on a business in common with a view of profit.
 
-**Section 5** — partner as agent of the firm and other partners; acts within the apparent scope of the partnership bind the firm.
+**Section 5** - partner as agent of the firm and other partners; acts within the apparent scope of the partnership bind the firm.
 
-**Section 9** — joint liability of partners for debts and obligations of the firm incurred while a partner.
+**Section 9** - joint liability of partners for debts and obligations of the firm incurred while a partner.
 
-**Section 17** — incoming partner not liable for pre-admission obligations; retiring partner remains liable for pre-retirement obligations.
+**Section 17** - incoming partner not liable for pre-admission obligations; retiring partner remains liable for pre-retirement obligations.
 
-**Section 19** — variation of the mutual rights and duties of partners by the consent of all partners (express or inferred from a course of dealing).
+**Section 19** - variation of the mutual rights and duties of partners by the consent of all partners (express or inferred from a course of dealing).
 
-**Section 25** — no majority expulsion unless express agreement provides otherwise.
+**Section 25** - no majority expulsion unless express agreement provides otherwise.
 
-**Section 26** — partnership at will: dissolution by any partner giving notice.
+**Section 26** - partnership at will: dissolution by any partner giving notice.
 
-**Sections 32 to 35** — dissolution mechanics. Section 32: dissolution by expiration or notice. Section 33: dissolution by death or bankruptcy. Section 34: dissolution by supervening illegality. Section 35: dissolution by court on just and equitable grounds.
+**Sections 32 to 35** - dissolution mechanics. Section 32: dissolution by expiration or notice. Section 33: dissolution by death or bankruptcy. Section 34: dissolution by supervening illegality. Section 35: dissolution by court on just and equitable grounds.
 
-**Section 36** — rights of persons dealing with the firm against apparent members.
+**Section 36** - rights of persons dealing with the firm against apparent members.
 
 **Limited Liability Partnerships Act 2005.** Available on [SSO](https://sso.agc.gov.sg/Act/LLPA2005). Governs LLPs (the principal Singapore LLP form for professional firms and JV structures requiring limited liability with partnership flexibility).
 
-**Section 4** — separate legal personality of LLP.
+**Section 4** - separate legal personality of LLP.
 
-**Section 9** — partner as agent of LLP.
+**Section 9** - partner as agent of LLP.
 
-**Section 10** — mutual rights and duties of partners default to First Schedule unless LLP agreement varies.
+**Section 10** - mutual rights and duties of partners default to First Schedule unless LLP agreement varies.
 
-**First Schedule paragraph 11** — no majority expulsion of a partner unless LLP agreement expressly provides.
+**First Schedule paragraph 11** - no majority expulsion of a partner unless LLP agreement expressly provides.
 
 **Limited Partnerships Act 2008.** Available on [SSO](https://sso.agc.gov.sg/Act/LPA2008). Governs limited partnerships (LPs).
 
@@ -216,11 +216,11 @@ For directors of JV companies, continuing section 157 Companies Act 1967 duty ap
 
 ### Related Information
 
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 296 — Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](/crisis/director-death-sudden-incapacity-key-person-event)
-- [Article 297 — Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)
-- [Article 393 — Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 296 - Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow](/crisis/director-death-sudden-incapacity-key-person-event)
+- [Article 297 - Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)
+- [Article 393 - Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

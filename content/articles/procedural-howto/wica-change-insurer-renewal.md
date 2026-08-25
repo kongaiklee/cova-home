@@ -18,7 +18,7 @@ og_title: "How to Renew WICA When Changing to a Different Insurer"
 og_description: "Find a licensed IFA →"
 ---
 
-> **The Answer in 60 Seconds:** Per [the MOM Designated Insurer list](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer), there are **24 designated insurers for employers** (list dated 1 January 2026) and **6 for platform operators** (list dated 26 December 2024). The new policy must take effect with **zero gap** from the old policy expiry — Section 24 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires continuous cover, and Section 25 makes failure to insure an offence. Existing claims under the old policy remain with the old insurer (run-off).
+> **The Answer in 60 Seconds:** Per [the MOM Designated Insurer list](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer), there are **24 designated insurers for employers** (list dated 1 January 2026) and **6 for platform operators** (list dated 26 December 2024). The new policy must take effect with **zero gap** from the old policy expiry - Section 24 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires continuous cover, and Section 25 makes failure to insure an offence. Existing claims under the old policy remain with the old insurer (run-off).
 
 **Find a licensed IFA →**
 
@@ -29,26 +29,26 @@ For platform operators (6 designated, list dated 26 Dec 2024): Chubb, Etiqa, Gra
 
 ### The Step-by-Step
 
-**Step 1 — Confirm the new insurer is on the MOM list.** Only designated insurers can issue WICA 2019-approved policies. Buying from a non-designated insurer means the policy is not WICA-compliant — you remain exposed under Section 24.
+**Step 1 - Confirm the new insurer is on the MOM list.** Only designated insurers can issue WICA 2019-approved policies. Buying from a non-designated insurer means the policy is not WICA-compliant - you remain exposed under Section 24.
 
-**Step 2 — Plan zero-gap inception.** The new policy must commence at 00:01 the day after the old policy expires (or the same date with a "from-noon-to-noon" handover, depending on policy form). Any gap, even one day, is a Section 25 offence. Per GIA's published Work Injury Compensation guidance for employers: "Finalise all insurance contracts and provide the information required to your insurer at least 21 days before policy commencement." Liberty Insurance Singapore republishes this same 21-day lead time on its blog.
+**Step 2 - Plan zero-gap inception.** The new policy must commence at 00:01 the day after the old policy expires (or the same date with a "from-noon-to-noon" handover, depending on policy form). Any gap, even one day, is a Section 25 offence. Per GIA's published Work Injury Compensation guidance for employers: "Finalise all insurance contracts and provide the information required to your insurer at least 21 days before policy commencement." Liberty Insurance Singapore republishes this same 21-day lead time on its blog.
 
-**Step 3 — Submit the underwriting declaration.** WICA underwriting requires:
+**Step 3 - Submit the underwriting declaration.** WICA underwriting requires:
 - Number of employees (manual / non-manual ≤ S$2,600 / non-manual > S$2,600 if extending cover)
 - Annual estimated wages by category
 - Job descriptions / nature of work (drives the rating tier)
 - Worksites
-- Claims history (typically 3-year loss run from the previous insurer — request this from the incumbent at renewal)
+- Claims history (typically 3-year loss run from the previous insurer - request this from the incumbent at renewal)
 - WSH compliance and any active MOM stop-work orders or notices
 - For construction/marine/high-hazard: project details
 
-**Step 4 — Notify employees of insurer change.** Not a legal requirement under WICA but operationally important — employees in the middle of an injury claim need to know which insurer to contact.
+**Step 4 - Notify employees of insurer change.** Not a legal requirement under WICA but operationally important - employees in the middle of an injury claim need to know which insurer to contact.
 
-**Step 5 — Existing claims continue under the old insurer (run-off).** Per WICA 2019 Section 32 ("Obligations of designated insurer"), designated insurers must process claims under their issued policies. Open claims at the date of changeover stay with the prior insurer; new accidents from the changeover date are claims under the new insurer.
+**Step 5 - Existing claims continue under the old insurer (run-off).** Per WICA 2019 Section 32 ("Obligations of designated insurer"), designated insurers must process claims under their issued policies. Open claims at the date of changeover stay with the prior insurer; new accidents from the changeover date are claims under the new insurer.
 
-**Step 6 — Occupational disease claims with long latency.** This is the trap. WICA covers occupational diseases (e.g. noise-induced hearing loss, certain occupational cancers) where the disease may manifest years after exposure. Liability typically attaches to the insurer on cover at the date of last exposure (or first manifestation, depending on policy and statutory triggers). When changing insurers, retain records of every WICA insurer you've held and the policy periods. A worker diagnosed in 2030 with NIHL from exposure 2022–2026 will need to identify which insurer was on cover for which years.
+**Step 6 - Occupational disease claims with long latency.** This is the trap. WICA covers occupational diseases (e.g. noise-induced hearing loss, certain occupational cancers) where the disease may manifest years after exposure. Liability typically attaches to the insurer on cover at the date of last exposure (or first manifestation, depending on policy and statutory triggers). When changing insurers, retain records of every WICA insurer you've held and the policy periods. A worker diagnosed in 2030 with NIHL from exposure 2022-2026 will need to identify which insurer was on cover for which years.
 
-**Step 7 — File the i-Report and policy details with MOM.** Designated insurers transmit policy data to MOM. Per AIG's published commentary on WICA 2019: "All claims arising from these policies will be processed by the designated insurers… Designated insurers are required to share claims information with MOM."
+**Step 7 - File the i-Report and policy details with MOM.** Designated insurers transmit policy data to MOM. Per AIG's published commentary on WICA 2019: "All claims arising from these policies will be processed by the designated insurers… Designated insurers are required to share claims information with MOM."
 
 ### Common Mistakes
 1. **Forgetting the 21-day lead time.** Underwriting takes time. Last-minute switches risk inception delays and Section 25 exposure.

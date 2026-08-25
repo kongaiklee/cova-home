@@ -20,7 +20,7 @@ og_description: "Per Section 172 of the Companies Act 1967, any provision in a c
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision in a company's constitution or contract that purports to **exempt** a director, officer, or auditor from, or **indemnify** them against, any liability arising from negligence, default, breach of duty, or breach of trust **is void**. Section 172A authorises the company to purchase D&O insurance for officers; Section 172B permits limited third-party indemnity, with statutory carve-outs for criminal fines, regulatory penalties, defence costs where the officer is convicted, and defence costs where civil judgment is given against the officer in proceedings brought by the company. Section 172 is the legal foundation of why **D&O Side A insurance is structurally important** — when the company cannot lawfully indemnify a director, only Side A cover provides protection. Verify the current text of the section directly on Singapore Statutes Online before relying on it; specific application requires legal advice.
+> Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision in a company's constitution or contract that purports to **exempt** a director, officer, or auditor from, or **indemnify** them against, any liability arising from negligence, default, breach of duty, or breach of trust **is void**. Section 172A authorises the company to purchase D&O insurance for officers; Section 172B permits limited third-party indemnity, with statutory carve-outs for criminal fines, regulatory penalties, defence costs where the officer is convicted, and defence costs where civil judgment is given against the officer in proceedings brought by the company. Section 172 is the legal foundation of why **D&O Side A insurance is structurally important** - when the company cannot lawfully indemnify a director, only Side A cover provides protection. Verify the current text of the section directly on Singapore Statutes Online before relying on it; specific application requires legal advice.
 
 ### The Sourced Detail
 
@@ -28,7 +28,7 @@ Companies Act Section 172 sits at the intersection of corporate governance, fidu
 
 #### What Section 172 actually says
 
-Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision — whether contained in the constitution of a company, in a contract with the company, or otherwise — that purports to exempt an officer or auditor of the company from, or indemnify the officer against, any liability that by law would otherwise attach to that person for any negligence, default, breach of duty, or breach of trust in relation to the company is void, subject to the carve-outs set out in Sections 172A and 172B. Fetch the current text on Singapore Statutes Online before relying on the exact wording.
+Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision - whether contained in the constitution of a company, in a contract with the company, or otherwise - that purports to exempt an officer or auditor of the company from, or indemnify the officer against, any liability that by law would otherwise attach to that person for any negligence, default, breach of duty, or breach of trust in relation to the company is void, subject to the carve-outs set out in Sections 172A and 172B. Fetch the current text on Singapore Statutes Online before relying on the exact wording.
 
 The general rule: **a company cannot prospectively exempt or indemnify its directors against liability for negligence, default, breach of duty, or breach of trust** committed in relation to the company. Any such provision in the constitution, in a contract, or "otherwise" is void.
 
@@ -49,13 +49,13 @@ Without Section 172:
 
 #### The Section 172B third-party indemnity carve-out
 
-[Section 172B](https://sso.agc.gov.sg/Act/CoA1967) permits the company to indemnify an officer or auditor against liability incurred to a **person other than the company** (or a related company) — third-party civil claims by customers, contracting parties, employees, and so on. The carve-out is subject to specific exclusions: the indemnity must not cover liability to pay a fine in criminal proceedings; liability to pay a regulatory penalty for non-compliance with a regulatory requirement; defence costs incurred in defending criminal proceedings where the officer is convicted; defence costs incurred in defending civil proceedings brought by the company or a related company where judgment is given against the officer; or costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
+[Section 172B](https://sso.agc.gov.sg/Act/CoA1967) permits the company to indemnify an officer or auditor against liability incurred to a **person other than the company** (or a related company) - third-party civil claims by customers, contracting parties, employees, and so on. The carve-out is subject to specific exclusions: the indemnity must not cover liability to pay a fine in criminal proceedings; liability to pay a regulatory penalty for non-compliance with a regulatory requirement; defence costs incurred in defending criminal proceedings where the officer is convicted; defence costs incurred in defending civil proceedings brought by the company or a related company where judgment is given against the officer; or costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
 
 The effect: a company can indemnify directors for third-party civil exposures, but cannot pick up the bill on criminal fines, regulatory penalties, or defence costs where the director ultimately loses the substantive proceedings. Where the company funds defence costs in real time and the director is later convicted or has judgment given against him in company-brought proceedings, those costs are repayable to the company.
 
 #### How Section 172 interacts with D&O insurance
 
-Section 172 does not prohibit insurance — companies can lawfully purchase D&O insurance for their directors and officers. The insurance proceeds, when paid, settle the director's liability without requiring company indemnification.
+Section 172 does not prohibit insurance - companies can lawfully purchase D&O insurance for their directors and officers. The insurance proceeds, when paid, settle the director's liability without requiring company indemnification.
 
 The structural relationship:
 
@@ -117,10 +117,10 @@ Generic D&O without strong Side A leaves gaps for the scenarios Section 172 proh
 Even if your company's constitution provides for indemnification, Section 172 voids the parts inconsistent with the prohibition. Indemnification works only within the Section 172A and 172B carve-outs.
 
 **4. D&O is the primary financial protection.**
-For breach of duty, negligence, and similar claims, D&O insurance — particularly Side A — is the essential personal financial protection.
+For breach of duty, negligence, and similar claims, D&O insurance - particularly Side A - is the essential personal financial protection.
 
 **5. Review at any major event.**
-M&A, restructuring, fundraising, regulatory action — all may affect Section 172 application and D&O response.
+M&A, restructuring, fundraising, regulatory action - all may affect Section 172 application and D&O response.
 
 #### Section 172 and director resignation / departure
 
@@ -139,7 +139,7 @@ Singapore Section 172 is broadly similar to:
 - UK Companies Act 2006 Sections 232-234 (prohibitions on exemption and indemnification, with permitted indemnity for third-party proceedings and defence costs)
 - Most Commonwealth jurisdictions follow similar patterns
 
-US states (particularly Delaware) have different frameworks — [DGCL Section 145](https://delcode.delaware.gov/) provides broader indemnification capability. For Singapore SaaS with US Delaware C-Corp parent (common venture-funded structure), the parent's DGCL framework and the subsidiary's CA Section 172 framework operate in parallel, requiring coordinated D&O programmes.
+US states (particularly Delaware) have different frameworks - [DGCL Section 145](https://delcode.delaware.gov/) provides broader indemnification capability. For Singapore SaaS with US Delaware C-Corp parent (common venture-funded structure), the parent's DGCL framework and the subsidiary's CA Section 172 framework operate in parallel, requiring coordinated D&O programmes.
 
 See [Article 87](/cross-border/sg-saas-us-customers) on US-related considerations.
 
@@ -149,14 +149,14 @@ See [Article 87](/cross-border/sg-saas-us-customers) on US-related consideration
 
 - Limited company assets to indemnify
 - Section 172 prohibits indemnification for breach of duty regardless
-- Side A cover at modest limits ($1M–$3M typical)
+- Side A cover at modest limits ($1M-$3M typical)
 - Company-paid premium typically permissible
 
 **Scenario B: Series A-funded SaaS with VC board members**
 
 - Investor term sheet typically requires D&O
 - Multiple board members across investor and founder seats
-- Higher limits ($3M–$10M typical)
+- Higher limits ($3M-$10M typical)
 - Each director's personal protection considered
 
 **Scenario C: Established SME with multiple directors and operations across industries**
@@ -185,7 +185,7 @@ See [Article 87](/cross-border/sg-saas-us-customers) on US-related consideration
 Practical review:
 
 **1. Confirm Side A presence and limit.**
-Side A direct cover at meaningful limits is foundational. For founder-directors, S$3M–S$10M typical baseline.
+Side A direct cover at meaningful limits is foundational. For founder-directors, S$3M-S$10M typical baseline.
 
 **2. Verify policy responds when company cannot indemnify.**
 Some policies are structured around company indemnification first; pure Side A response requires specific policy design.
@@ -230,7 +230,7 @@ When procuring D&O with Section 172 protection in mind:
 4. **Side A inadequate for pre-insolvency scenarios.** Specifically the moment Section 172 bites hardest.
 5. **No run-off at director departure.** Past acts remain exposed.
 6. **Treating D&O as company-funded benefit.** Personal protection requires personal attention even when company-funded.
-7. **At fundraising / M&A — not coordinating Section 172 / D&O implications.** Significant transition points warrant review.
+7. **At fundraising / M&A - not coordinating Section 172 / D&O implications.** Significant transition points warrant review.
 
 ### What This Means for Your Business
 
@@ -244,11 +244,11 @@ For founder-directors and board members of Singapore SMEs:
 
 4. **For multiple directors, ensure programme covers all.** Joint and several considerations.
 
-5. **Maintain personal awareness.** D&O is not abstract — it's the financial protection between corporate liability and personal bankruptcy in worst-case scenarios.
+5. **Maintain personal awareness.** D&O is not abstract - it's the financial protection between corporate liability and personal bankruptcy in worst-case scenarios.
 
 6. **For SMEs with US/international parent structure, coordinate jurisdictional D&O.** Section 172 (Singapore) and DGCL (Delaware) operate differently.
 
-The cost of comprehensive D&O with appropriate Side A is meaningful but proportionate to the personal exposure being protected. The cost of inadequate D&O — personal liability for breach of duty without insurance backing — can be career-ending.
+The cost of comprehensive D&O with appropriate Side A is meaningful but proportionate to the personal exposure being protected. The cost of inadequate D&O - personal liability for breach of duty without insurance backing - can be career-ending.
 
 ### Questions to Ask Your Adviser
 
@@ -267,4 +267,4 @@ The cost of comprehensive D&O with appropriate Side A is meaningful but proporti
 
 ---
 
-Articles 120–122 expand Decision Trees with three high-volume commercial categories: gym/fitness studio (activity-risk spectrum from yoga to MMA, member GPA structure), accounting/audit firm (PAOC mandatory PI, BEC vector intensity), and full-service restaurant (SFA + SCDF + URA + NEA + MOM convergence, liquor liability dimension). Articles 123–124 continue Edge Case with two distinctive entertainment venue categories: escape rooms and immersive entertainment (the "trapped customer" SCDF egress concern; immersive theming hazards) and e-sports/gaming centres (high-density equipment, tournament event exposure, gaming account credential data). Articles 125–126 continue Crisis with two scenarios where insurance plays a limited but specific role: supplier insolvency (CBI rare; recovery primarily via creditor proceedings under IRDA 2018) and currency/FX hedge failure (commercial market risk; insurance only at edges — Crime, Cyber, D&O for specific scenarios). Article 127 continues Cross-Border with Vietnam operations — VSS state social insurance, Vietnamese local commercial cover, FIE-specific licensing, multinational programme coordination. Articles 128–129 expand Document-Legal with two foundational Singapore insurance regulatory frameworks: the Insurance Act 1966 overview (MAS licensing, PPF Scheme limits for general insurance, FIDReC dispute mechanism) and MAS Notice FAA-N03 / IFA conduct framework (suitability, disclosure, complaint resolution).
+Articles 120-122 expand Decision Trees with three high-volume commercial categories: gym/fitness studio (activity-risk spectrum from yoga to MMA, member GPA structure), accounting/audit firm (PAOC mandatory PI, BEC vector intensity), and full-service restaurant (SFA + SCDF + URA + NEA + MOM convergence, liquor liability dimension). Articles 123-124 continue Edge Case with two distinctive entertainment venue categories: escape rooms and immersive entertainment (the "trapped customer" SCDF egress concern; immersive theming hazards) and e-sports/gaming centres (high-density equipment, tournament event exposure, gaming account credential data). Articles 125-126 continue Crisis with two scenarios where insurance plays a limited but specific role: supplier insolvency (CBI rare; recovery primarily via creditor proceedings under IRDA 2018) and currency/FX hedge failure (commercial market risk; insurance only at edges - Crime, Cyber, D&O for specific scenarios). Article 127 continues Cross-Border with Vietnam operations - VSS state social insurance, Vietnamese local commercial cover, FIE-specific licensing, multinational programme coordination. Articles 128-129 expand Document-Legal with two foundational Singapore insurance regulatory frameworks: the Insurance Act 1966 overview (MAS licensing, PPF Scheme limits for general insurance, FIDReC dispute mechanism) and MAS Notice FAA-N03 / IFA conduct framework (suitability, disclosure, complaint resolution).

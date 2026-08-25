@@ -20,11 +20,11 @@ og_description: "A Singapore gym or fitness studio typically requires: business 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore gym or fitness studio typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) for the premises, [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [Sport Singapore](https://www.sportsingapore.gov.sg/) accreditation for specific programmes. Insurance baseline: **Public Liability** (S$2M–S$5M; landlord and customer-facing requirements often exceed standard SME minimums), **Professional Indemnity** for instructor advice and programming errors, **WICA** for staff (trainers and admin both in scope), **Property/Fire** for equipment (commercial gym equipment is high-value), **Equipment Breakdown** for treadmills, ellipticals, and electronic systems, **Group Personal Accident** for members (often parent-paid as a programme add-on), **Cyber Liability** for member data and access systems, and **Crime / Fidelity Guarantee** for membership fee handling. Studio operators with combat sports, contact disciplines, or high-impact training (boxing, MMA, CrossFit, hot yoga, aerial fitness) face elevated PI and PL underwriting.
+> A Singapore gym or fitness studio typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) for the premises, [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [Sport Singapore](https://www.sportsingapore.gov.sg/) accreditation for specific programmes. Insurance baseline: **Public Liability** (S$2M-S$5M; landlord and customer-facing requirements often exceed standard SME minimums), **Professional Indemnity** for instructor advice and programming errors, **WICA** for staff (trainers and admin both in scope), **Property/Fire** for equipment (commercial gym equipment is high-value), **Equipment Breakdown** for treadmills, ellipticals, and electronic systems, **Group Personal Accident** for members (often parent-paid as a programme add-on), **Cyber Liability** for member data and access systems, and **Crime / Fidelity Guarantee** for membership fee handling. Studio operators with combat sports, contact disciplines, or high-impact training (boxing, MMA, CrossFit, hot yoga, aerial fitness) face elevated PI and PL underwriting.
 
 ### The Sourced Detail
 
-Singapore's fitness industry has expanded across boutique studios, big-box gyms, specialised disciplines (yoga, Pilates, barre, indoor cycling, boxing, martial arts, CrossFit, climbing), and online-hybrid models. The insurance build varies materially across these models — what works for a low-impact yoga studio is structurally inadequate for a CrossFit box or boxing gym.
+Singapore's fitness industry has expanded across boutique studios, big-box gyms, specialised disciplines (yoga, Pilates, barre, indoor cycling, boxing, martial arts, CrossFit, climbing), and online-hybrid models. The insurance build varies materially across these models - what works for a low-impact yoga studio is structurally inadequate for a CrossFit box or boxing gym.
 
 #### The activity-risk spectrum
 
@@ -52,23 +52,23 @@ Insurers underwrite fitness studios by activity type:
 - Trampoline parks
 - Obstacle/parkour facilities
 
-PL and PI premium scales materially with the activity type. A 2,000 sq ft yoga studio might pay S$3,000–S$8,000 annually for PL; a similar-size MMA gym could pay S$10,000–S$25,000.
+PL and PI premium scales materially with the activity type. A 2,000 sq ft yoga studio might pay S$3,000-S$8,000 annually for PL; a similar-size MMA gym could pay S$10,000-S$25,000.
 
 #### The licensing baseline
 
 **Business registration** with ACRA is foundational.
 
-**SCDF Fire Safety Certificate** — every gym premises requires FSC compliance. Equipment-heavy facilities typically require specific assessments. See [Article 10](/licensing/scdf-fire-safety-certificate-insurance-implications) on SCDF FSC.
+**SCDF Fire Safety Certificate** - every gym premises requires FSC compliance. Equipment-heavy facilities typically require specific assessments. See [Article 10](/licensing/scdf-fire-safety-certificate-insurance-implications) on SCDF FSC.
 
-**URA zoning** — gyms and fitness studios are commercial uses requiring appropriate URA zoning. Specific zoning categories matter; some retail/commercial zones permit fitness uses while others restrict them.
+**URA zoning** - gyms and fitness studios are commercial uses requiring appropriate URA zoning. Specific zoning categories matter; some retail/commercial zones permit fitness uses while others restrict them.
 
-**Sport Singapore Active Health Programme** — for studios offering specific structured programmes (e.g. for senior fitness, post-rehab), Sport Singapore accreditation may be relevant.
+**Sport Singapore Active Health Programme** - for studios offering specific structured programmes (e.g. for senior fitness, post-rehab), Sport Singapore accreditation may be relevant.
 
 **MOH licensing** for facilities offering rehabilitation, post-injury fitness, or medically-related services.
 
-**ACTSing-affiliated certifications** — many qualified personal trainers hold ACTSing or international certifications. Insurer underwriting often requires evidence of staff certifications.
+**ACTSing-affiliated certifications** - many qualified personal trainers hold ACTSing or international certifications. Insurer underwriting often requires evidence of staff certifications.
 
-**Specific discipline accreditations** — boxing facilities may have Singapore Boxing Federation considerations; martial arts schools may have specific federation affiliations.
+**Specific discipline accreditations** - boxing facilities may have Singapore Boxing Federation considerations; martial arts schools may have specific federation affiliations.
 
 #### The Public Liability layer
 
@@ -91,9 +91,9 @@ PL for fitness facilities is the most-claimed line. Typical exposures:
 - Vehicle damage (limited, parking-related)
 
 **Limit considerations:**
-- Landlord minimum (often S$2M–S$5M)
+- Landlord minimum (often S$2M-S$5M)
 - Mall facility requirements (often higher)
-- Realistic exposure for serious injury can warrant S$5M–S$10M+ for higher-risk disciplines
+- Realistic exposure for serious injury can warrant S$5M-S$10M+ for higher-risk disciplines
 
 **Specific items to confirm:**
 - Combat sports / contact-discipline cover (often excluded as standard; specific endorsement needed)
@@ -113,9 +113,9 @@ PI for fitness covers:
 - Loss of member records
 
 **Limit considerations:**
-- Studio: S$1M–S$3M
-- Multi-discipline gym: S$3M–S$5M
-- Higher-risk specialty (MMA, CrossFit affiliate, boxing): S$3M–S$10M
+- Studio: S$1M-S$3M
+- Multi-discipline gym: S$3M-S$5M
+- Higher-risk specialty (MMA, CrossFit affiliate, boxing): S$3M-S$10M
 
 **Specific exposures:**
 - Pre-existing medical condition disclosure failures
@@ -126,7 +126,7 @@ PI for fitness covers:
 
 The pre-class health screening (PAR-Q or equivalent) is an important risk control. Insurers typically expect documented screening processes.
 
-#### Member waivers — necessary but not sufficient
+#### Member waivers - necessary but not sufficient
 
 Standard fitness facility waivers (Acknowledgment of Risk, Release of Liability) provide some protection but:
 
@@ -158,9 +158,9 @@ Premium scales with member count and activity type. For higher-risk disciplines 
 Commercial fitness equipment is high-value and electronics-heavy:
 
 **Equipment values:**
-- Treadmills: S$3,000–S$15,000 each
-- Ellipticals / cross-trainers: S$3,000–S$10,000 each
-- Strength machines: S$2,000–S$15,000 each
+- Treadmills: S$3,000-S$15,000 each
+- Ellipticals / cross-trainers: S$3,000-S$10,000 each
+- Strength machines: S$2,000-S$15,000 each
 - Free weights and racks: cumulative high value
 - Sound systems, lighting, climate control
 
@@ -205,7 +205,7 @@ For mid-size and larger facilities, Fidelity Guarantee covering employee dishone
 - URA zoning verification
 - Insurance procurement before opening
 
-**Year 1 (small studio, 100–500 members, 3–8 staff):**
+**Year 1 (small studio, 100-500 members, 3-8 staff):**
 - PL with appropriate activity-type endorsements
 - PI for instruction
 - WICA for staff
@@ -215,7 +215,7 @@ For mid-size and larger facilities, Fidelity Guarantee covering employee dishone
 - Cyber Liability
 - Member GPA structure (parent-paid or bundled)
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher PL/PI limits as membership scales
 - D&O if incorporated
 - EPL as headcount grows
@@ -277,15 +277,15 @@ For mid-size and larger facilities, Fidelity Guarantee covering employee dishone
 
 For typical Singapore fitness facilities:
 
-**Boutique studio (under 1,500 sq ft, 100–300 members, 2–5 staff):**
-- PL/PI bundle: S$3,000–S$10,000
-- Equipment, WICA, Cyber, employee benefits: S$5,000–S$15,000
-- Member GPA (if structured): S$1,000–S$5,000
-- **Total annual insurance budget** typically S$10,000–S$30,000
+**Boutique studio (under 1,500 sq ft, 100-300 members, 2-5 staff):**
+- PL/PI bundle: S$3,000-S$10,000
+- Equipment, WICA, Cyber, employee benefits: S$5,000-S$15,000
+- Member GPA (if structured): S$1,000-S$5,000
+- **Total annual insurance budget** typically S$10,000-S$30,000
 
-**Mid-size gym (3,000–8,000 sq ft, 500–1,500 members, 10–25 staff):**
+**Mid-size gym (3,000-8,000 sq ft, 500-1,500 members, 10-25 staff):**
 - Higher limits across the board
-- **Total typically S$25,000–S$80,000**
+- **Total typically S$25,000-S$80,000**
 
 **Big-box gym / multi-location:**
 - Comprehensive programme
@@ -346,7 +346,7 @@ For founders opening a fitness facility in Singapore:
 
 1. **Match insurance to activity profile.** Generic fitness cover is inadequate for combat/high-impact disciplines.
 
-2. **Build operational risk management as foundation.** Screening, certifications, equipment maintenance — these support both safety and insurability.
+2. **Build operational risk management as foundation.** Screening, certifications, equipment maintenance - these support both safety and insurability.
 
 3. **Document everything.** Member screenings, incident reports, equipment maintenance, staff certifications.
 

@@ -13,14 +13,14 @@ word_count: 1692
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/do-claim-notification-process"
-meta_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis — meaning the claim must both arise and be reported..."
+meta_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis - meaning the claim must both arise and be reported..."
 og_title: "D&O Claim Notification Process: From First Indication to Defence Engagement"
-og_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis — meaning the claim must both arise and be reported..."
+og_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis - meaning the claim must both arise and be reported..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> D&O claims are notification-sensitive. Most D&O policies operate on **claims-made and reported** basis — meaning the claim must both arise and be reported during the policy period (or extended reporting period). Late notification can void coverage. The trigger for notification is broader than a formal lawsuit: a "Claim" typically includes written demands, regulatory investigations, specific subpoenas, and specific proceedings. Singapore SME directors should notify on first indication — not wait for service of formal proceedings. The process: **first indication of potential claim** → **immediate broker notification** → **broker coordinates insurer notification with policy specifics** → **insurer acknowledges and assigns claims handler** → **defence counsel selection and engagement** → **defence cost advancement begins** → **investigation / discovery / settlement / trial phases** → **specific allocation between covered and uncovered scope**. For Singapore SMEs facing director-level exposure (under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967), [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006), [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018), or specific other frameworks), getting the notification right is foundational.
+> D&O claims are notification-sensitive. Most D&O policies operate on **claims-made and reported** basis - meaning the claim must both arise and be reported during the policy period (or extended reporting period). Late notification can void coverage. The trigger for notification is broader than a formal lawsuit: a "Claim" typically includes written demands, regulatory investigations, specific subpoenas, and specific proceedings. Singapore SME directors should notify on first indication - not wait for service of formal proceedings. The process: **first indication of potential claim** → **immediate broker notification** → **broker coordinates insurer notification with policy specifics** → **insurer acknowledges and assigns claims handler** → **defence counsel selection and engagement** → **defence cost advancement begins** → **investigation / discovery / settlement / trial phases** → **specific allocation between covered and uncovered scope**. For Singapore SMEs facing director-level exposure (under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967), [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006), [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018), or specific other frameworks), getting the notification right is foundational.
 
 ### The Sourced Detail
 
@@ -57,7 +57,7 @@ D&O typically operates on **claims-made and reported** basis:
 
 **Reported.** The claim must also be reported to the insurer during the policy period or extended reporting period. Late reporting can void coverage even if the claim itself was timely.
 
-**The retroactive date.** Most D&O policies include a retroactive date — only conduct from that date onward is covered. For new policies, retroactive date is typically the inception date; for renewals, the original retroactive date is typically maintained (avoiding gaps).
+**The retroactive date.** Most D&O policies include a retroactive date - only conduct from that date onward is covered. For new policies, retroactive date is typically the inception date; for renewals, the original retroactive date is typically maintained (avoiding gaps).
 
 **The extended reporting period (ERP).** After policy expiry, ERP allows specific time (typically 30-60 days standard, with optional extended ERP for purchase) to report claims that arose during the policy period.
 
@@ -176,7 +176,7 @@ Late notification is the single most common cause of D&O claim disputes. Notify 
 
 **Comprehensiveness.**
 
-Notify everything that could meet the "Claim" or "Circumstance" definition. Don't filter — let the insurer apply policy provisions.
+Notify everything that could meet the "Claim" or "Circumstance" definition. Don't filter - let the insurer apply policy provisions.
 
 **Documentation.**
 

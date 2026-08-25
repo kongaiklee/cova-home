@@ -20,7 +20,7 @@ og_description: "Effective 1 June 2024, the Workplace Safety and Health (Amendme
 
 > **The Answer in 60 Seconds**
 >
-> Effective **1 June 2024**, the [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) (S 434/2024) raised maximum fines across the WSH subsidiary legislation (the WSH Regulations). The maximum fine for a breach that is **a major cause of serious harm** — death, serious bodily injury or a dangerous occurrence — rose from **SGD 20,000 to SGD 50,000**; breaches that only contribute to serious harm stay at SGD 20,000, and administrative breaches at SGD 10,000 or below. These Regulations amend the WSH subsidiary legislation only — they do not change the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) itself, under which director/officer liability for "offences by bodies corporate" sits in section 48 and the penalty provisions in section 50. Mandatory video surveillance system (VSS) requirements simultaneously took effect for relevant construction projects with contract sums of **SGD 5 million or above**. The procedural and pricing implications for SMEs: (1) WICI premium rate review — insurers re-rated WICA portfolios after 1 June 2024 reflecting elevated employer regulatory exposure; (2) Public Liability premium impact — bodily injury claims following workplace accidents face elevated regulatory scrutiny; (3) Employment Practices Liability — wrongful dismissal post-incident claims now interact with WSH-driven termination patterns; (4) D&O exposure — where insolvency or restructuring follows a major WSH penalty, director liability ensues. SMEs in construction (especially contracts ≥ SGD 5m), manufacturing, marine and shipyard, F&B kitchens, and logistics with material handling face the highest exposure. Mandatory VSS coverage extends to lifting operations, structural steel work, deep excavation, demolition.
+> Effective **1 June 2024**, the [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) (S 434/2024) raised maximum fines across the WSH subsidiary legislation (the WSH Regulations). The maximum fine for a breach that is **a major cause of serious harm** - death, serious bodily injury or a dangerous occurrence - rose from **SGD 20,000 to SGD 50,000**; breaches that only contribute to serious harm stay at SGD 20,000, and administrative breaches at SGD 10,000 or below. These Regulations amend the WSH subsidiary legislation only - they do not change the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) itself, under which director/officer liability for "offences by bodies corporate" sits in section 48 and the penalty provisions in section 50. Mandatory video surveillance system (VSS) requirements simultaneously took effect for relevant construction projects with contract sums of **SGD 5 million or above**. The procedural and pricing implications for SMEs: (1) WICI premium rate review - insurers re-rated WICA portfolios after 1 June 2024 reflecting elevated employer regulatory exposure; (2) Public Liability premium impact - bodily injury claims following workplace accidents face elevated regulatory scrutiny; (3) Employment Practices Liability - wrongful dismissal post-incident claims now interact with WSH-driven termination patterns; (4) D&O exposure - where insolvency or restructuring follows a major WSH penalty, director liability ensues. SMEs in construction (especially contracts ≥ SGD 5m), manufacturing, marine and shipyard, F&B kitchens, and logistics with material handling face the highest exposure. Mandatory VSS coverage extends to lifting operations, structural steel work, deep excavation, demolition.
 
 ### The Sourced Detail
 
@@ -28,13 +28,13 @@ The 1 June 2024 WSH penalty regime represents the most material increase to corp
 
 #### Regulatory framework
 
-**Primary statute.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) — establishes general duties of care for employers, principals, occupiers, manufacturers and suppliers.
+**Primary statute.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) - establishes general duties of care for employers, principals, occupiers, manufacturers and suppliers.
 
-**Penalty regulations.** [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) (S 434/2024) — effective 1 June 2024, raised the maximum fines across the WSH subsidiary legislation, tiered by offence severity.
+**Penalty regulations.** [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) (S 434/2024) - effective 1 June 2024, raised the maximum fines across the WSH subsidiary legislation, tiered by offence severity.
 
-**Video surveillance regulations.** The mandatory video surveillance system (VSS) requirement was introduced by the Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024 (S 471/2024), amending the [WSH (General Provisions) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG1) — VSS is required for relevant construction projects with a contract sum of SGD 5 million or above.
+**Video surveillance regulations.** The mandatory video surveillance system (VSS) requirement was introduced by the Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024 (S 471/2024), amending the [WSH (General Provisions) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG1) - VSS is required for relevant construction projects with a contract sum of SGD 5 million or above.
 
-**Administering body.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) — WSH inspectorate enforces; [Workplace Safety and Health Council (WSHC)](https://www.wshc.sg/) supports compliance.
+**Administering body.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) - WSH inspectorate enforces; [Workplace Safety and Health Council (WSHC)](https://www.wshc.sg/) supports compliance.
 
 #### What changed effective 1 June 2024
 
@@ -43,9 +43,9 @@ The 1 June 2024 WSH penalty regime represents the most material increase to corp
 - Breach that **contributes to** serious harm but is not a major cause: max **SGD 20,000**
 - Administrative / procedural breach: max **SGD 10,000 or below**
 
-The SGD 50,000 tier covers the substantive duty failures — failure to provide a safe work environment, failure to maintain a risk assessment, inadequate safe work procedures — that make up the bulk of MOM's enforcement docket.
+The SGD 50,000 tier covers the substantive duty failures - failure to provide a safe work environment, failure to maintain a risk assessment, inadequate safe work procedures - that make up the bulk of MOM's enforcement docket.
 
-**Section 48 — offences by bodies corporate.** Separate from the subsidiary-legislation fines above, WSHA 2006 section 48 makes a director, manager, secretary or other officer personally liable where the body corporate's offence was committed with that person's consent or connivance, or is attributable to their neglect. The Act-level penalty provisions sit in section 50. These Act-level provisions were not amended by the 2024 Regulations, which change only the WSH subsidiary legislation.
+**Section 48 - offences by bodies corporate.** Separate from the subsidiary-legislation fines above, WSHA 2006 section 48 makes a director, manager, secretary or other officer personally liable where the body corporate's offence was committed with that person's consent or connivance, or is attributable to their neglect. The Act-level penalty provisions sit in section 50. These Act-level provisions were not amended by the 2024 Regulations, which change only the WSH subsidiary legislation.
 
 **Mandatory video surveillance system.** For construction projects with contract value ≥ **SGD 5 million** with relevant high-risk activities (lifting operations, structural steel work, deep excavation ≥ 5m, demolition):
 - VSS must be installed and operational before commencement
@@ -53,7 +53,7 @@ The SGD 50,000 tier covers the substantive duty failures — failure to provide 
 - Specific positioning and coverage requirements
 - Non-compliance triggers separate offence
 
-**Composition fines.** Composition fine ceilings (where MOM offers settlement instead of prosecution) increased proportionally; some categories now face composition fines of SGD 5,000–25,000 where previously SGD 1,000–10,000.
+**Composition fines.** Composition fine ceilings (where MOM offers settlement instead of prosecution) increased proportionally; some categories now face composition fines of SGD 5,000-25,000 where previously SGD 1,000-10,000.
 
 #### The compounding effect on insurance
 
@@ -112,28 +112,28 @@ Post-1 June 2024, several WICA designated insurers introduced WSH-compliance-lin
 
 #### Compliance procedure for SMEs
 
-**Step 1 — WSH risk assessment.**
+**Step 1 - WSH risk assessment.**
 Required for all employers under WSHA. Update annually or at material change.
 
-**Step 2 — Safe work procedures (SWPs).**
+**Step 2 - Safe work procedures (SWPs).**
 Documented procedures for high-risk activities. Worker training records.
 
-**Step 3 — WSH committee (≥ 50 employees).**
+**Step 3 - WSH committee (≥ 50 employees).**
 Composition, meeting frequency, review of incidents.
 
-**Step 4 — Designated WSH officer (≥ 100 employees).**
+**Step 4 - Designated WSH officer (≥ 100 employees).**
 Qualified personnel with formal designation.
 
-**Step 5 — Incident reporting.**
+**Step 5 - Incident reporting.**
 Per [Article 341](/procedural-howto/how-to-file-wica-claim-singapore-mom) WICA framework: 10-day MOM reporting plus parallel insurer notification.
 
-**Step 6 — VSS for ≥ SGD 5m construction projects.**
+**Step 6 - VSS for ≥ SGD 5m construction projects.**
 Pre-commencement installation; ongoing operation; recording retention.
 
-**Step 7 — Insurance coordination.**
+**Step 7 - Insurance coordination.**
 WICI, PL, EPL, D&O cover review reflecting WSH risk profile.
 
-**Step 8 — Documentation.**
+**Step 8 - Documentation.**
 All compliance evidence preserved for inspection or claim purposes.
 
 #### Typical WSH penalty progression
@@ -192,7 +192,7 @@ For Singapore SMEs across affected sectors:
 
 10. **Insurance coordination** across WICI, PL, EPL, D&O for incident scenarios.
 
-The 1 June 2024 increase is permanent — and MOM enforcement intensity has increased correspondingly. SMEs in affected sectors that have not reviewed WSH compliance and insurance coordination since 2024 face elevated exposure.
+The 1 June 2024 increase is permanent - and MOM enforcement intensity has increased correspondingly. SMEs in affected sectors that have not reviewed WSH compliance and insurance coordination since 2024 face elevated exposure.
 
 ### Questions to Ask Your Adviser
 

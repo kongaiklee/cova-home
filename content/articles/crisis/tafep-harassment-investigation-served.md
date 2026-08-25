@@ -13,14 +13,14 @@ word_count: 1601
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/tafep-harassment-investigation-served"
-meta_description: "Your SME has received contact from the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) — either via the TAFEP hotline (6838..."
+meta_description: "Your SME has received contact from the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) - either via the TAFEP hotline (6838..."
 og_title: "TAFEP / Sexual Harassment Investigation Served on the Employer"
-og_description: "Your SME has received contact from the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) — either via the TAFEP hotline (6838..."
+og_description: "Your SME has received contact from the Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) - either via the TAFEP hotline (6838..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Your SME has received contact from the [Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep/) — either via the TAFEP hotline (6838 0969), formal letter requiring independent investigation, or POHA / Penal Code complaint copied to the employer. Alternatively, a media exposé or social media incident has surfaced. The complaint involves alleged workplace harassment, discrimination, or hostile environment. Critical first 7 days: (1) **appoint independent investigator** — not the alleged harasser's reporting line; (2) preserve email, CCTV, access-card logs covering relevant period; (3) implement complainant safety measures (no retaliation, separate work allocation, alternative reporting line); (4) interim suspension policy assessment for accused; (5) formal communication plan. First 30 days: structured investigation per [TAFEP Tripartite Advisory on Managing Workplace Harassment](https://www.tal.sg/tafep/), board-level oversight if executive involved, structured outcome communication, disciplinary action documentation. Statutory framework: [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014); [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) (operative end-2027 per Manpower Minister Tan See Leng's 4 November 2025 confirmation). Insurance angles: Employment Practices Liability (EPL) — typically a D&O extension or standalone, covers defence costs and settlements for harassment, discrimination, retaliation; not all D&O policies in Singapore include EPL by default; NOT covered: punitive damages where insurance not legally permitted, intentional acts of the alleged harasser. Reference precedent: Ubisoft Singapore TAFEP investigation (2024).
+> Your SME has received contact from the [Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep/) - either via the TAFEP hotline (6838 0969), formal letter requiring independent investigation, or POHA / Penal Code complaint copied to the employer. Alternatively, a media exposé or social media incident has surfaced. The complaint involves alleged workplace harassment, discrimination, or hostile environment. Critical first 7 days: (1) **appoint independent investigator** - not the alleged harasser's reporting line; (2) preserve email, CCTV, access-card logs covering relevant period; (3) implement complainant safety measures (no retaliation, separate work allocation, alternative reporting line); (4) interim suspension policy assessment for accused; (5) formal communication plan. First 30 days: structured investigation per [TAFEP Tripartite Advisory on Managing Workplace Harassment](https://www.tal.sg/tafep/), board-level oversight if executive involved, structured outcome communication, disciplinary action documentation. Statutory framework: [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014); [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) (operative end-2027 per Manpower Minister Tan See Leng's 4 November 2025 confirmation). Insurance angles: Employment Practices Liability (EPL) - typically a D&O extension or standalone, covers defence costs and settlements for harassment, discrimination, retaliation; not all D&O policies in Singapore include EPL by default; NOT covered: punitive damages where insurance not legally permitted, intentional acts of the alleged harasser. Reference precedent: Ubisoft Singapore TAFEP investigation (2024).
 
 ### The Sourced Detail
 
@@ -28,7 +28,7 @@ A TAFEP harassment investigation served on the employer compresses several legal
 
 #### Statutory framework
 
-**Primary statute (current).** [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014) — provides civil and criminal remedies for harassment. Its key offences include:
+**Primary statute (current).** [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014) - provides civil and criminal remedies for harassment. Its key offences include:
 - Section 3: Intentionally causing harassment, alarm or distress
 - Section 4: Harassment, alarm or distress
 - Section 5: Fear, provocation or facilitation of violence
@@ -68,11 +68,11 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Identifying employer disclosure for serious cases
 - Specific media engagement
 
-**Reference matter.** Ubisoft Singapore TAFEP investigation (2024) — sexual harassment and discrimination allegations. Public reporting of TAFEP engagement; specific company response.
+**Reference matter.** Ubisoft Singapore TAFEP investigation (2024) - sexual harassment and discrimination allegations. Public reporting of TAFEP engagement; specific company response.
 
 #### Hour-by-hour response
 
-**Hour 0-24 — Receipt and immediate measures.**
+**Hour 0-24 - Receipt and immediate measures.**
 
 - Identify TAFEP officer named in correspondence
 - Identify deadline for response
@@ -81,7 +81,7 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Identify alleged conduct
 - Identify alleged perpetrator(s)
 
-**Day 1-3 — Preservation and protection.**
+**Day 1-3 - Preservation and protection.**
 
 - **Document preservation order issued internally:**
   - Email accounts of complainant, alleged perpetrator, witnesses
@@ -101,7 +101,7 @@ TAFEP operates within a tripartite framework and has specific powers:
   - Specific contact restrictions
   - Specific supervision
 
-**Day 3-7 — Independent investigator appointment.**
+**Day 3-7 - Independent investigator appointment.**
 
 - External investigator selection (specialist HR investigation firm)
 - NOT the alleged perpetrator's reporting line
@@ -111,7 +111,7 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Specific timeline (typically 4-8 weeks)
 - Specific terms of engagement
 
-**Day 7-14 — Investigation kickoff.**
+**Day 7-14 - Investigation kickoff.**
 
 - Complainant interview (with appropriate support)
 - Witness interviews (separately, professionally)
@@ -119,29 +119,29 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Document review
 - Specific evidence assessment
 
-#### First 30 days — investigation execution
+#### First 30 days - investigation execution
 
 **Investigation structure per TAFEP guidance:**
 
-**Phase 1 — Information gathering.**
+**Phase 1 - Information gathering.**
 - Complainant statement (detailed, written)
 - Alleged perpetrator statement (right to respond)
 - Witness statements (independent recollection)
 - Documentary evidence (emails, messages, CCTV, access logs)
 - Specific contextual evidence (organisational structure, reporting lines, prior incidents)
 
-**Phase 2 — Analysis.**
+**Phase 2 - Analysis.**
 - Specific factual findings
 - Specific corroboration assessment
 - Specific credibility assessment
 - Specific contextual factors
 
-**Phase 3 — Determination.**
+**Phase 3 - Determination.**
 - Substantiated / unsubstantiated / inconclusive
 - Specific severity classification (where substantiated)
 - Specific remedial recommendations
 
-**Phase 4 — Report.**
+**Phase 4 - Report.**
 - Written investigation report
 - Specific findings
 - Specific recommendations
@@ -167,7 +167,7 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Specific monitoring
 - Specific alternative dispute resolution options
 
-#### Insurance angle — Employment Practices Liability
+#### Insurance angle - Employment Practices Liability
 
 **EPL coverage scope.**
 - Defence costs for harassment / discrimination / retaliation claims
@@ -227,7 +227,7 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Specific statement framework
 - Crisis communication firm engagement if needed
 
-#### Workplace Fairness Act 2025 — when operative
+#### Workplace Fairness Act 2025 - when operative
 
 When [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) becomes operative (currently end-2027), the framework strengthens substantially:
 - The eleven protected characteristics: age; nationality; sex; marital status; pregnancy; caregiving responsibilities; race; religion; language ability; disability; and mental health condition
@@ -264,27 +264,27 @@ For now (until end-2027), TAFEP voluntary framework + POHA + Penal Code remains 
 
 For Singapore SMEs facing TAFEP harassment investigation:
 
-1. **Independent investigator** — external, specialist, board-approved.
+1. **Independent investigator** - external, specialist, board-approved.
 
-2. **Document preservation** — formal hold across all relevant categories.
+2. **Document preservation** - formal hold across all relevant categories.
 
-3. **Complainant protection** — proactive, structured, monitored.
+3. **Complainant protection** - proactive, structured, monitored.
 
-4. **Alleged perpetrator measures** — proportionate, fair, documented.
+4. **Alleged perpetrator measures** - proportionate, fair, documented.
 
-5. **Investigation execution** — structured, professional, time-bounded.
+5. **Investigation execution** - structured, professional, time-bounded.
 
-6. **Insurance coordination** — EPL, D&O notification, defence cost management.
+6. **Insurance coordination** - EPL, D&O notification, defence cost management.
 
-7. **Communication strategy** — internal, complainant, perpetrator, regulator, media.
+7. **Communication strategy** - internal, complainant, perpetrator, regulator, media.
 
-8. **Outcome implementation** — disciplinary, structural, preventive.
+8. **Outcome implementation** - disciplinary, structural, preventive.
 
-9. **Long-term review** — pattern assessment, training enhancement, culture change.
+9. **Long-term review** - pattern assessment, training enhancement, culture change.
 
-10. **WFA 2027 readiness** — preparation for strengthened framework.
+10. **WFA 2027 readiness** - preparation for strengthened framework.
 
-The cost of a harassment investigation is meaningful — an external investigation, any settlement or remedy for a substantiated case, and reputational and culture damage that often exceeds the direct cost. The cost of a preventive culture — a genuine respectful-workplace programme, clear reporting channels, and trained managers — is comparatively modest and predictable.
+The cost of a harassment investigation is meaningful - an external investigation, any settlement or remedy for a substantiated case, and reputational and culture damage that often exceeds the direct cost. The cost of a preventive culture - a genuine respectful-workplace programme, clear reporting channels, and trained managers - is comparatively modest and predictable.
 
 ### Questions to Ask Your Adviser
 
@@ -295,8 +295,8 @@ The cost of a harassment investigation is meaningful — an external investigati
 5. For complainant protection framework, are structures pre-established for proactive support?
 
 ### Related Information
-- [A Key Employee Just Resigned and Is Taking Customers/IP With Them — What Do I Do Now?](/crisis/key-employee-resignation-ip-customer-migration)
-- [We Need to Conduct a Mass Layoff or Major Restructuring — What Do I Do Now?](/crisis/mass-layoff-restructuring)
+- [A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?](/crisis/key-employee-resignation-ip-customer-migration)
+- [We Need to Conduct a Mass Layoff or Major Restructuring - What Do I Do Now?](/crisis/mass-layoff-restructuring)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

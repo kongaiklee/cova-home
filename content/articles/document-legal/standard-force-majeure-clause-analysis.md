@@ -20,7 +20,7 @@ og_description: "Force majeure clauses in Singapore commercial contracts allocat
 
 > **The Answer in 60 Seconds**
 >
-> Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair performance. Singapore commercial law does not recognise force majeure as automatic doctrine — force majeure operates only as expressly contracted. Standard commercial scope around force majeure clauses includes triggering event scope (typical events: natural disasters, war, terrorism, government action, pandemic, strikes, operational other events), causation requirements (event must "prevent" or "substantially impair" performance), notification requirements, mitigation obligations, suspension vs termination framework, and framework for payment obligations during force majeure period. Operational considerations matters substantially — Singapore courts apply strict construction to force majeure clauses, requiring close examination of clause wording. The COVID-19 pandemic substantially developed Singapore commercial common law around force majeure and frustration scope.
+> Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair performance. Singapore commercial law does not recognise force majeure as automatic doctrine - force majeure operates only as expressly contracted. Standard commercial scope around force majeure clauses includes triggering event scope (typical events: natural disasters, war, terrorism, government action, pandemic, strikes, operational other events), causation requirements (event must "prevent" or "substantially impair" performance), notification requirements, mitigation obligations, suspension vs termination framework, and framework for payment obligations during force majeure period. Operational considerations matters substantially - Singapore courts apply strict construction to force majeure clauses, requiring close examination of clause wording. The COVID-19 pandemic substantially developed Singapore commercial common law around force majeure and frustration scope.
 
 ### The Sourced Detail
 
@@ -30,7 +30,7 @@ Force majeure clauses operate as commercial scope mechanism in Singapore commerc
 
 Singapore commercial law does not recognise force majeure as automatic doctrine. The framework operates substantively differently from civil law jurisdictions where force majeure operates as automatic doctrine.
 
-**Force majeure clause requirement** — for force majeure to operate, parties must expressly contract for force majeure framework. In absence of express clause, Singapore commercial law recognises only narrow doctrine of frustration (per [Frustrated Contracts Act 1959](https://sso.agc.gov.sg/Act/FCA1959) framework).
+**Force majeure clause requirement** - for force majeure to operate, parties must expressly contract for force majeure framework. In absence of express clause, Singapore commercial law recognises only narrow doctrine of frustration (per [Frustrated Contracts Act 1959](https://sso.agc.gov.sg/Act/FCA1959) framework).
 
 **Frustration vs force majeure:** frustration operates where supervening event renders contract substantially different from what was agreed; force majeure operates more flexibly within contractual scope.
 
@@ -40,7 +40,7 @@ Singapore commercial law does not recognise force majeure as automatic doctrine.
 
 Standard force majeure clauses include several structural elements:
 
-**Triggering event scope** — considerations on defining qualifying events. Typical commercial conventions include:
+**Triggering event scope** - considerations on defining qualifying events. Typical commercial conventions include:
 
 - Acts of God / natural disasters (earthquake, flood, hurricane, operational other natural events)
 - Acts of war / terrorism / civil disorder
@@ -50,20 +50,20 @@ Standard force majeure clauses include several structural elements:
 - Cyber incident / operational other technology disruption
 - Specific catch-all language ("any other event beyond reasonable control")
 
-**Causation requirement** — considerations on causation language. Typical conventions:
+**Causation requirement** - considerations on causation language. Typical conventions:
 
-- "Prevents" performance — strict standard, requires substantively complete prevention
-- "Hinders" performance — more flexible standard
-- "Delays" performance — limited to delay scope
-- "Materially / substantially affects" — flexible standard
+- "Prevents" performance - strict standard, requires substantively complete prevention
+- "Hinders" performance - more flexible standard
+- "Delays" performance - limited to delay scope
+- "Materially / substantially affects" - flexible standard
 
 Considerations on causation language matters substantially.
 
-**Notification requirement** — framework for notification obligation when force majeure event occurs. Typical conventions: notice within specified period (commonly 7-30 days), operational scope details.
+**Notification requirement** - framework for notification obligation when force majeure event occurs. Typical conventions: notice within specified period (commonly 7-30 days), operational scope details.
 
-**Mitigation obligation** — framework for obligation to mitigate force majeure impact.
+**Mitigation obligation** - framework for obligation to mitigate force majeure impact.
 
-**Suspension vs termination framework** — framework for remedies. Typical conventions:
+**Suspension vs termination framework** - framework for remedies. Typical conventions:
 
 - Initial suspension of obligations during force majeure period
 - Termination right after specified prolonged period (commonly 60-180 days)
@@ -81,25 +81,25 @@ The COVID-19 pandemic period substantially developed Singapore commercial common
 
 #### The causation analysis framework
 
-**"Prevents" performance** — substantively strict standard. Considerations on what constitutes prevention. Mere hardship typically insufficient; substantively complete prevention required.
+**"Prevents" performance** - substantively strict standard. Considerations on what constitutes prevention. Mere hardship typically insufficient; substantively complete prevention required.
 
-**"Hinders" performance** — more flexible standard. Considerations on hindrance scope.
+**"Hinders" performance** - more flexible standard. Considerations on hindrance scope.
 
-**"Delays" performance** — limited scope. Considerations on delay scope.
+**"Delays" performance** - limited scope. Considerations on delay scope.
 
 #### The remedies framework
 
-**Suspension of obligations** — considerations on what obligations are suspended. Typical scope includes performance obligations; payment obligations may or may not be suspended depending on specific drafting.
+**Suspension of obligations** - considerations on what obligations are suspended. Typical scope includes performance obligations; payment obligations may or may not be suspended depending on specific drafting.
 
-**Termination right** — considerations on when termination right arises. Typical scope: after specified prolonged period.
+**Termination right** - considerations on when termination right arises. Typical scope: after specified prolonged period.
 
 #### The insurance integration framework
 
 Force majeure clauses integrate with insurance procurement substantively. Operational scope considerations:
 
-**BI cover scope** — considerations on whether BI cover responds to force majeure scenarios. Standard BI cover requires physical damage trigger; specific Non-Damage Business Interruption (NDBI) cover addresses specific scenarios beyond physical damage trigger.
+**BI cover scope** - considerations on whether BI cover responds to force majeure scenarios. Standard BI cover requires physical damage trigger; specific Non-Damage Business Interruption (NDBI) cover addresses specific scenarios beyond physical damage trigger.
 
-**Contingent BI cover** — considerations on supplier failure scope.
+**Contingent BI cover** - considerations on supplier failure scope.
 
 #### Commercial scenarios
 
@@ -109,7 +109,7 @@ Commercial scenarios under force majeure framework include:
 
 For commercial scope around force majeure clauses, operational considerations includes several elements.
 
-**Commercial counsel engagement** — commercial relationships for framework for drafting and negotiation.
+**Commercial counsel engagement** - commercial relationships for framework for drafting and negotiation.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -128,7 +128,7 @@ For commercial scope around force majeure clauses, operational considerations in
 
 For Singapore SMEs in commercial scope:
 
-Force majeure clauses operate only as expressly contracted in Singapore — there is no automatic force majeure doctrine. Considerations on triggering event scope, causation language, remedies framework, and insurance integration matters substantially. The COVID-19 pandemic substantially developed Singapore commercial common law around force majeure scope; considerations on pandemic-era developments matters.
+Force majeure clauses operate only as expressly contracted in Singapore - there is no automatic force majeure doctrine. Considerations on triggering event scope, causation language, remedies framework, and insurance integration matters substantially. The COVID-19 pandemic substantially developed Singapore commercial common law around force majeure scope; considerations on pandemic-era developments matters.
 
 For substantive operations, considerations on force majeure clauses, commercial counsel engagement where applicable, and considerations on insurance integration form the operational foundation.
 

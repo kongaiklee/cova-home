@@ -20,7 +20,7 @@ og_description: "Art galleries, auction houses, and fine art dealers in Singapor
 
 > **The Answer in 60 Seconds**
 >
-> Art galleries, auction houses, and fine art dealers in Singapore operate within a distinctive commercial framework where the foundational insurance is Fine Art / Specie cover (specific specialty cover beyond standard Property/Fire scope), Bailee liability for consigned works, Transit cover for art movements, and framework for exhibitions and operational scope. Singapore's positioning as a Southeast Asian art market hub (notable through ART SG, other gallery and auction operations) creates substantial commercial scope. Foundational regulatory framework is lighter than other specialty segments — but considerations on authentication, provenance, customs (specific [Singapore Customs](https://www.customs.gov.sg/) framework), and commercial conventions matters substantially. Specific freeport operations (Le Freeport at Changi) operate under commercial conventions.
+> Art galleries, auction houses, and fine art dealers in Singapore operate within a distinctive commercial framework where the foundational insurance is Fine Art / Specie cover (specific specialty cover beyond standard Property/Fire scope), Bailee liability for consigned works, Transit cover for art movements, and framework for exhibitions and operational scope. Singapore's positioning as a Southeast Asian art market hub (notable through ART SG, other gallery and auction operations) creates substantial commercial scope. Foundational regulatory framework is lighter than other specialty segments - but considerations on authentication, provenance, customs (specific [Singapore Customs](https://www.customs.gov.sg/) framework), and commercial conventions matters substantially. Specific freeport operations (Le Freeport at Changi) operate under commercial conventions.
 
 ### The Sourced Detail
 
@@ -38,7 +38,7 @@ Specific high-value scope drives operational discipline. Individual works of sub
 
 Fine Art / Specie cover is the foundational specialty cover that distinguishes art market operations from generic commercial scope.
 
-Fine Art / Specie cover provides specific provisions for fine art including specific All Risks scope (broader than standard Property/Fire — addresses specific scope including handling damage, accidental damage, transit scope), specific agreed value provisions (where insurance value is established at procurement rather than at claim — eliminating valuation disputes), operational market value or replacement scope considerations, and operational considerations around scope.
+Fine Art / Specie cover provides specific provisions for fine art including specific All Risks scope (broader than standard Property/Fire - addresses specific scope including handling damage, accidental damage, transit scope), specific agreed value provisions (where insurance value is established at procurement rather than at claim - eliminating valuation disputes), operational market value or replacement scope considerations, and operational considerations around scope.
 
 Specific scope considerations include specific agreed value vs market value vs replacement value choice (affecting commercial scope substantially), operational operational scope (premises only vs worldwide vs operational operational scope), operational transit scope, and operational exhibition scope.
 
@@ -46,7 +46,7 @@ For SMEs in the segment, Fine Art / Specie cover from specialist markets (Hiscox
 
 #### The Bailee liability framework
 
-Bailee liability addresses the specific exposure where art galleries / auction houses / dealers hold consigned works. Standard Public Liability typically excludes liability for property in custody — and consigned art is fundamentally property in custody.
+Bailee liability addresses the specific exposure where art galleries / auction houses / dealers hold consigned works. Standard Public Liability typically excludes liability for property in custody - and consigned art is fundamentally property in custody.
 
 Specific Bailee liability cover provides specific scope for consigned works. Operational scope, operational operational scope, operational commercial relationships with consignors all matter.
 
@@ -78,19 +78,19 @@ For specific cross-border commercial scope, operational considerations matters s
 
 For Singapore art market SMEs, foundational cover stack includes several elements.
 
-Fine Art / Specie cover as foundational specialty cover. Specific limits reflecting commercial scope (substantive operations typically procure substantial limits — operational scope across exhibitions, consignments, owned inventory).
+Fine Art / Specie cover as foundational specialty cover. Specific limits reflecting commercial scope (substantive operations typically procure substantial limits - operational scope across exhibitions, consignments, owned inventory).
 
 Bailee liability cover for consigned works. Considerations on limits, operational operational scope.
 
 Transit cover for art movement. Operational scope, operational commercial relationships with specialist transit providers.
 
-Public Liability cover with limits reflecting premises and operational scope — substantive premises traffic during exhibitions and openings, operational scope.
+Public Liability cover with limits reflecting premises and operational scope - substantive premises traffic during exhibitions and openings, operational scope.
 
 Professional Indemnity cover where applicable for advisory and authentication scope.
 
 Property/Fire cover with specific premises provisions (operational climate control, operational security, operational operational considerations).
 
-Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies — climate control critical for art preservation.
+Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies - climate control critical for art preservation.
 
 BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption.
 

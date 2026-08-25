@@ -20,7 +20,7 @@ og_description: "The Singapore SME's critical IT vendor or SaaS provider has une
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME's critical IT vendor or SaaS provider has unexpectedly become unavailable: Singapore insolvency under [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018), foreign insolvency (US Chapter 11, UK administration), acquisition with service termination, sudden service shutdown, or hostile lockout. The SME's operations, customer data, and compliance posture are dependent on the vendor. IRDA section 440 ipso facto stay applies for Singapore-domiciled vendors and post-30 July 2020 contracts: the vendor's contract continues by force of law. For foreign vendors, the IRDA Third Schedule [UNCITRAL Model Law on Cross-Border Insolvency](https://sso.agc.gov.sg/Act/IRDA2018) governs recognition of foreign proceedings; *Re Zetta Jet Pte Ltd* and subsequent Singapore decisions establish the framework. [PDPA 2012](https://sso.agc.gov.sg/Act/PDPA2012) sections 22, 24, 25, and 26 continue to apply: the SME's correction, protection, retention, and transfer obligations cannot be discharged through vendor failure. The [Sale of Goods Act 1979](https://sso.agc.gov.sg/Act/SGA1979) sections 41 and 44 apply where physical hardware is involved. [MAS Notice 658 on Outsourcing](https://www.mas.gov.sg/regulation/notices/notice-658) applies if the SME is a regulated FI. Insurance triggers: Cyber Business Interruption — coverage turns on the policy's "system failure" extension and "third-party computer system" extension; Contingent Business Interruption — IT vendor as named or unnamed supplier; Tech E&O if SME provides services dependent on the vendor; D&O for director oversight. Day-One workflow: confirm vendor status; trigger data-escrow agreement if any; export all data via emergency API while access remains; activate disaster-recovery / business-continuity plan; notify Cyber and BI insurers; engage legal counsel for IRDA section 440 and Model Law strategy.
+> The Singapore SME's critical IT vendor or SaaS provider has unexpectedly become unavailable: Singapore insolvency under [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018), foreign insolvency (US Chapter 11, UK administration), acquisition with service termination, sudden service shutdown, or hostile lockout. The SME's operations, customer data, and compliance posture are dependent on the vendor. IRDA section 440 ipso facto stay applies for Singapore-domiciled vendors and post-30 July 2020 contracts: the vendor's contract continues by force of law. For foreign vendors, the IRDA Third Schedule [UNCITRAL Model Law on Cross-Border Insolvency](https://sso.agc.gov.sg/Act/IRDA2018) governs recognition of foreign proceedings; *Re Zetta Jet Pte Ltd* and subsequent Singapore decisions establish the framework. [PDPA 2012](https://sso.agc.gov.sg/Act/PDPA2012) sections 22, 24, 25, and 26 continue to apply: the SME's correction, protection, retention, and transfer obligations cannot be discharged through vendor failure. The [Sale of Goods Act 1979](https://sso.agc.gov.sg/Act/SGA1979) sections 41 and 44 apply where physical hardware is involved. [MAS Notice 658 on Outsourcing](https://www.mas.gov.sg/regulation/notices/notice-658) applies if the SME is a regulated FI. Insurance triggers: Cyber Business Interruption - coverage turns on the policy's "system failure" extension and "third-party computer system" extension; Contingent Business Interruption - IT vendor as named or unnamed supplier; Tech E&O if SME provides services dependent on the vendor; D&O for director oversight. Day-One workflow: confirm vendor status; trigger data-escrow agreement if any; export all data via emergency API while access remains; activate disaster-recovery / business-continuity plan; notify Cyber and BI insurers; engage legal counsel for IRDA section 440 and Model Law strategy.
 
 ### The Sourced Detail
 
@@ -51,7 +51,7 @@ The procedural shape:
 
 **IRDA 2018 section 440.** Available on [SSO](https://sso.agc.gov.sg/Act/IRDA2018). The ipso facto stay (see [Article 261](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management) and [Article 292](/crisis/key-supplier-insolvency-contingent-bi-trigger)) operates in favour of the SME where the Singapore-domiciled vendor enters IRDA proceedings. The contract continues by force of law; the vendor (through its insolvency practitioner) cannot terminate by reason only of insolvency. Subject to regulation 3 transitional savings (contracts post-30 July 2020 only) and section 440(5) eligible-financial-contract carve-outs.
 
-**IRDA Third Schedule — UNCITRAL Model Law on Cross-Border Insolvency.** Available on [SSO](https://sso.agc.gov.sg/Act/IRDA2018). Adopted by Singapore via the IRDA. The Model Law provides for recognition of foreign main proceedings and foreign non-main proceedings, with corresponding reliefs, and cooperation between foreign and Singapore courts.
+**IRDA Third Schedule - UNCITRAL Model Law on Cross-Border Insolvency.** Available on [SSO](https://sso.agc.gov.sg/Act/IRDA2018). Adopted by Singapore via the IRDA. The Model Law provides for recognition of foreign main proceedings and foreign non-main proceedings, with corresponding reliefs, and cooperation between foreign and Singapore courts.
 
 For foreign vendor insolvency:
 - The foreign insolvency practitioner can apply for recognition in Singapore.
@@ -63,13 +63,13 @@ For foreign vendor insolvency:
 
 **PDPA 2012.** Available on [SSO](https://sso.agc.gov.sg/Act/PDPA2012). Continues to apply to the SME's personal data regardless of vendor status.
 
-**Section 22 — Correction Obligation.** On an individual's request, the organisation must correct an error or omission in the personal data; this obligation is unaffected by vendor status.
+**Section 22 - Correction Obligation.** On an individual's request, the organisation must correct an error or omission in the personal data; this obligation is unaffected by vendor status.
 
-**Section 24 — Protection Obligation.** The SME's obligation continues; vendor failure does not discharge it.
+**Section 24 - Protection Obligation.** The SME's obligation continues; vendor failure does not discharge it.
 
-**Section 25 — Retention Obligation.** The SME must cease retention when purpose no longer served; data must be returned or securely disposed.
+**Section 25 - Retention Obligation.** The SME must cease retention when purpose no longer served; data must be returned or securely disposed.
 
-**Section 26 — Transfer Limitation Obligation.** Cross-border transfer rules apply if data must be transferred to alternative vendor in different jurisdiction.
+**Section 26 - Transfer Limitation Obligation.** Cross-border transfer rules apply if data must be transferred to alternative vendor in different jurisdiction.
 
 **Sale of Goods Act 1979.** Available on [SSO](https://sso.agc.gov.sg/Act/SGA1979). Section 41 unpaid-seller's lien; section 44 stoppage in transit. Where physical hardware is involved (typically less common for cloud SaaS but possible for on-premise equipment or co-located servers), these provisions apply.
 
@@ -79,7 +79,7 @@ For foreign vendor insolvency:
 
 #### Insurance triggers
 
-**Cyber Liability — Business Interruption.** The principal responsive line for SaaS-dependent SMEs.
+**Cyber Liability - Business Interruption.** The principal responsive line for SaaS-dependent SMEs.
 
 The cover architecture in Singapore market wordings (AIG, Chubb, Liberty, Tokio Marine, Beazley, Allianz, MSIG, Sompo):
 
@@ -202,11 +202,11 @@ For directors, section 157 Companies Act duty applies to vendor concentration an
 
 ### Related Information
 
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 270 — Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
-- [Article 292 — Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
-- [Article 299 — Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow](/crisis/vendor-data-breach-affecting-your-customers)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 261 - IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 270 - Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Article 292 - Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
+- [Article 299 - Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow](/crisis/vendor-data-breach-affecting-your-customers)
+- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 
 ---

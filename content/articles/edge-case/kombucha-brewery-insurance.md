@@ -24,7 +24,7 @@ og_description: "A Singapore kombucha brewery sits at the intersection of food p
 
 ### The Sourced Detail
 
-Kombucha brewing — fermented tea, typically 0.5–3% alcohol depending on fermentation duration and method — has grown into a small but established Singapore beverage category. The insurance build is more complex than for a typical café because it involves food production, equipment-intensive operations, distribution to multiple channels, and potentially alcohol regulation. SMEs operating in this space often inherit insurance products designed for cafés or general F&B that don't fit the production-and-distribution model.
+Kombucha brewing - fermented tea, typically 0.5-3% alcohol depending on fermentation duration and method - has grown into a small but established Singapore beverage category. The insurance build is more complex than for a typical café because it involves food production, equipment-intensive operations, distribution to multiple channels, and potentially alcohol regulation. SMEs operating in this space often inherit insurance products designed for cafés or general F&B that don't fit the production-and-distribution model.
 
 #### The licensing baseline
 
@@ -56,30 +56,30 @@ Discharge of fermentation waste, used SCOBY (symbiotic culture of bacteria and y
 
 #### The food-specific insurance considerations
 
-**5. Public Liability and Product Liability — with food contamination focus**
+**5. Public Liability and Product Liability - with food contamination focus**
 
 Standard PL/Product Liability is essential, but for fermented beverages, several specifics matter:
 
-- **Food contamination cover.** Standard Product Liability responds to harm caused by a contaminated product — bacterial contamination, glass shards, foreign objects. Sub-limits vary; ensure the limit is adequate for a multi-customer batch contamination scenario.
+- **Food contamination cover.** Standard Product Liability responds to harm caused by a contaminated product - bacterial contamination, glass shards, foreign objects. Sub-limits vary; ensure the limit is adequate for a multi-customer batch contamination scenario.
 
 - **Allergen mislabelling.** Kombucha may contain allergens (sulphites, certain ingredients in flavoured variants). Mislabelling causing allergic reaction is a Product Liability claim.
 
 - **Yeast/bacterial overgrowth.** Improperly fermented batches with yeast or bacteria levels above safe thresholds can cause illness. Product Liability typically responds; defence costs for traceability and root-cause analysis matter.
 
-- **Product Recall.** This is often the biggest gap in standard food-business insurance. A contamination incident affecting one batch may require recall of all distributed product — costs include notification, return logistics, refunds, replacement, disposal, communications. **Product Recall is typically a separate cover** from Product Liability and is often missing entirely from standard SME packages.
+- **Product Recall.** This is often the biggest gap in standard food-business insurance. A contamination incident affecting one batch may require recall of all distributed product - costs include notification, return logistics, refunds, replacement, disposal, communications. **Product Recall is typically a separate cover** from Product Liability and is often missing entirely from standard SME packages.
 
-For a kombucha brewery distributing to dozens of café and retail customers, Product Recall cover is increasingly considered standard. Limits typically S$100,000–S$500,000 for SME operations.
+For a kombucha brewery distributing to dozens of café and retail customers, Product Recall cover is increasingly considered standard. Limits typically S$100,000-S$500,000 for SME operations.
 
 **6. Property/Fire/Equipment**
 
 Production premises insurance considerations:
 
-- **Fermentation tanks** (typically stainless steel, S$5,000–S$50,000 each)
-- **Bottling/canning lines** (S$50,000–S$500,000+ for automated lines)
+- **Fermentation tanks** (typically stainless steel, S$5,000-S$50,000 each)
+- **Bottling/canning lines** (S$50,000-S$500,000+ for automated lines)
 - **Refrigeration** (storage and product-cold-chain)
 - **Pasteurisation equipment** (if used)
 - **CO2 systems** (carbonation)
-- **Stock** — raw ingredients (tea, sugar, fruit, SCOBY), work-in-progress, finished goods
+- **Stock** - raw ingredients (tea, sugar, fruit, SCOBY), work-in-progress, finished goods
 
 Sums insured at reinstatement value, with attention to the specialised equipment that may require import to replace.
 
@@ -90,11 +90,11 @@ Fermentation tanks, pasteurisation, refrigeration, and bottling equipment are su
 - Resulting damage to other property
 - Spoilage of stock from refrigeration failure (often a separate sub-limit)
 
-For a kombucha brewery with a refrigerated finished-goods inventory of S$30,000–S$100,000, refrigeration breakdown is a meaningful exposure.
+For a kombucha brewery with a refrigerated finished-goods inventory of S$30,000-S$100,000, refrigeration breakdown is a meaningful exposure.
 
 **8. Goods in Transit**
 
-Distribution to retail and F&B customers — typically by van or third-party logistics — exposes goods to transit risk:
+Distribution to retail and F&B customers - typically by van or third-party logistics - exposes goods to transit risk:
 - Vehicle accidents
 - Theft from vehicles
 - Refrigeration failure during transit (cold-chain breaks)
@@ -109,7 +109,7 @@ Production businesses face concentrated exposure to single-point failures:
 - Contamination event requiring full sanitisation halts production
 - Key supplier failure (specific tea, specific SCOBY supplier) disrupts production
 
-BI cover responds to lost gross profit during indemnity period. **Contingent Business Interruption (CBI)** extends to losses caused by failure of named suppliers or customers — relevant if the brewery depends on specific raw material suppliers or has concentrated revenue with specific anchor customers.
+BI cover responds to lost gross profit during indemnity period. **Contingent Business Interruption (CBI)** extends to losses caused by failure of named suppliers or customers - relevant if the brewery depends on specific raw material suppliers or has concentrated revenue with specific anchor customers.
 
 #### Operational risk specifics
 
@@ -121,7 +121,7 @@ Production staff (brewers, bottlers, packers, cleaners, drivers) are predominant
 - Lifting injuries from heavy keg/case handling
 - Chemical exposure (cleaning agents)
 
-For a brewery of 5–15 production staff, WICA premium with appropriate hazard rating is typically a meaningful component of the insurance budget.
+For a brewery of 5-15 production staff, WICA premium with appropriate hazard rating is typically a meaningful component of the insurance budget.
 
 **11. Cyber**
 
@@ -131,7 +131,7 @@ For breweries running:
 - Customer database with subscriber data
 - Wholesale customer ordering systems
 
-Cyber Liability covers the standard breach response stack — see [Article 72](/comparison/cyber-standalone-vs-par-sublimit). Limits S$1M–S$3M typical for SME-scale operations.
+Cyber Liability covers the standard breach response stack - see [Article 72](/comparison/cyber-standalone-vs-par-sublimit). Limits S$1M-S$3M typical for SME-scale operations.
 
 **12. Group Medical and Group PA**
 
@@ -146,30 +146,30 @@ Production environments have higher injury frequency than office work. GPA in pa
 
 **F&B customers (cafés, restaurants)**
 - PL/Product Liability typically sufficient
-- Some larger café chains may require specific limits (S$3M–S$5M)
+- Some larger café chains may require specific limits (S$3M-S$5M)
 
 **Direct-to-consumer (e-commerce, farmers' markets)**
 - Cyber for the e-commerce platform
 - Personal Liability for any tasting events or pop-up activities
 
 **Export (regional or international)**
-- Marine Cargo cover for international shipments — typically ICC A or ICC B for finished goods (see [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim))
-- Product Liability with appropriate territorial extension — particularly USA/Canada if exporting there
+- Marine Cargo cover for international shipments - typically ICC A or ICC B for finished goods (see [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim))
+- Product Liability with appropriate territorial extension - particularly USA/Canada if exporting there
 - Currency exchange and trade credit considerations
 
 #### Premium budget
 
-For a typical small Singapore kombucha brewery with 5–10 staff, S$30,000–S$60,000 monthly revenue, brewery footprint of 100–300 sqm:
+For a typical small Singapore kombucha brewery with 5-10 staff, S$30,000-S$60,000 monthly revenue, brewery footprint of 100-300 sqm:
 
-- **Total annual insurance budget** typically S$10,000–S$25,000
+- **Total annual insurance budget** typically S$10,000-S$25,000
 
 Allocated approximately:
 - WICA: 15%
-- PL/Product Liability/Recall: 25–30%
-- Property/Fire/Equipment Breakdown/BI: 35–40%
-- Goods in Transit, Money, Glass: 5–10%
-- Group Medical/PA: 10–15%
-- Cyber: 5–10%
+- PL/Product Liability/Recall: 25-30%
+- Property/Fire/Equipment Breakdown/BI: 35-40%
+- Goods in Transit, Money, Glass: 5-10%
+- Group Medical/PA: 10-15%
+- Cyber: 5-10%
 
 For brewers selling alcohol-content products or exporting, premiums scale materially upward.
 
@@ -186,7 +186,7 @@ For brewers selling alcohol-content products or exporting, premiums scale materi
 
 ### What This Means for Your Business
 
-For Singapore kombucha brewers (and other small-batch fermented beverage producers — kefir, jun tea, fermented juices), the insurance build should reflect the production-and-distribution model rather than a retail F&B template. The discipline:
+For Singapore kombucha brewers (and other small-batch fermented beverage producers - kefir, jun tea, fermented juices), the insurance build should reflect the production-and-distribution model rather than a retail F&B template. The discipline:
 
 1. **Engage a broker familiar with food manufacturing** , not just F&B retail. The exposures are different and the wordings should match.
 
@@ -194,13 +194,13 @@ For Singapore kombucha brewers (and other small-batch fermented beverage produce
 
 3. **Inventory equipment carefully.** Each tank, line, and refrigeration unit deserves a specific value and consideration of breakdown vs fire.
 
-4. **Map distribution channels.** Direct-to-consumer, retail, F&B, export — each has different requirements.
+4. **Map distribution channels.** Direct-to-consumer, retail, F&B, export - each has different requirements.
 
 5. **Coordinate with SFA licensing.** Licence conditions affect insurance underwriting; non-compliance affects cover.
 
 6. **Plan for scale.** A brewery growing from 1,000 to 10,000 bottles per month doubles or triples the insurance exposure. Annual reviews matter more than for slower-changing businesses.
 
-The insurance for a small Singapore kombucha brewery is materially more complex than for a café — but it is also materially necessary in a way café insurance often isn't. A single contamination event without Product Recall cover can end the business. Getting this right at startup is worth the effort.
+The insurance for a small Singapore kombucha brewery is materially more complex than for a café - but it is also materially necessary in a way café insurance often isn't. A single contamination event without Product Recall cover can end the business. Getting this right at startup is worth the effort.
 
 ### Questions to Ask Your Adviser
 
@@ -219,4 +219,4 @@ The insurance for a small Singapore kombucha brewery is materially more complex 
 
 ---
 
-Articles 80–82 launch the Crisis Claim Experience category — high-emotion, high-search queries that arrive at peak stress moments: a worker fatality, a ransomware incident, and a customer lawsuit. These are written as response sequences, not theoretical analyses. Articles 83–85 expand the Decision Tree Checklists with three high-volume opening-business categories: yoga studio (specialised liability profile), salon (six service tiers from basic hair to medi-spa), and SaaS startup (the most complex Decision Tree yet, mapping insurance build to fundraising stages). Articles 86–88 launch the Cross-Border category with three of the most-searched cross-border queries: Singapore SME with Malaysian branch (SOCSO/EIS interaction with WICA), Singapore SaaS selling to US customers (USA/Canada extension and US enterprise MSA requirements), and Singapore SME hiring Filipino remote workers (contractor / EOR / subsidiary structural choice). Article 89 continues the Edge Case category with dog daycare and boarding — a pet care category where standard SME PL is structurally inadequate and specialty cover is required.
+Articles 80-82 launch the Crisis Claim Experience category - high-emotion, high-search queries that arrive at peak stress moments: a worker fatality, a ransomware incident, and a customer lawsuit. These are written as response sequences, not theoretical analyses. Articles 83-85 expand the Decision Tree Checklists with three high-volume opening-business categories: yoga studio (specialised liability profile), salon (six service tiers from basic hair to medi-spa), and SaaS startup (the most complex Decision Tree yet, mapping insurance build to fundraising stages). Articles 86-88 launch the Cross-Border category with three of the most-searched cross-border queries: Singapore SME with Malaysian branch (SOCSO/EIS interaction with WICA), Singapore SaaS selling to US customers (USA/Canada extension and US enterprise MSA requirements), and Singapore SME hiring Filipino remote workers (contractor / EOR / subsidiary structural choice). Article 89 continues the Edge Case category with dog daycare and boarding - a pet care category where standard SME PL is structurally inadequate and specialty cover is required.

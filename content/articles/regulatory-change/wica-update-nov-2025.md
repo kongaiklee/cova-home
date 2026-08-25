@@ -25,7 +25,7 @@ og_description: "From 1 November 2025, the maximum compensation limits under the
 
 ## The Sourced Detail
 
-WICA is Singapore's no-fault compensation framework for work injuries and occupational diseases. Under WICA, an injured employee — local or foreign, regardless of salary — does not need to prove fault to claim compensation. In return, payouts are capped by formula. Those caps are reviewed periodically. The 2025 update is the first since [1 January 2020](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation).
+WICA is Singapore's no-fault compensation framework for work injuries and occupational diseases. Under WICA, an injured employee - local or foreign, regardless of salary - does not need to prove fault to claim compensation. In return, payouts are capped by formula. Those caps are reviewed periodically. The 2025 update is the first since [1 January 2020](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation).
 
 ### What was actually changed
 
@@ -33,10 +33,10 @@ Per the [MOM announcement of 8 February 2024](https://www.mom.gov.sg/newsroom/pr
 
 | Compensation type | Pre-1 Nov 2025 | From 1 Nov 2025 |
 |---|---|---|
-| Death — minimum | S$76,000 | **S$91,000** |
-| Death — maximum | S$225,000 | **S$269,000** |
-| Total permanent incapacity — minimum | S$97,000 | **S$116,000** |
-| Total permanent incapacity — maximum | S$289,000 | **S$346,000** |
+| Death - minimum | S$76,000 | **S$91,000** |
+| Death - maximum | S$225,000 | **S$269,000** |
+| Total permanent incapacity - minimum | S$97,000 | **S$116,000** |
+| Total permanent incapacity - maximum | S$289,000 | **S$346,000** |
 | Medical expenses (per accident, 1 year) | S$45,000 | **S$53,000** |
 
 ### Who pays the difference
@@ -58,7 +58,7 @@ MOM's stated policy, per the [press release](https://www.mom.gov.sg/newsroom/pre
 
 ### What this means for premiums
 
-Insurers price WICA on payroll, headcount, occupation class, and claims experience. With the maximum severity claim cost rising about 19% on death/PI and 17% on medical, insurers reasonably expect higher loss costs at renewal. Per the [Allegiance Insurance Brokers commentary](https://allegiance.com.sg/understanding-the-changes-to-the-work-injury-compensation-act-from-1-nov-2025/), "employers should expect higher insurance costs regardless of claims history" — broker commentary, not an MOM forecast.
+Insurers price WICA on payroll, headcount, occupation class, and claims experience. With the maximum severity claim cost rising about 19% on death/PI and 17% on medical, insurers reasonably expect higher loss costs at renewal. Per the [Allegiance Insurance Brokers commentary](https://allegiance.com.sg/understanding-the-changes-to-the-work-injury-compensation-act-from-1-nov-2025/), "employers should expect higher insurance costs regardless of claims history" - broker commentary, not an MOM forecast.
 
 ## What This Means for Your Business
 
@@ -68,7 +68,7 @@ First, **review job declarations**. WICA premium hinges on accurate occupation c
 
 Second, **rebuild your incident playbook around the new numbers**. Internally, your finance team budgets contingency reserves; HR drafts notification templates; legal advises on common-law liability above the WICA cap. Each of those numbers needs updating.
 
-Third, **clarify your common-law exposure**. WICA caps the no-fault statutory liability. It does not cap common-law liability for negligence. An employee who can prove employer negligence may sue at common law, where damages are uncapped. Many businesses buy a separate Employer's Liability extension or standalone policy to address this. An IFA on the COVA platform can walk through the gap between statutory and common-law exposure for your specific industry.
+Third, **clarify your common-law exposure**. WICA caps the no-fault statutory liability. It does not cap common-law liability for negligence. An employee who can prove employer negligence may sue at common law, where damages are uncapped. Many businesses buy a separate Employer's Liability extension or standalone policy to address this. An IFA on the Covarage platform can walk through the gap between statutory and common-law exposure for your specific industry.
 
 ## Questions to Ask Your Adviser
 
@@ -79,9 +79,9 @@ Third, **clarify your common-law exposure**. WICA caps the no-fault statutory li
 5. Does my current insurer remain on the [MOM-designated list](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) for the renewal period?
 
 ## Related Information
-- [MOM Designated Insurer List 2026 — What's New](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [Platform Workers Act — Full Commencement 1 January 2025](/regulatory-change/pwa-jan-2025)
-- [Workplace Fairness Act 2025 — EPLI Implications](/regulatory-change/wfa-2024)
+- [MOM Designated Insurer List 2026 - What's New](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Platform Workers Act - Full Commencement 1 January 2025](/regulatory-change/pwa-jan-2025)
+- [Workplace Fairness Act 2025 - EPLI Implications](/regulatory-change/wfa-2024)
 
 ---
 

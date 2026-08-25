@@ -20,7 +20,7 @@ og_description: "D&O insurance is claims-made. Triggering events include shareho
 
 > **The Answer in 60 Seconds**
 >
-> D&O insurance is **claims-made**. Triggering events include shareholder demand letter, derivative action, regulatory investigation, criminal investigation, employment claim by director, and others. The sequence: identify the triggering event, **notify the insurer immediately** (notification windows often strict), preserve documents, engage panel counsel, do not admit liability or settle without insurer consent. D&O has three structural sides: **Side A** (direct cover for individuals when company can't indemnify), **Side B** (company reimbursement when company indemnifies), **Side C** (entity cover for securities claims). Each has different mechanics. For Singapore directors specifically, [Companies Act 1967 Section 172](https://sso.agc.gov.sg/Act/CoA1967) restricts company indemnification for liabilities arising from negligence/default/breach of duty/breach of trust — making Side A particularly important for serious claims.
+> D&O insurance is **claims-made**. Triggering events include shareholder demand letter, derivative action, regulatory investigation, criminal investigation, employment claim by director, and others. The sequence: identify the triggering event, **notify the insurer immediately** (notification windows often strict), preserve documents, engage panel counsel, do not admit liability or settle without insurer consent. D&O has three structural sides: **Side A** (direct cover for individuals when company can't indemnify), **Side B** (company reimbursement when company indemnifies), **Side C** (entity cover for securities claims). Each has different mechanics. For Singapore directors specifically, [Companies Act 1967 Section 172](https://sso.agc.gov.sg/Act/CoA1967) restricts company indemnification for liabilities arising from negligence/default/breach of duty/breach of trust - making Side A particularly important for serious claims.
 
 ### The Step-by-Step
 
@@ -52,7 +52,7 @@ D&O policies typically respond to:
 **Employment claims:**
 - By directors against the company (wrongful dismissal, breach of contract)
 - By employees against directors personally
-- Often coordinated with EPL — see [Article 71](/comparison/do-vs-pi-vs-epl)
+- Often coordinated with EPL - see [Article 71](/comparison/do-vs-pi-vs-epl)
 
 **Pre-claim circumstances:**
 - Regulatory notice that may give rise to investigation
@@ -62,7 +62,7 @@ D&O policies typically respond to:
 
 #### The three structural sides
 
-**Side A — Personal liability cover:**
+**Side A - Personal liability cover:**
 - Pays directly to the individual director when the company cannot indemnify them
 - Triggered when:
   - Company is insolvent or in financial distress
@@ -71,13 +71,13 @@ D&O policies typically respond to:
   - Acquirer refuses to indemnify legacy directors after change of control
 - Most critical cover for senior directors
 
-**Side B — Company reimbursement:**
+**Side B - Company reimbursement:**
 - Pays the company back when it has indemnified a director under its constitution or contract
 - Allows company to advance defence costs and seek recovery
 - Mechanically: company pays first, insurer reimburses
 - Limited by the company's own indemnification capacity
 
-**Side C — Entity coverage:**
+**Side C - Entity coverage:**
 - Pays the company directly for securities-related claims
 - Typically only for listed companies
 - Less common for private SMEs
@@ -85,7 +85,7 @@ D&O policies typically respond to:
 
 For SMEs, Side A and B are typical; Side C applies only to listed entities or those preparing for listing.
 
-#### Step 1 — Identify the trigger
+#### Step 1 - Identify the trigger
 
 Multiple potential triggers warrant evaluation:
 
@@ -110,12 +110,12 @@ Multiple potential triggers warrant evaluation:
 - Industry investigation that may extend to your company
 - Change of control creating legacy exposure
 
-In all cases — **error toward earlier notification**.
+In all cases - **error toward earlier notification**.
 
-#### Step 2 — Notify the insurer immediately
+#### Step 2 - Notify the insurer immediately
 
 Most D&O policies have notification windows:
-- "As soon as reasonably practicable" — most common
+- "As soon as reasonably practicable" - most common
 - 30, 60, or 90 days specified
 - For regulatory investigations, sometimes shorter (specific timelines)
 
@@ -140,7 +140,7 @@ Late notification can result in:
 - Through broker if engaged
 - Confirmed receipt with reference number
 
-#### Step 3 — Preserve and gather
+#### Step 3 - Preserve and gather
 
 **Preserve:**
 - Board and management documents related to the matter
@@ -163,7 +163,7 @@ Late notification can result in:
 - Annual reports and financial statements
 - The underlying complaint or notice
 
-#### Step 4 — Engage panel counsel
+#### Step 4 - Engage panel counsel
 
 D&O insurers typically have panel law firms with directors' liability defence experience. Major Singapore D&O insurers include AIG, Allianz, Berkshire Hathaway, Chubb, Tokio Marine, Zurich, and others.
 
@@ -193,7 +193,7 @@ D&O insurers typically have panel law firms with directors' liability defence ex
   - Specific personal exposure (criminal investigation)
   - Discuss with insurer before engaging
 
-#### Step 5 — Do not admit liability or settle
+#### Step 5 - Do not admit liability or settle
 
 Same general rule as PI:
 - No admissions of fault
@@ -207,12 +207,12 @@ Same general rule as PI:
 For listed companies, market disclosure obligations may require certain announcements. Coordinate with counsel and corporate secretary on disclosure requirements vs voluntary disclosure.
 
 **Regulatory cooperation:**
-For regulatory investigations, cooperation is typically expected and beneficial. The line between cooperation and adverse admission is sensitive — counsel guidance essential.
+For regulatory investigations, cooperation is typically expected and beneficial. The line between cooperation and adverse admission is sensitive - counsel guidance essential.
 
 **Resignation considerations:**
-A director facing claim may consider resignation. Counsel guidance important — resignation can have implications for cover, indemnification, and the substantive position.
+A director facing claim may consider resignation. Counsel guidance important - resignation can have implications for cover, indemnification, and the substantive position.
 
-#### Step 6 — Coordinate corporate response
+#### Step 6 - Coordinate corporate response
 
 D&O claims typically involve coordination across:
 - Director(s) personally
@@ -236,7 +236,7 @@ The coordination matters because:
 - Information protocols defining sharing parameters
 - Regular coordination meetings
 
-#### Step 7 — Resolution paths
+#### Step 7 - Resolution paths
 
 **No further action:**
 Many regulatory inquiries close without enforcement. Cooperative engagement often resolves at preliminary stage.
@@ -280,7 +280,7 @@ Many regulatory inquiries close without enforcement. Cooperative engagement ofte
 - Coordination with corporate secretary on disclosure
 - Outcome may be advisory, undertaking, fine, prosecution
 
-**Scenario C: Worker fatality on site — MOM investigation expanding to director personal liability under WSHA Section 48**
+**Scenario C: Worker fatality on site - MOM investigation expanding to director personal liability under WSHA Section 48**
 - D&O for governance angle
 - Coordination with WICA and PL claims
 - Personal criminal exposure for directors
@@ -298,14 +298,14 @@ Many regulatory inquiries close without enforcement. Cooperative engagement ofte
 
 #### The Section 172 issue
 
-Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision (whether in the company's constitution, a contract, or otherwise) that exempts or indemnifies an officer of the company — including a director — against liability that would otherwise attach to that officer in connection with any negligence, default, breach of duty or breach of trust in relation to the company is void.
+Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision (whether in the company's constitution, a contract, or otherwise) that exempts or indemnifies an officer of the company - including a director - against liability that would otherwise attach to that officer in connection with any negligence, default, breach of duty or breach of trust in relation to the company is void.
 
 This restricts companies from indemnifying directors for liabilities arising from these specific failings. Sections 172A and 172B set out specific carve-outs:
 - **Section 172A**: a company may purchase and maintain D&O liability insurance for its officers against liability that would otherwise attach under Section 172(2)
-- **Section 172B**: a company may indemnify its officers against liability incurred to a third party other than the company — except where the indemnity is against (i) liability to pay a fine in criminal proceedings, (ii) liability to pay a regulatory penalty for non-compliance, (iii) defence costs incurred in defending criminal proceedings where the officer is convicted, (iv) defence costs incurred in defending civil proceedings brought by the company or a related company where judgment is given against the officer, or (v) costs incurred under an unsuccessful application for relief under Section 76A(13) or Section 391
+- **Section 172B**: a company may indemnify its officers against liability incurred to a third party other than the company - except where the indemnity is against (i) liability to pay a fine in criminal proceedings, (ii) liability to pay a regulatory penalty for non-compliance, (iii) defence costs incurred in defending criminal proceedings where the officer is convicted, (iv) defence costs incurred in defending civil proceedings brought by the company or a related company where judgment is given against the officer, or (v) costs incurred under an unsuccessful application for relief under Section 76A(13) or Section 391
 - **Section 391**: separately, the court has power to grant relief from liability where the officer acted honestly, reasonably, and it is fair to excuse the officer (applies only to actions by the company against the director, not third-party actions)
 
-The practical effect: in serious matters where the director may face personal liability for one of the listed failings, the company often **cannot** indemnify — making **Side A direct cover** the operative protection.
+The practical effect: in serious matters where the director may face personal liability for one of the listed failings, the company often **cannot** indemnify - making **Side A direct cover** the operative protection.
 
 #### Run-off and tail considerations
 
@@ -317,7 +317,7 @@ For directors at:
 
 Run-off / tail cover preserves protection for matters arising from acts during the directorship but notified after departure. The 6-year limitation period under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) (with longer for some matters) drives typical tail length of 6 years or longer.
 
-For acquisition specifically, the seller's D&O run-off is typically purchased as part of the deal structure — see [Article 49](/procedural-howto/update-insurance-after-acquisition) on M&A insurance considerations.
+For acquisition specifically, the seller's D&O run-off is typically purchased as part of the deal structure - see [Article 49](/procedural-howto/update-insurance-after-acquisition) on M&A insurance considerations.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -327,13 +327,13 @@ For acquisition specifically, the seller's D&O run-off is typically purchased as
 4. **Direct settlement with claimant without insurer consent.** Voids cover.
 5. **Public statements not coordinated with counsel.** Compromises position.
 6. **Engaging own counsel without consent.** Cost not reimbursed.
-7. **At change of control — no run-off cover.** Directors uncovered for legacy claims.
+7. **At change of control - no run-off cover.** Directors uncovered for legacy claims.
 8. **Aggregate limit shared across multiple matters without management.** Limit exhaustion before resolution.
 9. **Mismatched indemnification provisions vs Section 172 reality.** False sense of company protection.
 
 ### What This Means for Your Business
 
-For Singapore directors of any company — start-up, family business, private SME, listed company — D&O is foundational personal protection. The discipline:
+For Singapore directors of any company - start-up, family business, private SME, listed company - D&O is foundational personal protection. The discipline:
 
 1. **Maintain D&O at appropriate limits.** Scaled to company complexity, regulatory exposure, and potential claim severity.
 
@@ -343,13 +343,13 @@ For Singapore directors of any company — start-up, family business, private SM
 
 4. **Build counsel relationships.** Specialist directors' liability counsel relationship before issues arise.
 
-5. **Plan for transitions.** Director departures, acquisitions, retirements — each requires run-off planning.
+5. **Plan for transitions.** Director departures, acquisitions, retirements - each requires run-off planning.
 
 6. **Coordinate with regulatory and corporate processes.** D&O is one component of broader governance and risk management.
 
-7. **At adverse events** — react with discipline; engage counsel and insurer; resist instinct to "fix it" personally.
+7. **At adverse events** - react with discipline; engage counsel and insurer; resist instinct to "fix it" personally.
 
-D&O is one of the few insurance products specifically designed to protect individuals against the institutional consequences of corporate decision-making. For directors of growing companies, raising capital, expanding regulatorily, or facing succession events — D&O strategy deserves attention proportionate to the personal exposure.
+D&O is one of the few insurance products specifically designed to protect individuals against the institutional consequences of corporate decision-making. For directors of growing companies, raising capital, expanding regulatorily, or facing succession events - D&O strategy deserves attention proportionate to the personal exposure.
 
 ### Questions to Ask Your Adviser
 

@@ -20,7 +20,7 @@ og_description: "Equestrian operators in Singapore are concentrated at a small n
 
 > **The Answer in 60 Seconds**
 >
-> Equestrian operators in Singapore are concentrated at a small number of facilities including [Singapore Polo Club](https://www.singaporepoloclub.org/), [National Equestrian Centre at Singapore Turf Club](https://www.equestrian.org.sg/), [Saddle Club](https://www.saddleclub.com.sg/), and [Bukit Timah Saddle Club](https://www.btsc.com.sg/). The activity engages [AVS (Animal & Veterinary Service) under NParks](https://www.nparks.gov.sg/avs) for animal welfare under [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965), [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) for staff, and [Public Entertainments Act 1958](https://sso.agc.gov.sg/Act/PEA1958) for any public events / shows. Insurance commercial spine: (a) **Public Liability with very high limits** — equestrian sports carry one of the highest participant injury severity profiles of any organised activity; (b) **Equine Mortality and Accident insurance** for horses (high-value animals; veterinary costs substantial), (c) **Horse-in-Custody / Livery liability** for boarded horses owned by clients, (d) **Property/Fire** for stables, indoor arena, fences, equipment, (e) **Tack and Equipment cover** (saddles, bridles can be high-value), (f) **WICA** for staff including grooms and instructors, (g) **Cyber/PDPA cover** for member data. The edge-case features that frequently get missed: **catastrophic participant injury exposure** (equestrian carries documented one of highest sport injury severity profiles), **livery / boarder horse value concentration** (some boarded horses are worth SGD 100,000+; competition horses substantially more), **third-party-owned horse liability during instruction**, **horse escape / containment failure exposure**, and **catastrophic stable fire scenarios**. Equestrian PL limits should typically be sized in the SGD 10–20 million range; standard SME limits materially inadequate.
+> Equestrian operators in Singapore are concentrated at a small number of facilities including [Singapore Polo Club](https://www.singaporepoloclub.org/), [National Equestrian Centre at Singapore Turf Club](https://www.equestrian.org.sg/), [Saddle Club](https://www.saddleclub.com.sg/), and [Bukit Timah Saddle Club](https://www.btsc.com.sg/). The activity engages [AVS (Animal & Veterinary Service) under NParks](https://www.nparks.gov.sg/avs) for animal welfare under [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965), [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) for staff, and [Public Entertainments Act 1958](https://sso.agc.gov.sg/Act/PEA1958) for any public events / shows. Insurance commercial spine: (a) **Public Liability with very high limits** - equestrian sports carry one of the highest participant injury severity profiles of any organised activity; (b) **Equine Mortality and Accident insurance** for horses (high-value animals; veterinary costs substantial), (c) **Horse-in-Custody / Livery liability** for boarded horses owned by clients, (d) **Property/Fire** for stables, indoor arena, fences, equipment, (e) **Tack and Equipment cover** (saddles, bridles can be high-value), (f) **WICA** for staff including grooms and instructors, (g) **Cyber/PDPA cover** for member data. The edge-case features that frequently get missed: **catastrophic participant injury exposure** (equestrian carries documented one of highest sport injury severity profiles), **livery / boarder horse value concentration** (some boarded horses are worth SGD 100,000+; competition horses substantially more), **third-party-owned horse liability during instruction**, **horse escape / containment failure exposure**, and **catastrophic stable fire scenarios**. Equestrian PL limits should typically be sized in the SGD 10-20 million range; standard SME limits materially inadequate.
 
 ### The Sourced Detail
 
@@ -41,55 +41,55 @@ Equestrian operations combine high-severity participant injury exposure with hig
 
 **Singapore Police Force / Land use.** Equestrian land use in Singapore is constrained by available zoned land; major facilities are at established sites with long-standing arrangements.
 
-**Equestrian sport governance.** [Equestrian Federation of Singapore (EFS)](https://www.equestrian.org.sg/) — national federation; competition rules and safety standards.
+**Equestrian sport governance.** [Equestrian Federation of Singapore (EFS)](https://www.equestrian.org.sg/) - national federation; competition rules and safety standards.
 
 #### Insurance commercial spine
 
-**Public Liability with very high limits** — the central commercial layer:
+**Public Liability with very high limits** - the central commercial layer:
 
 - Equestrian sports have one of the highest documented severity profiles in organised sport
 - Participant injury can include severe spinal injuries, traumatic brain injuries, multiple fractures
-- Recommended PL limits for commercial equestrian: SGD 10–20 million minimum
+- Recommended PL limits for commercial equestrian: SGD 10-20 million minimum
 - Underwriting often requires participant waivers (though enforceability is limited under [UCTA 1977](https://sso.agc.gov.sg/Act/UCTA1977) for negligence-based claims per [Article 323](/edge-case/indoor-playground-soft-play-insurance))
 
-**Equine Mortality and Accident Cover** — for owned horses:
+**Equine Mortality and Accident Cover** - for owned horses:
 
 - Death of horse from accident, illness, or specific perils
 - Specific cover for working/competition horses
-- Veterinary fees cover (equine vet bills can be substantial; surgery for colic, fracture, eye injury can run SGD 20,000–80,000+)
+- Veterinary fees cover (equine vet bills can be substantial; surgery for colic, fracture, eye injury can run SGD 20,000-80,000+)
 - Loss of use cover (horse survives but cannot continue intended use)
 
-**Horse-in-Custody / Livery Liability** — for boarded / liveried horses owned by clients:
+**Horse-in-Custody / Livery Liability** - for boarded / liveried horses owned by clients:
 
 - Bailee liability for horses in operator custody
 - Per-horse limit considerations for high-value boarded horses
-- Some boarded horses (competition horses, breeding stallions) can be worth SGD 100,000–500,000+
+- Some boarded horses (competition horses, breeding stallions) can be worth SGD 100,000-500,000+
 - Death / injury during boarding creates direct operator liability
 
-**Property / Fire** — covers stables (timber-framed structures with high fire-load from hay / bedding), indoor arena (often large structures), tack rooms (high-value tack), feed storage, paddock fencing, jumping equipment.
+**Property / Fire** - covers stables (timber-framed structures with high fire-load from hay / bedding), indoor arena (often large structures), tack rooms (high-value tack), feed storage, paddock fencing, jumping equipment.
 
-**Tack and Equipment Cover** — saddlery and equipment values:
-- Quality dressage / show saddles: SGD 3,000–10,000+ each
+**Tack and Equipment Cover** - saddlery and equipment values:
+- Quality dressage / show saddles: SGD 3,000-10,000+ each
 - Custom-made saddles and bridles: substantially more
 - Specialty bits, headcollars, training equipment
-- Total tack inventory at established operation can run SGD 100,000–500,000+
+- Total tack inventory at established operation can run SGD 100,000-500,000+
 
-**Specialty horse transport cover** — for trailer / horse box transport:
+**Specialty horse transport cover** - for trailer / horse box transport:
 - Animal in transit; standard motor / cargo cover may not respond to equine-specific scenarios
 - Specialty equine transit cover available
 
-**WICA** — for all employed staff: instructors, grooms, stable hands, yard managers. Equestrian work has specific WICA exposures:
+**WICA** - for all employed staff: instructors, grooms, stable hands, yard managers. Equestrian work has specific WICA exposures:
 - Kick and bite injuries
 - Crushing injuries (horse rolling on staff)
 - Falls from height (mounting / dismounting / loading)
 - Manual handling (heavy feed bags, water buckets)
 - Repetitive strain (mucking out, grooming)
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Cyber / PDPA cover** — for member data, lesson scheduling, payment systems.
+**Cyber / PDPA cover** - for member data, lesson scheduling, payment systems.
 
-**Event-specific cover** — for competitions, shows, clinics:
+**Event-specific cover** - for competitions, shows, clinics:
 - Higher per-event participant injury exposure
 - Spectator injury risk (horse out of control entering spectator area)
 - Officiating-related injury
@@ -123,10 +123,10 @@ Catastrophic injury (lifetime quantum) is materially possible from a single inci
 Boarder horses create concentrated bailee exposure:
 
 **Value range.** Boarded horses span:
-- Lesson school horses (operator-owned): SGD 5,000–30,000 each
-- Private leisure horses: SGD 15,000–60,000
-- Show / competition horses: SGD 60,000–300,000
-- Top-level competition horses: SGD 300,000–2,000,000+
+- Lesson school horses (operator-owned): SGD 5,000-30,000 each
+- Private leisure horses: SGD 15,000-60,000
+- Show / competition horses: SGD 60,000-300,000
+- Top-level competition horses: SGD 300,000-2,000,000+
 
 **Per-horse cover.** Bailee cover should accommodate single-horse loss scenarios, including for the highest-value horse on premises. Some horses may need named declaration with agreed value.
 
@@ -174,13 +174,13 @@ PL responds; specific extensions sometimes required.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **PL limits sized for retail benchmark.** SGD 1–5 million inadequate; equestrian severity exposure requires SGD 10–20 million minimum.
+1. **PL limits sized for retail benchmark.** SGD 1-5 million inadequate; equestrian severity exposure requires SGD 10-20 million minimum.
 
 2. **No equine bailee cover for liveries.** Boarder horses uncovered; single death claim on competition horse exceeds operator net worth.
 
 3. **High-value horses without agreed value.** Top horses without specific declaration; valuation disputed at claim.
 
-4. **Property cover inadequate for stable / arena replacement values.** Indoor arenas can be SGD 1–5 million construction; underdeclaration triggers co-insurance.
+4. **Property cover inadequate for stable / arena replacement values.** Indoor arenas can be SGD 1-5 million construction; underdeclaration triggers co-insurance.
 
 5. **Tack and equipment underdeclared.** Specialty tack inventory understated.
 
@@ -196,9 +196,9 @@ PL responds; specific extensions sometimes required.
 
 ### What This Means for Your Business
 
-For a typical Singapore equestrian operation — single facility, mixed school + livery + competition support:
+For a typical Singapore equestrian operation - single facility, mixed school + livery + competition support:
 
-1. **PL with high limits** (SGD 10–20 million) and equestrian-specific wording.
+1. **PL with high limits** (SGD 10-20 million) and equestrian-specific wording.
 
 2. **Equine Mortality / Accident** for owned horses.
 
@@ -218,7 +218,7 @@ For a typical Singapore equestrian operation — single facility, mixed school +
 
 10. **Documented safety protocols** including helmet enforcement, instructor qualifications, lesson supervision standards.
 
-The cost of properly structured equestrian operator insurance varies with operation: a small school facility might run SGD 30,000–80,000 annually; major facility with extensive livery and competition support substantially more. The cost of a single major incident — catastrophic participant injury, stable fire with multi-horse loss, high-value liveried horse death — typically exceeds many years of premium and may threaten operator continuity.
+The cost of properly structured equestrian operator insurance varies with operation: a small school facility might run SGD 30,000-80,000 annually; major facility with extensive livery and competition support substantially more. The cost of a single major incident - catastrophic participant injury, stable fire with multi-horse loss, high-value liveried horse death - typically exceeds many years of premium and may threaten operator continuity.
 
 ### Questions to Ask Your Adviser
 

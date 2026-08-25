@@ -31,7 +31,7 @@ The Singapore financial advisory and insurance distribution landscape includes m
 Two statutes frame insurance distribution in Singapore:
 
 - The **[Financial Advisers Act 2001 (FAA)](https://sso.agc.gov.sg/Act/FAA2001)** governs financial advisory activities, including the advising and arranging of insurance, through a set of licensing categories and consumer-protection provisions.
-- The **[Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966)** governs the insurance industry — both insurers and insurance intermediaries, including registered insurance brokers.
+- The **[Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966)** governs the insurance industry - both insurers and insurance intermediaries, including registered insurance brokers.
 
 Under the FAA, MAS issues a series of **[Notices](https://www.mas.gov.sg/regulation/notices)** (FAA-N01, FAA-N02, FAA-N03, and so on) that set the detailed conduct rules.
 
@@ -45,13 +45,13 @@ Under the FAA, MAS issues a series of **[Notices](https://www.mas.gov.sg/regulat
 3. Earn an introduction fee from the licensed entity
 
 **An introducer cannot:**
-1. Provide financial advice — a regulated activity reserved for licensed FAs
+1. Provide financial advice - a regulated activity reserved for licensed FAs
 2. Recommend specific products, or rank options
 3. Conduct fact-finds or suitability assessments
 4. Hold client funds or premium
 5. Bind cover or place insurance directly
 
-An introducer must also **disclose its status as an introducer** — not an adviser — to the people it introduces. The framework exists to enable gateway and intermediation models: a party can connect SMEs to licensed advisers, and provide factual orientation, without taking on the full FAA advisory licence.
+An introducer must also **disclose its status as an introducer** - not an adviser - to the people it introduces. The framework exists to enable gateway and intermediation models: a party can connect SMEs to licensed advisers, and provide factual orientation, without taking on the full FAA advisory licence.
 
 #### The Financial Adviser framework
 
@@ -63,42 +63,42 @@ With that scope come obligations: documented fact-finds, a suitability assessmen
 
 #### The insurance broker
 
-An **insurance broker** is registered under the Insurance Act and acts **on behalf of the client** in placing insurance — in contrast to an insurance *agent*, who represents the insurer. That orientation is the defining feature: the broker's duty runs to the client. Where a broker advises on life policies, the FAA obligations apply on top. Major Singapore brokers range from global firms to local specialists.
+An **insurance broker** is registered under the Insurance Act and acts **on behalf of the client** in placing insurance - in contrast to an insurance *agent*, who represents the insurer. That orientation is the defining feature: the broker's duty runs to the client. Where a broker advises on life policies, the FAA obligations apply on top. Major Singapore brokers range from global firms to local specialists.
 
 #### The IFA distinction
 
 An **Independent Financial Adviser (IFA)** is an FA that is not tied to any single insurer, and so can advise across the market. A **tied agent**, by contrast, represents one insurer and distributes that insurer's products.
 
-#### COVA's framework
+#### Covarage's framework
 
-COVA carries on no regulated activity. COVA:
+Covarage carries on no regulated activity. Covarage:
 - Introduces SME prospects to licensed IFAs
 - Provides factual information sourced from primary regulators
 - Does **not** recommend specific products
 - Does **not** conduct fact-finds
 - Does **not** hold premium or client funds
 
-The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup, and COVA is paid an introduction fee by the licensed intermediary. The rationale is division of labour — the lighter introducer scope allows COVA to engage SMEs broadly on factual, educational terms, while the licensed IFA handles the regulated advisory activity where the full consumer protections apply.
+The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup, and Covarage is paid an introduction fee by the licensed intermediary. The rationale is division of labour - the lighter introducer scope allows Covarage to engage SMEs broadly on factual, educational terms, while the licensed IFA handles the regulated advisory activity where the full consumer protections apply.
 
 #### What it means for SMEs
 
-**Working with an introducer**, an SME should expect factual information about products and frameworks and an introduction to a licensed entity — but no product recommendation and no fact-find. The introducer must disclose that it is an introducer, not an adviser.
+**Working with an introducer**, an SME should expect factual information about products and frameworks and an introduction to a licensed entity - but no product recommendation and no fact-find. The introducer must disclose that it is an introducer, not an adviser.
 
-**Working with a licensed FA or broker**, an SME should expect a documented fact-find, a suitability assessment, and a product recommendation — with the full FAA regulatory protections, suitability obligations, and complaint-resolution routes that come with regulated advice.
+**Working with a licensed FA or broker**, an SME should expect a documented fact-find, a suitability assessment, and a product recommendation - with the full FAA regulatory protections, suitability obligations, and complaint-resolution routes that come with regulated advice.
 
 #### When each model fits
 
-The **introducer model** fits initial market education — an SME researching the insurance landscape — and gateway scenarios, such as an industry association connecting members to licensed advisers.
+The **introducer model** fits initial market education - an SME researching the insurance landscape - and gateway scenarios, such as an industry association connecting members to licensed advisers.
 
 Going **direct to a licensed FA or broker** fits where the need is already a complex or specialised placement requiring industry expertise, or where there is an established advisory relationship.
 
 #### The complementary role
 
-The introducer and the licensed IFA are not competitors — they are complementary stages. The **introducer** provides market education, factual orientation, and the gateway function; the **IFA or broker** provides the regulated advice, the fact-find and suitability assessment, and the product placement. For the SME, the result is lower friction at the point of initial engagement, with the full regulatory protections applying once regulated advice begins.
+The introducer and the licensed IFA are not competitors - they are complementary stages. The **introducer** provides market education, factual orientation, and the gateway function; the **IFA or broker** provides the regulated advice, the fact-find and suitability assessment, and the product placement. For the SME, the result is lower friction at the point of initial engagement, with the full regulatory protections applying once regulated advice begins.
 
 #### Regulatory oversight
 
-MAS regulates FAA compliance, conduct under the FAA Notices, and market conduct generally. For consumer and small-business complaints, the **[Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/)** provides a dispute-resolution route — including for eligible small businesses, which fall within FIDReC's scope.
+MAS regulates FAA compliance, conduct under the FAA Notices, and market conduct generally. For consumer and small-business complaints, the **[Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/)** provides a dispute-resolution route - including for eligible small businesses, which fall within FIDReC's scope.
 
 #### Contractual scope
 
@@ -135,7 +135,7 @@ An **introducer relationship** is documented through an introduction-fee arrange
 
 For Singapore SME founders evaluating insurance procurement:
 
-1. **Know which type of entity you are dealing with** — introducer or licensed FA / broker. It sets what to expect.
+1. **Know which type of entity you are dealing with** - introducer or licensed FA / broker. It sets what to expect.
 
 2. **The introducer model fits initial education and the gateway role.**
 
@@ -143,7 +143,7 @@ For Singapore SME founders evaluating insurance procurement:
 
 4. **Expect transparency on commission and fees.**
 
-5. **Expect suitability documentation** for any recommendation — it is also what supports a later dispute.
+5. **Expect suitability documentation** for any recommendation - it is also what supports a later dispute.
 
 6. **For a complex or industry-specific placement, use a specialist broker.**
 

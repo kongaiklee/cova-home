@@ -20,7 +20,7 @@ og_description: "The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) was pas
 
 > **The Answer in 60 Seconds**
 >
-> The [Cybersecurity (Amendment) Act 2024 (Act 19 of 2024)](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) was passed by Parliament on 7 May 2024, amending the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018). Specified provisions commenced on 31 October 2025 by Commencement Notification 2025 (published 15 October 2025). Key changes now in force: (1) virtual computers and cloud workloads explicitly within the CII definition; (2) extraterritorial designation — a computer or system located wholly outside Singapore that is owned by a person in Singapore may be designated as Provider-Owned CII (PO CII) if it would have met CII criteria had it been located in Singapore; (3) new Part 3A — Third-Party-Owned CII (3PO CII) — the Commissioner of Cybersecurity may designate an essential service provider as responsible for the cybersecurity of a CII used by it but owned by a third party; the designated provider must obtain legally binding commitments from the third-party owner covering information rights, incident notification, cybersecurity standards, and audit cooperation; designation lasts 5 years renewable; (4) expanded incident reporting — CII owners must report prescribed incidents affecting the CII, any system under the owner's control, and any supplier systems interconnected with the CII; (5) new Part 3B — Systems of Temporary Cybersecurity Concern (STCCs); (6) expanded audit and inspection powers. Pending commencement: Part 3C (Entities of Special Cybersecurity Interest, "ESCI" — autonomous universities, sensitive-research entities) and Part 3D (Major Foundational Digital Infrastructure providers, "FDI" — cloud service providers and data-centre operators). The 11 CII sectors remain unchanged: Energy, Water, Banking and Finance, Healthcare, Land Transport, Maritime, Aviation, Info-Communications, Media, Security and Emergency Services, Government.
+> The [Cybersecurity (Amendment) Act 2024 (Act 19 of 2024)](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) was passed by Parliament on 7 May 2024, amending the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018). Specified provisions commenced on 31 October 2025 by Commencement Notification 2025 (published 15 October 2025). Key changes now in force: (1) virtual computers and cloud workloads explicitly within the CII definition; (2) extraterritorial designation - a computer or system located wholly outside Singapore that is owned by a person in Singapore may be designated as Provider-Owned CII (PO CII) if it would have met CII criteria had it been located in Singapore; (3) new Part 3A - Third-Party-Owned CII (3PO CII) - the Commissioner of Cybersecurity may designate an essential service provider as responsible for the cybersecurity of a CII used by it but owned by a third party; the designated provider must obtain legally binding commitments from the third-party owner covering information rights, incident notification, cybersecurity standards, and audit cooperation; designation lasts 5 years renewable; (4) expanded incident reporting - CII owners must report prescribed incidents affecting the CII, any system under the owner's control, and any supplier systems interconnected with the CII; (5) new Part 3B - Systems of Temporary Cybersecurity Concern (STCCs); (6) expanded audit and inspection powers. Pending commencement: Part 3C (Entities of Special Cybersecurity Interest, "ESCI" - autonomous universities, sensitive-research entities) and Part 3D (Major Foundational Digital Infrastructure providers, "FDI" - cloud service providers and data-centre operators). The 11 CII sectors remain unchanged: Energy, Water, Banking and Finance, Healthcare, Land Transport, Maritime, Aviation, Info-Communications, Media, Security and Emergency Services, Government.
 
 ### The Sourced Detail
 
@@ -52,7 +52,7 @@ CII designation under section 7 requires the computer or computer system to be n
 
 **Change 2: Extraterritorial designation (PO CII).** A computer or system located wholly outside Singapore, owned by a person in Singapore, may be designated as Provider-Owned CII (PO CII) if it would have met CII criteria had it been located in Singapore. This applies to Singapore-domiciled providers operating critical infrastructure for Singapore essential services from offshore locations (e.g., regional data centres in nearby ASEAN jurisdictions).
 
-**Change 3: New Part 3A — Third-Party-Owned CII (3PO CII).** The Commissioner may designate an essential service provider (rather than the third-party owner) as responsible for the cybersecurity of a 3PO CII used by one or more essential service providers. The designated provider must obtain legally binding commitments from the third-party owner covering:
+**Change 3: New Part 3A - Third-Party-Owned CII (3PO CII).** The Commissioner may designate an essential service provider (rather than the third-party owner) as responsible for the cybersecurity of a 3PO CII used by one or more essential service providers. The designated provider must obtain legally binding commitments from the third-party owner covering:
 
 Information rights (access to system status, configuration, and incident data).
 
@@ -74,17 +74,17 @@ Any supplier system interconnected with or communicating with the CII.
 
 The expanded reporting scope brings supply-chain incidents within the CII reporting framework. A cybersecurity incident at a CII owner's cloud provider, software vendor, or managed services partner that affects the CII must be reported.
 
-**Change 5: New Part 3B — Systems of Temporary Cybersecurity Concern (STCCs).** Short-term oversight of systems elevated by temporary events. The mechanism allows the Commissioner to impose short-duration cybersecurity obligations on systems whose criticality is temporary (e.g., systems supporting a specific major event).
+**Change 5: New Part 3B - Systems of Temporary Cybersecurity Concern (STCCs).** Short-term oversight of systems elevated by temporary events. The mechanism allows the Commissioner to impose short-duration cybersecurity obligations on systems whose criticality is temporary (e.g., systems supporting a specific major event).
 
 **Change 6: Expanded audit and inspection powers.** The Commissioner may order audits and inspections under the amended Act framework.
 
 #### Pending commencement: Parts 3C and 3D
 
-**Part 3C — Entities of Special Cybersecurity Interest (ESCI).** Entities holding sensitive information or performing functions of national interest (e.g., autonomous universities, sensitive-research entities) may be designated ESCI. Substantive obligations under Part 3C will be defined at commencement. Pending commencement as at 15 May 2026.
+**Part 3C - Entities of Special Cybersecurity Interest (ESCI).** Entities holding sensitive information or performing functions of national interest (e.g., autonomous universities, sensitive-research entities) may be designated ESCI. Substantive obligations under Part 3C will be defined at commencement. Pending commencement as at 15 May 2026.
 
-**Part 3D — Major Foundational Digital Infrastructure providers (FDI).** Cloud service providers, data centre operators, and similar providers of foundational digital infrastructure for the broader Singapore digital economy. Substantive obligations under Part 3D will be defined at commencement. Pending commencement as at 15 May 2026.
+**Part 3D - Major Foundational Digital Infrastructure providers (FDI).** Cloud service providers, data centre operators, and similar providers of foundational digital infrastructure for the broader Singapore digital economy. Substantive obligations under Part 3D will be defined at commencement. Pending commencement as at 15 May 2026.
 
-#### Verbatim regulatory text — primary-source routing
+#### Verbatim regulatory text - primary-source routing
 
 The primary-source URLs:
 
@@ -92,7 +92,7 @@ The primary-source URLs:
 
 [Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) on SSO](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704).
 
-[Cybersecurity (Amendment) Act 2024 (Commencement) Notification 2025 on SSO](https://sso.agc.gov.sg) — drafter to retrieve at the time of advice.
+[Cybersecurity (Amendment) Act 2024 (Commencement) Notification 2025 on SSO](https://sso.agc.gov.sg) - drafter to retrieve at the time of advice.
 
 [CSA legislation page](https://www.csa.gov.sg/legislation/cybersecurity-act/).
 
@@ -100,29 +100,29 @@ The primary-source URLs:
 
 Drafters and SMEs should extract verbatim:
 
-**Section 7, CA 2018** (as amended) — designation of computer or computer system as CII, including the amended scope covering virtual systems and offshore systems owned by a person in Singapore.
+**Section 7, CA 2018** (as amended) - designation of computer or computer system as CII, including the amended scope covering virtual systems and offshore systems owned by a person in Singapore.
 
-**Section 8, CA 2018** — Code of Practice and Standards of Performance for CII owners.
+**Section 8, CA 2018** - Code of Practice and Standards of Performance for CII owners.
 
-**Section 10, CA 2018** — duty of CII owner to notify changes.
+**Section 10, CA 2018** - duty of CII owner to notify changes.
 
-**Section 11, CA 2018** — duty to comply with codes and standards.
+**Section 11, CA 2018** - duty to comply with codes and standards.
 
-**Section 12, CA 2018** — cybersecurity audit (at least once every two years).
+**Section 12, CA 2018** - cybersecurity audit (at least once every two years).
 
-**Section 13, CA 2018** — cybersecurity risk assessment (at least annually).
+**Section 13, CA 2018** - cybersecurity risk assessment (at least annually).
 
-**Section 14, CA 2018** (as amended) — duty to report cybersecurity incidents, with the expanded scope from 31 October 2025.
+**Section 14, CA 2018** (as amended) - duty to report cybersecurity incidents, with the expanded scope from 31 October 2025.
 
-**Section 15, CA 2018** — cybersecurity exercises (Commissioner may direct).
+**Section 15, CA 2018** - cybersecurity exercises (Commissioner may direct).
 
-**Section 16A** (new, Part 3A) — designation of designated provider responsible for 3PO CII.
+**Section 16A** (new, Part 3A) - designation of designated provider responsible for 3PO CII.
 
-**Part 3B, CA 2018** — STCCs.
+**Part 3B, CA 2018** - STCCs.
 
-**Part 3C, CA 2018** (pending) — ESCIs.
+**Part 3C, CA 2018** (pending) - ESCIs.
 
-**Part 3D, CA 2018** (pending) — Major FDI service providers.
+**Part 3D, CA 2018** (pending) - Major FDI service providers.
 
 CSA Code of Practice for Critical Information Infrastructure (current edition) at [csa.gov.sg/legislation/codes-of-practice](https://www.csa.gov.sg/legislation/codes-of-practice).
 
@@ -130,27 +130,27 @@ CSA Code of Practice for Critical Information Infrastructure (current edition) a
 
 A designated CII owner under section 7 is subject to:
 
-**Section 8 obligations** — compliance with Code of Practice and Standards of Performance issued by the Commissioner. The Code prescribes minimum cybersecurity controls (access management, encryption, patching, logging, incident response, business continuity).
+**Section 8 obligations** - compliance with Code of Practice and Standards of Performance issued by the Commissioner. The Code prescribes minimum cybersecurity controls (access management, encryption, patching, logging, incident response, business continuity).
 
-**Section 10 obligations** — notify the Commissioner of changes affecting the CII (system changes, operator changes, ownership changes).
+**Section 10 obligations** - notify the Commissioner of changes affecting the CII (system changes, operator changes, ownership changes).
 
-**Section 11 obligations** — comply with codes and standards.
+**Section 11 obligations** - comply with codes and standards.
 
-**Section 12 obligations** — undertake cybersecurity audit at least once every two years.
+**Section 12 obligations** - undertake cybersecurity audit at least once every two years.
 
-**Section 13 obligations** — undertake cybersecurity risk assessment at least annually.
+**Section 13 obligations** - undertake cybersecurity risk assessment at least annually.
 
-**Section 14 obligations** (expanded from 31 October 2025) — report prescribed cybersecurity incidents within prescribed timelines.
+**Section 14 obligations** (expanded from 31 October 2025) - report prescribed cybersecurity incidents within prescribed timelines.
 
-**Section 15 obligations** — participate in cybersecurity exercises directed by the Commissioner.
+**Section 15 obligations** - participate in cybersecurity exercises directed by the Commissioner.
 
-**Section 16A obligations** (for designated providers of 3PO CII) — obtain and police legally binding commitments from third-party owners covering information rights, incident notification, cybersecurity standards, and audit cooperation.
+**Section 16A obligations** (for designated providers of 3PO CII) - obtain and police legally binding commitments from third-party owners covering information rights, incident notification, cybersecurity standards, and audit cooperation.
 
 #### The cyber insurance interaction
 
 Singapore cyber insurance policies respond to several components of CII-related cybersecurity risk:
 
-**First-party incident response** — forensic investigation, breach coach, legal counsel, public relations, technical remediation. Most policies include a 24/7 incident hotline and a panel of pre-approved vendors.
+**First-party incident response** - forensic investigation, breach coach, legal counsel, public relations, technical remediation. Most policies include a 24/7 incident hotline and a panel of pre-approved vendors.
 
 **CSA-imposed remediation costs.** Some wordings exclude "betterment" or "regulator-mandated remediation"; SMEs designated CII or 3PO CII designated providers must specifically test the wording. Where a Code of Practice gap requires remediation imposed by CSA, the cost may be substantial and may not be covered without explicit endorsement.
 
@@ -179,8 +179,8 @@ Response workflow:
 - Day 1: cloud provider notifies MedTech F per the binding commitment under section 16A.
 - Day 1: MedTech F's incident response engaged via cyber policy 24/7 hotline.
 - Day 1 to 3: forensic assessment confirms scope.
-- Day 3: PDPA section 26D assessment under [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day) — notifiable data breach (medical information is significant-harm; 4,200 exceeds significant-scale threshold of 500). PDPC notification due within 3 calendar days of assessment.
-- Day 3: CSA notification under section 14 Cybersecurity Act — the incident affects the CII and a supplier system; the expanded scope captures both.
+- Day 3: PDPA section 26D assessment under [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day) - notifiable data breach (medical information is significant-harm; 4,200 exceeds significant-scale threshold of 500). PDPC notification due within 3 calendar days of assessment.
+- Day 3: CSA notification under section 14 Cybersecurity Act - the incident affects the CII and a supplier system; the expanded scope captures both.
 - Days 4 to 30: forensic investigation, customer notification, regulatory engagement.
 
 Insurance response:
@@ -236,11 +236,11 @@ For cyber insurance procurement, the wording should explicitly address: CSA Code
 
 ### Related Information
 
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 365 — Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 364 — Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
-- [Article 278 — Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
-- [Article 408 — How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Article 364 - Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
+- [Article 278 - Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
+- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 
 ---

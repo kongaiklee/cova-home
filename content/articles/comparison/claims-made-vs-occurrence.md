@@ -24,31 +24,31 @@ og_description: "An occurrence-based policy responds to events that occurred dur
 
 ### The Sourced Detail
 
-The trigger of an insurance policy determines *when* the policy responds — which in turn determines whether a particular loss is covered, whether you need run-off cover after policy termination, and how the insurance follows you across business changes. Getting this wrong is one of the most expensive and avoidable mistakes in SME insurance.
+The trigger of an insurance policy determines *when* the policy responds - which in turn determines whether a particular loss is covered, whether you need run-off cover after policy termination, and how the insurance follows you across business changes. Getting this wrong is one of the most expensive and avoidable mistakes in SME insurance.
 
-#### Occurrence-based policies — the simpler model
+#### Occurrence-based policies - the simpler model
 
-An occurrence-based policy responds when an *event causing loss* takes place during the policy period. The claim itself can be made at any time afterwards — even years later — and the original policy still responds (subject to the limitation period under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959), which is typically 6 years for contract and tort claims).
+An occurrence-based policy responds when an *event causing loss* takes place during the policy period. The claim itself can be made at any time afterwards - even years later - and the original policy still responds (subject to the limitation period under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959), which is typically 6 years for contract and tort claims).
 
 Examples:
-- A customer slips at your café on 15 July 2024 (during a 1 Jan 2024–31 Dec 2024 PL policy). They sue in 2026. The 2024 PL policy responds.
-- A fire destroys your warehouse on 10 March 2025 (during your 1 Jan 2025–31 Dec 2025 Fire policy). The claim is filed in March 2025. The 2025 policy responds.
+- A customer slips at your café on 15 July 2024 (during a 1 Jan 2024-31 Dec 2024 PL policy). They sue in 2026. The 2024 PL policy responds.
+- A fire destroys your warehouse on 10 March 2025 (during your 1 Jan 2025-31 Dec 2025 Fire policy). The claim is filed in March 2025. The 2025 policy responds.
 - A worker injures their back lifting cargo on 20 August 2024 (during the 2024 WICA policy). The medical claim continues into 2026. The 2024 WICA policy is the responding policy throughout.
 
 The key feature: the policy *in force at the time of the event* is the policy that pays. Subsequent renewals or insurer changes don't affect this.
 
-#### Claims-made policies — the more complex model
+#### Claims-made policies - the more complex model
 
 A claims-made policy responds when a *claim is first made against the insured and notified to the insurer* during the policy period. Two technical features make this different:
 
-1. **Retroactive date.** This is a date specified on the policy (often the original inception date with the current insurer, or earlier if continuity is purchased). Acts, errors, or omissions *before* the retroactive date are excluded — they cannot trigger cover even if the claim arrives during the current policy period.
+1. **Retroactive date.** This is a date specified on the policy (often the original inception date with the current insurer, or earlier if continuity is purchased). Acts, errors, or omissions *before* the retroactive date are excluded - they cannot trigger cover even if the claim arrives during the current policy period.
 
-2. **Extended Reporting Period (ERP) / Tail / Run-off.** When a claims-made policy is cancelled or not renewed, claims arising from acts during the policy period but *notified after expiry* would normally be uncovered. An ERP extends the notification window — typically 1, 3, 6, or 12 months as standard, with longer "tail" cover (1 year, 3 years, 6 years, indefinite) available at additional premium.
+2. **Extended Reporting Period (ERP) / Tail / Run-off.** When a claims-made policy is cancelled or not renewed, claims arising from acts during the policy period but *notified after expiry* would normally be uncovered. An ERP extends the notification window - typically 1, 3, 6, or 12 months as standard, with longer "tail" cover (1 year, 3 years, 6 years, indefinite) available at additional premium.
 
 Examples:
-- A SaaS company has a Cyber policy from 1 Jan 2024–31 Dec 2024 with retroactive date of 1 Jan 2022. A breach occurred in March 2023 (after retroactive date), discovered and notified in October 2024 (during policy period). Cover applies.
-- A consultant has a PI policy 2024–2025 with retroactive date of 1 Jan 2024. A client alleges negligence in advice given in 2022 (before retroactive date). Cover does not apply.
-- A startup's D&O is cancelled at acquisition on 30 June 2025. A shareholder sues former directors in November 2025 over actions in 2024. If no run-off cover was purchased, the claim is uncovered — the cancelled policy doesn't respond to claims notified after cancellation.
+- A SaaS company has a Cyber policy from 1 Jan 2024-31 Dec 2024 with retroactive date of 1 Jan 2022. A breach occurred in March 2023 (after retroactive date), discovered and notified in October 2024 (during policy period). Cover applies.
+- A consultant has a PI policy 2024-2025 with retroactive date of 1 Jan 2024. A client alleges negligence in advice given in 2022 (before retroactive date). Cover does not apply.
+- A startup's D&O is cancelled at acquisition on 30 June 2025. A shareholder sues former directors in November 2025 over actions in 2024. If no run-off cover was purchased, the claim is uncovered - the cancelled policy doesn't respond to claims notified after cancellation.
 
 #### Which lines use which trigger in Singapore
 
@@ -67,11 +67,11 @@ Examples:
 - Directors & Officers (D&O)
 - Cyber Liability
 - Employment Practices Liability (EPL / EPLI)
-- Crime / Fidelity Guarantee (some wordings — others use "discovery" basis)
+- Crime / Fidelity Guarantee (some wordings - others use "discovery" basis)
 - Medical Malpractice
-- Errors & Omissions (E&O) — broader than PI in some jurisdictions, similar in Singapore
+- Errors & Omissions (E&O) - broader than PI in some jurisdictions, similar in Singapore
 
-There are exceptions and hybrid forms — read the wording, not just the line.
+There are exceptions and hybrid forms - read the wording, not just the line.
 
 #### Why claims-made exists at all
 
@@ -80,7 +80,7 @@ Claims-made was developed for liability lines where:
 - The claim period needs to be defined for actuarial pricing (insurers need to know which year's premium pool pays which year's claims)
 - Class actions and serial claims are possible (a single design flaw causing claims over many years)
 
-For these "long-tail" lines, occurrence-based pricing is practically impossible — insurers cannot price a 2024 policy that may pay a claim in 2034. Claims-made compresses the exposure window and allows pricing.
+For these "long-tail" lines, occurrence-based pricing is practically impossible - insurers cannot price a 2024 policy that may pay a claim in 2034. Claims-made compresses the exposure window and allows pricing.
 
 #### The retroactive date trap
 
@@ -94,11 +94,11 @@ The single most common claims-made mistake in Singapore SME insurance is the ret
 
 #### The run-off / tail decision
 
-When a claims-made policy ends — at cancellation, non-renewal, business sale, or business closure — the question is what happens to claims arising from acts during the policy period but notified later.
+When a claims-made policy ends - at cancellation, non-renewal, business sale, or business closure - the question is what happens to claims arising from acts during the policy period but notified later.
 
 Options:
 - **Standard ERP (free or nominal).** Most claims-made policies include a 30-, 60-, or 90-day automatic ERP at no extra cost. Useful if you are simply moving to a new insurer with proper continuity.
-- **Extended ERP (paid).** Buy 1, 3, 6 years of tail at additional premium (typically 50–200% of annual premium). Used when the policy is being cancelled without replacement.
+- **Extended ERP (paid).** Buy 1, 3, 6 years of tail at additional premium (typically 50-200% of annual premium). Used when the policy is being cancelled without replacement.
 - **Indefinite run-off.** Some policies offer indefinite ERP for additional premium. Common at business closure or M&A.
 
 D&O run-off following a change of control in an M&A transaction is commonly written as a six-year tail in the Singapore market, reflecting the longest standard limitation period for shareholder and contractual claims under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959).
@@ -120,19 +120,19 @@ For SMEs holding a mix of occurrence-based and claims-made policies (which is mo
 
 2. **Track retroactive dates on every claims-made policy.** Make sure they reflect actual continuity, not inception with the current insurer.
 
-3. **At any major event — insurer switch, business sale, business closure, director change — ask the broker about claims-made continuity.** This is where the silent gaps appear.
+3. **At any major event - insurer switch, business sale, business closure, director change - ask the broker about claims-made continuity.** This is where the silent gaps appear.
 
-4. **Notify circumstances early on claims-made.** Most claims-made policies include a "circumstance notification" clause — you can notify a *circumstance that may give rise to a claim* during the policy period, and the insurer will treat any subsequent claim as falling within that policy. This is a significant protection that occurrence-based policies don't need.
+4. **Notify circumstances early on claims-made.** Most claims-made policies include a "circumstance notification" clause - you can notify a *circumstance that may give rise to a claim* during the policy period, and the insurer will treat any subsequent claim as falling within that policy. This is a significant protection that occurrence-based policies don't need.
 
 The trigger structure is invisible until something goes wrong. By the time something has gone wrong, it's too late to fix. The discipline is to build the trigger map at every renewal and review it at every business change.
 
 ### Questions to Ask Your Adviser
 
 1. For each of my policies, is the trigger occurrence-based or claims-made?
-2. On each claims-made policy, what is the retroactive date — and does it reflect proper continuity with my prior insurer?
+2. On each claims-made policy, what is the retroactive date - and does it reflect proper continuity with my prior insurer?
 3. What is the standard ERP on each claims-made policy, and what is the cost of an extended tail (1 year, 3 years, 6 years)?
 4. If I sell or close the business, what run-off arrangement should I plan for, and what is the typical premium?
-5. On each claims-made policy, can I notify *circumstances* that may give rise to a claim before an actual claim is made — and should I do so for any pending issues?
+5. On each claims-made policy, can I notify *circumstances* that may give rise to a claim before an actual claim is made - and should I do so for any pending issues?
 
 ### Related Information
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)

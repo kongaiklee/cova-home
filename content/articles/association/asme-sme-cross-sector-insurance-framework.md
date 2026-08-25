@@ -116,7 +116,7 @@ Many micro-SMEs face the position of being:
 
 The [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) FAA-N02 framework provides one route by which insurance access is widened. Under FAA-N02, introducers can connect SMEs to licensed intermediaries without acting as appointed financial advisers. This widens the accessibility of standard SME insurance to firms that do not engage an appointed broker.
 
-The Insurance Act 1966 framework governs licensed insurers and brokers. COVA is not an Insurance Act 1966-licensed broker.
+The Insurance Act 1966 framework governs licensed insurers and brokers. Covarage is not an Insurance Act 1966-licensed broker.
 
 #### The ASME Insurance-partner programme
 
@@ -165,7 +165,7 @@ ASME does not itself underwrite insurance. The partnerships are commercial arran
 
 For a Singapore SME, the structural priority is the operational insurance baseline aligned with regulatory and contractual obligations: WICI 2019 from an MOM Designated Insurer; PL adequate for premises and operations; Property for assets and premises; Cyber for operational and data exposure; D&O for incorporated SMEs; Group Medical and PA for talent.
 
-For micro-SMEs, the MAS FAA-N02 introducer framework offers access to standard SME insurance through introducers like COVA, without requiring engagement of an appointed broker.
+For micro-SMEs, the MAS FAA-N02 introducer framework offers access to standard SME insurance through introducers like Covarage, without requiring engagement of an appointed broker.
 
 For ASME-member SMEs, the ASME Insurance-partner programmes offer member-discounted access. Comparative quotes from alternative brokers, direct insurer portals, or introducers should be considered at renewal to ensure competitive placement.
 
@@ -181,11 +181,11 @@ For ASME-member SMEs, the ASME Insurance-partner programmes offer member-discoun
 
 ### Related Information
 
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 288 — Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 288 - Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
+- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 
 ---

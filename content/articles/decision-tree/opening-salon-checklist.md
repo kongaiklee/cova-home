@@ -13,14 +13,14 @@ word_count: 1635
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/decision-tree/opening-salon-checklist"
-meta_description: "A Singapore salon typically needs: Public Liability (S$1M–S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips),..."
+meta_description: "A Singapore salon typically needs: Public Liability (S$1M-S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips),..."
 og_title: "Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist"
-og_description: "A Singapore salon typically needs: Public Liability (S$1M–S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips),..."
+og_description: "A Singapore salon typically needs: Public Liability (S$1M-S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips),..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore salon typically needs: **Public Liability** (S$1M–S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips), **Product Liability** for sold and applied products (food and beverage if café-adjacent, cosmetics, hair products), **WICA** for stylists, therapists, junior staff, **Property/Fire** for fit-out, equipment, retail stock, **Cyber** for booking systems and customer data, and depending on services: **CaseTrust accreditation** (for spa/wellness services with prepayment) including the **Prepayment Protection Insurance** that accompanies it (see [Article 5](/association/casetrust-spa-wellness-prepayment-protection)). Specialised treatments — laser, IPL, chemical peels, tattoo removal, semi-permanent makeup, eyebrow embroidery — require additional underwriting and may need PI. Licensing baseline: lease, SCDF Fire Safety where applicable, and [Singapore Customs](https://www.customs.gov.sg/) and [NEA](https://www.nea.gov.sg/) permits for specific chemicals.
+> A Singapore salon typically needs: **Public Liability** (S$1M-S$3M; mall/landlord typically requires; covers chemical burns, cuts, allergic reactions, slips), **Product Liability** for sold and applied products (food and beverage if café-adjacent, cosmetics, hair products), **WICA** for stylists, therapists, junior staff, **Property/Fire** for fit-out, equipment, retail stock, **Cyber** for booking systems and customer data, and depending on services: **CaseTrust accreditation** (for spa/wellness services with prepayment) including the **Prepayment Protection Insurance** that accompanies it (see [Article 5](/association/casetrust-spa-wellness-prepayment-protection)). Specialised treatments - laser, IPL, chemical peels, tattoo removal, semi-permanent makeup, eyebrow embroidery - require additional underwriting and may need PI. Licensing baseline: lease, SCDF Fire Safety where applicable, and [Singapore Customs](https://www.customs.gov.sg/) and [NEA](https://www.nea.gov.sg/) permits for specific chemicals.
 
 ### The Sourced Detail
 
@@ -30,22 +30,22 @@ Salon insurance sits at the intersection of premises liability, product liabilit
 
 The insurance build varies by tier:
 
-**Tier 1 — Basic hair services**
+**Tier 1 - Basic hair services**
 Cutting, styling, blow-dry, basic colouring. Lower chemical exposure, lower injury frequency, simpler underwriting.
 
-**Tier 2 — Hair services with chemical treatments**
+**Tier 2 - Hair services with chemical treatments**
 Permanent colouring, perming, straightening, bleaching, keratin treatments. Higher chemical burn and allergic reaction exposure. Patch test protocols matter.
 
-**Tier 3 — Beauty services**
-Manicure, pedicure, facials, waxing, eyelash extensions, eyebrow shaping. Different exposure profile — sharps and skin reactions dominate.
+**Tier 3 - Beauty services**
+Manicure, pedicure, facials, waxing, eyelash extensions, eyebrow shaping. Different exposure profile - sharps and skin reactions dominate.
 
-**Tier 4 — Spa and body services**
+**Tier 4 - Spa and body services**
 Massage, body scrubs, hot stone, facials with steam/extraction, body wraps. Slip exposure plus allergic reaction; CaseTrust accreditation often required for prepayment programmes.
 
-**Tier 5 — Advanced/specialised services**
+**Tier 5 - Advanced/specialised services**
 Laser, IPL, chemical peels, microblading, semi-permanent makeup, tattoo removal, microneedling. Borderline healthcare; potentially MOH licensing implications for some treatments; specialised PI required.
 
-**Tier 6 — Medi-spa with medical practitioners**
+**Tier 6 - Medi-spa with medical practitioners**
 Botox, fillers, IV drips, prescription products. Operates under Healthcare Services Act 2020 framework; full medical clinic insurance applies. See [Article 78](/decision-tree/opening-clinic-checklist).
 
 #### The mandatory-by-statute layer
@@ -78,11 +78,11 @@ Standard PL covers:
 - **Eye injuries** (chemical splash, lash extension adhesive)
 - **Visitor injuries** in waiting area
 
-Limits typically S$1M–S$5M depending on landlord/mall requirements and service tier.
+Limits typically S$1M-S$5M depending on landlord/mall requirements and service tier.
 
 **3. Product Liability**
 
-Distinct from PL — covers harm caused by products supplied or applied:
+Distinct from PL - covers harm caused by products supplied or applied:
 - **Hair products** causing scalp irritation, hair loss, allergic reactions
 - **Skincare products** causing rash, breakouts, hyperpigmentation
 - **Sold retail products** causing harm at home use
@@ -101,7 +101,7 @@ Salon fit-out includes:
 - Computer systems, POS, booking platforms
 - Stock (professional products, retail)
 
-Sums insured at reinstatement value typically S$80,000–S$300,000+ depending on service tier and equipment.
+Sums insured at reinstatement value typically S$80,000-S$300,000+ depending on service tier and equipment.
 
 **5. Business Interruption**
 
@@ -121,12 +121,12 @@ While voluntary, mall landlords and consumers increasingly look for CaseTrust ac
 #### Specialised treatment considerations
 
 **Chemical treatments:**
-- **Patch test protocol** is critical defence material — document every patch test
+- **Patch test protocol** is critical defence material - document every patch test
 - **Manufacturer training certificates** for stylists handling specific brands (Olaplex, certain colour systems)
 - **Insurance underwriting** typically requires evidence of training and patch test SOPs
 
 **Laser and IPL:**
-- Borderline healthcare — Singapore's [Ministry of Health](https://www.moh.gov.sg/) has specific guidance on aesthetic laser use, and the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020) framework can apply to certain treatments
+- Borderline healthcare - Singapore's [Ministry of Health](https://www.moh.gov.sg/) has specific guidance on aesthetic laser use, and the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020) framework can apply to certain treatments
 - Operator certification matters
 - PI typically required in addition to PL
 - Some operations may trigger Healthcare Services Act considerations
@@ -160,7 +160,7 @@ For salons running:
 - Email marketing
 - Payment processing
 
-PDPA significant-harm category includes health data — and treatment records (skin conditions, allergies, medical history disclosed for treatment) may qualify. A breach could trigger Section 26D notification regardless of the 500-individual threshold. See [Article 66](/document-legal/pdpa-section-26d-breach-notification).
+PDPA significant-harm category includes health data - and treatment records (skin conditions, allergies, medical history disclosed for treatment) may qualify. A breach could trigger Section 26D notification regardless of the 500-individual threshold. See [Article 66](/document-legal/pdpa-section-26d-breach-notification).
 
 #### Optional but typical
 
@@ -178,7 +178,7 @@ Storefront and treatment room mirrors are significant fragile assets. See [Artic
 
 **Equipment Breakdown**
 
-For Tier 5 salons with laser/IPL equipment (S$30,000–S$200,000+ per machine), Equipment Breakdown is particularly relevant.
+For Tier 5 salons with laser/IPL equipment (S$30,000-S$200,000+ per machine), Equipment Breakdown is particularly relevant.
 
 **Trade Credit / Contingent BI**
 
@@ -186,27 +186,27 @@ For salons with corporate clients (offices booking grooming services), contingen
 
 #### Premium considerations
 
-For a typical Tier 1–3 hair/beauty salon, 60–120 sqm, 3–8 staff, S$25,000–S$60,000 monthly revenue:
+For a typical Tier 1-3 hair/beauty salon, 60-120 sqm, 3-8 staff, S$25,000-S$60,000 monthly revenue:
 
-- **Total annual insurance budget** typically S$4,000–S$10,000
+- **Total annual insurance budget** typically S$4,000-S$10,000
 
 For Tier 4 spa with prepayment programmes:
 - Add Prepayment Protection Insurance for CaseTrust
-- **Total typically S$8,000–S$15,000**
+- **Total typically S$8,000-S$15,000**
 
-For Tier 5–6 specialised:
+For Tier 5-6 specialised:
 - Significant uplift on PL/PI for specialised treatments
 - Equipment Breakdown for laser/IPL
-- **Total typically S$15,000–S$30,000+**
+- **Total typically S$15,000-S$30,000+**
 
 #### Sequence of bind
 
-1. **At lease signing** — confirm lease insurance requirements
-2. **At fit-out start** — Contractor's All Risks
-3. **Before opening** — bind PL/Product Liability, Property, BI, WICA, Cyber, Group benefits
-4. **For prepayment offerings** — CaseTrust application and Prepayment Protection in place before launching memberships
-5. **For specialised treatments** — relevant licensing/training certifications, PI in place before offering
-6. **At opening** — confirm policies in force; provide COIs to landlord
+1. **At lease signing** - confirm lease insurance requirements
+2. **At fit-out start** - Contractor's All Risks
+3. **Before opening** - bind PL/Product Liability, Property, BI, WICA, Cyber, Group benefits
+4. **For prepayment offerings** - CaseTrust application and Prepayment Protection in place before launching memberships
+5. **For specialised treatments** - relevant licensing/training certifications, PI in place before offering
+6. **At opening** - confirm policies in force; provide COIs to landlord
 
 ### Common Mistakes / What Goes Wrong
 
@@ -221,19 +221,19 @@ For Tier 5–6 specialised:
 
 ### What This Means for Your Business
 
-Salon insurance scales with service complexity. Tier 1–2 salons can operate on relatively standard SME insurance packages; Tier 4–6 salons need bespoke programme design with specialist input.
+Salon insurance scales with service complexity. Tier 1-2 salons can operate on relatively standard SME insurance packages; Tier 4-6 salons need bespoke programme design with specialist input.
 
 The discipline:
 
 1. **Map your service tier honestly.** A "we mostly do haircuts but occasionally do colouring and chemical work" approach to insurance underwriting can leave gaps for the chemical work.
 
-2. **Invest in staff training and certification.** Manufacturer-certified colourists, NCS-certified therapists, properly trained laser operators — all reduce both incident frequency and claim severity.
+2. **Invest in staff training and certification.** Manufacturer-certified colourists, NCS-certified therapists, properly trained laser operators - all reduce both incident frequency and claim severity.
 
 3. **Document patch tests and informed consent.** The contemporaneous record is the defence.
 
 4. **Use CaseTrust accreditation strategically.** For prepayment offerings, it's both consumer protection and competitive differentiator.
 
-5. **For Tier 5–6 services, treat insurance as a core part of the business model.** Underwriting, premium, and operational requirements (training, equipment certification, infection control) all matter materially.
+5. **For Tier 5-6 services, treat insurance as a core part of the business model.** Underwriting, premium, and operational requirements (training, equipment certification, infection control) all matter materially.
 
 The salon market is competitive, claim-frequent at the operational level, and consumer-litigation-aware. The insurance side rewards careful attention.
 
@@ -246,7 +246,7 @@ The salon market is competitive, claim-frequent at the operational level, and co
 5. How does my booking system's data handling affect my Cyber exposure under PDPA?
 
 ### Related Information
-- [A Vendor Just Ran Off With Our Deposit — What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
+- [A Vendor Just Ran Off With Our Deposit - What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 

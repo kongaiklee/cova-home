@@ -20,7 +20,7 @@ og_description: "Section 27 of the Financial Advisers Act 2001 is the provision 
 
 > **The Answer in 60 Seconds**
 >
-> [Section 27 of the Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) is the provision that requires licensed financial advisers (FAs) to ensure recommendations are suitable for the client's circumstances. The obligation is operationalised through [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) which specifies fact-find and documentation requirements. Section 27 means: a licensed FA cannot simply sell a policy — they must understand the client, assess needs, document the basis for recommendation, and ensure the product fits. For Singapore SMEs procuring insurance, Section 27 is the regulatory protection that elevates the FA-client relationship above pure transaction. Failure by the FA creates both regulatory consequences (administered by [MAS](https://www.mas.gov.sg/)) and civil claim exposure under [FIDReC](https://www.fidrec.com.sg/) and the courts. Understanding Section 27 helps SMEs evaluate FA quality and exercise the protections the provision creates.
+> [Section 27 of the Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) is the provision that requires licensed financial advisers (FAs) to ensure recommendations are suitable for the client's circumstances. The obligation is operationalised through [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) which specifies fact-find and documentation requirements. Section 27 means: a licensed FA cannot simply sell a policy - they must understand the client, assess needs, document the basis for recommendation, and ensure the product fits. For Singapore SMEs procuring insurance, Section 27 is the regulatory protection that elevates the FA-client relationship above pure transaction. Failure by the FA creates both regulatory consequences (administered by [MAS](https://www.mas.gov.sg/)) and civil claim exposure under [FIDReC](https://www.fidrec.com.sg/) and the courts. Understanding Section 27 helps SMEs evaluate FA quality and exercise the protections the provision creates.
 
 ### The Sourced Detail
 
@@ -36,13 +36,13 @@ The section requires a licensed FA, when making recommendations for investment p
 - Consideration of the subject matter of the recommendation
 - Specific consideration of the suitability of the recommendation in light of the investigation
 
-The provision applies to FAs licensed under the FAA — which includes most insurance brokers and independent financial advisers operating in the Singapore market. It does not apply to introducers under [FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) (see [Article 168](/comparison/faa-n02-introducer-vs-fa-broker)) since introducers do not make recommendations.
+The provision applies to FAs licensed under the FAA - which includes most insurance brokers and independent financial advisers operating in the Singapore market. It does not apply to introducers under [FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) (see [Article 168](/comparison/faa-n02-introducer-vs-fa-broker)) since introducers do not make recommendations.
 
 #### What "investigation" means in practice
 
 Per [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16), Section 27's investigation requirement is operationalised through fact-find. A proper fact-find covers:
 
-For SME clients, this includes the business profile (industry, operations, headcount, premises), the financial profile (revenue, cash flow, balance sheet considerations), the risk profile (operational risks, contractual exposures, specific industry-specific factors), and the existing insurance and risk management arrangements. It also covers the SME's stated objectives — what operational scope they're seeking to address.
+For SME clients, this includes the business profile (industry, operations, headcount, premises), the financial profile (revenue, cash flow, balance sheet considerations), the risk profile (operational risks, contractual exposures, specific industry-specific factors), and the existing insurance and risk management arrangements. It also covers the SME's stated objectives - what operational scope they're seeking to address.
 
 The depth of fact-find scales with the complexity of the recommendation. A simple Public Liability renewal for a low-risk office operation requires less investigation than a complex multinational programme with cross-border operations, specific industry exposures, and substantial limit considerations.
 
@@ -59,7 +59,7 @@ A recommendation can fail suitability in multiple ways: under-coverage (gaps tha
 
 #### Documentation obligation
 
-Section 27 doesn't merely require investigation and suitability — it requires the FA to be able to demonstrate both. FAA-N16 specifies documentation expectations:
+Section 27 doesn't merely require investigation and suitability - it requires the FA to be able to demonstrate both. FAA-N16 specifies documentation expectations:
 
 The fact-find should be documented contemporaneously (at the time of investigation, not reconstructed later). The recommendation should reference specific elements of the fact-find that drive the suitability conclusion. Specific alternatives considered should be noted with the rationale for selection. Operational scope of the recommendation should be transparent (limits, exclusions, premium, broker compensation).
 
@@ -83,13 +83,13 @@ Section 27 applies to all licensed FAs but the practical implementation differs 
 
 **Independent Financial Advisers (IFAs).** Not tied to a specific insurer. Section 27 investigation can consider products across multiple insurers, supporting recommendation that the client receives the best-fit option from the available market.
 
-**Tied agents.** Restricted to products of a specific insurer (or limited group). Section 27 still applies, but the suitability assessment is constrained: the agent can only recommend within their available product range. This doesn't eliminate the suitability obligation — it means tied agents must explicitly recognise where their available range may not be optimal and refer the client elsewhere if appropriate.
+**Tied agents.** Restricted to products of a specific insurer (or limited group). Section 27 still applies, but the suitability assessment is constrained: the agent can only recommend within their available product range. This doesn't eliminate the suitability obligation - it means tied agents must explicitly recognise where their available range may not be optimal and refer the client elsewhere if appropriate.
 
 For Singapore SMEs, this distinction matters: working with an IFA generally provides broader suitability assessment scope than working with a tied agent, though tied agents serving simple needs can still meet Section 27 requirements.
 
-#### Section 27 and COVA
+#### Section 27 and Covarage
 
-COVA is not a licensed FA. Section 27 therefore does not directly apply to COVA's operations: COVA does not make recommendations, does not conduct fact-finds, does not assess suitability. COVA's role ends at introduction; the licensed IFA that the SME engages then operates under full Section 27 obligations.
+Covarage is not a licensed FA. Section 27 therefore does not directly apply to Covarage's operations: Covarage does not make recommendations, does not conduct fact-finds, does not assess suitability. Covarage's role ends at introduction; the licensed IFA that the SME engages then operates under full Section 27 obligations.
 
 This complementary model serves SMEs by separating the gateway function (where introducers reduce friction and provide factual orientation) from the regulated advisory function (where licensed FAs deliver Section 27-compliant fact-find and recommendation). The SME benefits from both: lower friction at engagement, full regulatory protection at advisory.
 

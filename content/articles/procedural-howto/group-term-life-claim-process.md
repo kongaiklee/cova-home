@@ -68,7 +68,7 @@ For SMEs operating GTL:
 - Operational employee education
 - Operational discipline
 
-#### Stage 1 — Death of covered employee
+#### Stage 1 - Death of covered employee
 
 **Initial notification within the company.**
 
@@ -85,7 +85,7 @@ When an employer learns of an employee's death:
 - Operational operational sensitivity
 - Operational considerations
 
-#### Stage 2 — Employer notification to insurer
+#### Stage 2 - Employer notification to insurer
 
 **Notification timing.**
 
@@ -107,7 +107,7 @@ GTL policies typically require notification within:
 - Operational considerations
 - Operational discipline
 
-#### Stage 3 — Claim form submission
+#### Stage 3 - Claim form submission
 
 **Documentation required.**
 
@@ -137,7 +137,7 @@ Throughout the documentation process:
 - Operational operational empathy
 - Operational considerations
 
-#### Stage 4 — Insurer validation
+#### Stage 4 - Insurer validation
 
 **Validation scope.**
 
@@ -155,7 +155,7 @@ Insurer evaluates:
 - Operational considerations
 - Operational commercial relationships
 
-#### Stage 5 — Specific medical / circumstance review
+#### Stage 5 - Specific medical / circumstance review
 
 **Where additional review required:**
 
@@ -182,7 +182,7 @@ GTL policies typically have contestability provisions:
 - Operational issues identified: operational considerations required
 - Operational dispute: specific dispute resolution
 
-#### Stage 6 — Beneficiary payment
+#### Stage 6 - Beneficiary payment
 
 **Payment process.**
 

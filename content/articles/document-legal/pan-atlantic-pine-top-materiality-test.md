@@ -20,7 +20,7 @@ og_description: "Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd [19
 
 > **The Answer in 60 Seconds**
 >
-> *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 is the House of Lords decision that established the modern materiality test for insurance disclosure. The case interpreted the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Sections 17-19 (see [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19)) and clarified two foundational points: (1) materiality is determined by reference to the **prudent insurer** — would the fact have influenced the prudent insurer's judgment in fixing the premium or determining whether to take the risk; and (2) materiality alone is insufficient — the insurer must also show **actual inducement**: the non-disclosed fact actually influenced the specific underwriting decision. Singapore courts have applied the Pan Atlantic test consistently, making it the working framework for every insurance disclosure dispute. For Singapore SMEs, understanding the test explains both the breadth of the disclosure duty and the specific defensive avenue available when claim denial is asserted on non-disclosure grounds.
+> *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 is the House of Lords decision that established the modern materiality test for insurance disclosure. The case interpreted the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Sections 17-19 (see [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19)) and clarified two foundational points: (1) materiality is determined by reference to the **prudent insurer** - would the fact have influenced the prudent insurer's judgment in fixing the premium or determining whether to take the risk; and (2) materiality alone is insufficient - the insurer must also show **actual inducement**: the non-disclosed fact actually influenced the specific underwriting decision. Singapore courts have applied the Pan Atlantic test consistently, making it the working framework for every insurance disclosure dispute. For Singapore SMEs, understanding the test explains both the breadth of the disclosure duty and the specific defensive avenue available when claim denial is asserted on non-disclosure grounds.
 
 ### The Sourced Detail
 
@@ -52,7 +52,7 @@ The competing positions were:
 
 #### The House of Lords' answers
 
-**On materiality:** The House of Lords adopted the broader "would have wanted to know" test. A fact is material if it would influence the judgment of a prudent insurer in fixing the premium or determining whether to take the risk — not just facts that would have changed the ultimate decision, but facts that the prudent insurer would have considered relevant in their decision-making.
+**On materiality:** The House of Lords adopted the broader "would have wanted to know" test. A fact is material if it would influence the judgment of a prudent insurer in fixing the premium or determining whether to take the risk - not just facts that would have changed the ultimate decision, but facts that the prudent insurer would have considered relevant in their decision-making.
 
 This is a broader test than the "decisive influence" alternative. It captures facts that:
 
@@ -61,7 +61,7 @@ This is a broader test than the "decisive influence" alternative. It captures fa
 - Would have caused the insurer to investigate further
 - Would have been part of the prudent insurer's reasonable consideration
 
-**On actual inducement:** The House of Lords held that materiality alone is not sufficient. The insurer must also show actual inducement — the non-disclosure must have actually influenced the specific underwriting decision in question.
+**On actual inducement:** The House of Lords held that materiality alone is not sufficient. The insurer must also show actual inducement - the non-disclosure must have actually influenced the specific underwriting decision in question.
 
 This is a meaningful protection for the insured. Even if a fact would have been material to a hypothetical prudent insurer, if the actual underwriter wouldn't have changed their decision regardless, the insurer cannot avoid the contract.
 
@@ -71,7 +71,7 @@ After Pan Atlantic, every insurance non-disclosure analysis follows the two-part
 
 **Part 1: Would the fact have influenced the prudent insurer?**
 
-This is the materiality assessment. It uses an objective standard — what a hypothetical prudent insurer in the relevant market would have considered. SMEs cannot rely on subjective views (what they thought was material), and insurers cannot rely on what their specific underwriter thought (that's Part 2).
+This is the materiality assessment. It uses an objective standard - what a hypothetical prudent insurer in the relevant market would have considered. SMEs cannot rely on subjective views (what they thought was material), and insurers cannot rely on what their specific underwriter thought (that's Part 2).
 
 In practice, materiality is established through:
 
@@ -167,7 +167,7 @@ Conclusion: Volunteer material facts beyond the specific form fields.
 
 #### The consumer insurance reform debate
 
-In some jurisdictions, the strict application of Pan Atlantic has been modified by consumer insurance reform — replacing the duty of disclosure with a "duty to take reasonable care not to make a misrepresentation" for consumers. The UK's Consumer Insurance (Disclosure and Representations) Act 2012 is an example.
+In some jurisdictions, the strict application of Pan Atlantic has been modified by consumer insurance reform - replacing the duty of disclosure with a "duty to take reasonable care not to make a misrepresentation" for consumers. The UK's Consumer Insurance (Disclosure and Representations) Act 2012 is an example.
 
 Singapore has not adopted analogous consumer insurance reform; the Pan Atlantic framework continues to apply. For SMEs, this means the stricter test continues to govern.
 

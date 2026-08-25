@@ -20,11 +20,11 @@ og_description: "Finance team has discovered an outbound payment to a fraudulent
 
 > **The Answer in 60 Seconds**
 >
-> Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier bank-detail change email diverted payment; (c) deepfake voice or video instruction approved a payment. The funds have left the bank — possibly converted to crypto, possibly through mule accounts. Critical first 4 hours: (1) **bank fraud team activation** — every Singapore bank maintains a fraud line; speed of contact determines recovery probability; (2) Singapore Police Force e-Service report and ScamShield 1799 hotline; (3) attempt to recall SWIFT / FAST instruction; (4) freeze further outbound payments; (5) isolate affected mailboxes (suspended login, password reset, MFA enforcement). First 72 hours: forensic preservation of email logs (Microsoft 365 / Google Workspace audit), determine if account compromise vs spoofing only, [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) notifiability assessment if customer data exposed. **The insurance trap:** most commercial crime policies exclude "voluntary parting" of funds; Social Engineering Fraud (SEF) coverage typically a sublimit (USD 10,000 - USD 250,000) on either crime or cyber policy. Cyber policies often only cover where there is a "system breach," not pure social engineering. SEF endorsement is the specific clause to demand at renewal. Notification: cyber policy circumstance notification "as soon as practicable"; crime policy on "discovery basis" — different triggers, both must be notified to preserve coverage. Reference data: Singapore phishing +49% in 2024 (6,100 cases); Vendor Email Compromise +66% in H1 2024.
+> Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier bank-detail change email diverted payment; (c) deepfake voice or video instruction approved a payment. The funds have left the bank - possibly converted to crypto, possibly through mule accounts. Critical first 4 hours: (1) **bank fraud team activation** - every Singapore bank maintains a fraud line; speed of contact determines recovery probability; (2) Singapore Police Force e-Service report and ScamShield 1799 hotline; (3) attempt to recall SWIFT / FAST instruction; (4) freeze further outbound payments; (5) isolate affected mailboxes (suspended login, password reset, MFA enforcement). First 72 hours: forensic preservation of email logs (Microsoft 365 / Google Workspace audit), determine if account compromise vs spoofing only, [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) notifiability assessment if customer data exposed. **The insurance trap:** most commercial crime policies exclude "voluntary parting" of funds; Social Engineering Fraud (SEF) coverage typically a sublimit (USD 10,000 - USD 250,000) on either crime or cyber policy. Cyber policies often only cover where there is a "system breach," not pure social engineering. SEF endorsement is the specific clause to demand at renewal. Notification: cyber policy circumstance notification "as soon as practicable"; crime policy on "discovery basis" - different triggers, both must be notified to preserve coverage. Reference data: Singapore phishing +49% in 2024 (6,100 cases); Vendor Email Compromise +66% in H1 2024.
 
 ### The Sourced Detail
 
-Business Email Compromise (BEC) and Vendor Email Compromise (VEC) are now the dominant cyber-financial loss vector for Singapore SMEs. The underlying scam is simple — impersonate authority, request a payment, exploit human trust — but the technical and insurance response is anything but simple. The first hours determine whether funds are recovered, whether the SME's cyber and crime covers respond, and whether PDPA notification obligations are triggered.
+Business Email Compromise (BEC) and Vendor Email Compromise (VEC) are now the dominant cyber-financial loss vector for Singapore SMEs. The underlying scam is simple - impersonate authority, request a payment, exploit human trust - but the technical and insurance response is anything but simple. The first hours determine whether funds are recovered, whether the SME's cyber and crime covers respond, and whether PDPA notification obligations are triggered.
 
 #### Reference data on the threat landscape
 
@@ -34,25 +34,25 @@ Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https:
 
 #### Statutory framework engaged
 
-**Primary statute (data protection).** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) — Section 24 Protection Obligation; Section 26D 3-day breach notification.
+**Primary statute (data protection).** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - Section 24 Protection Obligation; Section 26D 3-day breach notification.
 
-**Primary statute (cyber).** [Computer Misuse Act 1993](https://sso.agc.gov.sg/Act/CMA1993) — provides framework for criminal prosecution of perpetrators.
+**Primary statute (cyber).** [Computer Misuse Act 1993](https://sso.agc.gov.sg/Act/CMA1993) - provides framework for criminal prosecution of perpetrators.
 
-**Cybersecurity reporting.** [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) — for Critical Information Infrastructure (CII) and certain regulated entities.
+**Cybersecurity reporting.** [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) - for Critical Information Infrastructure (CII) and certain regulated entities.
 
 **MAS framework (for FIs).** Notice on Cyber Hygiene applicable to financial institutions; FAA-N17 fraud reporting for financial advisers.
 
 #### Hour-by-hour response
 
-**Hour 0-1 — Bank engagement.**
+**Hour 0-1 - Bank engagement.**
 
-- **Call bank fraud team immediately** — every minute counts; Singapore banks maintain dedicated fraud lines
+- **Call bank fraud team immediately** - every minute counts; Singapore banks maintain dedicated fraud lines
 - Identify the wire reference / SWIFT MT details
 - Request immediate recall of payment
 - Request bank's intervention with receiving bank (SWIFT / FAST)
 - Document the conversation (date, time, officer name, reference)
 
-**Hour 0-1 — Internal containment.**
+**Hour 0-1 - Internal containment.**
 
 - Halt all further outbound payments pending review
 - Suspend login of affected mailbox(es)
@@ -60,14 +60,14 @@ Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https:
 - Notify all approval signatories
 - Identify the original instruction (email, voice call, video call)
 
-**Hour 1-2 — Police and regulator notification.**
+**Hour 1-2 - Police and regulator notification.**
 
-- [Singapore Police Force e-Services](https://eservices.police.gov.sg/) — file police report
+- [Singapore Police Force e-Services](https://eservices.police.gov.sg/) - file police report
 - [ScamShield 1799](https://www.scamshield.gov.sg/) hotline
 - For PSF cases: "Anti-Scam Command" specific to BEC / wire fraud
 - Document case reference
 
-**Hour 2-4 — Insurance notification.**
+**Hour 2-4 - Insurance notification.**
 
 - **Crime policy notification (commercial crime / fidelity / SEF):**
   - Most policies require "discovery" notification immediately upon awareness
@@ -82,7 +82,7 @@ Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https:
   - Claims-made trigger
   - Defence costs cover
 
-**Hour 4-12 — Forensic preservation.**
+**Hour 4-12 - Forensic preservation.**
 
 - Microsoft 365 / Google Workspace audit log preservation
 - Specific logs needed:
@@ -94,15 +94,15 @@ Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https:
 - Voice / video call logs if instruction by phone
 - Backup systems where original instructions may be preserved
 
-**Hour 12-72 — Investigation depth.**
+**Hour 12-72 - Investigation depth.**
 
 - Engage external Digital Forensics & Incident Response (DFIR) firm
 - Determine compromise vs spoofing:
   - **Account compromise:** attacker had control of legitimate mailbox
   - **Spoofing only:** attacker sent from look-alike domain
   - The technical distinction substantially affects PDPA notifiability and insurance coverage
-- Forwarding rule investigation — common attacker technique
-- Email lateral movement — did attacker access other systems?
+- Forwarding rule investigation - common attacker technique
+- Email lateral movement - did attacker access other systems?
 - Customer / supplier data exposure assessment
 
 #### PDPA notifiability assessment
@@ -118,9 +118,9 @@ For BEC, the question is whether attacker accessed:
 - Internal HR / payroll data (notifiable)
 - Pure financial transaction data of corporate counterparties (typically not personal data)
 
-**3-day clock starts** when SME makes the assessment that breach is notifiable — not when first detected. Conservative assessment recommended.
+**3-day clock starts** when SME makes the assessment that breach is notifiable - not when first detected. Conservative assessment recommended.
 
-#### The insurance trap — why standard cover often fails
+#### The insurance trap - why standard cover often fails
 
 **Commercial crime / fidelity policy.**
 
@@ -130,8 +130,8 @@ Most policies cover:
 - Computer fraud (theft via direct system access)
 
 Most policies EXCLUDE or sublimit:
-- "Voluntary parting" of funds — i.e., where employee is induced to authorise payment
-- Social engineering — i.e., where instruction comes from outside but employee acts
+- "Voluntary parting" of funds - i.e., where employee is induced to authorise payment
+- Social engineering - i.e., where instruction comes from outside but employee acts
 - This is exactly the BEC scenario
 
 **Social Engineering Fraud (SEF) endorsement.**
@@ -168,11 +168,11 @@ Post-incident:
 #### Recovery probability factors
 
 Recovery probability depends on:
-- **Speed of detection** — recovery probability drops sharply after 24 hours
-- **Destination** — domestic Singapore bank vs offshore vs crypto
-- **Beneficiary type** — established business vs mule account vs newly opened account
-- **Police engagement quality** — case prioritisation
-- **Bank cooperation** — Singapore banks generally responsive on domestic recoveries; offshore variable
+- **Speed of detection** - recovery probability drops sharply after 24 hours
+- **Destination** - domestic Singapore bank vs offshore vs crypto
+- **Beneficiary type** - established business vs mule account vs newly opened account
+- **Police engagement quality** - case prioritisation
+- **Bank cooperation** - Singapore banks generally responsive on domestic recoveries; offshore variable
 
 Realistic expectations:
 - Same-day discovery, domestic transfer: 30-60% recovery
@@ -232,27 +232,27 @@ For each pattern, defensive controls should include:
 
 For Singapore SMEs facing BEC scenarios:
 
-1. **Bank fraud lines** — preprogrammed in finance team contacts.
+1. **Bank fraud lines** - preprogrammed in finance team contacts.
 
-2. **Police engagement protocol** — e-Services and ScamShield 1799 procedure.
+2. **Police engagement protocol** - e-Services and ScamShield 1799 procedure.
 
-3. **Insurance coverage map** — SEF endorsement, FTF sublimit, cyber trigger language.
+3. **Insurance coverage map** - SEF endorsement, FTF sublimit, cyber trigger language.
 
-4. **Forensic capability** — pre-engaged DFIR firm with retainer.
+4. **Forensic capability** - pre-engaged DFIR firm with retainer.
 
-5. **Email security controls** — MFA, forwarding rule monitoring, foreign sign-in alerts.
+5. **Email security controls** - MFA, forwarding rule monitoring, foreign sign-in alerts.
 
-6. **Verification protocol** — multi-channel for all material transactions.
+6. **Verification protocol** - multi-channel for all material transactions.
 
-7. **PDPA assessment framework** — quick determination of notifiability.
+7. **PDPA assessment framework** - quick determination of notifiability.
 
-8. **Communication plan** — internal, customer, supplier.
+8. **Communication plan** - internal, customer, supplier.
 
-9. **Annual broker review** — endorsements, sublimits, exclusions.
+9. **Annual broker review** - endorsements, sublimits, exclusions.
 
-10. **Tabletop exercise** — annual BEC simulation with finance and IT.
+10. **Tabletop exercise** - annual BEC simulation with finance and IT.
 
-The cost of BEC compromise is acute — average SGD 50,000-200,000 per single SME incident; major cases exceed SGD 1m. The cost of pre-incident control is bounded — typical email security and verification protocol implementation under SGD 50,000.
+The cost of BEC compromise is acute - average SGD 50,000-200,000 per single SME incident; major cases exceed SGD 1m. The cost of pre-incident control is bounded - typical email security and verification protocol implementation under SGD 50,000.
 
 ### Questions to Ask Your Adviser
 
@@ -264,7 +264,7 @@ The cost of BEC compromise is acute — average SGD 50,000-200,000 per single SM
 
 ### Related Information
 - [Cyber-Extortion Event Response: Singapore Framework for Ransomware, Data Theft, and Payment Decisions](/crisis/cyber-extortion-event-response)
-- [We Just Discovered an Employee Has Embezzled From Us — What Do I Do Now?](/crisis/employee-embezzlement-discovered)
+- [We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?](/crisis/employee-embezzlement-discovered)
 - [PDPC Enforcement Escalation 2024-2026: Marina Bay Sands SGD 315,000 and the Pattern Insurers Are Underwriting Against](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

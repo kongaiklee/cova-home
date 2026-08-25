@@ -1,5 +1,5 @@
 ---
-title: "SME Startup Decision Tree: Marketing and Digital Agency — Foundational Insurance Procurement"
+title: "SME Startup Decision Tree: Marketing and Digital Agency - Foundational Insurance Procurement"
 slug: "/decision-tree/marketing-digital-agency"
 category: "decision-tree"
 intent: "make-the-call"
@@ -13,14 +13,14 @@ word_count: 1555
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/decision-tree/marketing-digital-agency"
-meta_description: "Marketing and digital agencies in Singapore — covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
-og_title: "SME Startup Decision Tree: Marketing and Digital Agency — Foundational Insurance Procurement"
-og_description: "Marketing and digital agencies in Singapore — covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
+meta_description: "Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
+og_title: "SME Startup Decision Tree: Marketing and Digital Agency - Foundational Insurance Procurement"
+og_description: "Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Marketing and digital agencies in Singapore — covering full-service agencies, specialist creative agencies, performance marketing agencies, social media agencies, content / video production agencies, public relations agencies, and operational scope — face a foundational insurance profile centred on Professional Indemnity (covering creative work, advertising compliance, intellectual property scope, advisory scope), substantial Cyber Liability for client data and campaign management systems, Public Liability for premises and event production scope, Property/Fire for equipment scope (particularly for video / production agencies), specific Media Liability provisions, and considerations on client commercial relationships. Foundational regulatory framework includes [PDPC](https://www.pdpc.gov.sg/) for personal data, specific [Advertising Standards Authority of Singapore (ASAS)](https://asas.org.sg/) framework, and specific [Singapore Code of Advertising Practice (SCAP)](https://asas.org.sg/) compliance. Considerations on client master service agreements (MSAs), operational work-for-hire commercial scope, and operational intellectual property scope matters substantially.
+> Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media agencies, content / video production agencies, public relations agencies, and operational scope - face a foundational insurance profile centred on Professional Indemnity (covering creative work, advertising compliance, intellectual property scope, advisory scope), substantial Cyber Liability for client data and campaign management systems, Public Liability for premises and event production scope, Property/Fire for equipment scope (particularly for video / production agencies), specific Media Liability provisions, and considerations on client commercial relationships. Foundational regulatory framework includes [PDPC](https://www.pdpc.gov.sg/) for personal data, specific [Advertising Standards Authority of Singapore (ASAS)](https://asas.org.sg/) framework, and specific [Singapore Code of Advertising Practice (SCAP)](https://asas.org.sg/) compliance. Considerations on client master service agreements (MSAs), operational work-for-hire commercial scope, and operational intellectual property scope matters substantially.
 
 ### The Sourced Detail
 
@@ -30,19 +30,19 @@ Marketing and digital agencies represent a substantial Singapore SME vertical wi
 
 The first decision point distinguishes service scope.
 
-**Full-service agency** — operator provides comprehensive scope across creative, strategic, and execution. Operational scope across multiple service dimensions creates specific Professional Indemnity scope considerations.
+**Full-service agency** - operator provides comprehensive scope across creative, strategic, and execution. Operational scope across multiple service dimensions creates specific Professional Indemnity scope considerations.
 
-**Specialist creative agency** — operator provides specific creative scope (branding, design, operational other creative scope). Specific Professional Indemnity scope addressing creative output exposure.
+**Specialist creative agency** - operator provides specific creative scope (branding, design, operational other creative scope). Specific Professional Indemnity scope addressing creative output exposure.
 
-**Performance marketing agency** — operator provides specific performance marketing scope (paid media, conversion optimisation, operational other performance scope). Framework for media spend management, operational considerations around client account access, operational scope.
+**Performance marketing agency** - operator provides specific performance marketing scope (paid media, conversion optimisation, operational other performance scope). Framework for media spend management, operational considerations around client account access, operational scope.
 
-**Social media agency** — operator provides specific social media scope. Framework for platform commercial relationships, operational account management, operational operational discipline.
+**Social media agency** - operator provides specific social media scope. Framework for platform commercial relationships, operational account management, operational operational discipline.
 
-**Content / video production agency** — operator provides specific content production scope. Framework for production scope including specific equipment scope (video equipment, operational other production equipment), operational operational scope.
+**Content / video production agency** - operator provides specific content production scope. Framework for production scope including specific equipment scope (video equipment, operational other production equipment), operational operational scope.
 
-**Public relations agency** — operator provides specific PR scope. Framework for media relations, specific defamation considerations, operational scope.
+**Public relations agency** - operator provides specific PR scope. Framework for media relations, specific defamation considerations, operational scope.
 
-**Hybrid scope** — combining elements creates operational considerations.
+**Hybrid scope** - combining elements creates operational considerations.
 
 For each service scope, specific Professional Indemnity scope and operational considerations matters.
 
@@ -50,13 +50,13 @@ For each service scope, specific Professional Indemnity scope and operational co
 
 The second decision point distinguishes client commercial scope.
 
-**SMB client base** — operator serves SME clients with commercial conventions. Lower individual claim quantum but specific aggregate commercial scope.
+**SMB client base** - operator serves SME clients with commercial conventions. Lower individual claim quantum but specific aggregate commercial scope.
 
-**Mid-market client base** — operator serves mid-market clients. Considerations on MSA negotiation and operational scope.
+**Mid-market client base** - operator serves mid-market clients. Considerations on MSA negotiation and operational scope.
 
-**Enterprise client base** — operator serves enterprise clients with commercial scope. Considerations on enterprise commercial relationships, substantial Professional Indemnity and Cyber Liability scope (typical enterprise contracts require specific minimum insurance evidence), operational scope.
+**Enterprise client base** - operator serves enterprise clients with commercial scope. Considerations on enterprise commercial relationships, substantial Professional Indemnity and Cyber Liability scope (typical enterprise contracts require specific minimum insurance evidence), operational scope.
 
-**Mixed client base** — considerations on varied scope.
+**Mixed client base** - considerations on varied scope.
 
 For enterprise client commercial scope, substantial limits requirements drive procurement scope.
 
@@ -64,13 +64,13 @@ For enterprise client commercial scope, substantial limits requirements drive pr
 
 The third decision point distinguishes media and creative scope.
 
-**Owned content scope** — agency creates content owned by client through specific work-for-hire commercial scope. Specific intellectual property considerations, considerations on IP indemnification.
+**Owned content scope** - agency creates content owned by client through specific work-for-hire commercial scope. Specific intellectual property considerations, considerations on IP indemnification.
 
-**Licensed content scope** — agency uses licensed content (stock photography, licensed music, operational licensed scope). Considerations on licensing compliance, operational operational discipline.
+**Licensed content scope** - agency uses licensed content (stock photography, licensed music, operational licensed scope). Considerations on licensing compliance, operational operational discipline.
 
-**User-generated content (UGC) scope** — agency works with UGC creating commercial considerations around content rights, specific defamation considerations, operational scope.
+**User-generated content (UGC) scope** - agency works with UGC creating commercial considerations around content rights, specific defamation considerations, operational scope.
 
-**Influencer marketing scope** — agency operates influencer marketing scope creating commercial considerations around [Singapore Code of Advertising Practice (SCAP)](https://asas.org.sg/) compliance, operational influencer commercial relationships, operational scope.
+**Influencer marketing scope** - agency operates influencer marketing scope creating commercial considerations around [Singapore Code of Advertising Practice (SCAP)](https://asas.org.sg/) compliance, operational influencer commercial relationships, operational scope.
 
 For each scope, specific Media Liability provisions and operational considerations matters.
 
@@ -78,47 +78,47 @@ For each scope, specific Media Liability provisions and operational consideratio
 
 The fourth decision point distinguishes account access and data scope.
 
-**Limited account access** — agency operates with limited client account access. Foundational Cyber Liability scope.
+**Limited account access** - agency operates with limited client account access. Foundational Cyber Liability scope.
 
-**Substantial account access** — agency operates with substantive client account access (Google Ads, Meta Ads, specific other platform accounts). Framework for account compromise scenarios, operational considerations around access discipline. Substantial Cyber Liability scope.
+**Substantial account access** - agency operates with substantive client account access (Google Ads, Meta Ads, specific other platform accounts). Framework for account compromise scenarios, operational considerations around access discipline. Substantial Cyber Liability scope.
 
-**Substantive client data scope** — agency holds substantive client commercial data including campaign analytics, customer data scope, operational scope. Substantial Cyber Liability with specific PDPA Section 26D considerations.
+**Substantive client data scope** - agency holds substantive client commercial data including campaign analytics, customer data scope, operational scope. Substantial Cyber Liability with specific PDPA Section 26D considerations.
 
 #### Decision Point 5: Operational scope
 
 The fifth decision point distinguishes operational scope.
 
-**Office-based operations** — agency operates from office with operational scope. Standard premises scope.
+**Office-based operations** - agency operates from office with operational scope. Standard premises scope.
 
-**Production scope** — agency operates production scope (video shoots, photo shoots, operational events). Specific Public Liability scope, specific equipment scope, operational considerations.
+**Production scope** - agency operates production scope (video shoots, photo shoots, operational events). Specific Public Liability scope, specific equipment scope, operational considerations.
 
-**Event production scope** — agency operates event production. Specific Public Liability scope reflecting substantial event traffic, operational scope.
+**Event production scope** - agency operates event production. Specific Public Liability scope reflecting substantial event traffic, operational scope.
 
-**Client premises operations** — agency operates substantially at client premises. Operational scope considerations.
+**Client premises operations** - agency operates substantially at client premises. Operational scope considerations.
 
 #### Foundational Cover Architecture
 
 For Singapore marketing / digital agency SMEs, foundational cover stack includes several elements.
 
-**Professional Indemnity** — foundational with specific provisions for creative work, advertising compliance scope (including specific [SCAP](https://asas.org.sg/) compliance), intellectual property scope, advisory scope. Considerations on scope.
+**Professional Indemnity** - foundational with specific provisions for creative work, advertising compliance scope (including specific [SCAP](https://asas.org.sg/) compliance), intellectual property scope, advisory scope. Considerations on scope.
 
-**Media Liability** — covering specific defamation scope, specific intellectual property infringement scope, operational media-specific scope. Operational scope often integrated with Professional Indemnity.
+**Media Liability** - covering specific defamation scope, specific intellectual property infringement scope, operational media-specific scope. Operational scope often integrated with Professional Indemnity.
 
-**Cyber Liability** — substantial scope given client data and account access scope. Specific PDPA Section 26D scope.
+**Cyber Liability** - substantial scope given client data and account access scope. Specific PDPA Section 26D scope.
 
-**Public Liability** — for premises and operational scope. Limits scale with operational scope (event production scope drives elevated limits).
+**Public Liability** - for premises and operational scope. Limits scale with operational scope (event production scope drives elevated limits).
 
-**Property/Fire** — for premises and equipment scope. Substantial for video / production agencies given equipment values.
+**Property/Fire** - for premises and equipment scope. Substantial for video / production agencies given equipment values.
 
-**Equipment Breakdown** (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) — for substantive production equipment scope.
+**Equipment Breakdown** (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) - for substantive production equipment scope.
 
-**BI cover** — for operational disruption.
+**BI cover** - for operational disruption.
 
-**D&O cover** — for incorporated structures.
+**D&O cover** - for incorporated structures.
 
-**EPL cover** — addressing employment relationships.
+**EPL cover** - addressing employment relationships.
 
-**Commercial Crime / employee dishonesty cover** — particularly relevant where substantial client account access scope.
+**Commercial Crime / employee dishonesty cover** - particularly relevant where substantial client account access scope.
 
 **Commercial relationships** with brokers familiar with marketing / advertising commercial scope.
 

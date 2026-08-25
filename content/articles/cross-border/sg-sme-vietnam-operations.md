@@ -24,7 +24,7 @@ og_description: "Singapore SMEs operating in Vietnam typically need: a Vietnames
 
 ### The Sourced Detail
 
-Vietnam has emerged as a major regional market and manufacturing hub for Singapore SMEs — particularly in manufacturing (electronics, textiles, food processing), services (tech, professional services for foreign clients), retail, and trading. The insurance and regulatory environment differs materially from Singapore, with state-mandated social insurance, locally-required commercial cover, and specific FIE considerations.
+Vietnam has emerged as a major regional market and manufacturing hub for Singapore SMEs - particularly in manufacturing (electronics, textiles, food processing), services (tech, professional services for foreign clients), retail, and trading. The insurance and regulatory environment differs materially from Singapore, with state-mandated social insurance, locally-required commercial cover, and specific FIE considerations.
 
 #### Vietnam regulatory environment for foreign-invested enterprises
 
@@ -51,7 +51,7 @@ Each structure has different tax, employment, and insurance implications. WFOE i
 - Specific rules for Vietnamese vs foreign employees
 - Work permits required for foreign employees
 
-#### Mandatory social insurance — the foundation
+#### Mandatory social insurance - the foundation
 
 **Vietnam Social Security (Bảo hiểm xã hội)** is the mandatory state scheme covering Vietnamese employees:
 
@@ -250,7 +250,7 @@ Vietnamese commercial insurance typically denominates in Vietnamese Dong (VND). 
 - Top-up commercial cover for foreign employees
 - Coordination with Singapore parent insurance
 
-**Years 2–5 (growth phase):**
+**Years 2-5 (growth phase):**
 - Higher local limits as scale grows
 - Specific industry / project cover
 - Multinational programme refinement

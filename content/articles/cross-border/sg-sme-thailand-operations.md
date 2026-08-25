@@ -42,19 +42,19 @@ Thai employment carries mandatory social security contributions under the Social
 
 The contribution rate is 5% of monthly wages from each of employer and employee (10% combined), capped at specific monthly wage thresholds. The cap (currently 15,000 THB monthly wages for the calculation base, meaning 750 THB maximum per side per month) limits the absolute contribution but affects only employees earning above the cap.
 
-For Singapore SMEs operating in Thailand, SSF compliance is non-negotiable and operationally simple through standard Thai payroll providers. The benefit framework operates separately from commercial insurance — Thai employees receive SSF benefits regardless of any private cover.
+For Singapore SMEs operating in Thailand, SSF compliance is non-negotiable and operationally simple through standard Thai payroll providers. The benefit framework operates separately from commercial insurance - Thai employees receive SSF benefits regardless of any private cover.
 
 #### The Workmen's Compensation Fund
 
-Thailand's work injury insurance framework operates through the Workmen's Compensation Fund (WCF) under the Workmen's Compensation Act 1994 — analogous to Singapore's WICA framework. The WCF is administered by the Social Security Office.
+Thailand's work injury insurance framework operates through the Workmen's Compensation Fund (WCF) under the Workmen's Compensation Act 1994 - analogous to Singapore's WICA framework. The WCF is administered by the Social Security Office.
 
-Employer contributions to WCF are paid entirely by the employer at rates ranging from approximately 0.2% to 1.0% of monthly wages depending on industry risk classification — substantially lower than Korean IACI (which can reach 18% for high-risk industries). The WCF provides medical care, temporary disability, permanent disability, and death benefits arising from work injuries.
+Employer contributions to WCF are paid entirely by the employer at rates ranging from approximately 0.2% to 1.0% of monthly wages depending on industry risk classification - substantially lower than Korean IACI (which can reach 18% for high-risk industries). The WCF provides medical care, temporary disability, permanent disability, and death benefits arising from work injuries.
 
 For Singapore SMEs operating in Thailand, WCF compliance is foundational. Considerations on safety management and incident reporting affects WCF rates and operational outcomes. For specific high-exposure operations, supplementary commercial Workers' Compensation cover may be appropriate to address claims exceeding WCF benefit levels.
 
 #### The PDPA Thailand framework
 
-Thailand's [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th/) became effective from 1 June 2022 — administered by the [Personal Data Protection Committee (PDPC)](https://www.pdpc.or.th/). The framework imposes substantial GDPR-style obligations on data controllers and processors operating in Thailand or processing data of Thai residents.
+Thailand's [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th/) became effective from 1 June 2022 - administered by the [Personal Data Protection Committee (PDPC)](https://www.pdpc.or.th/). The framework imposes substantial GDPR-style obligations on data controllers and processors operating in Thailand or processing data of Thai residents.
 
 Key elements include lawful basis requirements for personal data processing (specific consent or specific other legal bases), specific data subject rights including access, rectification, deletion, and portability, specific cross-border transfer requirements, specific data breach notification obligations within 72 hours where applicable, and substantial penalty framework including criminal exposure for specific officer-level violations.
 
@@ -64,7 +64,7 @@ For Singapore SMEs operating in Thailand (particularly technology, e-commerce, F
 
 Thai employment law under the Labour Protection Act 1998 (substantially amended in 2017, 2019, and subsequently) is more protective of employees than Singapore law. Specific employer obligations include written employment contracts (in Thai), specific working hours regulation (8 hours daily / 48 hours weekly standard with overtime provisions), specific holiday and leave entitlements, specific termination and severance frameworks, and operational discipline.
 
-Severance obligations under the Labour Protection Act are substantial. Termination without cause requires specific severance pay scales — ranging from 30 days' wages (for 120 days to 1 year of service) to 400 days' wages (for 20+ years of service). The framework applies to most termination scenarios, with limited specific exceptions for serious misconduct.
+Severance obligations under the Labour Protection Act are substantial. Termination without cause requires specific severance pay scales - ranging from 30 days' wages (for 120 days to 1 year of service) to 400 days' wages (for 20+ years of service). The framework applies to most termination scenarios, with limited specific exceptions for serious misconduct.
 
 Specific anti-discrimination and harassment frameworks have strengthened over recent years. Considerations on HR documentation and operational discipline matters substantially for Thai operations.
 

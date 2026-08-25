@@ -13,14 +13,14 @@ word_count: 2184
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/mas-notice-faa-n03-ifa-conduct"
-meta_description: "MAS Notice FAA-N03 — issued under the Financial Advisers Act 2001 — establishes information disclosure requirements for licensed financial advisers (FAs),..."
+meta_description: "MAS Notice FAA-N03 - issued under the Financial Advisers Act 2001 - establishes information disclosure requirements for licensed financial advisers (FAs),..."
 og_title: "MAS Notice FAA-N03: How Independent Financial Advisers Are Regulated and What That Means When You Buy Insurance"
-og_description: "MAS Notice FAA-N03 — issued under the Financial Advisers Act 2001 — establishes information disclosure requirements for licensed financial advisers (FAs),..."
+og_description: "MAS Notice FAA-N03 - issued under the Financial Advisers Act 2001 - establishes information disclosure requirements for licensed financial advisers (FAs),..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices) — issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) — establishes information disclosure requirements for licensed financial advisers (FAs), including Independent Financial Advisers (IFAs) selling insurance to SME and individual buyers. Combined with related notices including [FAA-N16](https://www.mas.gov.sg/regulation/notices) (recommendations on investment products) and the underlying [FAA Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2), this framework imposes specific conduct obligations on IFAs: **disclosure of remuneration**, **suitability assessment** for products recommended, **documentation of advice**, **specific representation and selling restrictions**, and **complaint resolution mechanisms**. For SME insurance buyers, this means: licensed IFAs must adhere to specific standards when advising on insurance, and these standards form the basis for accountability if advice proves inadequate. Verify current notices on the [MAS regulation page](https://www.mas.gov.sg/regulation) — notices are amended periodically.
+> [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices) - issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) - establishes information disclosure requirements for licensed financial advisers (FAs), including Independent Financial Advisers (IFAs) selling insurance to SME and individual buyers. Combined with related notices including [FAA-N16](https://www.mas.gov.sg/regulation/notices) (recommendations on investment products) and the underlying [FAA Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2), this framework imposes specific conduct obligations on IFAs: **disclosure of remuneration**, **suitability assessment** for products recommended, **documentation of advice**, **specific representation and selling restrictions**, and **complaint resolution mechanisms**. For SME insurance buyers, this means: licensed IFAs must adhere to specific standards when advising on insurance, and these standards form the basis for accountability if advice proves inadequate. Verify current notices on the [MAS regulation page](https://www.mas.gov.sg/regulation) - notices are amended periodically.
 
 ### The Sourced Detail
 
@@ -31,9 +31,9 @@ For SME founders evaluating insurance advisers, understanding the regulatory fra
 Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), persons providing financial advisory services (including insurance advice) require licensing or specific exemption.
 
 **Licence categories:**
-- **Licensed Financial Adviser** — primary FA licence
-- **Exempt Financial Adviser** — specific entities exempted (banks, insurers under their own regulatory framework, securities firms)
-- **Appointed Representative** — individual representatives operating under licensed FA's licence
+- **Licensed Financial Adviser** - primary FA licence
+- **Exempt Financial Adviser** - specific entities exempted (banks, insurers under their own regulatory framework, securities firms)
+- **Appointed Representative** - individual representatives operating under licensed FA's licence
 
 **Categories of FA licence:**
 - Insurance products (life and investment-linked)
@@ -52,10 +52,10 @@ The term "Independent Financial Adviser" (IFA) typically denotes:
 - Receives commission from insurers (with disclosure)
 
 Distinct from:
-- **Tied agents** — represent single insurer
-- **Captive agents** — employees of insurer
-- **Insurance brokers** — typically commercial-focused, may serve corporate
-- **Direct insurer sales** — buying directly from insurer without intermediary
+- **Tied agents** - represent single insurer
+- **Captive agents** - employees of insurer
+- **Insurance brokers** - typically commercial-focused, may serve corporate
+- **Direct insurer sales** - buying directly from insurer without intermediary
 
 For SME buyers, the IFA structure typically provides:
 - Multi-insurer placement options
@@ -63,7 +63,7 @@ For SME buyers, the IFA structure typically provides:
 - Commission-based remuneration (typically paid by insurer)
 - Specific regulatory framework
 
-#### The conduct framework — key obligations
+#### The conduct framework - key obligations
 
 **1. Suitability of advice:**
 
@@ -106,7 +106,7 @@ FAs must disclose:
 
 **4. Suitability obligation:**
 
-[FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) requires a financial adviser to have a reasonable basis for any recommendation on an investment product made to a client. The provision is the statutory anchor for the FA suitability regime — operationalised through [MAS Notice FAA-N16 — Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices). False or misleading statements by FAs are separately addressed under other FAA provisions and MAS Notices (including the disclosure framework under FAA-N03) and through MAS enforcement and disciplinary action.
+[FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) requires a financial adviser to have a reasonable basis for any recommendation on an investment product made to a client. The provision is the statutory anchor for the FA suitability regime - operationalised through [MAS Notice FAA-N16 - Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices). False or misleading statements by FAs are separately addressed under other FAA provisions and MAS Notices (including the disclosure framework under FAA-N03) and through MAS enforcement and disciplinary action.
 
 **5. Specific selling restrictions:**
 
@@ -140,7 +140,7 @@ FAs must have complaint handling procedures and customers can escalate to FIDReC
 
 The Notice has been amended multiple times; verify current version on MAS regulation page.
 
-#### MAS Notice FAA-N16 — reasonable basis recommendations
+#### MAS Notice FAA-N16 - reasonable basis recommendations
 
 [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices) sets out the framework for FAs making recommendations on investment products. While focused on investment-linked policies and similar products, the principles influence broader FA conduct expectations.
 
@@ -273,7 +273,7 @@ For SMEs, the appropriate match depends on:
 - Specific cover requirements
 - Service expectations
 
-#### The introducer model — referring to FAs
+#### The introducer model - referring to FAs
 
 Distinct from FAs themselves, **introducers** can refer prospective clients to FAs without themselves providing financial advice. The framework:
 
@@ -289,7 +289,7 @@ For SME buyers, the introducer model can provide:
 - Referral to suitable IFA for actual advice and placement
 - Often simpler initial engagement than directly approaching a broker
 
-COVA provides factual information about insurance topics and, on request, introduce SME buyers to a licensed insurance intermediary for advice and placement. We don't provide financial advice, don't recommend specific products, and don't handle premium or claim funds.
+Covarage provides factual information about insurance topics and, on request, introduce SME buyers to a licensed insurance intermediary for advice and placement. We don't provide financial advice, don't recommend specific products, and don't handle premium or claim funds.
 
 #### Recent regulatory developments
 
@@ -367,4 +367,4 @@ The IFA framework provides regulatory protection and accountability. Operating w
 
 ---
 
-Articles 130–132 expand Decision Trees with three healthcare practice categories at varying complexity levels: medical clinic / specialist practice (HCSA service licensing, SMC professional regulation, specialty-driven Medical Indemnity, long-tail exposure profile), dental practice (SDC framework, equipment-dependency including compressor as single point of failure, implant practice elevated underwriting), and physiotherapy / allied health (AHPC framework, multi-site practice with worldwide territorial scope, lower indemnity profile than medical/dental but specific-specialty considerations). Articles 133–134 continue Edge Case with two distinctive non-fixed-premises categories: mobile beauty / wellness (no-fixed-premises PL gap, Treatment Risk / Beauty Therapy Liability essential, equipment in transit, platform-engagement WICA classification) and pet grooming / boutique pet services (Bailee / CCC extension as foundational, AVS licensing for boarding operations, mobile groomer specifics). Articles 135–136 continue Crisis with two categories where insurance plays limited but specific roles: PR crisis / viral social media incident (Cyber reputation sub-limits, defamation under PI, EPL for employee-conduct dimension; most reputation impact not insurance-coverable) and anchor tenant departure (co-tenancy clauses as primary remedy, BI does not respond, commercial market risk not insurance issue). Article 137 continues Cross-Border with Hong Kong operations — Cap. 282 Employees' Compensation, Cap. 485 MPF, Insurance Authority framework, common-law jurisdiction parallels with Singapore. Articles 138–139 expand Document-Legal with two foundational frameworks: Employment Act 1968 Section 14 wrongful dismissal (due inquiry procedural framework, Tripartite Guidelines, ECT process, EPL insurance scope and limits) and MAS Guidelines on Outsourcing (FI service provider compliance and insurance requirements, cloud outsourcing specifics, cascading certification expectations).
+Articles 130-132 expand Decision Trees with three healthcare practice categories at varying complexity levels: medical clinic / specialist practice (HCSA service licensing, SMC professional regulation, specialty-driven Medical Indemnity, long-tail exposure profile), dental practice (SDC framework, equipment-dependency including compressor as single point of failure, implant practice elevated underwriting), and physiotherapy / allied health (AHPC framework, multi-site practice with worldwide territorial scope, lower indemnity profile than medical/dental but specific-specialty considerations). Articles 133-134 continue Edge Case with two distinctive non-fixed-premises categories: mobile beauty / wellness (no-fixed-premises PL gap, Treatment Risk / Beauty Therapy Liability essential, equipment in transit, platform-engagement WICA classification) and pet grooming / boutique pet services (Bailee / CCC extension as foundational, AVS licensing for boarding operations, mobile groomer specifics). Articles 135-136 continue Crisis with two categories where insurance plays limited but specific roles: PR crisis / viral social media incident (Cyber reputation sub-limits, defamation under PI, EPL for employee-conduct dimension; most reputation impact not insurance-coverable) and anchor tenant departure (co-tenancy clauses as primary remedy, BI does not respond, commercial market risk not insurance issue). Article 137 continues Cross-Border with Hong Kong operations - Cap. 282 Employees' Compensation, Cap. 485 MPF, Insurance Authority framework, common-law jurisdiction parallels with Singapore. Articles 138-139 expand Document-Legal with two foundational frameworks: Employment Act 1968 Section 14 wrongful dismissal (due inquiry procedural framework, Tripartite Guidelines, ECT process, EPL insurance scope and limits) and MAS Guidelines on Outsourcing (FI service provider compliance and insurance requirements, cloud outsourcing specifics, cascading certification expectations).

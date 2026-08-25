@@ -20,11 +20,11 @@ og_description: "Singapore escape rooms and similar interactive entertainment ve
 
 > **The Answer in 60 Seconds**
 >
-> Singapore escape rooms and similar interactive entertainment venues (immersive experiences, mini-golf indoor centres, themed entertainment, virtual reality arcades, indoor karts) require: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) with attention to **emergency egress and locked-room exit protocols**, and where applicable [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** at elevated limits (S$3M–S$5M; immersive themed environments have specific injury exposure), **Property/Fire** for fit-out and props (significant fit-out investment is typical — S$100,000–S$500,000+), **WICA** for game masters and operations staff, **Cyber Liability** for booking systems and customer data, and importantly **specific cover for special activity equipment** where used (laser tag systems, VR equipment, motor vehicles for go-karts, etc.). The most distinctive exposure: **trapped customer scenarios** — escape rooms specifically design to keep customers in locked rooms; emergency egress and customer rescue protocols are foundational both operationally and for insurance underwriting.
+> Singapore escape rooms and similar interactive entertainment venues (immersive experiences, mini-golf indoor centres, themed entertainment, virtual reality arcades, indoor karts) require: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) with attention to **emergency egress and locked-room exit protocols**, and where applicable [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** at elevated limits (S$3M-S$5M; immersive themed environments have specific injury exposure), **Property/Fire** for fit-out and props (significant fit-out investment is typical - S$100,000-S$500,000+), **WICA** for game masters and operations staff, **Cyber Liability** for booking systems and customer data, and importantly **specific cover for special activity equipment** where used (laser tag systems, VR equipment, motor vehicles for go-karts, etc.). The most distinctive exposure: **trapped customer scenarios** - escape rooms specifically design to keep customers in locked rooms; emergency egress and customer rescue protocols are foundational both operationally and for insurance underwriting.
 
 ### The Sourced Detail
 
-The interactive entertainment venue category in Singapore has expanded significantly over the past decade — escape rooms, themed immersive experiences, VR arcades, indoor karting, axe-throwing venues, and similar formats. Each has specific risk characteristics that diverge from standard retail/F&B underwriting, and insurance brokers without category experience may underestimate exposures.
+The interactive entertainment venue category in Singapore has expanded significantly over the past decade - escape rooms, themed immersive experiences, VR arcades, indoor karting, axe-throwing venues, and similar formats. Each has specific risk characteristics that diverge from standard retail/F&B underwriting, and insurance brokers without category experience may underestimate exposures.
 
 #### The unique risk profile
 
@@ -84,7 +84,7 @@ Family-friendly formats include children, with elevated duty of care.
 - Cyber Liability
 - Crime / Money for cash handling
 
-**Years 2–5 (multi-room expansion or multi-venue):**
+**Years 2-5 (multi-room expansion or multi-venue):**
 - Higher limits across the board
 - D&O if incorporated
 - EPL as headcount grows
@@ -107,7 +107,7 @@ PL for entertainment venues:
 - Psychological distress claims (more relevant in high-immersion formats)
 
 **Limit considerations:**
-- Mall/landlord minimum (often S$2M–S$5M)
+- Mall/landlord minimum (often S$2M-S$5M)
 - Realistic exposure for serious customer injury can warrant higher limits
 - Children-inclusive venues warrant higher consideration
 
@@ -118,7 +118,7 @@ PL for entertainment venues:
 - Inter-customer incidents covered
 - Children-specific risks covered
 
-#### Liability waivers — limited utility
+#### Liability waivers - limited utility
 
 Singapore courts limit waiver enforceability:
 - Cannot exempt liability for gross negligence

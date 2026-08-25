@@ -24,7 +24,7 @@ og_description: "Bicycle retailers and cycling servicing operators in Singapore 
 
 ### The Sourced Detail
 
-Bicycle retail in Singapore has shifted significantly since 2017–2020 when PMD enforcement and battery-fire incidents reshaped the regulatory and product-safety frame. Insurance commercial structure must reflect both the conventional bicycle-shop exposures and the elevated battery / electrical exposures of the e-bike segment.
+Bicycle retail in Singapore has shifted significantly since 2017-2020 when PMD enforcement and battery-fire incidents reshaped the regulatory and product-safety frame. Insurance commercial structure must reflect both the conventional bicycle-shop exposures and the elevated battery / electrical exposures of the e-bike segment.
 
 #### Regulatory framework
 
@@ -44,30 +44,30 @@ Bicycle retail in Singapore has shifted significantly since 2017–2020 when PMD
 
 #### Insurance commercial spine
 
-**Stock cover** — bicycle shop inventory characteristics:
+**Stock cover** - bicycle shop inventory characteristics:
 
 - **Value concentration.** A specialty road / mountain bike shop carrying premium models can hold inventory worth SGD 500,000 to SGD 2 million, with individual bicycles ranging SGD 3,000 to SGD 25,000+ for high-end models.
 - **E-bike inventory.** E-bikes and PABs typically run SGD 2,500 to SGD 8,000+ per unit; specialty cargo e-bikes substantially more.
-- **Component inventory.** Spare parts, components, accessories add 20–40% to total stock value.
+- **Component inventory.** Spare parts, components, accessories add 20-40% to total stock value.
 - **Theft attractiveness.** High value-to-weight ratio makes bicycles theft targets; specialty components also targeted.
 
-**Property / Fire** — covers retail fit-out, workshop / service area, display fixtures, tools and diagnostic equipment.
+**Property / Fire** - covers retail fit-out, workshop / service area, display fixtures, tools and diagnostic equipment.
 
-**E-bike / PAB battery fire exposure** — distinct property risk:
+**E-bike / PAB battery fire exposure** - distinct property risk:
 
 - Lithium-ion battery thermal runaway can cause rapid, intense fire
 - Storage and charging configurations matter materially for both fire prevention and insurer underwriting
 - Some carriers apply specific premium loadings or require dedicated charging room / safe storage as a condition
 
-**Public Liability** — premises liability plus:
+**Public Liability** - premises liability plus:
 
 - **Test rides.** Customer riding shop-owned bicycle on public road for evaluation; if customer injured or causes injury to third party, liability questions complex
 - **Group rides.** Many shops sponsor or host group rides; liability for participant injury during shop-organised rides
 - **Event hosting.** Charity rides, demonstration events, brand launches
 
-**Product Liability** — for sold bicycles. Manufacturer typically carries primary product liability; retailer faces secondary exposure for assembly errors, modification, or where manufacturer is overseas with limited recourse.
+**Product Liability** - for sold bicycles. Manufacturer typically carries primary product liability; retailer faces secondary exposure for assembly errors, modification, or where manufacturer is overseas with limited recourse.
 
-**Service / Workmanship Liability** — distinct from Product Liability:
+**Service / Workmanship Liability** - distinct from Product Liability:
 
 - Repair work performed incorrectly causing subsequent customer injury
 - Brake servicing failure causing accident
@@ -76,13 +76,13 @@ Bicycle retail in Singapore has shifted significantly since 2017–2020 when PMD
 
 This is often subsumed under PI / PL but should be explicitly confirmed; specialty servicing of premium bikes (carbon frames, hydraulic disc brakes, electronic groupsets) creates higher-stakes exposure.
 
-**WICA** — for all employees: sales staff, mechanics, delivery riders. Mechanic injury exposures include: tool-related cuts, lifting heavy bikes, brake fluid / chemical exposure, battery-handling injuries.
+**WICA** - for all employees: sales staff, mechanics, delivery riders. Mechanic injury exposures include: tool-related cuts, lifting heavy bikes, brake fluid / chemical exposure, battery-handling injuries.
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Cyber / PDPA cover** — for online sales platform, customer data, payment systems.
+**Cyber / PDPA cover** - for online sales platform, customer data, payment systems.
 
-**Crime / Fidelity Guarantee** — material given high-value compact stock and turnover.
+**Crime / Fidelity Guarantee** - material given high-value compact stock and turnover.
 
 #### The e-bike / PAB battery fire risk
 
@@ -135,7 +135,7 @@ PL scope must explicitly address organised cycling events; some carriers exclude
 
 #### The cycling cafe hybrid model
 
-A meaningful number of Singapore bicycle shops operate cycling cafe hybrids — combining retail with F&B service, often as a community hub. Specific exposures:
+A meaningful number of Singapore bicycle shops operate cycling cafe hybrids - combining retail with F&B service, often as a community hub. Specific exposures:
 - Standard F&B-related PL (food contamination, allergen)
 - SFA food licensing compliance
 - Coordination with retail PL scope
@@ -159,7 +159,7 @@ For parallel-imported inventory, product liability cover should be specifically 
 
 3. **Test ride exposure off-premises uncovered.** Standard PL limited to premises; customer test ride accident triggers gap.
 
-4. **Service / workmanship liability scope unclear.** Repair causing subsequent injury — falls between PL and PI; cover not aligned.
+4. **Service / workmanship liability scope unclear.** Repair causing subsequent injury - falls between PL and PI; cover not aligned.
 
 5. **Group ride / event exposure outside PL scope.** Saturday shop ride participant injured; PL doesn't respond.
 
@@ -175,7 +175,7 @@ For parallel-imported inventory, product liability cover should be specifically 
 
 ### What This Means for Your Business
 
-For a typical Singapore bicycle / cycling shop — single location, retail + workshop, possible e-bike segment:
+For a typical Singapore bicycle / cycling shop - single location, retail + workshop, possible e-bike segment:
 
 1. **Confirm Active Mobility Act compliance** for any PAB / PMD inventory.
 
@@ -197,7 +197,7 @@ For a typical Singapore bicycle / cycling shop — single location, retail + wor
 
 10. **F&B-specific PL endorsement if cycling cafe is operated.**
 
-The cost of properly structured bicycle / cycling shop insurance is typically SGD 4,000–15,000 annually depending on stock value, premises type, and e-bike segment exposure. The cost of a single major incident — battery fire destroying inventory, workmanship-related serious injury claim — typically exceeds many years of premium.
+The cost of properly structured bicycle / cycling shop insurance is typically SGD 4,000-15,000 annually depending on stock value, premises type, and e-bike segment exposure. The cost of a single major incident - battery fire destroying inventory, workmanship-related serious injury claim - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

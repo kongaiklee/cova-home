@@ -46,7 +46,7 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001):
 - Licensed entity compliance
 - Operational operational standards
 
-#### FAA-N16 — Recommendations on investment products
+#### FAA-N16 - Recommendations on investment products
 
 **Foundation framework:**
 
@@ -78,7 +78,7 @@ Per [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n1
 - Operational operational scope
 - Operational operational sophistication
 
-#### FAA-N20 — Balanced Scorecard remuneration framework
+#### FAA-N20 - Balanced Scorecard remuneration framework
 
 **Foundation framework:**
 

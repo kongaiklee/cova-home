@@ -20,7 +20,7 @@ og_description: "A Singapore accounting or audit firm has insurance requirements
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public accountants conducting statutory audits must register with the [Accounting and Corporate Regulatory Authority (ACRA) — Public Accountants Oversight Committee (PAOC)](https://www.acra.gov.sg/) under the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) and **mandatory PI insurance** is a registration condition for public accountants and accounting entities. Beyond the mandatory PI: **Public Liability** for office, **WICA** for staff, **Cyber Liability** with attention to client financial data sensitivity (audit firms hold some of the most commercially sensitive data of any service business), **Property/Fire** for office, **D&O** as practice scales, and **Crime / Fidelity Guarantee** for client trust funds where applicable. For firms providing tax advice, restructuring, insolvency, or specialist advisory work, additional PI considerations apply. Verify current PI minimums and registration requirements directly on the ACRA portal before launching.
+> A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public accountants conducting statutory audits must register with the [Accounting and Corporate Regulatory Authority (ACRA) - Public Accountants Oversight Committee (PAOC)](https://www.acra.gov.sg/) under the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) and **mandatory PI insurance** is a registration condition for public accountants and accounting entities. Beyond the mandatory PI: **Public Liability** for office, **WICA** for staff, **Cyber Liability** with attention to client financial data sensitivity (audit firms hold some of the most commercially sensitive data of any service business), **Property/Fire** for office, **D&O** as practice scales, and **Crime / Fidelity Guarantee** for client trust funds where applicable. For firms providing tax advice, restructuring, insolvency, or specialist advisory work, additional PI considerations apply. Verify current PI minimums and registration requirements directly on the ACRA portal before launching.
 
 ### The Sourced Detail
 
@@ -74,7 +74,7 @@ Professional indemnity for Public Accountants is mandatory under the PAOC framew
 
 **Top-up PI:**
 
-Many firms — particularly those auditing larger entities, public-interest entities, or specialist work — purchase top-up PI above the mandatory minimum. The top-up structure typically:
+Many firms - particularly those auditing larger entities, public-interest entities, or specialist work - purchase top-up PI above the mandatory minimum. The top-up structure typically:
 - Sits above the mandatory cover
 - Provides higher per-claim and aggregate limits
 - May offer broader wording on specific exposures
@@ -119,21 +119,21 @@ This is among the most commercially sensitive data sets any SME service business
 
 Cyber Liability for accounting/audit firms must address:
 
-**1. PDPA exposure** — see [Article 98](/document-legal/pdpa-section-24-protection-obligation).
+**1. PDPA exposure** - see [Article 98](/document-legal/pdpa-section-24-protection-obligation).
 
-**2. Client confidentiality breach** — separate from PDPA but commercially material.
+**2. Client confidentiality breach** - separate from PDPA but commercially material.
 
-**3. Business Email Compromise** — accounting firms are major BEC targets:
+**3. Business Email Compromise** - accounting firms are major BEC targets:
 - Fake CFO emails requesting urgent transfers
 - Fake supplier emails with new bank details
 - Fraudster intercepts client-firm communications
 
-**4. Ransomware and operational disruption** — audit deadlines and tax filings are time-sensitive; operational disruption has cascade effects.
+**4. Ransomware and operational disruption** - audit deadlines and tax filings are time-sensitive; operational disruption has cascade effects.
 
-**5. Cross-border data flows** — for clients with overseas operations.
+**5. Cross-border data flows** - for clients with overseas operations.
 
 Recommended Cyber stack:
-- Standalone Cyber with appropriate limits (S$3M–S$10M+ for material practice)
+- Standalone Cyber with appropriate limits (S$3M-S$10M+ for material practice)
 - BEC / Social Engineering Fraud cover
 - BI for system/operational disruption
 - PDPA Section 26D notification cover
@@ -214,7 +214,7 @@ ISCA membership and Practising Certificate requirements differ from PAOC public 
 - Mandatory PI in place
 - Other commercial insurance procured
 
-**Year 1 (small firm, 1–5 staff):**
+**Year 1 (small firm, 1-5 staff):**
 - Mandatory PI (for audit work)
 - Top-up PI if practice warrants
 - Public Liability
@@ -224,7 +224,7 @@ ISCA membership and Practising Certificate requirements differ from PAOC public 
 - Cyber Liability
 - D&O if incorporated
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher PI limits as client base scales
 - EPL as headcount grows
 - Specialist extensions
@@ -238,17 +238,17 @@ ISCA membership and Practising Certificate requirements differ from PAOC public 
 
 For typical Singapore accounting/audit firms:
 
-**Small firm (1–5 partners/staff, mostly compilation/tax/SME audits):**
+**Small firm (1-5 partners/staff, mostly compilation/tax/SME audits):**
 - Mandatory PI: per scheme calculation
 - Top-up PI: optional
-- Other commercial insurance: S$8,000–S$25,000
-- **Total annual insurance budget** typically S$15,000–S$50,000+
+- Other commercial insurance: S$8,000-S$25,000
+- **Total annual insurance budget** typically S$15,000-S$50,000+
 
-**Mid-size firm (10–25 staff, mix of audit/tax/advisory):**
+**Mid-size firm (10-25 staff, mix of audit/tax/advisory):**
 - Higher PI limits
-- Comprehensive other lines: S$20,000–S$60,000
-- Cyber with BEC cover: S$10,000–S$30,000
-- **Total: S$50,000–S$150,000+**
+- Comprehensive other lines: S$20,000-S$60,000
+- Cyber with BEC cover: S$10,000-S$30,000
+- **Total: S$50,000-S$150,000+**
 
 **Larger firm (specialist, public-interest entity audits, etc.):**
 - Comprehensive programme

@@ -13,20 +13,20 @@ word_count: 2765
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor"
-meta_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR — single 12-month policy covering all..."
+meta_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR - single 12-month policy covering all..."
 og_title: "Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision"
-og_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR — single 12-month policy covering all..."
+og_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR - single 12-month policy covering all..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SME contractors face two structural choices for [Contractors All Risks (CAR)](https://gia.org.sg/) cover: (1) **Annual Blanket CAR** — single 12-month policy covering all declared projects under estimated annual contract value, with monthly or quarterly declarations; (2) **Project-Specific CAR** — single-project policy with fixed Sum Insured to contract value, defined project address, defined construction period plus Maintenance / Defects Liability Period. Both structures use the same three-section CAR framework: **Section I** (Material Damage to permanent works, temporary works, materials on site), **Section II** (Public Liability — typical sub-limit S$1m-5m for SMEs), **Section III** (Plant & Equipment). Optional **Delay-in-Start-Up (DSU) / Advance Loss of Profit (ALOP)** sleeve attaches to project policies, triggered only on physical-damage event under Section I, with time-excess deductibles of 30/45/60/90 days. Design-defect cover is governed by the **DE / LEG defects clauses**, which range from outright exclusion (DE1/LEG1) to broad restoration (DE5/LEG3). Per [GIA FY2024 sector results](https://gia.org.sg/), offshore Engineering GWP totalled **S$404.101m**. [BCA contractor licensing](https://www1.bca.gov.sg/) typically demands per-project insurance proof for tenders. Annual Blanket CAR can be 25-40% lower in administrative cost; Project-Specific CAR provides cleaner per-project documentation and Maintenance Period coverage. Annual policies start from approximately S$83/month; project-specific from approximately S$400 per project (per [Provide](https://www.providecover.com/)).
+> Singapore SME contractors face two structural choices for [Contractors All Risks (CAR)](https://gia.org.sg/) cover: (1) **Annual Blanket CAR** - single 12-month policy covering all declared projects under estimated annual contract value, with monthly or quarterly declarations; (2) **Project-Specific CAR** - single-project policy with fixed Sum Insured to contract value, defined project address, defined construction period plus Maintenance / Defects Liability Period. Both structures use the same three-section CAR framework: **Section I** (Material Damage to permanent works, temporary works, materials on site), **Section II** (Public Liability - typical sub-limit S$1m-5m for SMEs), **Section III** (Plant & Equipment). Optional **Delay-in-Start-Up (DSU) / Advance Loss of Profit (ALOP)** sleeve attaches to project policies, triggered only on physical-damage event under Section I, with time-excess deductibles of 30/45/60/90 days. Design-defect cover is governed by the **DE / LEG defects clauses**, which range from outright exclusion (DE1/LEG1) to broad restoration (DE5/LEG3). Per [GIA FY2024 sector results](https://gia.org.sg/), offshore Engineering GWP totalled **S$404.101m**. [BCA contractor licensing](https://www1.bca.gov.sg/) typically demands per-project insurance proof for tenders. Annual Blanket CAR can be 25-40% lower in administrative cost; Project-Specific CAR provides cleaner per-project documentation and Maintenance Period coverage. Annual policies start from approximately S$83/month; project-specific from approximately S$400 per project (per [Provide](https://www.providecover.com/)).
 
 ## The CAR Architecture
 
 Contractors All Risks insurance is the principal project-construction cover in Singapore. The structure is standardised across major Singapore carriers and Lloyd's-market placements, with the three-section framework providing comprehensive protection for the construction phase plus a defined Maintenance / Defects Liability Period.
 
-### Section I — Material Damage
+### Section I - Material Damage
 
 Section I covers physical loss and damage to:
 
@@ -38,9 +38,9 @@ Section I covers physical loss and damage to:
 
 The Section I trigger is physical loss or damage. Standard cover responds to fire, explosion, lightning, storm, flood, theft, malicious damage, impact damage, and other physical perils. Specific exclusions apply (war, terrorism unless extended, contamination, defective design unless specifically covered).
 
-### Section II — Public Liability
+### Section II - Public Liability
 
-Section II covers third-party bodily injury and third-party property damage arising out of the construction works. The cover is operational — protecting the contractor against claims from members of the public, neighbouring property owners, and third parties affected by the construction activities.
+Section II covers third-party bodily injury and third-party property damage arising out of the construction works. The cover is operational - protecting the contractor against claims from members of the public, neighbouring property owners, and third parties affected by the construction activities.
 
 For SME-scale construction projects, the Section II sub-limit typically ranges from S$1,000,000 to S$5,000,000 per occurrence, depending on:
 
@@ -49,7 +49,7 @@ For SME-scale construction projects, the Section II sub-limit typically ranges f
 - Buyer's contractual specifications (BCA, government bodies, private developers).
 - Standard PSSCOC or PSSCOC-lite requirements.
 
-### Section III — Plant and Equipment
+### Section III - Plant and Equipment
 
 Section III covers the contractor's plant and equipment on site:
 
@@ -66,26 +66,26 @@ Annual Blanket CAR is a single 12-month policy covering all projects undertaken 
 ### Structural Features
 
 - **12-month policy period** with annual renewal.
-- **Declared annual contract value** — the estimated total value of construction work in the policy year.
-- **Per-project limit** — maximum Sum Insured for any single project (typically S$10m-S$25m for SME programmes; larger if the SME's typical project size is higher).
-- **Aggregate limit** — total Section I aggregate across all projects in the policy year.
-- **Monthly or quarterly declarations** — the contractor declares projects commenced, projects completed, and aggregate value of work in progress.
-- **Premium adjustment** — annual reconciliation of declared work against estimated, with premium adjustment up or down.
-- **Maintenance Period extension** — Section I continues to cover the defects-liability period for declared projects (typically 12 months).
+- **Declared annual contract value** - the estimated total value of construction work in the policy year.
+- **Per-project limit** - maximum Sum Insured for any single project (typically S$10m-S$25m for SME programmes; larger if the SME's typical project size is higher).
+- **Aggregate limit** - total Section I aggregate across all projects in the policy year.
+- **Monthly or quarterly declarations** - the contractor declares projects commenced, projects completed, and aggregate value of work in progress.
+- **Premium adjustment** - annual reconciliation of declared work against estimated, with premium adjustment up or down.
+- **Maintenance Period extension** - Section I continues to cover the defects-liability period for declared projects (typically 12 months).
 
 ### Pros
 
-- **Administrative efficiency** — single placement, single renewal, single insurer relationship across all projects.
-- **Premium efficiency** — annual aggregate pricing typically 25-40% cheaper than equivalent project-specific placements summed.
-- **Tender response speed** — for buyers requiring insurance evidence within tight windows, the annual programme produces immediate certificates of insurance.
-- **Combined loss experience** — single experience record for renewal positioning.
+- **Administrative efficiency** - single placement, single renewal, single insurer relationship across all projects.
+- **Premium efficiency** - annual aggregate pricing typically 25-40% cheaper than equivalent project-specific placements summed.
+- **Tender response speed** - for buyers requiring insurance evidence within tight windows, the annual programme produces immediate certificates of insurance.
+- **Combined loss experience** - single experience record for renewal positioning.
 
 ### Cons
 
-- **Declaration discipline required** — missed declarations create coverage gaps.
-- **Aggregate erosion** — multiple smaller projects can erode aggregate; a major loss late in the policy year can compromise capacity for subsequent declarations.
-- **Renewal positioning affected by aggregate claims** — a bad year on combined experience produces sharp renewal pricing impact.
-- **DSU / ALOP cover** — typically handled per-project even within an annual programme.
+- **Declaration discipline required** - missed declarations create coverage gaps.
+- **Aggregate erosion** - multiple smaller projects can erode aggregate; a major loss late in the policy year can compromise capacity for subsequent declarations.
+- **Renewal positioning affected by aggregate claims** - a bad year on combined experience produces sharp renewal pricing impact.
+- **DSU / ALOP cover** - typically handled per-project even within an annual programme.
 
 ### Typical Pricing
 
@@ -97,7 +97,7 @@ Project-Specific CAR is a single-project policy with fixed Sum Insured to contra
 
 ### Structural Features
 
-- **Single project** — defined contract, defined parties, defined site, defined period.
+- **Single project** - defined contract, defined parties, defined site, defined period.
 - **Sum Insured** typically contract value plus a defined uplift (10-15%) to allow for variation, materials escalation, and reinstatement cost.
 - **Construction period** plus **Maintenance / Defects Liability Period** (typically 12 months).
 - **Section II PL sub-limit** specific to the project's third-party exposure.
@@ -105,19 +105,19 @@ Project-Specific CAR is a single-project policy with fixed Sum Insured to contra
 
 ### Pros
 
-- **Clean per-project documentation** — useful for buyer audit trails and for projects with specific contractual insurance requirements.
-- **No aggregate-sharing risk** — the limit is dedicated to the project.
-- **Project-specific underwriting** — wording calibrated to the specific project profile.
-- **Maintenance Period cleanly bounded** — the maintenance period extension is per-project rather than within an aggregate.
+- **Clean per-project documentation** - useful for buyer audit trails and for projects with specific contractual insurance requirements.
+- **No aggregate-sharing risk** - the limit is dedicated to the project.
+- **Project-specific underwriting** - wording calibrated to the specific project profile.
+- **Maintenance Period cleanly bounded** - the maintenance period extension is per-project rather than within an aggregate.
 
 ### Cons
 
-- **Higher administrative burden** — per-project placement, separate underwriting cycle.
-- **Per-project minimum premium** — typical from approximately S$400 per project per [Provide](https://www.providecover.com/), which can be high relative to small project values.
+- **Higher administrative burden** - per-project placement, separate underwriting cycle.
+- **Per-project minimum premium** - typical from approximately S$400 per project per [Provide](https://www.providecover.com/), which can be high relative to small project values.
 - **Multiple insurer relationships** across projects (unless the SME consistently uses the same carrier).
-- **Slower tender response** — per-project placement takes time.
+- **Slower tender response** - per-project placement takes time.
 
-## DSU / ALOP — The Income-Protection Sleeve
+## DSU / ALOP - The Income-Protection Sleeve
 
 Delay-in-Start-Up (DSU) and Advance Loss of Profit (ALOP) are optional CAR extensions that respond to delayed project completion. The structure:
 
@@ -138,9 +138,9 @@ For pure-construction SMEs building for third-party owners, DSU/ALOP is sometime
 
 Standard CAR cover excludes loss arising from defective design. How much design-defect-related damage is restored depends on which defects clause is attached. Two London-market clause families are in use: the **DE clauses** (Defects Exclusion, DE1 to DE5) and the **LEG clauses** (London Engineering Group, LEG1 to LEG3). Both run on a sliding scale from outright exclusion to broad cover:
 
-- **DE1 / LEG1** — outright exclusion: no cover for any loss connected to the defect.
-- **DE3 / LEG2** — the common "standard" position: the defective property itself is excluded, but consequential physical damage to other, non-defective insured property is covered.
-- **DE5 / LEG3** — the broadest wordings: damage to the defective property is also covered, and only the cost of *improving* the original design (betterment) is excluded.
+- **DE1 / LEG1** - outright exclusion: no cover for any loss connected to the defect.
+- **DE3 / LEG2** - the common "standard" position: the defective property itself is excluded, but consequential physical damage to other, non-defective insured property is covered.
+- **DE5 / LEG3** - the broadest wordings: damage to the defective property is also covered, and only the cost of *improving* the original design (betterment) is excluded.
 
 Cover broadens as the clause number rises; premium and excess typically rise for the broader DE4/DE5 and LEG3 wordings.
 
@@ -159,7 +159,7 @@ The Annual Blanket vs Project-Specific decision rests on:
 
 ### Variable 2: Project Size Distribution
 
-A consistent flow of similar-sized projects fits Annual Blanket well. A mix of very small and very large projects can fit a hybrid — Annual Blanket for the routine, Project-Specific for the very large.
+A consistent flow of similar-sized projects fits Annual Blanket well. A mix of very small and very large projects can fit a hybrid - Annual Blanket for the routine, Project-Specific for the very large.
 
 The per-project limit on the Annual Blanket must be sized to the largest plausible project. If a single project exceeds the per-project limit, the structure needs adjustment.
 
@@ -266,7 +266,7 @@ Specific risks of construction operations affecting third-party property:
 ### Maintenance Period
 
 - Cover continues for the specified period.
-- Defects work performed within the period — cover responds to consequential physical damage.
+- Defects work performed within the period - cover responds to consequential physical damage.
 
 ### End of Maintenance
 
@@ -303,7 +303,7 @@ Specific risks of construction operations affecting third-party property:
 
 ## What This Means for Your Business
 
-If you are a Singapore SME contractor, CAR is core operational insurance. The Annual Blanket vs Project-Specific decision is structural — the right answer depends on project flow, project size distribution, buyer requirements, and operational discipline.
+If you are a Singapore SME contractor, CAR is core operational insurance. The Annual Blanket vs Project-Specific decision is structural - the right answer depends on project flow, project size distribution, buyer requirements, and operational discipline.
 
 For most active SME contractors with 5+ projects per year, Annual Blanket is the structural answer. Single placement, lower combined premium, faster tender response. The trade-off is declaration discipline, which most SMEs can maintain with adequate administrative process.
 
@@ -316,7 +316,7 @@ The licensed adviser handling your CAR placement should walk you through the str
 1. Based on my project flow and project size distribution, which structure (Annual Blanket vs Project-Specific) produces the better outcome?
 2. What is the per-project limit and aggregate limit on the recommended Annual Blanket programme, and are these sized correctly for my largest plausible project?
 3. For the Section II Public Liability sub-limit, what limit do you recommend for my project mix, and how does it compare to the PSSCOC-lite contractual minimum of S$1m?
-4. How is the Maintenance / Defects Liability Period handled — what is the cover scope during maintenance, and what is the workflow for activating it at practical completion?
+4. How is the Maintenance / Defects Liability Period handled - what is the cover scope during maintenance, and what is the workflow for activating it at practical completion?
 5. For design-build projects in my mix, what design-defect cover (which DE or LEG defects clause) is appropriate?
 6. Is DSU / ALOP appropriate for my client mix, and what time-excess deductible and maximum indemnity period would you recommend?
 7. For existing-structures and adjacent-property exposure, what endorsements should I have, and what are the sub-limits?
@@ -327,7 +327,7 @@ The licensed adviser handling your CAR placement should walk you through the str
 - [Annual Open Cover Marine Cargo vs Specific Voyage Policy](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme) (article 397)
 - [Annual Fleet Rated vs Individual Vehicle Commercial Motor](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme) (article 396)
 - [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025) (article 388)
-- [BCA CRS Expansion to National Registry — 1 June 2025](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [BCA CRS Expansion to National Registry - 1 June 2025](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 - [WSH Penalty Doubling 2024](/regulatory-change/wsh-penalty-doubling-2024)
 - [WSH Mandatory Video Surveillance for Construction Worksites](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
 - [Per Occurrence vs Aggregate Limits](/comparison/per-occurrence-vs-aggregate-limits)

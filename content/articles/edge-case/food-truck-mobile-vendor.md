@@ -13,18 +13,18 @@ word_count: 1598
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/edge-case/food-truck-mobile-vendor"
-meta_description: "Mobile F&B operations in Singapore — food trucks, mobile carts, pop-up vendors — face a structural challenge: the Singapore Food Agency (SFA) does not..."
+meta_description: "Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the Singapore Food Agency (SFA) does not..."
 og_title: "Food Truck or Mobile F&B Vendor in Singapore: What Insurance Do You Actually Need?"
-og_description: "Mobile F&B operations in Singapore — food trucks, mobile carts, pop-up vendors — face a structural challenge: the Singapore Food Agency (SFA) does not..."
+og_description: "Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the Singapore Food Agency (SFA) does not..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Mobile F&B operations in Singapore — food trucks, mobile carts, pop-up vendors — face a structural challenge: the [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) does not generally license general roving food vendors on public streets. Most mobile F&B operates within specific frameworks: **food truck park / food village events** (organised events with one-off SFA permits), **private property pop-ups** (with venue's licence), **catered events** (under caterer's [Food Establishment Licence](https://www.sfa.gov.sg/food-retail/food-licensing-faq)), **Hawker Centres / Markets**, and **mobile food vehicle operations on private property**. Insurance build typically includes: **Public Liability and Product Liability** (with mobile/event-specific underwriting), **Commercial Vehicle insurance** for the truck itself, **Property cover** for equipment, **WICA** for staff, and event-specific cover for organised gigs. Each operating model has different licensing and insurance interactions.
+> Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) does not generally license general roving food vendors on public streets. Most mobile F&B operates within specific frameworks: **food truck park / food village events** (organised events with one-off SFA permits), **private property pop-ups** (with venue's licence), **catered events** (under caterer's [Food Establishment Licence](https://www.sfa.gov.sg/food-retail/food-licensing-faq)), **Hawker Centres / Markets**, and **mobile food vehicle operations on private property**. Insurance build typically includes: **Public Liability and Product Liability** (with mobile/event-specific underwriting), **Commercial Vehicle insurance** for the truck itself, **Property cover** for equipment, **WICA** for staff, and event-specific cover for organised gigs. Each operating model has different licensing and insurance interactions.
 
 ### The Sourced Detail
 
-Mobile F&B in Singapore is more constrained than in many countries — Singapore does not license general street food vending the way some other cities do. Operating models that work in Singapore are specific, and the insurance build follows the operating model.
+Mobile F&B in Singapore is more constrained than in many countries - Singapore does not license general street food vending the way some other cities do. Operating models that work in Singapore are specific, and the insurance build follows the operating model.
 
 #### The licensing constraint
 
@@ -127,7 +127,7 @@ The food truck or mobile cart itself involves:
 - Standard commercial vehicle cover
 - Some insurers have specific food truck schemes
 - Modifications (kitchen equipment installation) need specific declaration
-- Total replacement value typically S$30,000–S$200,000+ depending on build
+- Total replacement value typically S$30,000-S$200,000+ depending on build
 
 **Commercial vehicle compliance:**
 - [LTA OneMotoring](https://onemotoring.lta.gov.sg/) registration
@@ -165,8 +165,8 @@ Mobile F&B has distinctive PL/Product Liability characteristics:
 - Slip/trip hazards from operations
 
 **Power and propane:**
-- Propane fuel for cooking — fire and explosion risk
-- Generator fuel — similar risks
+- Propane fuel for cooking - fire and explosion risk
+- Generator fuel - similar risks
 - Insurance underwriting attention to these risks
 
 **Equipment failure during operation:**
@@ -194,20 +194,20 @@ Mobile F&B operators with:
 - Payment processing
 - Customer data
 
-Cyber Liability with appropriate sub-limits — often modest given limited data volumes for small operators, but increasing as POS and customer engagement digitise.
+Cyber Liability with appropriate sub-limits - often modest given limited data volumes for small operators, but increasing as POS and customer engagement digitise.
 
 #### Premium considerations
 
 For typical Singapore mobile F&B operations:
 
-**Single food truck operator (1–3 staff):**
-- PL/Product Liability: S$1,500–S$5,000
+**Single food truck operator (1-3 staff):**
+- PL/Product Liability: S$1,500-S$5,000
 - Vehicle: per vehicle assessment (commercial vehicle rates)
-- Property: S$500–S$2,000 for equipment
+- Property: S$500-S$2,000 for equipment
 - WICA: per staff numbers
-- **Total annual insurance budget** typically S$5,000–S$15,000
+- **Total annual insurance budget** typically S$5,000-S$15,000
 
-**Multi-truck operator (3–10 trucks, mid-size):**
+**Multi-truck operator (3-10 trucks, mid-size):**
 - Higher aggregate cover
 - Fleet vehicle cover
 - Total varies materially with scale
@@ -215,7 +215,7 @@ For typical Singapore mobile F&B operations:
 **Catering operation with mobile element:**
 - Comprehensive caterer cover
 - Higher Product Liability and Recall
-- Total typically S$10,000–S$30,000+
+- Total typically S$10,000-S$30,000+
 
 #### Specific scenarios
 
@@ -263,7 +263,7 @@ For aspiring or established mobile F&B operators in Singapore, the operating mod
 
 2. **Engage SFA early.** Understanding which licensing umbrella applies to your model is foundation work.
 
-3. **Match insurance to operating model.** Event-based, catering, fixed-private-property, hawker stall — each has different needs.
+3. **Match insurance to operating model.** Event-based, catering, fixed-private-property, hawker stall - each has different needs.
 
 4. **Maintain vehicle insurance with modifications declared.** Standard vehicle cover may not respond.
 

@@ -172,11 +172,11 @@ For directors, the section 157 duty-of-diligence defence requires documented dec
 
 ### Related Information
 
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
-- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
-- [Article 274 — Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Article 277 — Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 300 — IT Vendor or SaaS Provider Disappearance](/crisis/it-vendor-saas-disappearance)
+- [Article 261 - IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 291 - Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Article 274 - Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 300 - IT Vendor or SaaS Provider Disappearance](/crisis/it-vendor-saas-disappearance)
 
 ---

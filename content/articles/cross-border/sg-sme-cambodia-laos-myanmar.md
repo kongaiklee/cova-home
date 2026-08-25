@@ -20,7 +20,7 @@ og_description: "Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) f
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) face emerging market commercial frameworks where the regulatory infrastructure is substantively less mature than other Southeast Asian markets. Cambodia operates under [Insurance Regulator of Cambodia (IRC)](https://irc.gov.kh/) framework, Laos under [Bank of the Lao PDR](https://www.bol.gov.la/) Insurance Department, and Myanmar under [Insurance Business Regulatory Board (IBRB)](https://www.imof.gov.mm/) — each with substantively distinct commercial scope. Mandatory schemes vary substantially: Cambodia has National Social Security Fund (NSSF), Laos has National Social Security Fund (NSSF Lao), Myanmar has Social Security Board (SSB) — with substantively varying coverage and enforcement. Framework for political risk exposure (particularly Myanmar post-2021 framework), operational sophistication around evolving regulatory frameworks, and commercial sensitivity around regional commercial scope create distinctive cross-border considerations.
+> Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) face emerging market commercial frameworks where the regulatory infrastructure is substantively less mature than other Southeast Asian markets. Cambodia operates under [Insurance Regulator of Cambodia (IRC)](https://irc.gov.kh/) framework, Laos under [Bank of the Lao PDR](https://www.bol.gov.la/) Insurance Department, and Myanmar under [Insurance Business Regulatory Board (IBRB)](https://www.imof.gov.mm/) - each with substantively distinct commercial scope. Mandatory schemes vary substantially: Cambodia has National Social Security Fund (NSSF), Laos has National Social Security Fund (NSSF Lao), Myanmar has Social Security Board (SSB) - with substantively varying coverage and enforcement. Framework for political risk exposure (particularly Myanmar post-2021 framework), operational sophistication around evolving regulatory frameworks, and commercial sensitivity around regional commercial scope create distinctive cross-border considerations.
 
 ### The Sourced Detail
 
@@ -32,7 +32,7 @@ Cambodia operates a developing insurance market under [Insurance Regulator of Ca
 
 Operational scope considerations include:
 
-The market is substantively admitted — insurance covering Cambodia risks must generally be placed with IRC-authorised insurers. Commercial relationships with major Cambodia insurers (Forte Insurance, Asia Insurance Cambodia, Infinity General Insurance, specific other Cambodia insurers) and specific commercial brokers matter.
+The market is substantively admitted - insurance covering Cambodia risks must generally be placed with IRC-authorised insurers. Commercial relationships with major Cambodia insurers (Forte Insurance, Asia Insurance Cambodia, Infinity General Insurance, specific other Cambodia insurers) and specific commercial brokers matter.
 
 **National Social Security Fund (NSSF)** under [NSSF](https://nssf.gov.kh/) provides occupational risk insurance, healthcare, and pension scheme. Coverage applies progressively to formal sector employees with specific contribution rate frameworks.
 
@@ -46,7 +46,7 @@ Laos operates a developing insurance market under [Bank of the Lao PDR](https://
 
 Operational scope considerations include:
 
-The market is substantively admitted — insurance covering Laos risks must generally be placed with Bank of Lao PDR-authorised insurers. Commercial relationships with limited number of authorised insurers create operational considerations considerations.
+The market is substantively admitted - insurance covering Laos risks must generally be placed with Bank of Lao PDR-authorised insurers. Commercial relationships with limited number of authorised insurers create operational considerations considerations.
 
 **National Social Security Fund (NSSF Lao)** provides occupational health, sickness, maternity, work injury, disability, and pension scheme. Coverage and enforcement vary substantially across formal vs informal sector commercial scope.
 
@@ -72,7 +72,7 @@ For Singapore SMEs operating Myanmar commercial scope, considerations on politic
 
 CLM operations share several cross-jurisdictional considerations.
 
-Specific catastrophic peril exposure varies — Myanmar has substantial earthquake and cyclone exposure (Cyclone Nargis 2008 caused substantial commercial scope impacts), Cambodia has flood exposure, Laos has flood and specific landslide exposure.
+Specific catastrophic peril exposure varies - Myanmar has substantial earthquake and cyclone exposure (Cyclone Nargis 2008 caused substantial commercial scope impacts), Cambodia has flood exposure, Laos has flood and specific landslide exposure.
 
 Specific cross-border commercial scope under [ASEAN](https://asean.org/) frameworks creates commercial considerations. ASEAN Comprehensive Investment Agreement and specific bilateral commercial scope.
 
@@ -88,9 +88,9 @@ For Singapore SMEs with CLM operations, foundational cover stack includes severa
 
 **Mandatory social security compliance** as regulatory scope.
 
-**Singapore-issued non-admitted DIC/DIL cover** where commercially feasible — specifically valuable given limited local market depth.
+**Singapore-issued non-admitted DIC/DIL cover** where commercially feasible - specifically valuable given limited local market depth.
 
-**Specific Political Risk Insurance** where applicable — particularly relevant for Myanmar operations and operational scope across all three markets. Commercial relationships with [Multilateral Investment Guarantee Agency (MIGA)](https://www.miga.org/) (World Bank Group political risk insurer) and specific specialist political risk markets (Lloyd's specialist syndicates, specific commercial markets).
+**Specific Political Risk Insurance** where applicable - particularly relevant for Myanmar operations and operational scope across all three markets. Commercial relationships with [Multilateral Investment Guarantee Agency (MIGA)](https://www.miga.org/) (World Bank Group political risk insurer) and specific specialist political risk markets (Lloyd's specialist syndicates, specific commercial markets).
 
 **Specific Trade Credit insurance** where applicable for receivables protection given developing commercial frameworks.
 
@@ -110,7 +110,7 @@ Specific premises incidents engage Public Liability framework.
 
 Specific political risk scenarios (particularly Myanmar) engage Political Risk Insurance scope.
 
-Commercial dispute scenarios engage specific local commercial counsel — enforcement timelines and procedural complexity vary substantially across markets.
+Commercial dispute scenarios engage specific local commercial counsel - enforcement timelines and procedural complexity vary substantially across markets.
 
 Specific natural disaster scenarios engage Property/Fire and BI scope.
 
@@ -151,9 +151,9 @@ For substantive CLM operations, operational considerations includes specialist e
 
 For Singapore SMEs operating CLM commercial scope:
 
-Each market operates substantively distinct commercial framework — considerations on each market's specifics matters substantially. Limited local insurance market depth creates commercial considerations around DIC/DIL coordination. Political Risk Insurance is substantively relevant — particularly for Myanmar operations. Considerations on evolving regulatory frameworks, commercial sensitivity around regional commercial scope, and operational discipline form the operational foundation.
+Each market operates substantively distinct commercial framework - considerations on each market's specifics matters substantially. Limited local insurance market depth creates commercial considerations around DIC/DIL coordination. Political Risk Insurance is substantively relevant - particularly for Myanmar operations. Considerations on evolving regulatory frameworks, commercial sensitivity around regional commercial scope, and operational discipline form the operational foundation.
 
-For substantive operations, specialist emerging market-experienced commercial broker engagement, specific local commercial counsel relationships, and operational discipline are essential — not optional. SMEs that engage thoughtfully with the commercial complexity benefit from operational protection that supports substantial commercial scope across challenging regulatory environments.
+For substantive operations, specialist emerging market-experienced commercial broker engagement, specific local commercial counsel relationships, and operational discipline are essential - not optional. SMEs that engage thoughtfully with the commercial complexity benefit from operational protection that supports substantial commercial scope across challenging regulatory environments.
 
 ### Questions to Ask Your Adviser
 

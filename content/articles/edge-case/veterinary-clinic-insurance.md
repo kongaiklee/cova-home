@@ -42,27 +42,27 @@ The [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965) establishes
 
 #### Insurance commercial spine
 
-**Veterinary Professional Indemnity (Vet PI)** — covers liability for treatment-related claims. Distinct from healthcare PI. Specific risks:
+**Veterinary Professional Indemnity (Vet PI)** - covers liability for treatment-related claims. Distinct from healthcare PI. Specific risks:
 
 - Surgical malpractice (incorrect technique, retained surgical material, post-surgical complication)
-- Anaesthesia-related death — particularly high-risk in veterinary practice; even routine procedures carry meaningful anaesthesia mortality
+- Anaesthesia-related death - particularly high-risk in veterinary practice; even routine procedures carry meaningful anaesthesia mortality
 - Misdiagnosis / delayed diagnosis (cancer, congenital condition, infectious disease)
 - Drug error (incorrect dose, contraindicated medication, owner instruction error)
 - Vaccination reaction
 - Diagnostic imaging error (X-ray, ultrasound, advanced imaging interpretation)
 - Bailee duty failure (animal escape, animal-on-animal injury during boarding)
 
-**Animal-in-Custody / Bailee Cover** — separate from PI. Covers the value of the animal itself when in clinic custody. Death, injury, or loss of animal during care creates bailee liability. Some Vet PI wordings include limited bailee cover; standalone bailee cover provides higher limits and clearer terms.
+**Animal-in-Custody / Bailee Cover** - separate from PI. Covers the value of the animal itself when in clinic custody. Death, injury, or loss of animal during care creates bailee liability. Some Vet PI wordings include limited bailee cover; standalone bailee cover provides higher limits and clearer terms.
 
-**Public Liability** — covers third-party premises liability: owner slip-and-fall in waiting area, owner injury from agitated animal in waiting area (when animal is not the customer of insured but a third party's animal), fixture failure.
+**Public Liability** - covers third-party premises liability: owner slip-and-fall in waiting area, owner injury from agitated animal in waiting area (when animal is not the customer of insured but a third party's animal), fixture failure.
 
-**Property / Fire** — covers clinic fit-out, examination rooms, surgical theatre, kennels, specialised equipment (ultrasound, X-ray, anaesthesia machine, laboratory equipment, dental equipment), pharmaceutical inventory including controlled drugs (which require specific declaration and storage protocols), and animal food / supplies.
+**Property / Fire** - covers clinic fit-out, examination rooms, surgical theatre, kennels, specialised equipment (ultrasound, X-ray, anaesthesia machine, laboratory equipment, dental equipment), pharmaceutical inventory including controlled drugs (which require specific declaration and storage protocols), and animal food / supplies.
 
-**WICA** — required for all employees: veterinarians, veterinary nurses / technicians, kennel staff, receptionists, cleaners. Animal-related injury is a material WICA risk (bites, scratches, zoonotic exposure, lifting injuries).
+**WICA** - required for all employees: veterinarians, veterinary nurses / technicians, kennel staff, receptionists, cleaners. Animal-related injury is a material WICA risk (bites, scratches, zoonotic exposure, lifting injuries).
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Cyber / PDPA-aligned cover** — patient records (animal medical records typically include owner personal data and contact details); PDPA applies to owner data.
+**Cyber / PDPA-aligned cover** - patient records (animal medical records typically include owner personal data and contact details); PDPA applies to owner data.
 
 #### The animal-in-custody bailee question
 
@@ -80,7 +80,7 @@ Bailee cover responds to these. Vet PI may cover treatment-related death/injury 
 
 #### Anaesthesia-related death
 
-Anaesthesia mortality is a defining veterinary insurance issue. Reported anaesthesia mortality rates in companion animal practice are materially higher than in human medicine — single-digit-percent mortality range in some species/conditions versus low-permille in human anaesthesia.
+Anaesthesia mortality is a defining veterinary insurance issue. Reported anaesthesia mortality rates in companion animal practice are materially higher than in human medicine - single-digit-percent mortality range in some species/conditions versus low-permille in human anaesthesia.
 
 PI policies typically respond to anaesthesia-related claims provided the practitioner met the standard of care. Underwriting examines anaesthesia protocols, monitoring equipment, staff training, post-anaesthesia recovery protocols.
 
@@ -90,10 +90,10 @@ Some carriers offer specific anaesthesia-coverage endorsement; others underwrite
 
 Veterinary practices handle scheduled drugs (ketamine, opioids, certain sedatives). Exposure includes:
 
-- **Theft** — controlled drugs are targets for diversion; theft creates property loss plus potential regulatory exposure for inadequate storage protocols
-- **Diversion by employees** — employee theft / personal use creates regulatory and HR exposure
-- **Documentation failure** — controlled drug logs must be maintained; failure creates regulatory exposure
-- **Disposal protocol failure** — improper disposal of controlled drugs creates regulatory exposure
+- **Theft** - controlled drugs are targets for diversion; theft creates property loss plus potential regulatory exposure for inadequate storage protocols
+- **Diversion by employees** - employee theft / personal use creates regulatory and HR exposure
+- **Documentation failure** - controlled drug logs must be maintained; failure creates regulatory exposure
+- **Disposal protocol failure** - improper disposal of controlled drugs creates regulatory exposure
 
 Property cover responds to theft. Fidelity Guarantee responds to employee theft. Regulatory defence may be needed independent of cover; some PI wordings include limited regulatory defence cover.
 
@@ -101,10 +101,10 @@ Property cover responds to theft. Fidelity Guarantee responds to employee theft.
 
 Many small-animal practices offer on-call or after-hours emergency service. Insurance considerations:
 
-- **After-hours treatment** — may engage different staffing levels and protocols; PI must respond to after-hours treatment
-- **Mobile / house-call practice** — PI must cover treatment delivered off-clinic-premises
-- **Telemedicine consultation** — virtual consultation may have specific PI scope
-- **Premises liability after-hours** — clinic open after hours has different security profile
+- **After-hours treatment** - may engage different staffing levels and protocols; PI must respond to after-hours treatment
+- **Mobile / house-call practice** - PI must cover treatment delivered off-clinic-premises
+- **Telemedicine consultation** - virtual consultation may have specific PI scope
+- **Premises liability after-hours** - clinic open after hours has different security profile
 
 ### Common Mistakes / What Goes Wrong
 
@@ -122,7 +122,7 @@ Many small-animal practices offer on-call or after-hours emergency service. Insu
 
 7. **Mobile / house-call practice without scope confirmation.** PI limited to clinic premises; off-premises treatment uncovered.
 
-8. **High-value animal undervalued under bailee cover.** Show animal, breeding animal, working animal in custody — bailee limits not aligned with replacement value.
+8. **High-value animal undervalued under bailee cover.** Show animal, breeding animal, working animal in custody - bailee limits not aligned with replacement value.
 
 9. **Pet-owner data on practice management software.** PDPA obligations on owner personal data; breach notification and Cyber cover gaps.
 
@@ -130,7 +130,7 @@ Many small-animal practices offer on-call or after-hours emergency service. Insu
 
 ### What This Means for Your Business
 
-For a typical Singapore small-animal veterinary clinic — single location, 2–5 vets, with surgery/boarding/dispensary:
+For a typical Singapore small-animal veterinary clinic - single location, 2-5 vets, with surgery/boarding/dispensary:
 
 1. **Confirm each veterinarian holds a current AVS veterinary licence.** Licence validity is foundational to cover validity.
 
@@ -152,7 +152,7 @@ For a typical Singapore small-animal veterinary clinic — single location, 2–
 
 10. **Coordinate with the AVS Code of Ethics for Veterinarians and AVS licensing requirements.** Insurance is the financial layer; regulatory compliance is the legal layer.
 
-The cost of properly structured veterinary clinic insurance for a typical 2–4 vet small-animal practice is typically SGD 8,000–25,000 annually depending on procedure scope, equipment, boarding capacity. The cost of a single significant claim — surgical malpractice with anaesthesia death or boarding-loss claim — typically exceeds many years of premium.
+The cost of properly structured veterinary clinic insurance for a typical 2-4 vet small-animal practice is typically SGD 8,000-25,000 annually depending on procedure scope, equipment, boarding capacity. The cost of a single significant claim - surgical malpractice with anaesthesia death or boarding-loss claim - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

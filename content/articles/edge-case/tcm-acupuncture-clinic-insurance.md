@@ -38,13 +38,13 @@ The [Traditional Chinese Medicine Practitioners Act 2000](https://sso.agc.gov.sg
 
 **Clinic licensing under HCSA.** Under the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by [MOH](https://www.moh.gov.sg/), TCM clinics fall within scope of healthcare services licensing. Specific licensing categories and requirements apply per clinic type.
 
-**Code of Ethics and Code of Professional Conduct** — published by TCMPB and binding on registered practitioners.
+**Code of Ethics and Code of Professional Conduct** - published by TCMPB and binding on registered practitioners.
 
 #### Insurance commercial spine
 
-For a typical Singapore TCM clinic — single location, 1–5 practitioners, treatment plus retail herbal dispensary — the commercial spine looks like this:
+For a typical Singapore TCM clinic - single location, 1-5 practitioners, treatment plus retail herbal dispensary - the commercial spine looks like this:
 
-**Professional Indemnity (Healthcare PI / TCM specific PI)** — covers liability for treatment-related claims. The line that has to fit:
+**Professional Indemnity (Healthcare PI / TCM specific PI)** - covers liability for treatment-related claims. The line that has to fit:
 
 - Acupuncture needle-related injury (nerve injury, pneumothorax in chest-region needling, infection from sterilisation failure, retained needle)
 - Herbal contraindication (patient on Western medication; herb-drug interaction; specific patient sensitivity)
@@ -55,23 +55,23 @@ For a typical Singapore TCM clinic — single location, 1–5 practitioners, tre
 
 PI policy must be on a healthcare-practitioner basis. Some standard professional services PI policies do not respond to bodily injury claims arising from treatment; healthcare-PI specifically covers this. The wording matters.
 
-**Public Liability** — covers clinic premises liability: patient slip-and-fall, fixture failure, third-party visitor injury. Not treatment-related (which is PI).
+**Public Liability** - covers clinic premises liability: patient slip-and-fall, fixture failure, third-party visitor injury. Not treatment-related (which is PI).
 
-**Property / Fire** — covers clinic fit-out (treatment beds, examination tables, acupuncture equipment, dispensary fixtures), herbal inventory (which can be valuable and time-sensitive), and consumables. Herbal inventory often requires specific declaration; expensive specialty herbs may need higher sub-limits.
+**Property / Fire** - covers clinic fit-out (treatment beds, examination tables, acupuncture equipment, dispensary fixtures), herbal inventory (which can be valuable and time-sensitive), and consumables. Herbal inventory often requires specific declaration; expensive specialty herbs may need higher sub-limits.
 
-**Work Injury Compensation (WICA)** — required under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) for all employees. Includes employed TCM practitioners, receptionists, dispensers, cleaners. Per-employee mandatory cover at minimum statutory levels.
+**Work Injury Compensation (WICA)** - required under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) for all employees. Includes employed TCM practitioners, receptionists, dispensers, cleaners. Per-employee mandatory cover at minimum statutory levels.
 
-**Group Medical / Group Personal Accident** — voluntary employer-paid cover for employees including practitioners. Note: practitioners' own treatment exposure is PI, not Group PA.
+**Group Medical / Group Personal Accident** - voluntary employer-paid cover for employees including practitioners. Note: practitioners' own treatment exposure is PI, not Group PA.
 
-**Cyber / PDPA-aligned cover** — if patient records are digital. [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) breach notification obligations apply to TCM clinics holding patient personal data.
+**Cyber / PDPA-aligned cover** - if patient records are digital. [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) breach notification obligations apply to TCM clinics holding patient personal data.
 
 #### The needle-stick and infection risk
 
 Needle-stick injury is the most material treatment-injury exposure for acupuncture practice. Two parallel risks:
 
-**Patient injury** — needle insertion into wrong location (nerve injury, pneumothorax in chest-region needling, internal organ injury); sterilisation failure leading to infection; retained needle (left in place after treatment).
+**Patient injury** - needle insertion into wrong location (nerve injury, pneumothorax in chest-region needling, internal organ injury); sterilisation failure leading to infection; retained needle (left in place after treatment).
 
-**Practitioner self-injury** — practitioner needle-stick from used needle, with consequent blood-borne pathogen exposure (Hepatitis B, Hepatitis C, HIV).
+**Practitioner self-injury** - practitioner needle-stick from used needle, with consequent blood-borne pathogen exposure (Hepatitis B, Hepatitis C, HIV).
 
 PI policy responds to patient injury. Practitioner self-injury is a WICA / Group PA matter.
 
@@ -81,11 +81,11 @@ The standard of care includes: single-use sterile needles (no reuse), proper sha
 
 Herbal medicine creates a parallel risk frame:
 
-**Drug-herb interaction** — patient on Western prescription medication where herb interferes (warfarin and ginkgo, statins and red yeast rice, immunosuppressants and various herbs). Practitioner duty to ask, document, and avoid contraindicated herbs.
+**Drug-herb interaction** - patient on Western prescription medication where herb interferes (warfarin and ginkgo, statins and red yeast rice, immunosuppressants and various herbs). Practitioner duty to ask, document, and avoid contraindicated herbs.
 
-**Patient-specific contraindication** — pregnant patients, patients with specific medical conditions, paediatric patients. Practitioner duty to assess and avoid contraindicated herbs.
+**Patient-specific contraindication** - pregnant patients, patients with specific medical conditions, paediatric patients. Practitioner duty to assess and avoid contraindicated herbs.
 
-**Product quality** — herbs sourced from suppliers must meet quality standards. [HSA (Health Sciences Authority)](https://www.hsa.gov.sg/) regulates Chinese Proprietary Medicines and certain herb products. Use of unregistered or contaminated products creates independent exposure.
+**Product quality** - herbs sourced from suppliers must meet quality standards. [HSA (Health Sciences Authority)](https://www.hsa.gov.sg/) regulates Chinese Proprietary Medicines and certain herb products. Use of unregistered or contaminated products creates independent exposure.
 
 PI typically covers practitioner-duty failures; product-defect claims may engage product liability where the herb is sourced from a third-party supplier.
 
@@ -133,7 +133,7 @@ A common operational structure: the clinic entity is the legal counterparty (cli
 
 ### What This Means for Your Business
 
-For a typical Singapore TCM clinic — single location, 2–4 practitioners, mixed treatment + dispensary:
+For a typical Singapore TCM clinic - single location, 2-4 practitioners, mixed treatment + dispensary:
 
 1. **Confirm TCMPB registration current for all practitioners.** Practising Certificate validity is foundational to PI cover validity.
 
@@ -155,7 +155,7 @@ For a typical Singapore TCM clinic — single location, 2–4 practitioners, mix
 
 10. **Coordinate with TCMPB Code of Ethics requirements.** Cover is a financial layer; ethical compliance is the legal layer.
 
-The cost of a properly structured TCM clinic insurance programme for a typical 2–4 practitioner clinic is typically SGD 4,000–12,000 annually depending on practitioner count, treatment scope, and inventory level. The cost of a single significant claim — defence in TCMPB disciplinary proceeding plus civil claim, or product-liability claim from herbal contamination — typically exceeds many years of premium.
+The cost of a properly structured TCM clinic insurance programme for a typical 2-4 practitioner clinic is typically SGD 4,000-12,000 annually depending on practitioner count, treatment scope, and inventory level. The cost of a single significant claim - defence in TCMPB disciplinary proceeding plus civil claim, or product-liability claim from herbal contamination - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

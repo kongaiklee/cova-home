@@ -28,18 +28,18 @@ The 31 December 2026 NRIC authentication ban is the culmination of multi-year re
 
 #### Regulatory framework
 
-**Primary statute.** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) — Section 24 Protection Obligation (security of personal data).
+**Primary statute.** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - Section 24 Protection Obligation (security of personal data).
 
 **PDPC framework.**
-- [PDPC NRIC Advisory (2018)](https://www.pdpc.gov.sg/) — initial guidance on NRIC collection
-- [PDPC-CSA Joint Advisory on Authentication (June 2025)](https://www.csa.gov.sg/) — sector-agnostic authentication guidance
-- [PDPC Press Release 2 February 2026](https://www.pdpc.gov.sg/) — 31 December 2026 deadline announcement
+- [PDPC NRIC Advisory (2018)](https://www.pdpc.gov.sg/) - initial guidance on NRIC collection
+- [PDPC-CSA Joint Advisory on Authentication (June 2025)](https://www.csa.gov.sg/) - sector-agnostic authentication guidance
+- [PDPC Press Release 2 February 2026](https://www.pdpc.gov.sg/) - 31 December 2026 deadline announcement
 
 **Sector regulators issuing parallel guidance:**
-- **[IMDA](https://www.imda.gov.sg/)** — telecommunications sector
-- **[MAS](https://www.mas.gov.sg/)** — finance and insurance sectors
-- **[MOH](https://www.moh.gov.sg/)** — healthcare sector
-- **[Ministry of Digital Development and Information (MDDI)](https://www.mddi.gov.sg/)** — overall digital framework
+- **[IMDA](https://www.imda.gov.sg/)** - telecommunications sector
+- **[MAS](https://www.mas.gov.sg/)** - finance and insurance sectors
+- **[MOH](https://www.moh.gov.sg/)** - healthcare sector
+- **[Ministry of Digital Development and Information (MDDI)](https://www.mddi.gov.sg/)** - overall digital framework
 
 #### Why NRIC authentication is problematic
 
@@ -49,19 +49,19 @@ NRIC numbers in Singapore are:
 - Recoverable from public records (NRIC checksum algorithm public)
 - Sometimes derivable from partial information (date of birth + nationality patterns)
 
-Using NRIC as authentication credential effectively means using a known identifier as a secret — fundamentally inconsistent with security principles.
+Using NRIC as authentication credential effectively means using a known identifier as a secret - fundamentally inconsistent with security principles.
 
 #### What changes effective 31 December 2026
 
 **Specific prohibited practices:**
 
-**Practice 1 — NRIC as login ID.** Where NRIC alone (or NRIC + simple password) authenticates user. Common in legacy HR / payroll / member portal systems.
+**Practice 1 - NRIC as login ID.** Where NRIC alone (or NRIC + simple password) authenticates user. Common in legacy HR / payroll / member portal systems.
 
-**Practice 2 — NRIC as password.** Where NRIC serves as initial password (often for first-login / password-reset scenarios).
+**Practice 2 - NRIC as password.** Where NRIC serves as initial password (often for first-login / password-reset scenarios).
 
-**Practice 3 — NRIC + name / birthdate as default credential.** Where compound credentials use NRIC as primary element.
+**Practice 3 - NRIC + name / birthdate as default credential.** Where compound credentials use NRIC as primary element.
 
-**Practice 4 — NRIC in document encryption defaults.** Where PDF / document password defaults to NRIC.
+**Practice 4 - NRIC in document encryption defaults.** Where PDF / document password defaults to NRIC.
 
 **Specific sector applications.**
 - **Insurance:** policy access portals, claim status checks
@@ -80,15 +80,15 @@ Using NRIC as authentication credential effectively means using a known identifi
 
 Organisations replacing NRIC-based authentication should implement:
 
-**Method 1 — Singpass.** [Singpass](https://www.singpass.gov.sg/) provides government-issued digital identity. Many organisations integrate Singpass for authentication; cost-effective for individual user authentication.
+**Method 1 - Singpass.** [Singpass](https://www.singpass.gov.sg/) provides government-issued digital identity. Many organisations integrate Singpass for authentication; cost-effective for individual user authentication.
 
-**Method 2 — Username + strong password.** Custom usernames with strong password policy (12+ characters, complexity).
+**Method 2 - Username + strong password.** Custom usernames with strong password policy (12+ characters, complexity).
 
-**Method 3 — Email-based authentication.** Email + password with email-based password reset.
+**Method 3 - Email-based authentication.** Email + password with email-based password reset.
 
-**Method 4 — Phone-based authentication.** SMS / Call-based verification (often combined with other methods).
+**Method 4 - Phone-based authentication.** SMS / Call-based verification (often combined with other methods).
 
-**Method 5 — Multi-factor authentication.** Combining password + token + biometric for elevated security.
+**Method 5 - Multi-factor authentication.** Combining password + token + biometric for elevated security.
 
 **For elevated security:**
 - Hardware security keys (FIDO / WebAuthn)
@@ -175,7 +175,7 @@ Per [Article 345](/procedural-howto/how-to-coordinate-multi-policy-single-incide
 
 #### Specific SME segment considerations
 
-**SaaS / IT services providers.** Heaviest impact — customer authentication system fundamental. Specific commercial implications for product / pricing.
+**SaaS / IT services providers.** Heaviest impact - customer authentication system fundamental. Specific commercial implications for product / pricing.
 
 **HR / Payroll / Staffing.** Employee data common; NRIC in employee records standard; authentication redesign required.
 
@@ -191,11 +191,11 @@ Per [Article 345](/procedural-howto/how-to-coordinate-multi-policy-single-incide
 
 #### Coordination with related changes
 
-Per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) — broader PDPC enforcement pattern.
+Per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) - broader PDPC enforcement pattern.
 
-Per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore) — PDPA Section 26D breach notification (3-day clock).
+Per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore) - PDPA Section 26D breach notification (3-day clock).
 
-Per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) — Section 24 Protection Obligation framework.
+Per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025) - Section 24 Protection Obligation framework.
 
 The NRIC authentication ban is one specific prohibition within broader PDPA Section 24 framework. SMEs that focus only on NRIC compliance miss the broader pattern of expectations.
 
@@ -245,7 +245,7 @@ For Singapore SMEs:
 
 10. **Ongoing system design discipline** post-2027.
 
-The cost of NRIC authentication remediation is moderate — typically SGD 10,000-50,000 for SME with multiple systems. The cost of non-compliance is meaningful: PDPC penalty exposure plus cyber insurance complication plus operational disruption from non-compliant systems.
+The cost of NRIC authentication remediation is moderate - typically SGD 10,000-50,000 for SME with multiple systems. The cost of non-compliance is meaningful: PDPC penalty exposure plus cyber insurance complication plus operational disruption from non-compliant systems.
 
 ### Questions to Ask Your Adviser
 

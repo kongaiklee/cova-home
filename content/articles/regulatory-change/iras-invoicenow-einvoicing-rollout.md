@@ -20,11 +20,11 @@ og_description: "The Inland Revenue Authority of Singapore (IRAS) has progressiv
 
 > **The Answer in 60 Seconds**
 >
-> The [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/) has progressively expanded a mandatory **InvoiceNow e-invoicing** requirement for GST-registered businesses, building on the [IMDA-administered](https://www.imda.gov.sg/) InvoiceNow framework based on the international [Peppol](https://peppol.org/) standard. The phased mandate: **newly incorporated companies (incorporated within the last six months) voluntarily registering for GST** (1 November 2025), **all new voluntary GST registrants, regardless of incorporation date** (1 April 2026), and **all GST-registered businesses** (rolled out progressively from April 2028 to April 2031 by annual-turnover band). The framework requires businesses to transmit GST invoice data to IRAS via the InvoiceNow network. For Singapore SMEs: **operational system integration** (most accounting software now offers Peppol connectivity), **specific timeline planning** for mandate effective dates, **specific data discipline** for tax compliance accuracy, and **commercial relationship coordination** with customers and suppliers also adopting the framework. Insurance implications are limited but real — **Cyber Liability** for the digital invoicing infrastructure, and **operational continuity** considerations for system disruption scenarios.
+> The [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/) has progressively expanded a mandatory **InvoiceNow e-invoicing** requirement for GST-registered businesses, building on the [IMDA-administered](https://www.imda.gov.sg/) InvoiceNow framework based on the international [Peppol](https://peppol.org/) standard. The phased mandate: **newly incorporated companies (incorporated within the last six months) voluntarily registering for GST** (1 November 2025), **all new voluntary GST registrants, regardless of incorporation date** (1 April 2026), and **all GST-registered businesses** (rolled out progressively from April 2028 to April 2031 by annual-turnover band). The framework requires businesses to transmit GST invoice data to IRAS via the InvoiceNow network. For Singapore SMEs: **operational system integration** (most accounting software now offers Peppol connectivity), **specific timeline planning** for mandate effective dates, **specific data discipline** for tax compliance accuracy, and **commercial relationship coordination** with customers and suppliers also adopting the framework. Insurance implications are limited but real - **Cyber Liability** for the digital invoicing infrastructure, and **operational continuity** considerations for system disruption scenarios.
 
 ### The Sourced Detail
 
-The IRAS InvoiceNow framework represents Singapore's most ambitious digital tax compliance initiative — moving beyond traditional periodic GST returns toward near-real-time invoice data flow. The phased rollout has implications for SMEs across operations, technology, and to a limited extent insurance.
+The IRAS InvoiceNow framework represents Singapore's most ambitious digital tax compliance initiative - moving beyond traditional periodic GST returns toward near-real-time invoice data flow. The phased rollout has implications for SMEs across operations, technology, and to a limited extent insurance.
 
 #### The framework background
 
@@ -61,19 +61,19 @@ Per [IRAS InvoiceNow mandate framework](https://www.iras.gov.sg/):
 
 - Operational operational adoption
 
-**Phase 1 — 1 November 2025:**
+**Phase 1 - 1 November 2025:**
 
 - Newly incorporated companies (incorporated within the last six months) voluntarily registering for GST
 
 - Operational operational standards
 
-**Phase 2 — 1 April 2026:**
+**Phase 2 - 1 April 2026:**
 
 - All new voluntary GST registrants, regardless of incorporation date or business structure
 
 - Operational operational standards
 
-**Phase 3 — phased April 2028 to April 2031:**
+**Phase 3 - phased April 2028 to April 2031:**
 
 - All GST-registered businesses, by annual-turnover band: annual supplies of S$200,000 or less from 1 April 2028; S$1 million or less from 1 April 2029; S$4 million or less from 1 April 2030; and the remaining businesses (above S$4 million) from 1 April 2031
 
@@ -264,27 +264,27 @@ For commercial complexity:
 
 **For SMEs preparing for mandate:**
 
-**Step 1 — Timeline assessment (immediate):**
+**Step 1 - Timeline assessment (immediate):**
 - Identify specific mandate effective date
 
 - Operational operational planning
 
-**Step 2 — System assessment (immediate):**
+**Step 2 - System assessment (immediate):**
 - Specific accounting system Peppol capability
 - Operational upgrade requirements
 
-**Step 3 — Implementation (3-6 months pre-mandate):**
+**Step 3 - Implementation (3-6 months pre-mandate):**
 - Specific system integration
 - Operational data migration
 - Operational operational scope
 - Operational testing
 
-**Step 4 — Commercial coordination (parallel):**
+**Step 4 - Commercial coordination (parallel):**
 - Specific customer / supplier coordination
 - Operational operational scope
 - Operational operational standards
 
-**Step 5 — Operational discipline (ongoing):**
+**Step 5 - Operational discipline (ongoing):**
 - Specific data accuracy
 - Operational operational scope
 - Operational operational sophistication
@@ -351,7 +351,7 @@ The InvoiceNow framework continues to mature. SMEs that adopt early benefit from
 5. As the framework expands, what compliance evolution should I plan for?
 
 ### Related Information
-- [IRAS Just Notified Us of a Tax Audit or Investigation — What Do I Do Now?](/crisis/iras-audit-investigation)
+- [IRAS Just Notified Us of a Tax Audit or Investigation - What Do I Do Now?](/crisis/iras-audit-investigation)
 - /procedural-howto/bec-social-engineering-claim-process
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 

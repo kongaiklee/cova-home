@@ -20,15 +20,15 @@ og_description: "Per Section 48 of the Workplace Safety and Health Act 2006, whe
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 48 of the Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), where an offence under the WSHA is committed by a body corporate **with the consent or connivance of, or attributable to any neglect on the part of, any director, manager, secretary or other similar officer**, that individual is **personally guilty of the offence** alongside the corporate. Penalties under WSHA can include substantial fines and imprisonment for individuals. The "neglect" limb is broad — directors who failed to take reasonable steps to prevent the offence can face personal liability without needing to have known of or actively contributed to it. **D&O insurance** is the primary insurance response — covering defence costs, settlements, and (subject to insurability and policy wording) penalties. The Section 48 mechanism is structurally similar to [WICA Section 25(3)](/document-legal/wica-section-25-offence) but with potentially higher penalties given WSHA's broader scope.
+> Per [Section 48 of the Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), where an offence under the WSHA is committed by a body corporate **with the consent or connivance of, or attributable to any neglect on the part of, any director, manager, secretary or other similar officer**, that individual is **personally guilty of the offence** alongside the corporate. Penalties under WSHA can include substantial fines and imprisonment for individuals. The "neglect" limb is broad - directors who failed to take reasonable steps to prevent the offence can face personal liability without needing to have known of or actively contributed to it. **D&O insurance** is the primary insurance response - covering defence costs, settlements, and (subject to insurability and policy wording) penalties. The Section 48 mechanism is structurally similar to [WICA Section 25(3)](/document-legal/wica-section-25-offence) but with potentially higher penalties given WSHA's broader scope.
 
 ### The Sourced Detail
 
-Section 48 of WSHA is one of the most consequential provisions in Singapore's workplace safety regulatory regime for company directors. It pierces the corporate veil specifically for safety offences, holding individuals personally accountable in addition to corporate punishment. Understanding exactly what triggers personal liability — and what insurance responds — is essential for directors of any Singapore SME with WSHA exposure.
+Section 48 of WSHA is one of the most consequential provisions in Singapore's workplace safety regulatory regime for company directors. It pierces the corporate veil specifically for safety offences, holding individuals personally accountable in addition to corporate punishment. Understanding exactly what triggers personal liability - and what insurance responds - is essential for directors of any Singapore SME with WSHA exposure.
 
 #### What Section 48 actually says
 
-Section 48(1) of the WSH Act 2006 provides that where an offence under the Act is committed by a body corporate, any person who at the time of the offence was a director, manager, secretary or other similar officer of the body corporate — or was purporting to act in any such capacity — is also guilty of that offence, unless that officer proves both (i) that the offence was committed without his consent or connivance, and (ii) that he had exercised all such diligence to prevent the offence as he ought to have exercised, having regard to the nature of his functions and to all the circumstances. Fetch the current text on [Singapore Statutes Online](https://sso.agc.gov.sg/Act/WSHA2006) before relying on the exact wording.
+Section 48(1) of the WSH Act 2006 provides that where an offence under the Act is committed by a body corporate, any person who at the time of the offence was a director, manager, secretary or other similar officer of the body corporate - or was purporting to act in any such capacity - is also guilty of that offence, unless that officer proves both (i) that the offence was committed without his consent or connivance, and (ii) that he had exercised all such diligence to prevent the offence as he ought to have exercised, having regard to the nature of his functions and to all the circumstances. Fetch the current text on [Singapore Statutes Online](https://sso.agc.gov.sg/Act/WSHA2006) before relying on the exact wording.
 
 Note the structure: the burden is **on the director to prove** absence of consent/connivance and exercise of due diligence. This reverses the normal criminal law presumption of innocence for the specific purpose of WSHA enforcement.
 
@@ -38,27 +38,27 @@ The three triggers operate distinctly:
 
 **Consent:** The director knew of and approved the offence-creating conduct. Most direct form of personal liability.
 
-**Connivance:** The director knew of the offence-creating conduct but turned a blind eye, or actively concealed it. "Wilful blindness" — knowledge that comes from deliberate non-investigation.
+**Connivance:** The director knew of the offence-creating conduct but turned a blind eye, or actively concealed it. "Wilful blindness" - knowledge that comes from deliberate non-investigation.
 
 **Neglect:** The director failed to take reasonable steps to prevent the offence. This is the broadest limb and the most-applied in practice. A director who never asked about safety practices, never reviewed safety records, never engaged with WSH issues may face attributable neglect.
 
-The "due diligence" defence requires the director to **prove** they exercised all reasonable diligence. Pure ignorance ("I didn't know") is generally not a defence — directors are expected to know about WSH matters within their role.
+The "due diligence" defence requires the director to **prove** they exercised all reasonable diligence. Pure ignorance ("I didn't know") is generally not a defence - directors are expected to know about WSH matters within their role.
 
 #### What's a "WSHA offence" that can trigger Section 48
 
 WSHA contains numerous specific offences:
 
-**Stop-Work Order non-compliance** ([Section 21](https://sso.agc.gov.sg/Act/WSHA2006)) — see [Article 92](/crisis/mom-stop-work-order-issued).
+**Stop-Work Order non-compliance** ([Section 21](https://sso.agc.gov.sg/Act/WSHA2006)) - see [Article 92](/crisis/mom-stop-work-order-issued).
 
-**Failure to take reasonably practicable measures to ensure safety** ([Section 12, 14, 15, etc.](https://sso.agc.gov.sg/Act/WSHA2006)) — the core duty provisions:
+**Failure to take reasonably practicable measures to ensure safety** ([Section 12, 14, 15, etc.](https://sso.agc.gov.sg/Act/WSHA2006)) - the core duty provisions:
 - Employer's general duty to employees
 - Duty to non-employees affected by undertaking
 - Self-employed person's duty
 - Occupier's duty
 
-**Workplace Safety and Health Council Act 2008 — related obligations**
+**Workplace Safety and Health Council Act 2008 - related obligations**
 
-**Breach of WSH Regulations** — specific regulations on:
+**Breach of WSH Regulations** - specific regulations on:
 - Construction works
 - General workplace
 - Confined spaces
@@ -88,15 +88,15 @@ WSHA penalties scale with offence severity:
 
 The categories are interpreted purposively:
 
-**Director** — registered directors per [ACRA](https://www.bizfile.gov.sg/) records. Includes nominee, alternate, executive, and non-executive directors.
+**Director** - registered directors per [ACRA](https://www.bizfile.gov.sg/) records. Includes nominee, alternate, executive, and non-executive directors.
 
-**Manager** — typically interpreted as senior officers with material control. Plant manager, operations manager, project manager — in roles with operational authority over safety matters.
+**Manager** - typically interpreted as senior officers with material control. Plant manager, operations manager, project manager - in roles with operational authority over safety matters.
 
-**Secretary** — company secretary as registered.
+**Secretary** - company secretary as registered.
 
-**Other similar officer** — purposive interpretation. Senior officers with similar control, regardless of title. CEO, COO, MD, divisional heads, branch managers.
+**Other similar officer** - purposive interpretation. Senior officers with similar control, regardless of title. CEO, COO, MD, divisional heads, branch managers.
 
-**Purporting to act in any such capacity** — extends to de facto directors (acting as directors without formal appointment) and shadow directors (whose instructions directors customarily follow).
+**Purporting to act in any such capacity** - extends to de facto directors (acting as directors without formal appointment) and shadow directors (whose instructions directors customarily follow).
 
 For SMEs, this typically captures:
 - Founder-directors
@@ -135,7 +135,7 @@ To establish the "due diligence" defence under Section 48(1)(ii), the director m
 - Failure to respond to identified issues
 - "We have a WSH Officer, that's their job" attitude
 
-The bigger the organisation and the more removed the director from operations, the more difficult the defence — but also the higher the expected level of governance over safety.
+The bigger the organisation and the more removed the director from operations, the more difficult the defence - but also the higher the expected level of governance over safety.
 
 #### Insurance response: D&O coverage
 
@@ -184,7 +184,7 @@ A workplace fatality or serious injury can trigger multiple policies simultaneou
 - **BI** if operations affected (e.g. SWO)
 - **Cyber** if cyber dimension involved
 
-Coordination across these policies, often with different insurers, requires careful management — typically through the broker.
+Coordination across these policies, often with different insurers, requires careful management - typically through the broker.
 
 See [Article 80](/crisis/worker-fatality-on-site) on workplace fatality response.
 
@@ -192,21 +192,21 @@ See [Article 80](/crisis/worker-fatality-on-site) on workplace fatality response
 
 **Scenario A: Construction site fatality, fall from height, no fall protection**
 
-- WSHA offence by company likely (Section 14 — duty to non-employees; specific Construction Regulation offences)
+- WSHA offence by company likely (Section 14 - duty to non-employees; specific Construction Regulation offences)
 - Section 48 examination of directors and project manager
 - "Neglect" attribution likely if safety system inadequate
 - D&O for personal defence
 - WICA for worker compensation
 - Possible material penalties and prosecution
 
-**Scenario B: Manufacturing — worker injured by unguarded machine**
+**Scenario B: Manufacturing - worker injured by unguarded machine**
 
-- WSHA offence (Section 12 — employer duty)
+- WSHA offence (Section 12 - employer duty)
 - Section 48 may attribute to plant manager and possibly directors
 - Maintenance and engagement records become defence material
 - D&O response
 
-**Scenario C: F&B — kitchen fire injures worker**
+**Scenario C: F&B - kitchen fire injures worker**
 
 - WSHA offence (Section 12)
 - Fire safety regulations possibly engaged
@@ -224,10 +224,10 @@ See [Article 80](/crisis/worker-fatality-on-site) on workplace fatality response
 
 Section 48 has analogues in other Singapore statutes:
 
-- **WICA 2019 Section 25(3)** — failure to insure offence (see [Article 67](/document-legal/wica-section-25-offence))
-- **PDPA Section 52** — director/officer liability where a body-corporate offence is committed with consent, connivance, or attributable to neglect (Section 53 separately deems acts of an employee in the course of employment to be acts of the employer)
-- **Companies Act 1967 Section 401** — false statements offence
-- **Various sectoral regulations** — similar director attribution mechanisms
+- **WICA 2019 Section 25(3)** - failure to insure offence (see [Article 67](/document-legal/wica-section-25-offence))
+- **PDPA Section 52** - director/officer liability where a body-corporate offence is committed with consent, connivance, or attributable to neglect (Section 53 separately deems acts of an employee in the course of employment to be acts of the employer)
+- **Companies Act 1967 Section 401** - false statements offence
+- **Various sectoral regulations** - similar director attribution mechanisms
 
 The pattern: where statutes impose duties on companies, parallel provisions hold directors personally accountable for failures attributable to their role.
 
@@ -327,6 +327,6 @@ The asymmetry of WSHA Section 48 is significant: protecting against it through D
 ### Related Information
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
-- [A Worker Just Died on Site — What Do I Do Now?](/crisis/worker-fatality-on-site)
+- [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

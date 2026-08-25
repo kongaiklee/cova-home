@@ -20,7 +20,7 @@ og_description: "Marine Cargo is one of the few insurance lines that works regio
 
 > **The Answer in 60 Seconds**
 >
-> Marine Cargo is one of the few insurance lines that works regionally as a single programme. The [Institute Cargo Clauses](https://www.lmalloyds.com/) (ICC A, B, or C) are global by convention, accepted by carriers, customs authorities, and counterparties across ASEAN, Greater China, EU, US, and the rest of the world. A Singapore-issued marine cargo policy with appropriate clauses typically covers goods regardless of route — Singapore-Vietnam, Indonesia-Thailand, Malaysia-Philippines, intra-ASEAN multi-leg, ASEAN-EU, ASEAN-US. The line where the regional approach breaks down: **goods stored in country** (not in transit) typically need local property cover, **inland transit within a single foreign country** sometimes requires a local goods-in-transit policy, and **multimodal stock-throughput** programmes blending warehouse and transit need specific structuring. For Singapore-HQ SMEs trading regionally, a single Singapore Marine Cargo programme with appropriate territorial scope, transit clauses, and warehouse-to-warehouse extension typically replaces multiple local cargo policies. The [ASEAN Insurance Integration Framework](https://asean.org/our-communities/economic-community/asean-economic-community-aec/) explicitly identifies marine, aviation, and goods-in-transit (MAT) as priority liberalisation areas, and the practical market reflects this.
+> Marine Cargo is one of the few insurance lines that works regionally as a single programme. The [Institute Cargo Clauses](https://www.lmalloyds.com/) (ICC A, B, or C) are global by convention, accepted by carriers, customs authorities, and counterparties across ASEAN, Greater China, EU, US, and the rest of the world. A Singapore-issued marine cargo policy with appropriate clauses typically covers goods regardless of route - Singapore-Vietnam, Indonesia-Thailand, Malaysia-Philippines, intra-ASEAN multi-leg, ASEAN-EU, ASEAN-US. The line where the regional approach breaks down: **goods stored in country** (not in transit) typically need local property cover, **inland transit within a single foreign country** sometimes requires a local goods-in-transit policy, and **multimodal stock-throughput** programmes blending warehouse and transit need specific structuring. For Singapore-HQ SMEs trading regionally, a single Singapore Marine Cargo programme with appropriate territorial scope, transit clauses, and warehouse-to-warehouse extension typically replaces multiple local cargo policies. The [ASEAN Insurance Integration Framework](https://asean.org/our-communities/economic-community/asean-economic-community-aec/) explicitly identifies marine, aviation, and goods-in-transit (MAT) as priority liberalisation areas, and the practical market reflects this.
 
 ### The Sourced Detail
 
@@ -42,28 +42,28 @@ For Singapore SMEs trading regionally, this combination means a single Singapore
 
 The three principal clauses:
 
-**ICC A — All Risks (broadest).** Covers loss or damage to the cargo from any external cause subject to specific exclusions (war, strikes, inherent vice, delay, insolvency of carrier, ordinary wear). Default for high-value, fragile, or complex shipments. See [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) for full treatment.
+**ICC A - All Risks (broadest).** Covers loss or damage to the cargo from any external cause subject to specific exclusions (war, strikes, inherent vice, delay, insolvency of carrier, ordinary wear). Default for high-value, fragile, or complex shipments. See [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) for full treatment.
 
-**ICC B — Named Perils (mid-range).** Covers specifically listed perils: fire, explosion, vessel sinking, derailment, jettison, washing overboard, water entry. Less common in modern practice.
+**ICC B - Named Perils (mid-range).** Covers specifically listed perils: fire, explosion, vessel sinking, derailment, jettison, washing overboard, water entry. Less common in modern practice.
 
-**ICC C — Catastrophe Perils (narrowest).** Covers fire, explosion, vessel sinking, collision, jettison, derailment but specifically excludes washing overboard, water entry, and theft. Used for bulk and lower-value commodities. See [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim) for full treatment.
+**ICC C - Catastrophe Perils (narrowest).** Covers fire, explosion, vessel sinking, collision, jettison, derailment but specifically excludes washing overboard, water entry, and theft. Used for bulk and lower-value commodities. See [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim) for full treatment.
 
 **War and Strikes clauses** are typically separate add-ons; standard "Institute War Clauses (Cargo)" and "Institute Strikes Clauses (Cargo)" extensions are universally available.
 
 #### Programme structures for regional trade
 
-**Structure 1 — Annual Open Policy / Open Cover**
+**Structure 1 - Annual Open Policy / Open Cover**
 
 Most efficient for regular shippers. Single policy with stated annual estimated turnover; declarations made periodically (monthly or per-shipment). Covers all shipments meeting the policy criteria automatically. Premium is calculated on actual declared turnover at year end, with adjustments.
 
 Used for:
-- SMEs shipping regularly (more than 5–10 shipments per year)
+- SMEs shipping regularly (more than 5-10 shipments per year)
 - Predictable trading patterns
 - Mixed origin and destination flows
 
-Typical pricing: rate-on-turnover model, often 0.05–0.30 percent of declared cargo value depending on commodity, packaging, and route.
+Typical pricing: rate-on-turnover model, often 0.05-0.30 percent of declared cargo value depending on commodity, packaging, and route.
 
-**Structure 2 — Single Voyage Policy / Per-Shipment Cover**
+**Structure 2 - Single Voyage Policy / Per-Shipment Cover**
 
 Used for one-off or infrequent shipments. Each policy issued separately for a specific voyage or consignment. More expensive per shipment but appropriate for low-frequency trade.
 
@@ -72,7 +72,7 @@ Used for:
 - High-value, high-attention shipments
 - Trade where each consignment requires specific underwriting
 
-**Structure 3 — Stock-Throughput**
+**Structure 3 - Stock-Throughput**
 
 Combined cover for goods in transit *and* in storage. Single policy across the supply chain: factory storage → inland transit → port → vessel → discharge port → inland transit → warehouse storage → distribution.
 
@@ -83,18 +83,18 @@ Used for:
 
 Stock-throughput programmes typically replace separate Marine Cargo, Goods in Transit, and Property/Stock policies for the goods covered.
 
-**Structure 4 — Project Cargo**
+**Structure 4 - Project Cargo**
 
-For specific large or unusual shipments — heavy machinery, oil and gas equipment, project freight. Underwritten on a project basis with specific surveys.
+For specific large or unusual shipments - heavy machinery, oil and gas equipment, project freight. Underwritten on a project basis with specific surveys.
 
 #### Territorial scope considerations
 
 Singapore-issued Marine Cargo Open Cover typically allows territorial scope of:
 
-- "Worldwide" — any origin, any destination
-- "Worldwide except specifically excluded countries" — common exclusions: countries under sanctions
-- "Asia-region" — origin or destination within named Asian countries
-- "Specific routes" — Singapore-Vietnam, ASEAN-China, intra-ASEAN, etc.
+- "Worldwide" - any origin, any destination
+- "Worldwide except specifically excluded countries" - common exclusions: countries under sanctions
+- "Asia-region" - origin or destination within named Asian countries
+- "Specific routes" - Singapore-Vietnam, ASEAN-China, intra-ASEAN, etc.
 
 For regional SME programmes, "worldwide except sanctioned countries" is typical. War and Strikes extensions may have specific named-country exclusions or hold-covered conditions for higher-risk regions.
 
@@ -104,31 +104,31 @@ For regional SME programmes, "worldwide except sanctioned countries" is typical.
 
 **Stock in country.** Goods stored in a foreign warehouse (not in transit) typically fall under property/stock cover, not marine cargo. Local property programmes usually address this. A stock-throughput programme can blur the boundary, but standalone storage is typically property cover.
 
-**Compulsory carrier liability.** In some jurisdictions, the carrier carrying the goods has compulsory liability cover — this is a separate scheme operating alongside cargo cover, not a substitute.
+**Compulsory carrier liability.** In some jurisdictions, the carrier carrying the goods has compulsory liability cover - this is a separate scheme operating alongside cargo cover, not a substitute.
 
 **Customs bond / duty cover.** For temporary importation, ATA Carnet or similar schemes may apply alongside marine cargo cover.
 
 #### War and Strikes for ASEAN routes
 
-The Joint War Committee (JWC) of the [Lloyd's Market Association](https://www.lmalloyds.com/) maintains a list of areas with elevated war risk. ASEAN routes generally fall outside the JWC list as standard, but specific events can trigger temporary listings. For 2024–2026, JWC listings have included parts of the South China Sea at specific times in response to incidents.
+The Joint War Committee (JWC) of the [Lloyd's Market Association](https://www.lmalloyds.com/) maintains a list of areas with elevated war risk. ASEAN routes generally fall outside the JWC list as standard, but specific events can trigger temporary listings. For 2024-2026, JWC listings have included parts of the South China Sea at specific times in response to incidents.
 
 For SMEs shipping through specific routes:
-- Singapore Strait, Malacca Strait — generally standard cover
-- South China Sea — may attract specific war risk surcharges depending on JWC status
-- Bay of Bengal — generally standard cover with some volatility
-- Specific port states (Myanmar, parts of Africa) — premium uplifts for war and strikes
+- Singapore Strait, Malacca Strait - generally standard cover
+- South China Sea - may attract specific war risk surcharges depending on JWC status
+- Bay of Bengal - generally standard cover with some volatility
+- Specific port states (Myanmar, parts of Africa) - premium uplifts for war and strikes
 
 War and Strikes clauses are typically held with 7-day cancellation provisions, allowing insurers to cancel war cover (but not the underlying cargo cover) on short notice if conditions change.
 
 #### Common operational scenarios
 
-**Scenario A — Singapore F&B distributor importing from Vietnam, Thailand, Malaysia.** Singapore Open Cover ICC A with worldwide-Asia territorial scope; warehouse-to-warehouse extension; declarations monthly; war and strikes included.
+**Scenario A - Singapore F&B distributor importing from Vietnam, Thailand, Malaysia.** Singapore Open Cover ICC A with worldwide-Asia territorial scope; warehouse-to-warehouse extension; declarations monthly; war and strikes included.
 
-**Scenario B — Singapore manufacturer exporting to ASEAN, US, EU customers.** Singapore Open Cover ICC A; multi-currency declared values; war and strikes worldwide; specific high-value shipments referred for underwriting; consider stock-throughput if regional distribution warehouses exist.
+**Scenario B - Singapore manufacturer exporting to ASEAN, US, EU customers.** Singapore Open Cover ICC A; multi-currency declared values; war and strikes worldwide; specific high-value shipments referred for underwriting; consider stock-throughput if regional distribution warehouses exist.
 
-**Scenario C — Singapore project importer for one-off heavy machinery shipment.** Project Cargo policy with specific surveys; not appropriate for Open Cover; underwriter site visits and stowage approval.
+**Scenario C - Singapore project importer for one-off heavy machinery shipment.** Project Cargo policy with specific surveys; not appropriate for Open Cover; underwriter site visits and stowage approval.
 
-**Scenario D — Singapore e-commerce small parcel shipping to regional buyers.** Marine cargo may apply but specific small-parcel courier programmes (issued by parcel operators or third-party logistics insurers) may be more cost-effective for high-frequency low-value movements.
+**Scenario D - Singapore e-commerce small parcel shipping to regional buyers.** Marine cargo may apply but specific small-parcel courier programmes (issued by parcel operators or third-party logistics insurers) may be more cost-effective for high-frequency low-value movements.
 
 #### Subrogation and recoveries
 
@@ -142,7 +142,7 @@ Carriers are typically liable up to limited per-package amounts under the Hague-
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Buying ICC C when ICC A is appropriate.** ICC C excludes washing overboard, water entry, and theft — common loss causes for containerised cargo.
+1. **Buying ICC C when ICC A is appropriate.** ICC C excludes washing overboard, water entry, and theft - common loss causes for containerised cargo.
 2. **No war and strikes extension.** Cargo lost to war or strike action can fall in a gap.
 3. **Open Cover declarations not made.** Forgetting to declare a shipment can mean the shipment is uninsured even though the policy exists.
 4. **Territorial scope not aligned with actual trade lanes.** Adding a new country without endorsement leaves shipments to that country uninsured.
@@ -171,7 +171,7 @@ For Singapore SMEs trading regionally, marine cargo is typically the simplest of
 
 7. **Review annually.** As trade lanes evolve, ensure territorial scope and clauses remain appropriate.
 
-The cost of properly structured Marine Cargo for an SME trading SGD 5–20 million in regional cargo annually is typically SGD 5,000–25,000 in annual premium, depending on commodity, route, and structure. The cost of getting a single significant claim wrong — uninsured shipment, denied claim, subrogation prejudiced — can exceed multiple years of premium.
+The cost of properly structured Marine Cargo for an SME trading SGD 5-20 million in regional cargo annually is typically SGD 5,000-25,000 in annual premium, depending on commodity, route, and structure. The cost of getting a single significant claim wrong - uninsured shipment, denied claim, subrogation prejudiced - can exceed multiple years of premium.
 
 ### Questions to Ask Your Adviser
 

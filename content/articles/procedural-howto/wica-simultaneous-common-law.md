@@ -27,13 +27,13 @@ This issue usually arises when an employee is injured, the employer reports the 
 
 That does not mean the employer can ignore one track until the other is finished. It means the employer should handle the accident as a live legal and insurance matter from the start, because the employee may still be deciding which route to pursue within the legal framework.
 
-#### Step 1 — Report the accident properly and preserve the incident record
+#### Step 1 - Report the accident properly and preserve the incident record
 
 If the incident is reportable, follow MOM’s work-accident reporting requirements. MOM’s <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting">work accident reporting</a> pages say certain work-related accidents must be reported using WSH Incident Reporting, and the <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting/report-a-work-related-accident">report a work-related accident</a> page says that after an incident report is submitted, MOM may investigate the accident and will process eligible WICA claims. MOM’s <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting">WSH Incident Reporting</a> page also states that employers should be ready with incident details, injured employee particulars, employment details, and supporting documents such as insurance policy schedule and medical documents.
 
 This matters because a weak accident record causes problems in both a WICA file and a possible negligence claim.
 
-#### Step 2 — Understand the practical difference between WICA and common law
+#### Step 2 - Understand the practical difference between WICA and common law
 
 MOM’s <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law">comparison page</a> explains that under WICA, the claim is processed by Assistant Commissioners (Work Injury) from MOM or the designated insurer after the employee notifies the employer, whereas under common law the employee makes a claim in court. MOM also states that WICA does not require the employee to prove fault, while a common law claim generally turns on negligence and evidence before the court.
 
@@ -42,19 +42,19 @@ That difference matters for businesses because the same accident can create two 
 - Under WICA, the central issue is usually whether the injury is work-related, whether the employee is covered, and what compensation is payable under the statutory framework.  
 - Under common law, the dispute usually focuses more on breach of duty, causation, and loss.
 
-#### Step 3 — Notify the insurer immediately and send all legal correspondence
+#### Step 3 - Notify the insurer immediately and send all legal correspondence
 
 If the worker, lawyer, or family sends any allegation letter, medical demand, or court document, forward it to the insurer and your servicing intermediary immediately. Do not reply substantively without understanding which policy or section may respond. Even if the WICA claim appears simple, a negligence allegation can change how the file is handled.
 
 Where there is employer liability or common-law extension wording attached to the WICA programme, the insurer will usually want the accident report, witness statements, photographs, salary data, and all medical correspondence. The earlier the insurer sees the whole picture, the better the position on both process and defence.
 
-#### Step 4 — Do not assume the employee has already made an irrevocable election just because a lawyer wrote in
+#### Step 4 - Do not assume the employee has already made an irrevocable election just because a lawyer wrote in
 
 MOM’s published guidance is that the employee can seek compensation through either WICA or common law, but not both. In practical terms, employers should avoid making their own legal assumptions too early. A worker may notify the employer, receive WICA-related forms or communications, and still be taking legal advice. Your role is to preserve facts and cooperate with the official process, not to decide the employee’s final election unilaterally.
 
 At the same time, if the matter clearly enters court proceedings, that changes deadlines, defence obligations, and document handling. That is why the insurer needs visibility early.
 
-#### Step 5 — Keep WICA documents and negligence documents in one master file
+#### Step 5 - Keep WICA documents and negligence documents in one master file
 
 A clean file should contain:
 
@@ -67,7 +67,7 @@ A clean file should contain:
 
 MOM’s accident-reporting pages say incident reports should be kept, and the report-a-work-related-accident page states employers and occupiers are required to keep all incident reports for three years. That record discipline matters if a statutory and negligence narrative run in parallel for any period.
 
-#### Step 6 — Remember the compensation categories under WICA
+#### Step 6 - Remember the compensation categories under WICA
 
 MOM’s <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation">types of compensation under WICA</a> page states that employees covered by WICA can claim medical leave wages, medical expenses, and lump-sum compensation for permanent incapacity, current incapacity, or death. MOM also states that medical expenses related to the work accident can be claimed for treatment received within one year from the date of the accident, up to the applicable cap.
 

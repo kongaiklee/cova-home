@@ -20,7 +20,7 @@ og_description: "The Law Society of Singapore is the professional body for solic
 
 > **The Answer in 60 Seconds**
 >
-> The [Law Society of Singapore](https://www.lawsociety.org.sg) is the professional body for solicitors constituted under the [Legal Profession Act 1966 (LPA)](https://sso.agc.gov.sg/Act/LPA1966). The Law Society operates the **Compulsory Professional Indemnity Insurance Scheme (PII Scheme)** under section 75A of the LPA and the [Legal Profession (Professional Indemnity Insurance) Rules (LPA1966-R11)](https://sso.agc.gov.sg/SL/LPA1966-R11). The PII Scheme is a master-cover arrangement placed annually with authorised insurers approved by the Council of the Law Society, not a mutual fund. Per the Law Society's published terms: **S$1 million cover for each claim (inclusive of costs and expenses) for solicitors practising in sole-proprietorships and partnerships; S$2 million for each claim for solicitors practising in limited liability law corporations (LLCs) and limited liability law partnerships (LLPs)**. The Practising Certificate cannot be issued unless PI cover is in place; cover gap means no practice. The PII Scheme covers civil liability of all practising lawyers in the law practice (current and former), practice trainees and articled clerks, and acts of all employees including dishonesty of employee lawyers and non-lawyer employees up to the full limit. Does NOT cover loss caused by fraud or dishonesty of any sole proprietor, partner, or director — the fraud-of-principal gap requires separate Crime / Fidelity cover. CPD administered by [Singapore Institute of Legal Education (SILE)](https://www.sile.edu.sg). Top-up PII for high-exposure practice areas (conveyancing, capital markets, M&A) is the typical structurally important addition. Run-off PII for retired sole-practitioners essential given the Limitation Act 1959 6-year limitation under section 6 and possible postponement under section 29.
+> The [Law Society of Singapore](https://www.lawsociety.org.sg) is the professional body for solicitors constituted under the [Legal Profession Act 1966 (LPA)](https://sso.agc.gov.sg/Act/LPA1966). The Law Society operates the **Compulsory Professional Indemnity Insurance Scheme (PII Scheme)** under section 75A of the LPA and the [Legal Profession (Professional Indemnity Insurance) Rules (LPA1966-R11)](https://sso.agc.gov.sg/SL/LPA1966-R11). The PII Scheme is a master-cover arrangement placed annually with authorised insurers approved by the Council of the Law Society, not a mutual fund. Per the Law Society's published terms: **S$1 million cover for each claim (inclusive of costs and expenses) for solicitors practising in sole-proprietorships and partnerships; S$2 million for each claim for solicitors practising in limited liability law corporations (LLCs) and limited liability law partnerships (LLPs)**. The Practising Certificate cannot be issued unless PI cover is in place; cover gap means no practice. The PII Scheme covers civil liability of all practising lawyers in the law practice (current and former), practice trainees and articled clerks, and acts of all employees including dishonesty of employee lawyers and non-lawyer employees up to the full limit. Does NOT cover loss caused by fraud or dishonesty of any sole proprietor, partner, or director - the fraud-of-principal gap requires separate Crime / Fidelity cover. CPD administered by [Singapore Institute of Legal Education (SILE)](https://www.sile.edu.sg). Top-up PII for high-exposure practice areas (conveyancing, capital markets, M&A) is the typical structurally important addition. Run-off PII for retired sole-practitioners essential given the Limitation Act 1959 6-year limitation under section 6 and possible postponement under section 29.
 
 ### The Sourced Detail
 
@@ -54,7 +54,7 @@ The Law Society's Compulsory Professional Indemnity Insurance Scheme has been in
 
 **Mandatory participation** by all solicitors holding Practising Certificates and by all law practices (sole-proprietorships, partnerships, LLCs, and LLPs).
 
-**Minimum cover** per the Law Society's published terms (verify current figures at [Professional Indemnity Insurance — The Law Society of Singapore](https://www.lawsociety.org.sg/for-lawyers/professional-indemnity-insurance/)):
+**Minimum cover** per the Law Society's published terms (verify current figures at [Professional Indemnity Insurance - The Law Society of Singapore](https://www.lawsociety.org.sg/for-lawyers/professional-indemnity-insurance/)):
 
 - **S$1 million for each claim (inclusive of costs and expenses)** for solicitors practising in sole-proprietorships and partnerships.
 - **S$2 million for each claim (inclusive of costs and expenses)** for solicitors practising in limited liability law corporations (LLCs) and limited liability law partnerships (LLPs).
@@ -214,11 +214,11 @@ For LLC and LLP law practices, D&O cover for the LLC directors or LLP managers p
 
 ### Related Information
 
-- [Article 271 — Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 284 — Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications](/association/isca-acra-public-accountants-insurance-framework)
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 271 - Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 284 - Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications](/association/isca-acra-public-accountants-insurance-framework)
+- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
 
 ---

@@ -24,9 +24,9 @@ og_description: "Sections 17, 18, and 19 of the Marine Insurance Act 1906 form t
 
 ### The Sourced Detail
 
-Sections 17-19 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) are foundational reading for anyone procuring or providing insurance in Singapore. The provisions are short but consequential — together they create the framework within which every insurance disclosure occurs.
+Sections 17-19 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) are foundational reading for anyone procuring or providing insurance in Singapore. The provisions are short but consequential - together they create the framework within which every insurance disclosure occurs.
 
-#### Section 17 — Insurance is uberrimae fidei
+#### Section 17 - Insurance is uberrimae fidei
 
 The text:
 
@@ -34,13 +34,13 @@ The text:
 
 Three points stand out:
 
-**The reciprocal nature.** The duty applies to "either party" — both insured and insurer carry good faith obligations. While case law has developed the insured's duty most fully, the insurer's duty has been recognised in specific scenarios involving non-disclosure of relevant facts at placement, bad faith in claim handling, and specific concealment of policy interpretation positions.
+**The reciprocal nature.** The duty applies to "either party" - both insured and insurer carry good faith obligations. While case law has developed the insured's duty most fully, the insurer's duty has been recognised in specific scenarios involving non-disclosure of relevant facts at placement, bad faith in claim handling, and specific concealment of policy interpretation positions.
 
-**The remedy: avoidance.** Breach allows the wronged party to "avoid" the contract — treating it as if it had never existed. This is more drastic than ordinary contract remedies (damages, rescission for misrepresentation) and reflects the unique nature of insurance contracts.
+**The remedy: avoidance.** Breach allows the wronged party to "avoid" the contract - treating it as if it had never existed. This is more drastic than ordinary contract remedies (damages, rescission for misrepresentation) and reflects the unique nature of insurance contracts.
 
-**The market context.** The provision recognises that insurance contracts depend on information asymmetry — the insured knows the risk; the insurer can verify only through what's disclosed. The doctrine corrects for this asymmetry by imposing a positive disclosure duty.
+**The market context.** The provision recognises that insurance contracts depend on information asymmetry - the insured knows the risk; the insurer can verify only through what's disclosed. The doctrine corrects for this asymmetry by imposing a positive disclosure duty.
 
-#### Section 18 — The assured's disclosure duty
+#### Section 18 - The assured's disclosure duty
 
 Section 18 sets out the operational core:
 
@@ -48,11 +48,11 @@ Section 18 sets out the operational core:
 
 The provision establishes:
 
-**Timing.** Disclosure must be before contract conclusion — meaning before the policy incepts. Disclosure made after binding may be too late to satisfy Section 18 (though it may still help with renewal / amendment cycles).
+**Timing.** Disclosure must be before contract conclusion - meaning before the policy incepts. Disclosure made after binding may be too late to satisfy Section 18 (though it may still help with renewal / amendment cycles).
 
-**Materiality test.** "Every material circumstance" — the test that *Pan Atlantic v Pine Top* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test)) clarified as: would influence the judgment of a prudent insurer. Plus the actual inducement requirement.
+**Materiality test.** "Every material circumstance" - the test that *Pan Atlantic v Pine Top* [1995] 1 AC 501 (see [Article 186](/document-legal/pan-atlantic-pine-top-materiality-test)) clarified as: would influence the judgment of a prudent insurer. Plus the actual inducement requirement.
 
-**Knowledge.** "Known to the assured" — actual knowledge governs. But "deemed to know every circumstance which, in the ordinary course of business, ought to be known" extends knowledge constructively. An SME cannot escape disclosure by deliberately not investigating its own operations; the standard is what would be known in the ordinary course of business.
+**Knowledge.** "Known to the assured" - actual knowledge governs. But "deemed to know every circumstance which, in the ordinary course of business, ought to be known" extends knowledge constructively. An SME cannot escape disclosure by deliberately not investigating its own operations; the standard is what would be known in the ordinary course of business.
 
 **Section 18(2) materiality test (codified):**
 
@@ -60,7 +60,7 @@ The provision establishes:
 
 This is the codified materiality standard that Pan Atlantic interpreted.
 
-**Section 18(3) — what need not be disclosed:**
+**Section 18(3) - what need not be disclosed:**
 
 The provision lists what need not be disclosed:
 
@@ -71,7 +71,7 @@ The provision lists what need not be disclosed:
 
 These limits matter operationally. SMEs don't need to disclose helpful facts, common-knowledge facts, or facts the insurer has waived disclosure of through the application form design.
 
-#### Section 19 — The agent's disclosure duty
+#### Section 19 - The agent's disclosure duty
 
 Section 19 extends the duty to agents effecting insurance:
 
@@ -150,9 +150,9 @@ Three categories of disclosure SMEs commonly under-address:
 
 **Operational reality vs documented operations.** The SME's actual day-to-day operations often differ from formal job descriptions or business activity codes. Section 18 disclosure should reflect operational reality.
 
-**Claims and near-miss history.** Past claims, near-misses, prior insurer non-renewals or premium increases — all commonly material. SMEs sometimes hesitate to disclose adverse history; non-disclosure is more damaging than disclosure.
+**Claims and near-miss history.** Past claims, near-misses, prior insurer non-renewals or premium increases - all commonly material. SMEs sometimes hesitate to disclose adverse history; non-disclosure is more damaging than disclosure.
 
-**Regulatory and financial context.** Pending regulatory matters, financial difficulties, key personnel changes, ownership changes — commonly material under Section 18 even when not asked specifically.
+**Regulatory and financial context.** Pending regulatory matters, financial difficulties, key personnel changes, ownership changes - commonly material under Section 18 even when not asked specifically.
 
 #### Section 19 and broker selection
 

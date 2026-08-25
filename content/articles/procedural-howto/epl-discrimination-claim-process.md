@@ -13,14 +13,14 @@ word_count: 1306
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/epl-discrimination-claim-process"
-meta_description: "EPL discrimination claims — under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then —..."
+meta_description: "EPL discrimination claims - under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then  - ..."
 og_title: "EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution"
-og_description: "EPL discrimination claims — under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then —..."
+og_description: "EPL discrimination claims - under the Workplace Fairness Act 2024 (WFA) once it commences, and under the voluntary fair-employment framework until then  - ..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> EPL discrimination claims — under the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) once it commences, and under the voluntary fair-employment framework until then — typically progress through defined stages: **internal complaint** (employee raises concern internally) → **internal investigation** (HR / management investigates per company policy) → **resolution attempt** (mediation, accommodation, specific resolution) → **TAFEP complaint** (if internal resolution fails, employee files with [TAFEP](https://www.tafep.sg/)) → **TADM mediation** (under [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016)) → **Employment Claims Tribunal (ECT)** (formal adjudication) → **specific civil proceedings** (where applicable). EPL coverage typically engages at the formal stage (TAFEP / TADM / ECT). Critical operational discipline: **internal investigation quality** (sets foundation for defence), **HR documentation** (specific recruitment, performance management, termination records), **specific manager training**, **specific accommodation framework**, and **specific privilege protection** for sensitive communications. For Singapore SMEs, with the WFA passed but not yet in force (commencement expected end-2027), EPL claim infrastructure is becoming substantially more important.
+> EPL discrimination claims - under the [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) once it commences, and under the voluntary fair-employment framework until then - typically progress through defined stages: **internal complaint** (employee raises concern internally) → **internal investigation** (HR / management investigates per company policy) → **resolution attempt** (mediation, accommodation, specific resolution) → **TAFEP complaint** (if internal resolution fails, employee files with [TAFEP](https://www.tafep.sg/)) → **TADM mediation** (under [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016)) → **Employment Claims Tribunal (ECT)** (formal adjudication) → **specific civil proceedings** (where applicable). EPL coverage typically engages at the formal stage (TAFEP / TADM / ECT). Critical operational discipline: **internal investigation quality** (sets foundation for defence), **HR documentation** (specific recruitment, performance management, termination records), **specific manager training**, **specific accommodation framework**, and **specific privilege protection** for sensitive communications. For Singapore SMEs, with the WFA passed but not yet in force (commencement expected end-2027), EPL claim infrastructure is becoming substantially more important.
 
 ### The Sourced Detail
 
@@ -61,7 +61,7 @@ For SMEs without dedicated HR:
 - HR advisor / consultant relationships
 - Specific employment counsel relationships
 
-#### Stage 1 — Internal complaint
+#### Stage 1 - Internal complaint
 
 **Triggers.**
 
@@ -81,10 +81,10 @@ An employee raises a concern that may rise to discrimination claim level:
 
 **Specific WFA implications.**
 
-- Retaliation protection — direct exposure if complainant suffers adverse action
+- Retaliation protection - direct exposure if complainant suffers adverse action
 - Specific protected characteristics framework
 
-#### Stage 2 — Internal investigation
+#### Stage 2 - Internal investigation
 
 **Investigation framework.**
 
@@ -114,7 +114,7 @@ Standard elements:
 - Unsubstantiated complaint → specific documented findings, complainant communication
 - Specific partially substantiated → operational considerations
 
-#### Stage 3 — Resolution attempt
+#### Stage 3 - Resolution attempt
 
 **Mediation / accommodation.**
 
@@ -130,7 +130,7 @@ Where investigation finds substantiated concern:
 - Operational manager training
 - operational improvements
 
-#### Stage 4 — TAFEP complaint
+#### Stage 4 - TAFEP complaint
 
 **If internal resolution fails:**
 
@@ -151,7 +151,7 @@ Per [TAFEP framework](https://www.tafep.sg/):
 - TAFEP-mediated resolution
 - TAFEP referral to formal adjudication
 
-#### Stage 5 — EPL notification
+#### Stage 5 - EPL notification
 
 **Notification trigger.**
 
@@ -173,7 +173,7 @@ Similar to D&O notification (see [Article 200](/procedural-howto/do-claim-notifi
 - Defence cost coverage typically engages
 - Specific allocation provisions for mixed claims
 
-#### Stage 6 — TADM mediation
+#### Stage 6 - TADM mediation
 
 Under [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016):
 
@@ -193,7 +193,7 @@ Under [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016):
 - Mediated resolution
 - Specific referral to ECT
 
-#### Stage 7 — Employment Claims Tribunal (ECT)
+#### Stage 7 - Employment Claims Tribunal (ECT)
 
 **ECT framework.**
 
@@ -213,7 +213,7 @@ If TADM mediation fails:
 - ECT typical claim limit S$20,000-S$30,000 (specific scope per Act)
 - Substantial claims may proceed to specific civil courts
 
-#### Stage 8 — Specific civil proceedings
+#### Stage 8 - Specific civil proceedings
 
 For substantial claims beyond ECT scope:
 

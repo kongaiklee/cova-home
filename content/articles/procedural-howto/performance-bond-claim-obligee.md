@@ -13,14 +13,14 @@ word_count: 1125
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/performance-bond-claim-obligee"
-meta_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) — the obligee..."
+meta_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) - the obligee..."
 og_title: "Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim"
-og_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) — the obligee..."
+og_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) - the obligee..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per [Article 198](/comparison/surety-vs-performance-bond)) — the obligee (project owner / customer) claims against the surety, who then recovers from the principal (the SME). The standard sequence from the obligee perspective: **principal default identification** → **specific contractual notice to principal** → **opportunity for principal to cure** → **specific notification to surety** → **specific claim documentation submission** → **surety investigation** (specific cure attempts may continue) → **bond payment to obligee** (where claim substantiated) → **surety recovery action against principal**. For Singapore SMEs that are obligees (e.g. project owners requiring contractor performance bonds, customers requiring supplier performance bonds), the process matters because effective claim handling requires specific contractual discipline. For Singapore SMEs that are principals (providing bonds), understanding the obligee perspective explains the operational risk profile.
+> Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per [Article 198](/comparison/surety-vs-performance-bond)) - the obligee (project owner / customer) claims against the surety, who then recovers from the principal (the SME). The standard sequence from the obligee perspective: **principal default identification** → **specific contractual notice to principal** → **opportunity for principal to cure** → **specific notification to surety** → **specific claim documentation submission** → **surety investigation** (specific cure attempts may continue) → **bond payment to obligee** (where claim substantiated) → **surety recovery action against principal**. For Singapore SMEs that are obligees (e.g. project owners requiring contractor performance bonds, customers requiring supplier performance bonds), the process matters because effective claim handling requires specific contractual discipline. For Singapore SMEs that are principals (providing bonds), understanding the obligee perspective explains the operational risk profile.
 
 ### The Sourced Detail
 
@@ -36,7 +36,7 @@ Per [Article 198](/comparison/surety-vs-performance-bond) on surety bond fundame
 
 The obligee is the party that claims under the bond when the principal defaults.
 
-#### Stage 1 — Principal default identification
+#### Stage 1 - Principal default identification
 
 **Common default scenarios:**
 
@@ -59,7 +59,7 @@ The obligee evaluates:
 - Operational specific cure potential
 - Operational operational considerations
 
-#### Stage 2 — Specific contractual notice to principal
+#### Stage 2 - Specific contractual notice to principal
 
 **Notice framework.**
 
@@ -83,7 +83,7 @@ Most contracts include specific notice provisions:
 - Operational commercial relationship implications
 - Operational operational considerations
 
-#### Stage 3 — Opportunity for principal to cure
+#### Stage 3 - Opportunity for principal to cure
 
 **Cure period operations.**
 
@@ -103,7 +103,7 @@ After notice:
 - Successful cure: contract performance resumes
 - Operational specific failed cure: bond claim trigger
 
-#### Stage 4 — Specific notification to surety
+#### Stage 4 - Specific notification to surety
 
 **Notification timing.**
 
@@ -124,7 +124,7 @@ After notice:
 - Operational specific notification content
 - Operational operational considerations
 
-#### Stage 5 — Specific claim documentation submission
+#### Stage 5 - Specific claim documentation submission
 
 **Documentation required.**
 
@@ -142,7 +142,7 @@ For substantive claims:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 6 — Surety investigation
+#### Stage 6 - Surety investigation
 
 **Investigation scope.**
 
@@ -164,7 +164,7 @@ Surety evaluates:
 
 - Bond payment to obligee (substantiated claim)
 
-#### Stage 7 — Bond payment
+#### Stage 7 - Bond payment
 
 **Payment process.**
 
@@ -187,7 +187,7 @@ For some bonds:
 - Operational operational considerations
 - Operational operational discipline
 
-#### Stage 8 — Surety recovery against principal
+#### Stage 8 - Surety recovery against principal
 
 **Indemnification framework.**
 

@@ -20,7 +20,7 @@ og_description: "Sub-contractor SMEs in Singapore construction operate under a l
 
 > **The Answer in 60 Seconds**
 >
-> Sub-contractor SMEs in Singapore construction operate under a layered regulatory framework: the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), the [Workplace Safety and Health (Construction) Regulations 2007](https://sso.agc.gov.sg/SL/WSHA2006-S663-2007), the [Workplace Safety and Health (Risk Management) Regulations](https://sso.agc.gov.sg), the WSH (Incident Reporting) Regulations, and the WSH (Workplace Safety and Health Officers) Regulations. MOM has tightened the construction-sector framework through 2023-2025 in response to fatality statistics, including "Period of Heightened Safety" measures, restrictions on multi-tier sub-contracting in public-sector construction, and enhanced enforcement of principal-contractor responsibility for sub-contractor fatalities under section 14A WSH Act. Section 14A imposes a duty on a principal to ensure the safety of contractors engaged by the principal; section 12 imposes the equivalent duty on employers. Maximum corporate fines under sections 50 to 52 historically S$500,000 with higher repeat-offender penalties — drafters should confirm current threshold against SSO. BizSafe Level 3 minimum certification is the common bind condition for WICI 2019 and Public Liability placements in construction. Project-level insurance requirements typically include Contractors All Risks (CAR) in joint names of principal and sub-contractors for full contract value, Public Liability of S$1 million to S$10 million per occurrence scaled to contract value, and Professional Indemnity for design-and-build sub-contractors. The 1 June 2025 BCA CRS nation-wide registry expansion (see [Article 265](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)) brings approximately 7,000 additional private-sector sub-contractor SMEs employing foreign construction workers within the regulatory perimeter.
+> Sub-contractor SMEs in Singapore construction operate under a layered regulatory framework: the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), the [Workplace Safety and Health (Construction) Regulations 2007](https://sso.agc.gov.sg/SL/WSHA2006-S663-2007), the [Workplace Safety and Health (Risk Management) Regulations](https://sso.agc.gov.sg), the WSH (Incident Reporting) Regulations, and the WSH (Workplace Safety and Health Officers) Regulations. MOM has tightened the construction-sector framework through 2023-2025 in response to fatality statistics, including "Period of Heightened Safety" measures, restrictions on multi-tier sub-contracting in public-sector construction, and enhanced enforcement of principal-contractor responsibility for sub-contractor fatalities under section 14A WSH Act. Section 14A imposes a duty on a principal to ensure the safety of contractors engaged by the principal; section 12 imposes the equivalent duty on employers. Maximum corporate fines under sections 50 to 52 historically S$500,000 with higher repeat-offender penalties - drafters should confirm current threshold against SSO. BizSafe Level 3 minimum certification is the common bind condition for WICI 2019 and Public Liability placements in construction. Project-level insurance requirements typically include Contractors All Risks (CAR) in joint names of principal and sub-contractors for full contract value, Public Liability of S$1 million to S$10 million per occurrence scaled to contract value, and Professional Indemnity for design-and-build sub-contractors. The 1 June 2025 BCA CRS nation-wide registry expansion (see [Article 265](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)) brings approximately 7,000 additional private-sector sub-contractor SMEs employing foreign construction workers within the regulatory perimeter.
 
 ### The Sourced Detail
 
@@ -80,7 +80,7 @@ Sub-contractor SME insurance flows through three interlocking channels:
 
 **BizSafe Level 3 / ISO 45001 as bind conditions.** Not insurance, but commonly required by main contracts and increasingly by insurers as a condition of WICI and PL bind in construction.
 
-#### Verbatim regulatory text — primary-source routing
+#### Verbatim regulatory text - primary-source routing
 
 The primary-source URLs:
 
@@ -88,9 +88,9 @@ The primary-source URLs:
 
 [WSH (Construction) Regulations 2007 on SSO](https://sso.agc.gov.sg/SL/WSHA2006-S663-2007).
 
-[WSH (Risk Management) Regulations on SSO](https://sso.agc.gov.sg) — drafter to retrieve current text.
+[WSH (Risk Management) Regulations on SSO](https://sso.agc.gov.sg) - drafter to retrieve current text.
 
-[WSH (Incident Reporting) Regulations on SSO](https://sso.agc.gov.sg) — drafter to retrieve.
+[WSH (Incident Reporting) Regulations on SSO](https://sso.agc.gov.sg) - drafter to retrieve.
 
 [MOM WSH page](https://www.mom.gov.sg/workplace-safety-and-health).
 
@@ -121,7 +121,7 @@ Insurance response:
 - SME E's WICI 2019 responds to WICA statutory liability. Death compensation up to S$269,000 (from 1 November 2025). Medical expenses up to S$53,000 (effectively zero in a fatal case, but applicable in scenarios involving prior treatment).
 - SME E's common-law extension within WICI responds if the dependants elect to sue SME E at common law for negligence (typically claiming higher than WICA statutory limits).
 - SME E's PL may respond if a third-party claim arises (e.g., a main-contractor employee or member of public injured by the same incident).
-- Project CAR — bodily-injury exclusion is standard; CAR typically does not respond to bodily injury claims.
+- Project CAR - bodily-injury exclusion is standard; CAR typically does not respond to bodily injury claims.
 - MOM corporate prosecution; potential fine under sections 50 to 52 WSH Act.
 - Director personal exposure under sections 50 to 52 WSH Act if directors are found personally culpable.
 - Principal contractor potentially co-defendant under section 14A.
@@ -179,11 +179,11 @@ For directors of construction SMEs, the WSH Act sections 50 to 52 personal expos
 
 ### Related Information
 
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 265 — BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)
-- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
-- [Article 388 — PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 1 — SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
-- [Article 2 — BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 265 - BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)
+- [Article 267 - MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Article 388 - PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Article 1 - SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [Article 2 - BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 
 ---

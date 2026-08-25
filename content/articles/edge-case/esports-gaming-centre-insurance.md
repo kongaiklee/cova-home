@@ -20,11 +20,11 @@ og_description: "A Singapore e-sports centre or gaming café requires: business 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore e-sports centre or gaming café requires: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/), [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [Singapore Police Force](https://www.police.gov.sg/) regulations on amusement establishments. Insurance baseline: **Public Liability** (S$1M–S$3M; venues with extended hours, F&B, or alcohol service warrant higher), **Property/Fire** for high-density gaming equipment (PCs, peripherals, monitors, VR equipment — fit-out value commonly S$200,000–S$1M+), **Equipment Breakdown** for high-utilisation hardware (gaming PCs experience higher failure rates than office equipment), **WICA** for staff, **Cyber Liability** with elevated attention given gaming centres handle account credentials, payment data, and member systems, **Crime / Money** for cash handling, and **Property/BI** specifically structured for tournament events. Tournament organisation brings additional exposure: **Event Cancellation insurance** for prize-pool tournaments, specific liability for player injury (esports has emerging RSI/wellness claims), and broadcast/streaming considerations.
+> A Singapore e-sports centre or gaming café requires: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/), [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [Singapore Police Force](https://www.police.gov.sg/) regulations on amusement establishments. Insurance baseline: **Public Liability** (S$1M-S$3M; venues with extended hours, F&B, or alcohol service warrant higher), **Property/Fire** for high-density gaming equipment (PCs, peripherals, monitors, VR equipment - fit-out value commonly S$200,000-S$1M+), **Equipment Breakdown** for high-utilisation hardware (gaming PCs experience higher failure rates than office equipment), **WICA** for staff, **Cyber Liability** with elevated attention given gaming centres handle account credentials, payment data, and member systems, **Crime / Money** for cash handling, and **Property/BI** specifically structured for tournament events. Tournament organisation brings additional exposure: **Event Cancellation insurance** for prize-pool tournaments, specific liability for player injury (esports has emerging RSI/wellness claims), and broadcast/streaming considerations.
 
 ### The Sourced Detail
 
-E-sports centres, gaming cafés, and competitive gaming venues represent a distinctive category — combining the equipment density of a tech business with the customer-facing operations of an entertainment venue and increasingly the event/tournament operations of a sports organisation. The insurance build reflects this hybrid nature.
+E-sports centres, gaming cafés, and competitive gaming venues represent a distinctive category - combining the equipment density of a tech business with the customer-facing operations of an entertainment venue and increasingly the event/tournament operations of a sports organisation. The insurance build reflects this hybrid nature.
 
 #### The unique risk profile
 
@@ -101,7 +101,7 @@ Emerging awareness around:
 - Cyber Liability
 - Crime / Money
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher limits as scale grows
 - D&O if incorporated
 - Tournament/event-specific cover
@@ -350,6 +350,6 @@ The e-sports and gaming venue category is growing, with insurance underwriting s
 ### Related Information
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
-- [Critical Equipment Just Broke and Halted Our Production — What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
+- [Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

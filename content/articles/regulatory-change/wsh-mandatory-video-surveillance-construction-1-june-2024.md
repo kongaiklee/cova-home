@@ -20,7 +20,7 @@ og_description: "Effective 1 June 2024, the Workplace Safety and Health (General
 
 > **The Answer in 60 Seconds**
 >
-> Effective **1 June 2024**, the [Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S471-2024/Published/20240531) (S 471/2024) made a **Video Surveillance System (VSS)** mandatory at construction worksites with a **contract sum of S$5 million or more**. The VSS must cover the worksite's higher-risk work locations — work at height above two metres, scaffold and formwork erection, excavation, lifting operations, industrial-truck areas, dangerous vehicular-traffic zones, loading/unloading areas and (where one can be safely installed) confined spaces. The Regulations set minimum specifications: a video resolution of at least **1080p (1920×1080)**, a frame rate of at least **12 frames per second**, and recordings stamped with camera identification, location and a synchronised date/time. Footage must be kept **at least 30 days** from the date of recording, and **at least 180 days** from the date of a reportable WSH incident, during which it must not be overwritten or deleted. Failure to comply exposes the worksite **occupier** — typically the main contractor — to a fine of up to **S$20,000**, imprisonment of up to **2 years**, or both. The same day, a companion instrument — the [WSH (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) (S 434/2024) — raised the maximum fine for breaches of WSH subsidiary legislation that could cause serious harm from S$20,000 to **S$50,000**. For a Singapore SME contractor, the VSS regime is a compliance cost — but it also reshapes how Contractors' All Risks (CAR) and Work Injury Compensation / liability claims are underwritten and investigated, because contemporaneous footage of the worksite now exists. COVA does not advise on or arrange policies; it routes you to a licensed adviser.
+> Effective **1 June 2024**, the [Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S471-2024/Published/20240531) (S 471/2024) made a **Video Surveillance System (VSS)** mandatory at construction worksites with a **contract sum of S$5 million or more**. The VSS must cover the worksite's higher-risk work locations - work at height above two metres, scaffold and formwork erection, excavation, lifting operations, industrial-truck areas, dangerous vehicular-traffic zones, loading/unloading areas and (where one can be safely installed) confined spaces. The Regulations set minimum specifications: a video resolution of at least **1080p (1920×1080)**, a frame rate of at least **12 frames per second**, and recordings stamped with camera identification, location and a synchronised date/time. Footage must be kept **at least 30 days** from the date of recording, and **at least 180 days** from the date of a reportable WSH incident, during which it must not be overwritten or deleted. Failure to comply exposes the worksite **occupier** - typically the main contractor - to a fine of up to **S$20,000**, imprisonment of up to **2 years**, or both. The same day, a companion instrument - the [WSH (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) (S 434/2024) - raised the maximum fine for breaches of WSH subsidiary legislation that could cause serious harm from S$20,000 to **S$50,000**. For a Singapore SME contractor, the VSS regime is a compliance cost - but it also reshapes how Contractors' All Risks (CAR) and Work Injury Compensation / liability claims are underwritten and investigated, because contemporaneous footage of the worksite now exists. Covarage does not advise on or arrange policies; it routes you to a licensed adviser.
 
 ### The Sourced Detail
 
@@ -28,10 +28,10 @@ The mandatory VSS regime is part of MOM's broader push to strengthen constructio
 
 #### Statutory framework
 
-- **[Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006)** — the primary statute; the duty of every occupier and employer to keep the workplace safe flows from it.
-- **[WSH (General Provisions) (Amendment No. 2) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S471-2024/Published/20240531)** (S 471/2024, published 31 May 2024, in operation 1 June 2024) — the instrument that makes VSS mandatory at qualifying construction worksites and sets the specifications.
-- **[WSH (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527)** (S 434/2024, in operation 1 June 2024) — raised the maximum fine for serious-harm breaches of WSH subsidiary legislation from S$20,000 to S$50,000.
-- **[Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012)** — applies to VSS footage, because recordings of identifiable workers are personal data.
+- **[Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006)** - the primary statute; the duty of every occupier and employer to keep the workplace safe flows from it.
+- **[WSH (General Provisions) (Amendment No. 2) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S471-2024/Published/20240531)** (S 471/2024, published 31 May 2024, in operation 1 June 2024) - the instrument that makes VSS mandatory at qualifying construction worksites and sets the specifications.
+- **[WSH (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527)** (S 434/2024, in operation 1 June 2024) - raised the maximum fine for serious-harm breaches of WSH subsidiary legislation from S$20,000 to S$50,000.
+- **[Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012)** - applies to VSS footage, because recordings of identifiable workers are personal data.
 
 MOM and the [Workplace Safety and Health Council](https://www.tal.sg/wshc/) also publish a *WSH Guide on Video Surveillance Systems* (revised June 2024 to align with S 471/2024), which gives practical deployment guidance supplementing the Regulations.
 
@@ -41,9 +41,9 @@ The VSS requirement applies to a **construction worksite** with a **contract sum
 
 #### Where the VSS must be installed
 
-VSS coverage is not required everywhere on site — it is required at the **work locations where higher-risk activities take place**. Per the Regulations and the WSH Council guide, those locations are:
+VSS coverage is not required everywhere on site - it is required at the **work locations where higher-risk activities take place**. Per the Regulations and the WSH Council guide, those locations are:
 
-1. Every area — including every floor of a building under construction — where there is **work at height** from which a person could fall more than two metres, the **erection, dismantling or maintenance of scaffolds and formwork**, or **excavation works and shoring**.
+1. Every area - including every floor of a building under construction - where there is **work at height** from which a person could fall more than two metres, the **erection, dismantling or maintenance of scaffolds and formwork**, or **excavation works and shoring**.
 2. Every area where **lifting operations** are carried out or **lifting machines** are used (cranes, gondolas, mobile elevated working platforms).
 3. Every area where **industrial trucks** are used (forklifts, excavators, steam rollers).
 4. Every area where **vehicular traffic** may endanger persons at work.
@@ -59,11 +59,11 @@ The Regulations set baseline technical requirements. Cameras must record at a mi
 Retention is the part most likely to trip an SME up:
 
 - **At least 30 days** from the date a recording is made (rolling), where no incident has occurred.
-- **At least 180 days** from the date of a **reportable WSH incident** — and that footage must not be overwritten or deleted.
+- **At least 180 days** from the date of a **reportable WSH incident** - and that footage must not be overwritten or deleted.
 
 #### The occupier's obligation and the penalty
 
-Primary responsibility rests with the worksite **occupier** — in practice usually the main contractor or builder controlling the site. The occupier must install, operate and maintain the VSS, keep the footage for the required periods, and make it available to MOM. Non-compliance is an offence carrying a fine of up to **S$20,000**, imprisonment of up to **2 years**, or both.
+Primary responsibility rests with the worksite **occupier** - in practice usually the main contractor or builder controlling the site. The occupier must install, operate and maintain the VSS, keep the footage for the required periods, and make it available to MOM. Non-compliance is an offence carrying a fine of up to **S$20,000**, imprisonment of up to **2 years**, or both.
 
 #### The PDPA dimension
 
@@ -71,13 +71,13 @@ VSS footage records identifiable individuals, so it is **personal data** under t
 
 #### Why this matters for a Singapore SME
 
-For an SME contractor the VSS regime carries a direct compliance cost — equipment, installation, power, storage and maintenance, scaled to site size — but its more interesting effect is on insurance.
+For an SME contractor the VSS regime carries a direct compliance cost - equipment, installation, power, storage and maintenance, scaled to site size - but its more interesting effect is on insurance.
 
 **Contractors' All Risks (CAR) and liability underwriting.** Whether a project is subject to mandatory VSS, and whether the contractor's VSS is compliant, is the kind of information a CAR or liability underwriter may now ask about at proposal or renewal, because a working VSS is evidence of an active safety-management posture. As with any proposal-form question, the answer must be accurate: a misdescription of VSS coverage or compliance is a misrepresentation that can give the insurer grounds to dispute a claim or avoid the policy.
 
-**WIC and liability claim evidence.** Before mandatory VSS, a construction-injury claim was reconstructed from witness statements, supervisor reports and a post-incident site inspection. Where an incident now happens within a VSS-covered location, there is a contemporaneous recording of it. That cuts both ways for an SME: footage can substantiate a genuine claim and speed its resolution, and it can rebut an exaggerated or fabricated one — but it can equally show that the contractor's own system or supervision failed. The 180-day post-incident retention rule exists precisely so the footage survives long enough to be used in the claim and any investigation. An insurer's cooperation clause will typically require the insured to preserve and produce relevant evidence, including VSS footage; purging it can itself prejudice cover.
+**WIC and liability claim evidence.** Before mandatory VSS, a construction-injury claim was reconstructed from witness statements, supervisor reports and a post-incident site inspection. Where an incident now happens within a VSS-covered location, there is a contemporaneous recording of it. That cuts both ways for an SME: footage can substantiate a genuine claim and speed its resolution, and it can rebut an exaggerated or fabricated one - but it can equally show that the contractor's own system or supervision failed. The 180-day post-incident retention rule exists precisely so the footage survives long enough to be used in the claim and any investigation. An insurer's cooperation clause will typically require the insured to preserve and produce relevant evidence, including VSS footage; purging it can itself prejudice cover.
 
-**Sub-contractor cooperation.** A main contractor's VSS will record sub-contractors' workers. The main contractor should address this in sub-contract terms — sub-contractor cooperation with the VSS, non-interference with cameras, and cooperation in incident investigation — and align it with the insurance arrangements, since CAR is often placed in the joint names of the main contractor and sub-contractors with a cross-liability clause.
+**Sub-contractor cooperation.** A main contractor's VSS will record sub-contractors' workers. The main contractor should address this in sub-contract terms - sub-contractor cooperation with the VSS, non-interference with cameras, and cooperation in incident investigation - and align it with the insurance arrangements, since CAR is often placed in the joint names of the main contractor and sub-contractors with a cross-liability clause.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -97,34 +97,34 @@ For an SME contractor the VSS regime carries a direct compliance cost — equipm
 
 8. **Inaccurate insurance disclosure.** Describing VSS coverage or compliance loosely on a proposal or renewal form.
 
-9. **Treating the VSS as the safety system.** Relying on cameras instead of risk assessments, safe work procedures and supervision — the VSS supplements them, it does not replace them.
+9. **Treating the VSS as the safety system.** Relying on cameras instead of risk assessments, safe work procedures and supervision - the VSS supplements them, it does not replace them.
 
 ### What This Means for Your Business
 
 For a Singapore SME in construction, mandatory VSS is now a fixed feature of running any S$5m-or-more project.
 
-1. **Screen your pipeline** — identify every project at or above the S$5m contract sum and treat VSS as a project cost from the outset.
+1. **Screen your pipeline** - identify every project at or above the S$5m contract sum and treat VSS as a project cost from the outset.
 
-2. **Map coverage to the Regulations** — install at the specified higher-risk work locations, not just the gate.
+2. **Map coverage to the Regulations** - install at the specified higher-risk work locations, not just the gate.
 
-3. **Lock down retention** — configure the system for the 30-day rolling minimum and a protected 180-day hold once a reportable incident occurs.
+3. **Lock down retention** - configure the system for the 30-day rolling minimum and a protected 180-day hold once a reportable incident occurs.
 
-4. **Build the PDPA wrapper** — worker notification, signage, access control and a disposal practice.
+4. **Build the PDPA wrapper** - worker notification, signage, access control and a disposal practice.
 
-5. **Get insurance disclosure right** — answer VSS-related proposal and renewal questions precisely.
+5. **Get insurance disclosure right** - answer VSS-related proposal and renewal questions precisely.
 
-6. **Preserve footage after an incident** — make VSS preservation part of your incident-response procedure, so the cooperation clause in your CAR or liability policy is satisfied.
+6. **Preserve footage after an incident** - make VSS preservation part of your incident-response procedure, so the cooperation clause in your CAR or liability policy is satisfied.
 
-7. **Flow it down** — put VSS cooperation into sub-contract terms and align it with your joint-names CAR arrangement.
+7. **Flow it down** - put VSS cooperation into sub-contract terms and align it with your joint-names CAR arrangement.
 
-The cost of compliance — equipment, installation and storage — is bounded and can be planned into the project budget. The cost of non-compliance is not: a S$20,000 occupier fine and up to two years' imprisonment exposure, plus the risk that loose insurance disclosure or destroyed footage undermines a claim when it matters most.
+The cost of compliance - equipment, installation and storage - is bounded and can be planned into the project budget. The cost of non-compliance is not: a S$20,000 occupier fine and up to two years' imprisonment exposure, plus the risk that loose insurance disclosure or destroyed footage undermines a claim when it matters most.
 
 ### Questions to Ask Your Adviser
 
 1. For our project pipeline, have all S$5m-or-more projects been identified for VSS compliance?
 2. Is our VSS coverage mapped to the higher-risk work locations the Regulations specify?
 3. Are our retention settings configured for the 30-day rolling minimum and the 180-day post-incident hold?
-4. Is our PDPA framework — worker notification, signage, access control — in place for VSS footage?
+4. Is our PDPA framework - worker notification, signage, access control - in place for VSS footage?
 5. For our CAR and liability cover, are VSS-related disclosures accurate, and is footage preservation built into our incident response?
 
 ### Related Information

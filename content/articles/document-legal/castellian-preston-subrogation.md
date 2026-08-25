@@ -30,13 +30,13 @@ Castellian v Preston is one of the foundational decisions of modern insurance la
 
 In Castellian v Preston, the insured had insured property. After the loss, the insured received compensation from both the insurer (under the policy) and from a third party (through other commercial avenues). The question was whether the insurer was entitled to recover from the insured the amount the insured had received from the third party.
 
-The Court of Appeal held that the insurer was so entitled — establishing the doctrine that the insured cannot retain a "double recovery."
+The Court of Appeal held that the insurer was so entitled - establishing the doctrine that the insured cannot retain a "double recovery."
 
 #### The principles established
 
 Castellian v Preston established several foundational principles:
 
-**The indemnity principle.** Insurance is a contract of indemnity — the insured is entitled to be made whole, but not to profit from the loss. Where the insured has multiple recovery avenues, the doctrine prevents over-recovery.
+**The indemnity principle.** Insurance is a contract of indemnity - the insured is entitled to be made whole, but not to profit from the loss. Where the insured has multiple recovery avenues, the doctrine prevents over-recovery.
 
 **The subrogation right.** When the insurer has paid the loss, the insurer is entitled to:
 - Step into the position of the insured against third parties
@@ -69,15 +69,15 @@ In a typical insurance claim with subrogation potential:
 
 The insured's cooperation obligation is operationally consequential:
 
-**Don't prejudice recovery.** The SME should not enter into agreements with third parties that release them from liability without insurer consent. A common pitfall: the SME signs a release in exchange for a partial recovery, then claims the balance from the insurer — but the insurer's subrogation rights against the third party have been extinguished by the SME's release.
+**Don't prejudice recovery.** The SME should not enter into agreements with third parties that release them from liability without insurer consent. A common pitfall: the SME signs a release in exchange for a partial recovery, then claims the balance from the insurer - but the insurer's subrogation rights against the third party have been extinguished by the SME's release.
 
-**Preserve evidence.** Documents, photographs, witness contact information, communications — all should be preserved. This applies from the moment of loss, not just from claim acceptance.
+**Preserve evidence.** Documents, photographs, witness contact information, communications - all should be preserved. This applies from the moment of loss, not just from claim acceptance.
 
-**Provide assistance.** Reasonable assistance in pursuing recovery — answering questions, providing documents, attending interviews / depositions if needed, signing claim documents in the insurer's favour.
+**Provide assistance.** Reasonable assistance in pursuing recovery - answering questions, providing documents, attending interviews / depositions if needed, signing claim documents in the insurer's favour.
 
 **Don't settle without consent.** Settlements with third parties affecting the recovery should be coordinated with the insurer.
 
-Failure to comply with cooperation obligations can give the insurer recourse against the SME — claim denial in extreme cases, or recovery against the SME for the prejudiced subrogation amount.
+Failure to comply with cooperation obligations can give the insurer recourse against the SME - claim denial in extreme cases, or recovery against the SME for the prejudiced subrogation amount.
 
 #### Waiver of subrogation in commercial contracts
 
@@ -100,15 +100,15 @@ For SMEs, these waivers have significant practical effects:
 
 When negotiating commercial contracts, SMEs should understand both the immediate effect (no recovery against the protected party) and the broader effect (insurer notification, insurance adequacy of protected party).
 
-#### Singapore application — *Sompo v RSA*
+#### Singapore application - *Sompo v RSA*
 
-*Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [[2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) is a significant Singapore High Court decision on the scope of subrogation. The dispute arose from damage to Government cargo carried by a shipper: RSA, the cargo insurer, indemnified the Government and then sought, by subrogation, to call on a performance bond the shipper had provided. The Court held that an insurer's subrogated rights are not confined to a claim against the party responsible for the loss — they extend to *every* right the insured had to recover in respect of the loss, including calling on a performance bond provided by a third party.
+*Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [[2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) is a significant Singapore High Court decision on the scope of subrogation. The dispute arose from damage to Government cargo carried by a shipper: RSA, the cargo insurer, indemnified the Government and then sought, by subrogation, to call on a performance bond the shipper had provided. The Court held that an insurer's subrogated rights are not confined to a claim against the party responsible for the loss - they extend to *every* right the insured had to recover in respect of the loss, including calling on a performance bond provided by a third party.
 
 The decision is part of the Singapore body of authority refining how the Castellian v Preston principles operate in modern commercial contexts; the full facts and reasoning are available through [eLitigation](https://www.elitigation.sg/gd/s/2021_SGHC_152).
 
 #### Subrogation and the indemnity principle
 
-Castellian v Preston connects to the broader indemnity principle. Insurance is fundamentally indemnity-based — the insured is entitled to be made whole but not to profit. Subrogation operationalises this principle:
+Castellian v Preston connects to the broader indemnity principle. Insurance is fundamentally indemnity-based - the insured is entitled to be made whole but not to profit. Subrogation operationalises this principle:
 
 If the insured could recover both from the insurer and from the third party, they would be over-indemnified. Subrogation prevents this by routing the third-party recovery to the insurer (who has paid the indemnity).
 
@@ -132,7 +132,7 @@ Subrogation operates differently across industries:
 
 **Motor.** Active subrogation against at-fault parties. Specific Personal Injury Protection / no-fault frameworks in some jurisdictions (not Singapore).
 
-**Workers' Compensation.** Specific framework — WICA insurer subrogation against negligent third parties (not employer) when employee injury caused by third-party fault.
+**Workers' Compensation.** Specific framework - WICA insurer subrogation against negligent third parties (not employer) when employee injury caused by third-party fault.
 
 **Cyber.** Specific emerging framework. Limited subrogation effectiveness against criminal actors; specific subrogation against vendors / service providers in scope.
 

@@ -20,35 +20,35 @@ og_description: "Singapore SMEs engaging insurance brokers / financial advisers 
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs engaging insurance brokers / financial advisers should obtain explicit disclosure of broker remuneration under [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) on Information to Clients and Product Information Disclosure. Brokers operating under [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) must disclose: (a) commission rates, (b) volume bonuses or contingent commissions, (c) profit-sharing arrangements with insurers, (d) any conflicts of interest. The procedure for SMEs: (1) request written disclosure at engagement (preferably in broker letter / appointment terms), (2) request specific commission rates for each cover line being placed, (3) request disclosure of any contingent or volume-based remuneration, (4) request disclosure of conflicts (e.g., broker ownership by insurer, exclusive arrangements), (5) request annual update of disclosure, (6) document everything in writing. Common SME oversight: assuming "no fee" engagement means broker free; in reality, commission paid by insurer is built into premium and effectively paid by SME. Industry-standard commission rates: motor 10–15%, general property 15–20%, PL 17.5–25%, specialty (cyber, D&O) 15–25%, life/health 25–50%. Best practice: net premium quote (insurer's net rate) plus broker fee separately disclosed, allowing transparent comparison.
+> Singapore SMEs engaging insurance brokers / financial advisers should obtain explicit disclosure of broker remuneration under [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) on Information to Clients and Product Information Disclosure. Brokers operating under [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) must disclose: (a) commission rates, (b) volume bonuses or contingent commissions, (c) profit-sharing arrangements with insurers, (d) any conflicts of interest. The procedure for SMEs: (1) request written disclosure at engagement (preferably in broker letter / appointment terms), (2) request specific commission rates for each cover line being placed, (3) request disclosure of any contingent or volume-based remuneration, (4) request disclosure of conflicts (e.g., broker ownership by insurer, exclusive arrangements), (5) request annual update of disclosure, (6) document everything in writing. Common SME oversight: assuming "no fee" engagement means broker free; in reality, commission paid by insurer is built into premium and effectively paid by SME. Industry-standard commission rates: motor 10-15%, general property 15-20%, PL 17.5-25%, specialty (cyber, D&O) 15-25%, life/health 25-50%. Best practice: net premium quote (insurer's net rate) plus broker fee separately disclosed, allowing transparent comparison.
 
 ### The Sourced Detail
 
-Broker remuneration transparency in Singapore has improved materially since the Financial Advisory Industry Review (FAIR) reforms to the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), with [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) establishing specific disclosure obligations. Despite this, many SMEs engage brokers without fully understanding remuneration mechanics, resulting in suboptimal arrangements and conflict-of-interest exposures. The procedural framework gives SMEs explicit rights — but SMEs must invoke them.
+Broker remuneration transparency in Singapore has improved materially since the Financial Advisory Industry Review (FAIR) reforms to the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), with [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) establishing specific disclosure obligations. Despite this, many SMEs engage brokers without fully understanding remuneration mechanics, resulting in suboptimal arrangements and conflict-of-interest exposures. The procedural framework gives SMEs explicit rights - but SMEs must invoke them.
 
 #### Regulatory framework
 
-**Primary statute.** [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) — establishes financial adviser licensing, conduct standards, and disclosure obligations.
+**Primary statute.** [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) - establishes financial adviser licensing, conduct standards, and disclosure obligations.
 
 **Specific notices:**
-- [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) — Information to Clients and Product Information Disclosure
-- [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) — Recommendations on Investment Products
-- [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) — Use of Introducers (relevant to introducer / broker boundary)
+- [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) - Information to Clients and Product Information Disclosure
+- [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) - Recommendations on Investment Products
+- [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) - Use of Introducers (relevant to introducer / broker boundary)
 
-**Administering body.** [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) — supervises financial advisers including insurance brokers.
+**Administering body.** [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) - supervises financial advisers including insurance brokers.
 
-**Industry framework.** [Insurance and Financial Practitioners Association of Singapore (IFPAS)](https://www.ifpas.org.sg/), [Singapore Insurance Brokers' Association (SIBA)](https://www.siba.sg/) — industry self-regulation supplementing MAS oversight.
+**Industry framework.** [Insurance and Financial Practitioners Association of Singapore (IFPAS)](https://www.ifpas.org.sg/), [Singapore Insurance Brokers' Association (SIBA)](https://www.siba.sg/) - industry self-regulation supplementing MAS oversight.
 
 #### Broker remuneration mechanics
 
-Brokers earn through several mechanisms — SMEs benefit from understanding each:
+Brokers earn through several mechanisms - SMEs benefit from understanding each:
 
 **Commission (basic).** Percentage of premium paid by insurer to broker for placing the business. Industry-standard ranges:
-- Motor: 10–15%
-- General property: 15–20%
-- Public Liability: 17.5–25%
-- Specialty (Cyber, D&O, PI): 15–25%
-- Life / Health (group): 25–50%
+- Motor: 10-15%
+- General property: 15-20%
+- Public Liability: 17.5-25%
+- Specialty (Cyber, D&O, PI): 15-25%
+- Life / Health (group): 25-50%
 - Lloyd's market: variable; some lines higher
 
 The commission is built into the insurer's gross premium. SME paying SGD 10,000 premium with 20% commission means insurer collects SGD 8,000 net; broker collects SGD 2,000.
@@ -79,7 +79,7 @@ MAS Notice FAA-N03 requires disclosure of conflicts; SME should request explicit
 
 #### The disclosure procedure step-by-step
 
-**Step 1 — Engagement letter / appointment terms.**
+**Step 1 - Engagement letter / appointment terms.**
 
 When engaging broker:
 - Request written engagement terms before placing business
@@ -93,7 +93,7 @@ Standard terms should include:
 - Conflict disclosure
 - Termination provisions
 
-**Step 2 — Commission rate disclosure per cover line.**
+**Step 2 - Commission rate disclosure per cover line.**
 
 For each cover being placed:
 - Request specific commission rate (or rate range)
@@ -106,7 +106,7 @@ Example disclosure:
 - WICA: 12% commission
 - Cyber: 20% commission
 
-**Step 3 — Volume / Contingent commission disclosure.**
+**Step 3 - Volume / Contingent commission disclosure.**
 
 Request:
 - Whether broker has volume-based arrangements with any insurer
@@ -114,7 +114,7 @@ Request:
 - For SME's specific cover, whether placement contributes to volume / contingent
 - Whether disclosure available for relevant insurers being considered
 
-**Step 4 — Conflict statement.**
+**Step 4 - Conflict statement.**
 
 Request:
 - Whether broker is owned by, or has ownership stake in, any insurer
@@ -122,7 +122,7 @@ Request:
 - Whether broker has business relationships beyond insurance placement
 - Any other potential conflicts
 
-**Step 5 — Net premium quote alternative.**
+**Step 5 - Net premium quote alternative.**
 
 Best-practice approach for SMEs:
 - Request "net premium" quote from broker (insurer's actual rate without commission)
@@ -132,14 +132,14 @@ Best-practice approach for SMEs:
 
 This separates the commercial decision (insurer choice based on cover and price) from the advisory cost (broker fee). Some brokers accommodate this; others don't.
 
-**Step 6 — Annual disclosure update.**
+**Step 6 - Annual disclosure update.**
 
 At each renewal:
 - Request updated remuneration disclosure
 - Confirm any changes in commission structure
 - Confirm any new conflicts
 
-**Step 7 — Documentation.**
+**Step 7 - Documentation.**
 
 Maintain:
 - Engagement letter
@@ -174,9 +174,9 @@ Maintain:
 #### The introducer / broker / agent distinction
 
 Singapore distinguishes three roles:
-- **Introducer** (under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02)) — refers SME to licensed adviser; cannot recommend products or arrange contracts
-- **Broker** — licensed financial adviser representing SME's interests; can recommend products, arrange placements, advise on claims
-- **Tied Agent** — represents specific insurer's interests; can recommend that insurer's products
+- **Introducer** (under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02)) - refers SME to licensed adviser; cannot recommend products or arrange contracts
+- **Broker** - licensed financial adviser representing SME's interests; can recommend products, arrange placements, advise on claims
+- **Tied Agent** - represents specific insurer's interests; can recommend that insurer's products
 
 Different roles, different conflict profiles, different disclosure obligations. SME should confirm which role the engaged party is playing.
 
@@ -216,17 +216,17 @@ For Singapore SMEs engaging broker / financial adviser:
 
 5. **Net premium / fee alternative** considered; chosen if appropriate.
 
-6. **Market test on renewal** — broker demonstrates market work or SME tests market.
+6. **Market test on renewal** - broker demonstrates market work or SME tests market.
 
 7. **Broker performance metrics** established and reviewed.
 
-8. **Documentation discipline** — all disclosures preserved.
+8. **Documentation discipline** - all disclosures preserved.
 
 9. **Multi-line engagement** rather than line-by-line where possible.
 
-10. **Periodic reconsideration** — broker arrangement reviewed every 2-3 years even if no immediate dissatisfaction.
+10. **Periodic reconsideration** - broker arrangement reviewed every 2-3 years even if no immediate dissatisfaction.
 
-The cost of broker remuneration over multi-year engagement is substantial — for an SME with SGD 50,000 annual premium across all lines, broker remuneration totals SGD 8,000–15,000+ annually, or SGD 80,000–150,000+ over a decade. Transparency in this remuneration is the foundation for both fair pricing and aligned advice.
+The cost of broker remuneration over multi-year engagement is substantial - for an SME with SGD 50,000 annual premium across all lines, broker remuneration totals SGD 8,000-15,000+ annually, or SGD 80,000-150,000+ over a decade. Transparency in this remuneration is the foundation for both fair pricing and aligned advice.
 
 ### Questions to Ask Your Adviser
 

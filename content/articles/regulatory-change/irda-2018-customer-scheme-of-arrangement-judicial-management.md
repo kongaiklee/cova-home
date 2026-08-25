@@ -42,61 +42,61 @@ The new out-of-court judicial management route under section 94 IRDA. Creditors 
 
 The wrongful trading provision under section 239 IRDA. The SME's own directors face potential personal liability if they continue extending credit to a customer they knew or ought to have known could not pay.
 
-#### Verbatim statutory text — section numbers and SSO routing
+#### Verbatim statutory text - section numbers and SSO routing
 
 Scheme of arrangement architecture is in the Companies Act 1967:
 
-**Section 210 Companies Act 1967** — Court power to sanction compromise or arrangement. Sanction threshold is a majority in number representing 75% in value of creditors present and voting in the relevant class.
+**Section 210 Companies Act 1967** - Court power to sanction compromise or arrangement. Sanction threshold is a majority in number representing 75% in value of creditors present and voting in the relevant class.
 
-**Section 211 Companies Act 1967** — Provisions for facilitating reconstruction or amalgamation.
+**Section 211 Companies Act 1967** - Provisions for facilitating reconstruction or amalgamation.
 
-**Section 212 Companies Act 1967** — Incidental, consequential, supplemental provisions following sanction.
+**Section 212 Companies Act 1967** - Incidental, consequential, supplemental provisions following sanction.
 
 IRDA moratorium architecture for schemes:
 
-**Section 64 IRDA** — Moratorium in aid of a proposed compromise or arrangement. Subsection (8) imposes an automatic 30-day moratorium on filing of the application. Subsection (12) sets out matters not affected by the moratorium (security interest enforcement, admiralty proceedings, and others read with the Insolvency, Restructuring and Dissolution (Prescribed Arrangements and Proceedings) Regulations 2020).
+**Section 64 IRDA** - Moratorium in aid of a proposed compromise or arrangement. Subsection (8) imposes an automatic 30-day moratorium on filing of the application. Subsection (12) sets out matters not affected by the moratorium (security interest enforcement, admiralty proceedings, and others read with the Insolvency, Restructuring and Dissolution (Prescribed Arrangements and Proceedings) Regulations 2020).
 
-**Section 65 IRDA** — Court power to make orders to facilitate a compromise or arrangement, including replacement, extension, alternative orders.
+**Section 65 IRDA** - Court power to make orders to facilitate a compromise or arrangement, including replacement, extension, alternative orders.
 
-**Section 70 IRDA** — Cram-down on dissenting classes of creditors in a scheme of arrangement (the post-Chapter 11-inspired feature).
+**Section 70 IRDA** - Cram-down on dissenting classes of creditors in a scheme of arrangement (the post-Chapter 11-inspired feature).
 
-**Section 71 IRDA** — Court-approved super-priority rescue financing.
+**Section 71 IRDA** - Court-approved super-priority rescue financing.
 
-**Section 72 IRDA** — Court power to review act, omission, or decision after approval of compromise or arrangement.
+**Section 72 IRDA** - Court power to review act, omission, or decision after approval of compromise or arrangement.
 
 IRDA judicial management is in Part 7:
 
-**Section 88 IRDA** — Interpretation.
+**Section 88 IRDA** - Interpretation.
 
-**Section 89(1) IRDA** — Statutory objectives of judicial management (survival of company or part as going concern; more advantageous realisation of assets than winding up).
+**Section 89(1) IRDA** - Statutory objectives of judicial management (survival of company or part as going concern; more advantageous realisation of assets than winding up).
 
-**Section 90 IRDA** — Application for placing company under judicial management.
+**Section 90 IRDA** - Application for placing company under judicial management.
 
-**Section 91 IRDA** — Power of Court to make judicial management order and appoint judicial manager. Subsection (6) addresses opposition by a floating-charge holder.
+**Section 91 IRDA** - Power of Court to make judicial management order and appoint judicial manager. Subsection (6) addresses opposition by a floating-charge holder.
 
-**Section 92 IRDA** — Interim judicial manager.
+**Section 92 IRDA** - Interim judicial manager.
 
-**Section 93 IRDA** — Restrictions on company acts pending hearing.
+**Section 93 IRDA** - Restrictions on company acts pending hearing.
 
-**Section 94 IRDA** — Judicial management by resolution of creditors (out-of-court route, distinctive IRDA feature).
+**Section 94 IRDA** - Judicial management by resolution of creditors (out-of-court route, distinctive IRDA feature).
 
-**Section 95 IRDA** — Effect of application for judicial management order (statutory stay).
+**Section 95 IRDA** - Effect of application for judicial management order (statutory stay).
 
-**Section 99 IRDA** — Powers and duties of judicial manager.
+**Section 99 IRDA** - Powers and duties of judicial manager.
 
-**Sections 100 to 105 IRDA** — Judicial manager's proposals, creditors' meeting, sanction by Court, supervision by Court.
+**Sections 100 to 105 IRDA** - Judicial manager's proposals, creditors' meeting, sanction by Court, supervision by Court.
 
 Ipso facto stay:
 
-**Section 440 IRDA** — Bar on termination or modification of contract by reason only of insolvency or commencement of scheme or judicial management. Subsection (1) imposes the stay. Subsection (3) voids any contracting-out. Subsection (5) sets out carve-outs (eligible financial contracts, commercial ship charters, prescribed contracts). The Insolvency, Restructuring and Dissolution (Prescribed Contracts under Section 440) Regulations 2020 prescribe the carve-outs.
+**Section 440 IRDA** - Bar on termination or modification of contract by reason only of insolvency or commencement of scheme or judicial management. Subsection (1) imposes the stay. Subsection (3) voids any contracting-out. Subsection (5) sets out carve-outs (eligible financial contracts, commercial ship charters, prescribed contracts). The Insolvency, Restructuring and Dissolution (Prescribed Contracts under Section 440) Regulations 2020 prescribe the carve-outs.
 
 Statutory monetary thresholds:
 
-**Statutory demand for corporate winding up** — debt exceeding S$15,000 (uplifted from S$10,000).
+**Statutory demand for corporate winding up** - debt exceeding S$15,000 (uplifted from S$10,000).
 
-**Maximum debt threshold for individual Debt Repayment Scheme** — S$150,000 under regulation 4(1) of the Insolvency, Restructuring and Dissolution (Debt Repayment Scheme) Regulations 2020.
+**Maximum debt threshold for individual Debt Repayment Scheme** - S$150,000 under regulation 4(1) of the Insolvency, Restructuring and Dissolution (Debt Repayment Scheme) Regulations 2020.
 
-**SIP 2.0 eligibility** — total liabilities not exceeding S$2 million.
+**SIP 2.0 eligibility** - total liabilities not exceeding S$2 million.
 
 #### The order of events when a customer files
 
@@ -182,11 +182,11 @@ For an SME's directors, the wrongful trading section 239 IRDA defence requires t
 
 ### Related Information
 
-- [Article 262 — Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
-- [Article 263 — PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 268 — SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 291 — Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 262 - Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
+- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Article 268 - SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 291 - Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

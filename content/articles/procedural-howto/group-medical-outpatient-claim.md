@@ -31,7 +31,7 @@ The reason outpatient claims often get mishandled is simple: many employers use 
 
 On MOM’s official <a href="https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance">S Pass medical insurance page</a>, employers must buy and maintain medical insurance covering inpatient care and day surgery, with coverage of at least **S$60,000 per year**. MOM’s <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance">migrant worker medical insurance page</a> states a similar requirement for migrant workers. Those minimums are important, but they are not the same as a general outpatient reimbursement promise.
 
-#### Step 1 — Identify which benefit bucket the bill belongs to
+#### Step 1 - Identify which benefit bucket the bill belongs to
 
 Before filing anything, ask which category the treatment falls into:
 
@@ -43,7 +43,7 @@ Before filing anything, ask which category the treatment falls into:
 
 If the employee submits a day-surgery bill under an outpatient form, or a GP consultation under a hospitalisation workflow, the claim can get delayed or rejected simply because it entered the wrong process.
 
-#### Step 2 — Check whether the outpatient benefit is panel-based
+#### Step 2 - Check whether the outpatient benefit is panel-based
 
 Many SME group medical arrangements use panel clinics or third-party administrators. If the employee used a panel clinic, the claim may be cashless or partly cashless and may not need reimbursement filing at all. If the clinic was outside panel, the employee may need to submit a reimbursement claim with supporting documents.
 
@@ -56,7 +56,7 @@ Before filing, confirm:
 
 Those points come from the employer’s own plan design, not from the MOM minimum standards.
 
-#### Step 3 — Collect the right documents
+#### Step 3 - Collect the right documents
 
 For most outpatient reimbursement claims, the useful minimum set is:
 
@@ -70,7 +70,7 @@ For most outpatient reimbursement claims, the useful minimum set is:
 
 A very common failure point is the receipt. If it is not itemised, the claims administrator may not be able to tell whether the bill relates to consultation, medicine, procedure, screening, or something else.
 
-#### Step 4 — Submit through the correct channel
+#### Step 4 - Submit through the correct channel
 
 Outpatient claims are commonly handled through one of three routes:
 
@@ -80,13 +80,13 @@ Outpatient claims are commonly handled through one of three routes:
 
 The correct route depends on the employer’s arrangement. In many SMEs, the insurer is not the same party the employee interacts with for outpatient claims. A third-party administrator may handle panel access, claims adjudication, and reimbursement timelines.
 
-#### Step 5 — Keep MOM minimum medical insurance and outpatient benefits separate
+#### Step 5 - Keep MOM minimum medical insurance and outpatient benefits separate
 
 This distinction is especially important when your workforce includes S Pass or Work Permit holders. MOM’s official pages require inpatient care and day surgery coverage with at least S$60,000 annual cover for those pass holders. That does not automatically mean every clinic visit is claimable as an outpatient benefit.
 
 So the correct internal question is not “Does this worker have medical insurance?” It is “Which medical benefit responds to this bill?” A worker can have valid MOM-required MI and still have no employer-funded outpatient reimbursement outside the specific group plan.
 
-#### Step 6 — Watch the main reasons outpatient claims fail
+#### Step 6 - Watch the main reasons outpatient claims fail
 
 The most common issues are:
 

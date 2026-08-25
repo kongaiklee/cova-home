@@ -52,7 +52,7 @@ Two pathways to a discrimination claim. Disparate treatment is intentional. Disp
 - **Sourcing tools** that "look like our top performers" replicate whatever bias is in the existing top-performer cohort.
 - **Promotion-ranking systems** that weight "continuous tenure" or "hours logged" disadvantage caregivers and people with mental health conditions, two characteristics protected under the WFA.
 
-## Part 2: The Workplace Fairness Act 2025 and WFDRA — What Actually Bites
+## Part 2: The Workplace Fairness Act 2025 and WFDRA - What Actually Bites
 
 The WFA is not a guideline. It is law. Here are the operative facts a Singapore SME founder needs.
 
@@ -72,7 +72,7 @@ Three forms of discrimination: against individuals, by direction or policy, and 
 
 Two tiers. Administrative penalties for less serious contraventions (such as failing to keep grievance records) and civil penalties for serious civil contraventions (such as a second or subsequent discriminatory act, or systemic conduct). Specific penalty amounts are to be prescribed under subsidiary legislation made under the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025/Uncommenced/20250304073414?DocDate=20250213); parliamentary materials and the [MOM 14 October 2025 factsheet](https://www.mom.gov.sg/newsroom/press-releases/2025/1014-workplace-fairness-dispute-resolution-bill-factsheet) indicate the tiers will scale by first-versus-repeat offence, with separate caps for body-corporate and individual-officer (director, manager, partner) liability. Failure to comply with an MOM direction issued in lieu of an administrative penalty is a criminal offence under the Act. Confirm specific figures against the gazetted subsidiary regulations once published, before relying for compliance budgeting.
 
-### The private claim route — WFDRA mechanics
+### The private claim route - WFDRA mechanics
 
 This is the change that should concentrate the mind of an HR director. The [Workplace Fairness (Dispute Resolution) Bill (Bill No. 17/2025)](https://www.parliament.gov.sg/docs/default-source/bills-introduced/workplace-fairness-(dispute-resolution)-bill-17-2025.pdf?sfvrsn=a1235d08_1) creates a statutory tort of discrimination and a three-step process:
 
@@ -116,36 +116,36 @@ The first AI hiring discrimination case settled by the US Equal Employment Oppor
 
 [Amazon's experimental tool](https://builtin.com/artificial-intelligence/amazon-abandons-ai-hiring-tool-exposed-gender-bias) was killed before it produced litigation, but the public reporting changed the conversation. [HireVue dropped facial analysis in January 2021](https://www.shrm.org/topics-tools/news/talent-acquisition/hirevue-discontinues-facial-analysis-screening) approximately fourteen months after the Electronic Privacy Information Center filed its FTC complaint on 6 November 2019, alleging that HireVue's use of opaque algorithms and facial recognition constituted unfair and deceptive trade practices. Both episodes show that vendor self-correction tends to follow regulatory and reputational pressure, not precede it.
 
-### The regulatory perimeter — NYC, Illinois, Colorado, EU
+### The regulatory perimeter - NYC, Illinois, Colorado, EU
 
-- **New York City Local Law 144** (in force [5 July 2023](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page)) requires employers using Automated Employment Decision Tools to commission an annual independent bias audit, publish summary results, and notify candidates 10 business days in advance. Penalties: [US$500–US$1,500 per violation per day](https://www.nycbiasaudit.com/). On 2 December 2025, New York State Comptroller Thomas P. DiNapoli's office released [an audit](https://www.osc.ny.gov/state-agencies/audits/2025/12/02/enforcement-local-law-144-automated-employment-decision-tools) finding enforcement by the NYC Department of Consumer and Worker Protection ineffective: DCWP had reviewed 32 companies and identified one instance of non-compliance, while the Comptroller's auditors reviewing the same sample identified seventeen potential violations, and 75% of test calls to NYC's 311 hotline regarding AEDT issues were misrouted and never reached DCWP. DLA Piper has flagged that 2026 will see [stricter enforcement](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/New-York-Critical-audit-of-New-York-Citys-AI-hiring-law-signals-increased-risk-for-employers).
+- **New York City Local Law 144** (in force [5 July 2023](https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page)) requires employers using Automated Employment Decision Tools to commission an annual independent bias audit, publish summary results, and notify candidates 10 business days in advance. Penalties: [US$500-US$1,500 per violation per day](https://www.nycbiasaudit.com/). On 2 December 2025, New York State Comptroller Thomas P. DiNapoli's office released [an audit](https://www.osc.ny.gov/state-agencies/audits/2025/12/02/enforcement-local-law-144-automated-employment-decision-tools) finding enforcement by the NYC Department of Consumer and Worker Protection ineffective: DCWP had reviewed 32 companies and identified one instance of non-compliance, while the Comptroller's auditors reviewing the same sample identified seventeen potential violations, and 75% of test calls to NYC's 311 hotline regarding AEDT issues were misrouted and never reached DCWP. DLA Piper has flagged that 2026 will see [stricter enforcement](https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/New-York-Critical-audit-of-New-York-Citys-AI-hiring-law-signals-increased-risk-for-employers).
 - **Illinois HB 3773** (Illinois Human Rights Act amendment) takes effect [1 January 2026](https://www.workforcebulletin.com/illinois-prohibits-discriminatory-artificial-intelligence-in-employment-decisions). It bars discriminatory AI in recruitment, hiring, promotion, training, discipline, and termination, and prohibits zip codes as a proxy for protected classes. The earlier [Illinois AI Video Interview Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=4015&ChapterID=68) has been in force since 1 January 2020.
 - **Colorado AI Act (SB 24-205).** Signed 17 May 2024. Effective date delayed to [30 June 2026](https://www.clarkhill.com/news-events/news/colorados-ai-law-delayed-until-june-2026-what-the-latest-setback-means-for-businesses/) by SB 25B-004. Imposes a duty of reasonable care on developers and deployers of high-risk AI systems used in "consequential decisions," including employment.
 - **EU AI Act (Regulation 2024/1689).** [Annex III](https://artificialintelligenceact.eu/annex/3/) classifies AI used for recruitment, employee evaluation, promotion, and task allocation as high-risk. [Article 26](https://artificialintelligenceact.eu/article/26/) imposes deployer obligations including human oversight, log retention for at least six months, fundamental-rights impact assessments where required, and worker information. The high-risk obligations apply from [2 August 2026](https://digital-strategy.ec.europa.eu/en/faqs/navigating-ai-act). Singapore SMEs that hire EU-based candidates or whose AI outputs are used in the EU may fall within scope.
 
-> **Callout — The Aug 2026 deadline that affects Singapore.** If your Singapore SME uses an AI hiring tool whose output is used to make decisions about candidates located in the EU, you may be a "deployer" under Article 26 of the EU AI Act from 2 August 2026. Penalties for high-risk violations reach the higher of [€15 million or 3% of worldwide annual turnover](https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-high-risk-compliance-deadline-20/).
+> **Callout - The Aug 2026 deadline that affects Singapore.** If your Singapore SME uses an AI hiring tool whose output is used to make decisions about candidates located in the EU, you may be a "deployer" under Article 26 of the EU AI Act from 2 August 2026. Penalties for high-risk violations reach the higher of [€15 million or 3% of worldwide annual turnover](https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-high-risk-compliance-deadline-20/).
 
 ## Part 4: Four Concrete Scenarios for a Singapore SME
 
 These are illustrations, not legal advice. They use facts pulled from the WFA text and from the public reporting on AI hiring failures.
 
-### Scenario 1 — The F&B chain's resume parser
+### Scenario 1 - The F&B chain's resume parser
 
 A Singapore F&B chain with 80 outlets uses an off-the-shelf resume parser to filter store-manager applicants. Three years after deployment, a TAFEP referral leads to internal review. The chain discovers that the parser was trained on its 2018 hiring cohort, when the manager pool was disproportionately of one ethnicity. The model has been quietly downgrading applicants whose names match patterns from another ethnicity. Over three years, that is hundreds of rejected applicants. Under the WFA in force, several of them file mediation requests within the pre-employment filing window prescribed under the [Workplace Fairness (Dispute Resolution) Bill](https://www.parliament.gov.sg/docs/default-source/bills-introduced/workplace-fairness-(dispute-resolution)-bill-17-2025.pdf?sfvrsn=a1235d08_1). Even at the expected lower pre-employment claim cap, multiplied across claimants, plus the prospect of a "serious civil contravention" finding (specific penalty amounts to be set by subsidiary legislation), plus defence costs, plus reputational fallout, the exposure is material. The question is whether the chain's EPL policy, written in 2024, responds in 2027 to a hiring decision made in 2025.
 
-### Scenario 2 — The logistics SME's video-interview AI
+### Scenario 2 - The logistics SME's video-interview AI
 
 A logistics SME uses a video-interview AI to screen for warehouse supervisor roles. The vendor is a US firm. The system penalises candidates with non-native English speech patterns and candidates with stutters. The first cluster falls into "race" and "nationality" protected characteristics; the second falls into "disability." A claimant with a stutter brings a WFA claim through the ECT, alleging both disparate treatment (the AI was specifically configured to score "fluency") and disparate impact. The SME's defence rests on whether English fluency was a genuine job requirement under Section 20 of the WFA. Even if it was, the SME must produce the audit logs to show the AI evaluated fluency rather than accent. If the SME cannot, it loses the Section 20 defence.
 
-### Scenario 3 — The tech SME's promotion-ranking system
+### Scenario 3 - The tech SME's promotion-ranking system
 
-A tech SME with 60 employees uses an internal AI tool to rank candidates for senior promotion. The model weights "continuous tenure," "after-hours commits," and "training hours completed." Two female senior engineers who took maternity leave and returned to part-time work in the past two years are not promoted. They file mediation requests within the in-employment filing window prescribed under the [Workplace Fairness (Dispute Resolution) Bill](https://www.parliament.gov.sg/docs/default-source/bills-introduced/workplace-fairness-(dispute-resolution)-bill-17-2025.pdf?sfvrsn=a1235d08_1). The claim heads include "sex," "pregnancy," and "caregiving responsibilities." The claim value, including back-pay and forward compensation for the missed promotion, exceeds S$200,000 per claimant — within ECT jurisdiction. The SME's D&O policy may respond for individual director exposure but the EPL question is whether the policy's "automated decision" wording is silent (likely), excludes (worst case), or affirmatively covers (uncommon).
+A tech SME with 60 employees uses an internal AI tool to rank candidates for senior promotion. The model weights "continuous tenure," "after-hours commits," and "training hours completed." Two female senior engineers who took maternity leave and returned to part-time work in the past two years are not promoted. They file mediation requests within the in-employment filing window prescribed under the [Workplace Fairness (Dispute Resolution) Bill](https://www.parliament.gov.sg/docs/default-source/bills-introduced/workplace-fairness-(dispute-resolution)-bill-17-2025.pdf?sfvrsn=a1235d08_1). The claim heads include "sex," "pregnancy," and "caregiving responsibilities." The claim value, including back-pay and forward compensation for the missed promotion, exceeds S$200,000 per claimant - within ECT jurisdiction. The SME's D&O policy may respond for individual director exposure but the EPL question is whether the policy's "automated decision" wording is silent (likely), excludes (worst case), or affirmatively covers (uncommon).
 
-### Scenario 4 — The retail SME's AI shift-scheduler
+### Scenario 4 - The retail SME's AI shift-scheduler
 
 A retail SME with 30 part-time staff uses an AI shift-scheduling tool that optimises for "availability flexibility." Caregivers and parents are systematically given fewer hours because they cannot accept last-minute shifts. After WFA commencement, "caregiving responsibilities" is a protected characteristic. A class of part-time caregivers file claims. The SME argues it never made a hiring or promotion decision. The claimants point to "employment decisions during employment" under Section 6 of the WFA, which covers terms and conditions including hours. Whether the claim succeeds depends on whether the scheduling tool's output qualifies as an adverse "employment decision." Untested in Singapore. Tested in similar terms in other jurisdictions.
 
-## Part 5: Employment Practices Liability Insurance — What It Does and Where It Falls Short
+## Part 5: Employment Practices Liability Insurance - What It Does and Where It Falls Short
 
 ### What EPL is supposed to cover
 
@@ -154,7 +154,7 @@ EPL responds to employment-related wrongful acts: discrimination, harassment, wr
 ### What EPL typically does not cover
 
 Standard EPL exclusions across the international market include:
-- **Contractual liability.** Unpaid wages, holiday pay, payment in lieu of notice — these are generally [carved out as contractual, not wrongful-act, exposures](https://www.stewartslaw.com/news/employment-practices-liability-insurance-what-does-it-cover-and-what-are-the-common-pitfalls/).
+- **Contractual liability.** Unpaid wages, holiday pay, payment in lieu of notice - these are generally [carved out as contractual, not wrongful-act, exposures](https://www.stewartslaw.com/news/employment-practices-liability-insurance-what-does-it-cover-and-what-are-the-common-pitfalls/).
 - **Bodily injury.** Usually excluded, with carve-backs for emotional distress and mental anguish in better wordings.
 - **Wage and hour.** Often excluded or sub-limited.
 - **Trade union activity.** Typically excluded.
@@ -205,35 +205,35 @@ Lloyd's Asia and the London market are accessible through Singapore-licensed bro
 
 The list below is operational. None of it constitutes legal advice. All of it would form the substance of a vendor due-diligence pack and a broker submission.
 
-### Step 1 — AI tool inventory
+### Step 1 - AI tool inventory
 
 List every tool that touches a candidate or employee record: applicant-tracking systems, resume parsers, sourcing tools (LinkedIn Recruiter and similar), video-interview platforms, ranking and scoring engines, scheduling AI, performance-review AI. For each, record the vendor, deployment date, what data is fed in, what output is produced, and which human reviews each output.
 
-### Step 2 — Vendor due diligence
+### Step 2 - Vendor due diligence
 
 Ask each vendor for: their bias-audit results, the demographics of their training data, their AI Verify or equivalent test reports, their EU AI Act conformity-assessment status (if they sell into the EU), their NYC Local Law 144 audit summary if they have NYC-resident candidates, and their stated indemnity for bias-related claims. Read the contract. AI vendor terms typically cap liability at fees paid in the prior twelve months and disclaim all warranties on outputs, including warranties of non-discrimination. Microsoft's, Adobe's, and OpenAI's customer copyright commitments do not address bias.
 
-### Step 3 — Human in the loop
+### Step 3 - Human in the loop
 
-Do not let AI make the final reject decision on hiring or promotion. The TAFEP article published 20 October 2025 puts it bluntly: "[Employers — not algorithms — remain accountable for fair, transparent and compliant hiring decisions](https://www.tal.sg/tafep/resources/articles/2025/fair-hiring-first-ai-second)." A human review on every adverse outcome is the cheapest single risk control available.
+Do not let AI make the final reject decision on hiring or promotion. The TAFEP article published 20 October 2025 puts it bluntly: "[Employers - not algorithms - remain accountable for fair, transparent and compliant hiring decisions](https://www.tal.sg/tafep/resources/articles/2025/fair-hiring-first-ai-second)." A human review on every adverse outcome is the cheapest single risk control available.
 
-### Step 4 — Disclosure and consent
+### Step 4 - Disclosure and consent
 
 PDPA compliance requires meaningful notice. The PDPC Advisory Guidelines on AI Recommendation and Decision Systems set out what this means in the AI context. Candidates should be told that AI is involved, what data is processed, and what role the AI's output plays. The Illinois AI Video Interview Act requires explicit notice; while Singapore has no equivalent statute, applying the Illinois standard is a reasonable defensive baseline.
 
-### Step 5 — Bias testing on Singapore demographics
+### Step 5 - Bias testing on Singapore demographics
 
 Most vendor bias audits are performed against US demographic categories. Those are not the same as Singapore's. A meaningful bias audit for Singapore should test outcomes across: Chinese, Malay, Indian, Eurasian, and "Other" race classifications; the major religion categories; age bands relevant to the role; sex; nationality (Singapore citizen, PR, EP-holder, S-Pass, Work Permit); and where relevant, mental health condition and disability (recognising the data-protection sensitivities of those last two).
 
-### Step 6 — Documentation for regulatory defence
+### Step 6 - Documentation for regulatory defence
 
 The Section 20 "genuine job requirement" defence in the WFA, like the disparate-impact business-necessity defence in US law, is a documentary defence. If the SME cannot produce a written analysis showing why the criterion is essential, it loses. The same applies to AI logging. EU AI Act deployers must keep logs for six months under Article 26(5). Singapore has no equivalent statutory log-retention rule, but Singapore tribunals will look at log evidence the same way US courts do.
 
-### Step 7 — Vendor indemnity negotiation
+### Step 7 - Vendor indemnity negotiation
 
 Standard SaaS caps (fees paid in prior twelve months) are not commensurate with the exposure created by a class WFA claim. SMEs with bargaining leverage should negotiate a higher indemnity cap for discrimination claims, a carve-out from the general limitation, and a duty to defend rather than a duty to reimburse.
 
-### Step 8 — Insurance gap audit
+### Step 8 - Insurance gap audit
 
 Sit down with the licensed IFA or broker. Map each AI tool against the EPL, D&O, and Cyber policies. Identify silences and exclusions. Ask explicitly whether the EPL responds to claims arising from algorithmic hiring decisions. Document the answer in writing.
 
@@ -272,13 +272,13 @@ When sitting down with a licensed IFA or broker, the following questions surface
 
 ## Related Information
 
-- [Workplace Fairness Act 2025 — Full Statutory Reference](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
-- [Article 411 — MAS, AIRG, IMDA MGF and EU AI Act: Singapore SME Compliance Timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
-- [Article 412 — Chatbot Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
-- [Article 413 — Autonomous AI Agent Rogue Actions: Singapore SME Risk](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
-- [Article 414 — Deepfake Funds Transfer Fraud: Singapore SME Exposure](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
-- [Article 415 — AI-Generated Content: Copyright and IP Infringement Risk](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
-- [Article 417 — AI-Generated Code Security Vulnerabilities for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
+- [Workplace Fairness Act 2025 - Full Statutory Reference](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
+- [Article 411 - MAS, AIRG, IMDA MGF and EU AI Act: Singapore SME Compliance Timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [Article 412 - Chatbot Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
+- [Article 413 - Autonomous AI Agent Rogue Actions: Singapore SME Risk](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
+- [Article 414 - Deepfake Funds Transfer Fraud: Singapore SME Exposure](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [Article 415 - AI-Generated Content: Copyright and IP Infringement Risk](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
+- [Article 417 - AI-Generated Code Security Vulnerabilities for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
 - [PDPA 2022 Penalty Framework Reference](/regulatory-change/pdpa-2022-penalty)
 
 *Published 8 May 2026. Source verified 8 May 2026.*

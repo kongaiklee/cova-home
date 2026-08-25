@@ -13,14 +13,14 @@ word_count: 2342
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/document-legal/insurance-act-1966-overview"
-meta_description: "The Insurance Act 1966 is Singapore's primary legislation regulating insurance business — administered by the Monetary Authority of Singapore (MAS) and..."
+meta_description: "The Insurance Act 1966 is Singapore's primary legislation regulating insurance business - administered by the Monetary Authority of Singapore (MAS) and..."
 og_title: "Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy"
-og_description: "The Insurance Act 1966 is Singapore's primary legislation regulating insurance business — administered by the Monetary Authority of Singapore (MAS) and..."
+og_description: "The Insurance Act 1966 is Singapore's primary legislation regulating insurance business - administered by the Monetary Authority of Singapore (MAS) and..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) is Singapore's primary legislation regulating insurance business — administered by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) and supplemented by detailed [MAS Notices and Guidelines](https://www.mas.gov.sg/regulation). The Act establishes who can carry on insurance business in Singapore (licensing), how policies must be structured, how insurers must maintain solvency, and how claims and disputes are handled. For SMEs purchasing insurance, the Act matters because it: (1) limits insurance placements to **MAS-licensed insurers** (with specific exceptions for placements via [Lloyd's syndicates](https://www.lloyds.com/) or specifically authorised cross-border arrangements), (2) imposes specific **policyholder protection mechanisms** including the [Policy Owners' Protection (PPF) Scheme](https://www.sdic.org.sg/) for life insurance, (3) governs **insurer solvency** and the consequences of insurer failure, and (4) provides the framework for **consumer dispute resolution** through [FIDReC](https://www.fidrec.com.sg/). Verify current provisions on Singapore Statutes Online before relying on specific text — the Act has been amended multiple times.
+> The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) is Singapore's primary legislation regulating insurance business - administered by the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) and supplemented by detailed [MAS Notices and Guidelines](https://www.mas.gov.sg/regulation). The Act establishes who can carry on insurance business in Singapore (licensing), how policies must be structured, how insurers must maintain solvency, and how claims and disputes are handled. For SMEs purchasing insurance, the Act matters because it: (1) limits insurance placements to **MAS-licensed insurers** (with specific exceptions for placements via [Lloyd's syndicates](https://www.lloyds.com/) or specifically authorised cross-border arrangements), (2) imposes specific **policyholder protection mechanisms** including the [Policy Owners' Protection (PPF) Scheme](https://www.sdic.org.sg/) for life insurance, (3) governs **insurer solvency** and the consequences of insurer failure, and (4) provides the framework for **consumer dispute resolution** through [FIDReC](https://www.fidrec.com.sg/). Verify current provisions on Singapore Statutes Online before relying on specific text - the Act has been amended multiple times.
 
 ### The Sourced Detail
 
@@ -39,12 +39,12 @@ Section 4 of the Insurance Act 1966 prohibits any person from carrying on insura
 - Specific types of insurance and reinsurance subsidiary functions
 
 **Licence categories:**
-- **Direct insurer** licence — for insurers writing primary business
-- **Reinsurer** licence — for those reinsuring other insurers
-- **Captive insurer** licence — for captives
-- **Marine insurer** licence — specific category
-- **Lloyd's representatives** — for Lloyd's syndicates operating in Singapore
-- **Foreign insurer scheme** — for specific cross-border arrangements
+- **Direct insurer** licence - for insurers writing primary business
+- **Reinsurer** licence - for those reinsuring other insurers
+- **Captive insurer** licence - for captives
+- **Marine insurer** licence - specific category
+- **Lloyd's representatives** - for Lloyd's syndicates operating in Singapore
+- **Foreign insurer scheme** - for specific cross-border arrangements
 
 **MAS-regulated entities:**
 The [MAS Financial Institutions Directory](https://www.mas.gov.sg/regulation/financial-institutions-directory) lists licensed insurers. SMEs purchasing insurance should verify the insurer's MAS licence status.
@@ -69,9 +69,9 @@ This provides systemic protection against insurer failure that's absent for unli
 
 **3. Conduct standards.**
 Licensed insurers operate under MAS conduct standards including:
-- [MAS Notice 117 — Training and Competency Requirement: Health Insurance](https://www.mas.gov.sg/regulation/notices/notice-117)
-- [MAS Notice 121 — Captive Insurance: Writing of In-House and Non In-House Risks](https://www.mas.gov.sg/regulation/notices/notice-121)
-- [MAS Notice 124 — Public Disclosure Requirements](https://www.mas.gov.sg/regulation/notices/notice-124)
+- [MAS Notice 117 - Training and Competency Requirement: Health Insurance](https://www.mas.gov.sg/regulation/notices/notice-117)
+- [MAS Notice 121 - Captive Insurance: Writing of In-House and Non In-House Risks](https://www.mas.gov.sg/regulation/notices/notice-121)
+- [MAS Notice 124 - Public Disclosure Requirements](https://www.mas.gov.sg/regulation/notices/notice-124)
 - Specific Notices on claims handling, complaint resolution, and other operational matters
 
 **4. Dispute resolution.**
@@ -89,7 +89,7 @@ Per the [Deposit Insurance and Policy Owners' Protection Schemes Act 2011](https
 - Life insurance policies (specific scope)
 - Specific other categories
 
-For general insurance (most SME commercial cover), the PPF Scheme has limited application — most general insurance policies are NOT covered by PPF.
+For general insurance (most SME commercial cover), the PPF Scheme has limited application - most general insurance policies are NOT covered by PPF.
 
 **This means:**
 - For commercial property, liability, business interruption, etc.: PPF generally doesn't apply
@@ -114,17 +114,17 @@ Requirements for licensed insurers to establish and maintain insurance funds, fu
 **Control of licensed insurers** (sections on shareholdings, take-overs, key appointments, directions and defences):
 MAS approval required for material shareholdings or take-overs of Singapore-incorporated licensed insurers; key executive and director approval regime.
 
-**Transfer of business, restructuring, and winding up** (Part IIIAA — Voluntary transfer of business, Compulsory transfer of business, Compulsory transfer of shares, Restructure of capital, Winding up):
-Statutory framework for insurer business transfer, restructuring, and winding up — including moratorium powers, certificate of transfer mechanics, and policyholder protection priority on winding up. Section numbers in this Part use the "49F-" series (49FA onwards).
+**Transfer of business, restructuring, and winding up** (Part IIIAA - Voluntary transfer of business, Compulsory transfer of business, Compulsory transfer of shares, Restructure of capital, Winding up):
+Statutory framework for insurer business transfer, restructuring, and winding up - including moratorium powers, certificate of transfer mechanics, and policyholder protection priority on winding up. Section numbers in this Part use the "49F-" series (49FA onwards).
 
 **Insurance intermediaries** (separate Part):
 Registration regime for direct insurance brokers, exempt insurance brokers, and approved Marine, Aviation and Transit (MAT) brokers; conduct of business obligations supplemented by the Insurance (Intermediaries) Regulations.
 
-For pinpoint statutory citation, fetch the current consolidated text on [Singapore Statutes Online](https://sso.agc.gov.sg/Act/IA1966) — section numbers move when the Act is amended.
+For pinpoint statutory citation, fetch the current consolidated text on [Singapore Statutes Online](https://sso.agc.gov.sg/Act/IA1966) - section numbers move when the Act is amended.
 
 #### Insurance brokers under the Act
 
-The Insurance Act 1966 (supplemented by the Insurance (Intermediaries) Regulations) regulates insurance broking. Specific section numbers governing broker registration and conduct have shifted across amendments — for current pinpoint references, consult the consolidated SSO text and the [Insurance (Intermediaries) Regulations](https://sso.agc.gov.sg/SL/IA1966-RG16). Brokers in Singapore must be:
+The Insurance Act 1966 (supplemented by the Insurance (Intermediaries) Regulations) regulates insurance broking. Specific section numbers governing broker registration and conduct have shifted across amendments - for current pinpoint references, consult the consolidated SSO text and the [Insurance (Intermediaries) Regulations](https://sso.agc.gov.sg/SL/IA1966-RG16). Brokers in Singapore must be:
 - Licensed by MAS
 - Comply with conduct of business standards
 - Maintain professional indemnity insurance
@@ -136,7 +136,7 @@ For SME buyers, this means:
 - Broker conflicts of interest should be managed
 - Broker errors are insurable through their PI
 
-#### The introducer framework — relevant to COVA
+#### The introducer framework - relevant to Covarage
 
 Distinct from broking, **introducer** activities are addressed through specific MAS frameworks. [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) on the requirements for the appointment and use of introducers by financial advisers establishes the framework.
 
@@ -152,13 +152,13 @@ For SME buyers seeking insurance, the introducer model can provide a content-ric
 
 The Act regulates insurance business "in Singapore or from Singapore." For Singapore SMEs:
 
-**Outbound — Singapore SME insuring overseas exposures:**
+**Outbound - Singapore SME insuring overseas exposures:**
 - Local insurance in the country of property/operation typically required
 - Singapore policies with worldwide territory may extend in specific cases
 - See [Article 96](/cross-border/sg-sme-overseas-property) on overseas property
 - See [Articles 86-88, 109, 117, 127](/cross-border/sg-sme-malaysia-branch) on country-specific cross-border
 
-**Inbound — Foreign-licensed insurers covering Singapore exposures:**
+**Inbound - Foreign-licensed insurers covering Singapore exposures:**
 - Generally requires Singapore licensing of the insurer
 - Specific "non-admitted" insurance arrangements rare and require careful structuring
 - Foreign insurer schemes provide specific limited routes
@@ -220,20 +220,20 @@ MAS supervises insurers through:
 - Documentation, record-keeping, and client-money handling rules
 - Foundation for SME-broker conduct expectations
 
-**[MAS Notice 502 — Minimum Standards and Continuing Professional Development for Insurance Brokers and their Broking Staff](https://www.mas.gov.sg/regulation/notices/notice-502):**
+**[MAS Notice 502 - Minimum Standards and Continuing Professional Development for Insurance Brokers and their Broking Staff](https://www.mas.gov.sg/regulation/notices/notice-502):**
 - Minimum qualifications for broking staff and CPD obligations
 
-**[MAS Notice 120 — Disclosure and Advisory Process Requirements for Accident and Health Insurance Products](https://www.mas.gov.sg/regulation/notices/notice-120):**
+**[MAS Notice 120 - Disclosure and Advisory Process Requirements for Accident and Health Insurance Products](https://www.mas.gov.sg/regulation/notices/notice-120):**
 - Disclosure and advisory process standards for accident and health insurance products (relevant for SME group health and group personal accident purchases)
 
-**[MAS Notice 133 — Valuation and Capital Framework for Insurers](https://www.mas.gov.sg/regulation/notices/notice-133):**
+**[MAS Notice 133 - Valuation and Capital Framework for Insurers](https://www.mas.gov.sg/regulation/notices/notice-133):**
 - The Risk-Based Capital 2 (RBC 2) operational framework
 - Drives insurer financial strength visible to SME counterparties
 
 **MAS Guidelines on Outsourcing:**
 - For insurers outsourcing operational functions; affects how insurers handle SME customer service
 
-These represent the principal supervisory instruments touching SME insurance buyer interests. Other Notices (e.g. Notice 124 on Public Disclosure Requirements, Notice 117 on Training and Competency Requirement: Health Insurance) primarily govern internal insurer or representative obligations rather than buyer-facing disclosure. Verify current Notice titles, scope, and amendments on the [MAS regulation page](https://www.mas.gov.sg/regulation) — Notices are periodically renumbered, retitled, or replaced.
+These represent the principal supervisory instruments touching SME insurance buyer interests. Other Notices (e.g. Notice 124 on Public Disclosure Requirements, Notice 117 on Training and Competency Requirement: Health Insurance) primarily govern internal insurer or representative obligations rather than buyer-facing disclosure. Verify current Notice titles, scope, and amendments on the [MAS regulation page](https://www.mas.gov.sg/regulation) - Notices are periodically renumbered, retitled, or replaced.
 
 #### Specific scenarios
 

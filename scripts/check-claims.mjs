@@ -57,7 +57,7 @@ const RULES = [
     why: 'MAS does not register introducers. COVA is never "MAS-registered" or "registered with MAS".' },
 
   { id: 'FAA-N02-SELF-CLAIM',
-    re: /\b(?:COVA|Covarage)\b[^.\n]{0,60}?\b(?:is|acts as|operates as|operates under|appointed as|appointed under)\b[^.\n]{0,40}?(?:introducer|FAA-N02)|we (?:act|are) (?:as )?an introducer/i,
+    re: /\b(?:COVA|Covarage)\b[^.\n]{0,60}?\b(?:is|acts as|operates as|operates under|appointed as|appointed under)\b[^.\n]{0,40}?(?:introducer|FAA-N02)|we (?:act|are) (?:as )?an introducer|(?:COVA|Covarage)(?:'s)? introducer (?:role|status|appointment)/i,
     why: 'No executed FAA-N02 introducer appointment exists. Do not assert one without a signed appointment.' },
 
   // selfRequired:false - these strings only ever describe COVA's own pricing on a COVA surface.

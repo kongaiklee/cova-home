@@ -13,14 +13,14 @@ word_count: 1489
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/procedural-howto/equipment-breakdown-claim-process"
-meta_description: "Equipment Breakdown (EBD) — also called Boiler & Machinery in some markets — addresses mechanical and electrical breakdown scenarios that standard..."
+meta_description: "Equipment Breakdown (EBD) - also called Boiler & Machinery in some markets - addresses mechanical and electrical breakdown scenarios that standard..."
 og_title: "Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures"
-og_description: "Equipment Breakdown (EBD) — also called Boiler & Machinery in some markets — addresses mechanical and electrical breakdown scenarios that standard..."
+og_description: "Equipment Breakdown (EBD) - also called Boiler & Machinery in some markets - addresses mechanical and electrical breakdown scenarios that standard..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Equipment Breakdown (EBD) — also called Boiler & Machinery in some markets — addresses mechanical and electrical breakdown scenarios that standard [Property/Fire / PAR](/comparison/property-all-risks-exclusions-deep-dive) typically excludes. EBD covers internal breakdown causes (motor failure, electrical short circuit, control system failure, pressure equipment rupture, specific other mechanical / electrical failures) plus consequential damage to other property. The standard claim sequence: **equipment failure detection** → **immediate operational containment** → **specific safety / emergency response** → **insurer notification** → **specific surveyor / engineer assessment** → **specific repair vs replacement evaluation** → **specific BI / operational disruption coordination** → **claim settlement**. Critical operational discipline: **specific maintenance records** (foundation for distinguishing breakdown from wear-and-tear), **specific contemporaneous failure documentation**, and **operational discipline supporting cause determination**. For Singapore SMEs with material equipment dependencies (manufacturing, hospitality with substantial kitchen / building systems, specific industries), EBD is operationally essential complement to Property/Fire / PAR.
+> Equipment Breakdown (EBD) - also called Boiler & Machinery in some markets - addresses mechanical and electrical breakdown scenarios that standard [Property/Fire / PAR](/comparison/property-all-risks-exclusions-deep-dive) typically excludes. EBD covers internal breakdown causes (motor failure, electrical short circuit, control system failure, pressure equipment rupture, specific other mechanical / electrical failures) plus consequential damage to other property. The standard claim sequence: **equipment failure detection** → **immediate operational containment** → **specific safety / emergency response** → **insurer notification** → **specific surveyor / engineer assessment** → **specific repair vs replacement evaluation** → **specific BI / operational disruption coordination** → **claim settlement**. Critical operational discipline: **specific maintenance records** (foundation for distinguishing breakdown from wear-and-tear), **specific contemporaneous failure documentation**, and **operational discipline supporting cause determination**. For Singapore SMEs with material equipment dependencies (manufacturing, hospitality with substantial kitchen / building systems, specific industries), EBD is operationally essential complement to Property/Fire / PAR.
 
 ### The Sourced Detail
 
@@ -50,7 +50,7 @@ Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
 - Specific equipment catalog
 - Operational specific equipment age and condition
 
-#### Stage 1 — Equipment failure detection
+#### Stage 1 - Equipment failure detection
 
 **Detection scenarios.**
 
@@ -61,7 +61,7 @@ Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
 
 - Specific safety priority (life and limb before equipment)
 
-#### Stage 2 — Operational containment
+#### Stage 2 - Operational containment
 
 **Specific containment actions.**
 
@@ -74,7 +74,7 @@ For specific equipment types:
 - Pressure equipment (specific safety protocols)
 - Operational specific electrical equipment
 
-#### Stage 3 — Insurer notification
+#### Stage 3 - Insurer notification
 
 **Notification timing.**
 
@@ -90,7 +90,7 @@ EBD policies typically require notification:
 - Operational sophistication
 - Commercial discipline
 
-#### Stage 4 — Surveyor / engineer assessment
+#### Stage 4 - Surveyor / engineer assessment
 
 **Specialist assessment.**
 
@@ -106,7 +106,7 @@ For substantive EBD claims:
 - Operational considerations
 - Operational commercial relationships
 
-#### Stage 5 — Cause determination
+#### Stage 5 - Cause determination
 
 **The critical analytical step.**
 
@@ -134,7 +134,7 @@ Critical evidence:
 
 - Specific scheduled maintenance compliance demonstration
 
-#### Stage 6 — Damage extent assessment
+#### Stage 6 - Damage extent assessment
 
 **Direct damage to insured equipment.**
 
@@ -150,7 +150,7 @@ For mixed-cause damage:
 
 - Specific allocation between EBD and PAR
 
-#### Stage 7 — Repair vs replacement evaluation
+#### Stage 7 - Repair vs replacement evaluation
 
 **Repair scenarios.**
 
@@ -164,7 +164,7 @@ For mixed-cause damage:
 
 - Specific newer / upgraded equipment availability
 
-#### Stage 8 — BI / operational disruption coordination
+#### Stage 8 - BI / operational disruption coordination
 
 For claims involving operational disruption:
 
@@ -178,7 +178,7 @@ EBD typically includes specific BI extension:
 
 - Specific costs to maintain operations during breakdown
 
-#### Stage 9 — Claim settlement
+#### Stage 9 - Claim settlement
 
 **Settlement scope.**
 
@@ -299,6 +299,6 @@ EBD claim handling combines specific equipment expertise, cause-determination di
 
 ---
 
-Articles 210–219 expand five categories simultaneously rather than concentrating in one — partial response to the degraded-loop pattern that hit the procedural-heavy batch 21. Article 210 covers Cyber-Extortion Event Response (framework angle complementing Article 164's action-playbook angle, addressing ransomware encryption / exfiltration extortion / DDoS extortion variants, sanctions screening on payment decisions under CDSA and MAS Targeted Financial Sanctions framework). Article 211 covers Vendor Insolvency Cascade response (operational disruption + commercial exposure + IRDA 2018 creditor framework engagement, Trade Credit gap for advance payments, CBI named-supplier scope limitations, Performance Bond recovery, pre-event operational discipline as substantial protection). Article 212 covers Customer Data Subject Access Request response (PDPA Section 21 framework, Section 21(2)/21(3) refusal grounds, Section 21(4) prescribed exclusions, 30-day response standard per PDPC interpretation, fee framework). Article 213 covers SG SME with Korea Operations (Four Major Insurances framework — NHI / NPS / EI / IACI, FSC / FSS supervision, PIPA strictness, Labor Standards Act severance framework, Master/Local architecture). Article 214 covers SG SME with UK Operations. Article 215 covers SG SME with Thailand Operations (OIC supervision, SSF and WCF mandatory frameworks, PDPA Thailand, Foreign Business Act 1999 ownership framework, Master/Local architecture). Article 216 covers Religious Tour Operator (Hajj / Umrah MUIS coordination, Buddhist / Hindu / Christian pilgrimage, vulnerable elderly demographic, destination-specific exposure including stampede / heat / political risk scenarios, commercial sensitivity beyond standard travel). Article 217 covers Foreign Domestic Helper Agency (Stage 2 framework S$60k medical + S$5k bond from 1 July 2025, EA Licence Comprehensive category, vulnerable demographic considerations, source country counterparty relationships). Article 218 covers Opening a Pet Grooming / Boarding / Daycare business (AVS licensing under Animals and Birds Act 1965, Animal Bailee / Care, Custody, Control liability as foundational specialty cover beyond standard PL exclusions, premises modifications, animal incident scenarios). Article 219 covers Opening a Cleaning / Facilities Management operation. Two duplicate-slug pre-staged drafts in the original 210-219 set were replaced with non-duplicate content (213 → Korea instead of US duplicate; 215 → Thailand instead of Indonesia near-duplicate; 211 → Vendor Insolvency Cascade instead of MOM workplace dup; 217 → FDH Agency instead of Climbing Gym dup; 218 → Pet Grooming/Boarding instead of Recruitment Agency dup that collided with Article 112).
+Articles 210-219 expand five categories simultaneously rather than concentrating in one - partial response to the degraded-loop pattern that hit the procedural-heavy batch 21. Article 210 covers Cyber-Extortion Event Response (framework angle complementing Article 164's action-playbook angle, addressing ransomware encryption / exfiltration extortion / DDoS extortion variants, sanctions screening on payment decisions under CDSA and MAS Targeted Financial Sanctions framework). Article 211 covers Vendor Insolvency Cascade response (operational disruption + commercial exposure + IRDA 2018 creditor framework engagement, Trade Credit gap for advance payments, CBI named-supplier scope limitations, Performance Bond recovery, pre-event operational discipline as substantial protection). Article 212 covers Customer Data Subject Access Request response (PDPA Section 21 framework, Section 21(2)/21(3) refusal grounds, Section 21(4) prescribed exclusions, 30-day response standard per PDPC interpretation, fee framework). Article 213 covers SG SME with Korea Operations (Four Major Insurances framework - NHI / NPS / EI / IACI, FSC / FSS supervision, PIPA strictness, Labor Standards Act severance framework, Master/Local architecture). Article 214 covers SG SME with UK Operations. Article 215 covers SG SME with Thailand Operations (OIC supervision, SSF and WCF mandatory frameworks, PDPA Thailand, Foreign Business Act 1999 ownership framework, Master/Local architecture). Article 216 covers Religious Tour Operator (Hajj / Umrah MUIS coordination, Buddhist / Hindu / Christian pilgrimage, vulnerable elderly demographic, destination-specific exposure including stampede / heat / political risk scenarios, commercial sensitivity beyond standard travel). Article 217 covers Foreign Domestic Helper Agency (Stage 2 framework S$60k medical + S$5k bond from 1 July 2025, EA Licence Comprehensive category, vulnerable demographic considerations, source country counterparty relationships). Article 218 covers Opening a Pet Grooming / Boarding / Daycare business (AVS licensing under Animals and Birds Act 1965, Animal Bailee / Care, Custody, Control liability as foundational specialty cover beyond standard PL exclusions, premises modifications, animal incident scenarios). Article 219 covers Opening a Cleaning / Facilities Management operation. Two duplicate-slug pre-staged drafts in the original 210-219 set were replaced with non-duplicate content (213 → Korea instead of US duplicate; 215 → Thailand instead of Indonesia near-duplicate; 211 → Vendor Insolvency Cascade instead of MOM workplace dup; 217 → FDH Agency instead of Climbing Gym dup; 218 → Pet Grooming/Boarding instead of Recruitment Agency dup that collided with Article 112).
 
 This batch resets the degraded-loop pattern that emerged in batches 17-18 and 21 procedural how-to content. The narrative-dense edge case + cross-border + crisis content patterns hold up better against the loop than checklist-heavy operational sequences.

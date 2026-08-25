@@ -20,7 +20,7 @@ og_description: "Indoor playgrounds and soft play centres in Singapore operate u
 
 > **The Answer in 60 Seconds**
 >
-> Indoor playgrounds and soft play centres in Singapore operate under [BCA fire safety / building code requirements](https://www1.bca.gov.sg/) for the venue, [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) compliance for occupant load and fire safety, and [Public Entertainments Act](https://sso.agc.gov.sg/Act/PEA1958) licensing where applicable. The operating model concentrates one of the highest-density paediatric injury risks in the SME sector — children running, climbing, falling, colliding, in unsupervised parental-watch environments. Insurance commercial spine: (a) **Public Liability with high limits** and child-injury-specific wording, (b) **Property/Fire** for play equipment (which has high replacement value and is regulated by safety standards), (c) **Business Interruption** following any major incident or equipment-related closure, (d) **WICA** for staff including supervisors, (e) **Liability waiver enforcement** practical considerations under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977). The edge-case features that frequently get missed: **paediatric injury claim severity** (children's injuries can carry lifetime damages including future earnings claims), **equipment maintenance documentation** (claims defence depends on inspection logs), **parental supervision allocation** (most operators require parents to supervise, but parental supervision does not eliminate operator duty), and **birthday party / event hosting exposure**. Get the structure right; getting it wrong creates exposure across multiple injury claims simultaneously.
+> Indoor playgrounds and soft play centres in Singapore operate under [BCA fire safety / building code requirements](https://www1.bca.gov.sg/) for the venue, [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) compliance for occupant load and fire safety, and [Public Entertainments Act](https://sso.agc.gov.sg/Act/PEA1958) licensing where applicable. The operating model concentrates one of the highest-density paediatric injury risks in the SME sector - children running, climbing, falling, colliding, in unsupervised parental-watch environments. Insurance commercial spine: (a) **Public Liability with high limits** and child-injury-specific wording, (b) **Property/Fire** for play equipment (which has high replacement value and is regulated by safety standards), (c) **Business Interruption** following any major incident or equipment-related closure, (d) **WICA** for staff including supervisors, (e) **Liability waiver enforcement** practical considerations under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977). The edge-case features that frequently get missed: **paediatric injury claim severity** (children's injuries can carry lifetime damages including future earnings claims), **equipment maintenance documentation** (claims defence depends on inspection logs), **parental supervision allocation** (most operators require parents to supervise, but parental supervision does not eliminate operator duty), and **birthday party / event hosting exposure**. Get the structure right; getting it wrong creates exposure across multiple injury claims simultaneously.
 
 ### The Sourced Detail
 
@@ -32,7 +32,7 @@ Indoor playgrounds combine paediatric-density premises liability with regulated 
 
 **Public Entertainments Licence.** Where the operation includes performances, parties, or specific entertainment elements, [Public Entertainments Act](https://sso.agc.gov.sg/Act/PEA1958) licensing administered by [Singapore Police Force Licensing Division](https://www.police.gov.sg/) applies.
 
-**Childcare / kindergarten regulatory framework does NOT apply** to drop-in indoor playgrounds where parents remain on premises. If the operation includes drop-off care without parent presence, [ECDA (Early Childhood Development Agency)](https://www.ecda.gov.sg/) regulatory framework is engaged — this is a categorically different licensing regime.
+**Childcare / kindergarten regulatory framework does NOT apply** to drop-in indoor playgrounds where parents remain on premises. If the operation includes drop-off care without parent presence, [ECDA (Early Childhood Development Agency)](https://www.ecda.gov.sg/) regulatory framework is engaged - this is a categorically different licensing regime.
 
 **Play equipment safety.** No single Singapore standard is binding; operators typically reference [European EN 1176 standard for playground equipment](https://www.bsigroup.com/) or [ASTM F1487 standard for public-use play equipment](https://www.astm.org/) as best-practice benchmarks. Equipment manufacturers typically certify compliance.
 
@@ -40,25 +40,25 @@ Indoor playgrounds combine paediatric-density premises liability with regulated 
 
 #### Insurance commercial spine
 
-**Public Liability** — the spine. Limits considerations:
+**Public Liability** - the spine. Limits considerations:
 
-- Standard SME PL limits (SGD 1–2 million) are typically inadequate for child-injury exposure
+- Standard SME PL limits (SGD 1-2 million) are typically inadequate for child-injury exposure
 - Recommended starting limit for indoor playgrounds: SGD 5 million minimum, often SGD 10 million for higher-occupancy venues
 - Wording must respond to bodily injury to minors specifically
-- Some carriers include / exclude specific high-risk equipment (trampolines, ball pits, climbing structures, slides) — review wording
+- Some carriers include / exclude specific high-risk equipment (trampolines, ball pits, climbing structures, slides) - review wording
 
-**Property / Fire** — covers play equipment (which has high replacement value: a fully fitted indoor playground can cost SGD 500,000 to SGD 2 million in equipment alone), fit-out, F&B equipment if applicable, fixtures.
+**Property / Fire** - covers play equipment (which has high replacement value: a fully fitted indoor playground can cost SGD 500,000 to SGD 2 million in equipment alone), fit-out, F&B equipment if applicable, fixtures.
 
-**Business Interruption** — covers loss of revenue following:
+**Business Interruption** - covers loss of revenue following:
 - Fire / property damage closing premises
 - Major injury incident leading to investigation-driven closure
 - Equipment-related closure pending re-inspection
 
-**WICA** — required for all employees: floor supervisors, party hosts, F&B staff, cleaners, managers.
+**WICA** - required for all employees: floor supervisors, party hosts, F&B staff, cleaners, managers.
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Liability cover for ancillary services** — birthday parties, events, school-group bookings often involve specific contractual undertakings that need cover scope confirmation.
+**Liability cover for ancillary services** - birthday parties, events, school-group bookings often involve specific contractual undertakings that need cover scope confirmation.
 
 #### The paediatric injury claim severity question
 
@@ -126,7 +126,7 @@ Indoor playground chains operating multiple locations need:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **PL limits sized for adult-injury benchmark.** SGD 1–2 million inadequate for paediatric exposure; severe child injury can exceed SGD 5 million in damages.
+1. **PL limits sized for adult-injury benchmark.** SGD 1-2 million inadequate for paediatric exposure; severe child injury can exceed SGD 5 million in damages.
 
 2. **Equipment maintenance logs incomplete.** Daily inspection logs missing or perfunctory; claims defence weakened.
 
@@ -148,13 +148,13 @@ Indoor playground chains operating multiple locations need:
 
 ### What This Means for Your Business
 
-For a typical Singapore indoor playground / soft play centre — single location, 200–600 square metres, paediatric focus:
+For a typical Singapore indoor playground / soft play centre - single location, 200-600 square metres, paediatric focus:
 
 1. **Confirm fire safety and building permit alignment.** SCDF FSC and BCA approvals current.
 
 2. **Confirm capacity limits and age-segregation operational discipline.** Daily enforcement matters.
 
-3. **PL with high limits and child-injury-specific wording.** SGD 5–10 million depending on capacity and equipment scope.
+3. **PL with high limits and child-injury-specific wording.** SGD 5-10 million depending on capacity and equipment scope.
 
 4. **Property / Fire including specific equipment declaration.** Replacement values current.
 
@@ -170,7 +170,7 @@ For a typical Singapore indoor playground / soft play centre — single location
 
 10. **Multi-location operators: aggregate limit consideration.** Across all venues.
 
-The cost of a properly structured indoor playground insurance programme is typically SGD 12,000–40,000 annually depending on capacity, equipment scope, and PL limits. The cost of a single severe child-injury claim — quantum plus defence — typically exceeds many years of premium and may threaten the operator's continued solvency without adequate cover.
+The cost of a properly structured indoor playground insurance programme is typically SGD 12,000-40,000 annually depending on capacity, equipment scope, and PL limits. The cost of a single severe child-injury claim - quantum plus defence - typically exceeds many years of premium and may threaten the operator's continued solvency without adequate cover.
 
 ### Questions to Ask Your Adviser
 

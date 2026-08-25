@@ -20,7 +20,7 @@ og_description: "A Singapore real estate agency requires licensing under the Cou
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore real estate agency requires licensing under the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). **Professional Indemnity insurance is mandatory** under the CEA framework and rules — minimum limits per CEA requirements with annual renewal aligned to the Practice Year. Beyond the mandatory PI: **Public Liability** for office and viewings, **WICA** for staff, **Cyber Liability** with attention to PDPA significance for client property and personal data (very high — financial information, identity documents, family situation), **Property/Fire** for office, and **Crime / Social Engineering Fraud** cover (real estate is one of the most-targeted sectors for Business Email Compromise). For agencies handling material settlement funds, **Fidelity Guarantee** for employee dishonesty. The mandatory PI scheme administered through CEA-approved insurers is a condition of agency licence; verify current PI requirements directly on the CEA portal before launching.
+> A Singapore real estate agency requires licensing under the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). **Professional Indemnity insurance is mandatory** under the CEA framework and rules - minimum limits per CEA requirements with annual renewal aligned to the Practice Year. Beyond the mandatory PI: **Public Liability** for office and viewings, **WICA** for staff, **Cyber Liability** with attention to PDPA significance for client property and personal data (very high - financial information, identity documents, family situation), **Property/Fire** for office, and **Crime / Social Engineering Fraud** cover (real estate is one of the most-targeted sectors for Business Email Compromise). For agencies handling material settlement funds, **Fidelity Guarantee** for employee dishonesty. The mandatory PI scheme administered through CEA-approved insurers is a condition of agency licence; verify current PI requirements directly on the CEA portal before launching.
 
 ### The Sourced Detail
 
@@ -78,7 +78,7 @@ CEA mandates PI insurance as a licensing condition. The scheme:
 
 **Top-up PI:**
 
-Many agencies — particularly those handling commercial transactions, high-value residential, or complex deals — purchase top-up PI above the CEA minimum. Top-up structure typically:
+Many agencies - particularly those handling commercial transactions, high-value residential, or complex deals - purchase top-up PI above the CEA minimum. Top-up structure typically:
 - Sits above the mandatory cover
 - Higher per-claim and aggregate limits
 - May offer broader wording on specific exposures
@@ -89,13 +89,13 @@ Many agencies — particularly those handling commercial transactions, high-valu
 Singapore real estate transactions can range from S$300k HDB resale to S$30M+ luxury sales. Errors at any value can give rise to substantial claims.
 
 **2. Multi-party complexity.**
-Vendors, purchasers, financiers, lawyers, valuers, agents — multiple parties with potentially conflicting interests. Conflict of interest is a significant exposure category.
+Vendors, purchasers, financiers, lawyers, valuers, agents - multiple parties with potentially conflicting interests. Conflict of interest is a significant exposure category.
 
 **3. Long-tail latency.**
-Errors in advice (zoning, defects disclosure, future development information) may not surface until years later. The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year contract/tort period applies — see [Article 75](/document-legal/limitation-act-6-year-clock).
+Errors in advice (zoning, defects disclosure, future development information) may not surface until years later. The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year contract/tort period applies - see [Article 75](/document-legal/limitation-act-6-year-clock).
 
 **4. Significant client data sensitivity.**
-Identity documents (NRIC, passport), financial information (income, savings, loan eligibility), family situation, property assets — all highly sensitive PDPA categories.
+Identity documents (NRIC, passport), financial information (income, savings, loan eligibility), family situation, property assets - all highly sensitive PDPA categories.
 
 **5. Settlement funds exposure.**
 Agencies handling settlement funds (deposits, holding deposits) face fiduciary exposure with strict trust account requirements.
@@ -118,7 +118,7 @@ Cyber Liability for real estate agencies is increasingly critical:
 - Customer communication manipulation
 
 **Recommended Cyber stack:**
-- Standalone Cyber with appropriate limits (S$2M–S$10M+)
+- Standalone Cyber with appropriate limits (S$2M-S$10M+)
 - **Social Engineering Fraud cover specifically for BEC** at appropriate sub-limit
 - Pre-transaction verification protocols (callback before any payment instruction change)
 - Panel forensics and breach counsel
@@ -149,7 +149,7 @@ For agencies handling settlement funds or with significant cash flow, Fidelity G
 - Mandatory PI in place
 - Other commercial insurance procured
 
-**Year 1 (small agency, 1–10 RES, 2–5 office staff):**
+**Year 1 (small agency, 1-10 RES, 2-5 office staff):**
 - Mandatory CEA PI
 - Top-up PI if practice warrants
 - Public Liability
@@ -159,7 +159,7 @@ For agencies handling settlement funds or with significant cash flow, Fidelity G
 - Cyber Liability with Social Engineering Fraud cover
 - D&O if incorporated
 
-**Years 2–5:**
+**Years 2-5:**
 - Higher PI limits as transaction values scale
 - EPL as headcount grows
 - Specialist extensions (commercial, luxury, overseas)
@@ -202,17 +202,17 @@ For agencies handling settlement funds or with significant cash flow, Fidelity G
 
 For a typical Singapore real estate agency:
 
-**Small agency (1–10 RES, 2–5 office staff):**
+**Small agency (1-10 RES, 2-5 office staff):**
 - Mandatory CEA PI: per scheme calculation
 - Top-up PI: optional
-- Other insurance: S$8,000–S$25,000
-- **Total annual insurance budget** typically S$15,000–S$50,000+
+- Other insurance: S$8,000-S$25,000
+- **Total annual insurance budget** typically S$15,000-S$50,000+
 
-**Mid-size agency (20–60 RES, 5–15 office staff):**
+**Mid-size agency (20-60 RES, 5-15 office staff):**
 - Higher PI limits
-- Comprehensive other lines: S$20,000–S$60,000
-- Cyber with SEF: S$10,000–S$30,000
-- **Total: S$50,000–S$150,000+**
+- Comprehensive other lines: S$20,000-S$60,000
+- Cyber with SEF: S$10,000-S$30,000
+- **Total: S$50,000-S$150,000+**
 
 **Larger agency:**
 - Comprehensive programme
@@ -284,7 +284,7 @@ The real estate sector has high reputation sensitivity and consumer protection f
 
 ### Related Information
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
-- [A Vendor Just Ran Off With Our Deposit — What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
+- [A Vendor Just Ran Off With Our Deposit - What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

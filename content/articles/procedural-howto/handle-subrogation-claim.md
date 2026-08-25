@@ -18,7 +18,7 @@ og_title: "How to Handle a Subrogation Claim Against Your Business"
 og_description: "Find a licensed IFA →"
 ---
 
-> **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party — confirmed in Singapore in cases including *Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.
+> **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party - confirmed in Singapore in cases including *Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.
 
 **Find a licensed IFA →**
 
@@ -29,11 +29,11 @@ Per *Castellian v Preston* (1883) 11 QBD 380, the insurer takes "the advantage o
 
 ### The Step-by-Step
 
-**Step 1 — Receive the demand letter and read carefully.** Look for: the underlying loss event, the amount, the alleged basis of liability (negligence, breach of contract, statutory liability), supporting evidence (loss adjuster's report, repair invoices, the underlying policy payout), and any deadline.
+**Step 1 - Receive the demand letter and read carefully.** Look for: the underlying loss event, the amount, the alleged basis of liability (negligence, breach of contract, statutory liability), supporting evidence (loss adjuster's report, repair invoices, the underlying policy payout), and any deadline.
 
-**Step 2 — Do not admit liability, do not respond directly.** Per typical liability policy conditions: "The Insured shall not, without our prior written consent, admit liability, make any offer, promise or payment in respect of any claim." Responding directly may breach this condition and let your insurer decline cover.
+**Step 2 - Do not admit liability, do not respond directly.** Per typical liability policy conditions: "The Insured shall not, without our prior written consent, admit liability, make any offer, promise or payment in respect of any claim." Responding directly may breach this condition and let your insurer decline cover.
 
-**Step 3 — Forward to your liability insurer immediately.** Identify the relevant policy:
+**Step 3 - Forward to your liability insurer immediately.** Identify the relevant policy:
 - Customer's property damaged on your premises → **Public Liability**
 - Fire from your premises spread to neighbour → **Public Liability** + your **Fire/PAR** (subrogation goes against you)
 - Goods in your care/custody/control damaged → **PL with care/custody/control extension** or **bailee cover**
@@ -41,29 +41,29 @@ Per *Castellian v Preston* (1883) 11 QBD 380, the insurer takes "the advantage o
 - Professional advice loss → **Professional Indemnity**
 - Cyber breach affecting third parties → **Cyber Liability**
 
-**Step 4 — Provide your insurer with full facts.** Incident timeline, your records, photos, witness statements, contracts in force at the time, any waiver of subrogation clauses in those contracts.
+**Step 4 - Provide your insurer with full facts.** Incident timeline, your records, photos, witness statements, contracts in force at the time, any waiver of subrogation clauses in those contracts.
 
-**Step 5 — Cooperate with your insurer's defence.** Per CMS Singapore: "In the event the insurer instructs solicitors to defend an insured in respect of a third party claim, such defence costs are usually covered under the policy." Your job is to give honest factual cooperation, not to negotiate.
+**Step 5 - Cooperate with your insurer's defence.** Per CMS Singapore: "In the event the insurer instructs solicitors to defend an insured in respect of a third party claim, such defence costs are usually covered under the policy." Your job is to give honest factual cooperation, not to negotiate.
 
-**Step 6 — Insurer investigates and either defends or settles.** The insurer's claims team will assess: was there negligence? Is liability established? Is the quantum reasonable? They may negotiate down, settle, or instruct lawyers to defend.
+**Step 6 - Insurer investigates and either defends or settles.** The insurer's claims team will assess: was there negligence? Is liability established? Is the quantum reasonable? They may negotiate down, settle, or instruct lawyers to defend.
 
-**Step 7 — Watch for waiver of subrogation clauses.** Many commercial contracts (leases, construction contracts, supply agreements) contain mutual waivers of subrogation. Per *HSBC Institutional Trust Services v DNKH Logistics* [2022] SGHC 248, courts will analyse the contractual exemption and indemnity clauses carefully — exemption clauses that effectively waive subrogation are enforceable subject to construction. Pull every contract relevant to the underlying loss and pass to your insurer's lawyers.
+**Step 7 - Watch for waiver of subrogation clauses.** Many commercial contracts (leases, construction contracts, supply agreements) contain mutual waivers of subrogation. Per *HSBC Institutional Trust Services v DNKH Logistics* [2022] SGHC 248, courts will analyse the contractual exemption and indemnity clauses carefully - exemption clauses that effectively waive subrogation are enforceable subject to construction. Pull every contract relevant to the underlying loss and pass to your insurer's lawyers.
 
 ### Common Mistakes
 1. **Replying "we'll look into it" or "we accept responsibility."** Even a polite reply can prejudice cover.
 2. **Forwarding late.** Liability policies have notification conditions. Late notification is a common cover-decline reason.
 3. **Settling directly to "make it go away."** Without insurer consent, you may be uninsured for the payment.
-4. **Forgetting the contract.** Many contracts contain waiver of subrogation. The insurer's lawyer will use this — but only if you put the contract in front of them.
+4. **Forgetting the contract.** Many contracts contain waiver of subrogation. The insurer's lawyer will use this - but only if you put the contract in front of them.
 5. **Treating subrogation as fraud.** It's not. It's a standard insurance recovery process; engaging cooperatively with your insurer is the proper response.
 
 ### What This Means for Your Business
-Subrogation demands typically arrive 6–18 months after the underlying loss, by which time the original incident may feel ancient. Two operational disciplines mitigate the pain:
+Subrogation demands typically arrive 6-18 months after the underlying loss, by which time the original incident may feel ancient. Two operational disciplines mitigate the pain:
 
-First, **document at the time of incident** — every fire, water leak, slip-and-fall, vehicle accident, IT outage. Photos, witness statements, contemporaneous notes. The defence stands on what you can prove eight months from now.
+First, **document at the time of incident** - every fire, water leak, slip-and-fall, vehicle accident, IT outage. Photos, witness statements, contemporaneous notes. The defence stands on what you can prove eight months from now.
 
-Second, **read your contracts for waiver of subrogation**. In Singapore, leases, construction contracts and many B2B service agreements include mutual waivers — meaning your insurer cannot pursue the counterparty's insurer (and vice versa) for the agreed scope of risk. These clauses can defeat or substantially reduce the claim entirely.
+Second, **read your contracts for waiver of subrogation**. In Singapore, leases, construction contracts and many B2B service agreements include mutual waivers - meaning your insurer cannot pursue the counterparty's insurer (and vice versa) for the agreed scope of risk. These clauses can defeat or substantially reduce the claim entirely.
 
-For SMEs without in-house legal, brief your liability broker on every contract with a financial cap above your liability deductible — they will flag waiver clauses and notification triggers.
+For SMEs without in-house legal, brief your liability broker on every contract with a financial cap above your liability deductible - they will flag waiver clauses and notification triggers.
 
 ### Questions to Ask Your Adviser
 1. Which of my policies should respond to this subrogation demand, and is the notification window still open?

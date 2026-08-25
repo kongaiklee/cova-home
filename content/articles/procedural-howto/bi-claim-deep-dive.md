@@ -20,7 +20,7 @@ og_description: "BI (Business Interruption) claim handling is among the most ope
 
 > **The Answer in 60 Seconds**
 >
-> BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on counterfactual analysis — what would the SME have earned absent the disruption, calculated against what was actually earned during the disruption. The standard sequence: **incident triggers BI cover** → **specific deductible mechanics engage** (per [Article 195](/comparison/bi-deductible-structures)) → **operational baseline establishment** (pre-incident revenue, gross profit, operational cost structure) → **specific disruption period documentation** → **specific gross profit calculation** → **specific Increased Cost of Working (ICOW) quantification** → **specific indemnity period management** → **claim settlement**. Critical operational discipline: **comprehensive pre-incident financial records** (foundational for baseline establishment), **specific contemporaneous disruption documentation**, **operational decisions documentation** (mitigation, ICOW), and **considerations on indemnity period**. For Singapore SMEs with material BI cover, getting BI claims right requires substantive operational and accounting discipline.
+> BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on counterfactual analysis - what would the SME have earned absent the disruption, calculated against what was actually earned during the disruption. The standard sequence: **incident triggers BI cover** → **specific deductible mechanics engage** (per [Article 195](/comparison/bi-deductible-structures)) → **operational baseline establishment** (pre-incident revenue, gross profit, operational cost structure) → **specific disruption period documentation** → **specific gross profit calculation** → **specific Increased Cost of Working (ICOW) quantification** → **specific indemnity period management** → **claim settlement**. Critical operational discipline: **comprehensive pre-incident financial records** (foundational for baseline establishment), **specific contemporaneous disruption documentation**, **operational decisions documentation** (mitigation, ICOW), and **considerations on indemnity period**. For Singapore SMEs with material BI cover, getting BI claims right requires substantive operational and accounting discipline.
 
 ### The Sourced Detail
 
@@ -52,7 +52,7 @@ Per [Article 159](/comparison/bi-vs-cbi-worked-example):
 - Operational specific deductible structure (per [Article 195](/comparison/bi-deductible-structures))
 - Operational specific extension considerations
 
-#### Stage 1 — Incident triggers BI cover
+#### Stage 1 - Incident triggers BI cover
 
 **Trigger framework.**
 
@@ -71,7 +71,7 @@ For specific extension scenarios:
 - Operational specific Contingent BI (supplier / customer disruption)
 - Operational specific other extensions
 
-#### Stage 2 — Deductible mechanics engagement
+#### Stage 2 - Deductible mechanics engagement
 
 **Time deductible application.**
 
@@ -94,7 +94,7 @@ For combined deductibles:
 - Specific sequential application
 - Operational operational discipline
 
-#### Stage 3 — Operational baseline establishment
+#### Stage 3 - Operational baseline establishment
 
 **The foundational analysis.**
 
@@ -113,7 +113,7 @@ To calculate BI loss, baseline establishment is critical:
 
 - Specific growth pattern adjustment (where applicable)
 
-#### Stage 4 — Disruption period documentation
+#### Stage 4 - Disruption period documentation
 
 **Contemporaneous documentation.**
 
@@ -127,7 +127,7 @@ During disruption:
 - Specific mitigation actions and rationale
 - Operational specific Increased Cost of Working actions
 
-#### Stage 5 — Gross profit calculation
+#### Stage 5 - Gross profit calculation
 
 **The standard formula.**
 
@@ -158,7 +158,7 @@ BI loss = Reduction in turnover × gross profit ratio + (Increase in cost of wor
 
 - Specific calculated per formula
 
-#### Stage 6 — Indemnity period management
+#### Stage 6 - Indemnity period management
 
 **The indemnity period.**
 
@@ -179,7 +179,7 @@ For some policies:
 - Specific extended indemnity period after physical restoration
 - Operational ramp-up considerations
 
-#### Stage 7 — Increased Cost of Working (ICOW) detail
+#### Stage 7 - Increased Cost of Working (ICOW) detail
 
 **ICOW scope.**
 
@@ -204,7 +204,7 @@ For substantial claims:
 
 - AICOW extension permits ICOW beyond standard limits
 
-#### Stage 8 — Forensic accounting engagement
+#### Stage 8 - Forensic accounting engagement
 
 **For substantial claims.**
 
@@ -218,7 +218,7 @@ Major forensic accounting firms operate in Singapore:
 
 - Specific specialist BI quantum expertise
 
-#### Stage 9 — Specific contingent BI considerations
+#### Stage 9 - Specific contingent BI considerations
 
 For Contingent BI (CBI) extension:
 
@@ -236,7 +236,7 @@ For Contingent BI (CBI) extension:
 
 - Specific contemporaneous documentation
 
-#### Stage 10 — Specific Public Authority / Civil Authority extension
+#### Stage 10 - Specific Public Authority / Civil Authority extension
 
 **Public Authority extension scope.**
 
@@ -252,7 +252,7 @@ Where civil authority restrictions apply:
 - Specific restriction documentation
 - Operational impact documentation
 
-#### Stage 11 — Claim settlement
+#### Stage 11 - Claim settlement
 
 **Settlement process.**
 

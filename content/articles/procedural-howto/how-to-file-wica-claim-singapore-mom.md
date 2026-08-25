@@ -32,15 +32,15 @@ The WICA claim process is one of the most specifically prescribed procedures in 
 
 **Regulations.** [Work Injury Compensation (Insurance) Regulations 2020](https://sso.agc.gov.sg/SL/WICA2019-S731-2020) and [Work Injury Compensation (Insurance) (Amendment) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S803-2024/Published/20241014).
 
-**Administering agency.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) — Work Injury Compensation Branch handles claim assessments and Notice of Assessment issuance.
+**Administering agency.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) - Work Injury Compensation Branch handles claim assessments and Notice of Assessment issuance.
 
-**Designated insurer scheme.** Under WICA, employers must obtain WICA cover only from MOM-designated insurers. MOM publishes and periodically updates the [list of designated insurers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) — a range of established general insurers participate. Because the list is updated from time to time, employers should check it directly with MOM before procuring or renewing cover.
+**Designated insurer scheme.** Under WICA, employers must obtain WICA cover only from MOM-designated insurers. MOM publishes and periodically updates the [list of designated insurers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) - a range of established general insurers participate. Because the list is updated from time to time, employers should check it directly with MOM before procuring or renewing cover.
 
 **Coverage requirement.** Mandatory for: (i) all manual workers regardless of salary, (ii) non-manual workers earning **SGD 2,600 or below per month**.
 
 #### The claim procedure step-by-step
 
-**Step 1 — Immediate medical care and incident response.**
+**Step 1 - Immediate medical care and incident response.**
 
 When workplace injury occurs:
 - Provide immediate medical care to injured worker
@@ -49,15 +49,15 @@ When workplace injury occurs:
 - Identify witnesses; record their accounts
 - Begin internal incident report
 
-**Step 2 — Employer's incident report to MOM.**
+**Step 2 - Employer's incident report to MOM.**
 
 Required filing via [MOM iReport portal](https://www.mom.gov.sg/eservices/services/employers-report-of-accident).
 
 **Reporting triggers:**
-- Death — **immediately** (within 24 hours)
-- More than 3 days medical leave from work — within **10 days** of accident
-- Hospitalisation of at least 24 hours — within **10 days**
-- Dangerous occurrence (no injury but potential) — within **10 days**
+- Death - **immediately** (within 24 hours)
+- More than 3 days medical leave from work - within **10 days** of accident
+- Hospitalisation of at least 24 hours - within **10 days**
+- Dangerous occurrence (no injury but potential) - within **10 days**
 
 **Information required for iReport submission:**
 - Employer particulars (UEN, contact)
@@ -69,21 +69,21 @@ Required filing via [MOM iReport portal](https://www.mom.gov.sg/eservices/servic
 
 Late reporting penalty: fine up to **SGD 5,000** for first offence; up to **SGD 10,000 and/or 12 months imprisonment** for repeat offences.
 
-**Step 3 — Notification to WICA insurer.**
+**Step 3 - Notification to WICA insurer.**
 
 Concurrent with MOM reporting:
 - Notify designated insurer of incident
 - Insurer assigns claim number and adjuster
 - Insurer typically requests additional documentation
 
-**Step 4 — Medical certification and ongoing documentation.**
+**Step 4 - Medical certification and ongoing documentation.**
 
 - Worker's medical certificates (MCs) recorded
 - Specialist reports as relevant
 - Worker's ongoing medical treatment records
 - Functional capacity assessments where applicable
 
-**Step 5 — MOM assessment.**
+**Step 5 - MOM assessment.**
 
 MOM Work Injury Compensation Branch:
 - Reviews accident report and medical evidence
@@ -91,7 +91,7 @@ MOM Work Injury Compensation Branch:
 - Assesses degree of incapacity (temporary, permanent partial, permanent total)
 - Applies WICA compensation framework
 
-**Step 6 — Notice of Assessment.**
+**Step 6 - Notice of Assessment.**
 
 MOM issues Notice of Assessment specifying:
 - Compensation amount
@@ -99,7 +99,7 @@ MOM issues Notice of Assessment specifying:
 - Payment schedule
 - Objection rights
 
-**Step 7 — Objection period (if applicable).**
+**Step 7 - Objection period (if applicable).**
 
 Either employer / insurer / worker may object within **14 days** of Notice of Assessment. Objection requires:
 - Written notice
@@ -108,7 +108,7 @@ Either employer / insurer / worker may object within **14 days** of Notice of As
 
 If no objection: Notice becomes final.
 
-**Step 8 — Insurer payment.**
+**Step 8 - Insurer payment.**
 
 Designated insurer must pay within **21 days** of Notice becoming final (no objection or post-objection final decision). Non-payment triggers MOM Court Order for enforcement.
 
@@ -137,7 +137,7 @@ Designated insurer must pay within **21 days** of Notice becoming final (no obje
 
 #### Common procedural failures
 
-**Failure to report within 10 days.** The 10-day clock starts at accident date, not at MC issuance. Many employers wait until first MC arrives — by then several days have elapsed.
+**Failure to report within 10 days.** The 10-day clock starts at accident date, not at MC issuance. Many employers wait until first MC arrives - by then several days have elapsed.
 
 **Reporting only to insurer, not MOM.** Common error among smaller employers who assume insurer notification suffices. MOM iReport submission is independent statutory obligation.
 
@@ -203,7 +203,7 @@ For Singapore SME employers, WICA compliance is foundational employment-law obli
 
 9. **Review and update cover** at renewal with current headcount and salary data.
 
-10. **Coordinate with WSHA compliance** — WICA reports often trigger WSHA inspection follow-up.
+10. **Coordinate with WSHA compliance** - WICA reports often trigger WSHA inspection follow-up.
 
 The cost of WICA compliance failure is substantial: regulatory fine (up to SGD 10,000 first offence), uninsured worker compensation exposure (potentially exceeding employer's working capital), and reputational consequence. Procedural discipline is the foundation.
 

@@ -13,14 +13,14 @@ word_count: 3031
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/major-customer-bankruptcy-trade-credit-dso-cliff"
-meta_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) — scheme of arrangement under Part 5..."
+meta_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) - scheme of arrangement under Part 5..."
 og_title: "Major Customer Bankruptcy: The Trade Credit DSO Cliff Event"
-og_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) — scheme of arrangement under Part 5..."
+og_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) - scheme of arrangement under Part 5..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME's largest customer has filed under the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) — scheme of arrangement under Part 5 (section 64 moratorium), judicial management under Part 7 (sections 90 and 91), or winding up under Part 8 (sections 124 and 125). From the moment of filing, the SME's contractual rights are constrained. Section 64(8) imposes an automatic 30-day moratorium during which the SME cannot commence legal proceedings. Section 440(1) prevents termination of the supply contract by reason only of the insolvency event, voiding any contracting-out under section 440(3) for contracts entered into on or after 30 July 2020. The SME's Trade Credit Insurance fires on either of two triggers: the insolvency event itself, or protracted default (typically 180 days). Section 239 wrongful trading creates personal exposure for the SME's own directors if they continue extending credit knowing the customer cannot pay. The [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 210, 211, 212 govern the substantive scheme of arrangement; IRDA hosts the moratorium framework. The 7 January 2025 IRDA (Amendment) Act commenced 29 January 2026, making the Simplified Insolvency Programme permanent for companies with total liabilities not exceeding S$2 million. Statutory demand threshold for corporate winding up is debt exceeding S$15,000. The SME's Day-One workflow: confirm which proceeding has been filed (court cause-book search at [elitigation.sg](https://www.elitigation.sg)), freeze further shipments pending review, pull all customer contracts for date-of-execution analysis (section 440 savings under regulation 3 limit application to post-30 July 2020 contracts), and notify the Trade Credit insurer within the policy window (typically 30 days from insolvency event, 60 days from protracted default).
+> The Singapore SME's largest customer has filed under the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) - scheme of arrangement under Part 5 (section 64 moratorium), judicial management under Part 7 (sections 90 and 91), or winding up under Part 8 (sections 124 and 125). From the moment of filing, the SME's contractual rights are constrained. Section 64(8) imposes an automatic 30-day moratorium during which the SME cannot commence legal proceedings. Section 440(1) prevents termination of the supply contract by reason only of the insolvency event, voiding any contracting-out under section 440(3) for contracts entered into on or after 30 July 2020. The SME's Trade Credit Insurance fires on either of two triggers: the insolvency event itself, or protracted default (typically 180 days). Section 239 wrongful trading creates personal exposure for the SME's own directors if they continue extending credit knowing the customer cannot pay. The [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 210, 211, 212 govern the substantive scheme of arrangement; IRDA hosts the moratorium framework. The 7 January 2025 IRDA (Amendment) Act commenced 29 January 2026, making the Simplified Insolvency Programme permanent for companies with total liabilities not exceeding S$2 million. Statutory demand threshold for corporate winding up is debt exceeding S$15,000. The SME's Day-One workflow: confirm which proceeding has been filed (court cause-book search at [elitigation.sg](https://www.elitigation.sg)), freeze further shipments pending review, pull all customer contracts for date-of-execution analysis (section 440 savings under regulation 3 limit application to post-30 July 2020 contracts), and notify the Trade Credit insurer within the policy window (typically 30 days from insolvency event, 60 days from protracted default).
 
 ### The Sourced Detail
 
@@ -42,7 +42,7 @@ For the SME holding unpaid receivables, the practical impact of each track is si
 
 Section 440 IRDA voids contracting-out and prevents the SME from terminating or modifying the supply contract by reason only of the customer's insolvency or commencement of IRDA proceedings.
 
-**Section 440(1):** "No person may, at any time after the commencement, and before the conclusion, of any proceedings by a company — (a) terminate or amend, or claim an accelerated payment or forfeiture of the term under, any agreement (including a security agreement) with the company; or (b) terminate or modify any right or obligation under any agreement with the company, by reason only that the proceedings are commenced or that the company is insolvent."
+**Section 440(1):** "No person may, at any time after the commencement, and before the conclusion, of any proceedings by a company - (a) terminate or amend, or claim an accelerated payment or forfeiture of the term under, any agreement (including a security agreement) with the company; or (b) terminate or modify any right or obligation under any agreement with the company, by reason only that the proceedings are commenced or that the company is insolvent."
 
 **Section 440(3)** voids any contracting-out.
 
@@ -193,11 +193,11 @@ For directors of the SME, the wrongful trading section 239 IRDA defence requires
 
 ### Related Information
 
-- [Article 261 — IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
-- [Article 292 — Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
-- [Article 279 — Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 280 — Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 256 — Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 401 — How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [Article 261 - IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Article 292 - Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
+- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Article 401 - How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
 
 ---

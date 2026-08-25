@@ -1,5 +1,5 @@
 ---
-title: "Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?"
+title: "Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?"
 slug: "/crisis/cyber-extortion-ransomware"
 category: "crisis"
 intent: "steady-the-ship"
@@ -14,19 +14,19 @@ status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/cyber-extortion-ransomware"
 meta_description: "Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. Disconnect affected systems from the network (don't..."
-og_title: "Our Systems Are Locked and the Attackers Want Bitcoin — What Do I Do Now?"
+og_title: "Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?"
 og_description: "Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. Disconnect affected systems from the network (don't..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. **Disconnect** affected systems from the network (don't power off — power-on RAM may contain forensic evidence), **engage your Cyber Liability incident response panel** immediately (most policies have 24/7 panel access), **engage Cyber-experienced commercial counsel**, and notify **[PDPC](https://www.pdpc.gov.sg/)** within **3 days** if personal data has been or is likely to be compromised under [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012). For [CSA-designated CII](https://www.csa.gov.sg/), incident reporting within **2 hours** is mandatory under the [Cybersecurity Act 2018 with 2024 amendments](https://sso.agc.gov.sg/Act/CA2018). [SPF](https://www.police.gov.sg/) reporting addresses the criminal dimension. **Insurance is central:** Cyber Liability with comprehensive ransomware / cyber-extortion provisions is foundational. The decision whether to pay ransom is operational, legal (potential sanctions exposure), and reputational — best made with specialist counsel and insurer engagement.
+> Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. **Disconnect** affected systems from the network (don't power off - power-on RAM may contain forensic evidence), **engage your Cyber Liability incident response panel** immediately (most policies have 24/7 panel access), **engage Cyber-experienced commercial counsel**, and notify **[PDPC](https://www.pdpc.gov.sg/)** within **3 days** if personal data has been or is likely to be compromised under [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012). For [CSA-designated CII](https://www.csa.gov.sg/), incident reporting within **2 hours** is mandatory under the [Cybersecurity Act 2018 with 2024 amendments](https://sso.agc.gov.sg/Act/CA2018). [SPF](https://www.police.gov.sg/) reporting addresses the criminal dimension. **Insurance is central:** Cyber Liability with comprehensive ransomware / cyber-extortion provisions is foundational. The decision whether to pay ransom is operational, legal (potential sanctions exposure), and reputational - best made with specialist counsel and insurer engagement.
 
 ### The Step-by-Step
 
-For Singapore SMEs, ransomware and cyber-extortion incidents have become increasingly common. The single most important thing: **engage your Cyber Liability panel before doing anything operational** — they have the playbook, the specialist providers, and the authority to coordinate response.
+For Singapore SMEs, ransomware and cyber-extortion incidents have become increasingly common. The single most important thing: **engage your Cyber Liability panel before doing anything operational** - they have the playbook, the specialist providers, and the authority to coordinate response.
 
-#### Hour 0–2 — Immediate response
+#### Hour 0-2 - Immediate response
 
 The first 2 hours determine outcome trajectory.
 
@@ -51,17 +51,17 @@ External (NOT YET): don't communicate with customers, suppliers, or media. Prema
 - Operational impact and continuity assessment
 - Commercial scope of affected data and systems
 
-#### Hour 2–24 — Engagement and assessment
+#### Hour 2-24 - Engagement and assessment
 
 **Cyber Liability panel response:**
 
 The panel typically includes:
 
-- **Forensic incident response specialists** — identify entry vector, scope assessment, exfiltration assessment, evidence preservation, recovery planning
-- **Commercial counsel** (often pre-approved) — regulatory compliance, notification obligations, commercial scope, criminal / regulatory engagement
-- **PR / communications specialist** — message preparation for affected stakeholders
-- **Notification specialist** — affected individual communication coordination
-- **Ransom negotiation specialist** (where applicable) — communication with attackers if engagement is decided
+- **Forensic incident response specialists** - identify entry vector, scope assessment, exfiltration assessment, evidence preservation, recovery planning
+- **Commercial counsel** (often pre-approved) - regulatory compliance, notification obligations, commercial scope, criminal / regulatory engagement
+- **PR / communications specialist** - message preparation for affected stakeholders
+- **Notification specialist** - affected individual communication coordination
+- **Ransom negotiation specialist** (where applicable) - communication with attackers if engagement is decided
 
 #### PDPA Section 26D notification
 
@@ -72,7 +72,7 @@ When personal data is likely to result in **significant harm** to individuals, o
 - [PDPC](https://www.pdpc.gov.sg/) within **3 calendar days**
 - Affected individuals as soon as practicable
 
-**What counts as significant harm.** The PDPA framework, and the PDPC's Advisory Guidelines, treat certain data categories as carrying a presumption of significant harm — including NRIC and FIN numbers, account credentials, and financial information. A breach involving those categories is treated as notifiable.
+**What counts as significant harm.** The PDPA framework, and the PDPC's Advisory Guidelines, treat certain data categories as carrying a presumption of significant harm - including NRIC and FIN numbers, account credentials, and financial information. A breach involving those categories is treated as notifiable.
 
 **Significant scale (500+ individuals):**
 
@@ -100,11 +100,11 @@ Foundational Digital Infrastructure expanded reporting obligations.
 
 Cyber-extortion is a criminal matter. Engagement with [SPF Cybercrime](https://www.police.gov.sg/) is appropriate, with specific commercial confidentiality and operational coordination considerations.
 
-#### Day 1–7 — Recovery decision
+#### Day 1-7 - Recovery decision
 
 **Recovery options:**
 
-**Option A: Backup restore.** Viable if backups are clean, isolated, and recent. Modern attackers often dwell in networks for weeks before triggering encryption — backups during dwell may be compromised.
+**Option A: Backup restore.** Viable if backups are clean, isolated, and recent. Modern attackers often dwell in networks for weeks before triggering encryption - backups during dwell may be compromised.
 
 **Option B: Decryption tool.** For some ransomware variants, free decryption tools exist (NoMoreRansom.org). Less common for sophisticated current variants.
 

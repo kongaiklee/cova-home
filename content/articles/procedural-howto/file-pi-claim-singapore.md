@@ -20,11 +20,11 @@ og_description: "Professional Indemnity is claims-made insurance. The trigger is
 
 > **The Answer in 60 Seconds**
 >
-> Professional Indemnity is **claims-made** insurance. The trigger is a claim *first made* against you (or a circumstance that may give rise to one) during the policy period — see [Article 64](/comparison/claims-made-vs-occurrence). The sequence: identify the claim or circumstance, **notify the insurer immediately** (typically "as soon as reasonably practicable" or specific calendar days — late notification can void cover), preserve evidence, do **not** admit liability or settle without insurer consent, cooperate with the panel counsel the insurer appoints under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulatory framework. PI claims often involve long lead times — sometimes years from notification to resolution, bounded by the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year clock for contract and tort claims (see [Article 75](/document-legal/limitation-act-6-year-clock)) — and significant defence cost which the policy typically covers (in addition to or within the limit, per wording). The professional's regulatory body (BOA, SMC, Law Society, etc.) may have separate disciplinary processes running parallel to the civil PI claim.
+> Professional Indemnity is **claims-made** insurance. The trigger is a claim *first made* against you (or a circumstance that may give rise to one) during the policy period - see [Article 64](/comparison/claims-made-vs-occurrence). The sequence: identify the claim or circumstance, **notify the insurer immediately** (typically "as soon as reasonably practicable" or specific calendar days - late notification can void cover), preserve evidence, do **not** admit liability or settle without insurer consent, cooperate with the panel counsel the insurer appoints under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulatory framework. PI claims often involve long lead times - sometimes years from notification to resolution, bounded by the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year clock for contract and tort claims (see [Article 75](/document-legal/limitation-act-6-year-clock)) - and significant defence cost which the policy typically covers (in addition to or within the limit, per wording). The professional's regulatory body (BOA, SMC, Law Society, etc.) may have separate disciplinary processes running parallel to the civil PI claim.
 
 ### The Step-by-Step
 
-PI claims are different from property or motor claims (which can sometimes be resolved through [FIDReC](https://www.fidrec.com.sg/) for smaller value disputes) because the alleged "loss" is the financial harm caused by alleged professional negligence — usually quantified months or years after the underlying act. The structure of PI claim handling reflects this: forensic, technical, document-heavy, often expert-driven, generally adversarial.
+PI claims are different from property or motor claims (which can sometimes be resolved through [FIDReC](https://www.fidrec.com.sg/) for smaller value disputes) because the alleged "loss" is the financial harm caused by alleged professional negligence - usually quantified months or years after the underlying act. The structure of PI claim handling reflects this: forensic, technical, document-heavy, often expert-driven, generally adversarial.
 
 #### What constitutes a "claim" under PI
 
@@ -44,9 +44,9 @@ PI policies typically cover claims and circumstances:
 - Quality review identifying a problem
 - Hot complaint from client even before formal claim
 
-The distinction matters: under most claims-made wordings, **circumstance notification** during the policy period preserves cover for any subsequent claim arising from that circumstance, even if the actual claim arrives during a later policy period or after policy expiry. This is significant protection — see [Article 64](/comparison/claims-made-vs-occurrence).
+The distinction matters: under most claims-made wordings, **circumstance notification** during the policy period preserves cover for any subsequent claim arising from that circumstance, even if the actual claim arrives during a later policy period or after policy expiry. This is significant protection - see [Article 64](/comparison/claims-made-vs-occurrence).
 
-#### Step 1 — Identify the trigger
+#### Step 1 - Identify the trigger
 
 Receipt of:
 - Letter of demand or formal complaint
@@ -60,9 +60,9 @@ Receipt of:
 - Successor professional reviewing prior work
 - Self-discovery of mistake
 
-In all cases, the question is whether the matter could give rise to a claim. The answer is often "yes" earlier than the layperson assumption — better to notify a circumstance unnecessarily than to miss the window.
+In all cases, the question is whether the matter could give rise to a claim. The answer is often "yes" earlier than the layperson assumption - better to notify a circumstance unnecessarily than to miss the window.
 
-#### Step 2 — Notify the insurer immediately
+#### Step 2 - Notify the insurer immediately
 
 PI policy notification is one of the strictest areas in insurance. Specific risks of late notification:
 
@@ -89,7 +89,7 @@ Settlements made before notification typically not covered.
 - Through broker if engaged
 - Confirmed receipt with reference number
 
-#### Step 3 — Preserve and gather
+#### Step 3 - Preserve and gather
 
 **Preserve all documents related to:**
 - The professional engagement
@@ -111,7 +111,7 @@ Settlements made before notification typically not covered.
 - Internal records of the engagement
 - Insurance schedule for prior years (continuity matters)
 
-#### Step 4 — Engage the insurer's panel counsel
+#### Step 4 - Engage the insurer's panel counsel
 
 Insurers typically appoint panel counsel for PI claims. Most major Singapore PI insurers have established panels of law firms with PI defence experience.
 
@@ -130,11 +130,11 @@ Insurers typically appoint panel counsel for PI claims. Most major Singapore PI 
 - Participate in strategy discussions
 
 **Engaging your own counsel separately:**
-Generally not necessary if panel counsel is appointed. Engaging your own counsel without insurer consent may result in the cost not being reimbursed — and may be inappropriate as panel counsel has direct fiduciary obligation.
+Generally not necessary if panel counsel is appointed. Engaging your own counsel without insurer consent may result in the cost not being reimbursed - and may be inappropriate as panel counsel has direct fiduciary obligation.
 
-In limited circumstances (conflict of interest, coverage dispute, very high stakes), separate counsel may be appropriate — discuss with insurer.
+In limited circumstances (conflict of interest, coverage dispute, very high stakes), separate counsel may be appropriate - discuss with insurer.
 
-#### Step 5 — Do not admit liability or settle
+#### Step 5 - Do not admit liability or settle
 
 This is the most-violated rule in PI claim handling.
 
@@ -159,7 +159,7 @@ This is the most-violated rule in PI claim handling.
 **Apologies:**
 There's nuance here. Some forms of apology express regret without admitting fault ("I'm sorry you've experienced this"). Others admit fault ("I should have done X"). Counsel guidance on apology language matters.
 
-#### Step 6 — Cooperate through the litigation lifecycle
+#### Step 6 - Cooperate through the litigation lifecycle
 
 **Pleadings phase:**
 - Defence drafted by panel counsel
@@ -193,7 +193,7 @@ There's nuance here. Some forms of apology express regret without admitting faul
 - Significant time and cost commitment
 - Outcome determined by judge (Singapore civil cases typically)
 
-#### Step 7 — Settlement or judgment
+#### Step 7 - Settlement or judgment
 
 **Settlement:**
 - Insurer pays settlement amount up to limit
@@ -294,11 +294,11 @@ For Singapore professionals, a PI claim is a structured process with significant
 
 6. **Coordinate with regulatory body** if professional disciplinary process is involved.
 
-7. **At renewal — disclose circumstances.** Continuity matters.
+7. **At renewal - disclose circumstances.** Continuity matters.
 
 8. **Build PI relationship over career.** Same insurer relationship over years means understanding history and trust.
 
-PI claims are not unusual for established professionals — most senior practitioners have notified at least one circumstance over their career. The difference between cases handled well and cases handled badly is the discipline of the response. Insurance funds the defence; the professional's role is providing what counsel needs to do their job.
+PI claims are not unusual for established professionals - most senior practitioners have notified at least one circumstance over their career. The difference between cases handled well and cases handled badly is the discipline of the response. Insurance funds the defence; the professional's role is providing what counsel needs to do their job.
 
 For practice owners, building incident response procedures, maintaining current panel relationships, and ensuring adequate limits and retroactive coverage are foundation work that pays off when (not if) a claim or circumstance arises.
 

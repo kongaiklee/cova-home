@@ -46,9 +46,9 @@ Per the [SCDF Foreword](https://www.scdf.gov.sg/fire-safety-services-listing/fir
 Per the [SCDF circular](https://www.scdf.gov.sg/docs/default-source/fssd-downloads/circulars/circular-publication-of-the-code-of-practice-for-fire-precautions-in-buildings-2023-edition.pdf): *"The implementation of this new Code takes effect on 1st Mar 2024. Any proposed plans of fire safety works for new buildings or alteration/alteration works to existing buildings that are submitted to SCDF for approval on or after the effective date will be subjected to the new Code."*
 
 This means:
-- New buildings — Fire Code 2023 applies.
-- Existing buildings undergoing addition & alteration (A&A) works — Fire Code 2023 applies to the works.
-- Existing buildings not undergoing works — continue under their original Fire Code edition until the next material A&A.
+- New buildings - Fire Code 2023 applies.
+- Existing buildings undergoing addition & alteration (A&A) works - Fire Code 2023 applies to the works.
+- Existing buildings not undergoing works - continue under their original Fire Code edition until the next material A&A.
 
 ### Insurance implications
 
@@ -61,9 +61,9 @@ This means:
 
 **Underwriting differentiation.** Premiums and terms increasingly reflect:
 - Sprinkler protection (always a meaningful pricing variable).
-- EV charging exposure — premiums may be loaded for premises with EV charging in basement carparks. Per the [LTA/SCDF/BCA 2024 Parliamentary reply](https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/9/media-replies/measures-in-place-to-mitigate-fire-risks.html), the multi-agency EV Safety Taskforce co-chaired by SCDF and LTA continues to review fire-mitigation measures for EVs.
-- ESS exposure — lithium-ion battery fires are difficult to extinguish and underwriters may require specific protections.
-- F&B kitchen suppression systems — particularly for restaurants with deep-fat fryers (typical Code requirement is a UL 300-listed kitchen hood suppression).
+- EV charging exposure - premiums may be loaded for premises with EV charging in basement carparks. Per the [LTA/SCDF/BCA 2024 Parliamentary reply](https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/9/media-replies/measures-in-place-to-mitigate-fire-risks.html), the multi-agency EV Safety Taskforce co-chaired by SCDF and LTA continues to review fire-mitigation measures for EVs.
+- ESS exposure - lithium-ion battery fires are difficult to extinguish and underwriters may require specific protections.
+- F&B kitchen suppression systems - particularly for restaurants with deep-fat fryers (typical Code requirement is a UL 300-listed kitchen hood suppression).
 
 **A&A trigger risk.** SMEs renovating shopfronts or factory layouts can inadvertently trigger Fire Code 2023 compliance for the renovation scope.
 
@@ -95,8 +95,8 @@ For SMEs in Retail, F&B, Manufacturing and Hospitality:
 5. How does my BI policy handle a forced shutdown for SCDF rectification work?
 
 ## Related Information
-- [SCDF Fire Certificate 36-Month Validity — From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
-- [WICA Compensation Limit Update — 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [SCDF Fire Certificate 36-Month Validity - From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
 - [PDPA Amendment 1 October 2022](/regulatory-change/pdpa-2022-penalty)
 
 ---

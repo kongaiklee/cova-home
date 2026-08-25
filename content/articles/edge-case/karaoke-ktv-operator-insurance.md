@@ -46,9 +46,9 @@ Public-performance use of recorded music (which is what karaoke is, mechanically
 
 #### Insurance commercial spine
 
-**Public Liability** — the spine. Limits considerations:
+**Public Liability** - the spine. Limits considerations:
 
-- Recommended SGD 5–10 million minimum given alcohol-service environment
+- Recommended SGD 5-10 million minimum given alcohol-service environment
 - Slip-and-fall on wet surfaces (spilled drinks, restroom, dance floor)
 - Stair / step injury (often elaborate fit-out with level changes)
 - Falling object injury (decorative fixtures, lighting)
@@ -57,7 +57,7 @@ Public-performance use of recorded music (which is what karaoke is, mechanically
 
 Standard PL may exclude or limit alcohol-related injury claims; review wording.
 
-**Liquor Liability** — specific cover for alcohol-service-related claims:
+**Liquor Liability** - specific cover for alcohol-service-related claims:
 
 - Over-service to intoxicated patron and consequential third-party harm
 - Sale to minor and consequential injury
@@ -66,29 +66,29 @@ Standard PL may exclude or limit alcohol-related injury claims; review wording.
 
 [Liquor Control Act](https://sso.agc.gov.sg/Act/LCSCA2015) creates statutory framework; tort-based dram-shop-style claims may also arise. Liquor Liability cover responds to both.
 
-**Property / Fire** — covers:
+**Property / Fire** - covers:
 
 - Building (if owned) or fixtures and fit-out (if leased)
-- Audio system per room (speakers, mixers, amplifiers, microphones — premium equipment can run SGD 10,000+ per room)
+- Audio system per room (speakers, mixers, amplifiers, microphones - premium equipment can run SGD 10,000+ per room)
 - Video display equipment (large screens per room)
 - Karaoke machines and music libraries
 - Lighting systems (often substantial)
 - F&B equipment if operated
 - Furniture, fittings, decorative elements (often elaborate and expensive)
 
-**Business Interruption** — covers revenue loss following property loss. Indemnity period considerations: KTV fit-out replacement is typically slow (specific equipment lead times, custom interior finishes); 12–24 months indemnity period.
+**Business Interruption** - covers revenue loss following property loss. Indemnity period considerations: KTV fit-out replacement is typically slow (specific equipment lead times, custom interior finishes); 12-24 months indemnity period.
 
-**WICA** — for all employed staff. KTV / karaoke operations carry specific WICA exposures:
+**WICA** - for all employed staff. KTV / karaoke operations carry specific WICA exposures:
 - Late-night transport home considerations
 - Patron-staff incident exposure (assault by intoxicated patron)
 - Manual handling of heavy equipment
 - Slip / fall in operational areas
 
-**Group Medical / Group PA** — voluntary employer-paid cover.
+**Group Medical / Group PA** - voluntary employer-paid cover.
 
-**Crime / Fidelity Guarantee** — material in cash-handling environment. Theft of cash, theft of stock (alcohol, equipment), employee theft from patron belongings.
+**Crime / Fidelity Guarantee** - material in cash-handling environment. Theft of cash, theft of stock (alcohol, equipment), employee theft from patron belongings.
 
-**Cyber / PDPA cover** — member / loyalty programmes hold personal data; payment systems hold card data. Breach scenarios apply.
+**Cyber / PDPA cover** - member / loyalty programmes hold personal data; payment systems hold card data. Breach scenarios apply.
 
 #### The alcohol-service claim severity question
 
@@ -170,7 +170,7 @@ Insurance does not cover wilful copyright infringement, but may respond to licen
 
 ### What This Means for Your Business
 
-For a typical Singapore karaoke / KTV operator — single location, 10–25 private rooms, F&B and alcohol service, late-night operations:
+For a typical Singapore karaoke / KTV operator - single location, 10-25 private rooms, F&B and alcohol service, late-night operations:
 
 1. **Confirm Public Entertainments Licence and Liquor Licence current with operational scope aligned.**
 
@@ -178,13 +178,13 @@ For a typical Singapore karaoke / KTV operator — single location, 10–25 priv
 
 3. **Confirm music licensing (COMPASS + RIPS) current.**
 
-4. **PL with high limits and alcohol-service-specific wording.** SGD 5–10 million.
+4. **PL with high limits and alcohol-service-specific wording.** SGD 5-10 million.
 
 5. **Liquor Liability for sale / service claims.**
 
 6. **Property / Fire including per-room equipment declaration.** Replacement values current.
 
-7. **BI with appropriate indemnity period.** 12–24 months.
+7. **BI with appropriate indemnity period.** 12-24 months.
 
 8. **WICA for all employed staff.** Including any hostess / entertainer workforce with appropriate classification.
 
@@ -192,7 +192,7 @@ For a typical Singapore karaoke / KTV operator — single location, 10–25 priv
 
 10. **Cyber / PDPA cover.** Member / loyalty data and payment systems.
 
-The cost of properly structured KTV / karaoke operator insurance varies significantly with scale and configuration: a moderate operation might pay SGD 25,000–80,000 annually; large operations substantially more. The cost of a single severe incident — major alcohol-service-related claim, fire destroying multiple-room fit-out, music licensing settlement — typically exceeds many years of premium.
+The cost of properly structured KTV / karaoke operator insurance varies significantly with scale and configuration: a moderate operation might pay SGD 25,000-80,000 annually; large operations substantially more. The cost of a single severe incident - major alcohol-service-related claim, fire destroying multiple-room fit-out, music licensing settlement - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

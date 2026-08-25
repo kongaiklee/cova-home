@@ -20,7 +20,7 @@ og_description: "The BCA Contractors Registration System (CRS) is the registry t
 
 > **The Answer in 60 Seconds**
 >
-> The [BCA Contractors Registration System (CRS)](https://www1.bca.gov.sg/procurement/pre-tender-stage/contractors-registration-system-crs) is the registry through which contractors qualify to tender for public-sector construction work and (from 1 June 2025) to hire foreign construction workers (Work Permit and S Pass holders). The most consequential 2024-2026 change for Singapore construction SMEs is the 5 March 2024 announcement that, from 1 June 2025, CRS becomes a nation-wide registry: all firms hiring foreign construction workers, regardless of public-sector or private-sector activity, must be CRS-registered. BCA estimated up to 7,000 additional firms would need to register on top of the existing 11,000. Minimum track records and paid-up capital thresholds were raised by the 7 June 2024 BCA circular. The current CRS Guidelines (September 2025) and per-group Specific Registration Requirements (CW SRR August 2024, CR SRR May 2025) are the authoritative documents. The framework has seven major registration categories — Construction Workhead (CW), Construction-Related Workhead (CR), Mechanical and Electrical Workhead (ME), Facilities Management Workhead (FM), Supply Head (SY), Trade Head (TR), Regulatory Workhead (RW) — with approximately 50 workheads. Financial grading varies by workhead: CW has 7 grades (C3 to A1), CR/ME/FM02-04/SY have 6 grades (L1 to L6), FM01 has 4 grades (M1 to M4). Insurance requirements are not uniform per workhead in the CRS itself; insurance flows through three channels: WICA 2019 / WICI 2019 statutory obligation, Workplace Safety and Health Construction Regulations risk-management infrastructure, and project-level contract requirements (CAR, PL with minimums scaled to contract value, PI for design-and-build).
+> The [BCA Contractors Registration System (CRS)](https://www1.bca.gov.sg/procurement/pre-tender-stage/contractors-registration-system-crs) is the registry through which contractors qualify to tender for public-sector construction work and (from 1 June 2025) to hire foreign construction workers (Work Permit and S Pass holders). The most consequential 2024-2026 change for Singapore construction SMEs is the 5 March 2024 announcement that, from 1 June 2025, CRS becomes a nation-wide registry: all firms hiring foreign construction workers, regardless of public-sector or private-sector activity, must be CRS-registered. BCA estimated up to 7,000 additional firms would need to register on top of the existing 11,000. Minimum track records and paid-up capital thresholds were raised by the 7 June 2024 BCA circular. The current CRS Guidelines (September 2025) and per-group Specific Registration Requirements (CW SRR August 2024, CR SRR May 2025) are the authoritative documents. The framework has seven major registration categories - Construction Workhead (CW), Construction-Related Workhead (CR), Mechanical and Electrical Workhead (ME), Facilities Management Workhead (FM), Supply Head (SY), Trade Head (TR), Regulatory Workhead (RW) - with approximately 50 workheads. Financial grading varies by workhead: CW has 7 grades (C3 to A1), CR/ME/FM02-04/SY have 6 grades (L1 to L6), FM01 has 4 grades (M1 to M4). Insurance requirements are not uniform per workhead in the CRS itself; insurance flows through three channels: WICA 2019 / WICI 2019 statutory obligation, Workplace Safety and Health Construction Regulations risk-management infrastructure, and project-level contract requirements (CAR, PL with minimums scaled to contract value, PI for design-and-build).
 
 ### The Sourced Detail
 
@@ -78,7 +78,7 @@ Workmen's compensation cross-references to WICI 2019.
 
 Procurement implications: upgrading CRS grade to bid larger contracts requires concurrent uplift of the insurance programme to match.
 
-#### Verbatim regulatory text — primary-source routing
+#### Verbatim regulatory text - primary-source routing
 
 The authoritative primary sources for CRS are:
 
@@ -163,11 +163,11 @@ For an SME at the threshold of a grade uplift, the practical question is whether
 
 ### Related Information
 
-- [Article 264 — MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 267 — MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
-- [Article 269 — Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 388 — PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 1 — SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
-- [Article 2 — BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Article 267 - MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Article 388 - PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Article 1 - SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [Article 2 - BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 
 ---

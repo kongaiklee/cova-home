@@ -1,5 +1,5 @@
 ---
-title: "A Key Employee Just Resigned and Is Taking Customers/IP With Them — What Do I Do Now?"
+title: "A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?"
 slug: "/crisis/key-employee-resignation-ip-customer-migration"
 category: "crisis"
 intent: "steady-the-ship"
@@ -13,20 +13,20 @@ word_count: 1883
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/crisis/key-employee-resignation-ip-customer-migration"
-meta_description: "First, do not confront with accusations — preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent),..."
-og_title: "A Key Employee Just Resigned and Is Taking Customers/IP With Them — What Do I Do Now?"
-og_description: "First, do not confront with accusations — preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent),..."
+meta_description: "First, do not confront with accusations - preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent),..."
+og_title: "A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?"
+og_description: "First, do not confront with accusations - preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent),..."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> First, do **not** confront with accusations — preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent), preserve email, retain server logs, secure customer communication records. Engage **employment counsel** immediately to assess: what restrictive covenants exist (non-compete, non-solicitation, confidentiality clauses) under the [Singapore approach to restraint of trade](https://www.elitigation.sg/), what evidence exists of breach, what remedies are available (injunctions, damages, account of profits). **Standard insurance does not directly cover this scenario** — there is no "key employee theft of customers" cover. **Cyber Liability** may respond if data exfiltration is involved. **Crime / Fidelity Guarantee** may respond if specific dishonest acts are involved (theft of records, IP). **Trade Credit / Loss of Customer** is generally not insurance-coverable. Recovery is via civil litigation under standard [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) periods, often urgent injunction proceedings. Speed matters — every day customers transfer to the departing employee's new venture, recovery becomes harder.
+> First, do **not** confront with accusations - preserve evidence quietly. Lock systems access at the moment of resignation (or earlier if known intent), preserve email, retain server logs, secure customer communication records. Engage **employment counsel** immediately to assess: what restrictive covenants exist (non-compete, non-solicitation, confidentiality clauses) under the [Singapore approach to restraint of trade](https://www.elitigation.sg/), what evidence exists of breach, what remedies are available (injunctions, damages, account of profits). **Standard insurance does not directly cover this scenario** - there is no "key employee theft of customers" cover. **Cyber Liability** may respond if data exfiltration is involved. **Crime / Fidelity Guarantee** may respond if specific dishonest acts are involved (theft of records, IP). **Trade Credit / Loss of Customer** is generally not insurance-coverable. Recovery is via civil litigation under standard [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) periods, often urgent injunction proceedings. Speed matters - every day customers transfer to the departing employee's new venture, recovery becomes harder.
 
 ### The Step-by-Step
 
 This is one of the most damaging crisis scenarios for SMEs that build their value on customer relationships and intellectual property. The employee has been preparing this departure for months; the moment of resignation is the point at which evidence is most accessible and intervention most effective. The article below sets out the practical sequence; the legal dimension is significant and qualified counsel must be engaged within hours.
 
-#### Hour 0 — Detection and immediate response
+#### Hour 0 - Detection and immediate response
 
 Triggers that signal the scenario:
 - Resignation announcement of a key employee with significant customer relationships
@@ -39,9 +39,9 @@ If detection is at the point of resignation:
 
 **Within 1 hour:**
 
-- **Lock systems access immediately.** Email account, file sharing, CRM, accounting, customer database — all access revoked.
+- **Lock systems access immediately.** Email account, file sharing, CRM, accounting, customer database - all access revoked.
 - **Preserve email.** Place legal hold on the departing employee's email account. Do not delete; do not let auto-deletion proceed.
-- **Preserve all access logs.** Login history, file access patterns, email forwarding rules, USB device usage, printing logs — all should be exported and preserved.
+- **Preserve all access logs.** Login history, file access patterns, email forwarding rules, USB device usage, printing logs - all should be exported and preserved.
 - **Secure physical access to office.** Departing employee should not be left alone in office during notice period; if departing immediately, escort.
 - **Limit knowledge of suspicions.** Departing employee should not know that monitoring is underway.
 
@@ -51,7 +51,7 @@ If detection is at the point of resignation:
 - Make public statements
 - Discuss with other staff beyond minimum necessary
 
-#### Hour 0–24 — Engagement of counsel
+#### Hour 0-24 - Engagement of counsel
 
 **Engage employment counsel.** Within hours of detection. Specialist counsel familiar with:
 - Restraint of trade enforcement in Singapore
@@ -78,7 +78,7 @@ A blanket non-compete preventing the employee from working in any capacity for a
 
 The case law is fact-specific. Notable Singapore decisions include those discussing the requirements for legitimate proprietary interest, the reasonableness assessment, and the appropriate scope of injunctive relief. Specific case citations should be verified directly on [eLitigation](https://www.elitigation.sg/) before relying on them.
 
-#### Day 1–7 — Forensic and evidence work
+#### Day 1-7 - Forensic and evidence work
 
 **Forensic IT investigation:**
 
@@ -106,7 +106,7 @@ The forensic investigator's report becomes evidence in subsequent proceedings.
 - What's been potentially taken?
 - What's the value of the protected information?
 
-#### Day 1–14 — Counsel-driven response
+#### Day 1-14 - Counsel-driven response
 
 Based on the evidence collected, counsel typically advises on:
 
@@ -115,7 +115,7 @@ Based on the evidence collected, counsel typically advises on:
 - Demands return of confidential information
 - Demands cessation of solicitation
 - Reserves rights to pursue damages and injunctions
-- Time-limited compliance window (typically 3–7 days)
+- Time-limited compliance window (typically 3-7 days)
 
 **Letter to new employer (if known):**
 - Notifies of employee's contractual obligations
@@ -185,7 +185,7 @@ While legal action proceeds:
 - Senior leadership engagement with at-risk customers
 - Reaffirmation of commitment, capability, continuity
 - Possibly improved terms, additional services, transitional support
-- Avoidance of "winning back at any cost" — the customer who leaves and demands extreme concessions to return is rarely a worthwhile retention
+- Avoidance of "winning back at any cost" - the customer who leaves and demands extreme concessions to return is rarely a worthwhile retention
 
 **Internal communication:**
 - Explain the situation to remaining team factually
@@ -273,7 +273,7 @@ The most effective response to this experience is preventing recurrence:
 
 For Singapore SMEs whose value depends on customer relationships and IP, the discipline:
 
-1. **Build contractual framework before need arises.** Non-solicitation, confidentiality, IP assignment — all should be in place from hiring.
+1. **Build contractual framework before need arises.** Non-solicitation, confidentiality, IP assignment - all should be in place from hiring.
 
 2. **Avoid single-point-of-failure on customer relationships.** Multi-touchpoint relationships, CRM discipline, knowledge management.
 
@@ -283,11 +283,11 @@ For Singapore SMEs whose value depends on customer relationships and IP, the dis
 
 5. **Build culture and compensation for retention.** The best preventive measure is people not wanting to leave.
 
-6. **Document operations.** Relationships, processes, knowledge — all in systems, not in people.
+6. **Document operations.** Relationships, processes, knowledge - all in systems, not in people.
 
 7. **At any departure of significant role, run a structured exit process.** Access controls, customer transition, knowledge transfer, exit interview, monitoring of post-employment activity.
 
-The objective is not zero employee turnover — that's neither realistic nor desirable. The objective is that any departure is operationally manageable rather than business-threatening.
+The objective is not zero employee turnover - that's neither realistic nor desirable. The objective is that any departure is operationally manageable rather than business-threatening.
 
 ### Questions to Ask Your Adviser
 
@@ -298,7 +298,7 @@ The objective is not zero employee turnover — that's neither realistic nor des
 5. If I hire from competitors, what's my exposure to claims of inducement of breach?
 
 ### Related Information
-- [We Just Discovered an Employee Has Embezzled From Us — What Do I Do Now?](/crisis/employee-embezzlement-discovered)
+- [We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?](/crisis/employee-embezzlement-discovered)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 

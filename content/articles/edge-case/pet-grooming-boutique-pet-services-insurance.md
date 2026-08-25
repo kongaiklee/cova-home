@@ -20,7 +20,7 @@ og_description: "A Singapore pet grooming salon, boutique pet retailer, mobile p
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore pet grooming salon, boutique pet retailer, mobile pet groomer, or pet day-spa typically requires: licensing under the [Animal and Veterinary Service (AVS)](https://www.nparks.gov.sg/avs) for animal-related businesses (pet shop licence, pet boarding licence, etc., per service offered), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) for premises, and [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** (S$1M-S$3M typical), **Care, Custody and Control extension / Bailee cover** for pets in custody (standard PL excludes property in CCC; specific extension essential), **Property/Fire** for fit-out and stock, **WICA** for staff, **Cyber Liability** for pet owner data, and for retailers **Product Liability** for pet food and products. Mobile pet groomers face additional considerations on operating without fixed premises; pet boarding facilities have elevated overnight-care exposure and specific AVS licensing. The most distinctive insurance issue: **pet injury or death while in custody** is a foreseeable claim category that standard PL does not address — Bailee / CCC extension is essential.
+> A Singapore pet grooming salon, boutique pet retailer, mobile pet groomer, or pet day-spa typically requires: licensing under the [Animal and Veterinary Service (AVS)](https://www.nparks.gov.sg/avs) for animal-related businesses (pet shop licence, pet boarding licence, etc., per service offered), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) for premises, and [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** (S$1M-S$3M typical), **Care, Custody and Control extension / Bailee cover** for pets in custody (standard PL excludes property in CCC; specific extension essential), **Property/Fire** for fit-out and stock, **WICA** for staff, **Cyber Liability** for pet owner data, and for retailers **Product Liability** for pet food and products. Mobile pet groomers face additional considerations on operating without fixed premises; pet boarding facilities have elevated overnight-care exposure and specific AVS licensing. The most distinctive insurance issue: **pet injury or death while in custody** is a foreseeable claim category that standard PL does not address - Bailee / CCC extension is essential.
 
 ### The Sourced Detail
 
@@ -81,9 +81,9 @@ This is the critical specialty layer for pet care businesses:
 
 **Why standard PL excludes pets in custody:**
 
-PL typically excludes "property in the care, custody and control of the insured" — the assumption being that property held by the business is the business's commercial responsibility, not a typical PL exposure.
+PL typically excludes "property in the care, custody and control of the insured" - the assumption being that property held by the business is the business's commercial responsibility, not a typical PL exposure.
 
-For pet care businesses, customer pets are precisely such property — held by the business, with significant value, with foreseeable exposure to harm.
+For pet care businesses, customer pets are precisely such property - held by the business, with significant value, with foreseeable exposure to harm.
 
 **What CCC / Bailee extension covers:**
 - Pet injury or death while in custody

@@ -20,7 +20,7 @@ og_description: "The Singapore Food Agency (SFA) administers food licensing unde
 
 > **The Answer in 60 Seconds**
 >
-> The [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) administers food licensing under the [Sale of Food Act 1973](https://sso.agc.gov.sg/Act/SFA1973) and related regulations. Food businesses fall into multiple licensing categories: **Food Shop Licence** (retail food and beverage outlets), **Food Stall Licence** (hawker centres, coffee shops), **Food Establishment Licence** (caterers, central kitchens, food manufacturers), **Slaughterhouse Licence**, **Cold Storage Licence**, **Food Processing Establishment Licence**, and others. Each tier has facility, hygiene, and operational requirements that interact with insurance underwriting. Failure to maintain licensing affects both compliance status and insurance validity (warranties commonly require licence currency). Specific insurance considerations differ by category — central kitchens have different exposure profiles from hawker stalls; food manufacturers have product recall considerations that retail outlets may not.
+> The [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) administers food licensing under the [Sale of Food Act 1973](https://sso.agc.gov.sg/Act/SFA1973) and related regulations. Food businesses fall into multiple licensing categories: **Food Shop Licence** (retail food and beverage outlets), **Food Stall Licence** (hawker centres, coffee shops), **Food Establishment Licence** (caterers, central kitchens, food manufacturers), **Slaughterhouse Licence**, **Cold Storage Licence**, **Food Processing Establishment Licence**, and others. Each tier has facility, hygiene, and operational requirements that interact with insurance underwriting. Failure to maintain licensing affects both compliance status and insurance validity (warranties commonly require licence currency). Specific insurance considerations differ by category - central kitchens have different exposure profiles from hawker stalls; food manufacturers have product recall considerations that retail outlets may not.
 
 ### The Sourced Detail
 
@@ -30,19 +30,19 @@ Food and beverage businesses are among the most-licensed SME categories in Singa
 
 Per the [SFA's licensing portal at GoBusiness](https://www.gobusiness.gov.sg/) and the [SFA licence categories page](https://www.sfa.gov.sg/food-retail/food-licensing-faq), the principal categories include:
 
-**Food Shop Licence** — for retail food and beverage outlets:
+**Food Shop Licence** - for retail food and beverage outlets:
 - Restaurants, cafés
 - Bakeries, confectioneries
 - Pubs, bars
 - Take-away outlets
 - Food courts (operator licence)
 
-**Food Stall Licence** — for stalls in:
+**Food Stall Licence** - for stalls in:
 - Hawker centres
 - Coffee shops (kopitiams)
 - Canteens
 
-**Food Establishment Licence** — for businesses preparing food not for direct retail consumption on premises:
+**Food Establishment Licence** - for businesses preparing food not for direct retail consumption on premises:
 - Caterers
 - Central kitchens
 - Food manufacturers
@@ -71,8 +71,8 @@ Each licence has specific:
 - Compliance with [SFA Food Hygiene Practices](https://www.sfa.gov.sg/food-retail)
 
 **Staff:**
-- Basic Food Hygiene Certificate (Level 1) — minimum for all food handlers
-- Advanced Food Hygiene Certificate (Level 2 or 3) — required for specific roles
+- Basic Food Hygiene Certificate (Level 1) - minimum for all food handlers
+- Advanced Food Hygiene Certificate (Level 2 or 3) - required for specific roles
 - Health screening for food handlers
 - Specific training for high-risk operations
 
@@ -103,10 +103,10 @@ Common warranty wording (paraphrased): "The Insured shall maintain at all times 
 **2. Risk classification.**
 
 Different food categories carry different risk profiles:
-- Retail F&B (Food Shop) — typical SME exposure profile
-- Catering and central kitchen — higher BI exposure (production for distribution)
-- Food manufacturing — product liability and recall focus
-- Specialised processing — specific hazards (slaughtering, processing)
+- Retail F&B (Food Shop) - typical SME exposure profile
+- Catering and central kitchen - higher BI exposure (production for distribution)
+- Food manufacturing - product liability and recall focus
+- Specialised processing - specific hazards (slaughtering, processing)
 
 Insurers underwrite differently based on category, and premium varies accordingly.
 
@@ -131,7 +131,7 @@ Food category drives specific cover needs:
 
 **Food Manufacturing:**
 - Product Liability with appropriate limits
-- Product Recall — typically essential
+- Product Recall - typically essential
 - Equipment Breakdown for production equipment
 - Marine Cargo for export
 - Higher Cyber exposure (customer relationships, supply chain data)
@@ -142,7 +142,7 @@ Food category drives specific cover needs:
 - Property for stall and equipment
 - Often included in coffee shop / hawker centre operator's master programme
 
-#### Foodborne illness — the central exposure
+#### Foodborne illness - the central exposure
 
 Across all SFA categories, foodborne illness is the defining product-related exposure:
 
@@ -195,7 +195,7 @@ For SMEs, an enforcement event can:
 #### Specific scenarios
 
 **Scenario A: Café opening with Food Shop Licence**
-- Standard opening checklist — see [Article 77](/decision-tree/opening-cafe-checklist)
+- Standard opening checklist - see [Article 77](/decision-tree/opening-cafe-checklist)
 - SFA Food Shop Licence
 - WICA, PL, Product, Property, Cyber, Group Medical baseline
 
@@ -227,14 +227,14 @@ For SMEs, an enforcement event can:
 
 Food businesses commonly interact with multiple regulators:
 
-**[NEA (National Environment Agency)](https://www.nea.gov.sg/)** — for hawker centres, coffee shop premises, environmental health
-**[MOM](https://www.mom.gov.sg/)** — for foreign worker employment, WICA
-**[ACRA](https://www.bizfile.gov.sg/)** — for business registration
-**[IRAS](https://www.iras.gov.sg/)** — for tax (GST registration mandatory above threshold)
-**[Singapore Customs](https://www.customs.gov.sg/)** — for import/export
-**[HSA (Health Sciences Authority)](https://www.hsa.gov.sg/)** — for specific products (health supplements, alcohol with health claims)
-**[CASE](https://www.case.org.sg/)** — for consumer disputes and accreditation
-**[ECDA](https://www.ecda.gov.sg/)** — for food in childcare contexts
+**[NEA (National Environment Agency)](https://www.nea.gov.sg/)** - for hawker centres, coffee shop premises, environmental health
+**[MOM](https://www.mom.gov.sg/)** - for foreign worker employment, WICA
+**[ACRA](https://www.bizfile.gov.sg/)** - for business registration
+**[IRAS](https://www.iras.gov.sg/)** - for tax (GST registration mandatory above threshold)
+**[Singapore Customs](https://www.customs.gov.sg/)** - for import/export
+**[HSA (Health Sciences Authority)](https://www.hsa.gov.sg/)** - for specific products (health supplements, alcohol with health claims)
+**[CASE](https://www.case.org.sg/)** - for consumer disputes and accreditation
+**[ECDA](https://www.ecda.gov.sg/)** - for food in childcare contexts
 
 Compliance across all relevant regulators matters; gaps in one can affect others.
 
@@ -254,7 +254,7 @@ When approaching food business insurance, the SFA category and operational profi
 - Previous claims (own and industry)
 - Specific high-risk activities
 
-Insurer questionnaires can be detailed for higher-risk categories. Comprehensive disclosure (per the duty of utmost good faith — see [Article 74](/document-legal/insurance-act-disclosure-duty)) is essential.
+Insurer questionnaires can be detailed for higher-risk categories. Comprehensive disclosure (per the duty of utmost good faith - see [Article 74](/document-legal/insurance-act-disclosure-duty)) is essential.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -275,11 +275,11 @@ For Singapore food and beverage businesses, the SFA licensing category is founda
 
 2. **Maintain licensing currency.** Annual or periodic renewal calendar; insurance warranties depend on it.
 
-3. **Match insurance to category.** Retail, catering, manufacturing, specialised — each profile is different.
+3. **Match insurance to category.** Retail, catering, manufacturing, specialised - each profile is different.
 
-4. **For distribution businesses — hold Product Recall.** Often missing from standard packages.
+4. **For distribution businesses - hold Product Recall.** Often missing from standard packages.
 
-5. **Document compliance continuously.** HACCP, cleaning, training, supplier traceability — supports both regulatory standing and claim defence.
+5. **Document compliance continuously.** HACCP, cleaning, training, supplier traceability - supports both regulatory standing and claim defence.
 
 6. **Engage broker familiar with food business risk.** Generalist brokers may underestimate specific exposures.
 
@@ -287,7 +287,7 @@ For Singapore food and beverage businesses, the SFA licensing category is founda
 
 8. **At adverse events** (foodborne illness, SFA enforcement, recall), engage panel counsel and notify insurer promptly.
 
-The SFA framework is detailed but well-documented; the insurance build follows the regulatory structure. Compliance and insurance work together — cutting corners in either creates exposure in both.
+The SFA framework is detailed but well-documented; the insurance build follows the regulatory structure. Compliance and insurance work together - cutting corners in either creates exposure in both.
 
 ### Questions to Ask Your Adviser
 

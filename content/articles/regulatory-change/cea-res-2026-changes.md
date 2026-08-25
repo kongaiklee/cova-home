@@ -20,11 +20,11 @@ og_description: "The Council for Estate Agencies (CEA) periodically updates the 
 
 > **The Answer in 60 Seconds**
 >
-> The [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) periodically updates the framework governing **estate agents** and **real estate salespersons (RES)** under the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). The concrete 2026 change is a revised **Continuing Professional Development (CPD) framework, effective 1 January 2026**: CPD moves from a credit-based system to **training hours** — a minimum of 16 hours per cycle (4 hours of mandatory Prescribed Essentials, 8 hours of Professional Competencies, and 4 hours of self-directed learning) — with the CPD cycle shifting to the January–December calendar year, aligned with RES registration. For Singapore SMEs operating as estate agencies or engaging RES: **Professional Indemnity** (foundational for advisory and transactional exposure), **Public Liability** (premises and operations), **WICA** (for employed staff including salaried RES where applicable), and **Cyber Liability** (client data and transaction sensitive information). The most distinctive risk: **specific transaction-related disputes** are foundational claim category given high transaction values and consumer-facing nature. CEA enforcement remains active — operational discipline matters.
+> The [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) periodically updates the framework governing **estate agents** and **real estate salespersons (RES)** under the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). The concrete 2026 change is a revised **Continuing Professional Development (CPD) framework, effective 1 January 2026**: CPD moves from a credit-based system to **training hours** - a minimum of 16 hours per cycle (4 hours of mandatory Prescribed Essentials, 8 hours of Professional Competencies, and 4 hours of self-directed learning) - with the CPD cycle shifting to the January-December calendar year, aligned with RES registration. For Singapore SMEs operating as estate agencies or engaging RES: **Professional Indemnity** (foundational for advisory and transactional exposure), **Public Liability** (premises and operations), **WICA** (for employed staff including salaried RES where applicable), and **Cyber Liability** (client data and transaction sensitive information). The most distinctive risk: **specific transaction-related disputes** are foundational claim category given high transaction values and consumer-facing nature. CEA enforcement remains active - operational discipline matters.
 
 ### The Sourced Detail
 
-Singapore's real estate intermediation industry — estate agencies, real estate salespersons, property management — is governed by a comprehensive CEA framework. 2026 updates continue the ongoing refinement of operational and consumer protection standards.
+Singapore's real estate intermediation industry - estate agencies, real estate salespersons, property management - is governed by a comprehensive CEA framework. 2026 updates continue the ongoing refinement of operational and consumer protection standards.
 
 #### The framework background
 
@@ -53,8 +53,8 @@ Per [CEA framework](https://www.cea.gov.sg/):
 **1. Continuing Professional Development (CPD):**
 
 - A revised CPD framework, effective 1 January 2026: CPD credits replaced by training hours
-- A minimum of 16 training hours per cycle — 4 hours of mandatory Prescribed Essentials, 8 hours of Professional Competencies, and 4 hours of self-directed learning
-- The CPD cycle shifts to a January–December calendar year, aligned with the RES registration validity period
+- A minimum of 16 training hours per cycle - 4 hours of mandatory Prescribed Essentials, 8 hours of Professional Competencies, and 4 hours of self-directed learning
+- The CPD cycle shifts to a January-December calendar year, aligned with the RES registration validity period
 - New RES are exempt for their first cycle and comply from the second cycle onward
 
 **2. Operational standards:**
@@ -267,26 +267,26 @@ Real estate transactions are heavily targeted for BEC fraud:
 
 **For estate agencies preparing for 2026 framework:**
 
-**Step 1 — Specific update review:**
+**Step 1 - Specific update review:**
 - Specific framework update review
 - Operational operational implications
 
-**Step 2 — Specific RES coordination:**
+**Step 2 - Specific RES coordination:**
 - Specific CPD coordination
 - Operational specific compliance
 - Operational operational scope
 
-**Step 3 — Operational standards:**
+**Step 3 - Operational standards:**
 - Specific commercial conduct review
 - Operational operational standards
 - Operational operational scope
 
-**Step 4 — Specific consumer protection:**
+**Step 4 - Specific consumer protection:**
 - Specific consumer disclosure review
 - Operational operational scope
 - Operational operational standards
 
-**Step 5 — Specific insurance review:**
+**Step 5 - Specific insurance review:**
 - Specific PI / Cyber adequacy
 - Operational operational scope
 - Operational operational sophistication

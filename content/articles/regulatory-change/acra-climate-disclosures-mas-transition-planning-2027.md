@@ -20,7 +20,7 @@ og_description: "Two parallel regulatory developments establish climate-related 
 
 > **The Answer in 60 Seconds**
 >
-> Two parallel regulatory developments establish climate-related disclosure as material Singapore SME consideration: (1) [Accounting and Corporate Regulatory Authority (ACRA)](https://www.acra.gov.sg/) and [SGX RegCo](https://www.sgxgroup.com/) **Climate Reporting and Assurance Roadmap** (announced 28 February 2024) requiring [ISSB-aligned](https://www.ifrs.org/issb/) climate disclosures from **listed issuers from FY2025**, with **external limited assurance on Scope 1 and 2 GHG emissions from FY2029**; and **large non-listed companies (NLCos) with revenue ≥ SGD 1 billion AND total assets ≥ SGD 500 million required to commence climate-related disclosure from FY2030** (the reporting timelines were extended in the 2025 revision), with external assurance from **FY2032**; (2) [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) **Guidelines on Environmental Risk Management — Transition Planning** for banks, insurers, asset managers (issued 5 March 2026; effective **September 2027** after 18-month transition). Approximately **300 non-listed entities** projected to fall within scope of large-NLCo disclosure (per Mr Chee Hong Tat at the 28 February 2024 Committee of Supply, as cited in the ACRA-NUS implementation study). Singapore SME implications: (a) **D&O cover** for directors of in-scope entities — climate disclosure inaccuracy creates personal liability exposure; (b) **flow-through Scope 3 demands** to SME suppliers from listed issuer / large-NLCo customers — SMEs face data demands they must substantiate or disclaim; (c) **greenwashing exclusions** entering D&O policy wordings; (d) **MAS transition planning expectations** flow from financial institutions to their commercial customers indirectly.
+> Two parallel regulatory developments establish climate-related disclosure as material Singapore SME consideration: (1) [Accounting and Corporate Regulatory Authority (ACRA)](https://www.acra.gov.sg/) and [SGX RegCo](https://www.sgxgroup.com/) **Climate Reporting and Assurance Roadmap** (announced 28 February 2024) requiring [ISSB-aligned](https://www.ifrs.org/issb/) climate disclosures from **listed issuers from FY2025**, with **external limited assurance on Scope 1 and 2 GHG emissions from FY2029**; and **large non-listed companies (NLCos) with revenue ≥ SGD 1 billion AND total assets ≥ SGD 500 million required to commence climate-related disclosure from FY2030** (the reporting timelines were extended in the 2025 revision), with external assurance from **FY2032**; (2) [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) **Guidelines on Environmental Risk Management - Transition Planning** for banks, insurers, asset managers (issued 5 March 2026; effective **September 2027** after 18-month transition). Approximately **300 non-listed entities** projected to fall within scope of large-NLCo disclosure (per Mr Chee Hong Tat at the 28 February 2024 Committee of Supply, as cited in the ACRA-NUS implementation study). Singapore SME implications: (a) **D&O cover** for directors of in-scope entities - climate disclosure inaccuracy creates personal liability exposure; (b) **flow-through Scope 3 demands** to SME suppliers from listed issuer / large-NLCo customers - SMEs face data demands they must substantiate or disclaim; (c) **greenwashing exclusions** entering D&O policy wordings; (d) **MAS transition planning expectations** flow from financial institutions to their commercial customers indirectly.
 
 ### The Sourced Detail
 
@@ -48,15 +48,15 @@ The 2024-2027 climate disclosure framework is reshaping Singapore corporate gove
 
 #### What changes when
 
-**Listed issuers — FY2025 onwards.**
+**Listed issuers - FY2025 onwards.**
 
 Mandatory climate disclosure aligned with ISSB framework. Initial year FY2025 reports.
 
-**Listed issuers — FY2029 onwards.**
+**Listed issuers - FY2029 onwards.**
 
 External limited assurance on Scope 1 and Scope 2 GHG emissions. Specific assurance standard (limited rather than reasonable initially). (This assurance start was deferred from FY2027 to FY2029 in the 2025 revision of the reporting timelines.)
 
-**Large NLCos — FY2030 onwards.**
+**Large NLCos - FY2030 onwards.**
 
 Definition: revenue ≥ SGD 1 billion AND total assets ≥ SGD 500 million (for the two financial years immediately preceding).
 
@@ -64,15 +64,15 @@ Scope: approximately 300 non-listed entities.
 
 Disclosure: ISSB-aligned climate-related disclosures. (The large-NLCo start date was extended from FY2027 to FY2030 in the 2025 revision of the reporting timelines.)
 
-**Large NLCos — FY2032 onwards.**
+**Large NLCos - FY2032 onwards.**
 
 External limited assurance on Scope 1 and Scope 2 GHG emissions.
 
-**Smaller NLCos — review pending 2027.**
+**Smaller NLCos - review pending 2027.**
 
 Threshold for smaller NLCos (revenue SGD 100m - 1bn) under review; potential extension of framework.
 
-**MAS Transition Planning Guidelines — September 2027.**
+**MAS Transition Planning Guidelines - September 2027.**
 
 Effective for banks, insurers, asset managers regulated by MAS. Supervisory expectation rather than mandatory rule.
 
@@ -157,10 +157,10 @@ Listed issuer / large NLCo customers will request supplier emissions data:
 - Specific data requests, questionnaires, attestations
 
 SME options:
-- **Provide accurate data** — invest in measurement capability
-- **Disclaim** — politely indicate data unavailable; risk customer relationship
-- **Provide approximate data** — explicit on methodology; balanced approach
-- **Industry benchmark** — use industry-average data with disclosure
+- **Provide accurate data** - invest in measurement capability
+- **Disclaim** - politely indicate data unavailable; risk customer relationship
+- **Provide approximate data** - explicit on methodology; balanced approach
+- **Industry benchmark** - use industry-average data with disclosure
 
 For SMEs serving large customers, ability to provide credible Scope 3 data becomes commercial differentiator.
 
@@ -223,7 +223,7 @@ Per [Article 345](/procedural-howto/how-to-coordinate-multi-policy-single-incide
 - Strategy integration
 - Initial disclosure preparation
 
-**Phase 3 — Operationalisation.**
+**Phase 3 - Operationalisation.**
 - First disclosures filed
 - External assurance preparation (FY2029 for listed issuers; FY2032 for large NLCos)
 - Ongoing measurement and reporting
