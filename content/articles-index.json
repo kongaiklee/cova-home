@@ -4646,7 +4646,7 @@
       "Property & Fire"
     ],
     "published": "2026-05-05",
-    "meta_description": "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence → immediate safety / emergency response →...",
+    "meta_description": "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence -> immediate safety / emergency response ->...",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1357,
     "article_number": 207,
@@ -7861,7 +7861,7 @@
     ]
   },
   {
-    "title": "Tied Agent vs Independent Financial Adviser (IFA) in Singapore",
+    "title": "Tied Agent vs licensed adviser in Singapore",
     "slug": "/comparison/tied-agent-vs-ifa",
     "category": "comparison",
     "intent": "make-the-call",
@@ -7869,7 +7869,7 @@
       "General"
     ],
     "published": "2026-05-04",
-    "meta_description": "A tied agent in Singapore represents one financial institution and can only sell that institution's products. An Independent Financial Adviser (IFA) is...",
+    "meta_description": "A tied agent in Singapore represents one financial institution and can only sell that institution's products. An licensed adviser is...",
     "hero_image": "/assets/blog/comparison.jpg",
     "word_count": 1344,
     "article_number": 57,
