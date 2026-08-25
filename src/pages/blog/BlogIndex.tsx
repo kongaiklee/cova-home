@@ -1,7 +1,9 @@
-import { useMemo, useState } from 'react';
-import { ChevronLeft, ChevronRight } from 'lucide-react';
+import { useEffect, useMemo, useState } from 'react';
+import { ChevronLeft, ChevronRight, X } from 'lucide-react';
+import { useSearchParams } from 'react-router-dom';
 import { ARTICLES } from '../../content/articles';
 import { INTENTS } from '../../content/intents';
+import { resolveTopic, TOPIC_COUNTS, topicSlug } from '../../content/topics';
 import { ArticleRow } from './ArticleCard';
 import IntentFilter, { type IntentFilterValue } from './IntentFilter';
 import Seo from '../../components/Seo';
@@ -11,19 +13,43 @@ const PER_PAGE = 12;
 export default function BlogIndex() {
   const [intent, setIntent] = useState<IntentFilterValue>('all');
   const [page, setPage] = useState(1);
+  const [searchParams, setSearchParams] = useSearchParams();
+
+  // `?topic=<slug>` pre-filters on the corpus topic tags. The landing page's
+  // cover-line chips deep-link here. Read after mount, not during render: the
+  // prerendered HTML is the unfiltered index, and reading the URL during the
+  // first client render would make hydration disagree with it.
+  const [topic, setTopic] = useState<string | null>(null);
+  useEffect(() => {
+    setTopic(resolveTopic(searchParams.get('topic')));
+    setPage(1);
+  }, [searchParams]);
+
+  // Everything below filters within the topic, so the intent pill counts and
+  // the total describe what the reader can actually see.
+  const base = useMemo(
+    () => (topic ? ARTICLES.filter((a) => a.topics.includes(topic)) : ARTICLES),
+    [topic]
+  );
 
   const counts = useMemo(() => {
     const c: Record<string, number> = {};
     for (const i of INTENTS) {
-      c[i.id] = ARTICLES.filter((a) => a.intent === i.id).length;
+      c[i.id] = base.filter((a) => a.intent === i.id).length;
     }
     return c;
-  }, []);
+  }, [base]);
 
   const visible = useMemo(
-    () => (intent === 'all' ? ARTICLES : ARTICLES.filter((a) => a.intent === intent)),
-    [intent]
+    () => (intent === 'all' ? base : base.filter((a) => a.intent === intent)),
+    [base, intent]
   );
+
+  function clearTopic() {
+    const next = new URLSearchParams(searchParams);
+    next.delete('topic');
+    setSearchParams(next, { replace: true });
+  }
 
   const totalPages = Math.max(1, Math.ceil(visible.length / PER_PAGE));
   const paged = visible.slice((page - 1) * PER_PAGE, page * PER_PAGE);
@@ -57,6 +83,21 @@ export default function BlogIndex() {
         <div className="mt-10">
           <IntentFilter value={intent} onChange={changeIntent} counts={counts} />
         </div>
+        {topic && (
+          <p className="mt-6 text-sm text-text-secondary" data-topic={topicSlug(topic)}>
+            Showing guides on{' '}
+            <span className="font-semibold text-text-primary">{topic}</span>
+            <span className="ml-1.5 text-xs">{TOPIC_COUNTS[topic] ?? 0}</span>
+            <button
+              type="button"
+              onClick={clearTopic}
+              className="ml-3 inline-flex items-center gap-1 rounded-full border border-border-primary px-3 py-1 text-xs font-medium text-text-primary transition hover:border-primary"
+            >
+              <X className="size-3" />
+              Show all topics
+            </button>
+          </p>
+        )}
       </section>
 
       <section className="mx-auto w-full max-w-4xl px-6 pb-24 sm:px-10">
@@ -73,7 +114,7 @@ export default function BlogIndex() {
           </div>
         ) : (
           <p className="py-16 text-center text-text-secondary">
-            Nothing here yet. Try another filter.
+            Nothing here yet. Try another filter{topic ? ', or show all topics' : ''}.
           </p>
         )}
 
