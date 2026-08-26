@@ -10,9 +10,12 @@
  * files are. So facets are derived from the committed files, and the migration ALSO emits them via
  * the same module for the day the master is re-cut.
  *
- * Idempotent: an existing `industries:` / `agencies:` line is replaced, never duplicated. A
- * `required_by_law: true` line, if an editor has added one, is carried into the index untouched.
- * Each file is written with its own line endings.
+ * Idempotent: an existing `industries:` / `agencies:` / `required_by_law:` line is replaced,
+ * never duplicated. `required_by_law` is enforced FROM content/required-by-law.json - CMO's
+ * curated two-value map (2026-08-26): `cover` = statute or licence requires HOLDING the
+ * insurance, `duty` = the law requires an act or standard. NEVER a boolean: one heading over
+ * both would publish a false compliance claim. A mapped slug with no article fails the run
+ * (the dead-slug class the curation itself caught). Each file keeps its own line endings.
  *
  * Usage:
  *   node scripts/enrich-facets.mjs               write frontmatter + index
@@ -27,6 +30,7 @@ import { deriveFacets, agencyCounts, agencyFor } from './lib/facets.mjs';
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const ARTICLES = path.join(ROOT, 'content', 'articles');
 const INDEX = path.join(ROOT, 'content', 'articles-index.json');
+const REQUIRED = path.join(ROOT, 'content', 'required-by-law.json');
 const args = new Set(process.argv.slice(2));
 
 const yaml = (s) => '"' + String(s).replace(/\\/g, '\\\\').replace(/"/g, '\\"') + '"';
@@ -42,7 +46,7 @@ function walk(dir, out = []) {
 }
 
 /** Returns { next, facets, required, slug } for one file's text, or null if it has no frontmatter. */
-export function enrichText(raw) {
+export function enrichText(raw, requiredMap = new Map()) {
   const eol = raw.includes('\r\n') ? '\r\n' : '\n';
   const text = raw.replace(/\r\n/g, '\n');
   const m = text.match(/^---\n([\s\S]*?)\n---\n?/);
@@ -52,26 +56,35 @@ export function enrichText(raw) {
   const title = get('title');
   const slug = get('slug');
   const facets = deriveFacets(title, slug, text);
-  const required = /^required_by_law:\s*true\s*$/m.test(head);
-  // strip any previous facet lines, then insert both directly after topics:
-  const lines = head.split('\n').filter((l) => !/^(industries|agencies):/.test(l));
+  const required = requiredMap.get(slug) ?? null;
+  // strip any previous facet/required lines (a legacy boolean included), then insert after topics:
+  const lines = head.split('\n').filter((l) => !/^(industries|agencies|required_by_law):/.test(l));
   const at = lines.findIndex((l) => l.startsWith('topics:'));
   const insert = [fmLine('industries', facets.industries), fmLine('agencies', facets.agencies)];
+  if (required) insert.push(`required_by_law: ${yaml(required)}`);
   if (at >= 0) lines.splice(at + 1, 0, ...insert);
   else lines.push(...insert);
   const next = text.replace(m[0], `---\n${lines.join('\n')}\n---\n`).replace(/\n/g, eol);
   return { next, facets, required, slug };
 }
 
+function loadRequiredMap() {
+  const req = JSON.parse(fs.readFileSync(REQUIRED, 'utf8'));
+  const map = new Map();
+  for (const value of ['cover', 'duty']) for (const s of req[value] ?? []) map.set(s, value);
+  return map;
+}
+
 function main() {
   if (args.has('--self-test')) return selfTest();
   const check = args.has('--check');
+  const requiredMap = loadRequiredMap();
   const bySlug = new Map();
   let changed = 0;
   let files = 0;
   for (const p of walk(ARTICLES)) {
     const raw = fs.readFileSync(p, 'utf8');
-    const r = enrichText(raw);
+    const r = enrichText(raw, requiredMap);
     if (!r) {
       console.error(`no frontmatter: ${p}`);
       process.exit(2);
@@ -82,6 +95,11 @@ function main() {
       changed++;
       if (!check) fs.writeFileSync(p, r.next, 'utf8');
     }
+  }
+  const unseen = [...requiredMap.keys()].filter((s) => !bySlug.has(s));
+  if (unseen.length) {
+    console.error(`required-by-law.json names ${unseen.length} slug(s) with no article: ${unseen.join(', ')}`);
+    process.exit(2);
   }
   const index = JSON.parse(fs.readFileSync(INDEX, 'utf8'));
   let indexChanged = 0;
@@ -95,7 +113,7 @@ function main() {
     const before = JSON.stringify([a.industries, a.agencies, a.required_by_law]);
     a.industries = r.facets.industries;
     a.agencies = r.facets.agencies;
-    if (r.required) a.required_by_law = true;
+    if (r.required) a.required_by_law = r.required;
     else delete a.required_by_law;
     if (JSON.stringify([a.industries, a.agencies, a.required_by_law]) !== before) indexChanged++;
   }
@@ -123,6 +141,9 @@ function selfTest() {
   ].join('\n');
   const r = enrichText(md);
   const c = agencyCounts(md);
+  const reqMap = new Map([['/decision-tree/opening-cafe-checklist', 'cover']]);
+  const withReq = enrichText(md, reqMap);
+  const legacyBool = enrichText(md.replace('---\nUnder', 'required_by_law: true\n---\nUnder'));
   const checks = [
     ['industry from title', r.facets.industries.includes('F&B')],
     ['agency counted per link', c.MOM === 2 && c.SFA === 1 && c['Singapore Statutes'] === 1],
@@ -133,6 +154,10 @@ function selfTest() {
     ['facet lines sit under topics', /topics:.*\nindustries:.*\nagencies:/.test(r.next)],
     ['idempotent', enrichText(r.next).next === r.next],
     ['crlf preserved', enrichText(md.replace(/\n/g, '\r\n')).next.includes('\r\n')],
+    ['mapped slug gets its string value', /^required_by_law: "cover"$/m.test(withReq.next) && withReq.required === 'cover'],
+    ['unmapped article carries no required line', !/required_by_law/.test(r.next)],
+    ['a legacy boolean line is stripped, never carried', !/required_by_law/.test(legacyBool.next) && legacyBool.required === null],
+    ['idempotent with the map', enrichText(withReq.next, reqMap).next === withReq.next],
   ];
   let fail = 0;
   for (const [n, ok] of checks) {

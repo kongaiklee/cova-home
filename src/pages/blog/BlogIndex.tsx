@@ -16,7 +16,7 @@ export default function BlogIndex() {
   const [page, setPage] = useState(1);
   const [searchParams, setSearchParams] = useSearchParams();
 
-  // Three-axis filter state lives in the URL (?industry, ?policy, ?agency, ?required=law) so
+  // Three-axis filter state lives in the URL (?industry, ?policy, ?agency, ?required=cover|duty) so
   // the landing page's chips and any shared link land on a filtered index. Read after mount,
   // not during render: the prerendered HTML is the unfiltered index, and reading the URL during
   // the first client render would make hydration disagree with it.
@@ -40,7 +40,13 @@ export default function BlogIndex() {
     }
     return out;
   }, [selection]);
-  const hasRequired = useMemo(() => ARTICLES.some((a) => a.required_by_law), []);
+  const requiredCounts = useMemo(
+    () => ({
+      cover: ARTICLES.filter((a) => a.required_by_law === 'cover').length,
+      duty: ARTICLES.filter((a) => a.required_by_law === 'duty').length,
+    }),
+    []
+  );
 
   function update(next: Selection) {
     setSearchParams(writeSelection(searchParams, next), { replace: true });
@@ -100,9 +106,9 @@ export default function BlogIndex() {
           selection={selection}
           counts={facetCounts}
           onToggle={toggle}
-          onToggleRequired={() => update({ ...selection, required: !selection.required })}
+          onToggleRequired={(v) => update({ ...selection, required: selection.required === v ? null : v })}
           onClear={() => update(EMPTY)}
-          hasRequired={hasRequired}
+          requiredCounts={requiredCounts}
         />
       </section>
 

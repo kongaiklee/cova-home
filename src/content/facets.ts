@@ -63,21 +63,35 @@ export function readAxis(params: URLSearchParams, axis: Axis): string[] {
   return [...new Set(labels)];
 }
 
+/**
+ * The two-value `required_by_law` filter (CMO curation 2026-08-26): `cover` = statute or licence
+ * requires HOLDING the insurance; `duty` = the law requires an act or standard. Never a boolean -
+ * one `Required by law` heading over a duty article would be a false compliance claim.
+ */
+export type RequiredValue = 'cover' | 'duty';
+
+/** `?required=cover|duty`; the retired boolean's `law` reads as `cover` so old links keep working. */
+function readRequired(raw: string | null): RequiredValue | null {
+  if (raw === 'cover' || raw === 'duty') return raw;
+  if (raw === 'law') return 'cover';
+  return null;
+}
+
 export interface Selection {
   policy: string[];
   industry: string[];
   agency: string[];
-  required: boolean;
+  required: RequiredValue | null;
 }
 
-export const EMPTY: Selection = { policy: [], industry: [], agency: [], required: false };
+export const EMPTY: Selection = { policy: [], industry: [], agency: [], required: null };
 
 export function readSelection(params: URLSearchParams): Selection {
   return {
     policy: readAxis(params, 'policy'),
     industry: readAxis(params, 'industry'),
     agency: readAxis(params, 'agency'),
-    required: params.get('required') === 'law',
+    required: readRequired(params.get('required')),
   };
 }
 
@@ -90,14 +104,14 @@ export function writeSelection(params: URLSearchParams, sel: Selection): URLSear
     if (vals.length) next.set(key, vals.map((v) => valueSlug(key, v)).join(','));
     else next.delete(key);
   }
-  if (sel.required) next.set('required', 'law');
+  if (sel.required) next.set('required', sel.required);
   else next.delete('required');
   return next;
 }
 
 /** Multi-select within an axis (OR), AND across axes. */
 export function matches(a: ArticleMeta, sel: Selection): boolean {
-  if (sel.required && !a.required_by_law) return false;
+  if (sel.required && a.required_by_law !== sel.required) return false;
   for (const { key, field } of AXES) {
     const want = sel[key];
     if (want.length && !want.some((v) => (a[field] ?? []).includes(v))) return false;

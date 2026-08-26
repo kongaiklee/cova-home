@@ -6,6 +6,7 @@ intent: "know-where-you-stand"
 topics: ["Professional Indemnity", "Fidelity"]
 industries: ["Professional services"]
 agencies: ["Singapore Statutes"]
+required_by_law: "cover"
 article_number: 285
 published: "2026-05-14"
 source_verified: "2026-05-14"

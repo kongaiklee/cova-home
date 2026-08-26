@@ -21,8 +21,8 @@ export interface ArticleMeta {
   /** Industry (from title + slug) and agencies the body links to - scripts/lib/facets.mjs. */
   industries: string[];
   agencies: string[];
-  /** Hand-curated by an editor in frontmatter; absent means false. */
-  required_by_law?: boolean;
+  /** Enforced from content/required-by-law.json: `cover` = statute requires HOLDING the insurance; `duty` = the law requires an act or standard. Absent = neither. */
+  required_by_law?: 'cover' | 'duty';
   published: string;
   meta_description: string;
   hero_image: string;

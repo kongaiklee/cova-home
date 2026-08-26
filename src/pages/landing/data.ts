@@ -57,7 +57,7 @@ const g = (path: string, title: string) => ({ title, href: articleUrl(path) });
 
 /** Section 4C. Six groups of five; `Required by law` leads and opens on load. */
 export const GUIDE_GROUPS: GuideGroup[] = [
-  { name: 'Required by law', more: 'More articles on what the law requires', moreHref: '/blog?agency=mom', items: [
+  { name: 'Required by law', more: 'More articles on what the law requires', moreHref: '/blog?required=cover', items: [
     g('/document-legal/wica-section-25-offence', 'No WICA policy? What the Section 25 offence actually costs an employer'),
     g('/crisis/worker-fatality-on-site', 'A Worker Just Died on Site: What Do I Do Now?'),
     g('/crisis/mom-stop-work-order-issued', 'MOM Just Issued a Stop-Work Order on Our Site: What Do I Do Now?'),

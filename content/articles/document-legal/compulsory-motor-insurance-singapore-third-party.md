@@ -6,6 +6,7 @@ intent: "get-it-right"
 topics: ["Work Injury (WICA)", "Motor & Fleet"]
 industries: []
 agencies: ["Singapore Statutes", "LTA", "GIA"]
+required_by_law: "cover"
 article_number: 525
 published: "2026-08-26"
 source_verified: "2026-08-26"

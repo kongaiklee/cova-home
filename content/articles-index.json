@@ -18,7 +18,8 @@
     "meta_description": "Yes, and it is one of only two insurances a Singapore business is required by statute to hold. Section 3(1) of the Motor Vehicles (Third-Party Risks and...",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 2437,
-    "article_number": 525
+    "article_number": 525,
+    "required_by_law": "cover"
   },
   {
     "title": "Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?",
@@ -3211,7 +3212,8 @@
     "meta_description": "The Law Society of Singapore is the professional body for solicitors constituted under the Legal Profession Act 1966 (LPA). The Law Society operates the...",
     "hero_image": "/assets/blog/association.jpg",
     "word_count": 2221,
-    "article_number": 285
+    "article_number": 285,
+    "required_by_law": "cover"
   },
   {
     "title": "Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications",
@@ -4058,7 +4060,8 @@
     "meta_description": "Your SME is hiring a non-Malaysian Work Permit holder for the first time and needs to lodge the SGD 5,000 Ministry of Manpower (MOM) Security Bond before...",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1687,
-    "article_number": 373
+    "article_number": 373,
+    "required_by_law": "duty"
   },
   {
     "title": "How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender",
@@ -4671,7 +4674,8 @@
     "meta_description": "The Platform Workers Act 2024 (Act No. 30 of 2024) came fully into force on 1 January 2025, requiring Singapore platform operators (Grab, Gojek,...",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1634,
-    "article_number": 344
+    "article_number": 344,
+    "required_by_law": "cover"
   },
   {
     "title": "How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained",
@@ -4690,7 +4694,8 @@
     "meta_description": "When a Singapore organisation experiences a notifiable data breach, the Personal Data Protection Act 2012 Section 26D requires notification to the...",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1508,
-    "article_number": 343
+    "article_number": 343,
+    "required_by_law": "duty"
   },
   {
     "title": "How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure",
@@ -7460,7 +7465,8 @@
     "meta_description": "Section 24 of the Work Injury Compensation Act 2019 is the provision that makes WICA workable. Headed \"Employer must be insured against liabilities under...",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1715,
-    "article_number": 180
+    "article_number": 180,
+    "required_by_law": "cover"
   },
   {
     "title": "Singapore Employment Framework Updates 2026: What Singapore SMEs Need to Know",
@@ -7664,7 +7670,8 @@
     "meta_description": "The Platform Workers Act 2024 (PWA) commenced 1 January 2025, establishing a distinct legal category - platform worker - separate from employee or...",
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1503,
-    "article_number": 170
+    "article_number": 170,
+    "required_by_law": "cover"
   },
   {
     "title": "WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement",
@@ -9277,7 +9284,8 @@
     "meta_description": "Section 24 of the Personal Data Protection Act 2012 requires every organisation to \"make reasonable security arrangements to prevent: (a) unauthorised...",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 2086,
-    "article_number": 98
+    "article_number": 98,
+    "required_by_law": "duty"
   },
   {
     "title": "Singapore E-commerce Selling to EU Customers: GDPR and Insurance Implications",
@@ -9935,7 +9943,8 @@
     "meta_description": "Section 25 of the Work Injury Compensation Act 2019 makes it an offence for an employer to fail to insure or to fail to maintain the WICA insurance...",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1664,
-    "article_number": 67
+    "article_number": 67,
+    "required_by_law": "cover"
   },
   {
     "title": "PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained",
@@ -9954,7 +9963,8 @@
     "meta_description": "Section 26D of the Personal Data Protection Act 2012 (Singapore) requires organisations to notify the Personal Data Protection Commission (PDPC) of a...",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1742,
-    "article_number": 66
+    "article_number": 66,
+    "required_by_law": "duty"
   },
   {
     "title": "Indemnity vs Reinstatement Settlement Basis: Which Pays Out More?",
@@ -10515,7 +10525,8 @@
     "meta_description": "This is a building-works regime, not an annual filing. The FSC is applied for once, on completion of fire safety works, before occupation. The annual...",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1062,
-    "article_number": 36
+    "article_number": 36,
+    "required_by_law": "duty"
   },
   {
     "title": "How to Add a New Employee to Existing WICA Policy",
@@ -10620,7 +10631,8 @@
     "meta_description": "The Professional Engineers Board Singapore (PEB) is a statutory board under the Ministry of National Development. Per the PEB website, PEB is responsible...",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1167,
-    "article_number": 30
+    "article_number": 30,
+    "required_by_law": "cover"
   },
   {
     "title": "What Insurance Does an ECDA-Licensed Childcare Centre Need?",
@@ -10970,7 +10982,8 @@
     "meta_description": "The Platform Workers Act 2024 (Act 30 of 2024) came into full force on 1 January 2025, per the MOM press release of 17 December 2024. It creates three...",
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1108,
-    "article_number": 12
+    "article_number": 12,
+    "required_by_law": "cover"
   },
   {
     "title": "WICA Compensation Limit Update: What Changed on 1 November 2025",

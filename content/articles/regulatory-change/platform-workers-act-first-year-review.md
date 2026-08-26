@@ -6,6 +6,7 @@ intent: "know-where-you-stand"
 topics: ["Work Injury (WICA)"]
 industries: []
 agencies: ["Singapore Statutes", "MOM", "CPF Board"]
+required_by_law: "cover"
 article_number: 170
 published: "2026-05-05"
 source_verified: "2026-05-05"

@@ -6,6 +6,7 @@ intent: "get-it-right"
 topics: ["Cyber"]
 industries: ["Security / facilities"]
 agencies: ["Singapore Statutes", "PDPC"]
+required_by_law: "duty"
 article_number: 98
 published: "2026-05-04"
 source_verified: "2026-05-04"

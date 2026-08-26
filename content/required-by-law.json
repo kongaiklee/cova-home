@@ -1,0 +1,20 @@
+{
+  "_source": "Curated by CMO 2026-08-26 17:36 (nodes/working/CMO_FACETS_SPEC.md): cover = statute or licence requires HOLDING the insurance; duty = the law requires an act or standard, insurance not mandated. Never a boolean - a boolean would publish a false compliance claim. enrich-facets.mjs enforces this map into frontmatter and the index.",
+  "cover": [
+    "/document-legal/wica-section-24-mandatory-insurance",
+    "/document-legal/wica-section-25-offence",
+    "/procedural-howto/how-to-comply-platform-workers-act-wic-insurance",
+    "/regulatory-change/pwa-jan-2025",
+    "/regulatory-change/platform-workers-act-first-year-review",
+    "/association/law-society-pii-scheme-insurance-framework",
+    "/document-legal/pe-firm-professional-indemnity-pea-section-34",
+    "/document-legal/compulsory-motor-insurance-singapore-third-party"
+  ],
+  "duty": [
+    "/document-legal/pdpa-section-24-protection-obligation",
+    "/document-legal/pdpa-section-26d-breach-notification",
+    "/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore",
+    "/procedural-howto/apply-fsc-scdf-fire-safety-certificate",
+    "/procedural-howto/mom-security-bond-foreign-worker-singapore"
+  ]
+}

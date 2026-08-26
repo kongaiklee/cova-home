@@ -6,6 +6,7 @@ intent: "get-it-right"
 topics: ["Work Injury (WICA)"]
 industries: []
 agencies: ["Singapore Statutes", "MOM"]
+required_by_law: "cover"
 article_number: 67
 published: "2026-05-04"
 source_verified: "2026-05-04"

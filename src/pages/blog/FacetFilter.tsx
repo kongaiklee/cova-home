@@ -1,18 +1,28 @@
 import clsx from 'clsx';
 import { useState } from 'react';
 import { X } from 'lucide-react';
-import { AXES, type Axis, type Selection, isEmpty } from '../../content/facets';
+import { AXES, type Axis, type RequiredValue, type Selection, isEmpty } from '../../content/facets';
 
 interface FacetFilterProps {
   selection: Selection;
   /** Document counts per value on each axis, computed within the OTHER axes' selection. */
   counts: Record<Axis, Record<string, number>>;
   onToggle: (axis: Axis, label: string) => void;
-  onToggleRequired: () => void;
+  onToggleRequired: (value: RequiredValue) => void;
   onClear: () => void;
-  /** Whether any article carries the flag - the toggle is hidden until an editor curates one. */
-  hasRequired: boolean;
+  /** Article counts per required_by_law value - a chip renders only while its count is nonzero. */
+  requiredCounts: Record<RequiredValue, number>;
 }
+
+/**
+ * The ruled two-value rendering (CMO curation 2026-08-26): the labels MUST differ - `Required by
+ * law` over a duty article (a notification, a bond, a certificate) would claim the law mandates
+ * insurance it does not mandate.
+ */
+const REQUIRED_CHIPS: { value: RequiredValue; label: string }[] = [
+  { value: 'cover', label: 'Required by law' },
+  { value: 'duty', label: 'The law also requires' },
+];
 
 const SHOW = 8;
 
@@ -27,7 +37,7 @@ export default function FacetFilter({
   onToggle,
   onToggleRequired,
   onClear,
-  hasRequired,
+  requiredCounts,
 }: FacetFilterProps) {
   const [open, setOpen] = useState<Record<Axis, boolean>>({ policy: false, industry: false, agency: false });
 
@@ -91,22 +101,28 @@ export default function FacetFilter({
         );
       })}
 
-      {(hasRequired || !isEmpty(selection)) && (
+      {(REQUIRED_CHIPS.some(({ value }) => requiredCounts[value] > 0) || !isEmpty(selection)) && (
         <div className="flex flex-wrap items-center gap-3 pt-1">
-          {hasRequired && (
-            <button
-              type="button"
-              onClick={onToggleRequired}
-              aria-pressed={selection.required}
-              className={clsx(
-                'rounded-full border px-3 py-1 text-xs font-semibold transition',
-                selection.required
-                  ? 'border-primary bg-primary text-white'
-                  : 'border-border-primary bg-background-card text-text-primary hover:border-primary'
-              )}
-            >
-              Required by law
-            </button>
+          {REQUIRED_CHIPS.map(({ value, label }) =>
+            requiredCounts[value] > 0 ? (
+              <button
+                key={value}
+                type="button"
+                onClick={() => onToggleRequired(value)}
+                aria-pressed={selection.required === value}
+                className={clsx(
+                  'rounded-full border px-3 py-1 text-xs font-semibold transition',
+                  selection.required === value
+                    ? 'border-primary bg-primary text-white'
+                    : 'border-border-primary bg-background-card text-text-primary hover:border-primary'
+                )}
+              >
+                {label}
+                <span className={clsx('ml-1.5 font-normal', selection.required === value ? 'text-white/70' : 'text-text-secondary')}>
+                  {requiredCounts[value]}
+                </span>
+              </button>
+            ) : null
           )}
           {!isEmpty(selection) && (
             <button

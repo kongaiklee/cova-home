@@ -6,6 +6,7 @@ intent: "get-it-right"
 topics: ["Property & Fire"]
 industries: []
 agencies: []
+required_by_law: "duty"
 article_number: 36
 published: "2026-05-03"
 source_verified: "2026-05-03"

@@ -6,6 +6,7 @@ intent: "get-it-right"
 topics: ["Professional Indemnity"]
 industries: ["Professional services"]
 agencies: ["Singapore Statutes", "PEB"]
+required_by_law: "cover"
 article_number: 30
 published: "2026-05-03"
 source_verified: "2026-05-03"
