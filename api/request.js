@@ -132,7 +132,10 @@ export function composeAck({ name, email }) {
   const booking = q ? `https://cal.com/kongaiklee/30min?${q}` : 'https://cal.com/kongaiklee/30min';
   const greet = name ? `Hi ${name},` : 'Hi,';
   const disclosure = 'Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.';
-  const registered = 'Covarage Pte. Ltd. \u00b7 UEN 202531227H \u00b7 143 Cecil Street, #03-01, GB Building, Singapore 069542 \u00b7 Data protection: dpo@covarage.com';
+  // The registered line carries the RULED address (KONG ~00:5x w5, via COO's records: the office
+  // moved May 2026, ACRA-acknowledged) - the template file carries it; the doc's 143 Cecil is the
+  // stale pre-move line and the estate-wide sweep is plan item 22.
+  const registered = 'Covarage Pte. Ltd. \u00b7 UEN 202531227H \u00b7 20 Cecil Street, #22-00, PLUS Building, Singapore 049705';
   const text = [
     greet,
     '',
@@ -155,37 +158,62 @@ export function composeAck({ name, email }) {
     'Warmly,',
     '',
     'Kong',
-    '',
     'Founder, Covarage',
-    '',
     'Your insurance team, without the insurance department.',
     '',
     '--',
-    disclosure,
     registered,
+    disclosure,
+    '(c) Covarage 2026',
   ].join('\n');
-  const p = (s) => `<p style="margin:0 0 16px">${s}</p>`;
+  // The HTML part IS CMO's template file, verbatim (../working/CMO_EMAIL_TEMPLATE_s15_founder.html
+  // - the designed card emailer Kong approved in his inbox), with the two merge fields resolved.
+  const body = (s, extra) => `<p style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#1f1a14; margin:${extra || '0 0 18px 0'};">${s}</p>`;
   const html = [
-    '<div style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:1.6;color:#1f1a15;max-width:560px">',
-    p(esc(greet)),
-    p('Thank you for requesting access to Covarage.'),
-    p('I started Covarage because too many business owners are left to manage insurance on their own. Keeping track of policies, chasing for replies, and wondering whether their cover still fits the business they have today.'),
-    p('I believe every business deserves someone in its corner. A team that knows the company, keeps things organised and makes sure nothing important is quietly overlooked.'),
-    p("That begins with a short onboarding call. We'll learn about your business, understand what you currently hold and help bring your policies, certificates and renewal dates together in one place."),
-    p('I will call you within 24 hours - or pick a time that suits you here:'),
-    `<p style="margin:0 0 16px"><a href="${esc(booking)}" style="display:inline-block;background:#423226;color:#ffffff;padding:12px 22px;border-radius:3px;text-decoration:none;font-weight:500">Book your onboarding call</a></p>`,
-    p("There's nothing you need to prepare. If you have your existing policies nearby, that's helpful - but we'll guide you through everything together."),
-    p("Thank you for trusting us with this part of your business. I'm genuinely glad to have you with us."),
-    p('Warmly,'),
-    p('Kong'),
-    p('Founder, Covarage'),
-    p('<em>Your insurance team, without the insurance department.</em>'),
-    '<hr style="border:none;border-top:1px solid #d9d2c7;margin:24px 0 16px">',
-    `<p style="margin:0 0 8px;font-size:12px;color:#6b6257">${disclosure}</p>`,
-    `<p style="margin:0;font-size:12px;color:#6b6257">${esc(registered)}</p>`,
-    '</div>',
-  ].join('');
-  return { subject: 'Welcome to Covarage - Your insurance team, without the insurance department', text, html };
+    '<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f4f2ee; margin:0; padding:0;">',
+    '  <tr>',
+    '    <td align="center" style="padding:40px 16px;">',
+    '      <table width="560" cellpadding="0" cellspacing="0" border="0" style="max-width:560px; width:100%; background-color:#ffffff; border:1px solid #e6e1d8; border-radius:8px;">',
+    '        <tr>',
+    '          <td style="padding:32px 40px 0 40px;">',
+    '            <img src="https://covarage.com/assets/logo.png" width="22" height="22" alt="" style="vertical-align:middle; margin-right:8px; background-color:#423226; border-radius:50%;">',
+    '            <span style="font-family:Arial,Helvetica,sans-serif; font-size:17px; font-weight:800; color:#423226; vertical-align:middle;">Covarage</span>',
+    '          </td>',
+    '        </tr>',
+    '        <tr>',
+    '          <td style="padding:28px 40px 32px 40px;">',
+    body(esc(greet)),
+    body('Thank you for requesting access to Covarage.'),
+    body('I started Covarage because too many business owners are left to manage insurance on their own. Keeping track of policies, chasing for replies, and wondering whether their cover still fits the business they have today.'),
+    body('I believe every business deserves someone in its corner. A team that knows the company, keeps things organised and makes sure nothing important is quietly overlooked.'),
+    body("That begins with a short onboarding call. We'll learn about your business, understand what you currently hold and help bring your policies, certificates and renewal dates together in one place."),
+    body('<strong>I will call you within 24 hours</strong> - or pick a time that suits you here:', '0 0 10px 0'),
+    '            <table cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px 0;"><tr><td style="background-color:#423226; border-radius:6px;">',
+    `              <a href="${esc(booking)}" style="display:inline-block; padding:11px 22px; font-family:Arial,Helvetica,sans-serif; font-size:14px; font-weight:700; color:#fdfbf9; text-decoration:none;">Book your onboarding call</a>`,
+    '            </td></tr></table>',
+    body("There's nothing you need to prepare. If you have your existing policies nearby, that's helpful - but we'll guide you through everything together."),
+    body("Thank you for trusting us with this part of your business. I'm genuinely glad to have you with us.", '0 0 24px 0'),
+    body('Warmly,', '0'),
+    '            <p style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#1f1a14; margin:12px 0 0 0;">Kong<br>',
+    '            <span style="font-size:13px; color:#8a7c6c;">Founder, Covarage</span><br>',
+    '            <span style="font-size:13px; font-style:italic; color:#8a7c6c;">Your insurance team, without the insurance department.</span></p>',
+    '          </td>',
+    '        </tr>',
+    '        <tr>',
+    '          <td style="padding:20px 40px 28px 40px; border-top:1px solid #eee9e0;">',
+    '            <p style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.6; color:#a39684; margin:0 0 8px 0;">Covarage Pte. Ltd. &middot; UEN 202531227H &middot; 20 Cecil Street, #22-00, PLUS Building, Singapore 049705</p>',
+    `            <p style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.6; color:#a39684; margin:0 0 8px 0;">${disclosure}</p>`,
+    '            <p style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.6; color:#a39684; margin:0;">&copy; Covarage 2026</p>',
+    '          </td>',
+    '        </tr>',
+    '      </table>',
+    '    </td>',
+    '  </tr>',
+    '</table>',
+  ].join('\n');
+  // Subject: KONG'S SHORT-FORM RULING (w5 00:5x, recorded in the template header) - the tagline
+  // lives in the body signature only, never in the subject. Supersedes row 28's composite.
+  return { subject: 'Welcome to Covarage', text, html };
 }
 
 function esc(s) {
