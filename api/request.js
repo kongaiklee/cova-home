@@ -1,11 +1,13 @@
 /**
  * POST /api/request - the request-a-call form's only destination.
  *
- * Posts one message to Slack and sends one email through Resend to the team, then - only once
- * internal delivery has succeeded - the founder welcome to the lead (copy: CMO s15 row 28,
- * Kong's own draft; behaviour: CD handoff s9.2). Creates nothing else: every account is opened
- * by the team after the call. All destinations come from environment variables set in the
- * Vercel project - nothing here names a channel, an address or a key.
+ * Posts one Slack message as the team's alert (the internal email to REQUEST_MAIL_TO is a
+ * FALLBACK that fires only when the Slack leg fails - KONG w5: one email per submission), then -
+ * only once internal delivery has succeeded - the founder welcome to the lead (copy: CMO s15
+ * row 28 + the approved template, Kong's own draft; behaviour: CD handoff s9.2). Creates nothing
+ * else: every account is opened by the team after the call. All destinations come from
+ * environment variables set in the Vercel project - nothing here names a channel, an address or
+ * a key.
  *
  *   SLACK_WEBHOOK_URL   incoming webhook for the notification channel
  *   RESEND_API_KEY      Resend API key
@@ -67,26 +69,42 @@ export default async function handler(req, res) {
   const when = new Date().toLocaleString('en-SG', { timeZone: 'Asia/Singapore', hour12: false });
   const lines = [`Name: ${name}`, `Company: ${company}`, `Email: ${email}`, `Number: ${number}`, `Trade: ${trade || '-'}`, ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
 
-  const results = await Promise.allSettled([
-    slack
-      ? fetch(slack, {
-          method: 'POST',
-          headers: { 'content-type': 'application/json' },
-          body: JSON.stringify({ text: `New request for a call\n${lines.join('\n')}` }),
-        })
-      : Promise.resolve(null),
-    resend && to.length && from
-      ? fetch('https://api.resend.com/emails', {
-          method: 'POST',
-          headers: { authorization: `Bearer ${resend}`, 'content-type': 'application/json' },
-          body: JSON.stringify({ from, to, subject: `Request for a call: ${company}`, text: lines.join('\n') }),
-        })
-      : Promise.resolve(null),
-  ]);
-  const delivered = results.some((r) => r.status === 'fulfilled' && r.value && r.value.ok);
+  // ONE email per submission (KONG w5 ~02:0x: "can we only fire one?" - the plain internal alert
+  // was landing beside the lead's welcome, because the team inbox is his). Slack is the team's
+  // alert channel; the internal email is a FALLBACK that fires only when the Slack leg fails, so
+  // the redundancy that protects lead capture survives without doubling inboxes normally.
+  let slackOk = false;
+  if (slack) {
+    try {
+      const r = await fetch(slack, {
+        method: 'POST',
+        headers: { 'content-type': 'application/json' },
+        body: JSON.stringify({ text: `New request for a call\n${lines.join('\n')}` }),
+      });
+      slackOk = r.ok;
+      if (!r.ok) console.warn('request: slack failed', r.status);
+    } catch (e) {
+      console.warn('request: slack failed', String(e).slice(0, 80));
+    }
+  }
+  let mailOk = false;
+  if (!slackOk && resend && to.length && from) {
+    try {
+      const r = await fetch('https://api.resend.com/emails', {
+        method: 'POST',
+        headers: { authorization: `Bearer ${resend}`, 'content-type': 'application/json' },
+        body: JSON.stringify({ from, to, subject: `Request for a call: ${company}`, text: lines.join('\n') }),
+      });
+      mailOk = r.ok;
+      if (r.ok) console.warn('request: internal mail fallback fired (slack leg failed)');
+      else console.warn('request: internal mail fallback failed', r.status);
+    } catch (e) {
+      console.warn('request: internal mail fallback failed', String(e).slice(0, 80));
+    }
+  }
+  const delivered = slackOk || mailOk;
   if (!delivered) {
-    const why = results.map((r) => (r.status === 'rejected' ? String(r.reason).slice(0, 80) : r.value ? `${r.value.status}` : 'skipped'));
-    console.error('request: no delivery', why);
+    console.error('request: no delivery', { slackOk, mailOk });
     return res.status(502).json({ ok: false, error: 'delivery' });
   }
 
