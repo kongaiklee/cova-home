@@ -25,7 +25,7 @@ export default function Hero() {
               Fortune 500 companies have a team for insurance. Now you do.
             </h1>
             <h2 className="m-0 mb-3 font-serif text-[21px]/[1.25] tracking-[-0.5px] text-balance text-primary lg:mb-[18px] lg:text-[26px]/[1.2] lg:tracking-[-0.6px]">
-              The insurance team you thought you were too small for.
+              Your insurance team, without the insurance department.
             </h2>
             <p className="m-0 max-w-[46ch] text-base/[1.5] text-text-primary lg:mb-[30px] lg:text-lg">
               A named adviser who knows your company, a review at every renewal, and someone who chases so you never have to.
