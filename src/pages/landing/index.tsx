@@ -22,7 +22,7 @@ export default function LandingPage() {
   return (
     <div className="bg-background-primary text-text-primary">
       <Seo
-        title="Covarage: the insurance team you thought you were too small for"
+        title="Covarage: Your insurance team, without the insurance department"
         description="A named adviser who knows your company, a review at every renewal, and someone who chases so you never have to. Free for your business while we are in early access."
         path="/"
       />
