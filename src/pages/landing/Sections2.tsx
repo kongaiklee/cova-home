@@ -1,4 +1,5 @@
 import { IMG, REQUEST_ANCHOR } from './data';
+import { requestClick } from './requestFraming';
 import { H2, WRAP } from './Sections';
 
 const LESS = [
@@ -143,7 +144,7 @@ export function Close() {
     <section className="border-b border-border-primary">
       <div className={`${WRAP} py-[52px] text-center lg:py-24`}>
         <h2 className={`${H2} mx-auto mb-[22px] max-w-[22ch] text-[32px]/[1.1] tracking-[-1.1px] lg:mb-[26px] lg:text-[44px]/[1.08] lg:tracking-[-1.5px]`}>What Fortune 500 companies pay a team for. Now yours.</h2>
-        <a href={REQUEST_ANCHOR} className="block rounded-sm bg-primary-extended py-4 text-center text-[15px] font-medium text-white transition hover:opacity-90 lg:inline-block lg:px-[26px] lg:py-[13px]">Request access</a>
+        <a href={REQUEST_ANCHOR} onClick={requestClick} className="block rounded-sm bg-primary-extended py-4 text-center text-[15px] font-medium text-white transition hover:opacity-90 lg:inline-block lg:px-[26px] lg:py-[13px]">Request access</a>
         <p className="m-0 mt-4 text-[13px] text-text-secondary lg:mt-5 lg:text-sm">Opened by our founder. Your adviser named on day one.</p>
       </div>
     </section>

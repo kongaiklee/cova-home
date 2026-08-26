@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import clsx from 'clsx';
 import { IMG, REQUEST_ANCHOR, ROTATION } from './data';
 import { WRAP } from './Sections';
+import { requestClick } from './requestFraming';
 
 const PERIOD = 2800;
 const FADE = 250;
@@ -43,7 +44,7 @@ export default function Rotator() {
               ))}
             </div>
             <p className="m-0 mb-5 max-w-[50ch] text-[15px]/[1.6] text-text-primary lg:mb-6 lg:text-base/[1.65]">Tell us what you hold. A licensed adviser reads it against what is being asked of you.</p>
-            <a href={REQUEST_ANCHOR} className={`${cta} block py-4 text-center lg:inline-block lg:px-[26px] lg:py-[13px]`}>Consult an adviser</a>
+            <a href={REQUEST_ANCHOR} onClick={requestClick} className={`${cta} block py-4 text-center lg:inline-block lg:px-[26px] lg:py-[13px]`}>Consult an adviser</a>
             <img src={`${IMG}/pg-img04-documents-ask.jpg`} alt="" className="mt-5 block h-[220px] w-full rounded-xl object-cover lg:hidden" loading="lazy" />
           </div>
           <img src={`${IMG}/pg-img04-documents-ask.jpg`} alt="" className="hidden h-full min-h-[260px] w-full object-cover lg:block" loading="lazy" />

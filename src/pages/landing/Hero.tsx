@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import { IMG, REQUEST_ANCHOR, TRADES } from './data';
 import RequestCard from './RequestCard';
+import { requestClick } from './requestFraming';
 
 const WASH = 'linear-gradient(160deg, rgba(95,136,174,0.28) 0%, rgba(194,212,226,0.18) 100%)';
 
@@ -29,7 +30,7 @@ export default function Hero() {
             <p className="m-0 max-w-[46ch] text-base/[1.5] text-text-primary lg:mb-[30px] lg:text-lg">
               A named adviser who knows your company, a review at every renewal, and someone who chases so you never have to.
             </p>
-            <a href={REQUEST_ANCHOR} className="hidden rounded-sm bg-primary-extended px-[26px] py-[13px] text-[15px] font-medium text-white transition hover:opacity-90 lg:inline-block">
+            <a href={REQUEST_ANCHOR} onClick={requestClick} className="hidden rounded-sm bg-primary-extended px-[26px] py-[13px] text-[15px] font-medium text-white transition hover:opacity-90 lg:inline-block">
               Request access
             </a>
           </div>
