@@ -93,7 +93,7 @@ export default function RequestCard({ trade, onTrade }: Props) {
           {status === 'sent'
             ? 'Received. We call you back within 24 hours.'
             : status === 'error'
-              ? 'That did not go through. Please try again, or email dpo@covarage.com.'
+              ? 'That did not go through. Please try again, or email support@covarage.com.'
               : 'Opened by our founder. Your adviser named on day one.'}
         </p>
       </form>
