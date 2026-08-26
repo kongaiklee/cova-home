@@ -14,8 +14,12 @@ import {
 
 const TOOL_PATH = '/guides/tools/insurance-gap-check';
 
-/** The only call to action: the request card on the lander. No self-serve start exists. */
-const ctaHref = '/#request?utm_source=guides&utm_medium=tool&utm_campaign=insurance-gap-check';
+/**
+ * The only call to action: the request card on the lander. No self-serve start exists.
+ * The fragment goes LAST - with `?utm_...` inside the hash the anchor never fires and the
+ * card's hidden-field reader (location.search) never sees the attribution.
+ */
+const ctaHref = '/?utm_source=guides&utm_medium=tool&utm_campaign=insurance-gap-check#request';
 
 const jsonLd = {
   '@context': 'https://schema.org',
