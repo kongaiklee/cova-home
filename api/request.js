@@ -13,7 +13,7 @@
  * With none configured the endpoint answers 503 and the form shows its error line, so the button
  * cannot silently swallow a request.
  */
-const LIMITS = { name: 120, company: 160, number: 40, trade: 40 };
+const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40 };
 const HIDDEN = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency', 'page'];
 
 function clean(v, max) {
@@ -26,14 +26,31 @@ export default async function handler(req, res) {
     return res.status(405).json({ ok: false, error: 'method' });
   }
   const body = typeof req.body === 'string' ? safeJson(req.body) : req.body || {};
-  if (clean(body.website, 10)) return res.status(200).json({ ok: true }); // honeypot: pretend
+  // Honeypot: pretend success so a bot never learns it was caught - but log it, so a silent
+  // drop shows in the runtime logs and "no leads today" is distinguishable from "leads dropped
+  // today". `website` is the old field name, kept for any page still open from a prior deploy.
+  if (clean(body.form_meta, 10) || clean(body.website, 10)) {
+    console.warn('request: honeypot', { page: clean(body.page, 160) });
+    return res.status(200).json({ ok: true });
+  }
 
   const name = clean(body.name, LIMITS.name);
   const company = clean(body.company, LIMITS.company);
+  const email = clean(body.email, LIMITS.email);
   const number = clean(body.number, LIMITS.number);
   const trade = clean(body.trade, LIMITS.trade);
-  if (!name || !company || !number || !/[0-9]{6,}/.test(number.replace(/\D/g, ''))) {
+  // Presence only for human-read fields (KONG w6: the number's format rule comes off - a human
+  // calls it back and can read a country code, spaces, an extension). Never validate more
+  // strictly than the thing that consumes the value.
+  if (!name || !company || !email || !number) {
     return res.status(400).json({ ok: false, error: 'fields' });
+  }
+  // Email is machine-read, so it gets a shape check - but a LOOSE one: exactly one @, a dot
+  // somewhere after it, no whitespace. A strict regex rejects real addresses and every
+  // rejection is a lost lead.
+  const at = email.indexOf('@');
+  if (at < 1 || at !== email.lastIndexOf('@') || !email.slice(at + 1).includes('.') || /\s/.test(email)) {
+    return res.status(400).json({ ok: false, error: 'email' });
   }
   const extras = HIDDEN.map((k) => [k, clean(body[k], 160)]).filter(([, v]) => v);
 
@@ -46,7 +63,7 @@ export default async function handler(req, res) {
   }
 
   const when = new Date().toLocaleString('en-SG', { timeZone: 'Asia/Singapore', hour12: false });
-  const lines = [`Name: ${name}`, `Company: ${company}`, `Number: ${number}`, `Trade: ${trade || '-'}`, ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
+  const lines = [`Name: ${name}`, `Company: ${company}`, `Email: ${email}`, `Number: ${number}`, `Trade: ${trade || '-'}`, ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
 
   const results = await Promise.allSettled([
     slack

@@ -13,7 +13,7 @@ interface Props {
 
 /**
  * The request card. It POSTS to /api/request and creates no account - the team opens every
- * account by hand after the call. Three typed fields and the trade; everything else is hidden.
+ * account by hand after the call. Four typed fields and the trade; everything else is hidden.
  */
 export default function RequestCard({ trade, onTrade }: Props) {
   const [status, setStatus] = useState<Status>('idle');
@@ -72,13 +72,15 @@ export default function RequestCard({ trade, onTrade }: Props) {
           </select>
         </label>
 
-        <div className="mb-2 text-[11px] font-semibold tracking-[0.12em] text-text-secondary uppercase">Your name, company and number.</div>
+        <div className="mb-2 text-[11px] font-semibold tracking-[0.12em] text-text-secondary uppercase">Your name, company, email and number.</div>
         <div className="mb-4 flex flex-col gap-2">
           <input className={field} name="name" placeholder="Name" autoComplete="name" required maxLength={120} />
           <input className={field} name="company" placeholder="Company" autoComplete="organization" required maxLength={160} />
+          <input className={field} name="email" placeholder="Email" type="email" autoComplete="email" required maxLength={160} />
           <input className={field} name="number" placeholder="Number" type="tel" autoComplete="tel" required maxLength={40} />
-          {/* honeypot - hidden from people, filled by bots */}
-          <input className="hidden" name="website" tabIndex={-1} autoComplete="off" aria-hidden />
+          {/* honeypot - hidden from people, filled by bots. Non-semantic name so a password
+              manager or browser autofill never mistakes it for a real field (item 9). */}
+          <input className="hidden" name="form_meta" tabIndex={-1} autoComplete="off" aria-hidden />
         </div>
         {Object.entries(hidden).map(([k, v]) => <input key={k} type="hidden" name={k} value={v} />)}
 
