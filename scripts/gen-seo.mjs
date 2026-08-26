@@ -21,6 +21,9 @@ const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 const urls = [
   { loc: `${SITE}/`, lastmod: null, priority: '1.0' },
   { loc: `${SITE}/blog`, lastmod: null, priority: '0.9' },
+  { loc: `${SITE}/guides/tools/insurance-gap-check`, lastmod: null, priority: '0.6' },
+  { loc: `${SITE}/contact`, lastmod: null, priority: '0.5' },
+  { loc: `${SITE}/careers`, lastmod: null, priority: '0.5' },
   { loc: `${SITE}/terms`, lastmod: null, priority: '0.3' },
   { loc: `${SITE}/privacy`, lastmod: null, priority: '0.3' },
   ...articles.map((a) => ({
