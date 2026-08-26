@@ -51,7 +51,7 @@ export default function RequestCard({ trade, onTrade }: Props) {
   return (
     <div
       id="request"
-      className="overflow-hidden rounded-xl border border-border-primary bg-white lg:shadow-[0_24px_60px_rgba(0,0,0,0.18)]"
+      className="scroll-mt-9 overflow-hidden rounded-xl border border-border-primary bg-white lg:scroll-mt-0 lg:shadow-[0_24px_60px_rgba(0,0,0,0.18)]"
     >
       <div className="flex h-8 items-center gap-1.5 border-b border-border-primary bg-[#f4f2f0] px-3.5" aria-hidden>
         <span className="size-2 rounded-full bg-[#d9d4cf]" /><span className="size-2 rounded-full bg-[#d9d4cf]" /><span className="size-2 rounded-full bg-[#d9d4cf]" />
