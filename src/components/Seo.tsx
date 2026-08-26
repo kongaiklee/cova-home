@@ -1,7 +1,7 @@
 import { Head } from 'vite-react-ssg';
 
 export const SITE_URL = 'https://covarage.com';
-const DEFAULT_IMAGE = `${SITE_URL}/assets/logo.png`;
+const DEFAULT_IMAGE = `${SITE_URL}/assets/og-card.png`;
 
 interface SeoProps {
   title: string;
@@ -48,6 +48,15 @@ export default function Seo({
       <meta property="og:description" content={description} />
       <meta property="og:url" content={canonical} />
       <meta property="og:image" content={ogImage} />
+      {ogImage === DEFAULT_IMAGE && (
+        <meta property="og:image:width" content="1200" />
+      )}
+      {ogImage === DEFAULT_IMAGE && (
+        <meta property="og:image:height" content="630" />
+      )}
+      {ogImage === DEFAULT_IMAGE && (
+        <meta property="og:image:type" content="image/png" />
+      )}
       {publishedTime && (
         <meta property="article:published_time" content={publishedTime} />
       )}
