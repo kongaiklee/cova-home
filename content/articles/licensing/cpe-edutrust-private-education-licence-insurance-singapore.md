@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 482
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2004
+word_count: 1984
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/cpe-edutrust-private-education-licence-insurance-singapore"
@@ -54,7 +54,7 @@ The takeaway for an owner: if your model depends on foreign-student intake, plan
 
 #### The insurance the law compels regardless: WICA
 
-Quite separately from registration and the FPS, your institution employs people: teachers, course administrators, support staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more [approved employee insurance policies](https://sso.agc.gov.sg/Act/WICA2019) against its liabilities to employees under the Act, subject to the classes the regulations exclude. This duty follows employment, not the education licence, and it applies whether your fee protection runs through insurance, escrow or a bank guarantee. We set out who exactly must be covered in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+Quite separately from registration and the FPS, your institution employs people: teachers, course administrators, support staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more [approved employee insurance policies](https://sso.agc.gov.sg/Act/WICA2019) against its liabilities to employees under the Act, subject to the classes the regulations exclude. This duty follows employment, not the education licence, and it applies whether your fee protection runs through insurance, escrow or a bank guarantee. We set out who exactly must be covered in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the registration does not require, but a school often wants
 
@@ -95,9 +95,9 @@ Covarage helps with the part that quietly goes wrong: keeping the fee-protection
 5. Are the fee-protection instrument, the WICA policy and any liability cover documented somewhere we can produce them at registration renewal or on a CPE query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack Under the Private Education Act 2009](https://blog.covarage.com/edge-case/tuition-centre-enrichment-insurance-singapore)
-- [Opening a Tuition or Enrichment Centre in Singapore: Full Insurance Checklist](https://blog.covarage.com/decision-tree/opening-tuition-enrichment-centre-checklist)
-- [CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained](https://blog.covarage.com/association/casetrust-spa-wellness-prepayment-protection)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack Under the Private Education Act 2009](/edge-case/tuition-centre-enrichment-insurance-singapore)
+- [Opening a Tuition or Enrichment Centre in Singapore: Full Insurance Checklist](/decision-tree/opening-tuition-enrichment-centre-checklist)
+- [CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

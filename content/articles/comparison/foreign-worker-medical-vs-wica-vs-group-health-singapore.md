@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 510
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2116
+word_count: 2076
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore"
@@ -34,7 +34,7 @@ The first mandatory cover exists because you employ a foreign worker, and it is 
 
 That is the core of it. The cover is hospitalisation cover. It responds when the worker is admitted, has day surgery, or needs follow-up out-patient care tied to an admission. It does not depend on how the worker was injured or fell ill. A Work Permit holder hospitalised for appendicitis, dengue, or a fall at home is covered, because the trigger is the hospitalisation, not the cause.
 
-The detailed mechanics, the minimum annual claim limit, the co-payment split between insurer and employer, and the standardised policy terms, are set by the Eighth Schedule, not by paragraph 2. Those requirements were restructured with effect from [1 July 2025](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ViewType=Pdf) under amendment S 436/2025, which also redefined the "specified employment period" the cover must run for. We do not state the current figures here because they change by regulation and by the worker's age band; the up-to-date numbers and how they shifted are set out in our note on the [Migrant Worker Medical Insurance Stage 2 changes of 1 July 2025](https://blog.covarage.com/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums). For S Pass holders specifically, the obligation and its thresholds are covered in [S Pass employers' medical insurance obligations](https://blog.covarage.com/document-legal/s-pass-employer-medical-insurance-obligations).
+The detailed mechanics, the minimum annual claim limit, the co-payment split between insurer and employer, and the standardised policy terms, are set by the Eighth Schedule, not by paragraph 2. Those requirements were restructured with effect from [1 July 2025](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ViewType=Pdf) under amendment S 436/2025, which also redefined the "specified employment period" the cover must run for. We do not state the current figures here because they change by regulation and by the worker's age band; the up-to-date numbers and how they shifted are set out in our note on the [Migrant Worker Medical Insurance Stage 2 changes of 1 July 2025](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums). For S Pass holders specifically, the obligation and its thresholds are covered in [S Pass employers' medical insurance obligations](/document-legal/s-pass-employer-medical-insurance-obligations).
 
 What this cover is **not** is income replacement or compensation for injury. It pays the hospital, within the policy limit. If the worker is permanently disabled or dies, the medical policy is not the instrument that compensates the worker or the family for that loss. That is a different duty.
 
@@ -42,7 +42,7 @@ What this cover is **not** is income replacement or compensation for injury. It 
 
 The second mandatory cover comes from a different law entirely and is triggered by employment, not by the worker's nationality. [Section 24(1) of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers against all liabilities that the employer may incur under this Act in respect of every employee of the employer", subject to the excluded classes the regulations prescribe.
 
-WICA is a no-fault regime. The worker does not have to prove the employer was negligent. If the injury or disease "arose out of and in the course of employment", compensation is payable on the statutory schedule. That schedule pays defined amounts for death, permanent incapacity, medical expenses, and periods off work. The duty and its mechanics are set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance), and failing to hold the cover is an offence under [section 25](https://sso.agc.gov.sg/Act/WICA2019), carrying a fine, imprisonment, or both.
+WICA is a no-fault regime. The worker does not have to prove the employer was negligent. If the injury or disease "arose out of and in the course of employment", compensation is payable on the statutory schedule. That schedule pays defined amounts for death, permanent incapacity, medical expenses, and periods off work. The duty and its mechanics are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance), and failing to hold the cover is an offence under [section 25](https://sso.agc.gov.sg/Act/WICA2019), carrying a fine, imprisonment, or both.
 
 The boundary that matters: WICA only responds to work injury and occupational disease. A foreign worker injured in a workplace accident is covered. The same worker hospitalised for a non-work illness on a rest day is not within WICA at all. That is exactly the gap the medical insurance condition is built to close, which is why the two duties sit side by side rather than overlapping.
 
@@ -50,7 +50,7 @@ The boundary that matters: WICA only responds to work injury and occupational di
 
 The third cover, **group health**, is not compelled by any statute. It is a group hospitalisation and surgical plan, frequently extended with outpatient, specialist, or dental riders, that an employer buys as a benefit. There is no work pass condition and no WICA equivalent requiring it. An employer can run a fully compliant migrant workforce with no group health plan at all.
 
-Where it earns its place is everyday care and top-up. The statutory medical insurance condition is hospitalisation cover; it does not pay for a worker's routine GP visit, a specialist consult that does not lead to admission, or chronic condition management. Group health, with the right riders, can. It can also raise the hospitalisation limit above the statutory floor, and it can extend cover to local and non-resident staff who fall outside the foreign worker medical condition entirely. Group health is described further in our comparison of [group personal accident versus group term life for SMEs](https://blog.covarage.com/comparison/group-personal-accident-vs-group-term-life-sme), which sits in the same voluntary-benefit family.
+Where it earns its place is everyday care and top-up. The statutory medical insurance condition is hospitalisation cover; it does not pay for a worker's routine GP visit, a specialist consult that does not lead to admission, or chronic condition management. Group health, with the right riders, can. It can also raise the hospitalisation limit above the statutory floor, and it can extend cover to local and non-resident staff who fall outside the foreign worker medical condition entirely. Group health is described further in our comparison of [group personal accident versus group term life for SMEs](/comparison/group-personal-accident-vs-group-term-life-sme), which sits in the same voluntary-benefit family.
 
 Because it is voluntary, its scope is whatever the policy says. There is no statutory schedule behind it. That flexibility is the point, and also the trap: two SMEs can both say they have "group health" and mean very different things.
 
@@ -79,7 +79,7 @@ The gaps fall out of the table. A foreign worker hospitalised after a workplace 
 
 3. **Treating group health as one of the legal requirements.** It is voluntary. Buying it is sensible for many SMEs, but it discharges neither the [work pass medical condition](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ViewType=Pdf) nor the WICA duty.
 
-4. **Missing the 1 July 2025 medical insurance changes.** The Eighth Schedule requirements were restructured under S 436/2025. An employer renewing on old assumptions about limits or co-payment may fall short; see the [Stage 2 changes note](https://blog.covarage.com/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums).
+4. **Missing the 1 July 2025 medical insurance changes.** The Eighth Schedule requirements were restructured under S 436/2025. An employer renewing on old assumptions about limits or co-payment may fall short; see the [Stage 2 changes note](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums).
 
 5. **Letting one policy lapse because the others are current.** Three covers renew on three timelines with three different triggers. A current WICA policy says nothing about whether the medical insurance condition is met, and vice versa.
 
@@ -106,10 +106,10 @@ Covarage helps with the part that quietly goes wrong here: keeping the medical i
 5. Do the three policies renew on aligned dates, or do we risk one lapsing while the others are current?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [What Are S Pass Employers' Medical Insurance Obligations?](https://blog.covarage.com/document-legal/s-pass-employer-medical-insurance-obligations)
-- [Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement](https://blog.covarage.com/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)
-- [WICA vs Group Personal Accident: Which Does My Business Need?](https://blog.covarage.com/comparison/wica-vs-gpa)
-- [Group Personal Accident vs Group Term Life for SMEs](https://blog.covarage.com/comparison/group-personal-accident-vs-group-term-life-sme)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [What Are S Pass Employers' Medical Insurance Obligations?](/document-legal/s-pass-employer-medical-insurance-obligations)
+- [Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)
+- [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
+- [Group Personal Accident vs Group Term Life for SMEs](/comparison/group-personal-accident-vs-group-term-life-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

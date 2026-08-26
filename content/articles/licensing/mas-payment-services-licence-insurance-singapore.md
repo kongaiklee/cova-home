@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 483
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2136
+word_count: 2112
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/mas-payment-services-licence-insurance-singapore"
@@ -65,7 +65,7 @@ MAS sets technology-risk and cyber resilience expectations for licensees through
 
 Here is the one genuine insurance obligation, and it has nothing to do with the payment services licence. Your firm employs people: compliance officers, engineers, operations staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the classes the regulations exclude.
 
-That duty is triggered by employment, not by the licence. A solo founder with no staff may fall outside it; a payment firm with a real team is almost always inside it. The mechanics of who must be covered are set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+That duty is triggered by employment, not by the licence. A solo founder with no staff may fall outside it; a payment firm with a real team is almost always inside it. The mechanics of who must be covered are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the licence does not require, but a payment firm rarely skips
 
@@ -106,10 +106,10 @@ Covarage helps with the part that quietly goes wrong: keeping the safeguarding i
 5. Are the safeguarding instrument, the WICA policy and any commercial cover documented somewhere we can produce them at renewal or on a MAS query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](https://blog.covarage.com/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
-- [Companies Act Section 157: Director Duties and the D&O Insurance Foundation](https://blog.covarage.com/document-legal/companies-act-section-157-director-duties)
-- [Regional Professional Indemnity: Cross-Border Services and Multi-Jurisdiction Practice](https://blog.covarage.com/cross-border/regional-professional-indemnity)
-- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
+- [Companies Act Section 157: Director Duties and the D&O Insurance Foundation](/document-legal/companies-act-section-157-director-duties)
+- [Regional Professional Indemnity: Cross-Border Services and Multi-Jurisdiction Practice](/cross-border/regional-professional-indemnity)
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

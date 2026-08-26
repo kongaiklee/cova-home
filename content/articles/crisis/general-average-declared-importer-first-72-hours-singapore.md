@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 514
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2199
+word_count: 2167
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/general-average-declared-importer-first-72-hours-singapore"
@@ -51,7 +51,7 @@ The deposit is provisional. The final figure is set only when the adjustment is 
 
 #### How marine cargo insurance responds
 
-If your cargo is insured, GA contribution is one of the things the policy is built to absorb. The standard Institute Cargo Clauses, ICC (A), ICC (B) and ICC (C), each contain a General Average clause covering "general average and salvage charges, adjusted or determined according to the contract of carriage and/or the governing law and practice." This is true even of the most restrictive form, ICC (C), which otherwise covers only a short list of named perils. The differences between the three clause sets are covered in our note on [choosing between ICC A, B and C](https://blog.covarage.com/comparison/marine-cargo-icc-a-b-c); on GA contribution specifically, all three respond.
+If your cargo is insured, GA contribution is one of the things the policy is built to absorb. The standard Institute Cargo Clauses, ICC (A), ICC (B) and ICC (C), each contain a General Average clause covering "general average and salvage charges, adjusted or determined according to the contract of carriage and/or the governing law and practice." This is true even of the most restrictive form, ICC (C), which otherwise covers only a short list of named perils. The differences between the three clause sets are covered in our note on [choosing between ICC A, B and C](/comparison/marine-cargo-icc-a-b-c); on GA contribution specifically, all three respond.
 
 The statutory mechanism sits in [section 73 of the MIA](https://sso.agc.gov.sg/Act/MIA1906), which deals with general average contributions, read with [section 66(4) and (5)](https://sso.agc.gov.sg/Act/MIA1906). Where the assured has paid, or is liable to pay, a general average contribution in respect of the insured subject-matter, the assured may recover it from the insurer, subject to any express provision in the policy. The effect for the importer is direct: the insurer steps into the GA obligation. Rather than make you find cash, the insurer (through your broker) issues a GA guarantee to the average adjuster, undertaking to pay your eventual contribution. The adjuster accepts the guarantee in place of a deposit, and the cargo is released.
 
@@ -63,7 +63,7 @@ The casualty itself is the shipowner's problem. Your task is narrow and time-pre
 
 **Hour 0 to 24. Confirm the declaration and find the adjuster.** You will usually learn of GA from your freight forwarder, the carrier's notice, or a demand letter from an average adjuster. Confirm three facts: that GA has been formally declared, the identity of the appointed average adjuster (the firm calculating contributions), and the security the adjuster requires. Pull your bill of lading and read the General Average clause to see which edition of the York-Antwerp Rules governs.
 
-**Hour 0 to 24. Notify your insurer or broker.** This is the single most important early move. The insurer or broker, not you, deals with the adjuster. Send them the GA declaration, the adjuster's demand, the bill of lading, and your commercial invoice and packing list establishing the cargo's insured value. If your cargo is on an annual open cover rather than a single voyage policy, the declaration mechanics matter; see [annual open cover versus specific voyage marine cargo](https://blog.covarage.com/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme).
+**Hour 0 to 24. Notify your insurer or broker.** This is the single most important early move. The insurer or broker, not you, deals with the adjuster. Send them the GA declaration, the adjuster's demand, the bill of lading, and your commercial invoice and packing list establishing the cargo's insured value. If your cargo is on an annual open cover rather than a single voyage policy, the declaration mechanics matter; see [annual open cover versus specific voyage marine cargo](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme).
 
 **Hour 24 to 48. The insurer issues the GA guarantee.** Your broker arranges for the insurer to issue a **GA guarantee** to the adjuster and for you (or the insurer) to complete the **Average Bond**. The guarantee replaces the cash deposit. Where an importer has no marine cargo cover, this is the moment the gap bites: there is no insurer to stand behind a guarantee, so the importer must wire a cash deposit or arrange a bank guarantee to free the goods.
 
@@ -87,7 +87,7 @@ The casualty itself is the shipowner's problem. Your task is narrow and time-pre
 
 If you import into Singapore on ordinary commercial bills of lading, General Average is a risk you carry on every voyage whether or not you ever think about it. The exposure is not theoretical: container-ship fires and groundings happen, and when they do, GA is declared and the lien follows.
 
-The structural protection is straightforward. Marine cargo cover on Institute Cargo Clauses terms (A, B or C) includes GA contribution, so the insurer absorbs your share and issues the guarantee that frees your goods. That single feature converts a sudden cash demand into a routine notification to your broker. The mechanics of bringing a marine cargo claim, including a GA scenario, are set out in our [step-by-step ICC claim walkthrough](https://blog.covarage.com/procedural-howto/marine-cargo-claim-with-icc).
+The structural protection is straightforward. Marine cargo cover on Institute Cargo Clauses terms (A, B or C) includes GA contribution, so the insurer absorbs your share and issues the guarantee that frees your goods. That single feature converts a sudden cash demand into a routine notification to your broker. The mechanics of bringing a marine cargo claim, including a GA scenario, are set out in our [step-by-step ICC claim walkthrough](/procedural-howto/marine-cargo-claim-with-icc).
 
 If GA has just been declared on a voyage carrying your goods, the order of operations is fixed: confirm the declaration and the appointed adjuster, notify your insurer or broker before you respond to any cash demand, let them issue the GA guarantee and complete the Average Bond, secure release against that security, and preserve the full document file for the adjustment to come.
 
@@ -102,10 +102,10 @@ If you are uninsured, the same casualty becomes a financing problem. You will ne
 5. Who do we call first, in-house or at the broker, in the first 24 hours of a GA declaration, and is that contact current?
 
 ### Related Information
-- [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](https://blog.covarage.com/comparison/marine-cargo-icc-a-b-c)
-- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](https://blog.covarage.com/procedural-howto/marine-cargo-claim-with-icc)
-- [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](https://blog.covarage.com/document-legal/marine-insurance-act-disclosure-sections-17-19)
-- [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](https://blog.covarage.com/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
-- [Regional Marine Cargo for ASEAN Trade: Single-Programme Architecture Across Multiple Jurisdictions](https://blog.covarage.com/cross-border/regional-marine-cargo-asean)
+- [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
+- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
+- [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](/document-legal/marine-insurance-act-disclosure-sections-17-19)
+- [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
+- [Regional Marine Cargo for ASEAN Trade: Single-Programme Architecture Across Multiple Jurisdictions](/cross-border/regional-marine-cargo-asean)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

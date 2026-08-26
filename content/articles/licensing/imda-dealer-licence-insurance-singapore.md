@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 484
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1974
+word_count: 1946
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/imda-dealer-licence-insurance-singapore"
@@ -46,15 +46,15 @@ That is a public-law regime. It protects the integrity of the telecommunication 
 
 Here is where a genuine insurance obligation enters, and it has nothing to do with dealing in equipment. Your business employs people: sales staff on the showroom floor, technicians who test and configure equipment, warehouse and logistics hands. As an employer, you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies" against the liabilities the employer may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-This cover is mandatory because you are an employer, not because you are an IMDA-registered dealer. A sole trader importing and reselling with no employees may fall outside the duty, while a dealer with a team of sales and technical staff will usually be squarely inside it. The trigger is employment, not the dealer regime. The detail of who exactly must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+This cover is mandatory because you are an employer, not because you are an IMDA-registered dealer. A sole trader importing and reselling with no employees may fall outside the duty, while a dealer with a team of sales and technical staff will usually be squarely inside it. The trigger is employment, not the dealer regime. The detail of who exactly must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the licence does not require, but a dealer almost always wants
 
 Several policies come up constantly for an equipment dealer, and not one of them is mandated by the dealer regime. Each maps to a real exposure the regulation leaves untouched.
 
-**Product liability** is the headline. A dealer who supplies a faulty router, charger, or handset can face a claim if that product causes injury or property damage, for example a power adapter that overheats and starts a fire. The distinction between this and public liability matters, and we lay it out in [public liability versus product liability](https://blog.covarage.com/comparison/pl-vs-product-liability). For an importer or wholesaler moving telecom stock at volume, product liability is the exposure that most often outsizes the business behind it.
+**Product liability** is the headline. A dealer who supplies a faulty router, charger, or handset can face a claim if that product causes injury or property damage, for example a power adapter that overheats and starts a fire. The distinction between this and public liability matters, and we lay it out in [public liability versus product liability](/comparison/pl-vs-product-liability). For an importer or wholesaler moving telecom stock at volume, product liability is the exposure that most often outsizes the business behind it.
 
-**Public liability** responds to injury or damage to third parties from your premises and operations, the customer who trips in the showroom, the contractor hurt during a fit-out. **Property and stock cover** protects the equipment itself, which for a dealer is both inventory and a concentration of value sitting in one location. **Cyber cover** becomes relevant the moment you sell through an online storefront, because you then hold customer payment and personal data and carry the breach exposure that comes with it; the foundational decisions for an online seller are mapped in our [e-commerce and dropshipping operator decision tree](https://blog.covarage.com/decision-tree/ecommerce-dropshipping-operator).
+**Public liability** responds to injury or damage to third parties from your premises and operations, the customer who trips in the showroom, the contractor hurt during a fit-out. **Property and stock cover** protects the equipment itself, which for a dealer is both inventory and a concentration of value sitting in one location. **Cyber cover** becomes relevant the moment you sell through an online storefront, because you then hold customer payment and personal data and carry the breach exposure that comes with it; the foundational decisions for an online seller are mapped in our [e-commerce and dropshipping operator decision tree](/decision-tree/ecommerce-dropshipping-operator).
 
 None of these is named in the Telecommunications Act as a licence condition. They are shaped by your contracts, your customers, and your own balance sheet, which is precisely why they need a deliberate decision rather than a default assumption that the licence has them covered.
 
@@ -91,9 +91,9 @@ Covarage helps with the part that quietly goes wrong: keeping the WICA policy, t
 5. Are our WICA policy, liability cover, and any property or cyber cover documented somewhere we can produce them at renewal or on a customer's request?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Public Liability vs Product Liability: What Each Actually Covers](https://blog.covarage.com/comparison/pl-vs-product-liability)
-- [SME Startup Decision Tree: E-Commerce and Dropshipping Operator](https://blog.covarage.com/decision-tree/ecommerce-dropshipping-operator)
-- [Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist](https://blog.covarage.com/decision-tree/opening-import-export-trader-checklist)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [SME Startup Decision Tree: E-Commerce and Dropshipping Operator](/decision-tree/ecommerce-dropshipping-operator)
+- [Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist](/decision-tree/opening-import-export-trader-checklist)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

@@ -9,7 +9,7 @@ agencies: ["SFA", "Singapore Statutes"]
 article_number: 472
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1845
+word_count: 1809
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/sfa-food-establishment-licence-insurance"
@@ -44,15 +44,15 @@ This matters for insurance because it defines the legal exposure. A food busines
 
 Here is the one genuine insurance mandate, and it has nothing to do with the food licence. A food establishment employs people: cooks, servers, dishwashers, delivery riders. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, for every employee within the prescribed classes.
 
-So the work-injury cover is mandatory because you employ people, not because you hold an SFA licence. Kitchens are high-exposure workplaces: burns, knife wounds, slips on wet floors, scalds. The duty follows employment and the classes the regulations prescribe. A food business with a payroll is almost always squarely inside it. We set out the detail of who must be covered in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+So the work-injury cover is mandatory because you employ people, not because you hold an SFA licence. Kitchens are high-exposure workplaces: burns, knife wounds, slips on wet floors, scalds. The duty follows employment and the classes the regulations prescribe. A food business with a payroll is almost always squarely inside it. We set out the detail of who must be covered in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the licence does not require, but a food business usually carries
 
 Three more exposures come up constantly, and the licence mandates none of them. They are risk decisions, but for most food businesses they are the ones that actually bite.
 
-**Public liability** responds to injury or property damage suffered by a third party arising from your operations: a customer who slips on a wet floor, who is scalded by spilled soup, or whose property is damaged on your premises. The mechanics of a customer slip-and-fall claim in an F&B setting are walked through in our piece on [making a public liability claim after a customer slips in an F&B outlet](https://blog.covarage.com/procedural-howto/pl-claim-customer-slip-fnb).
+**Public liability** responds to injury or property damage suffered by a third party arising from your operations: a customer who slips on a wet floor, who is scalded by spilled soup, or whose property is damaged on your premises. The mechanics of a customer slip-and-fall claim in an F&B setting are walked through in our piece on [making a public liability claim after a customer slips in an F&B outlet](/procedural-howto/pl-claim-customer-slip-fnb).
 
-**Product liability** is the one food businesses underestimate. It responds when the food itself causes harm: contamination, food poisoning, an undeclared allergen, a foreign object. A single mislabelled dish or a contamination cluster can produce multiple claimants at once. Public liability and product liability are related but distinct covers, and the difference matters at claim time; we compare them in [public liability versus product liability](https://blog.covarage.com/comparison/pl-vs-product-liability).
+**Product liability** is the one food businesses underestimate. It responds when the food itself causes harm: contamination, food poisoning, an undeclared allergen, a foreign object. A single mislabelled dish or a contamination cluster can produce multiple claimants at once. Public liability and product liability are related but distinct covers, and the difference matters at claim time; we compare them in [public liability versus product liability](/comparison/pl-vs-product-liability).
 
 **Property and fire** cover protects your own premises, kitchen equipment, stock and fit-out. Commercial kitchens carry real fire risk from cooking equipment and oil, and a fire can stop trading entirely. Business interruption cover, often bundled with property, addresses the income lost while you rebuild.
 
@@ -62,7 +62,7 @@ None of these is a licence condition. They are shaped by your lease, your contra
 
 1. **Assuming the SFA licence mandates insurance.** It is a [food-safety licence under section 32 of the Environmental Public Health Act 1987](https://sso.agc.gov.sg/Act/EPHA1987). It governs hygiene and handling, not your insurance programme.
 
-2. **Carrying public liability but skipping product liability.** A slip-and-fall is public liability; food poisoning and allergens are product liability. The two are [distinct covers](https://blog.covarage.com/comparison/pl-vs-product-liability), and the food-borne risk is often the larger one.
+2. **Carrying public liability but skipping product liability.** A slip-and-fall is public liability; food poisoning and allergens are product liability. The two are [distinct covers](/comparison/pl-vs-product-liability), and the food-borne risk is often the larger one.
 
 3. **Forgetting the WICA duty.** [Section 24 of WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) compels work-injury cover because you employ people. Kitchen injuries are common, and the duty does not depend on the food licence.
 
@@ -93,10 +93,10 @@ Covarage helps with the part that quietly goes wrong: keeping the licence, the W
 5. Are the SFA licence, the WICA policy and our liability and property cover documented somewhere we can produce them at renewal or on an inspection?
 
 ### Related Information
-- [Singapore Food Agency Licensing Tiers and Insurance Implications](https://blog.covarage.com/association/sfa-licensing-tiers-insurance)
-- [Public Liability vs Product Liability: What the Difference Means at Claim Time](https://blog.covarage.com/comparison/pl-vs-product-liability)
-- [Making a Public Liability Claim After a Customer Slips in an F&B Outlet](https://blog.covarage.com/procedural-howto/pl-claim-customer-slip-fnb)
-- [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](https://blog.covarage.com/decision-tree/opening-full-service-restaurant-checklist)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
+- [Singapore Food Agency Licensing Tiers and Insurance Implications](/association/sfa-licensing-tiers-insurance)
+- [Public Liability vs Product Liability: What the Difference Means at Claim Time](/comparison/pl-vs-product-liability)
+- [Making a Public Liability Claim After a Customer Slips in an F&B Outlet](/procedural-howto/pl-claim-customer-slip-fnb)
+- [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](/decision-tree/opening-full-service-restaurant-checklist)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

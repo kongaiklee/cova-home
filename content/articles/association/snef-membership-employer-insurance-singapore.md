@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 501
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1902
+word_count: 1866
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/snef-membership-employer-insurance-singapore"
@@ -40,7 +40,7 @@ That is why membership and compliance never collapse into one thing. An SNEF mem
 
 The anchor of any Singapore employer's insurance picture is work-injury cover, and it is compulsory by statute. [Section 24(1) of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) provides that every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated insurers, against all liabilities the employer may incur under the Act in respect of every employee, subject to the classes the regulations exclude.
 
-Two features of that wording decide your position. First, the trigger is employment. The duty is owed by an "employer" in respect of "every employee", so it follows your headcount, not your trade-body memberships. A business with staff is squarely inside it; the excluded classes are set by regulation, not by choice. Second, the cover must be an "approved" policy placed with a "designated" insurer, terms the Act defines, so any policy must meet the statutory specification, not just carry a work-injury label. We cover the mechanics of the provision in [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+Two features of that wording decide your position. First, the trigger is employment. The duty is owed by an "employer" in respect of "every employee", so it follows your headcount, not your trade-body memberships. A business with staff is squarely inside it; the excluded classes are set by regulation, not by choice. Second, the cover must be an "approved" policy placed with a "designated" insurer, terms the Act defines, so any policy must meet the statutory specification, not just carry a work-injury label. We cover the mechanics of the provision in [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 This is the cleanest illustration of the membership-versus-duty split. Whether you sit in SNEF, sit in another body, or sit in none, section 24 reaches you the moment you employ a person within its scope. Membership neither creates the duty nor discharges it.
 
@@ -48,9 +48,9 @@ This is the cleanest illustration of the membership-versus-duty split. Whether y
 
 Once the statutory floor is clear, the rest of the employer's insurance picture is a mix of separate legal regimes and commercial choices. None of them is an SNEF requirement, but owners often lump them together with membership because they all feel like "the staff side" of running a business.
 
-**Foreign worker medical cover.** If you employ Work Permit or S Pass holders, MOM imposes a separate Foreign Worker Medical Insurance duty, with its own minimum coverage and an enhanced standard phased in over recent years. This is its own statutory regime, unconnected to any association, and the detail is in [how to comply with FWMI Stage 2 requirements](https://blog.covarage.com/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore). Employers hiring foreign workers also lodge a separate MOM security bond, which is not insurance at all but a guarantee, covered in [how to obtain the MOM security bond for foreign worker hiring](https://blog.covarage.com/procedural-howto/mom-security-bond-foreign-worker-singapore).
+**Foreign worker medical cover.** If you employ Work Permit or S Pass holders, MOM imposes a separate Foreign Worker Medical Insurance duty, with its own minimum coverage and an enhanced standard phased in over recent years. This is its own statutory regime, unconnected to any association, and the detail is in [how to comply with FWMI Stage 2 requirements](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore). Employers hiring foreign workers also lodge a separate MOM security bond, which is not insurance at all but a guarantee, covered in [how to obtain the MOM security bond for foreign worker hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore).
 
-**Group health and group life as benefits.** Group hospital and surgical cover, group outpatient, group personal accident, and group term life are voluntary staff benefits, not legal requirements. Employers offer them to attract and retain people, and the choice between products is a benefits-design decision rather than a compliance one. The trade-offs are set out in [group personal accident versus group term life for SMEs](https://blog.covarage.com/comparison/group-personal-accident-vs-group-term-life-sme). SNEF, like many member bodies, may surface schemes or partner programmes to members, but those are commercial offers you can take or leave; they impose nothing.
+**Group health and group life as benefits.** Group hospital and surgical cover, group outpatient, group personal accident, and group term life are voluntary staff benefits, not legal requirements. Employers offer them to attract and retain people, and the choice between products is a benefits-design decision rather than a compliance one. The trade-offs are set out in [group personal accident versus group term life for SMEs](/comparison/group-personal-accident-vs-group-term-life-sme). SNEF, like many member bodies, may surface schemes or partner programmes to members, but those are commercial offers you can take or leave; they impose nothing.
 
 **Employment practices liability (EPL).** Claims by employees for matters such as wrongful dismissal, discrimination, or harassment sit outside the work-injury regime entirely. EPL is a commercial cover an employer may choose to manage that exposure. It is shaped by your workforce and your risk appetite, not by membership of any federation. SNEF's value here is advisory: its industrial-relations and employment-practice guidance helps you reduce the underlying disputes in the first place, which is a different thing from carrying the cover.
 
@@ -93,10 +93,10 @@ Covarage helps with the part that quietly slips: keeping the WICA policy, any fo
 5. Are our WICA policy, foreign-worker cover, and group benefits documented somewhere we can produce them at renewal or on a regulator query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](https://blog.covarage.com/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
-- [How to Obtain MOM Security Bond for Foreign Worker Hiring](https://blog.covarage.com/procedural-howto/mom-security-bond-foreign-worker-singapore)
-- [Group Personal Accident vs Group Term Life: Singapore SME Decision Framework](https://blog.covarage.com/comparison/group-personal-accident-vs-group-term-life-sme)
-- [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](https://blog.covarage.com/association/smf-manufacturing-sector-insurance-framework)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
+- [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
+- [Group Personal Accident vs Group Term Life: Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

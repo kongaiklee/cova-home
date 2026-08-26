@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 475
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2142
+word_count: 2110
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/moneylender-licence-insurance-singapore"
@@ -44,19 +44,19 @@ That power to forfeit is the point. [Section 12 of the Act](https://sso.agc.gov.
 
 Here is the one genuine insurance obligation, and it does not flow from the moneylender's licence at all. A licensed moneylender is a company that employs people: loan officers, recovery staff, administrators. As an employer, it falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved policies against the liabilities it may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-So work-injury cover is mandatory because you are an employer, not because you hold a moneylender's licence. The trigger is employment. The detail of who exactly must be covered, and which classes fall outside the duty, is set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance). Get that one right first, because it is the only policy a statute makes you carry.
+So work-injury cover is mandatory because you are an employer, not because you hold a moneylender's licence. The trigger is employment. The detail of who exactly must be covered, and which classes fall outside the duty, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). Get that one right first, because it is the only policy a statute makes you carry.
 
 #### The cyber and data exposure the licence does not name
 
 A moneylender sits on an unusually sensitive pile of personal data. To lend at all, the lender collects identity documents, income records, and borrower repayment history, and the Act itself imposes data duties: [section 69 of the Act](https://sso.agc.gov.sg/Act/MA2008) requires a licensee to maintain the confidentiality of borrower information, and [section 70](https://sso.agc.gov.sg/Act/MA2008) requires it to maintain the security and integrity of that information. Those are conduct duties, not insurance, but they mark the exposure.
 
-On top of the Act, the lender is an organisation under the [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012). [Section 24 of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012) requires an organisation to protect personal data in its possession or control by making reasonable security arrangements against unauthorised access, collection, use, disclosure or similar risks. If borrower data is breached, the lender also faces the data-breach notification duty under Part 6A of the PDPA, the mechanics of which are covered in our guide to [filing a data breach notification under PDPA Part 6A](https://blog.covarage.com/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore).
+On top of the Act, the lender is an organisation under the [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012). [Section 24 of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012) requires an organisation to protect personal data in its possession or control by making reasonable security arrangements against unauthorised access, collection, use, disclosure or similar risks. If borrower data is breached, the lender also faces the data-breach notification duty under Part 6A of the PDPA, the mechanics of which are covered in our guide to [filing a data breach notification under PDPA Part 6A](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore).
 
-None of that mandates a cyber policy. But the combination of a statutory confidentiality duty, a PDPA security duty, and a high-value target makes cyber and data-protection cover a serious commercial question for a lender, not an afterthought. When an incident lands, the first hours decide the cost, as our [cyber incident first 72 hours playbook](https://blog.covarage.com/crisis/cyber-incident-first-72-hours-singapore-sme-playbook) sets out.
+None of that mandates a cyber policy. But the combination of a statutory confidentiality duty, a PDPA security duty, and a high-value target makes cyber and data-protection cover a serious commercial question for a lender, not an afterthought. When an incident lands, the first hours decide the cost, as our [cyber incident first 72 hours playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook) sets out.
 
 #### The fidelity and property exposure: cash, dishonesty, premises
 
-The other exposure that defines a lending business is internal. A moneylender handles cash and cash-equivalent flows, and the people closest to that money are its own staff. Fidelity cover, sometimes written as employee-dishonesty or crime cover, responds to loss caused by an employee's fraudulent or dishonest acts. The Act says nothing about it, yet the risk is structural to the business model. What a discovery of staff fraud actually triggers, operationally and legally, is set out in our [crisis playbook on employee fraud discovery](https://blog.covarage.com/crisis/employee-fraud-discovery-first-24-hours-singapore).
+The other exposure that defines a lending business is internal. A moneylender handles cash and cash-equivalent flows, and the people closest to that money are its own staff. Fidelity cover, sometimes written as employee-dishonesty or crime cover, responds to loss caused by an employee's fraudulent or dishonest acts. The Act says nothing about it, yet the risk is structural to the business model. What a discovery of staff fraud actually triggers, operationally and legally, is set out in our [crisis playbook on employee fraud discovery](/crisis/employee-fraud-discovery-first-24-hours-singapore).
 
 Alongside fidelity sit the ordinary premises risks. A licensed place of business holds cash, records and equipment, which raises the question of property, burglary and public liability cover for injury or damage to visitors. Again, the [Act](https://sso.agc.gov.sg/Act/MA2008) and the [Rules](https://sso.agc.gov.sg/SL/MA2008-S72-2009) are silent. These are commercial risk decisions shaped by your premises, your cash-handling volume and your staffing, not licence conditions.
 
@@ -95,9 +95,9 @@ Covarage helps with the part that quietly goes wrong: keeping the deposit record
 5. Are the deposit records, the WICA policy and any commercial cover documented somewhere we can produce them at renewal or on a Registry query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock](https://blog.covarage.com/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
-- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](https://blog.covarage.com/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
-- [First 24 Hours After a Major Employee Fraud Discovery: A Singapore SME Crisis Playbook](https://blog.covarage.com/crisis/employee-fraud-discovery-first-24-hours-singapore)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
+- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
+- [First 24 Hours After a Major Employee Fraud Discovery: A Singapore SME Crisis Playbook](/crisis/employee-fraud-discovery-first-24-hours-singapore)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

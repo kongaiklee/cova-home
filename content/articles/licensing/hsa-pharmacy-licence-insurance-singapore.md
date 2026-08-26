@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 481
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1963
+word_count: 1943
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/hsa-pharmacy-licence-insurance-singapore"
@@ -52,7 +52,7 @@ The licensing power in [section 10](https://sso.agc.gov.sg/Act/PA1938) lets the 
 
 Here is the genuine insurance duty, and it has nothing to do with the pharmacy permits. Your pharmacy employs pharmacists, dispensing assistants, retail staff and cleaners. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers" against all liabilities the employer may incur under the Act in respect of every employee, subject to excluded classes prescribed by regulation.
 
-So work-injury cover is mandatory because you employ people, not because you hold an HSA or Poisons Act licence. An [employer who contravenes section 24](https://sso.agc.gov.sg/Act/WICA2019) commits an offence. The mechanics of who must be covered, the excluded classes and the prescribed minimums are set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance). For a pharmacy, the practical point is simple: count everyone on your payroll, confirm each is insured, and keep the cover live as you hire.
+So work-injury cover is mandatory because you employ people, not because you hold an HSA or Poisons Act licence. An [employer who contravenes section 24](https://sso.agc.gov.sg/Act/WICA2019) commits an offence. The mechanics of who must be covered, the excluded classes and the prescribed minimums are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). For a pharmacy, the practical point is simple: count everyone on your payroll, confirm each is insured, and keep the cover live as you hire.
 
 #### The cover the licence does not require, but a pharmacy plainly needs
 
@@ -103,9 +103,9 @@ Covarage helps with the part that quietly goes wrong: keeping the licences, the 
 5. Does our lease require property or other cover at a stated limit, and do our current policies meet it?
 
 ### Related Information
-- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know](https://blog.covarage.com/regulatory-change/hcsa-full-implementation-review)
-- [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](https://blog.covarage.com/decision-tree/opening-medical-clinic-specialist-practice-checklist)
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know](/regulatory-change/hcsa-full-implementation-review)
+- [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

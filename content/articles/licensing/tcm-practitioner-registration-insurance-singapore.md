@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 487
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1911
+word_count: 1883
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/tcm-practitioner-registration-insurance-singapore"
@@ -46,7 +46,7 @@ So across the Act, the registration regulations and the conduct regulations, the
 
 Here is where a genuine insurance obligation can enter, and it has nothing to do with your TCM registration. If your clinic employs people, a receptionist, an assistant, a second practitioner on your payroll, you are an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the classes the regulations exclude.
 
-That duty follows employment, not registration. A sole practitioner running a one-room clinic with no employees and no manual work may fall outside it, while a clinic with employed staff will usually be squarely inside it. The detail of who exactly must be covered, and which classes are excluded, is set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance). The point for a TCM practitioner is simple: this is the one insurance the law makes you carry, and you carry it because you employ people, not because you hold a TCM registration.
+That duty follows employment, not registration. A sole practitioner running a one-room clinic with no employees and no manual work may fall outside it, while a clinic with employed staff will usually be squarely inside it. The detail of who exactly must be covered, and which classes are excluded, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). The point for a TCM practitioner is simple: this is the one insurance the law makes you carry, and you carry it because you employ people, not because you hold a TCM registration.
 
 #### The cover registration does not require, but a treating practitioner often wants
 
@@ -54,7 +54,7 @@ Two policies come up constantly for TCM practitioners, and neither is mandated b
 
 The second is **public liability**, which responds to injury or property damage to a third party arising from your premises or operations, the classic example being a patient who slips in the clinic, or a visitor injured by equipment. The Act and its regulations are silent on both. They are commercial risk decisions, shaped by where you practise, whether you own or rent the premises, and what your landlord's or platform's contracts require, not by your place on the Register.
 
-This is worth stating plainly because registration can create a false sense of completeness. Passing the Board's test and holding a practising certificate confirms you may practise. It does nothing for you if a patient sues over a treatment outcome. That gap is exactly what professional indemnity is built to close, and the practitioner who assumes registration has it covered will find out otherwise at claim time. The clinic-level view of these exposures, premises, equipment and treatment liability together, is laid out in our [TCM clinic and acupuncture practice insurance framework](https://blog.covarage.com/edge-case/tcm-acupuncture-clinic-insurance).
+This is worth stating plainly because registration can create a false sense of completeness. Passing the Board's test and holding a practising certificate confirms you may practise. It does nothing for you if a patient sues over a treatment outcome. That gap is exactly what professional indemnity is built to close, and the practitioner who assumes registration has it covered will find out otherwise at claim time. The clinic-level view of these exposures, premises, equipment and treatment liability together, is laid out in our [TCM clinic and acupuncture practice insurance framework](/edge-case/tcm-acupuncture-clinic-insurance).
 
 ### Common Mistakes
 
@@ -62,7 +62,7 @@ This is worth stating plainly because registration can create a false sense of c
 
 2. **Assuming the conduct rules hide an indemnity condition.** The [Practice, Conduct and Ethics Regulations](https://sso.agc.gov.sg/SL/TCMPA2000-RG3) set records, display and advertising duties, not an insurance duty.
 
-3. **Confusing your registration with your clinic's licensing.** A clinic that provides certain medical services may face separate premises licensing under the Healthcare Services Act regime; registration as a practitioner and licensing of the establishment are different questions, the latter examined in our note on [whether an MOH clinic licence requires professional indemnity](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity).
+3. **Confusing your registration with your clinic's licensing.** A clinic that provides certain medical services may face separate premises licensing under the Healthcare Services Act regime; registration as a practitioner and licensing of the establishment are different questions, the latter examined in our note on [whether an MOH clinic licence requires professional indemnity](/licensing/moh-clinic-licence-professional-indemnity).
 
 4. **Treating WICA as optional for a small practice.** If you employ even one person, the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty can apply. The trigger is employment and the prescribed classes, not headcount alone.
 
@@ -91,9 +91,9 @@ Covarage helps with the part that quietly goes wrong: keeping your registration 
 5. Are my registration record, practising certificate, any WICA policy and my liability cover documented somewhere I can produce them on a Board query or at renewal?
 
 ### Related Information
-- [TCM Clinic and Acupuncture Practice Insurance: Singapore Operator Framework](https://blog.covarage.com/edge-case/tcm-acupuncture-clinic-insurance)
-- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Opening a Physiotherapy or Allied Health Practice in Singapore: Insurance Checklist](https://blog.covarage.com/decision-tree/opening-physiotherapy-allied-health-checklist)
+- [TCM Clinic and Acupuncture Practice Insurance: Singapore Operator Framework](/edge-case/tcm-acupuncture-clinic-insurance)
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Opening a Physiotherapy or Allied Health Practice in Singapore: Insurance Checklist](/decision-tree/opening-physiotherapy-allied-health-checklist)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

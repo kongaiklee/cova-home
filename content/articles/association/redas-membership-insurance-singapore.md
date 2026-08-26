@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 500
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2123
+word_count: 2079
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/redas-membership-insurance-singapore"
@@ -48,15 +48,15 @@ That is the honest position on the statute: the development licence is real and 
 
 A development is a chain of contracts, and each link tends to require cover.
 
-The building contract is the largest. When a developer engages a main contractor, the standard procurement conditions used in Singapore require the works to be insured, typically through Contractors All Risks (CAR) cover for the physical works and public liability cover for injury or damage to third parties around the site. Whether the developer or the contractor places the project CAR, and on what basis, is a structural procurement decision rather than an afterthought, explored in our note on [annual blanket CAR versus project-specific CAR for SME contractors](https://blog.covarage.com/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor). What a developer must not assume is that the contractor's policy automatically protects the developer; principal status, cross-liability, and the named-insured schedule decide that.
+The building contract is the largest. When a developer engages a main contractor, the standard procurement conditions used in Singapore require the works to be insured, typically through Contractors All Risks (CAR) cover for the physical works and public liability cover for injury or damage to third parties around the site. Whether the developer or the contractor places the project CAR, and on what basis, is a structural procurement decision rather than an afterthought, explored in our note on [annual blanket CAR versus project-specific CAR for SME contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor). What a developer must not assume is that the contractor's policy automatically protects the developer; principal status, cross-liability, and the named-insured schedule decide that.
 
-The financing is the next link. A development loan or facility almost always carries covenants requiring the completed and partly completed asset to be insured against fire and material damage, with the financier noted as an interested party. The sum insured has to track reinstatement cost, not a stale book figure, which is where developers most often fall short. The mechanics of getting that number right are set out in [reinstatement cost versus indemnity value](https://blog.covarage.com/comparison/reinstatement-cost-vs-indemnity-value-property), and the exclusions that quietly narrow an all-risks property wording are mapped in [the property all risks exclusions deep-dive](https://blog.covarage.com/comparison/property-all-risks-exclusions-deep-dive).
+The financing is the next link. A development loan or facility almost always carries covenants requiring the completed and partly completed asset to be insured against fire and material damage, with the financier noted as an interested party. The sum insured has to track reinstatement cost, not a stale book figure, which is where developers most often fall short. The mechanics of getting that number right are set out in [reinstatement cost versus indemnity value](/comparison/reinstatement-cost-vs-indemnity-value-property), and the exclusions that quietly narrow an all-risks property wording are mapped in [the property all risks exclusions deep-dive](/comparison/property-all-risks-exclusions-deep-dive).
 
-The development agreement itself may require a performance bond, where the developer is the party giving a bond to a landowner, the State, or a joint-venture counterparty as security for completing the project. A bond is not insurance: it is a guarantee the beneficiary can call. The way a beneficiary calls one, and how the giver should think about the exposure, is covered in [the performance bond claim process from the obligee perspective](https://blog.covarage.com/procedural-howto/performance-bond-claim-obligee). It belongs in the same mental column as the Housing Developers Act Project Account: a financial assurance to a counterparty, not a policy that pays you.
+The development agreement itself may require a performance bond, where the developer is the party giving a bond to a landowner, the State, or a joint-venture counterparty as security for completing the project. A bond is not insurance: it is a guarantee the beneficiary can call. The way a beneficiary calls one, and how the giver should think about the exposure, is covered in [the performance bond claim process from the obligee perspective](/procedural-howto/performance-bond-claim-obligee). It belongs in the same mental column as the Housing Developers Act Project Account: a financial assurance to a counterparty, not a policy that pays you.
 
 #### The one insurance the law makes you carry: WICA
 
-There is exactly one insurance obligation that attaches to a developer because of what it is rather than what it signs, and it has nothing to do with REDAS. A developer is an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees against the liabilities it may incur under the Act. That duty follows your headcount, not your membership and not your development licence. The scope of who must be covered, and the prescribed exclusions, are set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance). For workers on a live construction site the practical exposure is large, which is part of why the building contract and CAR arrangements sit alongside it.
+There is exactly one insurance obligation that attaches to a developer because of what it is rather than what it signs, and it has nothing to do with REDAS. A developer is an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees against the liabilities it may incur under the Act. That duty follows your headcount, not your membership and not your development licence. The scope of who must be covered, and the prescribed exclusions, are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). For workers on a live construction site the practical exposure is large, which is part of why the building contract and CAR arrangements sit alongside it.
 
 So the real picture is three layers, none of them the association. The development licence and the Project Account regulate how you sell and ring-fence money. The project contracts require CAR, public liability, property and fire, and sometimes a performance bond. Employment law requires WICA cover for your staff. REDAS sits outside all three.
 
@@ -70,7 +70,7 @@ So the real picture is three layers, none of them the association. The developme
 
 4. **Relying on the contractor's CAR without checking named-insured status.** A project policy placed by the contractor may not name the developer as a principal, leaving the developer exposed on cross-liability and subrogation.
 
-5. **Under-insuring the asset against reinstatement cost.** Financier covenants require fire and material-damage cover, but the sum insured has to reflect rebuild cost, or an [average clause](https://blog.covarage.com/comparison/reinstatement-cost-vs-indemnity-value-property) can cut the payout.
+5. **Under-insuring the asset against reinstatement cost.** Financier covenants require fire and material-damage cover, but the sum insured has to reflect rebuild cost, or an [average clause](/comparison/reinstatement-cost-vs-indemnity-value-property) can cut the payout.
 
 6. **Forgetting the WICA duty for the development entity's own staff.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows employment and is easy to overlook in a lean development company that subcontracts the build.
 
@@ -95,10 +95,10 @@ Covarage helps with the part that quietly goes wrong across a multi-year, multi-
 5. Are the licence documents, Project Account records, project policies, and bonds organised so we can produce them at a financier or regulator query?
 
 ### Related Information
-- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors](https://blog.covarage.com/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
-- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](https://blog.covarage.com/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](https://blog.covarage.com/comparison/property-all-risks-exclusions-deep-dive)
-- [Performance Bond Claim Process from the Obligee Perspective](https://blog.covarage.com/procedural-howto/performance-bond-claim-obligee)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
+- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
+- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
+- [Performance Bond Claim Process from the Obligee Perspective](/procedural-howto/performance-bond-claim-obligee)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

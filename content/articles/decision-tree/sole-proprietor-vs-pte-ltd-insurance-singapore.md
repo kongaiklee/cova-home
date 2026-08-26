@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 519
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2175
+word_count: 2151
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/sole-proprietor-vs-pte-ltd-insurance-singapore"
@@ -56,13 +56,13 @@ Incorporation solves the unlimited-liability problem and creates a different one
 
 [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sets the baseline: a director must at all times act honestly and use reasonable diligence in discharging the duties of the office, and the section makes a breach a matter of personal liability to the company for any profit made or damage suffered, on top of any penalty. A director who breaches those duties cannot hide behind the corporate veil, because the duty is the director's own, owed personally. The same Act and related insolvency law expose directors to further personal liability in specific situations, for example where a company trades while insolvent.
 
-This is the exposure **directors and officers (D&O) liability** cover is built to answer. It responds to claims against the individuals who run the company, for alleged wrongful acts in their capacity as directors or officers, and it is the cover that protects the founder-director's personal assets once incorporation has removed the unlimited-liability exposure they would have carried as a sole proprietor. The mechanics of how a D&O programme is structured, and how it sits alongside employment-practices and company-reimbursement cover, are set out in the note on [management liability packages versus standalone modules](https://blog.covarage.com/comparison/composite-management-liability-package-vs-standalone-modules-sme).
+This is the exposure **directors and officers (D&O) liability** cover is built to answer. It responds to claims against the individuals who run the company, for alleged wrongful acts in their capacity as directors or officers, and it is the cover that protects the founder-director's personal assets once incorporation has removed the unlimited-liability exposure they would have carried as a sole proprietor. The mechanics of how a D&O programme is structured, and how it sits alongside employment-practices and company-reimbursement cover, are set out in the note on [management liability packages versus standalone modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme).
 
 The trap here is the inverse of the sole proprietor's. The owner who incorporates often assumes the corporate veil has insured them. It has not. It has limited their exposure *as a shareholder* while opening a new, uninsured exposure *as a director*. A Pte Ltd with full property and liability cover but no D&O has insured the company and left the people running it personally exposed.
 
 #### The duty that does not care how you are structured: WICA
 
-One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 So the WICA line is the fixed point. Whatever structure you choose, if you employ people, this cover is not a decision. It is a legal requirement.
 
@@ -116,9 +116,9 @@ Covarage helps with the part that quietly slips: keeping the liability, D&O, and
 5. Whatever our structure, are all our employees actually covered under the WICA section 24 duty?
 
 ### Related Information
-- [From Incorporation to Growth: How Your Insurance Stack Should Evolve](https://blog.covarage.com/decision-tree/insurance-stack-stages-of-growth-singapore)
-- [Companies Act Section 157: The Director Duties That Drive D&O Cover](https://blog.covarage.com/document-legal/companies-act-section-157-director-duties)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Management Liability Package vs Standalone Modules for SMEs](https://blog.covarage.com/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [From Incorporation to Growth: How Your Insurance Stack Should Evolve](/decision-tree/insurance-stack-stages-of-growth-singapore)
+- [Companies Act Section 157: The Director Duties That Drive D&O Cover](/document-legal/companies-act-section-157-director-duties)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Management Liability Package vs Standalone Modules for SMEs](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

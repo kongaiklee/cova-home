@@ -9,7 +9,7 @@ agencies: ["ACRA", "Singapore Statutes", "MAS"]
 article_number: 490
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2640
+word_count: 2620
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/esg-greenwashing-do-liability-singapore"
@@ -46,7 +46,7 @@ Every director of a Singapore company is bound by the statutory duty in section 
 
 Greenwashing maps onto these duties in a specific way. A director who knows, or who should reasonably have known, that a public sustainability claim was unsupported, and who allowed it to be published anyway, has a diligence problem. A director who signed a tender or financing document containing an ESG representation that the company could not stand behind has a diligence problem. The legal question is not "did you personally write the claim" but "did you exercise reasonable diligence in overseeing how the company made it." For SME directors, who are often hands-on and personally sign the documents, the distance between the company's claim and the director's own conduct is short.
 
-This is the same duty framework that already underpins director exposure in adjacent areas Singapore SMEs have been warned about, including climate-disclosure obligations as they extend down-market. ([ACRA mandatory climate disclosures and the director-duty link](https://blog.covarage.com/regulatory-change/acra-climate-disclosures-mas-transition-planning-2027); [SGX listing-rule climate disclosure and director personal exposure](https://blog.covarage.com/regulatory-change/sgx-listing-rules-2024-2026-do-implications).)
+This is the same duty framework that already underpins director exposure in adjacent areas Singapore SMEs have been warned about, including climate-disclosure obligations as they extend down-market. ([ACRA mandatory climate disclosures and the director-duty link](/regulatory-change/acra-climate-disclosures-mas-transition-planning-2027); [SGX listing-rule climate disclosure and director personal exposure](/regulatory-change/sgx-listing-rules-2024-2026-do-implications).)
 
 #### False or misleading claims: the Consumer Protection (Fair Trading) Act 2003
 
@@ -96,9 +96,9 @@ The exposure is governable. It is mostly a process and oversight problem, with i
 
 **Read the ESG clauses before you sign.** When a customer's contract or a lender's facility includes an ESG representation or warranty, treat it like any other warranty. Confirm you can meet it, narrow it where it overreaches, and keep the substantiation that supports it.
 
-**Map your insurance against the exposure.** Greenwashing-style allegations against directors fall in the territory of Directors and Officers (D&O) and broader Management Liability cover. Do not assume the cover responds. Find out, in writing, whether your policy treats a misleading-disclosure or misrepresentation allegation as a covered Wrongful Act, what the regulatory-investigation cover looks like, and which exclusions (deliberate-dishonesty, fraud, regulatory-fines) could apply. For SMEs weighing a packaged versus standalone structure, the trade-offs are set out in the management-liability comparison guides. ([Composite management-liability package vs standalone modules](https://blog.covarage.com/comparison/composite-management-liability-package-vs-standalone-modules-sme); [Side A vs Side B vs Side C cover under D&O](https://blog.covarage.com/comparison/side-a-side-b-side-c-do-singapore).)
+**Map your insurance against the exposure.** Greenwashing-style allegations against directors fall in the territory of Directors and Officers (D&O) and broader Management Liability cover. Do not assume the cover responds. Find out, in writing, whether your policy treats a misleading-disclosure or misrepresentation allegation as a covered Wrongful Act, what the regulatory-investigation cover looks like, and which exclusions (deliberate-dishonesty, fraud, regulatory-fines) could apply. For SMEs weighing a packaged versus standalone structure, the trade-offs are set out in the management-liability comparison guides. ([Composite management-liability package vs standalone modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme); [Side A vs Side B vs Side C cover under D&O](/comparison/side-a-side-b-side-c-do-singapore).)
 
-**Understand the claims-made mechanics.** D&O and Management Liability are typically written on a claims-made basis. If a greenwashing complaint surfaces as a "circumstance" before it becomes a formal claim, the way and the time at which you notify the insurer can decide whether cover responds. ([How to file a notice of circumstance under a claims-made policy](https://blog.covarage.com/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore).)
+**Understand the claims-made mechanics.** D&O and Management Liability are typically written on a claims-made basis. If a greenwashing complaint surfaces as a "circumstance" before it becomes a formal claim, the way and the time at which you notify the insurer can decide whether cover responds. ([How to file a notice of circumstance under a claims-made policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore).)
 
 #### A short scenario
 

@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 504
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1859
+word_count: 1839
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sccci-membership-insurance-singapore"
@@ -48,7 +48,7 @@ What you will not find anywhere in that list is a compulsory insurance scheme or
 
 This is the point that matters, and it is worth stating without hedging. Belonging to SCCCI does not alter a single statutory insurance duty your business carries. The law that compels cover is indifferent to your chamber memberships.
 
-The clearest example is work injury compensation. [Section 24(1) of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies" against the liabilities the employer may incur under the Act, in respect of the prescribed classes of employee. That duty attaches to you because you employ people. It does not check whether you are an SCCCI member, an SBF member, a member of three chambers, or a member of none. A two-person trading firm that has never joined a chamber owes this cover exactly as much as a Chamber stalwart of thirty years. The detail of who must be covered, and the excluded classes, is set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+The clearest example is work injury compensation. [Section 24(1) of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies" against the liabilities the employer may incur under the Act, in respect of the prescribed classes of employee. That duty attaches to you because you employ people. It does not check whether you are an SCCCI member, an SBF member, a member of three chambers, or a member of none. A two-person trading firm that has never joined a chamber owes this cover exactly as much as a Chamber stalwart of thirty years. The detail of who must be covered, and the excluded classes, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 The same logic runs through every other line of cover an SME might hold. None of it flows from chamber membership:
 
@@ -95,9 +95,9 @@ The quiet failure here is the false sense of completeness that any membership ca
 5. Are all our actual policies documented somewhere we can produce them at renewal, at audit, or on a client's request?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](https://blog.covarage.com/association/smf-manufacturing-sector-insurance-framework)
-- [From Incorporation to Growth: How Your Insurance Stack Should Evolve](https://blog.covarage.com/decision-tree/insurance-stack-stages-of-growth-singapore)
-- [How to Audit Your Existing Business Insurance in 60 Minutes](https://blog.covarage.com/procedural-howto/business-insurance-audit-60-minutes-singapore)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
+- [From Incorporation to Growth: How Your Insurance Stack Should Evolve](/decision-tree/insurance-stack-stages-of-growth-singapore)
+- [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

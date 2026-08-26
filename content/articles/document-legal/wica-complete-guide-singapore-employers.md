@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 464
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1993
+word_count: 1897
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers"
@@ -22,7 +22,7 @@ og_description: "The Work Injury Compensation Act 2019 (WICA) makes a Singapore 
 >
 > The [Work Injury Compensation Act 2019 (WICA)](https://sso.agc.gov.sg/Act/WICA2019) makes a Singapore employer liable to compensate an employee who is injured or contracts a disease because of work, regardless of who was at fault. Two duties follow. First, you must **insure** that liability: [section 24](https://sso.agc.gov.sg/Act/WICA2019) requires every employer to maintain an approved WIC insurance policy with a MOM-designated insurer for every employee doing **manual work** (any salary) and every **non-manual employee earning $2,600 or less a month**, per the [MOM WIC insurance rules](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance). Second, you must **report** work accidents to MOM within 10 days and let the designated insurer process the claim.
 >
-> WICA covers three things: medical leave wages, medical expenses, and a lump sum for permanent incapacity or death, all subject to limits the Government reviews periodically (last raised on [1 November 2025](https://blog.covarage.com/regulatory-change/wica-update-nov-2025)). Get the insurance wrong and the exposure is real: failing to insure a mandatory group is an offence carrying a fine of up to $10,000 and up to 12 months' imprisonment on a first conviction. This guide walks the whole regime, and links to the detailed articles on each step.
+> WICA covers three things: medical leave wages, medical expenses, and a lump sum for permanent incapacity or death, all subject to limits the Government reviews periodically (last raised on [1 November 2025](/regulatory-change/wica-update-nov-2025)). Get the insurance wrong and the exposure is real: failing to insure a mandatory group is an offence carrying a fine of up to $10,000 and up to 12 months' imprisonment on a first conviction. This guide walks the whole regime, and links to the detailed articles on each step.
 
 ### The Sourced Detail
 
@@ -41,9 +41,9 @@ Coverage under the Act and the duty to insure are two different things. Every em
 - every employee doing **manual work**, regardless of salary; and
 - every **non-manual employee earning $2,600 or less** a month (this threshold has applied since 1 April 2021).
 
-For non-manual employees earning above $2,600, insurance is optional, but you remain liable to pay any valid claim yourself if you choose not to insure them. The mechanics of the provision are unpacked in [WICA section 24: the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+For non-manual employees earning above $2,600, insurance is optional, but you remain liable to pay any valid claim yourself if you choose not to insure them. The mechanics of the provision are unpacked in [WICA section 24: the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
-A second rule catches employers out: the policy must come from a **MOM-designated insurer**, not any insurer. Only designated insurers can write approved WIC cover, and they auto-process claims. How that list is set and why it matters is covered in [the WICA designated insurer regulations](https://blog.covarage.com/document-legal/wica-designated-insurer-regulations) and [how the MOM designated panel works](https://blog.covarage.com/comparison/wica-designated-insurer-panel).
+A second rule catches employers out: the policy must come from a **MOM-designated insurer**, not any insurer. Only designated insurers can write approved WIC cover, and they auto-process claims. How that list is set and why it matters is covered in [the WICA designated insurer regulations](/document-legal/wica-designated-insurer-regulations) and [how the MOM designated panel works](/comparison/wica-designated-insurer-panel).
 
 #### What compensation is payable
 
@@ -53,15 +53,15 @@ WICA pays three types of compensation, and understanding the shape matters more 
 - **Medical expenses**, payable by the employer up to a maximum limit or one year from the accident, whichever comes first.
 - **A lump sum for permanent incapacity or death**, computed from the employee's average monthly earnings and an age multiplying factor, between a statutory minimum and maximum.
 
-The dollar limits are reviewed to track wages and healthcare costs and were most recently increased on [1 November 2025](https://blog.covarage.com/regulatory-change/wica-update-nov-2025); always read the current figures from that update and the [MOM types of compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) rather than an old number. Because the lump sum is formula-driven, two businesses with the same headcount can face very different exposures depending on wages and ages, which is the whole reason adequate cover and accurate payroll declarations matter.
+The dollar limits are reviewed to track wages and healthcare costs and were most recently increased on [1 November 2025](/regulatory-change/wica-update-nov-2025); always read the current figures from that update and the [MOM types of compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) rather than an old number. Because the lump sum is formula-driven, two businesses with the same headcount can face very different exposures depending on wages and ages, which is the whole reason adequate cover and accurate payroll declarations matter.
 
-WICA is also not the same product as a group personal-accident plan, and the difference is frequently misunderstood at renewal. [WICA vs group personal accident](https://blog.covarage.com/comparison/wica-vs-gpa) sets out which does what, and [WICA panel cover vs a common-law / employer's liability extension](https://blog.covarage.com/comparison/wica-panel-vs-cw-el-extension) explains the gap above the WICA schedule.
+WICA is also not the same product as a group personal-accident plan, and the difference is frequently misunderstood at renewal. [WICA vs group personal accident](/comparison/wica-vs-gpa) sets out which does what, and [WICA panel cover vs a common-law / employer's liability extension](/comparison/wica-panel-vs-cw-el-extension) explains the gap above the WICA schedule.
 
 #### How a claim runs
 
 The process is now largely automated through the designated insurer. In outline: the employee is injured; the employer provides treatment and a letter of guarantee if the hospital requires it; the employer notifies MOM; the designated insurer processes the claim automatically; medical leave wages and expenses are paid; a treating doctor assesses any permanent incapacity; the insurer issues a Notice of Computation; and, absent objection within 14 days, the compensation is paid within 21 days of the Notice.
 
-The single hard deadline an employer owns is **notification**: a reportable accident must be submitted to MOM within **10 calendar days** of the employer first having notice that the employee needs hospitalisation, medical leave, or light duties. The full mechanics are in [how to file a WICA accident notification within MOM's 10-day window](https://blog.covarage.com/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore), and the end-to-end claim in [how to file a WICA claim with MOM](https://blog.covarage.com/procedural-howto/how-to-file-wica-claim-singapore-mom).
+The single hard deadline an employer owns is **notification**: a reportable accident must be submitted to MOM within **10 calendar days** of the employer first having notice that the employee needs hospitalisation, medical leave, or light duties. The full mechanics are in [how to file a WICA accident notification within MOM's 10-day window](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore), and the end-to-end claim in [how to file a WICA claim with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom).
 
 #### Penalties: what getting it wrong costs
 
@@ -72,23 +72,23 @@ The [MOM employer guide](https://www.mom.gov.sg/-/media/mom/documents/safety-hea
 - **Failure to pay** compensation: up to $15,000 and/or 12 months on a first conviction, up to $30,000 and/or 12 months thereafter.
 - **Providing false information**: up to $5,000 and/or 6 months on a first conviction.
 
-The offence of failing to insure is set out in statute at [section 25 of WICA](https://sso.agc.gov.sg/Act/WICA2019), examined in [the WICA section 25 offence](https://blog.covarage.com/document-legal/wica-section-25-offence). The practical point: an uninsured employer is not merely exposed to the claim, but to the claim plus a fine plus, in the worst case, prison.
+The offence of failing to insure is set out in statute at [section 25 of WICA](https://sso.agc.gov.sg/Act/WICA2019), examined in [the WICA section 25 offence](/document-legal/wica-section-25-offence). The practical point: an uninsured employer is not merely exposed to the claim, but to the claim plus a fine plus, in the worst case, prison.
 
 ### Common Mistakes
 
 1. **Treating contractors as outside the risk.** WICA turns on the substance of the working relationship, not the label on the invoice. Misclassifying an employee as a contractor does not remove the liability.
 
-2. **Insuring with a non-designated insurer.** Only a [MOM-designated insurer](https://blog.covarage.com/comparison/wica-designated-insurer-panel) can write approved WIC cover. A policy from anyone else does not discharge the section 24 duty.
+2. **Insuring with a non-designated insurer.** Only a [MOM-designated insurer](/comparison/wica-designated-insurer-panel) can write approved WIC cover. A policy from anyone else does not discharge the section 24 duty.
 
 3. **Under-declaring payroll or headcount.** Premiums and valid cover depend on accurate payroll and workforce data; under-declaring can let the insurer recover what it paid out from the employer.
 
-4. **Confusing WICA with group personal accident.** They are different products with different triggers. See [WICA vs GPA](https://blog.covarage.com/comparison/wica-vs-gpa).
+4. **Confusing WICA with group personal accident.** They are different products with different triggers. See [WICA vs GPA](/comparison/wica-vs-gpa).
 
 5. **Missing the 10-day notification.** The clock starts when you first have notice the employee needs hospitalisation, medical leave, or light duties, not when it is convenient.
 
 6. **Letting the policy lapse at renewal.** A lapse leaves you personally liable for any accident in the gap. Renewal discipline is the cheapest risk control you have.
 
-7. **Forgetting to update cover when the workforce changes.** New hires, new job categories, and wage changes all change the mandatory group. [Adding a new employee to an existing WICA policy](https://blog.covarage.com/procedural-howto/wica-add-new-employee) should be routine, not an afterthought.
+7. **Forgetting to update cover when the workforce changes.** New hires, new job categories, and wage changes all change the mandatory group. [Adding a new employee to an existing WICA policy](/procedural-howto/wica-add-new-employee) should be routine, not an afterthought.
 
 ### What This Means for Your Business
 
@@ -113,22 +113,22 @@ Covarage keeps the moving parts in one place: the WIC policy and schedule, the d
 ### Related Information
 
 Foundations and the law:
-- [WICA Section 24: The Mandatory Insurance Provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [WICA Section 25 Offence: Penalties for Failure to Insure](https://blog.covarage.com/document-legal/wica-section-25-offence)
-- [WICA Compensation Limit Update: What Changed on 1 November 2025](https://blog.covarage.com/regulatory-change/wica-update-nov-2025)
+- [WICA Section 24: The Mandatory Insurance Provision](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 25 Offence: Penalties for Failure to Insure](/document-legal/wica-section-25-offence)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
 
 Insurers and the panel:
-- [WICA Designated Insurer Regulations: How the MOM List Works](https://blog.covarage.com/document-legal/wica-designated-insurer-regulations)
-- [WICA Designated Insurer Panel: How It Works](https://blog.covarage.com/comparison/wica-designated-insurer-panel)
-- [MOM Designated Insurer Mechanics Under WICA 2019](https://blog.covarage.com/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [WICA Designated Insurer Regulations: How the MOM List Works](/document-legal/wica-designated-insurer-regulations)
+- [WICA Designated Insurer Panel: How It Works](/comparison/wica-designated-insurer-panel)
+- [MOM Designated Insurer Mechanics Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 
 Claims and process:
-- [How to File a WICA Accident Notification: The 10-Day MOM Window](https://blog.covarage.com/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
-- [How to File a WICA Claim with MOM: Step by Step](https://blog.covarage.com/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to File a WICA Accident Notification: The 10-Day MOM Window](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
+- [How to File a WICA Claim with MOM: Step by Step](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 Comparisons and decisions:
-- [WICA vs Group Personal Accident: Which Does My Business Need?](https://blog.covarage.com/comparison/wica-vs-gpa)
-- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension](https://blog.covarage.com/comparison/wica-panel-vs-cw-el-extension)
-- [How to Add a New Employee to an Existing WICA Policy](https://blog.covarage.com/procedural-howto/wica-add-new-employee)
+- [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
+- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension](/comparison/wica-panel-vs-cw-el-extension)
+- [How to Add a New Employee to an Existing WICA Policy](/procedural-howto/wica-add-new-employee)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

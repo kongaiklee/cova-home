@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 478
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2131
+word_count: 2087
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/public-entertainment-licence-insurance-singapore"
@@ -60,13 +60,13 @@ This is why the practical answer to "is insurance mandatory" is so often yes, ev
 
 Whether or not a condition or contract forces your hand, the underlying risks of running public entertainment are substantial, and the licence speaks to none of them.
 
-**Public liability** is the central one. Crowds, temporary structures, stages, sound and lighting rigs, and alcohol all raise the chance that an attendee is injured or property is damaged. An occupier or organiser can owe a common-law duty of care to those it invites onto a space, a duty the Court of Appeal examined in our note on [the See Toh Siew Kee occupiers' liability decision](https://blog.covarage.com/document-legal/see-toh-siew-kee-occupiers-liability). A single serious injury at a packed event can generate a claim far larger than any licence fee or bond. How public liability responds, and how it differs from product liability if you sell goods at the event, is set out in [public liability versus product liability](https://blog.covarage.com/comparison/pl-vs-product-liability).
+**Public liability** is the central one. Crowds, temporary structures, stages, sound and lighting rigs, and alcohol all raise the chance that an attendee is injured or property is damaged. An occupier or organiser can owe a common-law duty of care to those it invites onto a space, a duty the Court of Appeal examined in our note on [the See Toh Siew Kee occupiers' liability decision](/document-legal/see-toh-siew-kee-occupiers-liability). A single serious injury at a packed event can generate a claim far larger than any licence fee or bond. How public liability responds, and how it differs from product liability if you sell goods at the event, is set out in [public liability versus product liability](/comparison/pl-vs-product-liability).
 
 **Event cancellation and non-appearance** cover sits entirely outside the licence. If a headline act cancels, a permit is pulled late, or extreme weather forces an outdoor event to abandon, the organiser can lose committed costs and ticket revenue. The Act has nothing to say about this commercial risk.
 
 **Property and equipment** exposure covers hired staging, AV gear, marquees and the like against damage or loss during the run of the event.
 
-**Work injury compensation** is the one genuine statutory insurance duty in the picture, and it has nothing to do with the PE licence. If you employ staff to run the event, [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) requires you to take out and maintain approved work-injury cover for them. That duty follows employment, not the entertainment licence. The mechanics are covered in [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+**Work injury compensation** is the one genuine statutory insurance duty in the picture, and it has nothing to do with the PE licence. If you employ staff to run the event, [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) requires you to take out and maintain approved work-injury cover for them. That duty follows employment, not the entertainment licence. The mechanics are covered in [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 ### Common Mistakes
 
@@ -88,7 +88,7 @@ If you are organising public entertainment, work the question in two passes rath
 
 First, treat the **licence** as a permission and read its conditions as binding. Confirm with the [licensing officer](https://sso.agc.gov.sg/Act/PEA1958?ProvIds=pr3-) whether your event needs a PE licence at all, then read the conditions of grant line by line. If a public liability requirement or a [security bond](https://sso.agc.gov.sg/Act/PEA1958?ProvIds=pr11-) appears, it is mandatory; comply to the letter, because the [offence and cancellation provisions](https://sso.agc.gov.sg/Act/PEA1958?ProvIds=pr28-) have teeth.
 
-Second, treat the **insurance** as a risk decision shaped by your venue and your exposures, not by the Act alone. Read the booking contract: most venues require public liability at a stated limit and naming. Decide your own cover deliberately, weighing crowd size, structures, alcohol and the cancellation risk on committed costs. If you employ event staff, carry [WICA cover](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance) because you are an employer. The same logic plays out for fixed venues in our pieces on [event liability insurance for MICE and venue bookings](https://blog.covarage.com/procedural-howto/event-liability-insurance-singapore-mice-venue) and [escape room and entertainment venue cover](https://blog.covarage.com/edge-case/escape-room-entertainment-venue-insurance).
+Second, treat the **insurance** as a risk decision shaped by your venue and your exposures, not by the Act alone. Read the booking contract: most venues require public liability at a stated limit and naming. Decide your own cover deliberately, weighing crowd size, structures, alcohol and the cancellation risk on committed costs. If you employ event staff, carry [WICA cover](/document-legal/wica-section-24-mandatory-insurance) because you are an employer. The same logic plays out for fixed venues in our pieces on [event liability insurance for MICE and venue bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue) and [escape room and entertainment venue cover](/edge-case/escape-room-entertainment-venue-insurance).
 
 Covarage helps with the part that quietly goes wrong here: keeping the licence conditions, the venue's insurance requirement, the public liability certificate and any WICA policy organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 
@@ -101,10 +101,10 @@ Covarage helps with the part that quietly goes wrong here: keeping the licence c
 5. If we employ staff to run the event, is every one of them covered under our WICA section 24 policy?
 
 ### Related Information
-- [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](https://blog.covarage.com/procedural-howto/event-liability-insurance-singapore-mice-venue)
-- [Public Liability vs Product Liability: What Each Actually Covers](https://blog.covarage.com/comparison/pl-vs-product-liability)
-- [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](https://blog.covarage.com/edge-case/escape-room-entertainment-venue-insurance)
-- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](https://blog.covarage.com/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
+- [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
+- [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
+- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

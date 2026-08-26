@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 508
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2071
+word_count: 2051
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-business-federation-membership-insurance"
@@ -48,7 +48,7 @@ One clause makes the boundary explicit. [Section 11(2)](https://sso.agc.gov.sg/A
 
 Here is the obligation that membership does not touch and that most SME owners actually need to act on. The moment your company employs people, you come under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers against all liabilities that the employer may incur under this Act in respect of every employee of the employer".
 
-That duty is triggered by employment, not by SBF membership, and not by your share capital. A member company with staff owes it. A non-member company with staff owes it just the same. The SBF Act does not satisfy this obligation, does not arrange the policy for you, and does not change which of your employees fall inside the duty or the classes the regulations exclude. The detail of who must be covered, and the mechanics of the cover, are set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance). If you take one action away from this article, it is to check that obligation against your headcount, not to wonder whether your SBF subscription has quietly handled it.
+That duty is triggered by employment, not by SBF membership, and not by your share capital. A member company with staff owes it. A non-member company with staff owes it just the same. The SBF Act does not satisfy this obligation, does not arrange the policy for you, and does not change which of your employees fall inside the duty or the classes the regulations exclude. The detail of who must be covered, and the mechanics of the cover, are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). If you take one action away from this article, it is to check that obligation against your headcount, not to wonder whether your SBF subscription has quietly handled it.
 
 #### The cover membership leaves you to arrange
 
@@ -87,9 +87,9 @@ Covarage helps with the part that membership leaves untouched: keeping your WICA
 5. As our share capital or headcount changes, does anything about our insurance position need to change with it?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](https://blog.covarage.com/association/smf-manufacturing-sector-insurance-framework)
-- [Corporate Insurance Folder Structure Every Singapore SME Should Have](https://blog.covarage.com/procedural-howto/corporate-insurance-folder-structure-singapore-sme)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](https://blog.covarage.com/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
+- [Corporate Insurance Folder Structure Every Singapore SME Should Have](/procedural-howto/corporate-insurance-folder-structure-singapore-sme)
+- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

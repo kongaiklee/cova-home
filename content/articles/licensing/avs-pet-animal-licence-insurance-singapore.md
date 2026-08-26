@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 485
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2069
+word_count: 2045
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/avs-pet-animal-licence-insurance-singapore"
@@ -46,7 +46,7 @@ The same Act produces a small family of animal-business licences, and the patter
 
 Here is where a genuine insurance obligation enters, and it has nothing to do with the AVS licence. Your pet shop, boarding facility or breeding operation employs people: groomers, animal handlers, kennel staff, retail assistants. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-So the work-injury cover is mandatory because you are an employer, not because you hold an animal-business licence. The trigger is employment. A sole operator with no staff may fall outside the duty; a shop with a team of handlers and groomers will usually sit squarely inside it. Animal handling is also physical, bite-prone work, which makes the WICA duty more than a formality here. The detail of who exactly must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+So the work-injury cover is mandatory because you are an employer, not because you hold an animal-business licence. The trigger is employment. A sole operator with no staff may fall outside the duty; a shop with a team of handlers and groomers will usually sit squarely inside it. Animal handling is also physical, bite-prone work, which makes the WICA duty more than a formality here. The detail of who exactly must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the licence does not require, but an animal business badly wants
 
@@ -91,10 +91,10 @@ Covarage helps with the part that quietly goes wrong: keeping the licence, the W
 5. Are the licence, the WICA policy and any liability cover documented somewhere we can produce them at renewal or on an AVS query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Opening a Pet Grooming, Boarding, or Daycare Business in Singapore: Insurance and Regulatory Checklist](https://blog.covarage.com/decision-tree/opening-pet-grooming-boarding-checklist)
-- [Veterinary Clinic Insurance: Singapore Operator Framework](https://blog.covarage.com/edge-case/veterinary-clinic-insurance)
-- [Pet Cafe or Animal Cafe in Singapore: What Insurance Do You Actually Need?](https://blog.covarage.com/edge-case/pet-cafe-animal-cafe)
-- [Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore](https://blog.covarage.com/edge-case/pet-grooming-boutique-pet-services-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Opening a Pet Grooming, Boarding, or Daycare Business in Singapore: Insurance and Regulatory Checklist](/decision-tree/opening-pet-grooming-boarding-checklist)
+- [Veterinary Clinic Insurance: Singapore Operator Framework](/edge-case/veterinary-clinic-insurance)
+- [Pet Cafe or Animal Cafe in Singapore: What Insurance Do You Actually Need?](/edge-case/pet-cafe-animal-cafe)
+- [Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore](/edge-case/pet-grooming-boutique-pet-services-insurance)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

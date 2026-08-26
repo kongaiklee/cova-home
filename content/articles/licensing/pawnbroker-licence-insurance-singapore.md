@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "MinLaw"]
 article_number: 476
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2232
+word_count: 2200
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/pawnbroker-licence-insurance-singapore"
@@ -52,9 +52,9 @@ Running parallel to all this is the [security deposit under section 27](https://
 
 Section 26 compels cover against damage, theft or loss of pledges. It says nothing about the rest of the exposures a real pawnshop carries, and those are substantial.
 
-The first is **property and fire**. The pledges are insured under section 26, but the building, the strongroom, the safes, the CCTV and alarm systems the [Registry](https://rop.mlaw.gov.sg/information-for-pawnbrokers/) requires you to install, the renovation and the stock of any approved second-hand goods business are not pledges and need their own property cover. Fire safety obligations on the premises are a separate regime, examined in our note on the [SCDF fire safety certificate and its insurance implications](https://blog.covarage.com/licensing/scdf-fire-safety-certificate-insurance-implications).
+The first is **property and fire**. The pledges are insured under section 26, but the building, the strongroom, the safes, the CCTV and alarm systems the [Registry](https://rop.mlaw.gov.sg/information-for-pawnbrokers/) requires you to install, the renovation and the stock of any approved second-hand goods business are not pledges and need their own property cover. Fire safety obligations on the premises are a separate regime, examined in our note on the [SCDF fire safety certificate and its insurance implications](/licensing/scdf-fire-safety-certificate-insurance-implications).
 
-The second is **fidelity or commercial crime**, for theft by your own staff. A pawnshop concentrates high-value, portable, easily fenced goods and cash, handled daily by employees with access to the safe. A standard pledge policy responds to third-party theft and external loss; employee dishonesty is a distinct peril that fidelity guarantee or commercial crime cover is built for. The trigger architecture matters here, and we set out the choice in [Fidelity Guarantee and Commercial Crime: loss-discovered versus loss-sustained](https://blog.covarage.com/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore), with the claim mechanics in [how to file a fidelity guarantee claim for employee dishonesty](https://blog.covarage.com/procedural-howto/fidelity-guarantee-employee-theft-claim).
+The second is **fidelity or commercial crime**, for theft by your own staff. A pawnshop concentrates high-value, portable, easily fenced goods and cash, handled daily by employees with access to the safe. A standard pledge policy responds to third-party theft and external loss; employee dishonesty is a distinct peril that fidelity guarantee or commercial crime cover is built for. The trigger architecture matters here, and we set out the choice in [Fidelity Guarantee and Commercial Crime: loss-discovered versus loss-sustained](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore), with the claim mechanics in [how to file a fidelity guarantee claim for employee dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim).
 
 The third is **public liability**, for injury to customers or damage to third-party property arising from the shop's operations, and **cyber**, which is no longer optional for a business the [Registry](https://rop.mlaw.gov.sg/information-for-pawnbrokers/) requires to computerise its entire operation, hold customer records, and participate in electronic payment systems. None of these is a section 26 pledge policy, and none is named in the licence. They are risk decisions shaped by your premises, your headcount and your systems.
 
@@ -93,10 +93,10 @@ Covarage helps with the part that quietly goes wrong: keeping the pledge policy,
 5. Are the pledge policy, the $100,000 security instrument and any property, liability and cyber cover documented somewhere we can produce them on a Registry query or at renewal?
 
 ### Related Information
-- [Pawnshop and Pawnbroker Insurance: Singapore Operator Framework](https://blog.covarage.com/edge-case/pawnshop-pawnbroker-insurance)
-- [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore](https://blog.covarage.com/edge-case/second-hand-luxury-reseller-insurance)
-- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained](https://blog.covarage.com/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [How to File a Fidelity Guarantee Claim for Employee Dishonesty](https://blog.covarage.com/procedural-howto/fidelity-guarantee-employee-theft-claim)
-- [SCDF Fire Safety Certificate and Its Insurance Implications](https://blog.covarage.com/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [Pawnshop and Pawnbroker Insurance: Singapore Operator Framework](/edge-case/pawnshop-pawnbroker-insurance)
+- [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore](/edge-case/second-hand-luxury-reseller-insurance)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [How to File a Fidelity Guarantee Claim for Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
+- [SCDF Fire Safety Certificate and Its Insurance Implications](/licensing/scdf-fire-safety-certificate-insurance-implications)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

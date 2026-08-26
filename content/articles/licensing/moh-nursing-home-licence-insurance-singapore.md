@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 480
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2284
+word_count: 2264
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/moh-nursing-home-licence-insurance-singapore"
@@ -52,11 +52,11 @@ A bond is not insurance, and the difference is the same one that catches operato
 
 Here is the genuine insurance obligation, and it has nothing to do with the HCSA licence. A nursing home employs people: nurses, healthcare assistants, therapists, kitchen and housekeeping staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which states that "every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers against all liabilities that the employer may incur under this Act in respect of every employee of the employer".
 
-Care work is physical and exposed: manual handling and lifting of residents, slips, needlestick and sharps injuries, and the musculoskeletal strain that comes with moving dependent patients. Those are exactly the injuries WICA is built to compensate, and the duty to insure is mandatory because you are an employer, not because you hold a healthcare licence. The scope of who must be covered, and the limited excluded classes, is set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance). A nursing home with a full care team will sit squarely inside that duty.
+Care work is physical and exposed: manual handling and lifting of residents, slips, needlestick and sharps injuries, and the musculoskeletal strain that comes with moving dependent patients. Those are exactly the injuries WICA is built to compensate, and the duty to insure is mandatory because you are an employer, not because you hold a healthcare licence. The scope of who must be covered, and the limited excluded classes, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). A nursing home with a full care team will sit squarely inside that duty.
 
 #### The cover the licence does not force, but the setting demands
 
-Three further policies come up for every care operator, and none of them is mandated by the HCSA on its face. The first is **medical malpractice and professional indemnity**, which responds to claims that clinical or care services were negligent: a medication error, a fall arising from inadequate supervision, a pressure injury said to flow from substandard care, or alleged failures in clinical governance. In a residential setting caring for frail, dependent and often cognitively impaired residents, this is the exposure that keeps operators up at night, yet the Act does not set a sum insured for it. How professional indemnity responds to care and clinical claims is covered in our note on the [MOH clinic licence and professional indemnity](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity), and the same logic carries across to residential care.
+Three further policies come up for every care operator, and none of them is mandated by the HCSA on its face. The first is **medical malpractice and professional indemnity**, which responds to claims that clinical or care services were negligent: a medication error, a fall arising from inadequate supervision, a pressure injury said to flow from substandard care, or alleged failures in clinical governance. In a residential setting caring for frail, dependent and often cognitively impaired residents, this is the exposure that keeps operators up at night, yet the Act does not set a sum insured for it. How professional indemnity responds to care and clinical claims is covered in our note on the [MOH clinic licence and professional indemnity](/licensing/moh-clinic-licence-professional-indemnity), and the same logic carries across to residential care.
 
 The second is **public liability**, for injury or property damage to visitors, families and other third parties on the premises. A care home has a constant stream of visitors moving through communal areas, and a slip, a fall or a scald can become a third-party claim. The third is **property and fire** cover for the building, contents and the specialised equipment a home depends on: beds, hoists, oxygen and other clinical kit. A fire or flood that takes a wing out of use is both a property loss and an operational crisis for residents who cannot simply be sent home.
 
@@ -99,8 +99,8 @@ Covarage helps with the part that quietly goes wrong: keeping the licence and it
 5. Are the licence and its conditions, the WICA policy, and our liability and property cover documented somewhere we can produce them at renewal or on an MOH query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity)
-- [Eldercare Day Centre Insurance in Singapore](https://blog.covarage.com/edge-case/eldercare-day-centre)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
+- [Eldercare Day Centre Insurance in Singapore](/edge-case/eldercare-day-centre)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

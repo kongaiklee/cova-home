@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 502
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 1846
+word_count: 1814
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/ras-membership-fnb-insurance-singapore"
@@ -38,7 +38,7 @@ This matters because the membership card can create a false sense of completenes
 
 #### The licensing that actually governs a food business
 
-The real gatekeeper is licensing. Operating a food establishment in Singapore requires a licence. The licensing power for food establishments, markets and hawkers sits in the [Environmental Public Health Act 1987](https://sso.agc.gov.sg/Act/EPHA1987), under which food establishments must be licensed and hawkers operating from stalls must be separately licensed. Administered today by the Singapore Food Agency, this is the regime that decides whether you can open the doors at all. For how the licence tiers map to cover, see our note on [SFA licensing tiers and insurance implications](https://blog.covarage.com/association/sfa-licensing-tiers-insurance).
+The real gatekeeper is licensing. Operating a food establishment in Singapore requires a licence. The licensing power for food establishments, markets and hawkers sits in the [Environmental Public Health Act 1987](https://sso.agc.gov.sg/Act/EPHA1987), under which food establishments must be licensed and hawkers operating from stalls must be separately licensed. Administered today by the Singapore Food Agency, this is the regime that decides whether you can open the doors at all. For how the licence tiers map to cover, see our note on [SFA licensing tiers and insurance implications](/association/sfa-licensing-tiers-insurance).
 
 Layered on top is the [Sale of Food Act 1973](https://sso.agc.gov.sg/Act/SFA1973), the food-safety statute. It prohibits the sale of food that is unsound, unwholesome, contaminated or unfit, and regulates labelling, packaging and food-contact materials. These are not insurance rules, but they define your liability exposure. A breach that injures a customer, a contamination event, or a mislabelled allergen is precisely the kind of incident that public liability and product liability cover are built to respond to. The statute sets the standard; the policy responds when the standard is breached and someone is harmed.
 
@@ -52,7 +52,7 @@ For a Singapore F&B business, four exposures do the real work, and none of them 
 
 **Public liability.** Restaurants invite the public onto their premises, which is the classic public liability exposure: a customer slips, is scalded, or is injured by falling fixtures. No statute compels public liability for a standalone restaurant, but landlords almost always do as a tenancy condition, and shopping-mall and food-court operators routinely require it before you can occupy a unit. The contract, not RAS, is what binds you.
 
-**Product liability.** This is the F&B-specific edge. When the harm comes from the food itself, food poisoning, an undeclared allergen, foreign matter in a dish, the relevant cover is product liability rather than premises public liability. The two are often confused and sometimes bundled, but they respond to different events. Our explainer on [public liability versus product liability](https://blog.covarage.com/comparison/pl-vs-product-liability) sets out exactly which one answers which claim, and why an F&B operator needs to be clear that serving food is a product-liability exposure, not only a premises one.
+**Product liability.** This is the F&B-specific edge. When the harm comes from the food itself, food poisoning, an undeclared allergen, foreign matter in a dish, the relevant cover is product liability rather than premises public liability. The two are often confused and sometimes bundled, but they respond to different events. Our explainer on [public liability versus product liability](/comparison/pl-vs-product-liability) sets out exactly which one answers which claim, and why an F&B operator needs to be clear that serving food is a product-liability exposure, not only a premises one.
 
 **Property and fire.** A commercial kitchen runs gas, open flame, deep fryers and electrical load, which makes fire a live risk. Property and fire cover protects your fit-out, equipment and stock, and is typically required by your landlord and by any lender financing your build-out. The fire-safety obligations that sit behind this risk flow from the building and fire-safety regime enforced by SCDF, not from any trade body.
 
@@ -78,7 +78,7 @@ If you run or are opening an F&B business, separate the two questions cleanly: s
 
 Treat **RAS membership** purely on its merits as a business decision: advocacy, events, awards, peer network and any member discounts. Decide it the way you would any subscription. It carries no compliance weight either way.
 
-Treat **insurance** as a function of law and contract. Confirm your WICA cover is in place for every employee, because that is the one the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) makes mandatory. Read your tenancy agreement for the public liability and property requirements your landlord imposes. Make sure you hold product liability for the food itself, not only premises public liability. Confirm property and fire cover matches your fit-out and equipment value and satisfies any lender. For the full opening sequence, our [full-service restaurant insurance checklist](https://blog.covarage.com/decision-tree/opening-full-service-restaurant-checklist) walks the licence-to-cover path end to end. If your menu or supply chain carries contamination or recall risk, the [Food Safety and Security Act 2025 changes](https://blog.covarage.com/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability) are worth reading alongside.
+Treat **insurance** as a function of law and contract. Confirm your WICA cover is in place for every employee, because that is the one the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) makes mandatory. Read your tenancy agreement for the public liability and property requirements your landlord imposes. Make sure you hold product liability for the food itself, not only premises public liability. Confirm property and fire cover matches your fit-out and equipment value and satisfies any lender. For the full opening sequence, our [full-service restaurant insurance checklist](/decision-tree/opening-full-service-restaurant-checklist) walks the licence-to-cover path end to end. If your menu or supply chain carries contamination or recall risk, the [Food Safety and Security Act 2025 changes](/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability) are worth reading alongside.
 
 Covarage helps with the part that quietly slips: keeping the food licence, the WICA policy, the public and product liability cover and the property schedule organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 
@@ -92,9 +92,9 @@ Covarage helps with the part that quietly slips: keeping the food licence, the W
 6. Are the food licence, the WICA policy and all liability and property cover documented somewhere we can produce them at renewal or on an inspection?
 
 ### Related Information
-- [Singapore Food Agency Licensing Tiers and Insurance Implications](https://blog.covarage.com/association/sfa-licensing-tiers-insurance)
-- [Public Liability vs Product Liability: What Each Actually Covers](https://blog.covarage.com/comparison/pl-vs-product-liability)
-- [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](https://blog.covarage.com/decision-tree/opening-full-service-restaurant-checklist)
-- [Food Safety and Security Act 2025 Tranche 1: F&B Product Liability, Recall, and Contamination Cover Implications](https://blog.covarage.com/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability)
+- [Singapore Food Agency Licensing Tiers and Insurance Implications](/association/sfa-licensing-tiers-insurance)
+- [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](/decision-tree/opening-full-service-restaurant-checklist)
+- [Food Safety and Security Act 2025 Tranche 1: F&B Product Liability, Recall, and Contamination Cover Implications](/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

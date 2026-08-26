@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 479
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2203
+word_count: 2163
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/hotel-keeper-licence-insurance-singapore"
@@ -42,17 +42,17 @@ The reach of the regime matters before you decide it does not apply to you. [Sec
 
 Here a genuine insurance obligation enters, and it has nothing to do with the hotel-keeper's licence. A hotel employs people: front desk, housekeeping, kitchen, maintenance, security. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the classes the regulations exclude. Housekeeping and kitchen roles in particular involve manual work, which keeps them well inside the duty.
 
-The trigger is employment, not the hotel-keeper's licence. A serviced apartment run by a sole owner with no staff and no manual workers may fall outside the section 24 duty, while any staffed hotel will be inside it. The detail of who exactly must be covered is in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+The trigger is employment, not the hotel-keeper's licence. A serviced apartment run by a sole owner with no staff and no manual workers may fall outside the section 24 duty, while any staffed hotel will be inside it. The detail of who exactly must be covered is in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the licence does not require, but a hotel almost always needs
 
 Three further exposures come up constantly, and the licence mandates none of them. They are commercial risk decisions, often forced by a landlord's lease or a bank's loan rather than by the Board.
 
-The first is **property and fire**. A hotel is a large physical asset full of furnishings, fittings, and guest belongings, and a fire or flood can take the building out of service entirely. The lease or mortgage typically requires the building to be insured for reinstatement, and the difference between insuring on a fire policy and a property all risks basis is not trivial, as set out in our piece on [fire insurance versus property all risks](https://blog.covarage.com/comparison/fire-vs-par). None of this is in the Hotels Act. It is the lease, the lender, and your own balance sheet that drive it.
+The first is **property and fire**. A hotel is a large physical asset full of furnishings, fittings, and guest belongings, and a fire or flood can take the building out of service entirely. The lease or mortgage typically requires the building to be insured for reinstatement, and the difference between insuring on a fire policy and a property all risks basis is not trivial, as set out in our piece on [fire insurance versus property all risks](/comparison/fire-vs-par). None of this is in the Hotels Act. It is the lease, the lender, and your own balance sheet that drive it.
 
-The second is **public liability**. A hotel invites the public onto its premises every day, which is exactly the exposure public liability cover answers: a guest slips in the lobby, is injured by a falling fixture, or has property damaged by the hotel's operations. The Act is silent, but the claim is real, and the first hours after a guest is hurt are when the response either holds or unravels, as our [customer bodily injury playbook](https://blog.covarage.com/crisis/customer-bodily-injury-premises-first-48-hours-singapore) shows. Connected to this is the hotel-keeper's responsibility for guests' property. The [Hotels Licensing Regulations 1974](https://sso.agc.gov.sg/SL/HA1954-RG1) require a register of property left on the premises, which signals how routinely guests' belongings pass into the hotel's care. That responsibility is a liability exposure, not a licence condition, and no policy is compelled to meet it.
+The second is **public liability**. A hotel invites the public onto its premises every day, which is exactly the exposure public liability cover answers: a guest slips in the lobby, is injured by a falling fixture, or has property damaged by the hotel's operations. The Act is silent, but the claim is real, and the first hours after a guest is hurt are when the response either holds or unravels, as our [customer bodily injury playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore) shows. Connected to this is the hotel-keeper's responsibility for guests' property. The [Hotels Licensing Regulations 1974](https://sso.agc.gov.sg/SL/HA1954-RG1) require a register of property left on the premises, which signals how routinely guests' belongings pass into the hotel's care. That responsibility is a liability exposure, not a licence condition, and no policy is compelled to meet it.
 
-The third is **business interruption**. When a fire or flood closes a wing or the whole hotel, the lost room revenue continues to bite long after the building work starts. Business interruption cover is designed to bridge that gap, and how it pairs with the underlying property damage policy is worth understanding before you need it, which our [business interruption worked example](https://blog.covarage.com/comparison/bi-vs-cbi-worked-example) walks through. Again, prudent, frequently contractually required, never a licence condition.
+The third is **business interruption**. When a fire or flood closes a wing or the whole hotel, the lost room revenue continues to bite long after the building work starts. Business interruption cover is designed to bridge that gap, and how it pairs with the underlying property damage policy is worth understanding before you need it, which our [business interruption worked example](/comparison/bi-vs-cbi-worked-example) walks through. Again, prudent, frequently contractually required, never a licence condition.
 
 This is worth stating plainly because a clean licence can create a false sense of completeness. Satisfying the Board that your premises are sound and your manager is fit and proper does nothing for the hotel when a guest sues over an injury or a fire empties the building. That gap is exactly what property, public liability, and business interruption cover are built to close, and the operator who assumes the licence has it handled will find out otherwise at claim time.
 
@@ -78,7 +78,7 @@ Treat the **licence** as a registration and character matter. Confirm the premis
 
 Treat **WICA** as the one insurance the law makes you carry, and carry it because you employ people. Check your roster against the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty and the excluded classes, pay attention to your manual staff, and keep the cover current as you hire seasonal help.
 
-Treat **property and fire, public liability, and business interruption** as risk decisions, not compliance. Read your lease and loan documents: most landlords and lenders require building cover for reinstatement and public liability at a set limit, and the contract, not the Hotels Act, is what obliges you. For a hotel-specific walkthrough of the cover stack, see our [boutique hotel and hostel insurance framework](https://blog.covarage.com/edge-case/boutique-hotel-hostel-insurance).
+Treat **property and fire, public liability, and business interruption** as risk decisions, not compliance. Read your lease and loan documents: most landlords and lenders require building cover for reinstatement and public liability at a set limit, and the contract, not the Hotels Act, is what obliges you. For a hotel-specific walkthrough of the cover stack, see our [boutique hotel and hostel insurance framework](/edge-case/boutique-hotel-hostel-insurance).
 
 Covarage helps with the part that quietly goes wrong: keeping the registration, the licence, the WICA policy, and the property, liability, and business interruption cover organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 
@@ -91,10 +91,10 @@ Covarage helps with the part that quietly goes wrong: keeping the registration, 
 5. Are the registration, the licence, the WICA policy, and the property and liability cover documented somewhere we can produce them at renewal or on a Board inspection?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Boutique Hotel and Hostel Insurance: Singapore Operator Framework](https://blog.covarage.com/edge-case/boutique-hotel-hostel-insurance)
-- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](https://blog.covarage.com/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
-- [Fire Insurance vs Property All Risks (PAR): What's the Difference?](https://blog.covarage.com/comparison/fire-vs-par)
-- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example](https://blog.covarage.com/comparison/bi-vs-cbi-worked-example)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Boutique Hotel and Hostel Insurance: Singapore Operator Framework](/edge-case/boutique-hotel-hostel-insurance)
+- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
+- [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example](/comparison/bi-vs-cbi-worked-example)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

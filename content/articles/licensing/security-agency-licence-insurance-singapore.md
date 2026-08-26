@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 473
 published: "2026-05-31"
 source_verified: "2026-05-31"
-word_count: 2031
+word_count: 2011
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/security-agency-licence-insurance-singapore"
@@ -46,7 +46,7 @@ This is the accurate, and slightly uncomfortable, position. An agency can hold a
 
 Here is where a genuine, non-negotiable insurance obligation enters, and it has nothing to do with the security agency's licence. Your agency employs security officers, and likely operations, scheduling, and administrative staff as well. As an employer, you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which provides that "every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers against all liabilities that the employer may incur under this Act in respect of every employee of the employer".
 
-For a security agency this is not a marginal duty. Security officers work alone, at night, at site perimeters, on patrol, and in the path of trespassers and aggressors. Singapore law takes the risk to them seriously enough that the Act creates specific offences for [assaulting a security officer under section 17A](https://sso.agc.gov.sg/Act/PSIA2007) and [causing hurt to one under section 17B](https://sso.agc.gov.sg/Act/PSIA2007). The same exposure that justifies those protections is exactly the exposure WICA cover exists to fund when an officer is injured on duty. The trigger for the cover is employment, not the licence, but for a guarding business the two travel together: the moment you deploy a licensed officer you employ, the WICA duty bites. The mechanics of who must be covered are set out in our note on [WICA section 24, the mandatory insurance provision](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance).
+For a security agency this is not a marginal duty. Security officers work alone, at night, at site perimeters, on patrol, and in the path of trespassers and aggressors. Singapore law takes the risk to them seriously enough that the Act creates specific offences for [assaulting a security officer under section 17A](https://sso.agc.gov.sg/Act/PSIA2007) and [causing hurt to one under section 17B](https://sso.agc.gov.sg/Act/PSIA2007). The same exposure that justifies those protections is exactly the exposure WICA cover exists to fund when an officer is injured on duty. The trigger for the cover is employment, not the licence, but for a guarding business the two travel together: the moment you deploy a licensed officer you employ, the WICA duty bites. The mechanics of who must be covered are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
 
 #### The cover the licence does not require, but a guarding business usually wants
 
@@ -56,7 +56,7 @@ The first is **public liability**, which responds to claims for injury to third 
 
 The second is **professional indemnity**, which responds to claims that the agency was negligent in the security service it provided, for example a failure to detect or respond that lets a loss occur on a client's premises, or mishandled access control. Because security is a service sold on judgment and vigilance, an alleged failure of that service is a professional liability, and professional indemnity is the cover built to answer it. Again, the Act does not require it.
 
-Both are commercial risk decisions, not licence conditions. And both are frequently driven by the client rather than the regulator. Building owners, malls, and corporate clients routinely require their security contractor to hold public liability and professional indemnity at a stated limit, named in the service contract. When that happens, the obligation is real, but it flows from the contract, not from the Private Security Industry Act. The fuller setup picture, including the operational and licensing steps, sits in our [checklist for opening a private security firm or security agency](https://blog.covarage.com/decision-tree/opening-private-security-firm-checklist).
+Both are commercial risk decisions, not licence conditions. And both are frequently driven by the client rather than the regulator. Building owners, malls, and corporate clients routinely require their security contractor to hold public liability and professional indemnity at a stated limit, named in the service contract. When that happens, the obligation is real, but it flows from the contract, not from the Private Security Industry Act. The fuller setup picture, including the operational and licensing steps, sits in our [checklist for opening a private security firm or security agency](/decision-tree/opening-private-security-firm-checklist).
 
 ### Common Mistakes
 
@@ -93,8 +93,8 @@ Covarage helps with the part that quietly goes wrong: keeping the licence, the W
 5. Are the licence, the WICA policy, and any liability cover documented somewhere we can produce them on a PLRD query or a client audit?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](https://blog.covarage.com/document-legal/wica-section-24-mandatory-insurance)
-- [Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist](https://blog.covarage.com/decision-tree/opening-private-security-firm-checklist)
-- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](https://blog.covarage.com/licensing/moh-clinic-licence-professional-indemnity)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-private-security-firm-checklist)
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
 
 *Published 31 May 2026. Source verified 31 May 2026.*
