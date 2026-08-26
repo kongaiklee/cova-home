@@ -2,9 +2,8 @@ import { Link } from 'react-router-dom';
 import { WRAP } from './Sections';
 
 /**
- * Site footer, shared by the lander, the blog and the legal pages. One status line, the entity
- * line, the document versions. `Contact` is a label until its page exists - never a `#` link,
- * which the router resolves to the current page.
+ * Site footer, shared by the lander, the blog, the legal pages and the 404. One status line,
+ * the entity line, the document versions. Five links, in the artboards' order.
  */
 export default function LandingFooter() {
   const link = 'text-[13px] font-medium text-text-primary no-underline hover:text-primary';
@@ -19,7 +18,8 @@ export default function LandingFooter() {
         <Link to="/blog" className={link}>Guides</Link>
         <Link to="/privacy" className={link}>Privacy Policy</Link>
         <Link to="/terms" className={link}>Terms of Use</Link>
-        <span className="text-[13px] font-medium text-text-primary">Contact</span>
+        <Link to="/contact" className={link}>Contact</Link>
+        <Link to="/careers" className={link}>Careers</Link>
       </nav>
       <p className={`${fine} mb-2.5 max-w-[90ch]`}>
         Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.
