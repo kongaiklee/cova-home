@@ -69,10 +69,25 @@ export function Chase() {
     <section className="border-b border-border-primary bg-white">
       <div className={`${WRAP} grid gap-4 py-[52px] lg:grid-cols-2 lg:items-end lg:gap-16 lg:py-24`}>
         <div>
-          <h2 className="m-0 mb-1.5 font-serif text-[26px]/[1.12] tracking-[-0.8px] text-text-secondary lg:mb-2 lg:text-[40px]/[1.1] lg:tracking-[-1.3px]">Agent not calling back?</h2>
-          <h2 className={`${H2} text-4xl/[1.06] tracking-[-1.2px] lg:text-[52px]/[1.05] lg:tracking-[-1.8px]`}>We chase. You don't have to.</h2>
+          <h2 className="m-0 mb-1.5 font-serif text-[26px]/[1.12] tracking-[-0.8px] text-text-secondary lg:mb-2 lg:text-[40px]/[1.1] lg:tracking-[-1.3px]">Waiting for an answer?</h2>
+          <h2 className={`${H2} text-4xl/[1.06] tracking-[-1.2px] lg:text-[52px]/[1.05] lg:tracking-[-1.8px]`}>We follow up, so you don't have to.</h2>
         </div>
         <p className="m-0 text-lg/[1.4] font-medium text-primary lg:mb-1.5 lg:text-[22px]">A reply in 24 hours, or a new adviser.</p>
+      </div>
+    </section>
+  );
+}
+
+/** 7B. The founder note - one quiet centred passage, the mark as the founder's sign. No card, no band, no CTA. */
+export function FounderNote() {
+  return (
+    <section className="border-b border-border-primary">
+      <div className={`${WRAP} py-[52px] text-center lg:py-[88px]`}>
+        <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" className="inline-block size-[26px] text-primary-extended lg:size-[30px]" aria-hidden>
+          <path d="M9.48744 14.9716C8.2864 15.415 7.64155 16.5757 7.61737 17.7203C7.59319 18.9617 8.27028 20.1466 9.46326 20.598C10.5676 21.0252 11.6155 21.4121 12.6553 21.9602C14.9364 23.1612 16.734 24.9265 17.9672 27.1916C18.5557 28.2717 18.9668 29.3518 19.394 30.5045C19.8212 31.6572 20.99 32.3907 22.191 32.3987C23.3921 32.4068 24.6173 31.7136 25.0687 30.4884C25.512 29.2873 25.9473 28.1669 26.5679 27.0545C28.5347 23.532 31.5011 21.7345 35.3702 20.4851C33.9354 29.779 25.5684 36.2598 16.339 35.5102C7.10955 34.7605 0.0242436 27.0626 6.17133e-05 17.8332C-0.0241202 8.60372 7.06119 0.865503 16.2503 0.0674989C25.512 -0.738566 33.9354 5.75831 35.3782 15.0845C31.5252 13.8431 28.5831 12.0698 26.6082 8.57954C25.9876 7.47523 25.5362 6.3548 25.109 5.16183C24.6737 3.92855 23.5291 3.20309 22.2877 3.17891C21.0464 3.15473 19.8615 3.856 19.402 5.07316C19.0151 6.11298 18.6443 7.09638 18.1365 8.08784C16.9355 10.4254 15.146 12.2794 12.8407 13.5288C11.7605 14.1172 10.6804 14.5283 9.4955 14.9716H9.48744Z" fill="currentColor" />
+        </svg>
+        <h2 className={`${H2} mx-auto mt-[18px] mb-3.5 max-w-[24ch] text-[28px]/[1.15] tracking-[-0.9px] lg:mt-[22px] lg:mb-[18px] lg:text-4xl/[1.1] lg:tracking-[-1.1px]`}>You shouldn't have to manage insurance alone.</h2>
+        <p className="mx-auto m-0 max-w-[52ch] text-base/[1.6] text-text-secondary lg:text-lg">We built Covarage to give growing businesses someone who keeps track, follows through and makes sure the right people are paying attention.</p>
       </div>
     </section>
   );
@@ -117,7 +132,7 @@ export function Onboarding() {
       <div className={`${WRAP} grid gap-6 py-[52px] lg:grid-cols-2 lg:items-center lg:gap-16 lg:py-24`}>
         <div>
           <h2 className={`${H2} mb-3.5 max-w-[18ch] text-[30px]/[1.12] tracking-[-1px] lg:mb-5 lg:text-[42px]/[1.1] lg:tracking-[-1.4px]`}>Every account is opened by our team.</h2>
-          <p className="m-0 mb-3.5 max-w-[46ch] text-base/[1.6] text-text-secondary lg:mb-[18px] lg:text-lg">We open your account, sit down with you, and load what you already hold. Every policy, every certificate, your employee list.</p>
+          <p className="m-0 mb-3.5 max-w-[46ch] text-base/[1.6] text-text-secondary lg:mb-[18px] lg:text-lg">We set everything up with you - every policy, certificate and renewal date - so you start with a complete picture of what you hold.</p>
           <p className="m-0 text-lg/[1.4] font-medium text-primary lg:text-xl">The vault is complete on day one.</p>
         </div>
         <img src={`${IMG}/pg-img05-onboarding.jpg`} alt="" className="block h-[200px] w-full rounded-xl object-cover lg:h-[340px]" loading="lazy" />
@@ -131,7 +146,7 @@ export function Money() {
   return (
     <section className="border-b border-border-primary bg-white">
       <div className={`${WRAP} py-[52px] lg:py-24`}>
-        <h2 className={`${H2} mb-3.5 text-[28px]/[1.12] tracking-[-0.9px] lg:mb-[18px] lg:text-[34px]/[1.1] lg:tracking-[-1px]`}>We only win when you do.</h2>
+        <h2 className={`${H2} mb-3.5 text-[28px]/[1.12] tracking-[-0.9px] lg:mb-[18px] lg:text-[34px]/[1.1] lg:tracking-[-1px]`}>Built to work in your interest.</h2>
         <p className="m-0 max-w-[58ch] text-base/[1.6] text-text-primary lg:text-lg">Free for your business while we are in early access. The intermediary pays us an introduction fee out of its own commission. <strong className="font-semibold">No insurer pays us anything.</strong></p>
       </div>
     </section>

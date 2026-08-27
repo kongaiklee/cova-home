@@ -28,7 +28,7 @@ export function Stake() {
     <section className="bg-primary-extended text-white">
       <div className={`${WRAP} py-[52px] lg:py-[88px]`}>
         <div className="mb-7 grid gap-3.5 lg:mb-14 lg:grid-cols-2 lg:gap-16">
-          <h2 className="m-0 font-serif text-[30px]/[1.1] tracking-[-1px] text-balance lg:text-[40px]/[1.08] lg:tracking-[-1.4px]">Most policies renew without anyone asking whether the business changed.</h2>
+          <h2 className="m-0 font-serif text-[30px]/[1.1] tracking-[-1px] text-balance lg:text-[40px]/[1.08] lg:tracking-[-1.4px]">When your business changes, your cover gets another look.</h2>
           <p className="m-0 max-w-[44ch] text-base/[1.55] text-[#c2d4e2] lg:mt-1.5 lg:text-[19px]/[1.5]">Your headcount moved. You took a second unit. You signed a contract with a new indemnity. <strong className="font-semibold text-white">The policy renewed anyway.</strong></p>
         </div>
         <div className="grid gap-[22px] border-t border-white/14 pt-[26px] lg:grid-cols-3 lg:gap-12 lg:pt-11">

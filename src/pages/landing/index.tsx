@@ -7,7 +7,7 @@ import { frameRequestArrival } from './requestFraming';
 import { Problem, Proof, Stake, TradeLine } from './Sections';
 import Trades from './Trades';
 import Guides from './Guides';
-import { Chase, Close, HowItWorks, Money, Onboarding, Renewal, WhatYouGet } from './Sections2';
+import { Chase, Close, FounderNote, HowItWorks, Money, Onboarding, Renewal, WhatYouGet } from './Sections2';
 import Rotator from './Rotator';
 import LandingFooter from './LandingFooter';
 
@@ -23,7 +23,7 @@ export default function LandingPage() {
     <div className="bg-background-primary text-text-primary">
       <Seo
         title="Covarage: Your insurance team, without the insurance department"
-        description="A named adviser who knows your company, a review at every renewal, and someone who chases so you never have to. Free for your business while we are in early access."
+        description="A named adviser who knows your company, a review at every renewal, and someone who follows up so you never have to. Free for your business while we are in early access."
         path="/"
       />
       <LanderHeader />
@@ -37,6 +37,7 @@ export default function LandingPage() {
       <WhatYouGet />
       <Renewal />
       <Chase />
+      <FounderNote />
       <HowItWorks />
       <Onboarding />
       <Rotator />

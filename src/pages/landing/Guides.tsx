@@ -16,7 +16,7 @@ export default function Guides() {
   return (
     <section className="border-b border-border-primary bg-white">
       <div className={`${WRAP} py-[52px] lg:py-24`}>
-        <h2 className={`${H2} mb-2.5 max-w-[24ch] text-[30px]/[1.12] tracking-[-1px] lg:mb-3.5 lg:text-[40px]/[1.1] lg:tracking-[-1.3px]`}>When it comes to compliance, ignorance is not bliss.</h2>
+        <h2 className={`${H2} mb-2.5 max-w-[24ch] text-[30px]/[1.12] tracking-[-1px] lg:mb-3.5 lg:text-[40px]/[1.1] lg:tracking-[-1.3px]`}>Know what your business is required to carry, and who requires it.</h2>
         <p className="m-0 text-base/[1.5] text-text-secondary lg:text-lg">Guides by the cover you have been asked for.</p>
 
         {/* desktop: rail + one list */}
