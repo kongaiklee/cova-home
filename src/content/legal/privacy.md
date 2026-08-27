@@ -80,4 +80,4 @@ termination, whichever is later.
 For questions, access requests, or complaints, please contact:
 
 - Email: dpo@covarage.com
-- Address: 143 Cecil Street, #03-01, GB Building, Singapore 069542
+- Address: 20 Cecil Street, #22-00 PLUS Building, Singapore 049705

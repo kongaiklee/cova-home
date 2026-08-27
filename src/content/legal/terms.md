@@ -113,4 +113,4 @@ jurisdiction over any dispute arising under it.
 
 ## 13. Contact
 
-Covarage Pte. Ltd., 143 Cecil Street, #03-01, GB Building, Singapore 069542.
+Covarage Pte. Ltd., 20 Cecil Street, #22-00 PLUS Building, Singapore 049705.

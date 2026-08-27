@@ -108,8 +108,8 @@ export default function Contact() {
               <p className="m-0 mt-2 text-[17px]/[1.7]">
                 Covarage Pte. Ltd.<br />
                 UEN 202531227H<br />
-                143 Cecil Street, #03-01<br />
-                GB Building, Singapore 069542
+                20 Cecil Street, #22-00<br />
+                PLUS Building, Singapore 049705
               </p>
             </div>
             {/* The lead's redirect - the only line on the page written to the lead. */}

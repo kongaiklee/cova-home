@@ -151,8 +151,8 @@ export function composeAck({ name, email }) {
   const greet = name ? `Hi ${name},` : 'Hi,';
   const disclosure = 'Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.';
   // The registered line carries the RULED address (KONG ~00:5x w5, via COO's records: the office
-  // moved May 2026, ACRA-acknowledged) - the template file carries it; the doc's 143 Cecil is the
-  // stale pre-move line and the estate-wide sweep is plan item 22.
+  // moved May 2026, ACRA-acknowledged) - the template file carries it. The estate-wide sweep of
+  // the stale pre-move address was plan item 22, executed w6.
   const registered = 'Covarage Pte. Ltd. \u00b7 UEN 202531227H \u00b7 20 Cecil Street, #22-00, PLUS Building, Singapore 049705';
   const text = [
     greet,
