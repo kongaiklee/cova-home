@@ -11,6 +11,7 @@ import Privacy from '../pages/legal/Privacy';
 import Contact from '../pages/company/Contact';
 import Careers from '../pages/company/Careers';
 import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
+import PackPage from '../pages/pack/PackPage';
 import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
 
 /**
@@ -41,6 +42,11 @@ export const routes: RouteRecord[] = [
       { path: '/', element: <Landing /> },
       { path: 'contact', element: <Contact /> },
       { path: 'careers', element: <Careers /> },
+      // The onboarding pack (item 15): personalisation rides the ?t= token, so the prerendered
+      // HTML is the neutral state and no personal data ever sits in served markup. noindex; not
+      // in the sitemap (gen-seo.mjs lists URLs explicitly); linked from nowhere until the s15/s16
+      // wire lands per CPO's spec.
+      { path: 'pack', element: <PackPage /> },
       {
         element: <BlogLayout />,
         children: [
