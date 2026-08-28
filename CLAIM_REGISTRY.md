@@ -12,11 +12,11 @@ registry only has to answer "where is it stated", not "has it regressed".
 
 | Claim class | Where it is stated |
 |---|---|
-| **Regulatory position (the approved disclaimer)** | `CLAUDE.md`, `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaPartnership_Calculator_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `src/layouts/MainLayout.tsx`, `src/pages/blog/ArticlePage.tsx`, `src/pages/landing/LandingFooter.tsx` |
-| **Pricing position** | `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `src/components/NeedsForm.tsx`, `src/pages/blog/BlogHeader.tsx` |
-| **Renewal wording (the feature that does NOT exist)** | `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html` |
-| **Introduction wording** | `content/articles/comparison/faa-n02-introducer-vs-fa-broker.md`, `content/articles/document-legal/mas-notice-faa-n03-ifa-conduct.md`, `content/articles/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore.md`, `public/decks/CovaBroker_Mobile.html`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `README.md`, `src/components/NeedsForm.tsx`, `src/pages/blog/ArticlePage.tsx`, `src/pages/landing/LandingFooter.tsx`, `src/pages/landing/LandingHandles.tsx` |
-| **IASO / concierge attribution** | `CLAUDE.md`, `public/decks/CovaIntro_Mobile.html`, `public/decks/CovaPartnership_Mobile.html`, `README.md`, `src/pages/landing/LandingHandles.tsx` |
+| **Regulatory position (the approved disclaimer)** | `api/request.js`, `CLAUDE.md`, `src/pages/blog/ArticlePage.tsx`, `src/pages/landing/LandingFooter.tsx`, `src/pages/tools/InsuranceGapTool.tsx` |
+| **Pricing position** | `CLAUDE.md` |
+| **Renewal wording (the feature that does NOT exist)** | `content/articles/association/natas-membership-travel-agent-insurance-singapore.md`, `content/articles/association/ras-membership-fnb-insurance-singapore.md`, `content/articles/association/redas-membership-insurance-singapore.md`, `content/articles/association/sccci-membership-insurance-singapore.md`, `content/articles/association/security-association-singapore-membership-insurance.md`, `content/articles/association/singapore-business-federation-membership-insurance.md`, `content/articles/association/singapore-hotel-association-membership-insurance.md`, `content/articles/association/singapore-logistics-association-membership-insurance.md`, `content/articles/association/snef-membership-employer-insurance-singapore.md`, `content/articles/association/spa-wellness-association-membership-insurance-singapore.md`, `content/articles/comparison/commercial-motor-excess-ncd-fleet-pricing-singapore.md`, `content/articles/comparison/corporate-insurance-singapore-sme-real-problem.md` and 28 more |
+| **Introduction wording** | `content/articles/comparison/concierge-corporate-insurance-support-singapore-sme.md`, `content/articles/comparison/corporate-insurance-singapore-sme-real-problem.md`, `content/articles/comparison/faa-n02-introducer-vs-fa-broker.md`, `content/articles/comparison/tied-agent-ifa-insurance-broker-singapore-business.md`, `content/articles/document-legal/commercial-property-fire-complete-guide-singapore.md`, `content/articles/document-legal/mas-notice-faa-n03-ifa-conduct.md`, `content/articles/emerging-risk/parametric-insurance-singapore.md`, `content/articles/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore.md`, `public/llms-full.txt`, `public/llms.txt`, `README.md`, `src/content/legal/terms.md` and 2 more |
+| **IASO / concierge attribution** | `CLAUDE.md`, `README.md` |
 
 ## What the guard forbids
 
@@ -30,10 +30,10 @@ registry only has to answer "where is it stated", not "has it regressed".
 | `MATCHING-SUITABILITY` | COVA does not assess suitability or decide who a client sees. It passes requirements on. |
 | `MARKET-ACCESS` | COVA cannot deliver or substantiate a market-access or best-outcome claim. |
 | `COVA-AS-INTERMEDIARY` | COVA does not arrange, bind, place or underwrite. Licensed intermediaries do. |
-| `IASO-AS-OURS` | Medical concierge is IASO Pte. Ltd., a separate related-party company. Attribute it. |
+| `IASO-AS-OURS` | Medical concierge is IASO Pte. Ltd., a separate related-party company. Never name IASO as ours and never promise a guarantee or liability on its behalf (Kong, 2026-08-26). |
 | `INSURER-RANKING` | COVA does not rank, rate or recommend a named insurer or product. State facts; let a licensed adviser judge. |
 | `PREMIUM-DATA` | COVA holds no pricing data and cannot quote or compare premium. A licensed adviser prices a placement. |
-| `PARTNER-SHARE-SPLIT` | The introducer fee passes through to the partner WHOLESALE. No split, no multiplier, and it is not "a share". |
+| `PARTNER-SHARE-SPLIT` | No published partner share, split or multiplier. COVA takes a tiered processing fee out of the introducer fee and the scale is not set (Kong, 2026-08-24). Show the pool; promise no number. |
 | `INTERNAL-MEMO-LEAK` | Internal governance artefacts do not belong in a served file. The build gate enforces a rule; a comment on the marketing site publishes it. |
 
 ## Not in this repo, and not fixable from it

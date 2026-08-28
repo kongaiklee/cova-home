@@ -11,13 +11,24 @@
       "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*",
       "destination": "/guides/:category/:path*",
       "permanent": true
+    },
+    {
+      "source": "/for-partners/calculator",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/:drop(for-partners|for-corpsecs|for-brokers)",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/decks/:path*",
+      "destination": "/",
+      "permanent": true
     }
   ],
   "rewrites": [
-    { "source": "/for-partners/calculator", "destination": "/decks/CovaPartnership_Calculator_Mobile" },
-    { "source": "/for-partners", "destination": "/decks/CovaPartnership_Mobile" },
-    { "source": "/for-corpsecs", "destination": "/decks/CovaPartnership_Mobile" },
-    { "source": "/for-brokers", "destination": "/decks/CovaBroker_Mobile" },
     { "source": "/(.*)", "destination": "/" }
   ],
   "headers": [
@@ -25,12 +36,6 @@
       "source": "/feed.xml",
       "headers": [
         { "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" }
-      ]
-    },
-    {
-      "source": "/decks/(.*)",
-      "headers": [
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
       ]
     },
     {

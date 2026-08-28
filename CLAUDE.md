@@ -27,9 +27,7 @@ No test suite exists.
 The site mixes a React SPA with static HTML decks, and they are easy to confuse:
 
 1. **React routes** (`src/routes/index.tsx`) — only `/` (Landing) and `*` (NotFound) are active. `MainLayout`, `Home`, `Features`, `Corporates` are commented out and not in use. All landing content lives at `/`.
-2. **Vercel rewrites** (`vercel.json`) — `/for-partners`, `/for-brokers`, `/for-corpsecs`, `/for-partners/calculator` are NOT React routes. They rewrite to self-contained static HTML slide decks in `public/decks/`. The decks *are* those partner-facing pages.
-
-A bug on `/for-partners` is in `vercel.json` or the deck HTML — never in React code. A change to a deck cannot affect React routes, and vice versa.
+2. **Vercel rewrites** (`vercel.json`) — non-React URLs are shaped here (plus `redirects` for moved/dropped paths). **The partner-facing decks are DROPPED from serving (KONG 2026-08-27, "drop the old pages we will rebuild everything"): `/for-partners`, `/for-brokers`, `/for-corpsecs`, `/for-partners/calculator` and all of `/decks/*` now 308 to `/`; `public/decks/` is deleted.** The rebuild gets its own routing when Kong opens it — do not resurrect the old decks.
 
 `vercel.json` rewrite order matters: most-specific routes first, catch-all `/(.*) → /` last. Static files in `public/` are served before rewrites, so direct `.html` access still works. Adding a new clean URL means adding a rewrite *before* the catch-all.
 
