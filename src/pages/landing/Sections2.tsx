@@ -29,12 +29,19 @@ function Column({ head, rows, teak }: { head: string; rows: string[][]; teak?: b
   );
 }
 
-/** 5. What you get. The `Less time` head is Teak per the brown-CTA rule. */
+/** 5. What you get. The `Less time` head is Teak per the brown-CTA rule.
+ * The FULL logo lockup sits flush left in the section-label slot (Kong 2026-08-27: "i want the
+ * full logo, Covarage not jsut brandmark and flush to the left align") - no eyebrow, label or
+ * heading may ever be added above these columns; the logo IS the label. */
 export function WhatYouGet() {
   return (
     <section className="border-b border-border-primary bg-white">
       <div className={`${WRAP} py-[52px] lg:py-24`}>
         <img src={`${IMG}/pg-img02-documents.jpg`} alt="" className="mb-8 block h-[220px] w-full rounded-xl object-cover object-[center_40%] lg:mb-16 lg:h-[400px]" loading="lazy" />
+        <div className="mb-7 flex items-center gap-2.5 lg:mb-11 lg:gap-3">
+          <Mark className="block size-[30px] text-primary-extended lg:size-9" />
+          <span className="text-xl font-semibold tracking-[-0.25px] text-text-primary lg:text-[23px] lg:tracking-[-0.3px]">Covarage</span>
+        </div>
         <div className="grid gap-9 lg:grid-cols-2 lg:gap-14">
           <Column head="Less time" rows={LESS} teak />
           <Column head="No wondering" rows={KNOW} />
@@ -78,14 +85,21 @@ export function Chase() {
   );
 }
 
+/** The brand mark alone (the wordmark-less half of LogoSvg), colored by currentColor. */
+export function Mark({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" className={className} aria-hidden>
+      <path d="M9.48744 14.9716C8.2864 15.415 7.64155 16.5757 7.61737 17.7203C7.59319 18.9617 8.27028 20.1466 9.46326 20.598C10.5676 21.0252 11.6155 21.4121 12.6553 21.9602C14.9364 23.1612 16.734 24.9265 17.9672 27.1916C18.5557 28.2717 18.9668 29.3518 19.394 30.5045C19.8212 31.6572 20.99 32.3907 22.191 32.3987C23.3921 32.4068 24.6173 31.7136 25.0687 30.4884C25.512 29.2873 25.9473 28.1669 26.5679 27.0545C28.5347 23.532 31.5011 21.7345 35.3702 20.4851C33.9354 29.779 25.5684 36.2598 16.339 35.5102C7.10955 34.7605 0.0242436 27.0626 6.17133e-05 17.8332C-0.0241202 8.60372 7.06119 0.865503 16.2503 0.0674989C25.512 -0.738566 33.9354 5.75831 35.3782 15.0845C31.5252 13.8431 28.5831 12.0698 26.6082 8.57954C25.9876 7.47523 25.5362 6.3548 25.109 5.16183C24.6737 3.92855 23.5291 3.20309 22.2877 3.17891C21.0464 3.15473 19.8615 3.856 19.402 5.07316C19.0151 6.11298 18.6443 7.09638 18.1365 8.08784C16.9355 10.4254 15.146 12.2794 12.8407 13.5288C11.7605 14.1172 10.6804 14.5283 9.4955 14.9716H9.48744Z" fill="currentColor" />
+    </svg>
+  );
+}
+
 /** 7B. The founder note - one quiet centred passage, the mark as the founder's sign. No card, no band, no CTA. */
 export function FounderNote() {
   return (
     <section className="border-b border-border-primary">
       <div className={`${WRAP} py-[52px] text-center lg:py-[88px]`}>
-        <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" className="inline-block size-[26px] text-primary-extended lg:size-[30px]" aria-hidden>
-          <path d="M9.48744 14.9716C8.2864 15.415 7.64155 16.5757 7.61737 17.7203C7.59319 18.9617 8.27028 20.1466 9.46326 20.598C10.5676 21.0252 11.6155 21.4121 12.6553 21.9602C14.9364 23.1612 16.734 24.9265 17.9672 27.1916C18.5557 28.2717 18.9668 29.3518 19.394 30.5045C19.8212 31.6572 20.99 32.3907 22.191 32.3987C23.3921 32.4068 24.6173 31.7136 25.0687 30.4884C25.512 29.2873 25.9473 28.1669 26.5679 27.0545C28.5347 23.532 31.5011 21.7345 35.3702 20.4851C33.9354 29.779 25.5684 36.2598 16.339 35.5102C7.10955 34.7605 0.0242436 27.0626 6.17133e-05 17.8332C-0.0241202 8.60372 7.06119 0.865503 16.2503 0.0674989C25.512 -0.738566 33.9354 5.75831 35.3782 15.0845C31.5252 13.8431 28.5831 12.0698 26.6082 8.57954C25.9876 7.47523 25.5362 6.3548 25.109 5.16183C24.6737 3.92855 23.5291 3.20309 22.2877 3.17891C21.0464 3.15473 19.8615 3.856 19.402 5.07316C19.0151 6.11298 18.6443 7.09638 18.1365 8.08784C16.9355 10.4254 15.146 12.2794 12.8407 13.5288C11.7605 14.1172 10.6804 14.5283 9.4955 14.9716H9.48744Z" fill="currentColor" />
-        </svg>
+        <Mark className="inline-block size-[26px] text-primary-extended lg:size-[30px]" />
         <h2 className={`${H2} mx-auto mt-[18px] mb-3.5 max-w-[24ch] text-[28px]/[1.15] tracking-[-0.9px] lg:mt-[22px] lg:mb-[18px] lg:text-4xl/[1.1] lg:tracking-[-1.1px]`}>You shouldn't have to manage insurance alone.</h2>
         <p className="mx-auto m-0 max-w-[52ch] text-base/[1.6] text-text-secondary lg:text-lg">We built Covarage to give growing businesses someone who keeps track, follows through and makes sure the right people are paying attention.</p>
       </div>
