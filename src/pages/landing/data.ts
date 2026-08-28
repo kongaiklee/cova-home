@@ -126,3 +126,10 @@ export const INSURERS: { slug: string; alt: string }[] = [
 
 export const LOGIN_URL = `${import.meta.env.VITE_APP_COVARAGE_URL}/signin`;
 export const REQUEST_ANCHOR = '#request';
+
+/**
+ * The s16 variant switch (s16's binding rule): the post-submit state may claim "the email we just
+ * sent" ONLY while the s15 founder-welcome send is live in api/request.js. These flip TOGETHER -
+ * if the send is ever disabled there, flip this false in the same commit.
+ */
+export const EMAIL_SEND_LIVE = true;

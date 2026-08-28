@@ -1,8 +1,10 @@
-import { useEffect, useState, type FormEvent } from 'react';
-import { TRADES } from './data';
+import { useEffect, useRef, useState, type FormEvent } from 'react';
+import { EMAIL_SEND_LIVE, TRADES } from './data';
 
 /** Attribution that rides hidden on the POST: referral code, campaign params, the landing path. */
 const HIDDEN_KEYS = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency'];
+
+const BOOKING_URL = 'https://cal.com/kongaiklee/30min';
 
 type Status = 'idle' | 'sending' | 'sent' | 'error';
 
@@ -18,6 +20,9 @@ interface Props {
 export default function RequestCard({ trade, onTrade }: Props) {
   const [status, setStatus] = useState<Status>('idle');
   const [hidden, setHidden] = useState<Record<string, string>>({});
+  const [sentAs, setSentAs] = useState<Record<string, string>>({});
+  const bodyRef = useRef<HTMLFormElement>(null);
+  const [holdHeight, setHoldHeight] = useState<number>();
 
   useEffect(() => {
     const q = new URLSearchParams(window.location.search);
@@ -40,13 +45,26 @@ export default function RequestCard({ trade, onTrade }: Props) {
         headers: { 'content-type': 'application/json' },
         body: JSON.stringify(payload),
       });
-      setStatus(r.ok ? 'sent' : 'error');
+      if (r.ok) {
+        // The s16 state swaps in place: the card's outer box keeps its footprint (12.1).
+        if (bodyRef.current) setHoldHeight(bodyRef.current.offsetHeight);
+        setSentAs(payload);
+        setStatus('sent');
+      } else {
+        setStatus('error');
+      }
     } catch {
       setStatus('error');
     }
   }
 
   const field = 'w-full rounded-sm border border-border-primary bg-white px-3.5 py-3 text-[15px] text-text-primary placeholder:text-[#b3aca6] focus:border-primary focus:outline-none';
+
+  const sentTrade = TRADES.find((t) => t.id === sentAs.trade);
+  const booking = `${BOOKING_URL}?${new URLSearchParams({
+    ...(sentAs.name ? { name: sentAs.name } : {}),
+    ...(sentAs.email ? { email: sentAs.email } : {}),
+  }).toString()}`.replace(/\?$/, '');
 
   return (
     <div
@@ -56,7 +74,47 @@ export default function RequestCard({ trade, onTrade }: Props) {
       <div className="flex h-8 items-center gap-1.5 border-b border-border-primary bg-[#f4f2f0] px-3.5" aria-hidden>
         <span className="size-2 rounded-full bg-[#d9d4cf]" /><span className="size-2 rounded-full bg-[#d9d4cf]" /><span className="size-2 rounded-full bg-[#d9d4cf]" />
       </div>
-      <form className="px-5 pt-6 pb-7 sm:px-7" onSubmit={submit} noValidate={false}>
+      {status === 'sent' ? (
+        /* The s16 post-submit state, swapped in place of the form (CD SECTION 12; copy s16 verbatim). */
+        <div
+          role="status"
+          className="flex flex-col justify-center px-5 pt-6 pb-7 sm:px-7"
+          style={holdHeight ? { minHeight: holdHeight } : undefined}
+          data-post-submit
+        >
+          <div className="font-serif text-2xl tracking-[-0.6px] text-text-primary">
+            {sentAs.company ? `Got it, ${sentAs.company}. You are on the list.` : 'Got it. You are on the list.'}
+          </div>
+          <p className="mt-2 mb-4 text-[15px]/relaxed font-medium text-text-primary">
+            {sentAs.number
+              ? `We have your details and someone will call you within 24 hours on ${sentAs.number}.`
+              : 'We have your details and someone will call you within 24 hours.'}
+          </p>
+          <p className="m-0 mb-2.5 text-[15px]/relaxed font-semibold text-text-primary">
+            While you wait, here is what businesses in your trade are usually asked to carry.
+          </p>
+          <a
+            href={sentTrade ? sentTrade.href : '/guides'}
+            className="mb-4 block rounded-sm bg-primary-extended py-3.5 text-center text-[15px] font-medium text-white transition hover:opacity-90"
+          >
+            {sentTrade ? `Open the ${sentTrade.label} checklist` : 'Open the guides'}
+          </a>
+          <p className="m-0 mb-4 text-[14px]/relaxed text-text-secondary">
+            {EMAIL_SEND_LIVE
+              ? 'Wrong number, or a better time to call? Reply to the email we just sent, or message +65 8867 0918 on WhatsApp.'
+              : 'Wrong number, or a better time to call? Message +65 8867 0918 on WhatsApp and we will pick it up.'}
+          </p>
+          <a
+            href={booking}
+            target="_blank"
+            rel="noreferrer"
+            className="block rounded-sm border border-border-primary bg-white py-3 text-center text-[15px] font-medium text-text-primary transition hover:border-primary"
+          >
+            Or pick a time with Kong, our founder
+          </a>
+        </div>
+      ) : (
+      <form ref={bodyRef} className="px-5 pt-6 pb-7 sm:px-7" onSubmit={submit} noValidate={false}>
         <div className="font-serif text-2xl tracking-[-0.6px] text-text-primary">Request a call.</div>
         <p className="mt-2 mb-4 text-[15px]/relaxed text-text-secondary">Tell us what you do. We call you back within 24 hours.</p>
 
@@ -86,19 +144,18 @@ export default function RequestCard({ trade, onTrade }: Props) {
 
         <button
           type="submit"
-          disabled={status === 'sending' || status === 'sent'}
+          disabled={status === 'sending'}
           className="w-full rounded-sm bg-primary-extended py-3.5 text-center text-[15px] font-medium text-white transition hover:opacity-90 disabled:opacity-70"
         >
-          {status === 'sending' ? 'Sending' : status === 'sent' ? 'Received' : 'Request a call'}
+          {status === 'sending' ? 'Sending' : 'Request a call'}
         </button>
         <p className="mt-3 text-center text-[13px] text-text-secondary" aria-live="polite">
-          {status === 'sent'
-            ? 'Received. We call you back within 24 hours.'
-            : status === 'error'
-              ? 'That did not go through. Please try again, or email support@covarage.com.'
-              : 'Opened by our founder. Your adviser named on day one.'}
+          {status === 'error'
+            ? 'That did not go through. Please try again, or email support@covarage.com.'
+            : 'Opened by our founder. Your adviser named on day one.'}
         </p>
       </form>
+      )}
     </div>
   );
 }
