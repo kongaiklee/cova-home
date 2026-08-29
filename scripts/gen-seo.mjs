@@ -53,7 +53,15 @@ const sitemap =
     .join('\n') +
   '\n</urlset>\n';
 
+// The usage comments and Content-Signal are a REQUEST, not enforcement, and the crawl rules below
+// them are deliberately UNCHANGED: the GEO play wants crawlers and citations (CMO spec s1), so
+// nothing here blocks any agent. `ai-train` is deliberately unset - see the spec's s3.2 note.
 const robots =
+  `# Content (c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotations\n` +
+  `# and AI answers: credit "Covarage" + link. Commercial use prohibited; republication\n` +
+  `# requires prior written consent. All rights and remedies reserved.\n` +
+  `# Usage terms: ${SITE}/llms.txt\n` +
+  'Content-Signal: search=yes, ai-input=yes\n\n' +
   'User-agent: *\n' +
   'Allow: /\n\n' +
   `Sitemap: ${SITE}/sitemap.xml\n`;

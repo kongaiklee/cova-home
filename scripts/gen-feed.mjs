@@ -72,6 +72,7 @@ const xml = [
   // The blog index's own approved description, character for character.
   '    <description>Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch.</description>',
   '    <language>en-sg</language>',
+  '    <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>',
   `    <lastBuildDate>${rfc822(newest[0].published)}</lastBuildDate>`,
   `    <atom:link href="${SITE}/feed.xml" rel="self" type="application/rss+xml" />`,
   ...items,

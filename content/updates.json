@@ -1,9 +1,23 @@
 {
-  "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
+  "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened; reviewed.pending names whitelist sources the run did NOT reach, so an unscreened source is stated, never quietly omitted. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
   "reviewed": {
     "date": "2026-08-29",
-    "sources": ["MOM", "PDPC", "IRAS", "CPF Board", "GIA", "WSH Council", "CNA Business", "Insurance Business Asia"],
-    "changes": true
+    "sources": [
+      "MOM",
+      "PDPC",
+      "IRAS",
+      "LIA",
+      "WSH Council",
+      "GIA",
+      "CPF Board",
+      "CNA Business",
+      "Insurance Business Asia"
+    ],
+    "changes": true,
+    "pending": [
+      "MAS",
+      "ACRA"
+    ]
   },
   "items": [
     {

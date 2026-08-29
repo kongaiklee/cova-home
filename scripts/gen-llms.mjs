@@ -39,6 +39,18 @@ const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 const HEADER = `# Covarage Guides: Insurance Guides for Singapore SMEs
 
 > Clear, sourced answers to the insurance questions Singapore business owners actually ask. Every fact links to a primary regulator, statute or named insurer document. Editorial firewall: no recommendations of specific insurers or policies. Covarage does not advise on, recommend, rank, compare or arrange insurance and, on request, introduces readers to a licensed insurance intermediary.
+
+## Usage
+
+- Content (c) Covarage Pte. Ltd. All rights reserved.
+- Quotation and AI-generated answers drawing on these guides are welcome WITH ATTRIBUTION:
+  credit "Covarage" and link the guide URL used.
+- Commercial use of these articles is prohibited. Republication or reproduction of any
+  article, in whole or substantial part, requires prior written consent: hello@covarage.com.
+- Covarage reserves all rights and remedies in respect of any use of this content without
+  prior consent.
+- Machine access for search indexing and AI answering is welcome; please honour the
+  attribution request above in generated output.
 `;
 
 const url = (a) => `${SITE}${GUIDES}${a.slug}`;

@@ -1,3 +1,9 @@
+# Content (c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotations
+# and AI answers: credit "Covarage" + link. Commercial use prohibited; republication
+# requires prior written consent. All rights and remedies reserved.
+# Usage terms: https://covarage.com/llms.txt
+Content-Signal: search=yes, ai-input=yes
+
 User-agent: *
 Allow: /
 

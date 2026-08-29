@@ -22,6 +22,8 @@ export interface Reviewed {
   date: string;
   sources: string[];
   changes: boolean;
+  /** Whitelist sources the run did NOT reach, named rather than quietly omitted. */
+  pending?: string[];
 }
 
 interface UpdatesFile {
@@ -35,9 +37,13 @@ export const REVIEWED: Reviewed | null = data.reviewed;
 export const UPDATES: UpdateItem[] = [...data.items].sort((a, b) => (a.date < b.date ? 1 : -1));
 
 /** The integrity line, built from the screen's own record (wording: CMO_NEWSFEED_whitelist.md). */
+function andList(xs: string[]): string {
+  return xs.length > 1 ? `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}` : xs[0];
+}
+
 export function reviewedLine(r: Reviewed): string {
-  const list = r.sources.length > 1 ? `${r.sources.slice(0, -1).join(', ')} and ${r.sources[r.sources.length - 1]}` : r.sources[0];
-  return `Reviewed against ${list} on ${formatDate(r.date)}.${r.changes ? '' : ' No changes.'}`;
+  const pending = r.pending?.length ? ` ${andList(r.pending)} pending manual walk.` : '';
+  return `Reviewed against ${andList(r.sources)} on ${formatDate(r.date)}.${r.changes ? '' : ' No changes.'}${pending}`;
 }
 
 /** Newest publish date in the committed guides corpus - the honest day-one freshness statement. */

@@ -71,6 +71,11 @@ export default function ArticlePage({ article }: { article: Article }) {
       logo: { '@type': 'ImageObject', url: `${SITE_URL}/assets/logo.png` },
     },
     mainEntityOfPage: `${SITE_URL}${articleUrl(frontmatter.slug)}`,
+    copyrightHolder: { '@type': 'Organization', name: 'Covarage Pte. Ltd.' },
+    copyrightNotice: '(c) Covarage Pte. Ltd.',
+    creditText: 'Covarage - covarage.com',
+    license: `${SITE_URL}/llms.txt#usage`,
+    acquireLicensePage: `${SITE_URL}/contact`,
   };
 
   return (
