@@ -1,5 +1,34 @@
 {
-  "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). reviewed=null means no screen has run yet; the page then shows only the corpus-updated line, which is derived from the committed article index.",
-  "reviewed": null,
-  "items": []
+  "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
+  "reviewed": {
+    "date": "2026-08-29",
+    "sources": ["MOM", "PDPC", "IRAS", "CPF Board", "GIA", "WSH Council", "CNA Business", "Insurance Business Asia"],
+    "changes": true
+  },
+  "items": [
+    {
+      "title": "MOM Enhances Heat Stress Protection for Workers Amid Rising Heat Risks",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0828-enhancements-to-heat-stress-framework",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "WSH Insights 20 August 2026 Strengthening Vehicular Safety at Work",
+      "source": "WSH Council",
+      "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-insights/wsh-insights-20-august-2026-strengthening-vehicular-safety-at-work",
+      "date": "2026-08-20"
+    },
+    {
+      "title": "Enhanced Primary Care Plan brings healthcare closer to migrant workers while lowering or maintaining costs for almost all employers",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0806-enhanced-primary-care-plan-appointment-of-new-aos",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "Multi-Agency Workplace Safety and Health Taskforce (MAST) calls for greater vigilance amidst rise in work-related traffic accidents this year",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0728-mast-calls-for-greater-vigilance",
+      "date": "2026-07-28"
+    }
+  ]
 }
