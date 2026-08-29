@@ -1,0 +1,5 @@
+{
+  "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). reviewed=null means no screen has run yet; the page then shows only the corpus-updated line, which is derived from the committed article index.",
+  "reviewed": null,
+  "items": []
+}

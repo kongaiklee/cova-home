@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
-import { useSearchParams } from 'react-router-dom';
+import { Link, useSearchParams } from 'react-router-dom';
 import { ARTICLES } from '../../content/articles';
 import { INTENTS } from '../../content/intents';
 import { AXES, EMPTY, type Axis, type Selection, axisValues, isEmpty, matches, readSelection, writeSelection } from '../../content/facets';
@@ -113,6 +113,18 @@ export default function BlogIndex() {
       </section>
 
       <section className="mx-auto w-full max-w-4xl px-6 pb-24 sm:px-10">
+        {/* The /updates strip (M2 - placement ruled: own route + a strip on the blog index). */}
+        <Link
+          to="/updates"
+          className="mb-8 flex items-center justify-between gap-4 rounded-xl border border-border-primary bg-white px-5 py-4 transition hover:border-primary"
+          data-updates-strip
+        >
+          <span className="text-[15px]/[1.5] text-text-primary">
+            <span className="font-semibold">Updates</span>
+            <span className="text-text-secondary"> - official announcements that matter to business cover, linked to the source.</span>
+          </span>
+          <ChevronRight className="size-4 shrink-0 text-text-secondary" />
+        </Link>
         <p className="border-b border-border-primary pb-3 text-sm text-text-secondary">
           {visible.length} {visible.length === 1 ? 'guide' : 'guides'}
           {totalPages > 1 && ` · page ${page} of ${totalPages}`}

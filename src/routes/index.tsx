@@ -12,6 +12,7 @@ import Contact from '../pages/company/Contact';
 import Careers from '../pages/company/Careers';
 import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
 import PackPage from '../pages/pack/PackPage';
+import UpdatesPage from '../pages/updates/UpdatesPage';
 import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
 
 /**
@@ -51,6 +52,8 @@ export const routes: RouteRecord[] = [
         element: <BlogLayout />,
         children: [
           { path: 'blog', element: <BlogIndex /> },
+          // The weekly screen's output surface (M2, newsfeed v1) - blog shell, own route.
+          { path: 'updates', element: <UpdatesPage /> },
           { path: 'terms', element: <Terms /> },
           { path: 'privacy', element: <Privacy /> },
           // moved from blog.covarage.com with the corpus; the blog host 301s its old path here
