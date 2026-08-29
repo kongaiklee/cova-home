@@ -3,14 +3,14 @@ import { requestClick } from './requestFraming';
 import { H2, WRAP } from './Sections';
 
 const LESS = [
-  ['Answer once.', 'One form, filled once. We fill the insurer forms for you - 24 of them.'],
+  ['Answer once.', 'One form, filled once. The platform fills the insurer forms for you - 24 of them.'],
   ['Everything in one place.', "The certificate is there when the landlord asks. So is last year's policy."],
   ['Someone else calls the clinic.', 'A specialist appointment for your staff within two days, and cashless hospital admission.'],
 ];
 const KNOW = [
   ['You know what is coming up.', 'Every renewal date, visible in one place.'],
   ['You know what you hold.', 'Every document, every policy, one screen.'],
-  ['Your adviser turns up prepared.', 'We hand them the file before they start.'],
+  ['Your adviser turns up prepared.', 'The platform hands them the file before they start.'],
 ];
 
 function Column({ head, rows, teak }: { head: string; rows: string[][]; teak?: boolean }) {
@@ -29,7 +29,8 @@ function Column({ head, rows, teak }: { head: string; rows: string[][]; teak?: b
   );
 }
 
-/** 5. What you get. The `Less time` head is Teak per the brown-CTA rule.
+/** 5. What you get. BOTH column heads are Teak - `No wondering` rendered Horizon Blue against the
+ * ruled Teak until 2026-08-29 (CD's M1.0a deviation, Kong: "our ruling stands").
  * The FULL logo lockup sits flush left in the section-label slot (Kong 2026-08-27: "i want the
  * full logo, Covarage not jsut brandmark and flush to the left align") - no eyebrow, label or
  * heading may ever be added above these columns; the logo IS the label. */
@@ -44,7 +45,7 @@ export function WhatYouGet() {
         </div>
         <div className="grid gap-9 lg:grid-cols-2 lg:gap-14">
           <Column head="Less time" rows={LESS} teak />
-          <Column head="No wondering" rows={KNOW} />
+          <Column head="No wondering" rows={KNOW} teak />
         </div>
       </div>
     </section>
@@ -61,7 +62,7 @@ export function Renewal() {
         <div>
           <h2 className={`${H2} mb-4 text-[30px]/[1.1] tracking-[-1px] text-balance lg:mb-[22px] lg:text-[44px]/[1.08] lg:tracking-[-1.5px]`}>One platform, one adviser, 24 insurers to choose from.</h2>
           <p className="m-0 mb-3.5 max-w-[42ch] text-[17px]/[1.45] font-medium text-text-primary lg:mb-[18px] lg:text-[19px]">At renewal, everything you hold is already in front of a licensed adviser who can look across the whole panel.</p>
-          <p className="m-0 mb-3.5 max-w-[48ch] text-[15px]/[1.6] text-text-secondary italic lg:mb-[18px] lg:leading-[1.65]">We put every document and every renewal date in front of them before they start. The review is theirs.</p>
+          <p className="m-0 mb-3.5 max-w-[48ch] text-[15px]/[1.6] text-text-secondary italic lg:mb-[18px] lg:leading-[1.65]">The platform puts every document and every renewal date in front of them before they start. The review is theirs.</p>
           <p className="m-0 max-w-[42ch] text-base/[1.5] font-semibold text-text-primary lg:text-[17px]">Your adviser reviews every policy at renewal. Part of the service.</p>
         </div>
         <img src={`${IMG}/pg-img03-handoff.jpg`} alt="" className="hidden h-[300px] w-full rounded-xl object-cover lg:block" loading="lazy" />

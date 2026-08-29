@@ -45,7 +45,7 @@ export function Stake() {
   );
 }
 
-const NUMBERS = [['24', 'general insurers'], ['766', 'policies placed'], ['S$161.6m', 'sum insured']];
+const NUMBERS = [['24', 'general insurers'], ['766', 'policies placed'], ['~S$200m', 'sum insured']];
 
 /** 3. The numbers and the proof wall - all 24 general insurers on the panel. */
 export function Proof() {

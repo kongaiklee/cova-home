@@ -3,7 +3,7 @@
 ## 1. Introduction
 
 COVARAGE PTE. LTD. (UEN 202531227H) ("Covarage", "we", "our", "us") is committed to protecting the
-Personal Data of our users, customers, tenants, employees, partners, and vendors in accordance with the
+Personal Data of our users, customers, employees, partners, and vendors in accordance with the
 Personal Data Protection Act 2012 ("PDPA") of Singapore. This Policy explains how we collect, use,
 disclose, store, retain, and protect Personal Data in connection with our insurance document platform,
 renewal-date records, introductions to licensed insurance intermediaries, concierge services, and
@@ -38,7 +38,6 @@ We collect Personal Data when individuals:
   user records, recording the requirements a user provides, passing those details to a licensed
   insurance intermediary where the user asks to be introduced, where we do so monitoring how promptly
   that intermediary responds, and storing and forwarding a claim document at the user's request.
-  `[CHANGED 1, 4]`
 - Business Operations: Analytics, product development, fraud detection, and customer support.
 - Legal and Regulatory: Responding to lawful requests and fulfilling obligations to authorities and
   partners.

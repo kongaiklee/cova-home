@@ -36,14 +36,17 @@ export default function Hero() {
       <div className="relative grid lg:min-h-[680px] lg:grid-cols-2">
         <div className="flex items-center px-5 pt-9 pb-6 sm:px-8 lg:py-[72px] lg:pr-14 lg:pl-[100px]">
           <div>
+            {/* Rev 3n: `Fortune 500 companies have a team for insurance. Now you do.` SURVIVES AND
+                MOVES to the proof context (s3 strip area) - its slot and treatment are CD's verdict
+                under R19, so it is off the page only until that lands. Do not retire the line. */}
             <h1 className="m-0 mb-3 font-serif text-4xl/[1.06] tracking-[-1.2px] text-balance text-text-primary lg:mb-[18px] lg:text-[56px]/[1.04] lg:tracking-[-1.8px]">
-              Fortune 500 companies have a team for insurance. Now you do.
+              Insurance comes with questions you did not know to ask.
             </h1>
             <h2 className="m-0 mb-3 font-serif text-[21px]/[1.25] tracking-[-0.5px] text-balance text-primary lg:mb-[18px] lg:text-[26px]/[1.2] lg:tracking-[-0.6px]">
               Your insurance team, without the insurance department.
             </h2>
             <p className="m-0 max-w-[46ch] text-base/[1.5] text-text-primary lg:mb-[30px] lg:text-lg">
-              A named adviser who knows your company, a review at every renewal, and someone who chases so you never have to.
+              See what businesses like yours commonly carry and what changed. Then meet a licensed adviser who reviews what applies to your business.
             </p>
             <a href={REQUEST_ANCHOR} onClick={requestClick} className="hidden rounded-sm bg-primary-extended px-[26px] py-[13px] text-[15px] font-medium text-white transition hover:opacity-90 lg:inline-block">
               Request access
