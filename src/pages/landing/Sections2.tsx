@@ -60,7 +60,7 @@ export function Renewal() {
       <div className="absolute -top-20 -left-[140px] size-[280px] rounded-full bg-[#eaf1f7] lg:hidden" aria-hidden />
       <div className={`${WRAP} relative grid gap-6 py-[52px] lg:grid-cols-[1.1fr_0.9fr] lg:items-center lg:gap-16 lg:py-24`}>
         <div>
-          <h2 className={`${H2} mb-4 text-[30px]/[1.1] tracking-[-1px] text-balance lg:mb-[22px] lg:text-[44px]/[1.08] lg:tracking-[-1.5px]`}>One platform, one adviser, 24 insurers to choose from.</h2>
+          <h2 className={`${H2} mb-4 text-[30px]/[1.1] tracking-[-1px] text-balance lg:mb-[22px] lg:text-[44px]/[1.08] lg:tracking-[-1.5px]`}>One platform, one adviser, 24 insurance providers to choose from.</h2>
           <p className="m-0 mb-3.5 max-w-[42ch] text-[17px]/[1.45] font-medium text-text-primary lg:mb-[18px] lg:text-[19px]">At renewal, everything you hold is already in front of a licensed adviser who can look across the whole panel.</p>
           <p className="m-0 mb-3.5 max-w-[48ch] text-[15px]/[1.6] text-text-secondary italic lg:mb-[18px] lg:leading-[1.65]">The platform puts every document and every renewal date in front of them before they start. The review is theirs.</p>
           <p className="m-0 max-w-[42ch] text-base/[1.5] font-semibold text-text-primary lg:text-[17px]">Your adviser reviews every policy at renewal. Part of the service.</p>

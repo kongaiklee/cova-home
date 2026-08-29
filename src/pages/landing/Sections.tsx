@@ -123,12 +123,13 @@ export function Stake() {
   );
 }
 
-// `providers` is Kong's word (2026-08-29), taken on the NARROW reading: the WORD changes, `24`
-// stands. The four other strings carrying the same fact (s5 `24 of them`, s6 `24 insurers to
-// choose from`, the `Across 24 insurers` sub-line, and the 24-logo strip below) are deliberately
-// HELD until he rules whether `providers` means the same 24 or the wider panel of 35 - changing
-// this tile alone would already make the page disagree with itself within one scroll.
-const NUMBERS = [['24', 'providers'], ['766', 'policies placed'], ['~S$200m', 'sum insured']];
+// `insurance providers` is Kong's ruled wording (2026-08-30, superseding his earlier bare
+// `providers`). `24` STANDS - the panel is the 24 - so the logo strip below is untouched.
+// s6 takes the same change. Deliberately NOT changed, and recorded so nobody "fixes" it later:
+// `The platform fills the insurer forms for you - 24 of them` (this tile and s6 describe the
+// PANEL; s5 describes the FORMS, and a form issued by an insurer is an insurer form), and
+// `No insurer pays us anything` (the regulated statement about who pays COVA).
+const NUMBERS = [['24', 'insurance providers'], ['766', 'policies placed'], ['~S$200m', 'sum insured']];
 
 /**
  * 3. The numbers and the proof wall - all 24 general insurers on the panel.
