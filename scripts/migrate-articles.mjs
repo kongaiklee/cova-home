@@ -71,6 +71,27 @@ const MONTHS = {
 /** Hero image per category (public/assets/blog/{category}.jpg). */
 const heroImageFor = (category) => `/assets/blog/${category}.jpg`;
 
+/**
+ * END-OF-ARTICLES terminators. `**End of master report.**` already exists in the master and is
+ * the natural sentinel; the HTML comment is accepted so an explicit one can be added later without
+ * touching this file. The `## ...` sections are the master's own trailing blocks.
+ */
+const END_OF_ARTICLES =
+  /^(?:<!--\s*END OF ARTICLES[\s\S]*?-->|\*\*End of master report\.\*\*|## (?:Session log|Defensive standard|Pending)\b)/m;
+
+/**
+ * Markers that must NEVER survive into an article body. Deliberately NARROW and line-anchored:
+ * a broad marker is its own bug (a sibling sweep matched six legitimate articles on `Audit:`).
+ * Validated against all 524 extracted articles - exactly one matched, the known leaking page.
+ */
+const LEAK_MARKERS = [
+  [/^\*\*End of master report\.\*\*/m, 'End of master report'],
+  [/^Build status: \*\*/m, 'Build status line'],
+  [/^## Session log\b/m, 'Session log'],
+  [/^## Defensive standard\b/m, 'Defensive standard'],
+  [/^## Pending\b/m, 'Pending section'],
+];
+
 function toISODate(human) {
   const m = String(human).trim().match(/(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})/);
   if (!m) return null;
@@ -148,13 +169,30 @@ function main() {
   const articles = [];
   const errors = [];
 
+  // NOT GUARDED, deliberately, and measured rather than assumed: an article appended below the
+  // master's trailing sections is NOT silently dropped. The split above is global over every
+  // `### Article` heading, so such an article is still extracted and only its own body is
+  // truncated. Article 525 sits below `## Pending` today - the structural oddity that produced the
+  // leak - and all 524 extract correctly. A guard here would fire on every run while describing a
+  // failure that cannot happen, and an alarm that is always on is one nobody reads.
+
   for (let i = 1; i < blocks.length; i += 3) {
     const articleNum = parseInt(blocks[i], 10);
     const title = blocks[i + 1].trim();
     let body = blocks[i + 2] || '';
 
     // Truncate at trailing master sections that follow the last article.
-    body = body.split(/^## (?:Session log|Defensive standard|Pending)\b/m)[0];
+    //
+    // `**End of master report.**` and the explicit sentinel are the END-OF-ARTICLES terminators.
+    // They matter because the master's own footer sits BELOW the last appended article and carries
+    // none of the `## ...` section markers, so the final article ran to EOF and absorbed it. That
+    // leaked `End of master report.` + the whole `Build status:` line into a live page (Kong,
+    // 2026-08-29). It is the SECOND occurrence: on 31 May 2026 the footer was relocated below
+    // `## Pending` to fix the same class, and the next appended article landed between the two.
+    // Relocating the footer moves the symptom; an unterminated tail is the bug, so the terminator
+    // list is the fix and ASSERT_NO_LEAK below is what stops it shipping if this list is ever
+    // outrun again.
+    body = body.split(END_OF_ARTICLES)[0];
 
     // Slug (quirk 4 resolved at master level; tolerate backticks anyway).
     const slugMatch = body.match(/^\*\*URL slug:\*\*\s*`?(\/[^\s`\n]+)/m);
@@ -331,6 +369,24 @@ function main() {
 
   console.log(`Master parsed: ${articles.length} articles, ${errors.length} errors.`);
   if (errors.length) errors.forEach((e) => console.log(`  ! ${e}`));
+
+  // THE REFUSAL. The terminator list above is a fix; this is what ends the CLASS. Any internal
+  // build artifact reaching an article body stops the migration outright rather than being written
+  // to a file that then ships. The previous occurrence shipped silently and was found by Kong on
+  // the live site, which is the only reason this exists.
+  const leaking = [];
+  for (const a of articles) {
+    for (const [re, name] of LEAK_MARKERS) {
+      if (re.test(a.cleanBody)) leaking.push(`Article ${a.articleNum} (${a.slug}): ${name}`);
+    }
+  }
+  if (leaking.length) {
+    console.error(`\nREFUSED: ${leaking.length} article body/bodies carry internal build artifacts.`);
+    leaking.forEach((l) => console.error(`  ! ${l}`));
+    console.error('\nAn article must never carry master-report scaffolding. Nothing was written.');
+    process.exit(1);
+  }
+
   console.log(`${PILOT ? 'PILOT' : 'FULL'} migration: writing ${selected.length} files.`);
 
   if (DRY_RUN) {

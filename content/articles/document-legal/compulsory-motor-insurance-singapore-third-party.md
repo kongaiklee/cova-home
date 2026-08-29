@@ -10,7 +10,7 @@ required_by_law: "cover"
 article_number: 525
 published: "2026-08-26"
 source_verified: "2026-08-26"
-word_count: 2437
+word_count: 2382
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/compulsory-motor-insurance-singapore-third-party"
@@ -116,7 +116,3 @@ The trades that most often meet this requirement without noticing are the ones w
 *Published 26 August 2026. Source verified 26 August 2026.*
 
 ---
-
-**End of master report.**
-
-Build status: **523/552 articles (94.7%)** · 523 articles across 11 categories · last updated 31 May 2026 (62 articles appended #463-#524 from working/approved: licensing 18, emerging-risk 12, association 10, document-legal 9, comparison 7, decision-tree 3, crisis 1, edge-case 1, procedural-howto 1; independently verified SHIP; net article count 461->523).
