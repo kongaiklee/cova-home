@@ -3,7 +3,8 @@ import { WRAP } from './Sections';
 
 /**
  * Site footer, shared by the lander, the blog, the legal pages and the 404. One status line,
- * the entity line, the document versions. Five links, in the artboards' order.
+ * the entity line, the document versions. Links in the artboards' order; News & Updates + RSS
+ * added on KONG's word (2026-08-29, TM window).
  */
 export default function LandingFooter() {
   const link = 'text-[13px] font-medium text-text-primary no-underline hover:text-primary';
@@ -16,10 +17,13 @@ export default function LandingFooter() {
       </div>
       <nav className="mb-[18px] flex flex-wrap gap-4 lg:gap-7" aria-label="Footer">
         <Link to="/blog" className={link}>Guides</Link>
+        <Link to="/updates" className={link}>News & Updates</Link>
         <Link to="/privacy" className={link}>Privacy Policy</Link>
         <Link to="/terms" className={link}>Terms of Use</Link>
         <Link to="/contact" className={link}>Contact</Link>
         <Link to="/careers" className={link}>Careers</Link>
+        {/* plain <a>: the feed is a static file, not a route */}
+        <a href="/feed.xml" className={link}>RSS</a>
       </nav>
       <p className={`${fine} mb-2.5 max-w-[90ch]`}>
         Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.

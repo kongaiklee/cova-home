@@ -67,6 +67,14 @@ export default function UpdatesPage() {
           <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">What we screen</p>
           <p className="m-0 mt-2 text-sm/relaxed text-text-secondary">{SCREENED.join(' · ')}</p>
         </div>
+        <div className="mt-8 border-t border-border-primary pt-6">
+          <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">Follow along</p>
+          <p className="m-0 mt-2 text-sm/relaxed text-text-secondary">
+            Subscribe by RSS: add{' '}
+            <a href="/feed.xml" className="font-medium text-primary hover:underline">covarage.com/feed.xml</a>{' '}
+            to any feed reader to get our newest guides as they publish.
+          </p>
+        </div>
       </section>
     </>
   );
