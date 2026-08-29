@@ -1,5 +1,7 @@
 import { Link } from 'react-router-dom';
 import { WRAP } from './Sections';
+import { HUB_CATEGORIES } from '../blog/CategoryHub';
+import { CATEGORY_LABELS } from '../../content/intents';
 
 /**
  * Site footer, shared by the lander, the blog, the legal pages and the 404. One status line,
@@ -24,6 +26,17 @@ export default function LandingFooter() {
         <Link to="/careers" className={link}>Careers</Link>
         {/* plain <a>: the feed is a static file, not a route */}
         <a href="/feed.xml" className={link}>RSS</a>
+      </nav>
+      {/* The category hubs, in the footer of EVERY page so the whole guide tree is one hop from
+          anywhere a crawler lands. This is the cheap half of the indexing fix (CMO's plan s2.3):
+          the hubs carry the 525 article links, and this carries the hubs. Derived from the index,
+          never hardcoded - a new category appears here on its own. */}
+      <nav className="mb-[18px] flex flex-wrap gap-x-4 gap-y-2 lg:gap-x-6" aria-label="Guide categories">
+        {HUB_CATEGORIES.map((c) => (
+          <Link key={c} to={`/guides/${c}`} className="text-[13px] text-text-secondary no-underline hover:text-primary">
+            {CATEGORY_LABELS[c] ?? c}
+          </Link>
+        ))}
       </nav>
       <p className={`${fine} mb-2.5 max-w-[90ch]`}>
         Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.

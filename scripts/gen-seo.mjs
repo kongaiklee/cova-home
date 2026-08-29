@@ -31,6 +31,16 @@ const urls = [
   { loc: `${SITE}/careers`, lastmod: null, priority: '0.5' },
   { loc: `${SITE}/terms`, lastmod: null, priority: '0.3' },
   { loc: `${SITE}/privacy`, lastmod: null, priority: '0.3' },
+  // Category hubs - derived from the index, exactly as the routes are, so the two can never
+  // disagree about which categories exist. lastmod = the newest article in the category, which
+  // is the honest recrawl signal: the hub changes when a guide is added to it.
+  ...[...new Set(articles.map((a) => a.category))].sort().map((category) => ({
+    loc: `${SITE}/guides/${category}`,
+    lastmod: articles
+      .filter((a) => a.category === category)
+      .reduce((max, a) => (a.published > max ? a.published : max), ''),
+    priority: '0.9',
+  })),
   ...articles.map((a) => ({
     loc: `${SITE}/guides${a.slug}`,
     lastmod: a.published,

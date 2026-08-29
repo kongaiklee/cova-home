@@ -6,6 +6,7 @@ import Landing from '../pages/landing/index';
 import BlogLayout from '../pages/blog/BlogLayout';
 import BlogIndex from '../pages/blog/BlogIndex';
 import ArticlePage from '../pages/blog/ArticlePage';
+import CategoryHub, { HUB_CATEGORIES } from '../pages/blog/CategoryHub';
 import Terms from '../pages/legal/Terms';
 import Privacy from '../pages/legal/Privacy';
 import Contact from '../pages/company/Contact';
@@ -58,6 +59,16 @@ export const routes: RouteRecord[] = [
           { path: 'privacy', element: <Privacy /> },
           // moved from blog.covarage.com with the corpus; the blog host 301s its old path here
           { path: 'guides/tools/insurance-gap-check', element: <InsuranceGapTool /> },
+          // Category hubs, one per category that actually carries articles. Generated the same way
+          // article routes are, so the static build prerenders one HTML file each with the whole
+          // article list in the served source - which is the entire point (CMO's indexing plan:
+          // the blog index exposes 12 of 525 guides to a crawler because its filtering is
+          // client-side). Derived from the index, NOT hardcoded, so a new category gets a hub for
+          // free and an empty one never gets a thin page.
+          ...HUB_CATEGORIES.map((category) => ({
+            path: `guides/${category}`,
+            element: <CategoryHub category={category} />,
+          })),
           // Every article lives under /guides/<category>/<slug>; the old paths 301 here (vercel.json).
           ...ARTICLES.map((a) => ({
             path: `${GUIDES_PREFIX}${a.slug}`.replace(/^\//, ''),
