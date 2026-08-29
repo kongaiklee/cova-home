@@ -4,7 +4,7 @@ import Seo from '../../components/Seo';
 import LanderHeader from './LanderHeader';
 import Hero from './Hero';
 import { frameRequestArrival } from './requestFraming';
-import { Problem, Proof, Stake, TradeLine } from './Sections';
+import { Orientation, Problem, Proof, Stake, TradeLine } from './Sections';
 import Trades from './Trades';
 import Guides from './Guides';
 import { Chase, Close, FounderNote, HowItWorks, Money, Onboarding, Renewal, WhatYouGet } from './Sections2';
@@ -29,8 +29,15 @@ export default function LandingPage() {
       <LanderHeader />
       <Hero />
       <TradeLine />
-      <Stake />
+      <Orientation />
       <Proof />
+      {/* 1B THE STAKE sits BELOW the proof strip - CD's sequence verdict, and it is a MOVE: the
+          stake was live directly after the hero. Credibility before cost (74/23/85 read as scare
+          copy from an unproven source and as expertise after 24 insurers / 766 policies), and the
+          introducer boundary improves with it - a stake before any proof reads as COVA calling
+          your cover inadequate, which is assessing adequacy; after a strip whose own footnote
+          credits the intermediaries, it reads as the context advisers operate in. */}
+      <Stake />
       <Problem />
       <Trades />
       <Guides />
