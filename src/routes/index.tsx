@@ -82,6 +82,13 @@ export const routes: RouteRecord[] = [
           })),
         ],
       },
+      // Prerendered to dist/404.html so the HOST has a real 404 body to serve. Without this the
+      // vercel.json catch-all had to rewrite every unmatched path to `/`, which answered HTTP 200
+      // with the homepage - a soft 404 telling Google that every junk URL exists and is a homepage
+      // duplicate, across an unbounded URL space.
+      { path: '404', element: <NotFound /> },
+      // Client-side only: after hydration React Router still needs a catch-all for in-app
+      // navigation to a bad path. The SERVER no longer relies on it.
       { path: '*', element: <NotFound /> },
     ],
   },
