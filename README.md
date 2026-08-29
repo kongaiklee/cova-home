@@ -92,3 +92,21 @@ npm run lint:fix
 - `/features` - Detailed features page
 - `/corporates` - Corporate solutions page
 - `*` - 404 Not Found page
+
+## 📨 Minting an onboarding-pack link
+
+`/pack` is personalised entirely by an opaque `?t=` token, so the served page holds no personal
+data and there is nothing to store. **Delivery is human, at the follow-up** - the founder welcome
+does not carry a pack link, because at submit time the token would hold only name and company and
+the personalisation is the whole payoff. Mint after the call, once the trade and any renewal dates
+are known, and paste the link into the follow-up email:
+
+```bash
+node scripts/make-pack-link.mjs --name "Jane Tan" --company "Tan Logistics" \
+  --email jane@example.com --trade logistics --introduced \
+  --renewal "Public liability=2027-03-01"
+```
+
+`--trade` takes one of: `fnb`, `construction`, `logistics`, `retail`, `maritime`, `professional`,
+`tech`, `startups`. Omit anything you do not know - the page elides missing fields by contract and
+never renders broken personalisation. A stale or malformed token renders the ask-us-again state.

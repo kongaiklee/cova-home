@@ -3,7 +3,12 @@
  * make-pack-link.mjs - mint an onboarding-pack link (plan item 15).
  *
  * The pack page (/pack) is personalised by an opaque token in ?t= - base64url JSON, no store.
- * The team mints a link when it opens an account and sends it in the founder's email.
+ *
+ * DELIVERY IS HUMAN, AT THE FOLLOW-UP - not automated at submit (CPO_SPEC_pack-delivery.md,
+ * 2026-08-29). The founder welcome (s15) deliberately does NOT carry a pack link: at submit time
+ * the token could hold only name+company, which delivers the pack at its emptiest, and the
+ * personalisation IS the payoff. Mint after the call, when the trade, the introducer and any
+ * renewal dates are actually known, and paste the link into the follow-up email.
  *
  * Usage:
  *   node scripts/make-pack-link.mjs --name "Jane Tan" --company "Tan Logistics" \
