@@ -13,9 +13,9 @@ word_count: 2066
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/real-estate-agency-misrepresentation-pi-disclosure-singapore"
-meta_description: "A real estate agency licensed under the Estate Agents Act carries misrepresentation exposure on every transaction. Where disclosure and PI meet."
+meta_description: "An agency licensed under Singapore's Estate Agents Act carries misrepresentation exposure on every transaction. Where disclosure and PI meet."
 og_title: "Real Estate Agency Misrepresentation Cover and PI Disclosure Framework"
-og_description: "A real estate agency licensed under the Estate Agents Act carries misrepresentation exposure on every transaction. Where disclosure and PI meet."
+og_description: "An agency licensed under Singapore's Estate Agents Act carries misrepresentation exposure on every transaction. Where disclosure and PI meet."
 ---
 
 > **The Answer in 60 Seconds**

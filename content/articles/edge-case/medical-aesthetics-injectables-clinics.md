@@ -13,9 +13,9 @@ word_count: 1571
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/medical-aesthetics-injectables-clinics"
-meta_description: "Medical aesthetics combines injectables and energy devices under MOH oversight. Where the clinical duty sits, and what indemnity has to cover."
+meta_description: "Medical aesthetics combines injectables and energy devices under Singapore MOH oversight. Where the clinical duty sits, and what indemnity covers."
 og_title: "Specialty Medical Aesthetics: The Distinct Insurance Profile for Aesthetic Medicine, Injectables, and Energy-Based Treatments"
-og_description: "Medical aesthetics combines injectables and energy devices under MOH oversight. Where the clinical duty sits, and what indemnity has to cover."
+og_description: "Medical aesthetics combines injectables and energy devices under Singapore MOH oversight. Where the clinical duty sits, and what indemnity covers."
 ---
 
 > **The Answer in 60 Seconds**

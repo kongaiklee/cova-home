@@ -13,9 +13,9 @@ word_count: 1681
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wsh-penalty-doubling-2024"
-meta_description: "From 1 June 2024 maximum WSH fines rose across the subsidiary legislation. What the new ceilings are, and which breaches they attach to."
+meta_description: "Maximum Singapore WSH fines rose across the subsidiary legislation on 1 June 2024. What the new ceilings are, and which breaches they attach to."
 og_title: "WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing"
-og_description: "From 1 June 2024 maximum WSH fines rose across the subsidiary legislation. What the new ceilings are, and which breaches they attach to."
+og_description: "Maximum Singapore WSH fines rose across the subsidiary legislation on 1 June 2024. What the new ceilings are, and which breaches they attach to."
 ---
 
 > **The Answer in 60 Seconds**

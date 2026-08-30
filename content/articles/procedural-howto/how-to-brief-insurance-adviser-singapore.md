@@ -13,9 +13,9 @@ word_count: 1970
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-brief-insurance-adviser-singapore"
-meta_description: "Quotes come back wrong because briefs go out incomplete. The five errors that cause it, starting with payroll estimated rather than counted."
+meta_description: "Quotes come back wrong because briefs go out incomplete. The five errors that cause it in Singapore, starting with payroll estimated rather than counted."
 og_title: "How to Brief Your Insurance Adviser So Quotes Come Back Faster and More Accurate"
-og_description: "Quotes come back wrong because briefs go out incomplete. The five errors that cause it, starting with payroll estimated rather than counted."
+og_description: "Quotes come back wrong because briefs go out incomplete. The five errors that cause it in Singapore, starting with payroll estimated rather than counted."
 ---
 
 > **The Answer in 60 Seconds**

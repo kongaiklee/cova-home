@@ -13,9 +13,9 @@ word_count: 892
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/employment-pass-holder-insurance-requirements"
-meta_description: "MOM states plainly that medical insurance is not required for Employment Pass holders. What that changes, and what still applies."
+meta_description: "MOM states plainly that medical insurance is not required for Singapore Employment Pass holders. What that changes, and what still applies."
 og_title: "What Insurance Must Employers Provide for Employment Pass Holders?"
-og_description: "MOM states plainly that medical insurance is not required for Employment Pass holders. What that changes, and what still applies."
+og_description: "MOM states plainly that medical insurance is not required for Singapore Employment Pass holders. What that changes, and what still applies."
 ---
 
 > **The 60-second answer:** Per [MOM's FAQ](https://www.mom.gov.sg/faq/employment-pass/are-employers-required-to-buy-medical-insurance-for-employment-pass-holders), "Providing medical insurance is not a requirement for employing Employment Pass (EP) holders." The mandatory S$60,000 medical insurance regime applies only to Work Permit and S Pass holders, not EP holders. However, market practice across Singapore is to provide group medical, life, and sometimes dental cover as part of the EP holder's remuneration package.

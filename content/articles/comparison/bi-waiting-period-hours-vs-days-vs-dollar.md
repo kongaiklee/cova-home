@@ -13,9 +13,9 @@ word_count: 2824
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/bi-waiting-period-hours-vs-days-vs-dollar"
-meta_description: "Business interruption does not pay from the first dollar. The waiting period is a real retained cost, and hours, days and dollars behave differently."
+meta_description: "Business interruption never pays from the first dollar. For a Singapore SME the waiting period is a retained cost, and hours, days and dollars differ."
 og_title: "Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period"
-og_description: "Business interruption does not pay from the first dollar. The waiting period is a real retained cost, and hours, days and dollars behave differently."
+og_description: "Business interruption never pays from the first dollar. For a Singapore SME the waiting period is a retained cost, and hours, days and dollars differ."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1776
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/art-conservator-restoration-insurance"
-meta_description: "An art conservator holds other people's property in the studio. What bailee cover does, and what care, custody and control actually extends to."
+meta_description: "An art conservator holds other people's property in the studio. What bailee cover does in Singapore, and what care, custody and control extends to."
 og_title: "Art Conservator and Fine Art Restoration Insurance in Singapore"
-og_description: "An art conservator holds other people's property in the studio. What bailee cover does, and what care, custody and control actually extends to."
+og_description: "An art conservator holds other people's property in the studio. What bailee cover does in Singapore, and what care, custody and control extends to."
 ---
 
 > **The Answer in 60 Seconds**

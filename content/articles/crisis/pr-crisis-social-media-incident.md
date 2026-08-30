@@ -13,9 +13,9 @@ word_count: 1757
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/pr-crisis-social-media-incident"
-meta_description: "What you say in the first hour sets the trajectory. Who to convene, what to establish before any statement, and how to classify the incident."
+meta_description: "What you say in the first hour sets the trajectory for a Singapore brand. Who to convene, what to establish first, and how to classify it."
 og_title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?"
-og_description: "What you say in the first hour sets the trajectory. Who to convene, what to establish before any statement, and how to classify the incident."
+og_description: "What you say in the first hour sets the trajectory for a Singapore brand. Who to convene, what to establish first, and how to classify it."
 ---
 
 > **The Answer in 60 Seconds**

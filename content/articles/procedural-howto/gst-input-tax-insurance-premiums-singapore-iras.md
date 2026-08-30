@@ -13,9 +13,9 @@ word_count: 1844
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/gst-input-tax-insurance-premiums-singapore-iras"
-meta_description: "Which insurance premiums carry claimable GST input tax and which do not, on IRAS's own treatment. What a GST-registered SME can actually recover."
+meta_description: "Which insurance premiums carry claimable GST input tax and which do not, on IRAS's own treatment. What a GST-registered Singapore SME can recover."
 og_title: "How to Claim GST Input Tax on Insurance Premiums"
-og_description: "Which insurance premiums carry claimable GST input tax and which do not, on IRAS's own treatment. What a GST-registered SME can actually recover."
+og_description: "Which insurance premiums carry claimable GST input tax and which do not, on IRAS's own treatment. What a GST-registered Singapore SME can recover."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1660
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-receivership-trade-credit-claim"
-meta_description: "A major customer in receivership or judicial management. What IRDA does to your recovery, and what a trade credit claim needs from you now."
+meta_description: "A major customer in receivership or judicial management. What Singapore's IRDA does to your recovery, and what a trade credit claim needs now."
 og_title: "Customer Receivership Mid-Receivable: The Trade Credit Insurance Notification Window"
-og_description: "A major customer in receivership or judicial management. What IRDA does to your recovery, and what a trade credit claim needs from you now."
+og_description: "A major customer in receivership or judicial management. What Singapore's IRDA does to your recovery, and what a trade credit claim needs now."
 ---
 
 > **The Answer in 60 Seconds**

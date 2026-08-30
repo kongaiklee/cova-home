@@ -13,9 +13,9 @@ word_count: 1339
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/scdf-fc-36-month-renewal-2026"
-meta_description: "From 1 April 2026 the SCDF Fire Certificate runs 36 months instead of one year, with fees once per cycle. What changes in your renewal file."
+meta_description: "Singapore's SCDF Fire Certificate runs 36 months from 1 April 2026, not one year, with fees once per cycle. What changes in your renewal file."
 og_title: "SCDF Fire Certificate 36-Month Renewal Cycle from 1 April 2026: Operator Readiness"
-og_description: "From 1 April 2026 the SCDF Fire Certificate runs 36 months instead of one year, with fees once per cycle. What changes in your renewal file."
+og_description: "Singapore's SCDF Fire Certificate runs 36 months from 1 April 2026, not one year, with fees once per cycle. What changes in your renewal file."
 ---
 
 > **The Answer in 60 Seconds**

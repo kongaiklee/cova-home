@@ -13,9 +13,9 @@ word_count: 1481
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/equipment-breakdown-claim-process"
-meta_description: "Equipment breakdown covers the mechanical and electrical failure a property policy excludes. How the claim runs, and what evidence it needs."
+meta_description: "Equipment breakdown covers the mechanical and electrical failure a property policy excludes. How a Singapore claim runs, and what evidence it needs."
 og_title: "Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures"
-og_description: "Equipment breakdown covers the mechanical and electrical failure a property policy excludes. How the claim runs, and what evidence it needs."
+og_description: "Equipment breakdown covers the mechanical and electrical failure a property policy excludes. How a Singapore claim runs, and what evidence it needs."
 ---
 
 > **The Answer in 60 Seconds**

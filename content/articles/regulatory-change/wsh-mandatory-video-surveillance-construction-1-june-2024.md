@@ -13,9 +13,9 @@ word_count: 1886
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024"
-meta_description: "From 1 June 2024 a video surveillance system became mandatory on covered construction worksites. Where it must go, and what the regulations require."
+meta_description: "Video surveillance became mandatory on covered Singapore construction worksites on 1 June 2024. Where it must go, and what the regulations require."
 og_title: "WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact"
-og_description: "From 1 June 2024 a video surveillance system became mandatory on covered construction worksites. Where it must go, and what the regulations require."
+og_description: "Video surveillance became mandatory on covered Singapore construction worksites on 1 June 2024. Where it must go, and what the regulations require."
 ---
 
 > **The Answer in 60 Seconds**

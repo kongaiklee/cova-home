@@ -13,9 +13,9 @@ word_count: 1729
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/fire-vs-par-claim-mechanics"
-meta_description: "Fire cover responds to a named list of perils; property all risks starts from everything and excludes. How each behaves at claim."
+meta_description: "Fire cover answers a named list of perils; property all risks starts from everything and excludes. How each behaves at a Singapore claim."
 og_title: "Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work"
-og_description: "Fire cover responds to a named list of perils; property all risks starts from everything and excludes. How each behaves at claim."
+og_description: "Fire cover answers a named list of perils; property all risks starts from everything and excludes. How each behaves at a Singapore claim."
 ---
 
 > **The Answer in 60 Seconds**

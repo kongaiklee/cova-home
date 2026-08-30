@@ -13,9 +13,9 @@ word_count: 2158
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wsha-section-48-director-liability"
-meta_description: "WSHA section 48 reaches the individual director where the offence had their consent or neglect. What that means for personal exposure."
+meta_description: "WSHA section 48 reaches a Singapore director personally where the offence had their consent or neglect. What that means for exposure."
 og_title: "WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil"
-og_description: "WSHA section 48 reaches the individual director where the offence had their consent or neglect. What that means for personal exposure."
+og_description: "WSHA section 48 reaches a Singapore director personally where the offence had their consent or neglect. What that means for exposure."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2993
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/defense-costs-inside-vs-outside-limits-liability"
-meta_description: "Two quotes can show the same limit and be worth very different amounts. Whether defence costs sit inside or outside the limit is why."
+meta_description: "Two Singapore quotes can show the same limit and be worth very different amounts. Whether defence costs sit inside or outside the limit is why."
 og_title: "Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework"
-og_description: "Two quotes can show the same limit and be worth very different amounts. Whether defence costs sit inside or outside the limit is why."
+og_description: "Two Singapore quotes can show the same limit and be worth very different amounts. Whether defence costs sit inside or outside the limit is why."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 840
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/scal-sgma-impact-on-insurance"
-meta_description: "SgMA is a simplified safety and environmental assessment run by SCAL's subsidiary. It is not insurance, but it shapes how you are priced."
+meta_description: "SgMA is a simplified safety and environmental assessment run by SCAL's subsidiary. It is not insurance, but it shapes Singapore pricing."
 og_title: "What Is SCAL's SgMA, and How Does It Affect My Insurance?"
-og_description: "SgMA is a simplified safety and environmental assessment run by SCAL's subsidiary. It is not insurance, but it shapes how you are priced."
+og_description: "SgMA is a simplified safety and environmental assessment run by SCAL's subsidiary. It is not insurance, but it shapes Singapore pricing."
 ---
 
 > **The 60-second answer:** Safety & Green Management Assessment (SgMA) is a simplified workplace safety and environmental management audit operated by **SC2 Pte Ltd**, a subsidiary of the Singapore Contractors Association (SCAL) ([SC2 SgMA page](https://www.sc2.com.sg/what-we-do/safety-and-green-management-assessment-sgma/)). All SLOTS-registered sub-contractors must complete SgMA, or qualify for a waiver via ISO 45001 + ISO 14001 + an SGSecure Representative letter ([SCAL SLOTS T&Cs](https://www.scal.com.sg/membership/slots-application-tnc)). SgMA is not insurance - but it shapes how WICA and PL underwriters price your premiums.

@@ -13,9 +13,9 @@ word_count: 1574
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/faa-n16-reasonable-basis"
-meta_description: "MAS Notice FAA-N16 requires a reasonable basis for every recommendation. What the adviser has to establish, and what a breach looks like."
+meta_description: "MAS Notice FAA-N16 requires a reasonable basis for every Singapore recommendation. What the adviser must establish, and what a breach looks like."
 og_title: "MAS Notice FAA-N16: The \"Reasonable Basis for Recommendation\" Duty Explained"
-og_description: "MAS Notice FAA-N16 requires a reasonable basis for every recommendation. What the adviser has to establish, and what a breach looks like."
+og_description: "MAS Notice FAA-N16 requires a reasonable basis for every Singapore recommendation. What the adviser must establish, and what a breach looks like."
 ---
 
 > **The Answer in 60 Seconds**

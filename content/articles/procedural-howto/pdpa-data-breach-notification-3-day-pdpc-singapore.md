@@ -13,9 +13,9 @@ word_count: 1632
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore"
-meta_description: "PDPA Part 6A gives you three calendar days to notify PDPC once a breach is assessed as notifiable. What starts the clock, and what the notice must carry."
+meta_description: "Singapore's PDPA Part 6A gives three calendar days to notify PDPC once a breach is notifiable. What starts the clock, and what the notice must carry."
 og_title: "How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock"
-og_description: "PDPA Part 6A gives you three calendar days to notify PDPC once a breach is assessed as notifiable. What starts the clock, and what the notice must carry."
+og_description: "Singapore's PDPA Part 6A gives three calendar days to notify PDPC once a breach is notifiable. What starts the clock, and what the notice must carry."
 ---
 
 > **The Answer in 60 Seconds**

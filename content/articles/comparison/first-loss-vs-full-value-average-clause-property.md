@@ -13,9 +13,9 @@ word_count: 3045
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/first-loss-vs-full-value-average-clause-property"
-meta_description: "First loss or full value with average: two ways to set a property sum insured. What each assumes, and which one penalises underinsurance."
+meta_description: "First loss or full value with average: two ways a Singapore business sets a property sum insured. What each assumes, and which penalises underinsurance."
 og_title: "First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework"
-og_description: "First loss or full value with average: two ways to set a property sum insured. What each assumes, and which one penalises underinsurance."
+og_description: "First loss or full value with average: two ways a Singapore business sets a property sum insured. What each assumes, and which penalises underinsurance."
 ---
 
 > **The Answer in 60 Seconds**

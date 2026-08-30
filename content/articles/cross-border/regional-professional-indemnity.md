@@ -13,9 +13,9 @@ word_count: 2014
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-professional-indemnity"
-meta_description: "Professional indemnity across borders follows each jurisdiction's regulated-profession framework. What travels with you, and what does not."
+meta_description: "Professional indemnity across borders follows each jurisdiction's rules. What travels with you out of Singapore, and what does not."
 og_title: "Regional Professional Indemnity: Cross-Border Services and Multi-Jurisdiction Practice"
-og_description: "Professional indemnity across borders follows each jurisdiction's regulated-profession framework. What travels with you, and what does not."
+og_description: "Professional indemnity across borders follows each jurisdiction's rules. What travels with you out of Singapore, and what does not."
 ---
 
 > **The Answer in 60 Seconds**

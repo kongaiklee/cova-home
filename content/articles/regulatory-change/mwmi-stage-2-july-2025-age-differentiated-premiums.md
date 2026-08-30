@@ -13,9 +13,9 @@ word_count: 1475
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums"
-meta_description: "From 1 July 2025 migrant worker medical insurance entered Stage 2, with age-differentiated premiums among the changes. What employers now buy."
+meta_description: "Singapore migrant worker medical insurance entered Stage 2 on 1 July 2025, age-differentiated premiums among the changes. What employers now buy."
 og_title: "Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement"
-og_description: "From 1 July 2025 migrant worker medical insurance entered Stage 2, with age-differentiated premiums among the changes. What employers now buy."
+og_description: "Singapore migrant worker medical insurance entered Stage 2 on 1 July 2025, age-differentiated premiums among the changes. What employers now buy."
 ---
 
 > **The Answer in 60 Seconds**

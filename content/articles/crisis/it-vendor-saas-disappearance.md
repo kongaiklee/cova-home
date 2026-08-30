@@ -13,9 +13,9 @@ word_count: 2836
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/it-vendor-saas-disappearance"
-meta_description: "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What to secure first, and what your contract probably does not give you."
+meta_description: "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What a Singapore SME secures first, and what the contract will not give."
 og_title: "IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs"
-og_description: "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What to secure first, and what your contract probably does not give you."
+og_description: "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What a Singapore SME secures first, and what the contract will not give."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2860
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/reinstatement-cost-vs-indemnity-value-property"
-meta_description: "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your policy is on decides what a claim actually rebuilds."
+meta_description: "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your Singapore policy is on decides what a claim rebuilds."
 og_title: "Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework"
-og_description: "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your policy is on decides what a claim actually rebuilds."
+og_description: "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your Singapore policy is on decides what a claim rebuilds."
 ---
 
 > **The Answer in 60 Seconds**

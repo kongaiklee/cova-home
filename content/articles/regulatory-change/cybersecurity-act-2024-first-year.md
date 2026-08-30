@@ -13,9 +13,9 @@ word_count: 1348
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-first-year"
-meta_description: "Most of the Cybersecurity (Amendment) Act came into force on 31 October 2024. What the first year showed about how it is being applied."
+meta_description: "Most of the Cybersecurity (Amendment) Act came into force in Singapore on 31 October 2024. What the first year showed about how it is applied."
 og_title: "Cybersecurity Act 2024 Amendment First-Year Compliance Review"
-og_description: "Most of the Cybersecurity (Amendment) Act came into force on 31 October 2024. What the first year showed about how it is being applied."
+og_description: "Most of the Cybersecurity (Amendment) Act came into force in Singapore on 31 October 2024. What the first year showed about how it is applied."
 ---
 
 > **The Answer in 60 Seconds**

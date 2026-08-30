@@ -13,9 +13,9 @@ word_count: 1854
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/employment-agency-licence-insurance-requirements-singapore"
-meta_description: "An employment agency licence requires a security bond, not an insurance policy. What the Employment Agencies Act asks you to furnish, and why."
+meta_description: "A Singapore employment agency licence requires a security bond, not an insurance policy. What the Employment Agencies Act asks you to furnish, and why."
 og_title: "Does an Employment Agency Licence Require Insurance in Singapore?"
-og_description: "An employment agency licence requires a security bond, not an insurance policy. What the Employment Agencies Act asks you to furnish, and why."
+og_description: "A Singapore employment agency licence requires a security bond, not an insurance policy. What the Employment Agencies Act asks you to furnish, and why."
 ---
 
 > **The Answer in 60 Seconds**

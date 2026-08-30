@@ -13,9 +13,9 @@ word_count: 1590
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/extended-reporting-period-tail-cover-ma-singapore"
-meta_description: "A sale, wind-down or restructure leaves claims-made policies exposed. What run-off and tail cover do, and when to buy it rather than after."
+meta_description: "A sale, wind-down or restructure leaves claims-made policies exposed. What run-off and tail cover do for a Singapore seller, and when to buy."
 og_title: "How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale"
-og_description: "A sale, wind-down or restructure leaves claims-made policies exposed. What run-off and tail cover do, and when to buy it rather than after."
+og_description: "A sale, wind-down or restructure leaves claims-made policies exposed. What run-off and tail cover do for a Singapore seller, and when to buy."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1352
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/employee-fraud-discovery-first-24-hours-singapore"
-meta_description: "Discovery of material employee fraud starts four parallel threads at once. What to secure, who to notify and what not to do in the first 24 hours."
+meta_description: "Discovery of material employee fraud starts four parallel threads at once. What a Singapore SME secures, who it notifies, and what not to do on day one."
 og_title: "First 24 Hours After a Major Employee Fraud Discovery: A Singapore SME Crisis Playbook"
-og_description: "Discovery of material employee fraud starts four parallel threads at once. What to secure, who to notify and what not to do in the first 24 hours."
+og_description: "Discovery of material employee fraud starts four parallel threads at once. What a Singapore SME secures, who it notifies, and what not to do on day one."
 ---
 
 > **The Answer in 60 Seconds**

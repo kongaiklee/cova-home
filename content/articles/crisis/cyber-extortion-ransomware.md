@@ -13,9 +13,9 @@ word_count: 1408
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/cyber-extortion-ransomware"
-meta_description: "Do not pay, do not power-cycle, do not talk to the attacker unaided. What to do in the first hour of a ransomware incident, and in what order."
+meta_description: "Do not pay, do not power-cycle, do not talk to the attacker unaided. What the first hour of a Singapore ransomware incident demands."
 og_title: "Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?"
-og_description: "Do not pay, do not power-cycle, do not talk to the attacker unaided. What to do in the first hour of a ransomware incident, and in what order."
+og_description: "Do not pay, do not power-cycle, do not talk to the attacker unaided. What the first hour of a Singapore ransomware incident demands."
 ---
 
 > **The Answer in 60 Seconds**

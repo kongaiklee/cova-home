@@ -13,9 +13,9 @@ word_count: 1826
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/insurance-amendment-act-fima-2024"
-meta_description: "From 24 January 2025 the second phase of FIMA 2024 consolidated financial institution rules. What was rationalised, and who it reaches."
+meta_description: "From 24 January 2025 FIMA 2024's second phase consolidated Singapore financial institution rules. What was rationalised, and who it reaches."
 og_title: "Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025"
-og_description: "From 24 January 2025 the second phase of FIMA 2024 consolidated financial institution rules. What was rationalised, and who it reaches."
+og_description: "From 24 January 2025 FIMA 2024's second phase consolidated Singapore financial institution rules. What was rationalised, and who it reaches."
 ---
 
 > **The Answer in 60 Seconds**

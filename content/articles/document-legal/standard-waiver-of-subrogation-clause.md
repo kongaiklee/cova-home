@@ -13,9 +13,9 @@ word_count: 1186
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/standard-waiver-of-subrogation-clause"
-meta_description: "A waiver of subrogation gives away the insurer's right to recover. What signing one commits you to, and when it can void your own cover."
+meta_description: "A waiver of subrogation gives away your Singapore insurer's right to recover. What signing one commits you to, and when it voids your own cover."
 og_title: "Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications"
-og_description: "A waiver of subrogation gives away the insurer's right to recover. What signing one commits you to, and when it can void your own cover."
+og_description: "A waiver of subrogation gives away your Singapore insurer's right to recover. What signing one commits you to, and when it voids your own cover."
 ---
 
 > **The Answer in 60 Seconds**

@@ -203,7 +203,7 @@ When you sit with a licensed adviser or commercial broker to review your policie
 7. Does the Cyber policy respond to a **supplier-impersonation deepfake** (vendor change-of-bank-account fraud), or only to executive impersonation? Where would the line be drawn?
 8. If the loss is partly recovered by SPF/Anti-Scam Centre/INTERPOL after the claim is paid, what is the **subrogation** position - does the recovery flow back to me, the insurer, or split?
 
-Covarage is a Singapore B2B insurance administration platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
+Covarage is a Singapore B2B insurance operations platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
 
 ## Related Information
 

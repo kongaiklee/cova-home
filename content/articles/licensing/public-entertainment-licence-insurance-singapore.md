@@ -13,9 +13,9 @@ word_count: 2087
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/public-entertainment-licence-insurance-singapore"
-meta_description: "The Public Entertainments Act names no insurance as a licence condition. What a PE licence does control, and who asks for cover in practice."
+meta_description: "Singapore's Public Entertainments Act names no insurance as a licence condition. What a PE licence does control, and who asks for cover in practice."
 og_title: "Does a Public Entertainment Licence Require Insurance in Singapore?"
-og_description: "The Public Entertainments Act names no insurance as a licence condition. What a PE licence does control, and who asks for cover in practice."
+og_description: "Singapore's Public Entertainments Act names no insurance as a licence condition. What a PE licence does control, and who asks for cover in practice."
 ---
 
 > **The Answer in 60 Seconds**

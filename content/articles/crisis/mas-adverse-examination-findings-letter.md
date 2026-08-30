@@ -13,9 +13,9 @@ word_count: 1884
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mas-adverse-examination-findings-letter"
-meta_description: "MAS has issued a post-inspection findings letter. What the response has to establish, the timeline you are on, and what the letter signals next."
+meta_description: "Singapore's MAS has issued a post-inspection findings letter. What the response must establish, the timeline you are on, and what it signals next."
 og_title: "MAS Adverse Examination Findings Letter: Day 1 of a Regulatory Crisis for an FA, FMC, or PSP"
-og_description: "MAS has issued a post-inspection findings letter. What the response has to establish, the timeline you are on, and what the letter signals next."
+og_description: "Singapore's MAS has issued a post-inspection findings letter. What the response must establish, the timeline you are on, and what it signals next."
 ---
 
 > **The Answer in 60 Seconds**

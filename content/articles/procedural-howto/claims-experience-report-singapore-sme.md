@@ -13,9 +13,9 @@ word_count: 1590
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/claims-experience-report-singapore-sme"
-meta_description: "The claims experience report is the most material document at renewal. What it records, what it reveals, and how to read it before the insurer does."
+meta_description: "The claims experience report is the most material document at a Singapore renewal. What it records, what it reveals, and how to read it before the insurer."
 og_title: "How to Request and Read Your Claims Experience Report: A Singapore SME's Practical Guide"
-og_description: "The claims experience report is the most material document at renewal. What it records, what it reveals, and how to read it before the insurer does."
+og_description: "The claims experience report is the most material document at a Singapore renewal. What it records, what it reveals, and how to read it before the insurer."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1695
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/equipment-breakdown-halts-production"
-meta_description: "A machine has stopped production. Secure the area, then run the notification and the loss quantification in parallel. What each one needs."
+meta_description: "A machine has stopped production. Secure the area, then run notification and loss quantification in parallel. What each needs in Singapore."
 og_title: "Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?"
-og_description: "A machine has stopped production. Secure the area, then run the notification and the loss quantification in parallel. What each one needs."
+og_description: "A machine has stopped production. Secure the area, then run notification and loss quantification in parallel. What each needs in Singapore."
 ---
 
 > **The Answer in 60 Seconds**

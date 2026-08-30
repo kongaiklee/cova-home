@@ -13,9 +13,9 @@ word_count: 2726
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/tenant-caused-major-fire-landlord-sme-workflow"
-meta_description: "A tenant-caused fire puts the landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve."
+meta_description: "A tenant-caused fire puts a Singapore landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve."
 og_title: "Tenant-Caused Major Fire: Landlord SME Day-One Workflow"
-og_description: "A tenant-caused fire puts the landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve."
+og_description: "A tenant-caused fire puts a Singapore landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve."
 ---
 
 > **The Answer in 60 Seconds**

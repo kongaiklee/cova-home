@@ -13,9 +13,9 @@ word_count: 1388
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/premium-payment-framework"
-meta_description: "The GIA and broker premium payment framework sets when cover actually attaches. What the 60-day rule means, and what happens if you miss it."
+meta_description: "Singapore's GIA premium payment framework sets when cover actually attaches. What the 60-day rule means, and what happens if you miss it."
 og_title: "The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications"
-og_description: "The GIA and broker premium payment framework sets when cover actually attaches. What the 60-day rule means, and what happens if you miss it."
+og_description: "Singapore's GIA premium payment framework sets when cover actually attaches. What the 60-day rule means, and what happens if you miss it."
 ---
 
 > **The Answer in 60 Seconds**

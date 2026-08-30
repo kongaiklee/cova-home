@@ -13,9 +13,9 @@ word_count: 2456
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/composite-management-liability-package-vs-standalone-modules-sme"
-meta_description: "A composite management liability package or standalone modules: what each does to your limits, your exclusions and your claims experience."
+meta_description: "A composite management liability package or standalone modules: what each does to a Singapore SME's limits, exclusions and claims experience."
 og_title: "Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework"
-og_description: "A composite management liability package or standalone modules: what each does to your limits, your exclusions and your claims experience."
+og_description: "A composite management liability package or standalone modules: what each does to a Singapore SME's limits, exclusions and claims experience."
 ---
 
 > **The Answer in 60 Seconds**

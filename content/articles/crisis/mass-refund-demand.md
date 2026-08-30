@@ -13,9 +13,9 @@ word_count: 1784
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mass-refund-demand"
-meta_description: "A mass refund demand can be five different situations. Establish which one you are in before you respond, because the answers differ."
+meta_description: "A mass refund demand can be five different situations in Singapore. Establish which one you are in before you respond, because answers differ."
 og_title: "A Customer Group Just Demanded Mass Refunds - What Do I Do Now?"
-og_description: "A mass refund demand can be five different situations. Establish which one you are in before you respond, because the answers differ."
+og_description: "A mass refund demand can be five different situations in Singapore. Establish which one you are in before you respond, because answers differ."
 ---
 
 > **The Answer in 60 Seconds**

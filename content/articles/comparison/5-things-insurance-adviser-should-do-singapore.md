@@ -13,9 +13,9 @@ word_count: 1841
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/5-things-insurance-adviser-should-do-singapore"
-meta_description: "MAS conduct rules set the floor for what a financial adviser must do. Five things a good one does beyond it, and how to tell the difference."
+meta_description: "MAS conduct rules set the floor for what a Singapore financial adviser must do. Five things a good one does beyond it, and how to tell the difference."
 og_title: "5 Things Your Insurance Adviser Should Be Doing (That Most Do Not)"
-og_description: "MAS conduct rules set the floor for what a financial adviser must do. Five things a good one does beyond it, and how to tell the difference."
+og_description: "MAS conduct rules set the floor for what a Singapore financial adviser must do. Five things a good one does beyond it, and how to tell the difference."
 ---
 
 > **The Answer in 60 Seconds**

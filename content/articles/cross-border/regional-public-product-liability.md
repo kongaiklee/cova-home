@@ -13,9 +13,9 @@ word_count: 1893
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-public-product-liability"
-meta_description: "Operations performed in a country need locally admitted liability cover; products made elsewhere follow a different rule. Where the line falls."
+meta_description: "Operations in a country need locally admitted liability cover; products made in Singapore follow a different rule. Where the line falls."
 og_title: "Regional Public Liability and Product Liability: Cross-Border Operations Coverage"
-og_description: "Operations performed in a country need locally admitted liability cover; products made elsewhere follow a different rule. Where the line falls."
+og_description: "Operations in a country need locally admitted liability cover; products made in Singapore follow a different rule. Where the line falls."
 ---
 
 > **The Answer in 60 Seconds**

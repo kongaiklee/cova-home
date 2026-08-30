@@ -13,9 +13,9 @@ word_count: 1534
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/subrogation-insurer-recovery-singapore"
-meta_description: "After paying you, the insurer steps into your rights and pursues whoever caused the loss. What subrogation asks of you, and what can forfeit it."
+meta_description: "After paying you, a Singapore insurer steps into your rights and pursues whoever caused the loss. What subrogation asks of you, and what can forfeit it."
 og_title: "Subrogation: When Your Insurer Recovers from a Third Party"
-og_description: "After paying you, the insurer steps into your rights and pursues whoever caused the loss. What subrogation asks of you, and what can forfeit it."
+og_description: "After paying you, a Singapore insurer steps into your rights and pursues whoever caused the loss. What subrogation asks of you, and what can forfeit it."
 ---
 
 > **The Answer in 60 Seconds**

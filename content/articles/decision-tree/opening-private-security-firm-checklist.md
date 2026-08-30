@@ -13,9 +13,9 @@ word_count: 1454
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-private-security-firm-checklist"
-meta_description: "A private security firm is licensed under the Private Security Industry Act by the police. What the licence requires before you can trade."
+meta_description: "A private security firm is licensed by the Singapore police under the Private Security Industry Act. What the licence requires before you trade."
 og_title: "Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist"
-og_description: "A private security firm is licensed under the Private Security Industry Act by the police. What the licence requires before you can trade."
+og_description: "A private security firm is licensed by the Singapore police under the Private Security Industry Act. What the licence requires before you trade."
 ---
 
 > **The Answer in 60 Seconds**

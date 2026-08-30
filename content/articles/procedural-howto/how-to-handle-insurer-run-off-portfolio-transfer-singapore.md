@@ -13,9 +13,9 @@ word_count: 3164
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore"
-meta_description: "Your insurer withdraws from a line, transfers the book, or goes into run-off. What section 49FB allows, and where that leaves your policy."
+meta_description: "Your insurer withdraws from a line, transfers the book or enters run-off. What section 49FB of Singapore's Insurance Act allows, and where it leaves you."
 og_title: "How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs"
-og_description: "Your insurer withdraws from a line, transfers the book, or goes into run-off. What section 49FB allows, and where that leaves your policy."
+og_description: "Your insurer withdraws from a line, transfers the book or enters run-off. What section 49FB of Singapore's Insurance Act allows, and where it leaves you."
 ---
 
 The standard SME workflow assumes the insurer is a stable counterparty. The annual renewal happens, the policy responds at claim time, and the SME's only concern is its own premium and its own claims. When the insurer's status changes - when an insurer withdraws from a Singapore line, when an insurer's commercial portfolio is transferred to another carrier, when an insurer enters run-off, or in the rare case when an insurer fails - that assumption breaks. Cover that was placed yesterday may not respond the same way tomorrow. Claims pending may be handled by a different team with different protocols. Policies in force may need replacement before their natural expiry.

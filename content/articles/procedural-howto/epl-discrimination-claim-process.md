@@ -13,9 +13,9 @@ word_count: 1287
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/epl-discrimination-claim-process"
-meta_description: "An EPL discrimination claim under the fair employment framework follows a defined path. What triggers cover, and what the notification must do."
+meta_description: "An EPL discrimination claim under Singapore's fair employment framework follows a defined path. What triggers cover, and what the notice must do."
 og_title: "EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution"
-og_description: "An EPL discrimination claim under the fair employment framework follows a defined path. What triggers cover, and what the notification must do."
+og_description: "An EPL discrimination claim under Singapore's fair employment framework follows a defined path. What triggers cover, and what the notice must do."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1653
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/insurer-suspends-restricts-cover-day-one-response-singapore"
-meta_description: "An insurer notice suspending, restricting or non-renewing cover starts a clock. What to establish on day one, and what not to sign in the meantime."
+meta_description: "A Singapore insurer's notice suspending, restricting or non-renewing cover starts a clock. What to establish on day one, and what not to sign meanwhile."
 og_title: "Day-One Response When Your Insurer Suspends or Restricts Cover"
-og_description: "An insurer notice suspending, restricting or non-renewing cover starts a clock. What to establish on day one, and what not to sign in the meantime."
+og_description: "A Singapore insurer's notice suspending, restricting or non-renewing cover starts a clock. What to establish on day one, and what not to sign meanwhile."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1236
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/soga-1979-implied-terms"
-meta_description: "The Sale of Goods Act implies terms into every commercial sale, starting with title. Which sections apply, and what you cannot contract out of."
+meta_description: "Singapore's Sale of Goods Act implies terms into every commercial sale, starting with title. Which sections apply, and what you cannot contract out of."
 og_title: "Sale of Goods Act 1979: Implied Terms Framework and Commercial Implications"
-og_description: "The Sale of Goods Act implies terms into every commercial sale, starting with title. Which sections apply, and what you cannot contract out of."
+og_description: "Singapore's Sale of Goods Act implies terms into every commercial sale, starting with title. Which sections apply, and what you cannot contract out of."
 ---
 
 > **The Answer in 60 Seconds**

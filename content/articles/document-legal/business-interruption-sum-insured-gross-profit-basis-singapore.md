@@ -13,9 +13,9 @@ word_count: 2189
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore"
-meta_description: "Insurable gross profit is not the gross profit in your accounts. It is turnover minus only the variable costs, and getting it wrong underinsures the claim."
+meta_description: "Singapore insurers rate business interruption on insurable gross profit, not the figure in your accounts. It is turnover minus only the variable costs."
 og_title: "Business Interruption Sum Insured: The Gross-Profit Basis Explained"
-og_description: "Insurable gross profit is not the gross profit in your accounts. It is turnover minus only the variable costs, and getting it wrong underinsures the claim."
+og_description: "Singapore insurers rate business interruption on insurable gross profit, not the figure in your accounts. It is turnover minus only the variable costs."
 ---
 
 > **The Answer in 60 Seconds**

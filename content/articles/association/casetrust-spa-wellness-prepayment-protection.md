@@ -13,9 +13,9 @@ word_count: 904
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/casetrust-spa-wellness-prepayment-protection"
-meta_description: "CaseTrust-accredited spas must buy prepayment protection insurance for customer packages. What it protects, and to what level."
+meta_description: "CaseTrust-accredited Singapore spas must buy prepayment protection insurance for customer packages. What it protects, and to what level."
 og_title: "CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained"
-og_description: "CaseTrust-accredited spas must buy prepayment protection insurance for customer packages. What it protects, and to what level."
+og_description: "CaseTrust-accredited Singapore spas must buy prepayment protection insurance for customer packages. What it protects, and to what level."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2718
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/jv-partnership-breakdown-allocation-run-off-dissolution"
-meta_description: "A joint venture or partnership breaking down puts IP, contracts and liabilities in dispute at once. What to secure while the argument is still live."
+meta_description: "A joint venture breaking down puts IP, contracts and liabilities in dispute at once. What a Singapore operator secures while the argument is still live."
 og_title: "JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow"
-og_description: "A joint venture or partnership breaking down puts IP, contracts and liabilities in dispute at once. What to secure while the argument is still live."
+og_description: "A joint venture breaking down puts IP, contracts and liabilities in dispute at once. What a Singapore operator secures while the argument is still live."
 ---
 
 > **The Answer in 60 Seconds**

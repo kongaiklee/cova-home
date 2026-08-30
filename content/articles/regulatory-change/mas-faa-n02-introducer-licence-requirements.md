@@ -13,9 +13,9 @@ word_count: 1050
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-faa-n02-introducer-licence-requirements"
-meta_description: "Under FAA-N02 an introducer may make the introduction and share factual product information. It may not advise, recommend or hold money."
+meta_description: "Under Singapore's FAA-N02 an introducer may make the introduction and share factual product information. It may not advise or hold money."
 og_title: "MAS Notice FAA-N02: Introducer Licence Requirements Explained"
-og_description: "Under FAA-N02 an introducer may make the introduction and share factual product information. It may not advise, recommend or hold money."
+og_description: "Under Singapore's FAA-N02 an introducer may make the introduction and share factual product information. It may not advise or hold money."
 ---
 
 > **The Answer in 60 Seconds**

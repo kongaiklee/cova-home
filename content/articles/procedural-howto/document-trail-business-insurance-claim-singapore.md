@@ -13,9 +13,9 @@ word_count: 2260
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/document-trail-business-insurance-claim-singapore"
-meta_description: "Claims are rarely lost in dispute. They are lost in documentation. The three things an insurer needs proved, and the papers that prove them."
+meta_description: "Claims are rarely lost in dispute. They are lost in documentation. The three things a Singapore insurer needs proved, and the papers that prove them."
 og_title: "The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim"
-og_description: "Claims are rarely lost in dispute. They are lost in documentation. The three things an insurer needs proved, and the papers that prove them."
+og_description: "Claims are rarely lost in dispute. They are lost in documentation. The three things a Singapore insurer needs proved, and the papers that prove them."
 ---
 
 > **The Answer in 60 Seconds**

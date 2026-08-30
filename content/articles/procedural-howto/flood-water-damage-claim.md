@@ -13,9 +13,9 @@ word_count: 971
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/flood-water-damage-claim"
-meta_description: "Stop the damage, photograph everything, keep the damaged items and notify the same day. What flood and water damage claims turn on."
+meta_description: "Stop the damage, photograph everything, keep the damaged items and notify the same day. What a Singapore flood or water claim actually rests on."
 og_title: "How to File a Property All Risks Claim - Flood and Water Damage"
-og_description: "Stop the damage, photograph everything, keep the damaged items and notify the same day. What flood and water damage claims turn on."
+og_description: "Stop the damage, photograph everything, keep the damaged items and notify the same day. What a Singapore flood or water claim actually rests on."
 ---
 
 > **The Answer in 60 Seconds:** Stop further damage immediately, photograph everything, do not throw out damaged items, and notify your insurer the same day. Per [GIA claims guidance](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html), "all risks" property wordings have a long exclusion list despite the name - flood may be a named peril, an extension, or excluded entirely. Read your policy schedule before assuming you are covered.

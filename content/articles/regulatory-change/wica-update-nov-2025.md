@@ -13,9 +13,9 @@ word_count: 992
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wica-update-nov-2025"
-meta_description: "From 1 November 2025 WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
+meta_description: "On 1 November 2025 Singapore's WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
 og_title: "WICA Compensation Limit Update: What Changed on 1 November 2025"
-og_description: "From 1 November 2025 WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
+og_description: "On 1 November 2025 Singapore's WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
 ---
 
 # What changed in WICA on 1 November 2025?

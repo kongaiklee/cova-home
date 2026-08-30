@@ -13,9 +13,9 @@ word_count: 2529
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme"
-meta_description: "Open cover declares shipments as they go; specific voyage covers one. Which marine cargo structure fits how you actually trade."
+meta_description: "Open cover declares shipments as they go; specific voyage covers one. Which marine cargo structure fits how a Singapore shipper actually trades."
 og_title: "Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework"
-og_description: "Open cover declares shipments as they go; specific voyage covers one. Which marine cargo structure fits how you actually trade."
+og_description: "Open cover declares shipments as they go; specific voyage covers one. Which marine cargo structure fits how a Singapore shipper actually trades."
 ---
 
 > **The Answer in 60 Seconds**

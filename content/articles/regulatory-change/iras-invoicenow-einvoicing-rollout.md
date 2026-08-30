@@ -13,9 +13,9 @@ word_count: 1252
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/iras-invoicenow-einvoicing-rollout"
-meta_description: "IRAS is expanding mandatory InvoiceNow e-invoicing for GST-registered businesses. Who is in scope, from when, and what to prepare."
+meta_description: "IRAS is expanding mandatory InvoiceNow e-invoicing to GST-registered Singapore businesses. Who is in scope, from when, and what to do now."
 og_title: "IRAS InvoiceNow E-Invoicing Mandate Rollout: SME Readiness and Compliance"
-og_description: "IRAS is expanding mandatory InvoiceNow e-invoicing for GST-registered businesses. Who is in scope, from when, and what to prepare."
+og_description: "IRAS is expanding mandatory InvoiceNow e-invoicing to GST-registered Singapore businesses. Who is in scope, from when, and what to do now."
 ---
 
 > **The Answer in 60 Seconds**

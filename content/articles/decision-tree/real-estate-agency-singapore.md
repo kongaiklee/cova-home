@@ -13,9 +13,9 @@ word_count: 1350
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/real-estate-agency-singapore"
-meta_description: "A real estate agency is licensed at agency and salesperson level under the Estate Agents Act. What the CEA requires, and what transactions add."
+meta_description: "A Singapore real estate agency is licensed at agency and salesperson level under the Estate Agents Act. What CEA requires, and what transactions add."
 og_title: "SME Startup Decision Tree: Real Estate Agency - Foundational Insurance Procurement"
-og_description: "A real estate agency is licensed at agency and salesperson level under the Estate Agents Act. What the CEA requires, and what transactions add."
+og_description: "A Singapore real estate agency is licensed at agency and salesperson level under the Estate Agents Act. What CEA requires, and what transactions add."
 ---
 
 > **The Answer in 60 Seconds**

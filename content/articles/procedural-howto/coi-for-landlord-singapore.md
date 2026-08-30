@@ -13,9 +13,9 @@ word_count: 943
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/coi-for-landlord-singapore"
-meta_description: "A certificate of insurance proves your policy is in force to a landlord. What it must show, what it does not do, and how to get one issued."
+meta_description: "Your landlord wants proof the Singapore policy is in force, and a certificate of insurance is it. What it must show, and how to get one."
 og_title: "How to Get a Certificate of Insurance for Your Landlord"
-og_description: "A certificate of insurance proves your policy is in force to a landlord. What it must show, what it does not do, and how to get one issued."
+og_description: "Your landlord wants proof the Singapore policy is in force, and a certificate of insurance is it. What it must show, and how to get one."
 ---
 
 ### The Answer in 60 Seconds

@@ -13,9 +13,9 @@ word_count: 1984
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/home-based-business-insurance-singapore"
-meta_description: "A home contents policy is written for domestic use and usually excludes trade. What that leaves uncovered when the business runs from your address."
+meta_description: "A Singapore home contents policy is written for domestic use and usually excludes trade. What that leaves uncovered when the business runs from home."
 og_title: "Home-Based Business Insurance: The Gap in Your Home Policy"
-og_description: "A home contents policy is written for domestic use and usually excludes trade. What that leaves uncovered when the business runs from your address."
+og_description: "A Singapore home contents policy is written for domestic use and usually excludes trade. What that leaves uncovered when the business runs from home."
 ---
 
 > **The Answer in 60 Seconds**

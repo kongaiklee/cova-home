@@ -13,9 +13,9 @@ word_count: 971
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/wica-add-new-employee"
-meta_description: "Most WICA policies run on a declaration basis, so a new hire is not automatically outside cover. What to declare, and when."
+meta_description: "Most Singapore WICA policies run on a declaration basis, so a new hire is not automatically outside cover. What to declare, and when."
 og_title: "How to Add a New Employee to Existing WICA Policy"
-og_description: "Most WICA policies run on a declaration basis, so a new hire is not automatically outside cover. What to declare, and when."
+og_description: "Most Singapore WICA policies run on a declaration basis, so a new hire is not automatically outside cover. What to declare, and when."
 ---
 
 ### The Answer in 60 Seconds

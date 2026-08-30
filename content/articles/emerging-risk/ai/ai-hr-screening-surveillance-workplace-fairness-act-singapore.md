@@ -14,9 +14,9 @@ word_count: 1665
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-hr-screening-surveillance-workplace-fairness-act-singapore"
-meta_description: "AI in hiring has been discussed as a bias problem. The Workplace Fairness Act turns screening and surveillance into a legal exposure instead."
+meta_description: "AI in hiring is discussed as a bias problem. Singapore's Workplace Fairness Act turns screening and surveillance into a legal exposure instead."
 og_title: "AI in HR Beyond Bias: Automated Screening, Surveillance, and the Workplace Fairness Act 2025"
-og_description: "AI in hiring has been discussed as a bias problem. The Workplace Fairness Act turns screening and surveillance into a legal exposure instead."
+og_description: "AI in hiring is discussed as a bias problem. Singapore's Workplace Fairness Act turns screening and surveillance into a legal exposure instead."
 ---
 
 > **The Answer in 60 Seconds**

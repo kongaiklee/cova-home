@@ -13,9 +13,9 @@ word_count: 1235
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/pl-claim-event-slip-fall"
-meta_description: "A slip at your event starts with medical attention and evidence, not with liability. What to do first, and what the insurer will need."
+meta_description: "A slip at your Singapore event starts with medical attention and evidence, not with liability. What to do first, and what the insurer will need."
 og_title: "How to File Public Liability Claim Event Slip And Fall"
-og_description: "A slip at your event starts with medical attention and evidence, not with liability. What to do first, and what the insurer will need."
+og_description: "A slip at your Singapore event starts with medical attention and evidence, not with liability. What to do first, and what the insurer will need."
 ---
 
 > **The Answer in 60 Seconds**  

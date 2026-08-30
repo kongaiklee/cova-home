@@ -14,9 +14,9 @@ word_count: 1634
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-comply-platform-workers-act-wic-insurance"
-meta_description: "The Platform Workers Act came fully into force on 1 January 2025. Which operators it binds, and what work injury cover they must now provide."
+meta_description: "Singapore's Platform Workers Act came fully into force on 1 January 2025. Which operators it binds, and what work injury cover they must provide."
 og_title: "How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures"
-og_description: "The Platform Workers Act came fully into force on 1 January 2025. Which operators it binds, and what work injury cover they must now provide."
+og_description: "Singapore's Platform Workers Act came fully into force on 1 January 2025. Which operators it binds, and what work injury cover they must provide."
 ---
 
 > **The Answer in 60 Seconds**

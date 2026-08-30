@@ -13,9 +13,9 @@ word_count: 2223
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/supply-chain-contingent-business-interruption-singapore"
-meta_description: "A fire at your supplier's factory stops your line, and your own BI policy will not pay. What contingent business interruption needs before it responds."
+meta_description: "A fire at your supplier's factory stops your Singapore line, and your own BI policy will not pay. What contingent business interruption needs to respond."
 og_title: "Supply-Chain Disruption and Contingent Business Interruption: What Singapore SMEs Miss"
-og_description: "A fire at your supplier's factory stops your line, and your own BI policy will not pay. What contingent business interruption needs before it responds."
+og_description: "A fire at your supplier's factory stops your Singapore line, and your own BI policy will not pay. What contingent business interruption needs to respond."
 ---
 
 A fire guts a factory in Johor. The factory is not yours. It belongs to the supplier that makes the one component your product cannot ship without. For six weeks your production line sits idle, your revenue stops, and your fixed costs keep running. You file a business interruption claim. The insurer declines it. Nothing was damaged at your premises, and your standard business interruption cover responds only to physical damage at your own insured location. The loss is real, the cause is insured somewhere, but the money is flowing to the wrong policy.

@@ -13,9 +13,9 @@ word_count: 1544
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/fire-vs-par"
-meta_description: "A fire policy covers a named list of perils; property all risks starts from everything and works back through exclusions. How each behaves."
+meta_description: "A Singapore fire policy covers a named list of perils; property all risks starts from everything and works back through exclusions. How each behaves."
 og_title: "Fire Insurance vs Property All Risks (PAR): What's the Difference?"
-og_description: "A fire policy covers a named list of perils; property all risks starts from everything and works back through exclusions. How each behaves."
+og_description: "A Singapore fire policy covers a named list of perils; property all risks starts from everything and works back through exclusions. How each behaves."
 ---
 
 > **The Answer in 60 Seconds**

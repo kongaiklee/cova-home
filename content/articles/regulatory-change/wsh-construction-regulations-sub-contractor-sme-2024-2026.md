@@ -13,9 +13,9 @@ word_count: 2460
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026"
-meta_description: "A construction sub-contractor sits under several layers of WSH regulation at once. What the 2024 to 2026 changes require, and of whom."
+meta_description: "A Singapore construction sub-contractor sits under several layers of WSH regulation at once. What the 2024 to 2026 changes require, and of whom."
 og_title: "Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026"
-og_description: "A construction sub-contractor sits under several layers of WSH regulation at once. What the 2024 to 2026 changes require, and of whom."
+og_description: "A Singapore construction sub-contractor sits under several layers of WSH regulation at once. What the 2024 to 2026 changes require, and of whom."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1490
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/family-office-support-services"
-meta_description: "Family office support services handle other people's assets and information. Where the professional and fiduciary exposure actually sits."
+meta_description: "Family office support services in Singapore handle other people's assets and information. Where the professional and fiduciary exposure sits."
 og_title: "SME Startup Decision Tree: Family Office Support Services - Foundational Insurance Procurement"
-og_description: "Family office support services handle other people's assets and information. Where the professional and fiduciary exposure actually sits."
+og_description: "Family office support services in Singapore handle other people's assets and information. Where the professional and fiduciary exposure sits."
 ---
 
 > **The Answer in 60 Seconds**

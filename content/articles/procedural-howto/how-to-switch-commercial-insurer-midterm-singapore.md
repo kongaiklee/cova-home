@@ -13,9 +13,9 @@ word_count: 1652
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore"
-meta_description: "You can switch commercial insurer mid-term, and there are traps in doing it. The order of operations, and the gap that catches people out."
+meta_description: "You can switch commercial insurer mid-term in Singapore, and there are traps. The order of operations, and the gap that catches people out."
 og_title: "How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps"
-og_description: "You can switch commercial insurer mid-term, and there are traps in doing it. The order of operations, and the gap that catches people out."
+og_description: "You can switch commercial insurer mid-term in Singapore, and there are traps. The order of operations, and the gap that catches people out."
 ---
 
 > **The Answer in 60 Seconds**

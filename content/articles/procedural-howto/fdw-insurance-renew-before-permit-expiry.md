@@ -13,9 +13,9 @@ word_count: 975
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/fdw-insurance-renew-before-permit-expiry"
-meta_description: "MOM sends the renewal letter about eight weeks before the permit expires. The medical insurance has to be in place before you renew."
+meta_description: "Singapore's MOM sends the renewal letter about eight weeks before the permit expires. The medical insurance must be in place before you renew."
 og_title: "How to Renew FDW Insurance Before Work Permit Expiry"
-og_description: "MOM sends the renewal letter about eight weeks before the permit expires. The medical insurance has to be in place before you renew."
+og_description: "Singapore's MOM sends the renewal letter about eight weeks before the permit expires. The medical insurance must be in place before you renew."
 ---
 
 ### The Answer in 60 Seconds

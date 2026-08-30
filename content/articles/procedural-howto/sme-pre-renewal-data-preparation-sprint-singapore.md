@@ -13,9 +13,9 @@ word_count: 4937
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore"
-meta_description: "Most SMEs treat renewal as a one-week scramble, and in the 2026 market that costs money. The T-90 sprint, starting with exposure and valuation data."
+meta_description: "Renewal is a one-week scramble at most Singapore SMEs, and in 2026 that costs money. The T-90 sprint, starting with exposure and valuation data."
 og_title: "The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs"
-og_description: "Most SMEs treat renewal as a one-week scramble, and in the 2026 market that costs money. The T-90 sprint, starting with exposure and valuation data."
+og_description: "Renewal is a one-week scramble at most Singapore SMEs, and in 2026 that costs money. The T-90 sprint, starting with exposure and valuation data."
 ---
 
 Most Singapore SMEs treat insurance renewal as a one-week scramble. The renewal email arrives, the broker quotes a number, the finance team pays, and the policy rolls over with a small loading. That workflow is now actively losing SMEs money, because the 2026 commercial insurance market is the most insured-friendly market in seven years and a properly prepared renewal can convert that market into actual premium relief - but only if the data package lands on the underwriter's desk before the quote is set. According to Marsh's [Global Insurance Market Index for Q1 2026](https://www.marsh.com/en/about/media/global-commercial-insurance-rates-fall-5-percent-in-q1-2026.html), released 22 April 2026, Asia commercial rates fell 5% - the seventh consecutive quarter of rate decreases, with property down 5% in Asia, financial and professional lines down 7% in Asia, and cyber down 5% globally. A clean account in this market should expect at minimum a flat renewal. A loading on a clean account is a signal the submission was thin.

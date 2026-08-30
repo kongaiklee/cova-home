@@ -13,9 +13,9 @@ word_count: 1402
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/fintech-startup-singapore"
-meta_description: "A fintech under the Payment Services Act faces licensing conditions plus professional and cyber exposure. Where each of them attaches."
+meta_description: "A fintech under Singapore's Payment Services Act faces licensing conditions plus professional and cyber exposure. Where each of them attaches."
 og_title: "SME Startup Decision Tree: Fintech Startup - Foundational Insurance Procurement"
-og_description: "A fintech under the Payment Services Act faces licensing conditions plus professional and cyber exposure. Where each of them attaches."
+og_description: "A fintech under Singapore's Payment Services Act faces licensing conditions plus professional and cyber exposure. Where each of them attaches."
 ---
 
 > **The Answer in 60 Seconds**

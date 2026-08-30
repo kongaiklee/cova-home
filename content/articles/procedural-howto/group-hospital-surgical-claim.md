@@ -13,9 +13,9 @@ word_count: 1382
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/group-hospital-surgical-claim"
-meta_description: "A group hospital and surgical claim goes cashless at a panel hospital or on reimbursement elsewhere. What each route needs from you."
+meta_description: "A group hospital and surgical claim goes cashless at a Singapore panel hospital or on reimbursement elsewhere. What each route needs from you."
 og_title: "How to File a Group Hospitalisation & Surgical Claim (Singapore)"
-og_description: "A group hospital and surgical claim goes cashless at a panel hospital or on reimbursement elsewhere. What each route needs from you."
+og_description: "A group hospital and surgical claim goes cashless at a Singapore panel hospital or on reimbursement elsewhere. What each route needs from you."
 ---
 
 > **The Answer in 60 Seconds**

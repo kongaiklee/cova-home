@@ -14,9 +14,9 @@ word_count: 1167
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/pe-firm-professional-indemnity-pea-section-34"
-meta_description: "Section 34 of the Professional Engineers Act requires a licensed corporation to hold professional indemnity. What the minimum terms are."
+meta_description: "Section 34 of Singapore's Professional Engineers Act requires a licensed corporation to hold professional indemnity. What the minimum terms are."
 og_title: "When Must a PE Firm Carry Professional Indemnity Under the Professional Engineers Act?"
-og_description: "Section 34 of the Professional Engineers Act requires a licensed corporation to hold professional indemnity. What the minimum terms are."
+og_description: "Section 34 of Singapore's Professional Engineers Act requires a licensed corporation to hold professional indemnity. What the minimum terms are."
 ---
 
 > **The 60-second answer:** Per **Section 34 of the [Professional Engineers Act 1991](https://sso.agc.gov.sg/Act/PEA1991)** (renumbered from the older Section 24 by Act 36 of 2017), every licensed corporation (other than an unlimited corporation) and every licensed limited liability partnership supplying professional engineering services in Singapore must be insured against liability for breach of professional duty. Per the [Professional Engineers Board](https://www1.peb.gov.sg/LC-common-queries/), **"the PE Act does not specify the amount to be insured."** The minimum sum insured is left to the licensee's judgement, subject to compliance with section 34 and the Professional Engineers Rules.

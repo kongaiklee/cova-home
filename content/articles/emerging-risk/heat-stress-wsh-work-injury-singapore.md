@@ -13,9 +13,9 @@ word_count: 2269
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/heat-stress-wsh-work-injury-singapore"
-meta_description: "MOM's heat stress framework sets measures employers must implement at defined WBGT bands. What is required outdoors, and at which temperature threshold."
+meta_description: "Singapore's MOM heat stress framework sets measures employers must implement at defined WBGT bands. What is required outdoors, and at which threshold."
 og_title: "Heat Stress and the WSH Framework: The Work-Injury Exposure for Outdoor Singapore SMEs"
-og_description: "MOM's heat stress framework sets measures employers must implement at defined WBGT bands. What is required outdoors, and at which temperature threshold."
+og_description: "Singapore's MOM heat stress framework sets measures employers must implement at defined WBGT bands. What is required outdoors, and at which threshold."
 ---
 
 If your business sends people to work outdoors in Singapore, the heat is no longer just a comfort issue. Since 2023, the Ministry of Manpower has imposed specific, inspectable duties on employers to manage heat stress for outdoor workers, and a worker who collapses from heat injury on the job can be a compensable claim under the Work Injury Compensation Act. For a construction firm, a landscaping contractor, a cleaning company, or a delivery operation, that is two exposures stacked on top of each other: a regulatory duty that can attract penalties if breached, and a work-injury liability that your WICA insurance has to absorb.

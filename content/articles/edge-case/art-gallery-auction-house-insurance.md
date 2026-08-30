@@ -13,9 +13,9 @@ word_count: 1591
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/art-gallery-auction-house-insurance"
-meta_description: "An art gallery or auction house holds other people's property at high value. Fine art cover is the base, and consignment terms decide the rest."
+meta_description: "A Singapore gallery or auction house holds other people's property at high value. Fine art cover is the base, consignment terms decide the rest."
 og_title: "Art Gallery, Auction House, and Fine Art Dealer: The Specific Insurance Profile for Singapore Art Market Operations"
-og_description: "An art gallery or auction house holds other people's property at high value. Fine art cover is the base, and consignment terms decide the rest."
+og_description: "A Singapore gallery or auction house holds other people's property at high value. Fine art cover is the base, consignment terms decide the rest."
 ---
 
 > **The Answer in 60 Seconds**

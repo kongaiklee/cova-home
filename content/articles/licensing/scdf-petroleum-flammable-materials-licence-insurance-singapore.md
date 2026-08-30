@@ -13,9 +13,9 @@ word_count: 1937
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scdf-petroleum-flammable-materials-licence-insurance-singapore"
-meta_description: "An SCDF petroleum and flammable materials licence is a fire-safety authorisation, not an insurance requirement. What Part 6 of the Act actually demands."
+meta_description: "An SCDF petroleum and flammable materials licence is a Singapore fire-safety authorisation, not an insurance requirement. What Part 6 actually demands."
 og_title: "SCDF Petroleum and Flammable Materials Licence: Insurance Implications for Singapore Businesses"
-og_description: "An SCDF petroleum and flammable materials licence is a fire-safety authorisation, not an insurance requirement. What Part 6 of the Act actually demands."
+og_description: "An SCDF petroleum and flammable materials licence is a Singapore fire-safety authorisation, not an insurance requirement. What Part 6 actually demands."
 ---
 
 > **The Answer in 60 Seconds**

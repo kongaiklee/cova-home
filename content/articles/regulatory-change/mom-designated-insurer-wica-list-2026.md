@@ -13,9 +13,9 @@ word_count: 1329
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mom-designated-insurer-wica-list-2026"
-meta_description: "MOM's designated insurer list dated 1 January 2026 names 24 insurers for WICA employer policies. What designation actually controls."
+meta_description: "The MOM designated insurer list dated 1 January 2026 names 24 Singapore insurers for WICA employer policies. What designation controls."
 og_title: "MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore"
-og_description: "MOM's designated insurer list dated 1 January 2026 names 24 insurers for WICA employer policies. What designation actually controls."
+og_description: "The MOM designated insurer list dated 1 January 2026 names 24 Singapore insurers for WICA employer policies. What designation controls."
 ---
 
 > **The Answer in 60 Seconds**

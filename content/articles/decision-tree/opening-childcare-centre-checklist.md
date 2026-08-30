@@ -13,9 +13,9 @@ word_count: 1907
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-childcare-centre-checklist"
-meta_description: "A childcare centre or kindergarten is licensed by ECDA under the Early Childhood Development Centres Act. What the licence requires."
+meta_description: "A Singapore childcare centre or kindergarten is licensed by ECDA under the Early Childhood Development Centres Act. What the licence requires."
 og_title: "Opening a Private Kindergarten or Childcare Centre in Singapore: Full Insurance Checklist"
-og_description: "A childcare centre or kindergarten is licensed by ECDA under the Early Childhood Development Centres Act. What the licence requires."
+og_description: "A Singapore childcare centre or kindergarten is licensed by ECDA under the Early Childhood Development Centres Act. What the licence requires."
 ---
 
 > **The Answer in 60 Seconds**

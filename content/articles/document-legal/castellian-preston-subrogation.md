@@ -13,9 +13,9 @@ word_count: 1989
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/castellian-preston-subrogation"
-meta_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs your claim today."
+meta_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs a Singapore claim today."
 og_title: "Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law"
-og_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs your claim today."
+og_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs a Singapore claim today."
 ---
 
 > **The Answer in 60 Seconds**

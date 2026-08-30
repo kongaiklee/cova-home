@@ -13,9 +13,9 @@ word_count: 1701
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024"
-meta_description: "MAS revised its outsourcing framework for non-bank financial institutions. What the guidelines expect, and which arrangements they reach."
+meta_description: "MAS revised its outsourcing framework for non-bank financial institutions in Singapore. What the guidelines expect, and which arrangements they reach."
 og_title: "MAS Guidelines on Outsourcing (FI Other Than Banks) Effective 11 December 2024: Tech E&O / Cyber Implications for SME Vendors"
-og_description: "MAS revised its outsourcing framework for non-bank financial institutions. What the guidelines expect, and which arrangements they reach."
+og_description: "MAS revised its outsourcing framework for non-bank financial institutions in Singapore. What the guidelines expect, and which arrangements they reach."
 ---
 
 > **The Answer in 60 Seconds**

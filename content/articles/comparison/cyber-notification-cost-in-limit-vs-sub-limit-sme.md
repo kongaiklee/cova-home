@@ -13,9 +13,9 @@ word_count: 2825
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme"
-meta_description: "Notification cost is the biggest early cyber expense. Whether it sits inside your limit or in a sub-limit changes what is left for the rest."
+meta_description: "Notification cost is the biggest early cyber expense a Singapore SME meets. Whether it sits in your limit or a sub-limit changes what is left."
 og_title: "Cyber Notification Cost: In-Limit vs Separate Sub-Limit for Singapore SMEs"
-og_description: "Notification cost is the biggest early cyber expense. Whether it sits inside your limit or in a sub-limit changes what is left for the rest."
+og_description: "Notification cost is the biggest early cyber expense a Singapore SME meets. Whether it sits in your limit or a sub-limit changes what is left."
 ---
 
 > **The Answer in 60 Seconds**

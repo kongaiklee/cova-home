@@ -13,9 +13,9 @@ word_count: 1407
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/kindergarten-childcare-multi-site-expansion"
-meta_description: "Going from one childcare site to several changes more than the ECDA licence. What multiplies, what does not, and what the lease adds."
+meta_description: "Going from one Singapore childcare site to several changes more than the ECDA licence. What multiplies, what does not, and what the lease adds."
 og_title: "Kindergarten and Childcare Expansion: Multi-Site Operational Considerations Beyond Single-Site Foundation"
-og_description: "Going from one childcare site to several changes more than the ECDA licence. What multiplies, what does not, and what the lease adds."
+og_description: "Going from one Singapore childcare site to several changes more than the ECDA licence. What multiplies, what does not, and what the lease adds."
 ---
 
 > **The Answer in 60 Seconds**

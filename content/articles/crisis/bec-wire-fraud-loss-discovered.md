@@ -13,9 +13,9 @@ word_count: 1693
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/bec-wire-fraud-loss-discovered"
-meta_description: "Finance has found a payment sent to a fraudulent account. The first calls that can still recall funds, and the evidence a claim will need."
+meta_description: "Finance has found a payment sent to a fraudulent account. The first calls that can still recall funds in Singapore, and the evidence a claim needs."
 og_title: "Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered"
-og_description: "Finance has found a payment sent to a fraudulent account. The first calls that can still recall funds, and the evidence a claim will need."
+og_description: "Finance has found a payment sent to a fraudulent account. The first calls that can still recall funds in Singapore, and the evidence a claim needs."
 ---
 
 > **The Answer in 60 Seconds**

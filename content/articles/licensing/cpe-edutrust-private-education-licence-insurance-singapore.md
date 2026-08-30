@@ -13,9 +13,9 @@ word_count: 1984
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/cpe-edutrust-private-education-licence-insurance-singapore"
-meta_description: "Registering a private education institution does not force you to buy business insurance. What the Private Education Act asks for instead."
+meta_description: "Registering a Singapore private education institution does not force you to buy business insurance. What the Private Education Act asks for instead."
 og_title: "Does a CPE / EduTrust Private Education Licence Require Insurance in Singapore?"
-og_description: "Registering a private education institution does not force you to buy business insurance. What the Private Education Act asks for instead."
+og_description: "Registering a Singapore private education institution does not force you to buy business insurance. What the Private Education Act asks for instead."
 ---
 
 > **The Answer in 60 Seconds**

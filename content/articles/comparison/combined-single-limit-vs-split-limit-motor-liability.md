@@ -13,9 +13,9 @@ word_count: 3075
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/combined-single-limit-vs-split-limit-motor-liability"
-meta_description: "A combined single limit and a split limit can show the same headline number and pay very differently. What each one actually caps."
+meta_description: "A combined single limit and a split limit can show the same headline number and pay very differently in Singapore. What each one actually caps."
 og_title: "Combined Single Limit vs Split Limit: Motor and Liability Limit Structure"
-og_description: "A combined single limit and a split limit can show the same headline number and pay very differently. What each one actually caps."
+og_description: "A combined single limit and a split limit can show the same headline number and pay very differently in Singapore. What each one actually caps."
 ---
 
 > **The Answer in 60 Seconds**

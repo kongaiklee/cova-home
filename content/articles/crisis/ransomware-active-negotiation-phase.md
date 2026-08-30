@@ -13,9 +13,9 @@ word_count: 1693
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/ransomware-active-negotiation-phase"
-meta_description: "You are past 24 hours, encryption is confirmed and a countdown is running. What the negotiation phase actually involves, and who should be in it."
+meta_description: "Past 24 hours, encryption confirmed and a countdown running. What the negotiation phase involves for a Singapore business, and who should be in it."
 og_title: "Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision"
-og_description: "You are past 24 hours, encryption is confirmed and a countdown is running. What the negotiation phase actually involves, and who should be in it."
+og_description: "Past 24 hours, encryption confirmed and a countdown running. What the negotiation phase involves for a Singapore business, and who should be in it."
 ---
 
 > **The Answer in 60 Seconds**

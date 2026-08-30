@@ -13,9 +13,9 @@ word_count: 1584
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/indemnity-vs-reinstatement-basis"
-meta_description: "An indemnity settlement pays current value after depreciation; reinstatement pays for new. Which basis you are on changes the cheque."
+meta_description: "An indemnity settlement pays current value after depreciation; reinstatement pays for new. Which basis your Singapore policy uses changes the cheque."
 og_title: "Indemnity vs Reinstatement Settlement Basis: Which Pays Out More?"
-og_description: "An indemnity settlement pays current value after depreciation; reinstatement pays for new. Which basis you are on changes the cheque."
+og_description: "An indemnity settlement pays current value after depreciation; reinstatement pays for new. Which basis your Singapore policy uses changes the cheque."
 ---
 
 > **The Answer in 60 Seconds**

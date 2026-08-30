@@ -13,9 +13,9 @@ word_count: 1866
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/snef-membership-employer-insurance-singapore"
-meta_description: "SNEF represents employers in the tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere entirely."
+meta_description: "SNEF represents employers inside Singapore's tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere."
 og_title: "SNEF Membership and the Employer's Insurance Picture in Singapore"
-og_description: "SNEF represents employers in the tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere entirely."
+og_description: "SNEF represents employers inside Singapore's tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere."
 ---
 
 > **The Answer in 60 Seconds**

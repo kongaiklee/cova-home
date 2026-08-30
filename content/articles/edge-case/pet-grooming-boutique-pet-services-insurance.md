@@ -13,9 +13,9 @@ word_count: 1492
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/pet-grooming-boutique-pet-services-insurance"
-meta_description: "A pet grooming salon, boutique or mobile groomer is licensed under the Animal and Veterinary rules. What that requires, and what handling adds."
+meta_description: "A Singapore pet grooming salon, boutique or mobile groomer is licensed under the Animal and Veterinary rules. What that requires, and what handling adds."
 og_title: "Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore"
-og_description: "A pet grooming salon, boutique or mobile groomer is licensed under the Animal and Veterinary rules. What that requires, and what handling adds."
+og_description: "A Singapore pet grooming salon, boutique or mobile groomer is licensed under the Animal and Veterinary rules. What that requires, and what handling adds."
 ---
 
 > **The Answer in 60 Seconds**

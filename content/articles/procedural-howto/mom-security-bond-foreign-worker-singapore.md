@@ -14,9 +14,9 @@ word_count: 1687
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/mom-security-bond-foreign-worker-singapore"
-meta_description: "A S$5,000 MOM security bond has to be lodged before a non-Malaysian Work Permit holder arrives. How to arrange it, and what forfeits it."
+meta_description: "A S$5,000 MOM security bond must be lodged before a non-Malaysian Work Permit holder arrives in Singapore. How to arrange it, and what forfeits it."
 og_title: "How to Obtain MOM Security Bond for Foreign Worker Hiring"
-og_description: "A S$5,000 MOM security bond has to be lodged before a non-Malaysian Work Permit holder arrives. How to arrange it, and what forfeits it."
+og_description: "A S$5,000 MOM security bond must be lodged before a non-Malaysian Work Permit holder arrives in Singapore. How to arrange it, and what forfeits it."
 ---
 
 > **The Answer in 60 Seconds**

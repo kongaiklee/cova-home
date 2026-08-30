@@ -13,9 +13,9 @@ word_count: 1834
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/supplier-insolvency"
-meta_description: "A supplier has gone under. What is in flight, what stock exists, what the alternatives are, and what your contract lets you recover."
+meta_description: "A Singapore supplier has gone under. What is in flight, what stock exists, what the alternatives are, and what your contract lets you recover."
 og_title: "Our Critical Supplier Just Declared Insolvency - What Do I Do Now?"
-og_description: "A supplier has gone under. What is in flight, what stock exists, what the alternatives are, and what your contract lets you recover."
+og_description: "A Singapore supplier has gone under. What is in flight, what stock exists, what the alternatives are, and what your contract lets you recover."
 ---
 
 > **The Answer in 60 Seconds**

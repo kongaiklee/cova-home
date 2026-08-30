@@ -13,9 +13,9 @@ word_count: 1006
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-motor-insurance-claim-singapore"
-meta_description: "Stop, exchange particulars, photograph, do not admit liability. When the police must be called, and what the GIA framework requires next."
+meta_description: "Stop, exchange particulars, photograph, do not admit liability. When Singapore police must be called, and what the GIA framework requires next."
 og_title: "How to File a Motor Insurance Claim - Commercial Vehicle Accident"
-og_description: "Stop, exchange particulars, photograph, do not admit liability. When the police must be called, and what the GIA framework requires next."
+og_description: "Stop, exchange particulars, photograph, do not admit liability. When Singapore police must be called, and what the GIA framework requires next."
 ---
 
 ### The Answer in 60 Seconds

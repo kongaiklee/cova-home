@@ -13,9 +13,9 @@ word_count: 926
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/add-new-location"
-meta_description: "Tell your insurer in writing before you trade from a new location, with the full underwriting detail. What happens if you do not."
+meta_description: "Tell your insurer in writing before you trade from a new Singapore location, with the full underwriting detail. What happens if you do not."
 og_title: "How to Add a New Operating Location to Existing Insurance Policy"
-og_description: "Tell your insurer in writing before you trade from a new location, with the full underwriting detail. What happens if you do not."
+og_description: "Tell your insurer in writing before you trade from a new Singapore location, with the full underwriting detail. What happens if you do not."
 ---
 
 > **The Answer in 60 Seconds:** Notify your insurer in writing **before** you start operating from the new location, provide full underwriting information (address, occupancy, construction, sums insured, fire safety status), and the insurer will issue an **endorsement** that adds the location to your policy schedule. A pro-rata additional premium is charged for the unexpired period. Most Fire and Property All Risks policies are written on a **scheduled-premises** basis - losses at an undeclared location are not covered.

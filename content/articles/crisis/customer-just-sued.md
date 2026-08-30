@@ -13,9 +13,9 @@ word_count: 1909
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-just-sued"
-meta_description: "A letter of demand and a writ are not the same thing. Work out which you have received, because the clock and the response differ."
+meta_description: "A letter of demand and a Singapore writ are not the same thing. Work out which you have received, because the clock and the response differ."
 og_title: "A Customer Just Sued Us - What Do I Do Now?"
-og_description: "A letter of demand and a writ are not the same thing. Work out which you have received, because the clock and the response differ."
+og_description: "A letter of demand and a Singapore writ are not the same thing. Work out which you have received, because the clock and the response differ."
 ---
 
 > **The Answer in 60 Seconds**

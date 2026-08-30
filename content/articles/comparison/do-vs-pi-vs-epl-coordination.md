@@ -13,9 +13,9 @@ word_count: 1774
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/do-vs-pi-vs-epl-coordination"
-meta_description: "D&O, PI and EPL get confused and mis-coordinated. Who each one protects, and where a single claim can fall between all three."
+meta_description: "D&O, PI and EPL get confused and mis-coordinated by Singapore SMEs. Who each protects, and where a single claim falls between all three."
 og_title: "D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)"
-og_description: "D&O, PI and EPL get confused and mis-coordinated. Who each one protects, and where a single claim can fall between all three."
+og_description: "D&O, PI and EPL get confused and mis-coordinated by Singapore SMEs. Who each protects, and where a single claim falls between all three."
 ---
 
 > **The Answer in 60 Seconds**

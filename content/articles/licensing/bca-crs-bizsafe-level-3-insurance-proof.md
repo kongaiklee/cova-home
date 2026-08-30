@@ -13,9 +13,9 @@ word_count: 1047
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/bca-crs-bizsafe-level-3-insurance-proof"
-meta_description: "bizSAFE Level 3 satisfies a BCA CRS registration condition. It does not satisfy WICA, which is separately mandatory and proves something else."
+meta_description: "bizSAFE Level 3 satisfies a BCA CRS registration condition. It does not satisfy Singapore's WICA, which is separately mandatory and proves more."
 og_title: "BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements"
-og_description: "bizSAFE Level 3 satisfies a BCA CRS registration condition. It does not satisfy WICA, which is separately mandatory and proves something else."
+og_description: "bizSAFE Level 3 satisfies a BCA CRS registration condition. It does not satisfy Singapore's WICA, which is separately mandatory and proves more."
 ---
 
 > **The Answer in 60 Seconds**

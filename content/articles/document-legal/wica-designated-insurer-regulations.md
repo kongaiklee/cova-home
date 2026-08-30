@@ -13,9 +13,9 @@ word_count: 2291
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-designated-insurer-regulations"
-meta_description: "Section 31 of WICA lets only insurers designated by the Commissioner write WICA cover. What that means for where you can place it."
+meta_description: "Section 31 of WICA lets only insurers designated by Singapore's Commissioner write the cover. What that means for where you can place it."
 og_title: "WICA Designated Insurer Regulations: How the MOM List Actually Works"
-og_description: "Section 31 of WICA lets only insurers designated by the Commissioner write WICA cover. What that means for where you can place it."
+og_description: "Section 31 of WICA lets only insurers designated by Singapore's Commissioner write the cover. What that means for where you can place it."
 ---
 
 > **The Answer in 60 Seconds**

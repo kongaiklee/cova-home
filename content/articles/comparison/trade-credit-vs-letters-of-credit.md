@@ -13,9 +13,9 @@ word_count: 2009
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/trade-credit-vs-letters-of-credit"
-meta_description: "Trade credit insurance and a letter of credit answer the same question very differently. What each costs, and what each actually guarantees."
+meta_description: "Trade credit insurance and a letter of credit answer the same Singapore question very differently. What each costs, and what each guarantees."
 og_title: "Trade Credit Insurance vs Letters of Credit: Two Approaches to Customer Payment Risk"
-og_description: "Trade credit insurance and a letter of credit answer the same question very differently. What each costs, and what each actually guarantees."
+og_description: "Trade credit insurance and a letter of credit answer the same Singapore question very differently. What each costs, and what each guarantees."
 ---
 
 > **The Answer in 60 Seconds**

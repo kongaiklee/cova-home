@@ -13,9 +13,9 @@ word_count: 1883
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/tcm-practitioner-registration-insurance-singapore"
-meta_description: "Neither the TCM Practitioners Act nor its regulations require you to hold professional indemnity. The clinic, the landlord or the contract is what asks."
+meta_description: "Neither Singapore's TCM Practitioners Act nor its regulations require you to hold professional indemnity. The clinic, landlord or contract is what asks."
 og_title: "Does TCM Practitioner Registration Require Professional Indemnity Insurance in Singapore?"
-og_description: "Neither the TCM Practitioners Act nor its regulations require you to hold professional indemnity. The clinic, the landlord or the contract is what asks."
+og_description: "Neither Singapore's TCM Practitioners Act nor its regulations require you to hold professional indemnity. The clinic, landlord or contract is what asks."
 ---
 
 > **The Answer in 60 Seconds**

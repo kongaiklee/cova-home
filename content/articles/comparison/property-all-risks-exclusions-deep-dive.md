@@ -13,9 +13,9 @@ word_count: 1748
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/property-all-risks-exclusions-deep-dive"
-meta_description: "On an all risks policy the exclusions are the cover. Wear and tear, gradual deterioration, inherent vice: where a PAR policy stops paying."
+meta_description: "On a Singapore all risks policy the exclusions are the cover. Wear and tear, gradual deterioration, inherent vice: where PAR stops paying."
 og_title: "Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends"
-og_description: "On an all risks policy the exclusions are the cover. Wear and tear, gradual deterioration, inherent vice: where a PAR policy stops paying."
+og_description: "On a Singapore all risks policy the exclusions are the cover. Wear and tear, gradual deterioration, inherent vice: where PAR stops paying."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 3002
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/shareholder-dispute-founder-divorce-buy-sell-event"
-meta_description: "A shareholder dispute or a founder's divorce can reach the company's shares. What that does to control, to cover, and to the buy-sell arrangements."
+meta_description: "A shareholder dispute or a founder's divorce can reach the shares of a Singapore company. What that does to control, cover and the buy-sell terms."
 og_title: "Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow"
-og_description: "A shareholder dispute or a founder's divorce can reach the company's shares. What that does to control, to cover, and to the buy-sell arrangements."
+og_description: "A shareholder dispute or a founder's divorce can reach the shares of a Singapore company. What that does to control, cover and the buy-sell terms."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 3021
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort"
-meta_description: "The Workplace Fairness (Dispute Resolution) Act passed on 4 November 2025. What it creates, who it exposes, and where employment liability shifts."
+meta_description: "Singapore passed the Workplace Fairness (Dispute Resolution) Act on 4 November 2025. What it creates, who it exposes, and where employment liability moves."
 og_title: "Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs"
-og_description: "The Workplace Fairness (Dispute Resolution) Act passed on 4 November 2025. What it creates, who it exposes, and where employment liability shifts."
+og_description: "Singapore passed the Workplace Fairness (Dispute Resolution) Act on 4 November 2025. What it creates, who it exposes, and where employment liability moves."
 ---
 
 > **The Answer in 60 Seconds**

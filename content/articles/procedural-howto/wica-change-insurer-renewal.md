@@ -13,9 +13,9 @@ word_count: 1020
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/wica-change-insurer-renewal"
-meta_description: "MOM lists 24 designated insurers for employers and 6 for platform operators. How to change WICA insurer at renewal without a gap."
+meta_description: "Singapore's MOM lists 24 designated insurers for employers and 6 for platform operators. How to change WICA insurer at renewal without a gap."
 og_title: "How to Renew WICA When Changing to a Different Insurer"
-og_description: "MOM lists 24 designated insurers for employers and 6 for platform operators. How to change WICA insurer at renewal without a gap."
+og_description: "Singapore's MOM lists 24 designated insurers for employers and 6 for platform operators. How to change WICA insurer at renewal without a gap."
 ---
 
 > **The Answer in 60 Seconds:** Per [the MOM Designated Insurer list](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer), there are **24 designated insurers for employers** (list dated 1 January 2026) and **6 for platform operators** (list dated 26 December 2024). The new policy must take effect with **zero gap** from the old policy expiry - Section 24 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires continuous cover, and Section 25 makes failure to insure an offence. Existing claims under the old policy remain with the old insurer (run-off).

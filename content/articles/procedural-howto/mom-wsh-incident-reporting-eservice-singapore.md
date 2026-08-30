@@ -13,9 +13,9 @@ word_count: 4741
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/mom-wsh-incident-reporting-eservice-singapore"
-meta_description: "A worker slips, falls or is hospitalised and a separate clock starts with MOM. The three trigger tracks, and how to tell which one applies."
+meta_description: "A worker slips, falls or is hospitalised and a separate MOM clock starts in Singapore. The three trigger tracks, and how to tell which one applies."
 og_title: "How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs"
-og_description: "A worker slips, falls or is hospitalised and a separate clock starts with MOM. The three trigger tracks, and how to tell which one applies."
+og_description: "A worker slips, falls or is hospitalised and a separate MOM clock starts in Singapore. The three trigger tracks, and how to tell which one applies."
 ---
 
 When a worker in your Singapore SME slips on a wet kitchen floor, falls from a scaffold, or is hospitalised after a chemical splash, the clock starts running on a separate, parallel set of duties to the Ministry of Manpower (MOM) - duties that are distinct from your work injury insurance claim, and that carry their own fines and imprisonment risks if you miss them. This article walks SME founders, HR managers, safety officers, operations leads, and finance directors through the **WSH Incident Reporting eService** (the platform MOM rebranded from "iReport"), explains the three trigger tracks under the [Workplace Safety and Health (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3) (Cap. 354A, Rg 3), and shows how the regulatory reporting workflow connects to the insurance side: WICA, WSH statutory liability cover, public liability, and director and officer (D&O) extensions.

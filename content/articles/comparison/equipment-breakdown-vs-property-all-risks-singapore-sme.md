@@ -13,9 +13,9 @@ word_count: 1933
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/equipment-breakdown-vs-property-all-risks-singapore-sme"
-meta_description: "Property All Risks covers sudden external damage. It does not cover a machine that fails from the inside, which is the gap equipment breakdown fills."
+meta_description: "Property All Risks covers sudden external damage, not a machine that fails from the inside. For Singapore SMEs that inside failure is the whole gap."
 og_title: "Equipment Breakdown vs Property All Risks: What Covers SME Machinery"
-og_description: "Property All Risks covers sudden external damage. It does not cover a machine that fails from the inside, which is the gap equipment breakdown fills."
+og_description: "Property All Risks covers sudden external damage, not a machine that fails from the inside. For Singapore SMEs that inside failure is the whole gap."
 ---
 
 > **The Answer in 60 Seconds**

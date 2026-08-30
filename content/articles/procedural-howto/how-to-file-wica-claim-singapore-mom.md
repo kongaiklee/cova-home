@@ -13,9 +13,9 @@ word_count: 1551
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom"
-meta_description: "The WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage."
+meta_description: "The Singapore WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage."
 og_title: "How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers"
-og_description: "The WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage."
+og_description: "The Singapore WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage."
 ---
 
 > **The Answer in 60 Seconds**

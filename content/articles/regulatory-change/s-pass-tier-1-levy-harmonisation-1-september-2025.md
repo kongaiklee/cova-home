@@ -13,9 +13,9 @@ word_count: 1971
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/s-pass-tier-1-levy-harmonisation-1-september-2025"
-meta_description: "From 1 September 2025 the S Pass Tier 1 levy rose from S$550 to S$650. What that does to your monthly cost and your quota planning."
+meta_description: "From 1 September 2025 Singapore's S Pass Tier 1 levy rose from S$550 to S$650. What that does to your monthly cost and your quota planning."
 og_title: "S Pass Tier 1 Levy Harmonisation 1 September 2025: Foreign Worker Programme Cost Impact"
-og_description: "From 1 September 2025 the S Pass Tier 1 levy rose from S$550 to S$650. What that does to your monthly cost and your quota planning."
+og_description: "From 1 September 2025 Singapore's S Pass Tier 1 levy rose from S$550 to S$650. What that does to your monthly cost and your quota planning."
 ---
 
 > **The Answer in 60 Seconds**

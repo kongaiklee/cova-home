@@ -13,9 +13,9 @@ word_count: 2491
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/whole-turnover-vs-single-buyer-trade-credit-sme"
-meta_description: "Whole turnover covers your whole ledger, single buyer covers one. Which trade credit structure fits, and what each leaves you carrying."
+meta_description: "Whole turnover covers your whole ledger, single buyer covers one. Which trade credit structure fits a Singapore exporter, and what each leaves you."
 og_title: "Whole Turnover vs Single-Buyer Trade Credit Insurance for Singapore SMEs: A Coverage Structure Decision Framework"
-og_description: "Whole turnover covers your whole ledger, single buyer covers one. Which trade credit structure fits, and what each leaves you carrying."
+og_description: "Whole turnover covers your whole ledger, single buyer covers one. Which trade credit structure fits a Singapore exporter, and what each leaves you."
 ---
 
 > **The Answer in 60 Seconds**

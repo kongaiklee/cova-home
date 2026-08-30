@@ -13,9 +13,9 @@ word_count: 2154
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/spa-wellness-association-membership-insurance-singapore"
-meta_description: "Association membership imposes no insurance mandate on a spa. The cover that matters comes from three other places, and the card is not one of them."
+meta_description: "Association membership imposes no insurance mandate on a Singapore spa. The cover that matters comes from three other places, and the card is not one."
 og_title: "Spa and Wellness Association Membership and Insurance for Singapore Operators"
-og_description: "Association membership imposes no insurance mandate on a spa. The cover that matters comes from three other places, and the card is not one of them."
+og_description: "Association membership imposes no insurance mandate on a Singapore spa. The cover that matters comes from three other places, and the card is not one."
 ---
 
 > **The Answer in 60 Seconds**

@@ -14,9 +14,9 @@ word_count: 1503
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/platform-workers-act-first-year-review"
-meta_description: "The Platform Workers Act commenced on 1 January 2025 and created a new legal category. What its first year revealed about the duties."
+meta_description: "The Platform Workers Act commenced in Singapore on 1 January 2025 and created a new legal category. What its first year revealed about the duties."
 og_title: "Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know"
-og_description: "The Platform Workers Act commenced on 1 January 2025 and created a new legal category. What its first year revealed about the duties."
+og_description: "The Platform Workers Act commenced in Singapore on 1 January 2025 and created a new legal category. What its first year revealed about the duties."
 ---
 
 > **The Answer in 60 Seconds**

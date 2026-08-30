@@ -13,9 +13,9 @@ word_count: 1340
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/plate-glass-claim"
-meta_description: "Plate glass usually sits as a sub-section of a property policy rather than on its own. What it covers, and when a standalone is worth having."
+meta_description: "Plate glass usually sits inside a Singapore property policy rather than on its own. What it covers, and when a standalone is worth having."
 og_title: "How to File a Plate Glass Insurance Claim"
-og_description: "Plate glass usually sits as a sub-section of a property policy rather than on its own. What it covers, and when a standalone is worth having."
+og_description: "Plate glass usually sits inside a Singapore property policy rather than on its own. What it covers, and when a standalone is worth having."
 ---
 
 > **The Answer in 60 Seconds**

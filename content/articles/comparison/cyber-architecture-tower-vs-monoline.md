@@ -13,9 +13,9 @@ word_count: 635
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-architecture-tower-vs-monoline"
-meta_description: "One insurer to a single limit, or several stacked in a tower. What each cyber structure does to your cover, your claim and your renewal."
+meta_description: "One insurer to a single limit, or several stacked in a tower. What each cyber structure does to a Singapore SME's cover, claim and renewal."
 og_title: "Cyber Architecture Tower vs Monoline Policy Comparison"
-og_description: "One insurer to a single limit, or several stacked in a tower. What each cyber structure does to your cover, your claim and your renewal."
+og_description: "One insurer to a single limit, or several stacked in a tower. What each cyber structure does to a Singapore SME's cover, claim and renewal."
 ---
 
 > **The Answer in 60 Seconds**

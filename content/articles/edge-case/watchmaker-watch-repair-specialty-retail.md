@@ -13,9 +13,9 @@ word_count: 1844
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/watchmaker-watch-repair-specialty-retail"
-meta_description: "A watch business holds one of the highest values per square metre in retail. What that concentration does to cover, security and stock terms."
+meta_description: "A watch business holds one of the highest values per square metre in Singapore retail. What that does to cover, security and stock terms."
 og_title: "Watchmaker, Watch Repair, and Specialty Watch Retail Insurance: Singapore Operator Framework"
-og_description: "A watch business holds one of the highest values per square metre in retail. What that concentration does to cover, security and stock terms."
+og_description: "A watch business holds one of the highest values per square metre in Singapore retail. What that does to cover, security and stock terms."
 ---
 
 > **The Answer in 60 Seconds**

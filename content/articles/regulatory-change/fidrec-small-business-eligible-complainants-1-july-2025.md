@@ -13,9 +13,9 @@ word_count: 1864
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/fidrec-small-business-eligible-complainants-1-july-2025"
-meta_description: "From 1 July 2025 FIDReC accepts small businesses as eligible complainants. Which businesses qualify, and what disputes can now go there."
+meta_description: "From 1 July 2025 Singapore's FIDReC accepts small businesses as eligible complainants. Which qualify, and what disputes can now go there."
 og_title: "FIDReC Terms of Reference v2.2 (1 July 2025): Small Businesses Now Eligible Complainants for Insurance Disputes Up to SGD 150,000"
-og_description: "From 1 July 2025 FIDReC accepts small businesses as eligible complainants. Which businesses qualify, and what disputes can now go there."
+og_description: "From 1 July 2025 Singapore's FIDReC accepts small businesses as eligible complainants. Which qualify, and what disputes can now go there."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2151
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/sole-proprietor-vs-pte-ltd-insurance-singapore"
-meta_description: "A sole proprietor and the business are one in law, so a claim reaches personal assets. Incorporation moves that line, and it moves what cover has to do."
+meta_description: "A sole proprietor and the business are one in Singapore law, so a claim reaches personal assets. Incorporation moves that line, and what cover must do."
 og_title: "Sole Proprietor vs Pte Ltd: How Your Business Structure Changes Your Insurance"
-og_description: "A sole proprietor and the business are one in law, so a claim reaches personal assets. Incorporation moves that line, and it moves what cover has to do."
+og_description: "A sole proprietor and the business are one in Singapore law, so a claim reaches personal assets. Incorporation moves that line, and what cover must do."
 ---
 
 > **The Answer in 60 Seconds**

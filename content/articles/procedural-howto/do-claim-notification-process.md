@@ -13,9 +13,9 @@ word_count: 1690
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/do-claim-notification-process"
-meta_description: "D&O is claims-made and reported, so late notice can end the cover entirely. What counts as a claim, and when the clock actually starts."
+meta_description: "D&O is claims-made and reported, so late notice can end the cover entirely. What counts as a claim in Singapore, and when the clock starts."
 og_title: "D&O Claim Notification Process: From First Indication to Defence Engagement"
-og_description: "D&O is claims-made and reported, so late notice can end the cover entirely. What counts as a claim, and when the clock actually starts."
+og_description: "D&O is claims-made and reported, so late notice can end the cover entirely. What counts as a claim in Singapore, and when the clock starts."
 ---
 
 > **The Answer in 60 Seconds**

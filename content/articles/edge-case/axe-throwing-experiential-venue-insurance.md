@@ -13,9 +13,9 @@ word_count: 1463
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/axe-throwing-experiential-venue-insurance"
-meta_description: "Axe throwing, archery, escape rooms and VR arcades put customers into physical activity. What the venue must hold, and what a waiver does not do."
+meta_description: "Axe throwing, archery, escape rooms and VR arcades put customers into physical activity. What a Singapore venue must hold, and what a waiver cannot."
 og_title: "Axe Throwing, Knife Throwing, and Experiential Entertainment Venue Insurance in Singapore"
-og_description: "Axe throwing, archery, escape rooms and VR arcades put customers into physical activity. What the venue must hold, and what a waiver does not do."
+og_description: "Axe throwing, archery, escape rooms and VR arcades put customers into physical activity. What a Singapore venue must hold, and what a waiver cannot."
 ---
 
 > **The Answer in 60 Seconds**

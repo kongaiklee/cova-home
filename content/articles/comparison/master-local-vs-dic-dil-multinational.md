@@ -13,9 +13,9 @@ word_count: 1671
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/master-local-vs-dic-dil-multinational"
-meta_description: "Master and local, or DIC and DIL: two ways to structure a multinational programme. What each does when a local policy falls short."
+meta_description: "Master and local, or DIC and DIL: two ways a Singapore group structures a multinational programme. What each does when a local policy falls short."
 og_title: "Master/Local vs DIC/DIL: Multinational Insurance Structures Explained"
-og_description: "Master and local, or DIC and DIL: two ways to structure a multinational programme. What each does when a local policy falls short."
+og_description: "Master and local, or DIC and DIL: two ways a Singapore group structures a multinational programme. What each does when a local policy falls short."
 ---
 
 > **The Answer in 60 Seconds**

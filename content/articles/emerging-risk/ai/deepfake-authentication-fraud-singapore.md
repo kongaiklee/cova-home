@@ -105,7 +105,7 @@ A deepfake that defeats authentication is a controls problem with insurance as t
 6. What **authentication conditions or warranties** does the policy impose, for example a requirement for multi-factor authentication, and would a single-biometric gate breach them?
 7. How does this Cyber wording dovetail with my **Crime/Fidelity** policy so an account-takeover loss does not fall between the two?
 
-Covarage is a Singapore B2B insurance administration platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
+Covarage is a Singapore B2B insurance operations platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
 
 ### Related Information
 - [Deepfake Funds-Transfer Fraud: Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)

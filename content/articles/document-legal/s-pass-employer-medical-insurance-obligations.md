@@ -13,9 +13,9 @@ word_count: 911
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/s-pass-employer-medical-insurance-obligations"
-meta_description: "MOM requires employers to hold medical insurance of at least S$60,000 a year for each S Pass holder. What the cover must include."
+meta_description: "Singapore employers must hold medical insurance of at least S$60,000 a year for each S Pass holder. What MOM says the cover must include."
 og_title: "What Are S Pass Employers' Medical Insurance Obligations?"
-og_description: "MOM requires employers to hold medical insurance of at least S$60,000 a year for each S Pass holder. What the cover must include."
+og_description: "Singapore employers must hold medical insurance of at least S$60,000 a year for each S Pass holder. What MOM says the cover must include."
 ---
 
 > **The 60-second answer:** Per [MOM's S Pass medical insurance page](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance), employers must buy and maintain medical insurance with annual coverage of at least **S$60,000 per S Pass holder** for policies starting on or after 1 July 2023. The employer co-pays 25% of claim amounts above the first S$15,000; the insurer covers 75%. From 1 July 2025, age-differentiated premiums (≤50 vs >50), direct hospital reimbursement, and standardised exclusions apply.

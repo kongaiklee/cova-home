@@ -13,9 +13,9 @@ word_count: 945
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/mas-register-verify-insurance-broker"
-meta_description: "Every licensed adviser, broker and tied agent must appear in the MAS directories. How to check who you are actually dealing with."
+meta_description: "Every licensed Singapore adviser, broker and tied agent must appear in the MAS directories. How to check who you are actually dealing with."
 og_title: "MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)"
-og_description: "Every licensed adviser, broker and tied agent must appear in the MAS directories. How to check who you are actually dealing with."
+og_description: "Every licensed Singapore adviser, broker and tied agent must appear in the MAS directories. How to check who you are actually dealing with."
 ---
 
 > **The Answer in 60 Seconds**

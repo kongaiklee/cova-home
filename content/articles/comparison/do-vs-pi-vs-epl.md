@@ -13,9 +13,9 @@ word_count: 1607
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/do-vs-pi-vs-epl"
-meta_description: "D&O covers the individual, PI covers the work, EPL covers the employment relationship. Which one answers which claim."
+meta_description: "D&O covers the individual, PI covers the work, EPL covers the employment relationship. Which one answers which claim in Singapore."
 og_title: "D&O vs PI vs EPL: Three Liability Covers Often Confused"
-og_description: "D&O covers the individual, PI covers the work, EPL covers the employment relationship. Which one answers which claim."
+og_description: "D&O covers the individual, PI covers the work, EPL covers the employment relationship. Which one answers which claim in Singapore."
 ---
 
 > **The Answer in 60 Seconds**

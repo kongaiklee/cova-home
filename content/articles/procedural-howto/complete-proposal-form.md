@@ -13,9 +13,9 @@ word_count: 1306
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/complete-proposal-form"
-meta_description: "The proposal form is the foundation of the contract, and utmost good faith applies to every answer. What that means for how you complete it."
+meta_description: "The proposal form is the foundation of the contract, and utmost good faith applies to every answer. What that means for a Singapore buyer."
 og_title: "How to Complete an Insurance Proposal Form Properly"
-og_description: "The proposal form is the foundation of the contract, and utmost good faith applies to every answer. What that means for how you complete it."
+og_description: "The proposal form is the foundation of the contract, and utmost good faith applies to every answer. What that means for a Singapore buyer."
 ---
 
 > **The Answer in 60 Seconds:** The proposal form is the cornerstone of the insurance contract. Singapore law applies the duty of **utmost good faith (uberrimae fidei)** - codified in [section 17 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applied at common law to all insurance contracts. Material non-disclosure or misrepresentation lets the insurer **avoid the policy ab initio** - meaning the policy is treated as if it never existed. Answer every question, disclose every material fact even if not asked, verify with primary records, and have the proper authorised signatory sign.

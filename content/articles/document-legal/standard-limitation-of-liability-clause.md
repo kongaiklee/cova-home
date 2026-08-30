@@ -13,9 +13,9 @@ word_count: 1082
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/standard-limitation-of-liability-clause"
-meta_description: "Limitation of liability is where the real risk allocation happens. What a standard clause does, and which parts of it survive challenge."
+meta_description: "Limitation of liability is where the real risk allocation happens. What a standard clause does, and which parts survive challenge in Singapore."
 og_title: "Standard Limitation of Liability Clauses: Drafting and Commercial Implications"
-og_description: "Limitation of liability is where the real risk allocation happens. What a standard clause does, and which parts of it survive challenge."
+og_description: "Limitation of liability is where the real risk allocation happens. What a standard clause does, and which parts survive challenge in Singapore."
 ---
 
 > **The Answer in 60 Seconds**

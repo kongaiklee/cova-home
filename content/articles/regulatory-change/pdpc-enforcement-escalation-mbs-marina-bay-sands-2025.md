@@ -13,9 +13,9 @@ word_count: 1548
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025"
-meta_description: "PDPC enforcement from 2024 to 2026 shows one pattern repeating under section 24. What the decisions punish, and what they treat as reasonable."
+meta_description: "Singapore's PDPC enforcement from 2024 to 2026 shows one pattern repeating under section 24. What the decisions punish, and what they call reasonable."
 og_title: "PDPC Enforcement Escalation 2024-2026: Marina Bay Sands SGD 315,000 and the Pattern Insurers Are Underwriting Against"
-og_description: "PDPC enforcement from 2024 to 2026 shows one pattern repeating under section 24. What the decisions punish, and what they treat as reasonable."
+og_description: "Singapore's PDPC enforcement from 2024 to 2026 shows one pattern repeating under section 24. What the decisions punish, and what they call reasonable."
 ---
 
 > **The Answer in 60 Seconds**

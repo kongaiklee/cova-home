@@ -13,9 +13,9 @@ word_count: 2136
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/bi-vs-cbi-worked-example"
-meta_description: "Business interruption pays when your premises are damaged. Contingent BI pays when your supplier's are. A worked example of the difference."
+meta_description: "Business interruption pays when your premises are damaged. Contingent BI pays when your supplier's are. A Singapore worked example of the difference."
 og_title: "Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs"
-og_description: "Business interruption pays when your premises are damaged. Contingent BI pays when your supplier's are. A worked example of the difference."
+og_description: "Business interruption pays when your premises are damaged. Contingent BI pays when your supplier's are. A Singapore worked example of the difference."
 ---
 
 > **The Answer in 60 Seconds**

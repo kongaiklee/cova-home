@@ -13,9 +13,9 @@ word_count: 3500
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-coordinate-insurance-with-acra-strike-off-singapore"
-meta_description: "Directors usually cancel the cover the day they file. What that gets wrong about strike-off, and how insurance should be timed against ACRA's clock."
+meta_description: "Directors usually cancel cover the day they file. What that gets wrong about strike-off, and how to time insurance against Singapore's ACRA clock."
 og_title: "How to Coordinate Insurance Cancellation with ACRA Strike-Off or Winding-Up: The Closure Workflow for Singapore SMEs"
-og_description: "Directors usually cancel the cover the day they file. What that gets wrong about strike-off, and how insurance should be timed against ACRA's clock."
+og_description: "Directors usually cancel cover the day they file. What that gets wrong about strike-off, and how to time insurance against Singapore's ACRA clock."
 ---
 
 The closure of a Singapore company is a calendar-driven legal process under the Companies Act, with hard ACRA deadlines, statutory creditor-notification requirements, and tax-clearance interactions with IRAS. The insurance dimension of that process is rarely planned. Most directors cancel the commercial policies as soon as the strike-off application is filed and discover, often years later, that a customer claim, an employee dispute, or a regulator action has surfaced relating to acts that occurred during the company's trading life - by which point the cover is gone, the ERP window has closed, and the directors face personal exposure.

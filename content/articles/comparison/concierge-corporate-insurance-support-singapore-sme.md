@@ -13,9 +13,9 @@ word_count: 2073
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/concierge-corporate-insurance-support-singapore-sme"
-meta_description: "Concierge in insurance marketing runs from substantive to ornamental. What the word should actually mean, and the questions that reveal which you have."
+meta_description: "Concierge in Singapore insurance marketing runs from substantive to ornamental. What the word should mean, and the questions that reveal which you have."
 og_title: "What \"Concierge\" Corporate Insurance Support Should Actually Mean for a Singapore SME"
-og_description: "Concierge in insurance marketing runs from substantive to ornamental. What the word should actually mean, and the questions that reveal which you have."
+og_description: "Concierge in Singapore insurance marketing runs from substantive to ornamental. What the word should mean, and the questions that reveal which you have."
 ---
 
 > **The Answer in 60 Seconds**

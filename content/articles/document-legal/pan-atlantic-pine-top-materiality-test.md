@@ -13,9 +13,9 @@ word_count: 1917
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/pan-atlantic-pine-top-materiality-test"
-meta_description: "Pan Atlantic v Pine Top set the materiality test for disclosure. What counts as material, and what happens when it is not disclosed."
+meta_description: "Pan Atlantic v Pine Top set the materiality test for disclosure in Singapore. What counts as material, and what happens when it is not."
 og_title: "Pan Atlantic v Pine Top: The Case That Defined Materiality in Insurance Disclosure"
-og_description: "Pan Atlantic v Pine Top set the materiality test for disclosure. What counts as material, and what happens when it is not disclosed."
+og_description: "Pan Atlantic v Pine Top set the materiality test for disclosure in Singapore. What counts as material, and what happens when it is not."
 ---
 
 > **The Answer in 60 Seconds**

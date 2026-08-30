@@ -13,9 +13,9 @@ word_count: 1565
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/iras-audit-investigation"
-meta_description: "An IRAS compliance review, an information request and an investigation are different things. Establish which you have received, first."
+meta_description: "An IRAS compliance review, an information request and an investigation are different things in Singapore. Establish which you received, first."
 og_title: "IRAS Just Notified Us of a Tax Audit or Investigation - What Do I Do Now?"
-og_description: "An IRAS compliance review, an information request and an investigation are different things. Establish which you have received, first."
+og_description: "An IRAS compliance review, an information request and an investigation are different things in Singapore. Establish which you received, first."
 ---
 
 > **The Answer in 60 Seconds**

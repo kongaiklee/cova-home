@@ -13,9 +13,9 @@ word_count: 1478
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/ghs-vs-personal-ip"
-meta_description: "A group hospitalisation plan is the employer's benefit; an Integrated Shield plan is the employee's own. What each covers, and how they interact."
+meta_description: "A group hospitalisation plan is the employer's benefit; a Singapore Integrated Shield plan is the employee's own. How the two interact."
 og_title: "Group Hospitalisation & Surgical vs Personal Integrated Shield Plan: How They Coordinate"
-og_description: "A group hospitalisation plan is the employer's benefit; an Integrated Shield plan is the employee's own. What each covers, and how they interact."
+og_description: "A group hospitalisation plan is the employer's benefit; a Singapore Integrated Shield plan is the employee's own. How the two interact."
 ---
 
 > **The Answer in 60 Seconds**

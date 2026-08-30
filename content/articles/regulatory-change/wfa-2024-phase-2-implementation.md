@@ -13,9 +13,9 @@ word_count: 1444
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wfa-2024-phase-2-implementation"
-meta_description: "The Workplace Fairness Act arrives in phases. What phase 2 introduces, who it binds, and what an employer should have in place first."
+meta_description: "The Workplace Fairness Act arrives in Singapore in phases. What phase 2 introduces, who it binds, and what an employer needs in place first."
 og_title: "Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know"
-og_description: "The Workplace Fairness Act arrives in phases. What phase 2 introduces, who it binds, and what an employer should have in place first."
+og_description: "The Workplace Fairness Act arrives in Singapore in phases. What phase 2 introduces, who it binds, and what an employer needs in place first."
 ---
 
 > **The Answer in 60 Seconds**

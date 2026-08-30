@@ -13,9 +13,9 @@ word_count: 2798
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025"
-meta_description: "MAS Notice 134 on recovery and resolution planning took effect on 1 January 2025. Which insurers it binds, and what it means for policyholders."
+meta_description: "Singapore's MAS Notice 134 on recovery and resolution planning took effect 1 January 2025. Which insurers it binds, and what it means for policyholders."
 og_title: "MAS Notice 134 Recovery and Resolution Planning for Insurers Effective 1 January 2025: SME Counterparty Risk Implications"
-og_description: "MAS Notice 134 on recovery and resolution planning took effect on 1 January 2025. Which insurers it binds, and what it means for policyholders."
+og_description: "Singapore's MAS Notice 134 on recovery and resolution planning took effect 1 January 2025. Which insurers it binds, and what it means for policyholders."
 ---
 
 > **The Answer in 60 Seconds**

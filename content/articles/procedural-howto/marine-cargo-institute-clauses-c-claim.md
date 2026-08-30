@@ -13,9 +13,9 @@ word_count: 1579
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-c-claim"
-meta_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a cargo claim needs, and the notice timings."
+meta_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a Singapore cargo claim needs, and the timings."
 og_title: "How to Claim Under Marine Cargo Institute Clauses C"
-og_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a cargo claim needs, and the notice timings."
+og_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a Singapore cargo claim needs, and the timings."
 ---
 
 > **The Answer in 60 Seconds**

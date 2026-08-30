@@ -13,9 +13,9 @@ word_count: 1049
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/pl-claim-customer-slip-fnb"
-meta_description: "First aid, no admission of liability, then preserve the CCTV, the incident book and the witnesses. What a public liability claim turns on."
+meta_description: "First aid, no admission of liability, then preserve the CCTV, the incident book and the witnesses. What a Singapore public liability claim turns on."
 og_title: "How to File a Public Liability Claim - Customer Slip in My Cafe"
-og_description: "First aid, no admission of liability, then preserve the CCTV, the incident book and the witnesses. What a public liability claim turns on."
+og_description: "First aid, no admission of liability, then preserve the CCTV, the incident book and the witnesses. What a Singapore public liability claim turns on."
 ---
 
 ### The Answer in 60 Seconds

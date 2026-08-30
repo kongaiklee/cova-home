@@ -13,9 +13,9 @@ word_count: 1674
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/ransomware-just-hit"
-meta_description: "The first four hours decide the outcome. Isolate systems without powering off, because powering off destroys the forensic evidence."
+meta_description: "The first four hours decide the outcome for a Singapore business. Isolate systems without powering off, because that destroys the evidence."
 og_title: "We Just Discovered Ransomware on Our Systems - What Do I Do Now?"
-og_description: "The first four hours decide the outcome. Isolate systems without powering off, because powering off destroys the forensic evidence."
+og_description: "The first four hours decide the outcome for a Singapore business. Isolate systems without powering off, because that destroys the evidence."
 ---
 
 > **The Answer in 60 Seconds**

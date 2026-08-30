@@ -13,9 +13,9 @@ word_count: 1787
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/multi-injury-mass-casualty-mom-major-classification"
-meta_description: "Three or more workers injured in one event changes the MOM classification. What that triggers, who attends, and what the site must preserve."
+meta_description: "Three or more workers injured in one event changes the Singapore MOM classification. What that triggers, who attends, and what the site preserves."
 og_title: "Multi-Injury Workplace Incident: 3+ Workers Down, MOM Major-Incident Classification"
-og_description: "Three or more workers injured in one event changes the MOM classification. What that triggers, who attends, and what the site must preserve."
+og_description: "Three or more workers injured in one event changes the Singapore MOM classification. What that triggers, who attends, and what the site preserves."
 ---
 
 > **The Answer in 60 Seconds**

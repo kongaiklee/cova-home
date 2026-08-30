@@ -13,9 +13,9 @@ word_count: 1639
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/second-hand-luxury-reseller-insurance"
-meta_description: "A pre-owned luxury reseller holds high-value stock it often does not own. What that does to cover, authentication risk and consignment terms."
+meta_description: "A Singapore pre-owned luxury reseller holds high-value stock it often does not own. What that does to cover, authentication and consignment terms."
 og_title: "Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore (Watches, Bags, Sneakers, Designer Apparel)"
-og_description: "A pre-owned luxury reseller holds high-value stock it often does not own. What that does to cover, authentication risk and consignment terms."
+og_description: "A Singapore pre-owned luxury reseller holds high-value stock it often does not own. What that does to cover, authentication and consignment terms."
 ---
 
 > **The Answer in 60 Seconds**

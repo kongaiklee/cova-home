@@ -13,9 +13,9 @@ word_count: 2176
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/mas-notice-faa-n03-ifa-conduct"
-meta_description: "What a licensed financial adviser must disclose to you under MAS Notice FAA-N03, and how to tell a compliant presentation from a sales pitch."
+meta_description: "What a licensed Singapore financial adviser must disclose under MAS Notice FAA-N03, and how to tell a compliant presentation from a sales pitch."
 og_title: "MAS Notice FAA-N03: How Independent Financial Advisers Are Regulated and What That Means When You Buy Insurance"
-og_description: "What a licensed financial adviser must disclose to you under MAS Notice FAA-N03, and how to tell a compliant presentation from a sales pitch."
+og_description: "What a licensed Singapore financial adviser must disclose under MAS Notice FAA-N03, and how to tell a compliant presentation from a sales pitch."
 ---
 
 > **The Answer in 60 Seconds**

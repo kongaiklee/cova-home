@@ -13,9 +13,9 @@ word_count: 1246
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/gst-9-percent-insurance-premium-singapore-sme"
-meta_description: "GST reached 9% on 1 January 2024. How it applies to a business insurance premium, and what your input tax claim actually depends on."
+meta_description: "GST reached 9% in Singapore on 1 January 2024. How it applies to a business insurance premium, and what your input tax claim actually depends on."
 og_title: "The GST Rate at 9% from 1 January 2024: Implications for Singapore SME Insurance Premiums"
-og_description: "GST reached 9% on 1 January 2024. How it applies to a business insurance premium, and what your input tax claim actually depends on."
+og_description: "GST reached 9% in Singapore on 1 January 2024. How it applies to a business insurance premium, and what your input tax claim actually depends on."
 ---
 
 > **The Answer in 60 Seconds**

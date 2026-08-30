@@ -13,9 +13,9 @@ word_count: 2532
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability"
-meta_description: "The Food Safety and Security Act consolidates rules once spread across several statutes. What tranche 1 changed for F&B from 28 November 2025."
+meta_description: "Singapore's Food Safety and Security Act consolidates rules once spread across several statutes. What tranche 1 changed for F&B from 28 November 2025."
 og_title: "Food Safety and Security Act 2025 Tranche 1 Effective 28 November 2025: F&B Product Liability, Recall, and Contamination Cover Implications for Singapore SMEs"
-og_description: "The Food Safety and Security Act consolidates rules once spread across several statutes. What tranche 1 changed for F&B from 28 November 2025."
+og_description: "Singapore's Food Safety and Security Act consolidates rules once spread across several statutes. What tranche 1 changed for F&B from 28 November 2025."
 ---
 
 > **The Answer in 60 Seconds**

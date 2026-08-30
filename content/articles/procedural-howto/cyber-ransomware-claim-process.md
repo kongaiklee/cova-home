@@ -13,9 +13,9 @@ word_count: 1168
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/cyber-ransomware-claim-process"
-meta_description: "Isolate, preserve evidence, notify the cyber insurer within hours, and engage panel forensics before responding. The order the policy expects."
+meta_description: "Isolate, preserve evidence, notify the cyber insurer within hours, engage panel forensics before responding. The order a Singapore policy expects."
 og_title: "How to File a Cyber Insurance Claim After a Ransomware Attack"
-og_description: "Isolate, preserve evidence, notify the cyber insurer within hours, and engage panel forensics before responding. The order the policy expects."
+og_description: "Isolate, preserve evidence, notify the cyber insurer within hours, engage panel forensics before responding. The order a Singapore policy expects."
 ---
 
 ### The Answer in 60 Seconds

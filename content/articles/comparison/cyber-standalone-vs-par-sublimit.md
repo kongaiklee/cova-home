@@ -13,9 +13,9 @@ word_count: 1584
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-standalone-vs-par-sublimit"
-meta_description: "A cyber sub-limit inside a property package is usually S$50,000 to S$250,000. What that actually buys, and where a standalone policy starts."
+meta_description: "A Singapore cyber sub-limit inside a property package is usually S$50,000 to S$250,000. What that buys, and where a standalone policy starts."
 og_title: "Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?"
-og_description: "A cyber sub-limit inside a property package is usually S$50,000 to S$250,000. What that actually buys, and where a standalone policy starts."
+og_description: "A Singapore cyber sub-limit inside a property package is usually S$50,000 to S$250,000. What that buys, and where a standalone policy starts."
 ---
 
 > **The Answer in 60 Seconds**

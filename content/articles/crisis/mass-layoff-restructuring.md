@@ -13,9 +13,9 @@ word_count: 1725
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mass-layoff-restructuring"
-meta_description: "A retrenchment has to follow the Tripartite Advisory before it follows anything else. What the process requires, and where employers get caught."
+meta_description: "A retrenchment must follow Singapore's Tripartite Advisory before anything else. What the process requires, and where employers get caught."
 og_title: "We Need to Conduct a Mass Layoff or Major Restructuring - What Do I Do Now?"
-og_description: "A retrenchment has to follow the Tripartite Advisory before it follows anything else. What the process requires, and where employers get caught."
+og_description: "A retrenchment must follow Singapore's Tripartite Advisory before anything else. What the process requires, and where employers get caught."
 ---
 
 > **The Answer in 60 Seconds**

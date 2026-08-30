@@ -13,9 +13,9 @@ word_count: 1000
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/casetrust-renovation-deposit-performance-bond"
-meta_description: "CaseTrust caps a renovation deposit at 20% of total cost and backs it with a performance bond. What the accreditation actually requires."
+meta_description: "CaseTrust caps a Singapore renovation deposit at 20% of total cost and backs it with a performance bond. What the accreditation requires."
 og_title: "CaseTrust Renovation: The Deposit Performance Bond Explained"
-og_description: "CaseTrust caps a renovation deposit at 20% of total cost and backs it with a performance bond. What the accreditation actually requires."
+og_description: "CaseTrust caps a Singapore renovation deposit at 20% of total cost and backs it with a performance bond. What the accreditation requires."
 ---
 
 > **The Answer in 60 Seconds**

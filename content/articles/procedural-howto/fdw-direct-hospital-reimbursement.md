@@ -13,9 +13,9 @@ word_count: 1152
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/fdw-direct-hospital-reimbursement"
-meta_description: "MOM requires direct hospital reimbursement for admissible FDW claims. What that means in practice, and what the employer still handles."
+meta_description: "Singapore's MOM requires direct hospital reimbursement for admissible FDW claims. What that means in practice, and what the employer still handles."
 og_title: "How to File FDW Medical Claim Direct Hospital Reimbursement"
-og_description: "MOM requires direct hospital reimbursement for admissible FDW claims. What that means in practice, and what the employer still handles."
+og_description: "Singapore's MOM requires direct hospital reimbursement for admissible FDW claims. What that means in practice, and what the employer still handles."
 ---
 
 > **The Answer in 60 Seconds**  

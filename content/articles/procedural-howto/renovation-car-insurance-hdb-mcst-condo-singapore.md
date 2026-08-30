@@ -13,9 +13,9 @@ word_count: 1664
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore"
-meta_description: "Renovation CAR is the cover a fit-out firm carries in an HDB flat, a condominium or a commercial unit. What the MCST and the owner will ask for."
+meta_description: "Renovation CAR is the cover a Singapore fit-out firm carries in an HDB flat, condominium or commercial unit. What the MCST and the owner will ask for."
 og_title: "How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works"
-og_description: "Renovation CAR is the cover a fit-out firm carries in an HDB flat, a condominium or a commercial unit. What the MCST and the owner will ask for."
+og_description: "Renovation CAR is the cover a Singapore fit-out firm carries in an HDB flat, condominium or commercial unit. What the MCST and the owner will ask for."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1433
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/private-hire-chauffeur-services"
-meta_description: "Private hire, chauffeur and limousine operators carry passengers for reward. What that changes about motor cover, licensing and liability."
+meta_description: "Private hire, chauffeur and limousine operators carry passengers for reward. What that changes about Singapore motor cover, licensing and liability."
 og_title: "SME Startup Decision Tree: Private Hire and Chauffeur Services - Foundational Insurance Procurement"
-og_description: "Private hire, chauffeur and limousine operators carry passengers for reward. What that changes about motor cover, licensing and liability."
+og_description: "Private hire, chauffeur and limousine operators carry passengers for reward. What that changes about Singapore motor cover, licensing and liability."
 ---
 
 > **The Answer in 60 Seconds**

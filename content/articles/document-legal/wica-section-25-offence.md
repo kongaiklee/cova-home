@@ -14,9 +14,9 @@ word_count: 1664
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-section-25-offence"
-meta_description: "Section 25 makes failing to insure or maintain WICA cover an offence. What the penalties are, and what an uninsured employer still owes."
+meta_description: "Section 25 makes failing to insure or maintain WICA cover a Singapore offence. What the penalties are, and what an uninsured employer still owes."
 og_title: "WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure"
-og_description: "Section 25 makes failing to insure or maintain WICA cover an offence. What the penalties are, and what an uninsured employer still owes."
+og_description: "Section 25 makes failing to insure or maintain WICA cover a Singapore offence. What the penalties are, and what an uninsured employer still owes."
 ---
 
 > **The Answer in 60 Seconds**

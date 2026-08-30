@@ -13,9 +13,9 @@ word_count: 1604
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/tafep-harassment-investigation-served"
-meta_description: "TAFEP has made contact over a harassment complaint. What the process is, what independent investigation means, and what to preserve now."
+meta_description: "TAFEP has made contact over a harassment complaint. What the Singapore process is, what independent investigation means, and what to secure now."
 og_title: "TAFEP / Sexual Harassment Investigation Served on the Employer"
-og_description: "TAFEP has made contact over a harassment complaint. What the process is, what independent investigation means, and what to preserve now."
+og_description: "TAFEP has made contact over a harassment complaint. What the Singapore process is, what independent investigation means, and what to secure now."
 ---
 
 > **The Answer in 60 Seconds**

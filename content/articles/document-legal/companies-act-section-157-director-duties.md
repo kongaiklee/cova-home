@@ -13,9 +13,9 @@ word_count: 1885
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/companies-act-section-157-director-duties"
-meta_description: "Section 157 requires honesty and reasonable diligence, and bars using the office for personal gain. What that obliges, and what evidences it."
+meta_description: "Singapore's section 157 requires honesty and reasonable diligence, and bars using the office for personal gain. What that obliges, and what proves it."
 og_title: "Companies Act Section 157: Director Duties and the D&O Insurance Foundation"
-og_description: "Section 157 requires honesty and reasonable diligence, and bars using the office for personal gain. What that obliges, and what evidences it."
+og_description: "Singapore's section 157 requires honesty and reasonable diligence, and bars using the office for personal gain. What that obliges, and what proves it."
 ---
 
 > **The Answer in 60 Seconds**

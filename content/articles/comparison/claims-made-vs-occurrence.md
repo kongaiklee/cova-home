@@ -13,9 +13,9 @@ word_count: 1629
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/claims-made-vs-occurrence"
-meta_description: "Occurrence cover follows the event; claims-made follows the notification. Which one you hold decides who pays years after the work."
+meta_description: "Occurrence cover follows the event; claims-made follows the notification. Which a Singapore business holds decides who pays years after the work."
 og_title: "Claims-Made vs Occurrence Triggers: Why It Matters Which Lines Use Which"
-og_description: "Occurrence cover follows the event; claims-made follows the notification. Which one you hold decides who pays years after the work."
+og_description: "Occurrence cover follows the event; claims-made follows the notification. Which a Singapore business holds decides who pays years after the work."
 ---
 
 > **The Answer in 60 Seconds**

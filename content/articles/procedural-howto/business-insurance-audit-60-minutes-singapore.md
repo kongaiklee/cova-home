@@ -13,9 +13,9 @@ word_count: 2242
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/business-insurance-audit-60-minutes-singapore"
-meta_description: "A full insurance audit for a small business takes six steps and about an hour, with no software. What to gather first, and what to look for."
+meta_description: "A full insurance audit for a Singapore small business takes six steps and about an hour, with no software. What to gather first, and what to look for."
 og_title: "How to Audit Your Existing Business Insurance in 60 Minutes"
-og_description: "A full insurance audit for a small business takes six steps and about an hour, with no software. What to gather first, and what to look for."
+og_description: "A full insurance audit for a Singapore small business takes six steps and about an hour, with no software. What to gather first, and what to look for."
 ---
 
 > **The Answer in 60 Seconds**

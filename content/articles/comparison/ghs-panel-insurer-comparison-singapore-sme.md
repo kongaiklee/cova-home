@@ -13,9 +13,9 @@ word_count: 2496
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/ghs-panel-insurer-comparison-singapore-sme"
-meta_description: "Group hospital and surgical cover differs more between insurers than the premium suggests. What to compare beyond the headline number."
+meta_description: "Group hospital and surgical cover differs more between Singapore insurers than the premium suggests. What to compare beyond the headline number."
 og_title: "Group Hospital & Surgical (GHS) Panel Insurer Comparison: Singapore SME Decision Framework"
-og_description: "Group hospital and surgical cover differs more between insurers than the premium suggests. What to compare beyond the headline number."
+og_description: "Group hospital and surgical cover differs more between Singapore insurers than the premium suggests. What to compare beyond the headline number."
 ---
 
 > **The Answer in 60 Seconds**

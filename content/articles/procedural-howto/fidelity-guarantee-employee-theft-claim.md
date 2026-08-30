@@ -13,9 +13,9 @@ word_count: 1158
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/fidelity-guarantee-employee-theft-claim"
-meta_description: "Fidelity guarantee is voluntary and indemnifies direct financial loss from employee fraud. What it needs proved, and what it excludes."
+meta_description: "Fidelity guarantee is voluntary in Singapore and indemnifies direct financial loss from employee fraud. What it needs proved, and what it excludes."
 og_title: "How to File a Fidelity Guarantee Claim - Employee Dishonesty"
-og_description: "Fidelity guarantee is voluntary and indemnifies direct financial loss from employee fraud. What it needs proved, and what it excludes."
+og_description: "Fidelity guarantee is voluntary in Singapore and indemnifies direct financial loss from employee fraud. What it needs proved, and what it excludes."
 ---
 
 > **The Answer in 60 Seconds:** Fidelity Guarantee (FG) cover is **voluntary, not statutory**. It indemnifies a business against direct financial loss from employee fraud or dishonesty. Per [Tokio Marine's published Fidelity Guarantee policy summary](https://www.tokiomarine.com/sg/en/non-life/products/business/property/fidelity-guarantee.html): a police report is generally required, notification windows are short, and claims must arise from acts discovered within a fixed window after employment ends (the Tokio Marine wording specifies discovery within three months of policy or employment termination). A forensic accountant report is typically required.

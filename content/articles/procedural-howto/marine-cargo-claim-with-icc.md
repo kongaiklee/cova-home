@@ -13,9 +13,9 @@ word_count: 1394
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-claim-with-icc"
-meta_description: "A marine cargo claim combines the ICC wording with operational discipline. The sequence to follow, and the documents that decide it."
+meta_description: "A marine cargo claim combines the ICC wording with operational discipline. The Singapore sequence to follow, and the documents that decide it."
 og_title: "Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough"
-og_description: "A marine cargo claim combines the ICC wording with operational discipline. The sequence to follow, and the documents that decide it."
+og_description: "A marine cargo claim combines the ICC wording with operational discipline. The Singapore sequence to follow, and the documents that decide it."
 ---
 
 > **The Answer in 60 Seconds**

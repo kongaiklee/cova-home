@@ -13,9 +13,9 @@ word_count: 844
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/moh-clinic-licence-professional-indemnity"
-meta_description: "HCSA regulates sixteen healthcare services, and professional indemnity sits alongside the licence. What MOH requires of a clinic."
+meta_description: "HCSA regulates sixteen healthcare services and professional indemnity sits alongside the licence. What Singapore's MOH requires of a clinic."
 og_title: "Does an MOH Clinic Licence Require Professional Indemnity Insurance?"
-og_description: "HCSA regulates sixteen healthcare services, and professional indemnity sits alongside the licence. What MOH requires of a clinic."
+og_description: "HCSA regulates sixteen healthcare services and professional indemnity sits alongside the licence. What Singapore's MOH requires of a clinic."
 ---
 
 > **The 60-second answer:** Per [MOH's Healthcare Services Act page](https://www.moh.gov.sg/others/health-regulation/healthcare-services-regulation-and-licensing/), the HCSA (enacted 2020, replacing the Private Hospitals and Medical Clinics Act) regulates 16 healthcare services on a services-based, risk-based framework: *"There are currently 16 healthcare services regulated under the HCSA and healthcare providers who offer any of these services in Singapore will need to hold the relevant HCSA licences before offering the service."* The **HCSA licence itself does not impose a strict statutory PI insurance requirement** on the clinic premises. PI obligations come from a different regulator - the Singapore Medical Council, which requires every doctor with a Practising Certificate to be covered.

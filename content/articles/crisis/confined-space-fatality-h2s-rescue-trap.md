@@ -13,9 +13,9 @@ word_count: 1667
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/confined-space-fatality-h2s-rescue-trap"
-meta_description: "A worker has collapsed in a confined space and would-be rescuers went in without breathing apparatus. Why the rescue trap causes most fatalities."
+meta_description: "A worker has collapsed in a confined space and rescuers went in without breathing apparatus. Why the rescue trap causes most Singapore fatalities."
 og_title: "Confined Space Fatality: Hydrogen Sulphide Exposure and the Multi-Casualty Rescue Trap"
-og_description: "A worker has collapsed in a confined space and would-be rescuers went in without breathing apparatus. Why the rescue trap causes most fatalities."
+og_description: "A worker has collapsed in a confined space and rescuers went in without breathing apparatus. Why the rescue trap causes most Singapore fatalities."
 ---
 
 > **The Answer in 60 Seconds**

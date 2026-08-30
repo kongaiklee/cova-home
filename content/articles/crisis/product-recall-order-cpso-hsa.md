@@ -13,9 +13,9 @@ word_count: 2234
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/product-recall-order-cpso-hsa"
-meta_description: "A mandatory recall order under the consumer safety regime starts several duties at once. What to do first, and what a recall actually costs."
+meta_description: "A mandatory recall order under Singapore's consumer safety regime starts several duties at once. What to do first, and what a recall actually costs."
 og_title: "Product Recall Order Served by CPSO or HSA: The 24-Hour Window and the BI Cliff"
-og_description: "A mandatory recall order under the consumer safety regime starts several duties at once. What to do first, and what a recall actually costs."
+og_description: "A mandatory recall order under Singapore's consumer safety regime starts several duties at once. What to do first, and what a recall actually costs."
 ---
 
 > **The Answer in 60 Seconds**

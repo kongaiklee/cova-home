@@ -13,9 +13,9 @@ word_count: 1868
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/key-employee-resignation-ip-customer-migration"
-meta_description: "A key employee resigns and the customer list may go too. Preserve evidence quietly, lock access at the right moment, and do not accuse first."
+meta_description: "A key employee resigns and the customer list may go too. What a Singapore employer preserves, when to lock access, and why not to accuse first."
 og_title: "A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?"
-og_description: "A key employee resigns and the customer list may go too. Preserve evidence quietly, lock access at the right moment, and do not accuse first."
+og_description: "A key employee resigns and the customer list may go too. What a Singapore employer preserves, when to lock access, and why not to accuse first."
 ---
 
 > **The Answer in 60 Seconds**

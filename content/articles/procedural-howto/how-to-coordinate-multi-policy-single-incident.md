@@ -13,9 +13,9 @@ word_count: 1699
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-coordinate-multi-policy-single-incident"
-meta_description: "One fire can trigger property, business interruption and liability cover at once. How to run a multi-policy claim without the insurers pointing at each other."
+meta_description: "One Singapore fire can trigger property, business interruption and liability at once. How to run a multi-policy claim without the insurers pointing."
 og_title: "How to Coordinate a Multi-Policy Insurance Response to a Single Incident"
-og_description: "One fire can trigger property, business interruption and liability cover at once. How to run a multi-policy claim without the insurers pointing at each other."
+og_description: "One Singapore fire can trigger property, business interruption and liability at once. How to run a multi-policy claim without the insurers pointing."
 ---
 
 > **The Answer in 60 Seconds**

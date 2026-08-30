@@ -13,9 +13,9 @@ word_count: 1120
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/standard-insurance-clause-commercial-contracts"
-meta_description: "Insurance clauses in a commercial contract create procurement duties you have to meet. What the standard wording asks for, and what it costs."
+meta_description: "Insurance clauses in a Singapore commercial contract create procurement duties you must meet. What the standard wording asks for, and what it costs."
 og_title: "Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications"
-og_description: "Insurance clauses in a commercial contract create procurement duties you have to meet. What the standard wording asks for, and what it costs."
+og_description: "Insurance clauses in a Singapore commercial contract create procurement duties you must meet. What the standard wording asks for, and what it costs."
 ---
 
 > **The Answer in 60 Seconds**

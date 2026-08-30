@@ -13,9 +13,9 @@ word_count: 1944
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-marine-cargo-asean"
-meta_description: "Marine cargo works regionally as one programme because the Institute Cargo Clauses are accepted by convention. Where that convenience stops."
+meta_description: "Marine cargo works as one programme out of Singapore because the Institute Cargo Clauses are accepted by convention. Where that convenience stops."
 og_title: "Regional Marine Cargo for ASEAN Trade: Single-Programme Architecture Across Multiple Jurisdictions"
-og_description: "Marine cargo works regionally as one programme because the Institute Cargo Clauses are accepted by convention. Where that convenience stops."
+og_description: "Marine cargo works as one programme out of Singapore because the Institute Cargo Clauses are accepted by convention. Where that convenience stops."
 ---
 
 > **The Answer in 60 Seconds**

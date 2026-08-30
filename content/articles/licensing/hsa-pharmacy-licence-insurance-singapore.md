@@ -13,9 +13,9 @@ word_count: 1943
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/hsa-pharmacy-licence-insurance-singapore"
-meta_description: "A retail pharmacy sits under three rulebooks at once. What the Health Products Act and HSA require, and where insurance duties actually attach."
+meta_description: "A Singapore retail pharmacy sits under three rulebooks at once. What the Health Products Act and HSA require, and where insurance duties actually attach."
 og_title: "What Insurance Does an HSA-Licensed Retail Pharmacy Need in Singapore?"
-og_description: "A retail pharmacy sits under three rulebooks at once. What the Health Products Act and HSA require, and where insurance duties actually attach."
+og_description: "A Singapore retail pharmacy sits under three rulebooks at once. What the Health Products Act and HSA require, and where insurance duties actually attach."
 ---
 
 > **The Answer in 60 Seconds**

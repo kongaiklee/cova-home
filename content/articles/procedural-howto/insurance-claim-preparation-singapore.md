@@ -13,9 +13,9 @@ word_count: 1946
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/insurance-claim-preparation-singapore"
-meta_description: "Two things slow most commercial claims: notification that misses a deadline or format, and missing documents. What to have ready before you notify."
+meta_description: "Two things slow most Singapore commercial claims: a notification that misses its deadline or format, and missing documents. What to have ready first."
 og_title: "How to Prepare Information So Your Insurance Claim Gets Processed Faster"
-og_description: "Two things slow most commercial claims: notification that misses a deadline or format, and missing documents. What to have ready before you notify."
+og_description: "Two things slow most Singapore commercial claims: a notification that misses its deadline or format, and missing documents. What to have ready first."
 ---
 
 > **The Answer in 60 Seconds**

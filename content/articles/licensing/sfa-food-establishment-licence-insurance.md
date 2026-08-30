@@ -13,9 +13,9 @@ word_count: 1809
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/sfa-food-establishment-licence-insurance"
-meta_description: "The SFA food establishment licence is a food-safety licence and demands no insurance. The duties that do reach you come from your lease and customers."
+meta_description: "Singapore's SFA food establishment licence is about food safety and demands no insurance. The duties that do reach you come from your lease and customers."
 og_title: "What Insurance Does an SFA Food Establishment Licence Need in Singapore?"
-og_description: "The SFA food establishment licence is a food-safety licence and demands no insurance. The duties that do reach you come from your lease and customers."
+og_description: "Singapore's SFA food establishment licence is about food safety and demands no insurance. The duties that do reach you come from your lease and customers."
 ---
 
 > **The Answer in 60 Seconds**

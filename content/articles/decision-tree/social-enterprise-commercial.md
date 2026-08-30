@@ -13,9 +13,9 @@ word_count: 1411
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/social-enterprise-commercial"
-meta_description: "A social enterprise trades commercially under charity governance. Which framework governs which activity, and where the duties differ."
+meta_description: "A social enterprise trades commercially under Singapore charity governance. Which framework governs which activity, and where the duties differ."
 og_title: "SME Startup Decision Tree: Social Enterprise - Foundational Insurance Procurement"
-og_description: "A social enterprise trades commercially under charity governance. Which framework governs which activity, and where the duties differ."
+og_description: "A social enterprise trades commercially under Singapore charity governance. Which framework governs which activity, and where the duties differ."
 ---
 
 > **The Answer in 60 Seconds**

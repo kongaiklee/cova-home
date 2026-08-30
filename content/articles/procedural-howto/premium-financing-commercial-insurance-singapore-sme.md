@@ -13,9 +13,9 @@ word_count: 1624
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/premium-financing-commercial-insurance-singapore-sme"
-meta_description: "Premium financing turns an annual lump sum into monthly instalments. What it costs, what it secures, and what happens if you stop paying."
+meta_description: "Premium financing turns an annual lump sum into monthly instalments. What it costs a Singapore SME, what it secures, and what happens if you stop."
 og_title: "How to Obtain Premium Financing for Commercial Insurance"
-og_description: "Premium financing turns an annual lump sum into monthly instalments. What it costs, what it secures, and what happens if you stop paying."
+og_description: "Premium financing turns an annual lump sum into monthly instalments. What it costs a Singapore SME, what it secures, and what happens if you stop."
 ---
 
 > **The Answer in 60 Seconds**

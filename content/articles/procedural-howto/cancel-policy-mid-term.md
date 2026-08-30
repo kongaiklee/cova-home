@@ -13,9 +13,9 @@ word_count: 995
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/cancel-policy-mid-term"
-meta_description: "You can cancel most commercial policies mid-term with written notice, but the refund uses short-period rates rather than pro rata."
+meta_description: "You can cancel most Singapore commercial policies mid-term with written notice, but the refund uses short-period rates rather than pro rata."
 og_title: "How to Cancel a Commercial Insurance Policy Mid-Term"
-og_description: "You can cancel most commercial policies mid-term with written notice, but the refund uses short-period rates rather than pro rata."
+og_description: "You can cancel most Singapore commercial policies mid-term with written notice, but the refund uses short-period rates rather than pro rata."
 ---
 
 > **The Answer in 60 Seconds:** You can cancel most commercial insurance policies mid-term by giving written notice to the insurer; the insurer calculates the refund using a **short-period (penalty) rate** rather than a straight pro-rata. Some statutory covers - notably WICA under [the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) and motor third-party under the [Motor Vehicles (Third Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) - cannot lapse without immediate replacement coverage. Outstanding claims typically block the refund.

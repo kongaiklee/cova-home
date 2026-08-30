@@ -13,9 +13,9 @@ word_count: 1065
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/read-policy-schedule-singapore"
-meta_description: "A commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries are most often wrong."
+meta_description: "A Singapore commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries go wrong."
 og_title: "How to Read Your Commercial Insurance Policy Schedule"
-og_description: "A commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries are most often wrong."
+og_description: "A Singapore commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries go wrong."
 ---
 
 ### The Answer in 60 Seconds

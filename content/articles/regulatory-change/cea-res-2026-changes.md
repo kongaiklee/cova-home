@@ -13,9 +13,9 @@ word_count: 1215
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cea-res-2026-changes"
-meta_description: "CEA periodically updates the framework for estate agents and salespersons. What the current changes require, and by when."
+meta_description: "CEA periodically updates the Singapore framework for estate agents and salespersons. What the current changes require, and by when."
 og_title: "CEA Real Estate Salesperson 2026 Framework Changes: What Singapore Real Estate SMEs Need to Know"
-og_description: "CEA periodically updates the framework for estate agents and salespersons. What the current changes require, and by when."
+og_description: "CEA periodically updates the Singapore framework for estate agents and salespersons. What the current changes require, and by when."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1790
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/cleanroom-specialty-manufacturing"
-meta_description: "Cleanroom manufacturing concentrates contamination risk, high-value equipment and customer contracts in one place. Where each exposure lands."
+meta_description: "Cleanroom manufacturing concentrates contamination risk, high-value equipment and customer contracts in one Singapore unit. Where each exposure lands."
 og_title: "Cleanroom and Specialty Manufacturing Service Insurance: Singapore Operator Framework"
-og_description: "Cleanroom manufacturing concentrates contamination risk, high-value equipment and customer contracts in one place. Where each exposure lands."
+og_description: "Cleanroom manufacturing concentrates contamination risk, high-value equipment and customer contracts in one Singapore unit. Where each exposure lands."
 ---
 
 > **The Answer in 60 Seconds**

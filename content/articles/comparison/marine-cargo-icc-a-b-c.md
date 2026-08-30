@@ -13,9 +13,9 @@ word_count: 1871
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/marine-cargo-icc-a-b-c"
-meta_description: "ICC A is all risks; B and C are named perils only. See which losses each clause set pays for before you agree a shipment's cover basis."
+meta_description: "ICC A is all risks; B and C are named perils only. Which losses each clause set pays for before a Singapore shipment's cover basis is agreed."
 og_title: "Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope"
-og_description: "ICC A is all risks; B and C are named perils only. See which losses each clause set pays for before you agree a shipment's cover basis."
+og_description: "ICC A is all risks; B and C are named perils only. Which losses each clause set pays for before a Singapore shipment's cover basis is agreed."
 ---
 
 > **The Answer in 60 Seconds**

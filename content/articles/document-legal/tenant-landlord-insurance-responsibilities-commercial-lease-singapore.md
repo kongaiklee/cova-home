@@ -13,9 +13,9 @@ word_count: 2382
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/tenant-landlord-insurance-responsibilities-commercial-lease-singapore"
-meta_description: "No statute divides the insurance burden in a commercial lease. The covenants do, and they decide which of you insures the building and the fit-out."
+meta_description: "No Singapore statute divides the insurance burden in a commercial lease. The covenants do, and they decide who insures the building and the fit-out."
 og_title: "Tenant vs Landlord: Who Insures What Under a Commercial Lease in Singapore"
-og_description: "No statute divides the insurance burden in a commercial lease. The covenants do, and they decide which of you insures the building and the fit-out."
+og_description: "No Singapore statute divides the insurance burden in a commercial lease. The covenants do, and they decide who insures the building and the fit-out."
 ---
 
 > **The Answer in 60 Seconds**
