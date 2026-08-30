@@ -42,7 +42,7 @@ function Card({ t }: { t: Trade }) {
           DELIBERATELY LENGTH-INDEPENDENT, which is CD's whole point: Rev 3q changes every line
           again, so a fix keyed to copy length would just break differently next revision.
         */}
-        <Link to={t.href} className="mt-auto self-start border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">Read the checklist</Link>
+        <Link to={t.href} className="mt-auto self-start border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">{t.cta ?? 'Read the checklist'}</Link>
       </div>
     </div>
   );

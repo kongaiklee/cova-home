@@ -31,6 +31,15 @@ export interface Trade {
    */
   holds: { text: string; href: string }[];
   href: string;
+  /**
+   * CTA label. Defaults to `Read the checklist`, which is only honest where `href` IS a checklist.
+   *
+   * Kong 2026-08-30, on being shown that 3 of 8 pointed at no checklist: make the label say where
+   * it actually goes. The corpus has 27 checklists and NONE for retail, maritime or tech - the
+   * three that carry an override below. CMO is writing the eight per-trade checklists; when a
+   * card gets a real one, its `href` moves and the override comes off.
+   */
+  cta?: string;
 }
 
 export const TRADES: Trade[] = [
@@ -57,13 +66,13 @@ export const TRADES: Trade[] = [
       { text: 'Public liability, fire - lease', href: articleUrl('/comparison/fire-vs-par') },
       { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
     ],
-    href: articleUrl('/regulatory-change/fire-code-2023') },
+    href: articleUrl('/regulatory-change/fire-code-2023'), cta: 'Read the fire code rules' },
   { id: 'maritime', label: 'Maritime', hero: 'maritime', card: 'maritime', title: 'Maritime',
     holds: [
       { text: 'Marine cargo - client contract', href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme') },
       { text: 'Work injury cover for crew and yard staff - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
     ],
-    href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme') },
+    href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme'), cta: 'Compare cargo cover' },
   { id: 'professional', label: 'Professional services', hero: 'tech', card: 'professional', title: 'Professional services',
     holds: [
       { text: 'Professional indemnity - client contract', href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
@@ -75,7 +84,7 @@ export const TRADES: Trade[] = [
       { text: 'Professional indemnity, cyber - client contract', href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
       { text: 'Work injury claims - law', href: articleUrl('/procedural-howto/how-to-file-wica-claim-singapore-mom') },
     ],
-    href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
+    href: articleUrl('/comparison/pi-vs-tech-eo-for-saas'), cta: 'Compare PI and tech E&O' },
   { id: 'startups', label: 'Startups', hero: 'startups', card: 'startups', title: 'Startups', sub: 'Pre-seed to Series A. First hires, first office.',
     holds: [
       { text: "Directors' and officers' cover - investor", href: articleUrl('/comparison/do-vs-pi-vs-epl') },
