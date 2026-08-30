@@ -75250,7 +75250,7 @@ A deepfake that defeats authentication is a controls problem with insurance as t
 6. What **authentication conditions or warranties** does the policy impose, for example a requirement for multi-factor authentication, and would a single-biometric gate breach them?
 7. How does this Cyber wording dovetail with my **Crime/Fidelity** policy so an account-takeover loss does not fall between the two?
 
-Covarage is a Singapore B2B insurance administration platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
+Covarage is a Singapore B2B insurance operations platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
 
 ### Related Information
 - [Deepfake Funds-Transfer Fraud: Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
@@ -75598,7 +75598,7 @@ If you run any biometric system (door access, time-attendance, facial-recognitio
 7. Are losses arising from a **vendor's** breach of my biometric data within cover, or excluded as a third-party-system event?
 8. If a single biometric database breach generates **many individual civil claims**, how does the policy aggregate them: one claim, one retention, or many?
 
-Covarage is a Singapore B2B insurance administration platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sublimits, and conditions against your specific exposure.
+Covarage is a Singapore B2B insurance operations platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sublimits, and conditions against your specific exposure.
 
 ### Related Information
 
@@ -79232,7 +79232,7 @@ When you sit with a licensed adviser or commercial broker to review your policie
 7. Does the Cyber policy respond to a **supplier-impersonation deepfake** (vendor change-of-bank-account fraud), or only to executive impersonation? Where would the line be drawn?
 8. If the loss is partly recovered by SPF/Anti-Scam Centre/INTERPOL after the claim is paid, what is the **subrogation** position - does the recovery flow back to me, the insurer, or split?
 
-Covarage is a Singapore B2B insurance administration platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
+Covarage is a Singapore B2B insurance operations platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and route Singapore SMEs to licensed Independent Financial Advisers and brokers who can compare actual wordings, sub-limits, and conditions against your specific exposure.
 
 ## Related Information
 
