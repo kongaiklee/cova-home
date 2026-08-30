@@ -57,7 +57,7 @@
     "weather.gov.sg",
     "reach.gov.sg"
   ],
-  "_names_comment": "DISPLAY names only. The KEY stays the facet value and the URL slug - renaming a key would change ?agency=mom into a different URL and break every existing link, so full names are a render-time lookup and nothing else. Names verified 2026-08-30 against each body's own site; a label with no entry here falls back to itself. NOTE: SSG and WSG merged into the Skills and Workforce Development Agency (SWDA) on 1 July 2026 - the entries below still name the bodies that published the cited documents, which is a deliberate open question, not an oversight.",
+  "_names_comment": "DISPLAY names only. The KEY stays the facet value and the URL slug - renaming a key would change ?agency=mom into a different URL and break every existing link, so full names are a render-time lookup and nothing else. Names verified 2026-08-30 against each body's own site. SSG and WSG merged into the Skills and Workforce Development Agency on 1 July 2026 and Kong ruled BOTH are named: the body that published the cited document, and the body that absorbed it, so a citation stays honest about its source while a reader can still find who holds it now.",
   "names": {
     "MOM": "Ministry of Manpower",
     "MAS": "Monetary Authority of Singapore",
@@ -89,7 +89,7 @@
     "EnterpriseSG": "Enterprise Singapore",
     "MSF": "Ministry of Social and Family Development",
     "CAAS": "Civil Aviation Authority of Singapore",
-    "SSG": "SkillsFuture Singapore",
+    "SSG": "SkillsFuture Singapore (SSG), now the Skills and Workforce Development Agency",
     "JTC": "JTC Corporation",
     "SLA": "Singapore Land Authority",
     "PEB": "Professional Engineers Board",
@@ -103,7 +103,7 @@
     "GovTech": "Government Technology Agency",
     "WSH Council": "Workplace Safety and Health Council",
     "ICA": "Immigration and Checkpoints Authority",
-    "WSG": "Workforce Singapore",
+    "WSG": "Workforce Singapore (WSG), now the Skills and Workforce Development Agency",
     "MTI": "Ministry of Trade and Industry",
     "MOF": "Ministry of Finance",
     "MSE": "Ministry of Sustainability and the Environment",
@@ -135,6 +135,6 @@
     "CONSUMERPRODUCTSAFETY": "Consumer Product Safety Office",
     "MEDISHIELDLIFE": "MediShield Life",
     "SKILLSFUTURE": "SkillsFuture",
-    "FTA": "Enterprise Singapore FTA Portal"
+    "FTA": "Free Trade Agreement"
   }
 }
