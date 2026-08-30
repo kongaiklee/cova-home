@@ -10,6 +10,40 @@ import { TOPICS } from './topics';
  */
 export type Axis = 'industry' | 'policy' | 'agency';
 
+/**
+ * The full agency name, for DISPLAY only (Kong, 2026-08-30: name the agency out rather than
+ * abbreviate, with the short form kept in braces where it helps).
+ *
+ * The facet VALUE and the URL slug stay the abbreviation. That is not laziness - `slugify(label)`
+ * derives the query string, so renaming the value would turn `?agency=mom` into
+ * `?agency=ministry-of-manpower` and break every link already published, including the generated
+ * facets contract other seats link from.
+ *
+ * An unmapped label returns itself. Deliberate: a guessed agency name on a public page is a
+ * factual error, and an abbreviation is merely terse.
+ */
+const AGENCY_NAMES: Record<string, string> = (agencyData as { names?: Record<string, string> }).names ?? {};
+
+export function agencyName(label: string): string {
+  return AGENCY_NAMES[label] ?? label;
+}
+
+/**
+ * Full name, keeping the short form in braces where the short form adds something:
+ * `Ministry of Manpower (MOM)`, but `Singapore Customs` rather than
+ * `Singapore Customs (CUSTOMS)` and `Singapore Statutes Online` rather than a stutter.
+ *
+ * The test is whether the label already reads inside the full name. If it does, repeating it is
+ * noise; if it does not, the abbreviation is the form a reader may already recognise and is worth
+ * carrying.
+ */
+export function agencyNameLong(label: string): string {
+  const full = AGENCY_NAMES[label];
+  if (!full || full === label) return label;
+  const redundant = full.toLowerCase().includes(label.toLowerCase());
+  return redundant ? full : `${full} (${label})`;
+}
+
 export const AXES: { key: Axis; label: string; field: 'industries' | 'topics' | 'agencies' }[] = [
   { key: 'policy', label: 'Policy', field: 'topics' },
   { key: 'industry', label: 'Industry', field: 'industries' },

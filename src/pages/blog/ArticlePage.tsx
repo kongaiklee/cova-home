@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import { articleUrl, internalHref, relatedArticles, type Article } from '../../content/articles';
 import { INTENT_BY_ID } from '../../content/intents';
 import Seo, { SITE_URL } from '../../components/Seo';
-import { agencyLinks, valueSlug } from '../../content/facets';
+import { agencyLinks, agencyNameLong, valueSlug } from '../../content/facets';
 import { ArticleTile } from './ArticleCard';
 import { formatDate, readingTime } from './util';
 
@@ -149,7 +149,7 @@ export default function ArticlePage({ article }: { article: Article }) {
                 className="rounded-full border border-border-primary px-2.5 py-1 font-medium text-text-primary hover:border-primary"
                 title={g.url}
               >
-                {g.name}
+                {agencyNameLong(g.name)}
                 <span className="ml-1 font-normal text-text-secondary">{g.count}</span>
               </a>
             ))}

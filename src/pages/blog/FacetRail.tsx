@@ -1,4 +1,5 @@
 import clsx from 'clsx';
+import { agencyNameLong } from '../../content/facets';
 import type { Axis, Selection } from '../../content/facets';
 
 /**
@@ -17,7 +18,22 @@ const GROUPS: { axis: Axis; label: string; all: string }[] = [
 
 /** The artboard's curated order for the bodies group - ministries and regulators before courts,
  * industry bodies and statutes; anything else joins by count. */
-const AGENCY_ORDER = ['MOM', 'MAS', 'ACRA', 'PDPC', 'SCDF', 'Courts', 'GIA', 'Singapore Statutes'];
+const AGENCY_ORDER = ['MOM', 'MAS', 'ACRA', 'PDPC', 'SCDF', 'Courts', 'GIA'];
+
+/**
+ * Values that are not a BODY, and so do not belong in a list headed `Ministries & regulators`
+ * whose reset reads `All bodies`.
+ *
+ * `Singapore Statutes` is derived from sso.agc.gov.sg - the statute book itself, not an agency -
+ * and it sits on 440 of 524 articles. A filter that keeps 84 per cent of the corpus filters
+ * nothing, and 367 of those 440 also carry a real body, so the row added nothing the other tags
+ * did not already say. Dropped from the rail on Kong's word, 2026-08-30.
+ *
+ * THE TAG ITSELF IS UNTOUCHED in the data: it still marks an article as citing primary
+ * legislation, it is still the citation backlink on the article page, and 73 articles carry no
+ * other agency. Only the filter ROW is gone.
+ */
+const NOT_A_BODY = new Set(['Singapore Statutes']);
 
 const TOP_N = 8;
 
@@ -33,9 +49,11 @@ interface FacetRailProps {
 function rowsFor(axis: Axis, counts: Record<string, number>, active: string | undefined): string[] {
   let rows = Object.entries(counts)
     .sort((a, b) => b[1] - a[1])
-    .slice(0, TOP_N)
+    // a little extra: NOT_A_BODY is removed below and would otherwise spend a visible slot
+    .slice(0, TOP_N + 2)
     .map(([label]) => label);
   if (axis === 'agency') {
+    rows = rows.filter((l) => !NOT_A_BODY.has(l));
     rows = [
       ...AGENCY_ORDER.filter((l) => rows.includes(l)),
       ...rows.filter((l) => !AGENCY_ORDER.includes(l)),
@@ -43,9 +61,9 @@ function rowsFor(axis: Axis, counts: Record<string, number>, active: string | un
   }
   if (active) {
     // the active value always shows, hoisted under the All row (the artboard's own layout)
-    rows = [active, ...rows.filter((l) => l !== active)].slice(0, TOP_N);
+    rows = [active, ...rows.filter((l) => l !== active)];
   }
-  return rows;
+  return rows.slice(0, TOP_N);
 }
 
 export default function FacetRail({ selection, counts, allCounts, onPick }: FacetRailProps) {
@@ -73,7 +91,8 @@ export default function FacetRail({ selection, counts, allCounts, onPick }: Face
                   onClick={() => onPick(axis, active === value ? null : value)}
                   className={clsx(row, active === value ? 'border-primary-extended font-semibold text-primary-extended' : 'border-transparent text-text-primary hover:text-primary-extended')}
                 >
-                  <span>{value}</span>
+                  {/* Full name for a reader; `value` stays the key for state, counts and the URL. */}
+                  <span>{axis === 'agency' ? agencyNameLong(value) : value}</span>
                   <span className="text-xs text-[#b3aca6]">{counts[axis][value] ?? 0}</span>
                 </button>
               ))}
