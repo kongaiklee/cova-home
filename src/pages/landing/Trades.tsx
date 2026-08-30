@@ -6,9 +6,9 @@ import { H2, WRAP } from './Sections';
 
 function Card({ t }: { t: Trade }) {
   return (
-    <div className="overflow-hidden rounded-xl border border-border-primary bg-white">
-      <img src={`${IMG}/pg-card-${t.card}.jpg`} alt="" className="block h-60 w-full border-b border-border-primary object-cover lg:h-[220px]" loading="lazy" />
-      <div className="px-[22px] pt-5 pb-6 lg:px-[26px] lg:pt-6 lg:pb-7">
+    <div className="flex h-full flex-col overflow-hidden rounded-xl border border-border-primary bg-white">
+      <img src={`${IMG}/pg-card-${t.card}.jpg`} alt="" className="block h-60 w-full shrink-0 border-b border-border-primary object-cover lg:h-[220px]" loading="lazy" />
+      <div className="flex flex-1 flex-col px-[22px] pt-5 pb-6 lg:px-[26px] lg:pt-6 lg:pb-7">
         <div className={clsx('font-serif text-[22px] tracking-[-0.6px] text-text-primary lg:text-[26px]', t.sub ? 'mb-1' : 'mb-2.5 lg:mb-3.5')}>{t.title}</div>
         {t.sub && <div className="mb-2.5 text-xs text-text-secondary lg:mb-3.5 lg:text-[13px]">{t.sub}</div>}
         <div className="mb-2 text-[11px] font-semibold tracking-[0.12em] text-text-secondary uppercase lg:mb-2.5">Usually holds</div>
@@ -32,7 +32,17 @@ function Card({ t }: { t: Trade }) {
             </li>
           ))}
         </ul>
-        <Link to={t.href} className="inline-block border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">Read the checklist</Link>
+        {/*
+          CD s13.4, 2026-08-30: `Read the checklist` sat at FOUR heights across row 1 - a 65px
+          spread - because the card content is top-aligned and the CTA simply followed the last
+          body line, so a shorter card floated its CTA up. Grid items already stretch to the row
+          height; what was missing was making the card a COLUMN and pushing the CTA to its foot.
+          `mt-auto` with `self-start`, so the link keeps its own width and the underline is drawn
+          under the text rather than the column.
+          DELIBERATELY LENGTH-INDEPENDENT, which is CD's whole point: Rev 3q changes every line
+          again, so a fix keyed to copy length would just break differently next revision.
+        */}
+        <Link to={t.href} className="mt-auto self-start border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">Read the checklist</Link>
       </div>
     </div>
   );
