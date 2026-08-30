@@ -13,9 +13,9 @@ word_count: 1173
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scal-slots-application-insurance-requirements"
-meta_description: "The published SCAL SLOTS Application Terms & Conditions do not make Workmen's Compensation, Public Liability or Contractors All Risk insurance a..."
+meta_description: "SCAL SLOTS asks for paid-up capital, track record, personnel and SgMA. It does not make WICA, public liability or CAR a condition."
 og_title: "SCAL SLOTS Application: Insurance Requirements (Singapore 2026)"
-og_description: "The published SCAL SLOTS Application Terms & Conditions do not make Workmen's Compensation, Public Liability or Contractors All Risk insurance a..."
+og_description: "SCAL SLOTS asks for paid-up capital, track record, personnel and SgMA. It does not make WICA, public liability or CAR a condition."
 ---
 
 > **The Answer in 60 Seconds**

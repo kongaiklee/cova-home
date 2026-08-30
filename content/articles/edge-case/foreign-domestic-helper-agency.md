@@ -13,9 +13,9 @@ word_count: 1777
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/foreign-domestic-helper-agency"
-meta_description: "Foreign Domestic Helper (FDH) agencies in Singapore operate under a distinctive regulatory framework administered by the Ministry of Manpower (MOM) and..."
+meta_description: "An FDH agency is licensed by MOM under the Employment Agencies Act. What the licence conditions, and where the agency's own exposure sits."
 og_title: "Foreign Domestic Helper Agency: The Specific Insurance Profile for FDH Placement Operations"
-og_description: "Foreign Domestic Helper (FDH) agencies in Singapore operate under a distinctive regulatory framework administered by the Ministry of Manpower (MOM) and..."
+og_description: "An FDH agency is licensed by MOM under the Employment Agencies Act. What the licence conditions, and where the agency's own exposure sits."
 ---
 
 > **The Answer in 60 Seconds**

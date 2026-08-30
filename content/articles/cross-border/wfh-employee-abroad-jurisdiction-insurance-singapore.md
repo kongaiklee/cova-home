@@ -13,9 +13,9 @@ word_count: 1242
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/wfh-employee-abroad-jurisdiction-insurance-singapore"
-meta_description: "A Singapore-employed person working from home in a foreign jurisdiction (whether on a defined remote arrangement, an extended overseas posting, or a \"work..."
+meta_description: "An employee working abroad takes your obligations with them. Which jurisdiction's law applies, and where a Singapore policy quietly stops covering them."
 og_title: "Where the WFH Employee Abroad Lives: Which Jurisdiction's Insurance Responds"
-og_description: "A Singapore-employed person working from home in a foreign jurisdiction (whether on a defined remote arrangement, an extended overseas posting, or a \"work..."
+og_description: "An employee working abroad takes your obligations with them. Which jurisdiction's law applies, and where a Singapore policy quietly stops covering them."
 ---
 
 > **The Answer in 60 Seconds**

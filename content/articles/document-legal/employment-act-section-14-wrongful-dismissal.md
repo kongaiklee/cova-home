@@ -13,9 +13,9 @@ word_count: 1814
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/employment-act-section-14-wrongful-dismissal"
-meta_description: "Section 14 of the Employment Act 1968 governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) -..."
+meta_description: "Section 14 of the Employment Act governs dismissal for misconduct after due inquiry. What due inquiry means, and what happens without it."
 og_title: "Employment Act 1968 Section 14 and Wrongful Dismissal: How Singapore Law Handles Termination Disputes and What EPL Insurance Actually Covers"
-og_description: "Section 14 of the Employment Act 1968 governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) -..."
+og_description: "Section 14 of the Employment Act governs dismissal for misconduct after due inquiry. What due inquiry means, and what happens without it."
 ---
 
 > **The Answer in 60 Seconds**

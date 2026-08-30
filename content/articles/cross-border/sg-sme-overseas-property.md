@@ -13,9 +13,9 @@ word_count: 1789
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-overseas-property"
-meta_description: "Singapore-issued Property/PAR insurance generally does not extend to overseas property as standard. SMEs holding overseas commercial property (warehouse,..."
+meta_description: "A Singapore property policy generally does not reach overseas property. What that leaves uncovered, and how the gap is normally filled."
 og_title: "Singapore SME With Overseas Property: How to Insure It Properly"
-og_description: "Singapore-issued Property/PAR insurance generally does not extend to overseas property as standard. SMEs holding overseas commercial property (warehouse,..."
+og_description: "A Singapore property policy generally does not reach overseas property. What that leaves uncovered, and how the gap is normally filled."
 ---
 
 > **The Answer in 60 Seconds**

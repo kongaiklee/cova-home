@@ -13,9 +13,9 @@ word_count: 1691
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/cybersecurity-act-cii-designation"
-meta_description: "The Cybersecurity Act 2018, administered by the Cyber Security Agency of Singapore (CSA), establishes a framework for protecting Critical Information..."
+meta_description: "CII designation applies to systems delivering essential services, not to every business. Who receives it and which duties follow."
 og_title: "Cybersecurity Act 2018 (Singapore): What Critical Information Infrastructure (CII) Designation Means"
-og_description: "The Cybersecurity Act 2018, administered by the Cyber Security Agency of Singapore (CSA), establishes a framework for protecting Critical Information..."
+og_description: "CII designation applies to systems delivering essential services, not to every business. Who receives it and which duties follow."
 ---
 
 > **The Answer in 60 Seconds**

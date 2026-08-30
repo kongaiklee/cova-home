@@ -13,9 +13,9 @@ word_count: 1096
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/performance-bond-claim-obligee"
-meta_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) - the obligee..."
+meta_description: "A performance bond claim has three parties, not two, which is why it behaves unlike an insurance claim. What the obligee has to establish."
 og_title: "Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim"
-og_description: "Performance bond claim handling differs from typical insurance claim handling because of the three-party structure (per Article 198) - the obligee..."
+og_description: "A performance bond claim has three parties, not two, which is why it behaves unlike an insurance claim. What the obligee has to establish."
 ---
 
 > **The Answer in 60 Seconds**

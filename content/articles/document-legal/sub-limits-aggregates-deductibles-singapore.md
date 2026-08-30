@@ -13,9 +13,9 @@ word_count: 1638
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/sub-limits-aggregates-deductibles-singapore"
-meta_description: "A Singapore commercial insurance policy's headline sum insured is only the first of four limit structures that determine the actual payout at claim. The..."
+meta_description: "The headline sum insured is only the first of four limits. Sub-limits, aggregates and deductibles decide what actually reaches your bank account."
 og_title: "Sub-limits, Aggregates, and Deductibles: How Singapore Commercial Insurance Policies Actually Pay"
-og_description: "A Singapore commercial insurance policy's headline sum insured is only the first of four limit structures that determine the actual payout at claim. The..."
+og_description: "The headline sum insured is only the first of four limits. Sub-limits, aggregates and deductibles decide what actually reaches your bank account."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2045
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-hong-kong-operations"
-meta_description: "Singapore SMEs operating in Hong Kong typically need: a Hong Kong-licensed insurer for commercial property and liability (regulatory requirement under the..."
+meta_description: "Hong Kong requires a locally authorised insurer under its Insurance Ordinance. What a Singapore SME operating there has to place locally."
 og_title: "Singapore SME With Hong Kong Operations: How Insurance Works for HK Subsidiaries and Branches"
-og_description: "Singapore SMEs operating in Hong Kong typically need: a Hong Kong-licensed insurer for commercial property and liability (regulatory requirement under the..."
+og_description: "Hong Kong requires a locally authorised insurer under its Insurance Ordinance. What a Singapore SME operating there has to place locally."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 3149
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore"
-meta_description: "The moment of binding is the moment the contract forms. Whatever is in the policy schedule and wording at that moment is the cover. Whatever was promised..."
+meta_description: "Binding is the moment the contract forms, so only what is in the schedule counts. The pre-bind checks, including the subjectivities you must satisfy."
 og_title: "How to Verify a Commercial Insurance Quote Before You Bind: The Pre-Bind Checklist for Singapore SMEs"
-og_description: "The moment of binding is the moment the contract forms. Whatever is in the policy schedule and wording at that moment is the cover. Whatever was promised..."
+og_description: "Binding is the moment the contract forms, so only what is in the schedule counts. The pre-bind checks, including the subjectivities you must satisfy."
 ---
 
 The moment of binding is the moment the contract forms. Whatever is in the policy schedule and wording at that moment is the cover. Whatever was promised verbally but not written into the schedule or wording is not. Whatever subjectivities the underwriter attached have to be satisfied - usually within a defined window - or the cover falls away. Whatever warranties and conditions precedent the wording contains have to be performed for the duration of the policy or the insurer is discharged from liability on breach.

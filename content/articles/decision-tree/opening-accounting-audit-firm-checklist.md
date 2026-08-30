@@ -13,9 +13,9 @@ word_count: 1777
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-accounting-audit-firm-checklist"
-meta_description: "A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public..."
+meta_description: "An accounting or audit firm's cover is part professional regulation, part commercial. Which parts are mandatory, and what sets the level."
 og_title: "Opening an Accounting or Audit Firm in Singapore: Full Insurance Checklist"
-og_description: "A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public..."
+og_description: "An accounting or audit firm's cover is part professional regulation, part commercial. Which parts are mandatory, and what sets the level."
 ---
 
 > **The Answer in 60 Seconds**

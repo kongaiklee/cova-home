@@ -13,9 +13,9 @@ word_count: 1752
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-thailand-operations"
-meta_description: "A Singapore SME extending to Thailand operations encounters Office of Insurance Commission (OIC) supervision over the Thai insurance market requiring..."
+meta_description: "Thailand's OIC requires locally admitted cover. What a Singapore SME has to place there, and what cannot ride on the parent policy."
 og_title: "Singapore SME with Thailand Operations: Insurance and Regulatory Framework"
-og_description: "A Singapore SME extending to Thailand operations encounters Office of Insurance Commission (OIC) supervision over the Thai insurance market requiring..."
+og_description: "Thailand's OIC requires locally admitted cover. What a Singapore SME has to place there, and what cannot ride on the parent policy."
 ---
 
 > **The Answer in 60 Seconds**

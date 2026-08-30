@@ -13,9 +13,9 @@ word_count: 1580
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/multi-country-regional-structure"
-meta_description: "Singapore SMEs operating across multiple jurisdictions face commercial complexity substantially exceeding single-country cross-border scope. Master..."
+meta_description: "Operating across several jurisdictions is not several single-country problems. What a master programme architecture does, and where it fails."
 og_title: "Multi-Country Regional Structure: Master Programme Architecture for Singapore-Headquartered SMEs"
-og_description: "Singapore SMEs operating across multiple jurisdictions face commercial complexity substantially exceeding single-country cross-border scope. Master..."
+og_description: "Operating across several jurisdictions is not several single-country problems. What a master programme architecture does, and where it fails."
 ---
 
 > **The Answer in 60 Seconds**

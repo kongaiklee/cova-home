@@ -13,9 +13,9 @@ word_count: 1613
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-new-zealand-operations"
-meta_description: "Singapore SMEs operating in New Zealand through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework..."
+meta_description: "New Zealand is supervised by the Reserve Bank, with its own accident compensation regime. What that changes for a Singapore employer."
 og_title: "Singapore SMEs Operating in New Zealand: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in New Zealand through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework..."
+og_description: "New Zealand is supervised by the Reserve Bank, with its own accident compensation regime. What that changes for a Singapore employer."
 ---
 
 > **The Answer in 60 Seconds**

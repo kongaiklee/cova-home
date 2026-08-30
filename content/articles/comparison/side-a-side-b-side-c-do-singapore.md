@@ -13,9 +13,9 @@ word_count: 3279
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/side-a-side-b-side-c-do-singapore"
-meta_description: "Directors & Officers Liability cover has three internal \"sides\" with structurally different protection architectures, and Singapore SMEs need to..."
+meta_description: "Side A protects the director when the company cannot indemnify. Side B reimburses the company, Side C covers the entity. Which yours actually has."
 og_title: "Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework"
-og_description: "Directors & Officers Liability cover has three internal \"sides\" with structurally different protection architectures, and Singapore SMEs need to..."
+og_description: "Side A protects the director when the company cannot indemnify. Side B reimburses the company, Side C covers the entity. Which yours actually has."
 ---
 
 > **The Answer in 60 Seconds**

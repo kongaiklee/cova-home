@@ -13,9 +13,9 @@ word_count: 1359
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/vending-machine-operator-insurance"
-meta_description: "Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
+meta_description: "A vending operator has machines and stock in premises it does not control. Where the liability sits, and what the site agreement says about it."
 og_title: "Vending Machine Operator: The Specific Insurance Profile for Singapore's Distributed Commercial Operations"
-og_description: "Vending machine operators in Singapore - covering food and beverage vending, retail vending, specialty vending (cosmetics, electronics, specific other..."
+og_description: "A vending operator has machines and stock in premises it does not control. Where the liability sits, and what the site agreement says about it."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1897
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers"
-meta_description: "The Work Injury Compensation Act 2019 (WICA) makes a Singapore employer liable to compensate an employee who is injured or contracts a disease because of..."
+meta_description: "WICA makes an employer liable regardless of fault, and it creates two separate duties. Which employees must be insured, and what the Act compels."
 og_title: "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers"
-og_description: "The Work Injury Compensation Act 2019 (WICA) makes a Singapore employer liable to compensate an employee who is injured or contracts a disease because of..."
+og_description: "WICA makes an employer liable regardless of fault, and it creates two separate duties. Which employees must be insured, and what the Act compels."
 ---
 
 > **The Answer in 60 Seconds**

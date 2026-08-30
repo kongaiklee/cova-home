@@ -13,9 +13,9 @@ word_count: 1309
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/bi-claim-deep-dive"
-meta_description: "BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on..."
+meta_description: "A business interruption claim turns on a counterfactual: what you would have earned. Why that makes it the hardest claim to prove, and how."
 og_title: "BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management"
-og_description: "BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on..."
+og_description: "A business interruption claim turns on a counterfactual: what you would have earned. Why that makes it the hardest claim to prove, and how."
 ---
 
 > **The Answer in 60 Seconds**

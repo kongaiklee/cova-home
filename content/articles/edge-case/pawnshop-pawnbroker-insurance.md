@@ -13,9 +13,9 @@ word_count: 1600
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/pawnshop-pawnbroker-insurance"
-meta_description: "Pawnbroking in Singapore is regulated under the Pawnbrokers Act 2015 administered by the Ministry of Law (MinLaw) through the Registry of Pawnbrokers...."
+meta_description: "Pawnbroking is regulated by MinLaw under the Pawnbrokers Act, and insurance is a statutory condition rather than an optional extra."
 og_title: "Pawnshop and Pawnbroker Insurance: Singapore Operator Framework"
-og_description: "Pawnbroking in Singapore is regulated under the Pawnbrokers Act 2015 administered by the Ministry of Law (MinLaw) through the Registry of Pawnbrokers...."
+og_description: "Pawnbroking is regulated by MinLaw under the Pawnbrokers Act, and insurance is a statutory condition rather than an optional extra."
 ---
 
 > **The Answer in 60 Seconds**

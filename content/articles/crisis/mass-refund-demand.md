@@ -13,9 +13,9 @@ word_count: 1784
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mass-refund-demand"
-meta_description: "First, assess which of five situations you are in: (a) a quality or product issue triggering legitimate refund demands, (b) a service failure or..."
+meta_description: "A mass refund demand can be five different situations. Establish which one you are in before you respond, because the answers differ."
 og_title: "A Customer Group Just Demanded Mass Refunds - What Do I Do Now?"
-og_description: "First, assess which of five situations you are in: (a) a quality or product issue triggering legitimate refund demands, (b) a service failure or..."
+og_description: "A mass refund demand can be five different situations. Establish which one you are in before you respond, because the answers differ."
 ---
 
 > **The Answer in 60 Seconds**

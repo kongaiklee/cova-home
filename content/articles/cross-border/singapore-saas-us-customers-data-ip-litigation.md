@@ -13,9 +13,9 @@ word_count: 1320
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/singapore-saas-us-customers-data-ip-litigation"
-meta_description: "A Singapore SaaS company serving US customers operates under a layered set of cross-border legal exposures that the Singapore insurance market does not..."
+meta_description: "A Singapore SaaS company serving US customers carries exposures the local market does not always price. Where data and IP litigation risk actually sits."
 og_title: "Singapore SaaS to US Customers: Data Residency, IP Indemnity, and Litigation Exposure"
-og_description: "A Singapore SaaS company serving US customers operates under a layered set of cross-border legal exposures that the Singapore insurance market does not..."
+og_description: "A Singapore SaaS company serving US customers carries exposures the local market does not always price. Where data and IP litigation risk actually sits."
 ---
 
 > **The Answer in 60 Seconds**

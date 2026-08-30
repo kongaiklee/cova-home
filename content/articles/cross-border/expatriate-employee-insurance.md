@@ -13,9 +13,9 @@ word_count: 2200
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/expatriate-employee-insurance"
-meta_description: "Sending Singapore staff to work overseas creates a layered insurance question: WICA generally extends to short business trips and temporary assignments..."
+meta_description: "Sending staff overseas raises a layered question. WICA generally follows a short trip, but an assignment is a different arrangement entirely."
 og_title: "Expatriate Employee Insurance: Singapore SMEs Sending Staff Overseas"
-og_description: "Sending Singapore staff to work overseas creates a layered insurance question: WICA generally extends to short business trips and temporary assignments..."
+og_description: "Sending staff overseas raises a layered question. WICA generally follows a short trip, but an assignment is a different arrangement entirely."
 ---
 
 > **The Answer in 60 Seconds**

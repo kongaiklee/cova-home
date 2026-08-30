@@ -13,9 +13,9 @@ word_count: 1903
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-australia-operations"
-meta_description: "Singapore SMEs operating in Australia typically need: an Australian-licensed insurer for commercial property and liability (Australia's insurance market..."
+meta_description: "Australia's market is prudentially regulated and generally requires a locally licensed insurer. What a Singapore SME has to place there."
 og_title: "Singapore SME With Australia Operations: How Insurance Works for Australian Subsidiaries and Branches"
-og_description: "Singapore SMEs operating in Australia typically need: an Australian-licensed insurer for commercial property and liability (Australia's insurance market..."
+og_description: "Australia's market is prudentially regulated and generally requires a locally licensed insurer. What a Singapore SME has to place there."
 ---
 
 > **The Answer in 60 Seconds**

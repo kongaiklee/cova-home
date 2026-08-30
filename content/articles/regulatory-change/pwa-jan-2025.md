@@ -14,9 +14,9 @@ word_count: 1108
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pwa-jan-2025"
-meta_description: "The Platform Workers Act 2024 (Act 30 of 2024) came into full force on 1 January 2025, per the MOM press release of 17 December 2024. It creates three..."
+meta_description: "The Platform Workers Act came into full force on 1 January 2025 and creates three distinct obligations. Which operators they bind."
 og_title: "Platform Workers Act: Full Commencement on 1 January 2025"
-og_description: "The Platform Workers Act 2024 (Act 30 of 2024) came into full force on 1 January 2025, per the MOM press release of 17 December 2024. It creates three..."
+og_description: "The Platform Workers Act came into full force on 1 January 2025 and creates three distinct obligations. Which operators they bind."
 ---
 
 # What does the Platform Workers Act mean for my fleet, delivery or ride-hail business?

@@ -13,9 +13,9 @@ word_count: 1878
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-event-management-company-checklist"
-meta_description: "A Singapore event management company registers its business with ACRA; the company itself needs no single industry licence, but each event typically needs..."
+meta_description: "An event management company needs no single industry licence, but each event carries its own permits. What to check per event, and who holds them."
 og_title: "Opening an Event Management Company in Singapore: Full Insurance Checklist"
-og_description: "A Singapore event management company registers its business with ACRA; the company itself needs no single industry licence, but each event typically needs..."
+og_description: "An event management company needs no single industry licence, but each event carries its own permits. What to check per event, and who holds them."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2196
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/bca-crs-workhead-evolution-construction-insurance"
-meta_description: "The BCA Contractors Registration System (CRS) is the registry through which contractors qualify to tender for public-sector construction work and (from 1..."
+meta_description: "From 1 June 2025 BCA CRS registration governs who may hire foreign construction workers, not just who may tender. What changed for your grade."
 og_title: "BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know"
-og_description: "The BCA Contractors Registration System (CRS) is the registry through which contractors qualify to tender for public-sector construction work and (from 1..."
+og_description: "From 1 June 2025 BCA CRS registration governs who may hire foreign construction workers, not just who may tender. What changed for your grade."
 ---
 
 > **The Answer in 60 Seconds**

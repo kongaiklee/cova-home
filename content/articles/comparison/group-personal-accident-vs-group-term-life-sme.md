@@ -13,9 +13,9 @@ word_count: 2488
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/group-personal-accident-vs-group-term-life-sme"
-meta_description: "Singapore SMEs offering group employee benefits typically choose between (or combine) two structural products: (1) Group Personal Accident (GPA) - pays..."
+meta_description: "Group personal accident pays a lump sum after injury; group term life pays on death. What each is for, and why they are not substitutes."
 og_title: "Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework"
-og_description: "Singapore SMEs offering group employee benefits typically choose between (or combine) two structural products: (1) Group Personal Accident (GPA) - pays..."
+og_description: "Group personal accident pays a lump sum after injury; group term life pays on death. What each is for, and why they are not substitutes."
 ---
 
 > **The Answer in 60 Seconds**

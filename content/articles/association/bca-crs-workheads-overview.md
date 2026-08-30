@@ -13,9 +13,9 @@ word_count: 1664
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/bca-crs-workheads-overview"
-meta_description: "The Building and Construction Authority (BCA) Contractors Registration System (CRS) is the official register of construction-related contractors in..."
+meta_description: "BCA CRS is the official register of construction contractors. What the workheads mean, how grading works, and what registration controls."
 og_title: "BCA Contractors Registration System (CRS): Workheads, Tiers, and Insurance Implications"
-og_description: "The Building and Construction Authority (BCA) Contractors Registration System (CRS) is the official register of construction-related contractors in..."
+og_description: "BCA CRS is the official register of construction contractors. What the workheads mean, how grading works, and what registration controls."
 ---
 
 > **The Answer in 60 Seconds**

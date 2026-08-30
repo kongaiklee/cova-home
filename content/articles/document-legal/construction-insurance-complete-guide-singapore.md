@@ -13,9 +13,9 @@ word_count: 2766
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/construction-insurance-complete-guide-singapore"
-meta_description: "Construction insurance in Singapore is a stack of separate covers, not one policy. At the base sits Work Injury Compensation (WIC) insurance, the only..."
+meta_description: "Construction insurance is a stack of separate covers, not one policy. Only work injury compensation is mandated by statute; the rest arrives by contract."
 og_title: "Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture"
-og_description: "Construction insurance in Singapore is a stack of separate covers, not one policy. At the base sits Work Injury Compensation (WIC) insurance, the only..."
+og_description: "Construction insurance is a stack of separate covers, not one policy. Only work injury compensation is mandated by statute; the rest arrives by contract."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1508
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/event-liability-insurance-singapore-mice-venue"
-meta_description: "Your SME is hosting or exhibiting at an event at a Singapore venue - a convention centre, an exhibition hall, a hotel, a community venue or an outdoor..."
+meta_description: "Singapore venues make event liability cover and an additional-insured endorsement a condition of hire. What the contract asks for, and who provides it."
 og_title: "How to Obtain Event Liability Insurance for MICE Events and Venue Bookings"
-og_description: "Your SME is hosting or exhibiting at an event at a Singapore venue - a convention centre, an exhibition hall, a hotel, a community venue or an outdoor..."
+og_description: "Singapore venues make event liability cover and an additional-insured endorsement a condition of hire. What the contract asks for, and who provides it."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1763
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-law-firm-checklist"
-meta_description: "A Singapore law firm has insurance requirements that are partly mandatory by Legal Profession (Professional Indemnity Insurance) Rules and partly..."
+meta_description: "A law firm's professional indemnity is mandatory under the Legal Profession rules. What the minimum terms are, and what sits above them."
 og_title: "Opening a Law Firm in Singapore: Full Insurance Checklist"
-og_description: "A Singapore law firm has insurance requirements that are partly mandatory by Legal Profession (Professional Indemnity Insurance) Rules and partly..."
+og_description: "A law firm's professional indemnity is mandatory under the Legal Profession rules. What the minimum terms are, and what sits above them."
 ---
 
 > **The Answer in 60 Seconds**

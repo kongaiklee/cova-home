@@ -13,9 +13,9 @@ word_count: 1694
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-medical-clinic-specialist-practice-checklist"
-meta_description: "A Singapore medical clinic or specialist practice requires licensing under the Healthcare Services Act 2020 (HCSA) administered by the Ministry of Health..."
+meta_description: "A medical clinic or specialist practice is licensed under HCSA by MOH. What the Act requires of the premises, the service and the practitioner."
 og_title: "Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist"
-og_description: "A Singapore medical clinic or specialist practice requires licensing under the Healthcare Services Act 2020 (HCSA) administered by the Ministry of Health..."
+og_description: "A medical clinic or specialist practice is licensed under HCSA by MOH. What the Act requires of the premises, the service and the practitioner."
 ---
 
 > **The Answer in 60 Seconds**

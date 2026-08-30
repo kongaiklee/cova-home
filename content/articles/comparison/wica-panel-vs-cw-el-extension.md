@@ -13,9 +13,9 @@ word_count: 1618
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/wica-panel-vs-cw-el-extension"
-meta_description: "WICA cover (mandatory under WICA 2019 Section 24) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance..."
+meta_description: "WICA cover is compulsory; the common-law employer's liability extension is not. What each responds to, and the gap between them."
 og_title: "WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate"
-og_description: "WICA cover (mandatory under WICA 2019 Section 24) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance..."
+og_description: "WICA cover is compulsory; the common-law employer's liability extension is not. What each responds to, and the gap between them."
 ---
 
 > **The Answer in 60 Seconds**

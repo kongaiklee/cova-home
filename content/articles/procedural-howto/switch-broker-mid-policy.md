@@ -13,9 +13,9 @@ word_count: 954
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/switch-broker-mid-policy"
-meta_description: "Insurance brokers in Singapore are regulated under the Insurance Act 1966 and must be either registered insurance brokers or approved insurance brokers,..."
+meta_description: "Switching broker mid-policy is done with a Broker of Record letter. What that instructs, what it moves, and what it leaves behind."
 og_title: "How to Switch Insurance Brokers Mid-Policy in Singapore"
-og_description: "Insurance brokers in Singapore are regulated under the Insurance Act 1966 and must be either registered insurance brokers or approved insurance brokers,..."
+og_description: "Switching broker mid-policy is done with a Broker of Record letter. What that instructs, what it moves, and what it leaves behind."
 ---
 
 > **The Answer in 60 Seconds:** You can switch insurance brokers mid-policy by issuing a Broker of Record (BOR) letter - a signed instruction from the policyholder to the insurer appointing a new broker as your sole representative on a named policy. Your existing policy terms, premium and cover do **not** change. Per the Monetary Authority of Singapore's [register of registered/approved insurance brokers under the Insurance Act 1966](https://www.mas.gov.sg/regulation/insurance), only MAS-licensed entities may act as brokers; the BOR simply transfers servicing rights from one MAS-regulated broker to another.

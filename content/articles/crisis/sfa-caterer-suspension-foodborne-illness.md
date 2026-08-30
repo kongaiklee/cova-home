@@ -13,9 +13,9 @@ word_count: 1785
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/sfa-caterer-suspension-foodborne-illness"
-meta_description: "Singapore Food Agency (SFA) and Ministry of Health (MOH) have received gastroenteritis cluster reports linked to your SME's food. SFA has suspended..."
+meta_description: "SFA has suspended operations over a gastroenteritis cluster linked to your food. What happens next, and what the first 48 hours decide."
 og_title: "SFA Caterer Suspension Order: Restoring Operations After a Foodborne Illness Cluster"
-og_description: "Singapore Food Agency (SFA) and Ministry of Health (MOH) have received gastroenteritis cluster reports linked to your SME's food. SFA has suspended..."
+og_description: "SFA has suspended operations over a gastroenteritis cluster linked to your food. What happens next, and what the first 48 hours decide."
 ---
 
 > **The Answer in 60 Seconds**

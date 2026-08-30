@@ -13,9 +13,9 @@ word_count: 1298
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/wica-simultaneous-common-law"
-meta_description: "Singapore’s Ministry of Manpower states on its <a href=\"https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law\"..."
+meta_description: "A WICA claim and a common-law claim cannot both be pursued to the end. What MOM says about electing between them, and when you must choose."
 og_title: "How To Handle Simultaneous Claims WICA And Common Law"
-og_description: "Singapore’s Ministry of Manpower states on its <a href=\"https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law\"..."
+og_description: "A WICA claim and a common-law claim cannot both be pursued to the end. What MOM says about electing between them, and when you must choose."
 ---
 
 > **The Answer in 60 Seconds**  

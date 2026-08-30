@@ -13,9 +13,9 @@ word_count: 1348
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-first-year"
-meta_description: "The Cybersecurity Act 2018, as amended by the Cybersecurity (Amendment) Act 2024, had most of its amending provisions come into force on 31 October 2025,..."
+meta_description: "Most of the Cybersecurity (Amendment) Act came into force on 31 October 2024. What the first year showed about how it is being applied."
 og_title: "Cybersecurity Act 2024 Amendment First-Year Compliance Review"
-og_description: "The Cybersecurity Act 2018, as amended by the Cybersecurity (Amendment) Act 2024, had most of its amending provisions come into force on 31 October 2025,..."
+og_description: "Most of the Cybersecurity (Amendment) Act came into force on 31 October 2024. What the first year showed about how it is being applied."
 ---
 
 > **The Answer in 60 Seconds**

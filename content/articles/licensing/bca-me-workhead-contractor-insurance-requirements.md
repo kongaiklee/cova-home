@@ -13,9 +13,9 @@ word_count: 936
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/bca-me-workhead-contractor-insurance-requirements"
-meta_description: "The ME Specific Registration Requirements (ME SRR) define each ME workhead and the regulatory licences each requires. Examples:"
+meta_description: "BCA's ME workheads cover specialist mechanical and electrical trades. What registration controls, and where insurance duties actually arise."
 og_title: "What Insurance Do BCA ME Workhead Contractors Need?"
-og_description: "The ME Specific Registration Requirements (ME SRR) define each ME workhead and the regulatory licences each requires. Examples:"
+og_description: "BCA's ME workheads cover specialist mechanical and electrical trades. What registration controls, and where insurance duties actually arise."
 ---
 
 > **The 60-second answer:** BCA's ME workheads (ME01 to ME15) cover specialist mechanical and electrical work - air-conditioning, electrical engineering, fire protection, building automation, lifts and escalators, and more. Per the [BCA ME SRR (Jun 2022 Edition)](https://file.go.gov.sg/bca-crs-srr-me.pdf), ME registration requires specific personnel licences (e.g., a Licensed Electrical Worker for ME05, IMDA telecom contractor's licence for ME10) - but BCA does not directly mandate insurance amounts. Insurance for ME firms typically comes from WICA, project tender requirements, and - for design-and-build M&E work - Professional Indemnity.

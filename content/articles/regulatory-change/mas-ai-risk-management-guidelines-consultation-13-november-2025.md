@@ -13,9 +13,9 @@ word_count: 2684
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-ai-risk-management-guidelines-consultation-13-november-2025"
-meta_description: "The Monetary Authority of Singapore consultation paper on Guidelines on Artificial Intelligence Risk Management (P017-2025) was issued on 13 November..."
+meta_description: "MAS consulted on AI risk management guidelines in November 2025. What supervisory expectations are forming, and which firms should be reading them now."
 og_title: "MAS Consultation on AI Risk Management Guidelines (13 November 2025): Tech E&O and D&O Implications for Singapore SME AI Vendors"
-og_description: "The Monetary Authority of Singapore consultation paper on Guidelines on Artificial Intelligence Risk Management (P017-2025) was issued on 13 November..."
+og_description: "MAS consulted on AI risk management guidelines in November 2025. What supervisory expectations are forming, and which firms should be reading them now."
 ---
 
 > **The Answer in 60 Seconds**

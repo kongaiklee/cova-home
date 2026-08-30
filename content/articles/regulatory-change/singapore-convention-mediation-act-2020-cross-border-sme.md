@@ -13,9 +13,9 @@ word_count: 1336
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/singapore-convention-mediation-act-2020-cross-border-sme"
-meta_description: "The Singapore Convention on Mediation Act 2020 (SCMA2020) implements in Singapore the United Nations Convention on International Settlement Agreements..."
+meta_description: "The Singapore Convention makes a mediated cross-border settlement directly enforceable. What that changes for an SME in an international dispute."
 og_title: "The Singapore Convention on Mediation Act 2020: Cross-Border Dispute Resolution for SMEs"
-og_description: "The Singapore Convention on Mediation Act 2020 (SCMA2020) implements in Singapore the United Nations Convention on International Settlement Agreements..."
+og_description: "The Singapore Convention makes a mediated cross-border settlement directly enforceable. What that changes for an SME in an international dispute."
 ---
 
 > **The Answer in 60 Seconds**

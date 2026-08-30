@@ -14,9 +14,9 @@ word_count: 1781
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-training-data-licensing-anthropic-bartz-singapore-sme"
-meta_description: "On 5 September 2025, Anthropic agreed to pay approximately USD 1.5 billion to settle the class action Bartz et al. v Anthropic PBC (N.D. Cal.) brought by..."
+meta_description: "Anthropic settled the Bartz class action for around USD 1.5bn in September 2025. What that settlement signals about AI training data for an SME."
 og_title: "AI Training Data Licensing: The Anthropic Bartz Settlement and Singapore SMEs Using Generative AI"
-og_description: "On 5 September 2025, Anthropic agreed to pay approximately USD 1.5 billion to settle the class action Bartz et al. v Anthropic PBC (N.D. Cal.) brought by..."
+og_description: "Anthropic settled the Bartz class action for around USD 1.5bn in September 2025. What that settlement signals about AI training data for an SME."
 ---
 
 > **The Answer in 60 Seconds**

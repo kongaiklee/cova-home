@@ -13,9 +13,9 @@ word_count: 1382
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/saas-startup-singapore"
-meta_description: "Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer..."
+meta_description: "A SaaS startup's exposure is concentrated in cyber: customer data, business interruption and the contracts it signs. What each one demands."
 og_title: "SME Startup Decision Tree: SaaS Startup - Foundational Insurance Procurement"
-og_description: "Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer..."
+og_description: "A SaaS startup's exposure is concentrated in cyber: customer data, business interruption and the contracts it signs. What each one demands."
 ---
 
 > **The Answer in 60 Seconds**

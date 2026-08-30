@@ -13,9 +13,9 @@ word_count: 1702
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/cybersecurity-act-cii-obligations"
-meta_description: "The Cybersecurity Act 2018, amended by the Cybersecurity (Amendment) Act 2024, establishes the framework for protecting Critical Information..."
+meta_description: "The Cybersecurity Act sets duties on operators of critical information infrastructure. What CII obligations actually require, and of whom."
 og_title: "Cybersecurity Act 2018 (with 2024 Amendments): What Singapore CII Owners and Service Providers Need to Know"
-og_description: "The Cybersecurity Act 2018, amended by the Cybersecurity (Amendment) Act 2024, establishes the framework for protecting Critical Information..."
+og_description: "The Cybersecurity Act sets duties on operators of critical information infrastructure. What CII obligations actually require, and of whom."
 ---
 
 > **The Answer in 60 Seconds**

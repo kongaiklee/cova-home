@@ -13,9 +13,9 @@ word_count: 1851
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-yoga-studio-checklist"
-meta_description: "A Singapore yoga studio typically needs: Public Liability (S$1M-S$3M, mall/landlord typically requires; covers participant injury during classes, slips,..."
+meta_description: "A yoga studio's landlord will require public liability, and participant injury is the exposure. What the opening stack usually includes."
 og_title: "Opening a Yoga Studio in Singapore: Full Insurance Checklist"
-og_description: "A Singapore yoga studio typically needs: Public Liability (S$1M-S$3M, mall/landlord typically requires; covers participant injury during classes, slips,..."
+og_description: "A yoga studio's landlord will require public liability, and participant injury is the exposure. What the opening stack usually includes."
 ---
 
 > **The Answer in 60 Seconds**

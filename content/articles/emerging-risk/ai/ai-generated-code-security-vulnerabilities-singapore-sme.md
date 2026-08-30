@@ -14,9 +14,9 @@ word_count: 5070
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme"
-meta_description: "When a Singapore software-as-a-service founder pastes \"build me a login page with JWT auth\" into Cursor at midnight and ships the result by lunch, the..."
+meta_description: "Stanford found developers using AI wrote less secure code and were more confident in it. Where that leaves a Singapore SaaS company's cover."
 og_title: "AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs"
-og_description: "When a Singapore software-as-a-service founder pastes \"build me a login page with JWT auth\" into Cursor at midnight and ships the result by lunch, the..."
+og_description: "Stanford found developers using AI wrote less secure code and were more confident in it. Where that leaves a Singapore SaaS company's cover."
 ---
 
 When a Singapore software-as-a-service founder pastes "build me a login page with JWT auth" into Cursor at midnight and ships the result by lunch, the company has just made a bet most of its insurance policies were not written to cover. The bet is that the AI got the security right. Stanford researchers, NYU researchers, Veracode, and a long line of public incidents now suggest the bet often loses.

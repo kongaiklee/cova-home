@@ -13,9 +13,9 @@ word_count: 3755
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/crotpa-2001-additional-insured-third-party-rights"
-meta_description: "When a Singapore commercial contract or insurance policy names a person who is not a contracting party and confers a benefit on that person, the Contracts..."
+meta_description: "CROTPA lets a named non-party enforce a benefit conferred on them. What that means when you are named as an additional insured, and its limits."
 og_title: "Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications"
-og_description: "When a Singapore commercial contract or insurance policy names a person who is not a contracting party and confers a benefit on that person, the Contracts..."
+og_description: "CROTPA lets a named non-party enforce a benefit conferred on them. What that means when you are named as an additional insured, and its limits."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1750
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/drone-aerial-photography"
-meta_description: "Commercial drone (Unmanned Aircraft, UA) operations in Singapore are regulated by the Civil Aviation Authority of Singapore (CAAS) under the Air..."
+meta_description: "Commercial drone operations sit under CAAS and the Air Navigation Order. What permits are needed, and where the liability lands."
 og_title: "Drone Aerial Photography Insurance: What Singapore Operators Actually Need"
-og_description: "Commercial drone (Unmanned Aircraft, UA) operations in Singapore are regulated by the Civil Aviation Authority of Singapore (CAAS) under the Air..."
+og_description: "Commercial drone operations sit under CAAS and the Air Navigation Order. What permits are needed, and where the liability lands."
 ---
 
 > **The Answer in 60 Seconds**

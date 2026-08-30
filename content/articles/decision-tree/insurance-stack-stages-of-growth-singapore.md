@@ -13,9 +13,9 @@ word_count: 2008
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/insurance-stack-stages-of-growth-singapore"
-meta_description: "A Singapore SME's insurance stack should change as the business changes, not annually by default. The Department of Statistics enterprise data sets out..."
+meta_description: "An insurance stack should change when the business changes, not by the calendar. What each stage of growth actually adds, and when."
 og_title: "From Incorporation to Growth: How Your Insurance Stack Should Evolve"
-og_description: "A Singapore SME's insurance stack should change as the business changes, not annually by default. The Department of Statistics enterprise data sets out..."
+og_description: "An insurance stack should change when the business changes, not by the calendar. What each stage of growth actually adds, and when."
 ---
 
 > **The Answer in 60 Seconds**

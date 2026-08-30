@@ -13,9 +13,9 @@ word_count: 1667
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/faa-section-27-suitability-assessment"
-meta_description: "Section 27 of the Financial Advisers Act 2001 is the provision that requires licensed financial advisers (FAs) to ensure recommendations are suitable for..."
+meta_description: "Section 27 of the Financial Advisers Act requires a suitable recommendation. What suitability means, and what the adviser must establish first."
 og_title: "FAA Section 27: The Suitability Assessment Obligation Behind Every Insurance Recommendation"
-og_description: "Section 27 of the Financial Advisers Act 2001 is the provision that requires licensed financial advisers (FAs) to ensure recommendations are suitable for..."
+og_description: "Section 27 of the Financial Advisers Act requires a suitable recommendation. What suitability means, and what the adviser must establish first."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1881
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/wica-designated-insurer-panel"
-meta_description: "Under the Work Injury Compensation Act 2019 (WICA), employers must procure insurance for WICA-covered employees from one of MOM's designated insurers -..."
+meta_description: "WICA cover must be bought from one of MOM's designated insurers. What the panel is, why it exists, and what it means for your placement."
 og_title: "WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement"
-og_description: "Under the Work Injury Compensation Act 2019 (WICA), employers must procure insurance for WICA-covered employees from one of MOM's designated insurers -..."
+og_description: "WICA cover must be bought from one of MOM's designated insurers. What the panel is, why it exists, and what it means for your placement."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 992
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wica-update-nov-2025"
-meta_description: "From 1 November 2025, the maximum compensation limits under the Work Injury Compensation Act rose for the first time since 2020. Death compensation..."
+meta_description: "From 1 November 2025 WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
 og_title: "WICA Compensation Limit Update: What Changed on 1 November 2025"
-og_description: "From 1 November 2025, the maximum compensation limits under the Work Injury Compensation Act rose for the first time since 2020. Death compensation..."
+og_description: "From 1 November 2025 WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
 ---
 
 # What changed in WICA on 1 November 2025?

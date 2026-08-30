@@ -13,9 +13,9 @@ word_count: 2051
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-business-federation-membership-insurance"
-meta_description: "Singapore Business Federation (SBF) membership is not an insurance arrangement. Under section 5 of the Singapore Business Federation Act 2001, every local..."
+meta_description: "SBF membership is statutory for companies above a capital threshold, but it is not an insurance arrangement. What the Act requires and what it does not."
 og_title: "Singapore Business Federation Membership and Your Insurance Obligations"
-og_description: "Singapore Business Federation (SBF) membership is not an insurance arrangement. Under section 5 of the Singapore Business Federation Act 2001, every local..."
+og_description: "SBF membership is statutory for companies above a capital threshold, but it is not an insurance arrangement. What the Act requires and what it does not."
 ---
 
 > **The Answer in 60 Seconds**

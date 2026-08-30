@@ -14,9 +14,9 @@ word_count: 1967
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme"
-meta_description: "Singapore SMEs buying AI tools - SaaS chatbots, document-processing engines, image generators, agentic coding tools - are typically procuring under the..."
+meta_description: "AI tools are bought on the vendor's standard terms, and those terms decide who carries the risk. What to read before signing an AI procurement contract."
 og_title: "AI Vendor Procurement for Singapore SMEs: The Indemnity Clause That Actually Matters"
-og_description: "Singapore SMEs buying AI tools - SaaS chatbots, document-processing engines, image generators, agentic coding tools - are typically procuring under the..."
+og_description: "AI tools are bought on the vendor's standard terms, and those terms decide who carries the risk. What to read before signing an AI procurement contract."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2389
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/companies-act-section-172-indemnification"
-meta_description: "Per Section 172 of the Companies Act 1967, any provision in a company's constitution or contract that purports to exempt a director, officer, or auditor..."
+meta_description: "Section 172 voids a constitution clause that exempts a director from liability. What a company may still do, and where indemnity is allowed."
 og_title: "Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company"
-og_description: "Per Section 172 of the Companies Act 1967, any provision in a company's constitution or contract that purports to exempt a director, officer, or auditor..."
+og_description: "Section 172 voids a constitution clause that exempts a director from liability. What a company may still do, and where indemnity is allowed."
 ---
 
 > **The Answer in 60 Seconds**

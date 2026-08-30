@@ -13,9 +13,9 @@ word_count: 1527
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/indemnity-to-principal"
-meta_description: "\"Indemnity to Principal\" is a liability policy extension typically used in construction, fit-out, maintenance, and event services, where one party (the..."
+meta_description: "Indemnity to principal extends your liability cover to the party who engaged you. What the extension does, and what it does not transfer."
 og_title: "What \"Indemnity to Principal\" Actually Means in Singapore Insurance"
-og_description: "\"Indemnity to Principal\" is a liability policy extension typically used in construction, fit-out, maintenance, and event services, where one party (the..."
+og_description: "Indemnity to principal extends your liability cover to the party who engaged you. What the extension does, and what it does not transfer."
 ---
 
 > **The Answer in 60 Seconds**

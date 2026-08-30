@@ -13,9 +13,9 @@ word_count: 4004
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/limitation-act-1959-time-bar-insurance-claims"
-meta_description: "The Limitation Act 1959 (2020 Rev Ed) sets the statutory deadlines for commencing civil proceedings in Singapore. The default rule is in section 6: 6..."
+meta_description: "The Limitation Act gives you six years from the cause of action by default. When that clock starts on an insurance claim, and what stops it."
 og_title: "Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims"
-og_description: "The Limitation Act 1959 (2020 Rev Ed) sets the statutory deadlines for commencing civil proceedings in Singapore. The default rule is in section 6: 6..."
+og_description: "The Limitation Act gives you six years from the cause of action by default. When that clock starts on an insurance claim, and what stops it."
 ---
 
 > **The Answer in 60 Seconds**

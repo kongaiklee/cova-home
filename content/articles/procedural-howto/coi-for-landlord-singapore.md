@@ -13,9 +13,9 @@ word_count: 943
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/coi-for-landlord-singapore"
-meta_description: "Step 1 - Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
+meta_description: "A certificate of insurance proves your policy is in force to a landlord. What it must show, what it does not do, and how to get one issued."
 og_title: "How to Get a Certificate of Insurance for Your Landlord"
-og_description: "Step 1 - Read the lease's insurance clause carefully. Look for: - Required policy types (Public Liability, Property, Plate Glass, Tenant's Improvements,..."
+og_description: "A certificate of insurance proves your policy is in force to a landlord. What it must show, what it does not do, and how to get one issued."
 ---
 
 ### The Answer in 60 Seconds

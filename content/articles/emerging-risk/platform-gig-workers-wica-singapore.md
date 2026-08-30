@@ -13,9 +13,9 @@ word_count: 2286
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/platform-gig-workers-wica-singapore"
-meta_description: "From 1 January 2025, the Platform Workers Act 2024 created a distinct legal class of \"platform worker\" sitting between employee and self-employed, and put..."
+meta_description: "From 1 January 2025 the Platform Workers Act created a distinct legal class and put a work-injury insurance duty on the platform operator. Who it binds."
 og_title: "Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Duty for Singapore Businesses"
-og_description: "From 1 January 2025, the Platform Workers Act 2024 created a distinct legal class of \"platform worker\" sitting between employee and self-employed, and put..."
+og_description: "From 1 January 2025 the Platform Workers Act created a distinct legal class and put a work-injury insurance duty on the platform operator. Who it binds."
 ---
 
 > **The Answer in 60 Seconds**

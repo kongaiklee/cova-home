@@ -13,9 +13,9 @@ word_count: 1839
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sccci-membership-insurance-singapore"
-meta_description: "The Singapore Chinese Chamber of Commerce and Industry (SCCCI) is an apex business chamber, not a regulator. It does not issue licences, it does not..."
+meta_description: "SCCCI is a chamber, not a regulator. It issues no licence and imposes no cover, so here is where a member's real obligations actually originate."
 og_title: "SCCCI Membership and Insurance: What the Chinese Chamber Means for SME Cover"
-og_description: "The Singapore Chinese Chamber of Commerce and Industry (SCCCI) is an apex business chamber, not a regulator. It does not issue licences, it does not..."
+og_description: "SCCCI is a chamber, not a regulator. It issues no licence and imposes no cover, so here is where a member's real obligations actually originate."
 ---
 
 > **The Answer in 60 Seconds**

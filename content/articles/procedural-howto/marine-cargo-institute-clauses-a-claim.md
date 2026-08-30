@@ -13,9 +13,9 @@ word_count: 1242
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-a-claim"
-meta_description: "If your marine cargo certificate or wording is based on the <a..."
+meta_description: "An ICC A cargo claim runs on an all risks basis, so the exclusions decide it. What to evidence, and the documents that settle it."
 og_title: "How to Claim Under Marine Cargo Institute Clauses A"
-og_description: "If your marine cargo certificate or wording is based on the <a..."
+og_description: "An ICC A cargo claim runs on an all risks basis, so the exclusions decide it. What to evidence, and the documents that settle it."
 ---
 
 > **The Answer in 60 Seconds**  

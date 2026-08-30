@@ -13,9 +13,9 @@ word_count: 1100
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-faa-n16-n20-updates"
-meta_description: "The Monetary Authority of Singapore (MAS) periodically updates the Notices issued under the Financial Advisers Act 2001 (FAA) governing financial advisory..."
+meta_description: "What MAS Notices FAA-N16 and FAA-N20 require of a licensed adviser, and what that means for the disclosures you should expect."
 og_title: "MAS Notice FAA-N16 and FAA-N20 Updates: What Singapore SMEs Need to Know"
-og_description: "The Monetary Authority of Singapore (MAS) periodically updates the Notices issued under the Financial Advisers Act 2001 (FAA) governing financial advisory..."
+og_description: "What MAS Notices FAA-N16 and FAA-N20 require of a licensed adviser, and what that means for the disclosures you should expect."
 ---
 
 > **The Answer in 60 Seconds**

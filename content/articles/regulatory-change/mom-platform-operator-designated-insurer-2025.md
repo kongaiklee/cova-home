@@ -13,9 +13,9 @@ word_count: 1040
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mom-platform-operator-designated-insurer-2025"
-meta_description: "Per the MOM List of Designated Platform Operator (PO) Insurers PDF, 6 insurers are designated for platform operator WICA policies under the Platform..."
+meta_description: "MOM designates six insurers for platform operator WICA policies. Which they are, and what the designation means for placement."
 og_title: "MOM Platform Operator Designated Insurer (Singapore 2025)"
-og_description: "Per the MOM List of Designated Platform Operator (PO) Insurers PDF, 6 insurers are designated for platform operator WICA policies under the Platform..."
+og_description: "MOM designates six insurers for platform operator WICA policies. Which they are, and what the designation means for placement."
 ---
 
 > **The Answer in 60 Seconds**

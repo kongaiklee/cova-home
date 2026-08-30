@@ -13,9 +13,9 @@ word_count: 1814
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/ras-membership-fnb-insurance-singapore"
-meta_description: "The Restaurant Association of Singapore (RAS) is a voluntary trade body that has represented Singapore's F&B industry since 1980. It is not a statutory..."
+meta_description: "Restaurant Association membership imposes no insurance on an F&B business. The duties that arrive come from the SFA licence, the lease and the landlord."
 og_title: "Restaurant Association of Singapore (RAS) Membership and F&B Insurance"
-og_description: "The Restaurant Association of Singapore (RAS) is a voluntary trade body that has represented Singapore's F&B industry since 1980. It is not a statutory..."
+og_description: "Restaurant Association membership imposes no insurance on an F&B business. The duties that arrive come from the SFA licence, the lease and the landlord."
 ---
 
 > **The Answer in 60 Seconds**

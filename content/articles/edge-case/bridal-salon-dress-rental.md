@@ -13,9 +13,9 @@ word_count: 1695
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/bridal-salon-dress-rental"
-meta_description: "Singapore bridal salons, gown rental businesses, qipao / cheongsam rental, and formal dress rental operators (Blessed Brides, Beautiful Bride, Brides..."
+meta_description: "Bridal and gown rental businesses hold high-value stock that leaves the premises. What that does to cover, and what the rental terms should say."
 og_title: "Bridal Salon or Dress Rental Business in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore bridal salons, gown rental businesses, qipao / cheongsam rental, and formal dress rental operators (Blessed Brides, Beautiful Bride, Brides..."
+og_description: "Bridal and gown rental businesses hold high-value stock that leaves the premises. What that does to cover, and what the rental terms should say."
 ---
 
 > **The Answer in 60 Seconds**

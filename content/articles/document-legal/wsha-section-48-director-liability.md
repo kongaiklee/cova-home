@@ -13,9 +13,9 @@ word_count: 2158
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wsha-section-48-director-liability"
-meta_description: "Per Section 48 of the Workplace Safety and Health Act 2006, where an offence under the WSHA is committed by a body corporate with the consent or..."
+meta_description: "WSHA section 48 reaches the individual director where the offence had their consent or neglect. What that means for personal exposure."
 og_title: "WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil"
-og_description: "Per Section 48 of the Workplace Safety and Health Act 2006, where an offence under the WSHA is committed by a body corporate with the consent or..."
+og_description: "WSHA section 48 reaches the individual director where the offence had their consent or neglect. What that means for personal exposure."
 ---
 
 > **The Answer in 60 Seconds**

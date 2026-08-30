@@ -13,9 +13,9 @@ word_count: 2082
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-first-party-vs-third-party-cover-singapore"
-meta_description: "A cyber policy is built in two halves, and the difference decides what actually gets paid. First-party cover pays for losses to your own business: the..."
+meta_description: "A cyber policy has two halves. First-party pays your own breach costs, third-party pays what you owe others. Which half a claim falls in decides payment."
 og_title: "Cyber Insurance: First-Party vs Third-Party Cover and What Each Pays"
-og_description: "A cyber policy is built in two halves, and the difference decides what actually gets paid. First-party cover pays for losses to your own business: the..."
+og_description: "A cyber policy has two halves. First-party pays your own breach costs, third-party pays what you owe others. Which half a claim falls in decides payment."
 ---
 
 > **The Answer in 60 Seconds**

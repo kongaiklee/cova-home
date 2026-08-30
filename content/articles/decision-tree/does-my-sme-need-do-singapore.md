@@ -13,9 +13,9 @@ word_count: 2092
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/does-my-sme-need-do-singapore"
-meta_description: "No law in Singapore makes directors and officers (D&O) insurance compulsory for a private company. So the honest starting point is that D&O is a risk..."
+meta_description: "No Singapore law makes D&O compulsory for a private company, so it is a risk decision rather than a compliance one. What the exposure actually looks like."
 og_title: "Does Your Singapore SME Actually Need D&O Cover? A Decision Guide"
-og_description: "No law in Singapore makes directors and officers (D&O) insurance compulsory for a private company. So the honest starting point is that D&O is a risk..."
+og_description: "No Singapore law makes D&O compulsory for a private company, so it is a risk decision rather than a compliance one. What the exposure actually looks like."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2941
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/multi-plaintiff-class-action-threat-multi-line-response"
-meta_description: "The Singapore SME has been served with a writ or letter of demand by multiple plaintiffs alleging coordinated harm: consumer claims, employment..."
+meta_description: "Multiple plaintiffs alleging coordinated harm can trigger several policies at once. How a multi-line response is meant to work, and where it jams."
 og_title: "Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously"
-og_description: "The Singapore SME has been served with a writ or letter of demand by multiple plaintiffs alleging coordinated harm: consumer claims, employment..."
+og_description: "Multiple plaintiffs alleging coordinated harm can trigger several policies at once. How a multi-line response is meant to work, and where it jams."
 ---
 
 > **The Answer in 60 Seconds**

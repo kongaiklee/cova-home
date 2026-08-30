@@ -13,9 +13,9 @@ word_count: 991
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026"
-meta_description: "Per the SCDF Fire Certificate page, from 1 April 2026 new and renewed Fire Certificates are valid for 36 months (up from 12 months). Revised application..."
+meta_description: "From 1 April 2026 new and renewed Fire Certificates run 36 months instead of 12, with revised fees. What that changes for your file."
 og_title: "SCDF Fire Certificate: 36-Month Validity From 1 April 2026"
-og_description: "Per the SCDF Fire Certificate page, from 1 April 2026 new and renewed Fire Certificates are valid for 36 months (up from 12 months). Revised application..."
+og_description: "From 1 April 2026 new and renewed Fire Certificates run 36 months instead of 12, with revised fees. What that changes for your file."
 ---
 
 # What changed about the SCDF Fire Certificate on 1 April 2026?

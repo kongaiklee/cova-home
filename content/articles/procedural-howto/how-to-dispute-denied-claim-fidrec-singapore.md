@@ -13,9 +13,9 @@ word_count: 1574
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore"
-meta_description: "Singapore SMEs disputing a denied insurance claim now have access to the Financial Industry Disputes Resolution Centre (FIDReC) following the 1 July 2025..."
+meta_description: "Since 1 July 2025 a small business can take a denied claim to FIDReC. What the route costs, how long it takes, and what it can actually order."
 og_title: "How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure"
-og_description: "Singapore SMEs disputing a denied insurance claim now have access to the Financial Industry Disputes Resolution Centre (FIDReC) following the 1 July 2025..."
+og_description: "Since 1 July 2025 a small business can take a denied claim to FIDReC. What the route costs, how long it takes, and what it can actually order."
 ---
 
 > **The Answer in 60 Seconds**

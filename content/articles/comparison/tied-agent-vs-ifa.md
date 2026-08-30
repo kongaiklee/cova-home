@@ -13,9 +13,9 @@ word_count: 1328
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/tied-agent-vs-ifa"
-meta_description: "A tied agent in Singapore represents one financial institution and can only sell that institution's products. An licensed adviser is licensed under the..."
+meta_description: "A tied agent sells one institution's products. A licensed adviser is not restricted that way. What that means for the advice you get."
 og_title: "Tied Agent vs Independent Financial Adviser (IFA) in Singapore"
-og_description: "A tied agent in Singapore represents one financial institution and can only sell that institution's products. An licensed adviser is licensed under the..."
+og_description: "A tied agent sells one institution's products. A licensed adviser is not restricted that way. What that means for the advice you get."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1880
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-gym-fitness-studio-checklist"
-meta_description: "A Singapore gym or fitness studio typically requires: business registration with ACRA, SCDF Fire Safety Certificate for the premises, URA zoning..."
+meta_description: "Opening a gym or fitness studio needs ACRA registration, an SCDF Fire Safety Certificate and URA zoning. What else has to be in place first."
 og_title: "Opening a Gym or Fitness Studio in Singapore: Full Insurance Checklist"
-og_description: "A Singapore gym or fitness studio typically requires: business registration with ACRA, SCDF Fire Safety Certificate for the premises, URA zoning..."
+og_description: "Opening a gym or fitness studio needs ACRA registration, an SCDF Fire Safety Certificate and URA zoning. What else has to be in place first."
 ---
 
 > **The Answer in 60 Seconds**

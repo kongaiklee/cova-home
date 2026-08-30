@@ -13,9 +13,9 @@ word_count: 1557
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/locksmith-smith-service-operator"
-meta_description: "Locksmiths and smith service operators in Singapore operate as standard commercial services without dedicated profession-specific licensing - but the..."
+meta_description: "Locksmiths have no profession-specific licence, but the work carries access to other people's property. Where the exposure actually sits."
 og_title: "Locksmith and Smith Service Operator Insurance: Singapore Operator Framework"
-og_description: "Locksmiths and smith service operators in Singapore operate as standard commercial services without dedicated profession-specific licensing - but the..."
+og_description: "Locksmiths have no profession-specific licence, but the work carries access to other people's property. Where the exposure actually sits."
 ---
 
 > **The Answer in 60 Seconds**

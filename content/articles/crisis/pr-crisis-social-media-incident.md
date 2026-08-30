@@ -13,9 +13,9 @@ word_count: 1757
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/pr-crisis-social-media-incident"
-meta_description: "First, do not make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response..."
+meta_description: "What you say in the first hour sets the trajectory. Who to convene, what to establish before any statement, and how to classify the incident."
 og_title: "A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?"
-og_description: "First, do not make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response..."
+og_description: "What you say in the first hour sets the trajectory. Who to convene, what to establish before any statement, and how to classify the incident."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1785
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/partner-exit-shareholder-dispute"
-meta_description: "First, immediately review the company's shareholders' agreement, constitution, and any founder agreements for: exit / buy-sell mechanisms, valuation..."
+meta_description: "A partner exit or shareholder dispute turns on documents you already signed. What to review immediately, and what the agreement should contain."
 og_title: "A Co-Founder or Major Shareholder Wants to Exit and Things Have Turned Adversarial - What Do I Do Now?"
-og_description: "First, immediately review the company's shareholders' agreement, constitution, and any founder agreements for: exit / buy-sell mechanisms, valuation..."
+og_description: "A partner exit or shareholder dispute turns on documents you already signed. What to review immediately, and what the agreement should contain."
 ---
 
 > **The Answer in 60 Seconds**

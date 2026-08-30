@@ -13,9 +13,9 @@ word_count: 1126
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/update-insurance-after-acquisition"
-meta_description: "Step 1 - Pre-completion: notify current insurers. Most commercial wordings require notification within set windows (commonly 14-30 days for subsidiary..."
+meta_description: "Notify insurers before completion, because most policies impose a material change duty. What an acquisition does to cover, and what tail is for."
 og_title: "How to Update Insurance After Acquiring Another Business"
-og_description: "Step 1 - Pre-completion: notify current insurers. Most commercial wordings require notification within set windows (commonly 14-30 days for subsidiary..."
+og_description: "Notify insurers before completion, because most policies impose a material change duty. What an acquisition does to cover, and what tail is for."
 ---
 
 > **The Answer in 60 Seconds:** Notify all your current insurers **before completion** - most policies impose a "material change" notification duty. Buy **run-off / tail cover** for the acquired entity's claims-made policies (PI, D&O, Cyber). Review the target's existing policies and decide retain, run off, or cancel. Update the Named Insured to include the acquired entity. Failure to notify can void cover under the common-law duty of utmost good faith codified in [section 17 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applied across all insurance contracts in Singapore.

@@ -13,9 +13,9 @@ word_count: 2875
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/side-a-only-vs-abc-tower-do-singapore-sme"
-meta_description: "Directors & Officers (D&O) liability cover is structured around three coverage \"Sides\": Side A - pays the director personally when the company cannot..."
+meta_description: "Side A alone protects the director. An ABC tower also protects the company. Which structure your board actually has, and what it leaves open."
 og_title: "Side A Only vs ABC Tower D&O for Singapore SME and Private Companies: A Coverage Structure Decision Framework"
-og_description: "Directors & Officers (D&O) liability cover is structured around three coverage \"Sides\": Side A - pays the director personally when the company cannot..."
+og_description: "Side A alone protects the director. An ABC tower also protects the company. Which structure your board actually has, and what it leaves open."
 ---
 
 > **The Answer in 60 Seconds**

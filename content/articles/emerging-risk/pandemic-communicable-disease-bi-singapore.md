@@ -13,9 +13,9 @@ word_count: 2257
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/pandemic-communicable-disease-bi-singapore"
-meta_description: "When COVID-19 forced Singapore's Circuit Breaker in April 2020, thousands of SME owners reached for their Business Interruption (BI) cover and found it..."
+meta_description: "Thousands of SMEs reached for BI cover in April 2020 and it did not respond. The reason was the policy architecture, not the insurer. What changed since."
 og_title: "Pandemic and Communicable-Disease Business Interruption: What Actually Responds Now"
-og_description: "When COVID-19 forced Singapore's Circuit Breaker in April 2020, thousands of SME owners reached for their Business Interruption (BI) cover and found it..."
+og_description: "Thousands of SMEs reached for BI cover in April 2020 and it did not respond. The reason was the policy architecture, not the insurer. What changed since."
 ---
 
 When COVID-19 forced Singapore's Circuit Breaker in April 2020, thousands of SME owners reached for their Business Interruption (BI) cover and found it did not respond. The reason was not bad luck or a difficult insurer. It was the architecture of the policy. Standard BI cover is built on top of physical damage to your premises, and a virus does not damage property. In the years since, most insurers went a step further and added explicit communicable-disease exclusions to property and BI wordings, so the gap is now written into the contract in black and white. This article explains why standard BI does not respond to a pandemic shutdown, what limited communicable-disease extensions exist, and how a Singapore SME should think about this exposure realistically rather than hopefully.

@@ -13,9 +13,9 @@ word_count: 2726
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/tenant-caused-major-fire-landlord-sme-workflow"
-meta_description: "The Singapore SME landlord (or master-lessee subletting) has suffered a major fire or catastrophic damage caused by a tenant. SCDF has attended and may be..."
+meta_description: "A tenant-caused fire puts the landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve."
 og_title: "Tenant-Caused Major Fire: Landlord SME Day-One Workflow"
-og_description: "The Singapore SME landlord (or master-lessee subletting) has suffered a major fire or catastrophic damage caused by a tenant. SCDF has attended and may be..."
+og_description: "A tenant-caused fire puts the landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve."
 ---
 
 > **The Answer in 60 Seconds**

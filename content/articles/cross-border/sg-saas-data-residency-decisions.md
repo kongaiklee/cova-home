@@ -13,9 +13,9 @@ word_count: 1955
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-saas-data-residency-decisions"
-meta_description: "Where a Singapore SaaS hosts customer data materially affects regulatory exposure, customer contract requirements, and insurance posture. Singapore region..."
+meta_description: "Where a SaaS hosts customer data changes its regulatory exposure, its contracts and its cover. What residency decisions actually commit you to."
 og_title: "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US - Insurance and Regulatory Implications"
-og_description: "Where a Singapore SaaS hosts customer data materially affects regulatory exposure, customer contract requirements, and insurance posture. Singapore region..."
+og_description: "Where a SaaS hosts customer data changes its regulatory exposure, its contracts and its cover. What residency decisions actually commit you to."
 ---
 
 > **The Answer in 60 Seconds**

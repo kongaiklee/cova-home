@@ -13,9 +13,9 @@ word_count: 876
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/casetrust-rcma-joint-accreditation-comparison"
-meta_description: "Per the CaseTrust accreditation FAQ, there are two parallel schemes for renovation businesses:"
+meta_description: "The CaseTrust-RCMA scheme is the higher accreditation tier for renovation businesses. What it adds, and what the deposit bond secures."
 og_title: "CaseTrust-RCMA Joint Accreditation: How Is It Different from CaseTrust-Only?"
-og_description: "Per the CaseTrust accreditation FAQ, there are two parallel schemes for renovation businesses:"
+og_description: "The CaseTrust-RCMA scheme is the higher accreditation tier for renovation businesses. What it adds, and what the deposit bond secures."
 ---
 
 > **The 60-second answer:** The CaseTrust-RCMA Joint Accreditation Scheme is the higher tier of CaseTrust accreditation for renovation businesses, jointly operated by CASE and the Singapore Renovation Contractors and Material Suppliers Association (RCMA) since August 2014 ([RCMA CaseTrust page](https://rcma.org.sg/casetrust/)). RCMA membership is a prerequisite. The scheme uses the same deposit performance bond mechanism as CaseTrust-only accreditation - currently arranged through bolttech Insurance Brokers - but adds RCMA-specific contract and dispute-resolution standards.

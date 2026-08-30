@@ -13,9 +13,9 @@ word_count: 1385
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/cyber-tower-claim-coordination"
-meta_description: "When a Cyber claim arises in a tower structure (per Article 167 and Article 197), coordination across primary and excess layers is operationally critical...."
+meta_description: "A cyber claim in a tower has to be coordinated across primary and excess layers. What that requires of you, and where the layers disagree."
 og_title: "Cyber Tower Claim Coordination: Managing Notification, Defence, and Settlement Across Layers"
-og_description: "When a Cyber claim arises in a tower structure (per Article 167 and Article 197), coordination across primary and excess layers is operationally critical...."
+og_description: "A cyber claim in a tower has to be coordinated across primary and excess layers. What that requires of you, and where the layers disagree."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1738
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/mortuary-funeral-services-insurance"
-meta_description: "Mortuary, funeral services, casket operations, and crematorium-adjacent service providers in Singapore operate under a distinctive regulatory framework..."
+meta_description: "Mortuary and funeral service providers work under a distinctive regulatory framework. What it requires, and where the operational risk falls."
 og_title: "Mortuary, Funeral Services, and Casket Operations: The Specific Insurance Profile for Singapore End-of-Life Service Providers"
-og_description: "Mortuary, funeral services, casket operations, and crematorium-adjacent service providers in Singapore operate under a distinctive regulatory framework..."
+og_description: "Mortuary and funeral service providers work under a distinctive regulatory framework. What it requires, and where the operational risk falls."
 ---
 
 > **The Answer in 60 Seconds**

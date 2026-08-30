@@ -13,9 +13,9 @@ word_count: 1291
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/broker-vs-direct-sme"
-meta_description: "There is no MAS rule that makes one channel cheaper than the other. The premium an SME pays through a MAS-licensed insurance broker under the Insurance..."
+meta_description: "No MAS rule makes one distribution channel cheaper. What actually differs between buying through a broker and buying direct."
 og_title: "Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?"
-og_description: "There is no MAS rule that makes one channel cheaper than the other. The premium an SME pays through a MAS-licensed insurance broker under the Insurance..."
+og_description: "No MAS rule makes one distribution channel cheaper. What actually differs between buying through a broker and buying direct."
 ---
 
 > **The Answer in 60 Seconds**

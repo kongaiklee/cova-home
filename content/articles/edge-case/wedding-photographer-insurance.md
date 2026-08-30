@@ -13,9 +13,9 @@ word_count: 1743
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/wedding-photographer-insurance"
-meta_description: "A Singapore wedding photographer typically needs: Public Liability (S$1M-S$3M; venues commonly require this - hotels, hotels-of-record, churches, gardens..."
+meta_description: "A wedding photographer is asked for public liability by nearly every venue. What the limits look like, and what the equipment side needs."
 og_title: "Wedding Photographer Insurance in Singapore: What You Actually Need"
-og_description: "A Singapore wedding photographer typically needs: Public Liability (S$1M-S$3M; venues commonly require this - hotels, hotels-of-record, churches, gardens..."
+og_description: "A wedding photographer is asked for public liability by nearly every venue. What the limits look like, and what the equipment side needs."
 ---
 
 > **The Answer in 60 Seconds**

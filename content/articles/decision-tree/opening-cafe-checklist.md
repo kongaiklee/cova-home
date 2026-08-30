@@ -13,9 +13,9 @@ word_count: 1866
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-cafe-checklist"
-meta_description: "A Singapore café typically needs: WICA (mandatory under Section 24 WICA 2019), Public Liability and Product Liability (typically required by mall/landlord..."
+meta_description: "A cafe needs WICA by statute and public and product liability by the lease. What the opening insurance stack usually has to include."
 og_title: "Opening a Café in Singapore: Full Insurance Checklist"
-og_description: "A Singapore café typically needs: WICA (mandatory under Section 24 WICA 2019), Public Liability and Product Liability (typically required by mall/landlord..."
+og_description: "A cafe needs WICA by statute and public and product liability by the lease. What the opening insurance stack usually has to include."
 ---
 
 > **The Answer in 60 Seconds**

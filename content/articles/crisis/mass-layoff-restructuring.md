@@ -13,9 +13,9 @@ word_count: 1725
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mass-layoff-restructuring"
-meta_description: "First, ensure foundational compliance: review the Tripartite Advisory on Managing Excess Manpower and Responsible Retrenchment issued by MOM, NTUC, and..."
+meta_description: "A retrenchment has to follow the Tripartite Advisory before it follows anything else. What the process requires, and where employers get caught."
 og_title: "We Need to Conduct a Mass Layoff or Major Restructuring - What Do I Do Now?"
-og_description: "First, ensure foundational compliance: review the Tripartite Advisory on Managing Excess Manpower and Responsible Retrenchment issued by MOM, NTUC, and..."
+og_description: "A retrenchment has to follow the Tripartite Advisory before it follows anything else. What the process requires, and where employers get caught."
 ---
 
 > **The Answer in 60 Seconds**

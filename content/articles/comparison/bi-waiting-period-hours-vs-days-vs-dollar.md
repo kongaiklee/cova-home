@@ -13,9 +13,9 @@ word_count: 2824
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/bi-waiting-period-hours-vs-days-vs-dollar"
-meta_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is..."
+meta_description: "Business interruption does not pay from the first dollar. The waiting period is a real retained cost, and hours, days and dollars behave differently."
 og_title: "Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period"
-og_description: "Business Interruption cover does not pay from the first dollar of loss. The waiting period - also called the time excess, BI deductible, or franchise - is..."
+og_description: "Business interruption does not pay from the first dollar. The waiting period is a real retained cost, and hours, days and dollars behave differently."
 ---
 
 > **The Answer in 60 Seconds**

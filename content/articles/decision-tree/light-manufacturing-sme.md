@@ -13,9 +13,9 @@ word_count: 1399
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/light-manufacturing-sme"
-meta_description: "Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
+meta_description: "Light manufacturing puts machinery, product and premises risk in one place. Where each one attaches, and which contracts add more."
 og_title: "SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement"
-og_description: "Light manufacturing operators in Singapore - covering precision manufacturing, electronics manufacturing, food and beverage manufacturing, consumer goods..."
+og_description: "Light manufacturing puts machinery, product and premises risk in one place. Where each one attaches, and which contracts add more."
 ---
 
 > **The Answer in 60 Seconds**

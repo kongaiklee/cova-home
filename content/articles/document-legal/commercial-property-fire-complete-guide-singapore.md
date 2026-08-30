@@ -13,9 +13,9 @@ word_count: 2725
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/commercial-property-fire-complete-guide-singapore"
-meta_description: "For most Singapore SMEs, property and fire insurance is not compulsory by statute. There is no general law that forces you to insure your own premises,..."
+meta_description: "No statute forces you to insure your own premises. Your lease and your lender almost certainly do, and their wording decides the sum insured you need."
 og_title: "Commercial Property and Fire Insurance for Singapore SMEs: The Complete Guide"
-og_description: "For most Singapore SMEs, property and fire insurance is not compulsory by statute. There is no general law that forces you to insure your own premises,..."
+og_description: "No statute forces you to insure your own premises. Your lease and your lender almost certainly do, and their wording decides the sum insured you need."
 ---
 
 > **The Answer in 60 Seconds**

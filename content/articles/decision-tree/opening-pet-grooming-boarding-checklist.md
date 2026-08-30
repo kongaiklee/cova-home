@@ -13,9 +13,9 @@ word_count: 1566
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-pet-grooming-boarding-checklist"
-meta_description: "Opening a pet grooming, boarding, or daycare business in Singapore requires Animal & Veterinary Service (AVS) under National Parks Board licensing for..."
+meta_description: "Opening a pet grooming, boarding or daycare business needs AVS licensing under NParks. What the licence requires, and what to have ready."
 og_title: "Opening a Pet Grooming, Boarding, or Daycare Business in Singapore: Insurance and Regulatory Checklist"
-og_description: "Opening a pet grooming, boarding, or daycare business in Singapore requires Animal & Veterinary Service (AVS) under National Parks Board licensing for..."
+og_description: "Opening a pet grooming, boarding or daycare business needs AVS licensing under NParks. What the licence requires, and what to have ready."
 ---
 
 > **The Answer in 60 Seconds**

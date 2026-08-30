@@ -13,9 +13,9 @@ word_count: 998
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cyber-act-2024"
-meta_description: "The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) was passed in Parliament on 7 May 2024, per the CSA press release. Most key provisions commenced..."
+meta_description: "The Cybersecurity (Amendment) Act 2024 passed in May 2024 with most provisions commencing that October. What it changed, and for whom."
 og_title: "Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)"
-og_description: "The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) was passed in Parliament on 7 May 2024, per the CSA press release. Most key provisions commenced..."
+og_description: "The Cybersecurity (Amendment) Act 2024 passed in May 2024 with most provisions commencing that October. What it changed, and for whom."
 ---
 
 # What does the Cybersecurity (Amendment) Act 2024 mean for my SME's cyber insurance?

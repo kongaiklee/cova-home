@@ -13,9 +13,9 @@ word_count: 2166
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/security-association-singapore-membership-insurance"
-meta_description: "The Security Association Singapore (SAS) is a voluntary trade association, established in 1978, that represents the private security industry. Joining SAS..."
+meta_description: "Security Association membership is voluntary and buys you no cover. The obligations that bind a security agency come from the PLRD licence instead."
 og_title: "Security Association Singapore Membership and the PLRD Insurance Overlap"
-og_description: "The Security Association Singapore (SAS) is a voluntary trade association, established in 1978, that represents the private security industry. Joining SAS..."
+og_description: "Security Association membership is voluntary and buys you no cover. The obligations that bind a security agency come from the PLRD licence instead."
 ---
 
 > **The Answer in 60 Seconds**

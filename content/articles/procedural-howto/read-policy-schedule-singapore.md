@@ -13,9 +13,9 @@ word_count: 1065
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/read-policy-schedule-singapore"
-meta_description: "Step 1 - Open the Schedule (also called Declarations or \"Dec Page\"). The Schedule is a 1-3 page summary at the front of the policy. Verify, line by line:"
+meta_description: "A commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries are most often wrong."
 og_title: "How to Read Your Commercial Insurance Policy Schedule"
-og_description: "Step 1 - Open the Schedule (also called Declarations or \"Dec Page\"). The Schedule is a 1-3 page summary at the front of the policy. Verify, line by line:"
+og_description: "A commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries are most often wrong."
 ---
 
 ### The Answer in 60 Seconds

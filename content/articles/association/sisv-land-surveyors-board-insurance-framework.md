@@ -13,9 +13,9 @@ word_count: 1959
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sisv-land-surveyors-board-insurance-framework"
-meta_description: "The Singapore Institute of Surveyors and Valuers (SISV) is the professional learned society representing four practice divisions: Land Surveying, Quantity..."
+meta_description: "SISV represents four surveying divisions and the Land Surveyors Board regulates. Where the professional indemnity obligation actually attaches."
 og_title: "Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications"
-og_description: "The Singapore Institute of Surveyors and Valuers (SISV) is the professional learned society representing four practice divisions: Land Surveying, Quantity..."
+og_description: "SISV represents four surveying divisions and the Land Surveyors Board regulates. Where the professional indemnity obligation actually attaches."
 ---
 
 > **The Answer in 60 Seconds**

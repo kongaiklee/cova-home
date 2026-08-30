@@ -13,9 +13,9 @@ word_count: 2500
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/foreign-worker-insurance-complete-guide-singapore"
-meta_description: "Hiring a Work Permit or S Pass holder in Singapore is not one insurance decision. It triggers several mandatory obligations at once under the Employment..."
+meta_description: "Hiring a Work Permit or S Pass holder is not one insurance decision. Several duties start at once under EFMA, and they attach at different moments."
 og_title: "Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End"
-og_description: "Hiring a Work Permit or S Pass holder in Singapore is not one insurance decision. It triggers several mandatory obligations at once under the Employment..."
+og_description: "Hiring a Work Permit or S Pass holder is not one insurance decision. Several duties start at once under EFMA, and they attach at different moments."
 ---
 
 > **The Answer in 60 Seconds**

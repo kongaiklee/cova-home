@@ -13,9 +13,9 @@ word_count: 2349
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wfa-2024-protected-characteristics"
-meta_description: "The Workplace Fairness Act 2024 (WFA) - passed by Parliament on 8 January 2025 - establishes Singapore's first comprehensive statutory framework..."
+meta_description: "The Workplace Fairness Act 2024 sets out Singapore's first statutory list of protected characteristics. What it covers, and who it binds."
 og_title: "WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework"
-og_description: "The Workplace Fairness Act 2024 (WFA) - passed by Parliament on 8 January 2025 - establishes Singapore's first comprehensive statutory framework..."
+og_description: "The Workplace Fairness Act 2024 sets out Singapore's first statutory list of protected characteristics. What it covers, and who it binds."
 ---
 
 > **The Answer in 60 Seconds**

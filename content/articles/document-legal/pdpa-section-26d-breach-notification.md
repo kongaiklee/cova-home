@@ -14,9 +14,9 @@ word_count: 1742
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/pdpa-section-26d-breach-notification"
-meta_description: "Section 26D of the Personal Data Protection Act 2012 (Singapore) requires organisations to notify the Personal Data Protection Commission (PDPC) of a..."
+meta_description: "Section 26D requires notification to PDPC once a breach is assessed as notifiable. What triggers it, and what the notice has to contain."
 og_title: "PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained"
-og_description: "Section 26D of the Personal Data Protection Act 2012 (Singapore) requires organisations to notify the Personal Data Protection Commission (PDPC) of a..."
+og_description: "Section 26D requires notification to PDPC once a breach is assessed as notifiable. What triggers it, and what the notice has to contain."
 ---
 
 > **The Answer in 60 Seconds**

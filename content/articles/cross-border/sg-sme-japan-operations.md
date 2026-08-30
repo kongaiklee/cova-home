@@ -13,9 +13,9 @@ word_count: 1974
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-japan-operations"
-meta_description: "Singapore SMEs operating in Japan typically need: a Japanese-licensed insurer for commercial property and liability (a regulatory requirement under the..."
+meta_description: "Japan generally requires a locally licensed insurer under its financial services regime. What a Singapore SME must place there, and why."
 og_title: "Singapore SME With Japan Operations: How Insurance Works for Japanese Subsidiaries and Branches"
-og_description: "Singapore SMEs operating in Japan typically need: a Japanese-licensed insurer for commercial property and liability (a regulatory requirement under the..."
+og_description: "Japan generally requires a locally licensed insurer under its financial services regime. What a Singapore SME must place there, and why."
 ---
 
 > **The Answer in 60 Seconds**

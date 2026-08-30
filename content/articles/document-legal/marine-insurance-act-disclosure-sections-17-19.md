@@ -13,9 +13,9 @@ word_count: 1811
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/marine-insurance-act-disclosure-sections-17-19"
-meta_description: "Sections 17, 18, and 19 of the Marine Insurance Act 1906 form the codified architecture of pre-contractual disclosure in insurance. While the Act is..."
+meta_description: "Sections 17 to 19 of the Marine Insurance Act codify pre-contractual disclosure. What must be told, by whom, and what silence costs."
 og_title: "Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance"
-og_description: "Sections 17, 18, and 19 of the Marine Insurance Act 1906 form the codified architecture of pre-contractual disclosure in insurance. While the Act is..."
+og_description: "Sections 17 to 19 of the Marine Insurance Act codify pre-contractual disclosure. What must be told, by whom, and what silence costs."
 ---
 
 > **The Answer in 60 Seconds**

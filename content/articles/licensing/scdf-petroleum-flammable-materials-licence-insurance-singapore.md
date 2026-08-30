@@ -13,9 +13,9 @@ word_count: 1937
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scdf-petroleum-flammable-materials-licence-insurance-singapore"
-meta_description: "An SCDF licence to store, import, transport, dispense or pipe petroleum and flammable materials is a fire-safety authorisation under Part 6 of the Fire..."
+meta_description: "An SCDF petroleum and flammable materials licence is a fire-safety authorisation, not an insurance requirement. What Part 6 of the Act actually demands."
 og_title: "SCDF Petroleum and Flammable Materials Licence: Insurance Implications for Singapore Businesses"
-og_description: "An SCDF licence to store, import, transport, dispense or pipe petroleum and flammable materials is a fire-safety authorisation under Part 6 of the Fire..."
+og_description: "An SCDF petroleum and flammable materials licence is a fire-safety authorisation, not an insurance requirement. What Part 6 of the Act actually demands."
 ---
 
 > **The Answer in 60 Seconds**

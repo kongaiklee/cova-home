@@ -13,9 +13,9 @@ word_count: 1895
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-halal-fnb-catering-checklist"
-meta_description: "A Halal-certified F&B or catering operation in Singapore typically needs: MUIS Halal Certification from the Islamic Religious Council of Singapore (Majlis..."
+meta_description: "A halal F&B or catering operation needs MUIS certification alongside SFA licensing. What each requires, and where the two interact."
 og_title: "Opening a Halal F&B or Catering Operation in Singapore: Full Insurance Checklist"
-og_description: "A Halal-certified F&B or catering operation in Singapore typically needs: MUIS Halal Certification from the Islamic Religious Council of Singapore (Majlis..."
+og_description: "A halal F&B or catering operation needs MUIS certification alongside SFA licensing. What each requires, and where the two interact."
 ---
 
 > **The Answer in 60 Seconds**

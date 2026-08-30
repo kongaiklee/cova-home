@@ -13,9 +13,9 @@ word_count: 1743
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/utmost-good-faith-singapore-insurance"
-meta_description: "\"Utmost good faith\" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial..."
+meta_description: "Utmost good faith is what separates an insurance contract from an ordinary one. What the duty demands at placement, and what breaching it does."
 og_title: "Utmost Good Faith in Singapore Insurance Law: The Doctrine That Underpins Every Policy"
-og_description: "\"Utmost good faith\" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial..."
+og_description: "Utmost good faith is what separates an insurance contract from an ordinary one. What the duty demands at placement, and what breaching it does."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2220
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/ies-peb-professional-engineers-insurance-framework"
-meta_description: "The Institution of Engineers, Singapore (IES) is the professional learned society for engineers; the Professional Engineers Board (PEB) is the statutory..."
+meta_description: "IES is the learned society, PEB is the statutory regulator. Which one conditions a professional engineer's practice, and what cover follows."
 og_title: "Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices"
-og_description: "The Institution of Engineers, Singapore (IES) is the professional learned society for engineers; the Professional Engineers Board (PEB) is the statutory..."
+og_description: "IES is the learned society, PEB is the statutory regulator. Which one conditions a professional engineer's practice, and what cover follows."
 ---
 
 > **The Answer in 60 Seconds**

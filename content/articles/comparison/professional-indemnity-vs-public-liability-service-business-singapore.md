@@ -13,9 +13,9 @@ word_count: 2045
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/professional-indemnity-vs-public-liability-service-business-singapore"
-meta_description: "They cover different harms, so for most service businesses the honest answer is not one or the other. Public Liability responds to your legal liability..."
+meta_description: "They answer different claims, so most service businesses need both. Public liability follows injury and damage; PI follows your advice and your work."
 og_title: "Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?"
-og_description: "They cover different harms, so for most service businesses the honest answer is not one or the other. Public Liability responds to your legal liability..."
+og_description: "They answer different claims, so most service businesses need both. Public liability follows injury and damage; PI follows your advice and your work."
 ---
 
 > **The Answer in 60 Seconds**

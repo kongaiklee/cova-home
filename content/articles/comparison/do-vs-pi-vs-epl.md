@@ -13,9 +13,9 @@ word_count: 1607
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/do-vs-pi-vs-epl"
-meta_description: "Directors & Officers (D&O) covers individual directors, officers, and senior managers personally for \"wrongful acts\" - primarily breach of duty,..."
+meta_description: "D&O covers the individual, PI covers the work, EPL covers the employment relationship. Which one answers which claim."
 og_title: "D&O vs PI vs EPL: Three Liability Covers Often Confused"
-og_description: "Directors & Officers (D&O) covers individual directors, officers, and senior managers personally for \"wrongful acts\" - primarily breach of duty,..."
+og_description: "D&O covers the individual, PI covers the work, EPL covers the employment relationship. Which one answers which claim."
 ---
 
 > **The Answer in 60 Seconds**

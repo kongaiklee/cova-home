@@ -13,9 +13,9 @@ word_count: 1726
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/cooking-school-culinary-studio"
-meta_description: "Singapore cooking schools, hands-on culinary studios, baking studios, and chef-led private cooking experiences (Palate Sensations, Coriander Leaf, ToTT..."
+meta_description: "A cooking school puts customers around knives, heat and equipment. Where the duty of care sits, and what the premises has to satisfy."
 og_title: "Cooking School or Culinary Studio in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore cooking schools, hands-on culinary studios, baking studios, and chef-led private cooking experiences (Palate Sensations, Coriander Leaf, ToTT..."
+og_description: "A cooking school puts customers around knives, heat and equipment. Where the duty of care sits, and what the premises has to satisfy."
 ---
 
 > **The Answer in 60 Seconds**

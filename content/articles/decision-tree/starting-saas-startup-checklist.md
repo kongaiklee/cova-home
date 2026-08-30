@@ -13,9 +13,9 @@ word_count: 1751
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/starting-saas-startup-checklist"
-meta_description: "A Singapore SaaS startup typically needs: Cyber Liability (the most critical line - typical limits S$2M-S$10M+ for early-stage; covers breach response,..."
+meta_description: "A SaaS startup's most critical line is cyber, and the limits are set by the contracts it signs. What the opening stack actually looks like."
 og_title: "Starting a SaaS Startup in Singapore: Full Insurance Checklist"
-og_description: "A Singapore SaaS startup typically needs: Cyber Liability (the most critical line - typical limits S$2M-S$10M+ for early-stage; covers breach response,..."
+og_description: "A SaaS startup's most critical line is cyber, and the limits are set by the contracts it signs. What the opening stack actually looks like."
 ---
 
 > **The Answer in 60 Seconds**

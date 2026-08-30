@@ -13,9 +13,9 @@ word_count: 1635
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/halal-certified-fb-operator-insurance"
-meta_description: "Halal-certified F&B operators in Singapore hold dual regulatory frameworks: standard Singapore Food Agency (SFA) food licensing under Sale of Food Act..."
+meta_description: "A halal-certified operator holds two regulatory frameworks at once: SFA food licensing and MUIS certification. What each requires of you."
 og_title: "Halal-Certified F&B Operator Insurance: Singapore Operator Framework"
-og_description: "Halal-certified F&B operators in Singapore hold dual regulatory frameworks: standard Singapore Food Agency (SFA) food licensing under Sale of Food Act..."
+og_description: "A halal-certified operator holds two regulatory frameworks at once: SFA food licensing and MUIS certification. What each requires of you."
 ---
 
 > **The Answer in 60 Seconds**

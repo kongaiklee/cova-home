@@ -13,9 +13,9 @@ word_count: 1546
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/marketing-digital-agency"
-meta_description: "Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
+meta_description: "An agency is liable for the work it publishes and the data it holds. Where professional indemnity and cyber both attach to the same job."
 og_title: "SME Startup Decision Tree: Marketing and Digital Agency - Foundational Insurance Procurement"
-og_description: "Marketing and digital agencies in Singapore - covering full-service agencies, specialist creative agencies, performance marketing agencies, social media..."
+og_description: "An agency is liable for the work it publishes and the data it holds. Where professional indemnity and cyber both attach to the same job."
 ---
 
 > **The Answer in 60 Seconds**

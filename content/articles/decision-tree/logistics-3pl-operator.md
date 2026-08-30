@@ -13,9 +13,9 @@ word_count: 1262
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/logistics-3pl-operator"
-meta_description: "Logistics and third-party logistics (3PL) operators in Singapore - covering warehousing operations, transport / trucking operations, freight forwarding,..."
+meta_description: "A 3PL carries warehousing, transport and forwarding exposure at once. Which cover follows the goods, and where the trading conditions bite."
 og_title: "SME Startup Decision Tree: Logistics and 3PL Operator - Foundational Insurance Procurement"
-og_description: "Logistics and third-party logistics (3PL) operators in Singapore - covering warehousing operations, transport / trucking operations, freight forwarding,..."
+og_description: "A 3PL carries warehousing, transport and forwarding exposure at once. Which cover follows the goods, and where the trading conditions bite."
 ---
 
 > **The Answer in 60 Seconds**

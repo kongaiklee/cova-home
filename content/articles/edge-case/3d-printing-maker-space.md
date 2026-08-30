@@ -13,9 +13,9 @@ word_count: 1718
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/3d-printing-maker-space"
-meta_description: "3D printing service operators and maker spaces in Singapore operate as standard commercial services with specific intersections: BCA building usage..."
+meta_description: "A 3D printing service or maker space mixes public access, machinery and customer property. Where the building classification and the risk meet."
 og_title: "3D Printing Service and Maker Space Insurance: Singapore Operator Framework"
-og_description: "3D printing service operators and maker spaces in Singapore operate as standard commercial services with specific intersections: BCA building usage..."
+og_description: "A 3D printing service or maker space mixes public access, machinery and customer property. Where the building classification and the risk meet."
 ---
 
 > **The Answer in 60 Seconds**

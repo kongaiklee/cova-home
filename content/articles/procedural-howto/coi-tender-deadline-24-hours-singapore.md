@@ -13,9 +13,9 @@ word_count: 1918
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/coi-tender-deadline-24-hours-singapore"
-meta_description: "Your SME has just been told it has 24-48 hours to produce a Certificate of Insurance (COI) to validate a tender bid on GeBIZ, BCA, a private MCST/landlord..."
+meta_description: "A certificate of insurance demanded in 24 hours, for GeBIZ, BCA or a landlord portal. What it must show, and how to get it issued in time."
 og_title: "How to Obtain a Certificate of Insurance for a Tender Deadline in 24 Hours"
-og_description: "Your SME has just been told it has 24-48 hours to produce a Certificate of Insurance (COI) to validate a tender bid on GeBIZ, BCA, a private MCST/landlord..."
+og_description: "A certificate of insurance demanded in 24 hours, for GeBIZ, BCA or a landlord portal. What it must show, and how to get it issued in time."
 ---
 
 > **The Answer in 60 Seconds**

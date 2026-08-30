@@ -13,9 +13,9 @@ word_count: 1049
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/pl-claim-customer-slip-fnb"
-meta_description: "A customer slips on a wet patch by your espresso machine. Twists an ankle. Drops a phone. Threatens to sue. Here is what to do, in order - and what not to..."
+meta_description: "First aid, no admission of liability, then preserve the CCTV, the incident book and the witnesses. What a public liability claim turns on."
 og_title: "How to File a Public Liability Claim - Customer Slip in My Cafe"
-og_description: "A customer slips on a wet patch by your espresso machine. Twists an ankle. Drops a phone. Threatens to sue. Here is what to do, in order - and what not to..."
+og_description: "First aid, no admission of liability, then preserve the CCTV, the incident book and the witnesses. What a public liability claim turns on."
 ---
 
 ### The Answer in 60 Seconds

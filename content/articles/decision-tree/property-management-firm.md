@@ -13,9 +13,9 @@ word_count: 1292
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/property-management-firm"
-meta_description: "Property management firms in Singapore - covering managing agent (MA) services for Management Corporation Strata Title (MCST) operations under Building..."
+meta_description: "A managing agent runs someone else's building under the BMSMA. Where the MCST's risk ends and the agent's professional exposure begins."
 og_title: "SME Startup Decision Tree: Property Management Firm - Foundational Insurance Procurement"
-og_description: "Property management firms in Singapore - covering managing agent (MA) services for Management Corporation Strata Title (MCST) operations under Building..."
+og_description: "A managing agent runs someone else's building under the BMSMA. Where the MCST's risk ends and the agent's professional exposure begins."
 ---
 
 > **The Answer in 60 Seconds**

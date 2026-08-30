@@ -13,9 +13,9 @@ word_count: 1916
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/scs-sgtech-technology-sector-insurance-framework"
-meta_description: "The Singapore Computer Society (SCS) is the professional learned society for ICT practitioners; SGTech is the trade association for Singapore's technology..."
+meta_description: "SCS and SGTech represent the technology sector but regulate nothing. Where a tech firm's actual obligations originate, and what contracts add."
 og_title: "Singapore Computer Society (SCS) and SGTech: Industry Framework and Technology-Sector Insurance Architecture"
-og_description: "The Singapore Computer Society (SCS) is the professional learned society for ICT practitioners; SGTech is the trade association for Singapore's technology..."
+og_description: "SCS and SGTech represent the technology sector but regulate nothing. Where a tech firm's actual obligations originate, and what contracts add."
 ---
 
 > **The Answer in 60 Seconds**

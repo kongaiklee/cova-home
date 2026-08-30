@@ -13,9 +13,9 @@ word_count: 1838
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-tuition-enrichment-centre-checklist"
-meta_description: "A Singapore tuition or enrichment centre typically requires: business registration with ACRA; registration with MOE under the Education Act 1957 (a centre..."
+meta_description: "Opening a tuition or enrichment centre needs ACRA registration and MOE registration under the Education Act. What each one asks for."
 og_title: "Opening a Tuition or Enrichment Centre in Singapore: Full Insurance Checklist"
-og_description: "A Singapore tuition or enrichment centre typically requires: business registration with ACRA; registration with MOE under the Education Act 1957 (a centre..."
+og_description: "Opening a tuition or enrichment centre needs ACRA registration and MOE registration under the Education Act. What each one asks for."
 ---
 
 > **The Answer in 60 Seconds**

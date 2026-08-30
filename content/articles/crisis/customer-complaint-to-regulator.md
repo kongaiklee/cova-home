@@ -13,9 +13,9 @@ word_count: 1791
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-complaint-to-regulator"
-meta_description: "A customer complaint to a regulator is more serious than a direct complaint or a CASE/FIDReC referral - it triggers the regulator's inquiry process, even..."
+meta_description: "A complaint to the regulator is more serious than a complaint to you, because it starts the regulator's own inquiry. What to do first."
 og_title: "A Customer Just Filed a Complaint With a Regulator - What Do I Do Now?"
-og_description: "A customer complaint to a regulator is more serious than a direct complaint or a CASE/FIDReC referral - it triggers the regulator's inquiry process, even..."
+og_description: "A complaint to the regulator is more serious than a complaint to you, because it starts the regulator's own inquiry. What to do first."
 ---
 
 > **The Answer in 60 Seconds**

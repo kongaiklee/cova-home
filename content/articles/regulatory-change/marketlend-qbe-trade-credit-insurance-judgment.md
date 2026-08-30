@@ -13,9 +13,9 @@ word_count: 1570
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment"
-meta_description: "[Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd [2025] SGHC(I) 1](https://www.elitigation.sg/) (judgment 8 January 2025, Singapore..."
+meta_description: "Marketlend v QBE is the SICC judgment every trade credit policyholder should read. What it decided, and what it means for your own wording."
 og_title: "Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment"
-og_description: "[Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd [2025] SGHC(I) 1](https://www.elitigation.sg/) (judgment 8 January 2025, Singapore..."
+og_description: "Marketlend v QBE is the SICC judgment every trade credit policyholder should read. What it decided, and what it means for your own wording."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1766
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/indoor-farm-vertical-farm-insurance"
-meta_description: "Indoor farms and vertical farms in Singapore operate under Singapore Food Agency (SFA) farm licensing frameworks for food production, with BCA building..."
+meta_description: "Indoor and vertical farms hold SFA farm licensing plus building and utility exposure. Where a growing operation's risk actually concentrates."
 og_title: "Indoor Farm and Vertical Farm Insurance: Singapore Operator Framework"
-og_description: "Indoor farms and vertical farms in Singapore operate under Singapore Food Agency (SFA) farm licensing frameworks for food production, with BCA building..."
+og_description: "Indoor and vertical farms hold SFA farm licensing plus building and utility exposure. Where a growing operation's risk actually concentrates."
 ---
 
 > **The Answer in 60 Seconds**

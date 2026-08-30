@@ -13,9 +13,9 @@ word_count: 2891
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/reputational-social-media-crisis-singapore"
-meta_description: "A viral complaint, a defamation claim, or a coordinated pile-on can cost a Singapore SME real money: lost contracts, cancelled bookings, staff time, legal..."
+meta_description: "A viral complaint costs real money in lost contracts, staff time and legal fees. Where a Singapore SME's reputational exposure actually falls."
 og_title: "Reputational Harm and Social-Media Crises: What Insurance Does and Does Not Cover"
-og_description: "A viral complaint, a defamation claim, or a coordinated pile-on can cost a Singapore SME real money: lost contracts, cancelled bookings, staff time, legal..."
+og_description: "A viral complaint costs real money in lost contracts, staff time and legal fees. Where a Singapore SME's reputational exposure actually falls."
 ---
 
 > **The Answer in 60 Seconds**

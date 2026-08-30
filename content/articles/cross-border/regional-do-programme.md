@@ -13,9 +13,9 @@ word_count: 1974
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-do-programme"
-meta_description: "Directors and Officers Liability is the regional line where structural sophistication matters most. A Singapore parent's D&O policy does not automatically..."
+meta_description: "A Singapore parent's D&O does not automatically reach directors of foreign subsidiaries. What the policy has to say for it to."
 og_title: "Regional D&O Programme: Coverage for Subsidiary Directors Across Multiple Jurisdictions"
-og_description: "Directors and Officers Liability is the regional line where structural sophistication matters most. A Singapore parent's D&O policy does not automatically..."
+og_description: "A Singapore parent's D&O does not automatically reach directors of foreign subsidiaries. What the policy has to say for it to."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1754
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/music-school-studio-insurance"
-meta_description: "Music schools, studios, and instrument-instruction operators in Singapore generally fall outside ECDA preschool licensing scope (which applies to children..."
+meta_description: "Music schools and studios usually sit outside preschool licensing but still work with children. Where that puts the duty of care."
 og_title: "Music School and Music Studio Insurance: Singapore Operator Framework"
-og_description: "Music schools, studios, and instrument-instruction operators in Singapore generally fall outside ECDA preschool licensing scope (which applies to children..."
+og_description: "Music schools and studios usually sit outside preschool licensing but still work with children. Where that puts the duty of care."
 ---
 
 > **The Answer in 60 Seconds**

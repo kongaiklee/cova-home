@@ -13,9 +13,9 @@ word_count: 2112
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/mas-payment-services-licence-insurance-singapore"
-meta_description: "A payment services licence under the Payment Services Act 2019 does not make a commercial insurance policy a condition of the licence. What the Act..."
+meta_description: "A Payment Services Act licence does not make a commercial policy a condition. It compels two other things, and neither of them is insurance."
 og_title: "What Insurance Does an MAS Payment Services Licence Need in Singapore?"
-og_description: "A payment services licence under the Payment Services Act 2019 does not make a commercial insurance policy a condition of the licence. What the Act..."
+og_description: "A Payment Services Act licence does not make a commercial policy a condition. It compels two other things, and neither of them is insurance."
 ---
 
 > **The Answer in 60 Seconds**

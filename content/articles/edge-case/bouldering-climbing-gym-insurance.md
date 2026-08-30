@@ -13,9 +13,9 @@ word_count: 1506
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/bouldering-climbing-gym-insurance"
-meta_description: "A Singapore bouldering gym, indoor climbing facility, or adventure sport venue requires: business registration with ACRA, a SCDF Fire Safety Certificate..."
+meta_description: "A bouldering or climbing gym needs ACRA registration, an SCDF Fire Safety Certificate and more. What the venue actually has to have in place."
 og_title: "Bouldering Gym, Climbing Gym, and Adventure Sport Facility Insurance in Singapore"
-og_description: "A Singapore bouldering gym, indoor climbing facility, or adventure sport venue requires: business registration with ACRA, a SCDF Fire Safety Certificate..."
+og_description: "A bouldering or climbing gym needs ACRA registration, an SCDF Fire Safety Certificate and more. What the venue actually has to have in place."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1624
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/esports-gaming-centre-insurance"
-meta_description: "A Singapore e-sports centre or gaming café requires: business registration with ACRA, SCDF Fire Safety Certificate, URA zoning compliance, and where..."
+meta_description: "An e-sports centre or gaming cafe needs ACRA registration, an SCDF Fire Safety Certificate and URA zoning compliance. What else it must hold."
 og_title: "E-Sports Centre or Gaming Café Insurance in Singapore"
-og_description: "A Singapore e-sports centre or gaming café requires: business registration with ACRA, SCDF Fire Safety Certificate, URA zoning compliance, and where..."
+og_description: "An e-sports centre or gaming cafe needs ACRA registration, an SCDF Fire Safety Certificate and URA zoning compliance. What else it must hold."
 ---
 
 > **The Answer in 60 Seconds**

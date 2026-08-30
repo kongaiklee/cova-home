@@ -13,9 +13,9 @@ word_count: 1698
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/tcm-acupuncture-clinic-insurance"
-meta_description: "Traditional Chinese Medicine (TCM) practitioners and acupuncturists in Singapore are regulated by the Traditional Chinese Medicine Practitioners Board..."
+meta_description: "What the TCMPB Practising Certificate and the MOH Healthcare Services Act actually require of a TCM or acupuncture clinic, and what each leaves."
 og_title: "TCM Clinic and Acupuncture Practice Insurance: Singapore Operator Framework"
-og_description: "Traditional Chinese Medicine (TCM) practitioners and acupuncturists in Singapore are regulated by the Traditional Chinese Medicine Practitioners Board..."
+og_description: "What the TCMPB Practising Certificate and the MOH Healthcare Services Act actually require of a TCM or acupuncture clinic, and what each leaves."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1965
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/insurance-renewal-process-staff-turnover-singapore"
-meta_description: "Most Singapore SMEs run their insurance off one person's institutional memory. The renewal calendar lives in their head or in a private spreadsheet, the..."
+meta_description: "Most SMEs run insurance off one person's memory. What happens at renewal when that person leaves, and how to make the calendar survive them."
 og_title: "How to Build an Insurance Renewal Process That Survives Staff Turnover"
-og_description: "Most Singapore SMEs run their insurance off one person's institutional memory. The renewal calendar lives in their head or in a private spreadsheet, the..."
+og_description: "Most SMEs run insurance off one person's memory. What happens at renewal when that person leaves, and how to make the calendar survive them."
 ---
 
 > **The Answer in 60 Seconds**

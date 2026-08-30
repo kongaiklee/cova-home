@@ -13,9 +13,9 @@ word_count: 1740
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/trampoline-inflatable-park"
-meta_description: "Singapore trampoline parks (Bounce, Amped, Zoom Park, Katapult, etc.) and inflatable parks face one of the highest documented injury rates in the..."
+meta_description: "Trampoline and inflatable parks record some of the highest injury rates in the sector. What that means for the operator and the waiver."
 og_title: "Trampoline Park or Inflatable Park in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore trampoline parks (Bounce, Amped, Zoom Park, Katapult, etc.) and inflatable parks face one of the highest documented injury rates in the..."
+og_description: "Trampoline and inflatable parks record some of the highest injury rates in the sector. What that means for the operator and the waiver."
 ---
 
 > **The Answer in 60 Seconds**

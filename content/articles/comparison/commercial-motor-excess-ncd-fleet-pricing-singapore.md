@@ -13,9 +13,9 @@ word_count: 2397
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/commercial-motor-excess-ncd-fleet-pricing-singapore"
-meta_description: "Two levers decide what you pay for commercial motor cover, and most SMEs read both of them wrong. The first is the excess: the fixed amount you pay out of..."
+meta_description: "Two levers set your commercial motor premium and most SMEs read both wrong: what the excess actually does, and how NCD behaves across a fleet."
 og_title: "Commercial Motor Excess and No-Claim Discount: How Fleet Pricing Actually Works"
-og_description: "Two levers decide what you pay for commercial motor cover, and most SMEs read both of them wrong. The first is the excess: the fixed amount you pay out of..."
+og_description: "Two levers set your commercial motor premium and most SMEs read both wrong: what the excess actually does, and how NCD behaves across a fleet."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1640
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-logistics-warehousing-checklist"
-meta_description: "A Singapore logistics, warehousing, or freight forwarding business typically requires: business registration with ACRA; registration with Singapore..."
+meta_description: "Opening a logistics, warehousing or freight forwarding business needs ACRA plus Singapore Customs registration. What else it must hold."
 og_title: "Opening a Logistics, Warehousing, or Freight Forwarding Operation in Singapore: Full Insurance Checklist"
-og_description: "A Singapore logistics, warehousing, or freight forwarding business typically requires: business registration with ACRA; registration with Singapore..."
+og_description: "Opening a logistics, warehousing or freight forwarding business needs ACRA plus Singapore Customs registration. What else it must hold."
 ---
 
 > **The Answer in 60 Seconds**

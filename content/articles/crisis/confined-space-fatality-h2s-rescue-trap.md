@@ -13,9 +13,9 @@ word_count: 1667
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/confined-space-fatality-h2s-rescue-trap"
-meta_description: "A worker has collapsed inside a tank, vessel, or manhole. Colleagues attempted rescue without self-contained breathing apparatus (SCBA) and were also..."
+meta_description: "A worker has collapsed in a confined space and would-be rescuers went in without breathing apparatus. Why the rescue trap causes most fatalities."
 og_title: "Confined Space Fatality: Hydrogen Sulphide Exposure and the Multi-Casualty Rescue Trap"
-og_description: "A worker has collapsed inside a tank, vessel, or manhole. Colleagues attempted rescue without self-contained breathing apparatus (SCBA) and were also..."
+og_description: "A worker has collapsed in a confined space and would-be rescuers went in without breathing apparatus. Why the rescue trap causes most fatalities."
 ---
 
 > **The Answer in 60 Seconds**

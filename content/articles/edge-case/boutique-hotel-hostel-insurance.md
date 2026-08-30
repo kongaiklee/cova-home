@@ -13,9 +13,9 @@ word_count: 1596
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/boutique-hotel-hostel-insurance"
-meta_description: "Boutique hotels and hostels in Singapore operate under Hotels Act 1954 licensing administered by the Hotels Licensing Board (HLB), with BCA building code..."
+meta_description: "Boutique hotels and hostels answer to the Hotels Licensing Board, BCA and SCDF at once. What each requires of the premises and the operator."
 og_title: "Boutique Hotel and Hostel Insurance: Singapore Operator Framework"
-og_description: "Boutique hotels and hostels in Singapore operate under Hotels Act 1954 licensing administered by the Hotels Licensing Board (HLB), with BCA building code..."
+og_description: "Boutique hotels and hostels answer to the Hotels Licensing Board, BCA and SCDF at once. What each requires of the premises and the operator."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1826
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/smf-manufacturing-sector-insurance-framework"
-meta_description: "The Singapore Manufacturing Federation (SMF) is a non-statutory industry-trade association representing Singapore's manufacturing sector. It is not a..."
+meta_description: "The Singapore Manufacturing Federation is a trade association, not a regulator. What it does for members, and what it does not require of them."
 og_title: "Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture"
-og_description: "The Singapore Manufacturing Federation (SMF) is a non-statutory industry-trade association representing Singapore's manufacturing sector. It is not a..."
+og_description: "The Singapore Manufacturing Federation is a trade association, not a regulator. What it does for members, and what it does not require of them."
 ---
 
 > **The Answer in 60 Seconds**

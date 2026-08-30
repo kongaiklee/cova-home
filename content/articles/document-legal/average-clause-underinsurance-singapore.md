@@ -13,9 +13,9 @@ word_count: 1462
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/average-clause-underinsurance-singapore"
-meta_description: "The average clause (sometimes called the \"condition of average\" or \"co-insurance clause\") is a standard provision in most Singapore non-life commercial..."
+meta_description: "If the sum insured is below the true value, the average clause cuts every partial claim in proportion. How underinsurance quietly reduces what you get paid."
 og_title: "The Average Clause Explained: Singapore Underinsurance Penalties on Partial Losses"
-og_description: "The average clause (sometimes called the \"condition of average\" or \"co-insurance clause\") is a standard provision in most Singapore non-life commercial..."
+og_description: "If the sum insured is below the true value, the average clause cuts every partial claim in proportion. How underinsurance quietly reduces what you get paid."
 ---
 
 > **The Answer in 60 Seconds**

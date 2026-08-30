@@ -13,9 +13,9 @@ word_count: 2167
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/general-average-declared-importer-first-72-hours-singapore"
-meta_description: "Something went wrong at sea. A fire in the hold, a grounding in the Strait, an engine failure, a collision. To save the voyage, the master jettisoned..."
+meta_description: "Cargo sacrificed to save a voyage becomes everyone's bill. What general average means for an importer, and what to do in the first 72 hours."
 og_title: "General Average Declared: A Singapore Importer's First 72 Hours"
-og_description: "Something went wrong at sea. A fire in the hold, a grounding in the Strait, an engine failure, a collision. To save the voyage, the master jettisoned..."
+og_description: "Cargo sacrificed to save a voyage becomes everyone's bill. What general average means for an importer, and what to do in the first 72 hours."
 ---
 
 > **The Answer in 60 Seconds**

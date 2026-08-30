@@ -13,9 +13,9 @@ word_count: 1800
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-interior-design-firm-checklist"
-meta_description: "A Singapore interior design firm typically needs: CaseTrust Renovation accreditation (per CASE / Renovation, Contractors & Material Suppliers Association..."
+meta_description: "An interior design firm often needs CaseTrust Renovation accreditation alongside registration. What the accreditation asks for."
 og_title: "Opening an Interior Design Firm in Singapore: Full Insurance Checklist"
-og_description: "A Singapore interior design firm typically needs: CaseTrust Renovation accreditation (per CASE / Renovation, Contractors & Material Suppliers Association..."
+og_description: "An interior design firm often needs CaseTrust Renovation accreditation alongside registration. What the accreditation asks for."
 ---
 
 > **The Answer in 60 Seconds**

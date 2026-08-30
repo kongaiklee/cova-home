@@ -13,9 +13,9 @@ word_count: 2490
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/cyber-insurance-complete-guide-singapore-sme"
-meta_description: "Cyber insurance is not mandatory in Singapore. No statute requires a business to buy it. What is mandatory are the legal duties that create the exposure...."
+meta_description: "No statute requires cyber insurance. What is mandatory are the PDPA duties that create the exposure, and that is where the real obligation sits."
 og_title: "Cyber Insurance for Singapore SMEs: The Complete Guide"
-og_description: "Cyber insurance is not mandatory in Singapore. No statute requires a business to buy it. What is mandatory are the legal duties that create the exposure...."
+og_description: "No statute requires cyber insurance. What is mandatory are the PDPA duties that create the exposure, and that is where the real obligation sits."
 ---
 
 > **The Answer in 60 Seconds**

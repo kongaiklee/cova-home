@@ -13,9 +13,9 @@ word_count: 2118
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/missed-insurance-renewal-cost-singapore-sme"
-meta_description: "A Singapore commercial insurance policy that is not renewed by its expiry date, or not paid by day 60 from inception, lapses automatically. There is no..."
+meta_description: "A Singapore commercial policy lapses at expiry, or at day 60 unpaid. There is no grace period, and this is what a lapse actually costs."
 og_title: "The Hidden Cost of a Missed Insurance Renewal for Singapore Businesses"
-og_description: "A Singapore commercial insurance policy that is not renewed by its expiry date, or not paid by day 60 from inception, lapses automatically. There is no..."
+og_description: "A Singapore commercial policy lapses at expiry, or at day 60 unpaid. There is no grace period, and this is what a lapse actually costs."
 ---
 
 > **The Answer in 60 Seconds**

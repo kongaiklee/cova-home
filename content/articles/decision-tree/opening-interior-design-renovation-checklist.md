@@ -13,9 +13,9 @@ word_count: 1737
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-interior-design-renovation-checklist"
-meta_description: "A Singapore interior design or renovation business typically requires: business registration with ACRA, BCA registration depending on works (general..."
+meta_description: "Opening an interior design or renovation business needs ACRA registration and, depending on the works, BCA registration too."
 og_title: "Opening an Interior Design Firm or Renovation Contractor in Singapore: Full Insurance Checklist"
-og_description: "A Singapore interior design or renovation business typically requires: business registration with ACRA, BCA registration depending on works (general..."
+og_description: "Opening an interior design or renovation business needs ACRA registration and, depending on the works, BCA registration too."
 ---
 
 > **The Answer in 60 Seconds**

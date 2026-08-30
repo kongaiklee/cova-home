@@ -13,9 +13,9 @@ word_count: 2301
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/irda-2018-director-duties-insolvency"
-meta_description: "The Insolvency, Restructuring and Dissolution Act 2018 (IRDA) consolidated Singapore's insolvency framework - replacing the earlier Bankruptcy Act and the..."
+meta_description: "IRDA consolidated Singapore's insolvency framework and sharpened what directors owe as the company approaches insolvency. What changed."
 og_title: "IRDA 2018 and Director Personal Liability in Insolvency: How Singapore Law Handles Distressed Companies and What D&O Insurance Actually Covers"
-og_description: "The Insolvency, Restructuring and Dissolution Act 2018 (IRDA) consolidated Singapore's insolvency framework - replacing the earlier Bankruptcy Act and the..."
+og_description: "IRDA consolidated Singapore's insolvency framework and sharpened what directors owe as the company approaches insolvency. What changed."
 ---
 
 > **The Answer in 60 Seconds**

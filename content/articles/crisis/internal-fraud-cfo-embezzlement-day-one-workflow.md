@@ -13,9 +13,9 @@ word_count: 3133
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/internal-fraud-cfo-embezzlement-day-one-workflow"
-meta_description: "The Singapore SME has just discovered internal fraud, typically by a long-serving finance officer running for 2 to 7 years with magnitude S$100,000 to S$2..."
+meta_description: "Finance-officer fraud typically runs two to seven years before discovery. What to do on day one, and the steps that quietly destroy the claim."
 og_title: "Internal Fraud Discovered: The 8-Step Day-One Workflow for Singapore SMEs"
-og_description: "The Singapore SME has just discovered internal fraud, typically by a long-serving finance officer running for 2 to 7 years with magnitude S$100,000 to S$2..."
+og_description: "Finance-officer fraud typically runs two to seven years before discovery. What to do on day one, and the steps that quietly destroy the claim."
 ---
 
 > **The Answer in 60 Seconds**

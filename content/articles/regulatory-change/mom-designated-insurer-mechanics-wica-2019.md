@@ -13,9 +13,9 @@ word_count: 2444
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mom-designated-insurer-mechanics-wica-2019"
-meta_description: "Under the Work Injury Compensation Act 2019 (WICA 2019), every Singapore employer of manual employees (regardless of salary) and every employer of..."
+meta_description: "WICA requires cover for every manual employee and for non-manual employees under the salary threshold. How the designated insurer mechanism works."
 og_title: "MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019"
-og_description: "Under the Work Injury Compensation Act 2019 (WICA 2019), every Singapore employer of manual employees (regardless of salary) and every employer of..."
+og_description: "WICA requires cover for every manual employee and for non-manual employees under the salary threshold. How the designated insurer mechanism works."
 ---
 
 > **The Answer in 60 Seconds**

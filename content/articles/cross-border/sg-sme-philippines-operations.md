@@ -13,9 +13,9 @@ word_count: 1545
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-philippines-operations"
-meta_description: "Singapore SMEs operating in the Philippines through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework..."
+meta_description: "The Philippines requires locally admitted cover under its own regulator. What a Singapore SME must place there, and what it can carry from home."
 og_title: "Singapore SMEs Operating in the Philippines: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in the Philippines through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework..."
+og_description: "The Philippines requires locally admitted cover under its own regulator. What a Singapore SME must place there, and what it can carry from home."
 ---
 
 > **The Answer in 60 Seconds**

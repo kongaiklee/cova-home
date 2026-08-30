@@ -13,9 +13,9 @@ word_count: 2350
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/flood-climate-business-interruption-singapore"
-meta_description: "Singapore's rainfall has been trending heavier. The Meteorological Service Singapore reports annual rainfall rising at a rate of about 83 mm per decade..."
+meta_description: "Singapore rainfall is trending heavier at roughly 83mm per decade. What flash flooding does to a business interruption claim, and where the gap sits."
 og_title: "Flash Floods and Climate Risk: The Business-Interruption Gap for Singapore SMEs"
-og_description: "Singapore's rainfall has been trending heavier. The Meteorological Service Singapore reports annual rainfall rising at a rate of about 83 mm per decade..."
+og_description: "Singapore rainfall is trending heavier at roughly 83mm per decade. What flash flooding does to a business interruption claim, and where the gap sits."
 ---
 
 A flash flood in Singapore rarely lasts more than an hour. The water recedes, the road reopens, and the news clip moves on. For a ground-floor retailer, an F&B unit, or a warehouse, that hour is enough to ruin stock, short out equipment, and shut the doors for days. The damage to the building is often the smaller number. The lost trading is the bigger one, and it is the part many Singapore SMEs discover they were never insured for.

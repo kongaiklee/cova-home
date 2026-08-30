@@ -13,9 +13,9 @@ word_count: 2031
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-indonesian-operations"
-meta_description: "Indonesia operates one of ASEAN's most regulated insurance markets, supervised by Otoritas Jasa Keuangan (OJK) - the Financial Services Authority...."
+meta_description: "Indonesia runs one of ASEAN's most regulated insurance markets under OJK. What a Singapore SME must place locally, and what OJK expects."
 og_title: "Singapore SME With Indonesian Operations: How Insurance Works Across the Strait"
-og_description: "Indonesia operates one of ASEAN's most regulated insurance markets, supervised by Otoritas Jasa Keuangan (OJK) - the Financial Services Authority...."
+og_description: "Indonesia runs one of ASEAN's most regulated insurance markets under OJK. What a Singapore SME must place locally, and what OJK expects."
 ---
 
 > **The Answer in 60 Seconds**

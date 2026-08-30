@@ -13,9 +13,9 @@ word_count: 2079
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/redas-membership-insurance-singapore"
-meta_description: "The Real Estate Developers' Association of Singapore (REDAS) is a private, non-statutory trade body. It is not a regulator, it does not issue licences,..."
+meta_description: "REDAS is a private trade body, not a regulator. It issues no licence and mandates no member insurance, so a developer's duties sit in the contracts."
 og_title: "REDAS Membership and Insurance: What Real Estate Developers in Singapore Should Know"
-og_description: "The Real Estate Developers' Association of Singapore (REDAS) is a private, non-statutory trade body. It is not a regulator, it does not issue licences,..."
+og_description: "REDAS is a private trade body, not a regulator. It issues no licence and mandates no member insurance, so a developer's duties sit in the contracts."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1276
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/co-working-space-operator-singapore"
-meta_description: "Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
+meta_description: "A co-working operator carries dozens of member businesses under one roof. Where the members' risk stops and the operator's own begins."
 og_title: "Co-Working Space Operator: The Specific Insurance Profile for Singapore Flexible Workspace Operations"
-og_description: "Co-working space operators in Singapore - including hot-desk operations, dedicated desk operations, private office operations, hybrid commercial scope,..."
+og_description: "A co-working operator carries dozens of member businesses under one roof. Where the members' risk stops and the operator's own begins."
 ---
 
 > **The Answer in 60 Seconds**

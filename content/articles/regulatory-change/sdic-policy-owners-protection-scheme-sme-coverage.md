@@ -13,9 +13,9 @@ word_count: 2699
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage"
-meta_description: "The Policy Owners' Protection (PPF) Scheme is administered by the Singapore Deposit Insurance Corporation Limited (SDIC) under the Deposit Insurance and..."
+meta_description: "The Policy Owners' Protection Scheme covers policyholders if an insurer fails. What it protects, up to what level, and what it leaves out."
 og_title: "SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails"
-og_description: "The Policy Owners' Protection (PPF) Scheme is administered by the Singapore Deposit Insurance Corporation Limited (SDIC) under the Deposit Insurance and..."
+og_description: "The Policy Owners' Protection Scheme covers policyholders if an insurer fails. What it protects, up to what level, and what it leaves out."
 ---
 
 > **The Answer in 60 Seconds**

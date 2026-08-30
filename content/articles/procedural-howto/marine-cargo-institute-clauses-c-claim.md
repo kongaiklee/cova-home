@@ -13,9 +13,9 @@ word_count: 1579
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-c-claim"
-meta_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of named perils..."
+meta_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a cargo claim needs, and the notice timings."
 og_title: "How to Claim Under Marine Cargo Institute Clauses C"
-og_description: "Institute Cargo Clauses (C) 1/1/2009 is the most restrictive of the three Institute Cargo Clauses (A, B, C) - it covers a defined list of named perils..."
+og_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a cargo claim needs, and the notice timings."
 ---
 
 > **The Answer in 60 Seconds**

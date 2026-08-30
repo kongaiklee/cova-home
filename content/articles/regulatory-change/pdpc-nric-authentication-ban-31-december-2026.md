@@ -13,9 +13,9 @@ word_count: 1466
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pdpc-nric-authentication-ban-31-december-2026"
-meta_description: "Effective 31 December 2026, Singapore organisations must cease using NRIC numbers for authentication purposes, per PDPC Press Release of 2 February 2026..."
+meta_description: "From 31 December 2026 NRIC numbers may not be used for authentication. What has to change in your systems, and what may still be collected."
 og_title: "PDPC NRIC Authentication Ban Effective 31 December 2026: SME Compliance and Insurance Implications"
-og_description: "Effective 31 December 2026, Singapore organisations must cease using NRIC numbers for authentication purposes, per PDPC Press Release of 2 February 2026..."
+og_description: "From 31 December 2026 NRIC numbers may not be used for authentication. What has to change in your systems, and what may still be collected."
 ---
 
 > **The Answer in 60 Seconds**

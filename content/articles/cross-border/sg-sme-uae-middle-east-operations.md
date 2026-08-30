@@ -13,9 +13,9 @@ word_count: 1528
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-uae-middle-east-operations"
-meta_description: "Singapore SMEs operating in the United Arab Emirates (UAE) - typically as Middle East regional anchor - face an insurance framework administered by the..."
+meta_description: "The UAE is supervised by the Central Bank and usually anchors a Middle East structure. What locally admitted cover it requires of you."
 og_title: "Singapore SMEs Operating in the UAE and Middle East: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in the United Arab Emirates (UAE) - typically as Middle East regional anchor - face an insurance framework administered by the..."
+og_description: "The UAE is supervised by the Central Bank and usually anchors a Middle East structure. What locally admitted cover it requires of you."
 ---
 
 > **The Answer in 60 Seconds**

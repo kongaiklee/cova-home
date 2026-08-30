@@ -13,9 +13,9 @@ word_count: 1550
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-real-estate-agency-checklist"
-meta_description: "A Singapore real estate agency requires licensing under the Council for Estate Agencies (CEA) per the Estate Agents Act 2010. Professional Indemnity..."
+meta_description: "A real estate agency is licensed by CEA under the Estate Agents Act, and professional indemnity is part of the picture. What is required."
 og_title: "Opening a Real Estate Agency in Singapore: Full Insurance Checklist"
-og_description: "A Singapore real estate agency requires licensing under the Council for Estate Agencies (CEA) per the Estate Agents Act 2010. Professional Indemnity..."
+og_description: "A real estate agency is licensed by CEA under the Estate Agents Act, and professional indemnity is part of the picture. What is required."
 ---
 
 > **The Answer in 60 Seconds**

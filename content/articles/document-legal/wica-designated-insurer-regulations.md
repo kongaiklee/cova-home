@@ -13,9 +13,9 @@ word_count: 2291
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-designated-insurer-regulations"
-meta_description: "Per Section 31 of the Work Injury Compensation Act 2019 (Designation by Commissioner), only insurers designated by the Commissioner for Workplace Safety..."
+meta_description: "Section 31 of WICA lets only insurers designated by the Commissioner write WICA cover. What that means for where you can place it."
 og_title: "WICA Designated Insurer Regulations: How the MOM List Actually Works"
-og_description: "Per Section 31 of the Work Injury Compensation Act 2019 (Designation by Commissioner), only insurers designated by the Commissioner for Workplace Safety..."
+og_description: "Section 31 of WICA lets only insurers designated by the Commissioner write WICA cover. What that means for where you can place it."
 ---
 
 > **The Answer in 60 Seconds**

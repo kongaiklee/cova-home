@@ -13,9 +13,9 @@ word_count: 2358
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/fidelity-vs-commercial-crime-vs-cyber-crime-singapore"
-meta_description: "Fidelity Guarantee, Commercial Crime and Cyber Crime cover all respond to money lost through dishonesty or theft, which is exactly why Singapore SMEs..."
+meta_description: "Fidelity, commercial crime and cyber crime all respond to dishonesty, which is why they get treated as interchangeable. Where each one actually starts."
 og_title: "Fidelity Guarantee vs Commercial Crime vs Cyber Crime: Where the Cover Overlaps"
-og_description: "Fidelity Guarantee, Commercial Crime and Cyber Crime cover all respond to money lost through dishonesty or theft, which is exactly why Singapore SMEs..."
+og_description: "Fidelity, commercial crime and cyber crime all respond to dishonesty, which is why they get treated as interchangeable. Where each one actually starts."
 ---
 
 > **The Answer in 60 Seconds**

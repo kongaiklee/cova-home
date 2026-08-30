@@ -13,9 +13,9 @@ word_count: 1744
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/bicycle-cycling-shop-servicing"
-meta_description: "Bicycle retailers and cycling servicing operators in Singapore operate under standard retail/business licensing with specific intersections: Active..."
+meta_description: "A bicycle shop sits under the Active Mobility Act alongside standard retail rules. Where servicing, stock and customer property create exposure."
 og_title: "Bicycle and Cycling Shop Insurance: Singapore Operator Framework"
-og_description: "Bicycle retailers and cycling servicing operators in Singapore operate under standard retail/business licensing with specific intersections: Active..."
+og_description: "A bicycle shop sits under the Active Mobility Act alongside standard retail rules. Where servicing, stock and customer property create exposure."
 ---
 
 > **The Answer in 60 Seconds**

@@ -14,9 +14,9 @@ word_count: 5868
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme"
-meta_description: "A Singapore SME founder reads a headline: a US human resources software vendor is on the hook for a collective action that, on the vendor's own admission..."
+meta_description: "A US HR software vendor faces a collective action it says could reach hundreds of millions of users. The same tools sell into Singapore."
 og_title: "When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs"
-og_description: "A Singapore SME founder reads a headline: a US human resources software vendor is on the hook for a collective action that, on the vendor's own admission..."
+og_description: "A US HR software vendor faces a collective action it says could reach hundreds of millions of users. The same tools sell into Singapore."
 ---
 
 A Singapore SME founder reads a headline: a US human resources software vendor is on the hook for a collective action that, on the vendor's own admission to the court, could reach "hundreds of millions" of users. The same software vendor sells into Singapore. The founder's HR director uses a similar resume parser. And in roughly 18 months, the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025/Uncommenced/20250304073414?DocDate=20250213) and its companion dispute-resolution framework will turn workplace discrimination from a guideline into a statutory tort with a S$250,000 claim cap at the Employment Claims Tribunal.

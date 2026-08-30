@@ -13,9 +13,9 @@ word_count: 1763
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/employee-embezzlement-discovered"
-meta_description: "First, do not confront the employee. Preserve evidence quietly: lock email, retain server logs, secure physical records, take backups. File a police..."
+meta_description: "Do not confront the employee. Preserve evidence quietly, lock access, take backups, and file a police report. The order matters here."
 og_title: "We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?"
-og_description: "First, do not confront the employee. Preserve evidence quietly: lock email, retain server logs, secure physical records, take backups. File a police..."
+og_description: "Do not confront the employee. Preserve evidence quietly, lock access, take backups, and file a police report. The order matters here."
 ---
 
 > **The Answer in 60 Seconds**

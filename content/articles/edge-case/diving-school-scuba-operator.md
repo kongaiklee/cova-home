@@ -13,9 +13,9 @@ word_count: 1718
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/diving-school-scuba-operator"
-meta_description: "Diving schools and scuba operators in Singapore typically operate under a recognised certification agency framework - PADI (Professional Association of..."
+meta_description: "A dive school operates under a certification agency framework rather than a Singapore licence. What that leaves you carrying, and who checks it."
 og_title: "Diving School and Scuba Operator Insurance: Singapore Operator Framework"
-og_description: "Diving schools and scuba operators in Singapore typically operate under a recognised certification agency framework - PADI (Professional Association of..."
+og_description: "A dive school operates under a certification agency framework rather than a Singapore licence. What that leaves you carrying, and who checks it."
 ---
 
 > **The Answer in 60 Seconds**

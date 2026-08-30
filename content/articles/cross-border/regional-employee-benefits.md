@@ -13,9 +13,9 @@ word_count: 2305
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-employee-benefits"
-meta_description: "Regional Employee Benefits has two distinct layers that must not be confused. Layer 1 - mandatory statutory benefits are non-negotiable and..."
+meta_description: "Regional employee benefits has two layers that get confused: mandatory statutory benefits per country, and the voluntary programme on top."
 og_title: "Regional Employee Benefits: Coordinated GMP and Group Life Across ASEAN Operations"
-og_description: "Regional Employee Benefits has two distinct layers that must not be confused. Layer 1 - mandatory statutory benefits are non-negotiable and..."
+og_description: "Regional employee benefits has two layers that get confused: mandatory statutory benefits per country, and the voluntary programme on top."
 ---
 
 > **The Answer in 60 Seconds**

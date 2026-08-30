@@ -13,9 +13,9 @@ word_count: 1909
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-just-sued"
-meta_description: "First, identify what you've received. A Letter of Demand is a pre-litigation warning; a Writ of Summons is the start of formal court proceedings. Per the..."
+meta_description: "A letter of demand and a writ are not the same thing. Work out which you have received, because the clock and the response differ."
 og_title: "A Customer Just Sued Us - What Do I Do Now?"
-og_description: "First, identify what you've received. A Letter of Demand is a pre-litigation warning; a Writ of Summons is the start of formal court proceedings. Per the..."
+og_description: "A letter of demand and a writ are not the same thing. Work out which you have received, because the clock and the response differ."
 ---
 
 > **The Answer in 60 Seconds**

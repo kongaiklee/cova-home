@@ -13,9 +13,9 @@ word_count: 1750
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/ktv-karaoke-operator"
-meta_description: "Singapore KTV and karaoke operators (Manekineko, K Suites, Cash Studio, Teo Heng, family KTV operators) sit in a public entertainment vertical with..."
+meta_description: "KTV and karaoke operators carry concentrated regulatory weight under the public entertainment regime. What conditions the licence, and why."
 og_title: "KTV or Karaoke Operator in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore KTV and karaoke operators (Manekineko, K Suites, Cash Studio, Teo Heng, family KTV operators) sit in a public entertainment vertical with..."
+og_description: "KTV and karaoke operators carry concentrated regulatory weight under the public entertainment regime. What conditions the licence, and why."
 ---
 
 > **The Answer in 60 Seconds**

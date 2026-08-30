@@ -13,9 +13,9 @@ word_count: 3043
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore"
-meta_description: "Fidelity Guarantee and Commercial Crime insurance in Singapore comes in two distinct trigger architectures, and the choice matters when employee fraud is..."
+meta_description: "Fidelity cover comes in two trigger architectures, and the difference decides whether long-running fraud discovered late is paid at all."
 og_title: "Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework"
-og_description: "Fidelity Guarantee and Commercial Crime insurance in Singapore comes in two distinct trigger architectures, and the choice matters when employee fraud is..."
+og_description: "Fidelity cover comes in two trigger architectures, and the difference decides whether long-running fraud discovered late is paid at all."
 ---
 
 > **The Answer in 60 Seconds**

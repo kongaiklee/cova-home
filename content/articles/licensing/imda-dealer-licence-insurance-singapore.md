@@ -13,9 +13,9 @@ word_count: 1946
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/imda-dealer-licence-insurance-singapore"
-meta_description: "If you deal in or supply telecommunication equipment in Singapore, you sit under the Infocomm Media Development Authority and the Telecommunications Act..."
+meta_description: "An IMDA dealer licence governs the equipment you supply, not the insurance you hold. What the Telecommunications Act requires of a dealer."
 og_title: "Does an IMDA Dealer's Licence Require Insurance in Singapore?"
-og_description: "If you deal in or supply telecommunication equipment in Singapore, you sit under the Infocomm Media Development Authority and the Telecommunications Act..."
+og_description: "An IMDA dealer licence governs the equipment you supply, not the insurance you hold. What the Telecommunications Act requires of a dealer."
 ---
 
 > **The Answer in 60 Seconds**

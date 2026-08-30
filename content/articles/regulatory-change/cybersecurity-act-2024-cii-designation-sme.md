@@ -13,9 +13,9 @@ word_count: 2738
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-cii-designation-sme"
-meta_description: "The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) was passed by Parliament on 7 May 2024, amending the Cybersecurity Act 2018. Specified provisions..."
+meta_description: "The Cybersecurity (Amendment) Act 2024 changed what CII designation reaches. Which provisions commenced when, and who they now bind."
 og_title: "Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?"
-og_description: "The Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) was passed by Parliament on 7 May 2024, amending the Cybersecurity Act 2018. Specified provisions..."
+og_description: "The Cybersecurity (Amendment) Act 2024 changed what CII designation reaches. Which provisions commenced when, and who they now bind."
 ---
 
 > **The Answer in 60 Seconds**

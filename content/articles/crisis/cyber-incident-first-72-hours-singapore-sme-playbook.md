@@ -13,9 +13,9 @@ word_count: 1408
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/cyber-incident-first-72-hours-singapore-sme-playbook"
-meta_description: "A cyber incident at a Singapore SME triggers a layered set of obligations that operate on different timelines and to different regulators. The fastest..."
+meta_description: "A cyber incident starts several clocks at once and the fastest is two hours. Which regulators need telling, by when, and in what order."
 og_title: "The First 72 Hours After a Cyber Incident: A Singapore SME Playbook"
-og_description: "A cyber incident at a Singapore SME triggers a layered set of obligations that operate on different timelines and to different regulators. The fastest..."
+og_description: "A cyber incident starts several clocks at once and the fastest is two hours. Which regulators need telling, by when, and in what order."
 ---
 
 > **The Answer in 60 Seconds**

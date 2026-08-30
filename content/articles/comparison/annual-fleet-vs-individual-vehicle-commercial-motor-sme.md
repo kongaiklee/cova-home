@@ -13,9 +13,9 @@ word_count: 2466
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme"
-meta_description: "Singapore SMEs operating commercial vehicles - delivery vans, light trucks, prime movers, contractor vehicles, taxi or private-hire fleets - choose..."
+meta_description: "Fleet or individual vehicle cover for commercial motor: what changes in pricing, administration and claims when you move between them."
 og_title: "Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision"
-og_description: "Singapore SMEs operating commercial vehicles - delivery vans, light trucks, prime movers, contractor vehicles, taxi or private-hire fleets - choose..."
+og_description: "Fleet or individual vehicle cover for commercial motor: what changes in pricing, administration and claims when you move between them."
 ---
 
 > **The Answer in 60 Seconds**

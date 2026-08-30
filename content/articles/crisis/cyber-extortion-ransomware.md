@@ -13,9 +13,9 @@ word_count: 1408
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/cyber-extortion-ransomware"
-meta_description: "Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. Disconnect affected systems from the network (don't..."
+meta_description: "Do not pay, do not power-cycle, do not talk to the attacker unaided. What to do in the first hour of a ransomware incident, and in what order."
 og_title: "Our Systems Are Locked and the Attackers Want Bitcoin - What Do I Do Now?"
-og_description: "Stop. Don't pay, don't power-cycle, don't communicate with attackers without specialist guidance. Disconnect affected systems from the network (don't..."
+og_description: "Do not pay, do not power-cycle, do not talk to the attacker unaided. What to do in the first hour of a ransomware incident, and in what order."
 ---
 
 > **The Answer in 60 Seconds**

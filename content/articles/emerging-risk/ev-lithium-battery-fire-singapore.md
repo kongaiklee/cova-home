@@ -13,9 +13,9 @@ word_count: 2778
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ev-lithium-battery-fire-singapore"
-meta_description: "Lithium-ion batteries power almost everything a modern Singapore SME touches: power-assisted bicycles and personal mobility devices used for food and..."
+meta_description: "Lithium batteries sit in the delivery bikes, the tools and the storeroom. Where the fire risk concentrates, and what it does to a property claim."
 og_title: "Lithium-Battery and EV Fire Risk: Property and Liability Exposure for Singapore SMEs"
-og_description: "Lithium-ion batteries power almost everything a modern Singapore SME touches: power-assisted bicycles and personal mobility devices used for food and..."
+og_description: "Lithium batteries sit in the delivery bikes, the tools and the storeroom. Where the fire risk concentrates, and what it does to a property claim."
 ---
 
 > **The Answer in 60 Seconds**

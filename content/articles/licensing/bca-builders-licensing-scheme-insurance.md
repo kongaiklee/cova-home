@@ -13,9 +13,9 @@ word_count: 1022
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/bca-builders-licensing-scheme-insurance"
-meta_description: "Per the BCA Builders Licensing Scheme page, the BLS itself does not mandate specific insurance policies as a licence condition. It mandates paid-up..."
+meta_description: "The Builders Licensing Scheme sets paid-up capital and personnel conditions, not insurance ones. What BLS requires, and what contracts add."
 og_title: "BCA Builders Licensing Scheme: Insurance Requirements (Singapore)"
-og_description: "Per the BCA Builders Licensing Scheme page, the BLS itself does not mandate specific insurance policies as a licence condition. It mandates paid-up..."
+og_description: "The Builders Licensing Scheme sets paid-up capital and personnel conditions, not insurance ones. What BLS requires, and what contracts add."
 ---
 
 > **The Answer in 60 Seconds**

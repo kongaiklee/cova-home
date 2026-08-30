@@ -13,9 +13,9 @@ word_count: 1682
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/escape-room-entertainment-venue-insurance"
-meta_description: "Singapore escape rooms and similar interactive entertainment venues (immersive experiences, mini-golf indoor centres, themed entertainment, virtual..."
+meta_description: "Escape rooms and immersive venues lock customers into physical spaces. What that requires of the venue, and where the liability actually sits."
 og_title: "Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need"
-og_description: "Singapore escape rooms and similar interactive entertainment venues (immersive experiences, mini-golf indoor centres, themed entertainment, virtual..."
+og_description: "Escape rooms and immersive venues lock customers into physical spaces. What that requires of the venue, and where the liability actually sits."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1023
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/dispute-denied-claim"
-meta_description: "Step 1 - Demand a written denial. The insurer must specify the policy clause and the factual basis. Verbal \"we won't pay\" is not actionable. Get it on..."
+meta_description: "Get the denial in writing with the clause cited, appeal internally, then escalate to FIDReC, whose mediation is free. The route it takes."
 og_title: "How to Dispute a Denied Insurance Claim in Singapore"
-og_description: "Step 1 - Demand a written denial. The insurer must specify the policy clause and the factual basis. Verbal \"we won't pay\" is not actionable. Get it on..."
+og_description: "Get the denial in writing with the clause cited, appeal internally, then escalate to FIDReC, whose mediation is free. The route it takes."
 ---
 
 > **The Answer in 60 Seconds:** First, get the denial in writing with the specific policy clause cited. Submit an internal appeal to the insurer's CEO (allow 15 business days for reply per the [GIA disputes process](https://gia.org.sg/help-support/insurance-disputes.html)). If unresolved within 4 weeks, escalate to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/). FIDReC offers free mediation; adjudication is binding on the insurer (not on you) up to **S$150,000 per claim** for claims filed on or after 1 July 2024. Since 1 July 2025, **small businesses with group annual turnover ≤ S$1 million in each of the prior two financial years** are eligible complainants.

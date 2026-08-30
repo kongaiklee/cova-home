@@ -13,9 +13,9 @@ word_count: 1652
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-negotiate-broker-remuneration-disclosure"
-meta_description: "Singapore SMEs engaging insurance brokers / financial advisers should obtain explicit disclosure of broker remuneration under MAS Notice FAA-N03 on..."
+meta_description: "MAS Notice FAA-N03 entitles you to know how your adviser is paid. What to ask for, and what the disclosure should actually tell you."
 og_title: "How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03"
-og_description: "Singapore SMEs engaging insurance brokers / financial advisers should obtain explicit disclosure of broker remuneration under MAS Notice FAA-N03 on..."
+og_description: "MAS Notice FAA-N03 entitles you to know how your adviser is paid. What to ask for, and what the disclosure should actually tell you."
 ---
 
 > **The Answer in 60 Seconds**

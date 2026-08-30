@@ -13,9 +13,9 @@ word_count: 2191
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/file-do-claim-singapore"
-meta_description: "D&O insurance is claims-made. Triggering events include shareholder demand letter, derivative action, regulatory investigation, criminal investigation,..."
+meta_description: "D&O is claims-made, and the triggers include a demand letter or a regulatory investigation, not just a lawsuit. When to notify, and how."
 og_title: "How to File a Directors & Officers (D&O) Claim in Singapore"
-og_description: "D&O insurance is claims-made. Triggering events include shareholder demand letter, derivative action, regulatory investigation, criminal investigation,..."
+og_description: "D&O is claims-made, and the triggers include a demand letter or a regulatory investigation, not just a lawsuit. When to notify, and how."
 ---
 
 > **The Answer in 60 Seconds**

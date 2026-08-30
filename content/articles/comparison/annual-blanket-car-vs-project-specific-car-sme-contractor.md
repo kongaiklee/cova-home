@@ -13,9 +13,9 @@ word_count: 2719
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor"
-meta_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR - single 12-month policy covering all..."
+meta_description: "Annual blanket CAR covers declared projects for twelve months; project-specific covers one job. Which structure a contractor actually needs."
 og_title: "Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision"
-og_description: "Singapore SME contractors face two structural choices for Contractors All Risks (CAR) cover: (1) Annual Blanket CAR - single 12-month policy covering all..."
+og_description: "Annual blanket CAR covers declared projects for twelve months; project-specific covers one job. Which structure a contractor actually needs."
 ---
 
 > **The Answer in 60 Seconds**

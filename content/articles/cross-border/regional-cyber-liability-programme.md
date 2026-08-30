@@ -13,9 +13,9 @@ word_count: 2047
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-cyber-liability-programme"
-meta_description: "Cyber Liability is the regional line that has converged toward global structure. A Singapore-issued cyber programme can typically cover cross-border data,..."
+meta_description: "Cyber is the regional line that has converged on a global structure. What a Singapore-issued programme can cover across borders, and what it cannot."
 og_title: "Regional Cyber Liability Programme: Cross-Border Data and Multi-Jurisdiction Notification"
-og_description: "Cyber Liability is the regional line that has converged toward global structure. A Singapore-issued cyber programme can typically cover cross-border data,..."
+og_description: "Cyber is the regional line that has converged on a global structure. What a Singapore-issued programme can cover across borders, and what it cannot."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1769
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-latin-america-operations"
-meta_description: "Singapore SMEs operating in Latin America face substantively diverse commercial frameworks across 33 jurisdictions, with major operational markets..."
+meta_description: "Latin America is 33 jurisdictions, not one market. What differs, and which decisions a Singapore SME has to make country by country."
 og_title: "Singapore SMEs Operating in Latin America: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in Latin America face substantively diverse commercial frameworks across 33 jurisdictions, with major operational markets..."
+og_description: "Latin America is 33 jurisdictions, not one market. What differs, and which decisions a Singapore SME has to make country by country."
 ---
 
 > **The Answer in 60 Seconds**

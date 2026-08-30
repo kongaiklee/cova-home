@@ -13,9 +13,9 @@ word_count: 1834
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/file-pi-claim-singapore"
-meta_description: "Professional Indemnity is claims-made insurance. The trigger is a claim first made against you (or a circumstance that may give rise to one) during the..."
+meta_description: "Professional indemnity is claims-made. The trigger is a claim first made against you, or a circumstance that could become one. What to file."
 og_title: "How to File a Professional Indemnity (PI) Claim in Singapore"
-og_description: "Professional Indemnity is claims-made insurance. The trigger is a claim first made against you (or a circumstance that may give rise to one) during the..."
+og_description: "Professional indemnity is claims-made. The trigger is a claim first made against you, or a circumstance that could become one. What to file."
 ---
 
 > **The Answer in 60 Seconds**

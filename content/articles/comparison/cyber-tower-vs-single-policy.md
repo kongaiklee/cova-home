@@ -13,9 +13,9 @@ word_count: 1487
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-tower-vs-single-policy"
-meta_description: "A single Cyber policy has one insurer providing all cover up to the policy limit; simpler administratively, easier claim coordination, but..."
+meta_description: "One cyber policy is simpler but limit-constrained; a tower buys height and adds coordination. Which structure fits, and what each costs you."
 og_title: "Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?"
-og_description: "A single Cyber policy has one insurer providing all cover up to the policy limit; simpler administratively, easier claim coordination, but..."
+og_description: "One cyber policy is simpler but limit-constrained; a tower buys height and adds coordination. Which structure fits, and what each costs you."
 ---
 
 > **The Answer in 60 Seconds**

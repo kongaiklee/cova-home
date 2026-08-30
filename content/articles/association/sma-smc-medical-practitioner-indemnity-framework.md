@@ -13,9 +13,9 @@ word_count: 1867
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sma-smc-medical-practitioner-indemnity-framework"
-meta_description: "The Singapore Medical Association (SMA) is the national professional body for medical practitioners. The Singapore Medical Council (SMC) is the statutory..."
+meta_description: "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance."
 og_title: "Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications"
-og_description: "The Singapore Medical Association (SMA) is the national professional body for medical practitioners. The Singapore Medical Council (SMC) is the statutory..."
+og_description: "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2106
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/limitation-act-6-year-clock"
-meta_description: "The Limitation Act 1959 (Singapore) sets out time limits within which civil actions must be commenced. For most actions arising from contract or tort, the..."
+meta_description: "The Limitation Act sets the deadline for starting a civil action, and it is usually six years. When the clock starts, and what pauses it."
 og_title: "The Limitation Act 1959 6-Year Clock: Why It Matters for Insurance Claims"
-og_description: "The Limitation Act 1959 (Singapore) sets out time limits within which civil actions must be commenced. For most actions arising from contract or tort, the..."
+og_description: "The Limitation Act sets the deadline for starting a civil action, and it is usually six years. When the clock starts, and what pauses it."
 ---
 
 > **The Answer in 60 Seconds**

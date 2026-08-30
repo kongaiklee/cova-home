@@ -13,9 +13,9 @@ word_count: 1604
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/bi-deductible-structures"
-meta_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\") -..."
+meta_description: "A BI deductible is either a waiting period or a sum. Which structure your policy uses decides how much of the loss you keep before it pays."
 og_title: "Business Interruption Deductible Structures: Time-Based vs Indemnity-Based, and How They Affect Claims"
-og_description: "Business Interruption (BI) deductibles are typically structured in two architectures. Time deductible (also called \"waiting period\" or \"time excess\") -..."
+og_description: "A BI deductible is either a waiting period or a sum. Which structure your policy uses decides how much of the loss you keep before it pays."
 ---
 
 > **The Answer in 60 Seconds**

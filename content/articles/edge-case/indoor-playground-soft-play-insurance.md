@@ -13,9 +13,9 @@ word_count: 1640
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/indoor-playground-soft-play-insurance"
-meta_description: "Indoor playgrounds and soft play centres in Singapore operate under BCA fire safety / building code requirements for the venue, SCDF Fire Safety Act..."
+meta_description: "Indoor playgrounds combine children, equipment and volume. Where the injury frequency concentrates, and what the venue is answerable for."
 og_title: "Indoor Playground and Soft Play Centre Insurance: Singapore Operator Framework"
-og_description: "Indoor playgrounds and soft play centres in Singapore operate under BCA fire safety / building code requirements for the venue, SCDF Fire Safety Act..."
+og_description: "Indoor playgrounds combine children, equipment and volume. Where the injury frequency concentrates, and what the venue is answerable for."
 ---
 
 > **The Answer in 60 Seconds**

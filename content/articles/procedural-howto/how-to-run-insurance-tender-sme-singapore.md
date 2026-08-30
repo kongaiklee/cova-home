@@ -13,9 +13,9 @@ word_count: 3458
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-run-insurance-tender-sme-singapore"
-meta_description: "Most Singapore SMEs do not run an insurance tender. They renew with whoever placed the cover last year, accept a small loading, and move on. That is a..."
+meta_description: "Most SMEs renew with the incumbent and accept a loading. Why that is the wrong move in the 2026 market, and how a real tender is run."
 og_title: "How to Run an Insurance Tender for a Singapore SME: A Procedural Playbook for the 2026 Soft Market"
-og_description: "Most Singapore SMEs do not run an insurance tender. They renew with whoever placed the cover last year, accept a small loading, and move on. That is a..."
+og_description: "Most SMEs renew with the incumbent and accept a loading. Why that is the wrong move in the 2026 market, and how a real tender is run."
 ---
 
 Most Singapore SMEs do not run an insurance tender. They renew with whoever placed the cover last year, accept a small loading, and move on. That is a workable approach in a hard market when capacity is scarce and incumbents have leverage. It is the wrong approach in the market that exists in 2026.

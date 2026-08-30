@@ -13,9 +13,9 @@ word_count: 4417
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline"
-meta_description: "Five Singapore-relevant AI governance instruments have hardened from principles into supervisory expectations between March 2024 and November 2025, and..."
+meta_description: "Five Singapore AI governance instruments hardened from principle into supervisory expectation between 2024 and 2025. The timeline, and who each binds."
 og_title: "MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces"
-og_description: "Five Singapore-relevant AI governance instruments have hardened from principles into supervisory expectations between March 2024 and November 2025, and..."
+og_description: "Five Singapore AI governance instruments hardened from principle into supervisory expectation between 2024 and 2025. The timeline, and who each binds."
 ---
 
 # What does a Singapore SME actually have to do, and by when, to comply with MAS AIRG, IMDA MGF for Generative AI, the EU AI Act, the PDPC AI Advisory Guidelines and the CSA-MAS Joint Advisory?

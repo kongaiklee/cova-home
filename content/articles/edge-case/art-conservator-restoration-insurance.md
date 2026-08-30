@@ -13,9 +13,9 @@ word_count: 1776
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/art-conservator-restoration-insurance"
-meta_description: "A Singapore art conservator or fine art restorer typically needs: Bailee Cover / Care, Custody and Control extension for artwork in studio (often the..."
+meta_description: "An art conservator holds other people's property in the studio. What bailee cover does, and what care, custody and control actually extends to."
 og_title: "Art Conservator and Fine Art Restoration Insurance in Singapore"
-og_description: "A Singapore art conservator or fine art restorer typically needs: Bailee Cover / Care, Custody and Control extension for artwork in studio (often the..."
+og_description: "An art conservator holds other people's property in the studio. What bailee cover does, and what care, custody and control actually extends to."
 ---
 
 > **The Answer in 60 Seconds**

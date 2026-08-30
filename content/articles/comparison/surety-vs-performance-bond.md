@@ -13,9 +13,9 @@ word_count: 1550
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/surety-vs-performance-bond"
-meta_description: "\"Surety bond\" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
+meta_description: "A performance bond is one kind of surety bond, not a different thing. The three-party structure, and which one your contract is really asking for."
 og_title: "Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate"
-og_description: "\"Surety bond\" is the broad category - a three-party contract where the surety (typically an insurer or specialist surety company) guarantees the..."
+og_description: "A performance bond is one kind of surety bond, not a different thing. The three-party structure, and which one your contract is really asking for."
 ---
 
 > **The Answer in 60 Seconds**

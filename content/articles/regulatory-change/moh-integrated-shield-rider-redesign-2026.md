@@ -13,9 +13,9 @@ word_count: 1928
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/moh-integrated-shield-rider-redesign-2026"
-meta_description: "Effective 1 April 2026, Ministry of Health (MOH) implemented two structural changes to Integrated Shield Plan (IP) rider design (announced 26 November..."
+meta_description: "From 1 April 2026 MOH restructured Integrated Shield rider design. What changed, who it affects, and what an employer should know."
 og_title: "MOH Integrated Shield Plan Rider Redesign Effective 1 April 2026: SME Group Medical Implications"
-og_description: "Effective 1 April 2026, Ministry of Health (MOH) implemented two structural changes to Integrated Shield Plan (IP) rider design (announced 26 November..."
+og_description: "From 1 April 2026 MOH restructured Integrated Shield rider design. What changed, who it affects, and what an employer should know."
 ---
 
 > **The Answer in 60 Seconds**

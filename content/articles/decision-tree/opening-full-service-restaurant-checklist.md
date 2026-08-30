@@ -13,9 +13,9 @@ word_count: 1863
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-full-service-restaurant-checklist"
-meta_description: "A Singapore full-service restaurant requires: Singapore Food Agency (SFA) Food Shop Licence (and applicable sub-categories per SFA's tier framework - see..."
+meta_description: "Opening a full-service restaurant starts with the SFA Food Shop Licence and its sub-categories. What each tier requires, and what follows."
 og_title: "Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist"
-og_description: "A Singapore full-service restaurant requires: Singapore Food Agency (SFA) Food Shop Licence (and applicable sub-categories per SFA's tier framework - see..."
+og_description: "Opening a full-service restaurant starts with the SFA Food Shop Licence and its sub-categories. What each tier requires, and what follows."
 ---
 
 > **The Answer in 60 Seconds**

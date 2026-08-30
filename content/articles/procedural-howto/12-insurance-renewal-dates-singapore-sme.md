@@ -13,9 +13,9 @@ word_count: 1826
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/12-insurance-renewal-dates-singapore-sme"
-meta_description: "A Singapore SME carrying a typical mid-sized insurance programme is tracking, in effect, twelve recurring dates across its policy stack. Each date has a..."
+meta_description: "A typical SME insurance programme has twelve recurring dates. What each one is, and the specific consequence of missing it."
 og_title: "The 12 Insurance Dates Every Singapore SME Must Track"
-og_description: "A Singapore SME carrying a typical mid-sized insurance programme is tracking, in effect, twelve recurring dates across its policy stack. Each date has a..."
+og_description: "A typical SME insurance programme has twelve recurring dates. What each one is, and the specific consequence of missing it."
 ---
 
 > **The Answer in 60 Seconds**

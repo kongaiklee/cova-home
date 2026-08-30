@@ -13,9 +13,9 @@ word_count: 1132
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pdpa-2022-penalty"
-meta_description: "Since 1 October 2022, the maximum financial penalty under the Personal Data Protection Act for a data-protection breach is the higher of S$1 million or..."
+meta_description: "Since 1 October 2022 the maximum PDPA penalty is the higher of S$1 million or 10% of annual Singapore turnover. Who the higher cap reaches."
 og_title: "PDPA Amendment: 10% Turnover Penalty for Data Breaches"
-og_description: "Since 1 October 2022, the maximum financial penalty under the Personal Data Protection Act for a data-protection breach is the higher of S$1 million or..."
+og_description: "Since 1 October 2022 the maximum PDPA penalty is the higher of S$1 million or 10% of annual Singapore turnover. Who the higher cap reaches."
 ---
 
 # How big is a PDPA fine for an SME data breach now?

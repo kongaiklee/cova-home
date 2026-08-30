@@ -13,9 +13,9 @@ word_count: 1572
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/food-truck-mobile-vendor"
-meta_description: "Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the Singapore Food Agency (SFA) does not..."
+meta_description: "Mobile F&B has a structural problem: SFA licensing is built around fixed premises. How food trucks and pop-ups actually get licensed."
 og_title: "Food Truck or Mobile F&B Vendor in Singapore: What Insurance Do You Actually Need?"
-og_description: "Mobile F&B operations in Singapore - food trucks, mobile carts, pop-up vendors - face a structural challenge: the Singapore Food Agency (SFA) does not..."
+og_description: "Mobile F&B has a structural problem: SFA licensing is built around fixed premises. How food trucks and pop-ups actually get licensed."
 ---
 
 > **The Answer in 60 Seconds**

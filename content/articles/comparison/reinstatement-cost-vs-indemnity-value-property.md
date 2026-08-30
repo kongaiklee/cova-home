@@ -13,9 +13,9 @@ word_count: 2860
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/reinstatement-cost-vs-indemnity-value-property"
-meta_description: "Singapore property insurance settles on one of two bases. Reinstatement (or Replacement) Cost pays the cost of replacing damaged property with new..."
+meta_description: "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your policy is on decides what a claim actually rebuilds."
 og_title: "Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework"
-og_description: "Singapore property insurance settles on one of two bases. Reinstatement (or Replacement) Cost pays the cost of replacing damaged property with new..."
+og_description: "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your policy is on decides what a claim actually rebuilds."
 ---
 
 > **The Answer in 60 Seconds**

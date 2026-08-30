@@ -13,9 +13,9 @@ word_count: 1382
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/group-hospital-surgical-claim"
-meta_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless - the employee presents at a panel hospital, the..."
+meta_description: "A group hospital and surgical claim goes cashless at a panel hospital or on reimbursement elsewhere. What each route needs from you."
 og_title: "How to File a Group Hospitalisation & Surgical Claim (Singapore)"
-og_description: "Group Hospitalisation & Surgical (GHS) claims in Singapore typically follow one of two paths. Cashless - the employee presents at a panel hospital, the..."
+og_description: "A group hospital and surgical claim goes cashless at a panel hospital or on reimbursement elsewhere. What each route needs from you."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1645
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-eu-germany-operations"
-meta_description: "Singapore SMEs operating in the European Union - with Germany as the typical anchor market - face an insurance framework administered nationally with..."
+meta_description: "Germany usually anchors an EU structure, supervised nationally under EU-level rules. What a Singapore SME must place locally, and why."
 og_title: "Singapore SMEs Operating in the EU and Germany: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in the European Union - with Germany as the typical anchor market - face an insurance framework administered nationally with..."
+og_description: "Germany usually anchors an EU structure, supervised nationally under EU-level rules. What a Singapore SME must place locally, and why."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2882
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/director-death-sudden-incapacity-key-person-event"
-meta_description: "The Singapore SME's founder, CEO, or key director has died or been suddenly incapacitated. Operational signing authority, customer relationships, banking..."
+meta_description: "A founder's sudden death or incapacity strands signing authority, banking mandates and customer relationships. What needs to exist beforehand."
 og_title: "Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow"
-og_description: "The Singapore SME's founder, CEO, or key director has died or been suddenly incapacitated. Operational signing authority, customer relationships, banking..."
+og_description: "A founder's sudden death or incapacity strands signing authority, banking mandates and customer relationships. What needs to exist beforehand."
 ---
 
 > **The Answer in 60 Seconds**

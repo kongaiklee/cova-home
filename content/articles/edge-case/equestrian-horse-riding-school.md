@@ -13,9 +13,9 @@ word_count: 1762
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/equestrian-horse-riding-school"
-meta_description: "Equestrian operators in Singapore are concentrated at a small number of facilities including Singapore Polo Club, National Equestrian Centre at Singapore..."
+meta_description: "Equestrian operators in Singapore concentrate at a handful of sites, with animal handling and public participation in one place. What follows."
 og_title: "Equestrian and Horse Riding School Insurance: Singapore Operator Framework"
-og_description: "Equestrian operators in Singapore are concentrated at a small number of facilities including Singapore Polo Club, National Equestrian Centre at Singapore..."
+og_description: "Equestrian operators in Singapore concentrate at a handful of sites, with animal handling and public participation in one place. What follows."
 ---
 
 > **The Answer in 60 Seconds**

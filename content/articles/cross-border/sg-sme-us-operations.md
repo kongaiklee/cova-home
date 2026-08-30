@@ -13,9 +13,9 @@ word_count: 2078
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-us-operations"
-meta_description: "Singapore SMEs operating in the United States face the most complex insurance environment of any common cross-border destination. Required: state-by-state..."
+meta_description: "The United States is the most complex insurance destination a Singapore SME faces, starting with state-by-state workers' compensation."
 og_title: "Singapore SME With US Operations: How Insurance Works for US Subsidiaries and Branches"
-og_description: "Singapore SMEs operating in the United States face the most complex insurance environment of any common cross-border destination. Required: state-by-state..."
+og_description: "The United States is the most complex insurance destination a Singapore SME faces, starting with state-by-state workers' compensation."
 ---
 
 > **The Answer in 60 Seconds**

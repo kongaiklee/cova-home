@@ -13,9 +13,9 @@ word_count: 1011
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/standard-force-majeure-clause-analysis"
-meta_description: "Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair..."
+meta_description: "A force majeure clause allocates the risk of events nobody controls. What it has to say to work, and what Singapore courts expect of it."
 og_title: "Standard Force Majeure Clauses: Drafting, Triggering, and Commercial Implications"
-og_description: "Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair..."
+og_description: "A force majeure clause allocates the risk of events nobody controls. What it has to say to work, and what Singapore courts expect of it."
 ---
 
 > **The Answer in 60 Seconds**

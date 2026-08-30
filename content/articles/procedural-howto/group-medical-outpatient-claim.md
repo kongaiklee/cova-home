@@ -13,9 +13,9 @@ word_count: 1014
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/group-medical-outpatient-claim"
-meta_description: "In Singapore, the Ministry of Manpower’s official pages for <a href=\"https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance\"S Pass medical..."
+meta_description: "Outpatient cover for pass holders is governed by MOM's own requirements. What is mandated, what is voluntary, and how the claim runs."
 og_title: "How to File Group Medical Claim Outpatient Singapore"
-og_description: "In Singapore, the Ministry of Manpower’s official pages for <a href=\"https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance\"S Pass medical..."
+og_description: "Outpatient cover for pass holders is governed by MOM's own requirements. What is mandated, what is voluntary, and how the claim runs."
 ---
 
 > **The Answer in 60 Seconds**  

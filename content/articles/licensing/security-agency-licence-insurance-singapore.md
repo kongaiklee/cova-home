@@ -13,9 +13,9 @@ word_count: 2011
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/security-agency-licence-insurance-singapore"
-meta_description: "A security agency in Singapore is licensed by the Police Licensing and Regulatory Department (PLRD) under the Private Security Industry Act 2007. You need..."
+meta_description: "A security agency needs a PLRD licence under section 15 of the Private Security Industry Act. What that conditions, and what it leaves to contracts."
 og_title: "What Insurance Does a Licensed Security Agency Need in Singapore?"
-og_description: "A security agency in Singapore is licensed by the Police Licensing and Regulatory Department (PLRD) under the Private Security Industry Act 2007. You need..."
+og_description: "A security agency needs a PLRD licence under section 15 of the Private Security Industry Act. What that conditions, and what it leaves to contracts."
 ---
 
 > **The Answer in 60 Seconds**

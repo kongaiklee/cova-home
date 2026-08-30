@@ -13,9 +13,9 @@ word_count: 2723
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/parametric-insurance-singapore"
-meta_description: "Parametric insurance pays a fixed, pre-agreed amount the moment a measured trigger is crossed: a rainfall total above a threshold, a wind speed past a..."
+meta_description: "Parametric cover pays a fixed sum when a measured trigger is crossed, not when a loss is proved. What that changes, and where it fits a Singapore SME."
 og_title: "Parametric Insurance for Singapore SMEs: How Trigger-Based Cover Actually Works"
-og_description: "Parametric insurance pays a fixed, pre-agreed amount the moment a measured trigger is crossed: a rainfall total above a threshold, a wind speed past a..."
+og_description: "Parametric cover pays a fixed sum when a measured trigger is crossed, not when a loss is proved. What that changes, and where it fits a Singapore SME."
 ---
 
 > **The Answer in 60 Seconds**

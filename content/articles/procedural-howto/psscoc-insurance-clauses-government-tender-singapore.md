@@ -13,9 +13,9 @@ word_count: 2068
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/psscoc-insurance-clauses-government-tender-singapore"
-meta_description: "Your SME contractor is bidding a Building and Construction Authority (BCA) or other public sector tender governed by PSSCOC for Construction Works 8th..."
+meta_description: "PSSCOC 8th Edition sets the insurance clauses on a public sector tender. What the contract requires, and what your policy has to say to match."
 og_title: "How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender"
-og_description: "Your SME contractor is bidding a Building and Construction Authority (BCA) or other public sector tender governed by PSSCOC for Construction Works 8th..."
+og_description: "PSSCOC 8th Edition sets the insurance clauses on a public sector tender. What the contract requires, and what your policy has to say to match."
 ---
 
 > **The Answer in 60 Seconds**

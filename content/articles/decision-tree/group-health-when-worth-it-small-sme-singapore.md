@@ -13,9 +13,9 @@ word_count: 2260
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/group-health-when-worth-it-small-sme-singapore"
-meta_description: "Group health insurance for your staff, meaning group hospital and surgical (group H&S), group outpatient, and group personal accident (GPA), is a..."
+meta_description: "No Singapore statute requires group health cover. What decides it is hiring, retention and cost, so here is the arithmetic rather than the sales pitch."
 og_title: "Group Health Insurance for a Small Singapore SME: When It Starts to Pay Off"
-og_description: "Group health insurance for your staff, meaning group hospital and surgical (group H&S), group outpatient, and group personal accident (GPA), is a..."
+og_description: "No Singapore statute requires group health cover. What decides it is hiring, retention and cost, so here is the arithmetic rather than the sales pitch."
 ---
 
 > **The Answer in 60 Seconds**

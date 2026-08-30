@@ -13,9 +13,9 @@ word_count: 1877
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/cold-chain-temperature-controlled-logistics"
-meta_description: "Cold chain logistics and temperature-controlled storage operators in Singapore handle pharmaceuticals, biologics, vaccines, fresh and frozen food,..."
+meta_description: "Cold chain operators carry someone else's temperature-sensitive goods. Where a single excursion becomes a claim, and what the contract says."
 og_title: "Cold Chain Logistics and Temperature-Controlled Storage Insurance: Singapore Operator Framework"
-og_description: "Cold chain logistics and temperature-controlled storage operators in Singapore handle pharmaceuticals, biologics, vaccines, fresh and frozen food,..."
+og_description: "Cold chain operators carry someone else's temperature-sensitive goods. Where a single excursion becomes a claim, and what the contract says."
 ---
 
 > **The Answer in 60 Seconds**

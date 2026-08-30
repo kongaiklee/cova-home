@@ -13,9 +13,9 @@ word_count: 1841
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/vendor-ran-off-with-deposit"
-meta_description: "First, attempt direct contact and document non-response. Then in parallel: file a Singapore Police Force report if facts suggest fraud (criminal..."
+meta_description: "A vendor has taken the deposit and gone quiet. Document the non-response, then run the police report and the civil recovery in parallel."
 og_title: "A Vendor Just Ran Off With Our Deposit - What Do I Do Now?"
-og_description: "First, attempt direct contact and document non-response. Then in parallel: file a Singapore Police Force report if facts suggest fraud (criminal..."
+og_description: "A vendor has taken the deposit and gone quiet. Document the non-response, then run the police report and the civil recovery in parallel."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1680
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/specialty-tea-coffee-roaster"
-meta_description: "Specialty tea and coffee roasters in Singapore - small-batch artisan roasters, third-wave specialty operators, specialty tea importers - operate under..."
+meta_description: "A specialty roaster carries food licensing, high-value equipment and fire load together. Where an SFA-licensed roastery's real risks concentrate."
 og_title: "Specialty Tea and Coffee Roaster Insurance: Singapore Operator Framework"
-og_description: "Specialty tea and coffee roasters in Singapore - small-batch artisan roasters, third-wave specialty operators, specialty tea importers - operate under..."
+og_description: "A specialty roaster carries food licensing, high-value equipment and fire load together. Where an SFA-licensed roastery's real risks concentrate."
 ---
 
 > **The Answer in 60 Seconds**

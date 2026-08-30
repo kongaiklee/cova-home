@@ -13,9 +13,9 @@ word_count: 1886
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024"
-meta_description: "Effective 1 June 2024, the Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024 (S 471/2024) made a Video Surveillance..."
+meta_description: "From 1 June 2024 a video surveillance system became mandatory on covered construction worksites. Where it must go, and what the regulations require."
 og_title: "WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact"
-og_description: "Effective 1 June 2024, the Workplace Safety and Health (General Provisions) (Amendment No. 2) Regulations 2024 (S 471/2024) made a Video Surveillance..."
+og_description: "From 1 June 2024 a video surveillance system became mandatory on covered construction worksites. Where it must go, and what the regulations require."
 ---
 
 > **The Answer in 60 Seconds**

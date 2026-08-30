@@ -13,9 +13,9 @@ word_count: 5448
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/mid-term-endorsement-workflow-sme-singapore"
-meta_description: "You signed a 12-month commercial insurance policy in February. By July, your business looks different. You opened a second outlet. You bought a new lorry...."
+meta_description: "A second outlet, a new lorry, a principal to be named, ten more staff. The nine endorsement types, and when cover on each change begins."
 og_title: "The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It"
-og_description: "You signed a 12-month commercial insurance policy in February. By July, your business looks different. You opened a second outlet. You bought a new lorry...."
+og_description: "A second outlet, a new lorry, a principal to be named, ten more staff. The nine endorsement types, and when cover on each change begins."
 ---
 
 You signed a 12-month commercial insurance policy in February. By July, your business looks different. You opened a second outlet. You bought a new lorry. You won a contract that requires the principal contractor to be added as an additional insured. You hired ten more workers. You pivoted a product line.

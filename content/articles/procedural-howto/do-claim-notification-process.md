@@ -13,9 +13,9 @@ word_count: 1690
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/do-claim-notification-process"
-meta_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis - meaning the claim must both arise and be reported..."
+meta_description: "D&O is claims-made and reported, so late notice can end the cover entirely. What counts as a claim, and when the clock actually starts."
 og_title: "D&O Claim Notification Process: From First Indication to Defence Engagement"
-og_description: "D&O claims are notification-sensitive. Most D&O policies operate on claims-made and reported basis - meaning the claim must both arise and be reported..."
+og_description: "D&O is claims-made and reported, so late notice can end the cover entirely. What counts as a claim, and when the clock actually starts."
 ---
 
 > **The Answer in 60 Seconds**

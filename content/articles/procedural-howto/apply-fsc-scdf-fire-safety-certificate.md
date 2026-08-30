@@ -14,9 +14,9 @@ word_count: 1062
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/apply-fsc-scdf-fire-safety-certificate"
-meta_description: "This is a building-works regime, not an annual filing. The FSC is applied for once, on completion of fire safety works, before occupation. The annual..."
+meta_description: "An FSC is required under the Fire Safety Act before a building may be occupied. The process starts with engaging a Qualified Person."
 og_title: "How to Apply for a Fire Safety Certificate (FSC) Step by Step"
-og_description: "This is a building-works regime, not an annual filing. The FSC is applied for once, on completion of fire safety works, before occupation. The annual..."
+og_description: "An FSC is required under the Fire Safety Act before a building may be occupied. The process starts with engaging a Qualified Person."
 ---
 
 ### The Answer in 60 Seconds

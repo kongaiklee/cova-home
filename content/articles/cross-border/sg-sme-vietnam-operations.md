@@ -13,9 +13,9 @@ word_count: 1958
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-vietnam-operations"
-meta_description: "Singapore SMEs operating in Vietnam typically need: a Vietnamese-licensed insurer for commercial property and liability (regulatory requirement under the..."
+meta_description: "Vietnam requires a locally licensed insurer under its own regime. What a Singapore SME has to place there, and what cannot travel with it."
 og_title: "Singapore SME With Vietnam Operations: How Insurance Works for Vietnamese Subsidiaries and Branches"
-og_description: "Singapore SMEs operating in Vietnam typically need: a Vietnamese-licensed insurer for commercial property and liability (regulatory requirement under the..."
+og_description: "Vietnam requires a locally licensed insurer under its own regime. What a Singapore SME has to place there, and what cannot travel with it."
 ---
 
 > **The Answer in 60 Seconds**

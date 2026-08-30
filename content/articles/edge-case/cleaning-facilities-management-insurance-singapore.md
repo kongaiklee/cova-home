@@ -13,9 +13,9 @@ word_count: 1079
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/cleaning-facilities-management-insurance-singapore"
-meta_description: "A Singapore cleaning or facilities-management (FM) company operates with three dominant risk concentrations: a largely manual workforce with a high..."
+meta_description: "Three risks concentrate in a cleaning or FM business at once: a manual workforce, other people's premises, and the contracts you sign to get in the door."
 og_title: "Cleaning and Facilities Management Companies in Singapore: The Insurance Stack"
-og_description: "A Singapore cleaning or facilities-management (FM) company operates with three dominant risk concentrations: a largely manual workforce with a high..."
+og_description: "Three risks concentrate in a cleaning or FM business at once: a manual workforce, other people's premises, and the contracts you sign to get in the door."
 ---
 
 > **The Answer in 60 Seconds**

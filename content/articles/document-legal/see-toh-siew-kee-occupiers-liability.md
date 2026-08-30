@@ -13,9 +13,9 @@ word_count: 1653
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/see-toh-siew-kee-occupiers-liability"
-meta_description: "See Toh Siew Kee v Ho Ah Lam Ferrocement [2013] SGCA 29 is the Singapore Court of Appeal decision that fundamentally restructured occupiers' liability in..."
+meta_description: "See Toh Siew Kee restructured occupiers' liability in Singapore. What the Court of Appeal decided, and what it now expects of an occupier."
 og_title: "See Toh Siew Kee v Ho Ah Lam Ferrocement: The Decision That Modernised Occupiers' Liability in Singapore"
-og_description: "See Toh Siew Kee v Ho Ah Lam Ferrocement [2013] SGCA 29 is the Singapore Court of Appeal decision that fundamentally restructured occupiers' liability in..."
+og_description: "See Toh Siew Kee restructured occupiers' liability in Singapore. What the Court of Appeal decided, and what it now expects of an occupier."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 3059
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/drone-uas-commercial-liability-singapore"
-meta_description: "If your business flies a drone for any commercial purpose in Singapore, you operate under the Civil Aviation Authority of Singapore (CAAS), the Air..."
+meta_description: "Flying a drone commercially puts you under CAAS and the Air Navigation Act. The permits, the operating limits and where the liability actually lands."
 og_title: "Commercial Drone Operations in Singapore: Liability and Insurance for SMEs"
-og_description: "If your business flies a drone for any commercial purpose in Singapore, you operate under the Civil Aviation Authority of Singapore (CAAS), the Air..."
+og_description: "Flying a drone commercially puts you under CAAS and the Air Navigation Act. The permits, the operating limits and where the liability actually lands."
 ---
 
 > **The Answer in 60 Seconds**

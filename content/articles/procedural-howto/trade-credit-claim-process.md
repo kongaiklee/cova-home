@@ -13,9 +13,9 @@ word_count: 1362
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/trade-credit-claim-process"
-meta_description: "Trade Credit claim submission is highly process-driven, with operational discipline determining claim outcomes. The standard sequence: customer payment..."
+meta_description: "A trade credit claim is process-driven and the process decides the outcome. The sequence from default to submission, and the deadlines in it."
 og_title: "Trade Credit Claim Submission Process: From Customer Default to Insurer Recovery"
-og_description: "Trade Credit claim submission is highly process-driven, with operational discipline determining claim outcomes. The standard sequence: customer payment..."
+og_description: "A trade credit claim is process-driven and the process decides the outcome. The sequence from default to submission, and the deadlines in it."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1584
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/pl-vs-product-liability"
-meta_description: "Public Liability (PL) covers third-party bodily injury and property damage arising from the insured's business operations or premises - a customer..."
+meta_description: "Public liability follows your premises and operations; product liability follows what you supplied. The event decides which responds."
 og_title: "Public Liability vs Product Liability: What Each Actually Covers"
-og_description: "Public Liability (PL) covers third-party bodily injury and property damage arising from the insured's business operations or premises - a customer..."
+og_description: "Public liability follows your premises and operations; product liability follows what you supplied. The event decides which responds."
 ---
 
 > **The Answer in 60 Seconds**

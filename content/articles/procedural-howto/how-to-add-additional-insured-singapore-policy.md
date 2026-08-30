@@ -13,9 +13,9 @@ word_count: 1871
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-add-additional-insured-singapore-policy"
-meta_description: "Adding an \"additional insured\" to a Singapore commercial policy is a procedural endorsement that extends specific cover protections to a named third party..."
+meta_description: "Adding an additional insured extends specific protections to a named third party. What the endorsement does, what it does not, and what it costs you."
 og_title: "How to Add an Additional Insured to a Singapore Commercial Policy"
-og_description: "Adding an \"additional insured\" to a Singapore commercial policy is a procedural endorsement that extends specific cover protections to a named third party..."
+og_description: "Adding an additional insured extends specific protections to a named third party. What the endorsement does, what it does not, and what it costs you."
 ---
 
 > **The Answer in 60 Seconds**

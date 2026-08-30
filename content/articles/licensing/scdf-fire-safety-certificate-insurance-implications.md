@@ -13,9 +13,9 @@ word_count: 1374
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scdf-fire-safety-certificate-insurance-implications"
-meta_description: "Per the SCDF Fire Certificate page, an FC is mandatory under Section 35 of the Fire Safety Act 1993 for designated buildings - public buildings with..."
+meta_description: "A Fire Certificate is mandatory under section 35 of the Fire Safety Act for designated buildings. Which buildings, and what it requires."
 og_title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
-og_description: "Per the SCDF Fire Certificate page, an FC is mandatory under Section 35 of the Fire Safety Act 1993 for designated buildings - public buildings with..."
+og_description: "A Fire Certificate is mandatory under section 35 of the Fire Safety Act for designated buildings. Which buildings, and what it requires."
 ---
 
 > **The Answer in 60 Seconds**

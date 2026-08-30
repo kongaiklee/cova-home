@@ -13,9 +13,9 @@ word_count: 3535
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore"
-meta_description: "Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every..."
+meta_description: "Mid-term cancellation looks administrative and is not. Short-period retention, run-off exposure and the statutory floor all bite at once."
 og_title: "How to Cancel a Commercial Insurance Policy Mid-Term in Singapore: Short-Period Premium, Run-Off, and the Claims-Made Trap"
-og_description: "Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every..."
+og_description: "Mid-term cancellation looks administrative and is not. Short-period retention, run-off exposure and the statutory floor all bite at once."
 ---
 
 Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every cycle: the short-period premium retention formula that reduces the refund below time-on-risk, the run-off exposure for claims that have occurred but not yet been reported, and the trap that destroys cover entirely on claims-made wordings if cancellation is executed without an Extended Reporting Period. Each of these has produced contested outcomes in Singapore practice. Each is avoidable with a structured workflow.

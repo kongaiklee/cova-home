@@ -13,9 +13,9 @@ word_count: 1423
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/wica-vs-gpa"
-meta_description: "Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under Section 24 of the Work Injury Compensation Act 2019 for all manual..."
+meta_description: "Most SMEs need both. WICA is compulsory for manual workers regardless of salary; group personal accident is a benefit, not a legal duty."
 og_title: "WICA vs Group Personal Accident: Which Does My Business Need?"
-og_description: "Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under Section 24 of the Work Injury Compensation Act 2019 for all manual..."
+og_description: "Most SMEs need both. WICA is compulsory for manual workers regardless of salary; group personal accident is a benefit, not a legal duty."
 ---
 
 > **The Answer in 60 Seconds**

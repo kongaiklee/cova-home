@@ -13,9 +13,9 @@ word_count: 1152
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/fdw-direct-hospital-reimbursement"
-meta_description: "Singapore’s Ministry of Manpower states on its <a href=\"https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-r..."
+meta_description: "MOM requires direct hospital reimbursement for admissible FDW claims. What that means in practice, and what the employer still handles."
 og_title: "How to File FDW Medical Claim Direct Hospital Reimbursement"
-og_description: "Singapore’s Ministry of Manpower states on its <a href=\"https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-r..."
+og_description: "MOM requires direct hospital reimbursement for admissible FDW claims. What that means in practice, and what the employer still handles."
 ---
 
 > **The Answer in 60 Seconds**  

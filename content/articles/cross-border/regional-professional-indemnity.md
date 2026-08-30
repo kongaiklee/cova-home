@@ -13,9 +13,9 @@ word_count: 2014
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-professional-indemnity"
-meta_description: "Professional Indemnity (PI) cover is shaped by the regulated profession framework in each jurisdiction. For regulated professions (law, medicine,..."
+meta_description: "Professional indemnity across borders follows each jurisdiction's regulated-profession framework. What travels with you, and what does not."
 og_title: "Regional Professional Indemnity: Cross-Border Services and Multi-Jurisdiction Practice"
-og_description: "Professional Indemnity (PI) cover is shaped by the regulated profession framework in each jurisdiction. For regulated professions (law, medicine,..."
+og_description: "Professional indemnity across borders follows each jurisdiction's regulated-profession framework. What travels with you, and what does not."
 ---
 
 > **The Answer in 60 Seconds**

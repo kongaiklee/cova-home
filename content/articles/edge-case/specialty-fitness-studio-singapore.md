@@ -13,9 +13,9 @@ word_count: 1353
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/specialty-fitness-studio-singapore"
-meta_description: "Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
+meta_description: "Yoga, pilates, CrossFit and combat studios put customers under physical load. Where the duty of care sits, and what a waiver does not do."
 og_title: "Specialty Fitness Studio: The Specific Insurance Profile for Yoga, Pilates, CrossFit, Boxing, and Specialty Movement Operations"
-og_description: "Specialty fitness studios in Singapore - covering yoga, pilates (mat and reformer), CrossFit / functional fitness, boxing / muay thai, dance / barre,..."
+og_description: "Yoga, pilates, CrossFit and combat studios put customers under physical load. Where the duty of care sits, and what a waiver does not do."
 ---
 
 > **The Answer in 60 Seconds**

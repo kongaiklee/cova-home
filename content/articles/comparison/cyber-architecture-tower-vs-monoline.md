@@ -13,9 +13,9 @@ word_count: 635
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-architecture-tower-vs-monoline"
-meta_description: "Cyber Liability cover architecture distinguishes single policy approach (single insurer providing cover up to specific limit) and cyber tower approach..."
+meta_description: "One insurer to a single limit, or several stacked in a tower. What each cyber structure does to your cover, your claim and your renewal."
 og_title: "Cyber Architecture Tower vs Monoline Policy Comparison"
-og_description: "Cyber Liability cover architecture distinguishes single policy approach (single insurer providing cover up to specific limit) and cyber tower approach..."
+og_description: "One insurer to a single limit, or several stacked in a tower. What each cyber structure does to your cover, your claim and your renewal."
 ---
 
 > **The Answer in 60 Seconds**

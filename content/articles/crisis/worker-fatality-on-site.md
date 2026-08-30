@@ -13,9 +13,9 @@ word_count: 1904
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/worker-fatality-on-site"
-meta_description: "First: secure the scene, call 995 for ambulance and 999 for police. Do not move the body or alter the scene. Per the Workplace Safety and Health (Incident..."
+meta_description: "Secure the scene, call 995 and 999, and do not move anything. What the incident reporting regulations require of you after a site fatality."
 og_title: "A Worker Just Died on Site - What Do I Do Now?"
-og_description: "First: secure the scene, call 995 for ambulance and 999 for police. Do not move the body or alter the scene. Per the Workplace Safety and Health (Incident..."
+og_description: "Secure the scene, call 995 and 999, and do not move anything. What the incident reporting regulations require of you after a site fatality."
 ---
 
 > **The Answer in 60 Seconds**

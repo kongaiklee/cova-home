@@ -13,9 +13,9 @@ word_count: 1724
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/veterinary-clinic-insurance"
-meta_description: "Veterinary practice in Singapore is regulated under the Animals and Birds Act 1965, administered by the Animal & Veterinary Service (AVS), part of NParks...."
+meta_description: "Veterinary practice is regulated by AVS under the Animals and Birds Act. What the licence requires, and where clinical exposure sits."
 og_title: "Veterinary Clinic Insurance: Singapore Operator Framework"
-og_description: "Veterinary practice in Singapore is regulated under the Animals and Birds Act 1965, administered by the Animal & Veterinary Service (AVS), part of NParks...."
+og_description: "Veterinary practice is regulated by AVS under the Animals and Birds Act. What the licence requires, and where clinical exposure sits."
 ---
 
 > **The Answer in 60 Seconds**

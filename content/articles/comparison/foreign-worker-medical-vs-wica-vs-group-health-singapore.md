@@ -13,9 +13,9 @@ word_count: 2076
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore"
-meta_description: "For a migrant worker, three different covers get confused, and two of them are required by law. The first is foreign worker medical insurance: under the..."
+meta_description: "Three covers get confused for one migrant worker and two of them are compulsory. What foreign worker medical, WICA and group health each actually do."
 og_title: "Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers"
-og_description: "For a migrant worker, three different covers get confused, and two of them are required by law. The first is foreign worker medical insurance: under the..."
+og_description: "Three covers get confused for one migrant worker and two of them are compulsory. What foreign worker medical, WICA and group health each actually do."
 ---
 
 > **The Answer in 60 Seconds**

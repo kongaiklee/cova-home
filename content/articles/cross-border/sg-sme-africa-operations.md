@@ -13,9 +13,9 @@ word_count: 1614
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-africa-operations"
-meta_description: "Singapore SMEs operating in Africa face substantively diverse commercial frameworks across 54 jurisdictions. Major Singapore SME operational markets..."
+meta_description: "Africa is 54 jurisdictions with very different insurance regimes. Where a Singapore SME's main markets sit, and what each requires locally."
 og_title: "Singapore SMEs Operating in Africa: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in Africa face substantively diverse commercial frameworks across 54 jurisdictions. Major Singapore SME operational markets..."
+og_description: "Africa is 54 jurisdictions with very different insurance regimes. Where a Singapore SME's main markets sit, and what each requires locally."
 ---
 
 > **The Answer in 60 Seconds**

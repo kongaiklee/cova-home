@@ -13,9 +13,9 @@ word_count: 1156
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/high-deductible-self-insurance-vs-transfer-singapore-sme"
-meta_description: "Choosing a higher deductible is a structural form of self-insurance - the SME retains the first-dollar layer of any loss in exchange for a premium..."
+meta_description: "A higher deductible is self-insurance by another name. What you are actually retaining in exchange for the premium saving, and when that trade works."
 og_title: "Should You Take a High Deductible? Self-Insurance vs Transfer: A Singapore SME Decision Tree"
-og_description: "Choosing a higher deductible is a structural form of self-insurance - the SME retains the first-dollar layer of any loss in exchange for a premium..."
+og_description: "A higher deductible is self-insurance by another name. What you are actually retaining in exchange for the premium saving, and when that trade works."
 ---
 
 > **The Answer in 60 Seconds**

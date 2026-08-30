@@ -14,9 +14,9 @@ word_count: 1715
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-section-24-mandatory-insurance"
-meta_description: "Section 24 of the Work Injury Compensation Act 2019 is the provision that makes WICA workable. Headed \"Employer must be insured against liabilities under..."
+meta_description: "Section 24 is the provision that makes WICA work: every employer must be insured for its full liability under the Act. What that requires."
 og_title: "WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework"
-og_description: "Section 24 of the Work Injury Compensation Act 2019 is the provision that makes WICA workable. Headed \"Employer must be insured against liabilities under..."
+og_description: "Section 24 is the provision that makes WICA work: every employer must be insured for its full liability under the Act. What that requires."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1661
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-handle-renewal-with-claims-history-singapore"
-meta_description: "Singapore SME commercial insurance renewal with a loss history is one of the most consequential procedural exercises an SME finance / HR lead manages...."
+meta_description: "Renewing with a loss history is the hardest renewal an SME finance lead runs. What to prepare, what to explain, and what not to leave to the insurer."
 og_title: "How to Handle SME Commercial Insurance Renewal With a Loss History"
-og_description: "Singapore SME commercial insurance renewal with a loss history is one of the most consequential procedural exercises an SME finance / HR lead manages...."
+og_description: "Renewing with a loss history is the hardest renewal an SME finance lead runs. What to prepare, what to explain, and what not to leave to the insurer."
 ---
 
 > **The Answer in 60 Seconds**

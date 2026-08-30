@@ -13,9 +13,9 @@ word_count: 1779
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/insurance-dispute-resolution-fidrec-court-insurer-singapore"
-meta_description: "Three routes exist for a Singapore SME's insurance-related dispute, in escalating order: (1) Direct resolution with the insurer, through the policy's..."
+meta_description: "Three routes exist for an insurance dispute and they escalate: the insurer's own complaints process, then FIDReC, then the courts. When each one fits."
 og_title: "When to Engage FIDReC, the Court, or Your Insurer Direct: A Singapore SME's Dispute-Resolution Decision Tree"
-og_description: "Three routes exist for a Singapore SME's insurance-related dispute, in escalating order: (1) Direct resolution with the insurer, through the policy's..."
+og_description: "Three routes exist for an insurance dispute and they escalate: the insurer's own complaints process, then FIDReC, then the courts. When each one fits."
 ---
 
 > **The Answer in 60 Seconds**

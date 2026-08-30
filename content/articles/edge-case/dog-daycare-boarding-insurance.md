@@ -13,9 +13,9 @@ word_count: 1894
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/dog-daycare-boarding-insurance"
-meta_description: "A Singapore dog daycare or boarding business typically needs: AVS (Animal & Veterinary Service) licensing under the National Parks Board's pet shop and..."
+meta_description: "A dog daycare or boarding business is licensed by AVS under NParks. What the licence requires, and what animal handling adds to the risk."
 og_title: "Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?"
-og_description: "A Singapore dog daycare or boarding business typically needs: AVS (Animal & Veterinary Service) licensing under the National Parks Board's pet shop and..."
+og_description: "A dog daycare or boarding business is licensed by AVS under NParks. What the licence requires, and what animal handling adds to the risk."
 ---
 
 > **The Answer in 60 Seconds**

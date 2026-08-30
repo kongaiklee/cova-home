@@ -13,9 +13,9 @@ word_count: 1760
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore"
-meta_description: "Verifying an insurer's financial strength is foundational due diligence for any Singapore SME placing material commercial cover - premium paid today is..."
+meta_description: "Premium paid to a weak insurer buys a weaker promise. How to check an insurer's financial strength rating, and what the grades actually mean."
 og_title: "How to Verify a Singapore Insurer's Financial Strength Rating"
-og_description: "Verifying an insurer's financial strength is foundational due diligence for any Singapore SME placing material commercial cover - premium paid today is..."
+og_description: "Premium paid to a weak insurer buys a weaker promise. How to check an insurer's financial strength rating, and what the grades actually mean."
 ---
 
 > **The Answer in 60 Seconds**

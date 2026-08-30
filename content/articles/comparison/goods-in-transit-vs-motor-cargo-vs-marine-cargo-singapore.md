@@ -13,9 +13,9 @@ word_count: 2208
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore"
-meta_description: "Three covers get confused by every SME that moves goods, and they pay for different things. Goods-in-Transit (GIT) covers your own goods while they travel..."
+meta_description: "Goods in transit, motor cargo and marine cargo pay for different journeys. Which cover follows your goods, and where each of the three stops."
 og_title: "Goods-in-Transit vs Motor Cargo vs Marine Cargo: Which Covers Your Delivery Fleet"
-og_description: "Three covers get confused by every SME that moves goods, and they pay for different things. Goods-in-Transit (GIT) covers your own goods while they travel..."
+og_description: "Goods in transit, motor cargo and marine cargo pay for different journeys. Which cover follows your goods, and where each of the three stops."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2620
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/esg-greenwashing-do-liability-singapore"
-meta_description: "Your company puts \"carbon neutral by 2030\" on the website. A supplier-questionnaire from a large customer asks you to attest to your \"net zero pathway,\"..."
+meta_description: "Carbon neutral on the website, net zero in a questionnaire, recyclable in a tender. None of it felt regulatory. Where it becomes a director's problem."
 og_title: "ESG and Greenwashing: The Emerging Director and Management-Liability Exposure for Singapore SMEs"
-og_description: "Your company puts \"carbon neutral by 2030\" on the website. A supplier-questionnaire from a large customer asks you to attest to your \"net zero pathway,\"..."
+og_description: "Carbon neutral on the website, net zero in a questionnaire, recyclable in a tender. None of it felt regulatory. Where it becomes a director's problem."
 ---
 
 Your company puts "carbon neutral by 2030" on the website. A supplier-questionnaire from a large customer asks you to attest to your "net zero pathway," and someone signs it. A tender response describes your packaging as "100% recyclable." None of this felt like a regulatory act when it happened. It was marketing, procurement paperwork, a box ticked to keep a buyer happy. But each of those statements is a claim about a material fact, made by your company, that a regulator, a customer, or a counterparty could later test against what you can actually prove. When the claim cannot be substantiated, the exposure does not sit only with the company. It can reach the directors who let it go out.

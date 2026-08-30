@@ -13,9 +13,9 @@ word_count: 2825
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme"
-meta_description: "Singapore cyber liability policies treat notification cost - the cost of complying with PDPC Mandatory Data Breach Notification (effective 1 February..."
+meta_description: "Notification cost is the biggest early cyber expense. Whether it sits inside your limit or in a sub-limit changes what is left for the rest."
 og_title: "Cyber Notification Cost: In-Limit vs Separate Sub-Limit for Singapore SMEs"
-og_description: "Singapore cyber liability policies treat notification cost - the cost of complying with PDPC Mandatory Data Breach Notification (effective 1 February..."
+og_description: "Notification cost is the biggest early cyber expense. Whether it sits inside your limit or in a sub-limit changes what is left for the rest."
 ---
 
 > **The Answer in 60 Seconds**

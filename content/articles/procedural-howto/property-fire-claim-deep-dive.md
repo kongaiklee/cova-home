@@ -13,9 +13,9 @@ word_count: 1364
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/property-fire-claim-deep-dive"
-meta_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence - immediate safety / emergency response -..."
+meta_description: "A property or fire claim runs through defined stages from the incident to settlement. What happens at each, and what SCDF involvement changes."
 og_title: "Property/Fire Claim Deep-Dive: From Incident to Settlement"
-og_description: "Property/Fire claim handling in Singapore typically progresses through defined stages: incident occurrence - immediate safety / emergency response -..."
+og_description: "A property or fire claim runs through defined stages from the incident to settlement. What happens at each, and what SCDF involvement changes."
 ---
 
 > **The Answer in 60 Seconds**

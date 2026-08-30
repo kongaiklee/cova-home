@@ -13,9 +13,9 @@ word_count: 2672
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/sgx-listing-rules-2024-2026-do-implications"
-meta_description: "Two streams of SGX regulatory change reshape director personal exposure in 2024-2026 and drive D&O cover requirements for Singapore listed and pre-IPO..."
+meta_description: "Two streams of SGX rule change through 2024 to 2026 reshape director exposure. What listed and pre-IPO directors are now carrying personally."
 og_title: "SGX Listing Rules 2024-2026 D&O Implications: ISSB Climate Disclosure, Continuous Disclosure, and Director Personal Exposure"
-og_description: "Two streams of SGX regulatory change reshape director personal exposure in 2024-2026 and drive D&O cover requirements for Singapore listed and pre-IPO..."
+og_description: "Two streams of SGX rule change through 2024 to 2026 reshape director exposure. What listed and pre-IPO directors are now carrying personally."
 ---
 
 > **The Answer in 60 Seconds**

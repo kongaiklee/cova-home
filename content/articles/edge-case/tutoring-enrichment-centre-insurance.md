@@ -13,9 +13,9 @@ word_count: 1756
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/tutoring-enrichment-centre-insurance"
-meta_description: "Tutoring centres and enrichment centres serving children aged 7 and above in Singapore are not regulated by ECDA (which covers children below 7). They..."
+meta_description: "Tuition and enrichment centres for children aged 7 and above sit outside ECDA licensing. What governs them instead, and what duty of care applies."
 og_title: "Tutoring or Enrichment Centre Insurance in Singapore (Non-ECDA, Children 7+)"
-og_description: "Tutoring centres and enrichment centres serving children aged 7 and above in Singapore are not regulated by ECDA (which covers children below 7). They..."
+og_description: "Tuition and enrichment centres for children aged 7 and above sit outside ECDA licensing. What governs them instead, and what duty of care applies."
 ---
 
 > **The Answer in 60 Seconds**

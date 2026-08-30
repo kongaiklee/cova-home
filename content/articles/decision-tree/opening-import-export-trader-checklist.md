@@ -13,9 +13,9 @@ word_count: 1637
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-import-export-trader-checklist"
-meta_description: "A Singapore import / export trader or wholesaler typically requires: business registration with ACRA; Singapore Customs registration as a Declaring Agent,..."
+meta_description: "Opening an import or export business needs ACRA registration and Singapore Customs registration as a declaring agent. The full opening list."
 og_title: "Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist"
-og_description: "A Singapore import / export trader or wholesaler typically requires: business registration with ACRA; Singapore Customs registration as a Declaring Agent,..."
+og_description: "Opening an import or export business needs ACRA registration and Singapore Customs registration as a declaring agent. The full opening list."
 ---
 
 > **The Answer in 60 Seconds**

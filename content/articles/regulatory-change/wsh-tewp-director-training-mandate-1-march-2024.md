@@ -13,9 +13,9 @@ word_count: 2779
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wsh-tewp-director-training-mandate-1-march-2024"
-meta_description: "The Top Executive Workplace Safety and Health Programme (TEWP) mandate took effect 1 March 2024, requiring top executives - chief executives, managing..."
+meta_description: "From 1 March 2024 top executives must complete the TEWP programme. Who it binds, what it requires, and why it lands on directors personally."
 og_title: "WSH Top Executive Workplace Safety and Health Programme (TEWP) Mandate Effective 1 March 2024: D&O Implications for High-Risk Industry Directors in Singapore SMEs"
-og_description: "The Top Executive Workplace Safety and Health Programme (TEWP) mandate took effect 1 March 2024, requiring top executives - chief executives, managing..."
+og_description: "From 1 March 2024 top executives must complete the TEWP programme. Who it binds, what it requires, and why it lands on directors personally."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2237
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-hotel-association-membership-insurance"
-meta_description: "The Singapore Hotel Association (SHA) is a voluntary trade body for the hospitality industry. Joining it does not make you buy insurance, and it does not..."
+meta_description: "Hotel Association membership is voluntary and imposes no insurance. The duties that do reach a hotel come from the licence, the lease and the contracts."
 og_title: "Singapore Hotel Association Membership and Hospitality Insurance"
-og_description: "The Singapore Hotel Association (SHA) is a voluntary trade body for the hospitality industry. Joining it does not make you buy insurance, and it does not..."
+og_description: "Hotel Association membership is voluntary and imposes no insurance. The duties that do reach a hotel come from the licence, the lease and the contracts."
 ---
 
 > **The Answer in 60 Seconds**

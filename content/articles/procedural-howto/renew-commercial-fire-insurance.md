@@ -13,9 +13,9 @@ word_count: 1077
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/renew-commercial-fire-insurance"
-meta_description: "Step 1 - Pull last year's claims history (60 days before expiry). Insurers ask. Get a list of any incidents - even those that didn't become claims. This..."
+meta_description: "Re-estimate the sum insured on a replacement-cost basis before you renew, or the average clause reduces every partial claim you make."
 og_title: "How to Renew Commercial Fire Insurance in Singapore"
-og_description: "Step 1 - Pull last year's claims history (60 days before expiry). Insurers ask. Get a list of any incidents - even those that didn't become claims. This..."
+og_description: "Re-estimate the sum insured on a replacement-cost basis before you renew, or the average clause reduces every partial claim you make."
 ---
 
 ### The Answer in 60 Seconds

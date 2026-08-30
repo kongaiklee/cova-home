@@ -13,9 +13,9 @@ word_count: 1153
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wica-2025-limit-increase-claim-patterns"
-meta_description: "The Work Injury Compensation Act 2019 (WICA) compensation limits increased on 1 November 2025 per the MOM press release of 8 February 2024: death..."
+meta_description: "WICA compensation limits rose on 1 November 2025. What the new figures are, and what they do to claim patterns and premium."
 og_title: "WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications"
-og_description: "The Work Injury Compensation Act 2019 (WICA) compensation limits increased on 1 November 2025 per the MOM press release of 8 February 2024: death..."
+og_description: "WICA compensation limits rose on 1 November 2025. What the new figures are, and what they do to claim patterns and premium."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1544
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/real-estate-agency-insurance-stack-singapore"
-meta_description: "A Singapore real estate agency operates under the Estate Agents Act 2010 (EAA2010) administered by the Council for Estate Agencies (CEA), with licensing..."
+meta_description: "A real estate agency is licensed at two levels under the Estate Agents Act. What the CEA requires, and the cover the transactions themselves demand."
 og_title: "Real Estate Agencies in Singapore: The Insurance Stack from Salesperson PI to Agency PL"
-og_description: "A Singapore real estate agency operates under the Estate Agents Act 2010 (EAA2010) administered by the Council for Estate Agencies (CEA), with licensing..."
+og_description: "A real estate agency is licensed at two levels under the Estate Agents Act. What the CEA requires, and the cover the transactions themselves demand."
 ---
 
 > **The Answer in 60 Seconds**

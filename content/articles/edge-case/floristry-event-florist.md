@@ -13,9 +13,9 @@ word_count: 1786
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/floristry-event-florist"
-meta_description: "Singapore florists, wedding florists, event florists, corporate floral design houses, and floral subscription services (Far East Flora, A Better Florist,..."
+meta_description: "Florists handle perishable stock, event installation and customer premises. Where a floral business picks up liability it did not expect."
 og_title: "Floristry or Event Florist Business in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore florists, wedding florists, event florists, corporate floral design houses, and floral subscription services (Far East Flora, A Better Florist,..."
+og_description: "Florists handle perishable stock, event installation and customer premises. Where a floral business picks up liability it did not expect."
 ---
 
 > **The Answer in 60 Seconds**

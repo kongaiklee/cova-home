@@ -13,9 +13,9 @@ word_count: 1344
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/tuition-centre-enrichment-insurance-singapore"
-meta_description: "A Singapore tuition centre or enrichment school operates under one of two regulatory regimes depending on the children's ages and the nature of the..."
+meta_description: "A tuition centre falls under one of two regulatory regimes depending on the children's ages. Which one applies, and what each expects of you."
 og_title: "Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack Under the Private Education Act 2009"
-og_description: "A Singapore tuition centre or enrichment school operates under one of two regulatory regimes depending on the children's ages and the nature of the..."
+og_description: "A tuition centre falls under one of two regulatory regimes depending on the children's ages. Which one applies, and what each expects of you."
 ---
 
 > **The Answer in 60 Seconds**

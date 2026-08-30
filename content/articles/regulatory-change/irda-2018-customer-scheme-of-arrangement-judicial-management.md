@@ -13,9 +13,9 @@ word_count: 2455
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management"
-meta_description: "When a Singapore customer files for judicial management or a scheme of arrangement, the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) and the..."
+meta_description: "When a customer enters judicial management or a scheme, IRDA controls what you can recover and when. What the moratorium does to your claim."
 og_title: "IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement"
-og_description: "When a Singapore customer files for judicial management or a scheme of arrangement, the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) and the..."
+og_description: "When a customer enters judicial management or a scheme, IRDA controls what you can recover and when. What the moratorium does to your claim."
 ---
 
 > **The Answer in 60 Seconds**

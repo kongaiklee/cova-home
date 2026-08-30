@@ -13,9 +13,9 @@ word_count: 1933
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/equipment-breakdown-vs-property-all-risks-singapore-sme"
-meta_description: "A Property All Risks (PAR) policy covers your machinery against sudden external damage: fire, impact, water from a burst pipe, a falling object, a storm...."
+meta_description: "Property All Risks covers sudden external damage. It does not cover a machine that fails from the inside, which is the gap equipment breakdown fills."
 og_title: "Equipment Breakdown vs Property All Risks: What Covers SME Machinery"
-og_description: "A Property All Risks (PAR) policy covers your machinery against sudden external damage: fire, impact, water from a burst pipe, a falling object, a storm...."
+og_description: "Property All Risks covers sudden external damage. It does not cover a machine that fails from the inside, which is the gap equipment breakdown fills."
 ---
 
 > **The Answer in 60 Seconds**

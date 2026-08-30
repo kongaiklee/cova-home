@@ -13,9 +13,9 @@ word_count: 1393
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/singapore-sme-remote-workers-malaysia-insurance"
-meta_description: "A Singapore SME hiring a remote worker physically based in Malaysia faces a three-layered set of considerations: employment status and tax (whether the..."
+meta_description: "Hiring a remote worker based in Malaysia raises three separate questions at once: employment status, tax, and which country's cover follows them."
 og_title: "Singapore SMEs Hiring Remote Workers in Malaysia: The Insurance and Regulatory Implications"
-og_description: "A Singapore SME hiring a remote worker physically based in Malaysia faces a three-layered set of considerations: employment status and tax (whether the..."
+og_description: "Hiring a remote worker based in Malaysia raises three separate questions at once: employment status, tax, and which country's cover follows them."
 ---
 
 > **The Answer in 60 Seconds**

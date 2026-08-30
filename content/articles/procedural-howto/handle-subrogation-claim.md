@@ -13,9 +13,9 @@ word_count: 937
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/handle-subrogation-claim"
-meta_description: "Per Castellian v Preston (1883) 11 QBD 380, the insurer takes \"the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in..."
+meta_description: "A subrogation demand from a third party's insurer goes to your liability insurer, not to you. Do not reply directly, and here is why."
 og_title: "How to Handle a Subrogation Claim Against Your Business"
-og_description: "Per Castellian v Preston (1883) 11 QBD 380, the insurer takes \"the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in..."
+og_description: "A subrogation demand from a third party's insurer goes to your liability insurer, not to you. Do not reply directly, and here is why."
 ---
 
 > **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party - confirmed in Singapore in cases including *Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.

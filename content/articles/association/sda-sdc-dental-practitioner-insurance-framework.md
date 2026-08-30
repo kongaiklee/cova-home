@@ -13,9 +13,9 @@ word_count: 1696
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sda-sdc-dental-practitioner-insurance-framework"
-meta_description: "The Singapore Dental Association (SDA) is the professional body for the dental profession. The Singapore Dental Council (SDC) is the statutory..."
+meta_description: "SDA represents dentists; SDC regulates them under statute. Which body sets the indemnity obligation, and what a practice has to hold."
 og_title: "Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications"
-og_description: "The Singapore Dental Association (SDA) is the professional body for the dental profession. The Singapore Dental Council (SDC) is the statutory..."
+og_description: "SDA represents dentists; SDC regulates them under statute. Which body sets the indemnity obligation, and what a practice has to hold."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2230
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/cyber-extortion-event-response"
-meta_description: "---"
+meta_description: "Ransomware or extortion triggers legal, regulatory and operational duties in parallel. Which clocks start, and what the payment decision involves."
 og_title: "Cyber-Extortion Event Response: Singapore Framework for Ransomware, Data Theft, and Payment Decisions"
-og_description: "---"
+og_description: "Ransomware or extortion triggers legal, regulatory and operational duties in parallel. Which clocks start, and what the payment decision involves."
 ---
 
 > **60-second answer.** A cyber-extortion event in Singapore - ransomware encryption, exfiltration with extortion demand, or both - triggers parallel legal, regulatory, and operational obligations. PDPA Section 26D requires PDPC notification within 3 calendar days of assessing notifiability ([PDPC Advisory Guidelines on Notification](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/advisory-guidelines-on-the-personal-data-protection-act-for-selected-topics.pdf)). Cybersecurity Act-designated CII operators face additional 2-hour incident notification to CSA ([CSA Cybersecurity Act guide](https://www.csa.gov.sg/legislation/Cybersecurity-Act)). Payment decisions raise sanctions-screening and AML obligations under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act and MAS Notice on Targeted Financial Sanctions. Cyber insurance with extortion cover, pre-arranged incident-response panel, and pre-engaged ransom-payment counsel are operational foundations. The decision to pay or not pay involves data-recovery viability, sanctions exposure, and reputational considerations - not a single right answer.

@@ -13,9 +13,9 @@ word_count: 1671
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/master-local-vs-dic-dil-multinational"
-meta_description: "Singapore SMEs with cross-border operations face a structural choice in insurance procurement. Master/Local is the traditional multinational programme:..."
+meta_description: "Master and local, or DIC and DIL: two ways to structure a multinational programme. What each does when a local policy falls short."
 og_title: "Master/Local vs DIC/DIL: Multinational Insurance Structures Explained"
-og_description: "Singapore SMEs with cross-border operations face a structural choice in insurance procurement. Master/Local is the traditional multinational programme:..."
+og_description: "Master and local, or DIC and DIL: two ways to structure a multinational programme. What each does when a local policy falls short."
 ---
 
 > **The Answer in 60 Seconds**

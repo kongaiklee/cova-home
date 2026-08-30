@@ -13,9 +13,9 @@ word_count: 2622
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/corporate-insurance-folder-structure-singapore-sme"
-meta_description: "Your Singapore SME holds multiple insurance policies - Work Injury Compensation, fire and property, public liability, group medical, motor, professional..."
+meta_description: "One folder structure for a whole insurance programme: what to keep for each policy, how to name it, and what makes a renewal painless."
 og_title: "Corporate Insurance Folder Structure Every Singapore SME Should Have"
-og_description: "Your Singapore SME holds multiple insurance policies - Work Injury Compensation, fire and property, public liability, group medical, motor, professional..."
+og_description: "One folder structure for a whole insurance programme: what to keep for each policy, how to name it, and what makes a renewal painless."
 ---
 
 > **The Answer in 60 Seconds**

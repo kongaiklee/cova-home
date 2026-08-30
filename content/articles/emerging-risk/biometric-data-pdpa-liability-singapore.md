@@ -13,9 +13,9 @@ word_count: 2880
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/biometric-data-pdpa-liability-singapore"
-meta_description: "The fingerprint scanner at your office door, the facial-recognition camera in your reception area, the face-scan time-attendance terminal on the factory..."
+meta_description: "A leaked password can be changed. A leaked fingerprint cannot. Why biometric data carries a heavier PDPA duty, and what section 24 expects of you."
 og_title: "Biometric Data and the PDPA: The Emerging Privacy-Liability Exposure for Singapore SMEs"
-og_description: "The fingerprint scanner at your office door, the facial-recognition camera in your reception area, the face-scan time-attendance terminal on the factory..."
+og_description: "A leaked password can be changed. A leaked fingerprint cannot. Why biometric data carries a heavier PDPA duty, and what section 24 expects of you."
 ---
 
 The fingerprint scanner at your office door, the facial-recognition camera in your reception area, the face-scan time-attendance terminal on the factory floor: each of them is quietly building a database of something you cannot revoke, reset, or reissue. An employee whose password leaks can change the password. An employee whose face template leaks cannot change their face. That asymmetry is the heart of the biometric privacy problem, and under Singapore law it sits squarely inside the Personal Data Protection Act 2012 (PDPA). ([PDPA 2012, Singapore Statutes Online](https://sso.agc.gov.sg/Act/PDPA2012).)

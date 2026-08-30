@@ -13,9 +13,9 @@ word_count: 2043
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/isca-acra-public-accountants-insurance-framework"
-meta_description: "The Institute of Singapore Chartered Accountants (ISCA) is the national accountancy body conferring the Chartered Accountant of Singapore (CA Singapore)..."
+meta_description: "ISCA confers the CA Singapore designation; ACRA registers public accountants. Which one carries an insurance condition, and what it requires."
 og_title: "Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications"
-og_description: "The Institute of Singapore Chartered Accountants (ISCA) is the national accountancy body conferring the Chartered Accountant of Singapore (CA Singapore)..."
+og_description: "ISCA confers the CA Singapore designation; ACRA registers public accountants. Which one carries an insurance condition, and what it requires."
 ---
 
 > **The Answer in 60 Seconds**

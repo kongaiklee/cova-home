@@ -13,9 +13,9 @@ word_count: 1294
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/hcsa-full-implementation-review"
-meta_description: "The Healthcare Services Act 2020 (HCSA), administered by MOH, replaces the prior Private Hospitals and Medical Clinics Act framework with a service-based..."
+meta_description: "HCSA replaced the old clinics framework with service-based licensing. What that changed for healthcare operators, and what it now licenses."
 og_title: "Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know"
-og_description: "The Healthcare Services Act 2020 (HCSA), administered by MOH, replaces the prior Private Hospitals and Medical Clinics Act framework with a service-based..."
+og_description: "HCSA replaced the old clinics framework with service-based licensing. What that changed for healthcare operators, and what it now licenses."
 ---
 
 > **The Answer in 60 Seconds**

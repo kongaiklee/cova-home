@@ -13,9 +13,9 @@ word_count: 2557
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/key-supplier-insolvency-contingent-bi-trigger"
-meta_description: "The Singapore SME's sole-source supplier (component, raw material, exclusive licensor, critical service provider) has filed under the Insolvency,..."
+meta_description: "A sole-source supplier filing under IRDA becomes your problem immediately. What contingent business interruption needs before it will respond."
 og_title: "Key Supplier Insolvency: The Contingent BI Trigger"
-og_description: "The Singapore SME's sole-source supplier (component, raw material, exclusive licensor, critical service provider) has filed under the Insolvency,..."
+og_description: "A sole-source supplier filing under IRDA becomes your problem immediately. What contingent business interruption needs before it will respond."
 ---
 
 > **The Answer in 60 Seconds**

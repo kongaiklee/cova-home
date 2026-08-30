@@ -13,9 +13,9 @@ word_count: 1873
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/kombucha-brewery-insurance"
-meta_description: "A Singapore kombucha brewery sits at the intersection of food production (regulated by the Singapore Food Agency) and beverage manufacturing. Insurance..."
+meta_description: "A kombucha brewery sits between SFA food regulation and beverage manufacturing. Where each applies, and what the production risk looks like."
 og_title: "Kombucha Brewery in Singapore: What Insurance Do I Actually Need?"
-og_description: "A Singapore kombucha brewery sits at the intersection of food production (regulated by the Singapore Food Agency) and beverage manufacturing. Insurance..."
+og_description: "A kombucha brewery sits between SFA food regulation and beverage manufacturing. Where each applies, and what the production risk looks like."
 ---
 
 > **The Answer in 60 Seconds**

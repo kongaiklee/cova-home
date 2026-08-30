@@ -13,9 +13,9 @@ word_count: 1204
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/coworking-space-serviced-office-insurance-singapore"
-meta_description: "A Singapore co-working space or serviced office operates an aggregated-tenant model where dozens or hundreds of small businesses occupy shared premises..."
+meta_description: "A co-working operator carries dozens of tenants under one roof. Where the members' risks stop and the operator's own liability begins."
 og_title: "Co-working Spaces and Serviced Offices in Singapore: The Insurance Stack for an Aggregated-Tenant Model"
-og_description: "A Singapore co-working space or serviced office operates an aggregated-tenant model where dozens or hundreds of small businesses occupy shared premises..."
+og_description: "A co-working operator carries dozens of tenants under one roof. Where the members' risks stop and the operator's own liability begins."
 ---
 
 > **The Answer in 60 Seconds**

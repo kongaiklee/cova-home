@@ -13,9 +13,9 @@ word_count: 1826
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/asme-sme-cross-sector-insurance-framework"
-meta_description: "The Association of Small and Medium Enterprises (ASME) is a non-statutory SME-focused trade association covering Singapore SMEs across all sectors. It..."
+meta_description: "ASME is a cross-sector SME association, not a regulator. What membership gives you, and where an SME's real insurance duties come from instead."
 og_title: "Association of Small and Medium Enterprises (ASME): SME Trade Association and Cross-Sector Insurance Architecture"
-og_description: "The Association of Small and Medium Enterprises (ASME) is a non-statutory SME-focused trade association covering Singapore SMEs across all sectors. It..."
+og_description: "ASME is a cross-sector SME association, not a regulator. What membership gives you, and where an SME's real insurance duties come from instead."
 ---
 
 > **The Answer in 60 Seconds**

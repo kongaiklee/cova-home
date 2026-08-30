@@ -13,9 +13,9 @@ word_count: 2748
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/professional-indemnity-complete-guide-singapore"
-meta_description: "Professional indemnity (PI) insurance covers your service business against claims that your professional advice, design, or work was negligent and caused..."
+meta_description: "No Singapore law makes professional indemnity universal. It is compulsory for named regulated professions and demanded by contract for everyone else."
 og_title: "Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide"
-og_description: "Professional indemnity (PI) insurance covers your service business against claims that your professional advice, design, or work was negligent and caused..."
+og_description: "No Singapore law makes professional indemnity universal. It is compulsory for named regulated professions and demanded by contract for everyone else."
 ---
 
 > **The Answer in 60 Seconds**

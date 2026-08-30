@@ -13,9 +13,9 @@ word_count: 1923
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-logistics-freight-forwarder-checklist"
-meta_description: "A Singapore logistics or freight forwarder firm typically requires: licensing under the Singapore Customs for declaring agent status, LTA commercial..."
+meta_description: "A logistics or freight forwarding firm needs declaring agent status with Singapore Customs. What else the opening list has on it."
 og_title: "Opening a Logistics or Freight Forwarder Firm in Singapore: Full Insurance Checklist"
-og_description: "A Singapore logistics or freight forwarder firm typically requires: licensing under the Singapore Customs for declaring agent status, LTA commercial..."
+og_description: "A logistics or freight forwarding firm needs declaring agent status with Singapore Customs. What else the opening list has on it."
 ---
 
 > **The Answer in 60 Seconds**

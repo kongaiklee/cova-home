@@ -13,9 +13,9 @@ word_count: 1680
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/content-creator-influencer-insurance"
-meta_description: "A Singapore content creator or influencer (food blogger, lifestyle YouTuber, Instagram beauty creator, tech reviewer, family vlogger, gaming streamer)..."
+meta_description: "A content creator carries defamation, IP and advertising exposure in public. Where each one attaches, and what a brand contract adds."
 og_title: "Content Creator and Influencer Insurance in Singapore (Food, Lifestyle, Beauty, Tech, Family)"
-og_description: "A Singapore content creator or influencer (food blogger, lifestyle YouTuber, Instagram beauty creator, tech reviewer, family vlogger, gaming streamer)..."
+og_description: "A content creator carries defamation, IP and advertising exposure in public. Where each one attaches, and what a brand contract adds."
 ---
 
 > **The Answer in 60 Seconds**

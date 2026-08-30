@@ -13,9 +13,9 @@ word_count: 1307
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/mia-1906-utmost-good-faith"
-meta_description: "The Marine Insurance Act 1906 (MIA) - applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance..."
+meta_description: "The Marine Insurance Act 1906 still governs utmost good faith in Singapore. What that duty requires at placement, and what breaching it costs."
 og_title: "Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications"
-og_description: "The Marine Insurance Act 1906 (MIA) - applicable in Singapore as a Singapore statute and substantively the foundational framework for marine insurance..."
+og_description: "The Marine Insurance Act 1906 still governs utmost good faith in Singapore. What that duty requires at placement, and what breaching it costs."
 ---
 
 > **The Answer in 60 Seconds**

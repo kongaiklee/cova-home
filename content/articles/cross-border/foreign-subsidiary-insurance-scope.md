@@ -13,9 +13,9 @@ word_count: 1986
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/foreign-subsidiary-insurance-scope"
-meta_description: "A Singapore parent's insurance policy does not automatically cover a foreign subsidiary. Coverage depends entirely on three policy mechanics: the..."
+meta_description: "A Singapore parent's policy does not automatically cover a foreign subsidiary. Three policy mechanics decide whether it does, starting with Insured."
 og_title: "Foreign Subsidiary Insurance Scope: What the Singapore Parent Policy Covers (and Where It Stops)"
-og_description: "A Singapore parent's insurance policy does not automatically cover a foreign subsidiary. Coverage depends entirely on three policy mechanics: the..."
+og_description: "A Singapore parent's policy does not automatically cover a foreign subsidiary. Three policy mechanics decide whether it does, starting with Insured."
 ---
 
 > **The Answer in 60 Seconds**

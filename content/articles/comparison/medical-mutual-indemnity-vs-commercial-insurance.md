@@ -13,9 +13,9 @@ word_count: 1073
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/medical-mutual-indemnity-vs-commercial-insurance"
-meta_description: "Per the SMC Practising Certificate page, every fully or conditionally registered medical practitioner must apply for and renew a PC to practise medicine..."
+meta_description: "Most Singapore doctors use a mutual rather than an insurer. What discretionary protection means, and how it differs from a policy limit."
 og_title: "Why Do Singapore Doctors Use \"Mutual Indemnity\" Instead of Insurance?"
-og_description: "Per the SMC Practising Certificate page, every fully or conditionally registered medical practitioner must apply for and renew a PC to practise medicine..."
+og_description: "Most Singapore doctors use a mutual rather than an insurer. What discretionary protection means, and how it differs from a policy limit."
 ---
 
 > **The 60-second answer:** Per the [Singapore Medical Council](https://www.smc.gov.sg/) (the statutory regulator under the Medical Registration Act 1997), all medical practitioners must hold a valid Practising Certificate, and they must maintain professional indemnity cover appropriate to their scope of practice. Most Singapore doctors use **mutual protection organisations** - primarily Medical Protection Society (MPS) - rather than traditional insurance. The structural difference matters: mutuals offer discretionary, occurrence-based protection without a stated policy limit; insurers offer contractual, often claims-made coverage with stated limits.

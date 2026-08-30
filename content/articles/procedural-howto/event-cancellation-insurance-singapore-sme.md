@@ -13,9 +13,9 @@ word_count: 2128
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/event-cancellation-insurance-singapore-sme"
-meta_description: "Event cancellation insurance is not the same thing as event public liability, and Singapore SMEs lose money by assuming one covers the other. Public..."
+meta_description: "Cancellation cover pays your own loss when the event cannot go ahead. Public liability pays someone else's. Assuming one covers the other is the costly error."
 og_title: "How to Arrange Event Cancellation Insurance for a Singapore SME"
-og_description: "Event cancellation insurance is not the same thing as event public liability, and Singapore SMEs lose money by assuming one covers the other. Public..."
+og_description: "Cancellation cover pays your own loss when the event cannot go ahead. Public liability pays someone else's. Assuming one covers the other is the costly error."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2871
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/email-whatsapp-business-insurance-storage-singapore"
-meta_description: "Most Singapore SMEs store their insurance documents in two places that fail predictably at the moment those documents are needed: a staff member's..."
+meta_description: "Insurance documents stored in personal email and WhatsApp fail exactly when they are needed. What that costs at a claim, and where they belong."
 og_title: "Why Email and WhatsApp Are the Worst Places to Store Business Insurance Policies"
-og_description: "Most Singapore SMEs store their insurance documents in two places that fail predictably at the moment those documents are needed: a staff member's..."
+og_description: "Insurance documents stored in personal email and WhatsApp fail exactly when they are needed. What that costs at a claim, and where they belong."
 ---
 
 > **The Answer in 60 Seconds**

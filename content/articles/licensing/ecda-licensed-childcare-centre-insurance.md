@@ -13,9 +13,9 @@ word_count: 1067
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/ecda-licensed-childcare-centre-insurance"
-meta_description: "Per the ECDA setting-up page, all Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development..."
+meta_description: "ECDA does not prescribe a specific insurance policy for a childcare centre. What the Code of Practice does require, and what fills the gap."
 og_title: "What Insurance Does an ECDA-Licensed Childcare Centre Need?"
-og_description: "Per the ECDA setting-up page, all Early Childhood Development Centres (ECDCs) are required to obtain a licence under the Early Childhood Development..."
+og_description: "ECDA does not prescribe a specific insurance policy for a childcare centre. What the Code of Practice does require, and what fills the gap."
 ---
 
 > **The 60-second answer:** Per the [Early Childhood Development Centres Regulations 2018](https://sso.agc.gov.sg/SL-Supp/S890-2018/Published/20181228) and the [ECDA Code of Practice (Fourth Edition, 2025)](https://www.ecda.gov.sg/docs/default-source/default-document-library/operator/ecda-cop-(third-edition).pdf), **ECDA does not prescribe a mandatory minimum sum insured for public liability insurance** in the Regulations or Code. WICA is mandatory under MOM rules. Public liability, professional indemnity, and abuse/molestation cover are operational necessities and standard insurer offerings - but not regulatory minimums set by ECDA itself.

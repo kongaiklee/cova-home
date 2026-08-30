@@ -14,9 +14,9 @@ word_count: 1910
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore"
-meta_description: "The defining international incident is Mata v Avianca, Inc. (S.D.N.Y., June 2023), in which a New York federal judge sanctioned attorneys Steven Schwartz..."
+meta_description: "Mata v Avianca is the case every professional now gets warned about. Where AI hallucination becomes a professional indemnity problem in Singapore."
 og_title: "AI Hallucinations in Professional and Advisory Services: The Singapore Professional Indemnity Exposure"
-og_description: "The defining international incident is Mata v Avianca, Inc. (S.D.N.Y., June 2023), in which a New York federal judge sanctioned attorneys Steven Schwartz..."
+og_description: "Mata v Avianca is the case every professional now gets warned about. Where AI hallucination becomes a professional indemnity problem in Singapore."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1478
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-dental-practice-checklist"
-meta_description: "A Singapore dental practice requires HCSA licensing administered by MOH, Singapore Dental Council (SDC) registration for the practising dentist, and where..."
+meta_description: "A dental practice needs HCSA licensing plus SDC registration for the practising dentist. What each requires before the doors open."
 og_title: "Opening a Dental Practice in Singapore: Full Insurance Checklist"
-og_description: "A Singapore dental practice requires HCSA licensing administered by MOH, Singapore Dental Council (SDC) registration for the practising dentist, and where..."
+og_description: "A dental practice needs HCSA licensing plus SDC registration for the practising dentist. What each requires before the doors open."
 ---
 
 > **The Answer in 60 Seconds**

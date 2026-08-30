@@ -13,9 +13,9 @@ word_count: 2395
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/epl-standalone-vs-bundled-management-liability-sme"
-meta_description: "Singapore SMEs procure Employment Practices Liability (EPL) cover through two structural routes: (1) Standalone EPL - a dedicated single-module policy..."
+meta_description: "Standalone EPL or bundled into management liability: what changes in your limit, your triggers and what the policy will actually respond to."
 og_title: "EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework"
-og_description: "Singapore SMEs procure Employment Practices Liability (EPL) cover through two structural routes: (1) Standalone EPL - a dedicated single-module policy..."
+og_description: "Standalone EPL or bundled into management liability: what changes in your limit, your triggers and what the policy will actually respond to."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1446
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-taiwan-operations"
-meta_description: "Singapore SMEs operating in Taiwan through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered..."
+meta_description: "Taiwan is supervised by the Financial Supervisory Commission. What a Singapore SME has to place locally, and what can stay on the parent policy."
 og_title: "Singapore SMEs Operating in Taiwan: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in Taiwan through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered..."
+og_description: "Taiwan is supervised by the Financial Supervisory Commission. What a Singapore SME has to place locally, and what can stay on the parent policy."
 ---
 
 > **The Answer in 60 Seconds**

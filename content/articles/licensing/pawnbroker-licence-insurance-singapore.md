@@ -13,9 +13,9 @@ word_count: 2200
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/pawnbroker-licence-insurance-singapore"
-meta_description: "A pawnbroker's licence in Singapore is unusual: insurance is not a prudent extra, it is a statutory condition. Under section 26 of the Pawnbrokers Act..."
+meta_description: "Unusual among Singapore licences: insurance here is a statutory condition. Section 26 of the Pawnbrokers Act requires adequate and appropriate cover."
 og_title: "What Insurance Does a Licensed Pawnbroker Need in Singapore?"
-og_description: "A pawnbroker's licence in Singapore is unusual: insurance is not a prudent extra, it is a statutory condition. Under section 26 of the Pawnbrokers Act..."
+og_description: "Unusual among Singapore licences: insurance here is a statutory condition. Section 26 of the Pawnbrokers Act requires adequate and appropriate cover."
 ---
 
 > **The Answer in 60 Seconds**

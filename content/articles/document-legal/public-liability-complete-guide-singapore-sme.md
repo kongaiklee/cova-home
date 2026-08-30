@@ -13,9 +13,9 @@ word_count: 2760
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/public-liability-complete-guide-singapore-sme"
-meta_description: "Public liability insurance covers what your business has to pay when its operations or premises cause bodily injury or property damage to a member of the..."
+meta_description: "What public liability pays when your premises or your operations injure someone or damage their property, and where the cover stops short."
 og_title: "Public Liability Insurance for Singapore SMEs: The Complete Guide"
-og_description: "Public liability insurance covers what your business has to pay when its operations or premises cause bodily injury or property damage to a member of the..."
+og_description: "What public liability pays when your premises or your operations injure someone or damage their property, and where the cover stops short."
 ---
 
 > **The Answer in 60 Seconds**

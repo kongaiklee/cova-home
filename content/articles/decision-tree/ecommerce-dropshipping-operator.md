@@ -13,9 +13,9 @@ word_count: 1491
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/ecommerce-dropshipping-operator"
-meta_description: "E-commerce and dropshipping operators in Singapore - covering own-inventory direct-to-consumer brands, marketplace sellers (Shopee, Lazada, Amazon SG),..."
+meta_description: "Own inventory, marketplace selling or dropshipping are three different risk profiles. Which one you are running, and what it makes you liable for."
 og_title: "SME Startup Decision Tree: E-Commerce and Dropshipping Operator - Foundational Insurance Procurement"
-og_description: "E-commerce and dropshipping operators in Singapore - covering own-inventory direct-to-consumer brands, marketplace sellers (Shopee, Lazada, Amazon SG),..."
+og_description: "Own inventory, marketplace selling or dropshipping are three different risk profiles. Which one you are running, and what it makes you liable for."
 ---
 
 > **The Answer in 60 Seconds**

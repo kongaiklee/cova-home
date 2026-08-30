@@ -13,9 +13,9 @@ word_count: 1840
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/tied-agent-ifa-insurance-broker-singapore-business"
-meta_description: "Singapore's regulated insurance distribution channels divide into three categories, each with its own statutory basis and its own implications for an SME..."
+meta_description: "Tied agent, IFA and broker are three regulated channels with three statutory bases. What each may do, and who is acting for whom."
 og_title: "Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?"
-og_description: "Singapore's regulated insurance distribution channels divide into three categories, each with its own statutory basis and its own implications for an SME..."
+og_description: "Tied agent, IFA and broker are three regulated channels with three statutory bases. What each may do, and who is acting for whom."
 ---
 
 > **The Answer in 60 Seconds**

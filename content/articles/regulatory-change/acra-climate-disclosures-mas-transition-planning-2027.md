@@ -13,9 +13,9 @@ word_count: 1594
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/acra-climate-disclosures-mas-transition-planning-2027"
-meta_description: "Two parallel regulatory developments establish climate-related disclosure as material Singapore SME consideration: (1) Accounting and Corporate Regulatory..."
+meta_description: "ACRA climate disclosure and MAS transition planning arrive together. Which Singapore companies they reach, and by when."
 og_title: "ACRA Mandatory Climate-Related Disclosures and MAS Transition Planning Guidelines (September 2027): D&O and ESG Risk Implications"
-og_description: "Two parallel regulatory developments establish climate-related disclosure as material Singapore SME consideration: (1) Accounting and Corporate Regulatory..."
+og_description: "ACRA climate disclosure and MAS transition planning arrive together. Which Singapore companies they reach, and by when."
 ---
 
 > **The Answer in 60 Seconds**

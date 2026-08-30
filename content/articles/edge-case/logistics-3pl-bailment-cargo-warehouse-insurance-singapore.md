@@ -13,9 +13,9 @@ word_count: 1233
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/logistics-3pl-bailment-cargo-warehouse-insurance-singapore"
-meta_description: "A Singapore logistics or third-party logistics (3PL) operator carries a distinctive risk profile centred on bailment liability - the legal responsibility..."
+meta_description: "A 3PL holds goods it does not own, so bailment liability sits alongside cargo and warehouse exposure. Where the trading conditions put each one."
 og_title: "Logistics and 3PL Operators in Singapore: Bailment Liability, Cargo, and Warehouse Cover"
-og_description: "A Singapore logistics or third-party logistics (3PL) operator carries a distinctive risk profile centred on bailment liability - the legal responsibility..."
+og_description: "A 3PL holds goods it does not own, so bailment liability sits alongside cargo and warehouse exposure. Where the trading conditions put each one."
 ---
 
 > **The Answer in 60 Seconds**

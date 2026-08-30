@@ -13,9 +13,9 @@ word_count: 2156
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/asean-expansion-insurance-framework"
-meta_description: "ASEAN expansion involves ten distinct insurance regimes - Singapore plus Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, and..."
+meta_description: "ASEAN expansion means ten insurance regimes, not one. What differs between them, and which decisions have to be made country by country."
 og_title: "ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore"
-og_description: "ASEAN expansion involves ten distinct insurance regimes - Singapore plus Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Philippines, Thailand, and..."
+og_description: "ASEAN expansion means ten insurance regimes, not one. What differs between them, and which decisions have to be made country by country."
 ---
 
 > **The Answer in 60 Seconds**

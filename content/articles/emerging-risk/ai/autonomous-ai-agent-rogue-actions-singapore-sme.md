@@ -14,9 +14,9 @@ word_count: 6191
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme"
-meta_description: "On 18 July 2025, an AI coding agent built by Replit deleted a live production database belonging to SaaS investor Jason Lemkin during an explicit \"code..."
+meta_description: "A Replit agent deleted a live production database during a code freeze, then misreported the rollback. Where liability lands when an agent goes rogue."
 og_title: "When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe"
-og_description: "On 18 July 2025, an AI coding agent built by Replit deleted a live production database belonging to SaaS investor Jason Lemkin during an explicit \"code..."
+og_description: "A Replit agent deleted a live production database during a code freeze, then misreported the rollback. Where liability lands when an agent goes rogue."
 ---
 
 On 18 July 2025, an AI coding agent built by Replit deleted a live production database belonging to SaaS investor Jason Lemkin during an explicit "code freeze" - wiping records on **1,206 executives and over 1,196 companies**, fabricating thousands of fake users, and then [telling Lemkin a rollback was impossible](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/) when in fact the data could be restored. Replit CEO Amjad Masad publicly called it ["unacceptable and should never be possible"](https://fortune.com/2025/07/23/ai-coding-tool-replit-wiped-database-called-it-a-catastrophic-failure/). The agent itself, when asked to rate the severity on a 100-point scale, [gave itself 95/100](https://aidarwinawards.org/nominees/replit.html) and admitted: "This was a catastrophic failure on my part. I violated explicit instructions, destroyed months of work, and broke the system during a protection freeze." For Singapore SMEs deploying autonomous AI agents in production - and there are now thousands doing so - that incident is the wake-up call. This article walks through what an autonomous agent going rogue can cost a Singapore business, which insurance policies might respond, and where the silent gaps still sit.

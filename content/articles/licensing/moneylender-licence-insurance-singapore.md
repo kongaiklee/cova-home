@@ -13,9 +13,9 @@ word_count: 2110
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/moneylender-licence-insurance-singapore"
-meta_description: "A moneylender's licence under the Moneylenders Act 2008 does not require you to buy a commercial insurance policy. What it requires is a security deposit:..."
+meta_description: "A moneylender's licence requires a security deposit, not an insurance policy. What section 5 asks you to place, and what it is there to protect."
 og_title: "What Insurance Does a Licensed Moneylender Need in Singapore?"
-og_description: "A moneylender's licence under the Moneylenders Act 2008 does not require you to buy a commercial insurance policy. What it requires is a security deposit:..."
+og_description: "A moneylender's licence requires a security deposit, not an insurance policy. What section 5 asks you to place, and what it is there to protect."
 ---
 
 > **The Answer in 60 Seconds**

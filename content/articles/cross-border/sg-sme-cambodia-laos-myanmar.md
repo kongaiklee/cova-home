@@ -13,9 +13,9 @@ word_count: 1401
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-cambodia-laos-myanmar"
-meta_description: "Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) face emerging market commercial frameworks where the regulatory infrastructure is..."
+meta_description: "Cambodia, Laos and Myanmar have less mature regulatory infrastructure than the rest of ASEAN. What that means for placing cover there."
 og_title: "Singapore SMEs Operating in Cambodia, Laos, and Myanmar: Emerging Market Cross-Border Considerations"
-og_description: "Singapore SMEs operating in Cambodia, Laos, and Myanmar (CLM) face emerging market commercial frameworks where the regulatory infrastructure is..."
+og_description: "Cambodia, Laos and Myanmar have less mature regulatory infrastructure than the rest of ASEAN. What that means for placing cover there."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1848
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/currency-loss-fx-hedge-failure"
-meta_description: "First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in..."
+meta_description: "A hedge has failed. Separate realised loss from mark-to-market and cash from P&L before you do anything else, then work the parallel tracks."
 og_title: "A Currency Movement or FX Hedge Failure Just Wiped Out Our Margin - What Do I Do Now?"
-og_description: "First, assess the actual damage: realised loss vs unrealised mark-to-market, P&L vs cash impact, what's been settled vs what's still hedge-able. Then in..."
+og_description: "A hedge has failed. Separate realised loss from mark-to-market and cash from P&L before you do anything else, then work the parallel tracks."
 ---
 
 > **The Answer in 60 Seconds**

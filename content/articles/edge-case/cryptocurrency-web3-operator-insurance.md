@@ -13,9 +13,9 @@ word_count: 1504
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/cryptocurrency-web3-operator-insurance"
-meta_description: "Cryptocurrency exchanges, digital payment token (DPT) service providers, and Web3 operators in Singapore operate under the Payment Services Act 2019 (PSA)..."
+meta_description: "Crypto and Web3 operators sit under the Payment Services Act as DPT service providers. What licensing requires, and where custody risk lands."
 og_title: "Cryptocurrency Exchange, Digital Asset, and Web3 Operator: The Specific Insurance Profile for MAS-Licensed and Adjacent Operations"
-og_description: "Cryptocurrency exchanges, digital payment token (DPT) service providers, and Web3 operators in Singapore operate under the Payment Services Act 2019 (PSA)..."
+og_description: "Crypto and Web3 operators sit under the Payment Services Act as DPT service providers. What licensing requires, and where custody risk lands."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2160
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/travel-agent-licence-insurance-singapore"
-meta_description: "A travel agent licence under the Travel Agents Act 1975 does not require you to buy any insurance policy. The licence, granted by the Singapore Tourism..."
+meta_description: "A travel agent licence turns on financial and fitness conditions, not insurance. What the Travel Agents Act requires, and where cover comes from."
 og_title: "Does a Travel Agent Licence Require Insurance in Singapore?"
-og_description: "A travel agent licence under the Travel Agents Act 1975 does not require you to buy any insurance policy. The licence, granted by the Singapore Tourism..."
+og_description: "A travel agent licence turns on financial and fitness conditions, not insurance. What the Travel Agents Act requires, and where cover comes from."
 ---
 
 > **The Answer in 60 Seconds**

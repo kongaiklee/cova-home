@@ -13,9 +13,9 @@ word_count: 1989
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/castellian-preston-subrogation"
-meta_description: "Castellian v Preston (1883) 11 QBD 380 is the foundational English Court of Appeal decision that established the modern doctrine of subrogation in..."
+meta_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs your claim today."
 og_title: "Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law"
-og_description: "Castellian v Preston (1883) 11 QBD 380 is the foundational English Court of Appeal decision that established the modern doctrine of subrogation in..."
+og_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs your claim today."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2264
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/moh-nursing-home-licence-insurance-singapore"
-meta_description: "A nursing home, and many eldercare and home-care services, must be licensed by MOH under the Healthcare Services Act 2020 (HCSA), the Act that..."
+meta_description: "A nursing home is licensed by MOH under the Healthcare Services Act. What HCSA requires of the operator, and which duties are insurance duties."
 og_title: "What Insurance Does an MOH Nursing Home or Eldercare Licence Need in Singapore?"
-og_description: "A nursing home, and many eldercare and home-care services, must be licensed by MOH under the Healthcare Services Act 2020 (HCSA), the Act that..."
+og_description: "A nursing home is licensed by MOH under the Healthcare Services Act. What HCSA requires of the operator, and which duties are insurance duties."
 ---
 
 > **The Answer in 60 Seconds**

@@ -14,9 +14,9 @@ word_count: 2228
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-chatbot-customer-misrepresentation-liability-singapore-sme"
-meta_description: "A Singapore SME that deploys a customer-facing AI chatbot is legally responsible for what the chatbot says. The principle is anchored in [B2C2 Ltd v..."
+meta_description: "You are legally responsible for what your chatbot says to a customer. Where Singapore contract law puts that liability, and what limits it."
 og_title: "AI Chatbots and Customer Misrepresentation: Singapore SME Liability When the Bot Says the Wrong Thing"
-og_description: "A Singapore SME that deploys a customer-facing AI chatbot is legally responsible for what the chatbot says. The principle is anchored in [B2C2 Ltd v..."
+og_description: "You are legally responsible for what your chatbot says to a customer. Where Singapore contract law puts that liability, and what limits it."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1818
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/indoor-playground-soft-play"
-meta_description: "Singapore indoor playgrounds, soft play centres, ball pit venues, and trampoline-mat play areas (catering primarily to children under 12) face one of the..."
+meta_description: "Indoor playgrounds and ball pits serving under-12s carry high minor-injury frequency. What the venue is answerable for, and what it must document."
 og_title: "Indoor Playground or Soft Play Centre in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore indoor playgrounds, soft play centres, ball pit venues, and trampoline-mat play areas (catering primarily to children under 12) face one of the..."
+og_description: "Indoor playgrounds and ball pits serving under-12s carry high minor-injury frequency. What the venue is answerable for, and what it must document."
 ---
 
 > **The Answer in 60 Seconds**

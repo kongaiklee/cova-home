@@ -13,9 +13,9 @@ word_count: 1693
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/bec-wire-fraud-loss-discovered"
-meta_description: "Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier..."
+meta_description: "Finance has found a payment sent to a fraudulent account. The first calls that can still recall funds, and the evidence a claim will need."
 og_title: "Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered"
-og_description: "Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier..."
+og_description: "Finance has found a payment sent to a fraudulent account. The first calls that can still recall funds, and the evidence a claim will need."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2410
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/insurer-resolution-singapore-policyholder-position"
-meta_description: "Singapore insurers do not enter the general IRDA 2018 insolvency regime. They have their own special regime under Part 3AA of the Insurance Act 1966,..."
+meta_description: "Singapore insurers do not enter the ordinary insolvency regime. Part 3AA of the Insurance Act governs instead, and it changes where you stand."
 og_title: "Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty"
-og_description: "Singapore insurers do not enter the general IRDA 2018 insolvency regime. They have their own special regime under Part 3AA of the Insurance Act 1966,..."
+og_description: "Singapore insurers do not enter the ordinary insolvency regime. Part 3AA of the Insurance Act governs instead, and it changes where you stand."
 ---
 
 > **The Answer in 60 Seconds**

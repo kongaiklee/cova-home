@@ -13,9 +13,9 @@ word_count: 1613
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sfa-licensing-tiers-insurance"
-meta_description: "The Singapore Food Agency (SFA) administers food licensing under the Sale of Food Act 1973 and related regulations. Food businesses fall into multiple..."
+meta_description: "SFA food licensing runs in tiers under the Sale of Food Act. Which tier your business falls in, and what each one requires of you."
 og_title: "Singapore Food Agency Licensing Tiers and Insurance Implications"
-og_description: "The Singapore Food Agency (SFA) administers food licensing under the Sale of Food Act 1973 and related regulations. Food businesses fall into multiple..."
+og_description: "SFA food licensing runs in tiers under the Sale of Food Act. Which tier your business falls in, and what each one requires of you."
 ---
 
 > **The Answer in 60 Seconds**

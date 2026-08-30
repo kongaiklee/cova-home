@@ -13,9 +13,9 @@ word_count: 1825
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/liquor-licence-insurance-singapore"
-meta_description: "A liquor licence under the Liquor Control (Supply and Consumption) Act 2015 does not require you to buy an insurance policy. The Act makes it an offence..."
+meta_description: "A liquor licence names no insurance condition. What the Liquor Control Act makes an offence, and where a licensed premises picks up cover obligations."
 og_title: "Does a Liquor Licence Require Insurance in Singapore?"
-og_description: "A liquor licence under the Liquor Control (Supply and Consumption) Act 2015 does not require you to buy an insurance policy. The Act makes it an offence..."
+og_description: "A liquor licence names no insurance condition. What the Liquor Control Act makes an offence, and where a licensed premises picks up cover obligations."
 ---
 
 > **The Answer in 60 Seconds**

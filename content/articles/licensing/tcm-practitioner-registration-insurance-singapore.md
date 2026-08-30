@@ -13,9 +13,9 @@ word_count: 1883
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/tcm-practitioner-registration-insurance-singapore"
-meta_description: "Registering as a traditional Chinese medicine physician or acupuncturist does not require you to buy professional indemnity insurance. Registration runs..."
+meta_description: "Neither the TCM Practitioners Act nor its regulations require you to hold professional indemnity. The clinic, the landlord or the contract is what asks."
 og_title: "Does TCM Practitioner Registration Require Professional Indemnity Insurance in Singapore?"
-og_description: "Registering as a traditional Chinese medicine physician or acupuncturist does not require you to buy professional indemnity insurance. Registration runs..."
+og_description: "Neither the TCM Practitioners Act nor its regulations require you to hold professional indemnity. The clinic, the landlord or the contract is what asks."
 ---
 
 > **The Answer in 60 Seconds**

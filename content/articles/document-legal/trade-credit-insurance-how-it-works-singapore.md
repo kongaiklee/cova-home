@@ -13,9 +13,9 @@ word_count: 1182
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/trade-credit-insurance-how-it-works-singapore"
-meta_description: "Trade credit insurance protects a Singapore supplier against the insolvency or protracted default of its buyers (its trade-credit customers). The cover..."
+meta_description: "Trade credit insurance responds when an insured buyer fails to pay or goes insolvent. What it covers, what it excludes, and what it asks of you."
 og_title: "Trade Credit Insurance for Singapore SMEs: How It Actually Works"
-og_description: "Trade credit insurance protects a Singapore supplier against the insolvency or protracted default of its buyers (its trade-credit customers). The cover..."
+og_description: "Trade credit insurance responds when an insured buyer fails to pay or goes insolvent. What it covers, what it excludes, and what it asks of you."
 ---
 
 > **The Answer in 60 Seconds**

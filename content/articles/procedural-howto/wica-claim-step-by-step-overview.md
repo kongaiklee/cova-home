@@ -13,9 +13,9 @@ word_count: 1260
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/wica-claim-step-by-step-overview"
-meta_description: "WICA claims are messy. Workers get hurt at the worst times. Insurers ask for documents you don't have. MOM emails arrive at 6pm on a Friday. The..."
+meta_description: "The employer files the accident report through iReport within ten calendar days and notifies the designated insurer at the same time."
 og_title: "How to File a WICA Claim - Step by Step (Singapore)"
-og_description: "WICA claims are messy. Workers get hurt at the worst times. Insurers ask for documents you don't have. MOM emails arrive at 6pm on a Friday. The..."
+og_description: "The employer files the accident report through iReport within ten calendar days and notifies the designated insurer at the same time."
 ---
 
 ### The Answer in 60 Seconds

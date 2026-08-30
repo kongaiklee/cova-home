@@ -13,9 +13,9 @@ word_count: 3225
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore"
-meta_description: "A Notice of Circumstance (NoC) is the most under-used and most consequential procedural mechanism in Singapore SME commercial insurance. It is the..."
+meta_description: "A notice of circumstance converts a known problem into a covered claim under the current policy. The most under-used mechanism in claims-made cover."
 og_title: "How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs"
-og_description: "A Notice of Circumstance (NoC) is the most under-used and most consequential procedural mechanism in Singapore SME commercial insurance. It is the..."
+og_description: "A notice of circumstance converts a known problem into a covered claim under the current policy. The most under-used mechanism in claims-made cover."
 ---
 
 A Notice of Circumstance (NoC) is the most under-used and most consequential procedural mechanism in Singapore SME commercial insurance. It is the procedural device that converts a known potential claim into a deemed claim for cover purposes - locking in indemnity under the current policy even if the actual claim arrives years later, after the policy has lapsed, after the SME has switched insurers, or after the cover has been cancelled outright.

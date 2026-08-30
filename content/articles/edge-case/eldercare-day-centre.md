@@ -13,9 +13,9 @@ word_count: 1603
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/eldercare-day-centre"
-meta_description: "Singapore eldercare day centres, dementia day care, senior activity centres, and active ageing centres operate within a regulatory layer significantly..."
+meta_description: "Eldercare day centres carry a regulatory load well above ordinary commercial activity. What licensing requires, and where the care risk sits."
 og_title: "Eldercare Day Centre or Senior Activity Centre in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore eldercare day centres, dementia day care, senior activity centres, and active ageing centres operate within a regulatory layer significantly..."
+og_description: "Eldercare day centres carry a regulatory load well above ordinary commercial activity. What licensing requires, and where the care risk sits."
 ---
 
 > **The Answer in 60 Seconds**

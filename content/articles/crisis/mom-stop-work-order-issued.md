@@ -13,9 +13,9 @@ word_count: 1987
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mom-stop-work-order-issued"
-meta_description: "A Stop-Work Order (SWO) under Section 21 of the Workplace Safety and Health Act 2006 is issued where the Ministry of Manpower (MOM) considers there is an..."
+meta_description: "A Stop-Work Order under WSHA section 21 means MOM sees imminent danger. What it halts, what lifts it, and what happens in between."
 og_title: "MOM Just Issued a Stop-Work Order on Our Site - What Do I Do Now?"
-og_description: "A Stop-Work Order (SWO) under Section 21 of the Workplace Safety and Health Act 2006 is issued where the Ministry of Manpower (MOM) considers there is an..."
+og_description: "A Stop-Work Order under WSHA section 21 means MOM sees imminent danger. What it halts, what lifts it, and what happens in between."
 ---
 
 > **The Answer in 60 Seconds**

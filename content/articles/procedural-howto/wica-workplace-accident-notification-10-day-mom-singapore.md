@@ -13,9 +13,9 @@ word_count: 1876
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore"
-meta_description: "Under the Work Injury Compensation Act 2019, an employer in Singapore must notify the Ministry of Manpower (MOM) of a work accident within 10 days of the..."
+meta_description: "WICA requires an employer to notify MOM of a work accident within ten days. What counts as reportable, when the clock starts, and what to file."
 og_title: "How to File a Workplace Accident Notification Under WICA 2019: The 10-Day MOM Rule"
-og_description: "Under the Work Injury Compensation Act 2019, an employer in Singapore must notify the Ministry of Manpower (MOM) of a work accident within 10 days of the..."
+og_description: "WICA requires an employer to notify MOM of a work accident within ten days. What counts as reportable, when the clock starts, and what to file."
 ---
 
 > **The Answer in 60 Seconds**

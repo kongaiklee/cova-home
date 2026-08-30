@@ -13,9 +13,9 @@ word_count: 1939
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-ecommerce-eu-gdpr"
-meta_description: "Selling to EU customers triggers obligations under the EU General Data Protection Regulation (GDPR) - applying extraterritorially to non-EU businesses..."
+meta_description: "Selling to EU customers brings you inside GDPR even from Singapore. What applies extraterritorially, and what it requires you to do."
 og_title: "Singapore E-commerce Selling to EU Customers: GDPR and Insurance Implications"
-og_description: "Selling to EU customers triggers obligations under the EU General Data Protection Regulation (GDPR) - applying extraterritorially to non-EU businesses..."
+og_description: "Selling to EU customers brings you inside GDPR even from Singapore. What applies extraterritorially, and what it requires you to do."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1951
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/corporate-insurance-singapore-sme-real-problem"
-meta_description: "Singapore's SME insurance gap is not a story of indifference. It is a story of administrative load and information asymmetry. The QBE 2025 Singapore SME..."
+meta_description: "Singapore's SME insurance gap is not indifference. QBE's 2025 survey points at administrative load and information asymmetry instead."
 og_title: "The Real Problem with Corporate Insurance for Singapore SMEs (And What Covarage Does About It)"
-og_description: "Singapore's SME insurance gap is not a story of indifference. It is a story of administrative load and information asymmetry. The QBE 2025 Singapore SME..."
+og_description: "Singapore's SME insurance gap is not indifference. QBE's 2025 survey points at administrative load and information asymmetry instead."
 ---
 
 > **The Answer in 60 Seconds**

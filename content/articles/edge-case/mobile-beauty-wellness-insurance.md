@@ -13,9 +13,9 @@ word_count: 1732
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/mobile-beauty-wellness-insurance"
-meta_description: "A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa,..."
+meta_description: "A mobile beauty or wellness provider works in customers' homes. Where the liability sits when the premises are not yours, and what covers it."
 og_title: "Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)"
-og_description: "A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa,..."
+og_description: "A mobile beauty or wellness provider works in customers' homes. Where the liability sits when the premises are not yours, and what covers it."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1600
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-tower-follow-form-mechanics"
-meta_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics - excess layers adopting the terms..."
+meta_description: "Excess layers in a cyber tower follow the primary form, until they do not. Where follow-form breaks, and what that leaves uncovered."
 og_title: "Cyber Tower Follow-Form Mechanics Deep-Dive: How Excess Layers Coordinate (and Where Gaps Emerge)"
-og_description: "Cyber tower structures (covered conceptually in Article 167) coordinate across layers through \"follow-form\" mechanics - excess layers adopting the terms..."
+og_description: "Excess layers in a cyber tower follow the primary form, until they do not. Where follow-form breaks, and what that leaves uncovered."
 ---
 
 > **The Answer in 60 Seconds**

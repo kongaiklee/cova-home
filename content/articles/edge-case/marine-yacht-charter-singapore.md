@@ -13,9 +13,9 @@ word_count: 1519
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/marine-yacht-charter-singapore"
-meta_description: "Marine yacht charter, pleasure craft, and water sports operators in Singapore operate under Maritime and Port Authority of Singapore (MPA) framework with..."
+meta_description: "Yacht charter and pleasure craft operate under MPA licensing. What the Pleasure Craft framework requires, and where passenger liability sits."
 og_title: "Marine Yacht Charter and Pleasure Craft Operator: The Specific Insurance Profile for Singapore Maritime Recreation Operations"
-og_description: "Marine yacht charter, pleasure craft, and water sports operators in Singapore operate under Maritime and Port Authority of Singapore (MPA) framework with..."
+og_description: "Yacht charter and pleasure craft operate under MPA licensing. What the Pleasure Craft framework requires, and where passenger liability sits."
 ---
 
 > **The Answer in 60 Seconds**

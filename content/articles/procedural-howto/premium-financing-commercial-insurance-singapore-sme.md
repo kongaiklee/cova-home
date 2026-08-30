@@ -13,9 +13,9 @@ word_count: 1624
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/premium-financing-commercial-insurance-singapore-sme"
-meta_description: "Your SME has a SGD 25,000-500,000 commercial insurance programme (CAR/PL/WICA/property bundle) and wants to replace the annual lump-sum premium with..."
+meta_description: "Premium financing turns an annual lump sum into monthly instalments. What it costs, what it secures, and what happens if you stop paying."
 og_title: "How to Obtain Premium Financing for Commercial Insurance"
-og_description: "Your SME has a SGD 25,000-500,000 commercial insurance programme (CAR/PL/WICA/property bundle) and wants to replace the annual lump-sum premium with..."
+og_description: "Premium financing turns an annual lump sum into monthly instalments. What it costs, what it secures, and what happens if you stop paying."
 ---
 
 > **The Answer in 60 Seconds**

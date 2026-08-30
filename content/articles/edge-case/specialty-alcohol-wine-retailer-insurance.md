@@ -13,9 +13,9 @@ word_count: 1681
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/specialty-alcohol-wine-retailer-insurance"
-meta_description: "Specialty alcohol retailers (wine merchants, craft spirits retailers, sake / whisky specialists) in Singapore operate under Liquor Control (Supply and..."
+meta_description: "A specialty wine or spirits retailer holds a liquor licence and high-value stock together. What each one requires, and where they overlap."
 og_title: "Specialty Alcohol and Wine Retailer Insurance: Singapore Operator Framework"
-og_description: "Specialty alcohol retailers (wine merchants, craft spirits retailers, sake / whisky specialists) in Singapore operate under Liquor Control (Supply and..."
+og_description: "A specialty wine or spirits retailer holds a liquor licence and high-value stock together. What each one requires, and where they overlap."
 ---
 
 > **The Answer in 60 Seconds**

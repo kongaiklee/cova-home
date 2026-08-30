@@ -13,9 +13,9 @@ word_count: 1483
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/contribution-between-insurers-singapore"
-meta_description: "Contribution is the principle by which, when two or more insurance policies cover the same loss, the insurers share the burden of the indemnity between..."
+meta_description: "When two policies cover the same loss, contribution decides how the insurers share it. What that means for you, and why double cover is not double payment."
 og_title: "Contribution Between Insurers: When Multiple Policies Cover the Same Loss"
-og_description: "Contribution is the principle by which, when two or more insurance policies cover the same loss, the insurers share the burden of the indemnity between..."
+og_description: "When two policies cover the same loss, contribution decides how the insurers share it. What that means for you, and why double cover is not double payment."
 ---
 
 > **The Answer in 60 Seconds**

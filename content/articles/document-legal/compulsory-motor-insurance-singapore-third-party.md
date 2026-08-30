@@ -14,9 +14,9 @@ word_count: 2382
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/compulsory-motor-insurance-singapore-third-party"
-meta_description: "Yes, and it is one of only two insurances a Singapore business is required by statute to hold. Section 3(1) of the Motor Vehicles (Third-Party Risks and..."
+meta_description: "One of only two insurances Singapore law actually forces on a business. What the Motor Vehicles Act requires, for which vehicles, and what it does not."
 og_title: "Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs"
-og_description: "Yes, and it is one of only two insurances a Singapore business is required by statute to hold. Section 3(1) of the Motor Vehicles (Third-Party Risks and..."
+og_description: "One of only two insurances Singapore law actually forces on a business. What the Motor Vehicles Act requires, for which vehicles, and what it does not."
 ---
 
 # Does my business have to insure its vehicles, and what is the minimum?

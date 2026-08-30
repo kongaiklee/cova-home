@@ -13,9 +13,9 @@ word_count: 1590
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/reading-commercial-insurance-policy-singapore"
-meta_description: "A typical Singapore commercial insurance policy runs 30 to 60 pages and is structured around six core sections that determine whether the policy responds..."
+meta_description: "A commercial policy runs 30 to 60 pages around six core sections. Which sections decide whether it responds, and the order to read them in."
 og_title: "How to Read a Singapore Commercial Insurance Policy: The Six Sections That Matter Most"
-og_description: "A typical Singapore commercial insurance policy runs 30 to 60 pages and is structured around six core sections that determine whether the policy responds..."
+og_description: "A commercial policy runs 30 to 60 pages around six core sections. Which sections decide whether it responds, and the order to read them in."
 ---
 
 > **The Answer in 60 Seconds**

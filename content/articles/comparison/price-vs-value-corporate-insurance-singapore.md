@@ -13,9 +13,9 @@ word_count: 2048
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/price-vs-value-corporate-insurance-singapore"
-meta_description: "The QBE 2025 Singapore SME survey reported that price is the number-one consideration in commercial insurance decisions for a large majority of Singapore..."
+meta_description: "QBE's 2025 survey found price is the top consideration for most Singapore SMEs. What that preference costs when the claim arrives."
 og_title: "Why Buying Corporate Insurance on Price Alone Costs More in the Long Run"
-og_description: "The QBE 2025 Singapore SME survey reported that price is the number-one consideration in commercial insurance decisions for a large majority of Singapore..."
+og_description: "QBE's 2025 survey found price is the top consideration for most Singapore SMEs. What that preference costs when the claim arrives."
 ---
 
 > **The Answer in 60 Seconds**

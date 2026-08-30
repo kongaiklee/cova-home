@@ -13,9 +13,9 @@ word_count: 1584
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/commercial-drone-operator-insurance"
-meta_description: "A Singapore commercial drone operator (aerial photography, building inspection, surveying, mapping, delivery, agricultural application) operates under the..."
+meta_description: "A commercial drone operator flies under CAAS permits and operating limits. What is required before you fly for payment, and where liability lands."
 og_title: "Commercial Drone Operator Insurance in Singapore (Aerial Photography, Surveying, Inspection, Delivery)"
-og_description: "A Singapore commercial drone operator (aerial photography, building inspection, surveying, mapping, delivery, agricultural application) operates under the..."
+og_description: "A commercial drone operator flies under CAAS permits and operating limits. What is required before you fly for payment, and where liability lands."
 ---
 
 > **The Answer in 60 Seconds**

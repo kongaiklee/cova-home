@@ -13,9 +13,9 @@ word_count: 1949
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-uk-operations"
-meta_description: "---"
+meta_description: "The UK compels employers' liability insurance by statute. What a Singapore SME operating there must hold, and what the penalties are."
 og_title: "Singapore SME with UK Operations: Insurance and Regulatory Framework"
-og_description: "---"
+og_description: "The UK compels employers' liability insurance by statute. What a Singapore SME operating there must hold, and what the penalties are."
 ---
 
 > **60-second answer.** A Singapore SME extending to UK operations encounters a regulatory framework with several specific compulsory cover requirements: Employers' Liability Insurance under the Employers' Liability (Compulsory Insurance) Act 1969 with £5 million minimum (effectively £10m+ in market practice), Public Liability typically required by customer contracts, and Motor Insurance compulsory under the Road Traffic Act 1988. Employment regulation under the Employment Rights Act 1996, Equality Act 2010, and TUPE 2006 creates substantial exposure. UK GDPR (post-Brexit framework) governs data protection. Master/Local insurance structure with UK-admitted policies coordinated from a Singapore master is the standard architecture.

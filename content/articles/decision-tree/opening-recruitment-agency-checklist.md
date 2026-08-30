@@ -13,9 +13,9 @@ word_count: 1586
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-recruitment-agency-checklist"
-meta_description: "A Singapore recruitment / employment agency requires licensing from the Ministry of Manpower (MOM) under the Employment Agencies Act 1958 and Employment..."
+meta_description: "A recruitment agency is licensed by MOM under the Employment Agencies Act. What the licence requires, including the security bond."
 og_title: "Opening a Recruitment or Employment Agency in Singapore: Full Insurance Checklist"
-og_description: "A Singapore recruitment / employment agency requires licensing from the Ministry of Manpower (MOM) under the Employment Agencies Act 1958 and Employment..."
+og_description: "A recruitment agency is licensed by MOM under the Employment Agencies Act. What the licence requires, including the security bond."
 ---
 
 > **The Answer in 60 Seconds**

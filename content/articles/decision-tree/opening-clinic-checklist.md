@@ -13,9 +13,9 @@ word_count: 1818
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-clinic-checklist"
-meta_description: "A Singapore medical or dental clinic typically needs: Medical Indemnity (Professional Indemnity for medical practitioners) - mandatory for Singapore..."
+meta_description: "A medical or dental clinic needs indemnity cover as a condition of practice. What the opening stack looks like, and what the councils require."
 og_title: "Opening a Medical Clinic in Singapore: Full Insurance Checklist"
-og_description: "A Singapore medical or dental clinic typically needs: Medical Indemnity (Professional Indemnity for medical practitioners) - mandatory for Singapore..."
+og_description: "A medical or dental clinic needs indemnity cover as a condition of practice. What the opening stack looks like, and what the councils require."
 ---
 
 > **The Answer in 60 Seconds**

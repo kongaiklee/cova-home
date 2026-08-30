@@ -13,9 +13,9 @@ word_count: 1294
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/group-term-life-claim-process"
-meta_description: "Group Term Life (GTL) death benefit claims are typically simpler than commercial liability claims because the trigger (death of insured employee) and..."
+meta_description: "A group term life claim is simpler than most because the trigger and the benefit are both defined. What the process needs, and how long it takes."
 og_title: "Group Term Life Death Benefit Claim Process: From Notification to Beneficiary Payment"
-og_description: "Group Term Life (GTL) death benefit claims are typically simpler than commercial liability claims because the trigger (death of insured employee) and..."
+og_description: "A group term life claim is simpler than most because the trigger and the benefit are both defined. What the process needs, and how long it takes."
 ---
 
 > **The Answer in 60 Seconds**

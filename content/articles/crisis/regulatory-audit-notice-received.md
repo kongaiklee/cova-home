@@ -13,9 +13,9 @@ word_count: 1768
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/regulatory-audit-notice-received"
-meta_description: "Read the notice carefully - identify the regulator, scope, deadline, and any documents demanded. Singapore SMEs receive audit notices from various..."
+meta_description: "An audit notice names a regulator, a scope and a deadline. Read those three things first, because they decide everything that follows."
 og_title: "A Regulator Just Issued an Audit Notice - What Do I Do Now?"
-og_description: "Read the notice carefully - identify the regulator, scope, deadline, and any documents demanded. Singapore SMEs receive audit notices from various..."
+og_description: "An audit notice names a regulator, a scope and a deadline. Read those three things first, because they decide everything that follows."
 ---
 
 > **The Answer in 60 Seconds**

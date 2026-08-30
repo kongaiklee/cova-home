@@ -13,9 +13,9 @@ word_count: 2466
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-institute-of-architects-boa-insurance-framework"
-meta_description: "The Singapore Institute of Architects (SIA) is the professional learned society for the architectural profession in Singapore; the Board of Architects..."
+meta_description: "SIA represents architects; the Board of Architects registers them. Which body sets the practice conditions, and where indemnity is required."
 og_title: "Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices"
-og_description: "The Singapore Institute of Architects (SIA) is the professional learned society for the architectural profession in Singapore; the Board of Architects..."
+og_description: "SIA represents architects; the Board of Architects registers them. Which body sets the practice conditions, and where indemnity is required."
 ---
 
 > **The Answer in 60 Seconds**

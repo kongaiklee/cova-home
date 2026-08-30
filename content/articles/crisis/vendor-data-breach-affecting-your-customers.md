@@ -13,9 +13,9 @@ word_count: 3015
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/vendor-data-breach-affecting-your-customers"
-meta_description: "A vendor of the Singapore SME (CRM, payroll, cloud provider, customer support, marketing automation) has notified the SME that the vendor suffered a data..."
+meta_description: "A vendor breach involving your customers' data is still your notification duty. What to establish, who to tell, and in what order."
 og_title: "Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow"
-og_description: "A vendor of the Singapore SME (CRM, payroll, cloud provider, customer support, marketing automation) has notified the SME that the vendor suffered a data..."
+og_description: "A vendor breach involving your customers' data is still your notification duty. What to establish, who to tell, and in what order."
 ---
 
 > **The Answer in 60 Seconds**

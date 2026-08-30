@@ -13,9 +13,9 @@ word_count: 1650
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/lifting-equipment-collapse-crane-incident"
-meta_description: "A tower crane jib has failed, a lorry crane has toppled, or a mobile crane has collapsed. A worker is struck or trapped. This article addresses the..."
+meta_description: "A crane has failed and a worker is struck or trapped. The operational and regulatory response in the hours that follow, and what MOM will want."
 og_title: "Lifting Operation Failure: Crane Collapse, Lorry Crane Topple, Tower Crane Failure"
-og_description: "A tower crane jib has failed, a lorry crane has toppled, or a mobile crane has collapsed. A worker is struck or trapped. This article addresses the..."
+og_description: "A crane has failed and a worker is struck or trapped. The operational and regulatory response in the hours that follow, and what MOM will want."
 ---
 
 > **The Answer in 60 Seconds**

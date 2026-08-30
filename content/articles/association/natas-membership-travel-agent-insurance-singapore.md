@@ -13,9 +13,9 @@ word_count: 2126
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/natas-membership-travel-agent-insurance-singapore"
-meta_description: "The National Association of Travel Agents Singapore (NATAS) is a voluntary trade association. It runs the well-known travel fairs, represents the..."
+meta_description: "NATAS membership is voluntary and is not a licence. What actually governs a Singapore travel agent, and where the insurance duties really come from."
 og_title: "NATAS Membership and Travel Agent Insurance in Singapore: Where the Association Ends and the Law Begins"
-og_description: "The National Association of Travel Agents Singapore (NATAS) is a voluntary trade association. It runs the well-known travel fairs, represents the..."
+og_description: "NATAS membership is voluntary and is not a licence. What actually governs a Singapore travel agent, and where the insurance duties really come from."
 ---
 
 > **The Answer in 60 Seconds**

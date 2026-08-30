@@ -13,9 +13,9 @@ word_count: 609
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/per-occurrence-vs-aggregate-limits"
-meta_description: "Insurance limit structure framework distinguishes per-occurrence limits (cap per individual incident) and aggregate limits (cap across policy period)...."
+meta_description: "A per-occurrence limit caps each incident; an aggregate caps the year. Which one your policy uses decides what is left after the first claim."
 og_title: "Per Occurrence vs Aggregate Limits: Limit Structure Comparison"
-og_description: "Insurance limit structure framework distinguishes per-occurrence limits (cap per individual incident) and aggregate limits (cap across policy period)...."
+og_description: "A per-occurrence limit caps each incident; an aggregate caps the year. Which one your policy uses decides what is left after the first claim."
 ---
 
 > **The Answer in 60 Seconds**

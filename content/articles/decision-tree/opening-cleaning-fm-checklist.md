@@ -13,9 +13,9 @@ word_count: 1964
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-cleaning-fm-checklist"
-meta_description: "---"
+meta_description: "Opening a cleaning or FM business needs an NEA licence under the Environmental Public Health Act, plus mandatory cover. The full opening list."
 og_title: "Opening a Cleaning or Facilities Management Operation in Singapore: Insurance and Regulatory Checklist"
-og_description: "---"
+og_description: "Opening a cleaning or FM business needs an NEA licence under the Environmental Public Health Act, plus mandatory cover. The full opening list."
 ---
 
 > **60-second answer.** Opening a Singapore cleaning or facilities management business requires NEA Cleaning Business Licence under the Environmental Public Health Act, mandatory cover under the Work Injury Compensation Act 2019 (placed with a MOM-designated insurer), Public Liability for customer site work, Industry Wage Model under Progressive Wage Model framework with mandatory wage progression, WSHA compliance framework, Property cover for equipment investment, Pollution Liability for chemical handling, and Crime / Fidelity cover given customer site access. The Cleaning Industry Transformation Map and PWM framework substantially affect operating cost structure.

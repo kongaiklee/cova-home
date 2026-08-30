@@ -14,9 +14,9 @@ word_count: 2628
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/deepfake-authentication-fraud-singapore"
-meta_description: "Most coverage of deepfakes focuses on the CEO who tricks your finance team into wiring money. That is a real and separate problem, and we cover it in..."
+meta_description: "Not the CEO voice-clone story. This is deepfake fraud aimed at authentication: the identity checks a Singapore business relies on to let people in."
 og_title: "Deepfakes and Synthetic Identity: When AI Defeats Your Authentication, What Insurance Responds?"
-og_description: "Most coverage of deepfakes focuses on the CEO who tricks your finance team into wiring money. That is a real and separate problem, and we cover it in..."
+og_description: "Not the CEO voice-clone story. This is deepfake fraud aimed at authentication: the identity checks a Singapore business relies on to let people in."
 ---
 
 > **The Answer in 60 Seconds**

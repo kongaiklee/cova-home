@@ -13,9 +13,9 @@ word_count: 2163
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/hotel-keeper-licence-insurance-singapore"
-meta_description: "A hotel-keeper's licence under the Hotels Act 1954 does not require you to buy any insurance policy. To run a hotel lawfully you need two things from the..."
+meta_description: "A hotel-keeper's licence requires no insurance policy. What the Hotels Licensing Board does require, and where a hotel's cover obligations begin."
 og_title: "Does a Hotel-Keeper's Licence Require Insurance in Singapore?"
-og_description: "A hotel-keeper's licence under the Hotels Act 1954 does not require you to buy any insurance policy. To run a hotel lawfully you need two things from the..."
+og_description: "A hotel-keeper's licence requires no insurance policy. What the Hotels Licensing Board does require, and where a hotel's cover obligations begin."
 ---
 
 > **The Answer in 60 Seconds**

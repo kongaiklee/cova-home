@@ -13,9 +13,9 @@ word_count: 1871
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/marine-cargo-icc-a-b-c"
-meta_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest - \"all..."
+meta_description: "ICC A is all risks; B and C are named perils only. See which losses each clause set pays for before you agree a shipment's cover basis."
 og_title: "Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope"
-og_description: "The Institute Cargo Clauses (ICC) A, B, and C are the standard coverage forms used in marine cargo insurance globally. ICC (A) is the broadest - \"all..."
+og_description: "ICC A is all risks; B and C are named perils only. See which losses each clause set pays for before you agree a shipment's cover basis."
 ---
 
 > **The Answer in 60 Seconds**

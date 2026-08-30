@@ -13,9 +13,9 @@ word_count: 2206
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/massage-establishment-licence-insurance-singapore"
-meta_description: "A massage establishment in Singapore is licensed by the Police Licensing and Regulatory Department (PLRD) under the Massage Establishments Act 2017...."
+meta_description: "A massage establishment is licensed by the police under the 2017 Act. What section 5 makes an offence, and what the licence actually conditions."
 og_title: "What Insurance Does a Massage Establishment Licence Need in Singapore?"
-og_description: "A massage establishment in Singapore is licensed by the Police Licensing and Regulatory Department (PLRD) under the Massage Establishments Act 2017...."
+og_description: "A massage establishment is licensed by the police under the 2017 Act. What section 5 makes an offence, and what the licence actually conditions."
 ---
 
 > **The Answer in 60 Seconds**

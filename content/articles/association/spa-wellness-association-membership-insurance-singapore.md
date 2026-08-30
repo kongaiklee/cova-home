@@ -13,9 +13,9 @@ word_count: 2154
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/spa-wellness-association-membership-insurance-singapore"
-meta_description: "A spa and wellness trade association in Singapore is a voluntary industry body. Joining one gives you representation, networking and member services. It..."
+meta_description: "Association membership imposes no insurance mandate on a spa. The cover that matters comes from three other places, and the card is not one of them."
 og_title: "Spa and Wellness Association Membership and Insurance for Singapore Operators"
-og_description: "A spa and wellness trade association in Singapore is a voluntary industry body. Joining one gives you representation, networking and member services. It..."
+og_description: "Association membership imposes no insurance mandate on a spa. The cover that matters comes from three other places, and the card is not one of them."
 ---
 
 > **The Answer in 60 Seconds**

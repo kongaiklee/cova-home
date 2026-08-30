@@ -13,9 +13,9 @@ word_count: 1805
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/companies-act-section-172-do-side-b-indemnification"
-meta_description: "Section 172 of the Companies Act 1967 governs when a Singapore company can indemnify its directors and officers against liabilities incurred in their..."
+meta_description: "Section 172 governs when a company may indemnify its directors. What it permits, what it voids, and where D&O Side B fits."
 og_title: "Companies Act Section 172: How Indemnification Limits Shape D&O Side B Coverage"
-og_description: "Section 172 of the Companies Act 1967 governs when a Singapore company can indemnify its directors and officers against liabilities incurred in their..."
+og_description: "Section 172 governs when a company may indemnify its directors. What it permits, what it voids, and where D&O Side B fits."
 ---
 
 > **The Answer in 60 Seconds**

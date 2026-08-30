@@ -14,9 +14,9 @@ word_count: 2086
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/pdpa-section-24-protection-obligation"
-meta_description: "Section 24 of the Personal Data Protection Act 2012 requires every organisation to \"make reasonable security arrangements to prevent: (a) unauthorised..."
+meta_description: "Section 24 requires reasonable security arrangements against unauthorised access, loss or disposal of personal data. What counts as reasonable."
 og_title: "PDPA Section 24 Protection Obligation: What \"Reasonable Security Arrangements\" Actually Means"
-og_description: "Section 24 of the Personal Data Protection Act 2012 requires every organisation to \"make reasonable security arrangements to prevent: (a) unauthorised..."
+og_description: "Section 24 requires reasonable security arrangements against unauthorised access, loss or disposal of personal data. What counts as reasonable."
 ---
 
 > **The Answer in 60 Seconds**

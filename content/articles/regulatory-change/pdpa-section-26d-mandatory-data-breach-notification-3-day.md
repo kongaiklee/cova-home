@@ -13,9 +13,9 @@ word_count: 2579
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day"
-meta_description: "Every Singapore organisation collecting, using, or disclosing personal data is subject to mandatory data breach notification under Personal Data..."
+meta_description: "PDPA section 26D makes breach notification mandatory. What triggers it, the three-day clock, and what the notification has to contain."
 og_title: "PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs"
-og_description: "Every Singapore organisation collecting, using, or disclosing personal data is subject to mandatory data breach notification under Personal Data..."
+og_description: "PDPA section 26D makes breach notification mandatory. What triggers it, the three-day clock, and what the notification has to contain."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 1742
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/pet-cafe-animal-cafe"
-meta_description: "Singapore pet cafes (cat cafes, dog cafes, hamster cafes, reptile cafes) operate at the intersection of F&B, animal handling, and customer interaction - a..."
+meta_description: "A pet cafe is F&B, animal handling and customer interaction at once, which is three regulators. What each one wants from the same premises."
 og_title: "Pet Cafe or Animal Cafe in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore pet cafes (cat cafes, dog cafes, hamster cafes, reptile cafes) operate at the intersection of F&B, animal handling, and customer interaction - a..."
+og_description: "A pet cafe is F&B, animal handling and customer interaction at once, which is three regulators. What each one wants from the same premises."
 ---
 
 > **The Answer in 60 Seconds**

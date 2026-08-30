@@ -13,9 +13,9 @@ word_count: 1649
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore"
-meta_description: "Your SME has Foreign Worker Medical Insurance (FWMI) policies that need to comply with Ministry of Manpower (MOM) Stage 2 requirements applicable to all..."
+meta_description: "FWMI Stage 2 requirements apply to policies from 1 July 2025. What changed in the minimum terms, and what your existing policy has to meet."
 og_title: "How to Comply with FWMI Stage 2 Requirements (1 July 2025+)"
-og_description: "Your SME has Foreign Worker Medical Insurance (FWMI) policies that need to comply with Ministry of Manpower (MOM) Stage 2 requirements applicable to all..."
+og_description: "FWMI Stage 2 requirements apply to policies from 1 July 2025. What changed in the minimum terms, and what your existing policy has to meet."
 ---
 
 > **The Answer in 60 Seconds**

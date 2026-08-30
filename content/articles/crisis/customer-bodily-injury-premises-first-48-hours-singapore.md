@@ -13,9 +13,9 @@ word_count: 1462
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-bodily-injury-premises-first-48-hours-singapore"
-meta_description: "A customer or visitor injury at a Singapore SME's premises is the most common public liability claim event. The first 48 hours determine the strength of..."
+meta_description: "A customer injury on your premises is the most common public liability claim there is. What the first 48 hours decide about how it ends."
 og_title: "The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook"
-og_description: "A customer or visitor injury at a Singapore SME's premises is the most common public liability claim event. The first 48 hours determine the strength of..."
+og_description: "A customer injury on your premises is the most common public liability claim there is. What the first 48 hours decide about how it ends."
 ---
 
 > **The Answer in 60 Seconds**

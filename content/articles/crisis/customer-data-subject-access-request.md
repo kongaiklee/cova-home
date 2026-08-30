@@ -13,9 +13,9 @@ word_count: 2357
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-data-subject-access-request"
-meta_description: "---"
+meta_description: "A data subject access request under PDPA section 21 starts a clock. What you must provide, what you may withhold, and on what grounds."
 og_title: "Customer Data Subject Access Request: Singapore PDPA Section 21 Response Framework"
-og_description: "---"
+og_description: "A data subject access request under PDPA section 21 starts a clock. What you must provide, what you may withhold, and on what grounds."
 ---
 
 > **60-second answer.** A data subject access request (DSAR) under Personal Data Protection Act (PDPA) 2012 Section 21 is a request from an individual to access personal data the organisation holds about them, plus information about how that data has been used or disclosed in the year before the request. Organisations must respond as soon as reasonably possible - generally interpreted by PDPC as within 30 calendar days - or notify the requester if more time is needed. Access may be withheld only on limited grounds: Section 21(2) excepts the matters listed in the Fifth Schedule (such as legal privilege and evaluative opinion data), and Section 21(3) prohibits disclosure that would, for example, threaten another person's safety or reveal a third party's personal data; a refusal must be communicated with reasons. Fees for compliance are permitted under Section 28 but must be reasonable. Errors in DSAR handling can lead to PDPC complaints, financial penalties under the [post-1 October 2022 framework](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act), and reputational consequences.

@@ -13,9 +13,9 @@ word_count: 1581
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11"
-meta_description: "[Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asia Pacific Pte Ltd and others [2025] SGHC 82](https://www.elitigation.sg/) (judgment 30..."
+meta_description: "The Singapore High Court in OCBC v ArgoGlobal tested a marine warranty under section 11. What the judgment changed about breach and cover."
 og_title: "OCBC v Argoglobal Underwriting Asia Pacific [2025] SGHC 82: Marine Insurance Warranties and the UK Insurance Act 2015 in Singapore Courts"
-og_description: "[Oversea-Chinese Banking Corp Ltd v Argoglobal Underwriting Asia Pacific Pte Ltd and others [2025] SGHC 82](https://www.elitigation.sg/) (judgment 30..."
+og_description: "The Singapore High Court in OCBC v ArgoGlobal tested a marine warranty under section 11. What the judgment changed about breach and cover."
 ---
 
 > **The Answer in 60 Seconds**

@@ -13,9 +13,9 @@ word_count: 2836
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/it-vendor-saas-disappearance"
-meta_description: "The Singapore SME's critical IT vendor or SaaS provider has unexpectedly become unavailable: Singapore insolvency under IRDA 2018, foreign insolvency (US..."
+meta_description: "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What to secure first, and what your contract probably does not give you."
 og_title: "IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs"
-og_description: "The Singapore SME's critical IT vendor or SaaS provider has unexpectedly become unavailable: Singapore insolvency under IRDA 2018, foreign insolvency (US..."
+og_description: "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What to secure first, and what your contract probably does not give you."
 ---
 
 > **The Answer in 60 Seconds**

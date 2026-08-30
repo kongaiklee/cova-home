@@ -14,9 +14,9 @@ word_count: 4934
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme"
-meta_description: "A British Columbia tribunal made it official in February 2024: if your chatbot tells a customer something untrue and that customer relies on it, your..."
+meta_description: "Air Canada argued its chatbot was a separate legal entity responsible for itself. The tribunal disagreed. How Singapore law would treat the same facts."
 og_title: "When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs"
-og_description: "A British Columbia tribunal made it official in February 2024: if your chatbot tells a customer something untrue and that customer relies on it, your..."
+og_description: "Air Canada argued its chatbot was a separate legal entity responsible for itself. The tribunal disagreed. How Singapore law would treat the same facts."
 ---
 
 A British Columbia tribunal made it official in February 2024: if your chatbot tells a customer something untrue and that customer relies on it, your business pays. Air Canada tried the obvious defence - that the chatbot was "a separate legal entity responsible for its own actions" - and it failed. The tribunal called the chatbot what it really is: part of the company's website, and the company is responsible for everything on its website. That ruling, *Moffatt v Air Canada* [2024 BCCRT 149](https://canlii.ca/t/k2spq), is now the most-cited common-law decision on chatbot liability in the world. It is small in dollar terms. It is enormous in legal terms. And it is directly relevant to every Singapore SME that has put a chatbot on its website, in its app, or inside its WhatsApp Business account.

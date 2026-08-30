@@ -13,9 +13,9 @@ word_count: 1866
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/snef-membership-employer-insurance-singapore"
-meta_description: "The Singapore National Employers Federation (SNEF) is a non-statutory trade association that represents employers in Singapore's tripartite system,..."
+meta_description: "SNEF represents employers in the tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere entirely."
 og_title: "SNEF Membership and the Employer's Insurance Picture in Singapore"
-og_description: "The Singapore National Employers Federation (SNEF) is a non-statutory trade association that represents employers in Singapore's tripartite system,..."
+og_description: "SNEF represents employers in the tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere entirely."
 ---
 
 > **The Answer in 60 Seconds**

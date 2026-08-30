@@ -13,9 +13,9 @@ word_count: 1876
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/regional-property-fire-programme"
-meta_description: "Property and Fire insurance is the most jurisdictionally fragmented commercial line in regional SME programmes. Almost every country requires..."
+meta_description: "Property is the most jurisdictionally fragmented regional line. Most countries require admitted cover locally, and that shapes the whole programme."
 og_title: "Regional Property and Fire Programme: Singapore-HQ SMEs With Property Across Multiple Countries"
-og_description: "Property and Fire insurance is the most jurisdictionally fragmented commercial line in regional SME programmes. Almost every country requires..."
+og_description: "Property is the most jurisdictionally fragmented regional line. Most countries require admitted cover locally, and that shapes the whole programme."
 ---
 
 > **The Answer in 60 Seconds**

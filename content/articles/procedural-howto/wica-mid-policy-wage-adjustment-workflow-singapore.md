@@ -13,9 +13,9 @@ word_count: 3756
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore"
-meta_description: "A clerk crosses S$2,600 a month after a mid-year salary review. A factory promotes a leading hand to a non-manual coordinator role on 1 June. A logistics..."
+meta_description: "A clerk crosses S$2,600. A leading hand is promoted. Three drivers join. Each moves your WICA position, and the adjustment is not annual."
 og_title: "WICA Mid-Policy Wage Adjustment Workflow: What Singapore SMEs Must Do When Headcount or Wages Change"
-og_description: "A clerk crosses S$2,600 a month after a mid-year salary review. A factory promotes a leading hand to a non-manual coordinator role on 1 June. A logistics..."
+og_description: "A clerk crosses S$2,600. A leading hand is promoted. Three drivers join. Each moves your WICA position, and the adjustment is not annual."
 ---
 
 A clerk crosses S$2,600 a month after a mid-year salary review. A factory promotes a leading hand to a non-manual coordinator role on 1 June. A logistics SME hires three additional Work Permit drivers in the third quarter. An F&B chain pays out its Annual Wage Supplement (AWS) in December. Each of these events can change a Work Injury Compensation Act ("WICA") insurance position mid-policy, and the duty to act on the change sits with the employer - not with the broker, not with the insurer, and not with Covarage. Miss the disclosure, and the insurer may exercise the all-or-nothing remedy of avoidance under the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906); maintain a policy that does not match the workforce, and you remain personally liable for compensation under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019).

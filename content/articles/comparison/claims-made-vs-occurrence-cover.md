@@ -13,9 +13,9 @@ word_count: 992
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/claims-made-vs-occurrence-cover"
-meta_description: "Insurance cover trigger framework distinguishes between two foundational approaches: claims-made cover (responds to claims first made during the policy..."
+meta_description: "Claims-made responds to claims made during the period; occurrence responds to events during it. The difference decides who pays years later."
 og_title: "Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications"
-og_description: "Insurance cover trigger framework distinguishes between two foundational approaches: claims-made cover (responds to claims first made during the policy..."
+og_description: "Claims-made responds to claims made during the period; occurrence responds to events during it. The difference decides who pays years later."
 ---
 
 > **The Answer in 60 Seconds**

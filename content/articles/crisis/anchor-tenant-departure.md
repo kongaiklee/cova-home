@@ -13,9 +13,9 @@ word_count: 1792
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/anchor-tenant-departure"
-meta_description: "First, assess actual operational impact (footfall change, co-tenancy clauses, customer perception) and review your tenancy agreement (registered under SLA..."
+meta_description: "An anchor tenant leaving changes footfall and can trigger co-tenancy clauses. What to assess first, and what the tenancy agreement allows."
 og_title: "Our Anchor Tenant Just Announced They're Leaving the Mall - What Do I Do Now?"
-og_description: "First, assess actual operational impact (footfall change, co-tenancy clauses, customer perception) and review your tenancy agreement (registered under SLA..."
+og_description: "An anchor tenant leaving changes footfall and can trigger co-tenancy clauses. What to assess first, and what the tenancy agreement allows."
 ---
 
 > **The Answer in 60 Seconds**

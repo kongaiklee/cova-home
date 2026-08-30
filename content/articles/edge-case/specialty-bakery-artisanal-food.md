@@ -13,9 +13,9 @@ word_count: 1738
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/specialty-bakery-artisanal-food"
-meta_description: "Singapore specialty bakeries, artisanal food producers, sourdough operators, gluten-free bakeries, vegan-only producers, fermentation specialists,..."
+meta_description: "Specialty bakeries and artisanal producers sit under SFA food rules with small-batch process risk. Where the exposure actually concentrates."
 og_title: "Specialty Bakery or Artisanal Food Producer in Singapore: What Insurance Do You Actually Need?"
-og_description: "Singapore specialty bakeries, artisanal food producers, sourdough operators, gluten-free bakeries, vegan-only producers, fermentation specialists,..."
+og_description: "Specialty bakeries and artisanal producers sit under SFA food rules with small-batch process risk. Where the exposure actually concentrates."
 ---
 
 > **The Answer in 60 Seconds**

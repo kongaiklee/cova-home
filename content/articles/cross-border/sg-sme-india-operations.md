@@ -13,9 +13,9 @@ word_count: 1642
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-india-operations"
-meta_description: "Singapore SMEs operating in India through subsidiary, branch, or distributor structures face a substantively distinctive regulatory framework administered..."
+meta_description: "India's IRDAI framework is substantively distinctive, and it constrains what a foreign parent can do. What must be placed locally, and how."
 og_title: "Singapore SMEs Operating in India: Cross-Border Insurance and Commercial Framework"
-og_description: "Singapore SMEs operating in India through subsidiary, branch, or distributor structures face a substantively distinctive regulatory framework administered..."
+og_description: "India's IRDAI framework is substantively distinctive, and it constrains what a foreign parent can do. What must be placed locally, and how."
 ---
 
 > **The Answer in 60 Seconds**

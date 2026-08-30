@@ -13,9 +13,9 @@ word_count: 1712
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/religious-tour-operator-insurance"
-meta_description: "---"
+meta_description: "A pilgrimage operator is a licensed travel agent carrying groups abroad. What the Travel Agents Act requires, and what the itinerary adds."
 og_title: "Religious Tour Operator: Insurance Framework for Pilgrimage and Faith-Based Travel Operations"
-og_description: "---"
+og_description: "A pilgrimage operator is a licensed travel agent carrying groups abroad. What the Travel Agents Act requires, and what the itinerary adds."
 ---
 
 > **60-second answer.** A religious tour operator running pilgrimages from Singapore (Umrah, Hajj, Buddhist circuit, Christian Holy Land tours, Hindu temple tours) operates as a Travel Agents Act 1975 licensed travel agent regulated by the Singapore Tourism Board (STB), guided by the practices and codes of the National Association of Travel Agents Singapore (NATAS), and operationally engaged with the Singapore Pilgrim Affairs Office (PAO) for Hajj operations specifically. Insurance framework includes Travel Agents Act compliance, professional indemnity for itinerary planning and advice, public liability for group travel scenarios, business travel insurance for travellers (mandatory for Umrah and other regulated categories), and contingent business interruption for supplier failures. Cancellation insurance is operationally important given large prepayment to overseas service providers.

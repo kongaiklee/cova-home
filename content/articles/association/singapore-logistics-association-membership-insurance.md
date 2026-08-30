@@ -13,9 +13,9 @@ word_count: 2062
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-logistics-association-membership-insurance"
-meta_description: "The Singapore Logistics Association (SLA) is a non-statutory trade body for the logistics, freight forwarding, and supply chain sector. It is not a..."
+meta_description: "Logistics Association membership is not a licence and imposes no insurance. What does bind a freight forwarder is the trading conditions it signs up to."
 og_title: "Singapore Logistics Association Membership and Insurance for Logistics SMEs"
-og_description: "The Singapore Logistics Association (SLA) is a non-statutory trade body for the logistics, freight forwarding, and supply chain sector. It is not a..."
+og_description: "Logistics Association membership is not a licence and imposes no insurance. What does bind a freight forwarder is the trading conditions it signs up to."
 ---
 
 > **The Answer in 60 Seconds**

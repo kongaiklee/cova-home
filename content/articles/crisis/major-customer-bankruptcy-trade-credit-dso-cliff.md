@@ -13,9 +13,9 @@ word_count: 3038
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/major-customer-bankruptcy-trade-credit-dso-cliff"
-meta_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) - scheme of arrangement under Part 5..."
+meta_description: "Your largest customer has filed under IRDA. What the moratorium does to your debt, and what a trade credit policy needs from you now."
 og_title: "Major Customer Bankruptcy: The Trade Credit DSO Cliff Event"
-og_description: "The Singapore SME's largest customer has filed under the Insolvency, Restructuring and Dissolution Act 2018 (IRDA) - scheme of arrangement under Part 5..."
+og_description: "Your largest customer has filed under IRDA. What the moratorium does to your debt, and what a trade credit policy needs from you now."
 ---
 
 > **The Answer in 60 Seconds**

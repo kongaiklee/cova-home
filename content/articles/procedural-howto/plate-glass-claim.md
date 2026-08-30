@@ -13,9 +13,9 @@ word_count: 1340
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/plate-glass-claim"
-meta_description: "Plate Glass insurance is usually a sub-section of a Property All Risks (PAR) or Fire policy, or a standalone policy for businesses with significant glass..."
+meta_description: "Plate glass usually sits as a sub-section of a property policy rather than on its own. What it covers, and when a standalone is worth having."
 og_title: "How to File a Plate Glass Insurance Claim"
-og_description: "Plate Glass insurance is usually a sub-section of a Property All Risks (PAR) or Fire policy, or a standalone policy for businesses with significant glass..."
+og_description: "Plate glass usually sits as a sub-section of a property policy rather than on its own. What it covers, and when a standalone is worth having."
 ---
 
 > **The Answer in 60 Seconds**

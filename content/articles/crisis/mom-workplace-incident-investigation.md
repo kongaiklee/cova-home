@@ -13,9 +13,9 @@ word_count: 1436
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/mom-workplace-incident-investigation"
-meta_description: "First, distinguish what has been triggered: a WICA claim notification (an employee reporting a work injury for compensation), an MOM Occupational Safety..."
+meta_description: "A WICA notification, an MOM safety investigation and a prosecution are three different things. Work out which one you are in, first."
 og_title: "MOM Just Notified Us of a Workplace Incident Investigation - What Do I Do Now?"
-og_description: "First, distinguish what has been triggered: a WICA claim notification (an employee reporting a work injury for compensation), an MOM Occupational Safety..."
+og_description: "A WICA notification, an MOM safety investigation and a prosecution are three different things. Work out which one you are in, first."
 ---
 
 > **The Answer in 60 Seconds**
