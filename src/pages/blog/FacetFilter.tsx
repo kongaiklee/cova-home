@@ -1,7 +1,7 @@
 import clsx from 'clsx';
 import { useState } from 'react';
 import { X } from 'lucide-react';
-import { AXES, type Axis, type RequiredValue, type Selection, isEmpty } from '../../content/facets';
+import { AXES, NOT_A_BODY, type Axis, type RequiredValue, type Selection, isEmpty } from '../../content/facets';
 
 interface FacetFilterProps {
   selection: Selection;
@@ -46,6 +46,9 @@ export default function FacetFilter({
       {AXES.map(({ key, label }) => {
         const all = Object.entries(counts[key])
           .filter(([v, n]) => n > 0 || selection[key].includes(v))
+          // Kong 2026-08-30: a value that is not a body earns no chip on the agency axis. Kept
+          // when SELECTED so a published ?agency= link stays clearable by whoever followed it.
+          .filter(([v]) => key !== 'agency' || !NOT_A_BODY.has(v) || selection[key].includes(v))
           .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
         if (all.length === 0) return null;
         const shown = open[key] ? all : all.slice(0, SHOW);

@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import { agencyNameLong } from '../../content/facets';
+import { agencyNameLong, NOT_A_BODY } from '../../content/facets';
 import type { Axis, Selection } from '../../content/facets';
 
 /**
@@ -20,20 +20,8 @@ const GROUPS: { axis: Axis; label: string; all: string }[] = [
  * industry bodies and statutes; anything else joins by count. */
 const AGENCY_ORDER = ['MOM', 'MAS', 'ACRA', 'PDPC', 'SCDF', 'Courts', 'GIA'];
 
-/**
- * Values that are not a BODY, and so do not belong in a list headed `Ministries & regulators`
- * whose reset reads `All bodies`.
- *
- * `Singapore Statutes` is derived from sso.agc.gov.sg - the statute book itself, not an agency -
- * and it sits on 440 of 524 articles. A filter that keeps 84 per cent of the corpus filters
- * nothing, and 367 of those 440 also carry a real body, so the row added nothing the other tags
- * did not already say. Dropped from the rail on Kong's word, 2026-08-30.
- *
- * THE TAG ITSELF IS UNTOUCHED in the data: it still marks an article as citing primary
- * legislation, it is still the citation backlink on the article page, and 73 articles carry no
- * other agency. Only the filter ROW is gone.
- */
-const NOT_A_BODY = new Set(['Singapore Statutes']);
+/* NOT_A_BODY moved to content/facets.ts - two surfaces render agency values and this one
+ * diverged: the exclusion shipped here while FacetFilter kept the chip on /blog. */
 
 const TOP_N = 8;
 

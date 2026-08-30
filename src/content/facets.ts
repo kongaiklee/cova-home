@@ -47,6 +47,26 @@ export function agencyNameLong(label: string): string {
   return redundant ? full : `${full} (${label})`;
 }
 
+/**
+ * Values carried on the `agency` axis that are NOT a body, so they never earn a filter row.
+ *
+ * `Singapore Statutes` is the statute book at sso.agc.gov.sg, not an agency - dropped from the
+ * bodies filter on Kong's word, 2026-08-30. It sat on 440 of 524 articles, so as a filter it
+ * selected almost everything and told a reader nothing.
+ *
+ * THE TAG ITSELF IS UNTOUCHED IN THE DATA: it still marks an article as citing primary
+ * legislation, it is still the citation backlink on the article page, and 73 articles carry no
+ * other agency. Only the filter ROW is gone.
+ *
+ * IT LIVES HERE, NOT IN A COMPONENT, BECAUSE IT ALREADY DIVERGED ONCE: the exclusion shipped in
+ * `FacetRail` alone while `FacetFilter` kept rendering the same chip on `/blog`, so half the
+ * ruling was live and half was not. A surface that renders agency values imports this set.
+ *
+ * A SELECTED VALUE STILL RENDERS on both surfaces - a published `?agency=singapore-statutes`
+ * link must stay clearable by the reader who followed it.
+ */
+export const NOT_A_BODY = new Set(['Singapore Statutes']);
+
 export const AXES: { key: Axis; label: string; field: 'industries' | 'topics' | 'agencies' }[] = [
   { key: 'policy', label: 'Policy', field: 'topics' },
   { key: 'industry', label: 'Industry', field: 'industries' },
