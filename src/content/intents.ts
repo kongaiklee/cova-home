@@ -99,6 +99,36 @@ export const CATEGORY_LABELS: Record<string, string> = {
   'emerging-risk': 'Emerging Risks',
 };
 
+/**
+ * The one-line hub intro, per category. Copy of record:
+ * `cmo/copywriter/drafts/guide-category-hub-intros.md` (desk draft, gate-clean, 2026-08-30),
+ * matched to these ids through that draft's own taxonomy map.
+ *
+ * ELEVEN, not twelve - `tools` has no articles and receives no intro, which is the same
+ * correction the production measurement made against the indexing plan.
+ *
+ * The draft's own section headings are marked NON-SHIPPING there and are addressing labels, not
+ * copy: they name the hub and its count so each line can be matched to a category. The shipping
+ * label stays CATEGORY_LABELS above. Where the desk's name and the shipped label differ
+ * (`Crisis Response` vs `When something happens`, `Documents & Contracts` vs `Law and legal
+ * documents`, `Industry Bodies` vs `Associations`), NOTHING was renamed here - a label change
+ * would ripple into the blog rail, the footer nav and the sidebar grouping, and it was not the
+ * routed item. Flagged to CPO instead.
+ */
+export const CATEGORY_INTROS: Record<string, string> = {
+  'procedural-howto': 'Follow the steps for common insurance, claims and regulatory tasks.',
+  'decision-tree': 'Work through the facts, documents and questions behind a business decision.',
+  'edge-case': 'Find the details that matter when the usual answer does not fit.',
+  'cross-border': 'Understand the duties and insurance questions that cross jurisdictions.',
+  comparison: 'See how terms and cover types differ, without a recommendation.',
+  licensing: 'Check what a Singapore licence requires and what it does not.',
+  'regulatory-change': 'Track rule changes, effective dates and the businesses affected.',
+  association: 'Understand membership rules, industry standards and related insurance questions.',
+  'document-legal': 'Read the duties, offences and documents behind the requirement.',
+  'emerging-risk': 'Follow developing risks and the rules taking shape around them.',
+  crisis: 'Start with the immediate facts, records and people to contact.',
+};
+
 export function intentForCategory(category: string): IntentId | undefined {
   return INTENTS.find((i) => i.categories.includes(category))?.id;
 }

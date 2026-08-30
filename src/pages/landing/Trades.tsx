@@ -12,7 +12,26 @@ function Card({ t }: { t: Trade }) {
         <div className={clsx('font-serif text-[22px] tracking-[-0.6px] text-text-primary lg:text-[26px]', t.sub ? 'mb-1' : 'mb-2.5 lg:mb-3.5')}>{t.title}</div>
         {t.sub && <div className="mb-2.5 text-xs text-text-secondary lg:mb-3.5 lg:text-[13px]">{t.sub}</div>}
         <div className="mb-2 text-[11px] font-semibold tracking-[0.12em] text-text-secondary uppercase lg:mb-2.5">Usually holds</div>
-        <p className="m-0 mb-3 text-sm/[1.6] text-text-secondary lg:mb-4 lg:text-[15px]/[1.65]">{t.holds}</p>
+        {/*
+          Recut 2026-08-30: one paragraph became two `<cover> - <reason>` lines, and the FULL LINE is the
+          link, not a trailing read-more. That is the copywriter's instruction and it is also why `law`
+          is safe as a card reason: the qualifying detail sits one click away on the guide, so the
+          shortest honest phrasing does not have to carry the caveat.
+          A <ul> rather than stacked <p>s - two related items IS a list, and it gives assistive tech the
+          count for free.
+        */}
+        <ul className="m-0 mb-3 list-none p-0 lg:mb-4">
+          {t.holds.map((h) => (
+            <li key={h.href + h.text} className="mb-1.5 last:mb-0">
+              <Link
+                to={h.href}
+                className="text-sm/[1.6] text-text-secondary underline decoration-[#d8cec4] underline-offset-[3px] hover:text-text-primary hover:decoration-[#a8968a] lg:text-[15px]/[1.65]"
+              >
+                {h.text}
+              </Link>
+            </li>
+          ))}
+        </ul>
         <Link to={t.href} className="inline-block border-b border-[#c2d4e2] pb-px text-sm font-medium text-primary">Read the checklist</Link>
       </div>
     </div>
@@ -22,6 +41,11 @@ function Card({ t }: { t: Trade }) {
 /**
  * 4B. Eight trades. Desktop: a 4 x 2 grid, no script. Phone: one card at a time - a scroll-snap
  * track with arrows and dots; swipe works with no script at all.
+ *
+ * Card body is TWO LINKED COVER LINES (recut 2026-08-30, Kong rejected the paragraph form). Every
+ * string lives in data.ts by that file's own rule - a copy change is an edit there, never here.
+ * Second-order reason this is more than a trim: it puts eight guide links on the highest-traffic
+ * page we own, which is the G17 internal-linking motion aimed at the front door.
  */
 export default function Trades() {
   const track = useRef<HTMLDivElement>(null);

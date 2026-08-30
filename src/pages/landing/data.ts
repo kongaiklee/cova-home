@@ -15,34 +15,67 @@ export interface Trade {
   card: string;
   title: string;
   sub?: string;
-  holds: string;
+  /**
+   * The two cover lines, `<cover> - <short reason>`, each a LINK to the guide carrying the
+   * qualifying detail. Recut 2026-08-30 from a paragraph after Kong rejected the live copy;
+   * copy of record is the desk draft `cmo/copywriter/drafts/trade-cards-recut.md`.
+   *
+   * `law` is a compact card reason, NOT a claim that every business is insurable under the
+   * same rule - the copywriter's own flag. The linked guide carries the qualification, which
+   * is why the WHOLE line is clickable rather than a trailing read-more.
+   */
+  holds: { text: string; href: string }[];
   href: string;
 }
 
 export const TRADES: Trade[] = [
   { id: 'fnb', label: 'Food and beverage', hero: 'fnb', card: 'fnb', title: 'Food and beverage',
-    holds: 'Work injury cover for kitchen and service staff, which the law requires. Public liability, because the lease asks for it and customers slip.',
+    holds: [
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+      { text: 'Public liability - lease, customer exposure', href: articleUrl('/procedural-howto/pl-claim-customer-slip-fnb') },
+    ],
     href: articleUrl('/decision-tree/opening-cafe-checklist') },
   { id: 'construction', label: 'Construction', hero: 'construction', card: 'construction', title: 'Construction',
-    holds: "Work injury cover for every site worker, which the law requires. Contractors' all risks and public liability, because the main contract puts them on you.",
+    holds: [
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+      { text: 'Contractors\' all risks, public liability - main contract', href: articleUrl('/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor') },
+    ],
     href: articleUrl('/decision-tree/opening-interior-design-renovation-checklist') },
   { id: 'logistics', label: 'Logistics', hero: 'logistics', card: 'logistics', title: 'Logistics',
-    holds: "Third-party motor on every vehicle, which the law requires. Goods in transit or marine cargo, because your customers' terms ask for it.",
+    holds: [
+      { text: 'Third-party motor - law', href: articleUrl('/document-legal/compulsory-motor-insurance-singapore-third-party') },
+      { text: 'Goods in transit, marine cargo - client contract', href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme') },
+    ],
     href: articleUrl('/decision-tree/opening-logistics-freight-forwarder-checklist') },
   { id: 'retail', label: 'Retail', hero: 'retail', card: 'retail', title: 'Retail',
-    holds: 'Work injury cover for shop staff, which the law requires. Public liability and fire, because the mall lease asks for both.',
+    holds: [
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+      { text: 'Public liability, fire - lease', href: articleUrl('/comparison/fire-vs-par') },
+    ],
     href: articleUrl('/regulatory-change/fire-code-2023') },
   { id: 'maritime', label: 'Maritime', hero: 'maritime', card: 'maritime', title: 'Maritime',
-    holds: 'Marine cargo under the Institute Cargo Clauses, by voyage or on open cover. Work injury cover for crew and yard staff, which the law requires.',
+    holds: [
+      { text: 'Marine cargo - client contract', href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme') },
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+    ],
     href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme') },
   { id: 'professional', label: 'Professional services', hero: 'tech', card: 'professional', title: 'Professional services',
-    holds: 'Professional indemnity, because client engagement letters ask for it. Work injury cover for staff, which the law requires.',
+    holds: [
+      { text: 'Professional indemnity - client contract', href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+    ],
     href: articleUrl('/decision-tree/opening-law-firm-checklist') },
   { id: 'tech', label: 'Tech companies', hero: 'tech', card: 'tech', title: 'Tech companies', sub: 'SaaS, software houses, IT vendors.',
-    holds: "Professional indemnity and cyber, because your customers' contracts ask for both. Work injury cover for staff, which the law requires.",
+    holds: [
+      { text: 'Professional indemnity, cyber - client contract', href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+    ],
     href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
   { id: 'startups', label: 'Startups', hero: 'startups', card: 'startups', title: 'Startups', sub: 'Pre-seed to Series A. First hires, first office.',
-    holds: "Work injury cover from your first hire, which the law requires. Directors' and officers' cover, because investors commonly ask for it at the round.",
+    holds: [
+      { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
+      { text: 'Directors\' and officers\' cover - investor', href: articleUrl('/comparison/do-vs-pi-vs-epl') },
+    ],
     href: articleUrl('/decision-tree/starting-saas-startup-checklist') },
 ];
 

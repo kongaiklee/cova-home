@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import Seo from '../../components/Seo';
 import { ARTICLES, articleUrl } from '../../content/articles';
-import { CATEGORY_LABELS } from '../../content/intents';
+import { CATEGORY_INTROS, CATEGORY_LABELS } from '../../content/intents';
 
 /**
  * A category hub: one prerendered page per category listing EVERY article in it as a plain
@@ -14,11 +14,14 @@ import { CATEGORY_LABELS } from '../../content/intents';
  * has failed at its only job. Every article becomes one hop from a hub and each hub one hop from
  * the homepage.
  *
- * The intro copy is CMO's to fill in; shipping with the category label does not gate the build
- * (her plan says so explicitly), so nothing here invents marketing language.
+ * The intro copy LANDED 2026-08-30 (CMO's desk draft, eleven lines) and lives in
+ * CATEGORY_INTROS. It is rendered ABOVE the count line rather than replacing it: the sourcing
+ * sentence is a standing claim carried on other surfaces too, so this pass ADDS the desk line
+ * and removes nothing. A hub with no intro still renders correctly - the paragraph elides.
  */
 export default function CategoryHub({ category }: { category: string }) {
   const label = CATEGORY_LABELS[category] ?? category;
+  const intro = CATEGORY_INTROS[category];
   // Newest first, matching the index's own order. The manifest is pre-sorted.
   const articles = ARTICLES.filter((a) => a.category === category);
 
@@ -41,6 +44,9 @@ export default function CategoryHub({ category }: { category: string }) {
         <h1 className="m-0 mb-3 max-w-[22ch] font-serif text-[32px]/[1.1] tracking-[-1px] text-text-primary lg:text-[44px]/[1.08] lg:tracking-[-1.4px]">
           {label}
         </h1>
+        {intro && (
+          <p className="m-0 mb-3 max-w-[60ch] text-base/[1.6] text-text-primary lg:text-[17px]">{intro}</p>
+        )}
         <p className="m-0 mb-9 max-w-[60ch] text-base/[1.6] text-text-secondary lg:mb-12 lg:text-[17px]">
           {articles.length} guides. Every fact links to a primary regulator, statute or named
           insurer document.
