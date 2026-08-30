@@ -23,3 +23,7 @@ dist-ssr
 *.sln
 *.sw?
 .vercel
+
+# The pack-link SIGNING PRIVATE KEY. Never committed - possession of it means the ability
+# to mint a valid /pack link. The PUBLIC key is committed at src/content/packKey.ts by design.
+.pack-signing-key

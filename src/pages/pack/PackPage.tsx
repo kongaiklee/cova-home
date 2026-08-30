@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { Head } from 'vite-react-ssg';
 import { ARTICLES } from '../../content/articles';
+import { PACK_PUBLIC_KEY_SPKI_B64, PACK_TOKEN_SEPARATOR, PACK_VERIFY_ALGO, PACK_SIGN_ALGO } from '../../content/packKey';
 import { Mark } from '../landing/Sections2';
 import { TRADES } from '../landing/data';
 
@@ -8,10 +9,18 @@ import { TRADES } from '../landing/data';
  * The onboarding pack (plan item 15) - a personalised page at a private link, never a PDF
  * (CD DIRECTION_onboarding-pack.md; copy = PAGE_COPY_vanilla.md s17 Rev 3i, verbatim).
  *
- * The link carries the personalisation: /pack?t=<base64url JSON> minted by
- * scripts/make-pack-link.mjs when the team opens the account. No token, a stale token or a
- * mangled token renders the plain ask-us-again state - never an error dump (CD s5.1). The
- * static prerender is that neutral state, so no personal data ever sits in served HTML.
+ * The link carries the personalisation: /pack?t=<payload>.<signature> minted by
+ * scripts/make-pack-link.mjs when the team opens the account. No token, a stale token, a
+ * mangled token or - since 2026-08-30 - an UNSIGNED OR FORGED one renders the plain
+ * ask-us-again state, never an error dump (CD s5.1). The static prerender is that neutral
+ * state, so no personal data ever sits in served HTML.
+ *
+ * SIGNING (Kong: "ok sign the token"; CD s7). The token is verified against a PUBLIC key
+ * before a single field is trusted - see src/content/packKey.ts for why the key is public and
+ * why that is safe. A forged link gets the SAME neutral page a stale one does, deliberately:
+ * s7.3 rules that a failed signature behaves exactly like a failed decode, with no new UI and
+ * no error vocabulary. That is also the right thing to show a VICTIM of a forged link - it
+ * tells them nothing and hands them a real way to reach a person.
  * noindex,nofollow; excluded from the sitemap (gen-seo.mjs lists URLs explicitly).
  */
 
@@ -27,11 +36,46 @@ interface PackData {
   renewals?: { policy: string; date: string }[];
 }
 
-function decodeToken(t: string | null): PackData | null {
+/** base64url -> bytes. Used for the payload, the signature and the key alike. */
+function b64urlToBytes(b64url: string): Uint8Array<ArrayBuffer> {
+  const b64 = b64url.replace(/-/g, '+').replace(/_/g, '/');
+  const bin = atob(b64.padEnd(Math.ceil(b64.length / 4) * 4, '='));
+  const out = new Uint8Array(bin.length);
+  for (let i = 0; i < bin.length; i += 1) out[i] = bin.charCodeAt(i);
+  return out;
+}
+
+/**
+ * Verify FIRST, parse second - the order is the whole point. Any failure at any step returns
+ * null, which is the single neutral outcome the page already knows how to render.
+ *
+ * Returns null for: no token, no signature half, an unknown-shaped token, a signature that
+ * does not verify against the payload, or a payload that is not a JSON object. An unsigned
+ * token - the exact artefact that worked before this shipped - has no signature half and dies
+ * on the first check.
+ */
+async function verifyToken(t: string | null): Promise<PackData | null> {
   if (!t) return null;
+  const [payload, sig, ...rest] = t.split(PACK_TOKEN_SEPARATOR);
+  if (!payload || !sig || rest.length) return null;
   try {
-    const json = atob(t.replace(/-/g, '+').replace(/_/g, '/'));
-    const data = JSON.parse(json);
+    const key = await crypto.subtle.importKey(
+      'spki',
+      b64urlToBytes(PACK_PUBLIC_KEY_SPKI_B64),
+      PACK_SIGN_ALGO,
+      false,
+      ['verify']
+    );
+    const ok = await crypto.subtle.verify(
+      PACK_VERIFY_ALGO,
+      key,
+      b64urlToBytes(sig),
+      new TextEncoder().encode(payload) as Uint8Array<ArrayBuffer>
+    );
+    if (!ok) return null;
+    // TextDecoder rather than atob's latin1 - a company name with an accent decoded to mojibake
+    // under the old path. Invisible, but this is the function that reads it.
+    const data = JSON.parse(new TextDecoder().decode(b64urlToBytes(payload)));
     if (typeof data !== 'object' || data === null || Array.isArray(data)) return null;
     return data as PackData;
   } catch {
@@ -67,8 +111,24 @@ export default function PackPage() {
   const [ready, setReady] = useState(false);
 
   useEffect(() => {
-    setData(decodeToken(new URLSearchParams(window.location.search).get('t')));
-    setReady(true);
+    // Verification is async (WebCrypto), so `ready` is set only after it settles. Until then
+    // the page renders exactly what it prerenders - the neutral, dataless state - so a forged
+    // link never flashes personalised content on its way to being rejected.
+    let live = true;
+    verifyToken(new URLSearchParams(window.location.search).get('t'))
+      .then((d) => {
+        if (!live) return;
+        setData(d);
+        setReady(true);
+      })
+      .catch(() => {
+        if (!live) return;
+        setData(null);
+        setReady(true);
+      });
+    return () => {
+      live = false;
+    };
   }, []);
 
   const trade = TRADES.find((t) => t.id === data?.trade);
