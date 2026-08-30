@@ -1,5 +1,5 @@
 import Seo from '../../components/Seo';
-import { CORPUS_UPDATED, REVIEWED, UPDATES, formatDate, reviewedLine } from '../../content/updates';
+import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, UPDATES, formatDate } from '../../content/updates';
 
 /**
  * /updates - the weekly screen's output surface (M2, newsfeed v1; Kong: "we become the single
@@ -28,8 +28,14 @@ export default function UpdatesPage() {
           published, linked to the source.
         </p>
         {REVIEWED && (
+          /*
+           * A bare date. The <time> element is not decoration: it makes the freshness signal a
+           * PARSE rather than a regex for anything watching this page, which is what the internal
+           * dashboard needs (CMO_UPDATES_LINE_AND_FRESHNESS.md s3).
+           */
           <p className="mx-auto mt-6 max-w-xl text-sm font-medium text-primary" data-reviewed-line>
-            {reviewedLine(REVIEWED)}
+            {REVIEWED_LABEL}{' '}
+            <time dateTime={REVIEWED.date}>{formatDate(REVIEWED.date)}</time>
           </p>
         )}
       </section>
@@ -63,9 +69,34 @@ export default function UpdatesPage() {
           </div>
         )}
 
+        {/*
+          * The pending disclosure lives HERE now, not in the hero. It was added at G15 so a
+          * whitelist source a screen did not reach is NAMED rather than quietly dropped, and that
+          * rule is unchanged - only its position moved, to sit beside the source list it qualifies.
+          * Marking the subset in place says more than a sentence did: the reader sees which of the
+          * eleven were not reached, rather than being told a count.
+          */}
         <div className="mt-14 border-t border-border-primary pt-6">
           <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">What we screen</p>
-          <p className="m-0 mt-2 text-sm/relaxed text-text-secondary">{SCREENED.join(' · ')}</p>
+          <p className="m-0 mt-2 text-sm/relaxed text-text-secondary" data-screened>
+            {SCREENED.map((name, i) => {
+              const notReached = REVIEWED?.pending?.includes(name) ?? false;
+              return (
+                <span key={name}>
+                  {i > 0 && ' · '}
+                  <span className={notReached ? 'text-text-secondary/60' : undefined}>
+                    {name}
+                    {notReached && '*'}
+                  </span>
+                </span>
+              );
+            })}
+          </p>
+          {REVIEWED?.pending?.length ? (
+            <p className="m-0 mt-2 text-[13px]/relaxed text-text-secondary/70" data-screened-pending>
+              * not reached by the last review; checked by hand.
+            </p>
+          ) : null}
         </div>
         <div className="mt-8 border-t border-border-primary pt-6">
           <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">Follow along</p>

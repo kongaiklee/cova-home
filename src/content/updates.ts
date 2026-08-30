@@ -36,14 +36,28 @@ const data = updatesData as UpdatesFile;
 export const REVIEWED: Reviewed | null = data.reviewed;
 export const UPDATES: UpdateItem[] = [...data.items].sort((a, b) => (a.date < b.date ? 1 : -1));
 
-/** The integrity line, built from the screen's own record (wording: CMO_NEWSFEED_whitelist.md). */
-function andList(xs: string[]): string {
-  return xs.length > 1 ? `${xs.slice(0, -1).join(', ')} and ${xs[xs.length - 1]}` : xs[0];
-}
+/**
+ * The freshness label. `reviewed`, never `updated`, and the one word is load-bearing: the date
+ * moves when the SCREEN RUNS, not when an item lands. A screen that finds nothing still moves it,
+ * so `Last updated` would be a claim we did not earn on a quiet week while `Last reviewed` stays
+ * exactly true. It is also the stronger line for a reader - when we last checked is the question
+ * no agency site answers. (CMO_UPDATES_LINE_AND_FRESHNESS.md s1, on Kong's flag.)
+ *
+ * Exported as a constant so the page and the plain-text form cannot drift apart.
+ */
+export const REVIEWED_LABEL = 'Last reviewed';
 
+/**
+ * The hero line, now a bare date.
+ *
+ * It used to name all nine screened sources and the pending clause - 211 characters above the
+ * fold, of which 150 duplicated the `What we screen` block 60 lines lower on the same page.
+ * NOTHING IS DELETED FROM THE RECORD: `reviewed.sources`, `reviewed.changes` and
+ * `reviewed.pending` all stay in updates.json, and the pending disclosure moved INTO
+ * `What we screen` where the source list already lives. The hero got shorter; the honesty did not.
+ */
 export function reviewedLine(r: Reviewed): string {
-  const pending = r.pending?.length ? ` ${andList(r.pending)} pending manual walk.` : '';
-  return `Reviewed against ${andList(r.sources)} on ${formatDate(r.date)}.${r.changes ? '' : ' No changes.'}${pending}`;
+  return `${REVIEWED_LABEL} ${formatDate(r.date)}`;
 }
 
 /** Newest publish date in the committed guides corpus - the honest day-one freshness statement. */
