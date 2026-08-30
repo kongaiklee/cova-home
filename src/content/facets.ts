@@ -40,7 +40,10 @@ export function agencyName(label: string): string {
 export function agencyNameLong(label: string): string {
   const full = AGENCY_NAMES[label];
   if (!full || full === label) return label;
-  const redundant = full.toLowerCase().includes(label.toLowerCase());
+  // Compare with spacing and punctuation stripped: MEDISHIELDLIFE is just "MediShield Life" with
+  // the spaces taken out, so repeating it is noise rather than a recognisable short form.
+  const flat = (x: string) => x.toLowerCase().replace(/[^a-z0-9]/g, '');
+  const redundant = flat(full).includes(flat(label));
   return redundant ? full : `${full} (${label})`;
 }
 

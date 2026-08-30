@@ -57,7 +57,7 @@
     "weather.gov.sg",
     "reach.gov.sg"
   ],
-  "_names_comment": "DISPLAY names only. The KEY stays the facet value and the URL slug - renaming a key would change ?agency=mom into a different URL and break every existing link, so full names are a render-time lookup and nothing else. A label with no entry here falls back to itself; that is deliberate, because a guessed agency name on a public page is worse than an abbreviation.",
+  "_names_comment": "DISPLAY names only. The KEY stays the facet value and the URL slug - renaming a key would change ?agency=mom into a different URL and break every existing link, so full names are a render-time lookup and nothing else. Names verified 2026-08-30 against each body's own site; a label with no entry here falls back to itself. NOTE: SSG and WSG merged into the Skills and Workforce Development Agency (SWDA) on 1 July 2026 - the entries below still name the bodies that published the cited documents, which is a deliberate open question, not an oversight.",
   "names": {
     "MOM": "Ministry of Manpower",
     "MAS": "Monetary Authority of Singapore",
@@ -122,6 +122,19 @@
     "CUSTOMS": "Singapore Customs",
     "PARLIAMENT": "Parliament of Singapore",
     "Courts": "Singapore Courts",
-    "Singapore Statutes": "Singapore Statutes Online"
+    "Singapore Statutes": "Singapore Statutes Online",
+    "PUB": "PUB, Singapore's National Water Agency",
+    "SICC": "Singapore International Commercial Court",
+    "HLB": "Hotels Licensing Board",
+    "STRATATB": "Strata Titles Boards",
+    "SDC": "Singapore Dental Council",
+    "NCCS": "National Climate Change Secretariat",
+    "SCAMSHIELD": "ScamShield",
+    "CHARITIES": "Commissioner of Charities",
+    "CCS": "Competition and Consumer Commission of Singapore",
+    "CONSUMERPRODUCTSAFETY": "Consumer Product Safety Office",
+    "MEDISHIELDLIFE": "MediShield Life",
+    "SKILLSFUTURE": "SkillsFuture",
+    "FTA": "Enterprise Singapore FTA Portal"
   }
 }
