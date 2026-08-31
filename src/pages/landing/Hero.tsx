@@ -37,13 +37,21 @@ export default function Hero() {
         <div className="flex items-center px-5 pt-9 pb-6 sm:px-8 lg:py-[72px] lg:pr-14 lg:pl-[100px]">
           <div>
             {/* Rev 3n: `Fortune 500 companies have a team for insurance. Now you do.` SURVIVES AND
-                MOVES to the proof context (s3 strip area) - its slot and treatment are CD's verdict
-                under R19, so it is off the page only until that lands. Do not retire the line. */}
+                MOVES to the proof context - CD verdicted it and it is now placed in Sections.tsx
+                (the F500 slot). Kept here as the record of the move. */}
+            {/* Rev 3r (row 43): KONG'S TAGLINE IS PROMOTED FROM H2 TO H1, by his own hand, and the
+                service line becomes H2. Envelope measured before the swap: 54 characters against
+                the outgoing 55 at the same 56px, so the fold does not move.
+
+                `Insurance comes with questions you did not know to ask.` IS NOT RETIRED. Rev 3r
+                RELOCATES it to 1B (the stake band) and CD holds the treatment there under R19 -
+                block H1, or an eyebrow above the existing head. It is off the page only until that
+                verdict lands, exactly as the F500 line above was. DO NOT DROP IT. */}
             <h1 className="m-0 mb-3 font-serif text-4xl/[1.06] tracking-[-1.2px] text-balance text-text-primary lg:mb-[18px] lg:text-[56px]/[1.04] lg:tracking-[-1.8px]">
-              Insurance comes with questions you did not know to ask.
+              Your insurance team, without the insurance department.
             </h1>
             <h2 className="m-0 mb-3 font-serif text-[21px]/[1.25] tracking-[-0.5px] text-balance text-primary lg:mb-[18px] lg:text-[26px]/[1.2] lg:tracking-[-0.6px]">
-              Your insurance team, without the insurance department.
+              We keep track of what you must carry, and what changed.
             </h2>
             <p className="m-0 max-w-[46ch] text-base/[1.5] text-text-primary lg:mb-[30px] lg:text-lg">
               See what businesses like yours commonly carry and what changed. Then meet a licensed adviser who reviews what applies to your business.
