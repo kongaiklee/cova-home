@@ -118,10 +118,30 @@ export default function BlogIndex() {
       />
 
       <div className="mx-auto w-full max-w-[1240px] px-6 sm:px-10 lg:px-[100px]">
+        {/*
+          THE HERO IMAGE, WIRED 2026-08-31 ON KONG'S WORD. `blog-hero.jpg` shipped on 18 May 2026 in
+          a batch of twelve Midjourney images and was NEVER referenced by any page - eleven got wired
+          to articles, the twelfth got a file and a docs row and nothing else. It sat dead for three
+          and a half months, which is why the swap that replaced it fixed nothing anyone could see.
+          The TREATMENT here is deliberately restrained and is CD's to rule under R19: a banner at
+          the container width, the same rounded-xl and border the article cards use, held to a fixed
+          height with object-cover so it introduces the page rather than taking it over.
+          alt="" because it is decorative - the h1 immediately below carries the meaning, and this
+          matches how every other image in the blog surface is marked up.
+        */}
+        {/* object-position 72%: a 1456x816 frame cropped to 256px keeps only a band, and the
+            default centre crop lands on sky and treetops. The subject - the shutters, the delivery
+            truck and the two owners - sits in the lower third, so the crop is pulled down to it. */}
+        <img
+          src="/assets/blog/blog-hero.jpg"
+          alt=""
+          className="mt-8 block h-44 w-full rounded-xl border border-border-primary object-cover object-[50%_72%] lg:mt-12 lg:h-64"
+        />
+
         {/* header - left-aligned over the grid, tightened (the centred header + chip wall spent ~200px) */}
-        <header className="pt-10 pb-7 lg:pt-[52px] lg:pb-9">
+        <header className="pt-7 pb-7 lg:pt-9 lg:pb-9">
           <h1 className="m-0 font-serif text-[32px] tracking-[-1px] text-text-primary lg:text-[40px] lg:tracking-[-1.2px]">
-            Covarage Blog
+            Covarage Guides
           </h1>
           <p className="mt-2.5 max-w-[62ch] text-base/relaxed text-text-secondary">
             Clear, sourced answers to the insurance questions Singapore business

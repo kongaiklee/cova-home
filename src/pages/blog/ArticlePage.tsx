@@ -94,7 +94,7 @@ export default function ArticlePage({ article }: { article: Article }) {
       <article className="mx-auto w-full max-w-3xl px-6 pt-10 pb-16 sm:px-8">
         {/* Breadcrumb */}
         <nav className="flex flex-wrap items-center gap-1.5 text-sm text-text-secondary" aria-label="Breadcrumb">
-          <Link to="/blog" className="hover:text-primary">Blog</Link>
+          <Link to="/blog" className="hover:text-primary">Guides</Link>
           <span aria-hidden>/</span>
           <span>{intent?.clearLabel}</span>
         </nav>
