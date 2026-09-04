@@ -72,51 +72,42 @@ function buildLlmsTxt() {
     })
     .join('\n\n');
 
+  // Kong 2026-09-04: "let us block no crawlers and serve summaries with links instead". The
+  // [Full corpus] line pointed every crawler that read this file at the whole corpus in one
+  // download, which is the opposite of serving a summary and a link.
   const resources = `## Resources
 
-- [Sitemap](${SITE}/sitemap.xml): machine-readable URL index
-- [Full corpus](${SITE}/llms-full.txt): full text of every article in one file`;
+- [Sitemap](${SITE}/sitemap.xml): machine-readable URL index`;
 
   return `${HEADER}\n${sections}\n\n${resources}\n`;
 }
 
-/** Read one article's body, stripping YAML frontmatter. Tolerates CRLF checkouts. */
-function readArticleBody(slug) {
-  const parts = slug.replace(/^\//, '').split('/');
-  const file = path.join(REPO_ROOT, 'content', 'articles', ...parts) + '.md';
-  const raw = fs.readFileSync(file, 'utf8');
-  const m = raw.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n?([\s\S]*)$/);
-  return (m ? m[1] : raw).trim();
-}
-
-/** llms-full.txt: full article text grouped by intent, with URLs and dates. */
-function buildLlmsFullTxt() {
-  const intro = `${HEADER}
-This file contains the full text of every article on ${SITE}${GUIDES}/, grouped by reader intent. Articles cite primary sources inline. The machine-readable URL index is at ${SITE}/sitemap.xml.
-`;
-
-  const sections = bucketsByIntent()
-    .map(({ intent, items }) => {
-      const articleBlocks = items
-        .map((a) => `---\n\n# ${a.title}\n\nURL: ${url(a)}\nPublished: ${a.published}\n\n${readArticleBody(a.slug)}`)
-        .join('\n\n');
-      return `\n\n## ${intent.label} (${intent.clearLabel})\n${articleBlocks}`;
-    })
-    .join('');
-
-  return `${intro}${sections}\n`;
-}
-
+/*
+ * llms-full.txt IS DELIBERATELY NOT GENERATED - Kong ruled it off on 2026-09-04: "agree let us
+ * block no crawlers and serve summaries with links instead". It served 7.4MB, the full text of all
+ * 524 articles, so a crawler had no reason to follow a single link. llms.txt already carries a
+ * title, a URL and a one-sentence summary for every guide, which IS the ruled shape.
+ *
+ * THE GENERATOR IS THE FIX, NOT THE FILE. Deleting the artifact alone is a change that undoes
+ * itself on the next build. /llms-full.txt now redirects to /llms.txt rather than 404ing, because
+ * the URL served 200 for weeks and crawlers hold it - a redirect hands them the summaries.
+ */
 const publicDir = path.join(REPO_ROOT, 'public');
 fs.mkdirSync(publicDir, { recursive: true });
 
 const llmsTxt = buildLlmsTxt();
-const llmsFullTxt = buildLlmsFullTxt();
 fs.writeFileSync(path.join(publicDir, 'llms.txt'), llmsTxt, 'utf8');
-fs.writeFileSync(path.join(publicDir, 'llms-full.txt'), llmsFullTxt, 'utf8');
+
+// Assert the ruled-off artifact is not present. A stale copy on disk would keep serving from
+// public/ even though nothing writes it any more, which is exactly the failure that hides until
+// the next deploy.
+const stale = path.join(publicDir, 'llms-full.txt');
+if (fs.existsSync(stale)) {
+  console.error('gen-llms: llms-full.txt exists in public/ and is ruled off (Kong 2026-09-04). Delete it.');
+  process.exit(1);
+}
 
 console.log(
-  `LLM: wrote llms.txt (${(llmsTxt.length / 1024).toFixed(0)} KB) and ` +
-    `llms-full.txt (${(llmsFullTxt.length / 1024 / 1024).toFixed(2)} MB) ` +
-    `covering ${articles.length} articles.`
+  `LLM: wrote llms.txt (${(llmsTxt.length / 1024).toFixed(0)} KB) covering ${articles.length} articles. ` +
+    `llms-full.txt is ruled off and asserted absent.`
 );

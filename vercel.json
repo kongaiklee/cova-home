@@ -3,6 +3,11 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/llms-full.txt",
+      "destination": "/llms.txt",
+      "permanent": true
+    },
+    {
       "source": "/guides",
       "destination": "/blog",
       "permanent": false
@@ -32,13 +37,19 @@
     {
       "source": "/feed.xml",
       "headers": [
-        { "key": "Content-Type", "value": "application/rss+xml; charset=utf-8" }
+        {
+          "key": "Content-Type",
+          "value": "application/rss+xml; charset=utf-8"
+        }
       ]
     },
     {
       "source": "/ig-content/(.*)",
       "headers": [
-        { "key": "X-Robots-Tag", "value": "noindex, nofollow" }
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
       ]
     }
   ]

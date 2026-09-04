@@ -556,4 +556,3 @@
 ## Resources
 
 - [Sitemap](https://covarage.com/sitemap.xml): machine-readable URL index
-- [Full corpus](https://covarage.com/llms-full.txt): full text of every article in one file
