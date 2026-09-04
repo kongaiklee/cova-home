@@ -1,3 +1,5 @@
+import { useState } from 'react';
+import { ChevronLeft, ChevronRight } from 'lucide-react';
 import Seo from '../../components/Seo';
 import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, UPDATES, formatDate } from '../../content/updates';
 
@@ -12,7 +14,26 @@ import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, UPDATES, formatDate } from '.
 /** The screening list, named for the reader (CMO_NEWSFEED_whitelist.md; CNA + IBA per Kong's ruling). */
 const SCREENED = ['MOM', 'PDPC', 'IRAS', 'MAS', 'ACRA', 'CPF Board', 'GIA', 'LIA', 'WSH Council', 'CNA Business', 'Insurance Business Asia'];
 
+/**
+ * Kong 2026-09-04: "lets show up to 15 at a time, and then pageination the rest".
+ *
+ * Nothing is dropped by paging - the file is a permanent union now (tm/tools/publish_updates.mjs)
+ * and every item stays reachable. Paging is a READING decision, not a retention one.
+ * Same shape as the guides index rather than a second pattern: a count line, Previous / Next, and
+ * the page position between them.
+ */
+const PER_PAGE = 15;
+
 export default function UpdatesPage() {
+  const [page, setPage] = useState(1);
+  const totalPages = Math.max(1, Math.ceil(UPDATES.length / PER_PAGE));
+  const paged = UPDATES.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+
+  function goToPage(next: number) {
+    setPage(next);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+  }
+
   return (
     <>
       <Seo
@@ -43,7 +64,12 @@ export default function UpdatesPage() {
       <section className="mx-auto w-full max-w-4xl px-6 pb-24 sm:px-10">
         {UPDATES.length > 0 ? (
           <div>
-            {UPDATES.map((u) => (
+            {totalPages > 1 && (
+              <p className="m-0 mb-4 text-sm text-text-secondary" data-updates-count>
+                {UPDATES.length} updates &middot; page {page} of {totalPages}
+              </p>
+            )}
+            {paged.map((u) => (
               <a
                 key={u.url}
                 href={u.url}
@@ -55,6 +81,33 @@ export default function UpdatesPage() {
                 <p className="m-0 text-[17px]/[1.45] font-medium text-text-primary">{u.title}</p>
               </a>
             ))}
+
+            {/* Same control as the guides index - one paging vocabulary on the site, not two. */}
+            {totalPages > 1 && (
+              <div className="mt-10 flex items-center justify-center gap-3">
+                <button
+                  type="button"
+                  onClick={() => goToPage(page - 1)}
+                  disabled={page === 1}
+                  className="inline-flex items-center gap-1 rounded-full border border-border-primary px-4 py-2 text-sm font-medium text-text-primary transition hover:border-primary disabled:cursor-not-allowed disabled:opacity-40"
+                >
+                  <ChevronLeft className="size-4" />
+                  Previous
+                </button>
+                <span className="text-sm text-text-secondary">
+                  {page} / {totalPages}
+                </span>
+                <button
+                  type="button"
+                  onClick={() => goToPage(page + 1)}
+                  disabled={page === totalPages}
+                  className="inline-flex items-center gap-1 rounded-full border border-border-primary px-4 py-2 text-sm font-medium text-text-primary transition hover:border-primary disabled:cursor-not-allowed disabled:opacity-40"
+                >
+                  Next
+                  <ChevronRight className="size-4" />
+                </button>
+              </div>
+            )}
           </div>
         ) : (
           <div className="border-t border-border-primary pt-8 text-center" data-updates-empty>
