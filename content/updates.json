@@ -1,25 +1,55 @@
 {
   "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened; reviewed.pending names whitelist sources the run did NOT reach, so an unscreened source is stated, never quietly omitted. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
   "reviewed": {
-    "date": "2026-08-29",
+    "date": "2026-09-03",
     "sources": [
       "MOM",
       "PDPC",
       "IRAS",
       "LIA",
       "WSH Council",
-      "GIA",
+      "ACRA",
       "CPF Board",
-      "CNA Business",
-      "Insurance Business Asia"
+      "MAS"
     ],
     "changes": true,
     "pending": [
-      "MAS",
-      "ACRA"
+      "GIA",
+      "CNA Business",
+      "Insurance Business Asia"
     ]
   },
   "items": [
+    {
+      "title": "Owner of Eminent Frog Porridge Restaurant Charged with $3.8 Million Tax Evasion, Money Laundering",
+      "source": "IRAS",
+      "url": "https://www.iras.gov.sg/news-events/newsroom/owner-of-eminent-frog-porridge-restaurant-charged-with--3.8-million-tax-evasion--money-laundering",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "Prepare for Enhanced Heat Stress...",
+      "source": "WSH Council",
+      "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-bulletins/wsh-bulletin-1-september-2026-prepare-for-enhanced-heat-stress-measures-from-1-december-2026",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "MAS Consults on Legislative Amendments to Implement Stablecoin Regulatory Framework",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-consults-on-legislative-amendments-to-implement-stablecoin-regulatory-framework",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "MAS Commits S$220 Million to Support Next Phase of FinTech Innovation",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-commits-s$220-million-to-support-next-phase-of-fintech-innovation",
+      "date": "2026-08-31"
+    },
+    {
+      "title": "Bank Indonesia and the Monetary Authority of Singapore Operationalise Local Currency Transaction Framework for Bilateral Trade Transactions",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/bi-and-mas-operationalise-local-currency-transaction-framework-for-bilateral-trade-transactions",
+      "date": "2026-08-31"
+    },
     {
       "title": "MOM Enhances Heat Stress Protection for Workers Amid Rising Heat Risks",
       "source": "MOM",
@@ -27,16 +57,70 @@
       "date": "2026-08-28"
     },
     {
-      "title": "WSH Insights 20 August 2026 Strengthening Vehicular Safety at Work",
-      "source": "WSH Council",
-      "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-insights/wsh-insights-20-august-2026-strengthening-vehicular-safety-at-work",
+      "title": "Singapore FinTech Festival 2026 to Explore the Five Forces Rewiring Global Finance",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/singapore-fintech-festival-2026-to-explore-the-five-forces-rewiring-global-finance",
+      "date": "2026-08-26"
+    },
+    {
+      "title": "Consumer Price Developments in July 2026",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/consumer-price-developments/2026/consumer-price-developments-in-july-2026",
+      "date": "2026-08-24"
+    },
+    {
+      "title": "Opening Address by Mr Marcus Lim, Assistant Managing Director (Banking and Insurance), Monetary Authority of Singapore, at the Global Asia Insurance Partnership (GAIP) Insurance Case Competition 2026 Dinner on 21 August ...",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/speeches/2026/opening-address-by-mr-marcus-lim-amd-mas-at-the-gaip-insurance-case-competition-2026-dinner",
+      "date": "2026-08-21"
+    },
+    {
+      "title": "Keynote Address by Daniel Wang, Executive Director, Insurance Department, Monetary Authority of Singapore, at Singapore College of Insurance Graduation Ceremony 2026 on 20 August 2026",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/speeches/2026/keynote-address-by-daniel-wang",
       "date": "2026-08-20"
+    },
+    {
+      "title": "Change in National Wages Council (NWC) Chairmanship",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0819-change-in-nwc-chairmanship",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "\"Navigating New Tools, New Terrain and New Needs\" - Opening Address by Mr Alvin Tan, Minister of State, Ministry of Foreign Affairs and Ministry of National Development, and Board member of MAS, at the Asian Actuarial ...",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/speeches/2026/navigating-new-tools-new-terrain-and-new-needs",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "MAS Introduces Measures to Strengthen Singapore's Competitiveness as a Leading Asset Management Hub",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-introduces-measures-to-strengthen-singapores-competitiveness-as-a-leading-asset-management-hub",
+      "date": "2026-08-19"
+    },
+    {
+      "title": "Remarks by Mr Chee Hong Tat, Minister for National Development, and Deputy Chairman of the Monetary Authority of Singapore, at the Book Launch for the Institute of Policy Studies' 17th S R Nathan Fellow Mr Piyush Gupta ...",
+      "source": "MAS",
+      "url": "https://www.mas.gov.sg/news/speeches/2026/remarks-by-minister-chee-hong-tat-at-the-book-launch-for-17th-s-r-nathan-fellow",
+      "date": "2026-08-17"
+    },
+    {
+      "title": "The National Wages Council Convenes to Develop Annual Guidelines",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0807-convening-of-nwc-2627",
+      "date": "2026-08-07"
     },
     {
       "title": "Enhanced Primary Care Plan brings healthcare closer to migrant workers while lowering or maintaining costs for almost all employers",
       "source": "MOM",
       "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0806-enhanced-primary-care-plan-appointment-of-new-aos",
       "date": "2026-08-06"
+    },
+    {
+      "title": "Labour Market Advance Release - Second Quarter 2026",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026",
+      "date": "2026-07-31"
     },
     {
       "title": "Multi-Agency Workplace Safety and Health Taskforce (MAST) calls for greater vigilance amidst rise in work-related traffic accidents this year",
