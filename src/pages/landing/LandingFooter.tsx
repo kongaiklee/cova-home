@@ -24,6 +24,15 @@ export default function LandingFooter() {
         <Link to="/terms" className={link}>Terms of Use</Link>
         <Link to="/contact" className={link}>Contact</Link>
         <Link to="/careers" className={link}>Careers</Link>
+        {/* Kong 2026-09-04, CD's s16. A TEXT link on the same `link` class as its siblings, not an
+            icon - this nav has no icon vocabulary at all and already made this call once when RSS,
+            the item that most conventionally gets a glyph, shipped as text.
+            Placed after Careers because the nav is grouped content / legal / company / machine and
+            LinkedIn is a COMPANY destination; RSS stays last as the only entry not meant for a human.
+            target=_blank because this is the ONLY footer entry that leaves covarage.com, and that
+            obliges rel=noopener noreferrer - noopener is what stops the opened tab reaching
+            window.opener, so it is a security requirement rather than a preference. */}
+        <a href="https://www.linkedin.com/company/covarage" target="_blank" rel="noopener noreferrer" className={link}>LinkedIn</a>
         {/* plain <a>: the feed is a static file, not a route */}
         <a href="/feed.xml" className={link}>RSS</a>
       </nav>
