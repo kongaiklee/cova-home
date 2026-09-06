@@ -1,7 +1,7 @@
 {
   "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened; reviewed.pending names whitelist sources the run did NOT reach, so an unscreened source is stated, never quietly omitted. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
   "reviewed": {
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "sources": [
       "MOM",
       "PDPC",
@@ -21,9 +21,39 @@
   },
   "items": [
     {
+      "title": "MINDEF-IRAS Clarification on Correction of NSman Tax Relief Records",
+      "source": "IRAS",
+      "url": "https://www.iras.gov.sg/news-events/newsroom/mindef-iras-clarification-on-correction-of-nsman-tax-relief-records",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Four arrested and 21 assisting in investigations for employment-related offences following MOM enforcement operation",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0904-four-arrested-and-21-assisting-in-investigations-for-employment-related-offences",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Employer's Guide to Return-To-Work for the Healthcare Industry",
+      "source": "WSH Council",
+      "url": "https://www.tal.sg/wshc/resources/publications/guides-and-handbooks/employers-guide-to-return-to-work-for-the-healthcare-industry",
+      "date": "2026-09-04"
+    },
+    {
+      "title": "Return-To-Work RTW for Healthcare Employees Helping You Recover Return and Reintegrate at Work",
+      "source": "WSH Council",
+      "url": "https://www.tal.sg/wshc/resources/publications/guides-and-handbooks/return-to-work-rtw-for-healthcare-employees-helping-you-recover-return-and-reintegrate-at-work",
+      "date": "2026-09-04"
+    },
+    {
       "title": "Owner of Eminent Frog Porridge Restaurant Charged with $3.8 Million Tax Evasion, Money Laundering",
       "source": "IRAS",
       "url": "https://www.iras.gov.sg/news-events/newsroom/owner-of-eminent-frog-porridge-restaurant-charged-with--3.8-million-tax-evasion--money-laundering",
+      "date": "2026-09-03"
+    },
+    {
+      "title": "WSH Guide to Behavioural Observation and Intervention",
+      "source": "WSH Council",
+      "url": "https://www.tal.sg/wshc/resources/publications/guides-and-handbooks/wsh-guide-to-behavioural-observation-and-intervention",
       "date": "2026-09-03"
     },
     {
@@ -33,9 +63,15 @@
       "date": "2026-09-01"
     },
     {
-      "title": "Prepare for Enhanced Heat Stress...",
+      "title": "WSH Bulletin 1 September 2026 Prepare for Enhanced Heat Stress Measures from 1 December 2026",
       "source": "WSH Council",
       "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-bulletins/wsh-bulletin-1-september-2026-prepare-for-enhanced-heat-stress-measures-from-1-december-2026",
+      "date": "2026-09-01"
+    },
+    {
+      "title": "Heat Stress Management Compliance Checklist",
+      "source": "WSH Council",
+      "url": "https://www.tal.sg/wshc/resources/publications/checklists-and-articles/heat-stress-management-compliance-checklist",
       "date": "2026-09-01"
     },
     {
@@ -51,10 +87,28 @@
       "date": "2026-08-31"
     },
     {
+      "title": "ACRA and SID partner to strengthen director capability and governance standards in Singapore",
+      "source": "ACRA",
+      "url": "https://www.acra.gov.sg/news-events/news-announcements/acra-and-sid-partner-to-strengthen-director-capability-and-governance-standards-in-singapore/",
+      "date": "2026-08-28"
+    },
+    {
+      "title": "Singapore Institute of Directors (SID) Directors Conference 2026 Opening Keynote Address - 2M Indranee Rajah",
+      "source": "ACRA",
+      "url": "https://www.acra.gov.sg/news-events/news-announcements/singapore-institute-of-directors--sid--directors-conference-2026-opening-keynote-address---2m-indranee-rajah/",
+      "date": "2026-08-28"
+    },
+    {
       "title": "MOM Enhances Heat Stress Protection for Workers Amid Rising Heat Risks",
       "source": "MOM",
       "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0828-enhancements-to-heat-stress-framework",
       "date": "2026-08-28"
+    },
+    {
+      "title": "IVAS issues Guidance Note to support robust, transparent and consistent intangible asset valuations",
+      "source": "ACRA",
+      "url": "https://www.acra.gov.sg/news-events/news-announcements/ivas-issues-guidance-note-to-support-robust--transparent-and-consistent-intangible-asset-valuations/",
+      "date": "2026-08-26"
     },
     {
       "title": "Singapore FinTech Festival 2026 to Explore the Five Forces Rewiring Global Finance",
