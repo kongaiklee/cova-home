@@ -12,8 +12,8 @@ import { TRADES } from '../landing/data';
  * The link carries the personalisation: /pack?t=<payload>.<signature> minted by
  * scripts/make-pack-link.mjs when the team opens the account. No token, a stale token, a
  * mangled token or - since 2026-08-30 - an UNSIGNED OR FORGED one renders the plain
- * ask-us-again state, never an error dump (CD s5.1). The static prerender is that neutral
- * state, so no personal data ever sits in served HTML.
+ * ask-us-again state, never an error dump (CD s5.1). The static prerender is a BARE SHELL
+ * (2026-09-09; before that it carried the whole generic pack copy, which is what a crawler saw).
  *
  * SIGNING (Kong: "ok sign the token"; CD s7). The token is verified against a PUBLIC key
  * before a single field is trusted - see src/content/packKey.ts for why the key is public and
@@ -84,13 +84,18 @@ async function verifyToken(t: string | null): Promise<PackData | null> {
 }
 
 const BOOKING_URL = 'https://cal.com/kongaiklee/30min';
+// Self-serve signup stays open (Kong 2026-09-09, striking his 08-25 ruling); the pack's next step.
+const SIGNUP_URL = 'https://app.covarage.com/work/signup';
 const H2 = 'm-0 mb-4 font-serif text-[26px]/[1.15] tracking-[-0.8px] text-primary-extended lg:text-[30px]/[1.12] lg:tracking-[-0.9px]';
 const BODY = 'm-0 text-base/[1.6] text-text-primary lg:text-[17px]/[1.6]';
 
 const DOES = 'Organises your insurance information and documents. Keeps your renewal dates visible in one place. Prepares and passes on the information you provide. Introduces you to a licensed intermediary. Follows up and keeps you informed.';
 const INTERMEDIARY_DOES = 'Reviews your insurance needs with you. Gives insurance advice. Discusses the available options with you. Provides or obtains quotations. Recommends or arranges insurance products.';
-// The ruled "What we are" paragraph - VERBATIM, must never drift; the gate pins the class.
-const WHAT_WE_ARE = 'Covarage is a technology platform. We put your insurance in one place, keep the dates visible, and introduce you to a licensed intermediary who advises on and arranges the cover. We do not advise on insurance ourselves, and we are not paid by any insurer.';
+// The ruled "What we are" paragraph. 2026-09-09: the closing clause "and we are not paid by any
+// insurer" is OFF by SUBTRACTION - the same claim family struck from /terms on 2026-09-04 (a share of
+// the intermediary's commission IS insurer money). Kong 2026-08-31: the split does not go on the public
+// site, so nothing replaces it. CMO_FINDING_s17-remuneration-claim_2026-09-06.md.
+const WHAT_WE_ARE = 'Covarage is a technology platform. We put your insurance in one place, keep the dates visible, and introduce you to a licensed intermediary who advises on and arranges the cover. We do not advise on insurance ourselves.';
 
 const LAW_LABEL: Record<string, string> = { cover: 'Required cover', duty: 'Legal duty' };
 
@@ -155,7 +160,13 @@ export default function PackPage() {
           <span className="text-[17px] font-semibold tracking-[-0.2px]">Covarage</span>
         </div>
 
-        {ready && !data ? (
+        {!ready ? (
+          /* 2026-09-09: until the token has verified there is NOTHING here but the lockup. This is the
+           * state the static prerender captures, so curl, Googlebot and every AI crawler get a shell -
+           * measured before this change: 7,858 bytes of pack copy served to a request with no token.
+           * A browser hydrates and replaces it within the verification round-trip. */
+          <main aria-busy="true" aria-label="Opening your pack" />
+        ) : !data ? (
           /* The ask-us-again state: a wrong or stale link, said plainly (CD s5.1). */
           <section id="welcome">
             <h1 className="m-0 mb-4 font-serif text-[32px]/[1.1] tracking-[-1px]">This link needs a refresh.</h1>
@@ -203,6 +214,14 @@ export default function PackPage() {
                 <div className="border-t border-border-primary pt-5">
                   <StepChip state="Completed" />
                   <p className={`${BODY} mt-2`}><strong className="font-semibold">02 - We set you up.</strong> We opened your account and started bringing your policies, certificates and renewal dates together with you.</p>
+                </div>
+                <div className="border-t border-border-primary pt-5">
+                  <StepChip state="Next" />
+                  <p className={`${BODY} mt-2`}><strong className="font-semibold">Create your account.</strong> Sign up to see your policies and renewal dates in one place.</p>
+                  {/* Label and line are TM placeholders on Kong's ruled flow (call -> pack -> app signup); CMO words them. */}
+                  <a href={SIGNUP_URL} className="mt-3 inline-block rounded-sm bg-primary-extended px-6 py-3 text-[15px] font-medium text-white transition hover:opacity-90 print:hidden">
+                    Create your account
+                  </a>
                 </div>
                 <div className="border-t border-border-primary pt-5">
                   <StepChip state={data?.introduced ? 'Completed' : 'Next'} />
