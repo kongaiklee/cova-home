@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "PDPC", "CSA"]
 article_number: 81
 published: "2026-05-04"
 source_verified: "2026-05-04"
+updated: "2026-08-30"
 word_count: 1674
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

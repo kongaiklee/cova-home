@@ -10,6 +10,7 @@ required_by_law: "duty"
 article_number: 36
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 1062
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

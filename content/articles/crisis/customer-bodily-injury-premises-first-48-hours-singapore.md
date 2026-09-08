@@ -9,6 +9,7 @@ agencies: ["Courts", "Singapore Statutes", "MinLaw", "MOM"]
 article_number: 447
 published: "2026-05-22"
 source_verified: "2026-05-22"
+updated: "2026-08-30"
 word_count: 1462
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

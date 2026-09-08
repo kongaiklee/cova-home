@@ -9,6 +9,7 @@ agencies: ["ACRA", "SFA", "SCDF", "URA", "SKILLSFUTURE", "SSG", "NEA", "MOM", "E
 article_number: 314
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1726
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

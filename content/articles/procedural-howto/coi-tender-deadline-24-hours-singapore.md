@@ -9,6 +9,7 @@ agencies: ["MOF", "BCA", "ACRA", "Singapore Statutes", "MAS"]
 article_number: 371
 published: "2026-05-07"
 source_verified: "2026-05-07"
+updated: "2026-08-30"
 word_count: 1918
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

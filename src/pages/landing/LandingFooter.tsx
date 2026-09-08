@@ -47,13 +47,13 @@ export default function LandingFooter() {
           </Link>
         ))}
       </nav>
-      <p className={`${fine} mb-2.5 max-w-[90ch]`}>
+      <p className={`${fine} mb-2.5 max-w-[90ch]`} data-nosnippet="">
         Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.
       </p>
-      <p className={`${fine} mb-2.5`}>
+      <p className={`${fine} mb-2.5`} data-nosnippet="">
         Covarage Pte. Ltd. &middot; UEN 202531227H &middot; 20 Cecil Street, #22-00 PLUS Building, Singapore 049705 &middot; Data protection: dpo@covarage.com
       </p>
-      <p className={fine}>&copy; Covarage 2026 &middot; Privacy Policy v1.0 and Terms of Use v1.0, 25 August 2026</p>
+      <p className={fine} data-nosnippet="">&copy; Covarage 2026 &middot; Privacy Policy v1.0 and Terms of Use v1.0, 25 August 2026</p>
     </footer>
   );
 }

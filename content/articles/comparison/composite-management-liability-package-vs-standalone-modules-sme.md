@@ -9,6 +9,7 @@ agencies: []
 article_number: 393
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 2456
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"

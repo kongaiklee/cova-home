@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 304
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1944
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"

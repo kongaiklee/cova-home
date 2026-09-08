@@ -9,6 +9,7 @@ agencies: ["SFA", "Singapore Statutes", "MAS"]
 article_number: 116
 published: "2026-05-04"
 source_verified: "2026-05-04"
+updated: "2026-08-30"
 word_count: 1695
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

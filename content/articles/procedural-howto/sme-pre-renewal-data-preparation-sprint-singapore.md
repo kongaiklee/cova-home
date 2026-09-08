@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "Courts", "BCA", "MTI", "MOM", "CPF Board", "CS
 article_number: 401
 published: "2026-05-08"
 source_verified: "2026-05-08"
+updated: "2026-08-30"
 word_count: 4937
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

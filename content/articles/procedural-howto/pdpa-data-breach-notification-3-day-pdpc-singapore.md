@@ -9,6 +9,7 @@ agencies: ["PDPC", "Singapore Statutes"]
 article_number: 439
 published: "2026-05-22"
 source_verified: "2026-05-22"
+updated: "2026-08-30"
 word_count: 1632
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

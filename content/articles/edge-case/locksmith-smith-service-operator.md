@@ -9,6 +9,7 @@ agencies: ["ACRA", "IRAS", "MAS", "SPF", "Singapore Statutes"]
 article_number: 333
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1557
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

@@ -9,6 +9,7 @@ agencies: ["MAS", "Singapore Statutes", "GIA", "PDPC"]
 article_number: 243
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 1490
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"

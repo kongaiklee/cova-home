@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "TAFEP", "MOM"]
 article_number: 189
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 2349
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"

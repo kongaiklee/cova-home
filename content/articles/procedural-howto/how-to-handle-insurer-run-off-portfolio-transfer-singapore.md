@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MAS", "SDIC"]
 article_number: 410
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 3164
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

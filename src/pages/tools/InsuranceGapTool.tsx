@@ -38,7 +38,7 @@ const jsonLd = {
  *  FAA-N02 FREE: no introducer appointment exists as at 2026-08-23. */
 function Disclaimer() {
   return (
-    <p className="mt-6 text-sm/relaxed text-text-secondary">
+    <p className="mt-6 text-sm/relaxed text-text-secondary" data-nosnippet="">
       Covarage is a technology platform. We are not an insurer, an insurance broker
       or a financial adviser, and we are not licensed or registered by the
       Monetary Authority of Singapore. We do not advise on, recommend, rank,

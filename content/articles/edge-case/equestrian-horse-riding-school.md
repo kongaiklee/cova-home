@@ -9,6 +9,7 @@ agencies: ["NPARKS", "Singapore Statutes"]
 article_number: 335
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1762
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

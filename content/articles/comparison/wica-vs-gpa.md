@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 58
 published: "2026-05-04"
 source_verified: "2026-05-04"
+updated: "2026-08-30"
 word_count: 1423
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"

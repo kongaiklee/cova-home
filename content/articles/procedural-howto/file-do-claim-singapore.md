@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 108
 published: "2026-05-04"
 source_verified: "2026-05-04"
+updated: "2026-08-30"
 word_count: 2191
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

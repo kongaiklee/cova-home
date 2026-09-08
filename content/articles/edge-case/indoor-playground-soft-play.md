@@ -9,6 +9,7 @@ agencies: ["ACRA", "SCDF", "URA", "SFA", "ECDA", "NEA", "MOH", "Singapore Statut
 article_number: 311
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1818
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

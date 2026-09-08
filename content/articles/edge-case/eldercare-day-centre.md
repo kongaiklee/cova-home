@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MOH", "MSF", "CHARITIES", "PDPC"]
 article_number: 313
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1603
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

@@ -9,6 +9,7 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness", "MHA", "MAS"]
 article_number: 10
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 1374
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"

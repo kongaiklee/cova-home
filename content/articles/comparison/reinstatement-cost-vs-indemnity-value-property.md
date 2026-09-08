@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "SLA", "JTC", "HDB", "Courts"]
 article_number: 274
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 2860
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"

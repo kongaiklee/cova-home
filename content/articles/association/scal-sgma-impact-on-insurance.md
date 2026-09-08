@@ -9,6 +9,7 @@ agencies: []
 article_number: 23
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 840
 status: "published"
 hero_image: "/assets/blog/association.jpg"

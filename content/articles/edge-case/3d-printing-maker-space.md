@@ -9,6 +9,7 @@ agencies: ["BCA", "Singapore Statutes", "IPOS", "EnterpriseSG"]
 article_number: 336
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1718
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

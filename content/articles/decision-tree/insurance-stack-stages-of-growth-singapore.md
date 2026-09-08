@@ -9,6 +9,7 @@ agencies: ["SINGSTAT", "IRAS", "Singapore Statutes", "MOM", "PDPC"]
 article_number: 428
 published: "2026-05-21"
 source_verified: "2026-05-21"
+updated: "2026-08-30"
 word_count: 2008
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"

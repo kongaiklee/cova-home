@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "CSA"]
 article_number: 365
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1693
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

@@ -9,6 +9,7 @@ agencies: ["PDPC", "Singapore Statutes", "CSA", "SPF"]
 article_number: 164
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 1408
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

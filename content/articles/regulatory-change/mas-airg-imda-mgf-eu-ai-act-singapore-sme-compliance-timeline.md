@@ -9,6 +9,7 @@ agencies: ["MAS", "PDPC"]
 article_number: 411
 published: "2026-05-07"
 source_verified: "2026-05-07"
+updated: "2026-08-30"
 word_count: 4417
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"

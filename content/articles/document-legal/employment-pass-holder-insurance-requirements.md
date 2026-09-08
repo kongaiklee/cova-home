@@ -9,6 +9,7 @@ agencies: ["MOM", "EDB"]
 article_number: 25
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 892
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"

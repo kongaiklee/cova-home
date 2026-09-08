@@ -9,6 +9,7 @@ agencies: ["PEB", "MOH", "Singapore Statutes", "BOA", "ACRA", "CEA", "MAS"]
 article_number: 309
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 2014
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"

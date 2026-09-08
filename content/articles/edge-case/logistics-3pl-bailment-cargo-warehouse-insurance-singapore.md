@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 458
 published: "2026-05-22"
 source_verified: "2026-05-22"
+updated: "2026-08-30"
 word_count: 1233
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

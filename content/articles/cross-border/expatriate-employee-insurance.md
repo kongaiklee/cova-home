@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MOM", "CPF Board", "LIA"]
 article_number: 303
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 2200
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"

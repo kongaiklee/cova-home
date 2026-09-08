@@ -10,6 +10,7 @@ required_by_law: "cover"
 article_number: 285
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 2221
 status: "published"
 hero_image: "/assets/blog/association.jpg"

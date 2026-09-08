@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MAS", "LIA"]
 article_number: 425
 published: "2026-05-21"
 source_verified: "2026-05-21"
+updated: "2026-08-30"
 word_count: 1840
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"

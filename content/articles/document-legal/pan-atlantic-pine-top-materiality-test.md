@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 186
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 1917
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"

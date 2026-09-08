@@ -9,6 +9,7 @@ agencies: ["SDIC", "Singapore Statutes", "MAS"]
 article_number: 268
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 2699
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"

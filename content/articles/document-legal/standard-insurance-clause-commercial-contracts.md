@@ -9,6 +9,7 @@ agencies: ["MAS", "GIA", "Singapore Statutes", "MOM", "Courts"]
 article_number: 259
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 1120
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"

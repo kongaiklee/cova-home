@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MOM", "Courts", "IRAS"]
 article_number: 402
 published: "2026-05-08"
 source_verified: "2026-05-09"
+updated: "2026-08-30"
 word_count: 3756
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

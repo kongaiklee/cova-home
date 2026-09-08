@@ -9,6 +9,7 @@ agencies: ["MinLaw", "Singapore Statutes", "SLA"]
 article_number: 283
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 1959
 status: "published"
 hero_image: "/assets/blog/association.jpg"

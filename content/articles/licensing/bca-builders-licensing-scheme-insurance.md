@@ -9,6 +9,7 @@ agencies: ["BCA", "MOM", "Singapore Statutes"]
 article_number: 3
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 1022
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"

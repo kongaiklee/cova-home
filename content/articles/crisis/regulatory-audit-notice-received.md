@@ -9,6 +9,7 @@ agencies: ["PDPC", "MOM", "SFA", "MOH", "HSA", "MAS", "IRAS", "CUSTOMS", "Singap
 article_number: 105
 published: "2026-05-04"
 source_verified: "2026-05-04"
+updated: "2026-08-30"
 word_count: 1768
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

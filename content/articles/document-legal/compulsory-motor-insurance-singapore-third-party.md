@@ -10,6 +10,7 @@ required_by_law: "cover"
 article_number: 525
 published: "2026-08-26"
 source_verified: "2026-08-26"
+updated: "2026-08-30"
 word_count: 2382
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"

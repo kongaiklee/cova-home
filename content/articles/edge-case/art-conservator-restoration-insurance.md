@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "NHB", "CUSTOMS"]
 article_number: 114
 published: "2026-05-04"
 source_verified: "2026-05-04"
+updated: "2026-08-30"
 word_count: 1776
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

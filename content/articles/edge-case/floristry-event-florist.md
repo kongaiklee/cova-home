@@ -9,6 +9,7 @@ agencies: ["ACRA", "URA", "SCDF", "NPARKS", "Singapore Statutes", "NEA", "MOM", 
 article_number: 319
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1786
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

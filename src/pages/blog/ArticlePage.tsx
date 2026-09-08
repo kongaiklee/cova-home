@@ -33,6 +33,7 @@ function ArticleDisclaimer() {
     <aside
       className="mx-auto w-full max-w-3xl px-6 pb-12 sm:px-8"
       aria-label="Regulatory disclosure"
+      data-nosnippet=""
     >
       <p className="border-t border-border-primary pt-6 text-sm/relaxed text-text-secondary">
         Covarage is a technology platform. We are not an insurer, an insurance broker

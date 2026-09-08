@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "PDPC", "IRAS"]
 article_number: 453
 published: "2026-05-22"
 source_verified: "2026-05-22"
+updated: "2026-08-30"
 word_count: 1393
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"

@@ -9,6 +9,7 @@ agencies: ["CUSTOMS", "IRAS", "ACRA", "Singapore Statutes"]
 article_number: 334
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1844
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

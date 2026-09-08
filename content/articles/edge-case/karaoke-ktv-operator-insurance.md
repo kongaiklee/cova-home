@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "SPF", "BCA", "MOM", "ICA"]
 article_number: 327
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1677
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

@@ -9,6 +9,7 @@ agencies: []
 article_number: 35
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 971
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

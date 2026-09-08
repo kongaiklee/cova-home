@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "IMDA", "HSA", "MAS"]
 article_number: 144
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 1680
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"

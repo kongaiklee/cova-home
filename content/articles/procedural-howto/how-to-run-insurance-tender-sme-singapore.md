@@ -9,6 +9,7 @@ agencies: ["MAS", "Singapore Statutes", "MOM"]
 article_number: 403
 published: "2026-05-14"
 source_verified: "2026-05-14"
+updated: "2026-08-30"
 word_count: 3458
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"

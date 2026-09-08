@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MAS", "SDIC"]
 article_number: 128
 published: "2026-05-05"
 source_verified: "2026-05-05"
+updated: "2026-08-30"
 word_count: 2322
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"

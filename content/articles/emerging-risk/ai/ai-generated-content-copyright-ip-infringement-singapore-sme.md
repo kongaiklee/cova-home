@@ -10,6 +10,7 @@ agencies: []
 article_number: 415
 published: "2026-05-08"
 source_verified: "2026-05-08"
+updated: "2026-08-30"
 word_count: 5900
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"

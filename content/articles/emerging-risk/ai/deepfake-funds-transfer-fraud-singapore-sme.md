@@ -10,6 +10,7 @@ agencies: ["SPF", "MAS", "SCAMSHIELD", "CSA", "Singapore Statutes", "MHA"]
 article_number: 414
 published: "2026-05-08"
 source_verified: "2026-05-08"
+updated: "2026-08-30"
 word_count: 6092
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"

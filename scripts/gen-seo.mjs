@@ -21,7 +21,12 @@ const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));
 // is the freshness signal the page exists to carry. Null before the first screen.
 const updates = JSON.parse(fs.readFileSync(path.join(REPO_ROOT, 'content', 'updates.json'), 'utf8'));
 
-/** Static + per-article URLs. lastmod uses the article publish date. */
+/** Static + per-article URLs. lastmod is the article's `updated` date where it has one, else its
+ *  publish date. WHY (2026-09-08): all 524 descriptions were rewritten on 2026-08-30 and the sitemap
+ *  kept saying May, so Google had no reason to re-read a single page - three of four pages Kong saw
+ *  with a disclaimer as the snippet had last been crawled BEFORE the rewrite. A tool that changes
+ *  what a page says must move `updated`, or the change is invisible to the crawler. */
+const lastmodOf = (a) => a.updated ?? a.published;
 const urls = [
   { loc: `${SITE}/`, lastmod: null, priority: '1.0' },
   { loc: `${SITE}/blog`, lastmod: null, priority: '0.9' },
@@ -38,12 +43,12 @@ const urls = [
     loc: `${SITE}/guides/${category}`,
     lastmod: articles
       .filter((a) => a.category === category)
-      .reduce((max, a) => (a.published > max ? a.published : max), ''),
+      .reduce((max, a) => (lastmodOf(a) > max ? lastmodOf(a) : max), ''),
     priority: '0.9',
   })),
   ...articles.map((a) => ({
     loc: `${SITE}/guides${a.slug}`,
-    lastmod: a.published,
+    lastmod: lastmodOf(a),
     priority: '0.8',
   })),
 ];

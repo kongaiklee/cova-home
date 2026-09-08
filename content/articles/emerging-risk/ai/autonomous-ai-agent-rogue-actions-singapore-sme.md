@@ -10,6 +10,7 @@ agencies: ["Courts", "CSA", "Singapore Statutes", "MAS"]
 article_number: 413
 published: "2026-05-08"
 source_verified: "2026-05-08"
+updated: "2026-08-30"
 word_count: 6191
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"

@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "MAS"]
 article_number: 461
 published: "2026-05-22"
 source_verified: "2026-05-22"
+updated: "2026-08-30"
 word_count: 1156
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"

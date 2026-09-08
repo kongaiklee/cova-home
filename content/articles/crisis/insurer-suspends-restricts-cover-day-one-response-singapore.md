@@ -9,6 +9,7 @@ agencies: ["GIA", "Singapore Statutes", "MOM"]
 article_number: 441
 published: "2026-05-22"
 source_verified: "2026-05-22"
+updated: "2026-08-30"
 word_count: 1653
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"

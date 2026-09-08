@@ -9,6 +9,7 @@ agencies: ["ACRA", "Singapore Statutes", "MAS"]
 article_number: 490
 published: "2026-05-31"
 source_verified: "2026-05-31"
+updated: "2026-08-30"
 word_count: 2620
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"

@@ -9,6 +9,7 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 13
 published: "2026-05-03"
 source_verified: "2026-05-03"
+updated: "2026-08-30"
 word_count: 1132
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"

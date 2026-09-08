@@ -9,6 +9,7 @@ agencies: ["SFA", "Singapore Statutes", "MUIS", "MOM"]
 article_number: 328
 published: "2026-05-06"
 source_verified: "2026-05-06"
+updated: "2026-08-30"
 word_count: 1635
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
