@@ -6,6 +6,8 @@ import { Link } from 'react-router-dom';
 import { articleUrl, internalHref, relatedArticles, type Article } from '../../content/articles';
 import { track } from '../../lib/analytics';
 import { useArticleAnalytics } from '../../lib/useArticleAnalytics';
+import { ctaForArticle, splitAtAnswer } from '../../content/articleCtas';
+import ArticleEnquiry from './ArticleEnquiry';
 import { INTENT_BY_ID } from '../../content/intents';
 import Seo, { SITE_URL } from '../../components/Seo';
 import { agencyLinks, agencyNameLong, valueSlug } from '../../content/facets';
@@ -54,6 +56,9 @@ export default function ArticlePage({ article }: { article: Article }) {
   const { frontmatter, body } = article;
   const page = articleUrl(frontmatter.slug);
   useArticleAnalytics(page);
+  // The five CTAs are keyed on intent; an unknown intent renders no block rather than a wrong one.
+  const cta = ctaForArticle(frontmatter);
+  const [beforeCta, afterCta] = cta ? splitAtAnswer(body) : [body, ''];
   const intent = INTENT_BY_ID[frontmatter.intent];
   const related = relatedArticles(frontmatter.slug);
   const topics = frontmatter.topics.filter((t) => t !== 'General');
@@ -169,34 +174,63 @@ export default function ArticlePage({ article }: { article: Article }) {
 
         <div className="article-body mt-9">
           <Markdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
-            {body}
+            {beforeCta}
           </Markdown>
+          {cta && <ArticleEnquiry cta={cta} page={page} placement="mid" />}
+          {afterCta && (
+            <Markdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+              {afterCta}
+            </Markdown>
+          )}
         </div>
       </article>
 
       <ArticleDisclaimer />
 
-      {/* CTA band */}
+      {/* CTA band. The enquiry block (CMO spec slot B) takes the band's position and its ask
+          changes: a reader who wants help can answer here instead of being sent to a form on
+          another page for a different purpose. The old band stays as the fallback for an intent
+          that has no copy yet, so a new intent can never ship a page with no door at all. */}
       <section data-cta-band className="bg-linear-to-br from-landing-hero-from to-landing-hero-to">
-        <div className="mx-auto flex w-full max-w-3xl flex-col items-start gap-5 px-6 py-12 sm:px-8 lg:flex-row lg:items-center lg:justify-between">
-          <div>
-            <h2 className="font-serif text-2xl text-white sm:text-3xl">
-              Insurance, without the admin.
-            </h2>
-            <p className="mt-2 max-w-md text-sm/relaxed text-white/90">
-              Covarage keeps your policies in one place and, where you ask us
-              to, introduces you to a licensed insurance intermediary.
-            </p>
+        {cta ? (
+          <div className="mx-auto grid w-full max-w-3xl gap-8 px-6 py-12 sm:px-8 lg:grid-cols-[minmax(0,1fr)_240px]">
+            <ArticleEnquiry cta={cta} page={page} placement="end" />
+            <aside className="self-start rounded-xl border border-white/25 px-5 py-5">
+              <p className="text-sm font-semibold text-white">Not sure what you are missing?</p>
+              <p className="mt-1.5 text-sm/relaxed text-white/85">
+                Run the free gap check - five questions, no sign-up.
+              </p>
+              <a
+                href="/guides/tools/insurance-gap-check"
+                onClick={() => track('article_cta_click', { page, placement: 'gap-check' })}
+                className="mt-3 inline-flex items-center gap-2 rounded-full bg-white/15 px-4 py-2 text-sm font-semibold text-white transition hover:bg-white/25"
+              >
+                Check my cover
+                <ArrowRight className="size-4" />
+              </a>
+            </aside>
           </div>
-          <a
-            href="/#request"
-            onClick={() => track('article_cta_click', { page, placement: 'band' })}
-            className="inline-flex shrink-0 items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-white/90"
-          >
-            Request access
-            <ArrowRight className="size-4" />
-          </a>
-        </div>
+        ) : (
+          <div className="mx-auto flex w-full max-w-3xl flex-col items-start gap-5 px-6 py-12 sm:px-8 lg:flex-row lg:items-center lg:justify-between">
+            <div>
+              <h2 className="font-serif text-2xl text-white sm:text-3xl">
+                Insurance, without the admin.
+              </h2>
+              <p className="mt-2 max-w-md text-sm/relaxed text-white/90">
+                Covarage keeps your policies in one place and, where you ask us
+                to, introduces you to a licensed insurance intermediary.
+              </p>
+            </div>
+            <a
+              href="/#request"
+              onClick={() => track('article_cta_click', { page, placement: 'band' })}
+              className="inline-flex shrink-0 items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-white/90"
+            >
+              Request access
+              <ArrowRight className="size-4" />
+            </a>
+          </div>
+        )}
       </section>
 
       {/* Explore more */}

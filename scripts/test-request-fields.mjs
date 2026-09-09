@@ -2,30 +2,32 @@
  * scripts/test-request-fields.mjs - what /api/request actually puts in front of a human.
  *
  * The handler is the one place a lead becomes a Slack message, and its field list is data, not
- * code: HIDDEN decides what rides along. This harness calls the exported handler directly against
- * a throwaway webhook and reads the posted text, so a field that stops arriving fails here rather
- * than in a Slack channel nobody is watching at the time.
+ * code: HIDDEN decides what rides along. This harness calls the exported handler directly with
+ * fetch intercepted, so it can read the Slack payload AND the outbound email without either
+ * leaving the machine - a test that can send a real founder welcome to a real address is not a
+ * test anyone should run twice.
  *
  * Built at the origin capture (w12): `page` had been the constant `/` on every lead ever taken,
- * so no enquiry could name the guide that produced it. `from` is that fix and this proves it -
- * including the two cases that matter more than the happy one: a direct visit must add NO from
- * line at all (an absent origin is honest; an empty one is noise), and a referrer carrying
- * newlines must not be able to forge a second field line in the message.
+ * so no enquiry could name the guide that produced it. Extended at the in-article enquiry block,
+ * which posts to this same endpoint with fewer fields and must not trigger the welcome written
+ * for someone who asked for access.
  *
  *   node scripts/test-request-fields.mjs
  */
-import http from 'node:http';
 import handler from '../api/request.js';
 
-const captured = [];
-const srv = http.createServer((req, res) => {
-  let b = '';
-  req.on('data', (c) => (b += c));
-  req.on('end', () => { captured.push(JSON.parse(b).text); res.writeHead(200).end('ok'); });
-});
-await new Promise((r) => srv.listen(0, r));
-process.env.SLACK_WEBHOOK_URL = `http://localhost:${srv.address().port}/hook`;
-delete process.env.RESEND_API_KEY;
+const sent = { slack: null, mail: [] };
+globalThis.fetch = async (url, opts) => {
+  const u = String(url);
+  const body = opts && opts.body ? JSON.parse(opts.body) : {};
+  if (u.includes('/hook')) { sent.slack = body.text; return new Response('ok', { status: 200 }); }
+  if (u.includes('api.resend.com')) { sent.mail.push(body); return new Response('{}', { status: 200 }); }
+  throw new Error(`unexpected outbound call: ${u}`);
+};
+process.env.SLACK_WEBHOOK_URL = 'https://example.invalid/hook';
+process.env.RESEND_API_KEY = 'test-key';
+process.env.REQUEST_MAIL_FROM = 'Covarage <requests@example.invalid>';
+process.env.REQUEST_MAIL_TO = 'team@example.invalid';
 
 function mockRes() {
   const o = { code: 0, body: null };
@@ -36,13 +38,15 @@ function mockRes() {
 }
 
 async function post(body) {
-  captured.length = 0;
+  sent.slack = null;
+  sent.mail = [];
   const res = mockRes();
   await handler({ method: 'POST', body }, res);
-  const text = captured[0] || '';
+  const text = sent.slack || '';
   return {
     code: res.code,
     text,
+    mail: sent.mail,
     lines: text ? text.split('\n') : [],
     field: (name) => (text.split('\n').find((l) => l.startsWith(`${name}: `)) || '').slice(name.length + 2),
     has: (name) => text.split('\n').some((l) => l.startsWith(`${name}: `)),
@@ -115,6 +119,64 @@ await check('the honeypot still returns ok and posts nothing', async () => {
   return r.text ? 'a honeypot submission reached the channel' : null;
 });
 
-srv.close();
+// ---- the in-article enquiry block (CMO spec s2) posts to this same endpoint ----
+
+const GUIDE = { name: 'Guide Reader', company: '(from article)', trade: 'construction', source: 'article', page: '/guides/licensing/bca-builders-licensing-scheme-insurance' };
+
+await check('a guide reader who leaves only an email is accepted', async () => {
+  const r = await post({ ...GUIDE, email: 'reader@example.com', question: 'About: BCA Builders Licensing Scheme' });
+  if (r.code !== 200) return `status ${r.code}`;
+  if (r.field('Question') !== 'About: BCA Builders Licensing Scheme') return `question = ${JSON.stringify(r.field('Question'))}`;
+  if (r.field('Number') !== '-') return 'an absent number was not shown as absent';
+  return null;
+});
+
+await check('a guide reader who leaves only a mobile is accepted', async () => {
+  const r = await post({ ...GUIDE, number: '+65 9000 0000', question: 'What must my firm carry?' });
+  if (r.code !== 200) return `status ${r.code}`;
+  return r.field('Email') === '-' ? null : 'an absent email was not shown as absent';
+});
+
+// BREAK: widening "both required" to "either" must not become "neither".
+await check('a submission with neither an email nor a mobile is refused', async () => {
+  const r = await post({ ...GUIDE, question: 'no way to reach me' });
+  return r.code === 400 ? null : `status ${r.code}`;
+});
+
+// BREAK: the loose email check still has to run on the address that IS given.
+await check('a malformed email is still refused', async () => {
+  const r = await post({ ...GUIDE, email: 'not an address' });
+  return r.code === 400 ? null : `status ${r.code}`;
+});
+
+await check('the question is capped at 240 characters', async () => {
+  const r = await post({ ...GUIDE, email: 'reader@example.com', question: 'x'.repeat(600) });
+  const n = r.field('Question').length;
+  return n === 240 ? null : `question length ${n}`;
+});
+
+await check('the Slack message names which door the lead came through', async () => {
+  const guide = await post({ ...GUIDE, email: 'reader@example.com', question: 'a question' });
+  const home = await post({ ...LEAD, page: '/' });
+  if (!guide.text.startsWith('New question from a guide')) return `guide headline: ${guide.text.split('\n')[0]}`;
+  if (!home.text.startsWith('New request for a call')) return `homepage headline: ${home.text.split('\n')[0]}`;
+  return null;
+});
+
+// The founder welcome says "thank you for requesting access" and offers an onboarding call. A
+// guide reader asked a question. Sending it would answer something they did not ask.
+await check('a guide reader is NOT sent the founder welcome', async () => {
+  const r = await post({ ...GUIDE, email: 'reader@example.com', question: 'a question' });
+  const welcome = r.mail.find((m) => m.subject === 'Welcome to Covarage');
+  return welcome ? 'the founder welcome was sent to a guide reader' : null;
+});
+
+await check('a homepage lead IS still sent the founder welcome', async () => {
+  const r = await post({ ...LEAD, page: '/' });
+  const welcome = r.mail.find((m) => m.subject === 'Welcome to Covarage');
+  if (!welcome) return 'the founder welcome stopped firing for the homepage form';
+  return welcome.to[0] === LEAD.email ? null : `welcome addressed to ${welcome.to}`;
+});
+
 console.log(`\n${pass}/${pass + fails.length} passed`);
 if (fails.length) { console.error('FAILURES:\n' + fails.join('\n')); process.exitCode = 1; }

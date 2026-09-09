@@ -17,7 +17,7 @@
  * With none configured the endpoint answers 503 and the form shows its error line, so the button
  * cannot silently swallow a request.
  */
-const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40 };
+const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40, question: 240, source: 24 };
 const HIDDEN = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency', 'page', 'from'];
 
 function clean(v, max) {
@@ -43,17 +43,25 @@ export default async function handler(req, res) {
   const email = clean(body.email, LIMITS.email);
   const number = clean(body.number, LIMITS.number);
   const trade = clean(body.trade, LIMITS.trade);
+  // The in-article enquiry block posts here too (CMO spec s2): the reader's own question, and
+  // the source that says which form they used. Everything else about the submission is the same.
+  const question = clean(body.question, LIMITS.question);
+  const fromArticle = clean(body.source, LIMITS.source) === 'article';
   // Presence only for human-read fields (KONG w6: the number's format rule comes off - a human
   // calls it back and can read a country code, spaces, an extension). Never validate more
   // strictly than the thing that consumes the value.
-  if (!name || !company || !email || !number) {
+  // A reader on an article is asked for ONE way to reach them, not two (CMO spec s2 slot C:
+  // "one of the two required"), because they are giving an address for an answer rather than a
+  // number for a call. The homepage form still asks for all four and still enforces them in its
+  // own markup, so this widens what the ENDPOINT accepts and never what that form collects.
+  if (!name || !company || (!email && !number)) {
     return res.status(400).json({ ok: false, error: 'fields' });
   }
   // Email is machine-read, so it gets a shape check - but a LOOSE one: exactly one @, a dot
   // somewhere after it, no whitespace. A strict regex rejects real addresses and every
   // rejection is a lost lead.
   const at = email.indexOf('@');
-  if (at < 1 || at !== email.lastIndexOf('@') || !email.slice(at + 1).includes('.') || /\s/.test(email)) {
+  if (email && (at < 1 || at !== email.lastIndexOf('@') || !email.slice(at + 1).includes('.') || /\s/.test(email))) {
     return res.status(400).json({ ok: false, error: 'email' });
   }
   const extras = HIDDEN.map((k) => [k, clean(body[k], 160)]).filter(([, v]) => v);
@@ -67,7 +75,9 @@ export default async function handler(req, res) {
   }
 
   const when = new Date().toLocaleString('en-SG', { timeZone: 'Asia/Singapore', hour12: false });
-  const lines = [`Name: ${name}`, `Company: ${company}`, `Email: ${email}`, `Number: ${number}`, `Trade: ${trade || '-'}`, ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
+  const lines = [`Name: ${name}`, `Company: ${company}`, `Email: ${email || '-'}`, `Number: ${number || '-'}`, `Trade: ${trade || '-'}`, ...(question ? [`Question: ${question}`] : []), ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
+  // Kong reads leads in Slack; the first line should say which door they came through.
+  const headline = fromArticle ? 'New question from a guide' : 'New request for a call';
 
   // ONE email per submission (KONG w5 ~02:0x: "can we only fire one?" - the plain internal alert
   // was landing beside the lead's welcome, because the team inbox is his). Slack is the team's
@@ -79,7 +89,7 @@ export default async function handler(req, res) {
       const r = await fetch(slack, {
         method: 'POST',
         headers: { 'content-type': 'application/json' },
-        body: JSON.stringify({ text: `New request for a call\n${lines.join('\n')}` }),
+        body: JSON.stringify({ text: `${headline}\n${lines.join('\n')}` }),
       });
       slackOk = r.ok;
       if (!r.ok) console.warn('request: slack failed', r.status);
@@ -93,7 +103,7 @@ export default async function handler(req, res) {
       const r = await fetch('https://api.resend.com/emails', {
         method: 'POST',
         headers: { authorization: `Bearer ${resend}`, 'content-type': 'application/json' },
-        body: JSON.stringify({ from, to, subject: `Request for a call: ${company}`, text: lines.join('\n') }),
+        body: JSON.stringify({ from, to, subject: `${headline}: ${company}`, text: lines.join('\n') }),
       });
       mailOk = r.ok;
       if (r.ok) console.warn('request: internal mail fallback fired (slack leg failed)');
@@ -112,7 +122,13 @@ export default async function handler(req, res) {
   // is never told we have their request when we do not (s9.2.1). Awaited, because a Vercel
   // function may freeze the moment the response is sent; its failure is logged and never changes
   // the response (s9.2.3) - the submission itself DID succeed and the team WAS notified.
-  if (resend && from) {
+  // The founder welcome greets someone who asked for ACCESS - "Thank you for requesting access",
+  // an onboarding call, a booking link. A guide reader asked a question and has not asked for a
+  // platform relationship, so sending it would answer something they did not ask. CMO owes the
+  // second template for them (spec s2, on Kong's GO); until it exists the honest thing is no
+  // email rather than the wrong one. The page confirms the submission and the line printed under
+  // the form commits us to one working day.
+  if (resend && from && email && !fromArticle) {
     const ack = composeAck({ name, email });
     try {
       const sent = await fetch('https://api.resend.com/emails', {
@@ -125,6 +141,8 @@ export default async function handler(req, res) {
     } catch (e) {
       console.warn('request: ack failed', String(e).slice(0, 80));
     }
+  } else if (fromArticle) {
+    console.log('request: ack skipped (guide reader - no template for them yet)');
   } else {
     console.warn('request: ack skipped (mail unconfigured)');
   }
