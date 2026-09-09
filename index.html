@@ -5,18 +5,22 @@
     <link rel="icon" type="image/png" href="/assets/favicon-mark.png" />
     <link rel="alternate" type="application/rss+xml" title="Covarage Guides" href="/feed.xml" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- GA4. The ID is build-time from VITE_GA4_ID (Vercel project env) so it is never
-         committed and a preview build can point elsewhere or nowhere. The loader is created
-         only when the value is a real measurement ID: an unset variable leaves the literal
-         %VITE_GA4_ID% here, and a static src would then request a 404 on every one of 545
-         pages. Enhanced measurement counts the client-side route changes, so nothing in the
-         app has to send page_view itself. -->
+    <!-- GA4. The measurement ID is PUBLIC by construction - it ships in the HTML of every page
+         - so it lives here rather than in a dashboard setting nobody can see from the code
+         (Kong, 2026-09-09: "u cant insert a ga4 tag?"). VITE_GA4_ID overrides it if a second
+         property is ever wanted for a branch.
+
+         The guard is the HOST, not the value: only covarage.com reports. A preview build, a
+         branch deployment and localhost all run this file, and without the guard every render
+         a seat does while working would land in the property as real traffic. -->
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
       (function () {
         var id = '%VITE_GA4_ID%';
-        if (!/^G-[A-Z0-9]+$/.test(id)) return;
+        if (!/^G-[A-Z0-9]+$/.test(id)) id = 'G-GCME9MG1SC';
+        var host = location.hostname;
+        if (host !== 'covarage.com' && host !== 'www.covarage.com') return;
         var s = document.createElement('script');
         s.async = true;
         s.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;

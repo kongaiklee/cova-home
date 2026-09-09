@@ -73,6 +73,13 @@ button {
 .article-body a:hover {
   color: var(--color-primary-hover);
 }
+/* The in-article enquiry block sits INSIDE .article-body, so the prose link rule above was
+   styling its button as an underlined body link. The block's own utilities lose on
+   specificity, so the exemption is stated here rather than fought with !important. */
+.article-body [data-article-enquiry] a {
+  color: inherit;
+  text-decoration: none;
+}
 .article-body ul,
 .article-body ol {
   padding-left: 1.5rem;

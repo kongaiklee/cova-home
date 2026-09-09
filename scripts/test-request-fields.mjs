@@ -163,12 +163,16 @@ await check('the Slack message names which door the lead came through', async ()
   return null;
 });
 
-// The founder welcome says "thank you for requesting access" and offers an onboarding call. A
-// guide reader asked a question. Sending it would answer something they did not ask.
-await check('a guide reader is NOT sent the founder welcome', async () => {
+// ONE LEAD FLOW whichever door they came through - Kong, 2026-09-09: "lets sync everything to
+// the same flow first, founders welcome + onboarding call". This seat had suppressed the welcome
+// for guide readers and he struck that, so the assertion is INVERTED here rather than deleted:
+// the file should show that the rule changed, not look like it never existed.
+await check('a guide reader IS sent the founder welcome and the onboarding call', async () => {
   const r = await post({ ...GUIDE, email: 'reader@example.com', question: 'a question' });
   const welcome = r.mail.find((m) => m.subject === 'Welcome to Covarage');
-  return welcome ? 'the founder welcome was sent to a guide reader' : null;
+  if (!welcome) return 'no founder welcome was sent to a guide reader';
+  if (welcome.to[0] !== 'reader@example.com') return `welcome addressed to ${welcome.to}`;
+  return welcome.text.includes('cal.com') ? null : 'the welcome carried no booking link';
 });
 
 await check('a homepage lead IS still sent the founder welcome', async () => {
@@ -176,6 +180,14 @@ await check('a homepage lead IS still sent the founder welcome', async () => {
   const welcome = r.mail.find((m) => m.subject === 'Welcome to Covarage');
   if (!welcome) return 'the founder welcome stopped firing for the homepage form';
   return welcome.to[0] === LEAD.email ? null : `welcome addressed to ${welcome.to}`;
+});
+
+// BREAK: a reader who left only a mobile has no address, so there is nothing to send - and the
+// submission must still succeed rather than failing on the missing leg.
+await check('a mobile-only reader gets no email and the submission still succeeds', async () => {
+  const r = await post({ ...GUIDE, number: '+65 9000 0000', question: 'call me' });
+  if (r.code !== 200) return `status ${r.code}`;
+  return r.mail.length === 0 ? null : `${r.mail.length} email(s) sent with no address given`;
 });
 
 console.log(`\n${pass}/${pass + fails.length} passed`);

@@ -5,6 +5,9 @@ import { CTA_BODY, CTA_FOOTNOTE, CTA_WHATSAPP, type ResolvedCta } from '../../co
 
 type Status = 'idle' | 'sending' | 'sent' | 'error';
 
+/** The same onboarding call the homepage form offers - one flow, one booking link. */
+const BOOKING_URL = 'https://cal.com/kongaiklee/30min';
+
 /**
  * The in-article enquiry block (CMO spec `CMO_SPEC_in-article-enquiry_2026-09-09.md` v1.3; the
  * five lines are Kong's own, 2026-09-09 17:5x).
@@ -29,6 +32,7 @@ export default function ArticleEnquiry({
 }) {
   const [open, setOpen] = useState(placement === 'end');
   const [status, setStatus] = useState<Status>('idle');
+  const [sentAs, setSentAs] = useState<Record<string, string>>({});
   const formRef = useRef<HTMLFormElement>(null);
 
   async function submit(e: FormEvent<HTMLFormElement>) {
@@ -59,6 +63,7 @@ export default function ArticleEnquiry({
       });
       if (r.ok) {
         track('request_submit', { page, trade: payload.trade, placement });
+        setSentAs(payload);
         setStatus('sent');
       } else {
         setStatus('error');
@@ -76,9 +81,17 @@ export default function ArticleEnquiry({
       : 'border-border-primary bg-white text-text-primary placeholder:text-[#b3aca6] focus:border-primary');
 
   if (status === 'sent') {
+    // The same landing as a homepage lead - Kong, 2026-09-09: "lets sync everything to the same
+    // flow first, founders welcome + onboarding call". The reply promise is stated against what
+    // they actually left us: a number can be called, an address cannot.
+    const booking = `${BOOKING_URL}?${new URLSearchParams({
+      ...(sentAs.name ? { name: sentAs.name } : {}),
+      ...(sentAs.email ? { email: sentAs.email } : {}),
+    }).toString()}`.replace(/[?]$/, '');
     return (
       <div
         role="status"
+        data-article-enquiry={placement}
         className={
           dark
             ? 'rounded-xl bg-white/10 px-6 py-8 text-white'
@@ -89,7 +102,26 @@ export default function ArticleEnquiry({
           Thank you. Your question is with us.
         </p>
         <p className={dark ? 'mt-2 text-sm/relaxed text-white/90' : 'mt-2 text-[15px]/relaxed text-text-secondary'}>
-          We reply within one working day. If it is easier to message, WhatsApp {CTA_WHATSAPP}.
+          {sentAs.number
+            ? `We reply within one working day, on ${sentAs.number}.`
+            : 'We reply within one working day, to the address you gave us.'}
+        </p>
+        <a
+          href={booking}
+          target="_blank"
+          rel="noreferrer"
+          onClick={() => track('article_cta_click', { page, placement: 'booking' })}
+          className={
+            'mt-4 block rounded-sm py-3 text-center text-[15px] font-medium transition ' +
+            (dark
+              ? 'bg-white text-primary hover:bg-white/90'
+              : 'border border-border-primary bg-white text-text-primary hover:border-primary')
+          }
+        >
+          Or pick a time with Kong, our founder
+        </a>
+        <p className={'mt-3 text-center text-[13px] ' + (dark ? 'text-white/80' : 'text-text-secondary')}>
+          Prefer to message? WhatsApp {CTA_WHATSAPP}
         </p>
       </div>
     );

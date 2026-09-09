@@ -122,13 +122,13 @@ export default async function handler(req, res) {
   // is never told we have their request when we do not (s9.2.1). Awaited, because a Vercel
   // function may freeze the moment the response is sent; its failure is logged and never changes
   // the response (s9.2.3) - the submission itself DID succeed and the team WAS notified.
-  // The founder welcome greets someone who asked for ACCESS - "Thank you for requesting access",
-  // an onboarding call, a booking link. A guide reader asked a question and has not asked for a
-  // platform relationship, so sending it would answer something they did not ask. CMO owes the
-  // second template for them (spec s2, on Kong's GO); until it exists the honest thing is no
-  // email rather than the wrong one. The page confirms the submission and the line printed under
-  // the form commits us to one working day.
-  if (resend && from && email && !fromArticle) {
+  // ONE LEAD FLOW, whichever door they came through - KONG, 2026-09-09: "lets sync everything to
+  // the same flow first, founders welcome + onboarding call". This seat had suppressed the
+  // welcome for guide readers because it thanks someone for requesting access; the concern was
+  // raised and he ruled, so it fires for every lead. Any rewording of that one sentence is CMO's
+  // and changes no flow. Still requires an address: a reader who left only a mobile cannot be
+  // emailed, and the team calls them instead.
+  if (resend && from && email) {
     const ack = composeAck({ name, email });
     try {
       const sent = await fetch('https://api.resend.com/emails', {
@@ -141,8 +141,8 @@ export default async function handler(req, res) {
     } catch (e) {
       console.warn('request: ack failed', String(e).slice(0, 80));
     }
-  } else if (fromArticle) {
-    console.log('request: ack skipped (guide reader - no template for them yet)');
+  } else if (!email) {
+    console.log('request: ack skipped (no email given - mobile only)');
   } else {
     console.warn('request: ack skipped (mail unconfigured)');
   }
