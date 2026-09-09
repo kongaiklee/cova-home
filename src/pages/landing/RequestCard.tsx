@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState, type FormEvent } from 'react';
 import { EMAIL_SEND_LIVE, TRADES } from './data';
+import { track } from '../../lib/analytics';
 
 /** Attribution that rides hidden on the POST: referral code, campaign params, the landing path. */
 const HIDDEN_KEYS = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency'];
@@ -53,6 +54,10 @@ export default function RequestCard({ trade, onTrade }: Props) {
         body: JSON.stringify(payload),
       });
       if (r.ok) {
+        // The conversion, and the only event that fires on a server-confirmed fact rather than
+        // on an intention. `from` rides with it so the funnel can be read by origin in GA4 as
+        // well as by eye in Slack.
+        track('request_submit', { page: payload.page, trade: payload.trade, from: payload.from });
         // The s16 state swaps in place: the card's outer box keeps its footprint (12.1).
         if (bodyRef.current) setHoldHeight(bodyRef.current.offsetHeight);
         setSentAs(payload);

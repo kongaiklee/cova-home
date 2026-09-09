@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { track } from '../../lib/analytics';
 
 const APP_URL = import.meta.env.VITE_APP_COVARAGE_URL;
 
@@ -45,6 +46,7 @@ export default function BlogHeader() {
           </a>
           <a
             href="/#request"
+            onClick={() => track('article_cta_click', { page: window.location.pathname, placement: 'header' })}
             className="rounded-sm bg-primary-extended px-4 py-2 text-sm font-medium text-white transition hover:opacity-90"
           >
             Request access
@@ -88,6 +90,7 @@ export default function BlogHeader() {
           </a>
           <a
             href="/#request"
+            onClick={() => track('article_cta_click', { page: window.location.pathname, placement: 'drawer' })}
             className="mt-1 rounded-sm bg-primary-extended px-3 py-2.5 text-center text-sm font-medium text-white hover:opacity-90"
           >
             Request access

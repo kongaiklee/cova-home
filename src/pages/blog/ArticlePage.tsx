@@ -4,6 +4,8 @@ import Markdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Link } from 'react-router-dom';
 import { articleUrl, internalHref, relatedArticles, type Article } from '../../content/articles';
+import { track } from '../../lib/analytics';
+import { useArticleAnalytics } from '../../lib/useArticleAnalytics';
 import { INTENT_BY_ID } from '../../content/intents';
 import Seo, { SITE_URL } from '../../components/Seo';
 import { agencyLinks, agencyNameLong, valueSlug } from '../../content/facets';
@@ -50,6 +52,8 @@ function ArticleDisclaimer() {
 
 export default function ArticlePage({ article }: { article: Article }) {
   const { frontmatter, body } = article;
+  const page = articleUrl(frontmatter.slug);
+  useArticleAnalytics(page);
   const intent = INTENT_BY_ID[frontmatter.intent];
   const related = relatedArticles(frontmatter.slug);
   const topics = frontmatter.topics.filter((t) => t !== 'General');
@@ -173,7 +177,7 @@ export default function ArticlePage({ article }: { article: Article }) {
       <ArticleDisclaimer />
 
       {/* CTA band */}
-      <section className="bg-linear-to-br from-landing-hero-from to-landing-hero-to">
+      <section data-cta-band className="bg-linear-to-br from-landing-hero-from to-landing-hero-to">
         <div className="mx-auto flex w-full max-w-3xl flex-col items-start gap-5 px-6 py-12 sm:px-8 lg:flex-row lg:items-center lg:justify-between">
           <div>
             <h2 className="font-serif text-2xl text-white sm:text-3xl">
@@ -186,6 +190,7 @@ export default function ArticlePage({ article }: { article: Article }) {
           </div>
           <a
             href="/#request"
+            onClick={() => track('article_cta_click', { page, placement: 'band' })}
             className="inline-flex shrink-0 items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-white/90"
           >
             Request access

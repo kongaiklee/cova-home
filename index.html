@@ -5,6 +5,26 @@
     <link rel="icon" type="image/png" href="/assets/favicon-mark.png" />
     <link rel="alternate" type="application/rss+xml" title="Covarage Guides" href="/feed.xml" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- GA4. The ID is build-time from VITE_GA4_ID (Vercel project env) so it is never
+         committed and a preview build can point elsewhere or nowhere. The loader is created
+         only when the value is a real measurement ID: an unset variable leaves the literal
+         %VITE_GA4_ID% here, and a static src would then request a 404 on every one of 545
+         pages. Enhanced measurement counts the client-side route changes, so nothing in the
+         app has to send page_view itself. -->
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      (function () {
+        var id = '%VITE_GA4_ID%';
+        if (!/^G-[A-Z0-9]+$/.test(id)) return;
+        var s = document.createElement('script');
+        s.async = true;
+        s.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+        document.head.appendChild(s);
+        gtag('js', new Date());
+        gtag('config', id, { anonymize_ip: true });
+      })();
+    </script>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" />
