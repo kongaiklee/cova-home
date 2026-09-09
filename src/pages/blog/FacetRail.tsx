@@ -6,11 +6,13 @@ import type { Axis, Selection } from '../../content/facets';
  * The blog sidebar (Kong 2026-08-29: "the side bar should sort articles by industry, insurance
  * types and relevant governtment ministries"; CD DIRECTION_blog-sidebar.md + Blog.dc.html are the
  * spec). Three groups in HIS order; one active value per group, combinable across groups; the
- * first row of each group is its All reset. Desktop only - below lg the existing collapsible
- * filter panel stays (no phone redesign).
+ * first row of each group is its All reset. Desktop only - below lg FacetSheet renders the same
+ * groups as a chip row + bottom sheet (CD s6, 2026-09-09), reading GROUPS and rowsFor from here.
  */
 
-const GROUPS: { axis: Axis; label: string; all: string }[] = [
+/** Exported 2026-09-09: the phone sheet (FacetSheet) reads this same list, so its group order is
+ * the rail's by construction (CD s6 acceptance 6). */
+export const GROUPS: { axis: Axis; label: string; all: string }[] = [
   { axis: 'industry', label: 'Industry', all: 'All industries' },
   { axis: 'policy', label: 'Insurance types', all: 'All types' },
   { axis: 'agency', label: 'Ministries & regulators', all: 'All bodies' },
@@ -34,7 +36,7 @@ interface FacetRailProps {
   onPick: (axis: Axis, label: string | null) => void;
 }
 
-function rowsFor(axis: Axis, counts: Record<string, number>, active: string | undefined): string[] {
+export function rowsFor(axis: Axis, counts: Record<string, number>, active: string | undefined): string[] {
   let rows = Object.entries(counts)
     .sort((a, b) => b[1] - a[1])
     // a little extra: NOT_A_BODY is removed below and would otherwise spend a visible slot

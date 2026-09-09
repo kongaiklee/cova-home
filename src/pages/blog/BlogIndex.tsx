@@ -5,8 +5,8 @@ import { Link, useSearchParams } from 'react-router-dom';
 import { ARTICLES } from '../../content/articles';
 import { INTENTS } from '../../content/intents';
 import { AXES, EMPTY, type Axis, type Selection, axisValues, isEmpty, matches, readSelection, writeSelection } from '../../content/facets';
-import FacetFilter from './FacetFilter';
 import FacetRail from './FacetRail';
+import FacetSheet from './FacetSheet';
 import { ArticleRow } from './ArticleCard';
 import type { IntentFilterValue } from './IntentFilter';
 import Seo from '../../components/Seo';
@@ -18,7 +18,9 @@ const PER_PAGE = 12;
  * not having a side bar") and CD's DIRECTION_blog-sidebar.md + Blog.dc.html: left-aligned
  * tightened header, the sticky 250px rail at lg (industry / insurance types / ministries, single
  * value per group, combinable), the journey tabs surviving as a compact chip row, the status line
- * naming the active set. Phone keeps the existing collapsible panel - no phone redesign.
+ * naming the active set. Phone (below lg): FacetSheet - one visible trade chip row + a Filters
+ * button opening a bottom sheet of real single-select groups (CD s6, Kong 2026-09-09; the
+ * collapsible chip panel it replaces put the first guide at y~1,500 behind 36 tap targets).
  */
 export default function BlogIndex() {
   const [intent, setIntent] = useState<IntentFilterValue>('all');
@@ -69,10 +71,6 @@ export default function BlogIndex() {
   function update(next: Selection) {
     setSearchParams(writeSelection(searchParams, next), { replace: true });
   }
-  function toggle(axis: Axis, label: string) {
-    const cur = selection[axis];
-    update({ ...selection, [axis]: cur.includes(label) ? cur.filter((v) => v !== label) : [...cur, label] });
-  }
   /** Rail pick: one active value per group (null = the group's All reset). */
   function pick(axis: Axis, label: string | null) {
     update({ ...selection, [axis]: label ? [label] : [] });
@@ -117,7 +115,7 @@ export default function BlogIndex() {
         path="/blog"
       />
 
-      <div className="mx-auto w-full max-w-[1240px] px-6 sm:px-10 lg:px-[100px]">
+      <div className="mx-auto w-full max-w-container px-6 sm:px-10 lg:px-[100px]">
         {/*
           THE HERO IMAGE, WIRED 2026-08-31 ON KONG'S WORD. `blog-hero.jpg` shipped on 18 May 2026 in
           a batch of twelve Midjourney images and was NEVER referenced by any page - eleven got wired
@@ -139,7 +137,7 @@ export default function BlogIndex() {
         />
 
         {/* header - left-aligned over the grid, tightened (the centred header + chip wall spent ~200px) */}
-        <header className="pt-7 pb-7 lg:pt-9 lg:pb-9">
+        <header className="py-7 lg:py-9">
           <h1 className="m-0 font-serif text-[32px] tracking-[-1px] text-text-primary lg:text-[40px] lg:tracking-[-1.2px]">
             Covarage Guides
           </h1>
@@ -149,15 +147,18 @@ export default function BlogIndex() {
           </p>
         </header>
 
-        {/* phone keeps the existing collapsible panel - no phone redesign */}
-        <div className="mb-4 lg:hidden">
-          <FacetFilter
+        {/* phone: one visible axis + the sheet (CD s6). Journey moves into the sheet on the phone. */}
+        <div className="mb-5 lg:hidden">
+          <FacetSheet
             selection={selection}
+            intent={intent}
             counts={facetCounts}
-            onToggle={toggle}
-            onToggleRequired={(v) => update({ ...selection, required: selection.required === v ? null : v })}
-            onClear={() => update(EMPTY)}
+            allCounts={allCounts}
             requiredCounts={requiredCounts}
+            onApply={(next, nextIntent) => {
+              update(next);
+              changeIntent(nextIntent);
+            }}
           />
         </div>
 
@@ -172,13 +173,13 @@ export default function BlogIndex() {
             <Link
               to="/updates"
               data-updates-strip
-              className="mb-5 block rounded-lg border border-border-primary bg-white px-4 py-3 text-sm text-text-secondary transition hover:border-primary"
+              className="mb-5 hidden rounded-lg border border-border-primary bg-white px-4 py-3 text-sm text-text-secondary transition hover:border-primary lg:block"
             >
               <span className="font-semibold text-text-primary">Updates</span> - official announcements that matter to business cover, linked to the source.
             </Link>
 
             {/* journey tabs, compact - the second axis stays */}
-            <div className="mb-5 flex flex-wrap gap-2" data-intent-chips>
+            <div className="mb-5 hidden flex-wrap gap-2 lg:flex" data-intent-chips>
               {chips.map((c) => (
                 <button
                   key={c.id}
@@ -216,6 +217,11 @@ export default function BlogIndex() {
                 </button>
               )}
             </div>
+
+            {/* phone: the Updates pointer as one link line under the count - a pointer, not a filter (s6 ruling 3) */}
+            <Link to="/updates" data-updates-line className="mt-3 block text-sm text-text-secondary underline-offset-2 hover:text-primary-extended hover:underline lg:hidden">
+              Updates - official announcements linked to the source
+            </Link>
 
             {paged.length > 0 ? (
               <div>
