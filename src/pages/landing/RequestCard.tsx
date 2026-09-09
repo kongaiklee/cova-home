@@ -29,6 +29,13 @@ export default function RequestCard({ trade, onTrade }: Props) {
     const h: Record<string, string> = {};
     for (const k of HIDDEN_KEYS) { const v = q.get(k); if (v) h[k] = v.slice(0, 120); }
     h.page = window.location.pathname + window.location.search;
+    // The origin capture (UX baseline s4.1). `page` is the constant `/` here because this form
+    // only ever mounts on the homepage, so it can never name a lead's origin. Every article's
+    // `Request access` is a plain anchor to /#request - a real browser navigation - so
+    // document.referrer carries the guide URL and the lead in Slack names the page that
+    // produced it. Empty on a direct visit, and that absence is itself the honest answer.
+    const from = document.referrer;
+    if (from) h.from = from.slice(0, 160);
     setHidden(h);
   }, []);
 

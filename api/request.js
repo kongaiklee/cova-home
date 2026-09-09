@@ -18,7 +18,7 @@
  * cannot silently swallow a request.
  */
 const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40 };
-const HIDDEN = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency', 'page'];
+const HIDDEN = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency', 'page', 'from'];
 
 function clean(v, max) {
   return typeof v === 'string' ? v.replace(/[\r\n\t]+/g, ' ').trim().slice(0, max) : '';
