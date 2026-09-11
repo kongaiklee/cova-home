@@ -19,7 +19,8 @@ export default function LandingFooter() {
       </div>
       <nav className="mb-[18px] flex flex-wrap gap-4 lg:gap-7" aria-label="Footer">
         <Link to="/blog" className={link}>Guides</Link>
-        <Link to="/updates" className={link}>News & Updates</Link>
+        <Link to="/updates" className={link}>Regulatory updates</Link>
+        <Link to="/updates/cyber" className={link}>Cyber and digital risk</Link>
         <Link to="/privacy" className={link}>Privacy Policy</Link>
         <Link to="/terms" className={link}>Terms of Use</Link>
         <Link to="/contact" className={link}>Contact</Link>

@@ -6,8 +6,168 @@
     <description>Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Fri, 04 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitLab urges users to patch max severity path traversal flaw</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-gitlab-urges-users-to-patch-max-severity-path-traversal-flaw</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</description>
+    </item>
+    <item>
+      <title>Trezor: 347,000 users targeted in phishing attacks after Brevo breach</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/</description>
+    </item>
+    <item>
+      <title>AI-powered attack exploited PaperCut flaws to hack 395 organizations</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/</description>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-cisa-adds-two-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>CISA: WatchGuard RCE flaw now exploited in ransomware attacks</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</description>
+    </item>
+    <item>
+      <title>Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/</description>
+    </item>
+    <item>
+      <title>Extremely High Risk: Google Chrome Multiple Vulnerabilities</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-extremely-high-risk-google-chrome-multiple-vulnerabilities</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260910</description>
+    </item>
+    <item>
+      <title>IDScan confirms breach tied to 153 million stolen driver&apos;s licenses</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-idscan-confirms-breach-tied-to-153-million-stolen-driver-s-licenses</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/</description>
+    </item>
+    <item>
+      <title>New &apos;BlueMoon&apos; kit exploited Windows and Chrome zero-day flaws</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/</description>
+    </item>
+    <item>
+      <title>Police investigate 254 Scammers And Money Mules In Islandwide Enforcement Operation</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-police-investigate-254-scammers-and-money-mules-in-islandwide-enforcement-operat</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260910_police_investigate_254_scammers_and_money_mules_in_islandwide_enforcement_operation</description>
+    </item>
+    <item>
+      <title>September Windows Server updates break Remote Desktop Services</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-september-windows-server-updates-break-remote-desktop-services</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/</description>
+    </item>
+    <item>
+      <title>Surfshark VPN says hackers breached internal testing, proxy servers</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/</description>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-cisa-adds-four-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in SAP Products</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-critical-vulnerabilities-in-sap-products</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-119/</description>
+    </item>
+    <item>
+      <title>High-Severity Vulnerability in PostgreSQL</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-high-severity-vulnerability-in-postgresql</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-120/</description>
+    </item>
+    <item>
+      <title>September 2026 Monthly Patch</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-september-2026-monthly-patch</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-116/</description>
+    </item>
+    <item>
+      <title>Joint Operation Between The Anti-Scam Centre And Five Partnering Banks Led To Disruption Of More Than 400 Ongoing Scams</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-08-joint-operation-between-the-anti-scam-centre-and-five-partnering-banks-led-to-di</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260908_joint_operation_between_the_anti_scam_centre_and_five_partnering_banks</description>
+    </item>
+    <item>
+      <title>WSH Advisory 8 September 2026 WSH Advisory for Fatal Accidents in First Half of 2026</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-08-wsh-advisory-8-september-2026-wsh-advisory-for-fatal-accidents-in-first-half-of-</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by WSH Council. Source: https://www.tal.sg/wshc/resources/newsletters/wsh-advisory/wsh-advisory-8-september-2026-wsh-advisory-for-fatal-accidents-in-first-half-of-2026</description>
+    </item>
+    <item>
+      <title>Workplace major injury rate reaches all-time low in 1H 2026; Government steps up action on vehicular incidents</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-08-workplace-major-injury-rate-reaches-all-time-low-in-1h-2026-government-steps-up-</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/release-of-1h2026-wsh-report</description>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-04-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
     <item>
       <title>Employer&apos;s Guide to Return-To-Work for the Healthcare Industry</title>
       <link>https://covarage.com/updates</link>
@@ -57,6 +217,14 @@
       <description>Published by WSH Council. Source: https://www.tal.sg/wshc/resources/publications/guides-and-handbooks/wsh-guide-to-behavioural-observation-and-intervention</description>
     </item>
     <item>
+      <title>CISA Adds Seven Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-09-02-cisa-adds-seven-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
       <title>Heat Stress Management Compliance Checklist</title>
       <link>https://covarage.com/updates</link>
       <guid isPermaLink="false">covarage-update-2026-09-01-heat-stress-management-compliance-checklist</guid>
@@ -89,6 +257,14 @@
       <description>Published by MAS. Source: https://www.mas.gov.sg/news/media-releases/2026/bi-and-mas-operationalise-local-currency-transaction-framework-for-bilateral-trade-transactions</description>
     </item>
     <item>
+      <title>Dispelling the Myth That &apos;Cyber Insurance Doesn&apos;t Pay Claims&apos;</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-08-31-dispelling-the-myth-that-cyber-insurance-doesn-t-pay-claims</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/cyber-insurance/dispelling-myth-cyber-insurance-doesnt-pay-claims</description>
+    </item>
+    <item>
       <title>MAS Commits S$220 Million to Support Next Phase of FinTech Innovation</title>
       <link>https://covarage.com/updates</link>
       <guid isPermaLink="false">covarage-update-2026-08-31-mas-commits-s-220-million-to-support-next-phase-of-fintech-innovation</guid>
@@ -119,6 +295,22 @@
       <pubDate>Fri, 28 Aug 2026 00:00:00 +0800</pubDate>
       <category>Official update</category>
       <description>Published by ACRA. Source: https://www.acra.gov.sg/news-events/news-announcements/singapore-institute-of-directors--sid--directors-conference-2026-opening-keynote-address---2m-indranee-rajah/</description>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Apache Tomcat</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-08-27-critical-vulnerability-in-apache-tomcat</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-112/</description>
+    </item>
+    <item>
+      <title>Disruptive cyber activity highlights risk from internet-exposed systems and edge devices</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-08-27-disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by NCSC UK. Source: https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices</description>
     </item>
     <item>
       <title>Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs</title>
@@ -200,191 +392,20 @@
       <description>Published by MAS. Source: https://www.mas.gov.sg/news/media-releases/2026/mas-introduces-measures-to-strengthen-singapores-competitiveness-as-a-leading-asset-management-hub</description>
     </item>
     <item>
+      <title>Risky Tech Ranking: Q2 2026 Updates</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-08-19-risky-tech-ranking-q2-2026-updates</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Official update</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/security-labs/risky-tech-ranking-q2-2026-updates</description>
+    </item>
+    <item>
       <title>Remarks by Mr Chee Hong Tat, Minister for National Development, and Deputy Chairman of the Monetary Authority of Singapore, at the Book Launch for the Institute of Policy Studies&apos; 17th S R Nathan Fellow Mr Piyush Gupta ...</title>
       <link>https://covarage.com/updates</link>
       <guid isPermaLink="false">covarage-update-2026-08-17-remarks-by-mr-chee-hong-tat-minister-for-national-development-and-deputy-chairma</guid>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0800</pubDate>
       <category>Official update</category>
       <description>Published by MAS. Source: https://www.mas.gov.sg/news/speeches/2026/remarks-by-minister-chee-hong-tat-at-the-book-launch-for-17th-s-r-nathan-fellow</description>
-    </item>
-    <item>
-      <title>The National Wages Council Convenes to Develop Annual Guidelines</title>
-      <link>https://covarage.com/updates</link>
-      <guid isPermaLink="false">covarage-update-2026-08-07-the-national-wages-council-convenes-to-develop-annual-guidelines</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 +0800</pubDate>
-      <category>Official update</category>
-      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/0807-convening-of-nwc-2627</description>
-    </item>
-    <item>
-      <title>Enhanced Primary Care Plan brings healthcare closer to migrant workers while lowering or maintaining costs for almost all employers</title>
-      <link>https://covarage.com/updates</link>
-      <guid isPermaLink="false">covarage-update-2026-08-06-enhanced-primary-care-plan-brings-healthcare-closer-to-migrant-workers-while-low</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
-      <category>Official update</category>
-      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/0806-enhanced-primary-care-plan-appointment-of-new-aos</description>
-    </item>
-    <item>
-      <title>Labour Market Advance Release - Second Quarter 2026</title>
-      <link>https://covarage.com/updates</link>
-      <guid isPermaLink="false">covarage-update-2026-07-31-labour-market-advance-release-second-quarter-2026</guid>
-      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
-      <category>Official update</category>
-      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/0731-labour-market-advance-release-2q-2026</description>
-    </item>
-    <item>
-      <title>Multi-Agency Workplace Safety and Health Taskforce (MAST) calls for greater vigilance amidst rise in work-related traffic accidents this year</title>
-      <link>https://covarage.com/updates</link>
-      <guid isPermaLink="false">covarage-update-2026-07-28-multi-agency-workplace-safety-and-health-taskforce-mast-calls-for-greater-vigila</guid>
-      <pubDate>Tue, 28 Jul 2026 00:00:00 +0800</pubDate>
-      <category>Official update</category>
-      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/0728-mast-calls-for-greater-vigilance</description>
-    </item>
-    <item>
-      <title>NATAS Membership and Travel Agent Insurance in Singapore: Where the Association Ends and the Law Begins</title>
-      <link>https://covarage.com/guides/association/natas-membership-travel-agent-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/natas-membership-travel-agent-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>NATAS membership is voluntary and is not a licence. What actually governs a Singapore travel agent, and where the insurance duties really come from.</description>
-    </item>
-    <item>
-      <title>Restaurant Association of Singapore (RAS) Membership and F&amp;B Insurance</title>
-      <link>https://covarage.com/guides/association/ras-membership-fnb-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/ras-membership-fnb-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Restaurant Association membership imposes no insurance on an F&amp;B business. The duties that arrive come from the SFA licence, the lease and the landlord.</description>
-    </item>
-    <item>
-      <title>REDAS Membership and Insurance: What Real Estate Developers in Singapore Should Know</title>
-      <link>https://covarage.com/guides/association/redas-membership-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/redas-membership-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>REDAS is a private trade body, not a regulator. It issues no licence and mandates no member cover, so a Singapore developer&apos;s duties sit in the contracts.</description>
-    </item>
-    <item>
-      <title>SCCCI Membership and Insurance: What the Chinese Chamber Means for SME Cover</title>
-      <link>https://covarage.com/guides/association/sccci-membership-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/sccci-membership-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>SCCCI is a chamber, not a regulator. It issues no licence and imposes no cover, so a member&apos;s real Singapore obligations originate somewhere else.</description>
-    </item>
-    <item>
-      <title>Security Association Singapore Membership and the PLRD Insurance Overlap</title>
-      <link>https://covarage.com/guides/association/security-association-singapore-membership-insurance</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/security-association-singapore-membership-insurance</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Security Association membership is voluntary and buys you no cover. The obligations that bind a security agency come from the PLRD licence instead.</description>
-    </item>
-    <item>
-      <title>Singapore Business Federation Membership and Your Insurance Obligations</title>
-      <link>https://covarage.com/guides/association/singapore-business-federation-membership-insurance</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/singapore-business-federation-membership-insurance</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>SBF membership is statutory for companies above a capital threshold, but it is not an insurance arrangement. What the Act requires and what it does not.</description>
-    </item>
-    <item>
-      <title>Singapore Hotel Association Membership and Hospitality Insurance</title>
-      <link>https://covarage.com/guides/association/singapore-hotel-association-membership-insurance</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/singapore-hotel-association-membership-insurance</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Hotel Association membership is voluntary and imposes no insurance. The duties that do reach a hotel come from the licence, the lease and the contracts.</description>
-    </item>
-    <item>
-      <title>Singapore Logistics Association Membership and Insurance for Logistics SMEs</title>
-      <link>https://covarage.com/guides/association/singapore-logistics-association-membership-insurance</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/singapore-logistics-association-membership-insurance</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Logistics Association membership is not a licence and imposes no insurance. What does bind a freight forwarder is the trading conditions it signs up to.</description>
-    </item>
-    <item>
-      <title>SNEF Membership and the Employer&apos;s Insurance Picture in Singapore</title>
-      <link>https://covarage.com/guides/association/snef-membership-employer-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/snef-membership-employer-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>SNEF represents employers inside Singapore&apos;s tripartite system. It is not a regulator and imposes no cover, so the employer duties come from elsewhere.</description>
-    </item>
-    <item>
-      <title>Spa and Wellness Association Membership and Insurance for Singapore Operators</title>
-      <link>https://covarage.com/guides/association/spa-wellness-association-membership-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/association/spa-wellness-association-membership-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Spa association membership in Singapore obliges you to buy nothing. Treatment liability, public liability and work injury cover come from somewhere else.</description>
-    </item>
-    <item>
-      <title>Commercial Motor Excess and No-Claim Discount: How Fleet Pricing Actually Works</title>
-      <link>https://covarage.com/guides/comparison/commercial-motor-excess-ncd-fleet-pricing-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/commercial-motor-excess-ncd-fleet-pricing-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Two levers set your Singapore commercial motor premium and most SMEs read both wrong: what the excess actually does, and how NCD behaves across a fleet.</description>
-    </item>
-    <item>
-      <title>Cyber Insurance: First-Party vs Third-Party Cover and What Each Pays</title>
-      <link>https://covarage.com/guides/comparison/cyber-first-party-vs-third-party-cover-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/cyber-first-party-vs-third-party-cover-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>A cyber policy has two halves. First-party pays your own breach costs, third-party pays what you owe others. Which half a Singapore claim falls in decides.</description>
-    </item>
-    <item>
-      <title>Equipment Breakdown vs Property All Risks: What Covers SME Machinery</title>
-      <link>https://covarage.com/guides/comparison/equipment-breakdown-vs-property-all-risks-singapore-sme</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/equipment-breakdown-vs-property-all-risks-singapore-sme</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Property All Risks covers sudden external damage, not a machine that fails from the inside. For Singapore SMEs that inside failure is the whole gap.</description>
-    </item>
-    <item>
-      <title>Fidelity Guarantee vs Commercial Crime vs Cyber Crime: Where the Cover Overlaps</title>
-      <link>https://covarage.com/guides/comparison/fidelity-vs-commercial-crime-vs-cyber-crime-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/fidelity-vs-commercial-crime-vs-cyber-crime-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Fidelity, commercial crime and cyber crime all answer dishonesty, which is why Singapore SMEs treat them as one. Where each of the three actually starts.</description>
-    </item>
-    <item>
-      <title>Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers</title>
-      <link>https://covarage.com/guides/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Three covers get confused for one migrant worker and Singapore compels two of them. What foreign worker medical, WICA and group health each actually do.</description>
-    </item>
-    <item>
-      <title>Goods-in-Transit vs Motor Cargo vs Marine Cargo: Which Covers Your Delivery Fleet</title>
-      <link>https://covarage.com/guides/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Goods in transit, motor cargo and marine cargo pay for different journeys. Which follows your goods out of Singapore, and where each of the three stops.</description>
-    </item>
-    <item>
-      <title>Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?</title>
-      <link>https://covarage.com/guides/comparison/professional-indemnity-vs-public-liability-service-business-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/comparison/professional-indemnity-vs-public-liability-service-business-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>They answer different claims, so most Singapore service businesses need both. Public liability follows injury and damage; PI follows your advice.</description>
-    </item>
-    <item>
-      <title>General Average Declared: A Singapore Importer&apos;s First 72 Hours</title>
-      <link>https://covarage.com/guides/crisis/general-average-declared-importer-first-72-hours-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/crisis/general-average-declared-importer-first-72-hours-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Cargo sacrificed to save a voyage becomes everyone&apos;s bill. What general average means for an importer, and what to do in the first 72 hours.</description>
-    </item>
-    <item>
-      <title>Does Your Singapore SME Actually Need D&amp;O Cover? A Decision Guide</title>
-      <link>https://covarage.com/guides/decision-tree/does-my-sme-need-do-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/decision-tree/does-my-sme-need-do-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>No Singapore law makes D&amp;O compulsory for a private company, so it is a risk decision rather than a compliance one. What the exposure actually looks like.</description>
-    </item>
-    <item>
-      <title>Group Health Insurance for a Small Singapore SME: When It Starts to Pay Off</title>
-      <link>https://covarage.com/guides/decision-tree/group-health-when-worth-it-small-sme-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/decision-tree/group-health-when-worth-it-small-sme-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>No Singapore statute requires group health cover. What decides it is hiring, retention and cost, so here is the arithmetic rather than the sales pitch.</description>
-    </item>
-    <item>
-      <title>Sole Proprietor vs Pte Ltd: How Your Business Structure Changes Your Insurance</title>
-      <link>https://covarage.com/guides/decision-tree/sole-proprietor-vs-pte-ltd-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/decision-tree/sole-proprietor-vs-pte-ltd-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>A sole proprietor and the business are one in Singapore law, so a claim reaches personal assets. Incorporation moves that line, and what cover must do.</description>
     </item>
   </channel>
 </rss>

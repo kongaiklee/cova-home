@@ -54,7 +54,10 @@ export const routes: RouteRecord[] = [
         children: [
           { path: 'blog', element: <BlogIndex /> },
           // The weekly screen's output surface (M2, newsfeed v1) - blog shell, own route.
-          { path: 'updates', element: <UpdatesPage /> },
+          { path: 'updates', element: <UpdatesPage topic="general" /> },
+          // The cyber and digital-risk screen, a SIBLING page on the same component and the same
+          // file - `topic` decides which page an item renders on (Kong ~20:1x, 2026-09-11).
+          { path: 'updates/cyber', element: <UpdatesPage topic="cyber" /> },
           { path: 'terms', element: <Terms /> },
           { path: 'privacy', element: <Privacy /> },
           // moved from blog.covarage.com with the corpus; the blog host 301s its old path here

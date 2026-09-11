@@ -10,7 +10,12 @@
   </url>
   <url>
     <loc>https://covarage.com/updates</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/updates/cyber</loc>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -35,12 +40,12 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/association</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/comparison</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
@@ -50,7 +55,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/cross-border</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
@@ -60,7 +65,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
@@ -70,27 +75,27 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/emerging-risk</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/licensing</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/compulsory-motor-insurance-singapore-third-party</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -180,7 +185,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/association/spa-wellness-association-membership-insurance-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -290,7 +295,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/licensing/avs-pet-animal-licence-insurance-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -355,7 +360,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/licensing/sfa-food-establishment-licence-insurance</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -375,7 +380,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/construction-insurance-complete-guide-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -635,7 +640,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/bca-crs-expansion-national-registry-1-june-2025</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -845,7 +850,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/association/sma-smc-medical-practitioner-indemnity-framework</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -855,7 +860,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/association/isca-acra-public-accountants-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -870,7 +875,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/association/singapore-institute-of-architects-boa-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -880,7 +885,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -925,7 +930,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -935,7 +940,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/bca-crs-workhead-evolution-construction-insurance</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -945,7 +950,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -980,17 +985,17 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1005,7 +1010,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/mom-wsh-incident-reporting-eservice-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1050,7 +1055,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/psscoc-insurance-clauses-government-tender-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1195,12 +1200,12 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1445,7 +1450,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/ucta-1977-commercial-limitation</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1830,7 +1835,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/mas-faa-n16-n20-updates</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1875,7 +1880,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/comparison/faa-n02-introducer-vs-fa-broker</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2020,7 +2025,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/mas-guidelines-on-outsourcing</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2075,7 +2080,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/insurance-act-1966-overview</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2130,7 +2135,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/cross-border/sg-saas-data-residency-decisions</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2215,7 +2220,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/association/bca-crs-workheads-overview</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2225,7 +2230,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/pdpa-section-24-protection-obligation</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2335,7 +2340,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/cybersecurity-act-cii-designation</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2345,7 +2350,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/insurance-act-disclosure-duty</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2375,7 +2380,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/faa-n16-reasonable-basis</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2405,7 +2410,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-c-claim</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2420,7 +2425,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/indemnity-to-principal</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2460,7 +2465,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-a-claim</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2500,7 +2505,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/dispute-denied-claim</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2610,7 +2615,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/licensing/bca-cw01-cw02-contractor-insurance-requirements</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2630,7 +2635,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/cyber-act-2024</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2660,12 +2665,12 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/licensing/scdf-fire-safety-certificate-insurance-implications</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/mas-register-verify-insurance-broker</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2695,7 +2700,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/licensing/bca-builders-licensing-scheme-insurance</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

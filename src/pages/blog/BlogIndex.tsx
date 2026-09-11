@@ -175,7 +175,7 @@ export default function BlogIndex() {
               data-updates-strip
               className="mb-5 hidden rounded-lg border border-border-primary bg-white px-4 py-3 text-sm text-text-secondary transition hover:border-primary lg:block"
             >
-              <span className="font-semibold text-text-primary">Updates</span> - official announcements that matter to business cover, linked to the source.
+              <span className="font-semibold text-text-primary">Regulatory updates</span> - screened weekly from Singapore's agencies and industry bodies, linked to the source.
             </Link>
 
             {/* journey tabs, compact - the second axis stays */}
@@ -220,7 +220,7 @@ export default function BlogIndex() {
 
             {/* phone: the Updates pointer as one link line under the count - a pointer, not a filter (s6 ruling 3) */}
             <Link to="/updates" data-updates-line className="mt-3 block text-sm text-text-secondary underline-offset-2 hover:text-primary-extended hover:underline lg:hidden">
-              Updates - official announcements linked to the source
+              Regulatory updates - screened weekly, linked to the source
             </Link>
 
             {paged.length > 0 ? (

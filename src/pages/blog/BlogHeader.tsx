@@ -10,6 +10,9 @@ const NAV = [
   // Kong 2026-08-31: the header reads Guides, not Blog. The /blog ROUTE is unchanged on purpose -
   // it is published in the sitemap, the feed and 500+ internal links; the label is what he asked for.
   { label: 'Guides', href: '/blog', external: false },
+  // 2026-09-11: the nav carries both update pages (cyber research s8, Kong ~20:1x via the hub).
+  { label: 'Regulatory updates', href: '/updates', external: false },
+  { label: 'Cyber and digital risk', href: '/updates/cyber', external: false },
   { label: 'Home', href: '/', external: false },
 ];
 

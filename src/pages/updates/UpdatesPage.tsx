@@ -1,18 +1,40 @@
 import { useState } from 'react';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import Seo from '../../components/Seo';
-import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, UPDATES, formatDate } from '../../content/updates';
+import type { Topic } from '../../content/updates';
+import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, formatDate, screenedFor, updatesFor } from '../../content/updates';
 
 /**
- * /updates - the weekly screen's output surface (M2, newsfeed v1; Kong: "we become the single
- * newsfeed for all official compliance matters for our users"). Headlines render VERBATIM with
- * source attribution and a plain outbound link - quotation, never COVA speech; no commentary
- * in v1. The review line's date moves only when a screen ran; before the first screen the page
- * carries only the corpus-updated line, derived from the committed article index.
+ * /updates and /updates/cyber - the weekly screen's output surface (M2, newsfeed v1; Kong: "we
+ * become the single newsfeed for all official compliance matters for our users"). Headlines render
+ * VERBATIM with source attribution and a plain outbound link - quotation, never COVA speech; no
+ * commentary in v1. The review line's date moves only when a screen ran; before the first screen
+ * the page carries only the corpus-updated line, derived from the committed article index.
+ *
+ * 2026-09-11: ONE component, TWO routes (Kong ~20:1x in the CMO window, via the hub; spec s4 + s8
+ * of CMO_RESEARCH_cyber-digital-risk-sources_2026-09-11). `topic` decides which items a page
+ * renders, which names its `What we screen` line prints, and its copy. Both pages read the one
+ * updates.json; an item without a topic is general, so nothing ever published moved.
  */
 
-/** The screening list, named for the reader (CMO_NEWSFEED_whitelist.md; CNA + IBA per Kong's ruling). */
-const SCREENED = ['MOM', 'PDPC', 'IRAS', 'MAS', 'ACRA', 'CPF Board', 'GIA', 'LIA', 'WSH Council', 'CNA Business', 'Insurance Business Asia'];
+/** The per-page copy. General strings are CMO's s9 exact replacements (Kong: "apply now"). */
+const COPY: Record<Topic, { path: string; h1: string; lede: string; seoTitle: string; seoDescription: string }> = {
+  general: {
+    path: '/updates',
+    h1: 'Regulatory updates',
+    lede: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly. Headlines appear as published, linked to the source.",
+    seoTitle: 'Regulatory Updates for Singapore Businesses | Covarage',
+    seoDescription: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly, each linked to its official source, with the date we last reviewed stated.",
+  },
+  // Derived from s4's hero clause; CMO owns the words and restamps them when it likes.
+  cyber: {
+    path: '/updates/cyber',
+    h1: 'Cyber and digital risk',
+    lede: 'A weekly cyber and digital-risk screen of CSA, SingCERT, the police and the international advisories. Headlines appear as published, linked to the source.',
+    seoTitle: 'Cyber and Digital Risk Updates for Businesses | Covarage',
+    seoDescription: 'Cyber and digital-risk alerts and advisories screened weekly from CSA, SingCERT, the police and the international advisories, each linked to its source, with the date we last reviewed stated.',
+  },
+};
 
 /**
  * Kong 2026-09-04: "lets show up to 15 at a time, and then pageination the rest".
@@ -24,10 +46,13 @@ const SCREENED = ['MOM', 'PDPC', 'IRAS', 'MAS', 'ACRA', 'CPF Board', 'GIA', 'LIA
  */
 const PER_PAGE = 15;
 
-export default function UpdatesPage() {
+export default function UpdatesPage({ topic }: { topic: Topic }) {
+  const copy = COPY[topic];
+  const items = updatesFor(topic);
+  const screened = screenedFor(topic);
   const [page, setPage] = useState(1);
-  const totalPages = Math.max(1, Math.ceil(UPDATES.length / PER_PAGE));
-  const paged = UPDATES.slice((page - 1) * PER_PAGE, page * PER_PAGE);
+  const totalPages = Math.max(1, Math.ceil(items.length / PER_PAGE));
+  const paged = items.slice((page - 1) * PER_PAGE, page * PER_PAGE);
 
   function goToPage(next: number) {
     setPage(next);
@@ -36,18 +61,11 @@ export default function UpdatesPage() {
 
   return (
     <>
-      <Seo
-        title="Covarage Updates: Official Compliance News for Singapore SMEs"
-        description="Announcements from Singapore's regulators and industry bodies that matter to business cover, each linked to its official source, with the date we last reviewed stated."
-        path="/updates"
-      />
+      <Seo title={copy.seoTitle} description={copy.seoDescription} path={copy.path} />
 
       <section className="mx-auto w-full max-w-7xl px-6 pt-16 pb-10 text-center sm:px-10 lg:px-16 lg:pt-20">
-        <h1 className="font-serif text-4xl text-text-primary sm:text-5xl lg:text-6xl">Updates</h1>
-        <p className="mx-auto mt-4 max-w-xl text-base/relaxed text-text-secondary">
-          Official announcements that matter to business cover in Singapore. Headlines appear as
-          published, linked to the source.
-        </p>
+        <h1 className="font-serif text-4xl text-text-primary sm:text-5xl lg:text-6xl">{copy.h1}</h1>
+        <p className="mx-auto mt-4 max-w-xl text-base/relaxed text-text-secondary">{copy.lede}</p>
         {REVIEWED && (
           /*
            * A bare date. The <time> element is not decoration: it makes the freshness signal a
@@ -62,11 +80,11 @@ export default function UpdatesPage() {
       </section>
 
       <section className="mx-auto w-full max-w-4xl px-6 pb-24 sm:px-10">
-        {UPDATES.length > 0 ? (
+        {items.length > 0 ? (
           <div>
             {totalPages > 1 && (
               <p className="m-0 mb-4 text-sm text-text-secondary" data-updates-count>
-                {UPDATES.length} updates &middot; page {page} of {totalPages}
+                {items.length} updates &middot; page {page} of {totalPages}
               </p>
             )}
             {paged.map((u) => (
@@ -123,34 +141,35 @@ export default function UpdatesPage() {
         )}
 
         {/*
-          * The pending disclosure lives HERE now, not in the hero. It was added at G15 so a
-          * whitelist source a screen did not reach is NAMED rather than quietly dropped, and that
-          * rule is unchanged - only its position moved, to sit beside the source list it qualifies.
-          * Marking the subset in place says more than a sentence did: the reader sees which of the
-          * eleven were not reached, rather than being told a count.
+          * The pending disclosure lives HERE, beside the source list it qualifies. A source the
+          * screen did not reach is NAMED rather than quietly dropped (G15 rule, unchanged). The
+          * names come from the reviewed block, per topic, so a source added to the screen appears
+          * here without a code change.
           */}
-        <div className="mt-14 border-t border-border-primary pt-6">
-          <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">What we screen</p>
-          <p className="m-0 mt-2 text-sm/relaxed text-text-secondary" data-screened>
-            {SCREENED.map((name, i) => {
-              const notReached = REVIEWED?.pending?.includes(name) ?? false;
-              return (
-                <span key={name}>
-                  {i > 0 && ' · '}
-                  <span className={notReached ? 'text-text-secondary/60' : undefined}>
-                    {name}
-                    {notReached && '*'}
+        {screened.sources.length > 0 && (
+          <div className="mt-14 border-t border-border-primary pt-6">
+            <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">What we screen</p>
+            <p className="m-0 mt-2 text-sm/relaxed text-text-secondary" data-screened>
+              {screened.sources.map((name, i) => {
+                const notReached = screened.pending.includes(name);
+                return (
+                  <span key={name}>
+                    {i > 0 && ' · '}
+                    <span className={notReached ? 'text-text-secondary/60' : undefined}>
+                      {name}
+                      {notReached && '*'}
+                    </span>
                   </span>
-                </span>
-              );
-            })}
-          </p>
-          {REVIEWED?.pending?.length ? (
-            <p className="m-0 mt-2 text-[13px]/relaxed text-text-secondary/70" data-screened-pending>
-              * not reached by the last review; checked by hand.
+                );
+              })}
             </p>
-          ) : null}
-        </div>
+            {screened.pending.length ? (
+              <p className="m-0 mt-2 text-[13px]/relaxed text-text-secondary/70" data-screened-pending>
+                * not reached by the last review; checked by hand.
+              </p>
+            ) : null}
+          </div>
+        )}
         <div className="mt-8 border-t border-border-primary pt-6">
           <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">Follow along</p>
           <p className="m-0 mt-2 text-sm/relaxed text-text-secondary">

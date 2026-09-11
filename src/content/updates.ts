@@ -15,6 +15,15 @@ export interface UpdateItem {
   url: string;
   /** Publication date at the source, ISO yyyy-mm-dd. */
   date: string;
+  /** Which page renders it: /updates (general) or /updates/cyber. Absent = general (2026-09-11). */
+  topic?: Topic;
+}
+
+export type Topic = 'general' | 'cyber';
+
+export interface TopicCoverage {
+  sources: string[];
+  pending?: string[];
 }
 
 export interface Reviewed {
@@ -24,6 +33,8 @@ export interface Reviewed {
   changes: boolean;
   /** Whitelist sources the run did NOT reach, named rather than quietly omitted. */
   pending?: string[];
+  /** Per-topic coverage for a run that screened a second list (the cyber screen, 2026-09-11). */
+  topics?: Partial<Record<Topic, TopicCoverage>>;
 }
 
 interface UpdatesFile {
@@ -35,6 +46,25 @@ const data = updatesData as UpdatesFile;
 
 export const REVIEWED: Reviewed | null = data.reviewed;
 export const UPDATES: UpdateItem[] = [...data.items].sort((a, b) => (a.date < b.date ? 1 : -1));
+
+/** The items one page renders. `topic` decides; an item without one is general, so nothing ever published moves. */
+export function updatesFor(topic: Topic): UpdateItem[] {
+  return UPDATES.filter((u) => (u.topic ?? 'general') === topic);
+}
+
+/**
+ * The names a page's `What we screen` line prints, read from the reviewed block rather than a
+ * hardcoded array, so a source added to the screen appears without a code change (s4 of
+ * CMO_RESEARCH_cyber-digital-risk-sources_2026-09-11). General = the run's `sources` + `pending`;
+ * cyber = `topics.cyber`. A pending name is still listed - marked, never omitted.
+ */
+export function screenedFor(topic: Topic): { sources: string[]; pending: string[] } {
+  if (!REVIEWED) return { sources: [], pending: [] };
+  const c = topic === 'general' ? REVIEWED : REVIEWED.topics?.[topic];
+  const pending = c?.pending ?? [];
+  const sources = [...(c?.sources ?? []), ...pending.filter((p) => !(c?.sources ?? []).includes(p))];
+  return { sources, pending };
+}
 
 /**
  * The freshness label. `reviewed`, never `updated`, and the one word is load-bearing: the date
