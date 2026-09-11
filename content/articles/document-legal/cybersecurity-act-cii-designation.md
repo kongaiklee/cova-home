@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "CSA"]
 article_number: 76
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1691
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/cybersecurity-act-cii-designation"
-meta_description: "CII designation applies to systems delivering essential services, not to every business. Who receives it and which duties follow."
+meta_description: "CII in cyber security means Critical Information Infrastructure, designated by the Commissioner under the Cybersecurity Act. Who receives it, and the duties."
 og_title: "Cybersecurity Act 2018 (Singapore): What Critical Information Infrastructure (CII) Designation Means"
-og_description: "CII designation applies to systems delivering essential services, not to every business. Who receives it and which duties follow."
+og_description: "CII in cyber security means Critical Information Infrastructure, designated by the Commissioner under the Cybersecurity Act. Who receives it, and the duties."
 ---
 
 > **The Answer in 60 Seconds**

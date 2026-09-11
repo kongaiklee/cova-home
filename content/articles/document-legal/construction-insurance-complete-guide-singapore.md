@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "BCA"]
 article_number: 468
 published: "2026-05-31"
 source_verified: "2026-05-31"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2766
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/construction-insurance-complete-guide-singapore"
-meta_description: "Construction insurance is a stack of separate covers, not one policy. Only work injury compensation is mandated by statute; the rest arrives by contract."
+meta_description: "Construction site insurance requirements in Singapore come from three places: your BCA grade, the WSH Act, and the contract. Only one cover is statutory."
 og_title: "Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture"
-og_description: "Construction insurance is a stack of separate covers, not one policy. Only work injury compensation is mandated by statute; the rest arrives by contract."
+og_description: "Construction site insurance requirements in Singapore come from three places: your BCA grade, the WSH Act, and the contract. Only one cover is statutory."
 ---
 
 > **The Answer in 60 Seconds**

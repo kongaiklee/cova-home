@@ -10,14 +10,14 @@ required_by_law: "duty"
 article_number: 98
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2086
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/pdpa-section-24-protection-obligation"
-meta_description: "Singapore's PDPA section 24 requires reasonable security against unauthorised access, loss or disposal of personal data. What counts as reasonable."
+meta_description: "Most PDPC enforcement lands on one line of the PDPA, and section 24 is it. What its protection obligation has accepted as reasonable, and what has failed."
 og_title: "PDPA Section 24 Protection Obligation: What \"Reasonable Security Arrangements\" Actually Means"
-og_description: "Singapore's PDPA section 24 requires reasonable security against unauthorised access, loss or disposal of personal data. What counts as reasonable."
+og_description: "Most PDPC enforcement lands on one line of the PDPA, and section 24 is it. What its protection obligation has accepted as reasonable, and what has failed."
 ---
 
 > **The Answer in 60 Seconds**

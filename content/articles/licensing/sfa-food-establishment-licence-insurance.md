@@ -9,14 +9,14 @@ agencies: ["SFA", "Singapore Statutes"]
 article_number: 472
 published: "2026-05-31"
 source_verified: "2026-05-31"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1809
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/sfa-food-establishment-licence-insurance"
-meta_description: "Singapore's SFA food establishment licence is about food safety and demands no insurance. The duties that do reach you come from your lease and customers."
+meta_description: "An SFA food establishment licence polices hygiene and names no insurance. Your lease, your customers and WICA are where the real duties on a kitchen start."
 og_title: "What Insurance Does an SFA Food Establishment Licence Need in Singapore?"
-og_description: "Singapore's SFA food establishment licence is about food safety and demands no insurance. The duties that do reach you come from your lease and customers."
+og_description: "An SFA food establishment licence polices hygiene and names no insurance. Your lease, your customers and WICA are where the real duties on a kitchen start."
 ---
 
 > **The Answer in 60 Seconds**

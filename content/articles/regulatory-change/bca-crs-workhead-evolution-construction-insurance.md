@@ -9,14 +9,14 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 265
 published: "2026-05-14"
 source_verified: "2026-05-14"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2196
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/bca-crs-workhead-evolution-construction-insurance"
-meta_description: "BCA CRS registration now governs which Singapore firms may hire foreign construction workers, not just who may tender. What changed for your grade."
+meta_description: "BCA CRS once set only your tendering limit. Since 1 June 2025 it also decides who may hire foreign construction workers. What changed per grade."
 og_title: "BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know"
-og_description: "BCA CRS registration now governs which Singapore firms may hire foreign construction workers, not just who may tender. What changed for your grade."
+og_description: "BCA CRS once set only your tendering limit. Since 1 June 2025 it also decides who may hire foreign construction workers. What changed per grade."
 ---
 
 > **The Answer in 60 Seconds**

@@ -10,14 +10,14 @@ required_by_law: "cover"
 article_number: 525
 published: "2026-08-26"
 source_verified: "2026-08-26"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2382
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/compulsory-motor-insurance-singapore-third-party"
-meta_description: "One of only two insurances Singapore law actually forces on a business. What the Motor Vehicles Act requires, for which vehicles, and what it does not."
+meta_description: "The minimum legal insurance required to drive on a Singapore road covers injury to other people and nothing else. What the Motor Vehicles Act commands."
 og_title: "Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs"
-og_description: "One of only two insurances Singapore law actually forces on a business. What the Motor Vehicles Act requires, for which vehicles, and what it does not."
+og_description: "The minimum legal insurance required to drive on a Singapore road covers injury to other people and nothing else. What the Motor Vehicles Act commands."
 ---
 
 # Does my business have to insure its vehicles, and what is the minimum?

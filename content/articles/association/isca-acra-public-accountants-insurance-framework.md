@@ -9,14 +9,14 @@ agencies: ["ACRA", "Singapore Statutes"]
 article_number: 284
 published: "2026-05-14"
 source_verified: "2026-05-14"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2043
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/isca-acra-public-accountants-insurance-framework"
-meta_description: "ISCA confers the CA Singapore designation; ACRA registers public accountants. Which one carries an insurance condition, and what it requires."
+meta_description: "Only one of the two bodies behind a Singapore accountant attaches an insurance condition, and it sets the sum by formula. ISCA, ACRA, and which is which."
 og_title: "Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications"
-og_description: "ISCA confers the CA Singapore designation; ACRA registers public accountants. Which one carries an insurance condition, and what it requires."
+og_description: "Only one of the two bodies behind a Singapore accountant attaches an insurance condition, and it sets the sum by formula. ISCA, ACRA, and which is which."
 ---
 
 > **The Answer in 60 Seconds**

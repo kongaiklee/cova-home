@@ -9,14 +9,14 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 100
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1664
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/bca-crs-workheads-overview"
-meta_description: "BCA CRS is Singapore's official register of construction contractors. What the workheads mean, how grading works, and what registration controls."
+meta_description: "A BCA financial grade sets your tendering ceiling and the workhead sets the trade. How CRS grading works, and which cover each registration assumes."
 og_title: "BCA Contractors Registration System (CRS): Workheads, Tiers, and Insurance Implications"
-og_description: "BCA CRS is Singapore's official register of construction contractors. What the workheads mean, how grading works, and what registration controls."
+og_description: "A BCA financial grade sets your tendering ceiling and the workhead sets the trade. How CRS grading works, and which cover each registration assumes."
 ---
 
 > **The Answer in 60 Seconds**

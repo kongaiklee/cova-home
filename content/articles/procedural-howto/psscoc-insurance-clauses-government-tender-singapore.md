@@ -9,14 +9,14 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 372
 published: "2026-05-07"
 source_verified: "2026-05-07"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2068
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/psscoc-insurance-clauses-government-tender-singapore"
-meta_description: "PSSCOC 8th Edition sets the insurance clauses on a Singapore public sector tender. What the contract requires, and what your policy must say to match."
+meta_description: "PSSCOC 8th Edition (2020) clauses 27 and 28 set the insurance on a public sector tender; the Particular Conditions set the limits. What to check first."
 og_title: "How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender"
-og_description: "PSSCOC 8th Edition sets the insurance clauses on a Singapore public sector tender. What the contract requires, and what your policy must say to match."
+og_description: "PSSCOC 8th Edition (2020) clauses 27 and 28 set the insurance on a public sector tender; the Particular Conditions set the limits. What to check first."
 ---
 
 > **The Answer in 60 Seconds**

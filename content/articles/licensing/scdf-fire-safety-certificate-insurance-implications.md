@@ -9,14 +9,14 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness", "MHA", "MAS"]
 article_number: 10
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1374
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scdf-fire-safety-certificate-insurance-implications"
-meta_description: "A Fire Certificate is mandatory under section 35 of Singapore's Fire Safety Act for designated buildings. Which buildings, and what it requires."
+meta_description: "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for."
 og_title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
-og_description: "A Fire Certificate is mandatory under section 35 of Singapore's Fire Safety Act for designated buildings. Which buildings, and what it requires."
+og_description: "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for."
 ---
 
 > **The Answer in 60 Seconds**

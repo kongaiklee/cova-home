@@ -9,14 +9,14 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 168
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1478
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/faa-n02-introducer-vs-fa-broker"
-meta_description: "Introducer, financial adviser and insurance broker are three different permissions in Singapore law. What each may do, and who advises you."
+meta_description: "An FAA-N02 introducer may pass your details along and stop there. What separates that from a licensed financial adviser and from an insurance broker."
 og_title: "FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation"
-og_description: "Introducer, financial adviser and insurance broker are three different permissions in Singapore law. What each may do, and who advises you."
+og_description: "An FAA-N02 introducer may pass your details along and stop there. What separates that from a licensed financial adviser and from an insurance broker."
 ---
 
 > **The Answer in 60 Seconds**

@@ -10,14 +10,14 @@ agencies: []
 article_number: 415
 published: "2026-05-08"
 source_verified: "2026-05-08"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 5900
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme"
-meta_description: "Training data is broadly defensible after Bartz and Kadrey. For a Singapore SME the exposure is outputs that reproduce protectable expression."
+meta_description: "AI generated content exposes a Singapore SME through its outputs, not its training data. Where the copyright risk sits, and whether a policy responds."
 og_title: "AI-Generated Content, Copyright and IP Infringement: What Singapore SMEs Actually Face - and Whether Insurance Will Respond"
-og_description: "Training data is broadly defensible after Bartz and Kadrey. For a Singapore SME the exposure is outputs that reproduce protectable expression."
+og_description: "AI generated content exposes a Singapore SME through its outputs, not its training data. Where the copyright risk sits, and whether a policy responds."
 ---
 
 **TL;DR**

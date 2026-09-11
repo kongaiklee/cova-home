@@ -10,14 +10,14 @@ agencies: ["SPF", "MAS", "SCAMSHIELD", "CSA", "Singapore Statutes", "MHA"]
 article_number: 414
 published: "2026-05-08"
 source_verified: "2026-05-08"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 6092
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme"
-meta_description: "An Arup finance employee joined a Teams call with a deepfaked CFO and authorised HK$200 million in transfers. How the attack actually works."
+meta_description: "A finance employee authorised HK$200 million after a video call with a deepfaked CFO. How the fraud is run, and which policy is meant to answer for it."
 og_title: "Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance"
-og_description: "An Arup finance employee joined a Teams call with a deepfaked CFO and authorised HK$200 million in transfers. How the attack actually works."
+og_description: "A finance employee authorised HK$200 million after a video call with a deepfaked CFO. How the fraud is run, and which policy is meant to answer for it."
 ---
 
 A finance employee at the Hong Kong office of British engineering firm Arup joined what looked like a routine Microsoft Teams call with the company's UK-based Chief Financial Officer and several other "colleagues." He left the call having authorised 15 wire transfers totalling HK$200 million - about US$25.6 million. Every face on that call, except his own, was an AI-generated deepfake. ([Hong Kong Police briefing, 4 February 2024, reported by CNN](https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk); Arup confirmed it was the victim on 16 May 2024 - [CNN Business](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk).)

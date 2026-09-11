@@ -9,14 +9,14 @@ agencies: ["BCA", "MOM"]
 article_number: 21
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 973
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/bca-cw01-cw02-contractor-insurance-requirements"
-meta_description: "BCA grades CW01 and CW02 on financial capacity, personnel and certification, setting no Singapore insurance minimum. Contracts supply that."
+meta_description: "CW01 is BCA's General Building workhead and CW02 Civil Engineering, each graded A1 to C3. Neither grade names an insurance minimum; the contract does."
 og_title: "What Insurance Do BCA CW01 and CW02 Contractors Actually Need?"
-og_description: "BCA grades CW01 and CW02 on financial capacity, personnel and certification, setting no Singapore insurance minimum. Contracts supply that."
+og_description: "CW01 is BCA's General Building workhead and CW02 Civil Engineering, each graded A1 to C3. Neither grade names an insurance minimum; the contract does."
 ---
 
 > **The 60-second answer:** BCA's Contractors Registration System grades CW01 (General Building) and CW02 (Civil Engineering) firms from C3 up to A1 based on financial capacity, personnel, and management certification - but BCA itself does not directly impose insurance minimums in the CW Specific Registration Requirements ([CW SRR, Jun 2025 Edition](https://file.go.gov.sg/bca-crs-srr-cw.pdf)). The insurance you actually need flows from three other sources: the Work Injury Compensation Act (mandatory), your Builders Licence under the Building Control Act, and the tender or contract clauses of the project owner.

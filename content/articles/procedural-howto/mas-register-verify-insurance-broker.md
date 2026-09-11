@@ -9,14 +9,14 @@ agencies: ["MAS", "SCAMSHIELD", "MOM"]
 article_number: 9
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 945
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/mas-register-verify-insurance-broker"
-meta_description: "Every licensed Singapore adviser, broker and tied agent must appear in the MAS directories. How to check who you are actually dealing with."
+meta_description: "The MAS Register of Representatives names every licensed adviser, broker and tied agent in Singapore. How to look one up before you sign anything."
 og_title: "MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)"
-og_description: "Every licensed Singapore adviser, broker and tied agent must appear in the MAS directories. How to check who you are actually dealing with."
+og_description: "The MAS Register of Representatives names every licensed adviser, broker and tied agent in Singapore. How to look one up before you sign anything."
 ---
 
 > **The Answer in 60 Seconds**

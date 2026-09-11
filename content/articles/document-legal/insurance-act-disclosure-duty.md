@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "Courts"]
 article_number: 74
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1929
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/insurance-act-disclosure-duty"
-meta_description: "Singapore insurance runs on utmost good faith, codified in section 17 of the Marine Insurance Act. What you must disclose, and when."
+meta_description: "Singapore insurance runs on utmost good faith: you tell the insurer what a prudent underwriter would want. What the test covers, and when silence voids cover."
 og_title: "Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure"
-og_description: "Singapore insurance runs on utmost good faith, codified in section 17 of the Marine Insurance Act. What you must disclose, and when."
+og_description: "Singapore insurance runs on utmost good faith: you tell the insurer what a prudent underwriter would want. What the test covers, and when silence voids cover."
 ---
 
 > **The Answer in 60 Seconds**

@@ -9,14 +9,14 @@ agencies: ["BOA", "Singapore Statutes"]
 article_number: 281
 published: "2026-05-14"
 source_verified: "2026-05-14"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2466
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-institute-of-architects-boa-insurance-framework"
-meta_description: "SIA represents architects; the Board of Architects registers them. Which body sets the practice conditions, and where indemnity is required."
+meta_description: "The Board of Architects registers and disciplines Singapore architects; SIA represents them. Which body sets practice conditions, and where indemnity sits."
 og_title: "Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices"
-og_description: "SIA represents architects; the Board of Architects registers them. Which body sets the practice conditions, and where indemnity is required."
+og_description: "The Board of Architects registers and disciplines Singapore architects; SIA represents them. Which body sets practice conditions, and where indemnity sits."
 ---
 
 > **The Answer in 60 Seconds**

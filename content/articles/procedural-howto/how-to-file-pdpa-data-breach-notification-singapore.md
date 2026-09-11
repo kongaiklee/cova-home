@@ -10,14 +10,14 @@ required_by_law: "duty"
 article_number: 343
 published: "2026-05-06"
 source_verified: "2026-05-06"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1508
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore"
-meta_description: "A notifiable breach under Singapore's PDPA section 26D must reach PDPC. What the form asks, what the clock is, and what to have ready before filing."
+meta_description: "Filing a breach notification with PDPC: what the form asks, when the three-day clock starts running, and the evidence to assemble before you open it."
 og_title: "How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained"
-og_description: "A notifiable breach under Singapore's PDPA section 26D must reach PDPC. What the form asks, what the clock is, and what to have ready before filing."
+og_description: "Filing a breach notification with PDPC: what the form asks, when the three-day clock starts running, and the evidence to assemble before you open it."
 ---
 
 > **The Answer in 60 Seconds**

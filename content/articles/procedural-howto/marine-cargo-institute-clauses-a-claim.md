@@ -9,14 +9,14 @@ agencies: []
 article_number: 51
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1242
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-a-claim"
-meta_description: "An ICC A cargo claim runs on an all risks basis, so the exclusions decide it. What a Singapore shipper evidences, and what settles it."
+meta_description: "Institute Cargo Clauses A insures all risks, so the exclusions decide it, clause 4.5 delay among them. The evidence a Singapore shipper has to assemble."
 og_title: "How to Claim Under Marine Cargo Institute Clauses A"
-og_description: "An ICC A cargo claim runs on an all risks basis, so the exclusions decide it. What a Singapore shipper evidences, and what settles it."
+og_description: "Institute Cargo Clauses A insures all risks, so the exclusions decide it, clause 4.5 delay among them. The evidence a Singapore shipper has to assemble."
 ---
 
 > **The Answer in 60 Seconds**  

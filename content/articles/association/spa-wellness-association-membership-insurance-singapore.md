@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes"]
 article_number: 507
 published: "2026-05-31"
 source_verified: "2026-05-31"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2154
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/spa-wellness-association-membership-insurance-singapore"
-meta_description: "Association membership imposes no insurance mandate on a Singapore spa. The cover that matters comes from three other places, and the card is not one."
+meta_description: "Spa association membership in Singapore obliges you to buy nothing. Treatment liability, public liability and work injury cover come from somewhere else."
 og_title: "Spa and Wellness Association Membership and Insurance for Singapore Operators"
-og_description: "Association membership imposes no insurance mandate on a Singapore spa. The cover that matters comes from three other places, and the card is not one."
+og_description: "Spa association membership in Singapore obliges you to buy nothing. Treatment liability, public liability and work injury cover come from somewhere else."
 ---
 
 > **The Answer in 60 Seconds**

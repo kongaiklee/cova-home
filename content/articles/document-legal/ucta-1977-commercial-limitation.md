@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "CCCS"]
 article_number: 254
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1229
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/ucta-1977-commercial-limitation"
-meta_description: "Singapore's UCTA limits how far a contract can exclude liability, and negligence causing death or injury cannot be excluded at all. What survives."
+meta_description: "UCTA 1977 caps how far a Singapore commercial contract can push liability away, and death or injury by negligence cannot be excluded at all. What survives."
 og_title: "Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework"
-og_description: "Singapore's UCTA limits how far a contract can exclude liability, and negligence causing death or injury cannot be excluded at all. What survives."
+og_description: "UCTA 1977 caps how far a Singapore commercial contract can push liability away, and death or injury by negligence cannot be excluded at all. What survives."
 ---
 
 > **The Answer in 60 Seconds**

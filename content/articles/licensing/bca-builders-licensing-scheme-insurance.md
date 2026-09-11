@@ -9,14 +9,14 @@ agencies: ["BCA", "MOM", "Singapore Statutes"]
 article_number: 3
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1022
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/bca-builders-licensing-scheme-insurance"
-meta_description: "Singapore's Builders Licensing Scheme sets paid-up capital and personnel conditions, not insurance ones. What BLS requires, and what contracts add."
+meta_description: "The Builders Licensing Scheme grades a builder on paid-up capital and personnel. Where the real insurance duty starts, and what a contract adds on top."
 og_title: "BCA Builders Licensing Scheme: Insurance Requirements (Singapore)"
-og_description: "Singapore's Builders Licensing Scheme sets paid-up capital and personnel conditions, not insurance ones. What BLS requires, and what contracts add."
+og_description: "The Builders Licensing Scheme grades a builder on paid-up capital and personnel. Where the real insurance duty starts, and what a contract adds on top."
 ---
 
 > **The Answer in 60 Seconds**

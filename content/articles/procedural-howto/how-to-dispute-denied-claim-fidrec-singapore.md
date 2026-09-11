@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "MAS", "CHARITIES", "ACRA"]
 article_number: 342
 published: "2026-05-06"
 source_verified: "2026-05-06"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1574
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore"
-meta_description: "Since 1 July 2025 a Singapore small business can take a denied claim to FIDReC. What the route costs, how long it takes, and what it can order."
+meta_description: "FIDReC has heard small-business insurance disputes in Singapore since 1 July 2025. What the route costs, how long it runs, and what an adjudicator can order."
 og_title: "How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure"
-og_description: "Since 1 July 2025 a Singapore small business can take a denied claim to FIDReC. What the route costs, how long it takes, and what it can order."
+og_description: "FIDReC has heard small-business insurance disputes in Singapore since 1 July 2025. What the route costs, how long it runs, and what an adjudicator can order."
 ---
 
 > **The Answer in 60 Seconds**

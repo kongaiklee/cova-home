@@ -9,14 +9,14 @@ agencies: ["Courts"]
 article_number: 59
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1527
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/indemnity-to-principal"
-meta_description: "Indemnity to principal extends your liability cover to the party who engaged you. What the extension does, and what it does not transfer."
+meta_description: "An indemnity to principal clause stretches your liability cover over the party who engaged you, and only as their contract requires. What it will not move."
 og_title: "What \"Indemnity to Principal\" Actually Means in Singapore Insurance"
-og_description: "Indemnity to principal extends your liability cover to the party who engaged you. What the extension does, and what it does not transfer."
+og_description: "An indemnity to principal clause stretches your liability cover over the party who engaged you, and only as their contract requires. What it will not move."
 ---
 
 > **The Answer in 60 Seconds**

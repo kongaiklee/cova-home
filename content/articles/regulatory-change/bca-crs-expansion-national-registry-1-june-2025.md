@@ -9,14 +9,14 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 384
 published: "2026-05-17"
 source_verified: "2026-05-17"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1959
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/bca-crs-expansion-national-registry-1-june-2025"
-meta_description: "From 1 June 2025 Singapore's BCA CRS became a national registry, so any firm hiring foreign construction workers needs it, not just those tendering."
+meta_description: "Any firm hiring construction Work Permit holders must now sit on the Contractors Registration System, tendering or not. What the 1 June 2025 CRS change did."
 og_title: "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications"
-og_description: "From 1 June 2025 Singapore's BCA CRS became a national registry, so any firm hiring foreign construction workers needs it, not just those tendering."
+og_description: "Any firm hiring construction Work Permit holders must now sit on the Contractors Registration System, tendering or not. What the 1 June 2025 CRS change did."
 ---
 
 > **The Answer in 60 Seconds**

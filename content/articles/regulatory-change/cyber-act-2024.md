@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "CSA"]
 article_number: 17
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 998
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cyber-act-2024"
-meta_description: "The Cybersecurity (Amendment) Act 2024 passed in Singapore in May 2024, most provisions commencing that October. What changed, and for whom."
+meta_description: "The Cybersecurity (Amendment) Act 2024 reached the Singapore statute book in May 2024. Which provisions commenced, which have not, and who they now reach."
 og_title: "Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)"
-og_description: "The Cybersecurity (Amendment) Act 2024 passed in Singapore in May 2024, most provisions commencing that October. What changed, and for whom."
+og_description: "The Cybersecurity (Amendment) Act 2024 reached the Singapore statute book in May 2024. Which provisions commenced, which have not, and who they now reach."
 ---
 
 # What does the Cybersecurity (Amendment) Act 2024 mean for my SME's cyber insurance?

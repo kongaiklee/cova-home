@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes"]
 article_number: 62
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1579
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/marine-cargo-institute-clauses-c-claim"
-meta_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a Singapore cargo claim needs, and the timings."
+meta_description: "Institute Cargo Clauses C insures a short list of named perils only. Which events are in, what a Singapore cargo claim must evidence, and the time bars."
 og_title: "How to Claim Under Marine Cargo Institute Clauses C"
-og_description: "ICC C covers a short list of named perils and nothing else. The covered events, the evidence a Singapore cargo claim needs, and the timings."
+og_description: "Institute Cargo Clauses C insures a short list of named perils only. Which events are in, what a Singapore cargo claim must evidence, and the time bars."
 ---
 
 > **The Answer in 60 Seconds**

@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 117
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1955
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-saas-data-residency-decisions"
-meta_description: "Where a SaaS hosts customer data changes its regulatory exposure, its contracts and its cover. What residency decisions actually commit you to."
+meta_description: "Where your SaaS keeps customer data decides its PDPA exposure, its contracts and its cover. What choosing Singapore, the EU or the US actually commits you to."
 og_title: "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US - Insurance and Regulatory Implications"
-og_description: "Where a SaaS hosts customer data changes its regulatory exposure, its contracts and its cover. What residency decisions actually commit you to."
+og_description: "Where your SaaS keeps customer data decides its PDPA exposure, its contracts and its cover. What choosing Singapore, the EU or the US actually commits you to."
 ---
 
 > **The Answer in 60 Seconds**

@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes"]
 article_number: 485
 published: "2026-05-31"
 source_verified: "2026-05-31"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2045
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/avs-pet-animal-licence-insurance-singapore"
-meta_description: "A Singapore AVS licence for a pet or animal business requires no insurance policy. What AVS does require, and where the real cover obligations come from."
+meta_description: "An AVS pet business licence names no policy at all. Your lease, your customers and the Work Injury Compensation Act are what actually oblige you to buy cover."
 og_title: "What Insurance Does an AVS Pet Shop or Animal Business Licence Need in Singapore?"
-og_description: "A Singapore AVS licence for a pet or animal business requires no insurance policy. What AVS does require, and where the real cover obligations come from."
+og_description: "An AVS pet business licence names no policy at all. Your lease, your customers and the Work Injury Compensation Act are what actually oblige you to buy cover."
 ---
 
 > **The Answer in 60 Seconds**

@@ -9,14 +9,14 @@ agencies: ["MAS"]
 article_number: 139
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2021
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/mas-guidelines-on-outsourcing"
-meta_description: "The MAS Guidelines on Outsourcing set what a financial institution must do before handing a function to someone else. What they require."
+meta_description: "The MAS Guidelines on Outsourcing bind the financial institution, then reach you through its contract. What an FI must settle before handing you a function."
 og_title: "MAS Guidelines on Outsourcing: What Singapore SMEs Serving Financial Institutions Need to Know"
-og_description: "The MAS Guidelines on Outsourcing set what a financial institution must do before handing a function to someone else. What they require."
+og_description: "The MAS Guidelines on Outsourcing bind the financial institution, then reach you through its contract. What an FI must settle before handing you a function."
 ---
 
 > **The Answer in 60 Seconds**

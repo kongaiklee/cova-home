@@ -9,14 +9,14 @@ agencies: ["MAS", "Singapore Statutes", "Courts"]
 article_number: 68
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 1574
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/faa-n16-reasonable-basis"
-meta_description: "MAS Notice FAA-N16 requires a reasonable basis for every Singapore recommendation. What the adviser must establish, and what a breach looks like."
+meta_description: "An adviser who recommends without documenting why has breached paragraph 8. What MAS Notice FAA-N16 puts on the file, and how a breach is proved."
 og_title: "MAS Notice FAA-N16: The \"Reasonable Basis for Recommendation\" Duty Explained"
-og_description: "MAS Notice FAA-N16 requires a reasonable basis for every Singapore recommendation. What the adviser must establish, and what a breach looks like."
+og_description: "An adviser who recommends without documenting why has breached paragraph 8. What MAS Notice FAA-N16 puts on the file, and how a breach is proved."
 ---
 
 > **The Answer in 60 Seconds**

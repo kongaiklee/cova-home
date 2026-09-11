@@ -9,14 +9,14 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 263
 published: "2026-05-14"
 source_verified: "2026-05-14"
-updated: "2026-08-30"
+updated: "2026-09-11"
 word_count: 2579
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day"
-meta_description: "PDPA section 26D makes breach notification mandatory in Singapore. What triggers it, the three-day clock, and what the notification must contain."
+meta_description: "PDPA section 26D gives you three calendar days to notify PDPC once a breach is assessed as notifiable. What trips the threshold, and what to send."
 og_title: "PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs"
-og_description: "PDPA section 26D makes breach notification mandatory in Singapore. What triggers it, the three-day clock, and what the notification must contain."
+og_description: "PDPA section 26D gives you three calendar days to notify PDPC once a breach is assessed as notifiable. What trips the threshold, and what to send."
 ---
 
 > **The Answer in 60 Seconds**
