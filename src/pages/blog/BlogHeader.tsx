@@ -13,7 +13,7 @@ const NAV = [
   // 2026-09-11: the nav carries both update pages (cyber research s8, Kong ~20:1x via the hub).
   { label: 'Regulatory updates', href: '/updates', external: false },
   { label: 'Cyber and digital risk', href: '/updates/cyber', external: false },
-  { label: 'Home', href: '/', external: false },
+  // Kong 2026-09-11: "no need for a home in the header, the logo is the nav to home" - the mark links to /.
 ];
 
 /** Solid header for the blog: dark text on the warm Sailcloth background. */
@@ -58,7 +58,7 @@ export default function BlogHeader() {
 
         {/* Below lg the header matches the lander's: the mark, `Request access` as the one visible
             action, and the hamburger (CD's 390 treatment ruling, 2026-09-11, via the hub board). The
-            drawer keeps Guides / Home / Log in; the door lives here, once. */}
+            drawer keeps Guides / the two update pages / Log in; the door lives here, once. */}
         <div className="flex items-center gap-2 lg:hidden">
           <a
             href="/#request"
