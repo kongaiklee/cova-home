@@ -133,7 +133,7 @@ export default function BlogIndex() {
         <img
           src="/assets/blog/blog-hero.jpg"
           alt=""
-          className="mt-8 block h-44 w-full rounded-xl border border-border-primary object-cover object-[50%_72%] lg:mt-12 lg:h-64"
+          className="mt-12 hidden h-64 w-full rounded-xl border border-border-primary object-cover object-[50%_72%] lg:block"
         />
 
         {/* header - left-aligned over the grid, tightened (the centred header + chip wall spent ~200px) */}

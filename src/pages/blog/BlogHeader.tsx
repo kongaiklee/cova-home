@@ -53,15 +53,27 @@ export default function BlogHeader() {
           </a>
         </nav>
 
-        <button
-          type="button"
-          className="rounded-md p-2 text-text-primary hover:bg-black/5 lg:hidden"
-          aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
-          aria-expanded={mobileOpen}
-          onClick={() => setMobileOpen((o) => !o)}
-        >
-          {mobileOpen ? <X className="size-5" /> : <Menu className="size-5" />}
-        </button>
+        {/* Below lg the header matches the lander's: the mark, `Request access` as the one visible
+            action, and the hamburger (CD's 390 treatment ruling, 2026-09-11, via the hub board). The
+            drawer keeps Guides / Home / Log in; the door lives here, once. */}
+        <div className="flex items-center gap-2 lg:hidden">
+          <a
+            href="/#request"
+            onClick={() => track('article_cta_click', { page: window.location.pathname, placement: 'header' })}
+            className="rounded-sm bg-primary-extended px-4 py-2 text-sm font-medium text-white transition hover:opacity-90"
+          >
+            Request access
+          </a>
+          <button
+            type="button"
+            className="rounded-md p-2 text-text-primary hover:bg-black/5"
+            aria-label={mobileOpen ? 'Close menu' : 'Open menu'}
+            aria-expanded={mobileOpen}
+            onClick={() => setMobileOpen((o) => !o)}
+          >
+            {mobileOpen ? <X className="size-5" /> : <Menu className="size-5" />}
+          </button>
+        </div>
       </div>
 
       <div
@@ -87,13 +99,6 @@ export default function BlogHeader() {
             className="rounded-lg px-3 py-2.5 text-sm font-medium text-text-primary hover:bg-black/5"
           >
             Log in
-          </a>
-          <a
-            href="/#request"
-            onClick={() => track('article_cta_click', { page: window.location.pathname, placement: 'drawer' })}
-            className="mt-1 rounded-sm bg-primary-extended px-3 py-2.5 text-center text-sm font-medium text-white hover:opacity-90"
-          >
-            Request access
           </a>
         </nav>
       </div>
