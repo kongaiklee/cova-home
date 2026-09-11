@@ -8,8 +8,8 @@ industries: ["Healthcare"]
 agencies: ["SMC", "Singapore Statutes"]
 article_number: 286
 published: "2026-05-14"
-source_verified: "2026-05-14"
-updated: "2026-08-30"
+source_verified: "2026-09-11"
+updated: "2026-09-11"
 word_count: 1867
 status: "published"
 hero_image: "/assets/blog/association.jpg"
@@ -21,11 +21,11 @@ og_description: "SMC regulates and SMA represents. Which body sets your indemnit
 
 > **The Answer in 60 Seconds**
 >
-> The [Singapore Medical Association (SMA)](https://www.sma.org.sg) is the national professional body for medical practitioners. The [Singapore Medical Council (SMC)](https://www.smc.gov.sg) is the statutory regulator constituted under the [Medical Registration Act 1997 (MRA)](https://sso.agc.gov.sg/Act/MRA1997), administering the Register of Medical Practitioners, the Continuing Medical Education (CME) programme, and the regulation of professional conduct and ethics. Unlike the Architects, Professional Engineers, Accountants, and Legal Profession Acts, **the MRA does not contain a direct numerical PI compulsion on the face of the Act**; PI obligations flow through the SMC Ethical Code and Ethical Guidelines (ECEG) 2016 Edition. The [SMC ECEG 2016](https://www.smc.gov.sg/for-professionals/regulations-guidelines-circulars/ethical-code-and-ethical-guidelines-and-handbook-on-medical-ethics/) treats holding adequate professional indemnity as a professional expectation. Three principal Medical Defence Organisations (MDOs) provide medical indemnity to Singapore practitioners: Medical Protection Society (MPS), Medical Defence Singapore (MDS), Medical Indemnity Protection Singapore (MIPS). Commercial PI insurers also operate in the market. The [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) replaces the Private Hospitals and Medical Clinics Act 1980 progressively; Phase 2 (medical/dental services including teleconsultation) commenced 26 June 2023; licensee-level governance requires insurance as licence condition. The [Civil Law (Amendment) Act 2020](https://sso.agc.gov.sg/Acts-Supp/9-2020/Published/20200416) prescribed the legal test for standard of care for medical advice (engaged 1 July 2022). Disciplinary jurisdiction under MRA section 39 with new Disciplinary Commission process introduced by Medical Registration (Amendment) Act 2020 in force 1 July 2022. Common SME gaps: MDO discretionary indemnity versus commercial PI contractual cover (different run-off implications); supervisory liability for clinic principals over locums and resident doctors; telemedicine and HCSA "remote provision" Mode of Service Delivery exclusions; aesthetic medicine sub-limits.
+> The [Singapore Medical Association (SMA)](https://www.sma.org.sg) is the national professional body for medical practitioners. The [Singapore Medical Council (SMC)](https://www.smc.gov.sg) is the statutory regulator constituted under the [Medical Registration Act 1997 (MRA)](https://sso.agc.gov.sg/Act/MRA1997), administering the Register of Medical Practitioners, the Continuing Medical Education (CME) programme, and the regulation of professional conduct and ethics. Unlike the Architects, Professional Engineers, Accountants, and Legal Profession Acts, **the MRA does not contain a direct numerical PI compulsion on the face of the Act**; the SMC Ethical Code and Ethical Guidelines (ECEG) 2016 Edition contains no professional indemnity requirement either. Three principal Medical Defence Organisations (MDOs) provide medical indemnity to Singapore practitioners: Medical Protection Society (MPS), Medical Defence Singapore (MDS), Medical Indemnity Protection Singapore (MIPS). Commercial PI insurers also operate in the market. The [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) replaces the Private Hospitals and Medical Clinics Act 1980 progressively; Phase 2 (medical/dental services including teleconsultation) commenced 26 June 2023; licensee-level governance requires insurance as licence condition. The [Civil Law (Amendment) Act 2020](https://sso.agc.gov.sg/Acts-Supp/9-2020/Published/20200416) prescribed the legal test for standard of care for medical advice (engaged 1 July 2022). Disciplinary jurisdiction under MRA section 39 with new Disciplinary Commission process introduced by Medical Registration (Amendment) Act 2020 in force 1 July 2022. Common SME gaps: MDO discretionary indemnity versus commercial PI contractual cover (different run-off implications); supervisory liability for clinic principals over locums and resident doctors; telemedicine and HCSA "remote provision" Mode of Service Delivery exclusions; aesthetic medicine sub-limits.
 
 ### The Sourced Detail
 
-The Singapore medical profession operates under a distinctive insurance framework. Unlike the four professions covered in Articles 281 to 285 (architects, engineers, surveyors, accountants, lawyers), the Medical Registration Act 1997 does not impose a direct statutory PI compulsion on the face of the Act. The PI obligation flows from the SMC's published Ethical Code and Ethical Guidelines as a professional expectation, with the practical mechanism being either a Medical Defence Organisation (MDO) membership or a commercial PI policy.
+The Singapore medical profession operates under a distinctive insurance framework. Unlike the four professions covered in Articles 281 to 285 (architects, engineers, surveyors, accountants, lawyers), the Medical Registration Act 1997 does not impose a direct statutory PI compulsion on the face of the Act. The ECEG 2016 sets no professional indemnity requirement and no figure; in practice the cover is held through either a Medical Defence Organisation (MDO) membership or a commercial PI policy.
 
 #### The Medical Registration Act 1997 framework
 
@@ -55,7 +55,7 @@ The [SMC ECEG 2016 Edition](https://www.smc.gov.sg/for-professionals/regulations
 
 The **SMC Handbook on Medical Ethics 2016** accompanies the ECEG and provides interpretive guidance.
 
-The ECEG treats holding adequate professional indemnity as a professional expectation. The SMC's Explanatory Notes on the 2016 ECEG and HME (13 September 2016) explicitly reference "insurance and indemnity costs" in the context of ethical handling of patients.
+The ECEG 2016 contains no professional indemnity requirement; the word indemnity does not appear in its 65 pages. The SMC's [Explanatory Notes on the 2016 ECEG and HME](https://isomer-user-content.by.gov.sg/77/a7860742-a83f-4055-8eed-f3a06042c692/explanatory-notes-on-2016-eceg-and-hme-(13sep16).pdf) (13 September 2016) mention "insurance and indemnity costs" once, as a cost that ethical handling of patients lowers, not as an obligation.
 
 #### The Medical Defence Organisation model
 
@@ -130,7 +130,7 @@ Many medical PI wordings exclude or sub-limit aesthetic procedures. Practitioner
 
 The principal insurance lines for Singapore SME medical practices:
 
-**Medical Indemnity / PI.** Practically mandatory under SMC ECEG. MDO membership or commercial PI policy.
+**Medical Indemnity / PI.** Not required by the ECEG 2016; held in practice through an MDO membership or a commercial PI policy.
 
 **WICI 2019.** For clinic employees under WICA.
 
