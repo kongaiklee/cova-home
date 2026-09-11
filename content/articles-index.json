@@ -1,5 +1,96 @@
 [
   {
+    "title": "Contractors All Risks and Erection All Risks in Singapore: What the Cover Is, and What a Public Sector Contract Requires",
+    "slug": "/document-legal/contractors-all-risks-car-ear-insurance-singapore-guide",
+    "category": "document-legal",
+    "intent": "get-it-right",
+    "topics": [
+      "Construction",
+      "Property & Fire"
+    ],
+    "industries": [
+      "Construction"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "BCA",
+      "Courts"
+    ],
+    "published": "2026-09-11",
+    "meta_description": "Contractors all risks insurance in Singapore: the two sections of a CAR policy, how EAR differs, and what PSSCOC 2020 clauses 27 and 28 require.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 2473,
+    "article_number": 529,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together",
+    "slug": "/document-legal/employers-liability-insurance-singapore-wica-gap",
+    "category": "document-legal",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM",
+      "Courts"
+    ],
+    "published": "2026-09-11",
+    "meta_description": "Employers' liability insurance in Singapore answers the claim WICA does not: a court action for negligence, with no statutory cap. Section 63 and MOM's rules.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 1618,
+    "article_number": 528,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Group Medical Insurance for a Singapore SME: What the Law Requires Without It, What It Covers, and the Tax Rule That Shapes It",
+    "slug": "/document-legal/group-medical-insurance-complete-guide-singapore-sme",
+    "category": "document-legal",
+    "intent": "make-the-call",
+    "topics": [
+      "Group Health"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM",
+      "MOH",
+      "IRAS"
+    ],
+    "published": "2026-09-11",
+    "meta_description": "Group medical insurance in Singapore is voluntary. What the Employment Act already requires of you, what a group plan covers, and the IRAS 1% and 2% cap.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 1759,
+    "article_number": 527,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025",
+    "slug": "/document-legal/foreign-worker-medical-insurance-complete-guide-singapore",
+    "category": "document-legal",
+    "intent": "get-it-right",
+    "topics": [
+      "Foreign Workers",
+      "Work Injury (WICA)"
+    ],
+    "industries": [
+      "Foreign workers"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM"
+    ],
+    "published": "2026-09-11",
+    "meta_description": "Foreign worker medical insurance in Singapore: at least $60,000 a year per Work Permit or S Pass holder, the co-payment above $15,000, the 2025 changes.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 1981,
+    "article_number": 526,
+    "updated": "2026-09-11"
+  },
+  {
     "title": "Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs",
     "slug": "/document-legal/compulsory-motor-insurance-singapore-third-party",
     "category": "document-legal",
@@ -1318,11 +1409,11 @@
       "Courts"
     ],
     "published": "2026-05-31",
-    "meta_description": "What public liability pays when your premises or your operations injure someone or damage their property, and where the cover stops short.",
+    "meta_description": "Public liability insurance in Singapore: no statute makes it compulsory; leases, tenders and venues do. What the clause asks for, and how to evidence it.",
     "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 2760,
+    "word_count": 3210,
     "article_number": 465,
-    "updated": "2026-08-30"
+    "updated": "2026-09-11"
   },
   {
     "title": "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers",
@@ -1338,11 +1429,11 @@
       "MOM"
     ],
     "published": "2026-05-31",
-    "meta_description": "Singapore's WICA makes an employer liable regardless of fault and creates two separate duties. Which employees must be insured, and what the Act compels.",
+    "meta_description": "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties.",
     "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 1897,
+    "word_count": 2286,
     "article_number": 464,
-    "updated": "2026-08-30"
+    "updated": "2026-09-11"
   },
   {
     "title": "Does an Employment Agency Licence Require Insurance in Singapore?",
@@ -2362,81 +2453,163 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "MAS Notice 134 Recovery and Resolution Planning for Insurers Effective 1 January 2025: SME Counterparty Risk Implications",
-    "slug": "/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
+    "title": "AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs",
+    "slug": "/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme",
+    "category": "emerging-risk",
+    "subcategory": "ai",
+    "intent": "beyond-the-basics",
     "topics": [
-      "Public Liability",
-      "Management Liability (D&O)",
+      "Professional Indemnity",
       "Cyber"
     ],
-    "industries": [],
-    "agencies": [
-      "MAS",
-      "Singapore Statutes",
-      "SDIC"
+    "industries": [
+      "Tech / startup",
+      "Security / facilities"
     ],
-    "published": "2026-05-17",
-    "meta_description": "Singapore's MAS Notice 134 on recovery and resolution planning took effect 1 January 2025. Which insurers it binds, and what it means for policyholders.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2798,
-    "article_number": 385,
+    "agencies": [
+      "CSA",
+      "Singapore Statutes",
+      "Courts",
+      "IMDA",
+      "MAS"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "Stanford found developers using AI wrote less secure code and were more confident in it. Where that leaves a Singapore SaaS company's cover.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 5070,
+    "article_number": 417,
     "updated": "2026-08-30"
   },
   {
-    "title": "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications",
-    "slug": "/regulatory-change/bca-crs-expansion-national-registry-1-june-2025",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
+    "title": "When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs",
+    "slug": "/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme",
+    "category": "emerging-risk",
+    "subcategory": "ai",
+    "intent": "beyond-the-basics",
     "topics": [
-      "Work Injury (WICA)",
-      "Foreign Workers",
-      "Construction"
+      "General"
     ],
     "industries": [
-      "Construction"
+      "Tech / startup"
     ],
     "agencies": [
-      "BCA",
-      "Singapore Statutes"
+      "Singapore Statutes",
+      "PARLIAMENT",
+      "MOM",
+      "PDPC",
+      "IMDA"
     ],
-    "published": "2026-05-17",
-    "meta_description": "Any firm hiring construction Work Permit holders must now sit on the Contractors Registration System, tendering or not. What the 1 June 2025 CRS change did.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 1959,
-    "article_number": 384,
+    "published": "2026-05-08",
+    "meta_description": "A US HR software vendor faces a collective action it says could reach hundreds of millions of users. The same tools sell into Singapore.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 5868,
+    "article_number": 416,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "AI-Generated Content, Copyright and IP Infringement: What Singapore SMEs Actually Face - and Whether Insurance Will Respond",
+    "slug": "/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme",
+    "category": "emerging-risk",
+    "subcategory": "ai",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "Professional Indemnity"
+    ],
+    "industries": [
+      "Tech / startup"
+    ],
+    "agencies": [],
+    "published": "2026-05-08",
+    "meta_description": "AI generated content exposes a Singapore SME through its outputs, not its training data. Where the copyright risk sits, and whether a policy responds.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 5900,
+    "article_number": 415,
     "updated": "2026-09-11"
   },
   {
-    "title": "WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact",
-    "slug": "/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
+    "title": "Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance",
+    "slug": "/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme",
+    "category": "emerging-risk",
+    "subcategory": "ai",
+    "intent": "beyond-the-basics",
     "topics": [
-      "Work Injury (WICA)",
-      "Construction"
+      "Cyber"
     ],
     "industries": [
-      "Construction"
+      "Tech / startup",
+      "Professional services"
     ],
     "agencies": [
-      "Singapore Statutes"
+      "SPF",
+      "MAS",
+      "SCAMSHIELD",
+      "CSA",
+      "Singapore Statutes",
+      "MHA"
     ],
-    "published": "2026-05-17",
-    "meta_description": "Video surveillance became mandatory on covered Singapore construction worksites on 1 June 2024. Where it must go, and what the regulations require.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 1886,
-    "article_number": 383,
+    "published": "2026-05-08",
+    "meta_description": "A finance employee authorised HK$200 million after a video call with a deepfaked CFO. How the fraud is run, and which policy is meant to answer for it.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 6092,
+    "article_number": 414,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe",
+    "slug": "/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme",
+    "category": "emerging-risk",
+    "subcategory": "ai",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "General"
+    ],
+    "industries": [
+      "Tech / startup"
+    ],
+    "agencies": [
+      "Courts",
+      "CSA",
+      "Singapore Statutes",
+      "MAS"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "A Replit agent wiped a live database during a code freeze, then misreported the rollback. Where Singapore law puts liability when an AI agent acts alone.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 6191,
+    "article_number": 413,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs",
+    "slug": "/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme",
+    "category": "emerging-risk",
+    "subcategory": "ai",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "General"
+    ],
+    "industries": [
+      "Tech / startup"
+    ],
+    "agencies": [
+      "Courts",
+      "Singapore Statutes",
+      "CCS",
+      "PDPC"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "Air Canada argued its chatbot was a separate legal entity responsible for itself. The tribunal disagreed. How Singapore law would treat the same facts.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 4934,
+    "article_number": 412,
     "updated": "2026-08-30"
   },
   {
-    "title": "MAS Guidelines on Outsourcing (FI Other Than Banks) Effective 11 December 2024: Tech E&O / Cyber Implications for SME Vendors",
-    "slug": "/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024",
+    "title": "MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces",
+    "slug": "/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline",
     "category": "regulatory-change",
     "intent": "know-where-you-stand",
     "topics": [
-      "Professional Indemnity",
       "Cyber"
     ],
     "industries": [
@@ -2444,101 +2617,13 @@
     ],
     "agencies": [
       "MAS",
-      "Singapore Statutes"
+      "PDPC"
     ],
-    "published": "2026-05-17",
-    "meta_description": "MAS revised its outsourcing framework for non-bank financial institutions in Singapore. What the guidelines expect, and which arrangements they reach.",
+    "published": "2026-05-07",
+    "meta_description": "Five Singapore AI governance instruments hardened from principle into supervisory expectation between 2024 and 2025. The timeline, and who each binds.",
     "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 1701,
-    "article_number": 382,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "How to Respond to a Non-Renewal Notice from a Commercial Insurer",
-    "slug": "/procedural-howto/non-renewal-notice-commercial-insurer-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "General"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "MAS"
-    ],
-    "published": "2026-05-17",
-    "meta_description": "A non-renewal notice is a Singapore insurer exercising a contractual right, not a penalty. What it means, how long you have, and what to do first.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 1911,
-    "article_number": 380,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works",
-    "slug": "/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Work Injury (WICA)",
-      "Property & Fire",
-      "Construction"
-    ],
-    "industries": [
-      "Construction",
-      "Property"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "HDB"
-    ],
-    "published": "2026-05-17",
-    "meta_description": "Renovation CAR is the cover a Singapore fit-out firm carries in an HDB flat, condominium or commercial unit. What the MCST and the owner will ask for.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 1664,
-    "article_number": 379,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "How to Obtain Event Liability Insurance for MICE Events and Venue Bookings",
-    "slug": "/procedural-howto/event-liability-insurance-singapore-mice-venue",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Public Liability"
-    ],
-    "industries": [
-      "Events"
-    ],
-    "agencies": [
-      "SFA",
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-17",
-    "meta_description": "Singapore venues make event liability cover and an additional-insured endorsement a condition of hire. What the contract asks for, and who provides it.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 1508,
-    "article_number": 378,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale",
-    "slug": "/procedural-howto/extended-reporting-period-tail-cover-ma-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Professional Indemnity",
-      "Management Liability (D&O)",
-      "Cyber"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-17",
-    "meta_description": "A sale, wind-down or restructure leaves claims-made policies exposed. What run-off and tail cover do for a Singapore seller, and when to buy.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 1590,
-    "article_number": 377,
+    "word_count": 4417,
+    "article_number": 411,
     "updated": "2026-08-30"
   },
   {
@@ -2653,6 +2738,54 @@
     "updated": "2026-08-30"
   },
   {
+    "title": "The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It",
+    "slug": "/procedural-howto/mid-term-endorsement-workflow-sme-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "General"
+    ],
+    "industries": [],
+    "agencies": [
+      "MAS",
+      "Singapore Statutes",
+      "Courts",
+      "LTA",
+      "IRAS",
+      "MOM"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "A second outlet, a new lorry, a principal to be named, ten more staff. The nine endorsement types, and when cover on each change begins.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 5448,
+    "article_number": 405,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs",
+    "slug": "/procedural-howto/mom-wsh-incident-reporting-eservice-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Management Liability (D&O)"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM",
+      "ACRA",
+      "GovTech"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "MOM replaced iReport with the WSH Incident Reporting eService. Which of the three clocks starts when a worker is hurt, and how the filing runs.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 4741,
+    "article_number": 404,
+    "updated": "2026-09-11"
+  },
+  {
     "title": "How to Run an Insurance Tender for a Singapore SME: A Procedural Playbook for the 2026 Soft Market",
     "slug": "/procedural-howto/how-to-run-insurance-tender-sme-singapore",
     "category": "procedural-howto",
@@ -2671,6 +2804,57 @@
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 3458,
     "article_number": 403,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "WICA Mid-Policy Wage Adjustment Workflow: What Singapore SMEs Must Do When Headcount or Wages Change",
+    "slug": "/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Work Injury (WICA)",
+      "Foreign Workers",
+      "Marine & Cargo"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM",
+      "Courts",
+      "IRAS"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "A clerk crosses S$2,600. A leading hand is promoted. Three drivers join. Each moves your WICA position, and the adjustment is not annual.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 3756,
+    "article_number": 402,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs",
+    "slug": "/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Cyber"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts",
+      "BCA",
+      "MTI",
+      "MOM",
+      "CPF Board",
+      "CSA",
+      "MAS",
+      "IRAS"
+    ],
+    "published": "2026-05-08",
+    "meta_description": "Renewal is a one-week scramble at most Singapore SMEs, and in 2026 that costs money. The T-90 sprint, starting with exposure and valuation data.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 4937,
+    "article_number": 401,
     "updated": "2026-08-30"
   },
   {
@@ -3005,1129 +3189,81 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs",
-    "slug": "/crisis/it-vendor-saas-disappearance",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Property & Fire",
-      "Professional Indemnity",
-      "Management Liability (D&O)"
-    ],
-    "industries": [
-      "Tech / startup"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "MAS",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What a Singapore SME secures first, and what the contract will not give.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 2836,
-    "article_number": 300,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow",
-    "slug": "/crisis/vendor-data-breach-affecting-your-customers",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Property & Fire",
-      "Professional Indemnity",
-      "Management Liability (D&O)"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "PDPC"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A vendor breach involving your customers' data is still your notification duty under Singapore's PDPA. What to establish, who to tell, in what order.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 3015,
-    "article_number": 299,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow",
-    "slug": "/crisis/jv-partnership-breakdown-allocation-run-off-dissolution",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Professional Indemnity",
-      "Management Liability (D&O)",
-      "Fidelity"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A joint venture breaking down puts IP, contracts and liabilities in dispute at once. What a Singapore operator secures while the argument is still live.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 2718,
-    "article_number": 298,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow",
-    "slug": "/crisis/shareholder-dispute-founder-divorce-buy-sell-event",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Management Liability (D&O)"
-    ],
-    "industries": [
-      "Events"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A shareholder dispute or a founder's divorce can reach the shares of a Singapore company. What that does to control, cover and the buy-sell terms.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 3002,
-    "article_number": 297,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow",
-    "slug": "/crisis/director-death-sudden-incapacity-key-person-event",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Management Liability (D&O)"
-    ],
-    "industries": [
-      "Events"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "ACRA"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A founder's sudden death strands signing authority, bank mandates and customer relationships. What a Singapore company needs in place beforehand.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 2882,
-    "article_number": 296,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Tenant-Caused Major Fire: Landlord SME Day-One Workflow",
-    "slug": "/crisis/tenant-caused-major-fire-landlord-sme-workflow",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Work Injury (WICA)",
-      "Public Liability",
-      "Property & Fire"
-    ],
-    "industries": [
-      "Property"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "HDB",
-      "JTC",
-      "SLA"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A tenant-caused fire puts a Singapore landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 2726,
-    "article_number": 295,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously",
-    "slug": "/crisis/multi-plaintiff-class-action-threat-multi-line-response",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Public Liability",
-      "Property & Fire",
-      "Management Liability (D&O)"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Multiple plaintiffs alleging coordinated harm can trigger several policies at once. How a Singapore multi-line response should work, and where it jams.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 2941,
-    "article_number": 294,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Internal Fraud Discovered: The 8-Step Day-One Workflow for Singapore SMEs",
-    "slug": "/crisis/internal-fraud-cfo-embezzlement-day-one-workflow",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Fidelity"
-    ],
-    "industries": [],
-    "agencies": [
-      "SPF",
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Finance-officer fraud typically runs two to seven years before discovery. What a Singapore SME does on day one, and the steps that destroy the claim.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 3133,
-    "article_number": 293,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Key Supplier Insolvency: The Contingent BI Trigger",
-    "slug": "/crisis/key-supplier-insolvency-contingent-bi-trigger",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "Property & Fire",
-      "Marine & Cargo",
-      "Construction"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A sole-source supplier filing under Singapore's IRDA becomes your problem immediately. What contingent business interruption needs before it responds.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 2557,
-    "article_number": 292,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Major Customer Bankruptcy: The Trade Credit DSO Cliff Event",
-    "slug": "/crisis/major-customer-bankruptcy-trade-credit-dso-cliff",
-    "category": "crisis",
-    "intent": "steady-the-ship",
-    "topics": [
-      "General"
-    ],
-    "industries": [
-      "Events"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Your largest customer has filed under Singapore's IRDA. What the moratorium does to your debt, and what a trade credit policy needs from you now.",
-    "hero_image": "/assets/blog/crisis.jpg",
-    "word_count": 3038,
-    "article_number": 291,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Association of Small and Medium Enterprises (ASME): SME Trade Association and Cross-Sector Insurance Architecture",
-    "slug": "/association/asme-sme-cross-sector-insurance-framework",
-    "category": "association",
+    "title": "MAS Notice 134 Recovery and Resolution Planning for Insurers Effective 1 January 2025: SME Counterparty Risk Implications",
+    "slug": "/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025",
+    "category": "regulatory-change",
     "intent": "know-where-you-stand",
     "topics": [
-      "Work Injury (WICA)",
       "Public Liability",
-      "Property & Fire"
-    ],
-    "industries": [
-      "Professional services"
-    ],
-    "agencies": [
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "ASME is a cross-sector Singapore SME association, not a regulator. What membership gives you, and where the real insurance duties come from instead.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 1826,
-    "article_number": 290,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Singapore Computer Society (SCS) and SGTech: Industry Framework and Technology-Sector Insurance Architecture",
-    "slug": "/association/scs-sgtech-technology-sector-insurance-framework",
-    "category": "association",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Professional Indemnity",
       "Management Liability (D&O)",
       "Cyber"
     ],
-    "industries": [
-      "Professional services"
-    ],
+    "industries": [],
     "agencies": [
-      "Singapore Statutes"
+      "MAS",
+      "Singapore Statutes",
+      "SDIC"
     ],
-    "published": "2026-05-14",
-    "meta_description": "SCS and SGTech represent the technology sector but regulate nothing. Where a tech firm's actual obligations originate, and what contracts add.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 1916,
-    "article_number": 289,
+    "published": "2026-05-17",
+    "meta_description": "Singapore's MAS Notice 134 on recovery and resolution planning took effect 1 January 2025. Which insurers it binds, and what it means for policyholders.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2798,
+    "article_number": 385,
     "updated": "2026-08-30"
   },
   {
-    "title": "Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture",
-    "slug": "/association/smf-manufacturing-sector-insurance-framework",
-    "category": "association",
+    "title": "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications",
+    "slug": "/regulatory-change/bca-crs-expansion-national-registry-1-june-2025",
+    "category": "regulatory-change",
     "intent": "know-where-you-stand",
     "topics": [
       "Work Injury (WICA)",
-      "Public Liability",
-      "Property & Fire"
+      "Foreign Workers",
+      "Construction"
     ],
     "industries": [
-      "Professional services",
-      "Manufacturing"
+      "Construction"
     ],
     "agencies": [
+      "BCA",
       "Singapore Statutes"
     ],
-    "published": "2026-05-14",
-    "meta_description": "The Singapore Manufacturing Federation is a trade association, not a regulator. What it does for members, and what it does not require of them.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 1826,
-    "article_number": 288,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications",
-    "slug": "/association/sda-sdc-dental-practitioner-insurance-framework",
-    "category": "association",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Professional Indemnity"
-    ],
-    "industries": [
-      "Healthcare"
-    ],
-    "agencies": [
-      "SDC",
-      "Singapore Statutes",
-      "MOH"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "SDA represents dentists; SDC regulates them under statute. Which body sets the indemnity obligation, and what a practice has to hold.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 1696,
-    "article_number": 287,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications",
-    "slug": "/association/sma-smc-medical-practitioner-indemnity-framework",
-    "category": "association",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Professional Indemnity"
-    ],
-    "industries": [
-      "Healthcare"
-    ],
-    "agencies": [
-      "SMC",
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 1867,
-    "article_number": 286,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "Law Society of Singapore Compulsory Professional Indemnity Insurance Scheme: Statutory Framework and Insurance Implications",
-    "slug": "/association/law-society-pii-scheme-insurance-framework",
-    "category": "association",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Professional Indemnity",
-      "Fidelity"
-    ],
-    "industries": [
-      "Professional services"
-    ],
-    "agencies": [
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "The Law Society runs the compulsory professional indemnity scheme under the Legal Profession Act. What a Singapore firm must hold, and on what terms.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 2221,
-    "article_number": 285,
-    "required_by_law": "cover",
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications",
-    "slug": "/association/isca-acra-public-accountants-insurance-framework",
-    "category": "association",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Professional Indemnity"
-    ],
-    "industries": [
-      "Professional services"
-    ],
-    "agencies": [
-      "ACRA",
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Only one of the two bodies behind a Singapore accountant attaches an insurance condition, and it sets the sum by formula. ISCA, ACRA, and which is which.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 2043,
-    "article_number": 284,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications",
-    "slug": "/association/sisv-land-surveyors-board-insurance-framework",
-    "category": "association",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Professional Indemnity"
-    ],
-    "industries": [],
-    "agencies": [
-      "MinLaw",
-      "Singapore Statutes",
-      "SLA"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "SISV represents four surveying divisions and the Land Surveyors Board regulates. Where the professional indemnity obligation actually attaches.",
-    "hero_image": "/assets/blog/association.jpg",
+    "published": "2026-05-17",
+    "meta_description": "Any firm hiring construction Work Permit holders must now sit on the Contractors Registration System, tendering or not. What the 1 June 2025 CRS change did.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1959,
-    "article_number": 283,
-    "updated": "2026-08-30"
+    "article_number": 384,
+    "updated": "2026-09-11"
   },
   {
-    "title": "Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices",
-    "slug": "/association/ies-peb-professional-engineers-insurance-framework",
-    "category": "association",
+    "title": "WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact",
+    "slug": "/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024",
+    "category": "regulatory-change",
     "intent": "know-where-you-stand",
     "topics": [
-      "Professional Indemnity"
+      "Work Injury (WICA)",
+      "Construction"
     ],
     "industries": [
-      "Professional services"
+      "Construction"
     ],
     "agencies": [
-      "PEB",
       "Singapore Statutes"
     ],
-    "published": "2026-05-14",
-    "meta_description": "IES is the learned society, PEB is the statutory regulator. Which one conditions a professional engineer's practice, and what cover follows.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 2220,
-    "article_number": 282,
+    "published": "2026-05-17",
+    "meta_description": "Video surveillance became mandatory on covered Singapore construction worksites on 1 June 2024. Where it must go, and what the regulations require.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 1886,
+    "article_number": 383,
     "updated": "2026-08-30"
   },
   {
-    "title": "Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices",
-    "slug": "/association/singapore-institute-of-architects-boa-insurance-framework",
-    "category": "association",
+    "title": "MAS Guidelines on Outsourcing (FI Other Than Banks) Effective 11 December 2024: Tech E&O / Cyber Implications for SME Vendors",
+    "slug": "/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024",
+    "category": "regulatory-change",
     "intent": "know-where-you-stand",
     "topics": [
       "Professional Indemnity",
-      "Construction"
-    ],
-    "industries": [
-      "Professional services"
-    ],
-    "agencies": [
-      "BOA",
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "The Board of Architects registers and disciplines Singapore architects; SIA represents them. Which body sets practice conditions, and where indemnity sits.",
-    "hero_image": "/assets/blog/association.jpg",
-    "word_count": 2466,
-    "article_number": 281,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework",
-    "slug": "/comparison/side-a-side-b-side-c-do-singapore",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "Management Liability (D&O)"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Side A protects the director when the company cannot indemnify. Side B reimburses the company, Side C covers the entity. Which yours actually has.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 3279,
-    "article_number": 280,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework",
-    "slug": "/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "Fidelity"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A fraud that ran three years and surfaced last month is paid under one trigger and refused under the other. Loss-discovered against loss-sustained, decided.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 3043,
-    "article_number": 279,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period",
-    "slug": "/comparison/bi-waiting-period-hours-vs-days-vs-dollar",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "Property & Fire"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Business interruption never pays from the first dollar. For a Singapore SME the waiting period is a retained cost, and hours, days and dollars differ.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 2824,
-    "article_number": 277,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Combined Single Limit vs Split Limit: Motor and Liability Limit Structure",
-    "slug": "/comparison/combined-single-limit-vs-split-limit-motor-liability",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "Public Liability",
-      "Motor & Fleet"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "GIA",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A combined single limit and a split limit can show the same headline number and pay very differently in Singapore. What each one actually caps.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 3075,
-    "article_number": 276,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework",
-    "slug": "/comparison/first-loss-vs-full-value-average-clause-property",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "General"
-    ],
-    "industries": [
-      "Property"
-    ],
-    "agencies": [
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "First loss or full value with average: two ways a Singapore business sets a property sum insured. What each assumes, and which penalises underinsurance.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 3045,
-    "article_number": 275,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework",
-    "slug": "/comparison/reinstatement-cost-vs-indemnity-value-property",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "Property & Fire",
-      "Construction"
-    ],
-    "industries": [
-      "Property"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "SLA",
-      "JTC",
-      "HDB",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your Singapore policy is on decides what a claim rebuilds.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 2860,
-    "article_number": 274,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework",
-    "slug": "/comparison/defense-costs-inside-vs-outside-limits-liability",
-    "category": "comparison",
-    "intent": "make-the-call",
-    "topics": [
-      "Public Liability",
-      "Professional Indemnity",
-      "Management Liability (D&O)"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Two Singapore quotes can show the same limit and be worth very different amounts. Whether defence costs sit inside or outside the limit is why.",
-    "hero_image": "/assets/blog/comparison.jpg",
-    "word_count": 2993,
-    "article_number": 273,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?",
-    "slug": "/regulatory-change/cybersecurity-act-2024-cii-designation-sme",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "General"
-    ],
-    "industries": [
-      "Security / facilities"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "CSA"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Singapore's Cybersecurity (Amendment) Act 2024 changed what CII designation reaches. Which provisions commenced when, and who they now bind.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2738,
-    "article_number": 270,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026",
-    "slug": "/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Public Liability",
-      "Professional Indemnity",
-      "Construction"
-    ],
-    "industries": [
-      "Construction"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "MOM"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "A Singapore construction sub-contractor sits under several layers of WSH regulation at once. What the 2024 to 2026 changes require, and of whom.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2460,
-    "article_number": 269,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails",
-    "slug": "/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Work Injury (WICA)",
-      "Public Liability",
-      "Motor & Fleet"
-    ],
-    "industries": [],
-    "agencies": [
-      "SDIC",
-      "Singapore Statutes",
-      "MAS"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "The Policy Owners' Protection Scheme covers policyholders if an insurer fails. What it protects, up to what level, and what it leaves out.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2699,
-    "article_number": 268,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers",
-    "slug": "/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Work Injury (WICA)",
-      "Foreign Workers",
-      "Marine & Cargo"
-    ],
-    "industries": [
-      "Foreign workers"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "MOM"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Foreign worker levy rates, quotas and pass conditions all change through 2026. What the Singapore cost stack looks like now, and where cover moves with it.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2664,
-    "article_number": 267,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "SGX Listing Rules 2024-2026 D&O Implications: ISSB Climate Disclosure, Continuous Disclosure, and Director Personal Exposure",
-    "slug": "/regulatory-change/sgx-listing-rules-2024-2026-do-implications",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Management Liability (D&O)"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "MAS"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Two streams of SGX rule change through 2024 to 2026 reshape director exposure. What Singapore listed and pre-IPO directors now carry personally.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2672,
-    "article_number": 266,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know",
-    "slug": "/regulatory-change/bca-crs-workhead-evolution-construction-insurance",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Work Injury (WICA)",
-      "Foreign Workers",
-      "Professional Indemnity"
-    ],
-    "industries": [
-      "Construction"
-    ],
-    "agencies": [
-      "BCA",
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "BCA CRS once set only your tendering limit. Since 1 June 2025 it also decides who may hire foreign construction workers. What changed per grade.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2196,
-    "article_number": 265,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019",
-    "slug": "/regulatory-change/mom-designated-insurer-mechanics-wica-2019",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Work Injury (WICA)",
-      "Professional Indemnity"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "MOM"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "WICA requires cover for every manual employee and for non-manual staff under the salary threshold. How Singapore's designated insurer mechanism works.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2444,
-    "article_number": 264,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs",
-    "slug": "/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Cyber"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "PDPC"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "PDPA section 26D gives you three calendar days to notify PDPC once a breach is assessed as notifiable. What trips the threshold, and what to send.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2579,
-    "article_number": 263,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty",
-    "slug": "/regulatory-change/insurer-resolution-singapore-policyholder-position",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Work Injury (WICA)",
-      "Public Liability",
-      "Motor & Fleet"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "SDIC",
-      "MAS"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Singapore insurers do not enter the ordinary insolvency regime. Part 3AA of the Insurance Act governs instead, and it changes where you stand.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2410,
-    "article_number": 262,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement",
-    "slug": "/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Property & Fire"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "When a customer enters judicial management or a scheme, IRDA controls what you can recover and when. What the moratorium does to your claim.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 2455,
-    "article_number": 261,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims",
-    "slug": "/document-legal/limitation-act-1959-time-bar-insurance-claims",
-    "category": "document-legal",
-    "intent": "get-it-right",
-    "topics": [
-      "Work Injury (WICA)",
-      "Marine & Cargo"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts",
-      "MOM"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Singapore's Limitation Act gives six years from the cause of action by default. When that clock starts on an insurance claim, and what stops it.",
-    "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 4004,
-    "article_number": 256,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications",
-    "slug": "/document-legal/crotpa-2001-additional-insured-third-party-rights",
-    "category": "document-legal",
-    "intent": "get-it-right",
-    "topics": [
-      "Work Injury (WICA)",
-      "Public Liability",
-      "Motor & Fleet"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts"
-    ],
-    "published": "2026-05-14",
-    "meta_description": "Singapore's CROTPA lets a named non-party enforce a benefit conferred on them. What that means when you are an additional insured, and its limits.",
-    "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 3755,
-    "article_number": 255,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs",
-    "slug": "/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme",
-    "category": "emerging-risk",
-    "subcategory": "ai",
-    "intent": "beyond-the-basics",
-    "topics": [
-      "Professional Indemnity",
-      "Cyber"
-    ],
-    "industries": [
-      "Tech / startup",
-      "Security / facilities"
-    ],
-    "agencies": [
-      "CSA",
-      "Singapore Statutes",
-      "Courts",
-      "IMDA",
-      "MAS"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "Stanford found developers using AI wrote less secure code and were more confident in it. Where that leaves a Singapore SaaS company's cover.",
-    "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 5070,
-    "article_number": 417,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs",
-    "slug": "/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme",
-    "category": "emerging-risk",
-    "subcategory": "ai",
-    "intent": "beyond-the-basics",
-    "topics": [
-      "General"
-    ],
-    "industries": [
-      "Tech / startup"
-    ],
-    "agencies": [
-      "Singapore Statutes",
-      "PARLIAMENT",
-      "MOM",
-      "PDPC",
-      "IMDA"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "A US HR software vendor faces a collective action it says could reach hundreds of millions of users. The same tools sell into Singapore.",
-    "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 5868,
-    "article_number": 416,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "AI-Generated Content, Copyright and IP Infringement: What Singapore SMEs Actually Face - and Whether Insurance Will Respond",
-    "slug": "/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme",
-    "category": "emerging-risk",
-    "subcategory": "ai",
-    "intent": "beyond-the-basics",
-    "topics": [
-      "Professional Indemnity"
-    ],
-    "industries": [
-      "Tech / startup"
-    ],
-    "agencies": [],
-    "published": "2026-05-08",
-    "meta_description": "AI generated content exposes a Singapore SME through its outputs, not its training data. Where the copyright risk sits, and whether a policy responds.",
-    "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 5900,
-    "article_number": 415,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance",
-    "slug": "/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme",
-    "category": "emerging-risk",
-    "subcategory": "ai",
-    "intent": "beyond-the-basics",
-    "topics": [
-      "Cyber"
-    ],
-    "industries": [
-      "Tech / startup",
-      "Professional services"
-    ],
-    "agencies": [
-      "SPF",
-      "MAS",
-      "SCAMSHIELD",
-      "CSA",
-      "Singapore Statutes",
-      "MHA"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "A finance employee authorised HK$200 million after a video call with a deepfaked CFO. How the fraud is run, and which policy is meant to answer for it.",
-    "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 6092,
-    "article_number": 414,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe",
-    "slug": "/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme",
-    "category": "emerging-risk",
-    "subcategory": "ai",
-    "intent": "beyond-the-basics",
-    "topics": [
-      "General"
-    ],
-    "industries": [
-      "Tech / startup"
-    ],
-    "agencies": [
-      "Courts",
-      "CSA",
-      "Singapore Statutes",
-      "MAS"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "A Replit agent wiped a live database during a code freeze, then misreported the rollback. Where Singapore law puts liability when an AI agent acts alone.",
-    "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 6191,
-    "article_number": 413,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs",
-    "slug": "/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme",
-    "category": "emerging-risk",
-    "subcategory": "ai",
-    "intent": "beyond-the-basics",
-    "topics": [
-      "General"
-    ],
-    "industries": [
-      "Tech / startup"
-    ],
-    "agencies": [
-      "Courts",
-      "Singapore Statutes",
-      "CCS",
-      "PDPC"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "Air Canada argued its chatbot was a separate legal entity responsible for itself. The tribunal disagreed. How Singapore law would treat the same facts.",
-    "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 4934,
-    "article_number": 412,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It",
-    "slug": "/procedural-howto/mid-term-endorsement-workflow-sme-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "General"
-    ],
-    "industries": [],
-    "agencies": [
-      "MAS",
-      "Singapore Statutes",
-      "Courts",
-      "LTA",
-      "IRAS",
-      "MOM"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "A second outlet, a new lorry, a principal to be named, ten more staff. The nine endorsement types, and when cover on each change begins.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 5448,
-    "article_number": 405,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs",
-    "slug": "/procedural-howto/mom-wsh-incident-reporting-eservice-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Work Injury (WICA)",
-      "Public Liability",
-      "Management Liability (D&O)"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "MOM",
-      "ACRA",
-      "GovTech"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "MOM replaced iReport with the WSH Incident Reporting eService. Which of the three clocks starts when a worker is hurt, and how the filing runs.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 4741,
-    "article_number": 404,
-    "updated": "2026-09-11"
-  },
-  {
-    "title": "WICA Mid-Policy Wage Adjustment Workflow: What Singapore SMEs Must Do When Headcount or Wages Change",
-    "slug": "/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Work Injury (WICA)",
-      "Foreign Workers",
-      "Marine & Cargo"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "MOM",
-      "Courts",
-      "IRAS"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "A clerk crosses S$2,600. A leading hand is promoted. Three drivers join. Each moves your WICA position, and the adjustment is not annual.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 3756,
-    "article_number": 402,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs",
-    "slug": "/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Cyber"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "Courts",
-      "BCA",
-      "MTI",
-      "MOM",
-      "CPF Board",
-      "CSA",
-      "MAS",
-      "IRAS"
-    ],
-    "published": "2026-05-08",
-    "meta_description": "Renewal is a one-week scramble at most Singapore SMEs, and in 2026 that costs money. The T-90 sprint, starting with exposure and valuation data.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 4937,
-    "article_number": 401,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces",
-    "slug": "/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
       "Cyber"
     ],
     "industries": [
@@ -4135,13 +3271,13 @@
     ],
     "agencies": [
       "MAS",
-      "PDPC"
+      "Singapore Statutes"
     ],
-    "published": "2026-05-07",
-    "meta_description": "Five Singapore AI governance instruments hardened from principle into supervisory expectation between 2024 and 2025. The timeline, and who each binds.",
+    "published": "2026-05-17",
+    "meta_description": "MAS revised its outsourcing framework for non-bank financial institutions in Singapore. What the guidelines expect, and which arrangements they reach.",
     "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 4417,
-    "article_number": 411,
+    "word_count": 1701,
+    "article_number": 382,
     "updated": "2026-08-30"
   },
   {
@@ -4165,6 +3301,94 @@
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1971,
     "article_number": 381,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "How to Respond to a Non-Renewal Notice from a Commercial Insurer",
+    "slug": "/procedural-howto/non-renewal-notice-commercial-insurer-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "General"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MAS"
+    ],
+    "published": "2026-05-17",
+    "meta_description": "A non-renewal notice is a Singapore insurer exercising a contractual right, not a penalty. What it means, how long you have, and what to do first.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 1911,
+    "article_number": 380,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works",
+    "slug": "/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Work Injury (WICA)",
+      "Property & Fire",
+      "Construction"
+    ],
+    "industries": [
+      "Construction",
+      "Property"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "HDB"
+    ],
+    "published": "2026-05-17",
+    "meta_description": "Renovation CAR is the cover a Singapore fit-out firm carries in an HDB flat, condominium or commercial unit. What the MCST and the owner will ask for.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 1664,
+    "article_number": 379,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "How to Obtain Event Liability Insurance for MICE Events and Venue Bookings",
+    "slug": "/procedural-howto/event-liability-insurance-singapore-mice-venue",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Public Liability"
+    ],
+    "industries": [
+      "Events"
+    ],
+    "agencies": [
+      "SFA",
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-17",
+    "meta_description": "Singapore venues make event liability cover and an additional-insured endorsement a condition of hire. What the contract asks for, and who provides it.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 1508,
+    "article_number": 378,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale",
+    "slug": "/procedural-howto/extended-reporting-period-tail-cover-ma-singapore",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Professional Indemnity",
+      "Management Liability (D&O)",
+      "Cyber"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-17",
+    "meta_description": "A sale, wind-down or restructure leaves claims-made policies exposed. What run-off and tail cover do for a Singapore seller, and when to buy.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 1590,
+    "article_number": 377,
     "updated": "2026-08-30"
   },
   {
@@ -5983,6 +5207,498 @@
     "updated": "2026-08-30"
   },
   {
+    "title": "IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs",
+    "slug": "/crisis/it-vendor-saas-disappearance",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Property & Fire",
+      "Professional Indemnity",
+      "Management Liability (D&O)"
+    ],
+    "industries": [
+      "Tech / startup"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "MAS",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Your critical SaaS vendor has gone dark, been acquired or entered insolvency. What a Singapore SME secures first, and what the contract will not give.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 2836,
+    "article_number": 300,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow",
+    "slug": "/crisis/vendor-data-breach-affecting-your-customers",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Property & Fire",
+      "Professional Indemnity",
+      "Management Liability (D&O)"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "PDPC"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A vendor breach involving your customers' data is still your notification duty under Singapore's PDPA. What to establish, who to tell, in what order.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 3015,
+    "article_number": 299,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "JV or Partnership Breakdown: Allocation, Run-Off, and Dissolution Workflow",
+    "slug": "/crisis/jv-partnership-breakdown-allocation-run-off-dissolution",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Professional Indemnity",
+      "Management Liability (D&O)",
+      "Fidelity"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A joint venture breaking down puts IP, contracts and liabilities in dispute at once. What a Singapore operator secures while the argument is still live.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 2718,
+    "article_number": 298,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Shareholder Dispute or Founder Divorce: Buy-Sell Event Day-One Workflow",
+    "slug": "/crisis/shareholder-dispute-founder-divorce-buy-sell-event",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Management Liability (D&O)"
+    ],
+    "industries": [
+      "Events"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A shareholder dispute or a founder's divorce can reach the shares of a Singapore company. What that does to control, cover and the buy-sell terms.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 3002,
+    "article_number": 297,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Director Death or Sudden Incapacity: Key-Person Event Day-One Workflow",
+    "slug": "/crisis/director-death-sudden-incapacity-key-person-event",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Management Liability (D&O)"
+    ],
+    "industries": [
+      "Events"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "ACRA"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A founder's sudden death strands signing authority, bank mandates and customer relationships. What a Singapore company needs in place beforehand.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 2882,
+    "article_number": 296,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Tenant-Caused Major Fire: Landlord SME Day-One Workflow",
+    "slug": "/crisis/tenant-caused-major-fire-landlord-sme-workflow",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Property & Fire"
+    ],
+    "industries": [
+      "Property"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "HDB",
+      "JTC",
+      "SLA"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A tenant-caused fire puts a Singapore landlord between SCDF, the insurer and the lease. What the fire-cause investigation decides, and what to preserve.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 2726,
+    "article_number": 295,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously",
+    "slug": "/crisis/multi-plaintiff-class-action-threat-multi-line-response",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Public Liability",
+      "Property & Fire",
+      "Management Liability (D&O)"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Multiple plaintiffs alleging coordinated harm can trigger several policies at once. How a Singapore multi-line response should work, and where it jams.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 2941,
+    "article_number": 294,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Internal Fraud Discovered: The 8-Step Day-One Workflow for Singapore SMEs",
+    "slug": "/crisis/internal-fraud-cfo-embezzlement-day-one-workflow",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Fidelity"
+    ],
+    "industries": [],
+    "agencies": [
+      "SPF",
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Finance-officer fraud typically runs two to seven years before discovery. What a Singapore SME does on day one, and the steps that destroy the claim.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 3133,
+    "article_number": 293,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Key Supplier Insolvency: The Contingent BI Trigger",
+    "slug": "/crisis/key-supplier-insolvency-contingent-bi-trigger",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "Property & Fire",
+      "Marine & Cargo",
+      "Construction"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A sole-source supplier filing under Singapore's IRDA becomes your problem immediately. What contingent business interruption needs before it responds.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 2557,
+    "article_number": 292,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Major Customer Bankruptcy: The Trade Credit DSO Cliff Event",
+    "slug": "/crisis/major-customer-bankruptcy-trade-credit-dso-cliff",
+    "category": "crisis",
+    "intent": "steady-the-ship",
+    "topics": [
+      "General"
+    ],
+    "industries": [
+      "Events"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Your largest customer has filed under Singapore's IRDA. What the moratorium does to your debt, and what a trade credit policy needs from you now.",
+    "hero_image": "/assets/blog/crisis.jpg",
+    "word_count": 3038,
+    "article_number": 291,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Association of Small and Medium Enterprises (ASME): SME Trade Association and Cross-Sector Insurance Architecture",
+    "slug": "/association/asme-sme-cross-sector-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Property & Fire"
+    ],
+    "industries": [
+      "Professional services"
+    ],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "ASME is a cross-sector Singapore SME association, not a regulator. What membership gives you, and where the real insurance duties come from instead.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 1826,
+    "article_number": 290,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Singapore Computer Society (SCS) and SGTech: Industry Framework and Technology-Sector Insurance Architecture",
+    "slug": "/association/scs-sgtech-technology-sector-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity",
+      "Management Liability (D&O)",
+      "Cyber"
+    ],
+    "industries": [
+      "Professional services"
+    ],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "SCS and SGTech represent the technology sector but regulate nothing. Where a tech firm's actual obligations originate, and what contracts add.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 1916,
+    "article_number": 289,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture",
+    "slug": "/association/smf-manufacturing-sector-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Property & Fire"
+    ],
+    "industries": [
+      "Professional services",
+      "Manufacturing"
+    ],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "The Singapore Manufacturing Federation is a trade association, not a regulator. What it does for members, and what it does not require of them.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 1826,
+    "article_number": 288,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications",
+    "slug": "/association/sda-sdc-dental-practitioner-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "agencies": [
+      "SDC",
+      "Singapore Statutes",
+      "MOH"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "SDA represents dentists; SDC regulates them under statute. Which body sets the indemnity obligation, and what a practice has to hold.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 1696,
+    "article_number": 287,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications",
+    "slug": "/association/sma-smc-medical-practitioner-indemnity-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity"
+    ],
+    "industries": [
+      "Healthcare"
+    ],
+    "agencies": [
+      "SMC",
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 1867,
+    "article_number": 286,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Law Society of Singapore Compulsory Professional Indemnity Insurance Scheme: Statutory Framework and Insurance Implications",
+    "slug": "/association/law-society-pii-scheme-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity",
+      "Fidelity"
+    ],
+    "industries": [
+      "Professional services"
+    ],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "The Law Society runs the compulsory professional indemnity scheme under the Legal Profession Act. What a Singapore firm must hold, and on what terms.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 2221,
+    "article_number": 285,
+    "required_by_law": "cover",
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications",
+    "slug": "/association/isca-acra-public-accountants-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity"
+    ],
+    "industries": [
+      "Professional services"
+    ],
+    "agencies": [
+      "ACRA",
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Only one of the two bodies behind a Singapore accountant attaches an insurance condition, and it sets the sum by formula. ISCA, ACRA, and which is which.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 2043,
+    "article_number": 284,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Singapore Institute of Surveyors and Valuers (SISV) and Land Surveyors Board: Statutory Framework and Insurance Implications",
+    "slug": "/association/sisv-land-surveyors-board-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity"
+    ],
+    "industries": [],
+    "agencies": [
+      "MinLaw",
+      "Singapore Statutes",
+      "SLA"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "SISV represents four surveying divisions and the Land Surveyors Board regulates. Where the professional indemnity obligation actually attaches.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 1959,
+    "article_number": 283,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices",
+    "slug": "/association/ies-peb-professional-engineers-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity"
+    ],
+    "industries": [
+      "Professional services"
+    ],
+    "agencies": [
+      "PEB",
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "IES is the learned society, PEB is the statutory regulator. Which one conditions a professional engineer's practice, and what cover follows.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 2220,
+    "article_number": 282,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices",
+    "slug": "/association/singapore-institute-of-architects-boa-insurance-framework",
+    "category": "association",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Professional Indemnity",
+      "Construction"
+    ],
+    "industries": [
+      "Professional services"
+    ],
+    "agencies": [
+      "BOA",
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "The Board of Architects registers and disciplines Singapore architects; SIA represents them. Which body sets practice conditions, and where indemnity sits.",
+    "hero_image": "/assets/blog/association.jpg",
+    "word_count": 2466,
+    "article_number": 281,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework",
+    "slug": "/comparison/side-a-side-b-side-c-do-singapore",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "Management Liability (D&O)"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Side A protects the director when the company cannot indemnify. Side B reimburses the company, Side C covers the entity. Which yours actually has.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 3279,
+    "article_number": 280,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework",
+    "slug": "/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "Fidelity"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A fraud that ran three years and surfaced last month is paid under one trigger and refused under the other. Loss-discovered against loss-sustained, decided.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 3043,
+    "article_number": 279,
+    "updated": "2026-09-11"
+  },
+  {
     "title": "Cyber Architecture Tower vs Monoline Policy Comparison",
     "slug": "/comparison/cyber-architecture-tower-vs-monoline",
     "category": "comparison",
@@ -6004,6 +5720,117 @@
     "hero_image": "/assets/blog/comparison.jpg",
     "word_count": 635,
     "article_number": 278,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period",
+    "slug": "/comparison/bi-waiting-period-hours-vs-days-vs-dollar",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "Property & Fire"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Business interruption never pays from the first dollar. For a Singapore SME the waiting period is a retained cost, and hours, days and dollars differ.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 2824,
+    "article_number": 277,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Combined Single Limit vs Split Limit: Motor and Liability Limit Structure",
+    "slug": "/comparison/combined-single-limit-vs-split-limit-motor-liability",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "Public Liability",
+      "Motor & Fleet"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "GIA",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A combined single limit and a split limit can show the same headline number and pay very differently in Singapore. What each one actually caps.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 3075,
+    "article_number": 276,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework",
+    "slug": "/comparison/first-loss-vs-full-value-average-clause-property",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "General"
+    ],
+    "industries": [
+      "Property"
+    ],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "First loss or full value with average: two ways a Singapore business sets a property sum insured. What each assumes, and which penalises underinsurance.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 3045,
+    "article_number": 275,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework",
+    "slug": "/comparison/reinstatement-cost-vs-indemnity-value-property",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "Property & Fire",
+      "Construction"
+    ],
+    "industries": [
+      "Property"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "SLA",
+      "JTC",
+      "HDB",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Reinstatement cost pays for new, indemnity value pays for depreciated. Which basis your Singapore policy is on decides what a claim rebuilds.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 2860,
+    "article_number": 274,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework",
+    "slug": "/comparison/defense-costs-inside-vs-outside-limits-liability",
+    "category": "comparison",
+    "intent": "make-the-call",
+    "topics": [
+      "Public Liability",
+      "Professional Indemnity",
+      "Management Liability (D&O)"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Two Singapore quotes can show the same limit and be worth very different amounts. Whether defence costs sit inside or outside the limit is why.",
+    "hero_image": "/assets/blog/comparison.jpg",
+    "word_count": 2993,
+    "article_number": 273,
     "updated": "2026-08-30"
   },
   {
@@ -6050,6 +5877,226 @@
     "hero_image": "/assets/blog/comparison.jpg",
     "word_count": 992,
     "article_number": 271,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?",
+    "slug": "/regulatory-change/cybersecurity-act-2024-cii-designation-sme",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "General"
+    ],
+    "industries": [
+      "Security / facilities"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "CSA"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Singapore's Cybersecurity (Amendment) Act 2024 changed what CII designation reaches. Which provisions commenced when, and who they now bind.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2738,
+    "article_number": 270,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026",
+    "slug": "/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Public Liability",
+      "Professional Indemnity",
+      "Construction"
+    ],
+    "industries": [
+      "Construction"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "A Singapore construction sub-contractor sits under several layers of WSH regulation at once. What the 2024 to 2026 changes require, and of whom.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2460,
+    "article_number": 269,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails",
+    "slug": "/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Motor & Fleet"
+    ],
+    "industries": [],
+    "agencies": [
+      "SDIC",
+      "Singapore Statutes",
+      "MAS"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "The Policy Owners' Protection Scheme covers policyholders if an insurer fails. What it protects, up to what level, and what it leaves out.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2699,
+    "article_number": 268,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers",
+    "slug": "/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Foreign Workers",
+      "Marine & Cargo"
+    ],
+    "industries": [
+      "Foreign workers"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Foreign worker levy rates, quotas and pass conditions all change through 2026. What the Singapore cost stack looks like now, and where cover moves with it.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2664,
+    "article_number": 267,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "SGX Listing Rules 2024-2026 D&O Implications: ISSB Climate Disclosure, Continuous Disclosure, and Director Personal Exposure",
+    "slug": "/regulatory-change/sgx-listing-rules-2024-2026-do-implications",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Management Liability (D&O)"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MAS"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Two streams of SGX rule change through 2024 to 2026 reshape director exposure. What Singapore listed and pre-IPO directors now carry personally.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2672,
+    "article_number": 266,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know",
+    "slug": "/regulatory-change/bca-crs-workhead-evolution-construction-insurance",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Foreign Workers",
+      "Professional Indemnity"
+    ],
+    "industries": [
+      "Construction"
+    ],
+    "agencies": [
+      "BCA",
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "BCA CRS once set only your tendering limit. Since 1 June 2025 it also decides who may hire foreign construction workers. What changed per grade.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2196,
+    "article_number": 265,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019",
+    "slug": "/regulatory-change/mom-designated-insurer-mechanics-wica-2019",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Professional Indemnity"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "MOM"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "WICA requires cover for every manual employee and for non-manual staff under the salary threshold. How Singapore's designated insurer mechanism works.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2444,
+    "article_number": 264,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs",
+    "slug": "/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Cyber"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "PDPC"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "PDPA section 26D gives you three calendar days to notify PDPC once a breach is assessed as notifiable. What trips the threshold, and what to send.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2579,
+    "article_number": 263,
+    "updated": "2026-09-11"
+  },
+  {
+    "title": "Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty",
+    "slug": "/regulatory-change/insurer-resolution-singapore-policyholder-position",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Motor & Fleet"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "SDIC",
+      "MAS"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Singapore insurers do not enter the ordinary insolvency regime. Part 3AA of the Insurance Act governs instead, and it changes where you stand.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2410,
+    "article_number": 262,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement",
+    "slug": "/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management",
+    "category": "regulatory-change",
+    "intent": "know-where-you-stand",
+    "topics": [
+      "Property & Fire"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "When a customer enters judicial management or a scheme, IRDA controls what you can recover and when. What the moratorium does to your claim.",
+    "hero_image": "/assets/blog/regulatory-change.jpg",
+    "word_count": 2455,
+    "article_number": 261,
     "updated": "2026-08-30"
   },
   {
@@ -6142,6 +6189,50 @@
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1082,
     "article_number": 257,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims",
+    "slug": "/document-legal/limitation-act-1959-time-bar-insurance-claims",
+    "category": "document-legal",
+    "intent": "get-it-right",
+    "topics": [
+      "Work Injury (WICA)",
+      "Marine & Cargo"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts",
+      "MOM"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Singapore's Limitation Act gives six years from the cause of action by default. When that clock starts on an insurance claim, and what stops it.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 4004,
+    "article_number": 256,
+    "updated": "2026-08-30"
+  },
+  {
+    "title": "Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications",
+    "slug": "/document-legal/crotpa-2001-additional-insured-third-party-rights",
+    "category": "document-legal",
+    "intent": "get-it-right",
+    "topics": [
+      "Work Injury (WICA)",
+      "Public Liability",
+      "Motor & Fleet"
+    ],
+    "industries": [],
+    "agencies": [
+      "Singapore Statutes",
+      "Courts"
+    ],
+    "published": "2026-05-14",
+    "meta_description": "Singapore's CROTPA lets a named non-party enforce a benefit conferred on them. What that means when you are an additional insured, and its limits.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 3755,
+    "article_number": 255,
     "updated": "2026-08-30"
   },
   {
@@ -11001,7 +11092,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "How to Apply for a Fire Safety Certificate (FSC) Step by Step",
+    "title": "How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step",
     "slug": "/procedural-howto/apply-fsc-scdf-fire-safety-certificate",
     "category": "procedural-howto",
     "intent": "get-it-right",
@@ -11011,12 +11102,12 @@
     "industries": [],
     "agencies": [],
     "published": "2026-05-03",
-    "meta_description": "An FSC is required under Singapore's Fire Safety Act before a building may be occupied. The process starts with engaging a Qualified Person.",
+    "meta_description": "A fire safety certificate in Singapore is applied for once, by your QP, when the works are complete. The steps, the documents, and the Fire Certificate.",
     "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 1062,
+    "word_count": 2356,
     "article_number": 36,
     "required_by_law": "duty",
-    "updated": "2026-08-30"
+    "updated": "2026-09-11"
   },
   {
     "title": "How to Add a New Employee to Existing WICA Policy",
