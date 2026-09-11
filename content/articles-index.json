@@ -1,5 +1,53 @@
 [
   {
+    "title": "Software Supply-Chain Attacks: What a Singapore SME Inherits When a Package or a Vendor Is Compromised",
+    "slug": "/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme",
+    "category": "emerging-risk",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "Cyber"
+    ],
+    "industries": [
+      "Tech / startup",
+      "Retail / e-commerce"
+    ],
+    "agencies": [
+      "CSA",
+      "PDPC",
+      "Singapore Statutes"
+    ],
+    "published": "2026-09-11",
+    "meta_description": "A worm in npm packages, an AI-run exploit campaign, a breached email vendor. What a Singapore SME inherits from a supplier's breach, and the 3-day PDPA clock.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 2648,
+    "article_number": 531,
+    "updated": "2026-09-12"
+  },
+  {
+    "title": "Unpatched Software and Your Cyber Policy: What CSA's September 2026 Alerts Mean for a Singapore SME Claim",
+    "slug": "/emerging-risk/unpatched-software-cyber-insurance-singapore-sme",
+    "category": "emerging-risk",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "Cyber"
+    ],
+    "industries": [
+      "Tech / startup",
+      "Professional services"
+    ],
+    "agencies": [
+      "CSA",
+      "PDPC",
+      "Singapore Statutes"
+    ],
+    "published": "2026-09-11",
+    "meta_description": "CSA's September alerts say patch now. One published SME cyber proposal form defines neglected software at 45 days. What an unapplied patch does to a claim.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 2776,
+    "article_number": 530,
+    "updated": "2026-09-12"
+  },
+  {
     "title": "Contractors All Risks and Erection All Risks in Singapore: What the Cover Is, and What a Public Sector Contract Requires",
     "slug": "/document-legal/contractors-all-risks-car-ear-insurance-singapore-guide",
     "category": "document-legal",
@@ -702,17 +750,20 @@
     "topics": [
       "Work Injury (WICA)"
     ],
-    "industries": [],
+    "industries": [
+      "Construction",
+      "Logistics"
+    ],
     "agencies": [
       "MOM",
       "Singapore Statutes"
     ],
     "published": "2026-05-31",
-    "meta_description": "Singapore's MOM heat stress framework sets measures employers must implement at defined WBGT bands. What is required outdoors, and at which threshold.",
+    "meta_description": "MOM's heat stress framework: the measures outdoor employers must implement at each WBGT band, and the four that become mandatory on 1 December 2026.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 2269,
+    "word_count": 2864,
     "article_number": 497,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "Biometric Data and the PDPA: The Emerging Privacy-Liability Exposure for Singapore SMEs",

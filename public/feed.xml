@@ -37,6 +37,20 @@
       <description>Group medical insurance in Singapore is voluntary. What the Employment Act already requires of you, what a group plan covers, and the IRAS 1% and 2% cap.</description>
     </item>
     <item>
+      <title>Software Supply-Chain Attacks: What a Singapore SME Inherits When a Package or a Vendor Is Compromised</title>
+      <link>https://covarage.com/guides/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme</link>
+      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <description>A worm in npm packages, an AI-run exploit campaign, a breached email vendor. What a Singapore SME inherits from a supplier&apos;s breach, and the 3-day PDPA clock.</description>
+    </item>
+    <item>
+      <title>Unpatched Software and Your Cyber Policy: What CSA&apos;s September 2026 Alerts Mean for a Singapore SME Claim</title>
+      <link>https://covarage.com/guides/emerging-risk/unpatched-software-cyber-insurance-singapore-sme</link>
+      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/unpatched-software-cyber-insurance-singapore-sme</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <description>CSA&apos;s September alerts say patch now. One published SME cyber proposal form defines neglected software at 45 days. What an unapplied patch does to a claim.</description>
+    </item>
+    <item>
       <title>WSH Advisory 8 September 2026 WSH Advisory for Fatal Accidents in First Half of 2026</title>
       <link>https://covarage.com/updates</link>
       <guid isPermaLink="false">covarage-update-2026-09-08-wsh-advisory-8-september-2026-wsh-advisory-for-fatal-accidents-in-first-half-of-</guid>
@@ -353,20 +367,6 @@
       <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/biometric-data-pdpa-liability-singapore</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
       <description>A leaked password can be changed. A leaked fingerprint cannot. Why biometrics carry a heavier duty under Singapore&apos;s PDPA, and what section 24 expects.</description>
-    </item>
-    <item>
-      <title>Commercial Drone Operations in Singapore: Liability and Insurance for SMEs</title>
-      <link>https://covarage.com/guides/emerging-risk/drone-uas-commercial-liability-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/drone-uas-commercial-liability-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Flying a drone commercially puts you under CAAS and the Air Navigation Act. The permits, the operating limits and where the liability actually lands.</description>
-    </item>
-    <item>
-      <title>ESG and Greenwashing: The Emerging Director and Management-Liability Exposure for Singapore SMEs</title>
-      <link>https://covarage.com/guides/emerging-risk/esg-greenwashing-do-liability-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/esg-greenwashing-do-liability-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Carbon neutral on the website, net zero in a tender, recyclable on a label. None of it felt regulatory. Where it becomes a Singapore director&apos;s problem.</description>
     </item>
   </channel>
 </rss>
