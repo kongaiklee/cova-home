@@ -131,12 +131,12 @@ export function Orientation() {
         </div>
 
         {/* The P1 block - CD s1 item 4: the band's third row, one hairline card, full width. The doors
-            read first, then the proof. No button, no image, no count. The H3 line is CMO's; `What
-            changed this week` is the shape until CMO's line lands. */}
+            read first, then the proof. No button, no image, no count. The H3 line is CMO's (`What changed this week.` with the full
+            stop - the band's heads end in one; hub /check #6, 2026-09-12). */}
         {EMERGING.length > 0 && (
           <div className="mt-6 rounded-xl border border-border-primary bg-white px-[22px] pt-4 pb-3 lg:px-[26px] lg:pt-5 lg:pb-4" data-emerging-block>
             <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">Emerging risk</p>
-            <h3 className="m-0 mt-1.5 font-serif text-[22px] tracking-[-0.6px] text-primary-extended">What changed this week</h3>
+            <h3 className="m-0 mt-1.5 font-serif text-[22px] tracking-[-0.6px] text-primary-extended">What changed this week.</h3>
             <ul className="m-0 mt-2 list-none p-0">
               {EMERGING.map((a) => (
                 <li key={a.slug} className="border-t border-border-primary py-2.5 first:border-t-0 first:pt-1.5">
