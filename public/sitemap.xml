@@ -94,6 +94,26 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://covarage.com/guides/document-legal/contractors-all-risks-car-ear-insurance-singapore-guide</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/document-legal/employers-liability-insurance-singapore-wica-gap</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/document-legal/group-medical-insurance-complete-guide-singapore-sme</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/document-legal/foreign-worker-medical-insurance-complete-guide-singapore</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://covarage.com/guides/document-legal/compulsory-motor-insurance-singapore-third-party</loc>
     <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
@@ -395,12 +415,12 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/public-liability-complete-guide-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -634,42 +654,37 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025</loc>
+    <loc>https://covarage.com/guides/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/regulatory-change/bca-crs-expansion-national-registry-1-june-2025</loc>
+    <loc>https://covarage.com/guides/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme</loc>
     <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024</loc>
+    <loc>https://covarage.com/guides/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/non-renewal-notice-commercial-insurer-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/event-liability-insurance-singapore-mice-venue</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/extended-reporting-period-tail-cover-ma-singapore</loc>
+    <loc>https://covarage.com/guides/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
@@ -699,7 +714,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://covarage.com/guides/procedural-howto/mid-term-endorsement-workflow-sme-singapore</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/mom-wsh-incident-reporting-eservice-singapore</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://covarage.com/guides/procedural-howto/how-to-run-insurance-tender-sme-singapore</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
@@ -779,257 +814,47 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/crisis/it-vendor-saas-disappearance</loc>
+    <loc>https://covarage.com/guides/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/crisis/vendor-data-breach-affecting-your-customers</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/jv-partnership-breakdown-allocation-run-off-dissolution</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/shareholder-dispute-founder-divorce-buy-sell-event</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/director-death-sudden-incapacity-key-person-event</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/tenant-caused-major-fire-landlord-sme-workflow</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/multi-plaintiff-class-action-threat-multi-line-response</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/internal-fraud-cfo-embezzlement-day-one-workflow</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/key-supplier-insolvency-contingent-bi-trigger</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/crisis/major-customer-bankruptcy-trade-credit-dso-cliff</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/asme-sme-cross-sector-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/scs-sgtech-technology-sector-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/smf-manufacturing-sector-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/sda-sdc-dental-practitioner-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/sma-smc-medical-practitioner-indemnity-framework</loc>
+    <loc>https://covarage.com/guides/regulatory-change/bca-crs-expansion-national-registry-1-june-2025</loc>
     <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/association/law-society-pii-scheme-insurance-framework</loc>
+    <loc>https://covarage.com/guides/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://covarage.com/guides/association/isca-acra-public-accountants-insurance-framework</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/sisv-land-surveyors-board-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/ies-peb-professional-engineers-insurance-framework</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/association/singapore-institute-of-architects-boa-insurance-framework</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/side-a-side-b-side-c-do-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/bi-waiting-period-hours-vs-days-vs-dollar</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/combined-single-limit-vs-split-limit-motor-liability</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/first-loss-vs-full-value-average-clause-property</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/reinstatement-cost-vs-indemnity-value-property</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/comparison/defense-costs-inside-vs-outside-limits-liability</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-cii-designation-sme</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/sgx-listing-rules-2024-2026-do-implications</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/bca-crs-workhead-evolution-construction-insurance</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/mom-designated-insurer-mechanics-wica-2019</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/insurer-resolution-singapore-policyholder-position</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/document-legal/limitation-act-1959-time-bar-insurance-claims</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/document-legal/crotpa-2001-additional-insured-third-party-rights</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/mid-term-endorsement-workflow-sme-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/mom-wsh-incident-reporting-eservice-singapore</loc>
-    <lastmod>2026-09-11</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore</loc>
-    <lastmod>2026-08-30</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://covarage.com/guides/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline</loc>
+    <loc>https://covarage.com/guides/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://covarage.com/guides/regulatory-change/s-pass-tier-1-levy-harmonisation-1-september-2025</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/non-renewal-notice-commercial-insurer-singapore</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/event-liability-insurance-singapore-mice-venue</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/extended-reporting-period-tail-cover-ma-singapore</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1414,7 +1239,142 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://covarage.com/guides/crisis/it-vendor-saas-disappearance</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/vendor-data-breach-affecting-your-customers</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/jv-partnership-breakdown-allocation-run-off-dissolution</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/shareholder-dispute-founder-divorce-buy-sell-event</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/director-death-sudden-incapacity-key-person-event</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/tenant-caused-major-fire-landlord-sme-workflow</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/multi-plaintiff-class-action-threat-multi-line-response</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/internal-fraud-cfo-embezzlement-day-one-workflow</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/key-supplier-insolvency-contingent-bi-trigger</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/crisis/major-customer-bankruptcy-trade-credit-dso-cliff</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/asme-sme-cross-sector-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/scs-sgtech-technology-sector-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/smf-manufacturing-sector-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/sda-sdc-dental-practitioner-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/sma-smc-medical-practitioner-indemnity-framework</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/law-society-pii-scheme-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/isca-acra-public-accountants-insurance-framework</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/sisv-land-surveyors-board-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/ies-peb-professional-engineers-insurance-framework</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/association/singapore-institute-of-architects-boa-insurance-framework</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/side-a-side-b-side-c-do-singapore</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://covarage.com/guides/comparison/cyber-architecture-tower-vs-monoline</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/bi-waiting-period-hours-vs-days-vs-dollar</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/combined-single-limit-vs-split-limit-motor-liability</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/first-loss-vs-full-value-average-clause-property</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/reinstatement-cost-vs-indemnity-value-property</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/comparison/defense-costs-inside-vs-outside-limits-liability</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1425,6 +1385,56 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/comparison/claims-made-vs-occurrence-cover</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-cii-designation-sme</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/sgx-listing-rules-2024-2026-do-implications</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/bca-crs-workhead-evolution-construction-insurance</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/mom-designated-insurer-mechanics-wica-2019</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day</loc>
+    <lastmod>2026-09-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/insurer-resolution-singapore-policyholder-position</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
@@ -1445,6 +1455,16 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/document-legal/standard-limitation-of-liability-clause</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/document-legal/limitation-act-1959-time-bar-insurance-claims</loc>
+    <lastmod>2026-08-30</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://covarage.com/guides/document-legal/crotpa-2001-additional-insured-third-party-rights</loc>
     <lastmod>2026-08-30</lastmod>
     <priority>0.8</priority>
   </url>
@@ -2540,7 +2560,7 @@
   </url>
   <url>
     <loc>https://covarage.com/guides/procedural-howto/apply-fsc-scdf-fire-safety-certificate</loc>
-    <lastmod>2026-08-30</lastmod>
+    <lastmod>2026-09-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

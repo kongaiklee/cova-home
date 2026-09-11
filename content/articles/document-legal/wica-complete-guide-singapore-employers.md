@@ -8,128 +8,146 @@ industries: []
 agencies: ["Singapore Statutes", "MOM"]
 article_number: 464
 published: "2026-05-31"
-source_verified: "2026-05-31"
-updated: "2026-08-30"
-word_count: 1897
+source_verified: "2026-09-11"
+updated: "2026-09-11"
+word_count: 2286
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers"
-meta_description: "Singapore's WICA makes an employer liable regardless of fault and creates two separate duties. Which employees must be insured, and what the Act compels."
+meta_description: "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties."
 og_title: "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers"
-og_description: "Singapore's WICA makes an employer liable regardless of fault and creates two separate duties. Which employees must be insured, and what the Act compels."
+og_description: "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The [Work Injury Compensation Act 2019 (WICA)](https://sso.agc.gov.sg/Act/WICA2019) makes a Singapore employer liable to compensate an employee who is injured or contracts a disease because of work, regardless of who was at fault. Two duties follow. First, you must **insure** that liability: [section 24](https://sso.agc.gov.sg/Act/WICA2019) requires every employer to maintain an approved WIC insurance policy with a MOM-designated insurer for every employee doing **manual work** (any salary) and every **non-manual employee earning $2,600 or less a month**, per the [MOM WIC insurance rules](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance). Second, you must **report** work accidents to MOM within 10 days and let the designated insurer process the claim.
+> The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) makes a Singapore employer liable to compensate an employee who is injured or contracts a disease because of work, regardless of who was at fault ([MOM WIC Guide for Employers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf)). [Section 24](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) requires every employer to insure that liability with one or more MOM-designated insurers, and [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) sets the mandatory group: every employee doing manual work, at any salary, and every non-manual employee earning $2,600 or less a month. Since 1 January 2021 the policy must come from a designated insurer and comply with MOM's compulsory terms.
 >
-> WICA covers three things: medical leave wages, medical expenses, and a lump sum for permanent incapacity or death, all subject to limits the Government reviews periodically (last raised on [1 November 2025](/regulatory-change/wica-update-nov-2025)). Get the insurance wrong and the exposure is real: failing to insure a mandatory group is an offence carrying a fine of up to $10,000 and up to 12 months' imprisonment on a first conviction. This guide walks the whole regime, and links to the detailed articles on each step.
+> For accidents from 1 November 2025, [MOM's compensation limits](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) are $269,000 for death, $346,000 for permanent incapacity, with a further 25% added where the incapacity is assessed at 100%, and $53,000 for medical expenses. A reportable accident is submitted to MOM within 10 days of first notice. Failing to insure a mandatory group is an offence under [section 25](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-): a fine of up to $10,000, imprisonment of up to 12 months, or both.
 
 ### The Sourced Detail
 
-WICA is the floor of every Singapore SME's people-risk. It is not optional, it is not the same as a group personal-accident plan, and it does not turn on fault. The structure below follows the order an employer actually meets it: who is covered, who you must insure, what is payable, how a claim runs, and what happens when it goes wrong. Each part links to the deeper article when you need the full mechanics.
+WICA is a people-cover a Singapore employer cannot opt out of. It does not turn on fault, it is not the same as a group personal accident plan, and it comes with two clocks the employer owns: the 21 days before a policy starts ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance)) and the 10 days after an accident ([MOM WIC Guide for Employers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf)). The sections below follow the order an employer meets the regime: who is covered, who must be insured, what is payable, how a claim runs, and what the law does when it goes wrong.
 
-#### What WICA is, and who it covers
+#### Who WICA covers
 
-Under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), an employee can claim compensation from the employer for an injury or occupational disease arising out of and in the course of employment, and the employer is liable regardless of fault, even if the employee has since left. The [MOM employer guide](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) sets out who is in and who is out: covered are all employees engaged under a contract of service or apprenticeship, regardless of salary; not covered are the self-employed, independent contractors, and domestic workers, who sit under separate regimes.
+[MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered) states the scope: WICA covers any local or foreign employee under a contract of service or contract of apprenticeship, regardless of salary, age or citizenship. It does not cover independent contractors and the self-employed, domestic workers, or uniformed personnel of the Singapore Armed Forces, Singapore Police Force, Singapore Civil Defence Force, Central Narcotics Bureau and Singapore Prison Service.
 
-That distinction, employee versus contractor, is where many SMEs misread their exposure, because the label on the invoice does not decide it. The substance of the working relationship does.
+[Section 24(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) was amended by Act 30 of 2024 with effect from 1 January 2025, when the Platform Workers Act extended the regime to platform operators and platform workers; Part 3A of WICA now applies Parts 2 and 3 to them. The mechanics for a platform operator are in [how to comply with the Platform Workers Act 2024: WIC insurance procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance).
 
-#### Which employees you are legally required to insure
+The line between an employee and a contractor is where exposure is misread. WICA turns on the contract of service, not on the label on the invoice.
 
-Coverage under the Act and the duty to insure are two different things. Every employee is covered by WICA, but the compulsory insurance line is narrower. Under [section 24](https://sso.agc.gov.sg/Act/WICA2019) and the [MOM insurance rules](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance), you must hold an approved WIC policy for:
+#### Who you must insure, and with whom
 
-- every employee doing **manual work**, regardless of salary; and
-- every **non-manual employee earning $2,600 or less** a month (this threshold has applied since 1 April 2021).
+Coverage under the Act and the duty to insure are different lines. Every employee is covered; the compulsory insurance line is narrower. [Section 24(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) states the duty: "Every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers against all liabilities that the employer may incur under this Act in respect of every employee of the employer", subject to the excluded classes the regulations prescribe. [MOM's insurance page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) states who those employees are: all employees doing manual work, regardless of salary level, and all employees earning $2,600 or less a month. The $2,600 threshold has applied since 1 April 2021; it was $2,100 from 1 April 2020 ([MOM WIC Guide for Employers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf)).
 
-For non-manual employees earning above $2,600, insurance is optional, but you remain liable to pay any valid claim yourself if you choose not to insure them. The mechanics of the provision are unpacked in [WICA section 24: the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+For other employees, [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) states that the employer "has the flexibility to decide whether to buy insurance for them", and that if those employees make a valid claim "you will have to compensate them regardless of whether they are insured".
 
-A second rule catches employers out: the policy must come from a **MOM-designated insurer**, not any insurer. Only designated insurers can write approved WIC cover, and they auto-process claims. How that list is set and why it matters is covered in [the WICA designated insurer regulations](/document-legal/wica-designated-insurer-regulations) and [how the MOM designated panel works](/comparison/wica-designated-insurer-panel).
+Three conditions attach to the policy itself, all from [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance):
 
-#### What compensation is payable
+- From 1 January 2021, every WIC insurance policy must be issued by a designated insurer and must comply with MOM's compulsory terms ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance)).
+- The employer must finalise all insurance contracts and provide the information required to the insurer at least 21 days before policy commencement.
+- The employer must have insurance for both local and foreign employees.
 
-WICA pays three types of compensation, and understanding the shape matters more than memorising figures the Government periodically revises:
+The designated-insurer list, how insurers are added and removed, and what the compulsory terms contain are set out in [WICA designated insurer regulations: how the MOM list actually works](/document-legal/wica-designated-insurer-regulations) and [MOM designated insurer WICA list 2026](/regulatory-change/mom-designated-insurer-wica-list-2026).
 
-- **Medical leave wages**, based on the employee's average monthly earnings, for outpatient medical leave and hospitalisation leave up to defined caps.
-- **Medical expenses**, payable by the employer up to a maximum limit or one year from the accident, whichever comes first.
-- **A lump sum for permanent incapacity or death**, computed from the employee's average monthly earnings and an age multiplying factor, between a statutory minimum and maximum.
+#### What compensation is payable, with the limits from 1 November 2025
 
-The dollar limits are reviewed to track wages and healthcare costs and were most recently increased on [1 November 2025](/regulatory-change/wica-update-nov-2025); always read the current figures from that update and the [MOM types of compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) rather than an old number. Because the lump sum is formula-driven, two businesses with the same headcount can face very different exposures depending on wages and ages, which is the whole reason adequate cover and accurate payroll declarations matter.
+WICA pays three kinds of compensation. [MOM's types of compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) sets the rates and the limits.
 
-WICA is also not the same product as a group personal-accident plan, and the difference is frequently misunderstood at renewal. [WICA vs group personal accident](/comparison/wica-vs-gpa) sets out which does what, and [WICA panel cover vs a common-law / employer's liability extension](/comparison/wica-panel-vs-cw-el-extension) explains the gap above the WICA schedule.
+**Medical leave wages.** Payable, per [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation), for working days on medical certificate, hospitalisation leave or light duty granted by a Singapore-registered doctor. For hospitalisation leave: full average monthly earnings (AME) for up to 60 days, then two-thirds of AME from the 61st day to one year from the accident. For outpatient medical leave or light duties: full AME for up to 14 days, then two-thirds from the 15th day to one year. For light duties the medical leave wage is the shortfall between actual wages and AME, and CPF is still contributed on the actual wages paid.
+
+**Medical expenses.** Payable for treatment received within one year from the date of the accident, or up to $53,000, whichever is reached first, for accidents from 1 November 2025; the previous cap was $45,000 ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)).
+
+**Lump sum for permanent incapacity or death.** Computed from the employee's average monthly earnings and age, between a statutory minimum and maximum. The limits for accidents from 1 November 2025, against the limits that applied before:
+
+| Compensation ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)) | Before 1 November 2025 | From 1 November 2025 |
+|---|---|---|
+| Death, minimum | $76,000 | $91,000 |
+| Death, maximum | $225,000 | $269,000 |
+| Permanent incapacity, minimum | $97,000 x % PI | $116,000 x % PI |
+| Permanent incapacity, maximum | $289,000 x % PI | $346,000 x % PI |
+| Medical expenses, maximum | $45,000 | $53,000 |
+
+Where the doctor or dentist awards 100% permanent incapacity, a further 25% is added on top of the compensation amount ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)). [MOM's press release of 8 February 2024](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act) states the purpose: the additional 25% "is paid for total PI to offset the cost of care for the injured employee". At the maximum, that is $346,000 plus 25%, which is $432,500. The same release describes the 2025 rises as "about 19%" on death and permanent incapacity and 17% on medical expenses.
+
+One consequence follows from the formula: two businesses with the same headcount carry different exposures, because wages and ages drive the lump sum.
+
+WICA is not a group personal accident plan and it is not employers' liability. [WICA vs group personal accident](/comparison/wica-vs-gpa) sets out which does what; [WICA designated panel cover vs a common-law / employer's liability extension](/comparison/wica-panel-vs-cw-el-extension) explains the route above the WICA schedule.
 
 #### How a claim runs
 
-The process is now largely automated through the designated insurer. In outline: the employee is injured; the employer provides treatment and a letter of guarantee if the hospital requires it; the employer notifies MOM; the designated insurer processes the claim automatically; medical leave wages and expenses are paid; a treating doctor assesses any permanent incapacity; the insurer issues a Notice of Computation; and, absent objection within 14 days, the compensation is paid within 21 days of the Notice.
+[MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/what-is-wica) states that a claim is made up to one year from the accident. Under WICA 2019, claims are processed by the designated insurer; the [MOM WIC Guide for Employers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) states that MOM takes over claims processing for cases without a designated insurer.
 
-The single hard deadline an employer owns is **notification**: a reportable accident must be submitted to MOM within **10 calendar days** of the employer first having notice that the employee needs hospitalisation, medical leave, or light duties. The full mechanics are in [how to file a WICA accident notification within MOM's 10-day window](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore), and the end-to-end claim in [how to file a WICA claim with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom).
+The employer's own deadline is notification. The [MOM guide](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) instructs: "Submit an incident report to MOM within 10 days from the date when you first have notice of the accident that requires your employee to be hospitalised or given any instance of medical leave or light duty", and to inform the designated insurer. Any instance of medical leave starts the clock; there is no three-day threshold. The mechanics of the report are in [how to file a workplace accident notification under WICA 2019](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore), and the separate reporting duties under the Workplace Safety and Health Act are in [how to file a workplace incident with MOM through the WSH Incident Reporting eService](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore).
 
-#### Penalties: what getting it wrong costs
+Permanent incapacity is assessed by a doctor after the medical condition has stabilised. A notice of assessment or notice of computation is then issued to all parties for the lump sum, and [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) states that "the insurer must pay the employee within 21 days from the date of service on the NOA or NOC". The end-to-end sequence is in [how to file a WICA claim with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom).
 
-The [MOM employer guide](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) sets out the offences, and they are not nominal:
+#### The offences and the penalties
 
-- **Failure to insure** a mandatory group under an approved policy: a fine of up to $10,000 and/or up to 12 months' imprisonment on a first conviction, rising to $20,000 and/or 12 months for repeat offences.
-- **Failure to notify** a reportable accident in time: up to $5,000 on a first conviction, up to $10,000 and/or 6 months thereafter.
-- **Failure to pay** compensation: up to $15,000 and/or 12 months on a first conviction, up to $30,000 and/or 12 months thereafter.
-- **Providing false information**: up to $5,000 and/or 6 months on a first conviction.
+[Section 25(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) makes an employer who contravenes section 24(1) liable on conviction to a fine not exceeding $10,000 or imprisonment not exceeding 12 months or both. Annex D of the [MOM WIC Guide for Employers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) sets out the full schedule:
 
-The offence of failing to insure is set out in statute at [section 25 of WICA](https://sso.agc.gov.sg/Act/WICA2019), examined in [the WICA section 25 offence](/document-legal/wica-section-25-offence). The practical point: an uninsured employer is not merely exposed to the claim, but to the claim plus a fine plus, in the worst case, prison.
+| Offence ([MOM WIC Guide, Annex D](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf)) | First offence | Second or subsequent |
+|---|---|---|
+| Failure to insure mandatory groups with a designated insurer | Fine up to $10,000 and/or imprisonment up to 12 months | Fine up to $20,000 and/or imprisonment up to 12 months |
+| Failure to notify MOM of a reportable accident in time | Fine up to $5,000 | Fine up to $10,000 and/or imprisonment up to 6 months |
+| Failure to pay compensation | Fine up to $15,000 and/or imprisonment up to 12 months | Fine up to $30,000 and/or imprisonment up to 12 months |
+| Providing false information or statement | Fine up to $5,000 and/or imprisonment up to 6 months | Fine up to $10,000 and/or imprisonment up to 6 months |
 
-### Common Mistakes
+The employee's right to compensation does not depend on the employer having insured. An uninsured employer pays the compensation, and faces the offence.
 
-1. **Treating contractors as outside the risk.** WICA turns on the substance of the working relationship, not the label on the invoice. Misclassifying an employee as a contractor does not remove the liability.
+## Common Mistakes
 
-2. **Insuring with a non-designated insurer.** Only a [MOM-designated insurer](/comparison/wica-designated-insurer-panel) can write approved WIC cover. A policy from anyone else does not discharge the section 24 duty.
+1. **Treating contractors as outside the risk.** [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/who-is-covered) excludes independent contractors and the self-employed; a person under a contract of service is an employee whatever the invoice says.
+2. **Insuring with a non-designated insurer.** Since 1 January 2021 the policy must come from a designated insurer with MOM's compulsory terms. A policy from anyone else does not discharge [section 24](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-).
+3. **Leaving the policy to the week before.** MOM requires the contract finalised and the insurer's information supplied at least 21 days before commencement.
+4. **Waiting for "more than three days" of medical leave before reporting.** The [MOM guide](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) starts the 10-day clock on any instance of medical leave or light duty.
+5. **Reading the maximum as $346,000.** At 100% permanent incapacity MOM adds 25%, so the maximum is $432,500 ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)).
+6. **Under-declaring payroll or headcount.** The lump sum runs on wages, so the wages declared to the insurer are what the cover is sized on. [WICA mid-policy wage adjustment workflow](/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore) covers the change.
+7. **Confusing WICA with group personal accident or employers' liability.** Different triggers, different limits. See [WICA vs GPA](/comparison/wica-vs-gpa).
 
-3. **Under-declaring payroll or headcount.** Premiums and valid cover depend on accurate payroll and workforce data; under-declaring can let the insurer recover what it paid out from the employer.
+## What This Means for Your Business
 
-4. **Confusing WICA with group personal accident.** They are different products with different triggers. See [WICA vs GPA](/comparison/wica-vs-gpa).
+List every person under a contract of service or apprenticeship. Mark the manual workers and the non-manual staff earning $2,600 or less a month; that is the group [section 24](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) requires you to insure, with a designated insurer, on MOM's compulsory terms. Decide deliberately about the rest, knowing that a valid claim from an uninsured employee is paid by you.
 
-5. **Missing the 10-day notification.** The clock starts when you first have notice the employee needs hospitalisation, medical leave, or light duties, not when it is convenient.
+Put two dates in the business's own record, not in one person's memory: the policy start date minus 21 days, which is [MOM's](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) deadline for the insurer's information, and the renewal date. Put one procedure beside them: who files the MOM incident report within 10 days of any medical leave, and who covers it when that person is away.
 
-6. **Letting the policy lapse at renewal.** A lapse leaves you personally liable for any accident in the gap. Renewal discipline is the cheapest risk control you have.
+Size the exposure on wages and age, not headcount. The permanent incapacity maximum for accidents from 1 November 2025 is $346,000, and $432,500 at 100% incapacity ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)). A team with higher earners or older staff sits closer to those figures than headcount suggests.
 
-7. **Forgetting to update cover when the workforce changes.** New hires, new job categories, and wage changes all change the mandatory group. [Adding a new employee to an existing WICA policy](/procedural-howto/wica-add-new-employee) should be routine, not an afterthought.
+Covarage holds the WIC policy and schedule, the designated-insurer details and the renewal date in one place, with reminders before it lapses, and introduces you to a licensed intermediary when the cover needs to be arranged or reviewed. The compliance is yours; the record is what we keep.
 
-### What This Means for Your Business
+## Questions to Ask Your Adviser
 
-For a Singapore SME, WICA is the one people-cover you cannot opt out of, so treat it as infrastructure, not a discretionary purchase.
-
-Start by drawing the line between who is covered and who you must insure: list every person under a contract of service, mark the manual workers and the non-manual staff earning $2,600 or less, and confirm those are all on an approved policy with a designated insurer. Keep the payroll and headcount you declare accurate, because the cheapest way to lose a claim is to have under-declared.
-
-Build the operational muscle around the two deadlines that bite: the 10-day notification and the renewal date. Both fail silently, and both fail worst when the person who used to handle insurance has left. Tie them to the business, not to an individual.
-
-Finally, size the cover to the exposure. Because permanent-incapacity and death compensation are formula-driven on wages and age, a business with higher-paid or older staff carries more exposure than headcount alone suggests. When wages rise or the team grows, the cover should be reviewed, not assumed.
-
-Covarage keeps the moving parts in one place: the WIC policy and schedule, the designated-insurer details, the renewal date with reminders before it lapses, and a route to a licensed adviser when you need to arrange or review cover. The compliance is yours; the admin that usually causes the lapse is what we take off your desk.
-
-### Questions to Ask Your Adviser
-
-1. Is every employee in our mandatory group, manual workers and non-manual staff earning $2,600 or less, on an approved policy with a MOM-designated insurer?
-2. Does our declared payroll and headcount match reality, and when did we last update it?
-3. How is our permanent-incapacity and death exposure sized against our actual wage and age profile, not just headcount?
-4. What is our process to notify MOM within 10 days, and who owns it if the usual person is away?
-5. When does the policy renew, and what stops it lapsing if no one actively chases it?
+1. Is every employee in the [mandatory group](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance), manual workers and non-manual staff earning $2,600 or less, on an approved policy with a MOM-designated insurer on the compulsory terms?
+2. Does the payroll and headcount we declared match the business today, and what happens to a claim if it does not?
+3. How is our permanent incapacity and death exposure sized against our actual wage and age profile?
+4. Who files the MOM incident report within 10 days of any medical leave, and who covers when they are away?
+5. Was the insurer given its information 21 days before the policy started, and what is the renewal date?
+6. Which employees outside the mandatory group are we choosing not to insure, and have we recorded that decision?
 
 ### Related Information
 
-Foundations and the law:
-- [WICA Section 24: The Mandatory Insurance Provision](/document-legal/wica-section-24-mandatory-insurance)
-- [WICA Section 25 Offence: Penalties for Failure to Insure](/document-legal/wica-section-25-offence)
+The law:
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Work Injury Regime](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 
 Insurers and the panel:
-- [WICA Designated Insurer Regulations: How the MOM List Works](/document-legal/wica-designated-insurer-regulations)
-- [WICA Designated Insurer Panel: How It Works](/comparison/wica-designated-insurer-panel)
-- [MOM Designated Insurer Mechanics Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [WICA Designated Insurer Regulations: How the MOM List Actually Works](/document-legal/wica-designated-insurer-regulations)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ](/comparison/wica-designated-insurer-panel)
 
 Claims and process:
-- [How to File a WICA Accident Notification: The 10-Day MOM Window](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
-- [How to File a WICA Claim with MOM: Step by Step](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to File a Workplace Accident Notification Under WICA 2019: The 10-Day MOM Rule](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
+- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Add a New Employee to Existing WICA Policy](/procedural-howto/wica-add-new-employee)
+- [How to Renew WICA When Changing to a Different Insurer](/procedural-howto/wica-change-insurer-renewal)
 
-Comparisons and decisions:
+Comparisons:
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
 - [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension](/comparison/wica-panel-vs-cw-el-extension)
-- [How to Add a New Employee to an Existing WICA Policy](/procedural-howto/wica-add-new-employee)
+- [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
+- [Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Position](/emerging-risk/platform-gig-workers-wica-singapore)
 
-*Published 31 May 2026. Source verified 31 May 2026.*
+*Published 31 May 2026. Source verified 11 September 2026.*
