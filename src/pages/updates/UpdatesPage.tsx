@@ -1,4 +1,6 @@
 import { useState } from 'react';
+import clsx from 'clsx';
+import { Link } from 'react-router-dom';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 import Seo from '../../components/Seo';
 import type { Topic } from '../../content/updates';
@@ -18,21 +20,25 @@ import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, formatDate, screenedFor, upda
  */
 
 /** The per-page copy. General strings are CMO's s9 exact replacements (Kong: "apply now"). */
-const COPY: Record<Topic, { path: string; h1: string; lede: string; seoTitle: string; seoDescription: string }> = {
+const COPY: Record<Topic, { path: string; chip: string; feed: string; h1: string; lede: string; seoTitle: string; seoDescription: string }> = {
   general: {
     path: '/updates',
+    chip: 'Regulatory',
+    feed: '/updates/feed.xml',
     h1: 'Regulatory updates',
     lede: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly. Headlines appear as published, linked to the source.",
     seoTitle: 'Regulatory Updates for Singapore Businesses | Covarage',
     seoDescription: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly, each linked to its official source, with the date we last reviewed stated.",
   },
-  // Derived from s4's hero clause; CMO owns the words and restamps them when it likes.
+  // CMO's restamp, CMO_POSITION_updates-on-site-and-lander_2026-09-11 s3, exact (lede 215, title 52, description 153).
   cyber: {
     path: '/updates/cyber',
+    chip: 'Cyber and digital risk',
+    feed: '/updates/cyber/feed.xml',
     h1: 'Cyber and digital risk',
-    lede: 'A weekly cyber and digital-risk screen of CSA, SingCERT, the police and the international advisories. Headlines appear as published, linked to the source.',
-    seoTitle: 'Cyber and Digital Risk Updates for Businesses | Covarage',
-    seoDescription: 'Cyber and digital-risk alerts and advisories screened weekly from CSA, SingCERT, the police and the international advisories, each linked to its source, with the date we last reviewed stated.',
+    lede: 'Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.',
+    seoTitle: 'Cyber and Digital Risk Updates, Singapore | Covarage',
+    seoDescription: 'Cyber and digital-risk alerts for Singapore SMEs, screened Monday and Thursday from CSA, GovTech, the police and overseas agencies, linked to the source.',
   },
 };
 
@@ -66,6 +72,24 @@ export default function UpdatesPage({ topic }: { topic: Topic }) {
       <section className="mx-auto w-full max-w-7xl px-6 pt-16 pb-10 text-center sm:px-10 lg:px-16 lg:pt-20">
         <h1 className="font-serif text-4xl text-text-primary sm:text-5xl lg:text-6xl">{copy.h1}</h1>
         <p className="mx-auto mt-4 max-w-xl text-base/relaxed text-text-secondary">{copy.lede}</p>
+        {/* CD s0j direction 1 (2026-09-11): the two pages see each other. Two chips in the guides
+            index's chip vocabulary, the current one filled, so a phone reader who lands on one list
+            from a share can step sideways to the other. One component, two states, no new copy. */}
+        <nav className="mt-6 flex flex-wrap justify-center gap-2" aria-label="Update topics" data-topic-chips>
+          {(Object.keys(COPY) as Topic[]).map((t) => (
+            <Link
+              key={t}
+              to={COPY[t].path}
+              aria-current={t === topic ? 'page' : undefined}
+              className={clsx(
+                'rounded-full px-3.5 py-[7px] text-[13px] transition',
+                t === topic ? 'bg-primary font-medium text-white' : 'bg-[#f4f2f0] text-text-primary hover:text-primary-extended'
+              )}
+            >
+              {COPY[t].chip}
+            </Link>
+          ))}
+        </nav>
         {REVIEWED && (
           /*
            * A bare date. The <time> element is not decoration: it makes the freshness signal a
@@ -174,8 +198,9 @@ export default function UpdatesPage({ topic }: { topic: Topic }) {
           <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">Follow along</p>
           <p className="m-0 mt-2 text-sm/relaxed text-text-secondary">
             Subscribe by RSS: add{' '}
-            <a href="/feed.xml" className="font-medium text-primary hover:underline">covarage.com/feed.xml</a>{' '}
-            to any feed reader to get our newest guides as they publish.
+            <a href={copy.feed} className="font-medium text-primary hover:underline">covarage.com{copy.feed}</a>{' '}
+            to any feed reader to get every item on this page as it publishes. Our guides have their own feed at{' '}
+            <a href="/feed.xml" className="font-medium text-primary hover:underline">covarage.com/feed.xml</a>.
           </p>
         </div>
       </section>

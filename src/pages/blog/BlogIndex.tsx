@@ -170,13 +170,17 @@ export default function BlogIndex() {
 
           <div>
             {/* the /updates strip - placement ruled by Kong (newsfeed M2) */}
-            <Link
-              to="/updates"
+            {/* CD s0j direction 2 (2026-09-11): one strip, two links - the guides reader is told both
+                update pages exist here and nowhere else on this page. */}
+            <p
               data-updates-strip
-              className="mb-5 hidden rounded-lg border border-border-primary bg-white px-4 py-3 text-sm text-text-secondary transition hover:border-primary lg:block"
+              className="m-0 mb-5 hidden rounded-lg border border-border-primary bg-white px-4 py-3 text-sm text-text-secondary lg:block"
             >
-              <span className="font-semibold text-text-primary">Regulatory updates</span> - screened weekly from Singapore's agencies and industry bodies, linked to the source.
-            </Link>
+              <Link to="/updates" className="font-semibold text-text-primary hover:text-primary-extended">Regulatory updates</Link>
+              {" - screened weekly from Singapore's agencies and industry bodies, linked to the source. "}
+              <Link to="/updates/cyber" className="font-semibold text-text-primary hover:text-primary-extended">Cyber and digital risk</Link>
+              {' - alerts and advisories screened Monday and Thursday.'}
+            </p>
 
             {/* journey tabs, compact - the second axis stays */}
             <div className="mb-5 hidden flex-wrap gap-2 lg:flex" data-intent-chips>
@@ -219,9 +223,12 @@ export default function BlogIndex() {
             </div>
 
             {/* phone: the Updates pointer as one link line under the count - a pointer, not a filter (s6 ruling 3) */}
-            <Link to="/updates" data-updates-line className="mt-3 block text-sm text-text-secondary underline-offset-2 hover:text-primary-extended hover:underline lg:hidden">
-              Regulatory updates - screened weekly, linked to the source
-            </Link>
+            <p data-updates-line className="m-0 mt-3 text-sm text-text-secondary lg:hidden">
+              <Link to="/updates" className="underline-offset-2 hover:text-primary-extended hover:underline">Regulatory updates</Link>
+              {' and '}
+              <Link to="/updates/cyber" className="underline-offset-2 hover:text-primary-extended hover:underline">Cyber and digital risk</Link>
+              {' - screened, linked to the source'}
+            </p>
 
             {paged.length > 0 ? (
               <div>

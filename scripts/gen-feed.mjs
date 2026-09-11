@@ -17,6 +17,13 @@
  * Runs from the build script alongside gen-seo.mjs and gen-llms.mjs; writes public/feed.xml
  * so the artifact ships with the static build. lastBuildDate follows the newest item, not
  * the build clock, so the file only changes when content does.
+ *
+ * THE SPLIT (hub ruling 2026-09-11, /check #3 w18): the 2026-09-11 screen put 39 items into one
+ * day and the site feed became 49 updates + 1 guide - subscribers were promised guides. So:
+ *   /feed.xml               guides + at most 10 newest REGULATORY updates (the promise kept)
+ *   /updates/feed.xml       every regulatory update, in full
+ *   /updates/cyber/feed.xml every cyber update, in full
+ * `topic` decides (absent = general). Each update links its own list page.
  */
 import fs from 'node:fs';
 import path from 'node:path';
@@ -80,25 +87,33 @@ const guideEntries = articles
 // Source headlines are carried VERBATIM with attribution - updates.json's own contract. The
 // description names the publisher and its canonical URL, so the attribution travels with the
 // item into any reader, where the surrounding channel is OURS and the headline is not.
+const byDate = (a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.sort < b.sort ? -1 : 1);
+const PAGE = { general: '/updates', cyber: '/updates/cyber' };
+const LABEL = { general: 'Regulatory update', cyber: 'Cyber and digital risk' };
+const REGULATORY_IN_SITE_FEED = 10;
+
 const updateEntries = (updates.items || [])
   .filter((u) => u.title && u.date && u.url && u.source && rfc822(u.date))
-  .map((u) => ({
-    date: u.date, sort: u.title, title: u.title,
-    link: `${SITE}/updates`, guid: updateGuid(u), permalink: false,
-    description: `Published by ${u.source}. Source: ${u.url}`,
-    category: 'Official update',
-  }));
+  .map((u) => {
+    const topic = u.topic ?? 'general';
+    return {
+      date: u.date, sort: u.title, title: u.title, topic,
+      link: `${SITE}${PAGE[topic]}`, guid: updateGuid(u), permalink: false,
+      description: `Published by ${u.source}. Source: ${u.url}`,
+      category: LABEL[topic],
+    };
+  });
+const general = updateEntries.filter((e) => e.topic === 'general').sort(byDate);
+const cyber = updateEntries.filter((e) => e.topic === 'cyber').sort(byDate);
 
-const newest = [...guideEntries, ...updateEntries]
-  .sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : a.sort < b.sort ? -1 : 1))
-  .slice(0, CAP);
+const newest = [...guideEntries, ...general.slice(0, REGULATORY_IN_SITE_FEED)].sort(byDate).slice(0, CAP);
 
 if (newest.length === 0) {
   console.error('gen-feed: no guide or update carried a parsable date');
   process.exit(1);
 }
 
-const items = newest.map((e) => [
+const itemXml = (e) => [
   '    <item>',
   `      <title>${esc(e.title)}</title>`,
   `      <link>${esc(e.link)}</link>`,
@@ -107,26 +122,36 @@ const items = newest.map((e) => [
   ...(e.category ? [`      <category>${esc(e.category)}</category>`] : []),
   `      <description>${esc(e.description)}</description>`,
   '    </item>',
-].join('\n'));
-
-const xml = [
-  '<?xml version="1.0" encoding="UTF-8"?>',
-  '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
-  '  <channel>',
-  '    <title>Covarage Guides</title>',
-  `    <link>${SITE}/blog</link>`,
-  // The blog index's own approved description, character for character.
-  '    <description>Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch.</description>',
-  '    <language>en-sg</language>',
-  '    <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>',
-  `    <lastBuildDate>${rfc822(newest[0].date)}</lastBuildDate>`,
-  `    <atom:link href="${SITE}/feed.xml" rel="self" type="application/rss+xml" />`,
-  ...items,
-  '  </channel>',
-  '</rss>',
-  '',
 ].join('\n');
 
-fs.writeFileSync(path.join(REPO_ROOT, 'public', 'feed.xml'), xml);
+function channel({ title, link, description, self, entries }) {
+  return [
+    '<?xml version="1.0" encoding="UTF-8"?>',
+    '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">',
+    '  <channel>',
+    `    <title>${esc(title)}</title>`,
+    `    <link>${SITE}${link}</link>`,
+    `    <description>${esc(description)}</description>`,
+    '    <language>en-sg</language>',
+    '    <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>',
+    `    <lastBuildDate>${rfc822(entries[0].date)}</lastBuildDate>`,
+    `    <atom:link href="${SITE}${self}" rel="self" type="application/rss+xml" />`,
+    ...entries.map(itemXml),
+    '  </channel>',
+    '</rss>',
+    '',
+  ].join('\n');
+}
+
+const write = (rel, xml) => { const f = path.join(REPO_ROOT, 'public', rel); fs.mkdirSync(path.dirname(f), { recursive: true }); fs.writeFileSync(f, xml); };
+
+// The blog index's own approved description, character for character.
+write('feed.xml', channel({ title: 'Covarage Guides', link: '/blog', self: '/feed.xml', entries: newest,
+  description: 'Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch.' }));
+// The two topic feeds carry their list page's own lede (UpdatesPage.tsx COPY), in full, no cap.
+if (general.length) write('updates/feed.xml', channel({ title: 'Covarage Regulatory Updates', link: '/updates', self: '/updates/feed.xml', entries: general,
+  description: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly. Headlines appear as published, linked to the source." }));
+if (cyber.length) write('updates/cyber/feed.xml', channel({ title: 'Covarage Cyber and Digital Risk', link: '/updates/cyber', self: '/updates/cyber/feed.xml', entries: cyber,
+  description: 'Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.' }));
 const nUpd = newest.filter((e) => e.category).length;
-console.log(`gen-feed: ${newest.length} items - ${newest.length - nUpd} guides + ${nUpd} updates (pool ${guideEntries.length} + ${updateEntries.length}), newest ${newest[0].date}`);
+console.log(`gen-feed: site ${newest.length} items - ${newest.length - nUpd} guides + ${nUpd} regulatory (cap ${REGULATORY_IN_SITE_FEED}); /updates/feed.xml ${general.length}; /updates/cyber/feed.xml ${cyber.length}; pool ${guideEntries.length} + ${updateEntries.length}, newest ${newest[0].date}`);

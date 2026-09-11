@@ -16,6 +16,8 @@ export interface ArticleMeta {
   slug: string;
   category: string;
   subcategory?: string;
+  /** Last content change, ISO yyyy-mm-dd; the sitemap lastmod and the lander's emerging-risk block read it. */
+  updated?: string;
   intent: IntentId;
   topics: string[];
   /** Industry (from title + slug) and agencies the body links to - scripts/lib/facets.mjs. */

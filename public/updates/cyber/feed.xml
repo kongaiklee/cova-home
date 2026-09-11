@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Covarage Cyber and Digital Risk</title>
+    <link>https://covarage.com/updates/cyber</link>
+    <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
+    <language>en-sg</language>
+    <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
+    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GitLab urges users to patch max severity path traversal flaw</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-gitlab-urges-users-to-patch-max-severity-path-traversal-flaw</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</description>
+    </item>
+    <item>
+      <title>Trezor: 347,000 users targeted in phishing attacks after Brevo breach</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/trezor-347-000-users-targeted-in-phishing-attacks-after-brevo-breach/</description>
+    </item>
+    <item>
+      <title>AI-powered attack exploited PaperCut flaws to hack 395 organizations</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/</description>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-cisa-adds-two-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/10/cisa-adds-two-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>CISA: WatchGuard RCE flaw now exploited in ransomware attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-watchguard-rce-flaw-now-exploited-in-ransomware-attacks/</description>
+    </item>
+    <item>
+      <title>Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/</description>
+    </item>
+    <item>
+      <title>Extremely High Risk: Google Chrome Multiple Vulnerabilities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-extremely-high-risk-google-chrome-multiple-vulnerabilities</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260910</description>
+    </item>
+    <item>
+      <title>IDScan confirms breach tied to 153 million stolen driver&apos;s licenses</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-idscan-confirms-breach-tied-to-153-million-stolen-driver-s-licenses</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/</description>
+    </item>
+    <item>
+      <title>New &apos;BlueMoon&apos; kit exploited Windows and Chrome zero-day flaws</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/</description>
+    </item>
+    <item>
+      <title>Police investigate 254 Scammers And Money Mules In Islandwide Enforcement Operation</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-police-investigate-254-scammers-and-money-mules-in-islandwide-enforcement-operat</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260910_police_investigate_254_scammers_and_money_mules_in_islandwide_enforcement_operation</description>
+    </item>
+    <item>
+      <title>September Windows Server updates break Remote Desktop Services</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-september-windows-server-updates-break-remote-desktop-services</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/</description>
+    </item>
+    <item>
+      <title>Surfshark VPN says hackers breached internal testing, proxy servers</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-10-surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/</description>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-cisa-adds-four-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/09/cisa-adds-four-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in SAP Products</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-critical-vulnerabilities-in-sap-products</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-119/</description>
+    </item>
+    <item>
+      <title>High-Severity Vulnerability in PostgreSQL</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-high-severity-vulnerability-in-postgresql</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-120/</description>
+    </item>
+    <item>
+      <title>September 2026 Monthly Patch</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-09-september-2026-monthly-patch</guid>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-116/</description>
+    </item>
+    <item>
+      <title>Joint Operation Between The Anti-Scam Centre And Five Partnering Banks Led To Disruption Of More Than 400 Ongoing Scams</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-08-joint-operation-between-the-anti-scam-centre-and-five-partnering-banks-led-to-di</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260908_joint_operation_between_the_anti_scam_centre_and_five_partnering_banks</description>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-04-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>CISA Adds Seven Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-02-cisa-adds-seven-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Wed, 02 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/02/cisa-adds-seven-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>Dispelling the Myth That &apos;Cyber Insurance Doesn&apos;t Pay Claims&apos;</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-31-dispelling-the-myth-that-cyber-insurance-doesn-t-pay-claims</guid>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/cyber-insurance/dispelling-myth-cyber-insurance-doesnt-pay-claims</description>
+    </item>
+    <item>
+      <title>Critical Vulnerability in Apache Tomcat</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-27-critical-vulnerability-in-apache-tomcat</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-112/</description>
+    </item>
+    <item>
+      <title>Disruptive cyber activity highlights risk from internet-exposed systems and edge devices</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-27-disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge</guid>
+      <pubDate>Thu, 27 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by NCSC UK. Source: https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices</description>
+    </item>
+    <item>
+      <title>Risky Tech Ranking: Q2 2026 Updates</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-19-risky-tech-ranking-q2-2026-updates</guid>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/security-labs/risky-tech-ranking-q2-2026-updates</description>
+    </item>
+    <item>
+      <title>SPF-CSA Joint Advisory On Cryptocurrency Scams Involving Fake Job Offers And Compromised Software Systems</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-14-spf-csa-joint-advisory-on-cryptocurrency-scams-involving-fake-job-offers-and-com</guid>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA advisories. Source: https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-010/</description>
+    </item>
+    <item>
+      <title>A New Era Of Social Engineering: The Device Code Phishing Boom</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-11-a-new-era-of-social-engineering-the-device-code-phishing-boom</guid>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/security-labs/a-new-era-of-social-engineering-the-device-code-phishing-boom</description>
+    </item>
+    <item>
+      <title>Ongoing npm Supply Chain Attack Affecting Keyv and Related Packages (&quot;Shai-Hulud&quot; Worm)</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-08-06-ongoing-npm-supply-chain-attack-affecting-keyv-and-related-packages-shai-hulud-w</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA advisories. Source: https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-009/</description>
+    </item>
+    <item>
+      <title>Understanding Why Privacy Claims Doubled in H1 2026</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-07-31-understanding-why-privacy-claims-doubled-in-h1-2026</guid>
+      <pubDate>Fri, 31 Jul 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/cyber-insurance/understanding-why-privacy-claims-doubled-in-h1-2026</description>
+    </item>
+    <item>
+      <title>UK and partners expose Russian state-supported actors for new &apos;zero-click&apos; phishing campaign targeting Western organisations</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-07-23-uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishin</guid>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by NCSC UK. Source: https://www.ncsc.gov.uk/news/uk-and-partners-expose-russian-state-supported-actors-for-new-zero-click-phishing-campaign</description>
+    </item>
+    <item>
+      <title>Cybersecurity Code of Practice for Critical Information Infrastructure to be Updated to Address APT and AI-enabled Threats</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-07-22-cybersecurity-code-of-practice-for-critical-information-infrastructure-to-be-upd</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA. Source: https://www.csa.gov.sg/news-events/press-releases/cybersecurity-code-of-practice-for-critical-information-infrastructure-to-be-updated-to-address-apt-and-ai-enabled-threats/</description>
+    </item>
+    <item>
+      <title>CSA&apos;s Initiatives to Strengthen Singapore&apos;s Cyber Defences Amid an AI-Driven Threat Landscape</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-06-30-csa-s-initiatives-to-strengthen-singapore-s-cyber-defences-amid-an-ai-driven-thr</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA. Source: https://www.csa.gov.sg/news-events/press-releases/csa-s-initiatives-to-strengthen-singapore-s-cyber-defences-amid-an-ai-driven-threat-landscape/</description>
+    </item>
+    <item>
+      <title>Singpass Launches Passkeys: A Safer Login Method</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-06-30-singpass-launches-passkeys-a-safer-login-method</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by GovTech. Source: https://www.tech.gov.sg/media/singpass-launches-passkeys-a-safer-login-method/</description>
+    </item>
+    <item>
+      <title>Advisory on Credential Compromise of FortiGate Devices (&quot;FortiBleed&quot;)</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-06-22-advisory-on-credential-compromise-of-fortigate-devices-fortibleed</guid>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA advisories. Source: https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-007/</description>
+    </item>
+    <item>
+      <title>Alert: NCSC issues advice following global targeting of Fortinet firewalls and VPN gateways</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-06-18-alert-ncsc-issues-advice-following-global-targeting-of-fortinet-firewalls-and-vp</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by NCSC UK. Source: https://www.ncsc.gov.uk/news/advice-following-global-targeting-of-fortinet-firewalls-and-vpn-gateways</description>
+    </item>
+  </channel>
+</rss>

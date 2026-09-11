@@ -15,6 +15,14 @@ import { agencyLinks, agencyNameLong, valueSlug } from '../../content/facets';
 import { ArticleTile } from './ArticleCard';
 import { formatDate, readingTime } from './util';
 
+/** The guides that carry the pointer to /updates/cyber - CMO s1 item 2, by slug. */
+const CYBER_ALERT_GUIDES = new Set([
+  '/crisis/ransomware-just-hit',
+  '/crisis/cyber-extortion-ransomware',
+  '/crisis/bec-wire-fraud-loss-discovered',
+  '/comparison/pi-vs-tech-eo-for-saas',
+]);
+
 /** Render Markdown links as SPA links when internal (rewritten to /guides/), new-tab when external. */
 const markdownComponents = {
   a({ href, children }: { href?: string; children?: ReactNode }) {
@@ -228,6 +236,16 @@ export default function ArticlePage({ article }: { article: Article }) {
       {related.length > 0 && (
         <section className="mx-auto w-full max-w-5xl px-6 py-16 sm:px-8">
           <h2 className="font-serif text-2xl text-text-primary">Explore more</h2>
+          {/* CMO s1 item 2 (CMO_POSITION_updates-on-site-and-lander_2026-09-11): the reader who has
+              just been hit is the one who wants the live alert list. One pointer line, beside the
+              Related block, on the four cyber guides named there and nowhere else. */}
+          {CYBER_ALERT_GUIDES.has(frontmatter.slug) && (
+            <p className="m-0 mt-3 text-sm text-text-secondary" data-cyber-pointer>
+              <Link to="/updates/cyber" className="border-b border-[#c2d4e2] pb-px font-medium text-primary">
+                Latest cyber alerts, screened Monday and Thursday
+              </Link>
+            </p>
+          )}
           <div className="mt-6 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
             {related.map((a) => (
               <ArticleTile key={a.slug} article={a} />

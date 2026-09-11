@@ -3,6 +3,8 @@ import { IMG, INSURERS, REQUEST_ANCHOR } from './data';
 import { requestClick } from './requestFraming';
 import GapCheckCard from '../../components/GapCheckCard';
 import { track } from '../../lib/analytics';
+import { ARTICLES, articleUrl } from '../../content/articles';
+import { REVIEWED, formatDate } from '../../content/updates';
 
 /** Shared horizontal frame: 1240 max, 100px gutters on desktop, 28px on phone. */
 export const WRAP = 'mx-auto w-full max-w-[1240px] px-7 lg:px-[100px]';
@@ -37,18 +39,25 @@ export function TradeLine() {
 }
 
 /**
- * 1F. The orientation cards - CD's `DIRECTION_s1F-and-sequence.md` s2, Rev 3n copy.
- * The 4B card pattern minus the photo, three across, on Sailcloth.
+ * 1F. The orientation band - CD's `DIRECTION_emerging-risk-surfaces.md` s1 (2026-09-11), Rev 3s row 44.
+ * Four cards 2 x 2 from 640 up, one column below, order trade / regulatory / cyber / adviser, then the
+ * emerging-risk block as the band's third row. Supersedes `DIRECTION_s1F-and-sequence.md` s2's three.
  *
- * The treatment call that is NOT 4B's, and it is a build constraint rather than taste: cards 1 and
- * 2 take a quiet text link and card 3 takes the solid Teak button. Three buttons would flatten the
- * page's only conversion into one of three equals - browse, browse, act is the ladder.
+ * Kong, 2026-09-11 22:09 (relayed via CMO's copy of record): "cyber risk should have its section on
+ * this part of the lander". Card 3 is that section - a door, not a feed.
+ *
+ * The treatment call that is a build constraint rather than taste: cards 1-3 take a quiet text link
+ * and card 4 takes the ONLY solid Teak button in the band. Browse, browse, browse, act is the ladder.
+ * The block's row links are INK, not blue - three blue rows under four blue card links is a second nav.
  *
  * The introducer boundary is held by construction and must not be softened: card 1 says what
- * businesses like yours are COMMONLY ASKED to carry; card 3's adviser REVIEWS AND DISCUSSES.
- * No card asserts what this reader needs.
+ * businesses like yours are COMMONLY ASKED to carry; card 3 names what the agencies PUBLISH; card 4's
+ * adviser REVIEWS AND DISCUSSES. No card asserts what this reader needs.
+ *
+ * `Last reviewed {date}.` on cards 2 and 3 is META from updates.json, never a literal date in source.
+ * The cyber run has no date of its own in the reviewed block yet, so both cards read the run date.
  */
-const ORIENTATION = [
+const ORIENTATION: { title: string; body: string; action: string; href: string; dated?: boolean; button?: boolean }[] = [
   {
     title: 'Your trade',
     body: 'See the cover and documents businesses like yours are commonly asked to carry.',
@@ -56,20 +65,40 @@ const ORIENTATION = [
     href: '/blog',
   },
   {
-    title: 'Latest changes',
+    // `Regulatory changes` / `View regulatory updates` is a SEAT proposal (Rev 3s row 44) matching the
+    // destination page's own name; Kong strikes it at the preview if he wants `Latest changes` back.
+    title: 'Regulatory changes',
     body: 'Follow new requirements and guidance from official Singapore sources.',
-    action: 'View latest updates',
+    action: 'View regulatory updates',
     href: '/updates',
+    dated: true,
+  },
+  {
+    title: 'Cyber risk',
+    body: 'Follow the alerts on vulnerabilities, scams and breaches from CSA, the police and overseas agencies.',
+    action: 'View cyber alerts',
+    href: '/updates/cyber',
+    dated: true,
   },
   {
     title: 'Your adviser',
     body: 'A licensed adviser reviews what applies to your business and discusses the available options with you.',
     action: 'Request access',
     href: REQUEST_ANCHOR,
+    button: true,
   },
 ];
 
+/** The P1 block: the three newest emerging-risk pages by `updated`, newest first. */
+const EMERGING = [...ARTICLES.filter((a) => a.category === 'emerging-risk')]
+  .sort((a, b) => ((b.updated ?? b.published) < (a.updated ?? a.published) ? -1 : 1))
+  .slice(0, 3);
+
+const eyebrowDate = (iso: string) =>
+  new Date(`${iso}T00:00:00`).toLocaleDateString('en-SG', { day: 'numeric', month: 'long', year: 'numeric' }).toUpperCase();
+
 export function Orientation() {
+  const reviewed = REVIEWED ? `Last reviewed ${formatDate(REVIEWED.date)}.` : null;
   return (
     <section className="border-b border-border-primary bg-background-primary">
       <div className={`${WRAP} py-[52px] lg:py-24`}>
@@ -77,16 +106,18 @@ export function Orientation() {
           <h2 className={`${H2} mb-2.5 max-w-[20ch] text-[30px]/[1.12] tracking-[-1px] lg:mb-0 lg:text-[40px]/[1.1] lg:tracking-[-1.3px]`}>The things nobody tells you to ask.</h2>
           <p className="m-0 max-w-[44ch] text-sm/[1.6] text-text-secondary lg:text-[15px]">Every trade comes with its own mix of insurance, legal and contract requirements. Knowing where to start is the hard part.</p>
         </div>
-        <div className="grid gap-6 lg:grid-cols-3" data-orientation>
-          {ORIENTATION.map((c, i) => (
+        <div className="grid gap-6 sm:grid-cols-2" data-orientation>
+          {ORIENTATION.map((c) => (
             <div key={c.title} className="flex flex-col rounded-xl border border-border-primary bg-white px-[22px] pt-5 pb-6 lg:px-[26px] lg:pt-6 lg:pb-7">
               <div className="mb-2.5 font-serif text-[22px] tracking-[-0.6px] text-primary-extended lg:mb-3.5 lg:text-[26px]">{c.title}</div>
-              <p className="m-0 mb-5 grow text-sm/[1.6] text-text-secondary lg:text-[15px]/[1.65]">{c.body}</p>
-              {/* Both actions carry the SAME vertical padding so their boxes are the same height
-                  and the three sit on one line, per CD's acceptance - the button is otherwise
-                  ~20px taller than a bare text link and card 3 rides up out of the row. The link's
-                  underline moves onto an inner span so the padding does not drag the rule down. */}
-              {i === 2 ? (
+              <p className={`m-0 ${c.dated && reviewed ? 'mb-2' : 'mb-5'} grow text-sm/[1.6] text-text-secondary lg:text-[15px]/[1.65]`}>{c.body}</p>
+              {c.dated && reviewed && (
+                // CD s1 item 3: meta, not body - 13px Mist, one line, 8px above, 16px below to the action.
+                <p className="m-0 mb-4 text-[13px]/[1.4] text-text-secondary" data-reviewed-meta>{reviewed}</p>
+              )}
+              {/* Both actions carry the SAME vertical padding so their boxes are the same height,
+                  per CD's acceptance - the button is otherwise ~20px taller than a bare text link. */}
+              {c.button ? (
                 <a href={c.href} onClick={requestClick} className="mt-auto inline-block self-start rounded-sm bg-primary-extended px-[22px] py-[11px] text-sm font-medium text-white transition hover:opacity-90">
                   {c.action}
                 </a>
@@ -98,6 +129,31 @@ export function Orientation() {
             </div>
           ))}
         </div>
+
+        {/* The P1 block - CD s1 item 4: the band's third row, one hairline card, full width. The doors
+            read first, then the proof. No button, no image, no count. The H3 line is CMO's; `What
+            changed this week` is the shape until CMO's line lands. */}
+        {EMERGING.length > 0 && (
+          <div className="mt-6 rounded-xl border border-border-primary bg-white px-[22px] pt-4 pb-3 lg:px-[26px] lg:pt-5 lg:pb-4" data-emerging-block>
+            <p className="m-0 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">Emerging risk</p>
+            <h3 className="m-0 mt-1.5 font-serif text-[22px] tracking-[-0.6px] text-primary-extended">What changed this week</h3>
+            <ul className="m-0 mt-2 list-none p-0">
+              {EMERGING.map((a) => (
+                <li key={a.slug} className="border-t border-border-primary py-2.5 first:border-t-0 first:pt-1.5">
+                  <p className="m-0 mb-0.5 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">
+                    {(a.subcategory ?? a.category).replace(/-/g, ' ')} &middot; {eyebrowDate(a.updated ?? a.published)}
+                  </p>
+                  <Link to={articleUrl(a.slug)} className="m-0 line-clamp-2 text-[17px]/[1.45] font-medium text-text-primary hover:text-primary-extended">
+                    {a.title}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            <Link to="/guides/emerging-risk" className="mt-1 inline-block py-1 text-sm font-medium text-primary">
+              <span className="border-b border-[#c2d4e2] pb-px">All emerging-risk guides</span>
+            </Link>
+          </div>
+        )}
       </div>
     </section>
   );

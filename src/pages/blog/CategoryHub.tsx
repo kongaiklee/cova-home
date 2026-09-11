@@ -51,6 +51,18 @@ export default function CategoryHub({ category }: { category: string }) {
           {articles.length} guides. Every fact links to a primary regulator, statute or named
           insurer document.
         </p>
+        {/* CMO s1 item 1 (CMO_POSITION_updates-on-site-and-lander_2026-09-11): the reader already
+            thinking about emerging risk is told where the live alert list is - the guides index's
+            strip pattern, reused, on this hub only. Contextual placement, never a global strip. */}
+        {category === 'emerging-risk' && (
+          <Link
+            to="/updates/cyber"
+            data-cyber-strip
+            className="mb-9 block rounded-lg border border-border-primary bg-white px-4 py-3 text-sm text-text-secondary transition hover:border-primary lg:mb-12"
+          >
+            <span className="font-semibold text-text-primary">Cyber and digital risk</span> - alerts and advisories screened Monday and Thursday, linked to the source.
+          </Link>
+        )}
 
         <ul className="m-0 grid list-none gap-0 p-0" data-category-articles>
           {articles.map((a) => (
