@@ -1,0 +1,19 @@
+{
+  "_contract": "CMO -> TM, for the cyber alerts page v1.1 (position file s1 item 3, agreed by Kong 2026-09-11 22:10). Each rule: if an alert card's title matches any keyword (case-insensitive, whole word or stem), the card shows one 'What to do' link to the guide. First matching rule wins; rules are ordered most specific first. Slugs are root-relative and every one resolves in articles-index.json on 2026-09-11 except the two marked pending, which resolve once the fast lane's batch 1 publishes.",
+  "version": "1.0",
+  "written": "2026-09-11",
+  "rules": [
+    { "keywords": ["ransomware", "ransom"], "guide": "/crisis/ransomware-just-hit", "label": "What to do if ransomware hits" },
+    { "keywords": ["business email compromise", "bec", "invoice fraud", "wire fraud", "funds transfer"], "guide": "/crisis/bec-wire-fraud-loss-discovered", "label": "What to do when a payment was diverted" },
+    { "keywords": ["deepfake", "voice clone", "impersonat"], "guide": "/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme", "label": "Deepfake fraud and your cover" },
+    { "keywords": ["scam", "money mule", "phishing"], "guide": "/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme", "label": "Social-engineering fraud and your cover" },
+    { "keywords": ["data breach", "exfiltrat", "leaked", "personal data", "pdpc", "pdpa"], "guide": "/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore", "label": "The 3-day PDPC notification" },
+    { "keywords": ["supply chain", "npm", "package", "dependency", "third-party provider", "vendor"], "guide": "/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme", "label": "What you inherit from a supplier's compromise", "pending": true },
+    { "keywords": ["vulnerabilit", "patch", "exploited", "cve-", "zero-day", "known exploited"], "guide": "/emerging-risk/unpatched-software-cyber-insurance-singapore-sme", "label": "Unpatched software and your cyber policy", "pending": true },
+    { "keywords": ["fortigate", "fortinet", "firewall", "vpn", "edge device", "router"], "guide": "/emerging-risk/unpatched-software-cyber-insurance-singapore-sme", "label": "Unpatched software and your cyber policy", "pending": true },
+    { "keywords": ["critical information infrastructure", "cii", "cybersecurity act"], "guide": "/regulatory-change/cybersecurity-act-2024-first-year", "label": "The Cybersecurity Act and who it binds" },
+    { "keywords": ["cyber insurance", "cyber cover", "claims report", "claims data"], "guide": "/document-legal/cyber-insurance-complete-guide-singapore-sme", "label": "The cyber insurance guide" },
+    { "keywords": ["outage", "downtime", "service disruption"], "guide": "/emerging-risk/supply-chain-contingent-business-interruption-singapore", "label": "When a supplier's outage stops your business" }
+  ],
+  "fallback": { "guide": "/document-legal/cyber-insurance-complete-guide-singapore-sme", "label": "The cyber insurance guide" }
+}

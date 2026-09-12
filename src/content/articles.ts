@@ -18,6 +18,8 @@ export interface ArticleMeta {
   subcategory?: string;
   /** Last content change, ISO yyyy-mm-dd; the sitemap lastmod and the lander's emerging-risk block read it. */
   updated?: string;
+  /** 25-60 characters, the subject alone, sentence case - the lander block's row line (CMO's field, CD s0k). */
+  short_title?: string;
   intent: IntentId;
   topics: string[];
   /** Industry (from title + slug) and agencies the body links to - scripts/lib/facets.mjs. */

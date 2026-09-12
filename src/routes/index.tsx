@@ -14,6 +14,8 @@ import Careers from '../pages/company/Careers';
 import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
 import PackPage from '../pages/pack/PackPage';
 import UpdatesPage from '../pages/updates/UpdatesPage';
+import BriefPage from '../pages/updates/BriefPage';
+import { BRIEFS, briefPath } from '../pages/updates/topics';
 import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
 
 /**
@@ -58,6 +60,15 @@ export const routes: RouteRecord[] = [
           // The cyber and digital-risk screen, a SIBLING page on the same component and the same
           // file - `topic` decides which page an item renders on (Kong ~20:1x, 2026-09-11).
           { path: 'updates/cyber', element: <UpdatesPage topic="cyber" /> },
+          // One BRIEF page per assessed item that carries a brief (P2, CD s2). Derived from
+          // updates.json exactly as the hubs are derived from the article index, so a brief that
+          // lands in the data gets a prerendered page on the next build and nothing is hardcoded.
+          // Zero routes until CMO's assess step writes the first brief - the list pages then link
+          // them automatically.
+          ...BRIEFS.map((item) => ({
+            path: briefPath(item).replace(/^\//, ''),
+            element: <BriefPage item={item} />,
+          })),
           { path: 'terms', element: <Terms /> },
           { path: 'privacy', element: <Privacy /> },
           // moved from blog.covarage.com with the corpus; the blog host 301s its old path here

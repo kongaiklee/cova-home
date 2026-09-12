@@ -7,4 +7,42 @@ Content-Signal: search=yes, ai-input=yes
 User-agent: *
 Allow: /
 
+# AI answer engines and their crawlers - allowed explicitly; the same policy as Content-Signal ai-input=yes.
+# Attribution terms in /llms.txt apply to every one of them.
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
 Sitemap: https://covarage.com/sitemap.xml

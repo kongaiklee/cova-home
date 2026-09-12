@@ -9,7 +9,8 @@ import { useArticleAnalytics } from '../../lib/useArticleAnalytics';
 import { ctaForArticle, splitAtAnswer } from '../../content/articleCtas';
 import ArticleEnquiry from './ArticleEnquiry';
 import GapCheckCard from '../../components/GapCheckCard';
-import { INTENT_BY_ID } from '../../content/intents';
+import { CATEGORY_LABELS, INTENT_BY_ID } from '../../content/intents';
+import { HUB_CATEGORIES } from './CategoryHub';
 import Seo, { SITE_URL } from '../../components/Seo';
 import { agencyLinks, agencyNameLong, valueSlug } from '../../content/facets';
 import { ArticleTile } from './ArticleCard';
@@ -75,14 +76,36 @@ export default function ArticlePage({ article }: { article: Article }) {
   // derived from the body so the link is one the article actually makes
   const agencies = agencyLinks(body);
 
-  const jsonLd = {
-    '@context': 'https://schema.org',
+  /**
+   * COO F2, 2026-09-12: `dateModified` read `source_verified` - the date a SOURCE was last checked,
+   * not the date the page changed. A refresh therefore served a modified date older than its own
+   * sitemap `lastmod` (497 on 2026-09-12: lastmod 09-12, dateModified 09-11). `updated` is the page's
+   * own change date and the field P5 already moves; `source_verified` stays the fallback for a page
+   * that predates it.
+   */
+  const modified = frontmatter.updated ?? frontmatter.source_verified;
+  /**
+   * A page whose CONTENT changed after publication says so. `updated` alone does not mean that:
+   * the 2026-08-30 and 2026-09-09 description sweeps moved `updated` on 526 of 530 guides without
+   * touching a word of any body, and printing `Updated 30 August 2026` on all of them would be a
+   * claim about the writing that the writing does not support. A content refresh re-reads the
+   * sources, so `source_verified` moves with it: measured today, `updated` > `published` holds on
+   * 526 pages and BOTH hold on exactly 6 - the four rebuilt guides, the SMC amendment and the heat
+   * stress refresh. That is the set this line is for.
+   */
+  const isRefresh = Boolean(
+    frontmatter.updated &&
+      frontmatter.updated > frontmatter.published &&
+      frontmatter.source_verified > frontmatter.published
+  );
+
+  const articleSchema = {
     '@type': 'Article',
     headline: frontmatter.title,
     description: frontmatter.meta_description,
     image: `${SITE_URL}${frontmatter.hero_image}`,
     datePublished: frontmatter.published,
-    dateModified: frontmatter.source_verified,
+    dateModified: modified,
     author: { '@type': 'Organization', name: 'Covarage', url: SITE_URL },
     publisher: {
       '@type': 'Organization',
@@ -97,6 +120,33 @@ export default function ArticlePage({ article }: { article: Article }) {
     acquireLicensePage: `${SITE_URL}/contact`,
   };
 
+  /**
+   * BreadcrumbList - CMO's machine-readability spec s2 on Kong's 2026-09-12 02:54 word
+   * ("org schema on homepage, breadcrumb, robots.text pls"). Three levels, every value DERIVED:
+   * Guides -> the category hub -> this article's canonical. A category with no hub route drops
+   * position 2 and the list renumbers. A subcategory article still points at the CATEGORY hub,
+   * because no subcategory page exists. One `ld+json` block per page, so the Article object above
+   * and this one ride in one `@graph`.
+   */
+  const crumbs = [
+    { name: 'Guides', item: `${SITE_URL}/blog` },
+    ...(HUB_CATEGORIES.includes(frontmatter.category)
+      ? [{ name: CATEGORY_LABELS[frontmatter.category] ?? frontmatter.category, item: `${SITE_URL}/guides/${frontmatter.category}` }]
+      : []),
+    { name: frontmatter.title, item: `${SITE_URL}${articleUrl(frontmatter.slug)}` },
+  ];
+
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      articleSchema,
+      {
+        '@type': 'BreadcrumbList',
+        itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.item })),
+      },
+    ],
+  };
+
   return (
     <>
       <Seo
@@ -106,7 +156,7 @@ export default function ArticlePage({ article }: { article: Article }) {
         image={frontmatter.hero_image}
         type="article"
         publishedTime={frontmatter.published}
-        modifiedTime={frontmatter.source_verified}
+        modifiedTime={modified}
         jsonLd={jsonLd}
       />
 
@@ -126,6 +176,13 @@ export default function ArticlePage({ article }: { article: Article }) {
           <span>Covarage</span>
           <span aria-hidden>&middot;</span>
           <span>{formatDate(frontmatter.published)}</span>
+          {/* COO F2: a refreshed page says so. 497 carried `31 May 2026` on a page rewritten today. */}
+          {isRefresh && (
+            <>
+              <span aria-hidden>&middot;</span>
+              <span data-updated>Updated {formatDate(frontmatter.updated as string)}</span>
+            </>
+          )}
           <span aria-hidden>&middot;</span>
           <span>{readingTime(frontmatter.word_count)}</span>
         </div>

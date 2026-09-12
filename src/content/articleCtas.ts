@@ -62,7 +62,10 @@ export const CTA_BY_INTENT: Record<string, ArticleCta> = {
   },
   'beyond-the-basics': {
     headline: 'Standard policies were not built for this. Yours can be.',
-    line: 'Tell us what you carry today and we introduce you to a licensed adviser who knows this ground and places cover that fits it.',
+    // COO F1, 2026-09-12: `who knows this ground and places cover that fits it` is a matching-suitability
+    // claim - it says Covarage picks an adviser for the risk and that the cover fits. The introducer
+    // boundary is that the ADVISER advises and places; we introduce. COO's replacement string, verbatim.
+    line: 'Tell us what you carry today and we introduce you to a licensed adviser, who gives the advice and places the cover.',
     button: 'Check with a licensed adviser',
   },
 };

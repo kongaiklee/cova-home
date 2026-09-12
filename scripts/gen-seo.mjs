@@ -72,6 +72,19 @@ const sitemap =
 // The usage comments and Content-Signal are a REQUEST, not enforcement, and the crawl rules below
 // them are deliberately UNCHANGED: the GEO play wants crawlers and citations (CMO spec s1), so
 // nothing here blocks any agent. `ai-train` is deliberately unset - see the spec's s3.2 note.
+// 2026-09-12, Kong's word ("org schema on homepage, breadcrumb, robots.text pls"), payload =
+// CMO's machine-readability spec s3: the answer engines are NAMED beneath the wildcard. The policy
+// does not change - the wildcard already allowed them and `ai-input=yes` already said so - but a
+// checker that greps for bot names can now read it. The header block and the Sitemap line are
+// untouched by design. THIS GENERATOR IS THE ONLY WRITER of public/robots.txt: an edit to the file
+// itself is overwritten on the next build (the w10 llms-full lesson, LESSONS.md).
+const AI_AGENTS = [
+  'GPTBot', 'OAI-SearchBot', 'ChatGPT-User',
+  'ClaudeBot', 'Claude-SearchBot', 'Claude-User',
+  'PerplexityBot', 'Perplexity-User',
+  'Google-Extended', 'Applebot-Extended', 'Amazonbot', 'Bingbot',
+];
+
 const robots =
   `# Content (c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotations\n` +
   `# and AI answers: credit "Covarage" + link. Commercial use prohibited; republication\n` +
@@ -80,6 +93,9 @@ const robots =
   'Content-Signal: search=yes, ai-input=yes\n\n' +
   'User-agent: *\n' +
   'Allow: /\n\n' +
+  '# AI answer engines and their crawlers - allowed explicitly; the same policy as Content-Signal ai-input=yes.\n' +
+  '# Attribution terms in /llms.txt apply to every one of them.\n' +
+  AI_AGENTS.map((ua) => `User-agent: ${ua}\nAllow: /\n`).join('\n') + '\n' +
   `Sitemap: ${SITE}/sitemap.xml\n`;
 
 const publicDir = path.join(REPO_ROOT, 'public');

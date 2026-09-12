@@ -3,7 +3,7 @@
 @theme {
   /* Type: Inter for text (loaded in index.html), the system serif for display - the approved artboards' stack. */
   --font-sans: 'Inter', system-ui, sans-serif;
-  --font-serif: ui-serif, Georgia, Cambria, 'Times New Roman', serif;
+  --font-serif: Georgia, Cambria, 'Times New Roman', serif; /* Georgia FIRST: ui-serif resolves to New York on iOS, so every head rendered in a different face there (CD, BRAND_FINDINGS) */
 
   /* Brand palette - Covarage Brand Guidelines v2026 */
   --color-primary: #5f88ae;             /* Horizon Blue */
@@ -47,7 +47,7 @@ button {
   margin-top: 1.25rem;
 }
 .article-body h2 {
-  font-family: ui-serif, Georgia, Cambria, 'Times New Roman', serif;
+  font-family: Georgia, Cambria, 'Times New Roman', serif; /* Georgia FIRST: ui-serif resolves to New York on iOS, so every head rendered in a different face there (CD, BRAND_FINDINGS) */
   font-size: 1.75rem;
   line-height: 1.3;
   margin-top: 2.75rem;

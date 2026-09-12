@@ -5,6 +5,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 import Seo from '../../components/Seo';
 import type { Topic } from '../../content/updates';
 import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, formatDate, screenedFor, updatesFor } from '../../content/updates';
+import { COPY, briefFor, briefPath } from './topics';
 
 /**
  * /updates and /updates/cyber - the weekly screen's output surface (M2, newsfeed v1; Kong: "we
@@ -18,29 +19,6 @@ import { CORPUS_UPDATED, REVIEWED, REVIEWED_LABEL, formatDate, screenedFor, upda
  * renders, which names its `What we screen` line prints, and its copy. Both pages read the one
  * updates.json; an item without a topic is general, so nothing ever published moved.
  */
-
-/** The per-page copy. General strings are CMO's s9 exact replacements (Kong: "apply now"). */
-const COPY: Record<Topic, { path: string; chip: string; feed: string; h1: string; lede: string; seoTitle: string; seoDescription: string }> = {
-  general: {
-    path: '/updates',
-    chip: 'Regulatory',
-    feed: '/updates/feed.xml',
-    h1: 'Regulatory updates',
-    lede: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly. Headlines appear as published, linked to the source.",
-    seoTitle: 'Regulatory Updates for Singapore Businesses | Covarage',
-    seoDescription: "Regulatory updates from Singapore's agencies and industry bodies, screened weekly, each linked to its official source, with the date we last reviewed stated.",
-  },
-  // CMO's restamp, CMO_POSITION_updates-on-site-and-lander_2026-09-11 s3, exact (lede 215, title 52, description 153).
-  cyber: {
-    path: '/updates/cyber',
-    chip: 'Cyber and digital risk',
-    feed: '/updates/cyber/feed.xml',
-    h1: 'Cyber and digital risk',
-    lede: 'Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.',
-    seoTitle: 'Cyber and Digital Risk Updates, Singapore | Covarage',
-    seoDescription: 'Cyber and digital-risk alerts for Singapore SMEs, screened Monday and Thursday from CSA, GovTech, the police and overseas agencies, linked to the source.',
-  },
-};
 
 /**
  * Kong 2026-09-04: "lets show up to 15 at a time, and then pageination the rest".
@@ -111,18 +89,48 @@ export default function UpdatesPage({ topic }: { topic: Topic }) {
                 {items.length} updates &middot; page {page} of {totalPages}
               </p>
             )}
-            {paged.map((u) => (
-              <a
-                key={u.url}
-                href={u.url}
-                className="block border-b border-border-primary py-5 transition hover:bg-white"
-              >
-                <p className="m-0 mb-1.5 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">
-                  {u.source} · {formatDate(u.date)}
-                </p>
-                <p className="m-0 text-[17px]/[1.45] font-medium text-text-primary">{u.title}</p>
-              </a>
-            ))}
+            {paged.map((u) => {
+              /*
+               * CD s2, the index card change: where the item has a BRIEF, the title links our page
+               * and a 13px `source` link stays for the reader who wants the primary page directly.
+               * Where it has none - every item until CMO's assess step writes briefs - the card is
+               * exactly what it was, the whole row linking the source. One treatment for press and
+               * regulator items either way, as s0j ruled.
+               */
+              const brief = briefFor(u);
+              if (!brief) {
+                return (
+                  <a
+                    key={u.url}
+                    href={u.url}
+                    className="block border-b border-border-primary py-5 transition hover:bg-white"
+                  >
+                    <p className="m-0 mb-1.5 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">
+                      {u.source} · {formatDate(u.date)}
+                    </p>
+                    <p className="m-0 text-[17px]/[1.45] font-medium text-text-primary">{u.title}</p>
+                  </a>
+                );
+              }
+              return (
+                <div key={u.url} className="border-b border-border-primary py-5" data-has-brief>
+                  <p className="m-0 mb-1.5 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">
+                    {u.source} · {formatDate(u.date)}
+                  </p>
+                  <Link to={briefPath(brief)} className="m-0 block text-[17px]/[1.45] font-medium text-text-primary hover:text-primary-extended">
+                    {brief.brief.h1}
+                  </Link>
+                  <a
+                    href={u.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-1.5 inline-block text-[13px] text-text-secondary hover:text-primary-extended"
+                  >
+                    source
+                  </a>
+                </div>
+              );
+            })}
 
             {/* Same control as the guides index - one paging vocabulary on the site, not two. */}
             {totalPages > 1 && (

@@ -97,6 +97,28 @@ const EMERGING = [...ARTICLES.filter((a) => a.category === 'emerging-risk')]
 const eyebrowDate = (iso: string) =>
   new Date(`${iso}T00:00:00`).toLocaleDateString('en-SG', { day: 'numeric', month: 'long', year: 'numeric' }).toUpperCase();
 
+/**
+ * The row's SHORT LINE - CD s0k/s0l (v1.1, 2026-09-12), on the measurement that every row was cut at
+ * the two-line clamp at 390 with the guide's own 103-123 character H1.
+ *
+ * The durable field is CMO's `short_title` (25-60 characters, the subject alone) and a brief's H1;
+ * until either lands the mechanism is the clause before the title's FIRST colon, which all 25
+ * emerging-risk titles carry and which measures 29-51 characters today. A title with no colon falls
+ * back to the whole title rather than to nothing - the clamp is still there as the guard.
+ */
+const shortLine = (a: { short_title?: string; title: string }) =>
+  a.short_title ?? (a.title.includes(':') ? a.title.slice(0, a.title.indexOf(':')).trim() : a.title);
+
+/**
+ * The row eyebrow - CD s0l: `SUBCATEGORY . DATE` where a subcategory exists, the DATE ALONE where it
+ * does not. The category is never printed: the block's own eyebrow already says EMERGING RISK, and
+ * fast-lane pieces are uncategorised, so the category form printed the same word twice on every row.
+ */
+const rowEyebrow = (a: { subcategory?: string; updated?: string; published: string }) => {
+  const date = eyebrowDate(a.updated ?? a.published);
+  return a.subcategory ? `${a.subcategory.replace(/-/g, ' ')} · ${date}` : date;
+};
+
 export function Orientation() {
   const reviewed = REVIEWED ? `Last reviewed ${formatDate(REVIEWED.date)}.` : null;
   return (
@@ -141,10 +163,10 @@ export function Orientation() {
               {EMERGING.map((a) => (
                 <li key={a.slug} className="border-t border-border-primary py-2.5 first:border-t-0 first:pt-1.5">
                   <p className="m-0 mb-0.5 text-[12px] font-semibold tracking-[0.1em] text-text-secondary uppercase">
-                    {(a.subcategory ?? a.category).replace(/-/g, ' ')} &middot; {eyebrowDate(a.updated ?? a.published)}
+                    {rowEyebrow(a)}
                   </p>
                   <Link to={articleUrl(a.slug)} className="m-0 line-clamp-2 text-[17px]/[1.45] font-medium text-text-primary hover:text-primary-extended">
-                    {a.title}
+                    {shortLine(a)}
                   </Link>
                 </li>
               ))}

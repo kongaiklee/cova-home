@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import Seo from '../../components/Seo';
+import Seo, { SITE_URL } from '../../components/Seo';
 import { ARTICLES, articleUrl } from '../../content/articles';
 import { CATEGORY_INTROS, CATEGORY_LABELS } from '../../content/intents';
 
@@ -27,10 +27,20 @@ export default function CategoryHub({ category }: { category: string }) {
 
   return (
     <>
+      {/* CMO's machine-readability spec s2 (Kong 2026-09-12 02:54): the hub's first JSON-LD - two
+          crumbs, Guides then this category, both links a reader can click on the page. */}
       <Seo
         title={`${label} - Insurance Guides for Singapore Businesses | Covarage`}
         description={`Every Covarage guide on ${label.toLowerCase()} for Singapore businesses - ${articles.length} sourced articles, each linked to the primary regulator, statute or insurer document.`}
         path={`/guides/${category}`}
+        jsonLd={{
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Guides', item: `${SITE_URL}/blog` },
+            { '@type': 'ListItem', position: 2, name: label, item: `${SITE_URL}/guides/${category}` },
+          ],
+        }}
       />
       <div className="mx-auto w-full max-w-[1240px] px-7 py-12 lg:px-[100px] lg:py-16">
         <nav className="mb-5 text-sm text-text-secondary" aria-label="Breadcrumb">
