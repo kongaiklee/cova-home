@@ -6,8 +6,15 @@
     <description>Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Scam Wave Reaches the Company Account: Money-Mule Offences, Business Email Compromise and What the Published Wordings Say</title>
+      <link>https://covarage.com/guides/emerging-risk/scam-wave-money-mule-exposure-singapore-sme</link>
+      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/scam-wave-money-mule-exposure-singapore-sme</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+      <description>SPF&apos;s two September operations, BEC losses up 193 percent on the first half of 2025, and the money-mule offences that reach directors and company accounts.</description>
+    </item>
     <item>
       <title>Contractors All Risks and Erection All Risks in Singapore: What the Cover Is, and What a Public Sector Contract Requires</title>
       <link>https://covarage.com/guides/document-legal/contractors-all-risks-car-ear-insurance-singapore-guide</link>
@@ -324,7 +331,7 @@
       <link>https://covarage.com/guides/document-legal/professional-indemnity-complete-guide-singapore</link>
       <guid isPermaLink="true">https://covarage.com/guides/document-legal/professional-indemnity-complete-guide-singapore</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>No Singapore law makes professional indemnity universal. It is compulsory for named regulated professions and demanded by contract for everyone else.</description>
+      <description>Professional indemnity insurance in Singapore: who the law requires to hold it, the minimums the statutes set, and the claims-made mechanics that decide it.</description>
     </item>
     <item>
       <title>Public Liability Insurance for Singapore SMEs: The Complete Guide</title>
@@ -360,13 +367,6 @@
       <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/ai/deepfake-authentication-fraud-singapore</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
       <description>Not the CEO voice-clone story. This is deepfake fraud aimed at authentication: the identity checks a Singapore business relies on to let people in.</description>
-    </item>
-    <item>
-      <title>Biometric Data and the PDPA: The Emerging Privacy-Liability Exposure for Singapore SMEs</title>
-      <link>https://covarage.com/guides/emerging-risk/biometric-data-pdpa-liability-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/biometric-data-pdpa-liability-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>A leaked password can be changed. A leaked fingerprint cannot. Why biometrics carry a heavier duty under Singapore&apos;s PDPA, and what section 24 expects.</description>
     </item>
   </channel>
 </rss>

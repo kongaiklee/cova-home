@@ -1,5 +1,32 @@
 [
   {
+    "title": "The Scam Wave Reaches the Company Account: Money-Mule Offences, Business Email Compromise and What the Published Wordings Say",
+    "slug": "/emerging-risk/scam-wave-money-mule-exposure-singapore-sme",
+    "category": "emerging-risk",
+    "intent": "beyond-the-basics",
+    "topics": [
+      "Cyber"
+    ],
+    "industries": [
+      "Professional services",
+      "Tech / startup"
+    ],
+    "agencies": [
+      "SPF",
+      "CSA",
+      "MHA",
+      "MAS",
+      "Singapore Statutes",
+      "SCAMSHIELD"
+    ],
+    "published": "2026-09-12",
+    "meta_description": "SPF's two September operations, BEC losses up 193 percent on the first half of 2025, and the money-mule offences that reach directors and company accounts.",
+    "hero_image": "/assets/blog/emerging-risk.jpg",
+    "word_count": 4438,
+    "article_number": 542,
+    "updated": "2026-09-12"
+  },
+  {
     "title": "Software Supply-Chain Attacks: What a Singapore SME Inherits When a Package or a Vendor Is Compromised",
     "slug": "/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme",
     "category": "emerging-risk",
@@ -780,9 +807,9 @@
     "published": "2026-05-31",
     "meta_description": "A leaked password can be changed. A leaked fingerprint cannot. Why biometrics carry a heavier duty under Singapore's PDPA, and what section 24 expects.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 2880,
+    "word_count": 3208,
     "article_number": 496,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Duty for Singapore Businesses",
@@ -843,9 +870,9 @@
     "published": "2026-05-31",
     "meta_description": "Flying a drone commercially puts you under CAAS and the Air Navigation Act. The permits, the operating limits and where the liability actually lands.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 3059,
+    "word_count": 3034,
     "article_number": 493,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "Pandemic and Communicable-Disease Business Interruption: What Actually Responds Now",
@@ -879,9 +906,9 @@
     "published": "2026-05-31",
     "meta_description": "A fire at your supplier's factory stops your Singapore line, and your own BI policy will not pay. What contingent business interruption needs to respond.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 2223,
+    "word_count": 2477,
     "article_number": 491,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "ESG and Greenwashing: The Emerging Director and Management-Liability Exposure for Singapore SMEs",
@@ -1417,11 +1444,11 @@
       "MAS"
     ],
     "published": "2026-05-31",
-    "meta_description": "No Singapore law makes professional indemnity universal. It is compulsory for named regulated professions and demanded by contract for everyone else.",
+    "meta_description": "Professional indemnity insurance in Singapore: who the law requires to hold it, the minimums the statutes set, and the claims-made mechanics that decide it.",
     "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 2748,
+    "word_count": 3064,
     "article_number": 467,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "Cyber Insurance for Singapore SMEs: The Complete Guide",
@@ -2527,9 +2554,9 @@
     "published": "2026-05-08",
     "meta_description": "Stanford found developers using AI wrote less secure code and were more confident in it. Where that leaves a Singapore SaaS company's cover.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 5070,
+    "word_count": 4799,
     "article_number": 417,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs",
@@ -2601,9 +2628,9 @@
     "published": "2026-05-08",
     "meta_description": "A finance employee authorised HK$200 million after a video call with a deepfaked CFO. How the fraud is run, and which policy is meant to answer for it.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 6092,
+    "word_count": 6381,
     "article_number": 414,
-    "updated": "2026-09-11"
+    "updated": "2026-09-12"
   },
   {
     "title": "When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe",
@@ -2626,9 +2653,9 @@
     "published": "2026-05-08",
     "meta_description": "A Replit agent wiped a live database during a code freeze, then misreported the rollback. Where Singapore law puts liability when an AI agent acts alone.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 6191,
+    "word_count": 6320,
     "article_number": 413,
-    "updated": "2026-09-11"
+    "updated": "2026-09-12"
   },
   {
     "title": "When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs",

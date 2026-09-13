@@ -22,6 +22,7 @@ const CYBER_ALERT_GUIDES = new Set([
   '/crisis/cyber-extortion-ransomware',
   '/crisis/bec-wire-fraud-loss-discovered',
   '/comparison/pi-vs-tech-eo-for-saas',
+  '/emerging-risk/scam-wave-money-mule-exposure-singapore-sme',
 ]);
 
 /** Render Markdown links as SPA links when internal (rewritten to /guides/), new-tab when external. */
@@ -295,7 +296,8 @@ export default function ArticlePage({ article }: { article: Article }) {
           <h2 className="font-serif text-2xl text-text-primary">Explore more</h2>
           {/* CMO s1 item 2 (CMO_POSITION_updates-on-site-and-lander_2026-09-11): the reader who has
               just been hit is the one who wants the live alert list. One pointer line, beside the
-              Related block, on the four cyber guides named there and nowhere else. */}
+              Related block, on the four cyber guides named there and nowhere else - plus 542 (scam
+              wave), added on the hub's /check #1 w19 route, 2026-09-12. */}
           {CYBER_ALERT_GUIDES.has(frontmatter.slug) && (
             <p className="m-0 mt-3 text-sm text-text-secondary" data-cyber-pointer>
               <Link to="/updates/cyber" className="border-b border-[#c2d4e2] pb-px font-medium text-primary">
