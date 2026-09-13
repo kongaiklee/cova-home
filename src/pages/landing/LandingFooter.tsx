@@ -10,12 +10,11 @@ import { CATEGORY_LABELS } from '../../content/intents';
  */
 export default function LandingFooter() {
   const link = 'text-[13px] font-medium text-text-primary no-underline hover:text-primary';
-  const fine = 'm-0 text-[11px]/[1.6] tracking-[0.05em] text-[#b3aca6]';
+  const fine = 'm-0 text-[11px]/[1.6] tracking-[0.05em] text-text-secondary';
   return (
     <footer className={`${WRAP} border-t border-border-primary pt-7 pb-11 lg:border-t-0 lg:pt-14 lg:pb-[72px]`}>
       <div className="mb-3.5 flex items-center gap-2.5 lg:mb-5">
-        <img src="/assets/images/landing/Logo.png" alt="" className="block h-5 w-auto opacity-70" />
-        <span className="text-[15px] font-semibold text-text-secondary">Covarage</span>
+        <img src="/assets/brand/covarage-lockup-black.svg" alt="Covarage" width={220} height={40} className="block h-6 w-auto sm:h-7" />
       </div>
       <nav className="mb-[18px] flex flex-wrap gap-4 lg:gap-7" aria-label="Footer">
         <Link to="/blog" className={link}>Guides</Link>

@@ -48,7 +48,7 @@ export default function UpdatesPage({ topic }: { topic: Topic }) {
       <Seo title={copy.seoTitle} description={copy.seoDescription} path={copy.path} />
 
       <section className="mx-auto w-full max-w-7xl px-6 pt-16 pb-10 text-center sm:px-10 lg:px-16 lg:pt-20">
-        <h1 className="font-serif text-4xl text-text-primary sm:text-5xl lg:text-6xl">{copy.h1}</h1>
+        <h1 className="font-serif text-4xl tracking-[-1px] text-text-primary sm:text-5xl lg:text-6xl lg:tracking-[-2px]">{copy.h1}</h1>
         <p className="mx-auto mt-4 max-w-xl text-base/relaxed text-text-secondary">{copy.lede}</p>
         {/* CD s0j direction 1 (2026-09-11): the two pages see each other. Two chips in the guides
             index's chip vocabulary, the current one filled, so a phone reader who lands on one list
@@ -61,7 +61,7 @@ export default function UpdatesPage({ topic }: { topic: Topic }) {
               aria-current={t === topic ? 'page' : undefined}
               className={clsx(
                 'rounded-full px-3.5 py-[7px] text-[13px] transition',
-                t === topic ? 'bg-primary font-medium text-white' : 'bg-[#f4f2f0] text-text-primary hover:text-primary-extended'
+                t === topic ? 'bg-primary font-medium text-white' : 'bg-pill text-text-primary hover:text-primary-extended'
               )}
             >
               {COPY[t].chip}

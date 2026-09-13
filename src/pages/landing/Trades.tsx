@@ -106,7 +106,7 @@ export default function Trades() {
             </button>
             <div className="flex items-center gap-1.5" aria-hidden>
               {TRADES.map((t, k) => (
-                <span key={t.id} className={clsx('inline-block h-1.5 rounded-full transition-all', k === i ? 'w-[18px] bg-primary' : 'w-1.5 bg-[#d9d4cf]')} />
+                <span key={t.id} className={clsx('inline-block h-1.5 rounded-full transition-all', k === i ? 'w-[18px] bg-primary' : 'w-1.5 bg-hairline-strong')} />
               ))}
             </div>
             <button type="button" className={arrow} aria-label="Next trade" onClick={() => go(i + 1)}>

@@ -78,7 +78,7 @@ export default function ArticleEnquiry({
     'w-full rounded-sm border px-3.5 py-3 text-[15px] focus:outline-none ' +
     (dark
       ? 'border-white/25 bg-white/10 text-white placeholder:text-white/60 focus:border-white/70'
-      : 'border-border-primary bg-white text-text-primary placeholder:text-[#b3aca6] focus:border-primary');
+      : 'border-border-primary bg-white text-text-primary placeholder:text-text-secondary focus:border-primary');
 
   if (status === 'sent') {
     // The same landing as a homepage lead - Kong, 2026-09-09: "lets sync everything to the same
@@ -95,7 +95,7 @@ export default function ArticleEnquiry({
         className={
           dark
             ? 'rounded-xl bg-white/10 px-6 py-8 text-white'
-            : 'my-8 rounded-xl border border-border-primary bg-[#faf8f5] px-6 py-7'
+            : 'my-8 rounded-xl border border-border-primary bg-section-alt px-6 py-7'
         }
       >
         <p className={dark ? 'font-serif text-2xl text-white' : 'font-serif text-xl text-text-primary'}>
@@ -185,7 +185,7 @@ export default function ArticleEnquiry({
 
   if (placement === 'mid') {
     return (
-      <aside className="my-8 rounded-xl border border-border-primary bg-[#faf8f5] px-6 py-6" data-article-enquiry="mid">
+      <aside className="my-8 rounded-xl border border-border-primary bg-section-alt px-6 py-6" data-article-enquiry="mid">
         <p className="text-[15px]/relaxed font-medium text-text-primary">{cta.line}</p>
         {open ? (
           form

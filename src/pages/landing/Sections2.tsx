@@ -56,8 +56,8 @@ export function WhatYouGet() {
 export function Renewal() {
   return (
     <section className="relative overflow-hidden border-b border-border-primary">
-      <div className="absolute top-0 left-0 hidden h-full w-[300px] rounded-r-[100%] bg-[#eaf1f7] lg:block" aria-hidden />
-      <div className="absolute -top-20 -left-[140px] size-[280px] rounded-full bg-[#eaf1f7] lg:hidden" aria-hidden />
+      <div className="absolute top-0 left-0 hidden h-full w-[300px] rounded-r-[100%] bg-open-water-wash lg:block" aria-hidden />
+      <div className="absolute -top-20 -left-[140px] size-[280px] rounded-full bg-open-water-wash lg:hidden" aria-hidden />
       <div className={`${WRAP} relative grid gap-6 py-[52px] lg:grid-cols-[1.1fr_0.9fr] lg:items-center lg:gap-16 lg:py-24`}>
         <div>
           <h2 className={`${H2} mb-4 text-[30px]/[1.1] tracking-[-1px] text-balance lg:mb-[22px] lg:text-[44px]/[1.08] lg:tracking-[-1.5px]`}>One platform, one adviser, 24 insurance providers to choose from.</h2>

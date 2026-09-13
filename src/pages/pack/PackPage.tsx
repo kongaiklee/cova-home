@@ -2,7 +2,6 @@ import { useEffect, useState } from 'react';
 import { Head } from 'vite-react-ssg';
 import { ARTICLES } from '../../content/articles';
 import { PACK_PUBLIC_KEY_SPKI_B64, PACK_TOKEN_SEPARATOR, PACK_VERIFY_ALGO, PACK_SIGN_ALGO } from '../../content/packKey';
-import { Mark } from '../landing/Sections2';
 import { TRADES } from '../landing/data';
 
 /**
@@ -103,7 +102,7 @@ function StepChip({ state }: { state: 'Completed' | 'Next' }) {
   return (
     <span
       className={`inline-block rounded-full px-2.5 py-0.5 text-[11px] font-semibold tracking-[0.08em] uppercase ${
-        state === 'Completed' ? 'bg-[#eaf1f7] text-primary' : 'border border-border-primary text-text-secondary'
+        state === 'Completed' ? 'bg-open-water-wash text-primary' : 'border border-border-primary text-text-secondary'
       }`}
     >
       {state}
@@ -150,14 +149,19 @@ export default function PackPage() {
       <Head>
         <title>Your onboarding pack - Covarage</title>
         <meta name="robots" content="noindex, nofollow" />
+        <meta property="og:title" content="Your onboarding pack - Covarage" />
+        <meta property="og:image" content="https://covarage.com/assets/og-card.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:type" content="image/png" />
+        <meta name="twitter:card" content="summary_large_image" />
         <style>{'@page { size: A4 portrait; margin: 18mm; }'}</style>
       </Head>
 
       <div className="mx-auto w-full max-w-[720px] px-6 py-10 lg:py-16">
         {/* The lockup, small, top left - a letter, not a lander. */}
         <div className="mb-10 flex items-center gap-2 lg:mb-14">
-          <Mark className="block size-6 text-primary-extended" />
-          <span className="text-[17px] font-semibold tracking-[-0.2px]">Covarage</span>
+          <img src="/assets/brand/covarage-lockup-black.svg" alt="Covarage" width={220} height={40} className="block h-6 w-auto" />
         </div>
 
         {!ready ? (

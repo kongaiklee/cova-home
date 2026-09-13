@@ -24,10 +24,13 @@ export default function BlogHeader() {
     <header className="sticky top-0 z-50 border-b border-border-primary bg-background-primary/95 backdrop-blur-sm">
       <div className="mx-auto flex h-16 w-full max-w-7xl items-center justify-between gap-4 px-6 sm:px-10 lg:px-16">
         <Link to="/" className="flex shrink-0 items-center" aria-label="Covarage home">
+          {/* CD brand pass s1: the lockup, 32px from 640 up, 24px below (16px of air at 360). */}
           <img
-            src="/assets/images/landing/Logo.png"
+            src="/assets/brand/covarage-lockup-black.svg"
             alt="Covarage"
-            className="h-7 w-auto object-contain"
+            width={220}
+            height={40}
+            className="h-6 w-auto sm:h-8"
           />
         </Link>
 

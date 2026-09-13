@@ -38,9 +38,9 @@ interface LegalPageProps {
 export default function LegalPage({ title, description, path, body }: LegalPageProps) {
   return (
     <>
-      <Seo title={title} description={description} path={path} />
+      <Seo title={`${title} | Covarage`} description={description} path={path} />
       <article className="mx-auto w-full max-w-3xl px-6 pt-10 pb-16 sm:px-8">
-        <h1 className="font-serif text-3xl/tight text-text-primary sm:text-4xl/tight">
+        <h1 className="font-serif text-3xl/tight tracking-[-1px] text-text-primary sm:text-4xl/tight">
           {title}
         </h1>
         <div className="article-body mt-8">

@@ -169,7 +169,7 @@ export default function ArticlePage({ article }: { article: Article }) {
           <span>{intent?.clearLabel}</span>
         </nav>
 
-        <h1 className="mt-4 font-serif text-3xl/tight text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight">
+        <h1 className="mt-4 font-serif text-3xl/tight text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight tracking-[-1px] lg:tracking-[-1.4px]">
           {frontmatter.title}
         </h1>
 
@@ -236,7 +236,7 @@ export default function ArticlePage({ article }: { article: Article }) {
         <img
           src={frontmatter.hero_image}
           alt=""
-          className="mt-7 aspect-video w-full rounded-2xl object-cover"
+          className="mt-7 aspect-video w-full rounded-xl object-cover"
         />
 
         <div className="article-body mt-9">

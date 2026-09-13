@@ -70,7 +70,7 @@ export default function RequestCard({ trade, onTrade }: Props) {
     }
   }
 
-  const field = 'w-full rounded-sm border border-border-primary bg-white px-3.5 py-3 text-[15px] text-text-primary placeholder:text-[#b3aca6] focus:border-primary focus:outline-none';
+  const field = 'w-full rounded-sm border border-border-primary bg-white px-3.5 py-3 text-[15px] text-text-primary placeholder:text-text-secondary focus:border-primary focus:outline-none';
 
   const sentTrade = TRADES.find((t) => t.id === sentAs.trade);
   const booking = `${BOOKING_URL}?${new URLSearchParams({
@@ -83,8 +83,8 @@ export default function RequestCard({ trade, onTrade }: Props) {
       id="request"
       className="scroll-mt-9 overflow-hidden rounded-xl border border-border-primary bg-white lg:scroll-mt-0 lg:shadow-[0_24px_60px_rgba(0,0,0,0.18)]"
     >
-      <div className="flex h-8 items-center gap-1.5 border-b border-border-primary bg-[#f4f2f0] px-3.5" aria-hidden>
-        <span className="size-2 rounded-full bg-[#d9d4cf]" /><span className="size-2 rounded-full bg-[#d9d4cf]" /><span className="size-2 rounded-full bg-[#d9d4cf]" />
+      <div className="flex h-8 items-center gap-1.5 border-b border-border-primary bg-pill px-3.5" aria-hidden>
+        <span className="size-2 rounded-full bg-hairline-strong" /><span className="size-2 rounded-full bg-hairline-strong" /><span className="size-2 rounded-full bg-hairline-strong" />
       </div>
       {status === 'sent' ? (
         /* The s16 post-submit state, swapped in place of the form (CD SECTION 12; copy s16 verbatim). */

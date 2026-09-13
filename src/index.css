@@ -30,6 +30,12 @@
   --color-landing-section: #fdfbf9;     /* Sailcloth */
   --color-landing-footer: #fdfbf9;      /* Sailcloth */
 
+  /* Brand tokens v1.1 names (CD marketing brand pass s3) - the components use these, never the literal. */
+  --color-pill: #e8e3dd;                /* accent_pill - chip backgrounds */
+  --color-section-alt: #f8f5f2;         /* section_alt */
+  --color-open-water-wash: #eef3f7;     /* open_water_wash (v1.1) */
+  --color-hairline-strong: #d9d4cf;     /* hairline_strong (v1.1) */
+
   --max-width-container: 1240px;        /* brand spec */
 }
 
@@ -99,7 +105,7 @@ button {
 }
 .article-body blockquote {
   border-left: 3px solid var(--color-primary);
-  background: #eef3f7;
+  background: var(--color-open-water-wash);
   border-radius: 0 0.5rem 0.5rem 0;
   padding: 1rem 1.25rem;
   color: var(--color-text-primary);
@@ -122,7 +128,7 @@ button {
   vertical-align: top;
 }
 .article-body th {
-  background: #eef3f7;
+  background: var(--color-open-water-wash);
   font-weight: 600;
 }
 .article-body hr {

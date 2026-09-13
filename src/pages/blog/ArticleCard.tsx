@@ -11,7 +11,7 @@ export function ArticleRow({ article }: { article: ArticleMeta }) {
       to={articleUrl(article.slug)}
       className="group flex flex-col gap-5 border-b border-border-primary py-7 sm:flex-row sm:items-center sm:gap-8"
     >
-      <div className="aspect-16/10 w-full shrink-0 overflow-hidden rounded-2xl sm:h-28 sm:w-44">
+      <div className="aspect-16/10 w-full shrink-0 overflow-hidden rounded-xl sm:h-28 sm:w-44">
         <img
           src={article.hero_image}
           alt=""
@@ -40,7 +40,7 @@ export function ArticleTile({ article }: { article: ArticleMeta }) {
   return (
     <Link
       to={articleUrl(article.slug)}
-      className="group flex flex-col overflow-hidden rounded-2xl border border-border-primary bg-background-card transition hover:border-primary"
+      className="group flex flex-col overflow-hidden rounded-xl border border-border-primary bg-background-card transition hover:border-primary"
     >
       <div className="aspect-16/10 w-full overflow-hidden">
         <img

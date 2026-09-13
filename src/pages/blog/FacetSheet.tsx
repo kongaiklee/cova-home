@@ -163,7 +163,7 @@ export default function FacetSheet({ selection, intent, counts, allCounts, requi
           More filters
           <span
             data-filters-badge
-            className={clsx('inline-flex min-w-5 justify-center rounded-full px-1.5 text-[11px] font-semibold', nonDefault ? 'bg-primary-extended text-white' : 'bg-[#f4f2f0] text-text-secondary')}
+            className={clsx('inline-flex min-w-5 justify-center rounded-full px-1.5 text-[11px] font-semibold', nonDefault ? 'bg-primary-extended text-white' : 'bg-pill text-text-secondary')}
           >
             {nonDefault}
           </span>
@@ -223,7 +223,7 @@ function Option({ name, label, checked, onPick, count }: { name: string; label: 
   return (
     <label htmlFor={id} className={clsx('flex w-full cursor-pointer items-center gap-3 border-t border-border-primary py-3 text-left text-[15px]', checked ? 'font-semibold text-primary-extended' : 'text-text-primary')}>
       <span className="flex-1">{label}</span>
-      {count !== undefined && <span className="text-xs text-[#b3aca6]">{count}</span>}
+      {count !== undefined && <span className="text-xs text-text-secondary">{count}</span>}
       <input id={id} type="radio" name={name} checked={checked} onChange={onPick} className="size-4 accent-[#423226]" />
     </label>
   );

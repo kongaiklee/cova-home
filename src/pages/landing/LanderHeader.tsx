@@ -14,8 +14,10 @@ export default function LanderHeader() {
     <header className="border-b border-border-primary">
       <div className="flex items-center justify-between px-5 py-4 sm:px-8 lg:px-[100px] lg:py-5">
         <Link to="/" className="flex items-center gap-2.5" aria-label="Covarage home">
-          <img src="/assets/images/landing/Logo.png" alt="" className="block h-7 w-auto" />
-          <span className="text-lg font-semibold tracking-[-0.2px] text-text-primary">Covarage</span>
+          {/* CD brand pass s1: the one supplied lockup file, 32px from 640 up and 24px below. Under 380px the
+              mark alone - the lockup leaves no air beside the two actions and the header wraps. */}
+          <img src="/assets/brand/covarage-lockup-black.svg" alt="Covarage" width={220} height={40} className="hidden h-6 w-auto min-[380px]:block sm:h-8" />
+          <img src="/assets/brand/covarage-mark-black.svg" alt="Covarage" width={40} height={40} className="block size-6 min-[380px]:hidden" />
         </Link>
         <nav className="flex items-center gap-4 sm:gap-7" aria-label="Primary">
           <a

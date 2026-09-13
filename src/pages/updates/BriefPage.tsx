@@ -98,7 +98,7 @@ export default function BriefPage({ item }: { item: BriefItem }) {
               className={
                 t === item.topic
                   ? 'rounded-full bg-primary px-3.5 py-[7px] text-[13px] font-medium text-white'
-                  : 'rounded-full bg-[#f4f2f0] px-3.5 py-[7px] text-[13px] text-text-primary transition hover:text-primary-extended'
+                  : 'rounded-full bg-pill px-3.5 py-[7px] text-[13px] text-text-primary transition hover:text-primary-extended'
               }
             >
               {COPY[t].chip}
@@ -111,7 +111,7 @@ export default function BriefPage({ item }: { item: BriefItem }) {
           {item.source} &middot; {formatDate(item.date)}
         </p>
 
-        <h1 className="mt-3 font-serif text-3xl/tight text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight">
+        <h1 className="mt-3 font-serif text-3xl/tight text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight tracking-[-1px] lg:tracking-[-1.4px]">
           {brief.h1}
         </h1>
 

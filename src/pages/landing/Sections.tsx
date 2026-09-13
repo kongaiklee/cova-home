@@ -25,7 +25,7 @@ export function TradeLine() {
     <section className="bg-primary-extended text-white">
       <div className={`${WRAP} py-[52px] text-center lg:py-[88px]`}>
         <h2 className="m-0 mx-auto max-w-[20ch] font-serif text-[34px]/[1.1] tracking-[-1.1px] text-balance lg:text-5xl/[1.08] lg:tracking-[-1.6px]">For the businesses Singapore actually runs.</h2>
-        <p className="m-0 mx-auto mt-3.5 max-w-[52ch] text-[15px]/[1.6] text-[#f5efe9]/[0.72] lg:mt-5 lg:text-[18px]/[1.6]">SFA-licensed kitchens. BCA-registered contractors. MOH clinics. Freight forwarders. Tuition centres. Salons. Law firms. SaaS companies. Startups.</p>
+        <p className="m-0 mx-auto mt-3.5 max-w-[52ch] text-[15px]/[1.6] text-section-alt/[0.72] lg:mt-5 lg:text-[18px]/[1.6]">SFA-licensed kitchens. BCA-registered contractors. MOH clinics. Freight forwarders. Tuition centres. Salons. Law firms. SaaS companies. Startups.</p>
         {/* Kong, 2026-09-10: the gap check here too, "with the same cta / button" as the article
             card. The band names the trades; the card is the first thing a reader in one of
             them can do about it without handing over a single detail. */}

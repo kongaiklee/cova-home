@@ -72,7 +72,7 @@ export default function FacetRail({ selection, counts, allCounts, onPick }: Face
                 className={clsx(row, !active ? 'border-primary-extended font-semibold text-primary-extended' : 'border-transparent text-text-primary hover:text-primary-extended')}
               >
                 <span>{all}</span>
-                <span className="text-xs text-[#b3aca6]">{allCounts[axis]}</span>
+                <span className="text-xs text-text-secondary">{allCounts[axis]}</span>
               </button>
               {rowsFor(axis, counts[axis], active).map((value) => (
                 <button
@@ -83,7 +83,7 @@ export default function FacetRail({ selection, counts, allCounts, onPick }: Face
                 >
                   {/* Full name for a reader; `value` stays the key for state, counts and the URL. */}
                   <span>{axis === 'agency' ? agencyNameLong(value) : value}</span>
-                  <span className="text-xs text-[#b3aca6]">{counts[axis][value] ?? 0}</span>
+                  <span className="text-xs text-text-secondary">{counts[axis][value] ?? 0}</span>
                 </button>
               ))}
             </div>

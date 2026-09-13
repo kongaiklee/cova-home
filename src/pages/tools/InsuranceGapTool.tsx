@@ -98,7 +98,7 @@ export default function InsuranceGapTool() {
       />
 
       <section className="mx-auto w-full max-w-2xl px-6 pt-12 pb-16 sm:px-8">
-        <h1 className="font-serif text-3xl/tight text-text-primary sm:text-4xl/tight">
+        <h1 className="font-serif text-3xl/tight tracking-[-1px] text-text-primary sm:text-4xl/tight">
           Insurance gap check for Singapore SMEs
         </h1>
         <p className="mt-4 text-base/relaxed text-text-secondary">

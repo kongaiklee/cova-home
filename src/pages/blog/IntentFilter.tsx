@@ -51,7 +51,7 @@ export default function IntentFilter({ value, onChange, counts }: IntentFilterPr
               onBlur={() => setHovered(null)}
               aria-pressed={active}
               className={clsx(
-                'group flex flex-col items-center rounded-2xl border px-4 py-2.5 text-center transition',
+                'group flex flex-col items-center rounded-full border px-4 py-2.5 text-center transition',
                 active
                   ? 'border-primary bg-primary text-white'
                   : 'border-border-primary bg-background-card text-text-primary hover:border-primary'

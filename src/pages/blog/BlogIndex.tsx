@@ -192,7 +192,7 @@ export default function BlogIndex() {
                   aria-pressed={intent === c.id}
                   className={clsx(
                     'rounded-full px-3.5 py-[7px] text-[13px] transition',
-                    intent === c.id ? 'bg-primary font-medium text-white' : 'bg-[#f4f2f0] text-text-primary hover:text-primary-extended'
+                    intent === c.id ? 'bg-primary font-medium text-white' : 'bg-pill text-text-primary hover:text-primary-extended'
                   )}
                 >
                   {c.label}
