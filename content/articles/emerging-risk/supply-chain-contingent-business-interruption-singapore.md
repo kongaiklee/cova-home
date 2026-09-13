@@ -21,7 +21,7 @@ og_description: "A fire at your supplier's factory stops your Singapore line, an
 
 A fire guts a factory in Johor. The factory is not yours. It belongs to the supplier that makes the one component your product cannot ship without. For six weeks your production line sits idle, your revenue stops, and your fixed costs keep running. You file a business interruption claim. The insurer declines it. Nothing was damaged at your premises, and the business interruption section in a standard fire policy pays for interruption caused by damage at the premises named in its schedule and nowhere else. The loss is real, the cause is insured somewhere, but the money is flowing to the wrong policy.
 
-This is the gap that catches you if you depend on a small number of suppliers or customers. Ordinary business interruption (BI) cover follows the bricks. When the damage happens at someone else's bricks, you need a different extension: Contingent Business Interruption (CBI), sometimes called a supplier or customer extension. Unless your BI section carries that extension, it does not do this. Very it does not.
+This is the gap that catches you if you depend on a small number of suppliers or customers. Ordinary business interruption (BI) cover follows the bricks. When the damage happens at someone else's bricks, you need a different extension: Contingent Business Interruption (CBI), sometimes called a supplier or customer extension. Unless your BI section carries that extension, it does not do this.
 
 
 

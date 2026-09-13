@@ -1464,11 +1464,11 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-31",
-    "meta_description": "No statute requires cyber insurance. What is mandatory are the PDPA duties that create the exposure, and that is where the real obligation sits.",
+    "meta_description": "Singapore SMEs: the PDPA and Cybersecurity Act duties that create cyber exposure, what first-party and third-party cyber cover pays, and the silent-cyber gap.",
     "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 2490,
+    "word_count": 2571,
     "article_number": 466,
-    "updated": "2026-08-30"
+    "updated": "2026-09-12"
   },
   {
     "title": "Public Liability Insurance for Singapore SMEs: The Complete Guide",
@@ -2585,7 +2585,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "AI-Generated Content, Copyright and IP Infringement: What Singapore SMEs Actually Face - and Whether Insurance Will Respond",
+    "title": "AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say",
     "slug": "/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme",
     "category": "emerging-risk",
     "subcategory": "ai",
@@ -2594,15 +2594,20 @@
       "Professional Indemnity"
     ],
     "industries": [
-      "Tech / startup"
+      "Tech / startup",
+      "Professional services"
     ],
-    "agencies": [],
+    "agencies": [
+      "MinLaw",
+      "PDPC",
+      "Singapore Statutes"
+    ],
     "published": "2026-05-08",
-    "meta_description": "AI generated content exposes a Singapore SME through its outputs, not its training data. Where the copyright risk sits, and whether a policy responds.",
+    "meta_description": "MinLaw and IPOS are consulting on AI and copyright until 22 October 2026. Where an SME's exposure sits: the output it publishes, the terms, the wording.",
     "hero_image": "/assets/blog/emerging-risk.jpg",
-    "word_count": 5900,
+    "word_count": 2524,
     "article_number": 415,
-    "updated": "2026-09-11"
+    "updated": "2026-09-13"
   },
   {
     "title": "Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance",
