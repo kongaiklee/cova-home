@@ -61,7 +61,7 @@ export default function BriefPage({ item }: { item: BriefItem }) {
               publisher: {
                 '@type': 'Organization',
                 name: 'Covarage',
-                logo: { '@type': 'ImageObject', url: `${SITE_URL}/assets/logo.png` },
+                logo: { '@type': 'ImageObject', url: `${SITE_URL}/assets/favicon-mark.png` },
               },
               mainEntityOfPage: `${SITE_URL}${path}`,
               isBasedOn: item.url,

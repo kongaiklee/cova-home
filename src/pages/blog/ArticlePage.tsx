@@ -111,7 +111,7 @@ export default function ArticlePage({ article }: { article: Article }) {
     publisher: {
       '@type': 'Organization',
       name: 'Covarage',
-      logo: { '@type': 'ImageObject', url: `${SITE_URL}/assets/logo.png` },
+      logo: { '@type': 'ImageObject', url: `${SITE_URL}/assets/favicon-mark.png` },
     },
     mainEntityOfPage: `${SITE_URL}${articleUrl(frontmatter.slug)}`,
     copyrightHolder: { '@type': 'Organization', name: 'Covarage Pte. Ltd.' },

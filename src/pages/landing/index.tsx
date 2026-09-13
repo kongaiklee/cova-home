@@ -34,7 +34,7 @@ const ORGANIZATION_GRAPH = {
       name: 'Covarage',
       legalName: 'Covarage Pte. Ltd.',
       url: 'https://covarage.com/',
-      logo: { '@type': 'ImageObject', url: 'https://covarage.com/assets/logo.png', width: 789, height: 789 },
+      logo: { '@type': 'ImageObject', url: 'https://covarage.com/assets/favicon-mark.png', width: 512, height: 512 },
       image: 'https://covarage.com/assets/og-card.png',
       description:
         'Covarage is a technology platform. We put your insurance in one place, keep the dates visible, and introduce you to a licensed intermediary who advises on and arranges the cover. We do not advise on insurance ourselves.',
