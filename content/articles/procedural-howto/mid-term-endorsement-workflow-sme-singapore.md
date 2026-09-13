@@ -25,7 +25,7 @@ None of those things wait for renewal - and your policy does not automatically c
 
 This is the second article in Covarage's procedural-howto cluster on SME insurance operations in Singapore (article 404 covered the MOM/WSH incident-reporting eService). It walks through what an endorsement actually is under Singapore law, the nine common types of endorsement Singapore SMEs encounter, the documentation each requires, the timing benchmarks pulled from publicly accessible Singapore insurer wordings, premium-calculation mechanics, and four concrete scenarios showing the workflow end-to-end. It also flags why the current insurance market - Marsh's [Global Insurance Market Index for Q1 2026](https://www.corporate.marsh.com/news-events/2026/april/global-commercial-insurance-falls-5-percent-q1-2026.html) shows global commercial rates fell 5% in Q1 2026, with Asia down 5%, marking the seventh consecutive quarterly decline - has turned mid-term endorsements into a tool to capture savings, not just absorb new costs.
 
-Covarage does not advise, recommend, rank, or arrange. We provide factual information sourced from primary regulators and route SMEs to licensed advisers and brokers, in accordance with our position as an introducer under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). Every fact below is linked to a primary source.
+Covarage does not advise, recommend, rank, or arrange. We provide factual information sourced from primary regulators and, where you ask us to, introduce you to a licensed insurance adviser, who gives the advice and places the cover. Every fact below is linked to a primary source.
 
 ---
 

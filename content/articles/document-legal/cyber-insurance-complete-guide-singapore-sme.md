@@ -41,7 +41,7 @@ Since 1 February 2021, Part 6A of the PDPA has imposed a mandatory data-breach n
 
 That 3-day clock is the single hardest operational deadline in the whole cyber-risk picture, and it starts at assessment, not at discovery. The full mechanics, including how the assessment window interacts with the 3-day notification, are set out in [PDPA Section 26D Breach Notification](/document-legal/pdpa-section-26d-breach-notification). A breach involving a vendor is more complicated again, because the data-intermediary in section 26C must notify the organisation it processes for, and the obligation cascades. The day-one workflow for a vendor breach affecting your customers is in [Your Vendor Had a Data Breach and Your Customers Are Affected: The First 72 Hours](/crisis/vendor-data-breach-affecting-your-customers).
 
-The notification regime is the clearest reason to consider cyber insurance: a good policy funds the forensic assessment that decides whether the breach is notifiable, drafts and files the PDPC notification, and runs the affected-individual communications, all under the clock.
+The notification regime is where a cyber policy's incident-response section does its first work: it funds the forensic assessment that decides whether the breach is notifiable, drafts and files the PDPC notification, and runs the affected-individual communications, all under the clock.
 
 #### The designated-infrastructure overlay: the Cybersecurity Act
 
@@ -56,7 +56,7 @@ If you are designated, the statutory reporting duty sits on top of, not instead 
 Cyber insurance is built from two halves. The **first-party** half pays for the insured's own losses and response costs. In broad terms, and under the heads one published Asia Pacific wording labels Forensics costs cover, Business Interruption and Cyber extortion cover ([QBE Cyber and Data Security policy wording](https://www.qbe.com/media/qbe/asia/malaysia/files/business-insurance-v2/policy-wordings/professional-indemnity/qbe-cyber-and-data-security-policy-wording.pdf)), the first-party half covers:
 
 - **Breach-response and incident costs.** Forensic investigation to scope the breach, legal advice on whether it is notifiable, the cost of notifying the PDPC and affected individuals, credit or identity monitoring, and crisis communications. This is the cover that funds the section 26D response directly.
-- **Business interruption.** Lost income and increased cost of working while systems are down after a cyber event, and in better wordings, while a key supplier's systems are down (contingent business interruption).
+- **Business interruption.** Lost income and increased cost of working while systems are down after a cyber event, and, where the wording extends to it, while a key supplier's systems are down (contingent business interruption).
 - **Cyber extortion.** Ransom-demand handling, specialist negotiation, and, subject to wording and sanctions screening, the ransom itself. The decision tree for a ransom event, including the payment question, is in the [cyber-extortion event response framework](/crisis/cyber-extortion-event-response).
 
 Whether breach-notification cost is paid inside the main limit or under a separate sub-limit changes how much real protection you have, and is compared in [cyber notification cost: in-limit vs separate sub-limit for Singapore SMEs](/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme).
