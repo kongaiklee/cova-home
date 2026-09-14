@@ -190,5 +190,63 @@ await check('a mobile-only reader gets no email and the submission still succeed
   return r.mail.length === 0 ? null : `${r.mail.length} email(s) sent with no address given`;
 });
 
+// ---- the Emerging Risks 2027 signup (2026-09-14) posts to this same endpoint ----
+// COO's consent conditions (nodes/working/COO_CONSENT_er2027-signup_2026-09-14.md s2): the Slack
+// message IS the consent record, so it must carry the option, the time and the consent version;
+// participants route to Kong; and the acknowledgement must not add a purpose - so no founder
+// welcome (it thanks the reader for requesting ACCESS, which a report signup did not do).
+
+const ER = { source: 'er2027', consent_version: 'consent v1.0 2026-09-14', page: '/emerging-risks-2027' };
+
+await check('er2027: a report signup with only an email is accepted and recorded', async () => {
+  const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
+  if (r.code !== 200) return `status ${r.code}`;
+  if (!r.text.startsWith('Emerging Risks 2027 - report signup')) return `headline: ${r.lines[0]}`;
+  if (r.field('Option') !== 'report') return `option = ${JSON.stringify(r.field('Option'))}`;
+  if (r.field('Consent') !== 'consent v1.0 2026-09-14') return `consent = ${JSON.stringify(r.field('Consent'))}`;
+  if (!/^\d{4}-\d{2}-\d{2}T/.test(r.field('Consent at'))) return `consent at = ${JSON.stringify(r.field('Consent at'))}`;
+  return r.has('Name') ? 'a Name line was emitted for a report-only signup' : null;
+});
+
+await check('er2027: a participant carries name, company and role and is flagged for Kong', async () => {
+  const r = await post({ ...ER, option: 'report_and_participate', email: 'gm@example.com', name: 'A Person', company: 'A Co', role: 'General manager' });
+  if (r.code !== 200) return `status ${r.code}`;
+  if (!r.lines[0].includes('take part') || !r.lines[0].includes('Kong')) return `headline: ${r.lines[0]}`;
+  for (const [k, v] of [['Name', 'A Person'], ['Company', 'A Co'], ['Role', 'General manager']]) {
+    if (r.field(k) !== v) return `${k} = ${JSON.stringify(r.field(k))}`;
+  }
+  return null;
+});
+
+// BREAK: the second option's three fields are required, not optional.
+await check('er2027: a participant with no role is refused', async () => {
+  const r = await post({ ...ER, option: 'report_and_participate', email: 'gm@example.com', name: 'A Person', company: 'A Co' });
+  return r.code === 400 ? null : `status ${r.code}`;
+});
+
+// BREAK: an option the page does not offer is not a consent anyone gave.
+await check('er2027: an unknown option is refused', async () => {
+  const r = await post({ ...ER, option: 'newsletter', email: 'reader@example.com' });
+  return r.code === 400 ? null : `status ${r.code}`;
+});
+
+// BREAK: a record that cannot say which line was agreed to is not a consent record (COO s2.1).
+await check('er2027: a signup without the consent version is refused', async () => {
+  const r = await post({ source: 'er2027', option: 'report', email: 'reader@example.com', page: '/emerging-risks-2027' });
+  return r.code === 400 ? null : `status ${r.code}`;
+});
+
+// BREAK: the report is sent by email, so the email is the one field that is never optional.
+await check('er2027: a signup with no email is refused', async () => {
+  const r = await post({ ...ER, option: 'report' });
+  return r.code === 400 ? null : `status ${r.code}`;
+});
+
+// BREAK: the founder welcome would add a purpose the consent line does not name (COO s2.5).
+await check('er2027: no founder welcome is sent to a report signup', async () => {
+  const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
+  return r.mail.length === 0 ? null : `${r.mail.length} email(s) sent - subject ${JSON.stringify(r.mail[0] && r.mail[0].subject)}`;
+});
+
 console.log(`\n${pass}/${pass + fails.length} passed`);
 if (fails.length) { console.error('FAILURES:\n' + fails.join('\n')); process.exitCode = 1; }

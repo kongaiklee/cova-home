@@ -19,6 +19,25 @@ import { CATEGORY_INTROS, CATEGORY_LABELS } from '../../content/intents';
  * sentence is a standing claim carried on other surfaces too, so this pass ADDS the desk line
  * and removes nothing. A hub with no intro still renders correctly - the paragraph elides.
  */
+/**
+ * The hub meta descriptions - CMO's hub description table of 2026-09-11, v1.1,
+ * rows 3-13 verbatim (desk S2: PASS; Kong's list item 0f CLOSED 2026-09-14 02:0x, TM applies).
+ * Written FROM each hub's own contents. A category with no row falls back to the template.
+ */
+const HUB_DESCRIPTIONS: Record<string, string> = {
+  association: "Which trade bodies and statutory boards ask for cover: BCA's CRS workheads, ISCA, IES, SIA, the hotel and spa associations, and what each membership expects.",
+  comparison: 'Side by side decisions Singapore SMEs face: marine cargo clauses A, B and C, first loss vs full value, PI vs public liability, surety vs performance bonds.',
+  crisis: 'The first day of a bad week, step by step: a vendor data breach, an MAS findings letter, a PDPA access request, a ransomware demand, an IRAS audit.',
+  'cross-border': 'Cover that follows a Singapore business abroad: ASEAN expansion, remote hires in Malaysia, expatriate staff, foreign subsidiaries, SaaS data residency.',
+  'decision-tree': 'Checklists that turn a decision into the policies it needs: opening a restaurant or tuition centre, group health for a small team, sole prop vs Pte Ltd.',
+  'document-legal': 'The complete guides to the covers Singapore SMEs sign for: professional indemnity, public liability, WICA, foreign worker insurance and construction.',
+  'edge-case': 'Businesses the standard packages were not built for: TCM clinics, art conservators, drone operators, home-based firms and pre-owned luxury resellers.',
+  'emerging-risk': "What AI does to a Singapore SME's cover: hiring bias as an EPL claim, a chatbot that misstates, a rogue agent, deepfake fraud and content that infringes.",
+  licensing: 'Singapore licences that carry an insurance condition, and those that do not: BCA builders and CW01 contractors, SCDF fire safety, SFA food, AVS animal, TCM.',
+  'procedural-howto': 'How to do the insurance admin itself: verify a broker on the MAS register, file a MOM incident, obtain event liability cover, claim GST on premiums.',
+  'regulatory-change': "Every change and what it does to your cover: BCA's CRS evolution, the PDPA three-day breach clock, MAS notices FAA-N02, N16 and N20, SCDF's 36-month cycle.",
+};
+
 export default function CategoryHub({ category }: { category: string }) {
   const label = CATEGORY_LABELS[category] ?? category;
   const intro = CATEGORY_INTROS[category];
@@ -31,7 +50,7 @@ export default function CategoryHub({ category }: { category: string }) {
           crumbs, Guides then this category, both links a reader can click on the page. */}
       <Seo
         title={`${label} - Insurance Guides for Singapore Businesses | Covarage`}
-        description={`Every Covarage guide on ${label.toLowerCase()} for Singapore businesses - ${articles.length} sourced articles, each linked to the primary regulator, statute or insurer document.`}
+        description={HUB_DESCRIPTIONS[category] ?? `Every Covarage guide on ${label.toLowerCase()} for Singapore businesses - ${articles.length} sourced articles, each linked to the primary regulator, statute or insurer document.`}
         path={`/guides/${category}`}
         jsonLd={{
           '@context': 'https://schema.org',

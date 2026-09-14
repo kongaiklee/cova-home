@@ -32,6 +32,9 @@ const urls = [
   { loc: `${SITE}/blog`, lastmod: null, priority: '0.9' },
   { loc: `${SITE}/updates`, lastmod: updates.reviewed?.date ?? null, priority: '0.7' },
   { loc: `${SITE}/updates/cyber`, lastmod: updates.reviewed?.date ?? null, priority: '0.7' },
+  // The Emerging Risks 2027 seed page (Kong 2026-09-14). lastmod moves when the body does -
+  // the report replaces it in January 2027 on the same URL.
+  { loc: `${SITE}/emerging-risks-2027`, lastmod: '2026-09-14', priority: '0.8' },
   { loc: `${SITE}/guides/tools/insurance-gap-check`, lastmod: null, priority: '0.6' },
   { loc: `${SITE}/contact`, lastmod: null, priority: '0.5' },
   { loc: `${SITE}/careers`, lastmod: null, priority: '0.5' },

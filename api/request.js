@@ -17,7 +17,9 @@
  * With none configured the endpoint answers 503 and the form shows its error line, so the button
  * cannot silently swallow a request.
  */
-const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40, question: 240, source: 24 };
+const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40, question: 240, source: 24, role: 80, option: 32, consent: 40 };
+/** The Emerging Risks 2027 signup's two options (Kong 2026-09-14, CMO's build notes). */
+const ER2027_OPTIONS = ['report', 'report_and_participate'];
 const HIDDEN = ['ref', 'utm_source', 'utm_medium', 'utm_campaign', 'utm_term', 'utm_content', 'policy', 'industry', 'agency', 'page', 'from'];
 
 function clean(v, max) {
@@ -46,15 +48,33 @@ export default async function handler(req, res) {
   // The in-article enquiry block posts here too (CMO spec s2): the reader's own question, and
   // the source that says which form they used. Everything else about the submission is the same.
   const question = clean(body.question, LIMITS.question);
-  const fromArticle = clean(body.source, LIMITS.source) === 'article';
-  // Presence only for human-read fields (KONG w6: the number's format rule comes off - a human
-  // calls it back and can read a country code, spaces, an extension). Never validate more
-  // strictly than the thing that consumes the value.
-  // A reader on an article is asked for ONE way to reach them, not two (CMO spec s2 slot C:
-  // "one of the two required"), because they are giving an address for an answer rather than a
-  // number for a call. The homepage form still asks for all four and still enforces them in its
-  // own markup, so this widens what the ENDPOINT accepts and never what that form collects.
-  if (!name || !company || (!email && !number)) {
+  const source = clean(body.source, LIMITS.source);
+  const fromArticle = source === 'article';
+  // The Emerging Risks 2027 signup (2026-09-14) - a report request, not a lead. Its shape is Kong's
+  // (CMO's build notes): `report` needs an email only; `report_and_participate` also needs name,
+  // company and role, and routes to Kong for manual scheduling. COO's consent conditions
+  // (COO's consent clearance v1.0, s2): this Slack message is the ONLY
+  // consent record, so it carries the option, the time and the version of the line shown - and a
+  // submission that cannot say which line it agreed to is refused rather than recorded.
+  const er2027 = source === 'er2027';
+  const option = clean(body.option, LIMITS.option);
+  const role = clean(body.role, LIMITS.role);
+  const consent = clean(body.consent_version, LIMITS.consent);
+  const participate = option === 'report_and_participate';
+  if (er2027) {
+    if (!ER2027_OPTIONS.includes(option)) return res.status(400).json({ ok: false, error: 'option' });
+    if (!consent) return res.status(400).json({ ok: false, error: 'consent' });
+    if (!email || (participate && (!name || !company || !role))) {
+      return res.status(400).json({ ok: false, error: 'fields' });
+    }
+  } else if (!name || !company || (!email && !number)) {
+    // Presence only for human-read fields (KONG w6: the number's format rule comes off - a human
+    // calls it back and can read a country code, spaces, an extension). Never validate more
+    // strictly than the thing that consumes the value.
+    // A reader on an article is asked for ONE way to reach them, not two (CMO spec s2 slot C:
+    // "one of the two required"), because they are giving an address for an answer rather than a
+    // number for a call. The homepage form still asks for all four and still enforces them in its
+    // own markup, so this widens what the ENDPOINT accepts and never what that form collects.
     return res.status(400).json({ ok: false, error: 'fields' });
   }
   // Email is machine-read, so it gets a shape check - but a LOOSE one: exactly one @, a dot
@@ -75,9 +95,22 @@ export default async function handler(req, res) {
   }
 
   const when = new Date().toLocaleString('en-SG', { timeZone: 'Asia/Singapore', hour12: false });
-  const lines = [`Name: ${name}`, `Company: ${company}`, `Email: ${email || '-'}`, `Number: ${number || '-'}`, `Trade: ${trade || '-'}`, ...(question ? [`Question: ${question}`] : []), ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
-  // Kong reads leads in Slack; the first line should say which door they came through.
-  const headline = fromArticle ? 'New question from a guide' : 'New request for a call';
+  const lines = er2027
+    ? [
+        `Option: ${option}`,
+        `Email: ${email}`,
+        ...(participate ? [`Name: ${name}`, `Company: ${company}`, `Role: ${role}`] : []),
+        `Consent: ${consent}`,
+        `Consent at: ${new Date().toISOString()}`,
+        ...extras.map(([k, v]) => `${k}: ${v}`),
+        `Received: ${when} SGT`,
+      ]
+    : [`Name: ${name}`, `Company: ${company}`, `Email: ${email || '-'}`, `Number: ${number || '-'}`, `Trade: ${trade || '-'}`, ...(question ? [`Question: ${question}`] : []), ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
+  // Kong reads leads in Slack; the first line should say which door they came through. An ER2027
+  // participant is Kong's to schedule by hand (his ruling) - the headline says so.
+  const headline = er2027
+    ? (participate ? 'Emerging Risks 2027 - wants to take part (for Kong to schedule)' : 'Emerging Risks 2027 - report signup')
+    : fromArticle ? 'New question from a guide' : 'New request for a call';
 
   // ONE email per submission (KONG w5 ~02:0x: "can we only fire one?" - the plain internal alert
   // was landing beside the lead's welcome, because the team inbox is his). Slack is the team's
@@ -128,7 +161,13 @@ export default async function handler(req, res) {
   // raised and he ruled, so it fires for every lead. Any rewording of that one sentence is CMO's
   // and changes no flow. Still requires an address: a reader who left only a mobile cannot be
   // emailed, and the team calls them instead.
-  if (resend && from && email) {
+  // An Emerging Risks 2027 signup gets NO founder welcome: it thanks the reader for requesting
+  // ACCESS and offers an onboarding call - a purpose COO's cleared consent line does not name
+  // (COO s2.5: the acknowledgement must match the option chosen and add no purpose). Its own
+  // acknowledgement is CMO's copy to write; until it exists, nothing is sent.
+  if (er2027) {
+    console.log('request: er2027 signup recorded (no acknowledgement until its copy exists)');
+  } else if (resend && from && email) {
     const ack = composeAck({ name, email });
     try {
       const sent = await fetch('https://api.resend.com/emails', {

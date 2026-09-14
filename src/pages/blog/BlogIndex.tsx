@@ -111,7 +111,7 @@ export default function BlogIndex() {
     <>
       <Seo
         title="Covarage Blog: Insurance Guides for Singapore SMEs"
-        description="Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch."
+        description="Every Singapore business insurance guide in one library: licensing, contracts, claims, regulatory change, industry bodies, each sourced to primary documents."
         path="/blog"
       />
 

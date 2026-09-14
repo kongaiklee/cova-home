@@ -12,13 +12,20 @@ type Status = 'idle' | 'sending' | 'sent' | 'error';
 interface Props {
   trade: string;
   onTrade: (id: string) => void;
+  /** Carries the page's one `#request` anchor. The lander v1.3 mounts the card twice (hero and
+   * close - one form, two places); only the hero's instance may own the id. */
+  anchor?: boolean;
+  /** No drop shadow - the close's instance sits on the page, not on a photograph. */
+  flat?: boolean;
 }
 
 /**
  * The request card. It POSTS to /api/request and creates no account - the team opens every
  * account by hand after the call. Four typed fields and the trade; everything else is hidden.
+ * Lander v1.3 (CD's rendered mock, Kong 2026-09-14): the mock's words - the `Request a call`
+ * eyebrow, the `Your trade` placeholder, the no-obligation line - in the card's dress.
  */
-export default function RequestCard({ trade, onTrade }: Props) {
+export default function RequestCard({ trade, onTrade, anchor = true, flat = false }: Props) {
   const [status, setStatus] = useState<Status>('idle');
   const [hidden, setHidden] = useState<Record<string, string>>({});
   const [sentAs, setSentAs] = useState<Record<string, string>>({});
@@ -70,7 +77,7 @@ export default function RequestCard({ trade, onTrade }: Props) {
     }
   }
 
-  const field = 'w-full rounded-sm border border-border-primary bg-white px-3.5 py-3 text-[15px] text-text-primary placeholder:text-text-secondary focus:border-primary focus:outline-none';
+  const field = 'block h-[46px] w-full rounded-md border border-hairline-strong bg-white px-3.5 text-[15px] text-text-primary placeholder:text-text-secondary focus:border-primary focus:outline-none';
 
   const sentTrade = TRADES.find((t) => t.id === sentAs.trade);
   const booking = `${BOOKING_URL}?${new URLSearchParams({
@@ -80,12 +87,10 @@ export default function RequestCard({ trade, onTrade }: Props) {
 
   return (
     <div
-      id="request"
-      className="scroll-mt-9 overflow-hidden rounded-xl border border-border-primary bg-white lg:scroll-mt-0 lg:shadow-[0_24px_60px_rgba(0,0,0,0.18)]"
+      id={anchor ? 'request' : undefined}
+      className={`scroll-mt-9 overflow-hidden rounded-xl border border-hairline-strong bg-white text-text-primary lg:scroll-mt-0 ${flat ? '' : 'lg:shadow-[0_18px_40px_rgba(38,29,22,0.18)]'}`}
+      data-request-card={anchor ? 'hero' : 'close'}
     >
-      <div className="flex h-8 items-center gap-1.5 border-b border-border-primary bg-pill px-3.5" aria-hidden>
-        <span className="size-2 rounded-full bg-hairline-strong" /><span className="size-2 rounded-full bg-hairline-strong" /><span className="size-2 rounded-full bg-hairline-strong" />
-      </div>
       {status === 'sent' ? (
         /* The s16 post-submit state, swapped in place of the form (CD SECTION 12; copy s16 verbatim). */
         <div
@@ -106,7 +111,7 @@ export default function RequestCard({ trade, onTrade }: Props) {
             While you wait, here is what businesses in your trade are usually asked to carry.
           </p>
           <a
-            href={sentTrade ? sentTrade.href : '/guides'}
+            href={sentTrade ? sentTrade.href : '/blog'}
             className="mb-4 block rounded-sm bg-primary-extended py-3.5 text-center text-[15px] font-medium text-white transition hover:opacity-90"
           >
             {sentTrade ? `Open the ${sentTrade.label} checklist` : 'Open the guides'}
@@ -126,24 +131,19 @@ export default function RequestCard({ trade, onTrade }: Props) {
           </a>
         </div>
       ) : (
-      <form ref={bodyRef} className="px-5 pt-6 pb-7 sm:px-7" onSubmit={submit} noValidate={false}>
-        <div className="font-serif text-2xl tracking-[-0.6px] text-text-primary">Request a call.</div>
-        <p className="mt-2 mb-4 text-[15px]/relaxed text-text-secondary">Tell us what you do. We call you back within 24 hours.</p>
-
-        <label className="mb-3.5 block rounded-sm border border-border-primary bg-white px-3.5 py-3">
-          <span className="mb-0.5 block text-[11px] font-semibold tracking-[0.12em] text-text-secondary uppercase">What does your company do?</span>
-          <select
-            name="trade"
-            value={trade}
-            onChange={(e) => onTrade(e.target.value)}
-            className="w-full bg-white text-[15px] text-text-primary focus:outline-none"
-          >
-            {TRADES.map((t) => <option key={t.id} value={t.id}>{t.label}</option>)}
-          </select>
-        </label>
-
-        <div className="mb-2 text-[11px] font-semibold tracking-[0.12em] text-text-secondary uppercase">Your name, company, email and number.</div>
-        <div className="mb-4 flex flex-col gap-2">
+      <form ref={bodyRef} className="px-5 pt-6 pb-6 sm:px-7 sm:pt-7" onSubmit={submit} noValidate={false}>
+        <p className="m-0 mb-[18px] text-xs font-medium tracking-[0.14em] text-primary uppercase">Request a call</p>
+        <select
+          name="trade"
+          aria-label="Your trade"
+          value={trade}
+          onChange={(e) => onTrade(e.target.value)}
+          className={`${field} mb-2.5`}
+        >
+          <option value="">Your trade</option>
+          {TRADES.map((t) => <option key={t.id} value={t.id}>{t.title}</option>)}
+        </select>
+        <div className="mb-4 flex flex-col gap-2.5">
           <input className={field} name="name" placeholder="Name" autoComplete="name" required maxLength={120} />
           <input className={field} name="company" placeholder="Company" autoComplete="organization" required maxLength={160} />
           <input className={field} name="email" placeholder="Email" type="email" autoComplete="email" required maxLength={160} />
@@ -157,14 +157,14 @@ export default function RequestCard({ trade, onTrade }: Props) {
         <button
           type="submit"
           disabled={status === 'sending'}
-          className="w-full rounded-sm bg-primary-extended py-3.5 text-center text-[15px] font-medium text-white transition hover:opacity-90 disabled:opacity-70"
+          className="h-12 w-full rounded-sm bg-primary-extended text-center text-[15px] font-medium text-white transition hover:opacity-90 disabled:opacity-70"
         >
           {status === 'sending' ? 'Sending' : 'Request a call'}
         </button>
-        <p className="mt-3 text-center text-[13px] text-text-secondary" aria-live="polite">
+        <p className="m-0 mt-3 text-[13px]/[1.5] text-text-secondary" aria-live="polite">
           {status === 'error'
             ? 'That did not go through. Please try again, or email support@covarage.com.'
-            : 'Opened by our founder. Your adviser named on day one.'}
+            : 'A person on our team calls you back. No obligation.'}
         </p>
       </form>
       )}

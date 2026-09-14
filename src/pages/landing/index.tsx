@@ -2,24 +2,25 @@ import { useEffect } from 'react';
 import { useLocation } from 'react-router-dom';
 import Seo from '../../components/Seo';
 import LanderHeader from './LanderHeader';
-import Hero from './Hero';
 import { frameRequestArrival } from './requestFraming';
-import { Orientation, Problem, Proof, Stake, TradeLine } from './Sections';
-import Trades from './Trades';
-import Guides from './Guides';
-import { Chase, Close, FounderNote, HowItWorks, Money, Onboarding, Renewal, WhatYouGet } from './Sections2';
-import Rotator from './Rotator';
+import { Close13, EmergingRisk13, Founder13, Hero13, Legit, Problem13, Topics13, Trades13, WhatWeDo } from './V13';
 import LandingFooter from './LandingFooter';
 
-/** The vanilla end-user page, Revision 3a. Section order is the artboards' and is not negotiable here. */
+/**
+ * The lander v1.3 - nine sections in the approved mock's order (CMO's copy of record, Kong
+ * 2026-09-14 01:21), built to CD's rendered mock (Kong 09:3x, "beautiful. lets go.").
+ * Supersedes Revision 3a's seventeen. The browser title does not change (Kong: "memorable and
+ * clean"). The sections of the earlier page stay in Sections.tsx / Sections2.tsx / Trades.tsx /
+ * Guides.tsx / Hero.tsx / Rotator.tsx, unmounted, until the retirement is confirmed on the build.
+ */
 /**
  * Organization + WebSite, on Kong's 2026-09-12 02:54 word ("org schema on homepage, breadcrumb,
  * robots.text pls"). Payload: CMO's machine-readability spec v1.0 s1, applied as written.
  *
  * EVERY VALUE HAS A SOURCE ON A CLEARED SURFACE, verified before it was written here: legal name,
  * UEN, address and the DPO address are the legal footer's own line (LandingFooter.tsx); the support
- * address is Kong's ruled one; the LinkedIn URL is the live s16 footer link; the logo is measured
- * 789 x 789; the description is the cleared About paragraph verbatim.
+ * address is Kong's ruled one; the LinkedIn URL is the live s16 footer link; the logo is the live
+ * favicon mark (CD s0n); the description is the cleared About paragraph verbatim.
  *
  * WHAT IS DELIBERATELY ABSENT, and must stay absent unless Kong says otherwise: any customer count,
  * any licence claim, any word in the advice family about Covarage, any rating, any founder name.
@@ -83,29 +84,15 @@ export default function LandingPage() {
         jsonLd={ORGANIZATION_GRAPH}
       />
       <LanderHeader />
-      <Hero />
-      <TradeLine />
-      <Orientation />
-      <Proof />
-      {/* 1B THE STAKE sits BELOW the proof strip - CD's sequence verdict, and it is a MOVE: the
-          stake was live directly after the hero. Credibility before cost (74/23/85 read as scare
-          copy from an unproven source and as expertise after 24 insurers / 766 policies), and the
-          introducer boundary improves with it - a stake before any proof reads as COVA calling
-          your cover inadequate, which is assessing adequacy; after a strip whose own footnote
-          credits the intermediaries, it reads as the context advisers operate in. */}
-      <Stake />
-      <Problem />
-      <Trades />
-      <Guides />
-      <WhatYouGet />
-      <Renewal />
-      <Chase />
-      <FounderNote />
-      <HowItWorks />
-      <Onboarding />
-      <Rotator />
-      <Money />
-      <Close />
+      <Hero13 />
+      <Legit />
+      <Problem13 />
+      <WhatWeDo />
+      <EmergingRisk13 />
+      <Trades13 />
+      <Topics13 />
+      <Founder13 />
+      <Close13 />
       <LandingFooter />
     </div>
   );

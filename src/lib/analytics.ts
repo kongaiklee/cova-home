@@ -19,7 +19,9 @@ export type AnalyticsEvent =
   | 'article_read'
   | 'article_cta_view'
   | 'article_cta_click'
-  | 'request_submit';
+  | 'request_submit'
+  // the Emerging Risks 2027 signup (2026-09-14) - a report request, not a lead
+  | 'er2027_signup';
 
 export type AnalyticsParams = Record<string, string | number | boolean | undefined>;
 

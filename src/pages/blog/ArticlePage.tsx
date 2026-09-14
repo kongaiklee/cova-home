@@ -298,6 +298,15 @@ export default function ArticlePage({ article }: { article: Article }) {
               just been hit is the one who wants the live alert list. One pointer line, beside the
               Related block, on the four cyber guides named there and nowhere else - plus 542 (scam
               wave), added on the hub's /check #1 w19 route, 2026-09-12. */}
+          {/* CMO's ER2027 build notes (2026-09-14): every emerging-risk guide's Related row carries
+              the seed page - a TEMPLATE line, so a new emerging-risk guide gets it with no edit. */}
+          {frontmatter.category === 'emerging-risk' && (
+            <p className="m-0 mt-3 text-sm text-text-secondary" data-er2027-row>
+              <Link to="/emerging-risks-2027" className="border-b border-[#c2d4e2] pb-px font-medium text-primary">
+                Part of Emerging Risks 2027: Singapore Edition
+              </Link>
+            </p>
+          )}
           {CYBER_ALERT_GUIDES.has(frontmatter.slug) && (
             <p className="m-0 mt-3 text-sm text-text-secondary" data-cyber-pointer>
               <Link to="/updates/cyber" className="border-b border-[#c2d4e2] pb-px font-medium text-primary">

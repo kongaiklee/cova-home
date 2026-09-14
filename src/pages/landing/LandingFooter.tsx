@@ -20,6 +20,10 @@ export default function LandingFooter() {
         <Link to="/blog" className={link}>Guides</Link>
         <Link to="/updates" className={link}>Regulatory updates</Link>
         <Link to="/updates/cyber" className={link}>Cyber and digital risk</Link>
+        {/* CD s3 (2026-09-14): the sitewide Emerging Risks 2027 link sits in the FOOTER - one of the
+            three routes in to the seed page, with the lander's s5 eyebrow and the emerging-risk
+            guides' Related row. */}
+        <Link to="/emerging-risks-2027" className={link}>Emerging Risks 2027</Link>
         <Link to="/privacy" className={link}>Privacy Policy</Link>
         <Link to="/terms" className={link}>Terms of Use</Link>
         <Link to="/contact" className={link}>Contact</Link>

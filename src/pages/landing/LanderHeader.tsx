@@ -38,9 +38,9 @@ export default function LanderHeader() {
           <a
             href={onLander ? REQUEST_ANCHOR : `/${REQUEST_ANCHOR}`}
             onClick={onLander ? requestClick : undefined}
-            className="rounded-sm bg-primary-extended px-4 py-2 text-sm font-medium text-white transition hover:opacity-90"
+            className="rounded-sm bg-primary-extended px-4 py-2 text-sm font-medium whitespace-nowrap text-white transition hover:opacity-90"
           >
-            Request access
+            Request a call
           </a>
         </nav>
       </div>

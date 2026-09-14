@@ -15,6 +15,7 @@ import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
 import PackPage from '../pages/pack/PackPage';
 import UpdatesPage from '../pages/updates/UpdatesPage';
 import BriefPage from '../pages/updates/BriefPage';
+import Er2027Page from '../pages/er2027/Er2027Page';
 import { BRIEFS, briefPath } from '../pages/updates/topics';
 import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
 
@@ -69,6 +70,9 @@ export const routes: RouteRecord[] = [
             path: briefPath(item).replace(/^\//, ''),
             element: <BriefPage item={item} />,
           })),
+          // The Emerging Risks 2027 seed page (Kong 2026-09-14, "lets start seeding it now i want to
+          // own this search term"). One permanent URL: the report replaces the body in January 2027.
+          { path: 'emerging-risks-2027', element: <Er2027Page /> },
           { path: 'terms', element: <Terms /> },
           { path: 'privacy', element: <Privacy /> },
           // moved from blog.covarage.com with the corpus; the blog host 301s its old path here

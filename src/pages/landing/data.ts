@@ -42,26 +42,31 @@ export interface Trade {
   cta?: string;
 }
 
+/*
+ * Lander v1.3 (CMO's approved mock, Kong 2026-09-14 01:21): the card TITLE carries the mock's eight
+ * trade labels. `label` is deliberately NOT changed - the in-article enquiry block and the onboarding
+ * pack read it, and the mock is the lander's copy, not theirs.
+ */
 export const TRADES: Trade[] = [
-  { id: 'fnb', label: 'Food and beverage', hero: 'fnb', card: 'fnb', title: 'Food and beverage',
+  { id: 'fnb', label: 'Food and beverage', hero: 'fnb', card: 'fnb', title: 'Cafes, restaurants and caterers',
     holds: [
       { text: 'Public liability - lease, customer exposure', href: articleUrl('/procedural-howto/pl-claim-customer-slip-fnb') },
       { text: 'Food safety and product liability - law', href: articleUrl('/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability') },
     ],
     href: articleUrl('/decision-tree/opening-cafe-checklist') },
-  { id: 'construction', label: 'Construction', hero: 'construction', card: 'construction', title: 'Construction',
+  { id: 'construction', label: 'Construction', hero: 'construction', card: 'construction', title: 'Contractors and renovation',
     holds: [
       { text: "Contractors' all risks, public liability - main contract", href: articleUrl('/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor') },
       { text: 'Site safety and work injury - law', href: articleUrl('/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026') },
     ],
     href: articleUrl('/decision-tree/opening-interior-design-renovation-checklist') },
-  { id: 'logistics', label: 'Logistics', hero: 'logistics', card: 'logistics', title: 'Logistics',
+  { id: 'logistics', label: 'Logistics', hero: 'logistics', card: 'logistics', title: 'Logistics, freight and marine',
     holds: [
       { text: 'Third-party motor - law', href: articleUrl('/document-legal/compulsory-motor-insurance-singapore-third-party') },
       { text: 'Goods in transit, marine cargo - client contract', href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme') },
     ],
     href: articleUrl('/decision-tree/opening-logistics-freight-forwarder-checklist') },
-  { id: 'retail', label: 'Retail', hero: 'retail', card: 'retail', title: 'Retail',
+  { id: 'retail', label: 'Retail', hero: 'retail', card: 'retail', title: 'Shops and online stores',
     holds: [
       { text: 'Public liability, fire - lease', href: articleUrl('/comparison/fire-vs-par') },
       { text: 'Work injury cover - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
@@ -73,24 +78,63 @@ export const TRADES: Trade[] = [
       { text: 'Work injury cover for crew and yard staff - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
     ],
     href: articleUrl('/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme'), cta: 'Compare cargo cover' },
-  { id: 'professional', label: 'Professional services', hero: 'tech', card: 'professional', title: 'Professional services',
+  { id: 'professional', label: 'Professional services', hero: 'tech', card: 'professional', title: 'Professional firms',
     holds: [
       { text: 'Professional indemnity - client contract', href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
       { text: 'Work injury cover for staff - law', href: articleUrl('/document-legal/wica-section-24-mandatory-insurance') },
     ],
     href: articleUrl('/decision-tree/opening-law-firm-checklist') },
-  { id: 'tech', label: 'Tech companies', hero: 'tech', card: 'tech', title: 'Tech companies', sub: 'SaaS, software houses, IT vendors.',
+  { id: 'tech', label: 'Tech companies', hero: 'tech', card: 'tech', title: 'Tech companies',
     holds: [
       { text: 'Professional indemnity, cyber - client contract', href: articleUrl('/comparison/pi-vs-tech-eo-for-saas') },
       { text: 'Work injury claims - law', href: articleUrl('/procedural-howto/how-to-file-wica-claim-singapore-mom') },
     ],
     href: articleUrl('/comparison/pi-vs-tech-eo-for-saas'), cta: 'Compare PI and tech E&O' },
-  { id: 'startups', label: 'Startups', hero: 'startups', card: 'startups', title: 'Startups', sub: 'Pre-seed to Series A. First hires, first office.',
+  { id: 'startups', label: 'Startups', hero: 'startups', card: 'startups', title: 'Startups',
     holds: [
       { text: "Directors' and officers' cover - investor", href: articleUrl('/comparison/do-vs-pi-vs-epl') },
       { text: 'Director liability for safety - law', href: articleUrl('/document-legal/wsha-section-48-director-liability') },
     ],
     href: articleUrl('/decision-tree/starting-saas-startup-checklist') },
+];
+
+/**
+ * Lander v1.3 section 07 - the mock's six groups, THREE guides each (CMO's approved mock v1.3),
+ * every href the live 4C group's own link for that title; `More on ...` keeps the live group's
+ * target. The earlier five-per-group GUIDE_GROUPS below stays for the unmounted Guides.tsx.
+ */
+const t = (path: string, title: string) => ({ title, href: articleUrl(path) });
+export const TOPIC_GROUPS: { name: string; more: string; moreHref: string; items: { title: string; href: string }[] }[] = [
+  { name: 'Required by law', more: 'More on required by law', moreHref: '/blog?required=cover', items: [
+    t('/document-legal/wica-section-25-offence', 'No WICA policy? What the Section 25 offence actually costs an employer'),
+    t('/crisis/worker-fatality-on-site', 'A Worker Just Died on Site: What Do I Do Now?'),
+    t('/document-legal/employment-pass-holder-insurance-requirements', 'What Insurance Must Employers Provide for Employment Pass Holders?'),
+  ] },
+  { name: 'Public liability', more: 'More on public liability', moreHref: '/blog?policy=public-liability', items: [
+    t('/crisis/customer-just-sued', 'A Customer Just Sued Us: What Do I Do Now?'),
+    t('/procedural-howto/pl-claim-customer-slip-fnb', 'A Customer Slipped in My Cafe: How the Public Liability Claim Actually Goes'),
+    t('/document-legal/see-toh-siew-kee-occupiers-liability', "The Court Decision That Rewrote Occupiers' Liability in Singapore"),
+  ] },
+  { name: 'Professional indemnity', more: 'More on professional indemnity', moreHref: '/blog?policy=professional-indemnity', items: [
+    t('/crisis/regulatory-audit-notice-received', 'A Regulator Just Issued an Audit Notice: What Do I Do Now?'),
+    t('/document-legal/pe-firm-professional-indemnity-pea-section-34', 'When Must an Engineering Firm Carry Professional Indemnity by Law?'),
+    t('/crisis/mass-refund-demand', 'A Customer Group Just Demanded Mass Refunds: What Do I Do Now?'),
+  ] },
+  { name: 'Cyber', more: 'More on cyber', moreHref: '/blog?policy=cyber', items: [
+    t('/crisis/ransomware-just-hit', 'We Just Discovered Ransomware on Our Systems: What Do I Do Now?'),
+    t('/crisis/bec-wire-fraud-loss-discovered', 'Business Email Compromise: The Wire Fraud Was Discovered This Morning'),
+    t('/regulatory-change/pdpa-2022-penalty', 'PDPA Penalties Are Now 10% of Turnover for a Data Breach'),
+  ] },
+  { name: 'Property', more: 'More on property', moreHref: '/blog?policy=property', items: [
+    t('/comparison/first-loss-vs-full-value-average-clause-property', 'Insured for Less Than the Building Is Worth? The Average Clause Cuts Every Claim'),
+    t('/regulatory-change/fire-code-2023', 'Fire Code 2023: What Changed for Retail, F&B and Manufacturing'),
+    t('/crisis/equipment-breakdown-halts-production', 'Critical Equipment Just Broke and Halted Our Production: What Do I Do Now?'),
+  ] },
+  { name: 'Directors and officers', more: 'More on directors and officers', moreHref: '/blog?policy=directors-and-officers', items: [
+    t('/document-legal/companies-act-section-172-indemnification', 'Why the Company Cannot Always Indemnify Its Directors: Companies Act Section 172'),
+    t('/document-legal/irda-2018-director-duties-insolvency', 'Director Personal Liability in Insolvency: What IRDA 2018 Does'),
+    t('/crisis/iras-audit-investigation', 'IRAS Just Notified Us of a Tax Audit: What Do I Do Now?'),
+  ] },
 ];
 
 export interface GuideGroup {
