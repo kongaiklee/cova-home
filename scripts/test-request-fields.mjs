@@ -16,11 +16,11 @@
  */
 import handler from '../api/request.js';
 
-const sent = { slack: null, mail: [] };
+const sent = { slack: null, slackUrl: null, mail: [] };
 globalThis.fetch = async (url, opts) => {
   const u = String(url);
   const body = opts && opts.body ? JSON.parse(opts.body) : {};
-  if (u.includes('/hook')) { sent.slack = body.text; return new Response('ok', { status: 200 }); }
+  if (u.includes('/hook')) { sent.slack = body.text; sent.slackUrl = u; return new Response('ok', { status: 200 }); }
   if (u.includes('api.resend.com')) { sent.mail.push(body); return new Response('{}', { status: 200 }); }
   throw new Error(`unexpected outbound call: ${u}`);
 };
@@ -28,6 +28,10 @@ process.env.SLACK_WEBHOOK_URL = 'https://example.invalid/hook';
 process.env.RESEND_API_KEY = 'test-key';
 process.env.REQUEST_MAIL_FROM = 'Covarage <requests@example.invalid>';
 process.env.REQUEST_MAIL_TO = 'team@example.invalid';
+const LEAD_HOOK = process.env.SLACK_WEBHOOK_URL;
+const ER_HOOK = 'https://example.invalid/hook/er2027-kong-only';
+process.env.SLACK_ER2027_WEBHOOK_URL = ER_HOOK;
+process.env.ER2027_MAIL_TO = 'kong@example.invalid';
 
 function mockRes() {
   const o = { code: 0, body: null };
@@ -39,6 +43,7 @@ function mockRes() {
 
 async function post(body) {
   sent.slack = null;
+  sent.slackUrl = null;
   sent.mail = [];
   const res = mockRes();
   await handler({ method: 'POST', body }, res);
@@ -47,6 +52,7 @@ async function post(body) {
     code: res.code,
     text,
     mail: sent.mail,
+    hook: sent.slackUrl,
     lines: text ? text.split('\n') : [],
     field: (name) => (text.split('\n').find((l) => l.startsWith(`${name}: `)) || '').slice(name.length + 2),
     has: (name) => text.split('\n').some((l) => l.startsWith(`${name}: `)),
@@ -197,6 +203,7 @@ await check('a mobile-only reader gets no email and the submission still succeed
 // welcome (it thanks the reader for requesting ACCESS, which a report signup did not do).
 
 const ER = { source: 'er2027', consent_version: 'consent v1.0 2026-09-14', page: '/emerging-risks-2027' };
+const ER2027_TEST_OPTIONS = ['report', 'report_and_participate'];
 
 await check('er2027: a report signup with only an email is accepted and recorded', async () => {
   const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
@@ -246,6 +253,54 @@ await check('er2027: a signup with no email is refused', async () => {
 await check('er2027: no founder welcome is sent to a report signup', async () => {
   const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
   return r.mail.length === 0 ? null : `${r.mail.length} email(s) sent - subject ${JSON.stringify(r.mail[0] && r.mail[0].subject)}`;
+});
+
+// ---- the ER2027 destination (hub /check #9 w20) ----
+// The form promises a signup reaches no one else, "including the licensed brokers who write the
+// report's commentary" (COO s1/s2.3) - and the lead channel is public with an AWFA adviser in it.
+// So an ER2027 signup goes to its OWN destinations and FAILS CLOSED when they are not set.
+
+// BREAK: the live defect itself - a signup landing in the lead channel.
+await check('er2027: a signup posts to its own webhook, never the lead channel', async () => {
+  for (const option of ER2027_TEST_OPTIONS) {
+    const r = await post({ ...ER, option, email: 'gm@example.com', name: 'A Person', company: 'A Co', role: 'GM' });
+    if (r.code !== 200) return `${option}: status ${r.code}`;
+    if (r.hook !== ER_HOOK) return `${option}: posted to ${r.hook}`;
+  }
+  return null;
+});
+
+await check('an ordinary lead still posts to the lead channel', async () => {
+  const r = await post({ ...LEAD, page: '/' });
+  return r.hook === LEAD_HOOK ? null : `posted to ${r.hook}`;
+});
+
+// BREAK: with its own webhook unset, the signup falls back to ITS OWN mail recipients only.
+await check('er2027: with no own webhook, the fallback mail goes to its own recipients only', async () => {
+  const saved = process.env.SLACK_ER2027_WEBHOOK_URL;
+  delete process.env.SLACK_ER2027_WEBHOOK_URL;
+  try {
+    const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
+    if (r.code !== 200) return `status ${r.code}`;
+    if (r.hook) return `posted to ${r.hook}`;
+    if (r.mail.length !== 1) return `${r.mail.length} emails`;
+    const to = r.mail[0].to.join(',');
+    if (to !== 'kong@example.invalid') return `mailed to ${to}`;
+    return r.mail[0].subject === 'Emerging Risks 2027 - report signup' ? null : `subject ${JSON.stringify(r.mail[0].subject)}`;
+  } finally { process.env.SLACK_ER2027_WEBHOOK_URL = saved; }
+});
+
+// BREAK: with neither of its own destinations set, it refuses - it never opens onto the lead pipe.
+await check('er2027: with neither own destination set, 503 and nothing sent anywhere', async () => {
+  const saved = [process.env.SLACK_ER2027_WEBHOOK_URL, process.env.ER2027_MAIL_TO];
+  delete process.env.SLACK_ER2027_WEBHOOK_URL;
+  delete process.env.ER2027_MAIL_TO;
+  try {
+    const r = await post({ ...ER, option: 'report_and_participate', email: 'gm@example.com', name: 'A Person', company: 'A Co', role: 'GM' });
+    if (r.code !== 503) return `status ${r.code}`;
+    if (r.hook) return `posted to ${r.hook}`;
+    return r.mail.length ? `${r.mail.length} email(s) sent to ${r.mail[0].to}` : null;
+  } finally { [process.env.SLACK_ER2027_WEBHOOK_URL, process.env.ER2027_MAIL_TO] = saved; }
 });
 
 console.log(`\n${pass}/${pass + fails.length} passed`);

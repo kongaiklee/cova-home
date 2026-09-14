@@ -13,9 +13,14 @@
  *   RESEND_API_KEY      Resend API key
  *   REQUEST_MAIL_FROM   verified sender, e.g. "Covarage <requests@covarage.com>"
  *   REQUEST_MAIL_TO     comma-separated recipients
+ *   SLACK_ER2027_WEBHOOK_URL  the Emerging Risks 2027 signup's OWN webhook - a Kong-only channel
+ *   ER2027_MAIL_TO            the ER2027 signup's own fallback recipients - Kong only
  *
  * With none configured the endpoint answers 503 and the form shows its error line, so the button
- * cannot silently swallow a request.
+ * cannot silently swallow a request. An ER2027 signup reads ONLY its own two variables and never
+ * falls back to the lead channel or the team inbox: its form promises the signup reaches no one
+ * else, including the licensed brokers writing the report (COO s2.3), and the lead channel is read
+ * by an AWFA adviser (hub /check #9 w20). Unset, it answers 503 rather than post somewhere public.
  */
 const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40, question: 240, source: 24, role: 80, option: 32, consent: 40 };
 /** The Emerging Risks 2027 signup's two options (Kong 2026-09-14, CMO's build notes). */
@@ -86,9 +91,10 @@ export default async function handler(req, res) {
   }
   const extras = HIDDEN.map((k) => [k, clean(body[k], 160)]).filter(([, v]) => v);
 
-  const slack = process.env.SLACK_WEBHOOK_URL;
+  // An ER2027 signup has its own destinations and no other (see the header): fail closed, never open.
+  const slack = er2027 ? process.env.SLACK_ER2027_WEBHOOK_URL : process.env.SLACK_WEBHOOK_URL;
   const resend = process.env.RESEND_API_KEY;
-  const to = (process.env.REQUEST_MAIL_TO || '').split(',').map((s) => s.trim()).filter(Boolean);
+  const to = ((er2027 ? process.env.ER2027_MAIL_TO : process.env.REQUEST_MAIL_TO) || '').split(',').map((s) => s.trim()).filter(Boolean);
   const from = process.env.REQUEST_MAIL_FROM;
   if (!slack && !(resend && to.length && from)) {
     return res.status(503).json({ ok: false, error: 'unconfigured' });
@@ -136,7 +142,7 @@ export default async function handler(req, res) {
       const r = await fetch('https://api.resend.com/emails', {
         method: 'POST',
         headers: { authorization: `Bearer ${resend}`, 'content-type': 'application/json' },
-        body: JSON.stringify({ from, to, subject: `${headline}: ${company}`, text: lines.join('\n') }),
+        body: JSON.stringify({ from, to, subject: company ? `${headline}: ${company}` : headline, text: lines.join('\n') }),
       });
       mailOk = r.ok;
       if (r.ok) console.warn('request: internal mail fallback fired (slack leg failed)');
