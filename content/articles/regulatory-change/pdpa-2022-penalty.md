@@ -9,20 +9,20 @@ agencies: ["Singapore Statutes", "PDPC"]
 article_number: 13
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-14"
 word_count: 1132
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/pdpa-2022-penalty"
-meta_description: "Since 1 October 2022 the maximum PDPA penalty is the higher of S$1 million or 10% of annual Singapore turnover. Who the higher cap reaches."
+meta_description: "Since 1 October 2022 the maximum PDPA penalty is S$1 million, or 10% of Singapore turnover for an organisation turning over more than S$10 million there."
 og_title: "PDPA Amendment: 10% Turnover Penalty for Data Breaches"
-og_description: "Since 1 October 2022 the maximum PDPA penalty is the higher of S$1 million or 10% of annual Singapore turnover. Who the higher cap reaches."
+og_description: "Since 1 October 2022 the maximum PDPA penalty is S$1 million, or 10% of Singapore turnover for an organisation turning over more than S$10 million there."
 ---
 
 # How big is a PDPA fine for an SME data breach now?
 
 > **The Answer in 60 Seconds**
-> Since 1 October 2022, the maximum financial penalty under the [Personal Data Protection Act](https://sso.agc.gov.sg/Act/PDPA2012) for a data-protection breach is the higher of **S$1 million** or **10% of the organisation's annual turnover in Singapore**, where that local turnover exceeds S$10 million. The change was confirmed by the [PDPC on 30 September 2022](https://www.pdpc.gov.sg/news-and-events/announcements/2022/09/amendments-to-enforcement-under-the-personal-data-protection-act-in-updated-advisory-guidelines-and-guide). Mandatory breach notification, in force since 1 February 2021, requires notifying the PDPC within **3 calendar days** when a breach affects 500+ individuals or is likely to cause significant harm.
+> Since 1 October 2022, the maximum financial penalty under the [Personal Data Protection Act](https://sso.agc.gov.sg/Act/PDPA2012) for a data-protection breach is **S$1 million**, or **10% of the organisation's annual turnover in Singapore** where that turnover exceeds S$10 million ([section 48J(3)](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr48J-)). The change was confirmed by the [PDPC on 30 September 2022](https://www.pdpc.gov.sg/news-and-events/announcements/2022/09/amendments-to-enforcement-under-the-personal-data-protection-act-in-updated-advisory-guidelines-and-guide). Mandatory breach notification, in force since 1 February 2021, requires notifying the PDPC within **3 calendar days** when a breach affects 500+ individuals or is likely to cause significant harm.
 
 ## The Sourced Detail
 
@@ -33,7 +33,7 @@ The PDPA was amended in 2020 (the Personal Data Protection (Amendment) Act 2020)
 Per [section 48J of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012):
 
 - For organisations with **annual local turnover of S$10 million or less**, the penalty cap is **S$1 million**.
-- For organisations with **annual local turnover above S$10 million**, the penalty cap is **10% of annual local turnover**, with a floor of S$1 million.
+- For organisations with **annual local turnover above S$10 million**, the penalty cap is **10% of annual local turnover**, which at that size is always more than S$1 million.
 - Annual turnover is determined from the most recent audited accounts available at the time the penalty is imposed.
 
 For context: an SME with S$50 million in Singapore turnover faces a theoretical maximum penalty of S$5 million; one with S$200 million in turnover faces S$20 million.

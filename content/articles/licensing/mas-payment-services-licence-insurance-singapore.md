@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 483
 published: "2026-05-31"
 source_verified: "2026-05-31"
-updated: "2026-08-30"
+updated: "2026-09-14"
 word_count: 2112
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
@@ -58,9 +58,9 @@ The crucial word is "safeguarding institution". The Act [defines it](https://sso
 
 So when a founder hears that safeguarding "can include an insurance undertaking", the precise position is narrower. The statutory safeguarding options are a bank undertaking, a bank guarantee, or a trust account. These protect customer money if the firm fails. They do nothing to protect the firm itself against a data breach, a negligence claim or a regulatory action. That gap is where commercial insurance lives, and the Act does not require the firm to fill it.
 
-#### Technology risk and cyber expectations sit outside the policy question
+#### Technology risk: MAS expects insurance cover, as guidance rather than a licence condition
 
-MAS sets technology-risk and cyber resilience expectations for licensees through its notices and guidelines, and a payment firm is squarely within scope because it handles money and customer data at speed. Those expectations are about controls, governance and incident response, not about holding a particular insurance policy. A firm can meet every technology-risk expectation and still carry no cyber insurance, and it can carry generous cyber cover and still fall short on controls. The two are independent. Treat the regulatory expectation as an operational obligation, and treat cyber insurance as a separate decision about who absorbs the loss when, despite the controls, an incident still lands.
+MAS sets technology-risk and cyber expectations for licensees through its notices and guidelines, and a payment firm is squarely within scope because it handles money and customer data at speed. [Notice FSM-N14 on Cyber Hygiene](https://www.mas.gov.sg/regulation/notices/notice-fsm-n14) applies to every holder of a payment services licence and sets controls the firm must have in place. The [Technology Risk Management Guidelines](https://www.mas.gov.sg/regulation/guidelines/technology-risk-management-guidelines), which list major and standard payment institutions among the financial institutions they apply to, also address insurance. Paragraph 4.4.3 reads: "The FI should take insurance cover for various insurable technology risks to reduce financial impact such as recovery and restitution costs." That is a supervisory expectation, not a condition of the licence, and it sits beside the controls rather than replacing them. A firm with generous cyber cover and weak controls still falls short, and a firm with strong controls is still expected to insure the technology risks that can be insured.
 
 #### The insurance the law does compel: WICA
 
@@ -80,7 +80,7 @@ Three commercial policies come up for every payment firm, and the Act mandates n
 
 3. **Assuming all three licence classes carry the same obligations.** Security and safeguarding attach principally to the [major payment institution](https://sso.agc.gov.sg/Act/PSA2019?ProvIds=pr6-), not uniformly across money-changers and standard institutions.
 
-4. **Treating MAS technology-risk expectations and cyber insurance as the same thing.** One is an operational controls obligation; the other is a decision about who absorbs the loss. Meeting one does not satisfy the other.
+4. **Treating MAS technology-risk expectations and cyber insurance as the same thing.** The cyber hygiene controls in [Notice FSM-N14](https://www.mas.gov.sg/regulation/notices/notice-fsm-n14) are binding; the insurance expectation in paragraph 4.4.3 of the [TRM Guidelines](https://www.mas.gov.sg/regulation/guidelines/technology-risk-management-guidelines) is guidance. Meeting the controls does not answer the insurance expectation, and cover does not replace the controls.
 
 5. **Thinking the licence excuses you from WICA.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty follows employment, independent of any payment services licence.
 

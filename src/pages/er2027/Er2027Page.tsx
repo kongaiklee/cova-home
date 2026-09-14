@@ -142,11 +142,11 @@ function Signup() {
   if (status === 'sent') {
     return (
       <div role="status" className="rounded-xl border border-hairline-strong bg-white px-5 py-6 sm:px-7" data-er2027-sent>
-        <p className="m-0 font-serif text-2xl tracking-[-0.6px] text-text-primary">Thank you.</p>
+        <p className="m-0 font-serif text-2xl tracking-[-0.6px] text-text-primary">You are on the list.</p>
         <p className="m-0 mt-2 text-[15px]/relaxed text-text-primary">
           {sentOption === 'report_and_participate'
-            ? 'We will send you Emerging Risks 2027: Singapore Edition when it publishes, and our founder will be in touch to arrange the conversation.'
-            : 'We will send you Emerging Risks 2027: Singapore Edition when it publishes.'}
+            ? 'We will email you Emerging Risks 2027: Singapore Edition when it publishes in January 2027. Before then, our founder will email you to find a time for the 30-minute conversation.'
+            : 'We will email you Emerging Risks 2027: Singapore Edition when it publishes in January 2027.'}
         </p>
       </div>
     );

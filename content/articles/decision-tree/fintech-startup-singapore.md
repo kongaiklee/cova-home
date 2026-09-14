@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "MAS"]
 article_number: 249
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-14"
 word_count: 1402
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
@@ -21,7 +21,7 @@ og_description: "A fintech under Singapore's Payment Services Act faces licensin
 
 > **The Answer in 60 Seconds**
 >
-> Fintech startups in Singapore - covering payment service providers under [Payment Services Act 2019 (PSA)](https://sso.agc.gov.sg/Act/PSA2019), digital banking, lending platforms, robo-advisory under [Securities and Futures Act 2001 (SFA)](https://sso.agc.gov.sg/Act/SFA2001), insurance technology (insurtech), regtech, and specific fintech adjacent commercial scope - face a foundational insurance profile centred on substantial Cyber Liability with substantial limits, Professional Indemnity / Technology Errors & Omissions, D&O with substantial limits reflecting investor commercial scope, EPL, Commercial Crime with specific provisions for fiduciary scope, and specific [MAS](https://www.mas.gov.sg/) regulatory operational compliance. Considerations on MAS licensing scope (PSA Major Payment Institution / Standard Payment Institution, Capital Markets Services Licence, Financial Adviser's Licence, specific other MAS licensing), specific [Technology Risk Management (TRM) Guidelines](https://www.mas.gov.sg/), specific [AML/CFT Notices](https://www.mas.gov.sg/), and considerations on customer commercial scope matters substantially.
+> Fintech startups in Singapore - covering payment service providers under [Payment Services Act 2019 (PSA)](https://sso.agc.gov.sg/Act/PSA2019), digital banking, lending platforms, robo-advisory under [Securities and Futures Act 2001 (SFA)](https://sso.agc.gov.sg/Act/SFA2001), insurance technology (insurtech), regtech, and specific fintech adjacent commercial scope - face a foundational insurance profile centred on substantial Cyber Liability with substantial limits, Professional Indemnity / Technology Errors & Omissions, D&O with substantial limits reflecting investor commercial scope, EPL, Commercial Crime with specific provisions for fiduciary scope, and specific [MAS](https://www.mas.gov.sg/) regulatory operational compliance. Considerations on MAS licensing scope (PSA Major Payment Institution / Standard Payment Institution, Capital Markets Services Licence, Financial Adviser's Licence, specific other MAS licensing), specific [Technology Risk Management (TRM) Guidelines](https://www.mas.gov.sg/regulation/guidelines/technology-risk-management-guidelines), specific [AML/CFT Notices](https://www.mas.gov.sg/), and considerations on customer commercial scope matters substantially.
 
 ### The Sourced Detail
 
@@ -161,7 +161,7 @@ Specific consumer protection scenarios (B2C operations) engage commercial counse
 
 Fintech operations involve commercial conventions affecting insurance.
 
-Specific MAS regulatory operational scope creates substantial operational discipline considerations. [MAS Technology Risk Management Guidelines](https://www.mas.gov.sg/), [MAS Notice on Cyber Hygiene](https://www.mas.gov.sg/), [MAS Notice on Outsourcing](https://www.mas.gov.sg/), operational MAS Notices and Guidelines create operational discipline.
+Specific MAS regulatory operational scope creates substantial operational discipline considerations. [MAS Technology Risk Management Guidelines](https://www.mas.gov.sg/regulation/guidelines/technology-risk-management-guidelines), [MAS Notice on Cyber Hygiene](https://www.mas.gov.sg/regulation/notices/notice-fsm-n14) (FSM-N14, for payment services licensees), [MAS Notice on Outsourcing](https://www.mas.gov.sg/), operational MAS Notices and Guidelines create operational discipline.
 
 Specific AML/CFT framework creates operational scope. Specific transaction monitoring, specific suspicious transaction reporting, operational operational discipline.
 

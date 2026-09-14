@@ -27,7 +27,8 @@ import { dirname } from 'node:path';
 const ROOT = dirname(dirname(fileURLToPath(import.meta.url)));
 const VERBOSE = process.argv.includes('--verbose');
 
-const SKIP_DIRS = new Set(['node_modules', 'dist', '.git', '.vite-react-ssg-temp', 'coverage']);
+// `.vercel` holds a local `vercel build` output: a stale copy of old pages, build output like dist.
+const SKIP_DIRS = new Set(['node_modules', 'dist', '.git', '.vite-react-ssg-temp', 'coverage', '.vercel']);
 const EXTS = ['.md', '.mdx', '.tsx', '.ts', '.jsx', '.js', '.html', '.txt', '.json'];
 
 /**
@@ -78,6 +79,23 @@ const RULES = [
     re: /\bwe match (?:you|them|to)\b|matched to your industry|we route the lead|priority matching|(?:who|that) can match (?:a policy|cover) to your/i,
     why: 'COVA does not assess suitability or decide who a client sees. It passes requirements on.' },
 
+  // Added 2026-09-14 from COO's gate classification (P1-P3), landed with CMO's tier A/B strings in
+  // the same commit, so the corpus is clean the day the rules arrive and no allow-list exists.
+  // Proved 8/8 by COO: they catch 413's, 414's and F4's old sentences and pass the canon footer, the
+  // canon CTA and the FAA-N02 explainer. The patterns carry their own subject, so no SELF test:
+  // "it routes you to" names Covarage only in the sentence before.
+  { id: 'CAPABILITY-SELECTION', selfRequired: false,
+    re: /\b(?:we|Covarage|it)\s+(?:connects?|introduces?|routes?|refers?|match(?:es)?)\b[^.]{0,80}?\b(?:advisers?|advisors?|brokers?|IFAs?|Independent Financial Advisers?)\b[^.,]{0,20}\bwho\s+(?:do|can|knows?|specialise|specialize)\b|\ba route to a licensed adviser who\b/i,
+    why: 'Covarage introduces where the reader asks; it never picks an adviser for what they can do. Use "introduces you to a licensed adviser, who gives the advice and places the cover".' },
+
+  { id: 'ROUTES-VERB', selfRequired: false,
+    re: /\b(?:routes?|we route)\s+(?:you|SMEs|Singapore SMEs|businesses|clients)\s+to\b/i,
+    why: 'Covarage does not route anyone. Say "where you ask, introduces you to a licensed adviser".' },
+
+  { id: 'FAA-N02-SELF-CLAIM-WIDE', selfRequired: false,
+    re: /\b(?:our|its) position as an introducer\b|\b(?:we are|we act as|Covarage is|Covarage acts as|COVA acts as)\s+(?:an?\s+)?(?:registered\s+)?introducer\b/i,
+    why: 'No executed FAA-N02 appointment exists: never "our position as an introducer" or "Covarage is an introducer".' },
+
   { id: 'MARKET-ACCESS',
     re: /shops the entire market|access to all insurers|\bthe full market\b|most competitive option|\bbest (?:deal|match)\b/i,
     why: 'COVA cannot deliver or substantiate a market-access or best-outcome claim.' },
@@ -126,7 +144,7 @@ const RULES = [
     why: 'Internal governance artefacts do not belong in a served file. The build gate enforces a rule; a comment on the marketing site publishes it.' },
 ];
 
-/** Exact approved strings. A line containing one of these is the fix, not the defect. */
+/** Exact approved strings. The string itself is the fix, not the defect; the rest of its line is still checked. */
 const APPROVED = [
   'We are not a licensed insurance broker regulated by the Monetary Authority of Singapore',
   'we are not licensed or registered by the Monetary Authority of Singapore',
@@ -165,11 +183,15 @@ for (const file of walk(ROOT)) {
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const isSelf = SELF.test(line);
-    if (APPROVED.some(a => line.includes(a))) continue;
+    // An approved string is the fix, not the defect - so it is CUT from the line, never used to
+    // skip the line. Skipping let a claim ride beside it (2026-09-14 break test): A2's "a route to a
+    // licensed adviser who can size" shared a line with "every renewal date visible in one place"
+    // and passed every rule.
+    const probe = APPROVED.reduce((l, a) => l.split(a).join(' '), line);
     for (const rule of RULES) {
       // editorial about third parties is not our claim, unless the pattern is inherently ours
       if (rule.selfRequired !== false && !isSelf) continue;
-      if (rule.re.test(line)) {
+      if (rule.re.test(probe)) {
         violations.push({ rel, line: i + 1, id: rule.id, why: rule.why, text: line.trim().slice(0, 160) });
       }
     }

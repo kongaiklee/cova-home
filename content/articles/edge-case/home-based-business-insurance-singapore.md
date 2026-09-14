@@ -106,7 +106,7 @@ Keep the home contents policy for the household, and read its business-use exclu
 
 Check your operation against the [HDB scheme conditions](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/home-business/home-based-business-scheme) (or the URA Home Office terms for private property) at the same time, because growth that breaches the scheme and growth that breaks the insurance assumptions tend to arrive together. The day you take on storage, traffic, or an employee is the day to revisit both.
 
-Covarage helps with the part that quietly goes wrong for home operators: keeping the home policy, the business cover, and the WICA policy organised in one place, with every renewal date visible in one place, and a route to a licensed adviser who can size a home-business package to what you actually do.
+Covarage helps with the part that quietly goes wrong for home operators: keeping the home policy, the business cover, and the WICA policy organised in one place, with every renewal date visible, and, where you ask, an introduction to a licensed adviser, who gives the advice and places the cover.
 
 ### Questions to Ask Your Adviser
 

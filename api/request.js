@@ -13,8 +13,9 @@
  *   RESEND_API_KEY      Resend API key
  *   REQUEST_MAIL_FROM   verified sender, e.g. "Covarage <requests@covarage.com>"
  *   REQUEST_MAIL_TO     comma-separated recipients
- *   SLACK_ER2027_WEBHOOK_URL  the Emerging Risks 2027 signup's OWN webhook - a Kong-only channel
- *   ER2027_MAIL_TO            the ER2027 signup's own fallback recipients - Kong only
+ *   SLACK_ER2027_WEBHOOK_URL  the Emerging Risks 2027 signup's OWN webhook - a private channel, if ever used
+ *   ER2027_MAIL_TO            the ER2027 signup's own recipients - Kong + Zul (Kong 2026-09-14: "send it
+ *                             to me and zul's emails")
  *
  * With none configured the endpoint answers 503 and the form shows its error line, so the button
  * cannot silently swallow a request. An ER2027 signup reads ONLY its own two variables and never
@@ -169,10 +170,27 @@ export default async function handler(req, res) {
   // emailed, and the team calls them instead.
   // An Emerging Risks 2027 signup gets NO founder welcome: it thanks the reader for requesting
   // ACCESS and offers an onboarding call - a purpose COO's cleared consent line does not name
-  // (COO s2.5: the acknowledgement must match the option chosen and add no purpose). Its own
-  // acknowledgement is CMO's copy to write; until it exists, nothing is sent.
+  // (COO s2.5: the acknowledgement must match the option chosen and add no purpose). It gets ITS
+  // OWN acknowledgement instead (CMO's copy; Kong 2026-09-14 11:2x via the hub, "ok good to go lets
+  // send the email"). A reply goes to the signup's own recipients, so a participant's answer
+  // reaches the same two people as the signup did and no one else.
   if (er2027) {
-    console.log('request: er2027 signup recorded (no acknowledgement until its copy exists)');
+    if (resend && from) {
+      const ack = composeEr2027Ack({ name, participate });
+      try {
+        const sent = await fetch('https://api.resend.com/emails', {
+          method: 'POST',
+          headers: { authorization: `Bearer ${resend}`, 'content-type': 'application/json' },
+          body: JSON.stringify({ from, to: [email], ...(to.length ? { reply_to: to } : {}), subject: ack.subject, text: ack.text, html: ack.html }),
+        });
+        if (sent.ok) console.log('request: er2027 ack sent');
+        else console.warn('request: er2027 ack failed', sent.status);
+      } catch (e) {
+        console.warn('request: er2027 ack failed', String(e).slice(0, 80));
+      }
+    } else {
+      console.warn('request: er2027 ack skipped (mail unconfigured)');
+    }
   } else if (resend && from && email) {
     const ack = composeAck({ name, email });
     try {
@@ -194,6 +212,13 @@ export default async function handler(req, res) {
   return res.status(200).json({ ok: true });
 }
 
+/** The legal block every outbound email carries: the site footer, unchanged. */
+const DISCLOSURE = 'Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.';
+// The registered line carries the RULED address (KONG ~00:5x w5, via COO's records: the office
+// moved May 2026, ACRA-acknowledged) - the template file carries it. The estate-wide sweep of
+// the stale pre-move address was plan item 22, executed w6.
+const REGISTERED = 'Covarage Pte. Ltd. · UEN 202531227H · 20 Cecil Street, #22-00, PLUS Building, Singapore 049705';
+
 /**
  * The founder welcome - KONG'S OWN DRAFT, worked over (CMO s15 row 28, w5: his verdicts applied,
  * preview observed in his inbox). A welcome, not a receipt: the data playback lives on s16, the
@@ -212,11 +237,8 @@ export function composeAck({ name, email }) {
   const q = params.toString();
   const booking = q ? `https://cal.com/kongaiklee/30min?${q}` : 'https://cal.com/kongaiklee/30min';
   const greet = name ? `Hi ${name},` : 'Hi,';
-  const disclosure = 'Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.';
-  // The registered line carries the RULED address (KONG ~00:5x w5, via COO's records: the office
-  // moved May 2026, ACRA-acknowledged) - the template file carries it. The estate-wide sweep of
-  // the stale pre-move address was plan item 22, executed w6.
-  const registered = 'Covarage Pte. Ltd. \u00b7 UEN 202531227H \u00b7 20 Cecil Street, #22-00, PLUS Building, Singapore 049705';
+  const disclosure = DISCLOSURE;
+  const registered = REGISTERED;
   const text = [
     greet,
     '',
@@ -295,6 +317,80 @@ export function composeAck({ name, email }) {
   // Subject: KONG'S SHORT-FORM RULING (w5 00:5x, recorded in the template header) - the tagline
   // lives in the body signature only, never in the subject. Supersedes row 28's composite.
   return { subject: 'Welcome to Covarage', text, html };
+}
+
+/**
+ * The Emerging Risks 2027 acknowledgement - CMO's copy verbatim (strings v1.0 s4), sent on Kong's
+ * word (2026-09-14 11:2x, via the hub: "ok good to go lets send the email"). The founder welcome's
+ * card and legal footer, signed by Kong as that one is. It names only the two purposes COO's
+ * consent line names - the report, and the conversation for option 2 only - and repeats the
+ * withdrawal route (COO s2.5). No booking link: the conversation is arranged by hand.
+ */
+export function composeEr2027Ack({ name, participate }) {
+  const greet = name ? `Hi ${name},` : 'Hi,';
+  const page = 'https://covarage.com/emerging-risks-2027';
+  const paras = [
+    'Thank you for signing up for Emerging Risks 2027: Singapore Edition.',
+    'We are talking to business leaders across Singapore about the risks they expect next year, from AI fraud to heat stress, and what they have done about each one. The report publishes in January 2027, and we will email you a copy when it does.',
+    ...(participate ? ['You also asked to take part. I will email you to find a time for our 30-minute conversation.'] : []),
+  ];
+  const until = 'Until then, everything we have already published on these risks is at';
+  const withdraw = 'You can withdraw and ask us to delete your details at any time at';
+  const text = [
+    greet,
+    '',
+    ...paras.flatMap((p) => [p, '']),
+    `${until} ${page}`,
+    '',
+    `${withdraw} dpo@covarage.com.`,
+    '',
+    'Warmly,',
+    '',
+    'Kong',
+    'Founder, Covarage',
+    '',
+    '--',
+    REGISTERED,
+    DISCLOSURE,
+    '(c) Covarage 2026',
+  ].join('\n');
+  const body = (s, extra) => `<p style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#1f1a14; margin:${extra || '0 0 18px 0'};">${s}</p>`;
+  const link = (href, label) => `<a href="${href}" style="color:#423226;">${label}</a>`;
+  const html = [
+    '<table width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#f4f2ee; margin:0; padding:0;">',
+    '  <tr>',
+    '    <td align="center" style="padding:40px 16px;">',
+    '      <table width="560" cellpadding="0" cellspacing="0" border="0" style="max-width:560px; width:100%; background-color:#ffffff; border:1px solid #e6e1d8; border-radius:8px;">',
+    '        <tr>',
+    '          <td style="padding:32px 40px 0 40px;">',
+    '            <img src="https://covarage.com/assets/logo.png" width="22" height="22" alt="" style="vertical-align:middle; margin-right:8px; background-color:#423226; border-radius:50%;">',
+    '            <span style="font-family:Arial,Helvetica,sans-serif; font-size:17px; font-weight:800; color:#423226; vertical-align:middle;">Covarage</span>',
+    '          </td>',
+    '        </tr>',
+    '        <tr>',
+    '          <td style="padding:28px 40px 32px 40px;">',
+    body(esc(greet)),
+    ...paras.map((p) => body(p)),
+    body(`${until} ${link(page, page)}`),
+    body(`${withdraw} ${link('mailto:dpo@covarage.com', 'dpo@covarage.com')}.`, '0 0 24px 0'),
+    body('Warmly,', '0'),
+    '            <p style="font-family:Arial,Helvetica,sans-serif; font-size:15px; line-height:1.7; color:#1f1a14; margin:12px 0 0 0;">Kong<br>',
+    '            <span style="font-size:13px; color:#8a7c6c;">Founder, Covarage</span></p>',
+    '          </td>',
+    '        </tr>',
+    '        <tr>',
+    '          <td style="padding:20px 40px 28px 40px; border-top:1px solid #eee9e0;">',
+    '            <p style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.6; color:#a39684; margin:0 0 8px 0;">Covarage Pte. Ltd. &middot; UEN 202531227H &middot; 20 Cecil Street, #22-00, PLUS Building, Singapore 049705</p>',
+    `            <p style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.6; color:#a39684; margin:0 0 8px 0;">${DISCLOSURE}</p>`,
+    '            <p style="font-family:Arial,Helvetica,sans-serif; font-size:11px; line-height:1.6; color:#a39684; margin:0;">&copy; Covarage 2026</p>',
+    '          </td>',
+    '        </tr>',
+    '      </table>',
+    '    </td>',
+    '  </tr>',
+    '</table>',
+  ].join('\n');
+  return { subject: 'You are on the list for Emerging Risks 2027', text, html };
 }
 
 function esc(s) {

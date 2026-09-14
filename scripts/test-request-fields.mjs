@@ -204,6 +204,7 @@ await check('a mobile-only reader gets no email and the submission still succeed
 
 const ER = { source: 'er2027', consent_version: 'consent v1.0 2026-09-14', page: '/emerging-risks-2027' };
 const ER2027_TEST_OPTIONS = ['report', 'report_and_participate'];
+const ER_ACK_SUBJECT = 'You are on the list for Emerging Risks 2027';
 
 await check('er2027: a report signup with only an email is accepted and recorded', async () => {
   const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
@@ -249,10 +250,34 @@ await check('er2027: a signup with no email is refused', async () => {
   return r.code === 400 ? null : `status ${r.code}`;
 });
 
-// BREAK: the founder welcome would add a purpose the consent line does not name (COO s2.5).
-await check('er2027: no founder welcome is sent to a report signup', async () => {
+// BREAK: the founder welcome would add a purpose the consent line does not name (COO s2.5). The
+// signup sent NO email until CMO's copy existed; Kong's 2026-09-14 word sends it, so this assertion
+// is INVERTED rather than deleted: its own acknowledgement goes, the founder welcome never does.
+await check('er2027: a report signup gets its own acknowledgement, never the founder welcome', async () => {
   const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
-  return r.mail.length === 0 ? null : `${r.mail.length} email(s) sent - subject ${JSON.stringify(r.mail[0] && r.mail[0].subject)}`;
+  if (r.mail.some((m) => m.subject === 'Welcome to Covarage')) return 'the founder welcome was sent';
+  const ack = r.mail.filter((m) => m.subject === ER_ACK_SUBJECT);
+  if (ack.length !== 1) return `${ack.length} acknowledgements`;
+  const a = ack[0];
+  if (a.to.join(',') !== 'reader@example.com') return `ack addressed to ${a.to}`;
+  if (!a.text.startsWith('Hi,\n')) return `greeting: ${a.text.split('\n')[0]}`;
+  if (a.text.includes('take part')) return 'the participant sentence reached a report-only signup';
+  if (!a.text.includes('dpo@covarage.com') || !a.html.includes('mailto:dpo@covarage.com')) return 'no withdrawal route';
+  if (/cal\.com|onboarding|requesting access/i.test(a.text + a.html)) return 'a purpose the consent line does not name';
+  return null;
+});
+
+// BREAK: option 2's sentence belongs to option 2 only, and a reply must reach only the two
+// people the signup itself reached (condition 3, Kong + Zul).
+await check('er2027: a participant ack carries the conversation sentence and replies reach only the signup recipients', async () => {
+  const r = await post({ ...ER, option: 'report_and_participate', email: 'gm@example.com', name: 'A Person', company: 'A Co', role: 'GM' });
+  const a = r.mail.find((m) => m.subject === ER_ACK_SUBJECT);
+  if (!a) return 'no acknowledgement';
+  if (!a.text.startsWith('Hi A Person,\n')) return `greeting: ${a.text.split('\n')[0]}`;
+  const line = 'You also asked to take part. I will email you to find a time for our 30-minute conversation.';
+  if (!a.text.includes(line) || !a.html.includes(line)) return 'the participant sentence is missing from a part';
+  const rt = [].concat(a.reply_to || []).join(',');
+  return rt === 'kong@example.invalid' ? null : `reply_to ${rt}`;
 });
 
 // ---- the ER2027 destination (hub /check #9 w20) ----
@@ -283,10 +308,12 @@ await check('er2027: with no own webhook, the fallback mail goes to its own reci
     const r = await post({ ...ER, option: 'report', email: 'reader@example.com' });
     if (r.code !== 200) return `status ${r.code}`;
     if (r.hook) return `posted to ${r.hook}`;
-    if (r.mail.length !== 1) return `${r.mail.length} emails`;
-    const to = r.mail[0].to.join(',');
+    const internal = r.mail.filter((m) => m.subject !== ER_ACK_SUBJECT);
+    if (internal.length !== 1) return `${internal.length} internal emails`;
+    const to = internal[0].to.join(',');
     if (to !== 'kong@example.invalid') return `mailed to ${to}`;
-    return r.mail[0].subject === 'Emerging Risks 2027 - report signup' ? null : `subject ${JSON.stringify(r.mail[0].subject)}`;
+    if (r.mail.some((m) => m.to.includes('team@example.invalid'))) return 'the team inbox was mailed';
+    return internal[0].subject === 'Emerging Risks 2027 - report signup' ? null : `subject ${JSON.stringify(internal[0].subject)}`;
   } finally { process.env.SLACK_ER2027_WEBHOOK_URL = saved; }
 });
 

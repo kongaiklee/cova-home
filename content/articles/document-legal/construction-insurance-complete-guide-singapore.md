@@ -103,7 +103,7 @@ Then match the stack to your position in the industry. Your BCA workhead and gra
 
 Above all, read the insurance schedule of every contract before you sign, not after the first claim. The contract, not a generic policy, is what defines the limits, the joint-names requirement, the subrogation waiver, and the bond. A policy that satisfies one client's schedule can fall short of the next.
 
-Covarage keeps the moving parts of the stack in one place: the CAR and WIC policies and their schedules, the public liability limits and indemnity-to-principal extensions, the bond expiries, the PI cover on design-and-build work, and the renewal dates with reminders before anything lapses. The compliance and the contract terms are yours; the admin that usually causes a gap is what we take off your desk, and we route you to a licensed adviser when a job needs cover arranged or reviewed.
+Covarage keeps the moving parts of the stack in one place: the CAR and WIC policies and their schedules, the public liability limits and indemnity-to-principal extensions, the bond expiries, the PI cover on design-and-build work, and the renewal dates with reminders before anything lapses. The compliance and the contract terms are yours; the admin that usually causes a gap is what we take off your desk, and, where you ask, we introduce you to a licensed adviser when a job needs cover arranged or reviewed.
 
 ### Questions to Ask Your Adviser
 

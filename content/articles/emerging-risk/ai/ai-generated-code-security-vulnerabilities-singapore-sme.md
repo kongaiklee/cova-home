@@ -24,7 +24,7 @@ When a Singapore software-as-a-service founder pastes "build me a login page wit
 
 Where Covarage's pieces on the [MAS, AI Verify and EU AI Act compliance timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline), [chatbot misrepresentation](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme), [deepfake funds-transfer fraud](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme) and [AI bias in hiring](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme) deal with how AI talks, defrauds, or discriminates, this one deals with the code itself - the silent, structural risk sitting inside every product a Singapore SME has shipped using GitHub Copilot, Cursor, Claude Code, Replit Agent, Lovable, Bolt, v0, or Devin.
 
-The information below is factual and routes you to a licensed Independent Financial Adviser at the end.
+The information below is factual, and at the end, where you ask, we introduce you to a licensed Independent Financial Adviser.
 
 ---
 
