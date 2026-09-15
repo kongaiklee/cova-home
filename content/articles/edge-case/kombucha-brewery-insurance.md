@@ -9,7 +9,7 @@ agencies: ["SFA", "Singapore Statutes"]
 article_number: 79
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1873
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
@@ -219,5 +219,3 @@ The insurance for a small Singapore kombucha brewery is materially more complex 
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 80-82 launch the Crisis Claim Experience category - high-emotion, high-search queries that arrive at peak stress moments: a worker fatality, a ransomware incident, and a customer lawsuit. These are written as response sequences, not theoretical analyses. Articles 83-85 expand the Decision Tree Checklists with three high-volume opening-business categories: yoga studio (specialised liability profile), salon (six service tiers from basic hair to medi-spa), and SaaS startup (the most complex Decision Tree yet, mapping insurance build to fundraising stages). Articles 86-88 launch the Cross-Border category with three of the most-searched cross-border queries: Singapore SME with Malaysian branch (SOCSO/EIS interaction with WICA), Singapore SaaS selling to US customers (USA/Canada extension and US enterprise MSA requirements), and Singapore SME hiring Filipino remote workers (contractor / EOR / subsidiary structural choice). Article 89 continues the Edge Case category with dog daycare and boarding - a pet care category where standard SME PL is structurally inadequate and specialty cover is required.

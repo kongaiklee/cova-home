@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "MAS", "ACRA"]
 article_number: 360
 published: "2026-05-06"
 source_verified: "2026-05-06"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1864
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
@@ -264,20 +264,3 @@ The expansion of FIDReC jurisdiction to SMEs represents material improvement in 
 *Published 6 May 2026. Source verified 6 May 2026.*
 
 ---
-
-## Batch 37 - Crisis Operations Set (10 Articles)
-
-**Articles 361-370. /crisis category. Multi-casualty WSH, confined space, lifting equipment, BEC wire fraud, ransomware negotiation, MAS adverse findings, TAFEP harassment, SFA caterer suspension, customer receivership, product recall.**
-
-| # | Article | Slug |
-|---|---|---|
-| 361 | Multi-Injury Workplace Incident: 3+ Workers Down, MOM Major-Incident Classification | /crisis/multi-injury-mass-casualty-mom-major-classification |
-| 362 | Confined Space Fatality: Hydrogen Sulphide Exposure and the Multi-Casualty Rescue Trap | /crisis/confined-space-fatality-h2s-rescue-trap |
-| 363 | Lifting Operation Failure: Crane Collapse, Lorry Crane Topple, Tower Crane Failure | /crisis/lifting-equipment-collapse-crane-incident |
-| 364 | Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered | /crisis/bec-wire-fraud-loss-discovered |
-| 365 | Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision | /crisis/ransomware-active-negotiation-phase |
-| 366 | MAS Adverse Examination Findings Letter: Day 1 of a Regulatory Crisis for an FA, FMC, or PSP | /crisis/mas-adverse-examination-findings-letter |
-| 367 | TAFEP / Sexual Harassment Investigation Served on the Employer | /crisis/tafep-harassment-investigation-served |
-| 368 | SFA Caterer Suspension Order: Restoring Operations After a Foodborne Illness Cluster | /crisis/sfa-caterer-suspension-foodborne-illness |
-| 369 | Customer Receivership Mid-Receivable: The Trade Credit Insurance Notification Window | /crisis/customer-receivership-trade-credit-claim |
-| 370 | Product Recall Order Served by CPSO or HSA: The 24-Hour Window and the BI Cliff | /crisis/product-recall-order-cpso-hsa |

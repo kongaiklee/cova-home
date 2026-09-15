@@ -9,7 +9,7 @@ agencies: ["NPARKS", "Singapore Statutes", "HDB", "URA"]
 article_number: 89
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1894
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
@@ -254,5 +254,3 @@ The business is rewarding for owners who truly care about animals; the insurance
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 90-92 continue Crisis Claim Experience with three high-frequency SME crisis scenarios: vendor running off with deposit (where insurance rarely responds, civil/criminal recovery is the path), employee embezzlement discovery (Fidelity Guarantee mechanics, do-not-confront discipline), and MOM Stop-Work Order receipt (regulatory enforcement with operational, financial, employment, and insurance dimensions running in parallel). Articles 93-95 expand Decision Trees with three professional-services-and-childcare openings: law firm (mandatory Law Society PI, Cyber discipline for legal data), interior design firm (CaseTrust + Deposit Performance Bond, dual model design+contractor structure), and childcare/kindergarten (most heavily regulated SME category covered, ECDA framework). Articles 96-97 continue Cross-Border with overseas property holdings (multinational programme structure) and EU customer GDPR exposure (Article 3 extraterritoriality, EU panel access, dual-jurisdiction breach response). Articles 98-99 expand Document-Legal with PDPA Section 24 Protection Obligation (the most-enforced PDPA provision) and WICA Designated Insurer Regulations (mechanism by which the 24-insurer panel actually works).

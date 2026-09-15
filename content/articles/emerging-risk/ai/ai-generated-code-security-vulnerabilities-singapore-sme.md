@@ -10,7 +10,7 @@ agencies: ["CSA", "Singapore Statutes", "Courts", "IMDA", "MAS"]
 article_number: 417
 published: "2026-05-08"
 source_verified: "2026-09-12"
-updated: "2026-09-12"
+updated: "2026-09-15"
 word_count: 4799
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
@@ -280,7 +280,5 @@ When you sit down with a licensed Independent Financial Adviser or broker, the f
 - [Cybersecurity Act 2024 Amendments](/regulatory-change/cyber-act-2024)
 
 *Published 8 May 2026. Source verified 8 May 2026.*
-
----
 
 ---

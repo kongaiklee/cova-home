@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "CONSUMERPRODUCTSAFETY", "EnterpriseSG", "HSA"]
 article_number: 370
 published: "2026-05-06"
 source_verified: "2026-05-06"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 2234
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
@@ -332,28 +332,3 @@ The cost of product recall is substantial - and, because it is largely first-par
 - /comparison/cpr-vs-pl-recall-extension-singapore-fb
 
 *Published 6 May 2026. Source verified 6 May 2026.*
-
-## Batch 38 - /procedural-howto Operational Procedures (Articles 371-380)
-
-- [Article 371 - How to Obtain a Certificate of Insurance for a Tender Deadline in 24 Hours](/procedural-howto/coi-tender-deadline-24-hours-singapore)
-- [Article 372 - How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
-- [Article 373 - How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
-- [Article 374 - How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
-- [Article 375 - How to Obtain Premium Financing for Commercial Insurance](/procedural-howto/premium-financing-commercial-insurance-singapore-sme)
-- [Article 376 - How to Claim GST Input Tax on Insurance Premiums](/procedural-howto/gst-input-tax-insurance-premiums-singapore-iras)
-- [Article 377 - How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale](/procedural-howto/extended-reporting-period-tail-cover-ma-singapore)
-- [Article 378 - How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
-- [Article 379 - How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
-- [Article 380 - How to Respond to a Non-Renewal Notice from a Commercial Insurer](/procedural-howto/non-renewal-notice-commercial-insurer-singapore)
-- [Article 381 - S Pass Tier 1 Levy Harmonisation 1 September 2025: Foreign Worker Programme Cost Impact](/regulatory-change/s-pass-tier-1-levy-harmonisation-1-september-2025)
-- [Article 382 - MAS Guidelines on Outsourcing (FI Other Than Banks) Effective 11 December 2024: Tech E&O / Cyber Implications for SME Vendors](/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024)
-- [Article 383 - WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
-- [Article 384 - BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
-- [Article 385 - MAS Notice 134 Recovery and Resolution Planning for Insurers Effective 1 January 2025: SME Counterparty Risk Implications](/regulatory-change/mas-notice-134-recovery-resolution-planning-insurers-1-january-2025)
-- [Article 386 - Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, EPL Underwriting Impact](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
-- [Article 387 - WSH Top Executive Workplace Safety and Health Programme (TEWP) Mandate Effective 1 March 2024: D&O Implications for High-Risk Industry Directors](/regulatory-change/wsh-tewp-director-training-mandate-1-march-2024)
-- [Article 388 - PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 389 - MAS Consultation on AI Risk Management Guidelines (13 November 2025): Tech E&O / D&O Implications for SME AI Vendors](/regulatory-change/mas-ai-risk-management-guidelines-consultation-13-november-2025)
-- [Article 390 - Food Safety and Security Act 2025 Tranche 1 Effective 28 November 2025: F&B Product Liability, Recall, and Contamination Cover Implications](/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability)
-
----

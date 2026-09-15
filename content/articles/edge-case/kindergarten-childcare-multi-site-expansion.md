@@ -9,7 +9,7 @@ agencies: ["ECDA", "Singapore Statutes", "MAS", "GIA", "MSF"]
 article_number: 229
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1407
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
@@ -160,5 +160,3 @@ For substantive operations, specialist segment-aware broker engagement, specific
 *Published 5 May 2026. Source verified 5 May 2026.*
 
 ---
-
-Ten cross-border pieces extending regional jurisdictional coverage. India, Philippines, Taiwan, CLM emerging markets, New Zealand, EU/Germany, multi-country master programme architecture, UAE/Middle East, Africa, and Latin America. Each piece addresses substantively distinct regulatory framework, mandatory benefit framework, data protection regime, and commercial conventions for Singapore-headquartered SMEs operating cross-border commercial scope.

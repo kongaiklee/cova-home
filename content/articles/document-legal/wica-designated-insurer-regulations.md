@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 99
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 2291
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
@@ -267,5 +267,3 @@ The designated insurer framework reflects a deliberate regulatory choice: ensuri
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-This batch crosses the 100-article milestone. Article 100 itself returns to the Industry Association category with the BCA Contractors Registration System (CRS) - workheads, tiers, and insurance implications - a foundational reference for any construction-adjacent SME. Articles 101 expands Decision Trees with Halal F&B / catering operations; Article 102 adds another Industry Association anchor with SFA Licensing Tiers (the food retail / production / catering classification framework). Articles 103-104 continue Edge Case with food truck operators and tutoring/enrichment centres for ages 7+ (non-ECDA framework, distinct from Article 95's childcare focus). Articles 105-106 continue Crisis Claim Experience with two regulator-engagement scenarios: receiving an audit notice and receiving notification of a customer complaint filed with a regulator. Articles 107-108 deepen Procedural How-To with two of the most-searched specialised claim types: filing a Professional Indemnity claim and filing a Directors & Officers claim - both claims-made covers with specific timelines and documentation. Article 109 continues Cross-Border with Singapore SME with Indonesian operations (BPJS, OJK, local insurer requirements).

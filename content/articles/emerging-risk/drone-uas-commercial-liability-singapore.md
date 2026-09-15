@@ -9,8 +9,8 @@ agencies: ["CAAS", "Singapore Statutes", "MOM"]
 article_number: 493
 published: "2026-05-31"
 source_verified: "2026-09-12"
-updated: "2026-09-12"
-word_count: 3034
+updated: "2026-09-14"
+word_count: 2940
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/drone-uas-commercial-liability-singapore"
@@ -73,7 +73,7 @@ Treat third-party liability insurance as a precondition of doing the work, becau
 
 Drone insurance is not one policy. It is a stack, and the components answer different exposures.
 
-**Third-party public liability (aviation).** This is the cover that responds to the [section 42](https://sso.agc.gov.sg/Act/ANA1966?ProvIds=pr42-) exposure: injury to a person or damage to property on the ground from a fall, collision, or article dropped from the drone. The trap is that a public liability policy written for premises or trade is not an aviation policy, and the cover has to be written by an insurer that affirmatively includes unmanned aircraft operations. The cover has to be written by an insurer that affirmatively includes UA operations. The limit is set by the contract you are signing and by the value of what sits under the flight path, and the client's indemnity clause is where that number is written down.
+**Third-party public liability (aviation).** This is the cover that responds to the [section 42](https://sso.agc.gov.sg/Act/ANA1966?ProvIds=pr42-) exposure: injury to a person or damage to property on the ground from a fall, collision, or article dropped from the drone. The trap is that a public liability policy written for premises or trade is not an aviation policy, and the cover has to be written by an insurer that affirmatively includes unmanned aircraft operations. The limit is set by the contract you are signing and by the value of what sits under the flight path, and the client's indemnity clause is where that number is written down.
 
 **Hull.** Physical loss or damage to the drone itself, including flyaway, crash, and in some forms theft. Relevant where the airframe and payload represent real capital.
 
@@ -85,12 +85,12 @@ Drone insurance is not one policy. It is a stack, and the components answer diff
 
 **Cyber.** Drone operations generate and store imagery and survey data, sometimes of client sites and critical infrastructure. Where that data is sensitive or personal, the [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) obligations and a cyber exposure attach. For higher-volume or higher-sensitivity operators this belongs in the conversation.
 
-No single policy covers a drone business: the aviation public liability and the WICA cover are the load-bearing pieces, and a standard SME package does not contain the aviation piece. The aviation public liability and the WICA cover are the load-bearing pieces, and the standard SME packages most owners already hold do not contain the aviation piece.
+No single policy covers a drone business: the aviation public liability and the WICA cover are the load-bearing pieces, and a standard SME package does not contain the aviation piece.
 
 ## Common Mistakes
 
-1. ****Assuming the office public liability policy covers the drone.** An unmanned aircraft is an aircraft, and a policy written for premises or trade answers a drone loss only where it names unmanned aircraft operations. General PL policies carry an aviation exclusion, and an unmanned aircraft is an aircraft. A drone loss falls into the gap unless the cover affirmatively names UA operations.
-2. ****Treating the drone's weight as the test.** For commercial use the Operator Permit, Activity Permit and UA Pilot Licence are all triggered regardless of mass, and a sub-250-gram drone still needs the permits and a licensed pilot; registration, the CFMS tracker and Broadcast Remote Identification are the three duties that turn on the 250-gram line. A sub-250-gram drone still needs the permits and a licensed pilot when flown for business; it is only registration that turns on the 250-gram line.
+1. **Assuming the office public liability policy covers the drone.** An unmanned aircraft is an aircraft, and a policy written for premises or trade answers a drone loss only where it names unmanned aircraft operations.
+2. **Treating the drone's weight as the test.** For commercial use the Operator Permit, Activity Permit and UA Pilot Licence are all triggered regardless of mass, and a sub-250-gram drone still needs the permits and a licensed pilot; registration, the CFMS tracker and Broadcast Remote Identification are the three duties that turn on the 250-gram line.
 3. **Believing "I was careful" is a defence.** [Section 42(2) of the Air Navigation Act 1966](https://sso.agc.gov.sg/Act/ANA1966?ProvIds=pr42-) imposes liability on the owner for surface damage without proof of negligence. Care reduces the frequency of accidents; it does not defeat the claim once damage occurs.
 4. **Flying without registering a drone over 250 grams.** Operating an unregistered registrable drone is an offence under the [Unmanned Aircraft Operations Regulations 2019](https://sso.agc.gov.sg/SL/ANA1966-S833-2019?DocDate=20191219), with a fine of up to S$10,000 or imprisonment of up to 6 months.
 5. **Flying without the CFMS tracker or the FlyItSafe application running.** Regulation 19D of the [Unmanned Aircraft Operations Regulations](https://sso.agc.gov.sg/SL/ANA1966-S833-2019) requires an Operator Permit holder to fit a CFMS tracking device to every drone above 250 grams and to keep the designated mobile application in active use during the flight, and a breach carries a fine of up to S$10,000 or imprisonment of up to 6 months.

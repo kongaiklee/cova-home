@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 50
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1306
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
@@ -91,5 +91,3 @@ For SMEs, the cost of getting this right is process discipline. The cost of gett
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 51-55 cover claim filing for marine cargo, FDW direct reimbursement, group medical outpatient, public liability event slip-and-fall, and the WICA-vs-common-law election. Articles 56-58 are comparison VS articles (broker vs direct, tied agent vs licensed adviser, WICA vs GPA). Article 59 is the first glossary explainer for the document-legal category (indemnity to principal).

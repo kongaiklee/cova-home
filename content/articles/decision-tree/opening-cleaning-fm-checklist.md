@@ -9,7 +9,7 @@ agencies: ["NEA", "MOM", "Singapore Statutes"]
 article_number: 219
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1964
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
@@ -256,5 +256,3 @@ For facilities management operations extending beyond cleaning (mechanical maint
 *Published 5 May 2026. Source verified 5 May 2026.*
 
 ---
-
-Ten edge-case pieces extending niche-vertical coverage. End-of-life services, specialty medical aesthetics, cryptocurrency / Web3 operators, art market operations, distributed vending operations, vape / tobacco retail post-regulation, marine charter, specialty fitness, co-working spaces, and multi-site kindergarten / childcare expansion. Each piece addresses a distinctive operational profile where standard SME commercial scope creates material gaps.

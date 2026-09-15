@@ -9,7 +9,7 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 129
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 2176
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
@@ -367,5 +367,3 @@ The licensed adviser framework provides regulatory protection and accountability
 *Published 5 May 2026. Source verified 5 May 2026.*
 
 ---
-
-Articles 130-132 expand Decision Trees with three healthcare practice categories at varying complexity levels: medical clinic / specialist practice (HCSA service licensing, SMC professional regulation, specialty-driven Medical Indemnity, long-tail exposure profile), dental practice (SDC framework, equipment-dependency including compressor as single point of failure, implant practice elevated underwriting), and physiotherapy / allied health (AHPC framework, multi-site practice with worldwide territorial scope, lower indemnity profile than medical/dental but specific-specialty considerations). Articles 133-134 continue Edge Case with two distinctive non-fixed-premises categories: mobile beauty / wellness (no-fixed-premises PL gap, Treatment Risk / Beauty Therapy Liability essential, equipment in transit, platform-engagement WICA classification) and pet grooming / boutique pet services (Bailee / CCC extension as foundational, AVS licensing for boarding operations, mobile groomer specifics). Articles 135-136 continue Crisis with two categories where insurance plays limited but specific roles: PR crisis / viral social media incident (Cyber reputation sub-limits, defamation under PI, EPL for employee-conduct dimension; most reputation impact not insurance-coverable) and anchor tenant departure (co-tenancy clauses as primary remedy, BI does not respond, commercial market risk not insurance issue). Article 137 continues Cross-Border with Hong Kong operations - Cap. 282 Employees' Compensation, Cap. 485 MPF, Insurance Authority framework, common-law jurisdiction parallels with Singapore. Articles 138-139 expand Document-Legal with two foundational frameworks: Employment Act 1968 Section 14 wrongful dismissal (due inquiry procedural framework, Tripartite Guidelines, ECT process, EPL insurance scope and limits) and MAS Guidelines on Outsourcing (FI service provider compliance and insurance requirements, cloud outsourcing specifics, cascading certification expectations).

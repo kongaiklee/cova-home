@@ -9,7 +9,7 @@ agencies: ["Courts"]
 article_number: 59
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-09-11"
+updated: "2026-09-15"
 word_count: 1527
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
@@ -111,5 +111,3 @@ If a contract counterparty insists on terminology that your policy cannot match 
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 60-62 add procedural how-to coverage for Group Hospitalisation, Plate Glass, and Marine Cargo ICC C - three claim types not yet covered. Articles 63-65 add three foundational comparison articles (Fire vs PAR, Claims-made vs Occurrence trigger, Indemnity vs Reinstatement settlement basis) - all referenced repeatedly across earlier articles but not previously detailed in their own pages. Articles 66-68 launch the document-legal category in earnest with detailed treatment of PDPA Section 26D (3-day breach notification), WICA Section 25 (failure-to-insure offence with director personal liability), and MAS Notice FAA-N16 (reasonable basis for recommendation). Article 69 opens the edge-case category with drone aerial photography insurance (CAAS UA framework + UA Liability + Hull + CCC + PI stack).

@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes", "Courts", "MAS", "GIA"]
 article_number: 260
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1186
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
@@ -152,5 +152,3 @@ For substantive operations, considerations on waiver of subrogation, commercial 
 *Published 5 May 2026. Source verified 5 May 2026.*
 
 ---
-
-Ten regulatory change tracking pieces extending coverage of evolving Singapore commercial frameworks. Cybersecurity Act 2024 six-month review, PDPA Advisory Guidelines 2025-2026 evolution, Workplace Fairness Act 2024 phased implementation timeline, Companies Act 1967 ongoing amendments, Employment Act 1968 employer obligations 2026, WICA 2019 designated insurer expansion, SCDF Fire Certificate 2026 framework, MAS Notice on Cyber Hygiene framework, PDPA Section 26D first-year practice patterns, and WSH Act 2006 evolving framework. Each piece tracks specific framework evolution with primary source citations to MAS, PDPC, MOM, ACRA, SCDF, CSA, and Singapore Statutes Online frameworks.

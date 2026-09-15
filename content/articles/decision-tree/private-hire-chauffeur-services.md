@@ -9,7 +9,7 @@ agencies: ["LTA", "Singapore Statutes", "MOM"]
 article_number: 250
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1433
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
@@ -194,5 +194,3 @@ For substantive operations, specialist sector-aware broker engagement, specific 
 *Published 5 May 2026. Source verified 5 May 2026.*
 
 ---
-
-Ten document-legal pieces extending statutory deep dive and standard contract clause analysis. Five statutory deep dives cover the Premium Payment Framework, Marine Insurance Act 1906 utmost good faith doctrine, Sale of Goods Act 1979 implied terms, Unfair Contract Terms Act 1977 commercial limitation framework, and Limitation Act 1959 contract vs tort distinctions. Five standard contract clause analyses cover indemnification clauses, limitation of liability clauses, force majeure clauses, insurance clauses in commercial contracts, and waiver of subrogation clauses. Each piece addresses commercial scope under specific statutory framework with primary source citations to MAS, GIA, eLitigation.sg, and Singapore Statutes Online frameworks.

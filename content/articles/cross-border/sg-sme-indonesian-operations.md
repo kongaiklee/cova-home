@@ -9,7 +9,7 @@ agencies: []
 article_number: 109
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 2031
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
@@ -281,5 +281,3 @@ The Indonesian market is significant and growing. Operating insurance properly i
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 110-112 expand Decision Trees with three commercial-services categories: logistics/freight forwarder (FFL, Marine Cargo, Bailee), real estate agency (CEA mandatory PI, BEC/SEF cover), and recruitment/employment agency (MOM EA licensing, EOR specialist considerations). Articles 113-114 continue Edge Case with two specialised practices: wedding photographer (irreplaceable deliverable, equipment-heavy mobile operation) and art conservator/restorer (Bailee dominance, fine-art specialty insurer market). Articles 115-116 continue Crisis with two scenarios SMEs face but rarely insure for: key employee resignation with IP/customer migration (largely uninsurable; civil litigation primary) and critical equipment breakdown halting production (Equipment Breakdown coordination with Property/Fire/PAR and BI). Article 117 continues Cross-Border with the architectural decision SaaS founders face - data residency across Singapore/EU/US regions, with PDPA/GDPR/CLOUD Act implications. Articles 118-119 expand Document-Legal with two foundational director-personal-liability provisions: WSHA Section 48 (workplace safety personal accountability) and Companies Act Section 172 (why directors cannot lawfully be indemnified for breach of duty - the structural reason D&O Side A matters).

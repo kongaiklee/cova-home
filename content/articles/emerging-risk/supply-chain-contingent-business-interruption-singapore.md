@@ -9,8 +9,8 @@ agencies: ["Singapore Statutes"]
 article_number: 491
 published: "2026-05-31"
 source_verified: "2026-09-12"
-updated: "2026-09-12"
-word_count: 2477
+updated: "2026-09-14"
+word_count: 2576
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/supply-chain-contingent-business-interruption-singapore"
@@ -23,7 +23,13 @@ A fire guts a factory in Johor. The factory is not yours. It belongs to the supp
 
 This is the gap that catches you if you depend on a small number of suppliers or customers. Ordinary business interruption (BI) cover follows the bricks. When the damage happens at someone else's bricks, you need a different extension: Contingent Business Interruption (CBI), sometimes called a supplier or customer extension. Unless your BI section carries that extension, it does not do this.
 
-
+> **The Answer in 60 Seconds**
+>
+> The business interruption section in a standard fire policy pays for interruption caused by damage at the premises named in its schedule and nowhere else. A fire, a flood or a breakdown at your supplier's or your customer's site is not damage at your premises, so that section does not respond, however large your loss.
+>
+> Contingent Business Interruption (CBI) is the extension that widens the trigger to damage at a supplier's premises, a customer's premises, or both. Read four conditions in yours: whether it covers named suppliers only or unnamed suppliers too; its own sub-limit; its indemnity period, set separately from the main BI one; and the rule that the event at the third party must be a peril insured at your own premises.
+>
+> A CBI extension keyed to physical damage does not respond to a supplier's insolvency, a lost licence or a closed shipping lane. The Strait of Hormuz closure that Singapore's Prime Minister described on 1 May 2026 as "closed for more than two months" is that kind of event ([PMO, May Day Rally 2026](https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-may-day-rally-2026/)).
 
 ### The Sourced Detail
 
@@ -45,14 +51,14 @@ The fix is an extension that widens the trigger to include damage at named or un
 
 #### What Contingent Business Interruption adds
 
-A CBI extension widens that trigger so that physical damage at a third party's premises, by a peril that is insured at your own premises, counts as a trigger for your BI cover, and the extension names the third party as one of two kinds: The third party is one of two kinds:
+A CBI extension widens that trigger so that physical damage at a third party's premises, by a peril that is insured at your own premises, counts as a trigger for your BI cover. The third party is one of two kinds:
 
 - **A supplier** (an inbound dependency): the loss of goods, components, raw materials, utilities or services flowing into your business, headed in most wordings as a "suppliers' premises" extension - check the heading in yours.
 - **A customer** (an outbound dependency): a buyer that takes a material share of your output, so that damage at the customer's site stops the orders, headed as a "customers' premises" extension where your wording offers it.
 
 Check whether your wording splits suppliers into direct (first-tier, the firms you contract with) and indirect (the suppliers of your suppliers, and the utilities and logistics providers everyone depends on). The breadth matters, because a shock two tiers up the chain reaches you through a firm you never contracted with.
 
-A CBI extension carries its own conditions that the main BI section does not impose; the four to find in yours are: The most common are:
+A CBI extension carries its own conditions that the main BI section does not impose; the four to find in yours are:
 
 - **Named versus unnamed suppliers.** Where your extension covers only suppliers scheduled by name, a supplier that is not on the list is not covered, even though the extension exists; where it covers unnamed (or "all") suppliers, read the sub-limit that grant carries, because it is set separately from the named one.
 - **A separate sub-limit.** Find the CBI cap in your schedule - a fixed dollar figure or a percentage of the BI sum insured - because a concentrated dependency can blow straight through it.
@@ -65,7 +71,7 @@ For the specific case where a key supplier fails not through physical damage but
 
 CBI exposure is a function of how concentrated your supply chain is. An SME that buys a commodity input from twenty interchangeable suppliers has little CBI exposure: lose one, switch to another, absorb a small cost. An SME that depends on a single specialist supplier, a sole licensor, or one anchor customer for a large share of revenue has a sharp exposure, because there is no substitute to switch to and no second source to absorb the shock.
 
-If you are a precision manufacturer, a specialist distributor or a service firm built around one or two anchor relationships, you sit in the second category. Many are precision manufacturers, specialist distributors, or service firms built around one or two anchor relationships. If your inputs come through Malaysia, Indonesia, Vietnam or China, your dependency sits at overseas sites you do not own and cannot inspect. You would never run your own factory without fire cover; check whether you are running your entire revenue through a single upstream dependency with none.
+If you are a precision manufacturer, a specialist distributor or a service firm built around one or two anchor relationships, you sit in the second category. If your inputs come through Malaysia, Indonesia, Vietnam or China, your dependency sits at overseas sites you do not own and cannot inspect. You would never run your own factory without fire cover; check whether you are running your entire revenue through a single upstream dependency with none.
 
 The practical test is simple: identify the one supplier and the one customer whose sudden, six-week disappearance would most damage your revenue. If the answer to either is "we would be in serious trouble," you have a CBI exposure, and the only question is whether your policy covers it and to what limit.
 
@@ -91,7 +97,7 @@ The live case is a closed shipping lane, and nothing about it is physical damage
 
 ## What This Means for Your Business
 
-In your programme, CBI sits as an extension to the BI section of the property or fire policy, and the work is in mapping your real dependencies to that wording. It is an extension to the BI section of your property or fire programme, and the work is in mapping your real dependencies to the wording. The shape of the response is the same regardless of insurer.
+In your programme, CBI sits as an extension to the BI section of the property or fire policy, and the work is in mapping your real dependencies to that wording. The shape of the response is the same regardless of insurer.
 
 **Map your concentration first.** Before looking at any policy, list your suppliers and customers and rank them by how much revenue depends on each. Flag any single relationship that carries a large share of inbound supply or outbound sales. This map is the input to every coverage decision that follows. Without it, you cannot size a sub-limit or decide which suppliers to name.
 
@@ -99,7 +105,7 @@ In your programme, CBI sits as an extension to the BI section of the property or
 
 **Size the sub-limit against the real loss.** Estimate the gross-profit loss from a six-to-twelve-week outage at your most concentrated dependency, then compare it to the CBI sub-limit. If the sub-limit is a fraction of the exposure, you know the gap before a loss instead of discovering it during a claim.
 
-**Separate the damage cases from the non-damage cases.** Physical damage at a supplier (fire, flood, machinery breakdown) is the classic CBI case. Insolvency, licence loss, sanctions, a closed shipping lane or a congested port, or a supplier simply walking away are non-damage failures that a damage-keyed CBI extension does not reach; the Strait of Hormuz closure that Singapore's Prime Minister described on 1 May 2026 as "closed for more than two months" is the live example ([PMO, May Day Rally 2026](https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-may-day-rally-2026/)). Decide whether those need a separate non-damage supply-chain or trade-disruption solution, and route that decision through your adviser. Decide whether those need a separate non-damage supply-chain or trade-disruption solution, and route that decision through your adviser.
+**Separate the damage cases from the non-damage cases.** Physical damage at a supplier (fire, flood, machinery breakdown) is the classic CBI case. Insolvency, licence loss, sanctions, a closed shipping lane or a congested port, or a supplier simply walking away are non-damage failures that a damage-keyed CBI extension does not reach; the Strait of Hormuz closure that Singapore's Prime Minister described on 1 May 2026 as "closed for more than two months" is the live example ([PMO, May Day Rally 2026](https://www.pmo.gov.sg/newsroom/pm-lawrence-wong-at-may-day-rally-2026/)). Decide whether those need a separate non-damage supply-chain or trade-disruption solution, and route that decision through your adviser.
 
 **Keep the schedule alive between renewals.** A named-supplier extension is only as good as the list behind it. When you onboard a critical supplier or sign an anchor customer, the schedule should move with it, not wait for the next renewal.
 
@@ -107,7 +113,7 @@ In your programme, CBI sits as an extension to the BI section of the property or
 
 ## Questions to Ask Your Adviser
 
-When you sit with a licensed adviser or commercial broker to review your property and BI programme, ask these specifically and take written answers. Take written answers, because the answers depend on your wording and your schedule at this renewal.
+When you sit with a licensed adviser or commercial broker to review your property and BI programme, ask these specifically, and take written answers, because the answers depend on your wording and your schedule at this renewal.
 
 1. Does my BI section include a Contingent Business Interruption extension for suppliers, for customers, or for both, or is it silent on third-party premises?
 2. Is the supplier extension limited to **named** suppliers, or does it cover **unnamed** (all) suppliers, and what is the sub-limit for each?

@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 496
 published: "2026-05-31"
 source_verified: "2026-09-12"
-updated: "2026-09-12"
+updated: "2026-09-15"
 word_count: 3208
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
@@ -73,7 +73,7 @@ What matters for planning is the shape of the exposure: the penalty scales with 
 
 #### Front two: civil action under section 48O
 
-Alongside regulatory enforcement, the PDPA gives individuals a private right of action: a person who suffers loss or damage directly as a result of a contravention of Parts 4, 5, 6 or 6A has a right of action in civil proceedings, the court can grant an injunction, a declaration or damages, and where the Commission has made a decision on the contravention the action waits until that decision is final with no further appeal. ([PDPA 2012, section 48O, Singapore Statutes Online](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr48O-).) An individual who suffers loss or damage directly as a result of a contravention of the data-protection obligations has a right of action in civil proceedings, and the court can grant relief including an injunction or damages. ([PDPA 2012, section 48O, Singapore Statutes Online](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=P22A-).) For a single breached database affecting a whole workforce or customer base, the civil exposure is not one claim. It is as many claims as there are individuals, each carrying their own claim for the harm flowing from an identifier they can never change.
+Alongside regulatory enforcement, the PDPA gives individuals a private right of action: a person who suffers loss or damage directly as a result of a contravention of Parts 4, 5, 6 or 6A has a right of action in civil proceedings, the court can grant an injunction, a declaration or damages, and where the Commission has made a decision on the contravention the action waits until that decision is final with no further appeal. ([PDPA 2012, section 48O, Singapore Statutes Online](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr48O-).) For a single breached database affecting a whole workforce or customer base, the civil exposure is not one claim. It is as many claims as there are individuals, each carrying their own claim for the harm flowing from an identifier they can never change.
 
 The regulator is one front; the affected people are the other. They prepare for the regulator and forget the affected people. A face-template leak across a 200-person workforce is a regulatory matter and a relationship with 200 individuals, each of whom has a statutory right of action for any loss or damage the leak directly causes them and an irreversible grievance.
 

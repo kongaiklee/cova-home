@@ -9,7 +9,7 @@ agencies: ["Singapore Statutes"]
 article_number: 119
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 2389
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
@@ -267,5 +267,3 @@ The cost of comprehensive D&O with appropriate Side A is meaningful but proporti
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 120-122 expand Decision Trees with three high-volume commercial categories: gym/fitness studio (activity-risk spectrum from yoga to MMA, member GPA structure), accounting/audit firm (PAOC mandatory PI, BEC vector intensity), and full-service restaurant (SFA + SCDF + URA + NEA + MOM convergence, liquor liability dimension). Articles 123-124 continue Edge Case with two distinctive entertainment venue categories: escape rooms and immersive entertainment (the "trapped customer" SCDF egress concern; immersive theming hazards) and e-sports/gaming centres (high-density equipment, tournament event exposure, gaming account credential data). Articles 125-126 continue Crisis with two scenarios where insurance plays a limited but specific role: supplier insolvency (CBI rare; recovery primarily via creditor proceedings under IRDA 2018) and currency/FX hedge failure (commercial market risk; insurance only at edges - Crime, Cyber, D&O for specific scenarios). Article 127 continues Cross-Border with Vietnam operations - VSS state social insurance, Vietnamese local commercial cover, FIE-specific licensing, multinational programme coordination. Articles 128-129 expand Document-Legal with two foundational Singapore insurance regulatory frameworks: the Insurance Act 1966 overview (MAS licensing, PPF Scheme limits for general insurance, FIDReC dispute mechanism) and MAS Notice FAA-N03 / licensed adviser conduct framework (suitability, disclosure, complaint resolution).

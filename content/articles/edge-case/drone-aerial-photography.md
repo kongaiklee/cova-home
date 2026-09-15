@@ -9,7 +9,7 @@ agencies: ["CAAS", "Singapore Statutes"]
 article_number: 69
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-15"
 word_count: 1750
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
@@ -162,5 +162,3 @@ For operators considering scaling up, the insurance build is a moat: clients who
 *Published 4 May 2026. Source verified 4 May 2026.*
 
 ---
-
-Articles 70-73 deepen the comparison VS category with four foundational distinctions: PL vs Product Liability (covers vs operations vs supply triggers), D&O vs PI vs EPL (the three liability covers most often confused), Cyber standalone vs PAR sub-limit (post-2020 cyber exclusion realities), and GHS vs personal IP (the three-layer healthcare financing stack). Articles 74-76 launch document-legal foundations with the duty of utmost good faith and material non-disclosure remedy, the Limitation Act 6-year clock and its insurance interactions, and Cybersecurity Act 2018 / CII framework with 31 October 2025 amendments. Articles 77-78 launch the Decision Tree Checklists category with two anchor checklists for opening a café and opening a medical clinic - both designed as comprehensive insurance procurement guides for first-time founders. Article 79 continues the edge-case category with kombucha brewery insurance - high-search niche operator at the intersection of food production, distribution, and (sometimes) alcohol regulation.

@@ -6,8 +6,48 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Fri, 11 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hackers exploit Tencent app flaw to deploy GrayRabbit malware</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-13-hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/</description>
+    </item>
+    <item>
+      <title>Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-12-dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent</guid>
+      <pubDate>Sat, 12 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/</description>
+    </item>
+    <item>
+      <title>Artifactory flaws chained in attacks deploying backdoor malware</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-artifactory-flaws-chained-in-attacks-deploying-backdoor-malware</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/</description>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-cisa-adds-three-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/11/cisa-adds-three-known-exploited-vulnerabilities-catalog</description>
+    </item>
     <item>
       <title>GitLab urges users to patch max severity path traversal flaw</title>
       <link>https://covarage.com/updates/cyber</link>
@@ -15,6 +55,30 @@
       <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-patch-max-severity-path-traversal-flaw/</description>
+    </item>
+    <item>
+      <title>Hackers abused Claude to extract secrets from 1.8M Android apps</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-hackers-abused-claude-to-extract-secrets-from-1-8m-android-apps</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/</description>
+    </item>
+    <item>
+      <title>Microsoft sees some new wrinkles in invoice-scam emails</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-microsoft-sees-some-new-wrinkles-in-invoice-scam-emails</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by The Record. Source: https://therecord.media/invoice-scam-emails-new-features-microsoft-researchers</description>
+    </item>
+    <item>
+      <title>Passkey-themed phishing attacks lead to Microsoft 365 data theft</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-11-passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft</guid>
+      <pubDate>Fri, 11 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/</description>
     </item>
     <item>
       <title>Trezor: 347,000 users targeted in phishing attacks after Brevo breach</title>
