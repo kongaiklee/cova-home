@@ -199,7 +199,7 @@ export function EmergingRisk13() {
             Teak band, the weekly articles below it. Copy is CD's mock, taken from the ER2027 page. */}
         <div className="rounded-2xl bg-primary-extended px-6 py-7 lg:grid lg:grid-cols-[7fr_5fr] lg:items-center lg:gap-12 lg:px-12 lg:py-11" data-er2027-band>
           <div>
-            <h3 className="m-0 font-serif text-[28px]/[1.12] font-normal tracking-[-1px] text-white lg:text-[40px]">Emerging Risks 2027 &middot; Singapore Edition</h3>
+            <h3 className="m-0 font-serif text-[28px]/[1.12] font-normal tracking-[-1px] text-white lg:text-[40px]">Emerging Risks 2027:<br />Singapore Edition</h3>
             <p className="m-0 mt-2.5 text-[19px]/[1.4] text-[#C2D4E2] lg:text-[22px]">What Singapore businesses expect in 2027.</p>
             <p className="m-0 mt-4 max-w-[560px] text-[16px]/[1.6] text-[#E8E3DD]">
               We are interviewing business leaders across Singapore about the risks they expect next year, and what they have done about each one. The report publishes in January 2027.
