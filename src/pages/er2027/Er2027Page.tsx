@@ -16,9 +16,37 @@ import { track } from '../../lib/analytics';
  * The consent line is COO's cleared string (COO's consent clearance v1.0, s1) and REPLACES the
  * draft line in CMO's copy - the form ships with it or not at all.
  * Dress: CD's lander v1.3 and seed-page direction, s4 - the brief page's dress at a guide's length,
- * the request card's form as its one door. No photograph, no logos, no price, no second button,
- * and NO THEME LINE (Kong's w7 lock: the theme rides the report).
+ * the request card's form as its one door. No logos, no price, no second button, and NO THEME LINE
+ * (Kong's w7 lock: the theme rides the report).
+ *
+ * The one photograph is Kong's pick, cut and placed by CD (working/CD_er2027-image, direction s9 +
+ * s9a): John T's hawker drink stall, Unsplash Licence, credited in the page foot. It is illustrative
+ * only - no copy near it may imply the stallholder is a customer, member, interviewee or source.
  */
+
+const PHOTO_ALT = 'A stallholder at her drink stall in a Singapore hawker centre.';
+const PHOTO_CREDIT = 'Photograph: John T / Unsplash.';
+
+/**
+ * Two crops of one photograph: >= 1024px the right column of the hero (728x1312, top at the eyebrow,
+ * bottom at the form's foot); below that a tight 16:10 crop under the form - never the desktop file
+ * scaled, and never above the form.
+ */
+function HeroPhoto() {
+  return (
+    <picture className="mt-7 block lg:col-start-2 lg:row-start-1 lg:mt-0" data-er2027-photo>
+      <source media="(min-width: 1024px)" srcSet="/assets/images/er2027/er2027-hawker-stall-desktop.jpg" width={728} height={1312} />
+      <img
+        src="/assets/images/er2027/er2027-hawker-stall-phone.jpg"
+        width={668}
+        height={418}
+        alt={PHOTO_ALT}
+        decoding="async"
+        className="block aspect-[16/10] h-auto w-full rounded-xl object-cover lg:aspect-auto lg:h-full"
+      />
+    </picture>
+  );
+}
 
 /** COO s2.1: every record says which consent line the person agreed to. Bump with the string. */
 export const ER2027_CONSENT_VERSION = 'consent v1.1 2026-09-15';
@@ -206,23 +234,31 @@ export default function Er2027Page() {
     <>
       <Seo title={TITLE} description={DESCRIPTION} path={PATH} jsonLd={JSON_LD} />
       <article className="mx-auto w-full max-w-[1240px] px-7 py-10 lg:px-[100px] lg:py-14" data-er2027-page>
-        <div className="max-w-[704px]">
-          <nav className="flex flex-wrap items-center gap-1.5 text-sm text-text-secondary" aria-label="Breadcrumb">
-            <Link to="/blog" className="hover:text-text-primary">Guides</Link>
-            <span aria-hidden>/</span>
-            <Link to="/guides/emerging-risk" className="hover:text-text-primary">Emerging risks</Link>
-            <span aria-hidden>/</span>
-            <span className="text-text-primary">Emerging Risks 2027</span>
-          </nav>
-          <p className="m-0 mt-6 text-xs font-medium tracking-[0.14em] text-primary uppercase">Emerging Risks 2027 &middot; Singapore Edition</p>
-          <h1 className="m-0 mt-3 font-serif text-3xl/tight font-normal tracking-[-1px] text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight lg:tracking-[-1.4px]">{H1}</h1>
-          <p className="m-0 mt-4 text-lg/[1.6] text-text-primary">
-            Covarage is interviewing business leaders across Singapore about the risks they expect in 2027, and what they have done about each one. The report publishes in January 2027.
-          </p>
-          <div className="mt-6">
-            <Signup />
+        <nav className="flex max-w-[704px] flex-wrap items-center gap-1.5 text-sm text-text-secondary" aria-label="Breadcrumb">
+          <Link to="/blog" className="hover:text-text-primary">Guides</Link>
+          <span aria-hidden>/</span>
+          <Link to="/guides/emerging-risk" className="hover:text-text-primary">Emerging risks</Link>
+          <span aria-hidden>/</span>
+          <span className="text-text-primary">Emerging Risks 2027</span>
+        </nav>
+        {/* 704 : 364 with a 72px gap at 1440 (CD's measure). The photo column reaches up to 100px into
+            the article's right padding, only as far as a 100px viewport gutter allows (none at <= 1240,
+            all of it at >= 1440); below 1440 the columns shrink in the same ratio. */}
+        <div className="mt-6 max-w-[704px] lg:mr-[calc(-1*clamp(0px,50vw-620px,100px))] lg:grid lg:max-w-none lg:grid-cols-[minmax(0,704fr)_minmax(0,364fr)] lg:gap-x-[72px]" data-er2027-hero>
+          <div className="lg:col-start-1 lg:row-start-1">
+            <p className="m-0 text-xs font-medium tracking-[0.14em] text-primary uppercase">Emerging Risks 2027 &middot; Singapore Edition</p>
+            <h1 className="m-0 mt-3 font-serif text-3xl/tight font-normal tracking-[-1px] text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight lg:tracking-[-1.4px]">{H1}</h1>
+            <p className="m-0 mt-4 text-lg/[1.6] text-text-primary">
+              Covarage is interviewing business leaders across Singapore about the risks they expect in 2027, and what they have done about each one. The report publishes in January 2027.
+            </p>
+            <div className="mt-6">
+              <Signup />
+            </div>
           </div>
+          <HeroPhoto />
+        </div>
 
+        <div className="max-w-[704px]">
           <h2 className={H2}>What the report measures</h2>
           <p className="m-0 text-[17px]/[1.65]">Two questions, asked of every business: which risks concern you for 2027, and what have you done about each one. The gap between the two is the finding.</p>
 
@@ -253,6 +289,7 @@ export default function Er2027Page() {
             Interviews with owners, general managers, and heads of operations and HR at Singapore businesses, conducted by Covarage's founder. Findings are reported in aggregate; no business is named without its permission. Licensed insurance advisers write the commentary on what cover responds to each risk.
           </p>
           <p className="m-0 mt-8 text-[17px]/[1.65] font-semibold">Emerging Risks 2027: Singapore Edition. Published by Covarage, January 2027.</p>
+          <p className="m-0 mt-10 text-[13px]/[1.5] text-text-secondary" data-er2027-credit>{PHOTO_CREDIT}</p>
         </div>
       </article>
     </>
