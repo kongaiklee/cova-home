@@ -21,7 +21,7 @@ import { track } from '../../lib/analytics';
  */
 
 /** COO s2.1: every record says which consent line the person agreed to. Bump with the string. */
-export const ER2027_CONSENT_VERSION = 'consent v1.0 2026-09-14';
+export const ER2027_CONSENT_VERSION = 'consent v1.1 2026-09-15';
 
 const RISKS: { risk: string; guides: [string, string][] }[] = [
   { risk: 'Cyber attacks and data breaches', guides: [
@@ -187,10 +187,11 @@ function Signup() {
       {status === 'error' && (
         <p className="m-0 mt-3 text-[13px]/[1.5] text-text-secondary" aria-live="polite">That did not go through. Please try again, or email support@covarage.com.</p>
       )}
-      {/* COO's cleared consent line (v1.0) - the notice that makes consent valid. Do not edit
+      {/* COO's cleared consent line (v1.1, 2026-09-15: licensed brokers -> licensed insurance advisers,
+          the ruled chapter authors being AWFA advisers) - the notice that makes consent valid. Do not edit
           without COO; a changed line means a new ER2027_CONSENT_VERSION. */}
       <p className="m-0 mt-3 text-[13px]/[1.5] text-text-secondary" data-consent-line>
-        We will use your details to send you Emerging Risks 2027: Singapore Edition when it publishes and, if you chose to take part, to arrange the conversation with our founder. We will not sell them or pass them to anyone else, including the licensed brokers who write the report's commentary. You can withdraw and ask us to delete them at any time at dpo@covarage.com.{' '}
+        We will use your details to send you Emerging Risks 2027: Singapore Edition when it publishes and, if you chose to take part, to arrange the conversation with our founder. We will not sell them or pass them to anyone else, including the licensed insurance advisers who write the report's commentary. You can withdraw and ask us to delete them at any time at dpo@covarage.com.{' '}
         <Link to="/privacy" className="underline underline-offset-2">Privacy Policy</Link>
       </p>
     </form>
@@ -249,7 +250,7 @@ export default function Er2027Page() {
 
           <h2 className={H2}>How the report is made</h2>
           <p className="m-0 text-[17px]/[1.65]">
-            Interviews with owners, general managers, and heads of operations and HR at Singapore businesses, conducted by Covarage's founder. Findings are reported in aggregate; no business is named without its permission. Licensed insurance brokers write the commentary on what cover responds to each risk.
+            Interviews with owners, general managers, and heads of operations and HR at Singapore businesses, conducted by Covarage's founder. Findings are reported in aggregate; no business is named without its permission. Licensed insurance advisers write the commentary on what cover responds to each risk.
           </p>
           <p className="m-0 mt-8 text-[17px]/[1.65] font-semibold">Emerging Risks 2027: Singapore Edition. Published by Covarage, January 2027.</p>
         </div>

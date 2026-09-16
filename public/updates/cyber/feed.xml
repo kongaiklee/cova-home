@@ -6,8 +6,96 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Sun, 13 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acronis warns of actively exploited flaw in its cPanel backup plugin</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/</description>
+    </item>
+    <item>
+      <title>BambooToken malware controls Windows and Linux systems via MQTT</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-bambootoken-malware-controls-windows-and-linux-systems-via-mqtt</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/</description>
+    </item>
+    <item>
+      <title>CISA: Critical VMware RCE flaw now exploited by ransomware gangs</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-cisa-critical-vmware-rce-flaw-now-exploited-by-ransomware-gangs</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/</description>
+    </item>
+    <item>
+      <title>Cisco patches Secure Email Gateway zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-cisco-patches-secure-email-gateway-zero-day-exploited-in-attacks</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/</description>
+    </item>
+    <item>
+      <title>Extremely High Risk: Cisco Products Multiple Vulnerabilities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-extremely-high-risk-cisco-products-multiple-vulnerabilities</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260915</description>
+    </item>
+    <item>
+      <title>Hackers target WordPress sites via third-party WooCommerce plugin</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-hackers-target-wordpress-sites-via-third-party-woocommerce-plugin</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/</description>
+    </item>
+    <item>
+      <title>Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-15-malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites</guid>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/</description>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-14-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/14/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>Critical Vulnerabilities in Check Point Quantum Security Gateway and Security Management Server</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-14-critical-vulnerabilities-in-check-point-quantum-security-gateway-and-security-ma</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-121/</description>
+    </item>
+    <item>
+      <title>Hackers hijack HBO Max Reddit account to push malware in ClickFix ads</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-14-hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads</guid>
+      <pubDate>Mon, 14 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/</description>
+    </item>
+    <item>
+      <title>Eight Persons To Be Charged For Their Suspected Involvement In Fraudulently Registering Sim Cards</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-13-eight-persons-to-be-charged-for-their-suspected-involvement-in-fraudulently-regi</guid>
+      <pubDate>Sun, 13 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260913_eight_persons_to_be_charged_for_their_suspected_involvement_in_fraudulently</description>
+    </item>
     <item>
       <title>Hackers exploit Tencent app flaw to deploy GrayRabbit malware</title>
       <link>https://covarage.com/updates/cyber</link>
@@ -215,6 +303,14 @@
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/04/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>Extremely High Risk: Microsoft Edge Multiple Vulnerabilities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-04-extremely-high-risk-microsoft-edge-multiple-vulnerabilities</guid>
+      <pubDate>Fri, 04 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260904</description>
     </item>
     <item>
       <title>CISA Adds Seven Known Exploited Vulnerabilities to Catalog</title>

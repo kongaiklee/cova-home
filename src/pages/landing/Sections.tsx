@@ -7,7 +7,11 @@ import { ARTICLES, articleUrl } from '../../content/articles';
 import { REVIEWED, formatDate } from '../../content/updates';
 
 /** Shared horizontal frame: 1240 max, 100px gutters on desktop, 28px on phone. */
-export const WRAP = 'mx-auto w-full max-w-[1240px] px-7 lg:px-[100px]';
+// The approved mock's wrap is 1440 with 100px gutters, so its content measure is 1240 and the
+// hero column is 740 - which is what lets the H1 sit on three lines at its 600px max (CD s0o
+// item 1, 2026-09-16). At 1240 the page was 200px narrower than the mock everywhere. Only
+// viewports above 1240 change; phone and tablet keep the same measure.
+export const WRAP = 'mx-auto w-full max-w-[1440px] px-7 lg:px-[100px]';
 export const H2 = 'm-0 font-serif text-text-primary';
 
 /**

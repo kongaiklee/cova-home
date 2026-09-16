@@ -44,7 +44,7 @@ export function Hero13() {
           <h1 className="m-0 max-w-[600px] font-serif text-[38px]/[1.05] font-normal tracking-[-1px] text-text-primary lg:text-[64px] lg:tracking-[-2px] lg:text-white">
             Your insurance team, without the insurance department.
           </h1>
-          <p className="m-0 mt-[18px] max-w-[520px] text-[17px]/[1.55] text-text-primary lg:mt-[26px] lg:text-[20px] lg:text-[#F3EEE9]">
+          <p className="m-0 mt-[18px] max-w-[520px] text-[17px]/[1.55] text-text-primary lg:mt-[26px] lg:text-[20px] lg:text-[#FDFBF9]">
             You run the business. Your broker advises you. We do the insurance admin in between.
           </p>
           <div className="mt-7 mb-5 aspect-[16/10] w-full rounded-xl bg-cover bg-center lg:hidden" style={{ backgroundImage: `url(${photo})` }} aria-hidden />
@@ -131,7 +131,7 @@ const STEPS = [
 
 export function WhatWeDo() {
   const big = 'm-0 mb-2 font-serif text-[38px]/none tracking-[-1px] text-white lg:mb-3 lg:text-5xl';
-  const subt = 'm-0 text-[17px]/[1.5] text-[#E9E1D9]';
+  const subt = 'm-0 text-[17px]/[1.5] text-[#E8E3DD]';
   return (
     <section>
       <div className={`${WRAP} py-[72px] lg:py-28`}>
@@ -278,7 +278,7 @@ export function Topics13() {
   return (
     <section className="bg-section-alt">
       <div className={`${WRAP} py-[72px] lg:py-28`}>
-        <h2 className={`${H2C} max-w-[24ch]`}>Know what your business is required to carry, and who requires it.</h2>
+        <h2 className={H2C}>Know what your business is required to carry, and who requires it.</h2>
         <p className="m-0 mt-[18px] text-[17px]/[1.6] lg:text-[19px]">Guides by the cover you have been asked for.</p>
         <div className="mt-6 mb-2 lg:hidden" data-topic-picker>
           <label htmlFor="cover-pick" className={`${EYEBROW} mb-2.5 block`}>Choose the cover</label>
