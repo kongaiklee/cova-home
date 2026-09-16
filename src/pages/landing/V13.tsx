@@ -193,12 +193,24 @@ export function EmergingRisk13() {
   return (
     <section className="bg-open-water-wash">
       <div className={`${WRAP} py-[72px] lg:py-28`} data-emerging-block>
-        <p className={EYEBROW}>
-          <Link to="/emerging-risks-2027" className="text-primary underline underline-offset-[3px]" data-er2027-link>
-            Emerging Risks 2027: Singapore Edition&nbsp;&rarr;
-          </Link>
-        </p>
-        <h2 className={H2C}>What changed this week.</h2>
+        {/* ER2027 is its own hero unit here, never a single line above the weekly articles: it is an
+            ongoing interview and survey programme that publishes as a report, not one of this week's
+            guides, and as an eyebrow it read as a label on them. Variant v1 of CD's direction s7 - the
+            Teak band, the weekly articles below it. Copy is CD's mock, taken from the ER2027 page. */}
+        <div className="rounded-2xl bg-primary-extended px-6 py-7 lg:grid lg:grid-cols-[7fr_5fr] lg:items-center lg:gap-12 lg:px-12 lg:py-11" data-er2027-band>
+          <div>
+            <p className="m-0 mb-3.5 text-xs font-medium tracking-[0.14em] text-[#C2D4E2] uppercase">Emerging Risks 2027 &middot; Singapore Edition</p>
+            <h3 className="m-0 font-serif text-[26px]/[1.15] font-normal tracking-[-1px] text-white lg:text-[36px]">What Singapore businesses expect in 2027.</h3>
+            <p className="m-0 mt-3.5 max-w-[560px] text-[17px]/[1.6] text-[#E8E3DD]">
+              We are interviewing business leaders across Singapore about the risks they expect next year, and what they have done about each one. The report publishes in January 2027.
+            </p>
+            <Link to="/emerging-risks-2027" className="mt-[22px] inline-block text-[15px]/[1.4] font-medium text-white underline decoration-white/45 underline-offset-4" data-er2027-link>
+              Take part, or get a copy&nbsp;&rarr;
+            </Link>
+          </div>
+          <img src="/assets/images/lander/er2027-band.jpg" alt="" className="mt-[22px] aspect-[16/10] w-full rounded-xl object-cover lg:mt-0 lg:aspect-[4/3]" />
+        </div>
+        <h2 className={`${H2C} mt-12 lg:mt-14`}>What changed this week.</h2>
         <div className="mt-7 lg:mt-10 lg:grid lg:grid-cols-[7fr_5fr] lg:gap-6">
           <div className="rounded-xl border border-hairline-strong bg-white px-5 pt-1 pb-5 lg:px-7 lg:pt-2.5 lg:pb-6">
             {EMERGING.map((a) => (
