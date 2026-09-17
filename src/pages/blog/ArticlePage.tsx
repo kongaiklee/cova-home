@@ -6,7 +6,7 @@ import { Link } from 'react-router-dom';
 import { articleUrl, internalHref, relatedArticles, type Article } from '../../content/articles';
 import { track } from '../../lib/analytics';
 import { useArticleAnalytics } from '../../lib/useArticleAnalytics';
-import { ctaForArticle, splitAtAnswer } from '../../content/articleCtas';
+import { ctaForArticle, splitAtAnswer, splitAtBodyMidpoint } from '../../content/articleCtas';
 import ArticleEnquiry from './ArticleEnquiry';
 import GapCheckCard from '../../components/GapCheckCard';
 import { CATEGORY_LABELS, INTENT_BY_ID } from '../../content/intents';
@@ -70,6 +70,9 @@ export default function ArticlePage({ article }: { article: Article }) {
   // The five CTAs are keyed on intent; an unknown intent renders no block rather than a wrong one.
   const cta = ctaForArticle(frontmatter);
   const [beforeCta, afterCta] = cta ? splitAtAnswer(body) : [body, ''];
+  // CD direction v1.0 s3: one second ask at the body's midpoint, or none on a guide too short for it.
+  const secondAsk = cta && afterCta ? splitAtBodyMidpoint(afterCta) : null;
+  const [firstHalf, secondHalf] = secondAsk ?? [afterCta, ''];
   const intent = INTENT_BY_ID[frontmatter.intent];
   const related = relatedArticles(frontmatter.slug);
   const topics = frontmatter.topics.filter((t) => t !== 'General');
@@ -233,20 +236,41 @@ export default function ArticlePage({ article }: { article: Article }) {
           </p>
         )}
 
-        <img
-          src={frontmatter.hero_image}
-          alt=""
-          className="mt-7 aspect-video w-full rounded-xl object-cover"
-        />
+        {/* CD direction v1.0 s2: the picture carries no information, so on a guide with an ask it
+            moves below the ask card - the ask rises by the picture's height at every width. A guide
+            with no ask keeps it here. */}
+        {!cta && (
+          <img
+            src={frontmatter.hero_image}
+            alt=""
+            className="mt-7 aspect-video w-full rounded-xl object-cover"
+          />
+        )}
 
         <div className="article-body mt-9">
           <Markdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
             {beforeCta}
           </Markdown>
-          {cta && <ArticleEnquiry cta={cta} page={page} placement="mid" />}
-          {afterCta && (
+          {cta && (
+            <>
+              <ArticleEnquiry cta={cta} page={page} placement="answer" />
+              <img
+                src={frontmatter.hero_image}
+                alt=""
+                className="!mt-6 aspect-video w-full rounded-xl object-cover"
+                data-article-hero
+              />
+            </>
+          )}
+          {firstHalf && (
             <Markdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
-              {afterCta}
+              {firstHalf}
+            </Markdown>
+          )}
+          {cta && secondAsk && <ArticleEnquiry cta={cta} page={page} placement="body" />}
+          {secondHalf && (
+            <Markdown remarkPlugins={[remarkGfm]} components={markdownComponents}>
+              {secondHalf}
             </Markdown>
           )}
         </div>

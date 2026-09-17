@@ -20,7 +20,7 @@ import { track } from '../../lib/analytics';
  * (Kong's w7 lock: the theme rides the report).
  *
  * The one photograph is Kong's pick, cut and placed by CD (working/CD_er2027-image, direction s9 +
- * s9a): John T's hawker drink stall, Unsplash Licence, credited in the page foot. It is illustrative
+ * s9a): John T's hawker drink stall, Unsplash Licence, credited in a caption under it. It is illustrative
  * only - no copy near it may imply the stallholder is a customer, member, interviewee or source.
  */
 
@@ -28,23 +28,35 @@ const PHOTO_ALT = 'A stallholder at her drink stall in a Singapore hawker centre
 const PHOTO_CREDIT = 'Photograph: John T / Unsplash.';
 
 /**
- * Two crops of one photograph: >= 1024px the right column of the hero (728x1312, top at the eyebrow,
- * bottom at the form's foot); below that a tight 16:10 crop under the form - never the desktop file
- * scaled, and never above the form.
+ * Two crops of one photograph (CD install sheet v1.1): >= 1280px the right column of the hero
+ * (728x1312, top at the eyebrow, bottom at the form's foot); below that a tight 16:10 crop under the
+ * form, never above it, capped at the form's width, from the phone (668w) or tablet (1408w) file.
+ * At 1024 the side column made her a 256x824 strip, so the side-by-side starts at 1280.
+ *
+ * The credit is a caption directly under the photograph at every width - beside the interview
+ * invitation, an uncredited photograph of a business owner reads as an interviewee (CD s0p). Beside
+ * the form it hangs below the photograph so the photograph still ends at the form's foot.
  */
 function HeroPhoto() {
   return (
-    <picture className="mt-7 block lg:col-start-2 lg:row-start-1 lg:mt-0" data-er2027-photo>
-      <source media="(min-width: 1024px)" srcSet="/assets/images/er2027/er2027-hawker-stall-desktop.jpg" width={728} height={1312} />
-      <img
-        src="/assets/images/er2027/er2027-hawker-stall-phone.jpg"
-        width={668}
-        height={418}
-        alt={PHOTO_ALT}
-        decoding="async"
-        className="block aspect-[16/10] h-auto w-full rounded-xl object-cover lg:aspect-auto lg:h-full"
-      />
-    </picture>
+    <figure className="m-0 mt-7 xl:relative xl:col-start-2 xl:row-start-1 xl:mt-0 xl:flex xl:flex-col" data-er2027-photo>
+      <picture className="block xl:min-h-0 xl:flex-1">
+        <source media="(min-width: 1280px)" srcSet="/assets/images/er2027/er2027-hawker-stall-desktop.jpg" width={728} height={1312} />
+        <img
+          src="/assets/images/er2027/er2027-hawker-stall-phone.jpg"
+          srcSet="/assets/images/er2027/er2027-hawker-stall-phone.jpg 668w, /assets/images/er2027/er2027-hawker-stall-tablet.jpg 1408w"
+          sizes="(min-width: 1280px) 364px, min(704px, calc(100vw - 56px))"
+          width={668}
+          height={418}
+          alt={PHOTO_ALT}
+          decoding="async"
+          className="block aspect-[16/10] h-auto w-full rounded-xl object-cover xl:aspect-auto xl:h-full"
+        />
+      </picture>
+      <figcaption className="mt-2 text-[13px]/[1.5] text-text-secondary xl:absolute xl:top-full xl:left-0" data-er2027-credit>
+        {PHOTO_CREDIT}
+      </figcaption>
+    </figure>
   );
 }
 
@@ -243,9 +255,9 @@ export default function Er2027Page() {
         </nav>
         {/* 704 : 364 with a 72px gap at 1440 (CD's measure). The photo column reaches up to 100px into
             the article's right padding, only as far as a 100px viewport gutter allows (none at <= 1240,
-            all of it at >= 1440); below 1440 the columns shrink in the same ratio. */}
-        <div className="mt-6 max-w-[704px] lg:mr-[calc(-1*clamp(0px,50vw-620px,100px))] lg:grid lg:max-w-none lg:grid-cols-[minmax(0,704fr)_minmax(0,364fr)] lg:gap-x-[72px]" data-er2027-hero>
-          <div className="lg:col-start-1 lg:row-start-1">
+            all of it at >= 1440); from 1280 to 1440 the columns shrink in the same ratio. */}
+        <div className="mt-6 max-w-[704px] xl:mr-[calc(-1*clamp(0px,50vw-620px,100px))] xl:grid xl:max-w-none xl:grid-cols-[minmax(0,704fr)_minmax(0,364fr)] xl:gap-x-[72px]" data-er2027-hero>
+          <div className="xl:col-start-1 xl:row-start-1">
             <p className="m-0 text-xs font-medium tracking-[0.14em] text-primary uppercase">Emerging Risks 2027 &middot; Singapore Edition</p>
             <h1 className="m-0 mt-3 font-serif text-3xl/tight font-normal tracking-[-1px] text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight lg:tracking-[-1.4px]">{H1}</h1>
             <p className="m-0 mt-4 text-lg/[1.6] text-text-primary">
@@ -289,7 +301,6 @@ export default function Er2027Page() {
             Interviews with owners, general managers, and heads of operations and HR at Singapore businesses, conducted by Covarage's founder. Findings are reported in aggregate; no business is named without its permission. Licensed insurance advisers write the commentary on what cover responds to each risk.
           </p>
           <p className="m-0 mt-8 text-[17px]/[1.65] font-semibold">Emerging Risks 2027: Singapore Edition. Published by Covarage, January 2027.</p>
-          <p className="m-0 mt-10 text-[13px]/[1.5] text-text-secondary" data-er2027-credit>{PHOTO_CREDIT}</p>
         </div>
       </article>
     </>

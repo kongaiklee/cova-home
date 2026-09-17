@@ -147,6 +147,51 @@ function endOfBlockquote(lines: string[], from: number): number {
   return i;
 }
 
+/**
+ * Where the SECOND ask goes (CD direction `DIRECTION_article-asks.md` v1.0 s3): the body from the
+ * first ask to the `Related Information` heading, halved BY WORDS - never pixels, so it is the same
+ * heading at every width - then snapped forward to the first h3/h4 at or after that halfway word.
+ * Headings only: a bold paragraph once put the ask inside a numbered procedure.
+ *
+ * CD's crowding rule is 1,700px at 390 from either neighbouring ask. Words stand in for pixels:
+ * measured on six live guides at 390 (2026-09-18), prose runs 6.0-6.8 px a word and table-heavy
+ * pages up to 8.8, so 1,700px is taken at the densest prose rate - 285 words - and the ask is left
+ * out whenever fewer words than that sit between it and the first ask or the end of the body.
+ *
+ * Returns [before, after], or null when the guide gets no second ask.
+ */
+export const SECOND_ASK_MIN_WORDS = 285;
+const SNAP_LINE = /^#{3,4}\s/;
+const RELATED_LINE = /^#{2,4}\s+Related Information\b/i;
+const wordsIn = (line: string) => (line.match(/[A-Za-z0-9][^\s|]*/g) || []).length;
+
+export function splitAtBodyMidpoint(after: string): [string, string] | null {
+  const lines = after.split('\n');
+  const words: number[] = [];
+  let fenced = false;
+  let related = lines.length;
+  lines.forEach((l, i) => {
+    if (l.startsWith('```')) fenced = !fenced;
+    words.push(wordsIn(l));
+    if (!fenced && related === lines.length && RELATED_LINE.test(l)) related = i;
+  });
+  const total = words.reduce((a, b) => a + b, 0);
+  const upToRelated = words.slice(0, related).reduce((a, b) => a + b, 0);
+  const half = upToRelated / 2;
+
+  let seen = 0;
+  fenced = false;
+  for (let i = 0; i < related; i += 1) {
+    if (lines[i].startsWith('```')) fenced = !fenced;
+    if (seen >= half && !fenced && SNAP_LINE.test(lines[i])) {
+      if (seen < SECOND_ASK_MIN_WORDS || total - seen < SECOND_ASK_MIN_WORDS) return null;
+      return [lines.slice(0, i).join('\n'), lines.slice(i).join('\n')];
+    }
+    seen += words[i];
+  }
+  return null;
+}
+
 export function splitAtAnswer(body: string): [string, string] {
   const lines = body.split('\n');
 

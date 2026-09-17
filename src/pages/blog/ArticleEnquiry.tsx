@@ -4,6 +4,7 @@ import { track } from '../../lib/analytics';
 import { CTA_BODY, CTA_FOOTNOTE, CTA_WHATSAPP, type ResolvedCta } from '../../content/articleCtas';
 
 type Status = 'idle' | 'sending' | 'sent' | 'error';
+export type ArticleAskPlacement = 'answer' | 'body' | 'end';
 
 /** The same onboarding call the homepage form offers - one flow, one booking link. */
 const BOOKING_URL = 'https://cal.com/kongaiklee/30min';
@@ -12,10 +13,13 @@ const BOOKING_URL = 'https://cal.com/kongaiklee/30min';
  * The in-article enquiry block (CMO spec `CMO_SPEC_in-article-enquiry_2026-09-09.md` v1.3; the
  * five lines are Kong's own, 2026-09-09 17:5x).
  *
- * Two placements, one component. `mid` sits directly after the 60-second answer and is a line
+ * Three placements, one component. `answer` sits directly after the 60-second answer and is a line
  * plus a button, because a reader who has just been given the answer should be able to ask
- * without leaving the paragraph - the button opens the form inline rather than navigating. `end`
- * replaces the old CTA band at the foot and shows the form already open.
+ * without leaving the paragraph - the button opens the form inline rather than navigating. `body`
+ * is the SAME card at the body's midpoint (CD direction `DIRECTION_article-asks.md` v1.0 s3 - one
+ * pattern on the page, not a second component). `end` replaces the old CTA band at the foot and
+ * shows the form already open. The placement is also the analytics value (CD s5: answer / body /
+ * end), so the three asks can be told apart.
  *
  * It posts to the SAME endpoint as the homepage form, with `source: 'article'` so the handler
  * knows the reader gave one way to be reached rather than two, and knows not to send them the
@@ -28,7 +32,7 @@ export default function ArticleEnquiry({
 }: {
   cta: ResolvedCta;
   page: string;
-  placement: 'mid' | 'end';
+  placement: ArticleAskPlacement;
 }) {
   const [open, setOpen] = useState(placement === 'end');
   const [status, setStatus] = useState<Status>('idle');
@@ -183,9 +187,9 @@ export default function ArticleEnquiry({
     </form>
   );
 
-  if (placement === 'mid') {
+  if (placement !== 'end') {
     return (
-      <aside className="my-8 rounded-xl border border-border-primary bg-section-alt px-6 py-6" data-article-enquiry="mid">
+      <aside className="my-8 rounded-xl border border-border-primary bg-section-alt px-6 py-6" data-article-enquiry={placement}>
         <p className="text-[15px]/relaxed font-medium text-text-primary">{cta.line}</p>
         {open ? (
           form
@@ -194,7 +198,7 @@ export default function ArticleEnquiry({
             type="button"
             onClick={() => {
               setOpen(true);
-              track('article_cta_click', { page, placement: 'mid' });
+              track('article_cta_click', { page, placement });
             }}
             className="mt-4 rounded-sm bg-primary-extended px-5 py-3 text-[15px] font-medium text-white transition hover:opacity-90"
           >

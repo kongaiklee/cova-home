@@ -9,9 +9,11 @@ import { track } from './analytics';
  * past. `article_read` at 50 and 90 pct of the body is the denominator that makes the view
  * meaningful.
  *
- * `article_cta_view` carries `placement`: `mid` for the ask after the 60-second answer, `end` for
- * the band (CMO's signup-rate finding s5, 2026-09-17). Without it no placement change can be
- * judged, because a view of either ask counted as the same event. Each fires once per article.
+ * `article_cta_view` carries `placement` - `answer` for the ask after the 60-second answer, `body`
+ * for the second ask at the body's midpoint, `end` for the band (CD direction
+ * `DIRECTION_article-asks.md` v1.0 s5, on CMO's signup-rate finding s5). Without it no placement
+ * change can be judged, because a view of any ask counted as the same event. Each fires once per
+ * article, and a guide with no second ask simply never sends `body`.
  *
  * Depth is measured against the ARTICLE BODY, not the document: a page's height includes the
  * header, the disclaimer, the CTA band and Explore more, so document-relative depth would call a
@@ -61,8 +63,9 @@ export function useArticleAnalytics(page: string): void {
     }
 
     if ('IntersectionObserver' in window) {
-      const asks: Array<[HTMLElement | null, 'mid' | 'end']> = [
-        [document.querySelector<HTMLElement>('aside[data-article-enquiry="mid"]'), 'mid'],
+      const asks: Array<[HTMLElement | null, 'answer' | 'body' | 'end']> = [
+        [document.querySelector<HTMLElement>('aside[data-article-enquiry="answer"]'), 'answer'],
+        [document.querySelector<HTMLElement>('aside[data-article-enquiry="body"]'), 'body'],
         [band, 'end'],
       ];
       for (const [el, placement] of asks) {
