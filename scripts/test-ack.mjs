@@ -11,7 +11,7 @@ function check(label, cond) {
   if (!cond) failures++;
 }
 
-const full = composeAck({ name: 'Tan Mei Ling', email: 'mei.ling@example.com' });
+const full = composeAck({ name: 'Tan Mei Ling', email: 'mei.ling@example.com', number: '+65 9000 0000' });
 
 check('subject is the short form, exact (tagline in signature only)', full.subject === 'Welcome to Covarage');
 check('greeting merges the name as captured', full.text.startsWith('Hi Tan Mei Ling,'));
@@ -36,6 +36,12 @@ check('html CTA: the Teak button links the booking URL', full.html.includes('bac
 check('html: 24-hour promise bolded ahead of the button', full.html.indexOf('<strong>I will call you within 24 hours</strong>') > 0 && full.html.indexOf('24 hours') < full.html.indexOf('cal.com'));
 check('html signature: italic tagline in the muted tone', full.html.includes('font-style:italic') && full.html.includes('#8a7c6c'));
 check('html footer: template address line with entities', full.html.includes('Covarage Pte. Ltd. &middot; UEN 202531227H &middot; 20 Cecil Street, #22-00, PLUS Building, Singapore 049705'));
+
+// No number (the homepage form's number is optional, 2026-09-18): the one sentence branches, in both parts.
+const email = composeAck({ name: 'Tan Mei Ling', email: 'mei.ling@example.com' });
+check('no number: text promises email, never a call', email.text.includes('I will be in touch by email within 24 hours - or pick a time that suits you here:') && !email.text.includes('I will call you'));
+check('no number: html promises email, never a call', email.html.includes('<strong>I will be in touch by email within 24 hours</strong> - or pick a time that suits you here:') && !email.html.includes('I will call you'));
+check('no number: every other line unchanged', email.text.replace('I will be in touch by email within 24 hours', 'I will call you within 24 hours') === full.text);
 
 // Empty name: `Hi,` never `Hi ,`, param dropped, bare URL keeps working.
 const anon = composeAck({ name: '', email: 'x@y.co' });

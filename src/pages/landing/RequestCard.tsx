@@ -105,7 +105,7 @@ export default function RequestCard({ trade, onTrade, anchor = true, flat = fals
           <p className="mt-2 mb-4 text-[15px]/relaxed font-medium text-text-primary">
             {sentAs.number
               ? `We have your details and someone will call you within 24 hours on ${sentAs.number}.`
-              : 'We have your details and someone will call you within 24 hours.'}
+              : 'We have your details and someone will email you within 24 hours to find a time to talk.'}
           </p>
           <p className="m-0 mb-2.5 text-[15px]/relaxed font-semibold text-text-primary">
             While you wait, here is what businesses in your trade are usually asked to carry.
@@ -117,9 +117,15 @@ export default function RequestCard({ trade, onTrade, anchor = true, flat = fals
             {sentTrade ? `Open the ${sentTrade.label} checklist` : 'Open the guides'}
           </a>
           <p className="m-0 mb-4 text-[14px]/relaxed text-text-secondary">
-            {EMAIL_SEND_LIVE
-              ? 'Wrong number, or a better time to call? Reply to the email we just sent, or message +65 8867 0918 on WhatsApp.'
-              : 'Wrong number, or a better time to call? Message +65 8867 0918 on WhatsApp and we will pick it up.'}
+            {/* The number is optional (CMO no-number branch v1.0, 2026-09-18): a person who gave none
+                is not asked about a wrong number. */}
+            {sentAs.number
+              ? EMAIL_SEND_LIVE
+                ? 'Wrong number, or a better time to call? Reply to the email we just sent, or message +65 8867 0918 on WhatsApp.'
+                : 'Wrong number, or a better time to call? Message +65 8867 0918 on WhatsApp and we will pick it up.'
+              : EMAIL_SEND_LIVE
+                ? 'Prefer a call? Reply to the email we just sent with your number, or message +65 8867 0918 on WhatsApp.'
+                : 'Prefer a call? Message +65 8867 0918 on WhatsApp and we will pick it up.'}
           </p>
           <a
             href={booking}
@@ -164,7 +170,7 @@ export default function RequestCard({ trade, onTrade, anchor = true, flat = fals
         <p className="m-0 mt-3 text-[13px]/[1.5] text-text-secondary" aria-live="polite">
           {status === 'error'
             ? 'That did not go through. Please try again, or email support@covarage.com.'
-            : 'A person on our team calls you back. No obligation.'}
+            : 'A person on our team calls or emails you back. No obligation.'}
         </p>
       </form>
       )}

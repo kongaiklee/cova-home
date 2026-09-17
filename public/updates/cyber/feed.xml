@@ -6,8 +6,56 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Tue, 15 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-16-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-16-cisa-adds-two-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/16/cisa-adds-two-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>Critical ScreenConnect flaw now actively exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-16-critical-screenconnect-flaw-now-actively-exploited-in-attacks</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/</description>
+    </item>
+    <item>
+      <title>Extremely High Risk: Microsoft Edge Multiple Vulnerabilities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-16-extremely-high-risk-microsoft-edge-multiple-vulnerabilities</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260916</description>
+    </item>
+    <item>
+      <title>Google fixes actively exploited Android zero-day on Pixel devices</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-16-google-fixes-actively-exploited-android-zero-day-on-pixel-devices</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/</description>
+    </item>
+    <item>
+      <title>Malware bypasses browser checks to force install Chrome, Edge extensions</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-16-malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions</guid>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/</description>
+    </item>
     <item>
       <title>Acronis warns of actively exploited flaw in its cPanel backup plugin</title>
       <link>https://covarage.com/updates/cyber</link>

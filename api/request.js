@@ -193,7 +193,7 @@ export default async function handler(req, res) {
       console.warn('request: er2027 ack skipped (mail unconfigured)');
     }
   } else if (resend && from && email) {
-    const ack = composeAck({ name, email });
+    const ack = composeAck({ name, email, number });
     try {
       const sent = await fetch('https://api.resend.com/emails', {
         method: 'POST',
@@ -231,7 +231,10 @@ const REGISTERED = 'Covarage Pte. Ltd. · UEN 202531227H · 20 Cecil Street, #22
  * separators as served, written as the \u00b7 escape so the source stays ASCII). Exported so
  * the harness proves each branch without an HTTP round trip.
  */
-export function composeAck({ name, email }) {
+// The founder welcome's one branching sentence (CMO no-number branch v1.0 s3, 2026-09-18): the number
+// is optional on the homepage form, and a person who gave none cannot be called.
+export function composeAck({ name, email, number }) {
+  const reach = number ? 'I will call you within 24 hours' : 'I will be in touch by email within 24 hours';
   const params = new URLSearchParams();
   if (name) params.set('name', name);
   if (email) params.set('email', email);
@@ -251,7 +254,7 @@ export function composeAck({ name, email }) {
     '',
     "That begins with a short onboarding call. We'll learn about your business, understand what you currently hold and help bring your policies, certificates and renewal dates together in one place.",
     '',
-    'I will call you within 24 hours - or pick a time that suits you here:',
+    `${reach} - or pick a time that suits you here:`,
     '',
     `Book your onboarding call: ${booking}`,
     '',
@@ -291,7 +294,7 @@ export function composeAck({ name, email }) {
     body('I started Covarage because too many business owners are left to manage insurance on their own. Keeping track of policies, chasing for replies, and wondering whether their cover still fits the business they have today.'),
     body('I believe every business deserves someone in its corner. A team that knows the company, keeps things organised and makes sure nothing important is quietly overlooked.'),
     body("That begins with a short onboarding call. We'll learn about your business, understand what you currently hold and help bring your policies, certificates and renewal dates together in one place."),
-    body('<strong>I will call you within 24 hours</strong> - or pick a time that suits you here:', '0 0 10px 0'),
+    body(`<strong>${reach}</strong> - or pick a time that suits you here:`, '0 0 10px 0'),
     '            <table cellpadding="0" cellspacing="0" border="0" style="margin:0 0 18px 0;"><tr><td style="background-color:#423226; border-radius:6px;">',
     `              <a href="${esc(booking)}" style="display:inline-block; padding:11px 22px; font-family:Arial,Helvetica,sans-serif; font-size:14px; font-weight:700; color:#fdfbf9; text-decoration:none;">Book your onboarding call</a>`,
     '            </td></tr></table>',
