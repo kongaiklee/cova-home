@@ -79,8 +79,9 @@ export default async function handler(req, res) {
     // strictly than the thing that consumes the value.
     // A reader on an article is asked for ONE way to reach them, not two (CMO spec s2 slot C:
     // "one of the two required"), because they are giving an address for an answer rather than a
-    // number for a call. The homepage form still asks for all four and still enforces them in its
-    // own markup, so this widens what the ENDPOINT accepts and never what that form collects.
+    // number for a call. The homepage form asks for all four but marks the number optional
+    // (CMO's signup-rate finding s6, 2026-09-17: the test of a lighter form), so it relies on this
+    // same rule.
     return res.status(400).json({ ok: false, error: 'fields' });
   }
   // Email is machine-read, so it gets a shape check - but a LOOSE one: exactly one @, a dot

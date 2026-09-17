@@ -125,6 +125,23 @@ await check('the honeypot still returns ok and posts nothing', async () => {
   return r.text ? 'a honeypot submission reached the channel' : null;
 });
 
+// ---- the homepage form with the number optional (CMO's signup-rate finding s6, 2026-09-17) ----
+
+await check('a homepage lead with no number is accepted and shown as absent', async () => {
+  const { number, ...noNumber } = LEAD;
+  const r = await post({ ...noNumber, page: '/' });
+  if (r.code !== 200) return `status ${r.code}`;
+  return r.field('Number') === '-' ? null : `number = ${JSON.stringify(r.field('Number'))}`;
+});
+
+// BREAK: optional means one of the two, never neither.
+await check('a homepage lead with neither email nor number is refused', async () => {
+  const { number, email, ...neither } = LEAD;
+  const r = await post({ ...neither, page: '/' });
+  if (r.code !== 400) return `status ${r.code}`;
+  return r.text ? 'a lead with no way to reach them reached the channel' : null;
+});
+
 // ---- the in-article enquiry block (CMO spec s2) posts to this same endpoint ----
 
 const GUIDE = { name: 'Guide Reader', company: '(from article)', trade: 'construction', source: 'article', page: '/guides/licensing/bca-builders-licensing-scheme-insurance' };

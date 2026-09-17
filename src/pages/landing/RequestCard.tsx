@@ -147,7 +147,7 @@ export default function RequestCard({ trade, onTrade, anchor = true, flat = fals
           <input className={field} name="name" placeholder="Name" autoComplete="name" required maxLength={120} />
           <input className={field} name="company" placeholder="Company" autoComplete="organization" required maxLength={160} />
           <input className={field} name="email" placeholder="Email" type="email" autoComplete="email" required maxLength={160} />
-          <input className={field} name="number" placeholder="Number" type="tel" autoComplete="tel" required maxLength={40} />
+          <input className={field} name="number" placeholder="Number (optional)" type="tel" autoComplete="tel" maxLength={40} />
           {/* honeypot - hidden from people, filled by bots. Non-semantic name so a password
               manager or browser autofill never mistakes it for a real field (item 9). */}
           <input className="hidden" name="form_meta" tabIndex={-1} autoComplete="off" aria-hidden />
