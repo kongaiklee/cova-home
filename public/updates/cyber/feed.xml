@@ -6,8 +6,64 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-cisa-adds-two-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/18/cisa-adds-two-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/</description>
+    </item>
+    <item>
+      <title>Gyazo server flaw exploited to steal 23.6 million user records</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-gyazo-server-flaw-exploited-to-steal-23-6-million-user-records</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/</description>
+    </item>
+    <item>
+      <title>New Check Point flaw lets hackers execute code with root privileges</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-new-check-point-flaw-lets-hackers-execute-code-with-root-privileges</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/</description>
+    </item>
+    <item>
+      <title>North Korean hackers infect thousands of devices across 100 countries as part of &apos;WaterPlum&apos; campaign</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-north-korean-hackers-infect-thousands-of-devices-across-100-countries-as-part-of</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by The Record. Source: https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme</description>
+    </item>
+    <item>
+      <title>Brevo supply-chain attack injected ClickFix scripts on customer sites</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-17-brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/</description>
+    </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://covarage.com/updates/cyber</link>
