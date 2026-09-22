@@ -6,8 +6,80 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Fri, 18 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BigCommerce alerts merchants of data breach linked to Ribon apps</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-21-bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/</description>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-21-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>CISA alerts of active exploitation of three Linux kernel flaws</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-21-cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/</description>
+    </item>
+    <item>
+      <title>Microsoft: September updates break File History backup feature</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-21-microsoft-september-updates-break-file-history-backup-feature</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/</description>
+    </item>
+    <item>
+      <title>WordPress Click2Shell flaw lets hackers execute PHP on the server</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-21-wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server</guid>
+      <pubDate>Mon, 21 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/</description>
+    </item>
+    <item>
+      <title>Malicious npm packages evade install-script defenses at runtime</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-20-malicious-npm-packages-evade-install-script-defenses-at-runtime</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/</description>
+    </item>
+    <item>
+      <title>Police Advisory On Re-Emergence Of Phishing Scams Involving Fraudulent Pop-Up Alerts Impersonating The Singapore Police Force</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-20-police-advisory-on-re-emergence-of-phishing-scams-involving-fraudulent-pop-up-al</guid>
+      <pubDate>Sun, 20 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260920_police_advisory_on_re_emergence_of_phishing_scams_involving_fraudulent_pop_up_alerts</description>
+    </item>
+    <item>
+      <title>BragJack attacks hijack AI browser agents through malicious extensions</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-19-bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/</description>
+    </item>
+    <item>
+      <title>North Korean WaterPlum hackers infected 30,000 devices worldwide</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-19-north-korean-waterplum-hackers-infected-30-000-devices-worldwide</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/</description>
+    </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://covarage.com/updates/cyber</link>

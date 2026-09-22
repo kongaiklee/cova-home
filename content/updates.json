@@ -1,7 +1,7 @@
 {
   "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened; reviewed.pending names whitelist sources the run did NOT reach, so an unscreened source is stated, never quietly omitted. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
   "reviewed": {
-    "date": "2026-09-20",
+    "date": "2026-09-22",
     "sources": [
       "MOM",
       "PDPC",
@@ -39,9 +39,869 @@
           "Lloyd's"
         ]
       }
+    },
+    "assessed": {
+      "by": "CMO w26",
+      "at": "2026-09-22 23:50",
+      "rubric": "v1 (working/CMO_UPDATES_FIT_RUBRIC.md, 2026-09-11)",
+      "counts": {
+        "fit": 33,
+        "hold": 8,
+        "out": 79,
+        "articles": 0
+      },
+      "articles": [],
+      "held": [
+        {
+          "title": "Labour Market Report - Second Quarter 2026",
+          "source": "MOM",
+          "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0921-labour-market-report---second-quarter-2026",
+          "date": "2026-09-21",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "statistics with no action attached - a quarterly labour market report; no obligation, price or cover change"
+        },
+        {
+          "title": "High Risk: F5 BIG-IP Denial of Service Vulnerability",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260921",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT High Risk bulletin, a denial-of-service flaw with no active exploitation stated, on enterprise load balancers rather than software an SME runs; consistent with the Medium Risk bulletins already OUT"
+        },
+        {
+          "title": "One does not simply defend agentically",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK guidance blog on agentic defence; no rule or live threat"
+        },
+        {
+          "title": "Microsoft to retire Microsoft 365 Companion apps in December",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-microsoft-365-companion-apps-in-december/",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor retiring optional companion apps; not the end-of-support security cliff that made the Windows 11 24H2 item FIT"
+        },
+        {
+          "title": "Google fined €403 million over location data privacy violations",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/google-fined-403-million-over-location-data-privacy-violations/",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a foreign regulator fining a global platform; no obligation or action for a business here, consistent with the Spanish data agency item already OUT"
+        },
+        {
+          "title": "Microsoft fixes broken Excel copy and paste for all Office users",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-broken-excel-copy-and-paste-for-all-office-users/",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a product fix (Excel copy and paste), not a threat, obligation or cover change; the same item was OUT on 2026-09-19"
+        },
+        {
+          "title": "FBI's CJIS v6.1: What Security Teams Need to Know.",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/fbis-cjis-v61-what-security-teams-need-to-know/",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a US criminal-justice information standard in a sponsored article; no duty for a business here"
+        },
+        {
+          "title": "Microsoft reminds admins to migrate Entra ID users to passkeys",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-migrate-entra-id-users-to-passkeys/",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor reminder about its own identity-product migration; no live threat, obligation or cover change"
+        },
+        {
+          "title": "EU data regulator fines Google more than $460 million for location data violations",
+          "source": "The Record",
+          "url": "https://therecord.media/google-europe-location-data-fine",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "the same EU fine as item 9, from a second source; a foreign regulator against a global platform, no obligation here"
+        },
+        {
+          "title": "Belgian table tennis, gymnastics federations hit by cyberattacks",
+          "source": "The Record",
+          "url": "https://therecord.media/belgium-table-tennis-cyberattack",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "foreign sports federations breached; not a business exposure here"
+        },
+        {
+          "title": "Cyberattack hits University of Munich, potentially exposing student financial data",
+          "source": "The Record",
+          "url": "https://therecord.media/cyberattack-hits-university-of-munich-potentially-exposing-data",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a foreign university breached; not a business exposure here and not a vendor businesses depend on"
+        },
+        {
+          "title": "ShinyHunters cybercrime gang takes over Cl0p ransomware site, demands extortion payment",
+          "source": "The Record",
+          "url": "https://therecord.media/shinyhunters-clop-cyberattack-website",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "the same gang-on-gang extortion judged OUT on 2026-09-21 from a second source; no business exposure, obligation or cover change"
+        },
+        {
+          "title": "LinkedIn wins court order blocking mass scraping of user data",
+          "source": "The Record",
+          "url": "https://therecord.media/linkedin-wins-court-order-blocking-mass-scraping",
+          "date": "2026-09-21",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "platform litigation over scraping; no obligation, live threat or cover change for a business here"
+        },
+        {
+          "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+          "date": "2026-09-20",
+          "topic": "cyber",
+          "verdict": "HOLD",
+          "why": "a researcher sandbox escape in a named developer AI tool; whether it is exploited in the wild, and whether businesses run Codex where a host escape reaches them, needs the page read - the reader decides [carried from 2026-09-21]"
+        },
+        {
+          "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
+          "date": "2026-09-19",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a ransomware gang leak site attacked by another gang; no business exposure, obligation or cover change [carried from 2026-09-21]"
+        },
+        {
+          "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+          "date": "2026-09-19",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a consumer novelty service face-scanning its callers; no business duty, live threat or cover change [carried from 2026-09-21]"
+        },
+        {
+          "title": "Medium Risk: ISC BIND Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20260918",
+          "date": "2026-09-18",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (ISC BIND), no active exploitation stated; routine patch note [carried from 2026-09-19]"
+        },
+        {
+          "title": "Medium Risk: Google Chrome Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260918",
+          "date": "2026-09-18",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (Google Chrome), no active exploitation stated; routine patch note [carried from 2026-09-19]"
+        },
+        {
+          "title": "Workers Safety Handbook for Crane Operator",
+          "source": "WSH Council",
+          "url": "https://www.tal.sg/wshc/resources/publications/guides-and-handbooks/workers-safety-handbook-for-crane-operator",
+          "date": "2026-09-17",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a worker-facing safety handbook (crane operators); no change to an employer's duty stated [carried from 2026-09-19]"
+        },
+        {
+          "title": "WSH Bulletin 17 September 2026 Secure Your Spot for Tripartite Connect for SMEs 2026",
+          "source": "WSH Council",
+          "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-bulletins/wsh-bulletin-17-september-2026-secure-your-spot-for-tripartite-connect-for-smes-2026",
+          "date": "2026-09-17",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "an event registration notice (Tripartite Connect for SMEs); agency housekeeping [carried from 2026-09-19]"
+        },
+        {
+          "title": "Medium Risk: Cisco Products Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260917",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (Cisco products), no active exploitation stated; routine patch note [carried from 2026-09-19]"
+        },
+        {
+          "title": "Medium Risk: Mozilla Products Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260917",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (Mozilla products), no active exploitation stated; routine patch note [carried from 2026-09-19]"
+        },
+        {
+          "title": "Schneider Electric Modicon M340 Controller and Communication Modules",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-04",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Schneider Electric Modicon M340), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "ABB Ability Edgenius",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-06",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (ABB Ability Edgenius), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "Schneider Electric PowerChute Serial Shutdown",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-07",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Schneider Electric PowerChute Serial Shutdown), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "Schneider Electric NetBotz 5 750/755",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-05",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Schneider Electric NetBotz 750/755), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "Hitachi Energy FACTS Control Platform (FCP)",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-03",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Hitachi Energy FACTS Control Platform), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "Mitsubishi Electric GX Works3 and Motion Control Settings",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-260-02",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Mitsubishi Electric GX Works3), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "Mitsubishi Electric CC-Link IE TSN Communication Protocol (Update A)",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-211-07",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Mitsubishi Electric CC-Link IE TSN), not a business's digital presence [carried from 2026-09-19]"
+        },
+        {
+          "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK scheme notice (adversary simulation documents); no obligation here [carried from 2026-09-19]"
+        },
+        {
+          "title": "Adversary simulation: what you need to know",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK guidance piece on adversary simulation, no rule or live threat [carried from 2026-09-19]"
+        },
+        {
+          "title": "Outcomes Over Alert Queues: Rebuilding MDR Around Speed",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/security-labs/rebuilding-mdr-around-speed",
+          "date": "2026-09-17",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor blog on managed detection; vendor self-promotion [carried from 2026-09-19]"
+        },
+        {
+          "title": "Employers' Guide to Return-To-Work for the Healthcare Industry",
+          "source": "WSH Council",
+          "url": "https://www.tal.sg/wshc/resources/publications/guides-and-handbooks/employers-guide-to-return-to-work-for-the-healthcare-industry",
+          "date": "2026-09-16",
+          "topic": "general",
+          "verdict": "HOLD",
+          "why": "a WSH Council employers' guide for one sector (healthcare return-to-work); whether it sets a duty under WICA or is voluntary guidance needs the page read [carried from 2026-09-18]"
+        },
+        {
+          "title": "Using Cyber Decoys to Strengthen Detection and Response",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/resources-tools/resources/using-cyber-decoys-strengthen-detection-and-response",
+          "date": "2026-09-16",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a CISA guidance piece (cyber decoys), no rule or live threat [carried from 2026-09-18]"
+        },
+        {
+          "title": "Schneider Electric SCADAPack x70 Products",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-04",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Schneider Electric SCADAPack x70), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "CareCam CM2507",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-08",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (CareCam CM2507), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "Siemens Reyrolle 7SR5",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-05",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Siemens Reyrolle 7SR5), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "mySCADA myPRO Manager",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-03",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (mySCADA myPRO Manager), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "Siemens Mendix SAML",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-06",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Siemens Mendix SAML), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "Wärtsilä FOS-Onboard",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-02",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Wartsila FOS-Onboard, marine systems), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "Digital Watchdog VMAX DVR and NVR Product Lineups",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-01",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Digital Watchdog DVR/NVR), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "Protecting Tokens and Assertions from Forgery, Theft, and Misuse: Implementation Recommendations for Agencies and Cloud Service Providers",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/resources-tools/resources/protecting-tokens-and-assertions-forgery-theft-and-misuse-implementation-recommendations-agencies",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "implementation recommendations for US federal agencies and cloud providers; guidance, no rule or live threat for a business here [carried from 2026-09-16]"
+        },
+        {
+          "title": "Siemens Teamcenter",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-258-07",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (Siemens Teamcenter), not a business's digital presence [carried from 2026-09-16]"
+        },
+        {
+          "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "state spyware exposed, aimed at dissidents, activists and journalists; not a business exposure [carried from 2026-09-16]"
+        },
+        {
+          "title": "Iranian cyber targeting of dissidents, activists and journalists",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "state targeting of dissidents, activists and journalists; not a business exposure [carried from 2026-09-16]"
+        },
+        {
+          "title": "How Third Wave Innovations Shifted from Reactive Triage to Automated Verdicts",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/security-labs/how-third-wave-innovations-shifted-from-reactive-triage-to-automated-verdicts",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor case study (Coalition on a customer's triage workflow); vendor self-promotion [carried from 2026-09-16]"
+        },
+        {
+          "title": "Police Advisory On Resurgence Of Job Scams Involving Online Tasks Relating To Trading Cards",
+          "source": "SPF",
+          "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260914_police_advisory_on_resurgence_of_job_scams_involving_online_tasks_relating_to_trading_cards",
+          "date": "2026-09-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "consumer-only scam advisory (job scams aimed at jobseekers), no business duty or exposure [carried from 2026-09-16]"
+        },
+        {
+          "title": "Launch of Sites for Purpose-Built Dormitories in 2026-2027",
+          "source": "MOM",
+          "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0911-launch-of-sites-for-purpose-built-dormitories-in-2026-2027",
+          "date": "2026-09-11",
+          "topic": "general",
+          "verdict": "HOLD",
+          "why": "a dormitory land-supply announcement; whether it changes an employer's housing standard or a deadline, rather than only naming sites, needs the page read [carried from 2026-09-16]"
+        },
+        {
+          "title": "\"Building the Financial System of the Future: Trusted, Connected and Resilient\" - Special Address by Mr Chia Der Jiun, Managing Director, Monetary Authority of Singapore, at the Global FinTech Fest 2026 on 11 September ...",
+          "source": "MAS",
+          "url": "https://www.mas.gov.sg/news/speeches/2026/building-the-financial-system-of-the-future---trusted-connected-and-resilient-by-md-for-gff-2026",
+          "date": "2026-09-11",
+          "topic": "general",
+          "verdict": "HOLD",
+          "why": "a speech; whether a rule or decision sits inside the MAS special address needs the page read - the reader decides [carried from 2026-09-11]"
+        },
+        {
+          "title": "AVEVA Pipeline Integrity Monitor",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-253-01",
+          "date": "2026-09-10",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "industrial control advisory (AVEVA pipeline monitor), not a business's digital presence [carried from 2026-09-11]"
+        },
+        {
+          "title": "Orthanc DICOM Server",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-02",
+          "date": "2026-09-10",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "vendor-specific medical-device advisory (Orthanc DICOM), no exploitation stated, not a business's digital presence [carried from 2026-09-11]"
+        },
+        {
+          "title": "NextGen Healthcare Mirth Connect",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-253-01",
+          "date": "2026-09-10",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "vendor-specific healthcare integration advisory, no exploitation stated [carried from 2026-09-11]"
+        },
+        {
+          "title": "4 Key Takeaways from Activate Europe 2026",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/cyber-insurance/4-key-takeaways-from-activate-europe-2026",
+          "date": "2026-09-10",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor's event takeaways (Coalition Activate Europe); vendor self-promotion [carried from 2026-09-11]"
+        },
+        {
+          "title": "Medium Risk: Ubuntu Linux Kernel Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260907",
+          "date": "2026-09-07",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (Ubuntu Linux kernel), no active exploitation stated; routine patch note [carried from 2026-09-19]"
+        },
+        {
+          "title": "The hidden risks of shadow AI",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai",
+          "date": "2026-09-07",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a guidance blog (shadow AI), no rule, live threat or cover change [carried from 2026-09-11]"
+        },
+        {
+          "title": "MINDEF-IRAS Clarification on Correction of NSman Tax Relief Records Media Release",
+          "source": "IRAS",
+          "url": "https://www.iras.gov.sg/news-events/newsroom/mindef-iras-clarification-on-correction-of-nsman-tax-relief-records",
+          "date": "2026-09-04",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "consumer-only item (NSman tax relief records) [carried from 2026-09-11]"
+        },
+        {
+          "title": "Inbox In-Fighting: A Window Into BEC Subculture",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/security-labs/inbox-in-fighting-a-window-into-bec-subculture",
+          "date": "2026-09-03",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor research piece (BEC subculture) with no claims data, rule or live wave stated [carried from 2026-09-11]"
+        },
+        {
+          "title": "Medium Risk: RedHat Linux Kernel Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260902",
+          "date": "2026-09-02",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (RedHat kernel), no active exploitation stated [carried from 2026-09-11]"
+        },
+        {
+          "title": "Medium Risk: SUSE Linux Kernel Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260901",
+          "date": "2026-09-01",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "HKCERT Medium Risk bulletin (SUSE kernel), no active exploitation stated [carried from 2026-09-11]"
+        },
+        {
+          "title": "Faire de l'Assurance Cyber Active la référence mondiale pour les Grandes Entreprises",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/cyber-insurance/faire-de-lassurance-cyber-active-la-reference-mondiale-pour-les-grandes-entreprises",
+          "date": "2026-09-01",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor piece in French about large-enterprise cover; vendor self-promotion, not readable on an English page [carried from 2026-09-11]"
+        },
+        {
+          "title": "Singapore Institute of Directors (SID) Directors Conference 2026 Opening Keynote Address - 2M Indranee Rajah",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/singapore-institute-of-directors--sid--directors-conference-2026-opening-keynote-address---2m-indranee-rajah/",
+          "date": "2026-08-28",
+          "topic": "general",
+          "verdict": "HOLD",
+          "why": "a ministerial keynote (2M Indranee Rajah at the SID conference); whether a rule is inside needs the page read [carried from 2026-09-11]"
+        },
+        {
+          "title": "ACRA and SID partner to strengthen director capability and governance standards in Singapore",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/acra-and-sid-partner-to-strengthen-director-capability-and-governance-standards-in-singapore/",
+          "date": "2026-08-28",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a partnership announcement (ACRA and SID), no obligation, cover change or enforcement [carried from 2026-09-11]"
+        },
+        {
+          "title": "AI SOC Hype is Overdue for a Reality Check",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/security-labs/ai-soc-hype-overdue-reality-check",
+          "date": "2026-08-27",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor opinion piece (AI SOC hype), vendor self-promotion [carried from 2026-09-11]"
+        },
+        {
+          "title": "IVAS issues Guidance Note to support robust, transparent and consistent intangible asset valuations",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/ivas-issues-guidance-note-to-support-robust--transparent-and-consistent-intangible-asset-valuations/",
+          "date": "2026-08-26",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a valuation guidance note for accountants and valuers; no obligation for businesses at large [carried from 2026-09-11]"
+        },
+        {
+          "title": "Understanding Passwordless Authentication",
+          "source": "CSA advisories",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-011/",
+          "date": "2026-08-26",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a CSA guidance advisory (passwordless authentication), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "MSPs Report Losing Clients Over Slow Threat Containment",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/security-labs/msps-report-losing-clients-over-slow-threat-containment",
+          "date": "2026-08-26",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a vendor survey of MSPs, vendor self-promotion [carried from 2026-09-11]"
+        },
+        {
+          "title": "Managing the cyber risk of agentic AI",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/managing-the-cyber-risk-of-agentic-ai",
+          "date": "2026-08-20",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a guidance blog (agentic AI), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "Change in National Wages Council (NWC) Chairmanship",
+          "source": "MOM",
+          "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0819-change-in-nwc-chairmanship",
+          "date": "2026-08-19",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "agency housekeeping (NWC chairmanship change) [carried from 2026-09-11]"
+        },
+        {
+          "title": "How BitLocker PINs help protect your data and devices",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/how-bitlocker-pins-help-protect-your-data-and-devices",
+          "date": "2026-08-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a guidance blog (BitLocker PINs), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "Empowering Leaders of Tomorrow: MDDI Family Awards 72 Scholarships to Nurture the Next Generation of Digital and Information Leaders",
+          "source": "GovTech",
+          "url": "https://www.tech.gov.sg/media/mddi-family-awards-72-scholarships-to-nurture-the-next-generation-of-digital-and-information-leaders/",
+          "date": "2026-08-12",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "agency housekeeping (scholarship awards) [carried from 2026-09-11]"
+        },
+        {
+          "title": "Help shape the future of resilient private 5G",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/help-shape-the-future-of-resilient-private-5g",
+          "date": "2026-08-12",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK consultation on private 5G, no obligation here [carried from 2026-09-11]"
+        },
+        {
+          "title": "Water sector example added to the NCSC's Secure connectivity principles",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/water-sector-example-added-to-the-ncscs-secure-connectivity-principles",
+          "date": "2026-08-11",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK water-sector guidance example, not a business's digital presence here [carried from 2026-09-11]"
+        },
+        {
+          "title": "The National Wages Council Convenes to Develop Annual Guidelines",
+          "source": "MOM",
+          "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/0807-convening-of-nwc-2627",
+          "date": "2026-08-07",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a process notice (NWC convenes); the guidelines are not yet issued - the guidelines will be the item [carried from 2026-09-11]"
+        },
+        {
+          "title": "NCSC statement in response to recent incidents resulting from frontier AI evaluations",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/news/ncsc-statement-in-response-to-recent-incidents-resulting-from-frontier-ai-evaluations",
+          "date": "2026-08-04",
+          "topic": "cyber",
+          "verdict": "HOLD",
+          "why": "an NCSC statement on incidents from frontier AI evaluations; what it says about a business's exposure needs the page read [carried from 2026-09-11]"
+        },
+        {
+          "title": "2026 ASC News",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/2026-asc-news/",
+          "date": "2026-08-03",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a standards-news listing (2026 ASC News), no single item, no obligation stated [carried from 2026-09-11]"
+        },
+        {
+          "title": "Making forensic observability the norm for network devices",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/making-forensic-observability-the-norm-for-network-devices",
+          "date": "2026-07-29",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a guidance blog (forensic observability), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "Joint Advisory by the Cyber Security Agency of Singapore and Infocomm Media Development Authority",
+          "source": "CSA advisories",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-008/",
+          "date": "2026-07-28",
+          "topic": "cyber",
+          "verdict": "HOLD",
+          "why": "a CSA-IMDA joint advisory whose subject is not in the headline; needs the page read [carried from 2026-09-11]"
+        },
+        {
+          "title": "When cyber attacks happen: helping organisations recover",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/when-cyber-attacks-happen-helping-organisations-recover",
+          "date": "2026-07-28",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a guidance blog (recovery), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "Post-quantum cryptography (PQC) migration workshop report",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/post-quantum-cryptography-pqc-migration-workshop-report",
+          "date": "2026-07-22",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a workshop report (post-quantum), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "PDPC Strengthens International Cooperation through Memorandum of Cooperation (MOC) with Japan's Personal Information Protection Commission",
+          "source": "PDPC",
+          "url": "https://www.pdpc.gov.sg/media-events/pdpc-strengthens-international-cooperation-through-memorandum-of-cooperation-moc-with-japans-personal-information-protection-commission",
+          "date": "2026-07-20",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "an inter-regulator cooperation memorandum (PDPC and Japan's PIPC); no obligation change for a business [carried from 2026-09-16]"
+        },
+        {
+          "title": "Helping small businesses with free, hands-on cyber consultancy",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/helping-small-businesses-with-free-hands-on-cyber-consultancy",
+          "date": "2026-07-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK programme (free cyber consultancy), not available to a business here [carried from 2026-09-11]"
+        },
+        {
+          "title": "Opening Address by Mrs Chia-Tern Huey Min, ACRA Chief Executive at the CSIS 11th Corporate Service Providers Conference 2026 on 13 July 2026",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/opening-address-by-mrs-chia-tern-huey-min-acra-chief-executive-at-the-csis-11th-corporate-service-providers-conference-2026-on-13-july-2026/",
+          "date": "2026-07-13",
+          "topic": "general",
+          "verdict": "HOLD",
+          "why": "the ACRA Chief Executive's opening address at the CSP conference; whether a rule is inside needs the page read [carried from 2026-09-11]"
+        },
+        {
+          "title": "UK and Allies urge critical sectors to improve defences against Russian intelligence targeting",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting",
+          "date": "2026-07-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK critical-sector advisory on Russian intelligence targeting; not a business's digital presence here [carried from 2026-09-11]"
+        },
+        {
+          "title": "Cyber Essentials Pathways: from proof of concept to cyber confidence",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/cyber-essentials-pathways-from-proof-of-concept-to-cyber-confidence",
+          "date": "2026-07-09",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a UK Cyber Essentials programme blog, no obligation here [carried from 2026-09-11]"
+        },
+        {
+          "title": "Balancing director accountability with sound corporate governance",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/balancing-director-accountability-with-sound-corporate-governance/",
+          "date": "2026-07-08",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a reply to forum letters on governance; no obligation, cover change or enforcement [carried from 2026-09-11]"
+        },
+        {
+          "title": "Cyber Shield: The path to an agentic AI future for cyber defence",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/blogs/cyber-shield-the-path-to-an-agentic-ai-future-for-cyber-defence",
+          "date": "2026-07-07",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "a guidance blog (agentic AI defence), no rule or live threat [carried from 2026-09-11]"
+        },
+        {
+          "title": "GOH Address by Ms Indranee Rajah, Minister in the Prime Minister's Office, Second Minister for Finance and National Development at the ISCA Annual Dinner 2026",
+          "source": "ACRA",
+          "url": "https://www.acra.gov.sg/news-events/news-announcements/goh-address-by-ms-indranee-rajah-isca-annual-dinner-2026/",
+          "date": "2026-07-03",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "a dinner address (GOH at the ISCA annual dinner); a speech with no decision stated [carried from 2026-09-11]"
+        }
+      ]
     }
   },
   "items": [
+    {
+      "title": "Microsoft: September updates break File History backup feature",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
+      "date": "2026-09-21",
+      "topic": "cyber"
+    },
+    {
+      "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+      "date": "2026-09-21",
+      "topic": "cyber"
+    },
+    {
+      "title": "CISA alerts of active exploitation of three Linux kernel flaws",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
+      "date": "2026-09-21",
+      "topic": "cyber"
+    },
+    {
+      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
+      "date": "2026-09-21",
+      "topic": "cyber"
+    },
+    {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "source": "CISA",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/09/21/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "date": "2026-09-21",
+      "topic": "cyber"
+    },
+    {
+      "title": "Malicious npm packages evade install-script defenses at runtime",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+      "date": "2026-09-20",
+      "topic": "cyber"
+    },
+    {
+      "title": "Police Advisory On Re-Emergence Of Phishing Scams Involving Fraudulent Pop-Up Alerts Impersonating The Singapore Police Force",
+      "source": "SPF",
+      "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260920_police_advisory_on_re_emergence_of_phishing_scams_involving_fraudulent_pop_up_alerts",
+      "date": "2026-09-20",
+      "topic": "cyber"
+    },
+    {
+      "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+      "date": "2026-09-19",
+      "topic": "cyber"
+    },
+    {
+      "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
+      "date": "2026-09-19",
+      "topic": "cyber"
+    },
     {
       "title": "North Korean hackers infect thousands of devices across 100 countries as part of 'WaterPlum' campaign",
       "source": "The Record",
