@@ -1,4 +1,4 @@
-**Version 1.0 - 25 August 2026**
+**Version 1.2 - [PUBLICATION DATE]** (supersedes Version 1.0 of 25 August 2026)
 
 ## 1. About Covarage
 
@@ -40,8 +40,13 @@ Covarage works with licensed insurance intermediaries. We are not tied to any on
 has exclusivity over the platform, and we may work with others.
 
 We will only introduce you to an intermediary if you ask us to, and we will tell you which intermediary
-it is before we do. When we make the introduction we pass on your details and the requirements you
-have recorded, as you gave them to us. We do not assess or comment on them.
+it is when we introduce you.
+
+When you ask for a quotation or a policy review, we pass your company details, the requirements you give us and the policy documents you upload to a licensed broker Covarage introduces you to, so that they can quote or advise. Covarage does not advise on insurance, does not choose your cover and does not place it. We work with more than one licensed brokerage and the broker you are introduced to may work for any of them.
+
+If your business has invited its own broker onto the platform and you send a request to that broker, we pass the same details to them instead. That is not an introduction: Covarage did not choose that broker.
+
+We do not assess or comment on your details, your requirements or your documents.
 
 After an introduction, we may monitor how promptly and how completely the intermediary responds, so
 that you can judge the service you are receiving. That monitoring measures service
@@ -57,9 +62,11 @@ Covarage is not paid anything by any insurer. Covarage does not give advice, doe
 product and does not choose your insurer. Your licensed adviser does that, and they are accountable
 to you for it.
 
+If you send a request to a broker your business invited, no introduction takes place and Covarage is not paid an introduction fee.
+
 ## 6. Your account
 
-Accounts are opened by Covarage's team after you contact us. You must give accurate
+Every account is opened through a business. You can open one for your business yourself, or join by accepting an invitation from Covarage's team or from someone at your business, and you accept these terms when you do. You must give accurate
 information and keep it up to date. You are responsible for keeping your account credentials
 confidential and for activity that takes place under your account. Please tell us promptly if you
 believe your account has been used without your authority.
@@ -67,8 +74,13 @@ believe your account has been used without your authority.
 ## 7. Your information
 
 We use the information you provide to operate the platform, to store the documents you upload, and -
-where you ask to be introduced - to pass your details and recorded requirements to the intermediary
-concerned.
+where you ask to be introduced - to pass what section 4 describes to the intermediary concerned.
+
+If you use our concierge service we pass what you tell us to whoever is needed to act on it - a clinic, a hospital, a medical network or the broker on your account - and only what they need to act.
+
+If your business invites its own broker onto the platform, that broker can see what they need to serve your business - your company details, your employees' details and the policies you link to them - once we have checked that their firm is listed by the Monetary Authority of Singapore as a registered or exempt insurance broker. That check is not a recommendation of the broker. Your business can remove a broker at any time, and their access ends at once.
+
+If you add information about your employees, you confirm that your business may share it with Covarage, and with the brokers your business works with on the platform, to arrange and manage your business's insurance, and that you have told your employees this.
 
 We do not sell your information. How we collect, use, disclose, store and protect personal data is set
 out in the Covarage Privacy Policy, which forms part of this agreement.
@@ -95,12 +107,15 @@ yours.
 Nothing in this agreement limits or excludes any liability that cannot be limited or excluded under
 Singapore law.
 
-## 10. Suspension and termination
+## 10. Suspension, closing your account and deleting your records
 
-You may close your account at any time. We may suspend or terminate your access if you breach this
-agreement, or where we are required to do so by law. Where it is reasonable to do so, we will give you
-notice first. On termination you may ask us for a copy of the documents you uploaded, and we will
-retain data as described in the Privacy Policy.
+We may suspend or terminate your access if you breach this agreement, or where we are required to do so
+by law. Where it is reasonable to do so, we will give you notice first.
+
+You can close your account at any time. When you close it you can also tick to delete all your records, and we delete them straight away - your policy documents, your uploads and your company, employee and vehicle records. If you close your account without ticking that, we delete those records five years after closing. We keep our own accounting records of any transaction between us for five years, which the law does not let us delete, and we keep the record that you consented and that you asked us to delete, because it is how we show we handled your data properly. Write to dpo@covarage.com and we will confirm what was deleted and what was kept.
+
+Before you close your account, or on termination, you may ask us for a copy of the documents you
+uploaded. Retention is set out in full in section 8 of the Privacy Policy.
 
 ## 11. Changes to these terms
 
