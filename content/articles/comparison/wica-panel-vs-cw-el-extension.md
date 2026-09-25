@@ -315,7 +315,7 @@ The WICA + CW/EL combination is the standard architecture for Singapore SME work
 
 ### Related Information
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement](/comparison/wica-designated-insurer-panel)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

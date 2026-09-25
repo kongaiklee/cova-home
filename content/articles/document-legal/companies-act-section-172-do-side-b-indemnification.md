@@ -200,7 +200,8 @@ Section 172 is the framework that makes D&O insurance both possible and bounded.
 
 ### Related Information
 - [Companies Act Section 157: Director Duties and the D&O Insurance Foundation](/document-legal/companies-act-section-157-director-duties)
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [IRDA 2018 and Director Personal Liability in Insolvency: How Singapore Law Handles Distressed Companies and What D&O Insurance Actually Covers](/document-legal/irda-2018-director-duties-insolvency)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

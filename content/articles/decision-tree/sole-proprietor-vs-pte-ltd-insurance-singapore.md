@@ -121,5 +121,6 @@ Covarage helps with the part that quietly slips: keeping the liability, D&O, and
 - [Companies Act Section 157: The Director Duties That Drive D&O Cover](/document-legal/companies-act-section-157-director-duties)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
 - [Management Liability Package vs Standalone Modules for SMEs](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

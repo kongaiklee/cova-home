@@ -364,5 +364,6 @@ D&O is one of the few insurance products specifically designed to protect indivi
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
 - [Claims-Made vs Occurrence Triggers: Why It Matters Which Lines Use Which](/comparison/claims-made-vs-occurrence)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

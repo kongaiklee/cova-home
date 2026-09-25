@@ -296,5 +296,6 @@ The cost of climate disclosure compliance is substantial for in-scope SMEs - typ
 - /document-legal/companies-act-disclosure-framework
 - /comparison/do-cover-options-singapore
 - [Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025](/regulatory-change/insurance-amendment-act-fima-2024)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

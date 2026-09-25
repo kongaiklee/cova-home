@@ -115,7 +115,7 @@ If you run outdoor labour in Singapore, treat heat stress as a named hazard in y
 ### Related Information
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 

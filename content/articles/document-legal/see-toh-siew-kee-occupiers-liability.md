@@ -240,7 +240,7 @@ See Toh's unified framework brings clarity and predictability to occupiers' liab
 5. For documentation and risk management, what infrastructure is appropriate?
 
 ### Related Information
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - /procedural-howto/pl-claim-process
 

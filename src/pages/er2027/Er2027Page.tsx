@@ -103,7 +103,7 @@ const RISKS: { risk: string; guides: [string, string][] }[] = [
 ];
 
 const TITLE = 'Emerging Risks 2027: Singapore Edition';
-const DESCRIPTION = "Emerging Risks 2027 is Covarage's report on the risks Singapore businesses face next year, from AI fraud to heat stress. Get a copy when it publishes.";
+const DESCRIPTION = "Emerging Risks 2027 will share hard-earned lessons from Singapore founders, owners and senior business leaders. Get a copy when it publishes.";
 const PATH = '/emerging-risks-2027';
 const H1 = 'Emerging Risks 2027: what Singapore businesses face next year.';
 
@@ -205,7 +205,7 @@ function Signup() {
           <input type="radio" name="option" value="report_and_participate" checked={participate} onChange={() => setOption('report_and_participate')} className="mt-1 size-4 accent-primary" />
           <span>
             <span className="block text-base/[1.4] font-semibold text-text-primary">Send me the report, and I would like to take part.</span>
-            <span className="mt-1 block text-sm/[1.5] text-text-secondary">A 30-minute conversation with our founder about the risks your business expects in 2027.</span>
+            <span className="mt-1 block text-sm/[1.5] text-text-secondary">A 30-minute conversation with our founder about something you learned the hard way and what someone starting or leading a business should know before 2027. Any part of building and running a business is in scope.</span>
           </span>
         </label>
       </fieldset>
@@ -261,7 +261,7 @@ export default function Er2027Page() {
             <p className="m-0 text-xs font-medium tracking-[0.14em] text-primary uppercase">Emerging Risks 2027 &middot; Singapore Edition</p>
             <h1 className="m-0 mt-3 font-serif text-3xl/tight font-normal tracking-[-1px] text-text-primary sm:text-4xl/tight lg:text-[2.75rem]/tight lg:tracking-[-1.4px]">{H1}</h1>
             <p className="m-0 mt-4 text-lg/[1.6] text-text-primary">
-              Covarage is interviewing business leaders across Singapore about the risks they expect in 2027, and what they have done about each one. The report publishes in January 2027.
+              Covarage is speaking with founders, owners and senior business leaders across Singapore about the decisions, surprises and risks that have shaped how they work. We also ask what they see coming in 2027. The report publishes in January 2027.
             </p>
             <div className="mt-6">
               <Signup />
@@ -271,11 +271,11 @@ export default function Er2027Page() {
         </div>
 
         <div className="max-w-[704px]">
-          <h2 className={H2}>What the report measures</h2>
-          <p className="m-0 text-[17px]/[1.65]">Two questions, asked of every business: which risks concern you for 2027, and what have you done about each one. The gap between the two is the finding.</p>
+          <h2 className={H2}>What we ask</h2>
+          <p className="m-0 text-[17px]/[1.65]">We start with the story: something you did not see coming, what it cost and what you changed afterwards. Then we ask what you see ahead in 2027. The gap between what concerns a business and what it has done about it is the finding.</p>
 
-          <h2 className={H2}>The ten risks we are asking about</h2>
-          <p className="m-0 mb-5 text-[17px]/[1.65]">Each links to what we have already published on it.</p>
+          <h2 className={H2}>Ten prompts for the conversation</h2>
+          <p className="m-0 mb-5 text-[17px]/[1.65]">Use one as a starting point, or tell us about something else that changed how you run your business. Each links to what we have already published on it.</p>
           <ol className="m-0 list-none p-0" data-er2027-risks>
             {RISKS.map((r, i) => (
               <li key={r.risk} className="grid grid-cols-[40px_1fr] gap-2 border-t border-border-primary py-4">
@@ -293,6 +293,13 @@ export default function Er2027Page() {
                 </div>
               </li>
             ))}
+            <li className="grid grid-cols-[40px_1fr] gap-2 border-t border-border-primary py-4">
+              <span className="font-serif text-2xl/none text-primary">+</span>
+              <div>
+                <p className="m-0 text-[17px]/[1.4] font-semibold text-text-primary">Something not on this list</p>
+                <p className="m-0 mt-1.5 text-[15px]/[1.6]">A contract clause. The wrong hire. A key person leaving. A decision that saved money and cost more later. If it changed how you run your business, bring that story.</p>
+              </div>
+            </li>
           </ol>
           <Link to="/guides/emerging-risk" className={`${INK} mt-4 inline-block text-[15px] font-medium`}>All emerging-risk guides</Link>
 

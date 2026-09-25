@@ -6,8 +6,112 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista patches actively exploited VeloCloud Orchestrator zero-day</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-arista-patches-actively-exploited-velocloud-orchestrator-zero-day</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/</description>
+    </item>
+    <item>
+      <title>Enhanced Information Sharing Between Meta And The Singapore Police Force Results In Action Against Nearly 3.8 Million Scam-Linked Entities And Pages On Facebook And Instagram</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-enhanced-information-sharing-between-meta-and-the-singapore-police-force-results</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260923_enhanced_information_sharing_between_meta_and_the_singapore_police_force</description>
+    </item>
+    <item>
+      <title>F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-f5-patches-big-ip-apm-zero-day-flaw-exploited-in-rce-attacks</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-malicious-ai-agents-steal-600k-credit-cards-infect-100-sites-with-skimmers</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/</description>
+    </item>
+    <item>
+      <title>Microsoft: September Windows updates break Always On VPN connections</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-microsoft-september-windows-updates-break-always-on-vpn-connections</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/</description>
+    </item>
+    <item>
+      <title>Multiple Vulnerabilities in Synology DiskStation Manager (DSM)</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-multiple-vulnerabilities-in-synology-diskstation-manager-dsm</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-127/</description>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-cisa-adds-four-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/22/cisa-adds-four-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>Check Point warns of Management Server zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-check-point-warns-of-management-server-zero-day-exploited-in-attacks</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>Chinese hackers exploit WordPress, Zyxel flaws to steal govt data</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-chinese-hackers-exploit-wordpress-zyxel-flaws-to-steal-govt-data</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/</description>
+    </item>
+    <item>
+      <title>EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/</description>
+    </item>
+    <item>
+      <title>High Risk: WordPress Multiple Vulnerabilities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-high-risk-wordpress-multiple-vulnerabilities</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20260922</description>
+    </item>
+    <item>
+      <title>Malaysian Syndicate Mastermind Arrested For Coordinating Scam And Money Laundering Operations In Singapore</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-malaysian-syndicate-mastermind-arrested-for-coordinating-scam-and-money-launderi</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260922_malaysian_syndicate_mastermind_arrested_for_coordinating_scam</description>
+    </item>
+    <item>
+      <title>New ClosedQuorum Windows malware uses AI for attack decisions</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-22-new-closedquorum-windows-malware-uses-ai-for-attack-decisions</guid>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/</description>
+    </item>
     <item>
       <title>BigCommerce alerts merchants of data breach linked to Ribon apps</title>
       <link>https://covarage.com/updates/cyber</link>
@@ -129,12 +233,36 @@
       <description>Published by The Record. Source: https://therecord.media/north-korean-hackers-infect-thousands-of-devices-waterplum-scheme</description>
     </item>
     <item>
+      <title>Active Exploitation of Critical Vulnerability in GitLab</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-17-active-exploitation-of-critical-vulnerability-in-gitlab</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-123/</description>
+    </item>
+    <item>
       <title>Brevo supply-chain attack injected ClickFix scripts on customer sites</title>
       <link>https://covarage.com/updates/cyber</link>
       <guid isPermaLink="false">covarage-update-2026-09-17-brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites</guid>
       <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/</description>
+    </item>
+    <item>
+      <title>Cisco warns of max severity ISE zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-17-cisco-warns-of-max-severity-ise-zero-day-exploited-in-attacks</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>Windows 11 24H2 Home and Pro reach end of support in October</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-17-windows-11-24h2-home-and-pro-reach-end-of-support-in-october</guid>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/</description>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>

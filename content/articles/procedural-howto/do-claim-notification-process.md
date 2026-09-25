@@ -382,5 +382,6 @@ The D&O notification process is the foundation of effective coverage at claim ti
 - [Companies Act Section 157: Director Duties and the D&O Insurance Foundation](/document-legal/companies-act-section-157-director-duties)
 - [Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company](/document-legal/companies-act-section-172-indemnification)
 - [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

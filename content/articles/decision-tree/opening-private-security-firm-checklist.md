@@ -189,7 +189,7 @@ The security insurance build is comprehensive, reflecting the operational risk p
 
 ### Related Information
 - /decision-tree/opening-cleaning-fm-business-checklist
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - /comparison/wica-vs-employers-liability
 
 *Published 5 May 2026. Source verified 5 May 2026.*

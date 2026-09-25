@@ -353,7 +353,7 @@ The asymmetry: maintaining employment discipline costs little; defending wrongfu
 
 ### Related Information
 - [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

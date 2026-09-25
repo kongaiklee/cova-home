@@ -1,5 +1,84 @@
 [
   {
+    "title": "Fine Art and Artwork Insurance for Singapore Businesses",
+    "slug": "/document-legal/fine-art-insurance-business-singapore",
+    "category": "document-legal",
+    "intent": "get-it-right",
+    "topics": [
+      "Property & Fire",
+      "Marine & Cargo"
+    ],
+    "industries": [
+      "Art Galleries",
+      "Auction Houses",
+      "Retail",
+      "Professional Services"
+    ],
+    "agencies": [
+      "Singapore Customs",
+      "MAS",
+      "National Heritage Board"
+    ],
+    "published": "2026-09-25",
+    "meta_description": "Fine art insurance Singapore guide for galleries and businesses: ownership, consignment, valuation, storage, exhibitions, transit and claims.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 2188,
+    "article_number": 545,
+    "updated": "2026-09-25"
+  },
+  {
+    "title": "Exhibition and Trade Show Insurance in Singapore",
+    "slug": "/procedural-howto/exhibition-trade-show-insurance-singapore-sme",
+    "category": "procedural-howto",
+    "intent": "get-it-right",
+    "topics": [
+      "Public Liability",
+      "Property & Fire",
+      "Marine & Cargo"
+    ],
+    "industries": [
+      "Events",
+      "Retail",
+      "Professional Services",
+      "Wholesale"
+    ],
+    "agencies": [
+      "Singapore Police Force",
+      "MOM",
+      "PDPC",
+      "URA"
+    ],
+    "published": "2026-09-25",
+    "meta_description": "Exhibition insurance Singapore guide for organisers and exhibitors: venue liability, exhibits, transit, cancellation, workers and claims planning.",
+    "hero_image": "/assets/blog/procedural-howto.jpg",
+    "word_count": 1962,
+    "article_number": 544,
+    "updated": "2026-09-25"
+  },
+  {
+    "title": "Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide",
+    "slug": "/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme",
+    "category": "document-legal",
+    "intent": "get-it-right",
+    "topics": [
+      "Management Liability (D&O)"
+    ],
+    "industries": [
+      "All industries"
+    ],
+    "agencies": [
+      "Singapore Statutes",
+      "ACRA",
+      "MOM"
+    ],
+    "published": "2026-09-25",
+    "meta_description": "D&O insurance Singapore guide for SMEs: what it covers, who is insured, the legal exposures, exclusions, claims process and buying questions.",
+    "hero_image": "/assets/blog/document-legal.jpg",
+    "word_count": 2798,
+    "article_number": 543,
+    "updated": "2026-09-25"
+  },
+  {
     "title": "The Scam Wave Reaches the Company Account: Money-Mule Offences, Business Email Compromise and What the Published Wordings Say",
     "slug": "/emerging-risk/scam-wave-money-mule-exposure-singapore-sme",
     "category": "emerging-risk",
@@ -9395,7 +9474,7 @@
     "updated": "2026-09-15"
   },
   {
-    "title": "WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil",
+    "title": "WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence",
     "slug": "/document-legal/wsha-section-48-director-liability",
     "category": "document-legal",
     "intent": "get-it-right",
@@ -9406,14 +9485,14 @@
     "industries": [],
     "agencies": [
       "Singapore Statutes",
-      "ACRA"
+      "MOM"
     ],
     "published": "2026-05-04",
-    "meta_description": "WSHA section 48 reaches a Singapore director personally where the offence had their consent or neglect. What that means for exposure.",
+    "meta_description": "WSHA section 48 makes an officer guilty unless they prove no consent or connivance and all diligence their role required. What Singapore directors must know.",
     "hero_image": "/assets/blog/document-legal.jpg",
-    "word_count": 2158,
+    "word_count": 2564,
     "article_number": 118,
-    "updated": "2026-08-30"
+    "updated": "2026-09-25"
   },
   {
     "title": "Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US - Insurance and Regulatory Implications",

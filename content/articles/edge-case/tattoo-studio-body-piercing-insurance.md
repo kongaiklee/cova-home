@@ -205,6 +205,6 @@ The tattoo studio insurance build is moderate-cost but specialised. Standard SME
 ### Related Information
 - [Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)](/edge-case/mobile-beauty-wellness-insurance)
 - /decision-tree/opening-aesthetic-medspa-checklist
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

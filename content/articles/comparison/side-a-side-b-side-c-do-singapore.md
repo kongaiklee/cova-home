@@ -169,5 +169,6 @@ The interaction with Companies Act sections 172, 172A, and 172B is the statutory
 - [Article 393 - Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
 - [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
 - [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 ---

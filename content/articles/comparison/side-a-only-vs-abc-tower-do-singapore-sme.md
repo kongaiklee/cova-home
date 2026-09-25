@@ -264,6 +264,7 @@ For most SMEs, the answer remains the ABC Tower. The Side A DIC is the upgrade f
 - [D&O Claim Notification Process](/procedural-howto/do-claim-notification-process)
 - [WSH Top Executive Workplace Safety and Health Programme (TEWP) Mandate](/regulatory-change/wsh-tewp-director-training-mandate-1-march-2024) (article 387)
 - [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

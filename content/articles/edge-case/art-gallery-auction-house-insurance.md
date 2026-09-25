@@ -176,6 +176,7 @@ For substantive operations, commercial counsel relationships, specific instituti
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 - [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures](/procedural-howto/equipment-breakdown-claim-process)
+- [Fine Art and Artwork Insurance for Singapore Businesses](/document-legal/fine-art-insurance-business-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

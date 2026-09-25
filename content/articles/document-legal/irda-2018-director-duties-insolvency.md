@@ -172,6 +172,7 @@ The IRDA framework imposes meaningful director duties at the solvency boundary. 
 - [Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company](/document-legal/companies-act-section-172-indemnification)
 - [Employment Act 1968 Section 14 and Wrongful Dismissal: How Singapore Law Handles Termination Disputes and What EPL Insurance Actually Covers](/document-legal/employment-act-section-14-wrongful-dismissal)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

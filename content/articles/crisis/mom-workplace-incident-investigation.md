@@ -159,7 +159,7 @@ The asymmetry: WSHA compliance infrastructure costs little against the cost of r
 5. As I scale or change operations, what insurance and compliance milestones should I plan for?
 
 ### Related Information
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - /document-legal/wica-coverage-and-employer-obligations
 - /comparison/wica-vs-employers-liability
 

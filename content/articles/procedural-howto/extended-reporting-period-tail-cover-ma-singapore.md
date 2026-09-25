@@ -119,6 +119,7 @@ The cost of a tail is real and rises with its length, but it is quantifiable in 
 - [D&O Claim Notification Process: From First Indication to Defence Engagement](/procedural-howto/do-claim-notification-process)
 - [Cyber Tower Claim Coordination: Managing Notification, Defence, and Settlement Across Layers](/procedural-howto/cyber-tower-claim-coordination)
 - [EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution](/procedural-howto/epl-discrimination-claim-process)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 17 May 2026. Source verified 17 May 2026.*
 

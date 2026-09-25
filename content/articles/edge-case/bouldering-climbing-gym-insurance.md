@@ -191,6 +191,6 @@ The adventure sport insurance build is moderate-to-substantial in cost, reflecti
 ### Related Information
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)](/edge-case/mobile-beauty-wellness-insurance)
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

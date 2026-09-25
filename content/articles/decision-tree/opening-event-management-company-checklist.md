@@ -230,5 +230,6 @@ The event management insurance build varies across the portfolio. The investment
 - [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](/decision-tree/opening-full-service-restaurant-checklist)
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?](/crisis/pr-crisis-social-media-incident)
+- [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

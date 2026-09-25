@@ -412,7 +412,7 @@ The renovation business has high physical risk concentration and significant PI 
 
 ### Related Information
 - /decision-tree/opening-construction-firm-checklist
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Pierce the Corporate Veil](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -6,8 +6,29 @@
     <description>Clear, sourced answers to the insurance questions Singapore business owners actually ask. No jargon, no sales pitch.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Directors and Officers (D&amp;O) Insurance for Singapore SMEs: The Complete Guide</title>
+      <link>https://covarage.com/guides/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme</link>
+      <guid isPermaLink="true">https://covarage.com/guides/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <description>D&amp;O insurance Singapore guide for SMEs: what it covers, who is insured, the legal exposures, exclusions, claims process and buying questions.</description>
+    </item>
+    <item>
+      <title>Fine Art and Artwork Insurance for Singapore Businesses</title>
+      <link>https://covarage.com/guides/document-legal/fine-art-insurance-business-singapore</link>
+      <guid isPermaLink="true">https://covarage.com/guides/document-legal/fine-art-insurance-business-singapore</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <description>Fine art insurance Singapore guide for galleries and businesses: ownership, consignment, valuation, storage, exhibitions, transit and claims.</description>
+    </item>
+    <item>
+      <title>Exhibition and Trade Show Insurance in Singapore</title>
+      <link>https://covarage.com/guides/procedural-howto/exhibition-trade-show-insurance-singapore-sme</link>
+      <guid isPermaLink="true">https://covarage.com/guides/procedural-howto/exhibition-trade-show-insurance-singapore-sme</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <description>Exhibition insurance Singapore guide for organisers and exhibitors: venue liability, exhibits, transit, cancellation, workers and claims planning.</description>
+    </item>
     <item>
       <title>Businessman in Pre-Owned Luxury Watch Trade Convicted of Income Tax and GST Offences</title>
       <link>https://covarage.com/updates</link>
@@ -346,27 +367,6 @@
       <guid isPermaLink="true">https://covarage.com/guides/document-legal/tenant-landlord-insurance-responsibilities-commercial-lease-singapore</guid>
       <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
       <description>No Singapore statute divides the insurance burden in a commercial lease. The covenants do, and they decide who insures the building and the fit-out.</description>
-    </item>
-    <item>
-      <title>WICA: The Complete Guide to Work Injury Compensation for Singapore Employers</title>
-      <link>https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers</link>
-      <guid isPermaLink="true">https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties.</description>
-    </item>
-    <item>
-      <title>Home-Based Business Insurance: The Gap in Your Home Policy</title>
-      <link>https://covarage.com/guides/edge-case/home-based-business-insurance-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/edge-case/home-based-business-insurance-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>A Singapore home contents policy is written for domestic use and usually excludes trade. What that leaves uncovered when the business runs from home.</description>
-    </item>
-    <item>
-      <title>Deepfakes and Synthetic Identity: When AI Defeats Your Authentication, What Insurance Responds?</title>
-      <link>https://covarage.com/guides/emerging-risk/ai/deepfake-authentication-fraud-singapore</link>
-      <guid isPermaLink="true">https://covarage.com/guides/emerging-risk/ai/deepfake-authentication-fraud-singapore</guid>
-      <pubDate>Sun, 31 May 2026 00:00:00 +0800</pubDate>
-      <description>Not the CEO voice-clone story. This is deepfake fraud aimed at authentication: the identity checks a Singapore business relies on to let people in.</description>
     </item>
   </channel>
 </rss>

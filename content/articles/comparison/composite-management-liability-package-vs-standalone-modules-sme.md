@@ -282,6 +282,7 @@ The decision is not permanent. As your SME grows, as your exposure profile chang
 - [PI vs Tech E&O for SaaS](/comparison/pi-vs-tech-eo-for-saas)
 - [D&O Claim Notification Process](/procedural-howto/do-claim-notification-process)
 - [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 
