@@ -375,5 +375,6 @@ The dental practice insurance build is comprehensive but proportionate. Equipmen
 - [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
 - [Opening a Physiotherapy or Allied Health Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-physiotherapy-allied-health-checklist)
 - [Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

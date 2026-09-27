@@ -213,6 +213,7 @@ The cost of properly structured specialty alcohol retailer insurance varies sign
 - [Vape, E-Cigarette, and Tobacco Retail Post-Regulation: Singapore Framework Considerations](/edge-case/vape-tobacco-retail-singapore)
 - [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore (Watches, Bags, Sneakers, Designer Apparel)](/edge-case/second-hand-luxury-reseller-insurance)
 - [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

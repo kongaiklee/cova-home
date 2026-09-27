@@ -269,6 +269,7 @@ When you sit down with a licensed Independent Financial Adviser or broker, the f
 ## Related Information
 - [Software Supply-Chain Attacks: What a Singapore SME Inherits When a Package or a Vendor Is Compromised](/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme)
 - [Unpatched Software and Your Cyber Policy](/emerging-risk/unpatched-software-cyber-insurance-singapore-sme)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 - [MAS, AI Verify, IMDA MGF and EU AI Act: Singapore SME Compliance Timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline) (article 411)
 - [Chatbot Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme) (article 412)

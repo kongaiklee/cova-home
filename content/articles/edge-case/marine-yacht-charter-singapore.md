@@ -178,6 +178,7 @@ For substantive operations, commercial counsel relationships, specific marine in
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 - [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](/document-legal/marine-insurance-act-disclosure-sections-17-19)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

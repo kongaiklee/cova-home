@@ -191,5 +191,6 @@ The experiential venue insurance build is moderate-to-substantial in cost, refle
 - [Bouldering Gym, Climbing Gym, and Adventure Sport Facility Insurance in Singapore](/edge-case/bouldering-climbing-gym-insurance)
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](/decision-tree/opening-full-service-restaurant-checklist)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -215,5 +215,6 @@ The pre-owned luxury insurance build is moderate-to-substantial in cost, reflect
 - /procedural-howto/cargo-claim-process
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Fine Art and Artwork Insurance for Singapore Businesses](/document-legal/fine-art-insurance-business-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -212,5 +212,6 @@ The Medical Indemnity provider relationship typically extends decades - doctors 
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure](/document-legal/insurance-act-disclosure-duty)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

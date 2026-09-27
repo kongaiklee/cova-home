@@ -273,5 +273,6 @@ The cost of the SWO itself is unavoidable once issued. The cost of poor response
 - [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

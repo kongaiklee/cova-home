@@ -178,5 +178,6 @@ For SIA-member practices, the SIA Practice Management Framework (PMF) section 2.
 - [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 - [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
 - [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

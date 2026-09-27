@@ -264,5 +264,6 @@ The mandatory PI scheme provides a baseline; commercial practice judgement deter
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [The Limitation Act 1959 6-Year Clock: Why It Matters for Insurance Claims](/document-legal/limitation-act-6-year-clock)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

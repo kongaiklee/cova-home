@@ -170,5 +170,6 @@ For an SME at the threshold of a grade uplift, the practical question is whether
 - [Article 388 - PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
 - [Article 1 - SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
 - [Article 2 - BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

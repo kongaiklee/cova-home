@@ -202,6 +202,7 @@ The cost of properly structured regional PI varies significantly by profession a
 - [ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore](/cross-border/asean-expansion-insurance-framework)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [Singapore SaaS Selling to US Customers: The Insurance Implications](/cross-border/sg-saas-us-customers)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

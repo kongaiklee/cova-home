@@ -101,5 +101,6 @@ Covarage helps with the part that quietly goes wrong across a multi-year, multi-
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 - [Performance Bond Claim Process from the Obligee Perspective](/procedural-howto/performance-bond-claim-obligee)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

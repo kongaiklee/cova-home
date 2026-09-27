@@ -115,4 +115,5 @@ If your event uses multiple vendors and temporary setups, the contract map matte
 - [How to File a Public Liability Claim - Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
 - /document-legal/glossaryindemnity-to-principal
 - /document-legal/glossarycross-liability
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 *Published 4 May 2026. Source verified 4 May 2026.*

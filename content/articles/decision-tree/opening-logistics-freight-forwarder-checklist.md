@@ -320,5 +320,6 @@ The logistics insurance market is mature but specialised. The cost of properly-s
 - [How to Claim Under Marine Cargo Institute Clauses A](/procedural-howto/marine-cargo-institute-clauses-a-claim)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [What "Indemnity to Principal" Actually Means in Singapore Insurance](/document-legal/indemnity-to-principal)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

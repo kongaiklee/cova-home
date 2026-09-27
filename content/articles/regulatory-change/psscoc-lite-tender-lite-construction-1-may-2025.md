@@ -225,6 +225,8 @@ For SMEs targeting full-PSSCOC projects (above S$1m), the placement is more besp
 - [WSH Penalty Doubling 2024](/regulatory-change/wsh-penalty-doubling-2024)
 - [How to File a WICA Claim with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [MOM Security Bond for Foreign Worker in Singapore](/procedural-howto/mom-security-bond-foreign-worker-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

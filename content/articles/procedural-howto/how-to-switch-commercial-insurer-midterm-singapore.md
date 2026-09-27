@@ -255,5 +255,6 @@ The cost of mid-term switching errors is substantial - coverage gaps creating un
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 - [How to Add an Additional Insured to a Singapore Commercial Policy](/procedural-howto/how-to-add-additional-insured-singapore-policy)
 - /comparison/broker-vs-direct-insurer-comparison
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

@@ -352,5 +352,6 @@ The e-sports and gaming venue category is growing, with insurance underwriting s
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

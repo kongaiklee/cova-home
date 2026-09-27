@@ -107,6 +107,8 @@ For substantive operations, specific broker engagement and commercial counsel en
 ### Related Information
 - [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

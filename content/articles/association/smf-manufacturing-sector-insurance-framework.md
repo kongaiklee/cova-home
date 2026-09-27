@@ -187,5 +187,6 @@ For SMEs in export-dependent manufacturing, Marine Cargo Incoterm coordination, 
 - [Article 275 - First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
 - [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
 - [Article 291 - Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

@@ -175,5 +175,6 @@ For practices undertaking AML/CFT-regulated activities, the AML/CFT framework un
 - [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
 - [Article 285 - Law Society of Singapore Compulsory Professional Indemnity Insurance Scheme: Statutory Framework and Insurance Implications](/association/law-society-pii-scheme-insurance-framework)
 - [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

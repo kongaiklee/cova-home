@@ -276,6 +276,7 @@ The cost of PSSCOC compliance failure is acute - a single non-compliant bid can 
 - [How to Obtain a Certificate of Insurance for a Tender Deadline in 24 Hours](/procedural-howto/coi-tender-deadline-24-hours-singapore)
 - [Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim](/procedural-howto/performance-bond-claim-obligee)
 - [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 7 May 2026. Source verified 7 May 2026.*
 

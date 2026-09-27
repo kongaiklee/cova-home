@@ -213,5 +213,6 @@ For an SME with customer terms or product terms exposing it to PDPA section 48O 
 - [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
 - [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
 - [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

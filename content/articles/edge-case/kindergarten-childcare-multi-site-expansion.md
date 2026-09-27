@@ -156,6 +156,7 @@ For substantive operations, specialist segment-aware broker engagement, specific
 - [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

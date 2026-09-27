@@ -207,5 +207,6 @@ The 1 June 2024 increase is permanent - and MOM enforcement intensity has increa
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - /document-legal/wsha-2006-statutory-framework
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

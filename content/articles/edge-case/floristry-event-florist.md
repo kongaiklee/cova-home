@@ -253,6 +253,7 @@ The cost of properly structured cover for a Singapore floristry / event florist 
 - [Wedding Photographer Insurance in Singapore: What You Actually Need](/edge-case/wedding-photographer-insurance)
 - [Bridal Salon or Dress Rental Business in Singapore: What Insurance Do You Actually Need?](/edge-case/bridal-salon-dress-rental)
 - [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

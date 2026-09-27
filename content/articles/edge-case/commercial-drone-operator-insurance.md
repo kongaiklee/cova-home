@@ -208,5 +208,7 @@ The drone insurance build is moderate-cost but specialised. Standard SME approac
 - [Wedding Photographer Insurance in Singapore: What You Actually Need](/edge-case/wedding-photographer-insurance)
 - [Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)](/edge-case/mobile-beauty-wellness-insurance)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

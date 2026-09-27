@@ -194,6 +194,7 @@ For substantive operations, specialist manufacturing-aware broker engagement, co
 - [Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures](/procedural-howto/equipment-breakdown-claim-process)
 - [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

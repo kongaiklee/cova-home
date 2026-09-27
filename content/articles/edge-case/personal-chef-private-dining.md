@@ -233,6 +233,7 @@ The cost of properly structured cover for a personal chef / private dining opera
 - [Cooking School or Culinary Studio in Singapore: What Insurance Do You Actually Need?](/edge-case/cooking-school-culinary-studio)
 - [Specialty Bakery or Artisanal Food Producer in Singapore: What Insurance Do You Actually Need?](/edge-case/specialty-bakery-artisanal-food)
 - [Food Truck or Mobile F&B Vendor in Singapore: What Insurance Do You Actually Need?](/edge-case/food-truck-mobile-vendor)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

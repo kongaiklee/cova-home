@@ -226,6 +226,7 @@ The cost of properly structured cover for a Singapore cooking school (1,500-3,50
 - [Personal Chef or Private Dining Service in Singapore: What Insurance Do You Actually Need?](/edge-case/personal-chef-private-dining)
 - [Specialty Bakery or Artisanal Food Producer in Singapore: What Insurance Do You Actually Need?](/edge-case/specialty-bakery-artisanal-food)
 - [Kombucha Brewery in Singapore: What Insurance Do I Actually Need?](/edge-case/kombucha-brewery-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

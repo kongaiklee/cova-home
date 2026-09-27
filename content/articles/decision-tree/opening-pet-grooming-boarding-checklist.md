@@ -130,5 +130,7 @@ commercial sensitivity around vulnerable subjects (pets) and their owners matter
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 - [Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures](/procedural-howto/equipment-breakdown-claim-process)
 - [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

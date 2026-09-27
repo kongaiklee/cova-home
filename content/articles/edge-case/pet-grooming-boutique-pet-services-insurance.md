@@ -350,5 +350,6 @@ The pet care insurance build is moderate-cost but specific. Bailee / CCC extensi
 - [Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?](/edge-case/dog-daycare-boarding-insurance)
 - [Wedding Photographer Insurance in Singapore: What You Actually Need](/edge-case/wedding-photographer-insurance)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -132,6 +132,7 @@ What PI is and how it differs from other covers:
 - [Professional Indemnity vs Tech E&O for SaaS and Technology Companies](/comparison/pi-vs-tech-eo-for-saas)
 - [Composite Management Liability Package vs Standalone Modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
 - [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?](/comparison/professional-indemnity-vs-public-liability-service-business-singapore)
 
 The claims-made trigger and the retroactive date:
 - [Claims-Made vs Occurrence Cover: The Trigger Framework](/comparison/claims-made-vs-occurrence-cover)

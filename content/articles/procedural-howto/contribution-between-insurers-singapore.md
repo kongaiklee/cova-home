@@ -183,6 +183,7 @@ Awareness of the contribution mechanic informs three programme-design decisions.
 - [Subrogation: When Your Insurer Recovers from a Third Party](/procedural-howto/subrogation-insurer-recovery-singapore)
 - [How to Read a Singapore Commercial Insurance Policy: The Six Sections That Matter Most](/document-legal/reading-commercial-insurance-policy-singapore)
 - [Sub-limits, Aggregates, and Deductibles: How Singapore Commercial Insurance Policies Actually Pay](/document-legal/sub-limits-aggregates-deductibles-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

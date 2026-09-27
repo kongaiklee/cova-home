@@ -80,6 +80,7 @@ Factors that affect your insurance requirements include: whether you hire foreig
 - [BCA CRS bizSAFE Level 3 - Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 - [BCA Builders Licensing Scheme - Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
 - [MOM Designated Insurer WICA List 2026 - Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---
 

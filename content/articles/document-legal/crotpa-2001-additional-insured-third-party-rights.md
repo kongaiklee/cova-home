@@ -163,5 +163,6 @@ Insurance contracts are within CRoTPA's general regime. The drafting choices mad
 - [Article 259 - Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications](/document-legal/standard-insurance-clause-commercial-contracts)
 - [Article 260 - Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
 - [Article 252 - Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

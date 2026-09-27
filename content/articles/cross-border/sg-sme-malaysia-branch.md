@@ -251,5 +251,6 @@ The added cost of properly cross-border-structured insurance is generally modera
 - [ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore](/cross-border/asean-expansion-insurance-framework)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

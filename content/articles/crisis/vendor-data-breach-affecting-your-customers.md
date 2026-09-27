@@ -227,5 +227,6 @@ For directors, section 157 Companies Act duty applies to vendor management. Docu
 - [Article 300 - IT Vendor or SaaS Provider Disappearance](/crisis/it-vendor-saas-disappearance)
 - [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
 - [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

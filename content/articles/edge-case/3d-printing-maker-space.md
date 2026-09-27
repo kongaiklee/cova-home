@@ -248,6 +248,7 @@ The cost of properly structured 3D printing operator insurance is typically SGD 
 - [Cleanroom and Specialty Manufacturing Service Insurance: Singapore Operator Framework](/edge-case/cleanroom-specialty-manufacturing)
 - [Cryptocurrency Exchange, Digital Asset, and Web3 Operator: The Specific Insurance Profile for MAS-Licensed and Adjacent Operations](/edge-case/cryptocurrency-web3-operator-insurance)
 - /document-legal/copyright-act-performance-licensing
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

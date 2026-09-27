@@ -141,6 +141,7 @@ Five controls reduce the chatbot's failure-mode surface, drawn from the [CSA Gui
 - [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
 - [AI Vendor Procurement for Singapore SMEs: The Indemnity Clause That Actually Matters](/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme)
 - [AI Hallucinations in Professional and Advisory Services: The Singapore PI Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

@@ -405,5 +405,6 @@ The medical practice insurance build is comprehensive and reflects the long-tail
 - [Opening a Dental Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-dental-practice-checklist)
 - [Opening a Physiotherapy or Allied Health Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-physiotherapy-allied-health-checklist)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

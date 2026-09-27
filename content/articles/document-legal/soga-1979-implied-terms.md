@@ -140,6 +140,7 @@ For substantive operations, considerations on SOGA framework, commercial counsel
 - [Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
 - [The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
 - [SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement](/decision-tree/light-manufacturing-sme)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

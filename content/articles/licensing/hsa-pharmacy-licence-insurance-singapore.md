@@ -108,5 +108,6 @@ Covarage helps with the part that quietly goes wrong: keeping the licences, the 
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know](/regulatory-change/hcsa-full-implementation-review)
 - [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

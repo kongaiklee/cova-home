@@ -295,5 +295,6 @@ The cost of GDPR compliance and EU-extended insurance is meaningful but predicta
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [Singapore SaaS Selling to US Customers: The Insurance Implications](/cross-border/sg-saas-us-customers)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

@@ -190,5 +190,6 @@ For clinic principals supervising junior dentists and Oral Health Therapists, su
 - [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
 - [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 - [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

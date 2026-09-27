@@ -319,5 +319,6 @@ The real estate agency insurance build addresses both regulatory and transaction
 - [Opening an Accounting or Audit Firm in Singapore: Full Insurance Checklist](/decision-tree/opening-accounting-audit-firm-checklist)
 - [MAS Notice FAA-N03: How Independent Financial Advisers Are Regulated and What That Means When You Buy Insurance](/document-legal/mas-notice-faa-n03-ifa-conduct)
 - [A Vendor Just Ran Off With Our Deposit - What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -96,5 +96,6 @@ Covarage helps with the part that quietly goes wrong: keeping the WICA policy, t
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [SME Startup Decision Tree: E-Commerce and Dropshipping Operator](/decision-tree/ecommerce-dropshipping-operator)
 - [Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist](/decision-tree/opening-import-export-trader-checklist)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

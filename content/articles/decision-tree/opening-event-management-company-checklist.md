@@ -231,5 +231,7 @@ The event management insurance build varies across the portfolio. The investment
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?](/crisis/pr-crisis-social-media-incident)
 - [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

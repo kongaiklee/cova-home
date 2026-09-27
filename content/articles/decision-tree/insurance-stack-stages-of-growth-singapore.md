@@ -161,6 +161,7 @@ The seven-folder structure ([the corporate insurance folder framework](/procedur
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
 - [Why Buying Corporate Insurance on Price Alone Costs More in the Long Run](/comparison/price-vs-value-corporate-insurance-singapore)
 - [How to Brief Your Insurance Adviser So Quotes Come Back Faster and More Accurate](/procedural-howto/how-to-brief-insurance-adviser-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 21 May 2026. Source verified 21 May 2026.*
 

@@ -202,6 +202,7 @@ The cost of getting subsidiary scope wrong is asymmetric. The premium difference
 - [ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore](/cross-border/asean-expansion-insurance-framework)
 - [Multi-Country Regional Structure: Master Programme Architecture for Singapore-Headquartered SMEs](/cross-border/multi-country-regional-structure)
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

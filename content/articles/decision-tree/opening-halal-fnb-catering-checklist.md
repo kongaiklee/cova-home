@@ -230,5 +230,6 @@ The Halal F&B market in Singapore is significant, sophisticated, and customer-aw
 - [Opening a Café in Singapore: Full Insurance Checklist](/decision-tree/opening-cafe-checklist)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Kombucha Brewery in Singapore: What Insurance Do I Actually Need?](/edge-case/kombucha-brewery-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

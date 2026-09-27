@@ -181,5 +181,6 @@ For SMEs straddling multiple divisions (the typical Singapore SME surveying prac
 - [Article 282 - Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications](/association/ies-peb-professional-engineers-insurance-framework)
 - [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 - [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

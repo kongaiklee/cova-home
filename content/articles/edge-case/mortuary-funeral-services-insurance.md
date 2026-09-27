@@ -164,6 +164,8 @@ For substantive operations, operational considerations including specialist coun
 - [Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures](/procedural-howto/equipment-breakdown-claim-process)
 - [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

@@ -214,6 +214,7 @@ For SME AI vendors not selling into MAS-regulated FIs, the AIRG framework is not
 - [Cybersecurity (Amendment) Act 2024 First Year Review](/regulatory-change/cybersecurity-act-2024-first-year)
 - [Cyber Architecture Tower vs Monoline](/comparison/cyber-architecture-tower-vs-monoline)
 - [Composite Management Liability Package vs Standalone Modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme) (article 393)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

@@ -215,5 +215,6 @@ For an SME notified of a court-sanctioned scheme of transfer, the structural rea
 - [Article 410 - How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
 - [Article 251 - The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
 - [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

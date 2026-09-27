@@ -335,6 +335,7 @@ The licensed adviser handling your CAR placement should walk you through the str
 - [Property All Risks Exclusions Deep Dive](/comparison/property-all-risks-exclusions-deep-dive)
 - [PSSCOC Insurance Clauses for Government Tenders in Singapore](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
 - How to File a CAR Claim with the Insurer
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

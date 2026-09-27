@@ -280,5 +280,6 @@ The cost of MAS regulatory crisis is substantial - typical SME licensed entity t
 - [A Regulator Just Issued an Audit Notice - What Do I Do Now?](/crisis/regulatory-audit-notice-received)
 - [Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025](/regulatory-change/insurance-amendment-act-fima-2024)
 - [PDPC Enforcement Escalation 2024-2026: Marina Bay Sands SGD 315,000 and the Pattern Insurers Are Underwriting Against](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

@@ -253,6 +253,7 @@ A maintenance technician is exposed to a chemical leak and admitted overnight (m
 - /comparison/bizsafe-vs-iso-45001 - the two main safety-management frameworks SMEs use
 - [/decision-tree/light-manufacturing-sme](/decision-tree/light-manufacturing-sme) - sector-specific WSH risk routing
 - /procedural-howto/corppass-setup-for-mom-eservices - getting CorpPass right before an incident happens
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 8 May 2026. Source verified 8 May 2026.*
 

@@ -240,6 +240,7 @@ The cost of properly structured cover for a typical mid-range KTV operation (10-
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
 - [Vape, E-Cigarette, and Tobacco Retail Post-Regulation: Singapore Framework Considerations](/edge-case/vape-tobacco-retail-singapore)
 - /document-legal/public-entertainments-act-framework
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

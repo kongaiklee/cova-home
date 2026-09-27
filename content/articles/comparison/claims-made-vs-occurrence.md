@@ -139,5 +139,6 @@ The trigger structure is invisible until something goes wrong. By the time somet
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

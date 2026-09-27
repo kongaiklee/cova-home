@@ -177,5 +177,6 @@ For SMEs in platform operator businesses (food delivery, private-hire, taxi via 
 - [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
 - [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
 - [Article 11 - WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

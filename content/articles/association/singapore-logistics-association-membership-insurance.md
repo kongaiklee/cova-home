@@ -110,6 +110,7 @@ Covarage helps with the part that quietly goes wrong: keeping the cargo, propert
 - [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
 - [Cold Chain Logistics and Temperature-Controlled Storage Insurance: Singapore Operator Framework](/edge-case/cold-chain-temperature-controlled-logistics)
 - [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---
 

@@ -100,5 +100,7 @@ The quiet failure here is the false sense of completeness that any membership ca
 - [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
 - [From Incorporation to Growth: How Your Insurance Stack Should Evolve](/decision-tree/insurance-stack-stages-of-growth-singapore)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

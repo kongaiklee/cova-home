@@ -150,6 +150,7 @@ For substantive operations, specialist commercial property-aware broker engageme
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 - [Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures](/procedural-howto/equipment-breakdown-claim-process)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

@@ -200,5 +200,6 @@ The travel agency insurance build addresses both regulatory compliance and the c
 - [Opening an Event Management Company in Singapore: Full Insurance Checklist](/decision-tree/opening-event-management-company-checklist)
 - /procedural-howto/bec-social-engineering-claim-process
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

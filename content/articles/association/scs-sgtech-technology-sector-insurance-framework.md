@@ -187,5 +187,6 @@ For SMEs serving Tier-1 enterprise customers, customer MSA contractual minimums 
 - [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
 - [Article 299 - Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow](/crisis/vendor-data-breach-affecting-your-customers)
 - [Article 300 - IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs](/crisis/it-vendor-saas-disappearance)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

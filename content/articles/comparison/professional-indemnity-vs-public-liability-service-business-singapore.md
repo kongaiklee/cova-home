@@ -21,7 +21,7 @@ og_description: "They answer different claims, so most Singapore service busines
 
 > **The Answer in 60 Seconds**
 >
-> They cover different harms, so for most service businesses the honest answer is not one or the other. **Public Liability** responds to your legal liability for **third-party bodily injury or property damage** arising from your operations or premises: a visitor slips in your office, or you damage a client's wall while working on site. **Professional Indemnity** responds to your legal liability for a client's **financial loss** caused by negligence in the professional service or advice you gave: a flawed design, a missed filing deadline, advice that costs the client money.
+> They cover different harms, so for most service businesses the honest answer is not one or the other. **[Public Liability](/document-legal/public-liability-complete-guide-singapore-sme)** responds to your legal liability for **third-party bodily injury or property damage** arising from your operations or premises: a visitor slips in your office, or you damage a client's wall while working on site. **[Professional Indemnity](/document-legal/professional-indemnity-complete-guide-singapore)** responds to your legal liability for a client's **financial loss** caused by negligence in the professional service or advice you gave: a flawed design, a missed filing deadline, advice that costs the client money.
 >
 > The line that decides which one responds is the **kind of harm**. Public Liability is built for physical injury and physical damage. Professional Indemnity is built for **pure financial loss** with no physical injury attached. A consultant whose advice loses a client money has a Professional Indemnity exposure, not a Public Liability one. A studio where a visitor trips over a cable has a Public Liability exposure, not a Professional Indemnity one.
 >
@@ -138,5 +138,7 @@ Covarage helps with the part that quietly goes wrong: keeping both policies orga
 - [Professional Indemnity vs Tech E&O: What's the Difference for SaaS and Technology Companies?](/comparison/pi-vs-tech-eo-for-saas)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [Claims-Made vs Occurrence Triggers: Why It Matters Which Lines Use Which](/comparison/claims-made-vs-occurrence)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

@@ -167,6 +167,7 @@ The cost of properly structured veterinary clinic insurance for a typical 2-4 ve
 - [Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?](/edge-case/dog-daycare-boarding-insurance)
 - [Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore](/edge-case/pet-grooming-boutique-pet-services-insurance)
 - /document-legal/healthcare-services-act-clinic-licensing
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

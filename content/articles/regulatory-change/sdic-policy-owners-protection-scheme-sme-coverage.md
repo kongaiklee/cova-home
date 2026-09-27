@@ -217,5 +217,6 @@ For SMEs procuring captive-issued cover or specialist-line cover, PPF protection
 - [Article 251 - The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
 - [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 - [Article 261 - IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

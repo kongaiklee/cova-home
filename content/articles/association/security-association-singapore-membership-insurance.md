@@ -104,5 +104,7 @@ Covarage helps with the part that quietly goes wrong: keeping the licence record
 - [Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-private-security-firm-checklist)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Does a Security Agency Licence Require Insurance in Singapore?](/licensing/security-agency-licence-insurance-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

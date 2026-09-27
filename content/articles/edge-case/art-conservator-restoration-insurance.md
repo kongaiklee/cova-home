@@ -309,5 +309,6 @@ The cost of comprehensive fine-art insurance is meaningful but proportionate to 
 - [The Limitation Act 1959 6-Year Clock: Why It Matters for Insurance Claims](/document-legal/limitation-act-6-year-clock)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Fine Art and Artwork Insurance for Singapore Businesses](/document-legal/fine-art-insurance-business-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*
