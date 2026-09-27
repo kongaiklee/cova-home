@@ -143,7 +143,7 @@ Cover trigger framework substantively shapes commercial scope. Public Liability 
 5. As cover scope evolves, what operational considerations should I plan for?
 
 ### Related Information
-- /procedural-howto/discontinued-operations-runoff-cover
+- [How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale](/procedural-howto/extended-reporting-period-tail-cover-ma-singapore)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 

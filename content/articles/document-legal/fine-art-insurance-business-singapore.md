@@ -159,5 +159,6 @@ Moving it and claiming:
 - [Goods-in-Transit vs Motor Cargo vs Marine Cargo: Which Covers Your Delivery Fleet](/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore)
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
+- [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
 
 *Published 25 September 2026. Source verified 25 September 2026.*

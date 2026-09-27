@@ -139,6 +139,7 @@ The event itself:
 Getting exhibits there and back:
 - [Goods-in-Transit vs Motor Cargo vs Marine Cargo: Which Covers Your Delivery Fleet](/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore)
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
+- [Fine Art and Artwork Insurance for Singapore Businesses](/document-legal/fine-art-insurance-business-singapore)
 
 The covers underneath:
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
