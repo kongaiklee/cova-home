@@ -121,5 +121,7 @@ Covarage helps with the part that quietly goes wrong for home operators: keeping
 - [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack](/edge-case/tuition-centre-enrichment-insurance-singapore)
 - [Cleaning and Facilities Management Companies in Singapore: The Insurance Stack](/edge-case/cleaning-facilities-management-insurance-singapore)
 - [Real Estate Agencies in Singapore: The Insurance Stack from Salesperson PI to Agency PL](/edge-case/real-estate-agency-insurance-stack-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

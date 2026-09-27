@@ -128,5 +128,6 @@ The actionable shape: map the aviation liability exposure first, confirm the cov
 - [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
 - [Regional Public Liability and Product Liability: Cross-Border Operations Coverage](/cross-border/regional-public-product-liability)
 - [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 12 September 2026.*

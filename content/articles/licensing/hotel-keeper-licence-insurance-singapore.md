@@ -97,5 +97,6 @@ Covarage helps with the part that quietly goes wrong: keeping the registration, 
 - [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example](/comparison/bi-vs-cbi-worked-example)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

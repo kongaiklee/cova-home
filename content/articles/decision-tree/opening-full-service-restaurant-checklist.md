@@ -375,5 +375,6 @@ The restaurant business has high operational complexity and significant exposure
 - [Opening a Café in Singapore: Full Insurance Checklist](/decision-tree/opening-cafe-checklist)
 - [Opening a Halal F&B or Catering Operation in Singapore: Full Insurance Checklist](/decision-tree/opening-halal-fnb-catering-checklist)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

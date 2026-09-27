@@ -148,6 +148,7 @@ The cadence is what makes the difference. Renewal-quote requests made at T-14 ty
 - [The Premium Payment Framework: How Singapore's 60-Day Warranty Works](/document-legal/premium-payment-framework)
 - [The 12 Insurance Dates Every Singapore SME Must Track](/procedural-howto/12-insurance-renewal-dates-singapore-sme)
 - [How to Build an Insurance Renewal Process That Survives Staff Turnover](/procedural-howto/insurance-renewal-process-staff-turnover-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 21 May 2026. Source verified 21 May 2026.*
 

@@ -286,6 +286,7 @@ The cost of GST input tax mistakes is meaningful - typical SME unrecovered GST o
 - [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [Group Term Life Death Benefit Claim Process: From Notification to Beneficiary Payment](/procedural-howto/group-term-life-claim-process)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 7 May 2026. Source verified 7 May 2026.*
 

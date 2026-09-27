@@ -147,6 +147,7 @@ The investment in maintaining the pack continuously is materially smaller than t
 - [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
 - [Why Email and WhatsApp Are the Worst Places to Store Business Insurance Policies](/procedural-howto/email-whatsapp-business-insurance-storage-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 21 May 2026. Source verified 21 May 2026.*
 

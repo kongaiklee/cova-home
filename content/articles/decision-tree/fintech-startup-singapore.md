@@ -206,6 +206,7 @@ For substantive operations, specialist fintech-aware broker engagement, specific
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Cryptocurrency Exchange, Digital Asset, and Web3 Operator: The Specific Insurance Profile for MAS-Licensed and Adjacent Operations](/edge-case/cryptocurrency-web3-operator-insurance)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

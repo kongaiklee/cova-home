@@ -237,6 +237,7 @@ The cost of properly structured specialty coffee / tea roaster insurance is typi
 - [Halal-Certified F&B Operator Insurance: Singapore Operator Framework](/edge-case/halal-certified-fb-operator-insurance)
 - [Kombucha Brewery in Singapore: What Insurance Do I Actually Need?](/edge-case/kombucha-brewery-insurance)
 - [Cold Chain Logistics and Temperature-Controlled Storage Insurance: Singapore Operator Framework](/edge-case/cold-chain-temperature-controlled-logistics)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

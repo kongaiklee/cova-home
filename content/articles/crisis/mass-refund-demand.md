@@ -190,5 +190,6 @@ The asymmetry: prevention through quality and discipline costs little, while a r
 - [A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?](/crisis/pr-crisis-social-media-incident)
 - [We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?](/crisis/employee-embezzlement-discovered)
 - [MAS Notice FAA-N03: How Independent Financial Advisers Are Regulated and What That Means When You Buy Insurance](/document-legal/mas-notice-faa-n03-ifa-conduct)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

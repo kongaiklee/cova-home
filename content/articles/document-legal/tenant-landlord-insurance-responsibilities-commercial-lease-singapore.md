@@ -113,5 +113,6 @@ Covarage helps with the part that quietly goes wrong here: keeping the lease, th
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [The Average Clause Explained: Singapore Underinsurance Penalties on Partial Losses](/document-legal/average-clause-underinsurance-singapore)
 - [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

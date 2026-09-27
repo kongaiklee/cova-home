@@ -159,6 +159,7 @@ Three contractual postures Singapore SMEs should adopt with US customers.
 - [Singapore SMEs Hiring Remote Workers in Malaysia: The Insurance and Regulatory Implications](/cross-border/singapore-sme-remote-workers-malaysia-insurance)
 - [AI Training Data Licensing: The Anthropic Bartz Settlement and Singapore SMEs Using Generative AI](/emerging-risk/ai/ai-training-data-licensing-anthropic-bartz-singapore-sme)
 - [AI Vendor Procurement for Singapore SMEs: The Indemnity Clause That Actually Matters](/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

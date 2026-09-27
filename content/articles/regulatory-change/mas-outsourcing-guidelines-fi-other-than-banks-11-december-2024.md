@@ -123,6 +123,7 @@ A licensed adviser can help test whether existing Tech E&O / PI and Cyber cover 
 - [Cybersecurity Act 2024 Amendment First-Year Compliance Review](/regulatory-change/cybersecurity-act-2024-first-year)
 - [Cyber Tower Claim Coordination: Managing Notification, Defence, and Settlement Across Layers](/procedural-howto/cyber-tower-claim-coordination)
 - [The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 17 May 2026. Source verified 17 May 2026.*
 

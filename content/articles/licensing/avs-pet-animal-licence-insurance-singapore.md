@@ -97,5 +97,6 @@ Covarage helps with the part that quietly goes wrong: keeping the licence, the W
 - [Veterinary Clinic Insurance: Singapore Operator Framework](/edge-case/veterinary-clinic-insurance)
 - [Pet Cafe or Animal Cafe in Singapore: What Insurance Do You Actually Need?](/edge-case/pet-cafe-animal-cafe)
 - [Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore](/edge-case/pet-grooming-boutique-pet-services-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

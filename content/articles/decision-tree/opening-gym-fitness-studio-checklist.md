@@ -373,5 +373,6 @@ The fitness industry has significant member-injury exposure that insurance can a
 - [Opening a Yoga Studio in Singapore: Full Insurance Checklist](/decision-tree/opening-yoga-studio-checklist)
 - [Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist](/decision-tree/opening-salon-checklist)
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

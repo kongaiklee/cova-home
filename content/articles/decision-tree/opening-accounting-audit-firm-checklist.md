@@ -330,5 +330,6 @@ The accounting profession has long-tail liability and significant cybersecurity 
 - [Opening a Law Firm in Singapore: Full Insurance Checklist](/decision-tree/opening-law-firm-checklist)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [The Limitation Act 1959 6-Year Clock: Why It Matters for Insurance Claims](/document-legal/limitation-act-6-year-clock)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

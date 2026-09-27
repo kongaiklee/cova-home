@@ -253,6 +253,7 @@ The hardest case is the borderline circumstance - the customer complaint that ma
 - [Cyber Tower Claim Coordination](/procedural-howto/cyber-tower-claim-coordination)
 - [How to Coordinate Multi-Policy on a Single Incident](/procedural-howto/how-to-coordinate-multi-policy-single-incident)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

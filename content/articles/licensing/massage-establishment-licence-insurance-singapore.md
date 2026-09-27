@@ -99,5 +99,6 @@ Covarage helps with the part that quietly goes wrong: keeping the PLRD licence, 
 - [Mobile Beauty or Wellness Service Insurance in Singapore](/edge-case/mobile-beauty-wellness-insurance)
 - [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

@@ -205,14 +205,14 @@ export const ROTATION: { word: string; body: string }[] = [
 /** The 24 general insurers on the panel, in the artboard's order. */
 export const INSURERS: { slug: string; alt: string }[] = [
   { slug: 'singlife', alt: 'Singlife' }, { slug: 'aig', alt: 'AIG' }, { slug: 'allianz', alt: 'Allianz' },
-  { slug: 'allied-world', alt: 'Allied World' }, { slug: 'cigna', alt: 'Cigna' }, { slug: 'chubb', alt: 'Chubb' },
-  { slug: 'etiqa', alt: 'Etiqa' }, { slug: 'great-american', alt: 'Great American' }, { slug: 'great-eastern', alt: 'Great Eastern' },
-  { slug: 'hl-assurance', alt: 'HL Assurance' }, { slug: 'india-international', alt: 'India International Insurance Singapore' },
-  { slug: 'income', alt: 'Income' }, { slug: 'liberty', alt: 'Liberty Insurance' }, { slug: 'msig', alt: 'MSIG' },
-  { slug: 'qbe', alt: 'QBE Insurance' }, { slug: 'sompo', alt: 'SOMPO' }, { slug: 'tokio-marine', alt: 'Tokio Marine' },
-  { slug: 'bupa', alt: 'Bupa' }, { slug: 'ergo', alt: 'Ergo' }, { slug: 'ecics', alt: 'Ecics' }, { slug: 'hsbc', alt: 'HSBC' },
+  { slug: 'allied-world', alt: 'Allied World' }, { slug: 'cigna', alt: 'Cigna Healthcare' }, { slug: 'chubb', alt: 'Chubb' },
+  { slug: 'etiqa', alt: 'Etiqa' }, { slug: 'great-american', alt: 'Great American Insurance Group' }, { slug: 'great-eastern', alt: 'Great Eastern' },
+  { slug: 'hl-assurance', alt: 'HL Assurance' }, { slug: 'india-international', alt: 'India International Insurance' },
+  { slug: 'income', alt: 'Income' }, { slug: 'liberty', alt: 'Liberty' }, { slug: 'msig', alt: 'MSIG' },
+  { slug: 'qbe', alt: 'QBE Insurance' }, { slug: 'sompo', alt: 'Sompo' }, { slug: 'tokio-marine', alt: 'Tokio Marine' },
+  { slug: 'bupa', alt: 'Bupa' }, { slug: 'ergo', alt: 'ERGO' }, { slug: 'ecics', alt: 'ECICS' }, { slug: 'hsbc', alt: 'HSBC Life' },
   { slug: 'fwd', alt: 'FWD Insurance' }, { slug: 'now-health-international', alt: 'Now Health International' },
-  { slug: 'direct-asia', alt: 'Direct Asia' },
+  { slug: 'direct-asia', alt: 'DirectAsia' },
 ];
 
 export const LOGIN_URL = `${import.meta.env.VITE_APP_COVARAGE_URL}/signin`;

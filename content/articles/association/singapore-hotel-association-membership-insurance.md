@@ -113,5 +113,6 @@ Covarage helps with the part that quietly goes wrong: keeping the licence record
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 - [See Toh Siew Kee v Ho Ah Lam Ferrocement: The Decision That Modernised Occupiers' Liability in Singapore](/document-legal/see-toh-siew-kee-occupiers-liability)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

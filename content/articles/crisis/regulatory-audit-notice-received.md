@@ -310,5 +310,6 @@ Maintaining position outside this set of factors generally produces favourable o
 - [A Customer Just Sued Us - What Do I Do Now?](/crisis/customer-just-sued)
 - [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

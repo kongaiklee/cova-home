@@ -6,8 +6,80 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Wed, 23 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-25-cisa-adds-one-known-exploited-vulnerability-to-catalog</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-one-known-exploited-vulnerability-catalog</description>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-25-cisa-adds-two-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/25/cisa-adds-two-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-25-shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/</description>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-cisa-adds-two-known-exploited-vulnerabilities-to-catalog</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/24/cisa-adds-two-known-exploited-vulnerabilities-catalog</description>
+    </item>
+    <item>
+      <title>CISA: Ransomware gangs now exploiting critical TeamCity flaw</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-ransomware-gangs-now-exploiting-critical-teamcity-flaw/</description>
+    </item>
+    <item>
+      <title>Hackers now exploit critical Roundcube flaw in code injection attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-hackers-now-exploit-critical-roundcube-flaw-in-code-injection-attacks</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/</description>
+    </item>
+    <item>
+      <title>MacSync malware uses public iCloud calendars to deliver new payloads</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/</description>
+    </item>
+    <item>
+      <title>New Carbonato malware uses AI agents to hijack exposed Docker hosts</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/</description>
+    </item>
+    <item>
+      <title>Police investigate 259 Scammers And Money Mules In Islandwide Enforcement Operation</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-police-investigate-259-scammers-and-money-mules-in-islandwide-enforcement-operat</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/09/20260924_police_investigate_259_scammers_and_money_mules_in_islandwide_enforcement_operation</description>
+    </item>
     <item>
       <title>Arista patches actively exploited VeloCloud Orchestrator zero-day</title>
       <link>https://covarage.com/updates/cyber</link>
@@ -15,6 +87,14 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/</description>
+    </item>
+    <item>
+      <title>Check Point warns of hackers exploiting Security Gateway VPN RCE flaw</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/</description>
     </item>
     <item>
       <title>Enhanced Information Sharing Between Meta And The Singapore Police Force Results In Action Against Nearly 3.8 Million Scam-Linked Entities And Pages On Facebook And Instagram</title>
@@ -31,6 +111,22 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>Hackers start exploiting critical WordPress flaw for code execution</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-hackers-start-exploiting-critical-wordpress-flaw-for-code-execution</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/</description>
+    </item>
+    <item>
+      <title>High Risk: F5 BIG-IP Remote Code Execution Vulnerability</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-high-risk-f5-big-ip-remote-code-execution-vulnerability</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20260923</description>
     </item>
     <item>
       <title>Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers</title>
@@ -55,6 +151,14 @@
       <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-127/</description>
+    </item>
+    <item>
+      <title>Placeholder domain used in dev docs now serves ClickFix attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-23-placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/</description>
     </item>
     <item>
       <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>

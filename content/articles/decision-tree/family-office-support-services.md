@@ -192,6 +192,7 @@ For substantive operations, specialist family office / private wealth-aware brok
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 - [Multi-Country Regional Structure: Master Programme Architecture for Singapore-Headquartered SMEs](/cross-border/multi-country-regional-structure)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

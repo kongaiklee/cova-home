@@ -124,6 +124,7 @@ Across all three, the durable protection is not a policy. It is a clear escalati
 - [Professional Indemnity vs Tech E&O: What's the Difference for SaaS](/comparison/pi-vs-tech-eo-for-saas)
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [How to File a Professional Indemnity (PI) Claim in Singapore](/procedural-howto/file-pi-claim-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 31 May 2026. Source verified 31 May 2026.*
 

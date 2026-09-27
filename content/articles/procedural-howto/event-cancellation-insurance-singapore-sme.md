@@ -125,5 +125,6 @@ Covarage helps with the part that quietly goes wrong: keeping the cancellation p
 - [How to Obtain a Certificate of Insurance for a Tender Deadline in 24 Hours](/procedural-howto/coi-tender-deadline-24-hours-singapore)
 - [Floristry or Event Florist Business in Singapore: What Insurance Do You Actually Need?](/edge-case/floristry-event-florist)
 - [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

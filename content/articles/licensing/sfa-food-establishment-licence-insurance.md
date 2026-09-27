@@ -99,5 +99,6 @@ Covarage helps with the part that quietly goes wrong: keeping the licence, the W
 - [Making a Public Liability Claim After a Customer Slips in an F&B Outlet](/procedural-howto/pl-claim-customer-slip-fnb)
 - [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](/decision-tree/opening-full-service-restaurant-checklist)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

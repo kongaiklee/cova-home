@@ -266,5 +266,6 @@ The cost of multi-policy coordination failure is substantial - partial recovery,
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore)
 - /crisis/property-fire-claim-deep-dive
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

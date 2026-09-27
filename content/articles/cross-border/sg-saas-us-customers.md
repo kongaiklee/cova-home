@@ -252,5 +252,6 @@ The US market is the largest single SaaS opportunity for many Singapore companie
 - [Starting a SaaS Startup in Singapore: Full Insurance Checklist](/decision-tree/starting-saas-startup-checklist)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

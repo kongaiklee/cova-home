@@ -222,5 +222,6 @@ The content creator insurance build is moderate-cost but specialised. The catego
 - [Wedding Photographer Insurance in Singapore: What You Actually Need](/edge-case/wedding-photographer-insurance)
 - [Commercial Drone Operator Insurance in Singapore (Aerial Photography, Surveying, Inspection, Delivery)](/edge-case/commercial-drone-operator-insurance)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

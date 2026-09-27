@@ -117,5 +117,6 @@ Covarage helps with the part that quietly goes wrong: keeping the CaseTrust prep
 - [Mobile Beauty or Wellness Service Insurance in Singapore](/edge-case/mobile-beauty-wellness-insurance)
 - [Singapore Manufacturing Federation (SMF): Industry Association and Insurance Framework](/association/smf-manufacturing-sector-insurance-framework)
 - [The Massage Establishment Licence and Insurance in Singapore](/licensing/massage-establishment-licence-insurance-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

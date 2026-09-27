@@ -117,6 +117,7 @@ Both risks demand documented control protocols, training records, and incident-r
 - [How to File a Workplace Accident Notification Under WICA 2019: The 10-Day MOM Rule](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
 - [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
 - [Contribution Between Insurers: When Multiple Policies Cover the Same Loss](/procedural-howto/contribution-between-insurers-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

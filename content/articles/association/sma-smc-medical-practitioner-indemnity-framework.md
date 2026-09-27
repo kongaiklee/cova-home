@@ -192,5 +192,6 @@ For clinic principals supervising junior doctors and locums, supervisory liabili
 - [Article 287 - Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications](/association/sda-sdc-dental-practitioner-insurance-framework)
 - [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 - [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

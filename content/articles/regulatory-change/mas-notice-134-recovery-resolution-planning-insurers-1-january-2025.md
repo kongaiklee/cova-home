@@ -158,6 +158,7 @@ The cost of managing counterparty risk is bounded and predictable: a modest prem
 - [Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025](/regulatory-change/insurance-amendment-act-fima-2024)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 - [How to Respond to a Non-Renewal Notice from a Commercial Insurer](/procedural-howto/non-renewal-notice-commercial-insurer-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 17 May 2026. Source verified 17 May 2026.*
 

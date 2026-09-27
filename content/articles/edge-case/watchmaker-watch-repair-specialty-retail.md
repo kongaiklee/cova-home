@@ -238,6 +238,7 @@ The cost of properly structured specialty watch retailer insurance varies dramat
 - [Pawnshop and Pawnbroker Insurance: Singapore Operator Framework](/edge-case/pawnshop-pawnbroker-insurance)
 - [Specialty Alcohol and Wine Retailer Insurance: Singapore Operator Framework](/edge-case/specialty-alcohol-wine-retailer-insurance)
 - [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore (Watches, Bags, Sneakers, Designer Apparel)](/edge-case/second-hand-luxury-reseller-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

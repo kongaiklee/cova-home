@@ -173,5 +173,6 @@ The premium difference between PL-only and PL+Product is often modest (10-30% de
 - [How to File a Public Liability Claim - Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
 - [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

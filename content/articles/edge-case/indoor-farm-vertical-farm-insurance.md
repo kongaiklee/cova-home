@@ -221,6 +221,7 @@ The cost of properly structured indoor farm insurance varies significantly with 
 - [Cold Chain Logistics and Temperature-Controlled Storage Insurance: Singapore Operator Framework](/edge-case/cold-chain-temperature-controlled-logistics)
 - /document-legal/sale-of-food-act-licensing-framework
 - /comparison/property-vs-equipment-breakdown-allocation
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

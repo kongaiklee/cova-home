@@ -159,5 +159,6 @@ Neighbouring covers and decisions:
 - [Sale of Goods Act 1979: Implied Terms Framework and Commercial Implications](/document-legal/soga-1979-implied-terms)
 - [Opening an Event Management Company in Singapore: Full Insurance Checklist](/decision-tree/opening-event-management-company-checklist)
 - [SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
+- [Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?](/comparison/professional-indemnity-vs-public-liability-service-business-singapore)
 
 *Published 31 May 2026. Source verified 11 September 2026.*
