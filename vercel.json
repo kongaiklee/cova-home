@@ -3,6 +3,39 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.covarage.com"
+        }
+      ],
+      "destination": "https://covarage.com/guides/:category/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*/",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.covarage.com"
+        }
+      ],
+      "destination": "https://covarage.com/guides/:category/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.covarage.com"
+        }
+      ],
+      "destination": "https://covarage.com/$1",
+      "permanent": true
+    },
+    {
       "source": "/llms-full.txt",
       "destination": "/llms.txt",
       "permanent": true
@@ -14,6 +47,11 @@
     },
     {
       "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*",
+      "destination": "/guides/:category/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*/",
       "destination": "/guides/:category/:path*",
       "permanent": true
     },
