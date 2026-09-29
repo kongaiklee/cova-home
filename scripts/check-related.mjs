@@ -30,13 +30,16 @@ import { join, relative } from 'node:path';
 
 const ROOT = process.argv[2] || '.';
 const ARTICLES = join(ROOT, 'content', 'articles');
-const index = JSON.parse(readFileSync(join(ROOT, 'content', 'articles-index.json'), 'utf8'));
+const index = JSON.parse(
+  readFileSync(join(ROOT, 'content', 'articles-index.json'), 'utf8')
+);
 const titles = new Map(index.map((a) => [a.slug, a.title]));
 
 const HEAD = /^#{2,3} Related Information[ \t]*$/;
 const STOP = /^(\*Published|#{1,3} |---)/;
 // link text may hold one level of balanced brackets: "OCBC v Argoglobal [2025] SGHC 82" is a title
-const ITEM = /^- \[((?:[^[\]]|\[[^[\]]*\])+)\]\((\/[a-z0-9-]+\/[a-z0-9-]+(?:\/[a-z0-9-]+)?)\)(?: - (.*\S))?\s*$/;
+const ITEM =
+  /^- \[((?:[^[\]]|\[[^[\]]*\])+)\]\((\/[a-z0-9-]+\/[a-z0-9-]+(?:\/[a-z0-9-]+)?)\)(?: - (.*\S))?\s*$/;
 const NUMBER = /\b[Aa]rticle\s+\d/;
 const URLTEXT = /^(?:https?:\/\/|www\.|covarage\.com)/i;
 
@@ -54,9 +57,13 @@ for (const file of walk(ARTICLES)) {
   guides++;
   const rel = relative(ROOT, file).replace(/\\/g, '/');
   const lines = readFileSync(file, 'utf8').split(/\r?\n/);
-  const heads = lines.map((l, i) => (HEAD.test(l) ? i : -1)).filter((i) => i >= 0);
+  const heads = lines
+    .map((l, i) => (HEAD.test(l) ? i : -1))
+    .filter((i) => i >= 0);
   if (heads.length !== 1) {
-    fails.push(`R8 HEADING ${rel}: ${heads.length} Related Information headings, want 1`);
+    fails.push(
+      `R8 HEADING ${rel}: ${heads.length} Related Information headings, want 1`
+    );
     if (!heads.length) continue;
   }
   const start = heads[0] + 1;
@@ -66,29 +73,54 @@ for (const file of walk(ARTICLES)) {
   for (let i = start; i < end; i++) {
     const line = lines[i];
     const at = `${rel}:${i + 1}`;
-    if (!line.trim() || (!line.startsWith('- ') && line.trim().endsWith(':'))) continue;
+    if (!line.trim() || (!line.startsWith('- ') && line.trim().endsWith(':')))
+      continue;
     const m = line.match(ITEM);
     if (!m) {
-      fails.push(`R1 SHAPE   ${at}: not "- [Title](/category/slug)": ${line.slice(0, 100)}`);
+      fails.push(
+        `R1 SHAPE   ${at}: not "- [Title](/category/slug)": ${line.slice(0, 100)}`
+      );
       continue;
     }
     count++;
     const [, text, slug, desc] = m;
-    if (!titles.has(slug)) fails.push(`R2 TARGET  ${at}: ${slug} is not an article in the index`);
+    if (!titles.has(slug))
+      fails.push(`R2 TARGET  ${at}: ${slug} is not an article in the index`);
     else if (text !== titles.get(slug))
-      fails.push(`R3 TITLE   ${at}: link text "${text.slice(0, 80)}" is not the target's title "${titles.get(slug)}"`);
-    if (desc && NUMBER.test(desc)) fails.push(`R4 NUMBER  ${at}: an article number after the link: ${desc.slice(0, 80)}`);
-    if (URLTEXT.test(text)) fails.push(`R5 URLTEXT ${at}: the link text is a web address: ${text.slice(0, 80)}`);
+      fails.push(
+        `R3 TITLE   ${at}: link text "${text.slice(0, 80)}" is not the target's title "${titles.get(slug)}"`
+      );
+    if (desc && NUMBER.test(desc))
+      fails.push(
+        `R4 NUMBER  ${at}: an article number after the link: ${desc.slice(0, 80)}`
+      );
+    if (URLTEXT.test(text))
+      fails.push(
+        `R5 URLTEXT ${at}: the link text is a web address: ${text.slice(0, 80)}`
+      );
   }
   items += count;
-  if (!count) fails.push(`R6 EMPTY   ${rel}:${heads[0] + 1}: the Related Information list has no items`);
-  if (end < lines.length && lines[end].startsWith('*Published') && lines[end - 1].trim() !== '')
-    fails.push(`R7 BLANK   ${rel}:${end + 1}: no blank line between the list and the *Published line`);
+  if (!count)
+    fails.push(
+      `R6 EMPTY   ${rel}:${heads[0] + 1}: the Related Information list has no items`
+    );
+  if (
+    end < lines.length &&
+    lines[end].startsWith('*Published') &&
+    lines[end - 1].trim() !== ''
+  )
+    fails.push(
+      `R7 BLANK   ${rel}:${end + 1}: no blank line between the list and the *Published line`
+    );
 }
 
 if (fails.length) {
-  console.error(`check-related: FAILED - ${fails.length} defect(s) across ${guides} guides`);
+  console.error(
+    `check-related: FAILED - ${fails.length} defect(s) across ${guides} guides`
+  );
   fails.forEach((f) => console.error(`  ${f}`));
   process.exit(1);
 }
-console.log(`check-related: ${guides} guides, ${items} Related links, every list in the house shape. OK`);
+console.log(
+  `check-related: ${guides} guides, ${items} Related links, every list in the house shape. OK`
+);
