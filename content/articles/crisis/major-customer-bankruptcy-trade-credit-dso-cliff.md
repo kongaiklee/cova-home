@@ -176,7 +176,7 @@ Section 239 wrongful trading analysis:
 
 ### What This Means for Your Business
 
-For a Singapore SME with concentrated trade receivables from one or more customers, the practical order of operations is: confirm Trade Credit Insurance is in force and identifies the major buyers (named-buyer endorsement or whole-turnover form); test the policy wording for IRDA references at renewal; maintain credit-limit discipline within the policy's discretionary credit limit threshold; document the SME's credit-management procedures (the insurer can deny claims where procedure was breached); review the SME's customer concentration regularly.
+For a Singapore SME with concentrated trade receivables from one or more customers, the practical order of operations is: confirm Trade Credit Insurance is in force and identifies the major buyers ([named-buyer endorsement or whole-turnover form](/comparison/whole-turnover-vs-single-buyer-trade-credit-sme)); test the policy wording for IRDA references at renewal; maintain credit-limit discipline within the policy's discretionary credit limit threshold; document the SME's credit-management procedures (the insurer can deny claims where procedure was breached); review the SME's customer concentration regularly.
 
 For an SME whose customer has just filed under IRDA Part 5, Part 7, or Part 8, the immediate workflow is: notify the Trade Credit insurer within the policy window; cease further credit extension; review existing contracts for pre-filing breach grounds for termination (section 440 does not protect against non-insolvency termination); submit proof of debt with the appointed insolvency practitioner; consider joining an ad-hoc creditors' committee.
 

@@ -78,7 +78,7 @@ Licensed insurers operate under MAS conduct standards including:
 **4. Dispute resolution.**
 Disputes with licensed insurers can be escalated to:
 - The insurer's complaint process
-- [FIDReC](https://www.fidrec.com.sg/) for eligible matters (see [Article 43](/procedural-howto/dispute-denied-claim))
+- [FIDReC](https://www.fidrec.com.sg/) for eligible matters (see [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim))
 - MAS as regulator
 - Singapore courts
 

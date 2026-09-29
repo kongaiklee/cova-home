@@ -70,7 +70,7 @@ The MI details go to MOM online before the employer requests the issue or renewa
 
 #### The same rule for migrant domestic workers
 
-[MOM's insurance requirements for migrant domestic workers](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements) carry the same enhanced medical insurance: an annual claim limit of at least $60,000, the Stage 1 co-payment above $15,000, and the Stage 2 changes on the same dates, together with personal accident insurance. The salary co-pay arrangement above does not apply to domestic workers. The renewal mechanics are in [how to renew FDW insurance before the Work Permit expires](/procedural-howto/fdw-insurance-renew-before-permit-expiry).
+[MOM's insurance requirements for migrant domestic workers](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements) carry the same enhanced medical insurance: an annual claim limit of at least $60,000, the Stage 1 co-payment above $15,000, and [the Stage 2 changes](/regulatory-change/fdw-stage-2-2025) on the same dates, together with personal accident insurance. The salary co-pay arrangement above does not apply to domestic workers. The renewal mechanics are in [how to renew FDW insurance before the Work Permit expires](/procedural-howto/fdw-insurance-renew-before-permit-expiry).
 
 #### What this policy is not
 

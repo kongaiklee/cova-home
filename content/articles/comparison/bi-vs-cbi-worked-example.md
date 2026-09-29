@@ -79,7 +79,7 @@ CBI is written in several forms:
 
 #### BI / CBI quantification
 
-**The Gross Profit basis.** Most commercial BI is written on a Gross Profit basis. For insurance purposes, Gross Profit is defined as **net profit plus standing charges** - which is not the same as the accounting gross profit.
+**The Gross Profit basis.** Most commercial BI is written on a [Gross Profit basis](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore). For insurance purposes, Gross Profit is defined as **net profit plus standing charges** - which is not the same as the accounting gross profit.
 
 **Standing charges** are the operating expenses that continue regardless of revenue - rent, recurring contractual obligations, and (often only for specified roles) salaries. They continue to be incurred even while the business is disrupted, which is why they are insured.
 

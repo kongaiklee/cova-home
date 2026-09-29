@@ -98,6 +98,8 @@ Both structures provide:
 - Coronial / inquest representation
 - Specific cover for related events (HSA investigations, MOH compliance matters)
 
+The rules are set out in [how medical indemnity is regulated for Singapore doctors](/association/sma-smc-medical-practitioner-indemnity-framework), and the choice between a defence organisation and a commercial policy in [discretionary mutual indemnity vs commercial insurance](/comparison/medical-mutual-indemnity-vs-commercial-insurance).
+
 **Premium scales materially with specialty:**
 
 Higher-risk specialties pay more:

@@ -63,7 +63,7 @@ The trap here is the inverse of the sole proprietor's. The owner who incorporate
 
 #### The duty that does not care how you are structured: WICA
 
-One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 So the WICA line is the fixed point. Whatever structure you choose, if you employ people, this cover is not a decision. It is a legal requirement.
 

@@ -59,7 +59,7 @@ Many "insurance platforms" in Singapore blur three different licence types:
 
 1. **Direct insurer or insurer's tied agent.** Sells a single insurer's products. Conflict-prone.
 2. **Licensed financial adviser / insurance broker.** Holds an FA licence under the FAA or a broker licence; can recommend across insurers, regulated under [FAA-N16 on Recommendations](https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulations-guidance-and-licensing/financial-advisers/faq/faa_faqs_24nov2017.pdf), needs analysis rules, and broader FAA conduct rules.
-3. **Introducer under FAA-N02.** Cannot recommend at all. Routes the customer to a licensed FA. Structurally neutral because there is no licence to recommend any specific product.
+3. **Introducer under FAA-N02.** Cannot recommend at all. Routes the customer to a licensed FA. Structurally neutral because there is no licence to recommend any specific product. See [how an introducer differs from a licensed FA or broker](/comparison/faa-n02-introducer-vs-fa-broker).
 
 For an SME founder choosing where to source business insurance, the introducer model has a specific advantage: **the platform itself has no incentive to push you toward any particular policy**, because it cannot legally do so.
 

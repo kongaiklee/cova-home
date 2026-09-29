@@ -118,7 +118,7 @@ Various MAS notices restrict specific selling practices including:
 
 **6. Complaint resolution:**
 
-FAs must have complaint handling procedures and customers can escalate to FIDReC for eligible disputes (see [Article 43](/procedural-howto/dispute-denied-claim)).
+FAs must have complaint handling procedures and customers can escalate to FIDReC for eligible disputes (see [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim)).
 
 #### MAS Notice FAA-N03 specifically
 
@@ -143,7 +143,7 @@ The Notice has been amended multiple times; verify current version on MAS regula
 
 #### MAS Notice FAA-N16 - reasonable basis recommendations
 
-[MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices) sets out the framework for FAs making recommendations on investment products. While focused on investment-linked policies and similar products, the principles influence broader FA conduct expectations.
+[MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices) sets out the framework for FAs making recommendations on investment products. While focused on investment-linked policies and similar products, the principles influence broader FA conduct expectations. What the duty puts on file, and how a breach is proved, is set out in [MAS Notice FAA-N16 and the reasonable basis duty](/document-legal/faa-n16-reasonable-basis).
 
 **Key elements:**
 - Know-Your-Client (KYC) requirements
@@ -165,7 +165,7 @@ When SME insurance buyers have concerns about licensed adviser conduct or advice
 - Free mediation for eligible disputes
 - Adjudication available for some matters
 - Specific eligibility criteria (claim limits, complaint nature)
-- See [Article 43](/procedural-howto/dispute-denied-claim) on FIDReC
+- See [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim) for the FIDReC steps
 
 **3. MAS:**
 - Regulator for FAs

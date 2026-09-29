@@ -29,7 +29,7 @@ The BCA Contractors Registration System is the operational gatekeeper for Singap
 
 #### What changed and why it matters
 
-**5 March 2024 announcement and 1 June 2025 expansion.** BCA announced that from 1 June 2025, CRS would become a nation-wide registry. The substantive effect: a private-sector sub-contractor SME with foreign Work Permit or S Pass construction workers, historically outside the CRS perimeter, must register from the implementation date.
+**5 March 2024 announcement and 1 June 2025 expansion.** BCA announced that from 1 June 2025, CRS would become a nation-wide registry. The substantive effect: a private-sector sub-contractor SME with foreign Work Permit or S Pass construction workers, historically outside the CRS perimeter, must register from the implementation date. What registering first means for the work-permit application, and for the work injury insurance, medical insurance and security bond that follow each worker, is in [CRS registration before hiring Work Permit holders](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025).
 
 The policy rationale is to bring all construction firms employing foreign workers within a uniform productivity, safety, and standards framework. The pre-2025 division between "public-sector contractors (CRS-registered)" and "private-sector sub-contractors (often unregistered)" had produced uneven safety and productivity standards.
 

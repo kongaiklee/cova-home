@@ -164,7 +164,7 @@ Mixed disruption scenarios may benefit from combined structure or specific deduc
 
 The deductible interacts with the BI sum insured:
 
-**Sum insured.** Should reflect annual gross profit (per [Article 159](/comparison/bi-vs-cbi-worked-example)).
+**Sum insured.** Should reflect [annual gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore).
 
 **Indemnity period.** Should reflect realistic operational restoration time.
 

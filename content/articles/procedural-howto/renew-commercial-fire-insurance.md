@@ -9,7 +9,7 @@ agencies: []
 article_number: 32
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-29"
 word_count: 1077
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
@@ -21,7 +21,7 @@ og_description: "Re-estimate the sum insured on a replacement-cost basis before 
 
 ### The Answer in 60 Seconds
 
-> Per the General Insurance Association of Singapore (gia.org.sg), commercial fire insurance is renewed annually. Before renewal, the policyholder should re-estimate the **sum insured on a replacement-cost basis** to avoid the average clause (under-insurance penalty), confirm the SCDF Fire Certificate is current (renewable annually for non-residential buildings under the Fire Safety Act), notify the insurer of any change in occupancy or trade, and pay before the policy expiry date. Per Marsh's Singapore guidance, "the Average Clause dictates that the sum insured is always adjusted to reflect the present total value at risk" - fail to update the value, and a partial loss claim is reduced proportionally.
+> Per the General Insurance Association of Singapore (gia.org.sg), commercial fire insurance is renewed annually. Before renewal, the policyholder should re-estimate the **sum insured on a replacement-cost basis** to avoid the average clause (under-insurance penalty), confirm the SCDF Fire Certificate is current (36 months for certificates starting on or after 1 April 2026), notify the insurer of any change in occupancy or trade, and pay before the policy expiry date. Per Marsh's Singapore guidance, "the Average Clause dictates that the sum insured is always adjusted to reflect the present total value at risk" - fail to update the value, and a partial loss claim is reduced proportionally.
 
 ### The Step-by-Step
 
@@ -37,7 +37,7 @@ For *contents* (machinery, stock, fit-out), that means the cost to replace as ne
 The standard fire policy contains a pro-rata condition of average. Marsh Singapore explains: if a building is insured for S$6 million but its true reinstatement value is S$10 million (60%), a S$1 million partial loss pays only S$600,000. Every claim is reduced by the underinsurance ratio. Use a quantity surveyor or qualified valuer if the property is material.
 
 **Step 4 - Verify SCDF Fire Certificate (FC) status.**
-The Fire Certificate is required under section 35 of the Fire Safety Act for "the owner or occupier of any public buildings such as offices, hospitals, shopping complexes, industrial buildings and private residential buildings" (per gobusiness.gov.sg). Validity is currently 12 months; per the GoBusiness licensing portal, FCs issued **on or after 1 April 2026 will be valid for 36 months** under a new 3-year regime, with the non-residential application fee revised from S$33 to **S$36 per storey**. Annual PE inspections of fire safety systems remain mandatory regardless of the new validity period. A lapsed FC can void the FC-related warranty in your fire policy.
+The Fire Certificate is required under section 35 of the Fire Safety Act for "the owner or occupier of any public buildings such as offices, hospitals, shopping complexes, industrial buildings and private residential buildings" (per gobusiness.gov.sg). Per the GoBusiness licensing portal, FCs with a validity start date **on or after 1 April 2026 are valid for 36 months** under the [3-year Fire Certificate renewal regime](/regulatory-change/scdf-fc-3-year-2026) (certificates renewed before then run 12 months until their next renewal), with the non-residential application fee revised from S$33 to **S$36 per storey**. Annual PE inspections of fire safety systems remain mandatory regardless of the new validity period. A lapsed FC can void the [FC-related warranty in your fire policy](/licensing/scdf-fire-safety-certificate-insurance-implications).
 
 **Step 5 - Disclose any change in occupancy, trade, or building use.**
 If the unit was a warehouse last year and is now an F&B kitchen, the underlying risk has changed materially. Standard fire policies require disclosure "immediately on the same coming to their knowledge" with payment of any additional premium. Failure is a non-disclosure that can void cover.

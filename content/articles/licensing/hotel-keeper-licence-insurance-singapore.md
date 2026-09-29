@@ -43,7 +43,7 @@ The reach of the regime matters before you decide it does not apply to you. [Sec
 
 Here a genuine insurance obligation enters, and it has nothing to do with the hotel-keeper's licence. A hotel employs people: front desk, housekeeping, kitchen, maintenance, security. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the classes the regulations exclude. Housekeeping and kitchen roles in particular involve manual work, which keeps them well inside the duty.
 
-The trigger is employment, not the hotel-keeper's licence. A serviced apartment run by a sole owner with no staff and no manual workers may fall outside the section 24 duty, while any staffed hotel will be inside it. The detail of who exactly must be covered is in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+The trigger is employment, not the hotel-keeper's licence. A serviced apartment run by a sole owner with no staff and no manual workers may fall outside the section 24 duty, while any staffed hotel will be inside it. The detail of who exactly must be covered is in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but a hotel almost always needs
 

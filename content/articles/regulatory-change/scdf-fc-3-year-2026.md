@@ -26,7 +26,7 @@ og_description: "New and renewed Singapore Fire Certificates run 36 months from 
 
 ## The Sourced Detail
 
-The Fire Certificate (FC) is the SCDF document confirming that a designated building's fire safety systems are correctly maintained. Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), occupying a designated building (offices, shopping complexes, hospitals, industrial buildings, certain residential buildings) without a valid FC is an offence.
+The [Fire Certificate (FC)](/licensing/scdf-fire-safety-certificate-insurance-implications) is the SCDF document confirming that a designated building's fire safety systems are correctly maintained. Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), occupying a designated building (offices, shopping complexes, hospitals, industrial buildings, certain residential buildings) without a valid FC is an offence.
 
 Pre-2026, FCs were renewed annually. SCDF announced the [3-year FC regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf) to reduce administrative burden on compliant building owners while maintaining safety baselines through annual PE inspections and SCDF audits.
 
@@ -85,7 +85,7 @@ If you own or occupy a designated building:
 
 **Set 3 calendar reminders, not 1.** Year 1: PE inspection, FC application/renewal. Year 2: PE inspection, FC Form submission. Year 3: PE inspection, FC Form submission, prepare for FC renewal at year 4. Missing a year-2 or year-3 FC Form could trigger SCDF enforcement.
 
-**Continue providing FC evidence to your insurers annually.** Your insurer's policy terms likely still require annual evidence of compliance regardless of SCDF cycle.
+**Continue providing FC evidence to your insurers annually.** Your insurer's policy terms likely still require annual evidence of compliance at each [fire insurance renewal](/procedural-howto/renew-commercial-fire-insurance), regardless of SCDF cycle.
 
 **Don't defer maintenance to year 3.** Fire pumps, alarm systems, sprinklers, fire doors and emergency lighting all degrade.
 

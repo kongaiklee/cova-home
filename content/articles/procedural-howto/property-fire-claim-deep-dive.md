@@ -21,7 +21,7 @@ og_description: "A property or fire claim runs through defined stages from incid
 
 > **The Answer in 60 Seconds**
 >
-> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [Article 159](/comparison/bi-vs-cbi-worked-example)) -> **specific subrogation framework engagement** (per [Article 187](/document-legal/castellian-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [Article 174](/regulatory-change/scdf-fc-36-month-renewal-2026)), and **specific contemporaneous documentation**.
+> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [Article 159](/procedural-howto/bi-claim-deep-dive)) -> **specific subrogation framework engagement** (per [Article 187](/document-legal/castellian-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [Article 174](/regulatory-change/scdf-fc-36-month-renewal-2026)), and **specific contemporaneous documentation**.
 
 ### The Sourced Detail
 
@@ -42,7 +42,7 @@ For FC-required premises (per [Article 174](/regulatory-change/scdf-fc-36-month-
 
 **Specific Property/Fire procurement discipline.**
 
-Per [Article 158](/comparison/fire-vs-par-claim-mechanics):
+Per [Article 158](/comparison/reinstatement-cost-vs-indemnity-value-property):
 
 - Adequate sum insured
 - Operational replacement cost vs market value basis
@@ -206,7 +206,7 @@ The insured has duty to mitigate:
 
 #### Stage 8 - BI claim coordination
 
-For claims involving BI (per [Article 159](/comparison/bi-vs-cbi-worked-example)):
+For claims involving BI (per [Article 159](/procedural-howto/bi-claim-deep-dive)):
 
 **BI claim engagement.**
 
@@ -304,7 +304,7 @@ For FC-required premises:
 
 **Issue 2: Inadequate sum insured (underinsurance / average).**
 
-Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
+Per [Article 196](/document-legal/average-clause-underinsurance-singapore):
 
 - Specific average clause application
 - Operational commercial implications

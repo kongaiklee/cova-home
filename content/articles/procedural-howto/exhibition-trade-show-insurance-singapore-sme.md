@@ -21,7 +21,7 @@ og_description: "Exhibition insurance Singapore guide for organisers and exhibit
 
 > **The Answer in 60 Seconds**
 >
-> An exhibition concentrates several business risks into one place and one timetable. [Public liability](/procedural-howto/event-liability-insurance-singapore-mice-venue) addresses covered claims for third-party injury or property damage, while property or exhibition cover addresses insured exhibits and equipment. Transit cover deals with the journey to and from the venue. Event cancellation responds only to insured causes and defined financial loss. The venue contract sets the required liability limit, insured names and dates.
+> An exhibition concentrates several business risks into one place and one timetable. [Event public liability](/procedural-howto/event-liability-insurance-singapore-mice-venue) addresses covered claims for third-party injury or property damage, while property or exhibition cover addresses insured exhibits and equipment. Transit cover deals with the journey to and from the venue. Event cancellation responds only to insured causes and defined financial loss. The venue contract sets the required liability limit, insured names and dates.
 >
 > Build the programme from the contract and the physical journey. Read the venue agreement, exhibitor manual, freight contract, equipment-hire terms and supplier agreements before asking for cover. Your certificate, policy period, named insureds and territorial scope must match the actual event, including setup and teardown when those periods appear in the contract.
 

@@ -243,7 +243,7 @@ For SMEs providing bonds:
 
 **HDB-RRC bonds.**
 
-For HDB renovation contractors (per [Article 75](/document-legal/limitation-act-6-year-clock)):
+For HDB renovation contractors:
 
 - Specific S$15,000 bond framework
 

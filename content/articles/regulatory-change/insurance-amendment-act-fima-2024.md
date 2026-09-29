@@ -108,7 +108,7 @@ For SMEs: financial strength of placement insurers improves on average; price fl
 MAS supervisory focus on conduct standards:
 - Claim settlement timeliness expectations
 - Documentation discipline
-- Dispute resolution availability via FIDReC (per [Article 342](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore))
+- Dispute resolution availability via FIDReC (see [how a small business files with FIDReC](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore))
 
 For SMEs: improved claims handling experience, especially with mid-tier and larger insurers; FIDReC route available where issues arise.
 
@@ -159,7 +159,7 @@ Continued framework for Lloyd's syndicates operating in Singapore:
 
 **Claims handling.**
 - Documentation discipline more critical
-- Dispute resolution via FIDReC viable for small businesses (per [Article 342](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore))
+- Dispute resolution via FIDReC viable for small businesses (see the [FIDReC filing procedure for small businesses](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore))
 
 **Cyber and technology.**
 - Cyber insurance underwriting more rigorous

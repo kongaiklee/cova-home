@@ -29,7 +29,7 @@ Indoor playgrounds combine paediatric-density premises liability with regulated 
 
 #### Regulatory framework
 
-**Building / fire safety.** Indoor playgrounds typically operate within commercial premises (mall units, standalone retail). [BCA building code](https://www1.bca.gov.sg/) and [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) requirements apply: occupant load calculation, fire exits, fire-rated construction, sprinkler systems where applicable. Major fit-outs require BCA permit and SCDF Fire Safety Certificate.
+**Building / fire safety.** Indoor playgrounds typically operate within commercial premises (mall units, standalone retail). [BCA building code](https://www1.bca.gov.sg/) and [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) requirements apply: occupant load calculation, fire exits, fire-rated construction, sprinkler systems where applicable. Major fit-outs require BCA permit and SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).
 
 **Public Entertainments Licence.** Where the operation includes performances, parties, or specific entertainment elements, [Public Entertainments Act](https://sso.agc.gov.sg/Act/PEA1958) licensing administered by [Singapore Police Force Licensing Division](https://www.police.gov.sg/) applies.
 

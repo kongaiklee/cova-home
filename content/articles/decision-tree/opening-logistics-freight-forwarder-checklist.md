@@ -184,7 +184,7 @@ Specific exposures:
 - Customer data breach
 - PDPA exposure on personal data of consignees
 
-For 3PL operators with sophisticated TMS and Warehouse Management Systems, Cyber Liability with appropriate limits and BI extension is increasingly standard. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
+For 3PL operators with sophisticated TMS and Warehouse Management Systems, Cyber Liability with appropriate limits and BI extension is increasingly standard. See [Article 72](/document-legal/cyber-insurance-complete-guide-singapore-sme).
 
 #### Stage-by-stage insurance build
 

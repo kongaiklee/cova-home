@@ -198,7 +198,7 @@ For tower structures, defence cost coordination matters:
 
 **Specific defence cost provisions.**
 
-- Within limits vs outside limits (per [Article 197](/comparison/cyber-tower-follow-form-mechanics))
+- Within limits vs outside limits (per [Article 197](/comparison/defense-costs-inside-vs-outside-limits-liability))
 - Operational specific exhaustion mechanics
 - Operational operational considerations
 

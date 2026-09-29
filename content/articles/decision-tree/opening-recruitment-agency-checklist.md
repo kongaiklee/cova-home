@@ -9,7 +9,7 @@ agencies: ["MOM", "Singapore Statutes"]
 article_number: 112
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-08-30"
+updated: "2026-09-29"
 word_count: 1586
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
@@ -199,7 +199,7 @@ For agencies placing Foreign Domestic Workers, additional layers:
 - Cross-border issues (source country relationships)
 - Public liability for FDW housing/welfare facilities
 
-See [Article 13](/regulatory-change/pdpa-2022-penalty) on FDW Stage 2.
+See [FDW Insurance Stage 2 Enhancement](/regulatory-change/fdw-stage-2-2025) for the 1 July 2025 changes.
 
 #### Executive search specific considerations
 

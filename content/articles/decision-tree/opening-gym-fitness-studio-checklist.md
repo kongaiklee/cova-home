@@ -59,7 +59,7 @@ PL and PI premium scales materially with the activity type. A 2,000 sq ft yoga s
 
 **Business registration** with ACRA is foundational.
 
-**SCDF Fire Safety Certificate** - every gym premises requires FSC compliance. Equipment-heavy facilities typically require specific assessments. See [Article 10](/licensing/scdf-fire-safety-certificate-insurance-implications) on SCDF FSC.
+**SCDF Fire Safety Certificate** - every gym premises requires FSC compliance. Equipment-heavy facilities typically require specific assessments. See [how to apply for a Fire Safety Certificate (FSC)](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).
 
 **URA zoning** - gyms and fitness studios are commercial uses requiring appropriate URA zoning. Specific zoning categories matter; some retail/commercial zones permit fitness uses while others restrict them.
 

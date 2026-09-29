@@ -206,7 +206,7 @@ The right structure depends on workforce composition, sector, premium budget, an
 
 **Per [Article 352](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)** - MWMI Stage 2 (foreign workers): IP redesign doesn't affect Work Permit / S Pass holders directly but coordinates with overall medical insurance landscape.
 
-**Per [Article 342](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)** - FIDReC small business: group medical disputes for SMEs ≤ SGD 1m turnover now within FIDReC scope.
+**Per the [FIDReC filing procedure for small businesses](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)** - FIDReC small business: group medical disputes for SMEs ≤ SGD 1m turnover now within FIDReC scope.
 
 ### Common Mistakes / What Goes Wrong
 

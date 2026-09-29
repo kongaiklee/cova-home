@@ -161,7 +161,7 @@ For employers in higher-risk industries (construction, marine, manufacturing), C
 
 [Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/sector-specific-rules/insurance-requirements) is mandatory for Work Permit holders and S Pass holders, separate from WICA. Many designated WICA insurers also offer FWMI, often bundled at renewal.
 
-FWMI minimum: S$60,000 inpatient cover (post-1 July 2023 enhancement). See [Article 33](/procedural-howto/fdw-insurance-renew-before-permit-expiry) on FDW Stage 2 and [Article 15](/regulatory-change/wp-mi-2025) on WP/S Pass medical insurance.
+FWMI minimum: S$60,000 inpatient cover (post-1 July 2023 enhancement). See [FDW Insurance Stage 2 Enhancement](/regulatory-change/fdw-stage-2-2025) for domestic workers and [Work Permit & S Pass Medical Insurance](/regulatory-change/wp-mi-2025) for Work Permit and S Pass holders.
 
 #### Platform operator designated insurers
 

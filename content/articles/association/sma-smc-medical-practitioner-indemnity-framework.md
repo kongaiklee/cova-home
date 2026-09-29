@@ -83,7 +83,7 @@ Commercial PI insurers (AIG, Chubb, Liberty, MSIG, Tokio Marine, Sompo, Allianz)
 - Retroactive date: cover responds only to acts after the retroactive date.
 - Defined limits with per-claim and aggregate structures.
 
-The structural choice between MDO and commercial PI:
+The structural choice between MDO and commercial PI, compared provider by provider in [discretionary mutual indemnity vs commercial insurance](/comparison/medical-mutual-indemnity-vs-commercial-insurance):
 
 - MDO offers occurrence-based, discretionary indemnity with deep historical experience.
 - Commercial PI offers contractual certainty with defined limits and exclusions.

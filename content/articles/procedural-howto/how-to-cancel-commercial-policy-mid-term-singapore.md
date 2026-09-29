@@ -74,7 +74,7 @@ The Singapore High Court in *Tan Yi Lin Cheryl v AIA Singapore Pte Ltd* [[2021] 
 
 The procedural rule: if the cancelling policy is claims-made, the cancellation workflow includes the ERP decision. The ERP is a one-time election with a hard deadline; the SME cannot defer it.
 
-A separate procedural option, before electing ERP, is to file a Notice of Circumstance (NoC) under the cancelling policy for any known potential claim. A properly notified NoC during the policy period is "deemed" a claim made during that period under most claims-made wordings, locking in cover even if the actual claim arrives years later. The Notice of Circumstance workflow is treated separately in [article 408](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore).
+A separate procedural option, before electing ERP, is to file a Notice of Circumstance (NoC) under the cancelling policy for any known potential claim. A properly notified NoC during the policy period is "deemed" a claim made during that period under most claims-made wordings, locking in cover even if the actual claim arrives years later. The Notice of Circumstance workflow is treated separately in [how to file a Notice of Circumstance under a claims-made policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore).
 
 ## The Mid-Term Cancellation Workflow
 

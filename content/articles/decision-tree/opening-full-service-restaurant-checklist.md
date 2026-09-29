@@ -159,7 +159,7 @@ Specific WICA exposures:
 - Lifting injuries (stock, kitchen equipment)
 - Chemical exposure (cleaning agents)
 
-Common-Law / Employer's Liability extension is appropriate. See [Article 80](/crisis/worker-fatality-on-site).
+Common-Law / Employer's Liability extension is appropriate. See [Article 80](/document-legal/employers-liability-insurance-singapore-wica-gap).
 
 #### Foreign Worker Medical Insurance
 

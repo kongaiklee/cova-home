@@ -137,7 +137,7 @@ The insurance workflow runs alongside the ACRA timeline. The structured approach
 ### T-6 to T-3
 
 - Trading ceases. WICA policy continues until last employment terminates.
-- Cancel motor, property, marine, and other occurrence-based policies as the underlying assets are disposed of (with refund coordination per [article 406](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)).
+- Cancel motor, property, marine, and other occurrence-based policies as the underlying assets are disposed of (for the refund, see [cancelling a commercial insurance policy mid-term](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)).
 - Final IRAS tax clearance applications.
 - Final ACRA AGM, accounts, and dormancy filings if applicable.
 

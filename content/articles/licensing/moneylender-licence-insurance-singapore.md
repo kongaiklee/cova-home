@@ -45,7 +45,7 @@ That power to forfeit is the point. [Section 12 of the Act](https://sso.agc.gov.
 
 Here is the one genuine insurance obligation, and it does not flow from the moneylender's licence at all. A licensed moneylender is a company that employs people: loan officers, recovery staff, administrators. As an employer, it falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved policies against the liabilities it may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-So work-injury cover is mandatory because you are an employer, not because you hold a moneylender's licence. The trigger is employment. The detail of who exactly must be covered, and which classes fall outside the duty, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). Get that one right first, because it is the only policy a statute makes you carry.
+So work-injury cover is mandatory because you are an employer, not because you hold a moneylender's licence. The trigger is employment. The detail of who exactly must be covered, and which classes fall outside the duty, is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers). Get that one right first, because it is the only policy a statute makes you carry.
 
 #### The cyber and data exposure the licence does not name
 

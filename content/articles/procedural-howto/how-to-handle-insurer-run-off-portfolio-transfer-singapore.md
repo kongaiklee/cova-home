@@ -96,7 +96,7 @@ Examples in recent Singapore practice include carriers withdrawing from cyber wr
 
 The policyholder workflow:
 
-- **Confirm in writing** the insurer's intention. The communication should specify whether the withdrawal is at next renewal (with the current policy running to expiry) or earlier (which would invoke the insurer's cancellation rights - see [article 406](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)).
+- **Confirm in writing** the insurer's intention. The communication should specify whether the withdrawal is at next renewal (with the current policy running to expiry) or earlier (which would invoke the insurer's cancellation rights - see [how an insurer cancels a commercial policy mid-term](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)).
 - **Begin replacement-cover search immediately**. Voluntary withdrawals can be a signal to the rest of the market that the carrier sees the line as adversely selecting; replacement cover from other insurers may come at higher pricing or with tighter terms.
 - **Confirm continuing claims handling** for any claims arising under the current policy or notified during the current policy period.
 - **For claims-made cover**, confirm ERP availability and pricing. Some withdrawing insurers offer enhanced ERP terms to ease the transition; others apply standard terms.

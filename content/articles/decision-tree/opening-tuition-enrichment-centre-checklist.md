@@ -42,7 +42,7 @@ Most pure academic-tuition and enrichment centres fall under MOE registration; t
 
 #### Premises requirements
 
-**SCDF Fire Safety Certificate.** The premises must meet [SCDF](https://www.scdf.gov.sg/) requirements for its occupancy use class - fire-safety equipment, evacuation provisions, and a Fire Safety Manager appointment for larger premises.
+**SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).** The premises must meet [SCDF](https://www.scdf.gov.sg/) requirements for its occupancy use class - fire-safety equipment, evacuation provisions, and a Fire Safety Manager appointment for larger premises.
 
 **URA zoning.** Educational use is permitted only in zones the [URA Master Plan](https://www.ura.gov.sg/) allows, and the position differs across commercial, residential, and mixed-use premises - confirm the zoning before committing to a unit.
 

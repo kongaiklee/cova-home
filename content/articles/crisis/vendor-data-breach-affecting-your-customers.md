@@ -119,7 +119,7 @@ For SMEs receiving a vendor-cascade breach notification, these decisions illustr
 
 - **Third-party liability cover** - claims by data subjects under section 48O PDPA, claims by business counterparties, claims by payment-card brands. The principal source of large Cyber claims in Singapore.
 
-- **PDPC financial penalty cover** - generally not insurable to the extent treated as punitive under Singapore public-policy doctrine (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
+- **PDPC financial penalty cover** - generally not insurable to the extent treated as punitive under Singapore public-policy doctrine (see [Article 263](/regulatory-change/pdpa-2022-penalty)).
 
 - **Business interruption cover** - loss of gross profit following a cyber-triggered operational shutdown.
 

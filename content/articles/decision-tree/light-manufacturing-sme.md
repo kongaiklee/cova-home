@@ -51,7 +51,7 @@ The second decision point distinguishes equipment intensity.
 
 **Light equipment scope** - operator operates with modest equipment scope. Foundational Property/Fire and Equipment Breakdown scope.
 
-**Substantive equipment scope** - operator operates with substantive equipment scope (S$500k-S$5M equipment value). Considerations on Property/Fire sum insured (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive)), specific Equipment Breakdown scope, specific BI indemnity period considerations.
+**Substantive equipment scope** - operator operates with substantive equipment scope (S$500k-S$5M equipment value). Considerations on Property/Fire sum insured (per [Article 196](/document-legal/average-clause-underinsurance-singapore)), specific Equipment Breakdown scope, specific BI indemnity period considerations.
 
 **Substantial equipment scope** - operator operates with substantial equipment (S$5M+ equipment value). Considerations on limits, specific BI considerations given equipment replacement timelines that can extend substantially (12-24+ months for specific manufacturing equipment).
 

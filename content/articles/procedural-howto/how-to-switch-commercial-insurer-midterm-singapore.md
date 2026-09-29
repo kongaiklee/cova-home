@@ -102,6 +102,8 @@ Examine current policy for:
 - Open claim implications
 - Specific cover-line provisions
 
+Each of these is explained in [how to cancel a commercial insurance policy mid-term](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore).
+
 **Step 2 - Obtain new insurer's quote.**
 
 Quote must be specifically structured for mid-term inception:

@@ -75,7 +75,7 @@ Cash escort and valuables-in-transit work carries an acute risk profile - armed-
 
 Security operations carry substantial [WICA](https://sso.agc.gov.sg/Act/WICA2019) exposure. Most security officers are manual workers within WICA, and the high-frequency injuries are distinctive: injuries sustained during use-of-force incidents, assault injuries where an officer is attacked, traffic-related injuries in mobile patrol, and psychological or stress injuries.
 
-A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)) and the higher-risk operations. Officer welfare - including psychological support after an incident - is both a duty and an underwriting consideration.
+A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/document-legal/wsha-section-48-director-liability)) and the higher-risk operations. Officer welfare - including psychological support after an incident - is both a duty and an underwriting consideration.
 
 #### Commercial considerations
 

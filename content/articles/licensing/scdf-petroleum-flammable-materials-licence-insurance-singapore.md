@@ -37,7 +37,7 @@ The control of petroleum and flammable materials sits in [Part 6 of the Fire Saf
 
 What "petroleum" and "flammable material" cover is not left to common sense. The [Act defines petroleum to include crude petroleum, liquefied petroleum gas and products distilled from crude petroleum, coal, shale, peat or other bituminous substances](https://sso.agc.gov.sg/Act/FSA1993), and a flammable material is any substance prescribed as such for the purposes of the Act. The prescribed classes and the quantity thresholds that trigger a licence live in the subsidiary legislation made under the Act, so whether your stock crosses the line is a question for the regulations, not a guess.
 
-The point to hold onto is that this is a permission to handle a dangerous thing safely. Like the [SCDF Fire Safety Certificate regime for designated buildings](/licensing/scdf-fire-safety-certificate-insurance-implications), it is a safety instrument. It is not, and was never designed to be, a financial backstop.
+The point to hold onto is that this is a permission to handle a dangerous thing safely. Like the [SCDF Fire Certificate regime for designated buildings](/licensing/scdf-fire-safety-certificate-insurance-implications), it is a safety instrument. It is not, and was never designed to be, a financial backstop.
 
 #### Does the Act impose an insurance condition?
 
@@ -61,7 +61,7 @@ The fourth is **environmental and clean-up**. Petroleum and flammable materials 
 
 Cutting across all of this is the one genuinely mandatory cover, and it has nothing to do with the SCDF licence. A business that stores or handles flammable materials employs people, and those people stand closest to the hazard. As an employer, the business falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved policies against the liabilities it may incur under the Act, in respect of its employees, subject to the classes the regulations exclude.
 
-The trigger is employment, not the petroleum licence. But the two overlap in the worst way: a fire or explosion is precisely the kind of event that injures workers, and WICA cover is the statutory floor for compensating them. The mechanics of who must be covered are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+The trigger is employment, not the petroleum licence. But the two overlap in the worst way: a fire or explosion is precisely the kind of event that injures workers, and WICA cover is the statutory floor for compensating them. The mechanics of who must be covered are set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 ### Common Mistakes
 

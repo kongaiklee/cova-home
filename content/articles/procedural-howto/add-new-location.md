@@ -30,7 +30,7 @@ og_description: "Tell your insurer in writing before you trade from a new Singap
 - Occupancy type (office, warehouse, F&B, manufacturing, retail)
 - Building construction (concrete/steel vs timber; sprinklered vs not)
 - Building age
-- Fire Safety Certificate (FSC) status - relevant under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for premises required to obtain one
+- [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) (FSC) status - relevant under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for premises required to obtain one
 - Sums insured for building (if owned), contents/fixtures, stock
 - Security and fire alarm systems
 - Adjacent risks (e.g. shophouse next to a chemical store)

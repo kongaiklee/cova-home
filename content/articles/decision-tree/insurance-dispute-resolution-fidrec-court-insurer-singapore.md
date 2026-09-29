@@ -37,7 +37,7 @@ Every Singapore-licensed insurer operates a complaints-handling process under MA
 
 For most SME disputes - small to mid-sized claim disagreements, premium-allocation questions, policy-interpretation queries - direct resolution at this layer settles the matter. The licensed adviser or broker who placed the cover is typically the SME's first line of support, since they hold the relationship with the insurer.
 
-Where direct resolution does not produce an acceptable outcome, the SME has a written record of the insurer's final position - which is the threshold document for moving to FIDReC.
+Where direct resolution does not produce an acceptable outcome, the SME has a written record of the insurer's final position - which is the threshold document for moving to FIDReC. The steps for working a denial through the insurer, from the written denial to the appeal to the Chief Executive, are in [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim).
 
 #### Route 2: FIDReC
 
@@ -58,7 +58,7 @@ Where direct resolution does not produce an acceptable outcome, the SME has a wr
 
 **Time limit.** The SME must file the claim with FIDReC within **6 months** of the FI's final written reply.
 
-The 6-month period is the trigger for prompt action once direct resolution has reached its final stage.
+The 6-month period is the trigger for prompt action once direct resolution has reached its final stage. The filing itself, step by step, is in the [FIDReC filing procedure for small businesses](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore).
 
 #### Route 3: Court proceedings
 

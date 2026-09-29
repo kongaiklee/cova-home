@@ -33,7 +33,7 @@ Singapore's tattoo and body piercing industry has matured significantly with est
 
 **Public-health and hygiene** - the premises must meet [NEA](https://www.nea.gov.sg/) public-health standards, which cover hygiene protocols, waste management (notably sharps disposal), and premises requirements.
 
-**SCDF / URA** - the standard SME premises requirements for retail / commercial premises: a Fire Safety Certificate and zoning compliance for the activity.
+**SCDF / URA** - the standard SME premises requirements for retail / commercial premises: a [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) and zoning compliance for the activity.
 
 **No dedicated tattoo licensing.** Unlike some jurisdictions (the UK and parts of Australia license tattoo studios specifically), Singapore has no dedicated national tattoo-studio licensing framework. Operations are governed by the general public-facing-premises standards and NEA's hygiene requirements.
 

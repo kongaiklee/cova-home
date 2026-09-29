@@ -209,7 +209,7 @@ Bank guarantees often easier for SMEs with strong credit / cash position; surety
 
 - Performance bonds standard for material projects
 - Maintenance bonds standard for defects liability periods
-- Specific HDB-RRC bond for renovation contractors (S$15,000 per [Article 75](/document-legal/limitation-act-6-year-clock))
+- Specific HDB-RRC bond for renovation contractors (S$15,000)
 - Commercial conventions
 
 **Customs / trade.**

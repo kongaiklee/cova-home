@@ -38,7 +38,7 @@ Under the FAA, MAS issues a series of **[Notices](https://www.mas.gov.sg/regulat
 
 #### The introducer framework (FAA-N02)
 
-[MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) governs the appointment and use of introducers by financial advisers.
+[MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) governs the [appointment and use of introducers by financial advisers](/regulatory-change/mas-faa-n02-introducer-licence-requirements).
 
 **An introducer can:**
 1. Introduce prospective clients to licensed FAs or brokers

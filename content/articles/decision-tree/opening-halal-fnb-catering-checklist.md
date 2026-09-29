@@ -66,7 +66,7 @@ Per the [Sale of Food Act 1973](https://sso.agc.gov.sg/Act/SFA1973) and [SFA's F
 
 **2. WICA insurance**
 
-For all manual workers (kitchen staff, packers, drivers, cleaners) regardless of salary; non-manual staff earning ≤S$2,600 also in scope. See [Article 67](/document-legal/wica-section-25-offence).
+For all manual workers (kitchen staff, packers, drivers, cleaners) regardless of salary; non-manual staff earning ≤S$2,600 also in scope. See [Article 67](/document-legal/wica-complete-guide-singapore-employers).
 
 **3. Motor third-party (if delivery vehicles)**
 
@@ -123,7 +123,7 @@ For catering operations delivering to off-site venues, Goods in Transit covers p
 
 #### Cyber Liability
 
-For F&B operations running online ordering systems, reservation systems (OpenTable, Chope, Quandoo, custom), delivery aggregators (Foodpanda, GrabFood, Deliveroo), customer loyalty programmes, payment processing, email marketing, corporate catering customer databases - Cyber covers PDPA breach response and BI from cyber events. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
+For F&B operations running online ordering systems, reservation systems (OpenTable, Chope, Quandoo, custom), delivery aggregators (Foodpanda, GrabFood, Deliveroo), customer loyalty programmes, payment processing, email marketing, corporate catering customer databases - Cyber covers PDPA breach response and BI from cyber events. See [Article 72](/document-legal/cyber-insurance-complete-guide-singapore-sme).
 
 #### Specific Halal-operation considerations
 

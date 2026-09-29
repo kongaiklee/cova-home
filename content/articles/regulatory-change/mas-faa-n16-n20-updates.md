@@ -34,7 +34,7 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001):
 **Specific MAS Notices issued under FAA:**
 
 - FAA-N01: Operational scope
-- FAA-N02: Introducer arrangements (see [Article 168](/comparison/faa-n02-introducer-vs-fa-broker))
+- FAA-N02: Introducer arrangements (see [what MAS Notice FAA-N02 requires of introducers](/regulatory-change/mas-faa-n02-introducer-licence-requirements))
 - FAA-N03: Operational scope
 - FAA-N04: Operational scope
 - Specific other notices per FAA framework
@@ -48,6 +48,8 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001):
 - Operational operational standards
 
 #### FAA-N16 - Recommendations on investment products
+
+What the notice requires of an adviser, and how a breach is proved, is explained in full in [the FAA-N16 reasonable basis duty](/document-legal/faa-n16-reasonable-basis).
 
 **Foundation framework:**
 

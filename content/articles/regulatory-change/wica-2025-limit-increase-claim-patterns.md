@@ -148,7 +148,7 @@ For employer negligence claims:
 
 **Specific WSHA Section 48 considerations:**
 
-For director-level personal exposure (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)):
+For director-level personal exposure (see [Article 22](/document-legal/wsha-section-48-director-liability)):
 - D&O coordination
 - Specific defence costs
 

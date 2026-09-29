@@ -144,7 +144,7 @@ In acquisition transactions:
 
 For SME founders and directors:
 
-1. **At any insurance dispute - diary the limitation period.** A denial received today is the start of a 6-year clock. Don't lose track.
+1. **At any insurance dispute - diary the limitation period.** A denial received today is the start of a 6-year clock. Don't lose track. The steps to challenge the denial before it reaches court are in [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim).
 
 2. **At any incident with potential third-party exposure - preserve evidence and notify insurers promptly.** The further from the incident date, the harder a defence, regardless of limitation.
 

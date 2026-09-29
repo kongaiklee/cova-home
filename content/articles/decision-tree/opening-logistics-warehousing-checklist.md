@@ -42,7 +42,7 @@ Singapore's logistics sector - warehousing, freight forwarding, last-mile delive
 - **Singapore Customs** - registration as a Declaring Agent and use of TradeNet for permit applications, with the registrations the commodities handled require.
 - **LTA commercial vehicles** - registration of the owned fleet in the appropriate vehicle categories, with the corresponding driver licensing across the GVW classes.
 - **Industry licensing** - dangerous goods and pharmaceutical logistics (under HSA frameworks) carry their own licensing.
-- **Premises** - an SCDF Fire Safety Certificate is mandatory, with safety standards set by the premises type (warehouse, distribution centre) and occupancy.
+- **Premises** - an SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) is mandatory, with safety standards set by the premises type (warehouse, distribution centre) and occupancy.
 
 #### The Public Liability layer
 

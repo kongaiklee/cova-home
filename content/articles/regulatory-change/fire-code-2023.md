@@ -58,7 +58,7 @@ This means:
 - Edition of Fire Code applicable to your premises.
 - Whether you operate EV charging, solar PV or ESS on the premises.
 - Whether your premises is a Mass Engineered Timber building.
-- Status of [SCDF Fire Certificate](/regulatory-change/scdf-fc-3-year-2026) (where required).
+- Status of [SCDF Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications) (where required).
 
 **Underwriting differentiation.** Premiums and terms increasingly reflect:
 - Sprinkler protection (always a meaningful pricing variable).
@@ -71,7 +71,7 @@ This means:
 ### Enforcement teeth
 
 Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993):
-- Operating designated premises without a valid [Fire Certificate](/regulatory-change/scdf-fc-3-year-2026) is an offence.
+- Operating designated premises without a valid [Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications) is an offence.
 - Misrepresentation in a Fire Certificate application is an offence.
 - Failure to comply with notices to rectify fire-hazard increases is an offence.
 

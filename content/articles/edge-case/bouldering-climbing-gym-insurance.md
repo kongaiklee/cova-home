@@ -31,7 +31,7 @@ Singapore's adventure sport facilities - bouldering gyms, indoor rope climbing, 
 
 **Business registration** - ACRA registration with the business activity codes for sport and recreation.
 
-**SCDF Fire Safety Certificate** - the premises must meet [SCDF](https://www.scdf.gov.sg/) requirements for its occupancy use class (often Place of Public Resort), with evacuation provisions scaled to a high-volume venue and a Fire Safety Manager for larger premises.
+**SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)** - the premises must meet [SCDF](https://www.scdf.gov.sg/) requirements for its occupancy use class (often Place of Public Resort), with evacuation provisions scaled to a high-volume venue and a Fire Safety Manager for larger premises.
 
 **URA zoning** - the [URA Master Plan](https://www.ura.gov.sg/) determines whether the use is permitted, with the position differing across commercial and industrial premises.
 
@@ -76,7 +76,7 @@ A facility's workforce is a mix of front-desk and administration staff, operatio
 
 **Instructor classification** is the key WICA question - instructors are often engaged as contractors, and whether each is in substance an employee or a genuine contractor follows the operational reality, not the contract label (see [Article 67](/document-legal/wica-section-25-offence)). Misclassification creates exposure.
 
-The **high-frequency injuries** are distinctive: demonstration injuries, equipment-related injuries during setup and maintenance, injuries while assisting participants, and repetitive-strain and climbing-related injuries. A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)).
+The **high-frequency injuries** are distinctive: demonstration injuries, equipment-related injuries during setup and maintenance, injuries while assisting participants, and repetitive-strain and climbing-related injuries. A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/document-legal/wsha-section-48-director-liability)).
 
 #### Equipment and Property considerations
 

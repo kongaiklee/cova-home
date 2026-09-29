@@ -80,7 +80,7 @@ Trade credit is most useful where:
 - **Receivables are concentrated** in a small number of buyers - the loss of any single buyer would be material.
 - **Buyers are domiciled in jurisdictions with imperfect debt-recovery**, where insolvency recovery prospects are limited.
 - **Payment terms are extended** (60-90+ days) - the gap between delivery and payment is the exposure window.
-- **The cost of credit insurance is justified** by the working-capital benefit (better bank financing terms against insured receivables) plus the loss reduction.
+- **The [cost of credit insurance](/comparison/whole-turnover-vs-single-buyer-trade-credit-sme) is justified** by the working-capital benefit (better bank financing terms against insured receivables) plus the loss reduction.
 
 Trade credit is less useful where:
 

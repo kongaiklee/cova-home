@@ -55,7 +55,7 @@ A "basis clause" - common in Singapore wordings ("I warrant that the above state
 
 **Step 7 - The right person signs.** The signatory should be a director, company secretary, or person authorised under the company's constitution. The basis clause turns the signed declaration into a warranty - having an unauthorised junior staff sign creates problems if the answers are challenged.
 
-**Step 8 - Keep the signed copy.** Filed for the policy life plus 7 years minimum. The proposal is the foundation document if there's a coverage dispute.
+**Step 8 - Keep the signed copy.** Filed for the policy life plus 7 years minimum. The proposal is the foundation document if there's a coverage dispute (see [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim)).
 
 ### Common Mistakes
 1. **Letting the broker fill it in for you.** Per FIDReC: even if someone helps, you must check and sign - the answers bind you.

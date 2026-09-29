@@ -45,7 +45,7 @@ This matters for insurance because it defines the legal exposure. A food busines
 
 Here is the one genuine insurance mandate, and it has nothing to do with the food licence. A food establishment employs people: cooks, servers, dishwashers, delivery riders. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, for every employee within the prescribed classes.
 
-So the work-injury cover is mandatory because you employ people, not because you hold an SFA licence. Kitchens are high-exposure workplaces: burns, knife wounds, slips on wet floors, scalds. The duty follows employment and the classes the regulations prescribe. A food business with a payroll is almost always squarely inside it. We set out the detail of who must be covered in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+So the work-injury cover is mandatory because you employ people, not because you hold an SFA licence. Kitchens are high-exposure workplaces: burns, knife wounds, slips on wet floors, scalds. The duty follows employment and the classes the regulations prescribe. A food business with a payroll is almost always squarely inside it. We set out the detail of who must be covered in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but a food business usually carries
 
