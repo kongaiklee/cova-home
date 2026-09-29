@@ -3,6 +3,46 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/guides/procedural-howto/wica-claim-step-by-step-overview",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom",
+      "permanent": true
+    },
+    {
+      "source": "/guides/procedural-howto/wica-claim-step-by-step-overview/",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom",
+      "permanent": true
+    },
+    {
+      "source": "/procedural-howto/wica-claim-step-by-step-overview",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom",
+      "permanent": true
+    },
+    {
+      "source": "/procedural-howto/wica-claim-step-by-step-overview/",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom",
+      "permanent": true
+    },
+    {
+      "source": "/guides/procedural-howto/cancel-policy-mid-term",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore",
+      "permanent": true
+    },
+    {
+      "source": "/guides/procedural-howto/cancel-policy-mid-term/",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore",
+      "permanent": true
+    },
+    {
+      "source": "/procedural-howto/cancel-policy-mid-term",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore",
+      "permanent": true
+    },
+    {
+      "source": "/procedural-howto/cancel-policy-mid-term/",
+      "destination": "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore",
+      "permanent": true
+    },
+    {
       "source": "/guides/regulatory-change/scdf-fc-36-month-renewal-2026",
       "destination": "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026",
       "permanent": true

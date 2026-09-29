@@ -8,217 +8,127 @@ industries: []
 agencies: ["MOM", "Singapore Statutes"]
 article_number: 341
 published: "2026-05-06"
-source_verified: "2026-05-06"
-updated: "2026-08-30"
-word_count: 1551
+source_verified: "2026-09-29"
+updated: "2026-09-29"
+word_count: 1494
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom"
-meta_description: "The Singapore WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage."
+meta_description: "The Singapore WICA claim process for employers: medical care, incident reporting, insurer notice, compensation, objections and payment."
 og_title: "How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers"
-og_description: "The Singapore WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage."
+og_description: "The Singapore WICA claim process for employers: medical care, incident reporting, insurer notice, compensation, objections and payment."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> When an employee suffers a work-related injury or contracts an occupational disease in Singapore, the employer must file a Work Injury Compensation claim with the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). The procedure: (1) immediate medical care for the injured worker, (2) employer's incident report submission via [MOM iReport portal](https://www.mom.gov.sg/eservices/services/employers-report-of-accident) within **10 days** of injury causing more than 3 days medical leave or hospitalisation of at least 24 hours (or **immediately** if fatal), (3) notification to the WICA designated insurer, (4) MOM assessment and computation of compensation, (5) Notice of Assessment issued to all parties, (6) **insurer payment within 21 days** of Notice of Assessment unless objection filed. Compensation framework (the higher limits that took effect for accidents on or after **1 November 2025**): medical expenses up to **SGD 53,000 or one year** from accident date (whichever is earlier), permanent incapacity from **SGD 116,000 to SGD 346,000**, death from **SGD 91,000 to SGD 269,000**. WICA cover is mandatory; employers without cover face fines up to **SGD 10,000** and/or 12 months' imprisonment. Cover must be from a [WICA designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf).
+> After a work injury, arrange medical care, record the incident, report it through the WSH Incident Reporting eService and notify the designated insurer. MOM requires a report for every work injury involving any medical leave, light duty or hospitalisation within [10 days from the employer first receiving notice of the accident](https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting/what-and-when-to-report). For a fatal accident, notify MOM as soon as possible and submit the accident report within [10 days from the accident](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim).
+>
+> For policies starting from [1 January 2021](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim), the designated insurer calculates compensation and issues a Notice of Computation. For earlier policies, MOM calculates compensation and issues a Notice of Assessment. A party has [14 days after service of either notice](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/disputing-a-claim) to object. If no one objects, compensation is payable within [21 days from service of the notice](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim).
 
 ### The Sourced Detail
 
-The WICA claim process is one of the most specifically prescribed procedures in Singapore SME insurance practice. Procedural failures (late reporting, incomplete documentation, no designated insurer cover) materially affect both employer compliance position and worker outcomes. The full procedural framework integrates statute, regulation, MOM portal mechanics, and designated insurer obligations.
+The claim process has separate medical, reporting, insurance and payment duties. Treating an insurer notification as the MOM report leaves a compliance gap. Treating the report as the whole claim leaves the worker's wages, medical expenses and compensation process unmanaged.
 
-#### Regulatory framework
+#### Step 1: arrange care and preserve the facts
 
-**Primary statute.** [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) (in force 1 September 2020, replacing the former Work Injury Compensation Act with comprehensive provisions on coverage, claim procedures, designated insurer obligations, and dispute resolution).
+Get the injured employee medical attention. Record the date, time, location, work being performed, injury, witnesses and immediate response. Preserve photographs, relevant equipment records and the employer's first notice of the accident.
 
-**Regulations.** [Work Injury Compensation (Insurance) Regulations 2020](https://sso.agc.gov.sg/SL/WICA2019-S731-2020) and [Work Injury Compensation (Insurance) (Amendment) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S803-2024/Published/20241014).
+The first-notice date matters because it starts the reporting period for a non-fatal accident. Keep the original medical certificates, light-duty instructions and hospital documents. Continue updating the incident record when further medical leave or light duty is issued.
 
-**Administering agency.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) - Work Injury Compensation Branch handles claim assessments and Notice of Assessment issuance.
+#### Step 2: report every qualifying work injury
 
-**Designated insurer scheme.** Under WICA, employers must obtain WICA cover only from MOM-designated insurers. MOM publishes and periodically updates the [list of designated insurers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) - a range of established general insurers participate. Because the list is updated from time to time, employers should check it directly with MOM before procuring or renewing cover.
+MOM's [current reporting rule](https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting/what-and-when-to-report) covers every work injury where the employee receives any medical leave, light duty or hospitalisation. Submit the report within 10 days from the date the employer first had notice of the accident. The old threshold of more than three medical-leave days or at least 24 hours of hospitalisation no longer applies.
 
-**Coverage requirement.** Mandatory for: (i) all manual workers regardless of salary, (ii) non-manual workers earning **SGD 2,600 or below per month**.
+For a fatal accident, [notify MOM as soon as possible and report it within 10 days](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim). Do not wait for a death certificate, insurer response or completed internal investigation before making the required notification.
 
-#### The claim procedure step-by-step
+Use the WSH Incident Reporting eService, which replaced the earlier [iReport online](https://www.mom.gov.sg/faq/ireport) system; some MOM pages still call a report an iReport. Give the facts available and update the report when new medical leave, light duty or material information arrives.
 
-**Step 1 - Immediate medical care and incident response.**
+Since [1 June 2024](https://www.mom.gov.sg/faq/reporting-work-related-accidents/what-are-the-penalties-for-failing-to-report-a-work-related-accident-do-or-od-under-wsh), a first failure-to-report offence carries a fine up to S$10,000. A repeat offence within 5 years carries a fine up to S$20,000, imprisonment for up to 6 months or both.
 
-When workplace injury occurs:
-- Provide immediate medical care to injured worker
-- Preserve incident scene where practical for investigation
-- Photograph injury and scene
-- Identify witnesses; record their accounts
-- Begin internal incident report
+#### Step 3: notify the designated insurer
 
-**Step 2 - Employer's incident report to MOM.**
+Tell the WIC designated insurer about the accident as soon as possible. Provide the incident report, medical documents, employment information, wage records and policy details requested for the claim.
 
-Required filing via [MOM iReport portal](https://www.mom.gov.sg/eservices/services/employers-report-of-accident).
+MOM tells employers to continue paying medical leave wages and medical expenses while waiting for insurer reimbursement. The [employer claim page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim) states that medical leave wages are paid by the next payday after the employer receives the original medical certificates. Medical bills the employee has already paid are reimbursed within 14 days of the employer receiving the original bills.
 
-**Reporting triggers:**
-- Death - **immediately** (within 24 hours)
-- More than 3 days medical leave from work - within **10 days** of accident
-- Hospitalisation of at least 24 hours - within **10 days**
-- Dangerous occurrence (no injury but potential) - within **10 days**
+Check that the policy is an approved policy issued by a designated insurer. The [WICA section 25 offence guide](/document-legal/wica-section-25-offence) explains the separate insurance-duty offence. The [WICA complete guide](/document-legal/wica-complete-guide-singapore-employers) sets out which employees must be insured. A claim still needs to be managed where coverage is missing or disputed.
 
-**Information required for iReport submission:**
-- Employer particulars (UEN, contact)
-- Injured worker particulars (NRIC/FIN, occupation, salary)
-- Accident particulars (date, time, location, description)
-- Injury particulars (body part, nature of injury, treatment)
-- Witness information
-- Initial assessment of cause
+#### Step 4: manage medical evidence and ongoing payments
 
-Late reporting penalty: fine up to **SGD 5,000** for first offence; up to **SGD 10,000 and/or 12 months imprisonment** for repeat offences.
+When the designated insurer or MOM sends a medical report form, check that it names the hospital or clinic treating the employee. Send the form to that hospital or clinic and pay for it. Give a copy of the fee receipt to the designated insurer or MOM, as MOM's [employer claim page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim) asks. Monitor appointments so the medical assessment can proceed.
 
-**Step 3 - Notification to WICA insurer.**
+Medical leave wages cover working days supported by medical leave, hospitalisation leave or light duty from a Singapore-registered doctor or dentist. MOM's [compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) states full average monthly earnings for up to 14 days of outpatient medical leave or light duty and up to 60 days of hospitalisation leave. After the applicable full-rate period, two-thirds of average monthly earnings applies, up to one year from the accident.
 
-Concurrent with MOM reporting:
-- Notify designated insurer of incident
-- Insurer assigns claim number and adjuster
-- Insurer typically requests additional documentation
+Medical expenses for treatment of the work injury are capped at S$53,000 for accidents from 1 November 2025 and S$45,000 for accidents before that date, per MOM's [compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation). Payment stops at that cap or one year from the accident, whichever comes first.
 
-**Step 4 - Medical certification and ongoing documentation.**
+#### Step 5: receive the NOC or NOA
 
-- Worker's medical certificates (MCs) recorded
-- Specialist reports as relevant
-- Worker's ongoing medical treatment records
-- Functional capacity assessments where applicable
+For policies starting from [1 January 2021](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim), the designated insurer calculates the compensation and issues a Notice of Computation to the employer and employee.
 
-**Step 5 - MOM assessment.**
+For policies starting before [1 January 2021](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim), MOM calculates the compensation and issues a Notice of Assessment to the employer, insurer and employee. Read the notice carefully because it states the calculation and objection instructions.
 
-MOM Work Injury Compensation Branch:
-- Reviews accident report and medical evidence
-- Determines whether claim is valid under WICA
-- Assesses degree of incapacity (temporary, permanent partial, permanent total)
-- Applies WICA compensation framework
+The [types of compensation](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) are medical leave wages, medical expenses and lump-sum compensation for permanent incapacity, current incapacity or death.
 
-**Step 6 - Notice of Assessment.**
+#### Step 6: object or pay within the stated period
 
-MOM issues Notice of Assessment specifying:
-- Compensation amount
-- Basis of computation
-- Payment schedule
-- Objection rights
+The employee, employer or insurer can dispute the claim within [14 days from service of the NOC or NOA](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/disputing-a-claim). Submit the objection in the stated form with supporting documents. A permanent-incapacity objection and an objection about whether the injury is work-related follow different review paths.
 
-**Step 7 - Objection period (if applicable).**
+If no one objects, the employer or designated insurer must pay within [21 days from service of the NOC or NOA](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/employers-what-to-do-during-a-claim). After a dispute is resolved, MOM issues a Certificate of Order and the parties have [21 days to pay](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/disputing-a-claim).
 
-Either employer / insurer / worker may object within **14 days** of Notice of Assessment. Objection requires:
-- Written notice
-- Grounds for objection
-- Supporting evidence
+Record the service date, objection deadline, payment deadline and person responsible. Do not calculate the period from an internal forwarding date.
 
-If no objection: Notice becomes final.
+#### Special situations
 
-**Step 8 - Insurer payment.**
+An extended medical certificate does not create the original reporting duty. Any medical leave, light duty or hospitalisation already triggers the rule. Update the existing incident report when further leave or light duty is issued.
 
-Designated insurer must pay within **21 days** of Notice becoming final (no objection or post-objection final decision). Non-payment triggers MOM Court Order for enforcement.
+Where several contractors are involved, identify the actual employer and give the insurer and MOM the contracts, payroll records and supervision facts. Do not delay the incident report while commercial responsibility is debated.
 
-#### The compensation framework
+WIC insurance and foreign-worker medical insurance perform different functions. Keep both policy records where both regimes apply. For serious incidents, coordinate this process with the [worker-fatality response guide](/crisis/worker-fatality-on-site) and any separate workplace-safety investigation.
 
-**Medical expenses.**
-- Reimbursement up to **SGD 53,000** or **1 year from accident date** (whichever earlier)
-- Includes: hospital bills, surgery, medication, physiotherapy, prosthetics, mental health treatment where applicable
+## Common Mistakes
 
-**Temporary incapacity (medical leave wages).**
-- Days 1-14: full average monthly earnings
-- Days 15+: two-thirds of average monthly earnings
-- Maximum total period: as medically certified
+1. **Waiting for more than three medical-leave days.** Any medical leave, light duty or hospitalisation triggers the current reporting rule.
 
-**Permanent incapacity.**
-- Compensation calculated from average monthly earnings × age multiplier × incapacity percentage
-- Range: **SGD 116,000 (minimum) to SGD 346,000 (maximum)**
-- Lump-sum payment
+2. **Looking for the old iReport system.** Reports go through the WSH Incident Reporting eService, which replaced it.
 
-**Death.**
-- Compensation: **SGD 91,000 to SGD 269,000** depending on age and dependants
-- Dependants entitled to compensation distribution per Schedule
+3. **Reporting only to the insurer.** The MOM incident report and insurer notification are separate steps.
 
-**Funeral expenses.**
-- Reimbursement up to **SGD 10,000** for fatal accidents
+4. **Saying MOM always issues the assessment.** The policy start date determines whether the designated insurer issues an NOC or MOM issues an NOA.
 
-#### Common procedural failures
+5. **Starting the reporting clock at the accident date for every non-fatal case.** The current non-fatal rule runs from the employer's first notice.
 
-**Failure to report within 10 days.** The 10-day clock starts at accident date, not at MC issuance. Many employers wait until first MC arrives - by then several days have elapsed.
+6. **Waiting for an extended medical certificate.** The first qualifying medical leave or light duty already triggers reporting.
 
-**Reporting only to insurer, not MOM.** Common error among smaller employers who assume insurer notification suffices. MOM iReport submission is independent statutory obligation.
+7. **Missing the service date.** Objection and payment periods run from service of the notice.
 
-**Underreporting injury severity.** Employer underestimates worker's MC duration; reports it as minor incident. Subsequent extended MC creates retrospective reporting obligation; MOM views late upgrade unfavourably.
+8. **Stopping employee payments while waiting for the insurer.** The employer continues the payments MOM requires and seeks reimbursement afterward.
 
-**Cover not from designated insurer.** Employer purchased general "PA cover" from non-designated insurer believing it satisfies WICA. Does not. Employer faces uninsured exposure.
+## What This Means for Your Business
 
-**Foreign worker MI confusion.** Foreign worker WICA cover and Foreign Worker Medical Insurance (FWMI) are distinct products with different legal bases; some employers conflate them.
+Give one person ownership of the incident report and another ownership of the claim calendar. The file should show first notice, report submission, insurer notification, medical documents, payments, service of the NOC or NOA, objection status and final payment.
 
-**Failure to disclose pre-existing conditions.** During MOM assessment, undisclosed pre-existing conditions complicate causation analysis.
+Train supervisors to escalate every work injury that produces medical leave, light duty or hospitalisation. They do not decide whether the injury is serious enough to report.
 
-#### Special scenarios
+Keep the current eService access and designated-insurer contacts ready before an accident. A procedure that depends on finding credentials or policy details after an injury wastes the reporting period.
 
-**Worker dies before claim resolution.** Compensation passes to dependants per WICA Schedule.
+## Questions to Ask Your Adviser
 
-**Worker disputes employer's report.** Worker can file separate notification to MOM; both versions assessed.
-
-**Multiple employers involved.** For sub-contractor / labour-supply scenarios, primary employer determination required; MOM applies WICA Section 4 framework.
-
-**Occupational disease vs accident.** Different procedural framework for occupational diseases (e.g., noise-induced hearing loss, chemical exposure); reporting still via iReport but with disease-specific evidence.
-
-### Common Mistakes / What Goes Wrong
-
-1. **Late iReport submission.** Beyond 10-day window without exceptional circumstances; penalty exposure attaches.
-
-2. **Reporting only to insurer.** MOM iReport submission omitted; statutory obligation breached.
-
-3. **Cover from non-designated insurer.** Cover does not satisfy WICA mandatory requirement.
-
-4. **Manual vs non-manual classification error.** Worker classified as non-manual to avoid mandatory cover; subsequent injury triggers uninsured exposure.
-
-5. **Pre-existing condition non-disclosure during assessment.** Complications when discovered during MOM review.
-
-6. **Underestimating MC duration.** Initial report based on first MC; subsequent extension creates compliance issue.
-
-7. **No incident scene preservation.** Subsequent MOM investigation hampered.
-
-8. **Worker dispute over accident description.** Employer's version contradicted; defence weakened.
-
-9. **Failure to notify designated insurer.** Insurer claim handling delayed.
-
-10. **No internal incident investigation.** Employer cannot demonstrate due diligence; potential WSHA exposure separate from WICA.
-
-### What This Means for Your Business
-
-For Singapore SME employers, WICA compliance is foundational employment-law obligation:
-
-1. **Confirm WICA cover** from a [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) at all times.
-
-2. **Establish iReport user account** for designated HR/safety personnel before any incident.
-
-3. **Internal incident response protocol** with 10-day reporting deadline as anchor.
-
-4. **Coordinate insurer notification** with iReport submission.
-
-5. **Maintain accident logbook** with required information for any near-miss or minor incident.
-
-6. **Train supervisors** on incident response, scene preservation, witness identification.
-
-7. **Distinguish WICA from FWMI** for foreign workers; both required for relevant categories.
-
-8. **Document classification of staff** (manual vs non-manual; salary basis).
-
-9. **Review and update cover** at renewal with current headcount and salary data.
-
-10. **Coordinate with WSHA compliance** - WICA reports often trigger WSHA inspection follow-up.
-
-The cost of WICA compliance failure is substantial: regulatory fine (up to SGD 10,000 first offence), uninsured worker compensation exposure (potentially exceeding employer's working capital), and reputational consequence. Procedural discipline is the foundation.
-
-### Questions to Ask Your Adviser
-
-1. For my workforce composition (manual vs non-manual; salary distribution), is current WICA cover sized and structured correctly?
-2. For incident reporting, do designated personnel have iReport access and trained on the 10-day clock?
-3. For multi-employer scenarios (sub-contractors, labour supply), is primary-employer responsibility clear in advance?
-4. For foreign workers, are WICA and FWMI distinct cover products both in place?
-5. For our current designated insurer, what is the claim notification process and 21-day payment discipline track record?
+1. Who receives our first notice of an accident and who submits the MOM report?
+2. What documents does our designated insurer require immediately after notification?
+3. Does the policy start date place the claim under the NOC or NOA process?
+4. Who tracks the objection and payment deadlines from the notice's service date?
+5. How do we reconcile medical leave wages and medical expenses before insurer reimbursement?
+6. What records are required where employment status or responsibility between contractors is disputed?
 
 ### Related Information
+
+WICA duties and claims:
 - [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
+
+Incident response and renewal:
+- [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 
-*Published 6 May 2026. Source verified 6 May 2026.*
+*Published 6 May 2026. Source verified 29 September 2026.*

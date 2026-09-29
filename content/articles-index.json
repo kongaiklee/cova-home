@@ -2897,7 +2897,7 @@
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 3535,
     "article_number": 406,
-    "updated": "2026-08-30"
+    "updated": "2026-09-29"
   },
   {
     "title": "The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It",
@@ -4341,11 +4341,11 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-06",
-    "meta_description": "The Singapore WICA claim sequence after a workplace injury: medical care, the employer's incident report, and what MOM needs at each stage.",
+    "meta_description": "The Singapore WICA claim process for employers: medical care, incident reporting, insurer notice, compensation, objections and payment.",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1551,
     "article_number": 341,
-    "updated": "2026-08-30"
+    "updated": "2026-09-29"
   },
   {
     "title": "Driving School and Motoring Instructor Insurance: Singapore Operator Framework",
@@ -11124,27 +11124,6 @@
     "updated": "2026-09-11"
   },
   {
-    "title": "How to Cancel a Commercial Insurance Policy Mid-Term",
-    "slug": "/procedural-howto/cancel-policy-mid-term",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "General"
-    ],
-    "industries": [],
-    "agencies": [
-      "Singapore Statutes",
-      "GIA",
-      "LTA"
-    ],
-    "published": "2026-05-04",
-    "meta_description": "You can cancel most Singapore commercial policies mid-term with written notice, but the refund uses short-period rates rather than pro rata.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 995,
-    "article_number": 42,
-    "updated": "2026-08-30"
-  },
-  {
     "title": "How to Switch Insurance Brokers Mid-Policy in Singapore",
     "slug": "/procedural-howto/switch-broker-mid-policy",
     "category": "procedural-howto",
@@ -11323,23 +11302,6 @@
     "word_count": 1077,
     "article_number": 32,
     "updated": "2026-09-29"
-  },
-  {
-    "title": "How to File a WICA Claim - Step by Step (Singapore)",
-    "slug": "/procedural-howto/wica-claim-step-by-step-overview",
-    "category": "procedural-howto",
-    "intent": "get-it-right",
-    "topics": [
-      "Work Injury (WICA)"
-    ],
-    "industries": [],
-    "agencies": [],
-    "published": "2026-05-03",
-    "meta_description": "The employer files the accident report through iReport within ten calendar days and notifies the designated insurer at the same time.",
-    "hero_image": "/assets/blog/procedural-howto.jpg",
-    "word_count": 1260,
-    "article_number": 31,
-    "updated": "2026-08-30"
   },
   {
     "title": "When Must a PE Firm Carry Professional Indemnity Under the Professional Engineers Act?",
