@@ -47,7 +47,7 @@ Insurance brokers in Singapore are regulated under the Insurance Act 1966 and mu
 **Step 6 - Wait for renewal for substantive changes.** Mid-term, the new broker can service claims, issue endorsements and prepare the renewal strategy, but premium adjustments before the BOR effective date are the incumbent's responsibility (Chubb, point 9). The cleanest moment to switch is at renewal - no straddle on commission and a clean reunderwrite.
 
 ### Common Mistakes
-1. **Confusing broker switch with insurer switch.** Changing broker keeps your insurer, premium and policy unchanged. Switching insurer is a different decision and may involve short-period cancellation penalties (see Article 42).
+1. **Confusing broker switch with insurer switch.** Changing broker keeps your insurer, premium and policy unchanged. Switching insurer is a different decision and may involve [short-period cancellation penalties](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore).
 2. **Signing a BOR while still shopping.** Once signed and accepted by the insurer, the incumbent's authority ends. If you weren't ready, you may be stuck with the new broker for that line.
 3. **Mid-term BOR for renewal quotation.** Per Chubb's BOR guidelines: "A Broker of Record Letter should not be used for obtaining a renewal quotation." Use a separate one-line authorisation letter for that.
 4. **Backdating.** Chubb's guidelines explicitly prohibit it.

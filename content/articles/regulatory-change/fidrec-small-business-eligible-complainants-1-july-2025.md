@@ -258,7 +258,7 @@ The expansion of FIDReC jurisdiction to SMEs represents material improvement in 
 
 ### Related Information
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
-- /document-legal/financial-services-and-markets-act-singapore
+- [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
 - [Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025](/regulatory-change/insurance-amendment-act-fima-2024)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

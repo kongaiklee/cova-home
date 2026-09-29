@@ -21,7 +21,7 @@ og_description: "A Singapore pre-owned luxury reseller holds high-value stock it
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore second-hand luxury reseller (pre-owned watches, bags, sneakers, jewellery, fashion) typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); registration as a second-hand goods dealer with the [Singapore Police Force (SPF)](https://www.police.gov.sg/) under the [Second-Hand Goods Dealers Act 2007](https://sso.agc.gov.sg/Act/SHGDA2007); a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate; and [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** (S$1M-S$3M typical); **Property/Fire** for premises - but note that standard policies carry low sub-limits and exclusions for jewellery, watches, and designer goods, so **All Risks Stock cover** with explicitly declared high-value inventory is usually essential; **Money / Crime** with explicit theft cover at retail and storage locations; **Cyber Liability** for customer data and authentication records; **Professional Indemnity** for authentication services; and **Goods in Transit** for inventory movements. The most distinctive risks: **theft of high-value inventory**, and **authentication-related disputes** - the latter increasingly material as the resale market matures and counterfeiting grows more sophisticated.
+> A Singapore second-hand luxury reseller (pre-owned watches, bags, sneakers, jewellery, fashion) typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); registration as a second-hand goods dealer with the [Singapore Police Force (SPF)](https://www.police.gov.sg/) under the [Second-Hand Goods Dealers Act 2007](https://sso.agc.gov.sg/Act/SHGDA2007); a [SCDF](https://www.scdf.gov.sg/) [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate); and [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** (S$1M-S$3M typical); **Property/Fire** for premises - but note that standard policies carry low sub-limits and exclusions for jewellery, watches, and designer goods, so **All Risks Stock cover** with explicitly declared high-value inventory is usually essential; **Money / Crime** with explicit theft cover at retail and storage locations; **Cyber Liability** for customer data and authentication records; **Professional Indemnity** for authentication services; and **Goods in Transit** for inventory movements. The most distinctive risks: **theft of high-value inventory**, and **authentication-related disputes** - the latter increasingly material as the resale market matures and counterfeiting grows more sophisticated.
 
 ### The Sourced Detail
 
@@ -212,7 +212,7 @@ The pre-owned luxury insurance build is moderate-to-substantial in cost, reflect
 
 ### Related Information
 - [Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore](/edge-case/pet-grooming-boutique-pet-services-insurance)
-- /procedural-howto/cargo-claim-process
+- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Fine Art and Artwork Insurance for Singapore Businesses](/document-legal/fine-art-insurance-business-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

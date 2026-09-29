@@ -164,10 +164,10 @@ The penalty for failing to maintain insurance is set out directly at WICA 2019 s
 
 ### Related Information
 
-- [Article 401 - The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [Article 404 - How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore)
-- [Article 405 - The Mid-Term Policy Endorsement Workflow for Singapore SMEs](/procedural-howto/mid-term-endorsement-workflow-sme-singapore)
-- [Regulatory Change: WICA Limit Increases Effective 1 November 2025](/regulatory-change/wica-2025-limit-increase-claim-patterns)
+- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore)
+- [The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It](/procedural-howto/mid-term-endorsement-workflow-sme-singapore)
+- [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 
 ---
 

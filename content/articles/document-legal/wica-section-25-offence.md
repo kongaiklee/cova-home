@@ -152,6 +152,6 @@ The cost of compliance is small (annual premium plus administration). The cost o
 ### Related Information
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
-- /document-legal/wica-2019-section-24-duty-to-insure
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

@@ -83,9 +83,9 @@ If you operate a ride-hail or delivery platform, three implications stand out.
 5. Have we updated our platform Terms of Service to reflect mandatory WIC insurance and PWA recognition?
 
 ## Related Information
-- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
-- [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [Workplace Fairness Act 2025 - EPLI Implications](/regulatory-change/wfa-2024)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Workplace Fairness Act 2025: EPLI Implications for Singapore SMEs](/regulatory-change/wfa-2024)
 
 ---
 

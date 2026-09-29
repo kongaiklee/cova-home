@@ -114,7 +114,7 @@ Covarage helps with the part that quietly goes wrong here: keeping the PAR and E
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 - [Equipment Breakdown Claim Process: Specialty Cover for Mechanical and Electrical Failures](/procedural-howto/equipment-breakdown-claim-process)
-- [Critical Equipment Just Broke and Halted Our Production: What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
+- [Critical Equipment Just Broke and Halted Our Production - What Do I Do Now?](/crisis/equipment-breakdown-halts-production)
 - [Cold Chain Logistics and Temperature-Controlled Storage Insurance: Singapore Operator Framework](/edge-case/cold-chain-temperature-controlled-logistics)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

@@ -3,7 +3,7 @@ title: "BCA Contractors Registration System Evolution 2024-2026: What Singapore 
 slug: "/regulatory-change/bca-crs-workhead-evolution-construction-insurance"
 category: "regulatory-change"
 intent: "know-where-you-stand"
-topics: ["Work Injury (WICA)", "Foreign Workers", "Professional Indemnity"]
+topics: ["Construction", "Work Injury (WICA)", "Foreign Workers"]
 industries: ["Construction"]
 agencies: ["BCA", "Singapore Statutes"]
 article_number: 265
@@ -29,7 +29,7 @@ The BCA Contractors Registration System is the operational gatekeeper for Singap
 
 #### What changed and why it matters
 
-**5 March 2024 announcement and 1 June 2025 expansion.** BCA announced that from 1 June 2025, CRS would become a nation-wide registry. The substantive effect: a private-sector sub-contractor SME with foreign Work Permit or S Pass construction workers, historically outside the CRS perimeter, must register from the implementation date.
+**5 March 2024 announcement and 1 June 2025 expansion.** BCA announced that from 1 June 2025, CRS would become a nation-wide registry. The substantive effect: a private-sector sub-contractor SME with foreign Work Permit or S Pass construction workers, historically outside the CRS perimeter, must register from the implementation date. What registering first means for the work-permit application, and for the work injury insurance, medical insurance and security bond that follow each worker, is in [CRS registration before hiring Work Permit holders](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025).
 
 The policy rationale is to bring all construction firms employing foreign workers within a uniform productivity, safety, and standards framework. The pre-2025 division between "public-sector contractors (CRS-registered)" and "private-sector sub-contractors (often unregistered)" had produced uneven safety and productivity standards.
 
@@ -164,12 +164,12 @@ For an SME at the threshold of a grade uplift, the practical question is whether
 
 ### Related Information
 
-- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 267 - MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
-- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 388 - PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 1 - SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
-- [Article 2 - BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

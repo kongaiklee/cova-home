@@ -21,7 +21,7 @@ og_description: "Singapore's MOM sends the renewal letter about eight weeks befo
 
 ### The Answer in 60 Seconds
 
-> Per the Ministry of Manpower (mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/renew-a-work-permit), MOM sends a renewal letter approximately **8 weeks before** the FDW's Work Permit expires. Before renewing, the employer must purchase (or extend) medical insurance with at least **S$60,000 annual coverage**, personal accident insurance with **S$60,000 sum assured**, and a S$5,000 security bond for non-Malaysian helpers. The insurer transmits these details to MOM (typically 1-3 working days), then the employer renews via WP Online / FDW eService for a S$35 fee. Per MOM's 31 March 2023 press release, **policies with a start date on or after 1 July 2025** must comply with Stage 2 enhancements: standardised exclusion clauses, age-differentiated premiums (split at age 50), and direct hospital reimbursement.
+> Per the Ministry of Manpower (mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/renew-a-work-permit), MOM sends a renewal letter approximately **8 weeks before** the FDW's Work Permit expires. Before renewing, the employer must purchase (or extend) medical insurance with at least **S$60,000 annual coverage**, personal accident insurance with **S$60,000 sum assured**, and a S$5,000 security bond for non-Malaysian helpers. The insurer transmits these details to MOM (typically 1-3 working days), then the employer renews via WP Online / FDW eService for a S$35 fee. Per MOM's 31 March 2023 press release, **policies with a start date on or after 1 July 2025** must comply with [Stage 2 enhancements](/regulatory-change/fdw-stage-2-2025): standardised exclusion clauses, age-differentiated premiums (split at age 50), and direct hospital reimbursement.
 
 ### The Step-by-Step
 
@@ -77,9 +77,9 @@ The one risk that never goes away: under the Employment of Foreign Manpower Act,
 5. If my helper turns 50 mid-policy, will the next renewal step up the premium, and by how much?
 
 ### Related Information
-- FDW insurance Stage 2 enhancements (1 July 2025): full breakdown
-- Foreign Worker Security Bond: how it works
-- Employer duties under the Employment of Foreign Manpower Act
+- [FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
+- [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
+- [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

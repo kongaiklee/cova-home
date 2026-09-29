@@ -105,7 +105,6 @@ If a contract counterparty insists on terminology that your policy cannot match 
 
 ### Related Information
 - [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
-- /document-legal/cross-liability-explained
 - [Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

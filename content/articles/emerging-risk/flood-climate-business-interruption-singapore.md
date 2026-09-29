@@ -72,7 +72,7 @@ The features that decide whether BI helps after a flood are:
 
 - **The damage trigger.** BI normally responds only if the underlying physical damage is itself covered. If flood is excluded or sub-limited on the property section, the BI section that sits on top of it inherits the same gap. Flood-driven BI fails most often not because the BI wording is wrong, but because the flood peril underneath it was never properly insured.
 - **The indemnity period.** BI pays for a defined maximum period, the indemnity period, while the business recovers. Choose it too short and cover stops before trade returns to normal. A flooded F&B unit needing cleanup, equipment replacement, and re-fit can run past a thin indemnity period.
-- **Gross profit basis.** BI is usually written on a gross-profit definition, and getting that figure right matters for the same reason sum insured matters on property: understate it and the settlement shrinks.
+- **Gross profit basis.** BI is usually written on a [gross-profit definition](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore), and getting that figure right matters for the same reason sum insured matters on property: understate it and the settlement shrinks.
 - **The waiting period.** Many BI sections apply a time excess before cover begins. A flash flood that closes you for a few days can fall close to, or inside, that waiting period.
 
 The full mechanics of BI, indemnity periods, and the contingent extensions live in the supporting guides. For SMEs, the headline is simpler: insuring the building without insuring the income is the most common way a flood loss ends up half-covered.
@@ -121,7 +121,7 @@ PUB's flood-management work and the broader trend toward heavier rainfall are th
 - [Supply-Chain Disruption and Contingent Business Interruption: What Singapore SMEs Miss](/emerging-risk/supply-chain-contingent-business-interruption-singapore)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
-- [How to File a Property All Risks Claim: Flood and Water Damage](/procedural-howto/flood-water-damage-claim)
+- [How to File a Property All Risks Claim - Flood and Water Damage](/procedural-howto/flood-water-damage-claim)
 - [The Average Clause Explained: Singapore Underinsurance Penalties on Partial Losses](/document-legal/average-clause-underinsurance-singapore)
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)

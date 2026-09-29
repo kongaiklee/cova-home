@@ -9,7 +9,7 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 100
 published: "2026-05-04"
 source_verified: "2026-05-04"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1664
 status: "published"
 hero_image: "/assets/blog/association.jpg"
@@ -21,7 +21,7 @@ og_description: "A BCA financial grade sets your tendering ceiling and the workh
 
 > **The Answer in 60 Seconds**
 >
-> The [Building and Construction Authority (BCA) Contractors Registration System (CRS)](https://www1.bca.gov.sg/procurement/contractors-registration-system-crs) is the official register of construction-related contractors in Singapore. Registration is required for contractors tendering for public sector projects and is a common pre-qualification standard in private sector work. CRS classifies contractors across **workhead categories** (CW for Construction Workheads, ME for Mechanical & Electrical, FM for Facilities Management, SY for Supply, etc.) and **financial grades** (typically L1-L6 for construction; LB1-LB2 for specialist; reflecting tendering capacity). Each workhead has insurance, licensing, and capability requirements. Registration is not insurance per se but drives insurance requirements through tender conditions, contract requirements, and BCA's own minimum standards. Verify current requirements directly on the BCA portal before placing cover.
+> The [Building and Construction Authority (BCA) Contractors Registration System (CRS)](https://www1.bca.gov.sg/procurement/contractors-registration-system-crs) is the official register of construction-related contractors in Singapore. Registration is required for contractors tendering for public sector projects and is a common pre-qualification standard in private sector work. Since 1 June 2025 a firm must also [register with CRS before it can hire construction Work Permit or S Pass holders](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025), whether or not it tenders for public work. CRS classifies contractors across **workhead categories** (CW for Construction Workheads, ME for Mechanical & Electrical, FM for Facilities Management, SY for Supply, etc.) and **financial grades** (A1 to C3 for CW01 and CW02; L6 to L1, or a single grade, for CR and ME workheads; each grade carries a tendering limit). Each workhead has insurance, licensing, and capability requirements. Registration is not insurance per se but drives insurance requirements through tender conditions, contract requirements, and BCA's own minimum standards. Verify current requirements directly on the BCA portal before placing cover.
 
 ### The Sourced Detail
 
@@ -97,6 +97,7 @@ Higher grades require demonstration of:
 Different workheads carry different risk profiles and insurance expectations:
 
 **General building (CW01) and Civil Engineering (CW02):**
+- What BCA asks of CW01 and CW02 firms, grade by grade: [CW01 and CW02 requirements and tendering limits](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
 - High-value, multi-year projects
 - Significant WICA exposure (manual workers throughout chain)
 - Material PL exposure (third parties on/around site)
@@ -105,6 +106,7 @@ Different workheads carry different risk profiles and insurance expectations:
 - D&O for incorporated contractors at scale
 
 **Mechanical & Electrical (ME):**
+- The cover an ME contractor carries: [ME workhead insurance requirements](/licensing/bca-me-workhead-contractor-insurance-requirements)
 - Specialist liability for system performance
 - PI for design components
 - WICA for installation crews
@@ -123,7 +125,7 @@ Different workheads carry different risk profiles and insurance expectations:
 - Cross-border project considerations sometimes
 
 **Construction-Related (CR):**
-- Workhead-specific exposures - see [Article 21](/licensing/bca-cw01-cw02-contractor-insurance-requirements) on CW01/CW02, [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements) on ME workheads, and dedicated articles on individual workheads
+- Workhead-specific exposures
 
 **Facilities Management (FM):**
 - Long-term service exposure
@@ -315,8 +317,11 @@ For established contractors, CRS is foundation - the strategic question is grade
 5. If an adverse event affects my CRS standing, how does my insurance respond to associated claims?
 
 ### Related Information
-- /decision-tree/opening-construction-firm-checklist
-- /association/scal-slots-certification
-- /document-legal/wsha-section-48-personal-liability
+- [What Insurance Do BCA CW01 and CW02 Contractors Actually Need?](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
+- [BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture](/document-legal/construction-insurance-complete-guide-singapore)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

@@ -9,14 +9,14 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 177
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1100
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-faa-n16-n20-updates"
-meta_description: "Two MAS Notices decide what a licensed adviser must tell you and when. Where FAA-N16 and FAA-N20 now stand, and the protection they put behind advice."
+meta_description: "FAA-N20 ties an adviser's pay to the quality of advice, not sales alone, and requires an independent sales audit. What it and FAA-N16 mean for an SME."
 og_title: "MAS Notice FAA-N16 and FAA-N20 Updates: What Singapore SMEs Need to Know"
-og_description: "Two MAS Notices decide what a licensed adviser must tell you and when. Where FAA-N16 and FAA-N20 now stand, and the protection they put behind advice."
+og_description: "FAA-N20 ties an adviser's pay to the quality of advice, not sales alone, and requires an independent sales audit. What it and FAA-N16 mean for an SME."
 ---
 
 > **The Answer in 60 Seconds**
@@ -34,7 +34,7 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001):
 **Specific MAS Notices issued under FAA:**
 
 - FAA-N01: Operational scope
-- FAA-N02: Introducer arrangements (see [Article 168](/comparison/faa-n02-introducer-vs-fa-broker))
+- FAA-N02: Introducer arrangements (see [what MAS Notice FAA-N02 requires of introducers](/regulatory-change/mas-faa-n02-introducer-licence-requirements))
 - FAA-N03: Operational scope
 - FAA-N04: Operational scope
 - Specific other notices per FAA framework
@@ -48,6 +48,8 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001):
 - Operational operational standards
 
 #### FAA-N16 - Recommendations on investment products
+
+What the notice requires of an adviser, and how a breach is proved, is explained in full in [the FAA-N16 reasonable basis duty](/document-legal/faa-n16-reasonable-basis).
 
 **Foundation framework:**
 
@@ -305,6 +307,6 @@ The MAS Notice framework establishes specific advisory conduct standards. SMEs t
 ### Related Information
 - [FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation](/comparison/faa-n02-introducer-vs-fa-broker)
 - [FAA Section 27: The Suitability Assessment Obligation Behind Every Insurance Recommendation](/document-legal/faa-section-27-suitability-assessment)
-- /procedural-howto/insurance-procurement-process
+- [MAS Notice FAA-N16: The "Reasonable Basis for Recommendation" Duty Explained](/document-legal/faa-n16-reasonable-basis)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -102,6 +102,8 @@ Examine current policy for:
 - Open claim implications
 - Specific cover-line provisions
 
+Each of these is explained in [how to cancel a commercial insurance policy mid-term](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore).
+
 **Step 2 - Obtain new insurer's quote.**
 
 Quote must be specifically structured for mid-term inception:
@@ -254,7 +256,7 @@ The cost of mid-term switching errors is substantial - coverage gaps creating un
 ### Related Information
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 - [How to Add an Additional Insured to a Singapore Commercial Policy](/procedural-howto/how-to-add-additional-insured-singapore-policy)
-- /comparison/broker-vs-direct-insurer-comparison
+- [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

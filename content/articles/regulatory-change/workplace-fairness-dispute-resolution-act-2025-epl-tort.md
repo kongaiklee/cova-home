@@ -172,11 +172,11 @@ For SMEs below 25 employees, the TGFEP framework continues to apply. The underly
 
 ## Related Information
 
-- [EPL Standalone vs Bundled within Management Liability for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme) (article 391)
-- [D&O vs PI vs EPL Coordination](/comparison/do-vs-pi-vs-epl-coordination)
-- [EPL Discrimination Claim Process](/procedural-howto/epl-discrimination-claim-process)
-- [Composite Management Liability Package vs Standalone Modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme) (article 393)
-- [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
+- [EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
+- [EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution](/procedural-howto/epl-discrimination-claim-process)
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

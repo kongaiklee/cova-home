@@ -149,8 +149,8 @@ Three near-term developments will reshape the Singapore SME landscape.
 5. As Copyright Act jurisprudence develops, what is your protocol for reviewing our cover's continued fit?
 
 ### Related Information
-- [AI-Generated Content, Copyright and IP Infringement: What Singapore SMEs Actually Face](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
-- [AI Hallucinations in Professional and Advisory Services: The Singapore PI Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
+- [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
+- [AI Hallucinations in Professional and Advisory Services: The Singapore Professional Indemnity Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
 - [AI Vendor Procurement for Singapore SMEs: The Indemnity Clause That Actually Matters](/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme)
 
 *Published 22 May 2026. Source verified 22 May 2026.*

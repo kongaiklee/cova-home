@@ -24,7 +24,7 @@ og_description: "A fire safety certificate in Singapore is applied for once, by 
 >
 > A Fire Safety Certificate (FSC) is applied for once, after the fire safety works of a project are complete, by your Qualified Person on your behalf. [Section 60 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993?ProvIds=pr60-) requires any person for whom fire safety works have been carried out and completed to apply to the Commissioner and obtain a fire safety certificate for those works. [SCDF](https://www.scdf.gov.sg/fire-safety-services-listing/plans-submission-process/fire-safety-certificate-temporary-fire-permit) requires the FSC before the premises are used or occupied, charges no fee for the application, and responds within three working days of a submission through CORENET.
 >
-> The FSC is not the Fire Certificate (FC). The FC is a separate, recurring certificate under [section 35 of the Act](https://sso.agc.gov.sg/Act/FSA1993?ProvIds=pr35-) for designated premises such as public buildings with more than 200 occupants, large industrial buildings and hospitals. [SCDF's Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate) sets the FC's validity at 12 months, and at 36 months for certificates with a validity start date of 1 April 2026 or later. A business fitting out a unit in a section 35 building needs both: the FSC when the works finish, and the FC for the building.
+> The FSC is not the [Fire Certificate (FC)](/licensing/scdf-fire-safety-certificate-insurance-implications). The FC is a separate, recurring certificate under [section 35 of the Act](https://sso.agc.gov.sg/Act/FSA1993?ProvIds=pr35-) for designated premises such as public buildings with more than 200 occupants, large industrial buildings and hospitals. [SCDF's Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate) sets the FC's validity at 12 months, and at 36 months for certificates with a validity start date of 1 April 2026 or later. A business fitting out a unit in a section 35 building needs both: the FSC when the works finish, and the FC for the building.
 
 ### The Sourced Detail
 
@@ -113,7 +113,7 @@ The FC is valid for 12 months unless otherwise stated. For FCs with a validity s
 
 The FSC sits on the critical path of any fit-out. The sequence is fixed by the Act and by SCDF's process: approved plans, completed works, RI inspection, QP application, SCDF's response within three working days. A lease that starts its rent-free fit-out clock on handover makes that sequence the business's problem, not the contractor's. Put the QP's plan submission date and the RI's inspection date into the contractor's programme before the lease is signed.
 
-If the building falls within [section 35](https://sso.agc.gov.sg/Act/FSA1993?ProvIds=pr35-), the FC is a second obligation with its own clock: the application within 12 months of CSC or TOP, the PE inspection of the fire safety systems, and renewal two months before expiry ([SCDF](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate)). From 1 April 2026 the renewal cycle moves to three years for new certificates.
+If the building falls within [section 35](https://sso.agc.gov.sg/Act/FSA1993?ProvIds=pr35-), the FC is a second obligation with its own clock: the application within 12 months of CSC or TOP, the PE inspection of the fire safety systems, and renewal two months before expiry ([SCDF](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate)). From 1 April 2026 the [FC renewal cycle moves to three years](/regulatory-change/scdf-fc-3-year-2026) for new certificates.
 
 Your property policy is a separate question. Read the policy schedule and conditions for any warranty or condition that refers to fire safety certificates, fire certificates or the maintenance of fire safety systems, and put the FC's expiry date beside the policy's renewal date in the same record. A licensed intermediary reads the wording against the certificate you hold.
 
@@ -126,10 +126,12 @@ Your property policy is a separate question. Read the policy schedule and condit
 5. The FC moves to a three-year cycle from 1 April 2026. Does the policy's renewal date need to move with it?
 
 ### Related Information
-- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
 - [Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing](/regulatory-change/fire-code-2023)
 - [Commercial Property and Fire Insurance for Singapore SMEs: The Complete Guide](/document-legal/commercial-property-fire-complete-guide-singapore)
 - [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
 - [Tenant vs Landlord: Who Insures What Under a Commercial Lease in Singapore](/document-legal/tenant-landlord-insurance-responsibilities-commercial-lease-singapore)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
 
 *Published 3 May 2026. Source verified 11 September 2026.*

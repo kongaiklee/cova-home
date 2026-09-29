@@ -82,9 +82,9 @@ The cost of getting this wrong is asymmetric: the marginal premium for adding on
 5. If I hire a platform worker (gig-economy contractor), does my existing policy cover them, or do I need a Platform Workers WIC policy?
 
 ### Related Information
-- How to file a WICA claim - step by step
-- WICA 1 November 2025 changes: what employers need to know
-- Manual vs. non-manual: how MOM classifies work
+- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [WICA Mid-Policy Wage Adjustment Workflow: What Singapore SMEs Must Do When Headcount or Wages Change](/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

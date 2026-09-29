@@ -42,7 +42,7 @@ Per the [MOM announcement of 8 February 2024](https://www.mom.gov.sg/newsroom/pr
 
 ### Who pays the difference
 
-WICA liability sits with the employer. Under WICA 2019, employers must maintain a [Work Injury Compensation Insurance policy issued by an MOM-designated insurer](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/designated-insurer) for all manual workers (regardless of salary) and all non-manual workers earning S$2,600/month or less. Approved WICA 2019 policies must comply with [MOM's compulsory terms](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2020/0807-annex-a-summary-of-regulatory-regime-for-wic-insurers-under-wica-2019.pdf). Because the statutory limits are baked into the compulsory policy wording, existing WICA insurance policies automatically uplift to the new limits for accidents on or after 1 November 2025.
+WICA liability sits with the employer. Under WICA 2019, employers must maintain a [Work Injury Compensation Insurance policy issued by an MOM-designated insurer](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/designated-insurer) for all manual workers (regardless of salary) and all non-manual workers earning S$2,600/month or less. Approved WICA 2019 policies must comply with [MOM's compulsory terms](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2020/0807-annex-a-summary-of-regulatory-regime-for-wic-insurers-under-wica-2019.pdf). Because the statutory limits are baked into the compulsory policy wording, existing [WICA insurance policies](/document-legal/wica-complete-guide-singapore-employers) automatically uplift to the new limits for accidents on or after 1 November 2025.
 
 This is important: SMEs do **not** need to amend their policy wording or buy a new product to capture the higher limits. Insurers update the limits at law. However, premiums may rise at renewal because insurers price to the new exposure.
 
@@ -80,9 +80,10 @@ Third, **clarify your common-law exposure**. WICA caps the no-fault statutory li
 5. Does my current insurer remain on the [MOM-designated list](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) for the renewal period?
 
 ## Related Information
-- [MOM Designated Insurer List 2026 - What's New](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [Platform Workers Act - Full Commencement 1 January 2025](/regulatory-change/pwa-jan-2025)
-- [Workplace Fairness Act 2025 - EPLI Implications](/regulatory-change/wfa-2024)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)
+- [Workplace Fairness Act 2025: EPLI Implications for Singapore SMEs](/regulatory-change/wfa-2024)
 
 ---
 

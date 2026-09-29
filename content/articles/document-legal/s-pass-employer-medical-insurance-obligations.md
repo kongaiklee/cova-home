@@ -86,9 +86,9 @@ A common compliance error worth flagging: failing to renew the medical insurance
 5. If a worker has a serious illness mid-employment, what's my exposure beyond the insurer's S$60k limit?
 
 ## Related Information
-- MOM Work Permit medical insurance: same S$60,000 rule
-- MOM EP holders: why no FWMI applies
-- WICA vs medical insurance: don't confuse them
+- [Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
+- [What Insurance Must Employers Provide for Employment Pass Holders?](/document-legal/employment-pass-holder-insurance-requirements)
+- [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

@@ -226,7 +226,7 @@ The cost of marine insurance compliance failure is substantial - vessel total lo
 
 ### Related Information
 - [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
-- /document-legal/marine-insurance-act-1906-statutory-framework
+- [Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
 - [How to Coordinate a Multi-Policy Insurance Response to a Single Incident](/procedural-howto/how-to-coordinate-multi-policy-single-incident)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

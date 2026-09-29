@@ -204,12 +204,12 @@ The deeper question is whether the cover responds to your actual exposure when a
 
 ## Related Information
 
-- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, EPL Underwriting Impact](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort) (article 386)
-- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme) (article 393)
-- [D&O vs PI vs EPL](/comparison/do-vs-pi-vs-epl)
-- [D&O vs PI vs EPL Coordination](/comparison/do-vs-pi-vs-epl-coordination)
-- [EPL Discrimination Claim Process](/procedural-howto/epl-discrimination-claim-process)
-- [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
+- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
+- [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
+- [EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution](/procedural-howto/epl-discrimination-claim-process)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*

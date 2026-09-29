@@ -164,7 +164,7 @@ Mixed disruption scenarios may benefit from combined structure or specific deduc
 
 The deductible interacts with the BI sum insured:
 
-**Sum insured.** Should reflect annual gross profit (per [Article 159](/comparison/bi-vs-cbi-worked-example)).
+**Sum insured.** Should reflect [annual gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore).
 
 **Indemnity period.** Should reflect realistic operational restoration time.
 
@@ -300,6 +300,6 @@ The BI deductible decision is foundational for cover effectiveness. SMEs that al
 ### Related Information
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
-- /procedural-howto/bi-claim-process
+- [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

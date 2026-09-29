@@ -237,6 +237,7 @@ The cost of unmodelled levy uplift is real but bounded - an SME with 20 S Pass h
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
+- [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 
 *Published 7 May 2026. Source verified 7 May 2026.*
 

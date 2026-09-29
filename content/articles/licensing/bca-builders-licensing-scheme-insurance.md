@@ -87,9 +87,9 @@ Factors that affect your project insurance scope include: contract value, tender
 
 ### Related Information
 
-- [SCAL SLOTS Application: Insurance Requirements](/licensing/scal-slots-application-insurance-requirements)
-- [BCA CRS bizSAFE Level 3 - Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---
 

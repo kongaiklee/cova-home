@@ -93,9 +93,9 @@ If you operate a platform (or are uncertain whether you qualify as one), compani
 
 ### Related Information
 
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [MAS Notice FAA-N02 - Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
-- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [MAS Notice FAA-N02: Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
+- [MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)](/procedural-howto/mas-register-verify-insurance-broker)
 
 ---
 

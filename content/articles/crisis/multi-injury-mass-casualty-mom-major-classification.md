@@ -125,7 +125,7 @@ A multi-casualty workplace event compresses several different operational and st
 **WICA designated insurer (mandatory).**
 - Activated within hour 0-3
 - Covers worker compensation: medical expenses, temporary incapacity, permanent incapacity, death
-- Specific limits per [Article 271](/comparison/claims-made-vs-occurrence-cover): SGD 53,000 medical / SGD 116,000-346,000 PI / SGD 91,000-269,000 death (effective 1 November 2025)
+- Specific limits per [Article 271](/regulatory-change/wica-update-nov-2025): SGD 53,000 medical / SGD 116,000-346,000 PI / SGD 91,000-269,000 death (effective 1 November 2025)
 - Single incident with multiple casualties draws on aggregate cover
 
 **Public liability.**

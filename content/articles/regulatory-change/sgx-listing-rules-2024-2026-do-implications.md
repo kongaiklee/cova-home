@@ -203,12 +203,12 @@ For a Catalist-listed SME approaching the FY2025 disclosure cycle, the immediate
 
 ### Related Information
 
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 394 - Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
-- [Article 393 - Composite Management Liability vs Standalone Modules: Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
-- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 273 - Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Side A Only vs ABC Tower D&O for Singapore SME and Private Companies: A Coverage Structure Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 ---

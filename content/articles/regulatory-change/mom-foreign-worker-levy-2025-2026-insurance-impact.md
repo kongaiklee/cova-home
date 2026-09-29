@@ -25,7 +25,7 @@ og_description: "Foreign worker levy rates, quotas and pass conditions all chang
 
 ### The Sourced Detail
 
-The foreign-worker cost stack for Singapore SME employers is shaped by concurrent regulatory streams: the [Employment of Foreign Manpower Act 1990 (EFMA)](https://sso.agc.gov.sg/Act/EFMA1990) and its subsidiary [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-RG3) administer pass conditions, levies, and insurance requirements; the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) administers statutory work injury compensation (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)); and the upcoming Workplace Fairness Act framework will administer fair employment practices from expected end-2027.
+The foreign-worker cost stack for Singapore SME employers is shaped by concurrent regulatory streams: the [Employment of Foreign Manpower Act 1990 (EFMA)](https://sso.agc.gov.sg/Act/EFMA1990) and its subsidiary [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-RG3) administer pass conditions, levies, and insurance requirements; the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) administers statutory work injury compensation (see [Article 264](/document-legal/wica-complete-guide-singapore-employers)); and the upcoming Workplace Fairness Act framework will administer fair employment practices from expected end-2027.
 
 The reform velocity in 2024-2026 reflects the Singapore government's strategy of progressive upskilling, productivity uplift, and tighter foreign-worker dependence ratios. SMEs in construction, manufacturing, marine shipyard, process, and services sectors face the largest aggregate cost-stack changes.
 
@@ -191,11 +191,12 @@ For SMEs in marine shipyard or process sectors affected by Budget 2026 Basic Ski
 
 ### Related Information
 
-- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 269 - Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 11 - WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
-- [Article 14 - FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
-- [Article 12 - Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)
+- [MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
+- [Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)
+- [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 
 ---

@@ -305,6 +305,8 @@ The cost of bond mismanagement is bounded but real - single forfeiture is SGD 5,
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
+- [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 
 *Published 7 May 2026. Source verified 7 May 2026.*
 

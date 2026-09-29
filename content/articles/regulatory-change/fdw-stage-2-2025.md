@@ -80,9 +80,11 @@ For SMEs and family employers of FDWs, three implications.
 5. How does the policy interact with the personal-accident component, and is there a single-policy bundle versus separate policies?
 
 ## Related Information
-- [Work Permit and S Pass Medical Insurance Enhancement 2025](/regulatory-change/wp-mi-2025)
-- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
-- [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
+- [How to File FDW Medical Claim Direct Hospital Reimbursement](/procedural-howto/fdw-direct-hospital-reimbursement)
+- [Work Permit & S Pass Medical Insurance: Where the Rules Stand in 2025](/regulatory-change/wp-mi-2025)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---
 

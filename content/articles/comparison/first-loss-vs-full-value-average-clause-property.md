@@ -151,11 +151,11 @@ The Singapore statutory disclosure rule (Condition of Average must be disclosed 
 
 ### Related Information
 
-- [Article 274 - Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Article 254 - Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
-- [Article 252 - Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
-- [Article 401 - How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [Article 388 - PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

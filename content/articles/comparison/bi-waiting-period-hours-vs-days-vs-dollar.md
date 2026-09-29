@@ -170,11 +170,11 @@ For SMEs whose business survival depends on speed of cash recovery in the first 
 
 ### Related Information
 
-- [Article 274 - Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [Article 275 - First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
-- [Article 401 - How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [Article 388 - PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
+- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
+- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision](/crisis/ransomware-active-negotiation-phase)
 
 ---

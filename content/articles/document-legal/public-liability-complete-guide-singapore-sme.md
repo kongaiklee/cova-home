@@ -149,9 +149,9 @@ Contracts that require the cover:
 - [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
 
 Claims and process:
-- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
-- [How to File a Public Liability Claim: Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
-- [How to File a Public Liability Claim: Event Slip and Fall](/procedural-howto/pl-claim-event-slip-fall)
+- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
+- [How to File a Public Liability Claim - Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
+- [How to File Public Liability Claim Event Slip And Fall](/procedural-howto/pl-claim-event-slip-fall)
 
 Neighbouring covers and decisions:
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)

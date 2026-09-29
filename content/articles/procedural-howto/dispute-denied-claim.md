@@ -29,7 +29,7 @@ og_description: "To dispute a denied insurance claim, get the denial and its cla
 
 **Step 3 - Internal appeal to the insurer.** Per GIA: "You should then appeal to the Chief Executive of the insurer in writing. You can expect a response to this within 15 business days." Address it to the CEO; cite the denial letter, your factual record, and the policy clauses you rely on. Attach evidence the original adjuster did not consider.
 
-**Step 4 - File with FIDReC if unresolved after 4 weeks.** Per [FIDReC FAQ](https://www.fidrec.com.sg/knowledgebase/article/KA-01013): "If you cannot resolve the matter with your insurer after 4 weeks, you may approach the Financial Industry Disputes Resolution Centre ('FIDReC') for mediation." Filing is free for individuals, sole proprietors, small businesses (turnover ≤ S$1M) and charities. The dispute must be filed within **6 months of the insurer's final reply**.
+**Step 4 - File with FIDReC if unresolved after 4 weeks.** Per [FIDReC FAQ](https://www.fidrec.com.sg/knowledgebase/article/KA-01013): "If you cannot resolve the matter with your insurer after 4 weeks, you may approach the Financial Industry Disputes Resolution Centre ('FIDReC') for mediation." Filing is free for individuals, sole proprietors, small businesses (turnover ≤ S$1M) and charities. The dispute must be filed within **6 months of the insurer's final reply**. The [FIDReC filing procedure for small businesses](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore) covers who qualifies, what to file and what it costs.
 
 **Step 5 - Early Resolution phase (10 business days).** Introduced 1 July 2024: the insurer has 10 business days to settle directly with you before FIDReC starts the formal process.
 
@@ -51,7 +51,7 @@ og_description: "To dispute a denied insurance claim, get the denial and its cla
 ### What This Means for Your Business
 For SMEs, FIDReC is the single most cost-effective route to challenge a denial under S$150,000. It costs S$250 maximum if it goes to adjudication and the insurer is bound by an outcome you accept while you remain free to walk away. The asymmetry favours the complainant.
 
-The most common reason claims are denied is non-disclosure on the proposal form (see Article 50). Build your appeal around evidence that the alleged non-disclosed fact was either (a) not material, (b) actually disclosed in correspondence, or (c) waived by the insurer asking and accepting an answer. Dig out the proposal form, all email exchanges with the broker/insurer at inception, and the policy schedule.
+The most common reason claims are denied is non-disclosure on the proposal form (see [how to complete an insurance proposal form](/procedural-howto/complete-proposal-form)). Build your appeal around evidence that the alleged non-disclosed fact was either (a) not material, (b) actually disclosed in correspondence, or (c) waived by the insurer asking and accepting an answer. Dig out the proposal form, all email exchanges with the broker/insurer at inception, and the policy schedule.
 
 A coverage denial based on an exclusion is harder. Check whether (a) the exclusion is clearly worded - Singapore courts apply the contextual approach to interpretation and ambiguities are construed against the insurer (contra proferentem); (b) any extension or write-back applies.
 

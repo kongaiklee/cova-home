@@ -53,7 +53,7 @@ A bond is not insurance, and the difference is the same one that catches operato
 
 Here is the genuine insurance obligation, and it has nothing to do with the HCSA licence. A nursing home employs people: nurses, healthcare assistants, therapists, kitchen and housekeeping staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which states that "every employer must insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers against all liabilities that the employer may incur under this Act in respect of every employee of the employer".
 
-Care work is physical and exposed: manual handling and lifting of residents, slips, needlestick and sharps injuries, and the musculoskeletal strain that comes with moving dependent patients. Those are exactly the injuries WICA is built to compensate, and the duty to insure is mandatory because you are an employer, not because you hold a healthcare licence. The scope of who must be covered, and the limited excluded classes, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). A nursing home with a full care team will sit squarely inside that duty.
+Care work is physical and exposed: manual handling and lifting of residents, slips, needlestick and sharps injuries, and the musculoskeletal strain that comes with moving dependent patients. Those are exactly the injuries WICA is built to compensate, and the duty to insure is mandatory because you are an employer, not because you hold a healthcare licence. The scope of who must be covered, and the limited excluded classes, is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers). A nursing home with a full care team will sit squarely inside that duty.
 
 #### The cover the licence does not force, but the setting demands
 
@@ -100,9 +100,9 @@ Covarage helps with the part that quietly goes wrong: keeping the licence and it
 5. Are the licence and its conditions, the WICA policy, and our liability and property cover documented somewhere we can produce them at renewal or on an MOH query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
-- [Eldercare Day Centre Insurance in Singapore](/edge-case/eldercare-day-centre)
+- [Eldercare Day Centre or Senior Activity Centre in Singapore: What Insurance Do You Actually Need?](/edge-case/eldercare-day-centre)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

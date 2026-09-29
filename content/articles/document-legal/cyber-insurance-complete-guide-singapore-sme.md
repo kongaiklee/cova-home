@@ -125,14 +125,14 @@ Covarage keeps the moving parts in one place: the cyber policy and its sub-limit
 
 The legal duties that drive the need:
 - [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
-- [PDPA Section 26D Breach Notification: The 3-Day PDPC Clock](/document-legal/pdpa-section-26d-breach-notification)
+- [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
 
 The Cybersecurity Act and CII:
-- [Cybersecurity Act CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/document-legal/cybersecurity-act-cii-designation)
-- [The Cybersecurity Act 2018 (with 2024 Amendments): What CII Owners and Service Providers Need to Know](/document-legal/cybersecurity-act-cii-obligations)
-- [Cybersecurity (Amendment) Act 2024: What Changed](/regulatory-change/cyber-act-2024)
-- [Cybersecurity Act 2024 Amendment: First-Year Compliance Review](/regulatory-change/cybersecurity-act-2024-first-year)
+- [Cybersecurity Act 2018 (Singapore): What Critical Information Infrastructure (CII) Designation Means](/document-legal/cybersecurity-act-cii-designation)
+- [Cybersecurity Act 2018 (with 2024 Amendments): What Singapore CII Owners and Service Providers Need to Know](/document-legal/cybersecurity-act-cii-obligations)
+- [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024)
+- [Cybersecurity Act 2024 Amendment First-Year Compliance Review](/regulatory-change/cybersecurity-act-2024-first-year)
 
 The cover, structure and gaps:
 - [Cyber Notification Cost: In-Limit vs Separate Sub-Limit for Singapore SMEs](/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme)
@@ -141,7 +141,7 @@ The cover, structure and gaps:
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 
 Adjacent regulation:
-- [MAS Guidelines on Outsourcing: Tech E&O and Cyber Implications for SME Vendors](/document-legal/mas-guidelines-on-outsourcing)
-- [Insurance (Amendment) Act and FIMA 2024: What Changed for Policyholders](/regulatory-change/insurance-amendment-act-fima-2024)
+- [MAS Guidelines on Outsourcing: What Replaced Them in December 2024, and What a Vendor to a Bank Now Signs](/document-legal/mas-guidelines-on-outsourcing)
+- [Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025](/regulatory-change/insurance-amendment-act-fima-2024)
 
 *Published 31 May 2026. Source verified 12 September 2026.*

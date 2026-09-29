@@ -256,7 +256,7 @@ The cost of properly structured driving school insurance varies dramatically: PD
 ### Related Information
 - [Specialty Fitness Studio: The Specific Insurance Profile for Yoga, Pilates, CrossFit, Boxing, and Specialty Movement Operations](/edge-case/specialty-fitness-studio-singapore)
 - [Diving School and Scuba Operator Insurance: Singapore Operator Framework](/edge-case/diving-school-scuba-operator)
-- /document-legal/motor-vehicles-third-party-risks-act
+- [Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs](/document-legal/compulsory-motor-insurance-singapore-third-party)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

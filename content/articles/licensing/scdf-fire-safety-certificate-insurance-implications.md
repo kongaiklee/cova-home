@@ -1,5 +1,5 @@
 ---
-title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
+title: "SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses"
 slug: "/licensing/scdf-fire-safety-certificate-insurance-implications"
 category: "licensing"
 intent: "know-where-you-stand"
@@ -9,14 +9,14 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness", "MHA", "MAS"]
 article_number: 10
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1374
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scdf-fire-safety-certificate-insurance-implications"
-meta_description: "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for."
-og_title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
-og_description: "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for."
+meta_description: "Singapore's SCDF Fire Certificate keeps a designated building occupied. Which buildings need one, what the law requires, and what fire insurers ask for."
+og_title: "SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses"
+og_description: "Singapore's SCDF Fire Certificate keeps a designated building occupied. Which buildings need one, what the law requires, and what fire insurers ask for."
 ---
 
 > **The Answer in 60 Seconds**
@@ -32,7 +32,7 @@ SCDF issues two related but distinct certificates, often confused:
 
 **Fire Certificate (FC)** - per the [SCDF FC page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), issued for **continued occupation** of designated buildings under Section 35 of the Fire Safety Act 1993. Renewed periodically, subject to Professional Engineer (PE) inspection of fire safety systems.
 
-This article focuses on the **FC** because it's the recurring obligation that interacts with insurance.
+This article focuses on the **FC** because it's the recurring obligation that interacts with insurance. The FSC application itself is covered in [how to apply for a Fire Safety Certificate (FSC)](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).
 
 #### Which buildings need an FC
 
@@ -53,7 +53,7 @@ Per Section 35 of the Fire Safety Act, no designated building may be occupied or
 Per the SCDF FC page banner: "To help businesses reduce regulatory compliance costs, SCDF will implement three-year Fire Certificate (FC) validity periods for renewal applications from 1 April 2026 onwards."
 
 Before 1 April 2026: 12-month FC validity, annual renewal, annual fees.
-From 1 April 2026: **36-month FC validity** for renewals, with revised application fees payable once every three years when all FC requirements have been complied with. Annual PE inspections still mandatory; SCDF still conducts random audits in non-renewal years.
+From 1 April 2026: **[36-month FC validity for renewals](/regulatory-change/scdf-fc-3-year-2026)**, with revised application fees payable once every three years when all FC requirements have been complied with. Annual PE inspections still mandatory; SCDF still conducts random audits in non-renewal years.
 
 Per the [GoBusiness FC licence directory](https://licensing.gobusiness.gov.sg/licence-directory/scdf/fire-certificate): "Under the current 1-year FC regime, we charge $11 per storey annually for residential buildings and $33 per storey annually for non-residential buildings. With the introduction of a 3-year FC regime, the application fees will be $11 per storey for residential buildings and $36 per storey for non-residential buildings, with certificates valid for up to three years."
 
@@ -108,9 +108,12 @@ Factors that affect Fire / PAR underwriting include: occupancy type (F&B and war
 
 ### Related Information
 
-- [BCA Builders Licensing Scheme - Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
-- [BCA CRS bizSAFE Level 3 - Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
+- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
 
 ---
 

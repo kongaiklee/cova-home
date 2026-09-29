@@ -94,10 +94,10 @@ Covarage helps with the part that quietly slips: keeping the WICA policy, any fo
 5. Are our WICA policy, foreign-worker cover, and group benefits documented somewhere we can produce them at renewal or on a regulator query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
-- [Group Personal Accident vs Group Term Life: Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
 - [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

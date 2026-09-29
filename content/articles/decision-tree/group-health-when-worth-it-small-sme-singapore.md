@@ -31,7 +31,7 @@ Three things get bundled under "staff insurance" in a small SME owner's head: th
 
 #### What the law actually requires, and what it does not
 
-Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for employees within the Act's scope. That is mandatory, and it responds to injury or disease arising out of and in the course of employment. It is not health insurance for the employee's general medical care. The detail of who must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for employees within the Act's scope. That is mandatory, and it responds to injury or disease arising out of and in the course of employment. It is not health insurance for the employee's general medical care. The detail of who must be covered is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 If you hire Work Permit or S Pass holders, you must also arrange the medical insurance the Ministry of Manpower requires for those passes. That too is a compliance obligation tied to the pass, not a staff benefit you chose.
 

@@ -225,7 +225,7 @@ For director duty claims under [Section 157](https://sso.agc.gov.sg/Act/CoA1967)
 
 **WSHA Section 48.**
 
-For workplace safety personal director liability under [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006) (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)):
+For workplace safety personal director liability under [WSHA Section 48](https://sso.agc.gov.sg/Act/WSHA2006) (see [Article 22](/document-legal/wsha-section-48-director-liability)):
 
 - D&O typically responds for personal director exposure
 - Specific coordination with WICA / CW/EL (see [Article 194](/comparison/wica-panel-vs-cw-el-extension))

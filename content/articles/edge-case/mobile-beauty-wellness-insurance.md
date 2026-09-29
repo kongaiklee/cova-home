@@ -21,7 +21,7 @@ og_description: "A mobile beauty or wellness provider works in customers' homes.
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa, beauty-on-demand) typically needs: **Public Liability with worldwide / Singapore-territorial scope** (since the practitioner is operating away from a fixed premises - many SME PLs default to specific premises only), **Treatment Risk / Beauty Therapy Liability** for treatment-related claims (allergic reactions, burns, eye injury from lash extensions, nail damage), **Equipment in Transit / Goods in Transit** for portable equipment and supplies, **Personal Property cover** for items at clients' homes, **WICA** if employing therapists (or appropriate self-employed PA cover for solo practitioners), and **Cyber Liability** for booking platform and customer data. The most distinctive risk: **operating without fixed premises** means standard SME PL with premises endorsement may not respond. Mobile beauty services need specific underwriting; generic SME PL almost always has gaps. For services involving aesthetic devices (LED, microcurrent, RF, laser), specific HSA-aware underwriting applies - see [Article 12](/regulatory-change/pwa-jan-2025).
+> A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa, beauty-on-demand) typically needs: **Public Liability with worldwide / Singapore-territorial scope** (since the practitioner is operating away from a fixed premises - many SME PLs default to specific premises only), **Treatment Risk / Beauty Therapy Liability** for treatment-related claims (allergic reactions, burns, eye injury from lash extensions, nail damage), **Equipment in Transit / Goods in Transit** for portable equipment and supplies, **Personal Property cover** for items at clients' homes, **WICA** if employing therapists (or appropriate self-employed PA cover for solo practitioners), and **Cyber Liability** for booking platform and customer data. The most distinctive risk: **operating without fixed premises** means standard SME PL with premises endorsement may not respond. Mobile beauty services need specific underwriting; generic SME PL almost always has gaps. For services involving aesthetic devices (LED, microcurrent, RF, laser), specific HSA-aware underwriting applies - see [Article 12](/edge-case/medical-aesthetics-injectables-clinics).
 
 ### The Sourced Detail
 
@@ -69,7 +69,7 @@ Platform-engaged practitioners may be:
 - Employees of platform (some models)
 - Hybrid arrangements
 
-WICA classification, see [Article 14](/regulatory-change/fdw-stage-2-2025) on the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024).
+For WICA classification, see [Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025) and the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024).
 
 #### Stage-by-stage insurance build
 
@@ -187,7 +187,7 @@ For mobile services using aesthetic devices (LED therapy, microcurrent, RF, ultr
 
 **HSA registration:**
 - Specific devices require HSA registration
-- See [Article 12](/regulatory-change/pwa-jan-2025) on aesthetic device regulation
+- See [Article 12](/edge-case/medical-aesthetics-injectables-clinics) on aesthetic device regulation
 
 **Specific underwriting:**
 - Higher Treatment Risk Liability rates
@@ -388,8 +388,9 @@ The mobile beauty insurance build is moderate-cost but specific. Generic approac
 5. As I scale (more practitioners, platform partnerships, new services), what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-aesthetic-medspa-checklist
+- [Specialty Medical Aesthetics: The Distinct Insurance Profile for Aesthetic Medicine, Injectables, and Energy-Based Treatments](/edge-case/medical-aesthetics-injectables-clinics)
 - [Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist](/decision-tree/opening-salon-checklist)
 - [Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?](/edge-case/dog-daycare-boarding-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

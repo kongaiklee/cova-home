@@ -153,7 +153,7 @@ The single most expensive mistake in marine cargo is buying the cheapest cover, 
 
 ### Related Information
 - [How to Claim Under Marine Cargo Institute Clauses A](/procedural-howto/marine-cargo-institute-clauses-a-claim)
-- /comparison/marine-cargo-vs-goods-in-transit
-- /document-legal/proximate-cause-marine-insurance
+- [Goods-in-Transit vs Motor Cargo vs Marine Cargo: Which Covers Your Delivery Fleet](/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore)
+- [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

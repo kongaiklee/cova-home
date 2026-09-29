@@ -96,7 +96,7 @@ Covarage helps with the part that quietly slips: keeping the food licence, the W
 - [Singapore Food Agency Licensing Tiers and Insurance Implications](/association/sfa-licensing-tiers-insurance)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist](/decision-tree/opening-full-service-restaurant-checklist)
-- [Food Safety and Security Act 2025 Tranche 1: F&B Product Liability, Recall, and Contamination Cover Implications](/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability)
+- [Food Safety and Security Act 2025 Tranche 1 Effective 28 November 2025: F&B Product Liability, Recall, and Contamination Cover Implications for Singapore SMEs](/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

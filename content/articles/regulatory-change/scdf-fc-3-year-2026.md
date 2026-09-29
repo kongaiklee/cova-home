@@ -1,5 +1,5 @@
 ---
-title: "SCDF Fire Certificate: 36-Month Validity From 1 April 2026"
+title: "SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026"
 slug: "/regulatory-change/scdf-fc-3-year-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
@@ -9,13 +9,13 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness"]
 article_number: 20
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-29"
 word_count: 991
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026"
 meta_description: "New and renewed Singapore Fire Certificates run 36 months from 1 April 2026 instead of 12, with revised fees. What that changes for your file."
-og_title: "SCDF Fire Certificate: 36-Month Validity From 1 April 2026"
+og_title: "SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026"
 og_description: "New and renewed Singapore Fire Certificates run 36 months from 1 April 2026 instead of 12, with revised fees. What that changes for your file."
 ---
 
@@ -26,7 +26,7 @@ og_description: "New and renewed Singapore Fire Certificates run 36 months from 
 
 ## The Sourced Detail
 
-The Fire Certificate (FC) is the SCDF document confirming that a designated building's fire safety systems are correctly maintained. Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), occupying a designated building (offices, shopping complexes, hospitals, industrial buildings, certain residential buildings) without a valid FC is an offence.
+The [Fire Certificate (FC)](/licensing/scdf-fire-safety-certificate-insurance-implications) is the SCDF document confirming that a designated building's fire safety systems are correctly maintained. Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), occupying a designated building (offices, shopping complexes, hospitals, industrial buildings, certain residential buildings) without a valid FC is an offence.
 
 Pre-2026, FCs were renewed annually. SCDF announced the [3-year FC regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf) to reduce administrative burden on compliant building owners while maintaining safety baselines through annual PE inspections and SCDF audits.
 
@@ -85,7 +85,7 @@ If you own or occupy a designated building:
 
 **Set 3 calendar reminders, not 1.** Year 1: PE inspection, FC application/renewal. Year 2: PE inspection, FC Form submission. Year 3: PE inspection, FC Form submission, prepare for FC renewal at year 4. Missing a year-2 or year-3 FC Form could trigger SCDF enforcement.
 
-**Continue providing FC evidence to your insurers annually.** Your insurer's policy terms likely still require annual evidence of compliance regardless of SCDF cycle.
+**Continue providing FC evidence to your insurers annually.** Your insurer's policy terms likely still require annual evidence of compliance at each [fire insurance renewal](/procedural-howto/renew-commercial-fire-insurance), regardless of SCDF cycle.
 
 **Don't defer maintenance to year 3.** Fire pumps, alarm systems, sprinklers, fire doors and emergency lighting all degrade.
 
@@ -98,9 +98,12 @@ If you own or occupy a designated building:
 5. If my FC is revoked and I'm placed back on the 1-year regime, what happens to my insurance terms at the next renewal?
 
 ## Related Information
-- [Fire Code 2023 - Insurance Implications for Retail and F&B](/regulatory-change/fire-code-2023)
-- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
-- [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing](/regulatory-change/fire-code-2023)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
+- [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
 
 ---
 

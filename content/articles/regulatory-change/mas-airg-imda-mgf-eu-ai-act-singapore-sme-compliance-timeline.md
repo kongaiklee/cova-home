@@ -283,14 +283,14 @@ Five practical points.
 7. Where my AI vendor offers indemnification (Adobe Firefly, Microsoft Copyright Commitment, OpenAI Copyright Shield, Anthropic indemnification), how does the indemnity interact with my own insurance - does my insurer require subrogation, and does the vendor's cap (typically fees paid in the prior 12 months) leave a residual gap I should insure?
 
 ## Related Information
-- [Cybersecurity (Amendment) Act 2024](/regulatory-change/cyber-act-2024)
+- [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024)
 - [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
-- [Workplace Fairness Act 2025: EPLI Implications for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
-- [AI Chatbot Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
-- [Autonomous AI Agent Rogue Actions for Singapore SMEs](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
-- [Deepfake Funds-Transfer Fraud for Singapore SMEs](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
-- [AI-Generated Content Copyright/IP Infringement for Singapore SMEs](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
-- [AI Bias in Hiring/Promotion: EPL Claims for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
-- [AI-Generated Code Security Vulnerabilities for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
+- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
+- [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
+- [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
+- [When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
+- [AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
 
 ---

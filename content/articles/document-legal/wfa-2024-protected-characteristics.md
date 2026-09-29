@@ -404,7 +404,7 @@ The WFA represents a structural shift requiring substantive operational adaptati
 ### Related Information
 - [Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know](/regulatory-change/wfa-2024-phase-2-implementation)
 - [Singapore Employment Framework Updates 2026: What Singapore SMEs Need to Know](/regulatory-change/employment-framework-2026-updates)
-- /comparison/epl-vs-do-vs-pi
+- [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

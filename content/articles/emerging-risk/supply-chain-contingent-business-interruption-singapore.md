@@ -37,7 +37,7 @@ This is the gap that catches you if you depend on a small number of suppliers or
 
 Read the business interruption section of your property or fire policy first, because that is where the trigger lives. Its trigger, in the wording in front of you, is built from four elements: physical loss or damage, by an insured peril, at the premises named in the schedule, causing an interruption to the business carried on there. Take away any one of those elements and the section does not respond.
 
-That structure exists for a reason. BI is meant to put you back in the financial position you would have been in had the damage at your premises not happened. Your BI section states its measures - loss of gross profit, increased cost of working, and the fixed costs that keep running while the business is down - and an indemnity period that starts at the date of damage and ends when the business recovers or at the maximum indemnity period in the schedule, whichever is first.
+That structure exists for a reason. BI is meant to put you back in the financial position you would have been in had the damage at your premises not happened. Your BI section states its measures - [loss of gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore), increased cost of working, and the fixed costs that keep running while the business is down - and an indemnity period that starts at the date of damage and ends when the business recovers or at the maximum indemnity period in the schedule, whichever is first.
 
 For a worked example of how the gross-profit measure is calculated and how the indemnity period behaves, see the companion article on [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example). The mechanics there apply equally to CBI; the only thing that changes is whose premises the triggering damage occurs at.
 
@@ -129,7 +129,7 @@ When you sit with a licensed adviser or commercial broker to review your propert
 
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 - [Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
-- [Our Critical Supplier Just Declared Insolvency: What Do I Do Now?](/crisis/supplier-insolvency)
+- [Our Critical Supplier Just Declared Insolvency - What Do I Do Now?](/crisis/supplier-insolvency)
 - [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 - [Regional Property and Fire Programme: Singapore-HQ SMEs With Property Across Multiple Countries](/cross-border/regional-property-fire-programme)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)

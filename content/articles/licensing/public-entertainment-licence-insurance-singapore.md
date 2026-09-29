@@ -89,7 +89,7 @@ If you are organising public entertainment, work the question in two passes rath
 
 First, treat the **licence** as a permission and read its conditions as binding. Confirm with the [licensing officer](https://sso.agc.gov.sg/Act/PEA1958?ProvIds=pr3-) whether your event needs a PE licence at all, then read the conditions of grant line by line. If a public liability requirement or a [security bond](https://sso.agc.gov.sg/Act/PEA1958?ProvIds=pr11-) appears, it is mandatory; comply to the letter, because the [offence and cancellation provisions](https://sso.agc.gov.sg/Act/PEA1958?ProvIds=pr28-) have teeth.
 
-Second, treat the **insurance** as a risk decision shaped by your venue and your exposures, not by the Act alone. Read the booking contract: most venues require public liability at a stated limit and naming. Decide your own cover deliberately, weighing crowd size, structures, alcohol and the cancellation risk on committed costs. If you employ event staff, carry [WICA cover](/document-legal/wica-section-24-mandatory-insurance) because you are an employer. The same logic plays out for fixed venues in our pieces on [event liability insurance for MICE and venue bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue) and [escape room and entertainment venue cover](/edge-case/escape-room-entertainment-venue-insurance).
+Second, treat the **insurance** as a risk decision shaped by your venue and your exposures, not by the Act alone. Read the booking contract: most venues require public liability at a stated limit and naming. Decide your own cover deliberately, weighing crowd size, structures, alcohol and the cancellation risk on committed costs. If you employ event staff, carry [WICA cover](/document-legal/wica-complete-guide-singapore-employers) because you are an employer. The same logic plays out for fixed venues in our pieces on [event liability insurance for MICE and venue bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue) and [escape room and entertainment venue cover](/edge-case/escape-room-entertainment-venue-insurance).
 
 Covarage helps with the part that quietly goes wrong here: keeping the licence conditions, the venue's insurance requirement, the public liability certificate and any WICA policy organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 
@@ -105,8 +105,8 @@ Covarage helps with the part that quietly goes wrong here: keeping the licence c
 - [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Escape Room or Entertainment Venue Insurance in Singapore: What You Actually Need](/edge-case/escape-room-entertainment-venue-insurance)
-- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

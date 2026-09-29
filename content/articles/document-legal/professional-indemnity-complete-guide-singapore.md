@@ -55,7 +55,7 @@ This is where accuracy matters, because the honest answer is **most businesses a
 - **Professional engineering practices.** A licensed engineering corporation or limited liability partnership must carry liability insurance under [section 34 of the Professional Engineers Act](https://sso.agc.gov.sg/Act/PEA1991) when it supplies professional engineering services. The trigger and threshold are detailed in [when a PE firm must carry professional indemnity under the Professional Engineers Act](/document-legal/pe-firm-professional-indemnity-pea-section-34), with the wider board framework in the IES and Professional Engineers Board insurance framework.
 - **Architectural practices.** A licensed architectural practice must carry liability insurance under [section 24 of the Architects Act](https://sso.agc.gov.sg/Act/AA1991), the mirror provision to the engineers' regime. See the SIA and Board of Architects insurance framework.
 - **Licensed financial advisers.** Licensed financial advisers operate under [section 9 of the Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001?ProvIds=pr9-) and MAS licensing guidelines that include professional indemnity cover; where a service firm supports financial institutions, the [MAS guidelines on outsourcing](/document-legal/mas-guidelines-on-outsourcing) also shape what cover the institution will demand of you.
-- **Other regulated services.** Specific licensing regimes carry their own expectations. Healthcare providers sit under the evolving Healthcare Services Act framework, doctors hold cover through mutual indemnity schemes as explained in [why Singapore doctors use mutual indemnity](/comparison/medical-mutual-indemnity-vs-commercial-insurance), and real estate agencies face PI and disclosure expectations covered in real estate agency misrepresentation cover and PI disclosure and the CEA 2026 framework changes.
+- **Other regulated services.** Specific licensing regimes carry their own expectations. Healthcare providers sit under the evolving Healthcare Services Act framework, doctors hold cover through mutual indemnity schemes as explained in [why Singapore doctors use mutual indemnity](/comparison/medical-mutual-indemnity-vs-commercial-insurance), with what the Medical Registration Act and the SMC Ethical Code do and do not require set out in [how medical indemnity is regulated for Singapore doctors](/association/sma-smc-medical-practitioner-indemnity-framework), and real estate agencies face PI and disclosure expectations covered in real estate agency misrepresentation cover and PI disclosure and the CEA 2026 framework changes.
 
 What each statute sets, read on Singapore Statutes Online on 11 September 2026:
 
@@ -127,36 +127,37 @@ Covarage keeps the moving parts in one place: the PI policy and schedule, the re
 ### Related Information
 
 What PI is and how it differs from other covers:
-- [D&O vs PI vs EPL: How the Three Coordinate (and Where They Gap)](/comparison/do-vs-pi-vs-epl-coordination)
+- [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
-- [Professional Indemnity vs Tech E&O for SaaS and Technology Companies](/comparison/pi-vs-tech-eo-for-saas)
-- [Composite Management Liability Package vs Standalone Modules](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Professional Indemnity vs Tech E&O: What's the Difference for SaaS and Technology Companies?](/comparison/pi-vs-tech-eo-for-saas)
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
 - [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
 - [Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?](/comparison/professional-indemnity-vs-public-liability-service-business-singapore)
 
 The claims-made trigger and the retroactive date:
-- [Claims-Made vs Occurrence Cover: The Trigger Framework](/comparison/claims-made-vs-occurrence-cover)
-- [Claims-Made vs Occurrence Triggers: Why It Matters](/comparison/claims-made-vs-occurrence)
-- [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
-- [How to Cancel a Commercial Policy Mid-Term: Run-Off and the Claims-Made Trap](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)
-- [How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Claims-Made vs Occurrence Triggers: Why It Matters Which Lines Use Which](/comparison/claims-made-vs-occurrence)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [How to Cancel a Commercial Insurance Policy Mid-Term in Singapore: Short-Period Premium, Run-Off, and the Claims-Made Trap](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)
+- [How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
 
 Who is legally required to carry PI:
 - [When Must a PE Firm Carry Professional Indemnity Under the Professional Engineers Act?](/document-legal/pe-firm-professional-indemnity-pea-section-34)
-- [Law Society of Singapore Compulsory PI Scheme](/association/law-society-pii-scheme-insurance-framework)
-- [IES and Professional Engineers Board Insurance Framework](/association/ies-peb-professional-engineers-insurance-framework)
-- [SIA and Board of Architects Insurance Framework](/association/singapore-institute-of-architects-boa-insurance-framework)
+- [Law Society of Singapore Compulsory Professional Indemnity Insurance Scheme: Statutory Framework and Insurance Implications](/association/law-society-pii-scheme-insurance-framework)
+- [Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices](/association/ies-peb-professional-engineers-insurance-framework)
+- [Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices](/association/singapore-institute-of-architects-boa-insurance-framework)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
-- [Why Singapore Doctors Use Mutual Indemnity Instead of Insurance](/comparison/medical-mutual-indemnity-vs-commercial-insurance)
-- [Real Estate Agency Misrepresentation Cover and PI Disclosure](/decision-tree/real-estate-agency-misrepresentation-pi-disclosure-singapore)
+- [Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications](/association/sma-smc-medical-practitioner-indemnity-framework)
+- [Why Do Singapore Doctors Use "Mutual Indemnity" Instead of Insurance?](/comparison/medical-mutual-indemnity-vs-commercial-insurance)
+- [Real Estate Agency Misrepresentation Cover and PI Disclosure Framework](/decision-tree/real-estate-agency-misrepresentation-pi-disclosure-singapore)
 - [CEA Real Estate Salesperson 2026 Framework Changes: What Singapore Real Estate SMEs Need to Know](/regulatory-change/cea-res-2026-changes)
 - [Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know](/regulatory-change/hcsa-full-implementation-review)
 - [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
 
 Claims, cross-border, and emerging exposures:
-- [How to File a Professional Indemnity Claim in Singapore](/procedural-howto/file-pi-claim-singapore)
-- [Regional Professional Indemnity: Cross-Border and Multi-Jurisdiction Practice](/cross-border/regional-professional-indemnity)
-- [AI Hallucinations and the Singapore Professional Indemnity Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
-- [MAS Guidelines on Outsourcing: What Service Firms Serving Financial Institutions Need to Know](/document-legal/mas-guidelines-on-outsourcing)
+- [How to File a Professional Indemnity (PI) Claim in Singapore](/procedural-howto/file-pi-claim-singapore)
+- [Regional Professional Indemnity: Cross-Border Services and Multi-Jurisdiction Practice](/cross-border/regional-professional-indemnity)
+- [AI Hallucinations in Professional and Advisory Services: The Singapore Professional Indemnity Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
+- [MAS Guidelines on Outsourcing: What Replaced Them in December 2024, and What a Vendor to a Bank Now Signs](/document-legal/mas-guidelines-on-outsourcing)
 
 *Published 31 May 2026. Source verified 12 September 2026.*

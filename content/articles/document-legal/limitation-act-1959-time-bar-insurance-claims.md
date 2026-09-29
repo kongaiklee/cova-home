@@ -164,11 +164,11 @@ For an SME considering acknowledgment-restart: the section 27(1) formal requirem
 
 ### Related Information
 
-- [Article 255 - Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
-- [Article 251 - The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
-- [Article 252 - Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
-- [Article 410 - How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
-- [Article 254 - Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
+- [The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
+- [Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
 
 ---

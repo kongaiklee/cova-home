@@ -101,9 +101,9 @@ Covarage holds the group plan, the foreign worker medical policy and the WICA po
 ### Related Information
 - [Group Health Insurance for a Small Singapore SME: When It Starts to Pay Off](/decision-tree/group-health-when-worth-it-small-sme-singapore)
 - [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
-- [Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
+- [Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
 - [How to File Group Medical Claim Outpatient Singapore](/procedural-howto/group-medical-outpatient-claim)
-- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision](/comparison/group-personal-accident-vs-group-term-life-sme)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 
 *Published 11 September 2026. Source verified 11 September 2026.*

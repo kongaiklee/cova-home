@@ -165,7 +165,7 @@ Covarage exists in part to take the workspace, access controls, and version disc
 ### Related Information
 - [Corporate Insurance Folder Structure Every Singapore SME Should Have](/procedural-howto/corporate-insurance-folder-structure-singapore-sme)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 
 *Published 21 May 2026. Source verified 21 May 2026.*
 

@@ -69,7 +69,7 @@ The floristry vertical in Singapore has expanded materially through e-commerce f
 
 **[NParks AVS](https://www.nparks.gov.sg/avs)** - Plant import permits and phytosanitary inspection under [Control of Plants Act](https://sso.agc.gov.sg/Act/CPA1993). Imported cut flowers require [Plant Import Licence](https://www.nparks.gov.sg/avs/plants/plant-imports-and-exports) and shipment-specific phytosanitary certificates.
 
-**[SCDF](https://www.scdf.gov.sg/)** - Fire safety certificate for premises.
+**[SCDF](https://www.scdf.gov.sg/)** - [Fire safety certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) for premises.
 
 **[NEA](https://www.nea.gov.sg/)** - Environmental health, waste management.
 

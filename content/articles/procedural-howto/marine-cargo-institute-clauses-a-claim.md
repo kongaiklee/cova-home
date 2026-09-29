@@ -20,11 +20,11 @@ og_description: "Institute Cargo Clauses A insures all risks, so the exclusions 
 ---
 
 > **The Answer in 60 Seconds**  
-> If your marine cargo certificate or wording is based on the <a href="https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf">Institute Cargo Clauses (A) 1/1/2009</a>, the starting point is Clause 1, which says the insurance covers “all risks of loss of or damage to the subject-matter insured” except where the exclusions apply. The practical claim process usually involves immediate notice, preserving evidence, arranging a survey if damage is visible, protecting rights against carriers, and then submitting the shipment and loss documents needed to prove both the cause and the amount of loss.
+> If your marine cargo certificate or wording is based on the [Institute Cargo Clauses (A) 1/1/2009](https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf), the starting point is Clause 1, which says the insurance covers “all risks of loss of or damage to the subject-matter insured” except where the exclusions apply. The practical claim process usually involves immediate notice, preserving evidence, arranging a survey if damage is visible, protecting rights against carriers, and then submitting the shipment and loss documents needed to prove both the cause and the amount of loss.
 
 ### The Step-by-Step
 
-For many Singapore SMEs, the hardest part of a marine cargo claim is not opening the claim file. It is understanding whether the loss falls within the transit cover in the first place. The <a href="https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf">Institute Cargo Clauses (A) 1/1/2009</a> are broad, but they are not unlimited. Clause 1 gives wide “all risks” wording, while Clauses 4 to 7 carve out important exclusions such as ordinary leakage, ordinary loss in weight or volume, wear and tear, inherent vice, insufficient packing, delay, insolvency-related issues, war risks and strikes risks.
+For many Singapore SMEs, the hardest part of a marine cargo claim is not opening the claim file. It is understanding whether the loss falls within the transit cover in the first place. The [Institute Cargo Clauses (A) 1/1/2009](https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf) are broad, but they are not unlimited. Clause 1 gives wide “all risks” wording, while Clauses 4 to 7 carve out important exclusions such as ordinary leakage, ordinary loss in weight or volume, wear and tear, inherent vice, insufficient packing, delay, insolvency-related issues, war risks and strikes risks.
 
 #### Step 1 - Confirm the shipment was actually insured under ICC A
 
@@ -48,7 +48,7 @@ Your first notice should usually include:
 
 If damage is visible, do not rush to dispose of packaging or release all goods into production before the loss is documented. A surveyor’s report often becomes the central factual document in the claim. The survey usually records outer packing condition, inner packing condition, signs of impact or water ingress, extent of physical damage, and whether the damage pattern is consistent with transit handling.
 
-That matters because the same <a href="https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf">ICC A 2009 wording</a> excludes loss caused by insufficiency or unsuitability of packing in certain circumstances. So if the loss is really a packing problem rather than a transit accident, the claim can become an exclusion dispute instead of a simple payment case.
+That matters because the same [ICC A 2009 wording](https://www.if-insurance.com/globalassets/industrial/files/marine-cargo/institute-clauses/institute-cargo-clauses-a-2009.pdf) excludes loss caused by insufficiency or unsuitability of packing in certain circumstances. So if the loss is really a packing problem rather than a transit accident, the claim can become an exclusion dispute instead of a simple payment case.
 
 #### Step 4 - Reserve rights against carriers and third parties
 
@@ -119,7 +119,7 @@ If your business imports regularly, it also helps to look at whether your packin
 - If the carrier is potentially at fault, what steps should we take immediately to preserve recovery rights?
 
 ### Related Information
-- /comparison/comparemarine-vs-git
-- /document-legal/glossarygeneral-average
-- /document-legal/glossaryseaworthiness
+- [Goods-in-Transit vs Motor Cargo vs Marine Cargo: Which Covers Your Delivery Fleet](/comparison/goods-in-transit-vs-motor-cargo-vs-marine-cargo-singapore)
+- [General Average Declared: A Singapore Importer's First 72 Hours](/crisis/general-average-declared-importer-first-72-hours-singapore)
+
 *Published 4 May 2026. Source verified 4 May 2026.*

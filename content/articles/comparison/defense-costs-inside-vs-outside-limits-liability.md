@@ -153,12 +153,12 @@ For an SME procuring CGL or Public Liability, the DCOL convention should hold. Q
 
 ### Related Information
 
-- [Article 255 - Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 394 - Side A Only vs ABC Tower D&O: Singapore SME Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
-- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Side A Only vs ABC Tower D&O for Singapore SME and Private Companies: A Coverage Structure Decision Framework](/comparison/side-a-only-vs-abc-tower-do-singapore-sme)
+- [EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

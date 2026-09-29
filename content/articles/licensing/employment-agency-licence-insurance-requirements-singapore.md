@@ -56,7 +56,7 @@ The licence also carries fixed fees under [rule 3 of the Rules](https://sso.agc.
 
 Here is where a genuine insurance obligation enters, and it has nothing to do with the EA licence. Your agency employs people, including the registered [employment agency personnel](https://sso.agc.gov.sg/Act/EAA1958) who do the placement work. As an employer, you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which states that "every employer must insure and maintain insurance under one or more approved employee insurance policies" against the liabilities the employer may incur under the Act, in respect of every employee, subject to excluded classes that the regulations prescribe.
 
-So the work-injury cover is mandatory because you are an employer, not because you hold an EA licence. A sole founder running an agency with no employees and no manual work may fall outside the duty, while an agency with a team of consultants and administrative staff will usually be squarely inside it. The trigger is employment, not the licence. The detail of who exactly must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+So the work-injury cover is mandatory because you are an employer, not because you hold an EA licence. A sole founder running an agency with no employees and no manual work may fall outside the duty, while an agency with a team of consultants and administrative staff will usually be squarely inside it. The trigger is employment, not the licence. The detail of who exactly must be covered is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but a placement business often wants
 
@@ -99,7 +99,7 @@ Covarage helps with the part that quietly goes wrong: keeping the bond instrumen
 5. Are the bond instrument, the WICA policy and any liability cover documented somewhere we can produce them at renewal or on a MOM query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
 - [Opening a Recruitment or Employment Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-recruitment-agency-checklist)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)

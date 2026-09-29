@@ -27,7 +27,7 @@ og_description: "MAS conduct rules set the floor for what a Singapore financial 
 
 The MAS conduct framework defines what advisers must do; it does not define what they should do for an ongoing client relationship over years. The five practices below are the difference between an adviser who places policies and an adviser who runs an SME's programme.
 
-The framework reference points: [FAA 2001](https://sso.agc.gov.sg/Act/FAA2001) sets the statutory basis; [FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) sets the reasonable-basis requirement for recommendations; [FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) sets information-to-clients and product-information disclosure standards. The [FIDReC knowledgebase](https://www.fidrec.com.sg/knowledgebase) records the dispute patterns that arise when advisers do not meet expectations.
+The framework reference points: [FAA 2001](https://sso.agc.gov.sg/Act/FAA2001) sets the statutory basis; [FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) sets the [reasonable-basis requirement for recommendations](/document-legal/faa-n16-reasonable-basis); [FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) sets information-to-clients and product-information disclosure standards. The [FIDReC knowledgebase](https://www.fidrec.com.sg/knowledgebase) records the dispute patterns that arise when advisers do not meet expectations.
 
 #### 1. Annual coverage review separate from the renewal
 
@@ -151,7 +151,7 @@ If the asks are met, the relationship has shifted to the better-practice model. 
 
 ### Related Information
 - [What "Concierge" Corporate Insurance Support Should Actually Mean for a Singapore SME](/comparison/concierge-corporate-insurance-support-singapore-sme)
-- [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
+- [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 - [How to Brief Your Insurance Adviser So Quotes Come Back Faster and More Accurate](/procedural-howto/how-to-brief-insurance-adviser-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*

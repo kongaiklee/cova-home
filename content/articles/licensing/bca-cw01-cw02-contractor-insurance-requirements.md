@@ -72,9 +72,11 @@ A common mistake: assuming "BCA registered" implies "insurance handled." BCA's r
 5. How do my bizSAFE Star and ISO 45001 certifications affect my WICA and PL premiums on renewal?
 
 ## Related Information
-- BCA Builders Licensing Scheme (GB1 vs GB2)
-- SCAL SLOTS and SgMA - what's required for sub-contractors
-- WICA: who must be insured
+- [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [What Is SCAL's SgMA, and How Does It Affect My Insurance?](/association/scal-sgma-impact-on-insurance)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

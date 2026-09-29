@@ -37,7 +37,7 @@ The combination of WICA cover and CW/EL extension addresses the integrated workp
 - Total permanent incapacity: S$346,000
 - Medical expenses: S$53,000
 
-**Specific scope.** Per the WICA framework (see [Article 5](/association/casetrust-spa-wellness-prepayment-protection) and [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
+**Specific scope.** Per the WICA framework (see [Article 5](/document-legal/wica-complete-guide-singapore-employers) and [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
 - All manual workers, regardless of salary
 - Non-manual workers earning S$2,600/month or below

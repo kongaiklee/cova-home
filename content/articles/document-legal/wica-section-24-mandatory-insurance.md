@@ -22,7 +22,7 @@ og_description: "Section 24 is what makes WICA work: every Singapore employer mu
 
 > **The Answer in 60 Seconds**
 >
-> [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) is the provision that makes WICA workable. Headed "Employer must be insured against liabilities under Act", it requires every employer to be insured for the full extent of the employer's liability under the Act for every employee in scope. Without this provision, WICA's compensation framework would be theoretical - Section 24 makes it actual by ensuring funds exist to pay claims. Failure to insure is an offence under the related Section 25, carrying significant penalties; an uninsured employer also remains directly liable to the injured worker. For Singapore SMEs, Section 24 explains why WICA cover is non-negotiable, why the policy must be an approved policy placed with an insurer on [MOM's](https://www.mom.gov.sg/) list of WICA insurers (the platform-operator panel of designated insurers runs separately - see [Article 169](/comparison/wica-designated-insurer-panel)), and why operational compliance matters at every renewal cycle.
+> [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) is the provision that makes WICA workable. Headed "Employer must be insured against liabilities under Act", it requires every employer to be insured for the full extent of the employer's liability under the Act for every employee in scope. Without this provision, WICA's compensation framework would be theoretical - Section 24 makes it actual by ensuring funds exist to pay claims. Failure to insure is an offence under the related Section 25, carrying significant penalties; an uninsured employer also remains directly liable to the injured worker. For Singapore SMEs, Section 24 explains why [WICA cover](/document-legal/wica-complete-guide-singapore-employers) is non-negotiable, why the policy must be an approved policy placed with an insurer on [MOM's](https://www.mom.gov.sg/) list of WICA insurers (the platform-operator panel of designated insurers runs separately - see [Article 169](/comparison/wica-designated-insurer-panel)), and why operational compliance matters at every renewal cycle.
 
 ### The Sourced Detail
 
@@ -171,7 +171,7 @@ Section 24 is the provision that makes Singapore's workplace compensation framew
 
 ### Related Information
 - [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement](/comparison/wica-designated-insurer-panel)
-- /document-legal/wica-coverage-and-employer-obligations
-- /comparison/wica-vs-employers-liability
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

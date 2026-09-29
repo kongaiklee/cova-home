@@ -119,7 +119,7 @@ For SMEs receiving a vendor-cascade breach notification, these decisions illustr
 
 - **Third-party liability cover** - claims by data subjects under section 48O PDPA, claims by business counterparties, claims by payment-card brands. The principal source of large Cyber claims in Singapore.
 
-- **PDPC financial penalty cover** - generally not insurable to the extent treated as punitive under Singapore public-policy doctrine (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
+- **PDPC financial penalty cover** - generally not insurable to the extent treated as punitive under Singapore public-policy doctrine (see [Article 263](/regulatory-change/pdpa-2022-penalty)).
 
 - **Business interruption cover** - loss of gross profit following a cyber-triggered operational shutdown.
 
@@ -221,12 +221,12 @@ For directors, section 157 Companies Act duty applies to vendor management. Docu
 
 ### Related Information
 
-- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 270 - Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
-- [Article 294 - Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously](/crisis/multi-plaintiff-class-action-threat-multi-line-response)
-- [Article 300 - IT Vendor or SaaS Provider Disappearance](/crisis/it-vendor-saas-disappearance)
-- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Multi-Plaintiff Class Action Threat: When Multiple Insurance Lines Fire Simultaneously](/crisis/multi-plaintiff-class-action-threat-multi-line-response)
+- [IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs](/crisis/it-vendor-saas-disappearance)
+- [Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision](/crisis/ransomware-active-negotiation-phase)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

@@ -237,11 +237,11 @@ For cyber insurance procurement, the wording should explicitly address: CSA Code
 
 ### Related Information
 
-- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 364 - Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
-- [Article 278 - Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
-- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision](/crisis/ransomware-active-negotiation-phase)
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
+- [Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 
 ---

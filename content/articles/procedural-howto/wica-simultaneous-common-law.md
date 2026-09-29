@@ -20,23 +20,23 @@ og_description: "A WICA claim and a common-law claim cannot both be pursued to t
 ---
 
 > **The Answer in 60 Seconds**  
-> Singapore’s Ministry of Manpower states on its <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law">WICA versus common law</a> page that an eligible employee who suffers a work-related injury or illness can seek compensation through either the Work Injury Compensation Act or common law, **but not both**. MOM also states on its <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/what-is-wica">What is WICA</a> page that WICA lets employees claim for work-related injuries or diseases without having to file a civil suit, and that claims can be made up to one year from the accident. So if your business receives signs of both a WICA process and lawyer-led negligence allegations, the first job is to preserve the incident facts, notify the insurer, and understand that the employee cannot ultimately recover under both tracks for the same injury.
+> Singapore’s Ministry of Manpower states on its [WICA versus common law](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law) page that an eligible employee who suffers a work-related injury or illness can seek compensation through either the Work Injury Compensation Act or common law, **but not both**. MOM also states on its [What is WICA](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/what-is-wica) page that WICA lets employees claim for work-related injuries or diseases without having to file a civil suit, and that claims can be made up to one year from the accident. So if your business receives signs of both a WICA process and lawyer-led negligence allegations, the first job is to preserve the incident facts, notify the insurer, and understand that the employee cannot ultimately recover under both tracks for the same injury.
 
 ### The Step-by-Step
 
-This issue usually arises when an employee is injured, the employer reports the accident, and then the employer also receives communications from lawyers or family members suggesting a negligence claim. Business owners often call this “both claims at once”. MOM’s official position is more precise. On the <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law">WICA versus common law</a> page, MOM says an eligible employee can seek compensation through either WICA or common law, but not both.
+This issue usually arises when an employee is injured, the employer reports the accident, and then the employer also receives communications from lawyers or family members suggesting a negligence claim. Business owners often call this “both claims at once”. MOM’s official position is more precise. On the [WICA versus common law](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law) page, MOM says an eligible employee can seek compensation through either WICA or common law, but not both.
 
 That does not mean the employer can ignore one track until the other is finished. It means the employer should handle the accident as a live legal and insurance matter from the start, because the employee may still be deciding which route to pursue within the legal framework.
 
 #### Step 1 - Report the accident properly and preserve the incident record
 
-If the incident is reportable, follow MOM’s work-accident reporting requirements. MOM’s <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting">work accident reporting</a> pages say certain work-related accidents must be reported using WSH Incident Reporting, and the <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting/report-a-work-related-accident">report a work-related accident</a> page says that after an incident report is submitted, MOM may investigate the accident and will process eligible WICA claims. MOM’s <a href="https://www.mom.gov.sg/eservices/services/wsh-incident-reporting">WSH Incident Reporting</a> page also states that employers should be ready with incident details, injured employee particulars, employment details, and supporting documents such as insurance policy schedule and medical documents.
+If the incident is reportable, follow MOM’s work-accident reporting requirements. MOM’s [work accident reporting](https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting) pages say certain work-related accidents must be reported using WSH Incident Reporting, and the [report a work-related accident](https://www.mom.gov.sg/workplace-safety-and-health/work-accident-reporting/report-a-work-related-accident) page says that after an incident report is submitted, MOM may investigate the accident and will process eligible WICA claims. MOM’s [WSH Incident Reporting](https://www.mom.gov.sg/eservices/services/wsh-incident-reporting) page also states that employers should be ready with incident details, injured employee particulars, employment details, and supporting documents such as insurance policy schedule and medical documents.
 
 This matters because a weak accident record causes problems in both a WICA file and a possible negligence claim.
 
 #### Step 2 - Understand the practical difference between WICA and common law
 
-MOM’s <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law">comparison page</a> explains that under WICA, the claim is processed by Assistant Commissioners (Work Injury) from MOM or the designated insurer after the employee notifies the employer, whereas under common law the employee makes a claim in court. MOM also states that WICA does not require the employee to prove fault, while a common law claim generally turns on negligence and evidence before the court.
+MOM’s [comparison page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/wica-versus-common-law) explains that under WICA, the claim is processed by Assistant Commissioners (Work Injury) from MOM or the designated insurer after the employee notifies the employer, whereas under common law the employee makes a claim in court. MOM also states that WICA does not require the employee to prove fault, while a common law claim generally turns on negligence and evidence before the court.
 
 That difference matters for businesses because the same accident can create two very different evidence questions:
 
@@ -70,7 +70,7 @@ MOM’s accident-reporting pages say incident reports should be kept, and the re
 
 #### Step 6 - Remember the compensation categories under WICA
 
-MOM’s <a href="https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation">types of compensation under WICA</a> page states that employees covered by WICA can claim medical leave wages, medical expenses, and lump-sum compensation for permanent incapacity, current incapacity, or death. MOM also states that medical expenses related to the work accident can be claimed for treatment received within one year from the date of the accident, up to the applicable cap.
+MOM’s [types of compensation under WICA](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation) page states that employees covered by WICA can claim medical leave wages, medical expenses, and lump-sum compensation for permanent incapacity, current incapacity, or death. MOM also states that medical expenses related to the work accident can be claimed for treatment received within one year from the date of the accident, up to the applicable cap.
 
 This helps employers understand what the statutory side of the claim is actually measuring, as opposed to broader damages concepts that may arise in a court-led negligence case.
 
@@ -98,6 +98,7 @@ The most useful approach is disciplined neutrality: report properly, preserve re
 
 ### Related Information
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
-- /comparison/comparewica-statute-vs-common-law
+- [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
+
 *Published 4 May 2026. Source verified 4 May 2026.*

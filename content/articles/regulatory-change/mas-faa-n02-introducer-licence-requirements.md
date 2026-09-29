@@ -59,7 +59,7 @@ Many "insurance platforms" in Singapore blur three different licence types:
 
 1. **Direct insurer or insurer's tied agent.** Sells a single insurer's products. Conflict-prone.
 2. **Licensed financial adviser / insurance broker.** Holds an FA licence under the FAA or a broker licence; can recommend across insurers, regulated under [FAA-N16 on Recommendations](https://www.mas.gov.sg/-/media/mas/regulations-and-financial-stability/regulations-guidance-and-licensing/financial-advisers/faq/faa_faqs_24nov2017.pdf), needs analysis rules, and broader FAA conduct rules.
-3. **Introducer under FAA-N02.** Cannot recommend at all. Routes the customer to a licensed FA. Structurally neutral because there is no licence to recommend any specific product.
+3. **Introducer under FAA-N02.** Cannot recommend at all. Routes the customer to a licensed FA. Structurally neutral because there is no licence to recommend any specific product. See [how an introducer differs from a licensed FA or broker](/comparison/faa-n02-introducer-vs-fa-broker).
 
 For an SME founder choosing where to source business insurance, the introducer model has a specific advantage: **the platform itself has no incentive to push you toward any particular policy**, because it cannot legally do so.
 
@@ -100,8 +100,9 @@ Companies typically need to consider three things when evaluating any insurance 
 
 ### Related Information
 
-- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation](/comparison/faa-n02-introducer-vs-fa-broker)
+- [MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)](/procedural-howto/mas-register-verify-insurance-broker)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 - [MOM Platform Operator Designated Insurer (Singapore 2025)](/regulatory-change/mom-platform-operator-designated-insurer-2025)
 
 ---

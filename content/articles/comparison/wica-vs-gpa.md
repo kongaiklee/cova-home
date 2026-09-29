@@ -21,7 +21,7 @@ og_description: "A Singapore SME usually needs both. WICA is compulsory for manu
 
 > **The Answer in 60 Seconds**
 >
-> Most Singapore SMEs need both, for different reasons. WICA insurance is mandatory under [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for all manual workers regardless of salary, and all non-manual workers earning S$2,600 or less per month. It covers work-related injury and disease only, with statutory compensation limits (S$269,000 death / S$346,000 total permanent incapacity / S$53,000 medical from 1 November 2025 per [MOM's 8 February 2024 announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). Group Personal Accident (GPA) is voluntary, covers 24/7 (on and off duty), and pays defined benefits regardless of fault. They overlap, but neither replaces the other - and **GPA does not satisfy the WICA Section 24 obligation**.
+> Most Singapore SMEs need both, for different reasons. [WICA insurance](/document-legal/wica-complete-guide-singapore-employers) is mandatory under [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for all manual workers regardless of salary, and all non-manual workers earning S$2,600 or less per month. It covers work-related injury and disease only, with statutory compensation limits (S$269,000 death / S$346,000 total permanent incapacity / S$53,000 medical from 1 November 2025 per [MOM's 8 February 2024 announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). Group Personal Accident (GPA) is voluntary, covers 24/7 (on and off duty), and pays defined benefits regardless of fault. They overlap, but neither replaces the other - and **GPA does not satisfy the WICA Section 24 obligation**.
 
 ### The Sourced Detail
 
@@ -118,8 +118,9 @@ The cost of confusing them is asymmetric. Treating GPA as a WICA substitute risk
 5. If a worker is injured at the workplace, do my WICA and GPA both pay, or does one offset the other?
 
 ### Related Information
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How To Handle Simultaneous Claims WICA And Common Law](/procedural-howto/wica-simultaneous-common-law)
-- /comparison/group-medical-vs-gpa
+- [Group Medical Insurance for a Singapore SME: What the Law Requires Without It, What It Covers, and the Tax Rule That Shapes It](/document-legal/group-medical-insurance-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

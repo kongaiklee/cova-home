@@ -91,9 +91,9 @@ Companies typically need to consider, separately: project-related Public Liabili
 
 ### Related Information
 
-- [CaseTrust Spa & Wellness - Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)
-- [BCA Builders Licensing Scheme - Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
-- [SCAL SLOTS Application: Insurance Requirements](/licensing/scal-slots-application-insurance-requirements)
+- [CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)
+- [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
 
 ---
 

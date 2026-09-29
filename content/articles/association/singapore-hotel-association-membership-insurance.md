@@ -51,7 +51,7 @@ One more point on the Act, because it shapes liability exposure. [Section 13](ht
 
 Here the genuine mandatory insurance enters, and like the licence it does not come from SHA membership. A hotel employs people: front desk, housekeeping, kitchen, maintenance. As an employer it falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, for every employee within the prescribed scope.
 
-So the work-injury cover is mandatory because the hotel is an employer, not because it is a hotel and not because it is an SHA member. Housekeeping and kitchen roles are manual work, squarely within the duty. The detail of who must be covered, and the prescribed classes, sits in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+So the work-injury cover is mandatory because the hotel is an employer, not because it is a hotel and not because it is an SHA member. Housekeeping and kitchen roles are manual work, squarely within the duty. The detail of who must be covered, and the prescribed classes, sits in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The exposures a hotel carries, whether or not a policy is named in any rule
 
@@ -107,7 +107,7 @@ Covarage helps with the part that quietly goes wrong: keeping the licence record
 6. Is our business interruption indemnity period long enough to rebuild and re-let after a major fire, and is the sum insured realistic?
 
 ### Related Information
-- [Does a Hotel-Keeper Licence Require Insurance in Singapore?](/licensing/hotel-keeper-licence-insurance-singapore)
+- [Does a Hotel-Keeper's Licence Require Insurance in Singapore?](/licensing/hotel-keeper-licence-insurance-singapore)
 - [Boutique Hotel and Hostel Insurance: Singapore Operator Framework](/edge-case/boutique-hotel-hostel-insurance)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)

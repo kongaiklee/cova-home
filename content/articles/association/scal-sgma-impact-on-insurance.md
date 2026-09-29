@@ -70,9 +70,9 @@ The honest framing: SgMA is not protection. It's a discipline. Your insurance is
 5. Does an audit non-conformity (Stage 2 finding) need to be disclosed at insurance renewal as a "material change"?
 
 ## Related Information
-- SCAL SLOTS - what sub-contractors need to know
-- bizSAFE levels and your insurance proposal form
-- ISO 45001 vs bizSAFE Star - what's the difference?
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

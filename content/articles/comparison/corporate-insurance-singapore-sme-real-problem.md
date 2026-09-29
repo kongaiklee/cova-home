@@ -152,7 +152,7 @@ The platform exists to take the operational layer off the SME's plate. The SME's
 
 ### Related Information
 - [Corporate Insurance Folder Structure Every Singapore SME Should Have](/procedural-howto/corporate-insurance-folder-structure-singapore-sme)
-- [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
+- [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 - [What "Concierge" Corporate Insurance Support Should Actually Mean for a Singapore SME](/comparison/concierge-corporate-insurance-support-singapore-sme)
 
 *Published 22 May 2026. Source verified 22 May 2026.*

@@ -9,14 +9,14 @@ agencies: ["SMC", "Singapore Statutes"]
 article_number: 286
 published: "2026-05-14"
 source_verified: "2026-09-11"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1867
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sma-smc-medical-practitioner-indemnity-framework"
-meta_description: "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance."
+meta_description: "Must a Singapore doctor hold medical indemnity? What the Medical Registration Act and the SMC Ethical Code say, and how the SMC and SMA roles differ."
 og_title: "Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications"
-og_description: "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance."
+og_description: "Must a Singapore doctor hold medical indemnity? What the Medical Registration Act and the SMC Ethical Code say, and how the SMC and SMA roles differ."
 ---
 
 > **The Answer in 60 Seconds**
@@ -83,7 +83,7 @@ Commercial PI insurers (AIG, Chubb, Liberty, MSIG, Tokio Marine, Sompo, Allianz)
 - Retroactive date: cover responds only to acts after the retroactive date.
 - Defined limits with per-claim and aggregate structures.
 
-The structural choice between MDO and commercial PI:
+The structural choice between MDO and commercial PI, compared provider by provider in [discretionary mutual indemnity vs commercial insurance](/comparison/medical-mutual-indemnity-vs-commercial-insurance):
 
 - MDO offers occurrence-based, discretionary indemnity with deep historical experience.
 - Commercial PI offers contractual certainty with defined limits and exclusions.
@@ -186,12 +186,14 @@ For clinic principals supervising junior doctors and locums, supervisory liabili
 
 ### Related Information
 
-- [Article 271 - Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
-- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 287 - Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications](/association/sda-sdc-dental-practitioner-insurance-framework)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Why Do Singapore Doctors Use "Mutual Indemnity" Instead of Insurance?](/comparison/medical-mutual-indemnity-vs-commercial-insurance)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Singapore Dental Association (SDA) and Singapore Dental Council (SDC): Statutory Framework and Insurance Implications](/association/sda-sdc-dental-practitioner-insurance-framework)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
 
 ---

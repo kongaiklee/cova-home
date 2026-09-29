@@ -124,9 +124,9 @@ Covarage helps with the part that quietly goes wrong: keeping the policy schedul
 5. Is the breach-response line large enough to fund a forensic assessment fast enough to meet the section 26D notification deadline?
 
 ### Related Information
-- [PDPA Section 24: The Protection Obligation Every Organisation Owes](/document-legal/pdpa-section-24-protection-obligation)
+- [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
-- [Cyber Notification Cost: In the Limit vs a Sub-Limit for SMEs](/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme)
-- [Cyber Incident: The First 72 Hours for a Singapore SME](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
+- [Cyber Notification Cost: In-Limit vs Separate Sub-Limit for Singapore SMEs](/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme)
+- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

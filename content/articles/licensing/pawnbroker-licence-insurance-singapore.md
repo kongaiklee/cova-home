@@ -53,7 +53,7 @@ Running parallel to all this is the [security deposit under section 27](https://
 
 Section 26 compels cover against damage, theft or loss of pledges. It says nothing about the rest of the exposures a real pawnshop carries, and those are substantial.
 
-The first is **property and fire**. The pledges are insured under section 26, but the building, the strongroom, the safes, the CCTV and alarm systems the [Registry](https://rop.mlaw.gov.sg/information-for-pawnbrokers/) requires you to install, the renovation and the stock of any approved second-hand goods business are not pledges and need their own property cover. Fire safety obligations on the premises are a separate regime, examined in our note on the [SCDF fire safety certificate and its insurance implications](/licensing/scdf-fire-safety-certificate-insurance-implications).
+The first is **property and fire**. The pledges are insured under section 26, but the building, the strongroom, the safes, the CCTV and alarm systems the [Registry](https://rop.mlaw.gov.sg/information-for-pawnbrokers/) requires you to install, the renovation and the stock of any approved second-hand goods business are not pledges and need their own property cover. Fire safety obligations on the premises are a separate regime, examined in our note on the [SCDF Fire Certificate and its insurance implications](/licensing/scdf-fire-safety-certificate-insurance-implications).
 
 The second is **fidelity or commercial crime**, for theft by your own staff. A pawnshop concentrates high-value, portable, easily fenced goods and cash, handled daily by employees with access to the safe. A standard pledge policy responds to third-party theft and external loss; employee dishonesty is a distinct peril that fidelity guarantee or commercial crime cover is built for. The trigger architecture matters here, and we set out the choice in [Fidelity Guarantee and Commercial Crime: loss-discovered versus loss-sustained](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore), with the claim mechanics in [how to file a fidelity guarantee claim for employee dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim).
 
@@ -95,10 +95,10 @@ Covarage helps with the part that quietly goes wrong: keeping the pledge policy,
 
 ### Related Information
 - [Pawnshop and Pawnbroker Insurance: Singapore Operator Framework](/edge-case/pawnshop-pawnbroker-insurance)
-- [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore](/edge-case/second-hand-luxury-reseller-insurance)
-- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [How to File a Fidelity Guarantee Claim for Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
-- [SCDF Fire Safety Certificate and Its Insurance Implications](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore (Watches, Bags, Sneakers, Designer Apparel)](/edge-case/second-hand-luxury-reseller-insurance)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [How to File a Fidelity Guarantee Claim - Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

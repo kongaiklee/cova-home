@@ -55,7 +55,7 @@ Here is the point that matters for budgeting. The Act does not, in its own words
 
 The genuinely mandatory insurance for a security agency has nothing to do with SAS and nothing to do with the wording of the security agency's licence. It comes from the agency being an employer. A guarding business employs security officers, supervisors, and back-office staff, and under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) every employer must take out and maintain approved work-injury cover against the liabilities the employer may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-For a security agency this is not a paper formality. Security officers work night shifts, patrol on foot, handle confrontations, and operate at heights and on industrial sites. The exposure to workplace injury is real and recurring, which is exactly the risk WICA cover is built to fund. The detail of who must be covered and how the duty bites is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+For a security agency this is not a paper formality. Security officers work night shifts, patrol on foot, handle confrontations, and operate at heights and on industrial sites. The exposure to workplace injury is real and recurring, which is exactly the risk WICA cover is built to fund. The detail of who must be covered and how the duty bites is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the law does not compel but a security agency carries anyway
 
@@ -103,7 +103,7 @@ Covarage helps with the part that quietly goes wrong: keeping the licence record
 ### Related Information
 - [Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-private-security-firm-checklist)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
-- [Does a Security Agency Licence Require Insurance in Singapore?](/licensing/security-agency-licence-insurance-singapore)
+- [What Insurance Does a Licensed Security Agency Need in Singapore?](/licensing/security-agency-licence-insurance-singapore)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

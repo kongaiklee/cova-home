@@ -37,7 +37,7 @@ Specific high-value scope drives operational discipline. Individual works of sub
 
 #### The Fine Art / Specie cover foundation
 
-Fine Art / Specie cover is the foundational specialty cover that distinguishes art market operations from generic commercial scope.
+[Fine art insurance](/document-legal/fine-art-insurance-business-singapore), written as Fine Art / Specie cover, is the foundational specialty cover that distinguishes art market operations from generic commercial scope.
 
 Fine Art / Specie cover provides specific provisions for fine art including specific All Risks scope (broader than standard Property/Fire - addresses specific scope including handling damage, accidental damage, transit scope), specific agreed value provisions (where insurance value is established at procurement rather than at claim - eliminating valuation disputes), operational market value or replacement scope considerations, and operational considerations around scope.
 

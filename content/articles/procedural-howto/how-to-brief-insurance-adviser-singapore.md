@@ -144,7 +144,7 @@ The investment in maintaining the pack continuously is materially smaller than t
 5. If we maintain the pack continuously, what turnaround can we expect on a renewal-quote request?
 
 ### Related Information
-- [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
+- [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
 - [Why Email and WhatsApp Are the Worst Places to Store Business Insurance Policies](/procedural-howto/email-whatsapp-business-insurance-storage-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

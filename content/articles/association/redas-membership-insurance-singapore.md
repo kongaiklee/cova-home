@@ -57,7 +57,7 @@ The development agreement itself may require a performance bond, where the devel
 
 #### The one insurance the law makes you carry: WICA
 
-There is exactly one insurance obligation that attaches to a developer because of what it is rather than what it signs, and it has nothing to do with REDAS. A developer is an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees against the liabilities it may incur under the Act. That duty follows your headcount, not your membership and not your development licence. The scope of who must be covered, and the prescribed exclusions, are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). For workers on a live construction site the practical exposure is large, which is part of why the building contract and CAR arrangements sit alongside it.
+There is exactly one insurance obligation that attaches to a developer because of what it is rather than what it signs, and it has nothing to do with REDAS. A developer is an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees against the liabilities it may incur under the Act. That duty follows your headcount, not your membership and not your development licence. The scope of who must be covered, and the prescribed exclusions, are set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers). For workers on a live construction site the practical exposure is large, which is part of why the building contract and CAR arrangements sit alongside it.
 
 So the real picture is three layers, none of them the association. The development licence and the Project Account regulate how you sell and ring-fence money. The project contracts require CAR, public liability, property and fire, and sometimes a performance bond. Employment law requires WICA cover for your staff. REDAS sits outside all three.
 
@@ -96,11 +96,11 @@ Covarage helps with the part that quietly goes wrong across a multi-year, multi-
 5. Are the licence documents, Project Account records, project policies, and bonds organised so we can produce them at a financier or regulator query?
 
 ### Related Information
-- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
+- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
-- [Performance Bond Claim Process from the Obligee Perspective](/procedural-howto/performance-bond-claim-obligee)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim](/procedural-howto/performance-bond-claim-obligee)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

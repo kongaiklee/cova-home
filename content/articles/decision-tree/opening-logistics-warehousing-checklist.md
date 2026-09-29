@@ -42,7 +42,7 @@ Singapore's logistics sector - warehousing, freight forwarding, last-mile delive
 - **Singapore Customs** - registration as a Declaring Agent and use of TradeNet for permit applications, with the registrations the commodities handled require.
 - **LTA commercial vehicles** - registration of the owned fleet in the appropriate vehicle categories, with the corresponding driver licensing across the GVW classes.
 - **Industry licensing** - dangerous goods and pharmaceutical logistics (under HSA frameworks) carry their own licensing.
-- **Premises** - an SCDF Fire Safety Certificate is mandatory, with safety standards set by the premises type (warehouse, distribution centre) and occupancy.
+- **Premises** - an SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) is mandatory, with safety standards set by the premises type (warehouse, distribution centre) and occupancy.
 
 #### The Public Liability layer
 
@@ -201,8 +201,9 @@ The logistics insurance build is comprehensive, reflecting the operational compl
 5. As I scale or add specialised services, what insurance milestones should I plan for?
 
 ### Related Information
-- /procedural-howto/marine-cargo-claim-process
+- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

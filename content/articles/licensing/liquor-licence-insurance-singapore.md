@@ -41,7 +41,7 @@ That matters because the licence can be [suspended or cancelled under section 9]
 
 Here is where a genuine, statutory insurance obligation enters, and it has nothing to do with the liquor licence. A bar, restaurant or shop employs people: bartenders, servers, kitchen crew, cashiers. As an employer, you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-), which states that "every employer must insure and maintain insurance under one or more approved employee insurance policies" with a designated insurer against the liabilities the employer may incur under the Act, in respect of every employee.
 
-The duty is not absolute for every worker. [Section 24(2)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) carves out prescribed excluded classes of employees and applies subject to any prescribed minimum sum. But the trigger is employment, not the liquor licence. A hawker selling beer with no staff may sit outside the duty; a restaurant with a dozen front-of-house and kitchen employees sits squarely inside it. The detail of who must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+The duty is not absolute for every worker. [Section 24(2)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) carves out prescribed excluded classes of employees and applies subject to any prescribed minimum sum. But the trigger is employment, not the liquor licence. A hawker selling beer with no staff may sit outside the duty; a restaurant with a dozen front-of-house and kitchen employees sits squarely inside it. The detail of who must be covered is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 The honest framing is this: WICA cover is mandatory because you employ people, not because you hold a liquor licence. The licence and the WICA duty are two separate compliance lines that happen to land on the same business.
 
@@ -91,7 +91,7 @@ Covarage helps with the part that quietly goes wrong: keeping the liquor licence
 
 ### Related Information
 - [Specialty Alcohol and Wine Retailer Insurance: Singapore Operator Framework](/edge-case/specialty-alcohol-wine-retailer-insurance)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

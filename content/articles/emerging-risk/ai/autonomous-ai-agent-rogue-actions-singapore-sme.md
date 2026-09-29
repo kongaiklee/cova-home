@@ -243,14 +243,14 @@ Three things to do this quarter, before the soft cyber market hardens:
 
 ### Related Information
 
-- [MAS AIRG, IMDA MGF, EU AI Act: Singapore SME compliance timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline) (article 411 - AI regulatory anchor)
-- [Chatbot misrepresentation liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme) (article 412 - chatbot misrepresentation, Air Canada line of cases)
-- [Deepfake funds-transfer fraud and Singapore SMEs](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme) (article 414 - deepfake FTF, Crime policy mechanics)
-- [AI-generated content, copyright and IP infringement](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme) (article 415 - IP exposure)
-- [AI bias in hiring and promotion: EPL claims for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme) (article 416 - EPL claims from biased AI)
-- [AI-generated code security vulnerabilities for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme) (article 417 - code security, full Replit case study deep-dive)
-- [PDPA 2022 penalty regime](/regulatory-change/pdpa-2022-penalty) (PDPA Section 26D 3-day notification, 10% turnover / S$1m cap)
-- [Cybersecurity Act 2024 amendments](/regulatory-change/cyber-act-2024) (Cybersecurity (Amendment) Act 2024, first tranche of provisions in force 31 October 2025)
+- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
+- [When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
+- [AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty) - the maximum PDPA penalty for a data breach (S$1 million, or 10% of annual Singapore turnover if it exceeds S$10 million) and the 3-day deadline to notify the PDPC
+- [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024) - which provisions of the Cybersecurity (Amendment) Act 2024 took effect on 31 October 2025, and who they now cover
 
 *Published 8 May 2026. Source verified 12 September 2026.*
 

@@ -74,7 +74,7 @@ The Singapore High Court in *Tan Yi Lin Cheryl v AIA Singapore Pte Ltd* [[2021] 
 
 The procedural rule: if the cancelling policy is claims-made, the cancellation workflow includes the ERP decision. The ERP is a one-time election with a hard deadline; the SME cannot defer it.
 
-A separate procedural option, before electing ERP, is to file a Notice of Circumstance (NoC) under the cancelling policy for any known potential claim. A properly notified NoC during the policy period is "deemed" a claim made during that period under most claims-made wordings, locking in cover even if the actual claim arrives years later. The Notice of Circumstance workflow is treated separately in [article 408](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore).
+A separate procedural option, before electing ERP, is to file a Notice of Circumstance (NoC) under the cancelling policy for any known potential claim. A properly notified NoC during the policy period is "deemed" a claim made during that period under most claims-made wordings, locking in cover even if the actual claim arrives years later. The Notice of Circumstance workflow is treated separately in [how to file a Notice of Circumstance under a claims-made policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore).
 
 ## The Mid-Term Cancellation Workflow
 
@@ -220,12 +220,12 @@ The licensed adviser handling your programme is the right party to run the workf
 
 ## Related Information
 
-- [How to Switch Commercial Insurer Mid-Term in Singapore](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
-- [Extended Reporting Period (ERP) / Tail Cover for M&A in Singapore](/procedural-howto/extended-reporting-period-tail-cover-ma-singapore)
-- [Non-Renewal Notice from Commercial Insurer in Singapore](/procedural-howto/non-renewal-notice-commercial-insurer-singapore)
-- [Premium Financing for Commercial Insurance in Singapore SMEs](/procedural-howto/premium-financing-commercial-insurance-singapore-sme)
-- [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
-- [Claims-Made vs Occurrence Cover Comparison](/comparison/claims-made-vs-occurrence-cover)
+- [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
+- [How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale](/procedural-howto/extended-reporting-period-tail-cover-ma-singapore)
+- [How to Respond to a Non-Renewal Notice from a Commercial Insurer](/procedural-howto/non-renewal-notice-commercial-insurer-singapore)
+- [How to Obtain Premium Financing for Commercial Insurance](/procedural-howto/premium-financing-commercial-insurance-singapore-sme)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

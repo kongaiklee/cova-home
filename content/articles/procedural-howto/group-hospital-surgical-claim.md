@@ -147,7 +147,7 @@ GHS is the most "felt" insurance in any SME - it's the policy employees actually
 
 ### Related Information
 - [How to File Group Medical Claim Outpatient Singapore](/procedural-howto/group-medical-outpatient-claim)
-- /comparison/group-medical-vs-gpa
+- [Group Health Insurance for a Small Singapore SME: When It Starts to Pay Off](/decision-tree/group-health-when-worth-it-small-sme-singapore)
 - [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

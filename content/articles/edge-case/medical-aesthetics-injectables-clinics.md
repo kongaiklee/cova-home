@@ -47,7 +47,7 @@ Medical Indemnity is the foundational specialty cover for the segment. Two prima
 
 Specific commercial Medical Malpractice insurance from commercial insurers (AIG, Chubb, specific other major medical specialty insurers) provides contractual indemnity with specific scope provisions.
 
-The choice between frameworks involves operational considerations. MPS / MIPS discretionary framework provides flexibility but discretionary scope; commercial insurance provides contractual certainty but specific limit and scope considerations. For substantive operations, both frameworks may apply across different practitioners or different scope.
+The choice between frameworks involves operational considerations, and [discretionary mutual indemnity vs commercial insurance](/comparison/medical-mutual-indemnity-vs-commercial-insurance) compares the two. MPS / MIPS discretionary framework provides flexibility but discretionary scope; commercial insurance provides contractual certainty but specific limit and scope considerations. For substantive operations, both frameworks may apply across different practitioners or different scope.
 
 Specific limit considerations matter substantially. Aesthetic medicine claim quantum can be substantial - particularly where specific outcome scenarios involve substantial cosmetic harm, scarring, or psychological impact. Considerations on limit selection matters.
 

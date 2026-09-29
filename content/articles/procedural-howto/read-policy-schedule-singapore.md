@@ -102,9 +102,9 @@ Your licensed adviser's job is to translate the schedule into business terms and
 5. Are there any "communicable disease," "cyber," or "war/terrorism" carve-outs I should add back via endorsement?
 
 ### Related Information
-- How to renew commercial fire insurance in Singapore
-- How to get a certificate of insurance for your landlord
-- Material non-disclosure: the most common claim killer
+- [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
+- [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
+- [Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure](/document-legal/insurance-act-disclosure-duty)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

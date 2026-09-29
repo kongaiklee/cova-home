@@ -73,7 +73,7 @@ Per [Article 170](/regulatory-change/platform-workers-act-first-year-review):
 
 **3. WICA post-1 November 2025 framework:**
 
-Per [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns):
+Per [Article 173](/regulatory-change/wica-update-nov-2025):
 
 - Specific increased compensation limits
 - Operational operational standards
@@ -136,7 +136,7 @@ Per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation):
 
 **WICA (Work Injury Compensation):**
 
-Per [Article 173](/regulatory-change/wica-2025-limit-increase-claim-patterns):
+Per [Article 173](/document-legal/wica-complete-guide-singapore-employers):
 
 - Mandatory cover from designated insurer panel
 - Specific compensation framework

@@ -46,7 +46,7 @@ So the practical position for most SMEs is that property and fire cover is requi
 
 This is the single most common confusion, so it is worth stating plainly: the fire-safety regime is about **preventing and surviving fires**, not insuring against them. The two never substitute for each other.
 
-The [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) is the governing statute, administered by the Commissioner of Civil Defence. It requires, among other things, a **Fire Certificate** for designated premises under [section 35](https://sso.agc.gov.sg/Act/FSA1993), empowers orders to install fire safety measures under [section 36](https://sso.agc.gov.sg/Act/FSA1993), and provides for **fire safety managers** at larger premises under [section 38](https://sso.agc.gov.sg/Act/FSA1993). The technical design standard sitting under the Act is the SCDF's [Fire Code 2023](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023), the code of practice that architects and qualified persons design to, and fire safety works require SCDF plan approval before they are carried out.
+The [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) is the governing statute, administered by the Commissioner of Civil Defence. It requires, among other things, a **[Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications)** for designated premises under [section 35](https://sso.agc.gov.sg/Act/FSA1993), empowers orders to install fire safety measures under [section 36](https://sso.agc.gov.sg/Act/FSA1993), and provides for **fire safety managers** at larger premises under [section 38](https://sso.agc.gov.sg/Act/FSA1993). The technical design standard sitting under the Act is the SCDF's [Fire Code 2023](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023), the code of practice that architects and qualified persons design to, and [fire safety works require SCDF plan approval](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) before they are carried out.
 
 Compliance here is operational, not financial: hold the Fire Certificate where one is required, keep the fire safety provisions working, and renew on time. SCDF is moving Fire Certificate renewals to a **three-year validity** from 1 April 2026 to cut compliance cost, a change explained in [the SCDF three-year Fire Certificate move](/regulatory-change/scdf-fc-3-year-2026), and the broader 2023 code update is covered in [what changed in the Fire Code 2023](/regulatory-change/fire-code-2023). The point for this guide is that none of these duties involve buying insurance, and meeting them does not satisfy your lease or your bank. You can hold a valid Fire Certificate and still be uninsured. You can be fully insured and still be breaking the Fire Safety Act. They are different obligations enforced by different bodies.
 
@@ -81,7 +81,7 @@ The **average clause** is the trap that catches SMEs who insure for what they pa
 
 Material-damage cover rebuilds the building and replaces the stock. It does not replace the income you lose while you cannot trade. That is what **business interruption (BI)** cover does, and for many SMEs the income loss dwarfs the physical loss.
 
-BI typically responds when an insured material-damage event (a fire, say) interrupts the business, and it pays for lost gross profit and increased cost of working over an **indemnity period** you choose. Get the indemnity period too short and the cover stops paying before you have actually recovered. A related extension, **contingent business interruption (CBI)**, responds when the damage happens not to you but to a key supplier or customer whose failure stops your trade, a scenario shown in [the contingent BI trigger when a key supplier fails](/crisis/key-supplier-insolvency-contingent-bi-trigger). The difference between ordinary BI and CBI, worked through end to end, is in [BI versus CBI, a worked example](/comparison/bi-vs-cbi-worked-example), and the full claim process is in [the business interruption claim deep dive](/procedural-howto/bi-claim-deep-dive).
+BI typically responds when an insured material-damage event (a fire, say) interrupts the business, and it pays for [lost gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore) and increased cost of working over an **indemnity period** you choose. Get the indemnity period too short and the cover stops paying before you have actually recovered. A related extension, **contingent business interruption (CBI)**, responds when the damage happens not to you but to a key supplier or customer whose failure stops your trade, a scenario shown in [the contingent BI trigger when a key supplier fails](/crisis/key-supplier-insolvency-contingent-bi-trigger). The difference between ordinary BI and CBI, worked through end to end, is in [BI versus CBI, a worked example](/comparison/bi-vs-cbi-worked-example), and the full claim process is in [the business interruption claim deep dive](/procedural-howto/bi-claim-deep-dive).
 
 #### Common exclusions and the gaps that surprise people
 
@@ -127,25 +127,28 @@ Covarage keeps these moving parts in one place: the policy and schedule, the rei
 ### Related Information
 
 The law and the regulators:
-- [What Changed in the SCDF Fire Code 2023](/regulatory-change/fire-code-2023)
-- [SCDF's Three-Year Fire Certificate: What It Means for SMEs](/regulatory-change/scdf-fc-3-year-2026)
+- [Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing](/regulatory-change/fire-code-2023)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
 
 Choosing the form of cover:
-- [Fire versus Property All Risks: Which Form Fits?](/comparison/fire-vs-par)
-- [Fire versus PAR: The Claim Mechanics](/comparison/fire-vs-par-claim-mechanics)
-- [Property All Risks Exclusions: A Deep Dive](/comparison/property-all-risks-exclusions-deep-dive)
+- [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
+- [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
+- [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 
 Getting the sum insured right:
-- [The Average Clause and Underinsurance in Singapore](/document-legal/average-clause-underinsurance-singapore)
-- [Reinstatement Cost versus Indemnity Value](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [First-Loss versus Full-Value and the Average Clause](/comparison/first-loss-vs-full-value-average-clause-property)
+- [The Average Clause Explained: Singapore Underinsurance Penalties on Partial Losses](/document-legal/average-clause-underinsurance-singapore)
+- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
 
 Business interruption and the loss after the loss:
-- [BI versus CBI: A Worked Example](/comparison/bi-vs-cbi-worked-example)
-- [The Business Interruption Claim Deep Dive](/procedural-howto/bi-claim-deep-dive)
+- [Business Interruption Sum Insured: The Gross-Profit Basis Explained](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore)
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
+- [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 
 When a fire actually happens:
-- [A Tenant-Caused Major Fire: The Landlord and SME Workflow](/crisis/tenant-caused-major-fire-landlord-sme-workflow)
-- [The Property and Fire Claim Deep Dive](/procedural-howto/property-fire-claim-deep-dive)
+- [Tenant-Caused Major Fire: Landlord SME Day-One Workflow](/crisis/tenant-caused-major-fire-landlord-sme-workflow)
+- [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

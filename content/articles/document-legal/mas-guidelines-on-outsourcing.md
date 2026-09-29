@@ -112,7 +112,7 @@ Keep two records ready: a list of the sub-contractors on each financial-sector s
 5. What evidence of cover can my insurer issue for the client's due diligence, and how quickly at each renewal?
 
 ### Related Information
-- [MAS Outsourcing Guidelines for Financial Institutions Other Than Banks, Effective 11 December 2024](/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024)
+- [MAS Guidelines on Outsourcing (FI Other Than Banks) Effective 11 December 2024: Tech E&O / Cyber Implications for SME Vendors](/regulatory-change/mas-outsourcing-guidelines-fi-other-than-banks-11-december-2024)
 - [Singapore SaaS Data Residency Decisions: AWS Singapore vs EU vs US - Insurance and Regulatory Implications](/cross-border/sg-saas-data-residency-decisions)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)

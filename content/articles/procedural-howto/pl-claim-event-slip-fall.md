@@ -58,7 +58,7 @@ It is fine to show concern and help the injured person get care. It is different
 
 So the better approach is to be empathetic but factual. For example: “We’re sorry this happened. We’ve recorded the incident and will pass the details to our insurer.” That is very different from promising that the company will pay everything regardless of causation and contract position.
 
-The legal backdrop matters here. In <a href="https://www.elitigation.sg/gd/s/2013_SGCA_29">*See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd* [2013] SGCA 29</a>, the Singapore Court of Appeal abolished the old tripartite distinction between invitees, licensees, and trespassers in occupiers' liability cases, replacing it with a unified negligence-based duty of care. The result for event organisers and venue occupiers is that the central question in any slip-and-fall case is now whether reasonable steps were taken in the circumstances - which is exactly what your incident record is designed to prove. The General Insurance Association's <a href="https://gia.org.sg/consumers/general-insurance/business-insurance">published business insurance guidance</a> is consistent with this: contemporaneous records of hazard identification, warning signs, and remedial action are the strongest defence material.
+The legal backdrop matters here. In [*See Toh Siew Kee v Ho Ah Lam Ferrocement (Pte) Ltd* [2013] SGCA 29](https://www.elitigation.sg/gd/s/2013_SGCA_29), the Singapore Court of Appeal abolished the old tripartite distinction between invitees, licensees, and trespassers in occupiers' liability cases, replacing it with a unified negligence-based duty of care. The result for event organisers and venue occupiers is that the central question in any slip-and-fall case is now whether reasonable steps were taken in the circumstances - which is exactly what your incident record is designed to prove. The General Insurance Association's [published business insurance guidance](https://gia.org.sg/consumers/general-insurance/business-insurance) is consistent with this: contemporaneous records of hazard identification, warning signs, and remedial action are the strongest defence material.
 
 #### Step 5 - Pull the contract documents that define who controlled the risk
 
@@ -113,7 +113,8 @@ If your event uses multiple vendors and temporary setups, the contract map matte
 
 ### Related Information
 - [How to File a Public Liability Claim - Customer Slip in My Cafe](/procedural-howto/pl-claim-customer-slip-fnb)
-- /document-legal/glossaryindemnity-to-principal
-- /document-legal/glossarycross-liability
+- [What "Indemnity to Principal" Actually Means in Singapore Insurance](/document-legal/indemnity-to-principal)
+- [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+
 *Published 4 May 2026. Source verified 4 May 2026.*

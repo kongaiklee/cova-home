@@ -78,7 +78,7 @@ Licensed insurers operate under MAS conduct standards including:
 **4. Dispute resolution.**
 Disputes with licensed insurers can be escalated to:
 - The insurer's complaint process
-- [FIDReC](https://www.fidrec.com.sg/) for eligible matters (see [Article 43](/procedural-howto/dispute-denied-claim))
+- [FIDReC](https://www.fidrec.com.sg/) for eligible matters (see [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim))
 - MAS as regulator
 - Singapore courts
 
@@ -342,6 +342,6 @@ The Insurance Act 1966 framework provides the foundation for Singapore's insuran
 ### Related Information
 - [WICA Designated Insurer Regulations: How the MOM List Actually Works](/document-legal/wica-designated-insurer-regulations)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
-- /comparison/broker-vs-direct
+- [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

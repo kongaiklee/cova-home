@@ -237,7 +237,7 @@ The cost of TCI compliance failure is substantial - Marketlend lost US$9.04m in 
 
 ### Related Information
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
-- /document-legal/trade-credit-insurance-policy-framework
+- [Trade Credit Insurance for Singapore SMEs: How It Actually Works](/document-legal/trade-credit-insurance-how-it-works-singapore)
 - [OCBC v Argoglobal Underwriting Asia Pacific [2025] SGHC 82: Marine Insurance Warranties and the UK Insurance Act 2015 in Singapore Courts](/regulatory-change/ocbc-argoglobal-marine-insurance-warranties-section-11)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

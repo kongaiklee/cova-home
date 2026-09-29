@@ -212,7 +212,7 @@ The cost of properly structured halal F&B operator insurance is typically SGD 5,
 ### Related Information
 - [Food Truck or Mobile F&B Vendor in Singapore: What Insurance Do You Actually Need?](/edge-case/food-truck-mobile-vendor)
 - [Kombucha Brewery in Singapore: What Insurance Do I Actually Need?](/edge-case/kombucha-brewery-insurance)
-- /document-legal/sale-of-food-act-licensing-framework
+- [Singapore Food Agency Licensing Tiers and Insurance Implications](/association/sfa-licensing-tiers-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

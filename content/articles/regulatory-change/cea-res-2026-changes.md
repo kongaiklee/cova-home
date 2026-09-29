@@ -350,8 +350,10 @@ The CEA framework continues to mature. SMEs that maintain compliance posture and
 5. As CEA framework evolves, what compliance evolution should I plan for?
 
 ### Related Information
-- /procedural-howto/bec-social-engineering-claim-process
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

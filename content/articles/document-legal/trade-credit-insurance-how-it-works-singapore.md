@@ -80,7 +80,7 @@ Trade credit is most useful where:
 - **Receivables are concentrated** in a small number of buyers - the loss of any single buyer would be material.
 - **Buyers are domiciled in jurisdictions with imperfect debt-recovery**, where insolvency recovery prospects are limited.
 - **Payment terms are extended** (60-90+ days) - the gap between delivery and payment is the exposure window.
-- **The cost of credit insurance is justified** by the working-capital benefit (better bank financing terms against insured receivables) plus the loss reduction.
+- **The [cost of credit insurance](/comparison/whole-turnover-vs-single-buyer-trade-credit-sme) is justified** by the working-capital benefit (better bank financing terms against insured receivables) plus the loss reduction.
 
 Trade credit is less useful where:
 
@@ -130,6 +130,7 @@ For Singapore SMEs, the trade-credit policy can be assigned to a bank as part of
 - [Subrogation: When Your Insurer Recovers from a Third Party](/procedural-howto/subrogation-insurer-recovery-singapore)
 - [How to Read a Singapore Commercial Insurance Policy: The Six Sections That Matter Most](/document-legal/reading-commercial-insurance-policy-singapore)
 - [Sub-limits, Aggregates, and Deductibles: How Singapore Commercial Insurance Policies Actually Pay](/document-legal/sub-limits-aggregates-deductibles-singapore)
+- [Whole Turnover vs Single-Buyer Trade Credit Insurance for Singapore SMEs: A Coverage Structure Decision Framework](/comparison/whole-turnover-vs-single-buyer-trade-credit-sme)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

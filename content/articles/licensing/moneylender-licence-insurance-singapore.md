@@ -45,7 +45,7 @@ That power to forfeit is the point. [Section 12 of the Act](https://sso.agc.gov.
 
 Here is the one genuine insurance obligation, and it does not flow from the moneylender's licence at all. A licensed moneylender is a company that employs people: loan officers, recovery staff, administrators. As an employer, it falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved policies against the liabilities it may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-So work-injury cover is mandatory because you are an employer, not because you hold a moneylender's licence. The trigger is employment. The detail of who exactly must be covered, and which classes fall outside the duty, is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance). Get that one right first, because it is the only policy a statute makes you carry.
+So work-injury cover is mandatory because you are an employer, not because you hold a moneylender's licence. The trigger is employment. The detail of who exactly must be covered, and which classes fall outside the duty, is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers). Get that one right first, because it is the only policy a statute makes you carry.
 
 #### The cyber and data exposure the licence does not name
 
@@ -96,7 +96,7 @@ Covarage helps with the part that quietly goes wrong: keeping the deposit record
 5. Are the deposit records, the WICA policy and any commercial cover documented somewhere we can produce them at renewal or on a Registry query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [First 24 Hours After a Major Employee Fraud Discovery: A Singapore SME Crisis Playbook](/crisis/employee-fraud-discovery-first-24-hours-singapore)

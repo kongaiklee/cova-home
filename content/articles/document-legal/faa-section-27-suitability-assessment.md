@@ -37,7 +37,7 @@ The section requires a licensed FA, when making recommendations for investment p
 - Consideration of the subject matter of the recommendation
 - Specific consideration of the suitability of the recommendation in light of the investigation
 
-The provision applies to FAs licensed under the FAA - which includes most insurance brokers and independent financial advisers operating in the Singapore market. It does not apply to introducers under [FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) (see [Article 168](/comparison/faa-n02-introducer-vs-fa-broker)) since introducers do not make recommendations.
+The provision applies to FAs licensed under the FAA - which includes most insurance brokers and independent financial advisers operating in the Singapore market. It does not apply to introducers under [FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) (see [how an introducer differs from a licensed FA](/comparison/faa-n02-introducer-vs-fa-broker)) since introducers do not make recommendations.
 
 #### What "investigation" means in practice
 
@@ -157,6 +157,6 @@ Section 27 is the protection mechanism that separates regulated advisory from pu
 ### Related Information
 - [FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation](/comparison/faa-n02-introducer-vs-fa-broker)
 - [MAS Notice FAA-N16 and FAA-N20 Updates: What Singapore SMEs Need to Know](/regulatory-change/mas-faa-n16-n20-updates)
-- /procedural-howto/insurance-procurement-process
+- [MAS Notice FAA-N16: The "Reasonable Basis for Recommendation" Duty Explained](/document-legal/faa-n16-reasonable-basis)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -325,16 +325,16 @@ The licensed adviser handling your CAR placement should walk you through the str
 
 ## Related Information
 
-- [Annual Open Cover Marine Cargo vs Specific Voyage Policy](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme) (article 397)
-- [Annual Fleet Rated vs Individual Vehicle Commercial Motor](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme) (article 396)
-- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025) (article 388)
-- [BCA CRS Expansion to National Registry - 1 June 2025](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
-- [WSH Penalty Doubling 2024](/regulatory-change/wsh-penalty-doubling-2024)
-- [WSH Mandatory Video Surveillance for Construction Worksites](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
-- [Per Occurrence vs Aggregate Limits](/comparison/per-occurrence-vs-aggregate-limits)
-- [Property All Risks Exclusions Deep Dive](/comparison/property-all-risks-exclusions-deep-dive)
-- [PSSCOC Insurance Clauses for Government Tenders in Singapore](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
-- How to File a CAR Claim with the Insurer
+- [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
+- [Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
+- [WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
+- [Per Occurrence vs Aggregate Limits: Limit Structure Comparison](/comparison/per-occurrence-vs-aggregate-limits)
+- [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
+- [How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
+- [Lifting Operation Failure: Crane Collapse, Lorry Crane Topple, Tower Crane Failure](/crisis/lifting-equipment-collapse-crane-incident)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*

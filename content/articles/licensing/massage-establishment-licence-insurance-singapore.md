@@ -49,7 +49,7 @@ So if you are checking whether your massage licence forces you to buy a policy, 
 
 Here a genuine insurance obligation enters, and it has nothing to do with the massage licence. Your establishment employs people: the therapists who administer the massage, plus reception and cleaning staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-), which states that every employer must insure and maintain insurance under one or more approved employee insurance policies, with one or more designated employer's insurers, against all the liabilities the employer may incur under the Act in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-This duty is squarely relevant to a massage business for a practical reason: the work is physical. Therapists stand for long hours, lift and reposition clients, and carry repetitive-strain and slip risks of their own. A therapist who injures a back or wrist at work is exactly the kind of claim WICA is built to handle. The duty follows employment, not the licence: a sole proprietor working alone with no staff may fall outside it, while any establishment with a team of therapists will usually be squarely inside. Failing to insure is an offence under [section 25](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-), carrying a fine of up to $10,000 or imprisonment of up to 12 months or both. The detail of who must be covered is set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+This duty is squarely relevant to a massage business for a practical reason: the work is physical. Therapists stand for long hours, lift and reposition clients, and carry repetitive-strain and slip risks of their own. A therapist who injures a back or wrist at work is exactly the kind of claim WICA is built to handle. The duty follows employment, not the licence: a sole proprietor working alone with no staff may fall outside it, while any establishment with a team of therapists will usually be squarely inside. Failing to insure is an offence under [section 25](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-), carrying a fine of up to $10,000 or imprisonment of up to 12 months or both. The detail of who must be covered is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but a treatment business needs
 
@@ -96,8 +96,8 @@ Covarage helps with the part that quietly goes wrong: keeping the PLRD licence, 
 ### Related Information
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)
-- [Mobile Beauty or Wellness Service Insurance in Singapore](/edge-case/mobile-beauty-wellness-insurance)
-- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
+- [Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)](/edge-case/mobile-beauty-wellness-insurance)
+- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

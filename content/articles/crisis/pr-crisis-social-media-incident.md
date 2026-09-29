@@ -378,8 +378,9 @@ The reputational dimension of operating a Singapore SME has elevated significant
 5. As I scale or add visibility (more locations, more public-facing operations), what crisis preparation should evolve?
 
 ### Related Information
-- /crisis/pdpa-breach-discovery
+- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [We Just Discovered an Employee Has Embezzled From Us - What Do I Do Now?](/crisis/employee-embezzlement-discovered)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

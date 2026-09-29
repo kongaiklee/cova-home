@@ -129,7 +129,7 @@ The output is a value-adjusted comparison, not a price-adjusted one. The cheapes
 5. On a three-year total cost of ownership basis, how do our current covers compare against the alternatives in your panel?
 
 ### Related Information
-- [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
+- [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 - [How to Brief Your Insurance Adviser So Quotes Come Back Faster and More Accurate](/procedural-howto/how-to-brief-insurance-adviser-singapore)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
 

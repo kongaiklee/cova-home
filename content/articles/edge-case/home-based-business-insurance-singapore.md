@@ -118,7 +118,7 @@ Covarage helps with the part that quietly goes wrong for home operators: keeping
 
 ### Related Information
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
-- [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack](/edge-case/tuition-centre-enrichment-insurance-singapore)
+- [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack Under the Private Education Act 2009](/edge-case/tuition-centre-enrichment-insurance-singapore)
 - [Cleaning and Facilities Management Companies in Singapore: The Insurance Stack](/edge-case/cleaning-facilities-management-insurance-singapore)
 - [Real Estate Agencies in Singapore: The Insurance Stack from Salesperson PI to Agency PL](/edge-case/real-estate-agency-insurance-stack-singapore)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)

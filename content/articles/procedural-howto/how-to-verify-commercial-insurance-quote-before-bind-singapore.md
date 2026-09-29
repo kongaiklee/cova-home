@@ -213,12 +213,12 @@ The licensed adviser handling the placement should welcome the verification step
 
 ## Related Information
 
-- [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore) (article 40)
-- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore) (article 401)
-- [How to Run an Insurance Tender for a Singapore SME](/procedural-howto/how-to-run-insurance-tender-sme-singapore) (article 403)
-- [How to Negotiate Broker Remuneration Disclosure](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
-- [How to Verify Insurer Financial Strength Rating in Singapore](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
-- [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
+- [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
+- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [How to Run an Insurance Tender for a Singapore SME: A Procedural Playbook for the 2026 Soft Market](/procedural-howto/how-to-run-insurance-tender-sme-singapore)
+- [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
+- [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

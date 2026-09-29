@@ -78,7 +78,7 @@ A distinctive travel-agency exposure arises when a supplier fails - airline inso
 
 Travel agencies are heavily targeted for cyber attacks, across four exposures:
 
-1. **BEC / social-engineering fraud** - high-frequency targeting of both supplier-payment and client-booking-fund flows; a successful BEC also disrupts operations (see [Article 90](/crisis/vendor-ran-off-with-deposit)).
+1. **BEC / social-engineering fraud** - high-frequency targeting of both supplier-payment and client-booking-fund flows; a successful BEC also disrupts operations (see [Article 90](/crisis/bec-wire-fraud-loss-discovered)).
 2. **Customer data breaches** - agencies hold NRIC, contact, and financial data, and frequently passport details, so a breach carries real PDPA significant-harm exposure.
 3. **Credit card data** - payment processing brings PCI-DSS compliance obligations.
 4. **Operational disruption** - booking-system failures and platform dependencies.
@@ -198,7 +198,7 @@ The travel agency insurance build addresses both regulatory compliance and the c
 
 ### Related Information
 - [Opening an Event Management Company in Singapore: Full Insurance Checklist](/decision-tree/opening-event-management-company-checklist)
-- /procedural-howto/bec-social-engineering-claim-process
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

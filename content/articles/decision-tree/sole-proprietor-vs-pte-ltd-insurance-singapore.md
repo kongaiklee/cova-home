@@ -63,7 +63,7 @@ The trap here is the inverse of the sole proprietor's. The owner who incorporate
 
 #### The duty that does not care how you are structured: WICA
 
-One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 So the WICA line is the fixed point. Whatever structure you choose, if you employ people, this cover is not a decision. It is a legal requirement.
 
@@ -118,9 +118,9 @@ Covarage helps with the part that quietly slips: keeping the liability, D&O, and
 
 ### Related Information
 - [From Incorporation to Growth: How Your Insurance Stack Should Evolve](/decision-tree/insurance-stack-stages-of-growth-singapore)
-- [Companies Act Section 157: The Director Duties That Drive D&O Cover](/document-legal/companies-act-section-157-director-duties)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
-- [Management Liability Package vs Standalone Modules for SMEs](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Companies Act Section 157: Director Duties and the D&O Insurance Foundation](/document-legal/companies-act-section-157-director-duties)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

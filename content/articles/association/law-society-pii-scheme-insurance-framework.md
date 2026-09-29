@@ -216,12 +216,12 @@ For LLC and LLP law practices, D&O cover for the LLC directors or LLP managers p
 
 ### Related Information
 
-- [Article 271 - Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 284 - Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications](/association/isca-acra-public-accountants-insurance-framework)
-- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Institute of Singapore Chartered Accountants (ISCA), ACRA, and the Public Accountants Oversight Committee: Statutory Framework and Insurance Implications](/association/isca-acra-public-accountants-insurance-framework)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

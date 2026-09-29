@@ -76,9 +76,8 @@ Another commonly-missed area: cyber. Parental WhatsApp groups, photo-sharing app
 5. Field trips and external contractors (e.g., bus operators) - are their insurances additional named insureds on mine, or vice versa?
 
 ## Related Information
-- ECDA Code of Practice - what's mandatory and what isn't
-- WICA for staff in education sector
-- PDPA exposure for centres holding parent and child data
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

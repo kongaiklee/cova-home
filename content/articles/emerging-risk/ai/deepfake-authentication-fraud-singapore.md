@@ -109,11 +109,11 @@ A deepfake that defeats authentication is a controls problem with insurance as t
 Covarage is a Singapore B2B insurance operations platform. We do not advise on, recommend, or arrange policies. We provide factual information sourced from primary regulators and, where you ask us to, introduce you to a licensed insurance adviser, who gives the advice and places the cover.
 
 ### Related Information
-- [Deepfake Funds-Transfer Fraud: Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [Cyber Notification Cost: In-Limit vs Separate Sub-Limit for Singapore SMEs](/comparison/cyber-notification-cost-in-limit-vs-sub-limit-sme)
 - [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Decoded](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
 - [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

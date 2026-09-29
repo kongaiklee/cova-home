@@ -1,5 +1,5 @@
 ---
-title: "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications"
+title: "Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)"
 slug: "/regulatory-change/bca-crs-expansion-national-registry-1-june-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
@@ -9,13 +9,13 @@ agencies: ["BCA", "Singapore Statutes"]
 article_number: 384
 published: "2026-05-17"
 source_verified: "2026-05-17"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1959
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/bca-crs-expansion-national-registry-1-june-2025"
 meta_description: "Any firm hiring construction Work Permit holders must now sit on the Contractors Registration System, tendering or not. What the 1 June 2025 CRS change did."
-og_title: "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications"
+og_title: "Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)"
 og_description: "Any firm hiring construction Work Permit holders must now sit on the Contractors Registration System, tendering or not. What the 1 June 2025 CRS change did."
 ---
 
@@ -52,7 +52,7 @@ The CRS organises firms into about 50 **workheads**, grouped into five families:
 - **TR - Trade Heads**
 - **RW - Regulatory Workheads**
 
-Within a workhead, a firm holds a **grade** reflecting its financial capacity, track record and personnel. The **CW** workheads are graded **A1, A2, B1, B2, C1, C2, C3** - A1 the highest, C3 the entry grade. The **CR** and **ME** workheads use an **L6 to L1** scale (plus a Single Grade); Trade Heads carry a Single Grade only. Grade determines the public-sector **tendering limit**: for CW01 and CW02 in the period 1 July 2025 to 30 June 2026, an A1 firm has an unlimited tendering limit while a C3 firm's limit is S$0.8m. BCA publishes the full tendering-limit table and revises it periodically.
+Within a workhead, a firm holds a **grade** reflecting its financial capacity, track record and personnel. The **CW** workheads are graded **A1, A2, B1, B2, C1, C2, C3** - A1 the highest, C3 the entry grade. The **CR** and **ME** workheads use an **L6 to L1** scale (plus a Single Grade); Trade Heads carry a Single Grade only. Grade determines the public-sector **tendering limit**: for CW01 and CW02 in the period 1 July 2026 to 30 June 2027 (the same limits as 2025-26), an A1 firm has an unlimited tendering limit while a C3 firm's limit is S$0.8m. BCA publishes the full tendering-limit table and revises it periodically.
 
 The grades tie back into the Builders Licensing scheme. Under the CW Specific Registration Requirements, grades A1 to B2 require a General Builder Class 1 licence, while grades C1 to C3 require a General Builder Class 2 licence. Higher grades also require larger paid-up capital, longer and larger track records, more qualified personnel, and safety certification such as bizSAFE or ISO 45001.
 

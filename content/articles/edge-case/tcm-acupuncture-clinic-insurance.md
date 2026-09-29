@@ -168,9 +168,10 @@ The cost of a properly structured TCM clinic insurance programme for a typical 2
 
 ### Related Information
 - [Specialty Medical Aesthetics: The Distinct Insurance Profile for Aesthetic Medicine, Injectables, and Energy-Based Treatments](/edge-case/medical-aesthetics-injectables-clinics)
-- /document-legal/healthcare-services-act-clinic-licensing
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
 - [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+- [Does TCM Practitioner Registration Require Professional Indemnity Insurance in Singapore?](/licensing/tcm-practitioner-registration-insurance-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

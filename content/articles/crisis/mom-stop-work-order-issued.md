@@ -155,7 +155,7 @@ Some BI policies have specific extensions for "denial of access" or "Public Auth
 
 **WICA (if injury underlies the SWO):**
 
-Standard WICA response to the worker injury - see [Article 80](/crisis/worker-fatality-on-site). Doesn't directly cover the SWO impact but addresses the worker compensation claim.
+Standard WICA response to the worker injury - see [Article 80](/procedural-howto/how-to-file-wica-claim-singapore-mom). Doesn't directly cover the SWO impact but addresses the worker compensation claim.
 
 **Public Liability (if third parties affected):**
 

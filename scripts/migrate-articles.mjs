@@ -6,10 +6,17 @@
  *
  * The master is READ ONLY. This script never writes to it.
  *
+ * RETIRED 2026-09-29. content/articles/ is the source of truth now, not the master: every fix
+ * since 2026-08-23 (the 861 false regulatory claims removed, the Related repair, the insurer
+ * spellings, the PI / PL back-links) lives only in the committed files. A write run replaces all
+ * of them with the master's text. So a write run REFUSES before reading anything unless it is
+ * given OVERRIDE_FLAG below, and the npm scripts `migrate` / `migrate:pilot` are removed.
+ *
  * Usage:
- *   node scripts/migrate-articles.mjs            migrate all articles
- *   node scripts/migrate-articles.mjs --pilot    migrate ~15 across all 5 intents
- *   node scripts/migrate-articles.mjs --dry-run  parse + report, write nothing
+ *   node scripts/migrate-articles.mjs --dry-run  parse + report, write nothing (always allowed)
+ *   node scripts/migrate-articles.mjs [--pilot] --overwrite-every-article-from-master
+ *                                                 DESTRUCTIVE: replaces content/articles/ and
+ *                                                 articles-index.json with the master's text
  *
  * Spec: D:\vault\Covarage - Working folder\SEO\COVA_SEO_TM_Migration_Handover.md
  */
@@ -30,6 +37,17 @@ const args = new Set(process.argv.slice(2));
 const DRY_RUN = args.has('--dry-run');
 const PILOT = args.has('--pilot');
 const PILOT_PER_INTENT = 3;
+const OVERRIDE_FLAG = '--overwrite-every-article-from-master';
+
+if (!DRY_RUN && !args.has(OVERRIDE_FLAG)) {
+  console.error('REFUSED: nothing was read and nothing was written.');
+  console.error('This script replaces every file under content/articles/ and content/articles-index.json');
+  console.error('with the SEO master\'s text. The committed articles carry every fix made since 2026-08-23');
+  console.error('(the 861 false regulatory claims removed, the Related repair, the insurer spellings, the');
+  console.error('back-links); the master carries none of them, so a run would put them all back.');
+  console.error('Use --dry-run to parse and report. To overwrite anyway, pass ' + OVERRIDE_FLAG + '.');
+  process.exit(2);
+}
 
 /** category -> intent bucket key (see src/content/intents.ts). */
 const CATEGORY_INTENT = {

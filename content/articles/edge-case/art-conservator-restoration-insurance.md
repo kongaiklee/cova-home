@@ -25,7 +25,7 @@ og_description: "An art conservator holds other people's property in the studio.
 
 ### The Sourced Detail
 
-Fine art conservation is among the highest-value, lowest-volume specialty service businesses in Singapore. A single conservator may have S$5-50 million worth of client artwork in studio at any time. Standard SME insurance is structurally inadequate; specialty fine-art insurance is the appropriate framework.
+Fine art conservation is among the highest-value, lowest-volume specialty service businesses in Singapore. A single conservator may have S$5-50 million worth of client artwork in studio at any time. Standard SME insurance is structurally inadequate; specialty [fine art insurance](/document-legal/fine-art-insurance-business-singapore) is the appropriate framework.
 
 #### The unique risk profile
 

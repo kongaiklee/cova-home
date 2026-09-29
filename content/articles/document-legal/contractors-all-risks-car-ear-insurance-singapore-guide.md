@@ -104,12 +104,12 @@ Covarage holds the project policies, the work injury compensation policy and eac
 ### Related Information
 - [Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture](/document-legal/construction-insurance-complete-guide-singapore)
 - [How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
-- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Conditions](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
 - [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
 - [What Insurance Do BCA CW01 and CW02 Contractors Actually Need?](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
 - [Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate](/comparison/surety-vs-performance-bond)
 - [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 
 *Published 11 September 2026. Source verified 11 September 2026.*

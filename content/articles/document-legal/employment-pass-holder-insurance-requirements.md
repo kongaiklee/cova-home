@@ -72,9 +72,9 @@ The structure of a sensible benefits package for EP holders typically includes i
 5. If I'm a SME with fewer than 5 lives, what micro-group structures exist?
 
 ## Related Information
-- MOM S Pass medical insurance - the S$60,000 rule
-- WICA: when does it apply to EP holders?
-- Group medical for SMEs: structuring the package
+- [What Are S Pass Employers' Medical Insurance Obligations?](/document-legal/s-pass-employer-medical-insurance-obligations)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Group Medical Insurance for a Singapore SME: What the Law Requires Without It, What It Covers, and the Tax Rule That Shapes It](/document-legal/group-medical-insurance-complete-guide-singapore-sme)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

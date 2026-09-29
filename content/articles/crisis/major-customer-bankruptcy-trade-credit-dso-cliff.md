@@ -176,7 +176,7 @@ Section 239 wrongful trading analysis:
 
 ### What This Means for Your Business
 
-For a Singapore SME with concentrated trade receivables from one or more customers, the practical order of operations is: confirm Trade Credit Insurance is in force and identifies the major buyers (named-buyer endorsement or whole-turnover form); test the policy wording for IRDA references at renewal; maintain credit-limit discipline within the policy's discretionary credit limit threshold; document the SME's credit-management procedures (the insurer can deny claims where procedure was breached); review the SME's customer concentration regularly.
+For a Singapore SME with concentrated trade receivables from one or more customers, the practical order of operations is: confirm Trade Credit Insurance is in force and identifies the major buyers ([named-buyer endorsement or whole-turnover form](/comparison/whole-turnover-vs-single-buyer-trade-credit-sme)); test the policy wording for IRDA references at renewal; maintain credit-limit discipline within the policy's discretionary credit limit threshold; document the SME's credit-management procedures (the insurer can deny claims where procedure was breached); review the SME's customer concentration regularly.
 
 For an SME whose customer has just filed under IRDA Part 5, Part 7, or Part 8, the immediate workflow is: notify the Trade Credit insurer within the policy window; cease further credit extension; review existing contracts for pre-filing breach grounds for termination (section 440 does not protect against non-insolvency termination); submit proof of debt with the appointed insolvency practitioner; consider joining an ad-hoc creditors' committee.
 
@@ -194,11 +194,11 @@ For directors of the SME, the wrongful trading section 239 IRDA defence requires
 
 ### Related Information
 
-- [Article 261 - IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
-- [Article 292 - Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
-- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 401 - How to Run a Pre-Renewal Data Sprint: The 90/60/30-Day Window for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
+- [IRDA 2018: What Singapore SMEs Do When Their Customer Enters Judicial Management or Scheme of Arrangement](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management)
+- [Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
 
 ---

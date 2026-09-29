@@ -165,12 +165,12 @@ For motor specifically, the MV Act sections 9 and 10 statutory framework gives t
 
 ### Related Information
 
-- [Article 392 - GPA vs GTL: Group Personal Accident vs Group Term Life Decision Framework for Singapore SMEs](/comparison/group-personal-accident-vs-group-term-life-sme)
-- [Article 396 - Annual Fleet Rated vs Individual Vehicle Basis Commercial Motor for Singapore SMEs](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
-- [Article 391 - EPL Standalone vs Bundled in Management Liability Programme for Singapore SMEs](/comparison/epl-standalone-vs-bundled-management-liability-sme)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 273 - Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
-- [Article 255 - Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
+- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
+- [EPL Standalone vs EPL Bundled within Management Liability: A Singapore SME Coverage Decision Framework](/comparison/epl-standalone-vs-bundled-management-liability-sme)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Defense Costs Inside Limits vs Defense Costs Outside Limits: The Liability Programme Decision Framework](/comparison/defense-costs-inside-vs-outside-limits-liability)
+- [Contracts (Rights of Third Parties) Act 2001: Additional Insured Rights and Commercial Implications](/document-legal/crotpa-2001-additional-insured-third-party-rights)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

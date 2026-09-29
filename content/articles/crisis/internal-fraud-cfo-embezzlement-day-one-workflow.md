@@ -205,11 +205,11 @@ For directors, the section 157 duty-of-diligence defence requires documented dec
 
 ### Related Information
 
-- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 364 - Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
-- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
+- [Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision](/crisis/ransomware-active-negotiation-phase)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 
 ---

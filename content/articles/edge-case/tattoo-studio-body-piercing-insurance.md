@@ -33,7 +33,7 @@ Singapore's tattoo and body piercing industry has matured significantly with est
 
 **Public-health and hygiene** - the premises must meet [NEA](https://www.nea.gov.sg/) public-health standards, which cover hygiene protocols, waste management (notably sharps disposal), and premises requirements.
 
-**SCDF / URA** - the standard SME premises requirements for retail / commercial premises: a Fire Safety Certificate and zoning compliance for the activity.
+**SCDF / URA** - the standard SME premises requirements for retail / commercial premises: a [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) and zoning compliance for the activity.
 
 **No dedicated tattoo licensing.** Unlike some jurisdictions (the UK and parts of Australia license tattoo studios specifically), Singapore has no dedicated national tattoo-studio licensing framework. Operations are governed by the general public-facing-premises standards and NEA's hygiene requirements.
 
@@ -204,7 +204,7 @@ The tattoo studio insurance build is moderate-cost but specialised. Standard SME
 
 ### Related Information
 - [Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)](/edge-case/mobile-beauty-wellness-insurance)
-- /decision-tree/opening-aesthetic-medspa-checklist
+- [Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist](/decision-tree/opening-salon-checklist)
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

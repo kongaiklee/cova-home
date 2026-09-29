@@ -25,7 +25,7 @@ og_description: "Singapore migrant worker medical insurance entered Stage 2 on 1
 
 ### The Sourced Detail
 
-The Stage 2 MWMI implementation is the most significant change to foreign worker medical insurance in Singapore in a decade. The framework affects every SME employing Work Permit or S Pass holders - totalling approximately 1.2 million workers across construction, manufacturing, F&B, healthcare, marine, retail and services.
+The Stage 2 MWMI implementation is the most significant change to [foreign worker medical insurance](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore) in Singapore in a decade. The framework affects every SME employing Work Permit or S Pass holders - totalling approximately 1.2 million workers across construction, manufacturing, F&B, healthcare, marine, retail and services.
 
 #### Regulatory framework
 
@@ -260,7 +260,7 @@ The cost of MWMI compliance is meaningful but bounded - typical annual cost for 
 
 ### Related Information
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
-- /document-legal/foreign-worker-medical-insurance-statutory-framework
+- [Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

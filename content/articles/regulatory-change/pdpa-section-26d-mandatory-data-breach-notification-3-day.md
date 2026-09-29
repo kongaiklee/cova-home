@@ -172,11 +172,11 @@ For SMEs operating across borders, the section 26D PDPA clock interacts with for
 
 ### Related Information
 
-- [Article 270 - Cybersecurity Act 2024 CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
-- [Article 365 - Day One of a Ransomware Negotiation: The Singapore SME Response Framework](/crisis/ransomware-active-negotiation-phase)
-- [Article 364 - Day One of a Business Email Compromise Wire Fraud Loss: The Singapore SME Response Framework](/crisis/bec-wire-fraud-loss-discovered)
-- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
-- [Article 408 - How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision](/crisis/ransomware-active-negotiation-phase)
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
+- [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

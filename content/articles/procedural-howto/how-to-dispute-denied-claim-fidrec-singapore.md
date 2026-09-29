@@ -81,6 +81,8 @@ Before FIDReC, the SME must:
 
 The "final response" letter is a key procedural document. It must explicitly state insurer's final position and reference dispute resolution rights.
 
+The insurer-side steps, from getting the denial and its clause in writing to the appeal to the Chief Executive, are set out in [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim).
+
 **Step 2 - Obtain the insurer's final reply.**
 
 FIDReC requires that the SME has first given the insurer the opportunity to resolve the dispute. The insurer's written **final reply** is the trigger document - there is no mandatory waiting period after it is received, and the SME may proceed straight to FIDReC. The **6-month** filing clock runs from the date of that final reply.
@@ -215,7 +217,7 @@ The expansion of FIDReC jurisdiction to SMEs represents a material improvement i
 
 ### Related Information
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
-- /document-legal/financial-services-and-markets-act-singapore
-- /crisis/denied-claim-response-framework
+- [When to Engage FIDReC, the Court, or Your Insurer Direct: A Singapore SME's Dispute-Resolution Decision Tree](/decision-tree/insurance-dispute-resolution-fidrec-court-insurer-singapore)
+- [How to Dispute a Denied Insurance Claim in Singapore](/procedural-howto/dispute-denied-claim)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

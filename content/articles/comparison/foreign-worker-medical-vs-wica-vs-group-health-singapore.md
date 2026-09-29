@@ -111,6 +111,7 @@ Covarage helps with the part that quietly goes wrong here: keeping the medical i
 - [What Are S Pass Employers' Medical Insurance Obligations?](/document-legal/s-pass-employer-medical-insurance-obligations)
 - [Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
-- [Group Personal Accident vs Group Term Life for SMEs](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

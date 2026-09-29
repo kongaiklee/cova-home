@@ -46,9 +46,9 @@ BI claim handling is the most operationally and quantitatively demanding insuran
 
 **Specific BI procurement discipline.**
 
-Per [Article 159](/comparison/bi-vs-cbi-worked-example):
+Per [Article 159](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore):
 
-- Sum insured matched to gross profit
+- [Sum insured matched to gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore)
 - Operational indemnity period matched to operational restoration reality
 - Operational specific deductible structure (per [Article 195](/comparison/bi-deductible-structures))
 - Operational specific extension considerations

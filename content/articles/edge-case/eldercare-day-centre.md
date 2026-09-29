@@ -218,8 +218,9 @@ The cost of properly structured eldercare cover is typically SGD 8,000-25,000 an
 5. For Loss of Licence exposure, is there a meaningful cover option given the operational dependency on HCSA / AIC continuity?
 
 ### Related Information
-- /comparison/professional-indemnity-vs-medical-malpractice
-- /document-legal/hcsa-licensing-framework
+- [What Insurance Does an MOH Nursing Home or Eldercare Licence Need in Singapore?](/licensing/moh-nursing-home-licence-insurance-singapore)
+- [Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know](/regulatory-change/hcsa-full-implementation-review)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

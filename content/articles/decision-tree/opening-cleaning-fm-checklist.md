@@ -249,9 +249,9 @@ For facilities management operations extending beyond cleaning (mechanical maint
 5. For customer contract indemnity provisions, how should cover scope coordinate with contract structure?
 
 ### Related Information
-- /comparison/wica-designated-panel-vs-common-law-employers-liability-extension
+- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate](/comparison/wica-panel-vs-cw-el-extension)
 - [Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-private-security-firm-checklist)
-- /procedural-howto/wica-claim-process-walkthrough
+- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

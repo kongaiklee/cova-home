@@ -75,7 +75,7 @@ Cash escort and valuables-in-transit work carries an acute risk profile - armed-
 
 Security operations carry substantial [WICA](https://sso.agc.gov.sg/Act/WICA2019) exposure. Most security officers are manual workers within WICA, and the high-frequency injuries are distinctive: injuries sustained during use-of-force incidents, assault injuries where an officer is attacked, traffic-related injuries in mobile patrol, and psychological or stress injuries.
 
-A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/licensing/bca-me-workhead-contractor-insurance-requirements)) and the higher-risk operations. Officer welfare - including psychological support after an incident - is both a duty and an underwriting consideration.
+A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/document-legal/wsha-section-48-director-liability)) and the higher-risk operations. Officer welfare - including psychological support after an incident - is both a duty and an underwriting consideration.
 
 #### Commercial considerations
 
@@ -188,8 +188,9 @@ The security insurance build is comprehensive, reflecting the operational risk p
 5. As I scale or add services, what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-cleaning-fm-business-checklist
+- [Opening a Cleaning or Facilities Management Operation in Singapore: Insurance and Regulatory Checklist](/decision-tree/opening-cleaning-fm-checklist)
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
-- /comparison/wica-vs-employers-liability
+- [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

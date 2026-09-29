@@ -168,7 +168,7 @@ In each case, the insurer's payment is the SME's total recovery; the matter ends
 ### Related Information
 - [Contribution Between Insurers: When Multiple Policies Cover the Same Loss](/procedural-howto/contribution-between-insurers-singapore)
 - [How to Read a Singapore Commercial Insurance Policy: The Six Sections That Matter Most](/document-legal/reading-commercial-insurance-policy-singapore)
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

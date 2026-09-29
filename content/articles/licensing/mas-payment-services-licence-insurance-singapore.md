@@ -66,7 +66,7 @@ MAS sets technology-risk and cyber expectations for licensees through its notice
 
 Here is the one genuine insurance obligation, and it has nothing to do with the payment services licence. Your firm employs people: compliance officers, engineers, operations staff. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the classes the regulations exclude.
 
-That duty is triggered by employment, not by the licence. A solo founder with no staff may fall outside it; a payment firm with a real team is almost always inside it. The mechanics of who must be covered are set out in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+That duty is triggered by employment, not by the licence. A solo founder with no staff may fall outside it; a payment firm with a real team is almost always inside it. The mechanics of who must be covered are set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but a payment firm rarely skips
 

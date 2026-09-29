@@ -84,7 +84,7 @@ The [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) is enacted
 - Sex, marital status, pregnancy status, and caregiving responsibilities
 - Race, religion, and language
 - Disability and mental health conditions
-- See [Article 4](/association/casetrust-renovation-deposit-performance-bond)
+- See [Article 4](/regulatory-change/wfa-2024)
 
 (Note that sexual orientation and gender identity are *not* protected characteristics under the Act.)
 

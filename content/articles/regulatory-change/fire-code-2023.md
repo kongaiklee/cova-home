@@ -58,7 +58,7 @@ This means:
 - Edition of Fire Code applicable to your premises.
 - Whether you operate EV charging, solar PV or ESS on the premises.
 - Whether your premises is a Mass Engineered Timber building.
-- Status of [SCDF Fire Certificate](/regulatory-change/scdf-fc-3-year-2026) (where required).
+- Status of [SCDF Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications) (where required).
 
 **Underwriting differentiation.** Premiums and terms increasingly reflect:
 - Sprinkler protection (always a meaningful pricing variable).
@@ -71,7 +71,7 @@ This means:
 ### Enforcement teeth
 
 Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993):
-- Operating designated premises without a valid [Fire Certificate](/regulatory-change/scdf-fc-3-year-2026) is an offence.
+- Operating designated premises without a valid [Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications) is an offence.
 - Misrepresentation in a Fire Certificate application is an offence.
 - Failure to comply with notices to rectify fire-hazard increases is an offence.
 
@@ -96,9 +96,9 @@ For SMEs in Retail, F&B, Manufacturing and Hospitality:
 5. How does my BI policy handle a forced shutdown for SCDF rectification work?
 
 ## Related Information
-- [SCDF Fire Certificate 36-Month Validity - From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
-- [WICA Compensation Limit Update - 1 November 2025](/regulatory-change/wica-update-nov-2025)
-- [PDPA Amendment 1 October 2022](/regulatory-change/pdpa-2022-penalty)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
 
 ---
 

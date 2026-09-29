@@ -190,7 +190,6 @@ A licensed adviser familiar with travel-industry programmes can structure operat
 
 ### Related Information
 - [Opening a Tour or Travel Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-tour-travel-agency-checklist)
-- /comparison/contingent-business-interruption-vs-business-interruption
-- /procedural-howto/group-travel-incident-response
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

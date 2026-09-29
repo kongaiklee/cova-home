@@ -85,9 +85,9 @@ WICA insurance is the *only* insurance that some Singapore employers legally mus
 5. Are subcontractors and platform workers (post-Platform Workers Act 2024) covered, or do I need separate cover?
 
 ### Related Information
-- WICA 1 November 2025 changes: what employers need to know
-- How to add a new employee to an existing WICA policy
-- Employer duties under WSHA: incident reporting
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
+- [How to Add a New Employee to Existing WICA Policy](/procedural-howto/wica-add-new-employee)
+- [How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

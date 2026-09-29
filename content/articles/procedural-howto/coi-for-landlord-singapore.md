@@ -96,9 +96,10 @@ If your landlord enforces the lease and you cannot produce a valid COI matching 
 5. If the lease requires "primary and non-contributory" wording, does my policy support it?
 
 ### Related Information
-- How to read your commercial insurance policy schedule
-- Public Liability for tenants: lease vs. statutory minimums
-- "Additional insured" vs. "certificate holder": what each means
+- [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
+- [Tenant vs Landlord: Who Insures What Under a Commercial Lease in Singapore](/document-legal/tenant-landlord-insurance-responsibilities-commercial-lease-singapore)
+- [How to Add an Additional Insured to a Singapore Commercial Policy](/procedural-howto/how-to-add-additional-insured-singapore-policy)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

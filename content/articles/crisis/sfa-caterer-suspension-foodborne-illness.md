@@ -298,6 +298,6 @@ The cost of a foodborne-illness incident is substantial and scales with the size
 ### Related Information
 - [Product Recall Order Served by CPSO or HSA: The 24-Hour Window and the BI Cliff](/crisis/product-recall-order-cpso-hsa)
 - [A Customer Group Just Demanded Mass Refunds - What Do I Do Now?](/crisis/mass-refund-demand)
-- /comparison/cpr-vs-pl-recall-extension-singapore-fb
+- [Food Safety and Security Act 2025 Tranche 1 Effective 28 November 2025: F&B Product Liability, Recall, and Contamination Cover Implications for Singapore SMEs](/regulatory-change/fssa-tranche-1-28-november-2025-fb-product-liability)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

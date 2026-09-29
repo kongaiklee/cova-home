@@ -42,7 +42,7 @@ Most pure academic-tuition and enrichment centres fall under MOE registration; t
 
 #### Premises requirements
 
-**SCDF Fire Safety Certificate.** The premises must meet [SCDF](https://www.scdf.gov.sg/) requirements for its occupancy use class - fire-safety equipment, evacuation provisions, and a Fire Safety Manager appointment for larger premises.
+**SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).** The premises must meet [SCDF](https://www.scdf.gov.sg/) requirements for its occupancy use class - fire-safety equipment, evacuation provisions, and a Fire Safety Manager appointment for larger premises.
 
 **URA zoning.** Educational use is permitted only in zones the [URA Master Plan](https://www.ura.gov.sg/) allows, and the position differs across commercial, residential, and mixed-use premises - confirm the zoning before committing to a unit.
 
@@ -218,8 +218,9 @@ The tuition / enrichment insurance build addresses both the regulatory framework
 5. As I scale - more staff, more sites, programme expansion - what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-childcare-preschool-checklist
+- [Opening a Private Kindergarten or Childcare Centre in Singapore: Full Insurance Checklist](/decision-tree/opening-childcare-centre-checklist)
 - [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -12,7 +12,7 @@ const SITE = 'https://covarage.com';
 
 const indexPath = path.join(REPO_ROOT, 'content', 'articles-index.json');
 if (!fs.existsSync(indexPath)) {
-  console.error('content/articles-index.json not found. Run npm run migrate first.');
+  console.error('content/articles-index.json not found. It is committed: restore it with git, never by re-running the migration.');
   process.exit(1);
 }
 const articles = JSON.parse(fs.readFileSync(indexPath, 'utf8'));

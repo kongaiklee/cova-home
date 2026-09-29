@@ -43,7 +43,7 @@ The reach of the regime matters before you decide it does not apply to you. [Sec
 
 Here a genuine insurance obligation enters, and it has nothing to do with the hotel-keeper's licence. A hotel employs people: front desk, housekeeping, kitchen, maintenance, security. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the classes the regulations exclude. Housekeeping and kitchen roles in particular involve manual work, which keeps them well inside the duty.
 
-The trigger is employment, not the hotel-keeper's licence. A serviced apartment run by a sole owner with no staff and no manual workers may fall outside the section 24 duty, while any staffed hotel will be inside it. The detail of who exactly must be covered is in our note on [WICA section 24, the mandatory insurance provision](/document-legal/wica-section-24-mandatory-insurance).
+The trigger is employment, not the hotel-keeper's licence. A serviced apartment run by a sole owner with no staff and no manual workers may fall outside the section 24 duty, while any staffed hotel will be inside it. The detail of who exactly must be covered is in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but a hotel almost always needs
 
@@ -94,9 +94,9 @@ Covarage helps with the part that quietly goes wrong: keeping the registration, 
 ### Related Information
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Boutique Hotel and Hostel Insurance: Singapore Operator Framework](/edge-case/boutique-hotel-hostel-insurance)
-- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
+- [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
-- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example](/comparison/bi-vs-cbi-worked-example)
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

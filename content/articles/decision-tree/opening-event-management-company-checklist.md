@@ -54,7 +54,7 @@ The risk profile and the PL limit follow attendance and venue type:
 
 #### The Public Liability layer
 
-PL is the core event cover. It responds to attendee injury (slip/trip, equipment- or crowd-related), performer injury, property damage, allergic reactions, and incidents such as fire or medical emergency.
+PL is the core event cover. It responds to attendee injury (slip/trip, equipment- or crowd-related), performer injury, property damage, allergic reactions, and incidents such as fire or medical emergency. Matching it to a venue's insurance schedule is set out in [how to obtain event liability insurance for MICE events and venue bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue).
 
 **Limit considerations:**
 - Standard SME PL (S$1M-S$3M) is inadequate for material events
@@ -74,7 +74,7 @@ PL is the core event cover. It responds to attendee injury (slip/trip, equipment
 
 #### Event Cancellation insurance
 
-For material events carrying significant prepaid costs and expected revenue, Event Cancellation responds to cancellation, postponement, or curtailed attendance caused by an insured peril.
+For material events carrying significant prepaid costs and expected revenue, [Event Cancellation insurance](/procedural-howto/event-cancellation-insurance-singapore-sme) responds to cancellation, postponement, or curtailed attendance caused by an insured peril.
 
 **Typically covered perils:** adverse weather (against defined triggers), civil unrest or strikes, transport disruption, and government action.
 
@@ -233,5 +233,7 @@ The event management insurance build varies across the portfolio. The investment
 - [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+- [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
+- [How to Arrange Event Cancellation Insurance for a Singapore SME](/procedural-howto/event-cancellation-insurance-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

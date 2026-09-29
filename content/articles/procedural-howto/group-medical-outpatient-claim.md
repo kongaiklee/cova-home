@@ -20,7 +20,7 @@ og_description: "Outpatient cover for pass holders is governed by MOM's own requ
 ---
 
 > **The Answer in 60 Seconds**  
-> In Singapore, the Ministry of Manpower’s official pages for <a href="https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance">S Pass medical insurance</a> and <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance">migrant worker medical insurance</a> require employers to buy and maintain cover for inpatient care and day surgery, including hospital bills for conditions that may not be work-related. Those pages do not create a universal outpatient GP reimbursement framework. So an outpatient group medical claim usually depends on your employer’s own group benefits plan, panel arrangement, claims form, and submission rules, not on MOM’s minimum hospitalisation requirements.
+> In Singapore, the Ministry of Manpower’s official pages for [S Pass medical insurance](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance) and [migrant worker medical insurance](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) require employers to buy and maintain cover for inpatient care and day surgery, including hospital bills for conditions that may not be work-related. Those pages do not create a universal outpatient GP reimbursement framework. So an outpatient group medical claim usually depends on your employer’s own group benefits plan, panel arrangement, claims form, and submission rules, not on MOM’s minimum hospitalisation requirements.
 
 ### The Step-by-Step
 
@@ -30,7 +30,7 @@ The reason outpatient claims often get mishandled is simple: many employers use 
 - Group outpatient GP or specialist cover.  
 - MOM-mandated medical insurance for S Pass or Work Permit holders.
 
-On MOM’s official <a href="https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance">S Pass medical insurance page</a>, employers must buy and maintain medical insurance covering inpatient care and day surgery, with coverage of at least **S$60,000 per year**. MOM’s <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance">migrant worker medical insurance page</a> states a similar requirement for migrant workers. Those minimums are important, but they are not the same as a general outpatient reimbursement promise.
+On MOM’s official [S Pass medical insurance page](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance), employers must buy and maintain medical insurance covering inpatient care and day surgery, with coverage of at least **S$60,000 per year**. MOM’s [migrant worker medical insurance page](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) states a similar requirement for migrant workers. Those minimums are important, but they are not the same as a general outpatient reimbursement promise.
 
 #### Step 1 - Identify which benefit bucket the bill belongs to
 
@@ -123,7 +123,8 @@ A short internal guide can fix most of this: which clinics are panel, when refer
 - Should our outpatient and hospitalisation benefits stay bundled or be separated at renewal for easier administration?
 
 ### Related Information
-- /comparison/comparegroup-medical-vs-wica
-- /comparison/comparegroup-hospital-vs-outpatient
+- [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
+- [Group Medical Insurance for a Singapore SME: What the Law Requires Without It, What It Covers, and the Tax Rule That Shapes It](/document-legal/group-medical-insurance-complete-guide-singapore-sme)
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
+
 *Published 4 May 2026. Source verified 4 May 2026.*

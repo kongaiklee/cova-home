@@ -37,7 +37,7 @@ Two points matter for an SME. First, the duties differ by pass type: a Work Perm
 
 #### Mandatory medical insurance
 
-Every Work Permit and S Pass holder must be covered by employer-provided medical insurance for inpatient care and day surgery, under the conditions MOM attaches to the pass. The duty is set out in the [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012), whose First Schedule requires the employer to purchase and maintain medical insurance covering the worker's day-surgery and in-patient care costs, plus out-patient treatment arising from that care, for the worker's specified employment period. The cover must be in place before the worker starts and stay valid for the duration of the pass. This is the **Migrant Worker Medical Insurance (MWMI)** requirement, also referred to in MOM materials as Foreign Worker Medical Insurance.
+Every Work Permit and S Pass holder must be covered by employer-provided medical insurance for inpatient care and day surgery, under the conditions MOM attaches to the pass. The duty is set out in the [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012), whose First Schedule requires the employer to purchase and maintain medical insurance covering the worker's day-surgery and in-patient care costs, plus out-patient treatment arising from that care, for the worker's specified employment period. The cover must be in place before the worker starts and stay valid for the duration of the pass. This is the **Migrant Worker Medical Insurance (MWMI)** requirement, also referred to in MOM materials as [Foreign Worker Medical Insurance](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore).
 
 The critical point for any employer reading a figure online: **the minimum annual claim limit and the co-payment structure have been raised in phases by MOM.** The detailed coverage requirements, including the minimum annual claim limit and the co-payment split, are prescribed in the [Eighth Schedule to the Regulations](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ProvIds=Sc8-), and that prescribed detail was amended with effect from 1 July 2025. The enhancement moved through staged effective dates, with later stages introducing age-differentiated premiums, standardised exclusions, and direct hospital reimbursement. Because the number has changed and may change again, do not rely on a figure from memory or an old broker quote. Confirm the current minimum sum and the current co-payment split from the live MOM medical-insurance page, or read the dated articles that track each change: the Stage 2 mechanics for Work Permit and S Pass holders are set out in [Migrant Worker Medical Insurance Stage 2](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums), the compliance steps in [How to Comply with FWMI Stage 2 Requirements](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore), and the S Pass employer view in [S Pass Employers' Medical Insurance Obligations](/document-legal/s-pass-employer-medical-insurance-obligations).
 
@@ -113,18 +113,19 @@ Covarage keeps the moving parts in one place: the medical-insurance policy and i
 ### Related Information
 
 Medical insurance:
+- [Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
 - [Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - [What Are S Pass Employers' Medical Insurance Obligations?](/document-legal/s-pass-employer-medical-insurance-obligations)
 
 Domestic workers:
 - [FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
-- [How to File an FDW Medical Claim by Direct Hospital Reimbursement](/procedural-howto/fdw-direct-hospital-reimbursement)
+- [How to File FDW Medical Claim Direct Hospital Reimbursement](/procedural-howto/fdw-direct-hospital-reimbursement)
 - [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
 
 Bond, WICA, and cost:
-- [How to Obtain a MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
-- [WICA: The Complete Guide for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
-- [MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
+- [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

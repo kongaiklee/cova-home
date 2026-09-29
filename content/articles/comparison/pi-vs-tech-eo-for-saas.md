@@ -105,7 +105,7 @@ Outcome: Tech E&O appropriate, with specific availability provisions checked.
 
 PI: Typically excludes cyber.
 Tech E&O: Specific cyber bridge or coordination with standalone Cyber.
-Cyber Liability: Direct response (see [Article 164](/crisis/cyber-extortion-ransomware) for cyber framework).
+Cyber Liability: Direct response (see [Article 164](/document-legal/cyber-insurance-complete-guide-singapore-sme) for cyber framework).
 
 Outcome: Standalone Cyber is the primary; Tech E&O may provide specific bridge.
 

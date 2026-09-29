@@ -189,7 +189,7 @@ Gaming venues have elevated Cyber exposure:
 - Content distribution systems
 - Live tournament broadcasting infrastructure
 
-Cyber Liability with appropriate limits and BI coverage is essential. See [Article 98](/document-legal/pdpa-section-24-protection-obligation).
+Cyber Liability with appropriate limits and BI coverage is essential. See [Article 98](/document-legal/cyber-insurance-complete-guide-singapore-sme).
 
 #### Tournament and event considerations
 

@@ -156,11 +156,11 @@ For tenants under HDB Commercial, JTC, or SLA leases, Reinstatement basis is alm
 
 ### Related Information
 
-- [Article 275 - First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
-- [Article 254 - Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
-- [Article 277 - Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
-- [Article 388 - PSSCOC-lite Tender Lite for Construction Projects: Effective 1 May 2025](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [Article 389 - MAS AI Risk Management Guidelines Consultation P017-2025](/regulatory-change/mas-ai-risk-management-guidelines-consultation-13-november-2025)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
+- [Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [MAS Consultation on AI Risk Management Guidelines (13 November 2025): Tech E&O and D&O Implications for Singapore SME AI Vendors](/regulatory-change/mas-ai-risk-management-guidelines-consultation-13-november-2025)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

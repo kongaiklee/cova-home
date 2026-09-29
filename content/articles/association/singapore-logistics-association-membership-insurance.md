@@ -104,7 +104,7 @@ Covarage helps with the part that quietly goes wrong: keeping the cargo, propert
 
 ### Related Information
 - [Logistics and 3PL Operators in Singapore: Bailment Liability, Cargo, and Warehouse Cover](/edge-case/logistics-3pl-bailment-cargo-warehouse-insurance-singapore)
-- [SME Startup Decision Tree: Logistics and 3PL Operator Foundational Insurance Procurement](/decision-tree/logistics-3pl-operator)
+- [SME Startup Decision Tree: Logistics and 3PL Operator - Foundational Insurance Procurement](/decision-tree/logistics-3pl-operator)
 - [Opening a Logistics, Warehousing, or Freight Forwarding Operation in Singapore: Full Insurance Checklist](/decision-tree/opening-logistics-warehousing-checklist)
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 - [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)

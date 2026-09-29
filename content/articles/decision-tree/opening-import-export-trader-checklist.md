@@ -213,8 +213,8 @@ The trading insurance build is comprehensive, reflecting the operational complex
 
 ### Related Information
 - [Opening a Logistics, Warehousing, or Freight Forwarding Operation in Singapore: Full Insurance Checklist](/decision-tree/opening-logistics-warehousing-checklist)
-- /procedural-howto/marine-cargo-claim-process
-- /procedural-howto/bec-social-engineering-claim-process
+- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

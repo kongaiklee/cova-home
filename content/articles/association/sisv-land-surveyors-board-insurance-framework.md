@@ -175,12 +175,12 @@ For SMEs straddling multiple divisions (the typical Singapore SME surveying prac
 
 ### Related Information
 
-- [Article 271 - Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 281 - Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications](/association/singapore-institute-of-architects-boa-insurance-framework)
-- [Article 282 - Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications](/association/ies-peb-professional-engineers-insurance-framework)
-- [Article 264 - MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
-- [Article 279 - Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices](/association/singapore-institute-of-architects-boa-insurance-framework)
+- [Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices](/association/ies-peb-professional-engineers-insurance-framework)
+- [MOM Designated Insurer List Mechanics: How Insurers Get Added, Removed, and Reclassified Under WICA 2019](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

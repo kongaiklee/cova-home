@@ -43,7 +43,7 @@ For commercial general insurance specifically, the parallel category is the **MA
 
 #### What the regulatory standard actually requires
 
-Per **section 36 of the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16)** (Notice on Recommendations on Investment Products), a licensed financial adviser must have a reasonable basis for any recommendation made in respect of an investment product to a person who may reasonably be expected to rely on the recommendation, having due regard to the client's investment objectives, financial situation, and particular needs. The duty applies to tied and independent representatives equally - the standard of care does not change with distribution channel. FAA-N16 also imposes a fact-find obligation: the adviser must take reasonable steps to ascertain the client's investment objectives, financial situation, particular needs, risk tolerance, and any other matters reasonably relevant to making the recommendation, and to document the basis for the recommendation.
+Per **section 36 of the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16)** (Notice on Recommendations on Investment Products), a licensed financial adviser must have a reasonable basis for any recommendation made in respect of an investment product to a person who may reasonably be expected to rely on the recommendation, having due regard to the client's investment objectives, financial situation, and particular needs. The duty applies to tied and independent representatives equally - the standard of care does not change with distribution channel. FAA-N16 also imposes a fact-find obligation: the adviser must take reasonable steps to ascertain the client's investment objectives, financial situation, particular needs, risk tolerance, and any other matters reasonably relevant to making the recommendation, and to document the basis for the recommendation. What that record must hold, and how a breach is proved, is set out in [the reasonable basis duty under FAA-N16](/document-legal/faa-n16-reasonable-basis).
 
 So the *standard* of advice is the same. What differs is the *range* the adviser can draw from. A tied agent giving advice in good faith may sincerely conclude that their principal's product is the best fit - but they cannot offer the buyer the alternative of comparing it against another insurer's product, because they don't sell it.
 
@@ -101,6 +101,6 @@ For founders evaluating advisers, the diligence is not philosophical (tied vs in
 ### Related Information
 - [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
-- /mas-faa-n02/introducer-explained
+- [MAS Notice FAA-N02: Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

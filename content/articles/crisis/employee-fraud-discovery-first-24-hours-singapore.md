@@ -148,6 +148,6 @@ The 24-hour window establishes the response position. The subsequent weeks invol
 ### Related Information
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook](/crisis/customer-bodily-injury-premises-first-48-hours-singapore)
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*

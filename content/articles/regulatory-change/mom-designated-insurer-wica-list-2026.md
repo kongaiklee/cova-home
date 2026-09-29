@@ -115,8 +115,8 @@ Companies typically need to consider three structural points when buying WICA: (
 ### Related Information
 
 - [MOM Platform Operator Designated Insurer (Singapore 2025)](/regulatory-change/mom-platform-operator-designated-insurer-2025)
-- [BCA CRS bizSAFE Level 3 - Insurance Proof](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
-- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
+- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)](/procedural-howto/mas-register-verify-insurance-broker)
 
 ---
 

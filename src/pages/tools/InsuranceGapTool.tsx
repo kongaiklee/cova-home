@@ -2,6 +2,7 @@ import { useMemo, useRef, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, RotateCcw } from 'lucide-react';
 import Seo, { SITE_URL } from '../../components/Seo';
+import { articleUrl } from '../../content/articles';
 import { track } from '../../lib/analytics';
 import {
   ALL_ITEMS,
@@ -187,7 +188,7 @@ export default function InsuranceGapTool() {
                             <p className="text-sm/relaxed text-text-primary">{item.statement}</p>
                             {item.href && (
                               <Link
-                                to={item.href}
+                                to={articleUrl(item.href)}
                                 className="mt-2 inline-flex items-center gap-1 text-sm font-medium text-primary hover:text-primary-hover"
                               >
                                 Read the guide

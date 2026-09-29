@@ -3,6 +3,26 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/guides/regulatory-change/scdf-fc-36-month-renewal-2026",
+      "destination": "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026",
+      "permanent": true
+    },
+    {
+      "source": "/guides/regulatory-change/scdf-fc-36-month-renewal-2026/",
+      "destination": "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026",
+      "permanent": true
+    },
+    {
+      "source": "/regulatory-change/scdf-fc-36-month-renewal-2026",
+      "destination": "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026",
+      "permanent": true
+    },
+    {
+      "source": "/regulatory-change/scdf-fc-36-month-renewal-2026/",
+      "destination": "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026",
+      "permanent": true
+    },
+    {
       "source": "/:category(regulatory-change|procedural-howto|comparison|crisis|association|document-legal|emerging-risk|edge-case|cross-border|decision-tree|licensing)/:path*",
       "has": [
         {

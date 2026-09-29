@@ -94,7 +94,7 @@ Per the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993), most commerc
 - Fire Safety Certificate before occupation
 - Annual or 3-year (from 1 April 2026) Fire Certificate renewal where applicable
 
-See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) on FSC application process. Property and fire insurance policies typically include a "compliance with fire safety requirements" warranty - a lapsed FC can void the policy.
+See [how to apply for a Fire Safety Certificate (FSC)](/procedural-howto/apply-fsc-scdf-fire-safety-certificate). Property and fire insurance policies typically include a "compliance with fire safety requirements" warranty - a lapsed FC can void the policy.
 
 **8. Foreign worker permits (if applicable)**
 
@@ -189,7 +189,7 @@ Each policy renews annually. To avoid Section 25 WICA gaps and lease compliance 
 3. **Forgetting Product Liability separately from PL.** Food contamination claims fall outside standard PL. See [Article 70](/comparison/pl-vs-product-liability).
 4. **Not adding landlord as additional insured / indemnity to principal.** Lease compliance breach. See [Article 59](/document-legal/indemnity-to-principal).
 5. **Taking a "PAR sub-limit Cyber" view when POS data is material.** Inadequate cover. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
-6. **Letting FC lapse.** Fire policy warranty breach can void the entire claim. See [Article 36](/procedural-howto/apply-fsc-scdf-fire-safety-certificate).
+6. **Letting FC lapse.** Fire policy warranty breach can void the entire claim. See [what an FC lapse means for your fire insurance](/licensing/scdf-fire-safety-certificate-insurance-implications).
 7. **Misclassifying baristas as "non-manual."** They are manual workers under WICA regardless of salary level.
 8. **Treating insurance as a one-day sprint at opening.** It's a 90-day procurement cycle and an annual renewal discipline.
 

@@ -222,7 +222,7 @@
     "updated": "2026-09-11"
   },
   {
-    "title": "Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025",
+    "title": "Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025",
     "slug": "/document-legal/foreign-worker-medical-insurance-complete-guide-singapore",
     "category": "document-legal",
     "intent": "get-it-right",
@@ -242,7 +242,7 @@
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1981,
     "article_number": 526,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs",
@@ -1573,7 +1573,7 @@
     "updated": "2026-09-11"
   },
   {
-    "title": "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers",
+    "title": "WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers",
     "slug": "/document-legal/wica-complete-guide-singapore-employers",
     "category": "document-legal",
     "intent": "get-it-right",
@@ -1590,7 +1590,7 @@
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 2286,
     "article_number": 464,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "Does an Employment Agency Licence Require Insurance in Singapore?",
@@ -3374,7 +3374,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications",
+    "title": "Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)",
     "slug": "/regulatory-change/bca-crs-expansion-national-registry-1-june-2025",
     "category": "regulatory-change",
     "intent": "know-where-you-stand",
@@ -3395,7 +3395,7 @@
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1959,
     "article_number": 384,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact",
@@ -5194,7 +5194,7 @@
     "hero_image": "/assets/blog/cross-border.jpg",
     "word_count": 2014,
     "article_number": 309,
-    "updated": "2026-08-30"
+    "updated": "2026-09-29"
   },
   {
     "title": "Regional Public Liability and Product Liability: Cross-Border Operations Coverage",
@@ -5703,11 +5703,11 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-14",
-    "meta_description": "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance.",
+    "meta_description": "Must a Singapore doctor hold medical indemnity? What the Medical Registration Act and the SMC Ethical Code say, and how the SMC and SMA roles differ.",
     "hero_image": "/assets/blog/association.jpg",
     "word_count": 1867,
     "article_number": 286,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "Law Society of Singapore Compulsory Professional Indemnity Insurance Scheme: Statutory Framework and Insurance Implications",
@@ -6160,9 +6160,9 @@
     "category": "regulatory-change",
     "intent": "know-where-you-stand",
     "topics": [
+      "Construction",
       "Work Injury (WICA)",
-      "Foreign Workers",
-      "Professional Indemnity"
+      "Foreign Workers"
     ],
     "industries": [
       "Construction"
@@ -8127,11 +8127,11 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-05",
-    "meta_description": "Two MAS Notices decide what a licensed adviser must tell you and when. Where FAA-N16 and FAA-N20 now stand, and the protection they put behind advice.",
+    "meta_description": "FAA-N20 ties an adviser's pay to the quality of advice, not sales alone, and requires an independent sales audit. What it and FAA-N16 mean for an SME.",
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1100,
     "article_number": 177,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "Healthcare Services Act 2020 Full Implementation Review: What Singapore Healthcare Operators Need to Know",
@@ -8173,26 +8173,6 @@
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1252,
     "article_number": 175,
-    "updated": "2026-08-30"
-  },
-  {
-    "title": "SCDF Fire Certificate 36-Month Renewal Cycle from 1 April 2026: Operator Readiness",
-    "slug": "/regulatory-change/scdf-fc-36-month-renewal-2026",
-    "category": "regulatory-change",
-    "intent": "know-where-you-stand",
-    "topics": [
-      "Property & Fire"
-    ],
-    "industries": [],
-    "agencies": [
-      "SCDF",
-      "Singapore Statutes"
-    ],
-    "published": "2026-05-05",
-    "meta_description": "Singapore's SCDF Fire Certificate runs 36 months from 1 April 2026, not one year, with fees once per cycle. What changes in your renewal file.",
-    "hero_image": "/assets/blog/regulatory-change.jpg",
-    "word_count": 1339,
-    "article_number": 174,
     "updated": "2026-08-30"
   },
   {
@@ -9629,7 +9609,7 @@
     "hero_image": "/assets/blog/decision-tree.jpg",
     "word_count": 1586,
     "article_number": 112,
-    "updated": "2026-08-30"
+    "updated": "2026-09-29"
   },
   {
     "title": "Opening a Real Estate Agency in Singapore: Full Insurance Checklist",
@@ -9924,7 +9904,7 @@
     "hero_image": "/assets/blog/association.jpg",
     "word_count": 1664,
     "article_number": 100,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "WICA Designated Insurer Regulations: How the MOM List Actually Works",
@@ -10632,11 +10612,11 @@
       "Courts"
     ],
     "published": "2026-05-04",
-    "meta_description": "An adviser who recommends without documenting why has breached paragraph 8. What MAS Notice FAA-N16 puts on the file, and how a breach is proved.",
+    "meta_description": "An adviser who recommends without documenting why has breached paragraph 35. What MAS Notice FAA-N16 puts on the file, and how a breach is proved.",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1574,
     "article_number": 68,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure",
@@ -11342,7 +11322,7 @@
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1077,
     "article_number": 32,
-    "updated": "2026-08-30"
+    "updated": "2026-09-29"
   },
   {
     "title": "How to File a WICA Claim - Step by Step (Singapore)",
@@ -11577,7 +11557,7 @@
     "updated": "2026-09-11"
   },
   {
-    "title": "SCDF Fire Certificate: 36-Month Validity From 1 April 2026",
+    "title": "SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026",
     "slug": "/regulatory-change/scdf-fc-3-year-2026",
     "category": "regulatory-change",
     "intent": "know-where-you-stand",
@@ -11595,7 +11575,7 @@
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 991,
     "article_number": 20,
-    "updated": "2026-08-30"
+    "updated": "2026-09-29"
   },
   {
     "title": "Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing",
@@ -11772,7 +11752,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses",
+    "title": "SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses",
     "slug": "/licensing/scdf-fire-safety-certificate-insurance-implications",
     "category": "licensing",
     "intent": "know-where-you-stand",
@@ -11788,11 +11768,11 @@
       "MAS"
     ],
     "published": "2026-05-03",
-    "meta_description": "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for.",
+    "meta_description": "Singapore's SCDF Fire Certificate keeps a designated building occupied. Which buildings need one, what the law requires, and what fire insurers ask for.",
     "hero_image": "/assets/blog/licensing.jpg",
     "word_count": 1374,
     "article_number": 10,
-    "updated": "2026-09-11"
+    "updated": "2026-09-29"
   },
   {
     "title": "MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)",

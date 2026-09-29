@@ -21,7 +21,7 @@ og_description: "Whole turnover covers your whole ledger, single buyer covers on
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs trading on credit terms face two structural choices for trade credit insurance: (1) **Whole Turnover** - blanket policy covering all qualifying buyers under a single credit-management discipline, with the insurer monitoring all approved counterparties; (2) **Single-Buyer / Key-Accounts** - focused policy covering one named high-risk customer or a select group of key accounts. Both approaches protect against buyer payment default - insolvency, prolonged default, or political risk for export receivables. **Indemnity ratio:** typically 75-95% for private buyers; up to 100% for sovereign / quasi-sovereign buyers. **Premium:** 0.05-0.6% of gross monthly sales (typical 0.2%) for whole turnover; per-buyer pricing for single-buyer cover. The four major trade credit underwriters in Singapore are [Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html) (formerly Euler Hermes), Atradius, Coface, and Tokio Marine HCC. Marsh, Aon, WTW, and Howden distribute. Per [GIA FY2024 sector data](https://gia.org.sg/), Trade Credit / Surety / Bonds sit within the offshore Miscellaneous category. **Decision factor:** SMEs with concentrated risk (single buyer >30% revenue) typically benefit from single-buyer cover; diversified exporters benefit from whole-turnover discipline. Receivables typically represent a substantial proportion of business value for trade-credit-exposed SMEs; confirm the receivables-to-balance-sheet ratio against the firm's own management accounts rather than industry rules of thumb.
+> Singapore SMEs trading on credit terms face two structural choices for [trade credit insurance](/document-legal/trade-credit-insurance-how-it-works-singapore): (1) **Whole Turnover** - blanket policy covering all qualifying buyers under a single credit-management discipline, with the insurer monitoring all approved counterparties; (2) **Single-Buyer / Key-Accounts** - focused policy covering one named high-risk customer or a select group of key accounts. Both approaches protect against buyer payment default - insolvency, prolonged default, or political risk for export receivables. **Indemnity ratio:** typically 75-95% for private buyers; up to 100% for sovereign / quasi-sovereign buyers. **Premium:** 0.05-0.6% of gross monthly sales (typical 0.2%) for whole turnover; per-buyer pricing for single-buyer cover. The four major trade credit underwriters in Singapore are [Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html) (formerly Euler Hermes), Atradius, Coface, and Tokio Marine HCC. Marsh, Aon, WTW, and Howden distribute. Per [GIA FY2024 sector data](https://gia.org.sg/), Trade Credit / Surety / Bonds sit within the offshore Miscellaneous category. **Decision factor:** SMEs with concentrated risk (single buyer >30% revenue) typically benefit from single-buyer cover; diversified exporters benefit from whole-turnover discipline. Receivables typically represent a substantial proportion of business value for trade-credit-exposed SMEs; confirm the receivables-to-balance-sheet ratio against the firm's own management accounts rather than industry rules of thumb.
 
 ## What Trade Credit Insurance Does
 
@@ -290,13 +290,13 @@ Your licensed adviser should walk you through the portfolio analysis, the major 
 
 ## Related Information
 
-- [Trade Credit vs Letters of Credit](/comparison/trade-credit-vs-letters-of-credit)
-- [Surety vs Performance Bond](/comparison/surety-vs-performance-bond)
-- [Marketlend / QBE Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
-- [Annual Open Cover Marine Cargo vs Specific Voyage Policy](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme) (article 397)
-- [Trade Credit Claim Process](/procedural-howto/trade-credit-claim-process)
-- [BI vs CBI Worked Example](/comparison/bi-vs-cbi-worked-example)
-- [How to Verify a Commercial Insurance Quote Before Bind](/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore) (article 407)
+- [Trade Credit Insurance vs Letters of Credit: Two Approaches to Customer Payment Risk](/comparison/trade-credit-vs-letters-of-credit)
+- [Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate](/comparison/surety-vs-performance-bond)
+- [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
+- [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
+- [Trade Credit Claim Submission Process: From Customer Default to Insurer Recovery](/procedural-howto/trade-credit-claim-process)
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
+- [How to Verify a Commercial Insurance Quote Before You Bind: The Pre-Bind Checklist for Singapore SMEs](/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

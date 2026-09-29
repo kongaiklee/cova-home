@@ -149,7 +149,7 @@ The structures interact differently with different jurisdictions:
 DIC/DIL alone is rarely viable for material US operations.
 
 **Australia.** Master/Local commonly used due to:
-- State-by-state Workers' Compensation (see [Article 157](/cross-border/sg-sme-australia-operations))
+- State-by-state Workers' Compensation (see [Article 157](/cross-border/sg-sme-us-operations))
 - Specific Superannuation Guarantee compliance
 - Specific local regulatory frameworks
 
@@ -161,7 +161,7 @@ DIC/DIL works for limited Australian exposures.
 - DIC/DIL for broader cover
 
 **Hong Kong.** Master/Local works well due to:
-- Mandatory Employees' Compensation (Cap. 282) (see [Article 102](/association/sfa-licensing-tiers-insurance))
+- Mandatory Employees' Compensation (Cap. 282) (see [Article 102](/cross-border/sg-sme-hong-kong-operations))
 - Specific MPF coordination
 - Local PDPO (Cap. 486)
 

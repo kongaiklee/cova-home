@@ -63,11 +63,11 @@ An event runs on contractors - rigging, audio-visual and production, catering, s
 
 #### Cancellation and abandonment - read the exclusions
 
-Cancellation cover is where expectations and policy wording most often diverge. Policies typically respond to a defined list of perils - for example a fire or structural failure at the venue, or (where specifically insured) the illness of a key person. Just as important is what is usually **excluded** unless specifically endorsed: **adverse weather**, **communicable disease**, **government order**, and simple **lack of attendance or commercial failure** are commonly outside standard cancellation cover. An organiser relying on cancellation cover should read the insured-perils list and the exclusions before the event, not after.
+Cancellation cover is where expectations and policy wording most often diverge. Policies typically respond to a defined list of perils - for example a fire or structural failure at the venue, or (where specifically insured) the illness of a key person. Just as important is what is usually **excluded** unless specifically endorsed: **adverse weather**, **communicable disease**, **government order**, and simple **lack of attendance or commercial failure** are commonly outside standard cancellation cover. An organiser relying on cancellation cover should read the insured-perils list and the exclusions before the event, not after. Sizing the sum insured and placing the cover are set out in [how to arrange event cancellation insurance for a Singapore SME](/procedural-howto/event-cancellation-insurance-singapore-sme).
 
 #### Foreign exhibitors and overseas events
 
-A foreign company exhibiting at a Singapore event will usually find that the venue or organiser requires event liability cover that is valid in Singapore and placed with a **MAS-authorised insurer**; a home-country policy may not satisfy the venue's contract. The practical course is to arrange Singapore-valid cover through a licensed adviser. Conversely, an SME running an event outside Singapore should confirm its cover is valid in that jurisdiction.
+An exhibitor's own cover - the stand, the exhibits, their transit, and the set-up and dismantling days - is set out in [exhibition and trade show insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme). A foreign company exhibiting at a Singapore event will usually find that the venue or organiser requires event liability cover that is valid in Singapore and placed with a **MAS-authorised insurer**; a home-country policy may not satisfy the venue's contract. The practical course is to arrange Singapore-valid cover through a licensed adviser. Conversely, an SME running an event outside Singapore should confirm its cover is valid in that jurisdiction.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -123,6 +123,8 @@ The cost of arranging event liability cover is modest relative to an event budge
 - [How to File Public Liability Claim Event Slip And Fall](/procedural-howto/pl-claim-event-slip-fall)
 - [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+- [How to Arrange Event Cancellation Insurance for a Singapore SME](/procedural-howto/event-cancellation-insurance-singapore-sme)
+- [Opening an Event Management Company in Singapore: Full Insurance Checklist](/decision-tree/opening-event-management-company-checklist)
 
 *Published 17 May 2026. Source verified 17 May 2026.*
 

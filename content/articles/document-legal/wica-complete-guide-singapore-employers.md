@@ -1,5 +1,5 @@
 ---
-title: "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers"
+title: "WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers"
 slug: "/document-legal/wica-complete-guide-singapore-employers"
 category: "document-legal"
 intent: "get-it-right"
@@ -9,13 +9,13 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 464
 published: "2026-05-31"
 source_verified: "2026-09-11"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 2286
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers"
 meta_description: "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties."
-og_title: "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers"
+og_title: "WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers"
 og_description: "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties."
 ---
 
@@ -128,7 +128,7 @@ Covarage holds the WIC policy and schedule, the designated-insurer details and t
 ### Related Information
 
 The law:
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Work Injury Regime](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
@@ -136,7 +136,7 @@ The law:
 Insurers and the panel:
 - [WICA Designated Insurer Regulations: How the MOM List Actually Works](/document-legal/wica-designated-insurer-regulations)
 - [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ](/comparison/wica-designated-insurer-panel)
+- [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement](/comparison/wica-designated-insurer-panel)
 
 Claims and process:
 - [How to File a Workplace Accident Notification Under WICA 2019: The 10-Day MOM Rule](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
@@ -146,8 +146,8 @@ Claims and process:
 
 Comparisons:
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
-- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension](/comparison/wica-panel-vs-cw-el-extension)
+- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate](/comparison/wica-panel-vs-cw-el-extension)
 - [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
-- [Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Position](/emerging-risk/platform-gig-workers-wica-singapore)
+- [Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Duty for Singapore Businesses](/emerging-risk/platform-gig-workers-wica-singapore)
 
 *Published 31 May 2026. Source verified 11 September 2026.*

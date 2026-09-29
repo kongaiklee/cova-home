@@ -75,7 +75,7 @@ The clause is **not** typically operative on:
 - **WICA** - the statutory schedule applies regardless of premium.
 - **Motor third-party** - the statutory minimum applies.
 
-For BI specifically, the average clause operates against the **gross profit** basis. If the SME's actual annual gross profit was S$2 million but the BI cover was set against a declared S$1.5 million, a partial-period BI loss is reduced to 75% of what it would otherwise have been.
+For BI specifically, the average clause operates against the [**gross profit** basis](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore). If the SME's actual annual gross profit was S$2 million but the BI cover was set against a declared S$1.5 million, a partial-period BI loss is reduced to 75% of what it would otherwise have been.
 
 #### The "special average" formula
 

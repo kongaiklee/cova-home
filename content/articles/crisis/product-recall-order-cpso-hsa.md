@@ -329,6 +329,6 @@ The cost of product recall is substantial - and, because it is largely first-par
 ### Related Information
 - [SFA Caterer Suspension Order: Restoring Operations After a Foodborne Illness Cluster](/crisis/sfa-caterer-suspension-foodborne-illness)
 - [A Customer Group Just Demanded Mass Refunds - What Do I Do Now?](/crisis/mass-refund-demand)
-- /comparison/cpr-vs-pl-recall-extension-singapore-fb
+- [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
