@@ -523,7 +523,7 @@
   </url>
   <url>
     <loc>https://covarage.com/procedural-howto/cancel-policy-mid-term</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-09-29</lastmod>
   </url>
   <url>
     <loc>https://covarage.com/procedural-howto/coi-for-landlord-singapore</loc>
@@ -817,6 +817,16 @@
        /guides/regulatory-change/scdf-fc-3-year-2026 on 2026-09-29; listed so Google refetches it and sees the 308 -->
   <url>
     <loc>https://covarage.com/guides/regulatory-change/scdf-fc-36-month-renewal-2026</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <!-- merge 3 (CMO route merges-2-3 v1.2; Kong 2026-09-28 "yes to all"): retired into /guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore on 2026-09-29; listed so Google refetches it and sees the 308 -->
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/cancel-policy-mid-term</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
+  <!-- merge 2 (CMO route merges-2-3 v1.2; Kong 2026-09-28 "yes to all"; COO PASS 2026-09-29 19:09): retired into /guides/procedural-howto/how-to-file-wica-claim-singapore-mom on 2026-09-29; listed so Google refetches it and sees the 308 -->
+  <url>
+    <loc>https://covarage.com/guides/procedural-howto/wica-claim-step-by-step-overview</loc>
     <lastmod>2026-09-29</lastmod>
   </url>
 </urlset>

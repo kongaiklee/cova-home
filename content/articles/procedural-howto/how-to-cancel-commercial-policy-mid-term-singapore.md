@@ -8,9 +8,9 @@ industries: []
 agencies: ["Singapore Statutes", "MOM", "Courts", "IRAS"]
 article_number: 406
 published: "2026-05-14"
-source_verified: "2026-05-14"
-updated: "2026-08-30"
-word_count: 3535
+source_verified: "2026-09-29"
+updated: "2026-09-29"
+word_count: 3952
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore"
@@ -18,6 +18,8 @@ meta_description: "Mid-term cancellation looks administrative and is not. Short-
 og_title: "How to Cancel a Commercial Insurance Policy Mid-Term in Singapore: Short-Period Premium, Run-Off, and the Claims-Made Trap"
 og_description: "Mid-term cancellation looks administrative and is not. Short-period retention, run-off exposure and Singapore's statutory floor all bite at once."
 ---
+
+> **The Answer in 60 Seconds:** Read the cancellation clause before giving notice. Confirm the notice method, refund formula and any open claims; arrange replacement first for any compulsory cover; and protect claims-made policies with final circumstance notifications and, where needed, an Extended Reporting Period. A motor vehicle that remains on the road needs replacement third-party cover before the old policy ends. If the issue is the broker rather than the insurer or policy, a broker-of-record letter changes the broker without cancelling the cover.
 
 Mid-term cancellation looks administrative. It is not. It is a contractual termination event with three live exposures that catch Singapore SMEs every cycle: the short-period premium retention formula that reduces the refund below time-on-risk, the run-off exposure for claims that have occurred but not yet been reported, and the trap that destroys cover entirely on claims-made wordings if cancellation is executed without an Extended Reporting Period. Each of these has produced contested outcomes in Singapore practice. Each is avoidable with a structured workflow.
 
@@ -39,7 +41,9 @@ The exact notice periods and refund formula vary by insurer and by line. The SME
 
 When the insured cancels, the refund is typically calculated on a short-period basis rather than pure pro-rata. The insurer retains more than the time-on-risk to compensate for acquisition costs already incurred (broker commission paid up-front, underwriting cost, policy issuance cost).
 
-Singapore has no industry-wide mandated short-period scale. Each insurer's wording governs. The [AIG Singapore Car Insurance FAQ](https://www.aig.sg/home/solutions/personal/frequently-asked-questions/car-insurance-faqs) publishes its motor cancellation formula in plain English: "You will receive a refund of 80% of the premium less a prorated amount to cover the period when you were covered under the policy." Applied to a S$1,200 annual motor premium cancelled at month four, the calculation is: 80% × S$1,200 = S$960; less time-on-risk of (4/12) × S$1,200 = S$400; refund = S$560. A pro-rata calculation would have returned S$800. The short-period retention costs the insured S$240.
+Singapore has no industry-wide mandated short-period scale. Each insurer's wording governs. The [AIG Singapore Car Insurance FAQ](https://www.aig.sg/home/solutions/personal/frequently-asked-questions/car-insurance-faqs) publishes its motor cancellation formula in plain English: "You will receive a refund of 80% of the premium less a prorated amount to cover the period when you were covered under the policy." Applied to a S$1,200 annual motor premium cancelled at month four, the calculation is: 80% x S$1,200 = S$960; less time-on-risk of (4/12) x S$1,200 = S$400; refund = S$560. A pro-rata calculation would have returned S$800. The short-period retention costs the insured S$240.
+
+The [General Insurance Association's motor insurance guidance](https://gia.org.sg/motor-insurance/21-buying-a-motor.html) describes the two approaches: "Some insurers refund the premium on a pro-rata basis with the deduction of a small administration fee. Others use a method that calculates what would have been charged if your policy were a short-term policy. This usually applies if the cancellation is at your request." The policy wording decides which method applies.
 
 For commercial property and liability lines, short-period scales typically range from 25% of annual premium retained for cancellation in the first month, up to the full annual premium retained for cancellation in the last three months. The MSIG SUMO Work Injury Compensation section operates on a more flexible "premium paid less the actual premium payable for the period during which the Section had been in force" - effectively pro-rata with a S$50 minimum retention. The takeaway: the formula is not standard and must be read off the actual wording before issuing the cancellation notice.
 
@@ -47,11 +51,13 @@ Note also: no refund is generally payable if a claim has been made or an inciden
 
 ### 3. The Statutory Floor
 
-For policies satisfying a statutory cover requirement, the cancellation cannot leave the insured without the statutory minimum. Two cases matter for Singapore SMEs.
+For policies satisfying a statutory cover requirement, the cancellation cannot leave the insured without the statutory minimum. Three cases matter for Singapore SMEs.
 
 **Work Injury Compensation insurance.** Under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must maintain WIC insurance for all employees doing manual work, and for non-manual employees earning S$2,600 a month or less. Cancellation without replacement cover creates a personal-liability exposure: the employer remains liable for compensation at common law and under the Act even without insurance, and faces enforcement action from MOM. Per the [Ministry of Manpower's WIC insurance page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation), failure to maintain WIC insurance is an offence under the Act. Cancellation must be sequenced so that replacement cover incepts the same day the original cover terminates.
 
 **Foreign worker medical insurance.** Under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) and the regulations made under it, employers of Work Permit and S Pass holders must maintain medical insurance with the minimum coverage specified by MOM ([currently S$60,000 annual minimum since 1 July 2023](https://www.mom.gov.sg/newsroom/press-releases/2023/0331-implementation-of-enhanced-medical-insurance-for-foreign-employees-to-better-support-employers)). Cancellation without replacement triggers EFMA penalties - fines, work-pass cancellation, and bars on future work-pass applications.
+
+**Motor third-party insurance.** The [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) sets the compulsory floor. As [LTA OneMotoring](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/ongoing-car-costs/insurance.html) states: "Every vehicle driven on Singapore roads must have motor insurance coverage at all times... It is an offence to use a vehicle without valid insurance coverage." If the vehicle will stay on the road, replacement cover starts before the old policy ends. A vehicle that has been sold or deregistered can be cancelled without replacement. The legal minimum itself is set out in [compulsory motor insurance in Singapore](/document-legal/compulsory-motor-insurance-singapore-third-party).
 
 For any policy carrying a statutory floor, the cancellation workflow is "replace then cancel," not "cancel then replace." The order matters.
 
@@ -144,7 +150,7 @@ When the insurer issues the refund, reconcile against the contractual formula. S
 
 - Confirm the refund is calculated on the correct premium base (gross, GST-inclusive).
 - Confirm the short-period scale or pro-rata formula applied matches the wording.
-- Confirm any GST refund is treated correctly - refunded premium typically attracts a corresponding GST adjustment, which for a GST-registered SME means the input tax previously claimed must be reversed in the GST return for the relevant accounting period. Per the [IRAS Goods and Services Tax e-Tax Guides](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-rate-change/gst-rate-change-for-business/overview-of-gst-rate-change), the GST rate has been 9% from 1 January 2024 onwards.
+- Confirm any GST refund is treated correctly - refunded premium typically attracts a corresponding GST adjustment, which for a GST-registered SME means the input tax previously claimed must be reversed in the GST return for the relevant accounting period. The GST rate in Singapore is 9%, per [IRAS's current GST rates page](https://www.iras.gov.sg/taxes/goods-services-tax-%28gst%29/basics-of-gst/current-gst-rates).
 - Confirm no claim retention has been applied unless a claim has actually been made.
 
 If the refund is materially below the formula, dispute it in writing within the policy's complaint window and, if unresolved, escalate to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/). FIDReC has handled SME disputes since 1 July 2025; [its knowledgebase confirms SME access](https://www.fidrec.com.sg/knowledgebase/article/KA-01324/en-us).
@@ -154,6 +160,10 @@ If the refund is materially below the formula, dispute it in writing within the 
 The SME's internal insurance register should be updated to record the cancellation, the effective date, the final refund, the ERP election (if any), the replacement policy details (if any), and the file location for the cancellation correspondence. This is the audit trail. Future advisers, auditors, regulators, and claimants may all need it.
 
 ## Special Cases
+
+### Motor Certificate Return
+
+A private-car wording can tie the cancellation date to the return of the certificate. The [ERGO CarProtect product FAQ](https://www.ergo.com.sg/storage/resources/personal-motor-download-documents/car-protect-product-faq.pdf) says: "The cancellation will take effect from the date we receive your original certificate of insurance and supporting documents, or the date when your car was sold or de-registered, whichever comes first." This is a private-car wording, so a commercial vehicle policyholder must check the applicable policy and form rather than assume the same process.
 
 ### Cancellation by the Insurer
 
@@ -201,9 +211,15 @@ For composite programmes where multiple insurers underwrite different lines, the
 
 **Cancelling group medical without coordinating with HR.** The cancellation is a contract change. The communication to employees is a separate workflow and must precede the effective date.
 
+**Cancelling motor without surrendering the certificate.** Return the original certificate of insurance and any supporting documents the insurer asks for, and obtain written confirmation of the effective cancellation date.
+
+**Cancelling to buy cheaper cover mid-term without running the comparison.** The short-period deduction on the old policy can erase the apparent saving on the new one. Run the full comparison in [switching insurer mid-term](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore). When renewal is close, compare the cost of waiting for the renewal date with the cost of cancelling now.
+
 ## What This Means for Your Business
 
 If you are considering a mid-term cancellation, treat it as a structured project with the eight-step workflow above. Do not cancel by email. Do not cancel without reading the actual wording. Do not cancel a claims-made policy without arranging the ERP. Do not cancel a statutory-floor policy without replacement cover incepting the same day.
+
+If the problem is the broker rather than the policy, a broker-of-record letter can change the servicing broker without cancelling the cover. The handover process is set out in [How to Switch Insurance Brokers Mid-Policy in Singapore](/procedural-howto/switch-broker-mid-policy).
 
 The licensed adviser handling your programme is the right party to run the workflow. Where the adviser is the incumbent on the policy being cancelled and you are switching to a new adviser, expect resistance - the cancellation reduces the incumbent's commission income - and document the cancellation correspondence in writing both ways. If the cancellation is contested (refund disputed, ERP terms disputed), escalate first internally within the insurer, then to FIDReC if unresolved.
 
@@ -227,6 +243,6 @@ The licensed adviser handling your programme is the right party to run the workf
 - [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 - [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
 
-*Published 14 May 2026. Source verified 14 May 2026.*
+*Published 14 May 2026. Source verified 29 September 2026.*
 
 ---
