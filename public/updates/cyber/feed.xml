@@ -6,8 +6,40 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Fri, 25 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JadePuffer agentic AI attacks target Azure, destroy cloud resources</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-28-jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-ai-attacks-target-azure-destroy-cloud-resources/</description>
+    </item>
+    <item>
+      <title>Critical Zero-Day Vulnerabilities Exploited in Citrix NetScaler ADC, Gateway</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-27-critical-zero-day-vulnerabilities-exploited-in-citrix-netscaler-adc-gateway</guid>
+      <pubDate>Sun, 27 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/09/27/critical-zero-day-vulnerabilities-exploited-citrix-netscaler-adc-gateway</description>
+    </item>
+    <item>
+      <title>GitHub Actions re-enabled with Mini Shai-Hulud payload still active</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-26-github-actions-re-enabled-with-mini-shai-hulud-payload-still-active</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/</description>
+    </item>
+    <item>
+      <title>ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-26-shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks</guid>
+      <pubDate>Sat, 26 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/</description>
+    </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
       <link>https://covarage.com/updates/cyber</link>
