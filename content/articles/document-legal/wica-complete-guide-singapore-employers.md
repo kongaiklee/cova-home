@@ -90,7 +90,7 @@ Permanent incapacity is assessed by a doctor after the medical condition has sta
 | Offence ([MOM WIC Guide, Annex D](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf)) | First offence | Second or subsequent |
 |---|---|---|
 | Failure to insure mandatory groups with a designated insurer | Fine up to $10,000 and/or imprisonment up to 12 months | Fine up to $20,000 and/or imprisonment up to 12 months |
-| Failure to notify MOM of a reportable accident in time | Fine up to $5,000 | Fine up to $10,000 and/or imprisonment up to 6 months |
+| Failure to notify MOM of a reportable accident in time ([from 1 June 2024, MOM](https://www.mom.gov.sg/faq/reporting-work-related-accidents/what-are-the-penalties-for-failing-to-report-a-work-related-accident-do-or-od-under-wsh)) | Fine up to $10,000 | Fine up to $20,000, imprisonment up to 6 months, or both (a repeat within 5 years) |
 | Failure to pay compensation | Fine up to $15,000 and/or imprisonment up to 12 months | Fine up to $30,000 and/or imprisonment up to 12 months |
 | Providing false information or statement | Fine up to $5,000 and/or imprisonment up to 6 months | Fine up to $10,000 and/or imprisonment up to 6 months |
 
