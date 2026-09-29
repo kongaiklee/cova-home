@@ -76,9 +76,9 @@ PL is the core event cover. It responds to attendee injury (slip/trip, equipment
 
 For material events carrying significant prepaid costs and expected revenue, [Event Cancellation insurance](/procedural-howto/event-cancellation-insurance-singapore-sme) responds to cancellation, postponement, or curtailed attendance caused by an insured peril.
 
-**Typically covered perils:** adverse weather (against defined triggers), civil unrest or strikes, transport disruption, and government action.
+**Insured causes can include:** adverse weather where it is specifically insured, civil unrest or strikes, transport disruption, and denial of access to the venue by an authority.
 
-**Typically excluded:** lack of commercial demand (low ticket sales), war and terrorism (separate cover), nuclear / radioactive perils, and wilful acts of the organiser.
+**Common exclusions include:** lack of commercial demand (low ticket sales), government action or regulation in some forms, war and terrorism unless separately insured, nuclear or radioactive perils, and wilful acts of the organiser.
 
 **Communicable disease:** since 2020, communicable-disease cancellation is generally excluded from standard Event Cancellation. An extension is sometimes available at additional premium - and the policy's definitions and triggers determine whether it responds at all.
 

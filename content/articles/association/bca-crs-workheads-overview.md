@@ -106,7 +106,7 @@ Different workheads carry different risk profiles and insurance expectations:
 - D&O for incorporated contractors at scale
 
 **Mechanical & Electrical (ME):**
-- The cover an ME contractor carries: [ME workhead insurance requirements](/licensing/bca-me-workhead-contractor-insurance-requirements)
+- Cover options for an ME contractor: [ME workhead insurance requirements](/licensing/bca-me-workhead-contractor-insurance-requirements)
 - Specialist liability for system performance
 - PI for design components
 - WICA for installation crews

@@ -9,7 +9,7 @@ agencies: ["BCA", "MOM"]
 article_number: 21
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 973
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
@@ -25,7 +25,7 @@ og_description: "CW01 is BCA's General Building workhead and CW02 Civil Engineer
 
 CW01 and CW02 are BCA's two main "construction workheads" under the Contractors Registration System (CRS). Per the [BCA CW SRR (Jun 2025 Edition)](https://file.go.gov.sg/bca-crs-srr-cw.pdf), CW01 covers "General Building" and CW02 covers "Civil Engineering," with seven financial grades - A1, A2, B1, B2, C1, C2, C3.
 
-Tendering limits are published on the [BCA Tendering Limits page](https://www1.bca.gov.sg/procurement/pre-tender-stage/contractors-registration-system-crs/crs-tendering-limits). For the current 1 July 2025 to 30 June 2026 validity period, the limits are: **A1 unlimited, A2 S$105m, B1 S$50m, B2 S$16m, C1 S$5m, C2 S$1.6m, C3 S$0.8m** (in million S$). These are the maximum public-sector tender values at each grade.
+Tendering limits are published on the [BCA Tendering Limits page](https://www1.bca.gov.sg/growth-and-transformation/procurement/registration-of-built-environment-firms/tendering-limits/crs-fm-and-sy-registries-tendering-limits/). For the current 1 July 2026 to 30 June 2027 validity period, the limits are: **A1 unlimited, A2 S$105m, B1 S$50m, B2 S$16m, C1 S$5m, C2 S$1.6m, C3 S$0.8m** (in million S$). These are the maximum public-sector tender values at each grade.
 
 Per the CW SRR Jun 2025 Edition Table B1, **minimum paid-up capital** (which equals minimum net worth) at each grade is: **C3 S$50,000, C2 S$100,000, C1 S$300,000, B2 S$1m, B1 S$3m, A2 S$6.5m, A1 S$15m**.
 

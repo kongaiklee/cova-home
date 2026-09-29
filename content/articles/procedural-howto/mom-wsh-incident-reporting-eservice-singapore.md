@@ -250,7 +250,7 @@ A maintenance technician is exposed to a chemical leak and admitted overnight (m
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom) - the work injury compensation (WICA) claim that follows the incident report, from notifying the insurer to payment
 - [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025) - what the higher WICA compensation limits from 1 November 2025 mean for employers
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
-- [SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement](/decision-tree/light-manufacturing-sme) - the cover a light-manufacturing business carries for machinery, products, premises and workplace injury
+- [SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement](/decision-tree/light-manufacturing-sme) - the cover options for a light-manufacturing business facing machinery, product, premises and workplace-injury risks
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 8 May 2026. Source verified 8 May 2026.*

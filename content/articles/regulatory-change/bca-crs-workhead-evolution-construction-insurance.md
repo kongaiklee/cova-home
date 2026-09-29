@@ -39,6 +39,8 @@ The policy rationale is to bring all construction firms employing foreign worker
 
 #### The workhead taxonomy
 
+What each workhead covers, and the cover each registration assumes, is in [BCA CRS workheads and financial grades explained](/association/bca-crs-workheads-overview).
+
 The CRS Guidelines establish seven major registration categories:
 
 **Construction Workhead (CW).** Building and civil engineering main contractor categories. Includes CW01 (General Building) and CW02 (Civil Engineering). Financial grades: C3, C2, C1, B2, B1, A2, A1 (seven grades).
@@ -55,7 +57,7 @@ The CRS Guidelines establish seven major registration categories:
 
 **Regulatory Workhead (RW).** Regulatory specialist categories. Single grading.
 
-Tendering limits per workhead and grade are valid for one year from 1 July to 30 June and are re-tabulated annually at the BCA tendering-limits page. SMEs and brokers should verify current tendering limits at the [CRS Tendering Limits page](https://www1.bca.gov.sg/procurement/pre-tender-stage/contractors-registration-system-crs/crs-tendering-limits).
+Tendering limits per workhead and grade are valid for one year from 1 July to 30 June and are re-tabulated annually at the BCA tendering-limits page. SMEs and brokers should verify current tendering limits at the [CRS Tendering Limits page](https://www1.bca.gov.sg/procurement/pre-tender-stage/contractors-registration-system-crs/crs-tendering-limits). For the CW01 and CW02 figures grade by grade, see [CW01 and CW02 tendering limits by grade](/licensing/bca-cw01-cw02-contractor-insurance-requirements).
 
 Sample minimum paid-up capital values from the current CR SRR: CR08-L1, CR10B-L1, CR12-L1 and CR15 require S$25,000 paid-up capital; CR10A requires S$2 million. The pattern: highly specialised or high-risk categories require materially higher capital.
 
@@ -97,7 +99,7 @@ Application portal: eBACS at [www.bca.gov.sg/eBACS](https://www.bca.gov.sg/eBACS
 
 #### Claim-time worked example
 
-SME B operates as CW02 L4 (civil engineering, L4 grade). It wins a private-sector civil engineering subcontract worth S$22 million.
+SME B operates as CW02 B1 (civil engineering, B1 grade). It wins a private-sector civil engineering subcontract worth S$22 million.
 
 Main contract requirements:
 - Contractors All Risks (CAR) for full contract value (S$22 million).
@@ -114,7 +116,7 @@ SME B's existing programme:
 The procurement workflow:
 - PL uplift required from S$2 million to S$5 million any one occurrence. SME B engages the broker; underwriter requires loss runs, signed work statements, and a site-safety plan referencing the BCA prevailing standards.
 - Premium uplift is meaningful. The broker tests two alternative carriers; the more competitive quote is selected.
-- Concurrently from 1 June 2025: SME B must be CRS-registered to retain foreign construction workers. It meets the uplifted TR and PUC for CW02 L4 (the L4 grade is mid-tier and the threshold is not prohibitive).
+- Concurrently from 1 June 2025: SME B must be CRS-registered to retain foreign construction workers. It meets the uplifted TR and PUC for CW02 B1 (the B1 grade is mid-tier and the threshold is not prohibitive).
 - SME B verifies its named-Insured status on the CAR schedule, the cross-liability clause in PL, and the waiver of subrogation against fellow Insureds.
 
 Subsequent renewal alignment:
