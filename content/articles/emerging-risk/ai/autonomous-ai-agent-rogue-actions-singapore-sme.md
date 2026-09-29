@@ -249,7 +249,7 @@ Three things to do this quarter, before the soft cyber market hardens:
 - [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
 - [When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
 - [AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
-- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty) - the maximum PDPA penalty for a data breach (S$1 million, or 10% of annual Singapore turnover if it exceeds S$10 million) and the 3-day deadline to notify the PDPC
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty) - the maximum PDPA penalty for a data breach (S$1 million, or 10% of annual Singapore turnover if it exceeds S$10 million) and the 3-day deadline to notify the PDPC once a breach is assessed as notifiable
 - [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024) - which provisions of the Cybersecurity (Amendment) Act 2024 took effect on 31 October 2025, and who they now cover
 
 *Published 8 May 2026. Source verified 12 September 2026.*
