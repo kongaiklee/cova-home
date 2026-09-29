@@ -98,7 +98,7 @@ Covarage helps with the part that quietly goes wrong under load: keeping the SCD
 5. Are business interruption and environmental clean-up addressed deliberately, or have we assumed they sit inside the standard property package?
 
 ### Related Information
-- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)

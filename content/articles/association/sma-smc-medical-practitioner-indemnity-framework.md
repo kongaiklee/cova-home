@@ -9,14 +9,14 @@ agencies: ["SMC", "Singapore Statutes"]
 article_number: 286
 published: "2026-05-14"
 source_verified: "2026-09-11"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1867
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/sma-smc-medical-practitioner-indemnity-framework"
-meta_description: "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance."
+meta_description: "Must a Singapore doctor hold medical indemnity? What the Medical Registration Act and the SMC Ethical Code say, and how the SMC and SMA roles differ."
 og_title: "Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications"
-og_description: "SMC regulates and SMA represents. Which body sets your indemnity obligation as a practitioner, and where mutual protection differs from insurance."
+og_description: "Must a Singapore doctor hold medical indemnity? What the Medical Registration Act and the SMC Ethical Code say, and how the SMC and SMA roles differ."
 ---
 
 > **The Answer in 60 Seconds**

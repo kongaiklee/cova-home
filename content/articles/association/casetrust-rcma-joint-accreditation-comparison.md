@@ -79,7 +79,7 @@ The CaseTrust standard renovation contract is itself a risk-management tool: it 
 
 ## Related Information
 - [CaseTrust Renovation: The Deposit Performance Bond Explained](/association/casetrust-renovation-deposit-performance-bond)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [Opening an Interior Design Firm or Renovation Contractor in Singapore: Full Insurance Checklist](/decision-tree/opening-interior-design-renovation-checklist)
 
 *Published 3 May 2026. Source verified 3 May 2026.*

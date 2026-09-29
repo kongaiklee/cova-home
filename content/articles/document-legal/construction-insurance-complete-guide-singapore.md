@@ -118,7 +118,7 @@ Covarage keeps the moving parts of the stack in one place: the CAR and WIC polic
 ### Related Information
 
 The stack and the law:
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 - [What "Indemnity to Principal" Actually Means in Singapore Insurance](/document-legal/indemnity-to-principal)
@@ -138,7 +138,7 @@ Registration, licensing and safety:
 - [BCA Contractors Registration System (CRS): Workheads, Tiers, and Insurance Implications](/association/bca-crs-workheads-overview)
 - [What Insurance Do BCA CW01 and CW02 Contractors Actually Need?](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
 - [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
-- [BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 - [BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)
 - [Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
 - [WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)

@@ -86,7 +86,7 @@ A common compliance error worth flagging: failing to renew the medical insurance
 5. If a worker has a serious illness mid-employment, what's my exposure beyond the insurer's S$60k limit?
 
 ## Related Information
-- [Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
+- [Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
 - [What Insurance Must Employers Provide for Employment Pass Holders?](/document-legal/employment-pass-holder-insurance-requirements)
 - [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
 

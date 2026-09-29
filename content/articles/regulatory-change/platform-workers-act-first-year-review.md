@@ -131,7 +131,7 @@ The PWA framework continues to evolve. First-year implementation has clarified t
 
 ### Related Information
 - [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement](/comparison/wica-designated-insurer-panel)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

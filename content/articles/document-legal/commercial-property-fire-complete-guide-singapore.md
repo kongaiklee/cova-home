@@ -129,7 +129,7 @@ Covarage keeps these moving parts in one place: the policy and schedule, the rei
 The law and the regulators:
 - [Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing](/regulatory-change/fire-code-2023)
 - [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
-- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
 - [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
 
 Choosing the form of cover:

@@ -75,8 +75,8 @@ A common mistake: assuming "BCA registered" implies "insurance handled." BCA's r
 - [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
 - [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
 - [What Is SCAL's SgMA, and How Does It Affect My Insurance?](/association/scal-sgma-impact-on-insurance)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
-- [BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

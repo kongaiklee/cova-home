@@ -90,7 +90,7 @@ Covarage holds the WICA and employers' liability sections, the designated-insure
 5. What does the section exclude, and does it name a retroactive date or a claims-made trigger?
 
 ### Related Information
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate](/comparison/wica-panel-vs-cw-el-extension)
 - [How To Handle Simultaneous Claims WICA And Common Law](/procedural-howto/wica-simultaneous-common-law)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)

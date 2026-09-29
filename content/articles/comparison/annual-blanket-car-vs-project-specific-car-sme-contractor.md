@@ -328,7 +328,7 @@ The licensed adviser handling your CAR placement should walk you through the str
 - [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
 - [Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
 - [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
-- [BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
 - [WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
 - [Per Occurrence vs Aggregate Limits: Limit Structure Comparison](/comparison/per-occurrence-vs-aggregate-limits)

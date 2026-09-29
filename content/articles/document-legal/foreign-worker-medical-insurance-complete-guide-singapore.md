@@ -1,5 +1,5 @@
 ---
-title: "Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025"
+title: "Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025"
 slug: "/document-legal/foreign-worker-medical-insurance-complete-guide-singapore"
 category: "document-legal"
 intent: "get-it-right"
@@ -9,19 +9,19 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 526
 published: "2026-09-11"
 source_verified: "2026-09-11"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1981
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/foreign-worker-medical-insurance-complete-guide-singapore"
 meta_description: "Foreign worker medical insurance in Singapore: at least $60,000 a year per Work Permit or S Pass holder, the co-payment above $15,000, the 2025 changes."
-og_title: "Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025"
+og_title: "Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025"
 og_description: "Foreign worker medical insurance in Singapore: at least $60,000 a year per Work Permit or S Pass holder, the co-payment above $15,000, the 2025 changes."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> An employer must buy and maintain medical insurance for each Work Permit holder it employs, and for each S Pass holder, covering inpatient care and day surgery, including hospital bills for conditions that are not work-related. [MOM](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) sets the coverage at least $60,000 per year per worker, requires the insurance details to be submitted online before it issues the Work Permit, and states that the cost cannot be passed on to the worker. The requirement is a condition of the work pass under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990), and [section 22(1)(a)](https://sso.agc.gov.sg/Act/EFMA1990?ProvIds=pr22-) makes contravening a pass condition an offence carrying a fine of up to $10,000, imprisonment of up to 12 months, or both.
+> An employer must buy and maintain medical insurance, commonly called foreign worker medical insurance (FWMI), for each Work Permit holder it employs, and for each S Pass holder, covering inpatient care and day surgery, including hospital bills for conditions that are not work-related. [MOM](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) sets the coverage at least $60,000 per year per worker, requires the insurance details to be submitted online before it issues the Work Permit, and states that the cost cannot be passed on to the worker. The requirement is a condition of the work pass under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990), and [section 22(1)(a)](https://sso.agc.gov.sg/Act/EFMA1990?ProvIds=pr22-) makes contravening a pass condition an offence carrying a fine of up to $10,000, imprisonment of up to 12 months, or both.
 >
 > The minimum was raised to $60,000 on 1 July 2023, with a co-payment of 75% by the insurer and 25% by the employer for claim amounts above $15,000. The second stage, on 1 July 2025, changed no dollar figure: it standardised the exclusions an insurer is allowed to apply, introduced premiums in two age bands, and required insurers to pay hospitals directly ([MOM](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance)). Work injury is a separate duty under WICA; this policy is for inpatient care and day surgery that is not work-related.
 
@@ -114,6 +114,6 @@ Covarage holds the medical insurance policy and the WICA policy for each worker 
 - [Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers](/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore)
 - [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
 - [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 
 *Published 11 September 2026. Source verified 11 September 2026.*

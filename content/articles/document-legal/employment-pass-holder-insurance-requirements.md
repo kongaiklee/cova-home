@@ -73,7 +73,7 @@ The structure of a sensible benefits package for EP holders typically includes i
 
 ## Related Information
 - [What Are S Pass Employers' Medical Insurance Obligations?](/document-legal/s-pass-employer-medical-insurance-obligations)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [Group Medical Insurance for a Singapore SME: What the Law Requires Without It, What It Covers, and the Tax Rule That Shapes It](/document-legal/group-medical-insurance-complete-guide-singapore-sme)
 
 *Published 3 May 2026. Source verified 3 May 2026.*

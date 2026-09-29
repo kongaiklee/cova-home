@@ -317,7 +317,7 @@ For established contractors, CRS is foundation - the strategic question is grade
 ### Related Information
 - [What Insurance Do BCA CW01 and CW02 Contractors Actually Need?](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
 - [BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)
-- [BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [Hiring Construction Work Permit Holders Now Requires BCA CRS (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
 - [Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture](/document-legal/construction-insurance-complete-guide-singapore)
 - [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)

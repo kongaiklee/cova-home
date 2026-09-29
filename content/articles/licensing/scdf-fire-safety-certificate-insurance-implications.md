@@ -1,5 +1,5 @@
 ---
-title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
+title: "SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses"
 slug: "/licensing/scdf-fire-safety-certificate-insurance-implications"
 category: "licensing"
 intent: "know-where-you-stand"
@@ -9,14 +9,14 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness", "MHA", "MAS"]
 article_number: 10
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1374
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/scdf-fire-safety-certificate-insurance-implications"
-meta_description: "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for."
-og_title: "SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses"
-og_description: "A Fire Safety Certificate signs off completed works; a Fire Certificate keeps a designated building occupied. Which one you need, and what insurers ask for."
+meta_description: "Singapore's SCDF Fire Certificate keeps a designated building occupied. Which buildings need one, what the law requires, and what fire insurers ask for."
+og_title: "SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses"
+og_description: "Singapore's SCDF Fire Certificate keeps a designated building occupied. Which buildings need one, what the law requires, and what fire insurers ask for."
 ---
 
 > **The Answer in 60 Seconds**

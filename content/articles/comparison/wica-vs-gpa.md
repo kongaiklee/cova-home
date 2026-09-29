@@ -118,7 +118,7 @@ The cost of confusing them is asymmetric. Treating GPA as a WICA substitute risk
 5. If a worker is injured at the workplace, do my WICA and GPA both pay, or does one offset the other?
 
 ### Related Information
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How To Handle Simultaneous Claims WICA And Common Law](/procedural-howto/wica-simultaneous-common-law)
 - [Group Medical Insurance for a Singapore SME: What the Law Requires Without It, What It Covers, and the Tax Rule That Shapes It](/document-legal/group-medical-insurance-complete-guide-singapore-sme)

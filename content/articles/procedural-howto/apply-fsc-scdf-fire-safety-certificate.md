@@ -126,7 +126,7 @@ Your property policy is a separate question. Read the policy schedule and condit
 5. The FC moves to a three-year cycle from 1 April 2026. Does the policy's renewal date need to move with it?
 
 ### Related Information
-- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
 - [Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing](/regulatory-change/fire-code-2023)
 - [Commercial Property and Fire Insurance for Singapore SMEs: The Complete Guide](/document-legal/commercial-property-fire-complete-guide-singapore)
 - [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)

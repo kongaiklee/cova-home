@@ -144,6 +144,6 @@ Getting exhibits there and back:
 The covers underneath:
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 - [Commercial Property and Fire Insurance for Singapore SMEs: The Complete Guide](/document-legal/commercial-property-fire-complete-guide-singapore)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 
 *Published 25 September 2026. Source verified 25 September 2026.*

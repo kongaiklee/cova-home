@@ -9,14 +9,14 @@ agencies: ["MAS", "Singapore Statutes"]
 article_number: 177
 published: "2026-05-05"
 source_verified: "2026-05-05"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 1100
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/mas-faa-n16-n20-updates"
-meta_description: "Two MAS Notices decide what a licensed adviser must tell you and when. Where FAA-N16 and FAA-N20 now stand, and the protection they put behind advice."
+meta_description: "FAA-N20 ties an adviser's pay to the quality of advice, not sales alone, and requires an independent sales audit. What it and FAA-N16 mean for an SME."
 og_title: "MAS Notice FAA-N16 and FAA-N20 Updates: What Singapore SMEs Need to Know"
-og_description: "Two MAS Notices decide what a licensed adviser must tell you and when. Where FAA-N16 and FAA-N20 now stand, and the protection they put behind advice."
+og_description: "FAA-N20 ties an adviser's pay to the quality of advice, not sales alone, and requires an independent sales audit. What it and FAA-N16 mean for an SME."
 ---
 
 > **The Answer in 60 Seconds**

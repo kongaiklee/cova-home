@@ -133,7 +133,7 @@ The WICA panel framework reflects Singapore's approach to mandatory insurance - 
 5. As I scale, what WICA evolution should I plan for?
 
 ### Related Information
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Duty for Singapore Businesses](/emerging-risk/platform-gig-workers-wica-singapore)
 - [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate](/comparison/wica-panel-vs-cw-el-extension)
 

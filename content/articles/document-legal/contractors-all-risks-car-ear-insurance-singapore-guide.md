@@ -110,6 +110,6 @@ Covarage holds the project policies, the work injury compensation policy and eac
 - [What Insurance Do BCA CW01 and CW02 Contractors Actually Need?](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
 - [Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate](/comparison/surety-vs-performance-bond)
 - [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 
 *Published 11 September 2026. Source verified 11 September 2026.*

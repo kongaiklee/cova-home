@@ -113,7 +113,7 @@ Covarage keeps the moving parts in one place: the medical-insurance policy and i
 ### Related Information
 
 Medical insurance:
-- [Foreign Worker Medical Insurance in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
+- [Foreign Worker Medical Insurance (FWMI) in Singapore: What the Employer Must Hold, and What Changed on 1 July 2025](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore)
 - [Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - [What Are S Pass Employers' Medical Insurance Obligations?](/document-legal/s-pass-employer-medical-insurance-obligations)
@@ -125,7 +125,7 @@ Domestic workers:
 
 Bond, WICA, and cost:
 - [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
-- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [MOM Foreign Worker Levy and Quota Changes 2025-2026: Insurance Cost Impact for Singapore SME Employers](/regulatory-change/mom-foreign-worker-levy-2025-2026-insurance-impact)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

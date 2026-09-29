@@ -1,5 +1,5 @@
 ---
-title: "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers"
+title: "WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers"
 slug: "/document-legal/wica-complete-guide-singapore-employers"
 category: "document-legal"
 intent: "get-it-right"
@@ -9,13 +9,13 @@ agencies: ["Singapore Statutes", "MOM"]
 article_number: 464
 published: "2026-05-31"
 source_verified: "2026-09-11"
-updated: "2026-09-11"
+updated: "2026-09-29"
 word_count: 2286
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-complete-guide-singapore-employers"
 meta_description: "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties."
-og_title: "WICA: The Complete Guide to Work Injury Compensation for Singapore Employers"
+og_title: "WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers"
 og_description: "WICA Singapore: who you must insure, the designated-insurer rule, the compensation limits from 1 November 2025, the 10-day reporting clock, the penalties."
 ---
 
