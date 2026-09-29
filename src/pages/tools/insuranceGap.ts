@@ -52,6 +52,7 @@ export const BUCKETS: Bucket[] = [
 export interface ResultItem {
   bucket: BucketId;
   statement: string;
+  /** An article slug as the index keys it (/<category>/<slug>); rendered through articleUrl(). */
   href?: string;
 }
 
