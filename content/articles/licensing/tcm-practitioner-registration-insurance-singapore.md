@@ -94,8 +94,8 @@ Covarage helps with the part that quietly goes wrong: keeping your registration 
 ### Related Information
 - [TCM Clinic and Acupuncture Practice Insurance: Singapore Operator Framework](/edge-case/tcm-acupuncture-clinic-insurance)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
-- [Opening a Physiotherapy or Allied Health Practice in Singapore: Insurance Checklist](/decision-tree/opening-physiotherapy-allied-health-checklist)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
+- [Opening a Physiotherapy or Allied Health Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-physiotherapy-allied-health-checklist)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

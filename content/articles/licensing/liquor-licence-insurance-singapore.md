@@ -91,7 +91,7 @@ Covarage helps with the part that quietly goes wrong: keeping the liquor licence
 
 ### Related Information
 - [Specialty Alcohol and Wine Retailer Insurance: Singapore Operator Framework](/edge-case/specialty-alcohol-wine-retailer-insurance)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

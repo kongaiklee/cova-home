@@ -361,8 +361,8 @@ The licensed adviser framework provides regulatory protection and accountability
 
 ### Related Information
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
-- /comparison/broker-vs-direct
-- [Tied Agent vs licensed adviser in Singapore](/comparison/tied-agent-vs-ifa)
+- [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
+- [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

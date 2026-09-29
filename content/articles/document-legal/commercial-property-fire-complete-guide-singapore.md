@@ -127,25 +127,28 @@ Covarage keeps these moving parts in one place: the policy and schedule, the rei
 ### Related Information
 
 The law and the regulators:
-- [What Changed in the SCDF Fire Code 2023](/regulatory-change/fire-code-2023)
-- [SCDF's Three-Year Fire Certificate: What It Means for SMEs](/regulatory-change/scdf-fc-3-year-2026)
+- [Fire Code 2023: Insurance Implications for Retail, F&B and Manufacturing](/regulatory-change/fire-code-2023)
+- [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
 
 Choosing the form of cover:
-- [Fire versus Property All Risks: Which Form Fits?](/comparison/fire-vs-par)
-- [Fire versus PAR: The Claim Mechanics](/comparison/fire-vs-par-claim-mechanics)
-- [Property All Risks Exclusions: A Deep Dive](/comparison/property-all-risks-exclusions-deep-dive)
+- [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
+- [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
+- [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 
 Getting the sum insured right:
-- [The Average Clause and Underinsurance in Singapore](/document-legal/average-clause-underinsurance-singapore)
-- [Reinstatement Cost versus Indemnity Value](/comparison/reinstatement-cost-vs-indemnity-value-property)
-- [First-Loss versus Full-Value and the Average Clause](/comparison/first-loss-vs-full-value-average-clause-property)
+- [The Average Clause Explained: Singapore Underinsurance Penalties on Partial Losses](/document-legal/average-clause-underinsurance-singapore)
+- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
 
 Business interruption and the loss after the loss:
-- [BI versus CBI: A Worked Example](/comparison/bi-vs-cbi-worked-example)
-- [The Business Interruption Claim Deep Dive](/procedural-howto/bi-claim-deep-dive)
+- [Business Interruption Sum Insured: The Gross-Profit Basis Explained](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore)
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
+- [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 
 When a fire actually happens:
-- [A Tenant-Caused Major Fire: The Landlord and SME Workflow](/crisis/tenant-caused-major-fire-landlord-sme-workflow)
-- [The Property and Fire Claim Deep Dive](/procedural-howto/property-fire-claim-deep-dive)
+- [Tenant-Caused Major Fire: Landlord SME Day-One Workflow](/crisis/tenant-caused-major-fire-landlord-sme-workflow)
+- [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

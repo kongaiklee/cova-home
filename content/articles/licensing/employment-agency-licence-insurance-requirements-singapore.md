@@ -99,7 +99,7 @@ Covarage helps with the part that quietly goes wrong: keeping the bond instrumen
 5. Are the bond instrument, the WICA policy and any liability cover documented somewhere we can produce them at renewal or on a MOM query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
 - [Opening a Recruitment or Employment Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-recruitment-agency-checklist)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)

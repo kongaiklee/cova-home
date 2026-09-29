@@ -80,9 +80,11 @@ The biggest risk is silent underinsurance - paying premiums every year and disco
 5. Does my landlord need to be added as a Loss Payee or named on a noted-interest endorsement?
 
 ### Related Information
-- How to apply for a Fire Safety Certificate (FSC) step by step
-- How to read your commercial insurance policy schedule
-- Property All Risks vs. fire-only: which underwriting basis applies
+- [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
+- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
+- [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

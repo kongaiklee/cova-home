@@ -77,9 +77,9 @@ The one risk that never goes away: under the Employment of Foreign Manpower Act,
 5. If my helper turns 50 mid-policy, will the next renewal step up the premium, and by how much?
 
 ### Related Information
-- FDW insurance Stage 2 enhancements (1 July 2025): full breakdown
-- Foreign Worker Security Bond: how it works
-- Employer duties under the Employment of Foreign Manpower Act
+- [FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
+- [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
+- [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

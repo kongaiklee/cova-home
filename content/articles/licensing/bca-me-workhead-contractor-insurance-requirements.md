@@ -69,9 +69,8 @@ Two practical traps worth flagging. First, the "subcontractor PI gap": if you're
 5. If I'm a licensed PE corporation, what indemnity limit should my section 34 policy carry?
 
 ## Related Information
-- Licensed Electrical Workers under EMA - what your firm needs
-- BCA Builders Licensing - Specialist Builder licences
-- Construction All Risks vs Erection All Risks: what's the difference?
+- [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
+- [Contractors All Risks and Erection All Risks in Singapore: What the Cover Is, and What a Public Sector Contract Requires](/document-legal/contractors-all-risks-car-ear-insurance-singapore-guide)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

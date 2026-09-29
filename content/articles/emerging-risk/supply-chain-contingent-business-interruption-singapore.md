@@ -129,7 +129,7 @@ When you sit with a licensed adviser or commercial broker to review your propert
 
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 - [Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)
-- [Our Critical Supplier Just Declared Insolvency: What Do I Do Now?](/crisis/supplier-insolvency)
+- [Our Critical Supplier Just Declared Insolvency - What Do I Do Now?](/crisis/supplier-insolvency)
 - [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
 - [Regional Property and Fire Programme: Singapore-HQ SMEs With Property Across Multiple Countries](/cross-border/regional-property-fire-programme)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)

@@ -140,7 +140,7 @@ If you run any biometric system (door access, time-attendance, facial-recognitio
 - [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
-- [Deepfake Funds-Transfer Fraud: Cyber, Crime, and Social Engineering Insurance for Singapore SMEs](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
 
 *Published 31 May 2026. Source verified 12 September 2026.*
 

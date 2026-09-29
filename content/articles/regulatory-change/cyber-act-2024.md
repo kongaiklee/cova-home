@@ -87,9 +87,9 @@ If you're an SME outside CII sectors, the Cybersecurity Act amendments do not di
 5. How does my cyber wording interact with E&O / professional liability for IT vendors?
 
 ## Related Information
-- [PDPA Amendment 1 October 2022 - 10% Turnover Penalty](/regulatory-change/pdpa-2022-penalty)
-- [Workplace Fairness Act 2025](/regulatory-change/wfa-2024)
-- [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
+- [Workplace Fairness Act 2025: EPLI Implications for Singapore SMEs](/regulatory-change/wfa-2024)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---
 

@@ -20,11 +20,11 @@ og_description: "Singapore's MOM requires direct hospital reimbursement for admi
 ---
 
 > **The Answer in 60 Seconds**  
-> Singapore’s Ministry of Manpower states on its <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements">FDW insurance requirements page</a> that enhanced medical insurance for migrant domestic workers was implemented in two stages: from 1 July 2023, the annual claim limit increased to at least S$60,000 with a co-payment structure for claim amounts above S$15,000, and from 1 July 2025, Stage 2 added standardised exclusions, age-differentiated premiums, and direct payment by insurers to hospitals upon admissibility of the claim. So if your helper is admitted and the policy start date falls under the Stage 2 framework, the claim process is no longer just “employer pays first, insurer reimburses later”.
+> Singapore’s Ministry of Manpower states on its [FDW insurance requirements page](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements) that enhanced medical insurance for migrant domestic workers was implemented in two stages: from 1 July 2023, the annual claim limit increased to at least S$60,000 with a co-payment structure for claim amounts above S$15,000, and from 1 July 2025, Stage 2 added standardised exclusions, age-differentiated premiums, and direct payment by insurers to hospitals upon admissibility of the claim. So if your helper is admitted and the policy start date falls under the Stage 2 framework, the claim process is no longer just “employer pays first, insurer reimburses later”.
 
 ### The Step-by-Step
 
-The first thing to understand is that not every domestic helper medical bill follows the same path. The process depends on whether the policy falls under the enhanced framework with a start date effective on or after the relevant MOM implementation dates. On the official <a href="https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements">MOM MDW insurance requirements page</a>, MOM states:
+The first thing to understand is that not every domestic helper medical bill follows the same path. The process depends on whether the policy falls under the enhanced framework with a start date effective on or after the relevant MOM implementation dates. On the official [MOM MDW insurance requirements page](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/eligibility-and-requirements/insurance-requirements), MOM states:
 
 - From **1 July 2023 (Stage 1)**: higher annual claim limit of at least **S$60,000**, with a co-payment of 75% by insurers and 25% by employers for claim amounts above **S$15,000**.  
 - From **1 July 2025 (Stage 2)**: standardisation of allowable exclusion clauses, age-differentiated premiums, and direct payment by insurers to hospitals upon admissibility of the claim.
@@ -121,5 +121,5 @@ Companies that employ MDWs in a business-linked setting, such as live-in domesti
 ### Related Information
 - [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
-- /comparison/comparegroup-medical-vs-wica
+
 *Published 4 May 2026. Source verified 4 May 2026.*

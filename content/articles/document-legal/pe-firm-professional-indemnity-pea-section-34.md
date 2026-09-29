@@ -100,9 +100,10 @@ A frequent trap: the "design-and-build" boundary. If your PE corporation is also
 5. My biggest project carries QP responsibility - does my current limit hold up against worst-case?
 
 ## Related Information
-- BCA QPs and the Building Control Act
-- Architects Act section 24 - parallel insurance duty for architects
-- Claims-made vs occurrence: why it matters for PE firms
+- [Institution of Engineers, Singapore (IES) and Professional Engineers Board: Statutory Framework and Insurance Implications for Engineering Practices](/association/ies-peb-professional-engineers-insurance-framework)
+- [Singapore Institute of Architects (SIA) and Board of Architects (BOA): Statutory Framework and Insurance Implications for Architectural Practices](/association/singapore-institute-of-architects-boa-insurance-framework)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

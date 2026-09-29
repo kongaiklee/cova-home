@@ -95,10 +95,10 @@ Covarage helps with the part that quietly goes wrong: keeping the pledge policy,
 
 ### Related Information
 - [Pawnshop and Pawnbroker Insurance: Singapore Operator Framework](/edge-case/pawnshop-pawnbroker-insurance)
-- [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore](/edge-case/second-hand-luxury-reseller-insurance)
-- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [How to File a Fidelity Guarantee Claim for Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
-- [SCDF Fire Safety Certificate and Its Insurance Implications](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [Second-Hand Luxury Reseller and Pre-Owned Goods Retail Insurance in Singapore (Watches, Bags, Sneakers, Designer Apparel)](/edge-case/second-hand-luxury-reseller-insurance)
+- [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
+- [How to File a Fidelity Guarantee Claim - Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
+- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

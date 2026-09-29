@@ -190,7 +190,7 @@ Under [WICA section 28](https://sso.agc.gov.sg/Act/WICA2019), the insurer is obl
 5. What is your protocol for reviewing the WICA accident file at policy renewal?
 
 ### Related Information
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 - [Corporate Insurance Folder Structure Every Singapore SME Should Have](/procedural-howto/corporate-insurance-folder-structure-singapore-sme)
 - [How to Prepare Information So Your Insurance Claim Gets Processed Faster](/procedural-howto/insurance-claim-preparation-singapore)
 

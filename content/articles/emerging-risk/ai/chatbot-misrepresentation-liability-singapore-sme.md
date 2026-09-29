@@ -163,13 +163,13 @@ Treat the next 12 months as a chatbot-governance project. Nine practical steps.
 
 ## Related Information
 
-- [MAS, AIRG, IMDA MGF and EU AI Act: a Singapore SME compliance timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
-- [Autonomous AI agents going rogue: liability for SG SMEs](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
-- [Deepfake funds-transfer fraud: the social-engineering risk](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
-- [AI-generated content and copyright/IP infringement](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
-- [AI bias in hiring and promotion - EPL claims for SG SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
-- [AI-generated code and security vulnerabilities](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
-- [PDPA 2022 penalty regime](/regulatory-change/pdpa-2022-penalty)
+- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
+- [When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
+- [AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
 
 *Published 8 May 2026. Source verified 8 May 2026.*
 

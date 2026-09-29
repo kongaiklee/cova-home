@@ -238,8 +238,8 @@ The cost of broker remuneration over multi-year engagement is substantial - for 
 5. For conflicts (broker ownership by insurer, exclusive arrangements), are these explicit and updated annually?
 
 ### Related Information
-- /comparison/broker-vs-direct-insurer-comparison
-- /document-legal/financial-advisers-act-broker-framework
+- [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
+- [MAS Notice FAA-N03: How Independent Financial Advisers Are Regulated and What That Means When You Buy Insurance](/document-legal/mas-notice-faa-n03-ifa-conduct)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

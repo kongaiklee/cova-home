@@ -204,7 +204,7 @@ The tattoo studio insurance build is moderate-cost but specialised. Standard SME
 
 ### Related Information
 - [Mobile Beauty or Wellness Service Insurance in Singapore (Beauty-On-Demand, Mobile Massage, In-Home Aesthetic)](/edge-case/mobile-beauty-wellness-insurance)
-- /decision-tree/opening-aesthetic-medspa-checklist
+- [Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist](/decision-tree/opening-salon-checklist)
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

@@ -89,9 +89,9 @@ Three practical points.
 5. How does my coverage respond to NRIC-related claims if I am still using NRIC as authentication beyond 31 December 2026?
 
 ## Related Information
-- [Cybersecurity (Amendment) Act 2024](/regulatory-change/cyber-act-2024)
-- [Workplace Fairness Act 2025](/regulatory-change/wfa-2024)
-- [MOM Designated Insurer List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024)
+- [Workplace Fairness Act 2025: EPLI Implications for Singapore SMEs](/regulatory-change/wfa-2024)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---
 

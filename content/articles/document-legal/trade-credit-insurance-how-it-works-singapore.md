@@ -130,6 +130,7 @@ For Singapore SMEs, the trade-credit policy can be assigned to a bank as part of
 - [Subrogation: When Your Insurer Recovers from a Third Party](/procedural-howto/subrogation-insurer-recovery-singapore)
 - [How to Read a Singapore Commercial Insurance Policy: The Six Sections That Matter Most](/document-legal/reading-commercial-insurance-policy-singapore)
 - [Sub-limits, Aggregates, and Deductibles: How Singapore Commercial Insurance Policies Actually Pay](/document-legal/sub-limits-aggregates-deductibles-singapore)
+- [Whole Turnover vs Single-Buyer Trade Credit Insurance for Singapore SMEs: A Coverage Structure Decision Framework](/comparison/whole-turnover-vs-single-buyer-trade-credit-sme)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

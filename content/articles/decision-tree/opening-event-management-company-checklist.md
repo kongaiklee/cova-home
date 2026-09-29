@@ -233,5 +233,7 @@ The event management insurance build varies across the portfolio. The investment
 - [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+- [How to Obtain Event Liability Insurance for MICE Events and Venue Bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue)
+- [How to Arrange Event Cancellation Insurance for a Singapore SME](/procedural-howto/event-cancellation-insurance-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

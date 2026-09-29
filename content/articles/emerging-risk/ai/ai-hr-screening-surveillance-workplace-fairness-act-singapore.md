@@ -149,7 +149,7 @@ Although the WFA is not yet in force, three pre-WFA frameworks already constrain
 5. What is your view on the affirmative AI endorsements for EPL and D&O wordings in the Singapore market?
 
 ### Related Information
-- When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs
+- [When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
 - [AI Chatbots and Customer Misrepresentation: Singapore SME Liability When the Bot Says the Wrong Thing](/emerging-risk/ai/ai-chatbot-customer-misrepresentation-liability-singapore-sme)
 - [AI Vendor Procurement for Singapore SMEs: The Indemnity Clause That Actually Matters](/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme)
 

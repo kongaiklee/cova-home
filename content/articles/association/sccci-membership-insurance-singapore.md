@@ -96,7 +96,7 @@ The quiet failure here is the false sense of completeness that any membership ca
 5. Are all our actual policies documented somewhere we can produce them at renewal, at audit, or on a client's request?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
 - [From Incorporation to Growth: How Your Insurance Stack Should Evolve](/decision-tree/insurance-stack-stages-of-growth-singapore)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)

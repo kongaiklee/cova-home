@@ -94,12 +94,12 @@ If a supplier holds your data, runs your code or sends your email, its breach is
 7. Would a documented software inventory and a supplier-notification clause change how the risk is assessed at renewal?
 
 ### Related Information
-- [Your Vendor Had a Data Breach and Your Customers Are Affected: The First 72 Hours](/crisis/vendor-data-breach-affecting-your-customers)
-- [Your IT Vendor or SaaS Provider Disappeared: What to Do](/crisis/it-vendor-saas-disappearance)
-- [Supply-Chain Disruption and Contingent Business Interruption Cover for Singapore SMEs](/emerging-risk/supply-chain-contingent-business-interruption-singapore)
-- [PI vs Tech E&O for SaaS Companies](/comparison/pi-vs-tech-eo-for-saas)
-- [How to Notify the PDPC of a Data Breach Within 3 Days](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
+- [Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow](/crisis/vendor-data-breach-affecting-your-customers)
+- [IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs](/crisis/it-vendor-saas-disappearance)
+- [Supply-Chain Disruption and Contingent Business Interruption: What Singapore SMEs Miss](/emerging-risk/supply-chain-contingent-business-interruption-singapore)
+- [Professional Indemnity vs Tech E&O: What's the Difference for SaaS and Technology Companies?](/comparison/pi-vs-tech-eo-for-saas)
+- [How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
 - [Cyber Insurance for Singapore SMEs: The Complete Guide](/document-legal/cyber-insurance-complete-guide-singapore-sme)
-- [AI Vendor Procurement and Indemnity for Singapore SMEs](/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme)
+- [AI Vendor Procurement for Singapore SMEs: The Indemnity Clause That Actually Matters](/emerging-risk/ai/ai-vendor-procurement-indemnity-singapore-sme)
 
 *Published 11 September 2026. Source verified 11 September 2026.*

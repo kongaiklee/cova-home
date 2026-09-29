@@ -87,9 +87,10 @@ The PL policy is your financial backstop. The cleaning SOP and incident discipli
 5. What is the policy excess for bodily injury vs. property damage claims?
 
 ### Related Information
-- How to read your commercial insurance policy schedule
-- F&B SME insurance baseline: WICA + PL + Property
-- How to get a certificate of insurance for your landlord
+- [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
+- [What Insurance Does an SFA Food Establishment Licence Need in Singapore?](/licensing/sfa-food-establishment-licence-insurance)
+- [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

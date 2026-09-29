@@ -102,9 +102,9 @@ The practical takeaway: the Platform Workers Act added a duty, it did not remove
 - [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
 - [Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know](/regulatory-change/platform-workers-act-first-year-review)
-- [WICA Section 24: The Mandatory Insurance Provision](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
-- [MOM Security Bond for Foreign Workers in Singapore](/procedural-howto/mom-security-bond-foreign-worker-singapore)
+- [How to Obtain MOM Security Bond for Foreign Worker Hiring](/procedural-howto/mom-security-bond-foreign-worker-singapore)
 
 *Published 31 May 2026. Source verified 31 May 2026.*
 

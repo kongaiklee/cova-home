@@ -96,7 +96,7 @@ Covarage helps with the part that quietly goes wrong: keeping the fee-protection
 5. Are the fee-protection instrument, the WICA policy and any liability cover documented somewhere we can produce them at registration renewal or on a CPE query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack Under the Private Education Act 2009](/edge-case/tuition-centre-enrichment-insurance-singapore)
 - [Opening a Tuition or Enrichment Centre in Singapore: Full Insurance Checklist](/decision-tree/opening-tuition-enrichment-centre-checklist)
 - [CaseTrust Spa & Wellness: Prepayment Protection Insurance Explained](/association/casetrust-spa-wellness-prepayment-protection)

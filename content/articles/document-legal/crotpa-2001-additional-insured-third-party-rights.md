@@ -157,12 +157,12 @@ Insurance contracts are within CRoTPA's general regime. The drafting choices mad
 
 ### Related Information
 
-- [Article 254 - Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
-- [Article 257 - Standard Limitation of Liability Clauses: Drafting and Commercial Implications](/document-legal/standard-limitation-of-liability-clause)
-- [Article 259 - Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications](/document-legal/standard-insurance-clause-commercial-contracts)
-- [Article 260 - Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
-- [Article 252 - Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
+- [Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Standard Limitation of Liability Clauses: Drafting and Commercial Implications](/document-legal/standard-limitation-of-liability-clause)
+- [Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications](/document-legal/standard-insurance-clause-commercial-contracts)
+- [Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
+- [Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 ---

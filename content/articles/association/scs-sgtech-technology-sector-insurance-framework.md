@@ -181,12 +181,12 @@ For SMEs serving Tier-1 enterprise customers, customer MSA contractual minimums 
 
 ### Related Information
 
-- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 270 - Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
-- [Article 278 - Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 299 - Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow](/crisis/vendor-data-breach-affecting-your-customers)
-- [Article 300 - IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs](/crisis/it-vendor-saas-disappearance)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [Cybersecurity Act 2024 Amendments and CII Designation: When Does a Singapore SME Become Critical Information Infrastructure?](/regulatory-change/cybersecurity-act-2024-cii-designation-sme)
+- [Cyber Architecture Tower vs Monoline Policy Comparison](/comparison/cyber-architecture-tower-vs-monoline)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Vendor Data Breach Affecting Your Customers: The Data Intermediary Cascade Day-One Workflow](/crisis/vendor-data-breach-affecting-your-customers)
+- [IT Vendor or SaaS Provider Disappearance: Day-One Workflow for Singapore SMEs](/crisis/it-vendor-saas-disappearance)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 ---

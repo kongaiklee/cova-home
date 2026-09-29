@@ -102,8 +102,8 @@ For WICA specifically, also verify that the **insurer** is a [MOM-designated ins
 
 ### Related Information
 
-- [MAS Notice FAA-N02 - Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [MAS Notice FAA-N02: Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 - [MOM Platform Operator Designated Insurer (Singapore 2025)](/regulatory-change/mom-platform-operator-designated-insurer-2025)
 
 ---

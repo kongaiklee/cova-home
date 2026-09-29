@@ -192,12 +192,12 @@ The discipline is procedural, not technical. None of this requires actuarial sop
 
 ### Related Information
 
-- [Article 405 - Mid-Term Endorsement Workflow for Singapore SMEs](/procedural-howto/mid-term-endorsement-workflow-sme-singapore)
-- [Article 404 - MOM Workplace Safety and Health Incident Reporting via the eService](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore)
-- [Composite SME Programme: Standalone Lines vs. Package Policies](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
-- Reinstatement Valuation Reports: What Underwriters Actually Read
-- Decision Tree: Should I Renew with Incumbent or Test the Market?
-- [Regulatory Change: WICA Limit Increases Effective 1 November 2025](/regulatory-change/wica-2025-limit-increase-claim-patterns)
+- [The Mid-Term Policy Endorsement Workflow for Singapore SMEs: How to Change Your Cover Without Breaking It](/procedural-howto/mid-term-endorsement-workflow-sme-singapore)
+- [How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore)
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
+- [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
+- [How to Run an Insurance Tender for a Singapore SME: A Procedural Playbook for the 2026 Soft Market](/procedural-howto/how-to-run-insurance-tender-sme-singapore)
+- [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 
 ---
 

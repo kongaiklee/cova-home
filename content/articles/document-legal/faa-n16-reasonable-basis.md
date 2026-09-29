@@ -149,7 +149,7 @@ For business owners considering an adviser switch (life cover, group medical, ke
 5. If I am switching from an existing product, what specific advantages of the new product justify the switch - and have any disadvantages been considered?
 
 ### Related Information
-- [Tied Agent vs licensed adviser in Singapore](/comparison/tied-agent-vs-ifa)
+- [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 

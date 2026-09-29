@@ -342,6 +342,6 @@ The Insurance Act 1966 framework provides the foundation for Singapore's insuran
 ### Related Information
 - [WICA Designated Insurer Regulations: How the MOM List Actually Works](/document-legal/wica-designated-insurer-regulations)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
-- /comparison/broker-vs-direct
+- [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

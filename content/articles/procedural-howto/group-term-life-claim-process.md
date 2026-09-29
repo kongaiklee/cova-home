@@ -373,7 +373,7 @@ GTL claim handling sits at the intersection of administrative efficiency and sub
 
 ### Related Information
 - [How to File a Group Hospitalisation & Surgical Claim (Singapore)](/procedural-howto/group-hospital-surgical-claim)
-- /comparison/group-term-life-vs-personal-accident
-- /procedural-howto/group-medical-claim-process
+- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [How to File Group Medical Claim Outpatient Singapore](/procedural-howto/group-medical-outpatient-claim)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

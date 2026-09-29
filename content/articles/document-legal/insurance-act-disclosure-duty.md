@@ -169,7 +169,7 @@ The duty of utmost good faith is the highest standard the law imposes on an insu
 5. Does my policy include a basis clause, and what is the implication if any answer is technically inaccurate?
 
 ### Related Information
-- Insurance Contracts and the Duty of Disclosure: How Singapore Law Handles Material Non-Disclosure
+- [How to Dispute a Denied Insurance Claim in Singapore](/procedural-howto/dispute-denied-claim)
 - [How to Dispute a Denied SME Insurance Claim with FIDReC: 2026 Procedure](/procedural-howto/how-to-dispute-denied-claim-fidrec-singapore)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 

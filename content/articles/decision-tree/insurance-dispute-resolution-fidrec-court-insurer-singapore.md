@@ -185,7 +185,7 @@ The comparison is indicative; the actual time and cost depend on the dispute's c
 
 ### Related Information
 - [What "Concierge" Corporate Insurance Support Should Actually Mean for a Singapore SME](/comparison/concierge-corporate-insurance-support-singapore-sme)
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 - [How to Prepare Information So Your Insurance Claim Gets Processed Faster](/procedural-howto/insurance-claim-preparation-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*

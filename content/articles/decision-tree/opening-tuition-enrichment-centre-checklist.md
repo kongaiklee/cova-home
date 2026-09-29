@@ -218,8 +218,9 @@ The tuition / enrichment insurance build addresses both the regulatory framework
 5. As I scale - more staff, more sites, programme expansion - what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-childcare-preschool-checklist
+- [Opening a Private Kindergarten or Childcare Centre in Singapore: Full Insurance Checklist](/decision-tree/opening-childcare-centre-checklist)
 - [Opening a Medical Clinic or Specialist Practice in Singapore: Full Insurance Checklist](/decision-tree/opening-medical-clinic-specialist-practice-checklist)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

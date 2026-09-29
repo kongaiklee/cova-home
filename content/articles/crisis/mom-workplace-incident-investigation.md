@@ -160,7 +160,7 @@ The asymmetry: WSHA compliance infrastructure costs little against the cost of r
 
 ### Related Information
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
-- /document-legal/wica-coverage-and-employer-obligations
-- /comparison/wica-vs-employers-liability
+- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

@@ -242,6 +242,6 @@ The asymmetry: prevention through cyber maturity and Cyber Liability cover costs
 ### Related Information
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Cybersecurity Act 2018 (with 2024 Amendments): What Singapore CII Owners and Service Providers Need to Know](/document-legal/cybersecurity-act-cii-obligations)
-- /procedural-howto/bec-social-engineering-claim-process
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

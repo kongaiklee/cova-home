@@ -120,8 +120,8 @@ Covarage helps with the part that quietly goes wrong: keeping the Fidelity, Comm
 ### Related Information
 
 - [Fidelity Guarantee and Commercial Crime: Loss-Discovered vs Loss-Sustained Trigger Decision Framework](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)
-- [How to File a Fidelity Guarantee Claim: Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
-- [Deepfake Funds-Transfer Fraud: Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [How to File a Fidelity Guarantee Claim - Employee Dishonesty](/procedural-howto/fidelity-guarantee-employee-theft-claim)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
 - [First 24 Hours After a Major Employee Fraud Discovery: A Singapore SME Crisis Playbook](/crisis/employee-fraud-discovery-first-24-hours-singapore)
 - [Internal Fraud Discovered: The 8-Step Day-One Workflow for Singapore SMEs](/crisis/internal-fraud-cfo-embezzlement-day-one-workflow)
 - [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)

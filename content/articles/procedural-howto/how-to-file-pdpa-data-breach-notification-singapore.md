@@ -230,8 +230,8 @@ The cost of breach response is substantial - typical SME breach costs (forensic,
 5. For PDPA Section 24 (Protection Obligation) substantive security, do we have current security measures appropriate to data sensitivity?
 
 ### Related Information
-- /document-legal/pdpa-section-26d-data-controller-obligations
-- /crisis/cyber-incident-response-coordination
+- [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

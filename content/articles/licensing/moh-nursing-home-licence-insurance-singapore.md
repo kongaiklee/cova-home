@@ -100,9 +100,9 @@ Covarage helps with the part that quietly goes wrong: keeping the licence and it
 5. Are the licence and its conditions, the WICA policy, and our liability and property cover documented somewhere we can produce them at renewal or on an MOH query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
-- [Eldercare Day Centre Insurance in Singapore](/edge-case/eldercare-day-centre)
+- [Eldercare Day Centre or Senior Activity Centre in Singapore: What Insurance Do You Actually Need?](/edge-case/eldercare-day-centre)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

@@ -155,9 +155,11 @@ For operators considering scaling up, the insurance build is a moat: clients who
 5. Do I need separate Professional Indemnity for the creative/technical service component, and how does it interact with UA Liability for output disputes?
 
 ### Related Information
-- /edge-case/event-photographer-insurance
-- /comparison/pl-vs-pi-vs-product-liability
+- [Wedding Photographer Insurance in Singapore: What You Actually Need](/edge-case/wedding-photographer-insurance)
+- [Professional Indemnity vs Public Liability: Which Does a Singapore Service Business Need?](/comparison/professional-indemnity-vs-public-liability-service-business-singapore)
 - [How to Get a Certificate of Insurance for Your Landlord](/procedural-howto/coi-for-landlord-singapore)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*
 

@@ -160,7 +160,7 @@ The governing law and workplace response:
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
 - [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
-- [MOM Stop-Work Order Issued: Immediate Response Guide](/crisis/mom-stop-work-order-issued)
+- [MOM Just Issued a Stop-Work Order on Our Site - What Do I Do Now?](/crisis/mom-stop-work-order-issued)
 
 D&O insurance:
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)

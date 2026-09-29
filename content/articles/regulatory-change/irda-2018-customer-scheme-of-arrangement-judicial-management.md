@@ -183,11 +183,11 @@ For an SME's directors, the wrongful trading section 239 IRDA defence requires t
 
 ### Related Information
 
-- [Article 262 - Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
-- [Article 263 - PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
-- [Article 268 - SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
-- [Article 280 - Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
-- [Article 291 - Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
-- [Article 256 - Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
+- [Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty](/regulatory-change/insurer-resolution-singapore-policyholder-position)
+- [PDPC Mandatory Data Breach Notification (PDPA Section 26D): The 3-Day Clock Decoded for Singapore SMEs](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)
+- [SDIC Policy Owners' Protection Scheme: What Singapore SMEs Recover If Their Insurer Fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
+- [Major Customer Bankruptcy: The Trade Credit DSO Cliff Event](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff)
+- [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

@@ -293,8 +293,8 @@ The cost of climate disclosure compliance is substantial for in-scope SMEs - typ
 5. For MAS transition planning, are banking and insurance relationships affected by climate factors?
 
 ### Related Information
-- /document-legal/companies-act-disclosure-framework
-- /comparison/do-cover-options-singapore
+- [SGX Listing Rules 2024-2026 D&O Implications: ISSB Climate Disclosure, Continuous Disclosure, and Director Personal Exposure](/regulatory-change/sgx-listing-rules-2024-2026-do-implications)
+- [Side A vs Side B vs Side C Coverage Under D&O: Singapore SME Decision Framework](/comparison/side-a-side-b-side-c-do-singapore)
 - [Insurance (Amendment) Act 2024 and Financial Institutions (Miscellaneous Amendments) Act 2024: Consolidated MAS Supervisory Powers Effective 24 January 2025](/regulatory-change/insurance-amendment-act-fima-2024)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 

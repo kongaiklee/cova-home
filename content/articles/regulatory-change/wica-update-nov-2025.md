@@ -80,9 +80,10 @@ Third, **clarify your common-law exposure**. WICA caps the no-fault statutory li
 5. Does my current insurer remain on the [MOM-designated list](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) for the renewal period?
 
 ## Related Information
-- [MOM Designated Insurer List 2026 - What's New](/regulatory-change/mom-designated-insurer-wica-list-2026)
-- [Platform Workers Act - Full Commencement 1 January 2025](/regulatory-change/pwa-jan-2025)
-- [Workplace Fairness Act 2025 - EPLI Implications](/regulatory-change/wfa-2024)
+- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)
+- [Workplace Fairness Act 2025: EPLI Implications for Singapore SMEs](/regulatory-change/wfa-2024)
 
 ---
 

@@ -92,7 +92,7 @@ Covarage helps with the part that quietly goes wrong: keeping the licence, the W
 5. Are the licence, the WICA policy and any liability cover documented somewhere we can produce them at renewal or on an AVS query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Opening a Pet Grooming, Boarding, or Daycare Business in Singapore: Insurance and Regulatory Checklist](/decision-tree/opening-pet-grooming-boarding-checklist)
 - [Veterinary Clinic Insurance: Singapore Operator Framework](/edge-case/veterinary-clinic-insurance)
 - [Pet Cafe or Animal Cafe in Singapore: What Insurance Do You Actually Need?](/edge-case/pet-cafe-animal-cafe)

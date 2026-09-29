@@ -188,8 +188,9 @@ The security insurance build is comprehensive, reflecting the operational risk p
 5. As I scale or add services, what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-cleaning-fm-business-checklist
+- [Opening a Cleaning or Facilities Management Operation in Singapore: Insurance and Regulatory Checklist](/decision-tree/opening-cleaning-fm-checklist)
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
-- /comparison/wica-vs-employers-liability
+- [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

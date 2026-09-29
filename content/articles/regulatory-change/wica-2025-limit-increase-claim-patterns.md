@@ -345,7 +345,7 @@ The 2025 limit increase represents structural adjustment rather than disruption.
 
 ### Related Information
 - [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement](/comparison/wica-designated-insurer-panel)
-- /document-legal/wica-coverage-and-employer-obligations
-- /comparison/wica-vs-employers-liability
+- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Employers' Liability in Singapore: What WICA Does Not Pay, and Why the Two Covers Sit Together](/document-legal/employers-liability-insurance-singapore-wica-gap)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

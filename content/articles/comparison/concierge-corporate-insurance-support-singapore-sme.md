@@ -144,7 +144,7 @@ The two routes produce similar operational outcomes if executed competently. The
 ### Related Information
 - [5 Things Your Insurance Adviser Should Be Doing (That Most Do Not)](/comparison/5-things-insurance-adviser-should-do-singapore)
 - [How to Prepare Information So Your Insurance Claim Gets Processed Faster](/procedural-howto/insurance-claim-preparation-singapore)
-- [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
+- [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

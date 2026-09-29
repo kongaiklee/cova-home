@@ -88,9 +88,9 @@ The Motor Claims Framework was designed to standardise reporting and contain cla
 5. Does my policy include breakdown assistance, courtesy vehicle, or only repair cover?
 
 ### Related Information
-- Commercial fleet vs. private car insurance: what changes
-- How to read your commercial insurance policy schedule
-- LTA OneMotoring for commercial vehicle owners
+- [Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
+- [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
+- [Compulsory Motor Insurance in Singapore: What the Law Requires for Every Vehicle Your Business Runs](/document-legal/compulsory-motor-insurance-singapore-third-party)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

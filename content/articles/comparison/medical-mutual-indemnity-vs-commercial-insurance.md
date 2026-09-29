@@ -81,9 +81,9 @@ For multi-doctor practices, also consider clinic-level corporate PI on top of ea
 5. My clinic has locums - what's my process for verifying their PI before each rotation?
 
 ## Related Information
-- MOH HCSA clinic licensing - what insurance is implied
-- Aesthetic doctors and SMC's Aesthetic Practices Guidelines
-- Mutual indemnity vs insurance: comparing the structures
+- [Does an MOH Clinic Licence Require Professional Indemnity Insurance?](/licensing/moh-clinic-licence-professional-indemnity)
+- [Specialty Medical Aesthetics: The Distinct Insurance Profile for Aesthetic Medicine, Injectables, and Energy-Based Treatments](/edge-case/medical-aesthetics-injectables-clinics)
+- [Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications](/association/sma-smc-medical-practitioner-indemnity-framework)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

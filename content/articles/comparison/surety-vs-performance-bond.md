@@ -353,8 +353,7 @@ The surety bond architecture is foundational for Singapore SMEs operating in con
 5. As my operations evolve, what bond-related evolution should I plan for?
 
 ### Related Information
-- /decision-tree/opening-construction-contractor-checklist
+- [Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture](/document-legal/construction-insurance-complete-guide-singapore)
 - [Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist](/decision-tree/opening-import-export-trader-checklist)
-- /procedural-howto/bid-bond-application-process
 
 *Published 5 May 2026. Source verified 5 May 2026.*

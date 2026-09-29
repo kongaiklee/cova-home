@@ -108,11 +108,11 @@ The trades that most often meet this requirement without noticing are the ones w
 7. If a vehicle is off the road for a period, what does the policy and LTA require before it goes back on?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Regime](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [Combined Single Limit vs Split Limit: Motor and Liability Limit Structure](/comparison/combined-single-limit-vs-split-limit-motor-liability)
 - [Opening a Logistics or Freight Forwarder Firm in Singapore: Full Insurance Checklist](/decision-tree/opening-logistics-freight-forwarder-checklist)
-- [SME Startup Decision Tree: Private Hire and Chauffeur Services](/decision-tree/private-hire-chauffeur-services)
+- [SME Startup Decision Tree: Private Hire and Chauffeur Services - Foundational Insurance Procurement](/decision-tree/private-hire-chauffeur-services)
 
 *Published 26 August 2026. Source verified 26 August 2026.*
 

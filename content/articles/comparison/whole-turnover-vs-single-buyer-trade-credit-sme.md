@@ -290,13 +290,13 @@ Your licensed adviser should walk you through the portfolio analysis, the major 
 
 ## Related Information
 
-- [Trade Credit vs Letters of Credit](/comparison/trade-credit-vs-letters-of-credit)
-- [Surety vs Performance Bond](/comparison/surety-vs-performance-bond)
-- [Marketlend / QBE Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
-- [Annual Open Cover Marine Cargo vs Specific Voyage Policy](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme) (article 397)
-- [Trade Credit Claim Process](/procedural-howto/trade-credit-claim-process)
-- [BI vs CBI Worked Example](/comparison/bi-vs-cbi-worked-example)
-- [How to Verify a Commercial Insurance Quote Before Bind](/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore) (article 407)
+- [Trade Credit Insurance vs Letters of Credit: Two Approaches to Customer Payment Risk](/comparison/trade-credit-vs-letters-of-credit)
+- [Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate](/comparison/surety-vs-performance-bond)
+- [Marketlend Pty Ltd v QBE Insurance (Singapore) [2025] SGHC(I) 1: Singapore's First Trade Credit Insurance Judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment)
+- [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
+- [Trade Credit Claim Submission Process: From Customer Default to Insurer Recovery](/procedural-howto/trade-credit-claim-process)
+- [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
+- [How to Verify a Commercial Insurance Quote Before You Bind: The Pre-Bind Checklist for Singapore SMEs](/procedural-howto/how-to-verify-commercial-insurance-quote-before-bind-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

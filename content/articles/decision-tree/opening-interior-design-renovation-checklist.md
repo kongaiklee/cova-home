@@ -411,8 +411,9 @@ The renovation business has high physical risk concentration and significant PI 
 5. As I scale (more staff, larger projects, commercial expansion), what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-construction-firm-checklist
+- [Construction Insurance in Singapore: BCA, SCAL, CAR and the Full Picture](/document-legal/construction-insurance-complete-guide-singapore)
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

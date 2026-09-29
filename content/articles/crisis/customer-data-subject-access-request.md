@@ -205,7 +205,6 @@ Organisations that approach DSAR handling as a customer-service question - respo
 
 ### Related Information
 - [Cyber-Extortion Event Response: Singapore Framework for Ransomware, Data Theft, and Payment Decisions](/crisis/cyber-extortion-event-response)
-- /procedural-howto/pdpa-data-breach-notification-process
 - [How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

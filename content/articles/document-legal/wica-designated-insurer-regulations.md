@@ -262,7 +262,7 @@ The designated insurer framework reflects a deliberate regulatory choice: ensuri
 ### Related Information
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
-- /mom-platform-operator-2025
+- [MOM Platform Operator Designated Insurer (Singapore 2025)](/regulatory-change/mom-platform-operator-designated-insurer-2025)
 
 *Published 4 May 2026. Source verified 4 May 2026.*
 

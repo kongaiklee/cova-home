@@ -96,11 +96,11 @@ Covarage helps with the part that quietly goes wrong across a multi-year, multi-
 5. Are the licence documents, Project Account records, project policies, and bonds organised so we can produce them at a financier or regulator query?
 
 ### Related Information
-- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
+- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
-- [Performance Bond Claim Process from the Obligee Perspective](/procedural-howto/performance-bond-claim-obligee)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim](/procedural-howto/performance-bond-claim-obligee)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

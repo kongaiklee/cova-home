@@ -113,8 +113,8 @@ Most SMEs that move goods seriously end up holding more than one of these, delib
 ### Related Information
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 - [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
-- [Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
+- [Annual Fleet Rated vs Individual Vehicle Commercial Motor Cover for Singapore SMEs: A Procurement Structure Decision](/comparison/annual-fleet-vs-individual-vehicle-commercial-motor-sme)
 - [Logistics and 3PL Operators in Singapore: Bailment Liability, Cargo, and Warehouse Cover](/edge-case/logistics-3pl-bailment-cargo-warehouse-insurance-singapore)
-- [Regional Marine Cargo for ASEAN Trade](/cross-border/regional-marine-cargo-asean)
+- [Regional Marine Cargo for ASEAN Trade: Single-Programme Architecture Across Multiple Jurisdictions](/cross-border/regional-marine-cargo-asean)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

@@ -118,29 +118,31 @@ Covarage keeps the moving parts of the stack in one place: the CAR and WIC polic
 ### Related Information
 
 The stack and the law:
-- [WICA: The Complete Guide for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
-- [Professional Indemnity: The Complete Guide for Singapore Service Businesses](/document-legal/professional-indemnity-complete-guide-singapore)
-- [What "Indemnity to Principal" Actually Means](/document-legal/indemnity-to-principal)
-- [Standard Waiver of Subrogation Clauses](/document-legal/standard-waiver-of-subrogation-clause)
-- [Standard Force Majeure Clauses](/document-legal/standard-force-majeure-clause-analysis)
+- [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+- [What "Indemnity to Principal" Actually Means in Singapore Insurance](/document-legal/indemnity-to-principal)
+- [Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause)
+- [Standard Force Majeure Clauses: Drafting, Triggering, and Commercial Implications](/document-legal/standard-force-majeure-clause-analysis)
 
 CAR and procurement structure:
-- [Annual Blanket CAR vs Project-Specific CAR for SME Contractors](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
-- [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
-- [How to Comply with PSSCOC Insurance Clauses for a Government Tender](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
+- [Annual Blanket CAR vs Project-Specific CAR for Singapore SME Contractors: A Procurement Structure Decision](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)
+- [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
+- [How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
 
 Bonds and security:
-- [Surety Bonds vs Performance Bonds: How They Coordinate](/comparison/surety-vs-performance-bond)
-- [Performance Bond Claim Process from the Obligee Perspective](/procedural-howto/performance-bond-claim-obligee)
+- [Surety Bonds vs Performance Bonds: Understanding the Two and How They Coordinate](/comparison/surety-vs-performance-bond)
+- [Performance Bond Claim Process from the Obligee Perspective: How Project Owners and Customers Claim](/procedural-howto/performance-bond-claim-obligee)
 
 Registration, licensing and safety:
-- [BCA CRS Workheads Overview](/association/bca-crs-workheads-overview)
-- [What Insurance BCA CW01 and CW02 Contractors Actually Need](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
-- [BCA Builders Licensing Scheme: Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
-- [BCA CRS Expansion to a National Registry (1 June 2025)](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
-- [WSH Construction Regulations: What Changed for Sub-Contractor SMEs](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
-- [WSH Mandatory Video Surveillance for Construction](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
-- [What SCAL's SgMA Is, and How It Affects Your Insurance](/association/scal-sgma-impact-on-insurance)
-- [SCAL SLOTS Application: Insurance Requirements](/licensing/scal-slots-application-insurance-requirements)
+- [BCA Contractors Registration System (CRS): Workheads, Tiers, and Insurance Implications](/association/bca-crs-workheads-overview)
+- [What Insurance Do BCA CW01 and CW02 Contractors Actually Need?](/licensing/bca-cw01-cw02-contractor-insurance-requirements)
+- [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
+- [BCA Contractors Registration System (CRS) Expansion Effective 1 June 2025: National Registry, Higher Entry Standards, Insurance Implications](/regulatory-change/bca-crs-expansion-national-registry-1-june-2025)
+- [BCA Contractors Registration System Evolution 2024-2026: What Singapore Construction SMEs Need to Know](/regulatory-change/bca-crs-workhead-evolution-construction-insurance)
+- [Workplace Safety and Health (Construction) Regulations Updates: What Changed for Sub-Contractor SMEs in 2024-2026](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)
+- [WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
+- [What Is SCAL's SgMA, and How Does It Affect My Insurance?](/association/scal-sgma-impact-on-insurance)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

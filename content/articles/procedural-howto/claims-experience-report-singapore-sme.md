@@ -175,7 +175,7 @@ Where the SME has multiple insurers across policy years, the reports from each s
 ### Related Information
 - [How to Brief Your Insurance Adviser So Quotes Come Back Faster and More Accurate](/procedural-howto/how-to-brief-insurance-adviser-singapore)
 - [How to Audit Your Existing Business Insurance in 60 Minutes](/procedural-howto/business-insurance-audit-60-minutes-singapore)
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*
 

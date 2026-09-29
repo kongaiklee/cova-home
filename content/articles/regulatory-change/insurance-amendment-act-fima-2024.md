@@ -259,6 +259,6 @@ The cascading effects of 24 January 2025 reforms continue to develop. SMEs that 
 ### Related Information
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 - [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
-- /document-legal/insurance-act-1966-statutory-framework
+- [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

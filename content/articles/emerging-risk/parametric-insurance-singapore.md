@@ -149,7 +149,7 @@ When you sit with a licensed adviser or broker to look at a parametric option, a
 ### Related Information
 - [Indemnity vs Reinstatement Settlement Basis: Which Pays Out More?](/comparison/indemnity-vs-reinstatement-basis)
 - [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
-- [How to File a Property All Risks Claim: Flood and Water Damage](/procedural-howto/flood-water-damage-claim)
+- [How to File a Property All Risks Claim - Flood and Water Damage](/procedural-howto/flood-water-damage-claim)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

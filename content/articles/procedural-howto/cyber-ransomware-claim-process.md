@@ -95,9 +95,9 @@ Three things to do *before* an incident:
 5. Is system restoration cost (rebuild, reinstall) covered separately from BI?
 
 ### Related Information
-- PDPA mandatory data breach notification: the 3-day clock explained
-- Cybersecurity (Amendment) Act 2024: what changed on 31 October 2025
-- Cyber insurance buying basics for Singapore SMEs
+- [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
+- [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024)
+- [Cyber Insurance for Singapore SMEs: The Complete Guide](/document-legal/cyber-insurance-complete-guide-singapore-sme)
 
 *Published 3 May 2026. Source verified 3 May 2026.*
 

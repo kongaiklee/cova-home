@@ -101,6 +101,6 @@ For founders evaluating advisers, the diligence is not philosophical (tied vs in
 ### Related Information
 - [Broker vs Direct Insurer for Singapore SMEs: Which Is Cheaper?](/comparison/broker-vs-direct-sme)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
-- /mas-faa-n02/introducer-explained
+- [MAS Notice FAA-N02: Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

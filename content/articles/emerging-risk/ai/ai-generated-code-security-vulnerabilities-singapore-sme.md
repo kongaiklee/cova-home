@@ -268,17 +268,17 @@ When you sit down with a licensed Independent Financial Adviser or broker, the f
 
 ## Related Information
 - [Software Supply-Chain Attacks: What a Singapore SME Inherits When a Package or a Vendor Is Compromised](/emerging-risk/software-supply-chain-attack-vendor-compromise-singapore-sme)
-- [Unpatched Software and Your Cyber Policy](/emerging-risk/unpatched-software-cyber-insurance-singapore-sme)
+- [Unpatched Software and Your Cyber Policy: What CSA's September 2026 Alerts Mean for a Singapore SME Claim](/emerging-risk/unpatched-software-cyber-insurance-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
-- [MAS, AI Verify, IMDA MGF and EU AI Act: Singapore SME Compliance Timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline) (article 411)
-- [Chatbot Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme) (article 412)
-- [Autonomous AI Agent Rogue Actions](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme) (article 413)
-- [Deepfake Funds-Transfer Fraud](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme) (article 414)
-- [AI-Generated Content Copyright and IP Infringement](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme) (article 415)
-- [AI Bias in Hiring and Promotion: EPL Claims for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme) (article 416)
-- [PDPA 2022 Penalty Regime](/regulatory-change/pdpa-2022-penalty)
-- [Cybersecurity Act 2024 Amendments](/regulatory-change/cyber-act-2024)
+- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
+- [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)
+- [When the Algorithm Says No: AI Bias in Hiring and Promotion as an EPL Risk for Singapore SMEs](/emerging-risk/ai/ai-bias-hiring-promotion-epl-claims-singapore-sme)
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
+- [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024)
 
 *Published 8 May 2026. Source verified 8 May 2026.*
 

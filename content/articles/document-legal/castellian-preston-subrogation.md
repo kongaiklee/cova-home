@@ -222,6 +222,6 @@ The Castellian v Preston framework has shaped insurance recovery for over 140 ye
 ### Related Information
 - [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](/document-legal/marine-insurance-act-disclosure-sections-17-19)
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
-- /procedural-howto/property-fire-claim-process
+- [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

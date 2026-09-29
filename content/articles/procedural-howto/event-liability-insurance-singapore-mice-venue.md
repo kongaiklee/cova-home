@@ -123,6 +123,8 @@ The cost of arranging event liability cover is modest relative to an event budge
 - [How to File Public Liability Claim Event Slip And Fall](/procedural-howto/pl-claim-event-slip-fall)
 - [Exhibition and Trade Show Insurance in Singapore](/procedural-howto/exhibition-trade-show-insurance-singapore-sme)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
+- [How to Arrange Event Cancellation Insurance for a Singapore SME](/procedural-howto/event-cancellation-insurance-singapore-sme)
+- [Opening an Event Management Company in Singapore: Full Insurance Checklist](/decision-tree/opening-event-management-company-checklist)
 
 *Published 17 May 2026. Source verified 17 May 2026.*
 

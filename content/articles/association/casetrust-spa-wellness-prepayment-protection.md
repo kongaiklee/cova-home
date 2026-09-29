@@ -76,8 +76,8 @@ Companies typically also need to consider parallel covers that the bond does *no
 ### Related Information
 
 - [CaseTrust Renovation: The Deposit Performance Bond Explained](/association/casetrust-renovation-deposit-performance-bond)
-- [SCDF Fire Safety Certificate: Insurance Implications](/licensing/scdf-fire-safety-certificate-insurance-implications)
-- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
+- [SCDF Fire Safety Certificate: Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
+- [MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)](/procedural-howto/mas-register-verify-insurance-broker)
 
 ---
 

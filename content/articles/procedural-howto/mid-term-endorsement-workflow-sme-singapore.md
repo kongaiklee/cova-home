@@ -279,12 +279,12 @@ A practical operating cadence for a Singapore SME:
 
 ### Related Information
 
-- [/procedural-howto/mom-wsh-incident-reporting-eservice-singapore](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore) - how to report a workplace incident through MOM's WSH eService and the deadlines that govern it.
-- [/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore) - a four-week pre-renewal data-preparation sprint to walk into the renewal table with full visibility on locations, fleet, headcount, and sums insured.
-- [/comparison/sme-insurance-package-vs-standalone-policies-singapore](/comparison/composite-management-liability-package-vs-standalone-modules-sme) - how SME package wordings (Chubb Select+, MSIG SUMO, AIG My Business, Liberty SMECare) handle endorsements differently from standalone policies.
-- [/document-legal/standard-waiver-of-subrogation-clause](/document-legal/standard-waiver-of-subrogation-clause) - annotated walk-through of a standard waiver-of-subrogation endorsement clause used in Singapore commercial contracts.
-- [/decision-tree/light-manufacturing-sme](/decision-tree/light-manufacturing-sme) - decision tree for identifying which mid-term changes in a light-manufacturing business are likely to be material and to require endorsement.
-- [/regulatory-change/wica-1-november-2025-limit-increases-singapore](/regulatory-change/wica-2025-limit-increase-claim-patterns) - what changed on 1 November 2025 under WICA, and what to check on your WICI policy.
+- [How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore) - how to report a workplace incident to MOM through the WSH Incident Reporting eService (formerly iReport), and the deadlines that apply
+- [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore) - a 90-day plan for the data an insurance renewal needs: reinstatement valuations, the wage census, claims history and the broker submission
+- [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme) - one management liability package with shared limits, or separate D&O, EPL, crime, PI and cyber policies: how limits, retentions and renewals differ
+- [Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications](/document-legal/standard-waiver-of-subrogation-clause) - what a waiver of subrogation clause in a lease or contract commits you to, and when signing one can void your own cover
+- [SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement](/decision-tree/light-manufacturing-sme) - how equipment, products, supply chain and scale set the cover a light-manufacturing business needs
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025) - the higher WICA compensation limits from 1 November 2025, and what they mean for your WICA policy
 
 ---
 

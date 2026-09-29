@@ -353,7 +353,7 @@ The InvoiceNow framework continues to mature. SMEs that adopt early benefit from
 
 ### Related Information
 - [IRAS Just Notified Us of a Tax Audit or Investigation - What Do I Do Now?](/crisis/iras-audit-investigation)
-- /procedural-howto/bec-social-engineering-claim-process
+- [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

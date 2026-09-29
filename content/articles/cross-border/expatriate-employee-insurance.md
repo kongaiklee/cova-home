@@ -196,7 +196,7 @@ The annual cost of properly structured expatriate insurance for a single seconde
 ### Related Information
 - [ASEAN Expansion Insurance Framework: Building Multi-Country Coverage From Singapore](/cross-border/asean-expansion-insurance-framework)
 - [Foreign Subsidiary Insurance Scope: What the Singapore Parent Policy Covers (and Where It Stops)](/cross-border/foreign-subsidiary-insurance-scope)
-- /comparison/group-medical-vs-individual-medical
+- [Regional Employee Benefits: Coordinated GMP and Group Life Across ASEAN Operations](/cross-border/regional-employee-benefits)
 
 *Published 6 May 2026. Source verified 6 May 2026.*
 

@@ -267,6 +267,6 @@ The cost of not adjusting to IP redesign is suboptimal - both higher premium tha
 ### Related Information
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 - [Migrant Worker Medical Insurance Stage 2 (1 July 2025): Age-Differentiated Premiums, Standardised Exclusions, Direct Hospital Reimbursement](/regulatory-change/mwmi-stage-2-july-2025-age-differentiated-premiums)
-- /comparison/group-medical-cover-options
+- [Group Hospitalisation & Surgical vs Personal Integrated Shield Plan: How They Coordinate](/comparison/ghs-vs-personal-ip)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

@@ -328,8 +328,9 @@ The childcare sector has one of the highest reputational sensitivity profiles am
 5. For ECDA licence renewal, what insurance documentation will the regulator review?
 
 ### Related Information
-- Opening a Private Kindergarten or Childcare Centre in Singapore: Full Insurance Checklist
+- [What Insurance Does an ECDA-Licensed Childcare Centre Need?](/licensing/ecda-licensed-childcare-centre-insurance)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

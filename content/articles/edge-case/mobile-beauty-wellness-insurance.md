@@ -388,8 +388,9 @@ The mobile beauty insurance build is moderate-cost but specific. Generic approac
 5. As I scale (more practitioners, platform partnerships, new services), what insurance milestones should I plan for?
 
 ### Related Information
-- /decision-tree/opening-aesthetic-medspa-checklist
+- [Specialty Medical Aesthetics: The Distinct Insurance Profile for Aesthetic Medicine, Injectables, and Energy-Based Treatments](/edge-case/medical-aesthetics-injectables-clinics)
 - [Opening a Hair or Beauty Salon in Singapore: Full Insurance Checklist](/decision-tree/opening-salon-checklist)
 - [Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?](/edge-case/dog-daycare-boarding-insurance)
+- [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

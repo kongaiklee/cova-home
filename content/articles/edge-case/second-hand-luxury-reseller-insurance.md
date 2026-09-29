@@ -212,7 +212,7 @@ The pre-owned luxury insurance build is moderate-to-substantial in cost, reflect
 
 ### Related Information
 - [Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore](/edge-case/pet-grooming-boutique-pet-services-insurance)
-- /procedural-howto/cargo-claim-process
+- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
 - [Fine Art and Artwork Insurance for Singapore Businesses](/document-legal/fine-art-insurance-business-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

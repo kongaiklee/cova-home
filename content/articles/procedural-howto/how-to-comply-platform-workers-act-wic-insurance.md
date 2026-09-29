@@ -235,7 +235,7 @@ The cost of properly structured Platform Workers Act compliance is typically sub
 
 ### Related Information
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
-- /document-legal/platform-workers-act-2024-statutory-framework
-- /regulatory-change/platform-workers-act-implementation
+- [Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Duty for Singapore Businesses](/emerging-risk/platform-gig-workers-wica-singapore)
+- [Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know](/regulatory-change/platform-workers-act-first-year-review)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

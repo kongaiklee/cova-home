@@ -96,7 +96,7 @@ Covarage helps with the part that quietly goes wrong: keeping the deposit record
 5. Are the deposit records, the WICA policy and any commercial cover documented somewhere we can produce them at renewal or on a Registry query?
 
 ### Related Information
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore Employment](/document-legal/wica-section-24-mandatory-insurance)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [How to File a Data Breach Notification Under PDPA Part 6A: The PDPC 3-Day Clock](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore)
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [First 24 Hours After a Major Employee Fraud Discovery: A Singapore SME Crisis Playbook](/crisis/employee-fraud-discovery-first-24-hours-singapore)

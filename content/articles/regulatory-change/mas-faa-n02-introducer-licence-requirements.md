@@ -100,8 +100,9 @@ Companies typically need to consider three things when evaluating any insurance 
 
 ### Related Information
 
-- [MAS Register of Representatives - How to Verify Your Insurance Broker](/procedural-howto/mas-register-verify-insurance-broker)
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation](/comparison/faa-n02-introducer-vs-fa-broker)
+- [MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)](/procedural-howto/mas-register-verify-insurance-broker)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 - [MOM Platform Operator Designated Insurer (Singapore 2025)](/regulatory-change/mom-platform-operator-designated-insurer-2025)
 
 ---

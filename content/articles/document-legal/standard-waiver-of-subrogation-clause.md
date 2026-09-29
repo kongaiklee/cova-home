@@ -149,6 +149,7 @@ For substantive operations, considerations on waiver of subrogation, commercial 
 
 ### Related Information
 - [Standard Insurance Clauses in Commercial Contracts: Drafting and Operational Implications](/document-legal/standard-insurance-clause-commercial-contracts)
+
 *Published 5 May 2026. Source verified 5 May 2026.*
 
 ---

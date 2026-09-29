@@ -187,8 +187,8 @@ The cost of properly structured boutique hotel insurance typically runs SGD 20,0
 
 ### Related Information
 - [Co-Working Space Operator: The Specific Insurance Profile for Singapore Flexible Workspace Operations](/edge-case/co-working-space-operator-singapore)
-- /comparison/property-vs-business-interruption-allocation
-- /document-legal/pdpa-section-26d-data-controller-obligations
+- [Business Interruption Sum Insured: The Gross-Profit Basis Explained](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore)
+- [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

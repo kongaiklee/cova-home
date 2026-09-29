@@ -151,7 +151,7 @@ If the asks are met, the relationship has shifted to the better-practice model. 
 
 ### Related Information
 - [What "Concierge" Corporate Insurance Support Should Actually Mean for a Singapore SME](/comparison/concierge-corporate-insurance-support-singapore-sme)
-- [Tied Agent vs licensed adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
+- [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 - [How to Brief Your Insurance Adviser So Quotes Come Back Faster and More Accurate](/procedural-howto/how-to-brief-insurance-adviser-singapore)
 
 *Published 22 May 2026. Source verified 22 May 2026.*

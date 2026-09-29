@@ -180,8 +180,8 @@ The cost of setting this up is one focused week of work for a small SME, and pro
 
 ### Related Information
 - [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [The Premium Payment Framework: How Singapore's 60-Day Warranty Works](/document-legal/premium-payment-framework)
-- How to File a Notice of Circumstance Under a Claims-Made Policy
+- [The Premium Payment Framework: 60-Day Premium Warranties and Commercial Implications](/document-legal/premium-payment-framework)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 21 May 2026. Source verified 21 May 2026.*

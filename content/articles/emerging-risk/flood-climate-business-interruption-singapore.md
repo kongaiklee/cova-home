@@ -121,7 +121,7 @@ PUB's flood-management work and the broader trend toward heavier rainfall are th
 - [Supply-Chain Disruption and Contingent Business Interruption: What Singapore SMEs Miss](/emerging-risk/supply-chain-contingent-business-interruption-singapore)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
-- [How to File a Property All Risks Claim: Flood and Water Damage](/procedural-howto/flood-water-damage-claim)
+- [How to File a Property All Risks Claim - Flood and Water Damage](/procedural-howto/flood-water-damage-claim)
 - [The Average Clause Explained: Singapore Underinsurance Penalties on Partial Losses](/document-legal/average-clause-underinsurance-singapore)
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [Key Supplier Insolvency: The Contingent BI Trigger](/crisis/key-supplier-insolvency-contingent-bi-trigger)

@@ -94,7 +94,7 @@ The cleanest test is to run both. Get a direct quote from the insurer's portal. 
 5. If I switch broker mid-year via a BOR letter, who keeps the commission for the unexpired period?
 
 ### Related Information
-- [Tied Agent vs licensed adviser in Singapore](/comparison/tied-agent-vs-ifa)
+- [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
 - [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 

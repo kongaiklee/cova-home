@@ -98,11 +98,11 @@ If your business runs any software on this fortnight's CSA list, the list is you
 7. Which of my internet-facing systems would the insurer regard as the ones that grant total control if compromised, and are they on this month's alert list?
 
 ### Related Information
-- [Cyber Insurance for Singapore SMEs: The Complete Guide to Cover, Duties and Claims](/document-legal/cyber-insurance-complete-guide-singapore-sme)
-- [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Means in Enforcement](/document-legal/pdpa-section-24-protection-obligation)
-- [Ransomware Just Hit: The First Hours for a Singapore SME](/crisis/ransomware-just-hit)
-- [Cyber Incident: The First 72 Hours Playbook for a Singapore SME](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
-- [Cyber First-Party vs Third-Party Cover in Singapore](/comparison/cyber-first-party-vs-third-party-cover-singapore)
-- [Cybersecurity Act 2024: The First Year](/regulatory-change/cybersecurity-act-2024-first-year)
+- [Cyber Insurance for Singapore SMEs: The Complete Guide](/document-legal/cyber-insurance-complete-guide-singapore-sme)
+- [PDPA Section 24 Protection Obligation: What "Reasonable Security Arrangements" Actually Means](/document-legal/pdpa-section-24-protection-obligation)
+- [We Just Discovered Ransomware on Our Systems - What Do I Do Now?](/crisis/ransomware-just-hit)
+- [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
+- [Cyber Insurance: First-Party vs Third-Party Cover and What Each Pays](/comparison/cyber-first-party-vs-third-party-cover-singapore)
+- [Cybersecurity Act 2024 Amendment First-Year Compliance Review](/regulatory-change/cybersecurity-act-2024-first-year)
 
 *Published 11 September 2026. Source verified 11 September 2026.*

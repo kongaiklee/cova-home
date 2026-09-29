@@ -185,13 +185,13 @@ For SMEs outside the in-scope sectors, the TEWP mandate does not apply, but the 
 
 ## Related Information
 
-- [WSH Penalty Doubling 2024](/regulatory-change/wsh-penalty-doubling-2024)
-- [WSH Mandatory Video Surveillance for Construction Worksites - 1 June 2024](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
-- [How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore) (article 404)
-- [WICA 2025 Limit Increase and Claim Patterns](/regulatory-change/wica-2025-limit-increase-claim-patterns)
-- [How to File a WICA Claim in Singapore with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom)
-- [D&O vs PI vs EPL Coordination](/comparison/do-vs-pi-vs-epl-coordination)
-- [D&O Claim Notification Process](/procedural-howto/do-claim-notification-process)
+- [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
+- [WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
+- [How to File a Workplace Incident with MOM: WSH Incident Reporting eService Workflow for Singapore SMEs](/procedural-howto/mom-wsh-incident-reporting-eservice-singapore)
+- [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
+- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
+- [D&O Claim Notification Process: From First Indication to Defence Engagement](/procedural-howto/do-claim-notification-process)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

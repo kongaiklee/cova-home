@@ -166,5 +166,6 @@ One sub-decision deserves its own line. **Wages** can be treated as a fully insu
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 - [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 - [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)
+- [Pandemic and Communicable-Disease Business Interruption: What Actually Responds Now](/emerging-risk/pandemic-communicable-disease-bi-singapore)
 
 *Published 31 May 2026. Source verified 31 May 2026.*

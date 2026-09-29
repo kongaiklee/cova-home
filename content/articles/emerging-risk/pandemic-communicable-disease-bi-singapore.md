@@ -103,6 +103,7 @@ Worked scenario. A Singapore café holds a property-and-BI policy with a 12-mont
 
 ### Related Information
 
+- [Business Interruption Sum Insured: The Gross-Profit Basis Explained](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore)
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)
 - [BI Claim Deep-Dive: Gross Profit Calculation and Indemnity Period Management](/procedural-howto/bi-claim-deep-dive)
 - [Business Interruption Deductible: Hours-Based vs Day-Based vs Dollar-Based Waiting Period](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)

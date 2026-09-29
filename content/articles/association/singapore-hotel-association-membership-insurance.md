@@ -107,7 +107,7 @@ Covarage helps with the part that quietly goes wrong: keeping the licence record
 6. Is our business interruption indemnity period long enough to rebuild and re-let after a major fire, and is the sum insured realistic?
 
 ### Related Information
-- [Does a Hotel-Keeper Licence Require Insurance in Singapore?](/licensing/hotel-keeper-licence-insurance-singapore)
+- [Does a Hotel-Keeper's Licence Require Insurance in Singapore?](/licensing/hotel-keeper-licence-insurance-singapore)
 - [Boutique Hotel and Hostel Insurance: Singapore Operator Framework](/edge-case/boutique-hotel-hostel-insurance)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
 - [Business Interruption (BI) vs Contingent Business Interruption (CBI): A Worked Example for Singapore SMEs](/comparison/bi-vs-cbi-worked-example)

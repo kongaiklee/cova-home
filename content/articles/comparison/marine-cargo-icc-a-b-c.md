@@ -267,7 +267,7 @@ The choice of ICC clause is foundational for marine cargo cover. SMEs that defau
 5. As my operations evolve, what cover evolution should I plan for?
 
 ### Related Information
-- /procedural-howto/marine-cargo-claim-process
+- [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](/document-legal/marine-insurance-act-disclosure-sections-17-19)
 - [Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
 

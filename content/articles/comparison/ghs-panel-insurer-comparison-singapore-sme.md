@@ -245,14 +245,14 @@ For SMEs without GHS today, the case for providing it rests on (i) employee attr
 
 ## Related Information
 
-- [GHS vs Personal IP](/comparison/ghs-vs-personal-ip)
-- [Group Personal Accident vs Group Term Life](/comparison/group-personal-accident-vs-group-term-life-sme) (article 392)
-- [WICA Designated Insurer Panel](/comparison/wica-designated-insurer-panel)
-- [WICA vs GPA](/comparison/wica-vs-gpa)
-- [WICA 2025 Limit Increase and Claim Patterns](/regulatory-change/wica-2025-limit-increase-claim-patterns)
-- [MOH Integrated Shield Rider Redesign 2026](/regulatory-change/moh-integrated-shield-rider-redesign-2026)
-- How to File a GHS Claim with Cashless Workflow
-- [Annual Open Cover Marine Cargo vs Specific Voyage Policy](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme) (article 397)
+- [Group Hospitalisation & Surgical vs Personal Integrated Shield Plan: How They Coordinate](/comparison/ghs-vs-personal-ip)
+- [Group Personal Accident (GPA) vs Group Term Life (GTL): A Singapore SME Decision Framework](/comparison/group-personal-accident-vs-group-term-life-sme)
+- [WICA Designated Insurer Panel: How the Employer and Platform Operator Lists Differ and What It Means for Procurement](/comparison/wica-designated-insurer-panel)
+- [WICA vs Group Personal Accident: Which Does My Business Need?](/comparison/wica-vs-gpa)
+- [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
+- [MOH Integrated Shield Plan Rider Redesign Effective 1 April 2026: SME Group Medical Implications](/regulatory-change/moh-integrated-shield-rider-redesign-2026)
+- [How to File a Group Hospitalisation & Surgical Claim (Singapore)](/procedural-howto/group-hospital-surgical-claim)
+- [Annual Open Cover Marine Cargo vs Specific Voyage Policy: Singapore SME Decision Framework](/comparison/annual-open-cover-vs-specific-voyage-marine-cargo-sme)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

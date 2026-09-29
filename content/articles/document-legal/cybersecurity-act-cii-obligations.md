@@ -179,7 +179,7 @@ The CII / FDI cybersecurity framework has substantial compliance requirements bu
 5. For my own vendors and sub-contractors, what cyber expectations and insurance verifications should I impose?
 
 ### Related Information
-- [MAS Guidelines on Outsourcing: What Singapore SMEs Serving Financial Institutions Need to Know](/document-legal/mas-guidelines-on-outsourcing)
+- [MAS Guidelines on Outsourcing: What Replaced Them in December 2024, and What a Vendor to a Bank Now Signs](/document-legal/mas-guidelines-on-outsourcing)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
 

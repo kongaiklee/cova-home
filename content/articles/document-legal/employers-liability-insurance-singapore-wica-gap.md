@@ -91,10 +91,10 @@ Covarage holds the WICA and employers' liability sections, the designated-insure
 
 ### Related Information
 - [WICA: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
-- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How the Two Coordinate](/comparison/wica-panel-vs-cw-el-extension)
+- [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate](/comparison/wica-panel-vs-cw-el-extension)
 - [How To Handle Simultaneous Claims WICA And Common Law](/procedural-howto/wica-simultaneous-common-law)
 - [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
-- [WSHA Section 48 Director Personal Liability: When Workplace Safety Failures Reach the Board](/document-legal/wsha-section-48-director-liability)
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 - [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
 

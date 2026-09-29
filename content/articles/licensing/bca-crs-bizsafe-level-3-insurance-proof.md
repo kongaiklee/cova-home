@@ -79,9 +79,9 @@ Factors that affect your CRS application include: workhead grade (L1 vs L6 vs A1
 
 ### Related Information
 
-- [SCAL SLOTS Application: Insurance Requirements](/licensing/scal-slots-application-insurance-requirements)
-- [BCA Builders Licensing Scheme - Insurance Requirements](/licensing/bca-builders-licensing-scheme-insurance)
-- [MOM Designated Insurer WICA List 2026](/regulatory-change/mom-designated-insurer-wica-list-2026)
+- [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
+- [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
+- [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---
 

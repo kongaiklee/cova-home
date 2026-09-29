@@ -347,6 +347,6 @@ The 36-month cycle represents administrative simplification with elevated operat
 ### Related Information
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference and How Claim Mechanics Actually Work](/comparison/fire-vs-par-claim-mechanics)
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
-- /procedural-howto/property-fire-claim-process
+- [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

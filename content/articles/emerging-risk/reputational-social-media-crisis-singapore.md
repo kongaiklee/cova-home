@@ -118,10 +118,10 @@ Across all three, the durable protection is not a policy. It is a clear escalati
 8. What are the notification triggers and deadlines for a defamation claim or circumstance under my claims-made wordings?
 
 ### Related Information
-- [A PR Crisis or Viral Social Media Incident Just Hit Our Brand: What Do I Do Now?](/crisis/pr-crisis-social-media-incident)
-- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
-- [AI Hallucinations in Professional and Advisory Services: The Singapore PI Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
-- [Professional Indemnity vs Tech E&O: What's the Difference for SaaS](/comparison/pi-vs-tech-eo-for-saas)
+- [A PR Crisis or Viral Social Media Incident Just Hit Our Brand - What Do I Do Now?](/crisis/pr-crisis-social-media-incident)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [AI Hallucinations in Professional and Advisory Services: The Singapore Professional Indemnity Exposure](/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore)
+- [Professional Indemnity vs Tech E&O: What's the Difference for SaaS and Technology Companies?](/comparison/pi-vs-tech-eo-for-saas)
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
 - [How to File a Professional Indemnity (PI) Claim in Singapore](/procedural-howto/file-pi-claim-singapore)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)

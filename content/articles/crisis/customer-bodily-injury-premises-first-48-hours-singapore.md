@@ -161,7 +161,7 @@ The PL policy's per-claim and aggregate limits constrain the cover. A serious-in
 
 ### Related Information
 - [How to File a Workplace Accident Notification Under WICA 2019: The 10-Day MOM Rule](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
-- [The Document Trail That Saved (and Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
+- [The Document Trail That Saved (and the Missing Document That Sank) a Singapore Business Insurance Claim](/procedural-howto/document-trail-business-insurance-claim-singapore)
 - [How to Prepare Information So Your Insurance Claim Gets Processed Faster](/procedural-howto/insurance-claim-preparation-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 

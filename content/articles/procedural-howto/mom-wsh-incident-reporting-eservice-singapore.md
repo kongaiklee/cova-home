@@ -247,12 +247,10 @@ A maintenance technician is exposed to a chemical leak and admitted overnight (m
 
 ### Related Information
 
-- [/procedural-howto/how-to-file-wica-claim](/procedural-howto/how-to-file-wica-claim-singapore-mom) - the parallel insurance-side claim workflow
-- [/regulatory-change/wica-2025-limit-increase](/regulatory-change/wica-2025-limit-increase-claim-patterns) - what the 1 November 2025 changes mean for employers
-- /document-legal/wsh-act-section-48 - director and officer personal liability under the WSH Act 2006
-- /comparison/bizsafe-vs-iso-45001 - the two main safety-management frameworks SMEs use
-- [/decision-tree/light-manufacturing-sme](/decision-tree/light-manufacturing-sme) - sector-specific WSH risk routing
-- /procedural-howto/corppass-setup-for-mom-eservices - getting CorpPass right before an incident happens
+- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom) - the work injury compensation (WICA) claim that follows the incident report, from notifying the insurer to payment
+- [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025) - what the higher WICA compensation limits from 1 November 2025 mean for employers
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
+- [SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement](/decision-tree/light-manufacturing-sme) - the cover a light-manufacturing business carries for machinery, products, premises and workplace injury
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 8 May 2026. Source verified 8 May 2026.*

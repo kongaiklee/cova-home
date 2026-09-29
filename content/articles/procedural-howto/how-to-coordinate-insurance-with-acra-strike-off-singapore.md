@@ -231,13 +231,13 @@ The closure is the most consequential insurance event in the company's life. It 
 
 ## Related Information
 
-- [How to Cancel a Commercial Insurance Policy Mid-Term in Singapore](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore) (article 406)
-- [How to File a Notice of Circumstance Under a Claims-Made Policy](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore) (article 408)
-- [Extended Reporting Period (ERP) / Tail Cover for M&A in Singapore](/procedural-howto/extended-reporting-period-tail-cover-ma-singapore)
-- [Claims-Made vs Occurrence Cover Comparison](/comparison/claims-made-vs-occurrence-cover)
-- [IRDA 2018 Director Duties on Insolvency](/document-legal/irda-2018-director-duties-insolvency)
-- [D&O Claim Notification Process](/procedural-howto/do-claim-notification-process)
-- [How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore) (article 410)
+- [How to Cancel a Commercial Insurance Policy Mid-Term in Singapore: Short-Period Premium, Run-Off, and the Claims-Made Trap](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)
+- [How to File a Notice of Circumstance Under a Claims-Made Policy: D&O, PI, Cyber, and EPL Mechanics for Singapore SMEs](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)
+- [How to Obtain Extended Reporting Period (Tail) Cover for M&A or Business Sale](/procedural-howto/extended-reporting-period-tail-cover-ma-singapore)
+- [Claims-Made vs Occurrence Cover: Trigger Framework Comparison and Commercial Implications](/comparison/claims-made-vs-occurrence-cover)
+- [IRDA 2018 and Director Personal Liability in Insolvency: How Singapore Law Handles Distressed Companies and What D&O Insurance Actually Covers](/document-legal/irda-2018-director-duties-insolvency)
+- [D&O Claim Notification Process: From First Indication to Defence Engagement](/procedural-howto/do-claim-notification-process)
+- [How to Handle Your Insurer's Run-Off, Portfolio Transfer, or Insolvency: The Policyholder Workflow for Singapore SMEs](/procedural-howto/how-to-handle-insurer-run-off-portfolio-transfer-singapore)
 
 *Published 14 May 2026. Source verified 14 May 2026.*
 

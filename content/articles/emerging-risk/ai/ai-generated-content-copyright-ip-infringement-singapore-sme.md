@@ -116,11 +116,11 @@ If your team uses AI tools to produce anything that leaves the building, the out
 
 ### Related Information
 - [AI Training Data Licensing: The Anthropic Bartz Settlement and Singapore SMEs Using Generative AI](/emerging-risk/ai/ai-training-data-licensing-anthropic-bartz-singapore-sme)
-- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
 - [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
-- [Deepfake Funds-Transfer Fraud and Singapore SMEs](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
-- [AI-Generated Code Security Vulnerabilities](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
-- [Professional Indemnity Insurance in Singapore: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
-- [PDPA Amendment: The 10 Percent Turnover Penalty](/regulatory-change/pdpa-2022-penalty)
+- [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)
+- [AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
+- [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
+- [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
 
 *Published 8 May 2026. Source verified 13 September 2026.*
