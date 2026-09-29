@@ -175,7 +175,7 @@ Renovation contractors have significant WICA exposure:
 
 **Common-Law / Employer's Liability extension:**
 - Generally appropriate for renovation operations
-- Specific WSHA Section 48 considerations (see [Article 22](/document-legal/wsha-section-48-director-liability))
+- Specific WSHA Section 48 considerations (see [the personal liability directors face](/document-legal/wsha-section-48-director-liability))
 - Higher-risk works increase exposure
 
 **Subcontractor considerations:**

@@ -228,7 +228,7 @@ Many sophisticated SMEs use both:
 
 **Construction / project work.**
 
-- Performance bonds (see [Article 198](/comparison/surety-vs-performance-bond)) more relevant than Trade Credit / L/Cs typically
+- Performance bonds (see [how they compare with surety](/comparison/surety-vs-performance-bond)) more relevant than Trade Credit / L/Cs typically
 - Specific milestone payment frameworks
 - Operational considerations
 
@@ -309,7 +309,7 @@ For both mechanisms, recovery of paid amounts:
 **Trade Credit recovery.**
 
 - Insurer pursues recovery from defaulted customer
-- Specific subrogation framework (see [Article 187](/document-legal/castellian-preston-subrogation))
+- Specific subrogation framework (see [the leading case, Castellain v Preston](/document-legal/castellian-preston-subrogation))
 - Operational considerations
 
 **L/C - no recovery applicable typically.**

@@ -206,14 +206,14 @@ For SMEs procuring marine cargo cover:
 
 **Specific incident reporting.** Specific damage / loss reporting at receipt.
 
-**Specific subrogation cooperation.** See [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston framework.
+**Specific subrogation cooperation.** See [what Castellain v Preston decided](/document-legal/castellian-preston-subrogation).
 
 #### The 1906 Act framework
 
 The clauses operate within the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) framework:
 
 - Insurable interest (Sections 5-6, with Section 4 voiding contracts without it)
-- Disclosure obligations (Sections 17-19; see [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19))
+- Disclosure obligations (Sections 17-19; see [what the insured must tell the insurer](/document-legal/marine-insurance-act-disclosure-sections-17-19))
 - Policy form requirements
 - Specific warranty and condition framework
 - Specific abandonment provisions
@@ -221,7 +221,7 @@ The clauses operate within the [Marine Insurance Act 1906](https://sso.agc.gov.s
 
 **Specific 1906 Act provisions affect how ICC clauses operate in claim scenarios.**
 
-For specific Singapore case law treatment of marine cargo claims, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including specific subrogation cases under the framework discussed in [Article 187](/document-legal/castellian-preston-subrogation).
+For specific Singapore case law treatment of marine cargo claims, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including specific subrogation cases under the framework discussed in [the Castellain v Preston analysis](/document-legal/castellian-preston-subrogation).
 
 ### Common Mistakes / What Goes Wrong
 
@@ -269,6 +269,6 @@ The choice of ICC clause is foundational for marine cargo cover. SMEs that defau
 ### Related Information
 - [Marine Cargo Claim with ICC Mechanics: A Step-by-Step Walkthrough](/procedural-howto/marine-cargo-claim-with-icc)
 - [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](/document-legal/marine-insurance-act-disclosure-sections-17-19)
-- [Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
+- [Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

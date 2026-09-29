@@ -63,7 +63,7 @@ Specific transit scenarios include exhibition movement (gallery to gallery, gall
 
 Considerations on transit operations matters substantially. Operational specialist art handlers (commercial relationships with specialist transit providers), operational scope, operational considerations.
 
-For substantive operations, specific Marine Cargo Open Cover with specific Fine Art provisions (per [Article 192](/comparison/marine-cargo-icc-a-b-c) on ICC mechanics and [Article 204](/procedural-howto/marine-cargo-claim-with-icc) on marine cargo claim handling) may apply for substantial transit operational scope.
+For substantive operations, specific Marine Cargo Open Cover with specific Fine Art provisions (see [how ICC A, B and C differ](/comparison/marine-cargo-icc-a-b-c) and [how a claim is handled](/procedural-howto/marine-cargo-claim-with-icc)) may apply for substantial transit operational scope.
 
 #### The customs and cross-border framework
 
@@ -91,9 +91,9 @@ Professional Indemnity cover where applicable for advisory and authentication sc
 
 Property/Fire cover with specific premises provisions (operational climate control, operational security, operational operational considerations).
 
-Equipment Breakdown (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies - climate control critical for art preservation.
+Equipment Breakdown (see [what it covers and how to claim](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies - climate control critical for art preservation.
 
-BI cover (per [Article 195](/comparison/bi-deductible-structures) and [Article 208](/procedural-howto/bi-claim-deep-dive)) for operational disruption.
+BI cover (see [the two ways a deductible is set](/comparison/bi-deductible-structures) and [how lost gross profit is calculated](/procedural-howto/bi-claim-deep-dive)) for operational disruption.
 
 Commercial Crime / employee dishonesty cover. Substantial commercial scope including operational scope for substantial works on premises.
 

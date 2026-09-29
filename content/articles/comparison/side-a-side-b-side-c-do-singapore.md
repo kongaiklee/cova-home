@@ -133,7 +133,7 @@ A Singapore Pre-IPO technology SME with a 4-person board buys a S$5m D&O program
 
 7. **Premium funding from parent in violation of section 76A.** Group D&O premium arrangements where a parent or holding company funds subsidiary premium can engage section 76A financial-assistance issues. The section 76A(13) to (15) exceptions should be specifically tested.
 
-8. **Not coordinating Side A / Side B / Side C with defence costs allocation.** Defence allocation under D&O is on Defense Costs Inside Limits architecture (see [Article 273](/comparison/defense-costs-inside-vs-outside-limits-liability)) and can erode the pool available across all three sides. The interaction between defence costs and side allocation should be specifically tested.
+8. **Not coordinating Side A / Side B / Side C with defence costs allocation.** Defence allocation under D&O is on Defense Costs Inside Limits architecture (see [how it compares with the outside option](/comparison/defense-costs-inside-vs-outside-limits-liability)) and can erode the pool available across all three sides. The interaction between defence costs and side allocation should be specifically tested.
 
 9. **Limit too low for realistic claim scenario.** A S$2m D&O limit can be exhausted by defence alone on a complex derivative action in the Singapore High Court running 18-24 months. Limit sizing should be against realistic worst-case, not headline tariff.
 

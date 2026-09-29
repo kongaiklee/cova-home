@@ -50,7 +50,7 @@ The procedural shape:
 
 #### Statutory framework
 
-**IRDA 2018 section 440.** Available on [SSO](https://sso.agc.gov.sg/Act/IRDA2018). The ipso facto stay (see [Article 261](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management) and [Article 292](/crisis/key-supplier-insolvency-contingent-bi-trigger)) operates in favour of the SME where the Singapore-domiciled vendor enters IRDA proceedings. The contract continues by force of law; the vendor (through its insolvency practitioner) cannot terminate by reason only of insolvency. Subject to regulation 3 transitional savings (contracts post-30 July 2020 only) and section 440(5) eligible-financial-contract carve-outs.
+**IRDA 2018 section 440.** Available on [SSO](https://sso.agc.gov.sg/Act/IRDA2018). The ipso facto stay (see [how it applies when a customer restructures](/regulatory-change/irda-2018-customer-scheme-of-arrangement-judicial-management) and [what happens when a key supplier goes insolvent](/crisis/key-supplier-insolvency-contingent-bi-trigger)) operates in favour of the SME where the Singapore-domiciled vendor enters IRDA proceedings. The contract continues by force of law; the vendor (through its insolvency practitioner) cannot terminate by reason only of insolvency. Subject to regulation 3 transitional savings (contracts post-30 July 2020 only) and section 440(5) eligible-financial-contract carve-outs.
 
 **IRDA Third Schedule - UNCITRAL Model Law on Cross-Border Insolvency.** Available on [SSO](https://sso.agc.gov.sg/Act/IRDA2018). Adopted by Singapore via the IRDA. The Model Law provides for recognition of foreign main proceedings and foreign non-main proceedings, with corresponding reliefs, and cooperation between foreign and Singapore courts.
 
@@ -94,7 +94,7 @@ For vendor-disappearance scenarios, the structurally important features:
 - Waiting period (typically 8 to 24 hours for cyber BI; longer for vendor-disappearance scenarios).
 - Indemnity period (typically 90 days to 12 months).
 
-**Contingent Business Interruption (CBI).** From the property-cover side, CBI may respond to vendor disappearance if (a) the wording includes named-IT-vendor insolvency endorsement, (b) the indemnity period is adequate, and (c) the specific event falls within the trigger architecture. Most Singapore market CBI is property-damage-triggered (see [Article 292](/crisis/key-supplier-insolvency-contingent-bi-trigger)); the insolvency extension must be specifically procured.
+**Contingent Business Interruption (CBI).** From the property-cover side, CBI may respond to vendor disappearance if (a) the wording includes named-IT-vendor insolvency endorsement, (b) the indemnity period is adequate, and (c) the specific event falls within the trigger architecture. Most Singapore market CBI is property-damage-triggered (see [when a supplier's collapse is covered](/crisis/key-supplier-insolvency-contingent-bi-trigger)); the insolvency extension must be specifically procured.
 
 **Tech Errors and Omissions (Tech E&O).** If the SME provides services to its own customers using the vendor's platform (e.g., software-as-a-service offering hosted on the vendor's infrastructure), Tech E&O responds to claims by SME's customers for service failures arising from vendor disappearance. The cover responds to the SME's contractual obligations to its customers, not to the vendor relationship itself.
 

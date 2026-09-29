@@ -25,7 +25,7 @@ og_description: "A joint venture breaking down puts IP, contracts and liabilitie
 
 ### The Sourced Detail
 
-A joint venture or partnership breakdown is structurally distinct from a shareholder dispute within a single company (covered in [Article 297](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)). The JV scenario involves two or more independent parties (or their corporate vehicles) jointly operating a business through an SPV, a contractual JV, or a partnership structure. The breakdown affects not just the JV itself but the constituent parties' separate operations, customer relationships, and IP holdings.
+A joint venture or partnership breakdown is structurally distinct from a shareholder dispute within a single company (covered in [the day-one steps when co-owners fall out](/crisis/shareholder-dispute-founder-divorce-buy-sell-event)). The JV scenario involves two or more independent parties (or their corporate vehicles) jointly operating a business through an SPV, a contractual JV, or a partnership structure. The breakdown affects not just the JV itself but the constituent parties' separate operations, customer relationships, and IP holdings.
 
 The structural rule: the JV agreement (or partnership agreement) is the primary governing document; statutory frameworks apply only to fill gaps or where the agreement is silent or unenforceable; preserved relationships with customers, suppliers, and employees are essential to the eventual unwinding.
 
@@ -121,7 +121,7 @@ Most Singapore SME JV agreements (whether for incorporated SPV JVs or contractua
 
 **Run-off cover.** On JV dissolution, run-off cover protects departing directors for past acts during their tenure on the JV board. Standard 6-year run-off.
 
-**Crime / Fidelity.** If dispute reveals misappropriation by one partner (diversion of JV funds, theft of JV assets), Crime cover responds (see [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) and [Article 293](/crisis/internal-fraud-cfo-embezzlement-day-one-workflow)).
+**Crime / Fidelity.** If dispute reveals misappropriation by one partner (diversion of JV funds, theft of JV assets), Crime cover responds (see [loss-discovered vs loss-sustained triggers](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) and [the day-one steps after internal fraud](/crisis/internal-fraud-cfo-embezzlement-day-one-workflow)).
 
 **Professional Indemnity.** If JV provides professional services, PI responds to claims by JV clients arising from professional negligence. PI cover continues through the JV's operational period; on dissolution, run-off cover preserves protection for past acts.
 

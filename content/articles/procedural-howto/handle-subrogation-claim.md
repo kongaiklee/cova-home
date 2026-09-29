@@ -24,7 +24,7 @@ og_description: "A subrogation demand from a third party's insurer goes to your 
 ### What subrogation is, in plain English
 Your neighbour's warehouse catches fire because (allegedly) of your faulty electrical wiring. Your neighbour's insurer pays the neighbour S$800,000 under their property policy. The neighbour's insurer then writes to **you** demanding S$800,000 because, by paying out, they have stepped into the neighbour's shoes. They have the same right of action against you as the neighbour would have had at common law.
 
-Per *Castellian v Preston* (1883) 11 QBD 380, the insurer takes "the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in remedy for tort." The Singapore High Court confirmed in *Sompo v RSA* [2021] SGHC 152 that an insurer's subrogated rights extend to every right the insured had to recover in respect of the loss.
+Per *Castellain v Preston* (1883) 11 QBD 380, the insurer takes "the advantage of every right of the assured… in contract, fulfilled or unfulfilled, or in remedy for tort." The Singapore High Court confirmed in *Sompo v RSA* [2021] SGHC 152 that an insurer's subrogated rights extend to every right the insured had to recover in respect of the loss.
 
 ### The Step-by-Step
 

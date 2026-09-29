@@ -190,7 +190,7 @@ Some insurers introducing ESG-specific covers:
 
 **Multi-cover coordination.**
 
-Per [Article 345](/procedural-howto/how-to-coordinate-multi-policy-single-incident), single climate-disclosure issue may trigger multiple covers:
+Per [the multi-policy coordination steps](/procedural-howto/how-to-coordinate-multi-policy-single-incident), single climate-disclosure issue may trigger multiple covers:
 - D&O (director liability)
 - Securities Class Action (if listed; Side B / C)
 - E&O / PI (for service providers)

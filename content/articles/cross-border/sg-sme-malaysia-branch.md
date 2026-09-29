@@ -153,7 +153,7 @@ Malaysia-registered vehicles operating in Singapore:
 
 For cross-border movement of goods:
 - Marine cargo insurance is typically global by nature - Institute Cargo Clauses cover goods regardless of route
-- See [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim) on ICC A and ICC C
+- See [how to claim under ICC A cover](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [when ICC C is the right choice](/procedural-howto/marine-cargo-institute-clauses-c-claim)
 - Goods in Transit policies for Malaysia-Singapore land transport are commonly issued by Singapore insurers with appropriate territorial scope
 
 #### Tax and regulatory considerations

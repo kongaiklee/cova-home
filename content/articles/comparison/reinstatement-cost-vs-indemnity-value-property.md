@@ -25,7 +25,7 @@ og_description: "Reinstatement cost pays for new, indemnity value pays for depre
 
 ### The Sourced Detail
 
-The basis of settlement in a Singapore commercial property policy is the second-largest claim-time dispute area after average-clause under-insurance (covered in [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)). The structural decision between Reinstatement basis and Indemnity Value drives what the SME actually recovers when a loss occurs, and the answer depends on (a) the lease reinstatement obligation, (b) the depreciation profile of the property and equipment, (c) the SME's ability to fund the indemnity-to-reinstatement gap from cash, and (d) the BCA and SCDF betterment exposure on rebuilding.
+The basis of settlement in a Singapore commercial property policy is the second-largest claim-time dispute area after average-clause under-insurance (covered in [the first loss versus full value comparison](/comparison/first-loss-vs-full-value-average-clause-property)). The structural decision between Reinstatement basis and Indemnity Value drives what the SME actually recovers when a loss occurs, and the answer depends on (a) the lease reinstatement obligation, (b) the depreciation profile of the property and equipment, (c) the SME's ability to fund the indemnity-to-reinstatement gap from cash, and (d) the BCA and SCDF betterment exposure on rebuilding.
 
 #### The two settlement bases defined
 
@@ -87,7 +87,7 @@ Fire destroys the renovation. Settlement outcomes:
 
 **Indemnity basis, sum insured at S$280,000.** Insurer pays the depreciated value of approximately S$226,000. SME funds the S$114,000 gap to current replacement cost plus the S$45,000 betterment. Total SME exposure: S$159,000 on a S$340,000 actual rebuild.
 
-**Reinstatement basis but sum insured under-stated at S$200,000.** The average clause triggers (see [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)), reducing payment proportionately even though the policy is on Reinstatement basis. Payment becomes approximately S$200,000 / S$340,000 = 59% of the actual reinstatement cost, capped at S$200,000.
+**Reinstatement basis but sum insured under-stated at S$200,000.** The average clause triggers (see [when the 85% rule applies](/comparison/first-loss-vs-full-value-average-clause-property)), reducing payment proportionately even though the policy is on Reinstatement basis. Payment becomes approximately S$200,000 / S$340,000 = 59% of the actual reinstatement cost, capped at S$200,000.
 
 #### Claim-time worked example: precision-engineering plant
 

@@ -173,7 +173,7 @@ For employed staff:
 - Often independent contractor model
 - Operational commercial relationships
 - Operational operational reality
-- See [Article 67](/document-legal/wica-section-25-offence) for specific classification considerations
+- See [when WICA treats a contractor as an employee](/document-legal/wica-section-25-offence) for specific classification considerations
 
 #### Cyber considerations
 

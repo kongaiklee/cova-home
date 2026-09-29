@@ -83,7 +83,7 @@ Specified personal lines issued to individuals only, where the risks arise in Si
 
 PPF coverage is 100% with no caps for general insurance, except: statutory limits for compulsory insurance; S$50,000 for own property damage motor claims under personal motor policies; S$300,000 for property damage claims under personal property (structure and contents) policies.
 
-Commercial-lines general insurance issued to non-individuals is generally not PPF-protected, except for the compulsory portions of motor and WICA cover. Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers Liability, and Trade Credit are outside PPF protection for SME policyholders. (See [Article 268](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage) for the full PPF Scheme architecture.)
+Commercial-lines general insurance issued to non-individuals is generally not PPF-protected, except for the compulsory portions of motor and WICA cover. Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers Liability, and Trade Credit are outside PPF protection for SME policyholders. (See [what SMEs recover if an insurer fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage) for the full PPF Scheme architecture.)
 
 PPF coverage scope for life insurance: all life policies including riders issued by PPF Scheme members, covering guaranteed benefits only, subject to caps published at SDIC.
 

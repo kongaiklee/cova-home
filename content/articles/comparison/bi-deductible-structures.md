@@ -21,7 +21,7 @@ og_description: "A BI deductible is either a waiting period or a sum. Which your
 
 > **The Answer in 60 Seconds**
 >
-> Business Interruption (BI) deductibles are typically structured in two architectures. **Time deductible** (also called "waiting period" or "time excess") - coverage starts only after a specified period (typically 24, 48, or 72 hours, sometimes longer) of business interruption. **Indemnity deductible** (also called "monetary excess") - coverage applies to losses above a specified dollar amount, regardless of time elapsed. Some policies combine both - coverage starts after the waiting period and beyond the monetary excess. The structures have substantially different implications: time deductible favours longer / larger interruptions (small short interruptions are entirely uninsured); indemnity deductible favours operations where small losses occur regularly (predictable cost). For Singapore SMEs procuring BI (whether standalone or as part of Property/Fire programmes - see [Article 158](/comparison/fire-vs-par-claim-mechanics) and [Article 159](/comparison/bi-vs-cbi-worked-example)), the deductible structure affects both premium and operational claim experience materially.
+> Business Interruption (BI) deductibles are typically structured in two architectures. **Time deductible** (also called "waiting period" or "time excess") - coverage starts only after a specified period (typically 24, 48, or 72 hours, sometimes longer) of business interruption. **Indemnity deductible** (also called "monetary excess") - coverage applies to losses above a specified dollar amount, regardless of time elapsed. Some policies combine both - coverage starts after the waiting period and beyond the monetary excess. The structures have substantially different implications: time deductible favours longer / larger interruptions (small short interruptions are entirely uninsured); indemnity deductible favours operations where small losses occur regularly (predictable cost). For Singapore SMEs procuring BI (whether standalone or as part of Property/Fire programmes - see [how named-perils and all-risks cover differ](/comparison/fire-vs-par-claim-mechanics) and [a worked BI and CBI example](/comparison/bi-vs-cbi-worked-example)), the deductible structure affects both premium and operational claim experience materially.
 
 ### The Sourced Detail
 
@@ -187,7 +187,7 @@ Common BI extensions affect deductible operation:
 
 **Specific Civil Authority extension.** Restriction by civil authorities. Specific deductible application.
 
-**Contingent Business Interruption (CBI).** Disruption to suppliers / customers (see [Article 159](/comparison/bi-vs-cbi-worked-example)). Typically has specific separate or coordinated deductible.
+**Contingent Business Interruption (CBI).** Disruption to suppliers / customers (see [how it differs from standard BI](/comparison/bi-vs-cbi-worked-example)). Typically has specific separate or coordinated deductible.
 
 #### Operational implications
 
@@ -235,7 +235,7 @@ Lower deductibles mean higher premiums but more comprehensive coverage; higher d
 
 #### Specific Property/Fire integration
 
-BI is typically integrated with Property/Fire cover (see [Article 158](/comparison/fire-vs-par-claim-mechanics)). Specific integration considerations:
+BI is typically integrated with Property/Fire cover (see [why PAR-based BI is broader](/comparison/fire-vs-par-claim-mechanics)). Specific integration considerations:
 
 **Trigger alignment.** BI typically triggers on covered Property/Fire perils. Property/Fire deductible and BI deductible are typically separate.
 

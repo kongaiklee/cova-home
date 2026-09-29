@@ -55,7 +55,7 @@ The order specifies:
 
 **Make the site safe.** If the SWO follows an incident, secure the area, preserve evidence, address immediate safety hazards.
 
-**Activate emergency response if relevant.** If the SWO relates to a recent serious incident (injury or near-miss), the response sequence may include MOM iReport, insurer notification, family notification - see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
+**Activate emergency response if relevant.** If the SWO relates to a recent serious incident (injury or near-miss), the response sequence may include MOM iReport, insurer notification, family notification - see [the first steps after a site fatality](/crisis/worker-fatality-on-site).
 
 **Engage workplace safety lawyer.** Within hours, not days. The lawyer's role:
 - Review the SWO for procedural validity
@@ -155,7 +155,7 @@ Some BI policies have specific extensions for "denial of access" or "Public Auth
 
 **WICA (if injury underlies the SWO):**
 
-Standard WICA response to the worker injury - see [Article 80](/procedural-howto/how-to-file-wica-claim-singapore-mom). Doesn't directly cover the SWO impact but addresses the worker compensation claim.
+Standard WICA response to the worker injury - see [filing the WICA claim with MOM](/procedural-howto/how-to-file-wica-claim-singapore-mom). Doesn't directly cover the SWO impact but addresses the worker compensation claim.
 
 **Public Liability (if third parties affected):**
 

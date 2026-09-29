@@ -131,7 +131,7 @@ The principal insurance lines for Singapore SME engineering practices:
 
 **Public Liability (PL).** Required by client and main-contractor contracts. Coverage for third-party bodily injury and property damage from site visits and operations.
 
-**WICI 2019.** Statutorily compelled under WICA 2019 (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**WICI 2019.** Statutorily compelled under WICA 2019 (see [how MOM designates WIC insurers](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Run-Off PI Cover.** Critical on PE retirement, partnership change, or firm cessation. Claims-made PI tail typically 6 to 12 years.
 

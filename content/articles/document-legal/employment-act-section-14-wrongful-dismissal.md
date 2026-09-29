@@ -107,7 +107,7 @@ Per the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016), the EC
 
 #### The Workplace Fairness Act 2024 dimension
 
-The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - see [Article 4](/document-legal/wfa-2024-protected-characteristics) - introduces specific anti-discrimination provisions:
+The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - see [a guide to each protected characteristic](/document-legal/wfa-2024-protected-characteristics) - introduces specific anti-discrimination provisions:
 
 **Protected characteristics:**
 - Age, race, religion, language, sex, marital status, family responsibilities, sexual orientation, gender identity (specific provisions per Act)

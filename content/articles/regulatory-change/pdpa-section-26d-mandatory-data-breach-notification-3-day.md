@@ -93,7 +93,7 @@ Singapore market cyber insurance policies (issued by AIG Singapore, Chubb Singap
 
 **Third-party liability cover** - claims by data subjects under section 48O PDPA, claims by business counterparties for downstream losses, claims by payment-card brands for PCI-DSS-related issues.
 
-**Business interruption cover** - loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar) on BI waiting periods).
+**Business interruption cover** - loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [how BI waiting periods are measured](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
 
 The cyber policy's notification window to the insurer is typically 60 days from awareness, with a "discovery" or "claim first made" trigger architecture. This runs in parallel with, not in place of, the PDPA 3-day clock. The wording should permit the SME to make regulatory notifications without prejudicing cover.
 
@@ -114,7 +114,7 @@ Cyber insurance triggers:
 - Day 1 (Monday): cyber policy discovery trigger fires. Incident-response retainer engaged via the policy's 24/7 hotline.
 - Day 1 onwards: forensic, breach coach, regulatory defence cover attaches.
 - Day 3 (Wednesday) onwards: notification cost cover funds the customer notification logistics.
-- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period - typically 8 to 12 hours for cyber BI; see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
+- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period - typically 8 to 12 hours for cyber BI; see [the day-based and dollar-based alternatives](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
 
 Subsequent PDPC investigation. If the PDPC imposes a financial penalty under section 48J, the policy responds only "to the extent insurable by law". For a punitive penalty, this is generally zero.
 

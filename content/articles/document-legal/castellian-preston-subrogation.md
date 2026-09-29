@@ -1,5 +1,5 @@
 ---
-title: "Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law"
+title: "Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law"
 slug: "/document-legal/castellian-preston-subrogation"
 category: "document-legal"
 intent: "get-it-right"
@@ -15,27 +15,27 @@ status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/castellian-preston-subrogation"
 meta_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs a Singapore claim today."
-og_title: "Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law"
+og_title: "Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law"
 og_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs a Singapore claim today."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> *Castellian v Preston* (1883) 11 QBD 380 is the foundational English Court of Appeal decision that established the modern doctrine of subrogation in insurance law. Subrogation is the doctrine that allows an insurer who has paid a claim to "step into the shoes" of the insured and pursue any recovery rights the insured had against third parties responsible for the loss. The doctrine prevents the insured from recovering twice (from the insurer and from the third party) and ensures that ultimate responsibility falls on the party at fault rather than on the insurance market. Singapore courts have applied Castellian consistently, with subsequent decisions (including [*Sompo v RSA* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152)) refining specific applications. For Singapore SMEs, subrogation has practical implications: **specific waiver of subrogation provisions** in commercial contracts, **specific cooperation obligations** in insurance policies, and **specific recovery sharing** arrangements.
+> *Castellain v Preston* (1883) 11 QBD 380 is the foundational English Court of Appeal decision that established the modern doctrine of subrogation in insurance law. Subrogation is the doctrine that allows an insurer who has paid a claim to "step into the shoes" of the insured and pursue any recovery rights the insured had against third parties responsible for the loss. The doctrine prevents the insured from recovering twice (from the insurer and from the third party) and ensures that ultimate responsibility falls on the party at fault rather than on the insurance market. Singapore courts have applied Castellain consistently, with subsequent decisions (including [*Sompo v RSA* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152)) refining specific applications. For Singapore SMEs, subrogation has practical implications: **specific waiver of subrogation provisions** in commercial contracts, **specific cooperation obligations** in insurance policies, and **specific recovery sharing** arrangements.
 
 ### The Sourced Detail
 
-Castellian v Preston is one of the foundational decisions of modern insurance law. The case established the principles that govern when and how an insurer can pursue third parties after paying a claim, and the framework continues to govern Singapore's insurance subrogation practice. The doctrine operates within the broader insurance contract framework governed by the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
+Castellain v Preston is one of the foundational decisions of modern insurance law. The case established the principles that govern when and how an insurer can pursue third parties after paying a claim, and the framework continues to govern Singapore's insurance subrogation practice. The doctrine operates within the broader insurance contract framework governed by the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
 
 #### The factual background
 
-In Castellian v Preston, the insured had insured property. After the loss, the insured received compensation from both the insurer (under the policy) and from a third party (through other commercial avenues). The question was whether the insurer was entitled to recover from the insured the amount the insured had received from the third party.
+In Castellain v Preston, the insured had insured property. After the loss, the insured received compensation from both the insurer (under the policy) and from a third party (through other commercial avenues). The question was whether the insurer was entitled to recover from the insured the amount the insured had received from the third party.
 
 The Court of Appeal held that the insurer was so entitled - establishing the doctrine that the insured cannot retain a "double recovery."
 
 #### The principles established
 
-Castellian v Preston established several foundational principles:
+Castellain v Preston established several foundational principles:
 
 **The indemnity principle.** Insurance is a contract of indemnity - the insured is entitled to be made whole, but not to profit from the loss. Where the insured has multiple recovery avenues, the doctrine prevents over-recovery.
 
@@ -105,11 +105,11 @@ When negotiating commercial contracts, SMEs should understand both the immediate
 
 *Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [[2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) is a significant Singapore High Court decision on the scope of subrogation. The dispute arose from damage to Government cargo carried by a shipper: RSA, the cargo insurer, indemnified the Government and then sought, by subrogation, to call on a performance bond the shipper had provided. The Court held that an insurer's subrogated rights are not confined to a claim against the party responsible for the loss - they extend to *every* right the insured had to recover in respect of the loss, including calling on a performance bond provided by a third party.
 
-The decision is part of the Singapore body of authority refining how the Castellian v Preston principles operate in modern commercial contexts; the full facts and reasoning are available through [eLitigation](https://www.elitigation.sg/gd/s/2021_SGHC_152).
+The decision is part of the Singapore body of authority refining how the Castellain v Preston principles operate in modern commercial contexts; the full facts and reasoning are available through [eLitigation](https://www.elitigation.sg/gd/s/2021_SGHC_152).
 
 #### Subrogation and the indemnity principle
 
-Castellian v Preston connects to the broader indemnity principle. Insurance is fundamentally indemnity-based - the insured is entitled to be made whole but not to profit. Subrogation operationalises this principle:
+Castellain v Preston connects to the broader indemnity principle. Insurance is fundamentally indemnity-based - the insured is entitled to be made whole but not to profit. Subrogation operationalises this principle:
 
 If the insured could recover both from the insurer and from the third party, they would be over-indemnified. Subrogation prevents this by routing the third-party recovery to the insurer (who has paid the indemnity).
 
@@ -209,7 +209,7 @@ For Singapore SMEs:
 7. **For complex scenarios, specialist advisory.**
 8. **Annual review of contractual frameworks.** Specific evolving commercial scope.
 
-The Castellian v Preston framework has shaped insurance recovery for over 140 years. SMEs that understand and operate within it benefit from claim-time predictability and recovery effectiveness; SMEs that don't engage with the framework risk both claim disputes and recovery loss.
+The Castellain v Preston framework has shaped insurance recovery for over 140 years. SMEs that understand and operate within it benefit from claim-time predictability and recovery effectiveness; SMEs that don't engage with the framework risk both claim disputes and recovery loss.
 
 ### Questions to Ask Your Adviser
 

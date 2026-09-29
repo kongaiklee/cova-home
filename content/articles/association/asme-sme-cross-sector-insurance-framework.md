@@ -50,11 +50,11 @@ SME members are regulated by their sectoral statutes and by cross-cutting Singap
 
 **Employment Act 1968.** Available on [SSO](https://sso.agc.gov.sg/Act/EmA1968). Governs employment terms, working hours, leave, and other employment matters.
 
-**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less. 1 November 2025 limit uplift (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
-**Workplace Safety and Health Act 2006.** Available on [SSO](https://sso.agc.gov.sg/Act/WSHA2006). Employer duty under section 12, principal duty under section 14A, offences and penalties under sections 50 to 52 (see [Article 269](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)).
+**Workplace Safety and Health Act 2006.** Available on [SSO](https://sso.agc.gov.sg/Act/WSHA2006). Employer duty under section 12, principal duty under section 14A, offences and penalties under sections 50 to 52 (see [what changed for sub-contractor SMEs](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)).
 
-**Personal Data Protection Act 2012.** Available on [SSO](https://sso.agc.gov.sg/Act/PDPA2012). Data protection obligations, section 26D 3-day notification clock, section 48J financial penalties (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
+**Personal Data Protection Act 2012.** Available on [SSO](https://sso.agc.gov.sg/Act/PDPA2012). Data protection obligations, section 26D 3-day notification clock, section 48J financial penalties (see [when a breach must be reported](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
 
 **Motor Vehicles (Third-Party Risks and Compensation) Act 1960.** Available on [SSO](https://sso.agc.gov.sg/Act/MVTPRCA1960). Statutorily mandates third-party motor insurance.
 
@@ -74,7 +74,7 @@ For Singapore SMEs across sectors, the operational insurance baseline:
 
 **Statutorily compelled:**
 
-- **WICI 2019** under WICA for manual employees and non-manual employees up to S$2,600 per month, from an MOM Designated Insurer (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+- **WICI 2019** under WICA for manual employees and non-manual employees up to S$2,600 per month, from an MOM Designated Insurer (see [how the list is drawn up and changed](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 - **Third-Party Motor Insurance** under the MVTRC Act 1960 for vehicle fleets.
 - **Sector-specific licence-condition insurances** as applicable.
 

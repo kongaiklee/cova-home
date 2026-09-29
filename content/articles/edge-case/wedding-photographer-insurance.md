@@ -21,7 +21,7 @@ og_description: "A wedding photographer is asked for public liability by nearly 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore wedding photographer typically needs: **Public Liability** (S$1M-S$3M; venues commonly require this - hotels, hotels-of-record, churches, gardens often specify limits and named-additional-insured), **Professional Indemnity** for service delivery (lost footage, missed shots, technical failures, breach of contract), **Equipment cover** at replacement value (cameras, lenses, lighting can total S$30,000-S$100,000+ for professional kits), **Goods in Transit / Equipment in Transit** for moving gear between venues, **Cyber Liability** for client data and image storage, and **WICA** if employing assistants (independent contractors are different - see notes). Drone operators need additional UA Liability (see [Article 69](/edge-case/drone-aerial-photography)). Standalone photography insurance products exist in Singapore (some offered through professional bodies including [Singapore Wedding Photographers' Network](https://www.swpn.com.sg/) member rates where available) but are limited; most cover is built from commercial SME components with photography-specific endorsements.
+> A Singapore wedding photographer typically needs: **Public Liability** (S$1M-S$3M; venues commonly require this - hotels, hotels-of-record, churches, gardens often specify limits and named-additional-insured), **Professional Indemnity** for service delivery (lost footage, missed shots, technical failures, breach of contract), **Equipment cover** at replacement value (cameras, lenses, lighting can total S$30,000-S$100,000+ for professional kits), **Goods in Transit / Equipment in Transit** for moving gear between venues, **Cyber Liability** for client data and image storage, and **WICA** if employing assistants (independent contractors are different - see notes). Drone operators need additional UA Liability (see [cover for drone aerial photography](/edge-case/drone-aerial-photography)). Standalone photography insurance products exist in Singapore (some offered through professional bodies including [Singapore Wedding Photographers' Network](https://www.swpn.com.sg/) member rates where available) but are limited; most cover is built from commercial SME components with photography-specific endorsements.
 
 ### The Sourced Detail
 
@@ -189,7 +189,7 @@ Many wedding photographers offer aerial/drone shots. Drone work triggers obligat
 - Hull cover for the drone equipment
 - Specific venue permissions
 
-See [Article 69](/edge-case/drone-aerial-photography) on drone aerial photography insurance for complete framework.
+See [the drone aerial photography insurance guide](/edge-case/drone-aerial-photography) for complete framework.
 
 #### Independent contractor / second shooter considerations
 
@@ -206,7 +206,7 @@ Wedding photography frequently engages second shooters and assistants on day rat
 - Employment Act compliance
 - IP automatically vests with employer
 
-Misclassification (treating substantively employed staff as contractors) creates [WICA](https://sso.agc.gov.sg/Act/WICA2019) Section 25 exposure. See [Article 67](/document-legal/wica-section-25-offence).
+Misclassification (treating substantively employed staff as contractors) creates [WICA](https://sso.agc.gov.sg/Act/WICA2019) Section 25 exposure. See [the fines for not insuring an employee](/document-legal/wica-section-25-offence).
 
 #### Destination wedding considerations
 

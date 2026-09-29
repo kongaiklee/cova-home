@@ -77,7 +77,7 @@ PDPA and parent consent for photography, social media, marketing materials.
 Staff background checks are critical; an undetected criminal history of a staff member is a major risk vector.
 
 **8. Long-tail latency for psychological harm.**
-Claims for psychological harm to children may surface years after the alleged conduct; limitation rules for minors extend the exposure period (see [Article 75](/document-legal/limitation-act-6-year-clock) on Limitation Act minor disability provisions).
+Claims for psychological harm to children may surface years after the alleged conduct; limitation rules for minors extend the exposure period (see [when a child's claim becomes time barred](/document-legal/limitation-act-6-year-clock)).
 
 #### Stage-by-stage insurance build
 

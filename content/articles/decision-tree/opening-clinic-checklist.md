@@ -137,7 +137,7 @@ Recommended cover stack:
 - Coverage for third-party patient claims arising from data breach
 - Business interruption from cyber events
 
-For clinics serving CII-designated healthcare providers (e.g. SingHealth, NUHS) as referral networks, additional contractual cyber requirements may flow down - see [Article 76](/document-legal/cybersecurity-act-cii-designation).
+For clinics serving CII-designated healthcare providers (e.g. SingHealth, NUHS) as referral networks, additional contractual cyber requirements may flow down - see [what a CII designation involves](/document-legal/cybersecurity-act-cii-designation).
 
 **11. Data Protection Officer (DPO) and PDPA compliance**
 
@@ -159,7 +159,7 @@ Clinics sending samples to external laboratories (blood tests, biopsies, patholo
 
 **15. Directors & Officers (D&O)**
 
-For clinics structured as private limited companies with multiple directors/shareholders (particularly group practices and holding company structures), D&O is increasingly standard. See [Article 71](/comparison/do-vs-pi-vs-epl).
+For clinics structured as private limited companies with multiple directors/shareholders (particularly group practices and holding company structures), D&O is increasingly standard. See [how D&O, PI and EPL differ](/comparison/do-vs-pi-vs-epl).
 
 #### Premium and limits considerations
 

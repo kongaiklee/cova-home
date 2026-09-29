@@ -132,7 +132,7 @@ When a director resigns or is removed:
 - D&O run-off (Extended Reporting Period) becomes critical for departing directors
 - For founder-directors leaving a business they sold, run-off addresses post-departure claims arising from pre-departure acts
 
-See [Article 49](/procedural-howto/update-insurance-after-acquisition) on D&O run-off for M&A.
+See [D&O run-off after an acquisition](/procedural-howto/update-insurance-after-acquisition).
 
 #### Comparison with international approaches
 
@@ -142,7 +142,7 @@ Singapore Section 172 is broadly similar to:
 
 US states (particularly Delaware) have different frameworks - [DGCL Section 145](https://delcode.delaware.gov/) provides broader indemnification capability. For Singapore SaaS with US Delaware C-Corp parent (common venture-funded structure), the parent's DGCL framework and the subsidiary's CA Section 172 framework operate in parallel, requiring coordinated D&O programmes.
 
-See [Article 87](/cross-border/sg-saas-us-customers) on US-related considerations.
+See [D&O for US-exposed company structures](/cross-border/sg-saas-us-customers).
 
 #### Specific scenarios
 

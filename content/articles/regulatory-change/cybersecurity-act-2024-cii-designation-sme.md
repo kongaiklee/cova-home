@@ -180,7 +180,7 @@ Response workflow:
 - Day 1: cloud provider notifies MedTech F per the binding commitment under section 16A.
 - Day 1: MedTech F's incident response engaged via cyber policy 24/7 hotline.
 - Day 1 to 3: forensic assessment confirms scope.
-- Day 3: PDPA section 26D assessment under [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day) - notifiable data breach (medical information is significant-harm; 4,200 exceeds significant-scale threshold of 500). PDPC notification due within 3 calendar days of assessment.
+- Day 3: PDPA section 26D assessment under [the 3-day notification rule](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day) - notifiable data breach (medical information is significant-harm; 4,200 exceeds significant-scale threshold of 500). PDPC notification due within 3 calendar days of assessment.
 - Day 3: CSA notification under section 14 Cybersecurity Act - the incident affects the CII and a supplier system; the expanded scope captures both.
 - Days 4 to 30: forensic investigation, customer notification, regulatory engagement.
 

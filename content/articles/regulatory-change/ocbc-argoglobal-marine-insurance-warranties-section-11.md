@@ -135,7 +135,7 @@ Cover types include:
 - Cargo (transported goods)
 - Protection and Indemnity (P&I)
 - Charterers' liability
-- Marine cargo (per [Article 192](/comparison/marine-cargo-icc-a-b-c) and following)
+- Marine cargo (see [how ICC A, B and C differ](/comparison/marine-cargo-icc-a-b-c))
 - Marine builders' risk
 - Specific offshore covers
 

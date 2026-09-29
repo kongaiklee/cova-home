@@ -238,7 +238,7 @@ For agencies offering Employer of Record services or comprehensive payroll admin
 - Cyber Liability for payroll data sensitivity
 - Cross-border coordination for international EOR
 
-See [Article 88](/cross-border/sg-sme-philippines-remote-workers) on cross-border EOR considerations.
+See [hiring Philippine staff through an EOR](/cross-border/sg-sme-philippines-remote-workers).
 
 #### Premium considerations
 

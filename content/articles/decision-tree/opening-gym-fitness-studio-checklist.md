@@ -168,7 +168,7 @@ Commercial fitness equipment is high-value and electronics-heavy:
 **Equipment Breakdown specifically covers:**
 - Mechanical / electrical / electronic failure of equipment
 - Distinct from Fire/Property (external causes)
-- See [Article 116](/crisis/equipment-breakdown-halts-production)
+- See [what to do when a machine breaks down](/crisis/equipment-breakdown-halts-production)
 
 For mid-size and larger facilities, Equipment Breakdown is a meaningful cover.
 
@@ -186,7 +186,7 @@ PDPA exposure significant. Specific considerations:
 - Health screening forms (PAR-Q) = sensitive data
 - Recurring billing = payment data exposure
 
-Cyber Liability with appropriate limits is essential. See [Article 98](/document-legal/pdpa-section-24-protection-obligation) on PDPA Section 24.
+Cyber Liability with appropriate limits is essential. See [what counts as reasonable security](/document-legal/pdpa-section-24-protection-obligation) under PDPA Section 24.
 
 #### Crime / Fidelity Guarantee considerations
 
@@ -196,7 +196,7 @@ Membership-based businesses with recurring billing have specific exposures:
 - Manipulation of membership records
 - Theft of membership fees
 
-For mid-size and larger facilities, Fidelity Guarantee covering employee dishonesty is appropriate. See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim).
+For mid-size and larger facilities, Fidelity Guarantee covering employee dishonesty is appropriate. See [what it covers and what it excludes](/procedural-howto/fidelity-guarantee-employee-theft-claim).
 
 #### Stage-by-stage insurance build
 

@@ -108,7 +108,7 @@ Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https:
 
 #### PDPA notifiability assessment
 
-Per [Article 343](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore) framework, PDPA notification required where:
+Under [the section 26D filing process](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore), PDPA notification required where:
 - Unauthorised access to personal data
 - Likely to result in significant harm to affected individuals
 - Affects 500 or more individuals (regardless of harm)

@@ -21,7 +21,7 @@ og_description: "A property or fire claim runs through defined stages from incid
 
 > **The Answer in 60 Seconds**
 >
-> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [Article 159](/procedural-howto/bi-claim-deep-dive)) -> **specific subrogation framework engagement** (per [Article 187](/document-legal/castellian-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [Article 174](/regulatory-change/scdf-fc-3-year-2026)), and **specific contemporaneous documentation**.
+> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [the gross profit calculation guide](/procedural-howto/bi-claim-deep-dive)) -> **specific subrogation framework engagement** (per [the leading case on insurer recovery](/document-legal/castellian-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [the new SCDF Fire Certificate rules](/regulatory-change/scdf-fc-3-year-2026)), and **specific contemporaneous documentation**.
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ Before any incident, foundational infrastructure determines claim outcomes:
 
 **Specific FC currency and operational discipline.**
 
-For FC-required premises (per [Article 174](/regulatory-change/scdf-fc-3-year-2026) on 36-month renewal framework):
+For FC-required premises (per [the 36-month Fire Certificate rule](/regulatory-change/scdf-fc-3-year-2026)):
 
 - Specific FC currency
 - Specific FSM appointment continuity
@@ -42,7 +42,7 @@ For FC-required premises (per [Article 174](/regulatory-change/scdf-fc-3-year-20
 
 **Specific Property/Fire procurement discipline.**
 
-Per [Article 158](/comparison/reinstatement-cost-vs-indemnity-value-property):
+Per [the reinstatement cost versus indemnity value comparison](/comparison/reinstatement-cost-vs-indemnity-value-property):
 
 - Adequate sum insured
 - Operational replacement cost vs market value basis
@@ -95,7 +95,7 @@ The SCDF report is typically essential documentation for claim processing.
 
 **Specific FC framework considerations.**
 
-For 36-month FC renewal cycle premises (per [Article 174](/regulatory-change/scdf-fc-3-year-2026)):
+For 36-month FC renewal cycle premises (see [the SCDF change from 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)):
 
 - Specific FC currency demonstration
 - Operational operational discipline demonstration
@@ -114,7 +114,7 @@ From incident:
 
 **Specific subrogation preservation.**
 
-Per [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston:
+Per [the Castellain v Preston principles](/document-legal/castellian-preston-subrogation):
 
 - Specific evidence preservation supporting potential third-party recovery
 - Operational operational considerations
@@ -206,7 +206,7 @@ The insured has duty to mitigate:
 
 #### Stage 8 - BI claim coordination
 
-For claims involving BI (per [Article 159](/procedural-howto/bi-claim-deep-dive)):
+For claims involving BI (see [the eleven stages to settlement](/procedural-howto/bi-claim-deep-dive)):
 
 **BI claim engagement.**
 
@@ -215,7 +215,7 @@ For claims involving BI (per [Article 159](/procedural-howto/bi-claim-deep-dive)
 
 **Specific deductible mechanics.**
 
-Per [Article 195](/comparison/bi-deductible-structures):
+Per [the time versus indemnity deductible comparison](/comparison/bi-deductible-structures):
 
 - Time deductible mechanics
 - Operational specific indemnity deductible mechanics
@@ -233,7 +233,7 @@ For incidents potentially involving third-party fault:
 
 **Subrogation preservation.**
 
-Per [Article 187](/document-legal/castellian-preston-subrogation):
+Per [the law on insurer subrogation](/document-legal/castellian-preston-subrogation):
 
 - Specific evidence preservation
 - Operational cooperation
@@ -300,11 +300,11 @@ For FC-required premises:
 - Specific compliance and claim challenges
 - Operational commercial implications
 
-**Solution:** Operational discipline (per [Article 174](/regulatory-change/scdf-fc-3-year-2026)).
+**Solution:** Operational discipline (per [the rules on late FC renewal](/regulatory-change/scdf-fc-3-year-2026)).
 
 **Issue 2: Inadequate sum insured (underinsurance / average).**
 
-Per [Article 196](/document-legal/average-clause-underinsurance-singapore):
+Per [the pro-rata formula insurers apply](/document-legal/average-clause-underinsurance-singapore):
 
 - Specific average clause application
 - Operational commercial implications
@@ -327,7 +327,7 @@ Per [Article 196](/document-legal/average-clause-underinsurance-singapore):
 
 **Issue 5: Specific exclusion application.**
 
-Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
+Per [the standard Property All Risks exclusions](/comparison/property-all-risks-exclusions-deep-dive):
 
 - Wear and tear, inherent vice, mechanical breakdown, etc.
 - Operational commercial implications
@@ -336,11 +336,11 @@ Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
 
 #### Specific industry considerations
 
-**Manufacturing.** Specific equipment and inventory exposure; specific Equipment Breakdown coordination (per [Article 196](/comparison/property-all-risks-exclusions-deep-dive)).
+**Manufacturing.** Specific equipment and inventory exposure; specific Equipment Breakdown coordination (see [why All Risks policies exclude machinery failure](/comparison/property-all-risks-exclusions-deep-dive)).
 
 **F&B.** Specific kitchen and equipment exposure; specific cold chain considerations.
 
-**Retail.** Specific inventory / stock exposure; specific All Risks Stock cover (per [Article 154](/edge-case/second-hand-luxury-reseller-insurance)).
+**Retail.** Specific inventory / stock exposure; specific All Risks Stock cover (see [the luxury reseller example](/edge-case/second-hand-luxury-reseller-insurance)).
 
 **Hospitality.** Specific premises and contents exposure; specific guest considerations.
 

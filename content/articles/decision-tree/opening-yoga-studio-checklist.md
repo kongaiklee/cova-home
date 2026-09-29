@@ -46,7 +46,7 @@ Singapore yoga studios commonly engage instructors on different bases:
 - **Self-employed/freelance instructors:** WICA may not apply (depends on the substantive employment test); the studio's PI may or may not cover their acts
 - **Visiting/guest instructors:** typically covered under their own insurance, but participants are exposed if the visiting instructor is uninsured
 
-The misclassification trap: treating an instructor as a contractor when they are substantively an employee (regular schedule, exclusivity, integrated into the studio's operations) creates WICA exposure regardless of contract label. See [Article 67](/document-legal/wica-section-25-offence) on WICA Section 25.
+The misclassification trap: treating an instructor as a contractor when they are substantively an employee (regular schedule, exclusivity, integrated into the studio's operations) creates WICA exposure regardless of contract label. See [the Section 25 penalty for not insuring](/document-legal/wica-section-25-offence).
 
 #### The mandatory-by-statute layer
 
@@ -163,7 +163,7 @@ For studios running:
 - Email marketing
 - Online class delivery (pre-pandemic peak; some studios continue hybrid)
 
-Cyber covers PDPA breach response, payment data exposure, and business interruption from cyber events. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit) on Cyber standalone vs PAR sub-limit.
+Cyber covers PDPA breach response, payment data exposure, and business interruption from cyber events. See [whether a PAR sub-limit is enough](/comparison/cyber-standalone-vs-par-sublimit).
 
 #### Optional but typical
 

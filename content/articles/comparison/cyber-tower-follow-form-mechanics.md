@@ -21,7 +21,7 @@ og_description: "Excess layers in a cyber tower follow the primary form, until t
 
 > **The Answer in 60 Seconds**
 >
-> Cyber tower structures (covered conceptually in [Article 167](/comparison/cyber-tower-vs-single-policy)) coordinate across layers through "follow-form" mechanics - excess layers adopting the terms of the primary policy. The coordination matters because gaps between layers create coverage discontinuity exactly where SMEs need cover most. Key follow-form considerations: **definitions consistency** (covered events, claim, loss, etc. defined identically), **exclusions consistency** (excess insurer cannot exclude what primary covers, with specific carve-outs documented), **notification consistency** (single notification protocol across layers), **defence cooperation consistency** (single defence coordination), **drop-down provisions** (whether excess responds if primary insolvent), and **specific allocation provisions** (how mixed claims are allocated). For Singapore SMEs at substantial Cyber limits (S$10M+), tower follow-form mechanics are commercial sophistication that specialist multinational brokers handle. Understanding the framework helps SMEs participate effectively in tower structuring and identify potential gaps before they manifest at claim time.
+> Cyber tower structures (covered conceptually in [the comparison with a single policy](/comparison/cyber-tower-vs-single-policy)) coordinate across layers through "follow-form" mechanics - excess layers adopting the terms of the primary policy. The coordination matters because gaps between layers create coverage discontinuity exactly where SMEs need cover most. Key follow-form considerations: **definitions consistency** (covered events, claim, loss, etc. defined identically), **exclusions consistency** (excess insurer cannot exclude what primary covers, with specific carve-outs documented), **notification consistency** (single notification protocol across layers), **defence cooperation consistency** (single defence coordination), **drop-down provisions** (whether excess responds if primary insolvent), and **specific allocation provisions** (how mixed claims are allocated). For Singapore SMEs at substantial Cyber limits (S$10M+), tower follow-form mechanics are commercial sophistication that specialist multinational brokers handle. Understanding the framework helps SMEs participate effectively in tower structuring and identify potential gaps before they manifest at claim time.
 
 ### The Sourced Detail
 
@@ -251,11 +251,11 @@ Tower structures typically use multiple insurers:
 
 **Healthcare.** Substantial towers given PDPA significant-harm exposure for medical data.
 
-**Technology / SaaS.** Substantial towers common given customer-facing exposure (see [Article 191](/comparison/pi-vs-tech-eo-for-saas) on Tech E&O coordination).
+**Technology / SaaS.** Substantial towers common given customer-facing exposure (see [how Tech E&O and PI fit together](/comparison/pi-vs-tech-eo-for-saas)).
 
-**CII / FDI operators.** Substantial towers driven by [Cybersecurity Act 2018 framework](https://sso.agc.gov.sg/Act/CA2018) (see [Article 172](/regulatory-change/cybersecurity-act-2024-first-year)).
+**CII / FDI operators.** Substantial towers driven by [Cybersecurity Act 2018 framework](https://sso.agc.gov.sg/Act/CA2018) (see [the first year under the amended Act](/regulatory-change/cybersecurity-act-2024-first-year)).
 
-**Multinational operations.** Substantial towers often required by US class-action exposure (see [Article 166](/cross-border/sg-sme-us-operations) on US operations).
+**Multinational operations.** Substantial towers often required by US class-action exposure (see [how to insure a US subsidiary or branch](/cross-border/sg-sme-us-operations)).
 
 #### Specific Singapore market considerations
 
@@ -301,7 +301,7 @@ For Singapore SMEs with cross-border operations:
 - Operational considerations
 - Specific specialist multinational broker engagement
 
-These structures interact with the Master/Local vs DIC/DIL choice (see [Article 190](/comparison/master-local-vs-dic-dil-multinational)).
+These structures interact with the Master/Local vs DIC/DIL choice (see [how the two approaches differ](/comparison/master-local-vs-dic-dil-multinational)).
 
 ### Common Mistakes / What Goes Wrong
 

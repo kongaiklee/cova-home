@@ -98,7 +98,7 @@ Many firms - particularly those handling material commercial transactions, large
 Legal practice has distinctive risk characteristics:
 
 **Long-tail liability:**
-Errors in legal advice may not surface for years (e.g. a tax advice error discovered at audit; a contract drafting error discovered at dispute). The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year contract/tort period applies, with potential extensions for latent damage. See [Article 75](/document-legal/limitation-act-6-year-clock).
+Errors in legal advice may not surface for years (e.g. a tax advice error discovered at audit; a contract drafting error discovered at dispute). The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year contract/tort period applies, with potential extensions for latent damage. See [how limitation interacts with PI cover](/document-legal/limitation-act-6-year-clock).
 
 **Claims-made structure:**
 PI is claims-made and notified. Retroactive date and run-off matter, particularly for:
@@ -136,7 +136,7 @@ Legal data is among the most sensitive personal data categories handled by SMEs:
 - PDPC investigation defence cover
 - Third-party liability for affected clients
 
-The [PDPC Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/help-and-resources/2021/01/guide-on-managing-and-notifying-data-breaches-under-the-pdpa) applies - but with privilege considerations layered on. See [Article 66](/document-legal/pdpa-section-26d-breach-notification) on PDPA Section 26D.
+The [PDPC Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/help-and-resources/2021/01/guide-on-managing-and-notifying-data-breaches-under-the-pdpa) applies - but with privilege considerations layered on. See [the 3-day deadline under PDPA Section 26D](/document-legal/pdpa-section-26d-breach-notification).
 
 #### Real estate / conveyancing-specific issues
 

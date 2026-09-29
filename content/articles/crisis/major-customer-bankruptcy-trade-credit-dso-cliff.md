@@ -96,7 +96,7 @@ For the SME extending trade credit to a customer in known financial distress, th
 - If the SME's own directors continue extending credit and the SME later becomes insolvent in consequence, the SME's directors face personal exposure.
 - This is independent of the customer's own director exposure under section 239 for incurring debts to the SME.
 
-The directors' protective steps are (a) documented board decisions assessing the credit risk; (b) credit limits set after consideration of customer-health information; (c) consultation with the Trade Credit insurer at policy-cycle reviews; (d) appropriate D&O Side A cover (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)).
+The directors' protective steps are (a) documented board decisions assessing the credit risk; (b) credit limits set after consideration of customer-health information; (c) consultation with the Trade Credit insurer at policy-cycle reviews; (d) appropriate D&O Side A cover (see [protection when the company cannot indemnify](/comparison/side-a-side-b-side-c-do-singapore)).
 
 #### The Simplified Insolvency Programme (SIP 2.0)
 

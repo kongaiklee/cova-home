@@ -141,7 +141,7 @@ DIC/DIL renewal:
 The structures interact differently with different jurisdictions:
 
 **United States.** Master/Local typically essential due to:
-- State-by-state Workers' Compensation (mandatory; see [Article 166](/cross-border/sg-sme-us-operations))
+- State-by-state Workers' Compensation (mandatory; see [what a US subsidiary must buy](/cross-border/sg-sme-us-operations))
 - Substantial CGL limits requirements from commercial customers
 - Specific class-action exposure requiring local insurer relationships
 - Specific regulatory frameworks at federal and state levels
@@ -149,7 +149,7 @@ The structures interact differently with different jurisdictions:
 DIC/DIL alone is rarely viable for material US operations.
 
 **Australia.** Master/Local commonly used due to:
-- State-by-state Workers' Compensation (see [Article 157](/cross-border/sg-sme-us-operations))
+- State-by-state Workers' Compensation (see [what US employers must carry](/cross-border/sg-sme-us-operations))
 - Specific Superannuation Guarantee compliance
 - Specific local regulatory frameworks
 
@@ -161,7 +161,7 @@ DIC/DIL works for limited Australian exposures.
 - DIC/DIL for broader cover
 
 **Hong Kong.** Master/Local works well due to:
-- Mandatory Employees' Compensation (Cap. 282) (see [Article 102](/cross-border/sg-sme-hong-kong-operations))
+- Mandatory Employees' Compensation (Cap. 282) (see [what a Hong Kong subsidiary must carry](/cross-border/sg-sme-hong-kong-operations))
 - Specific MPF coordination
 - Local PDPO (Cap. 486)
 
@@ -228,11 +228,11 @@ DIC/DIL can struggle with these requirements; Master/Local typically addresses t
 
 For the Singapore parent operating either structure:
 
-**FAA framework.** Singapore-issued policies operate under [FAA framework](https://sso.agc.gov.sg/Act/FAA2001) (see [Article 181](/document-legal/faa-section-27-suitability-assessment)) with specific advisory standards.
+**FAA framework.** Singapore-issued policies operate under [FAA framework](https://sso.agc.gov.sg/Act/FAA2001) (see [the suitability duty in section 27](/document-legal/faa-section-27-suitability-assessment)) with specific advisory standards.
 
 **Insurance Act framework.** Singapore market operates under [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) administered by [MAS](https://www.mas.gov.sg/).
 
-**Disclosure framework.** Specific [Marine Insurance Act 1906 Sections 17-19](https://sso.agc.gov.sg/Act/MIA1906) framework (see [Article 183](/document-legal/marine-insurance-act-disclosure-sections-17-19)) applies, including for cross-border operations disclosed via Singapore master.
+**Disclosure framework.** Specific [Marine Insurance Act 1906 Sections 17-19](https://sso.agc.gov.sg/Act/MIA1906) framework (see [who must disclose what to the insurer](/document-legal/marine-insurance-act-disclosure-sections-17-19)) applies, including for cross-border operations disclosed via Singapore master.
 
 #### Specific stage-by-stage considerations
 

@@ -147,7 +147,7 @@ Standard FG claim file (per typical Singapore wordings, e.g. [Tokio Marine](http
 - **Employee scope:** named-position vs all-employee policies differ; check that the dishonest employee is within scope.
 - **Recovery offset:** outstanding salary, CPF, bonuses owed to employee are typically offset against the claim payment.
 
-See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim) for full FG mechanics.
+See [how a fidelity guarantee claim is filed](/procedural-howto/fidelity-guarantee-employee-theft-claim).
 
 #### Civil recovery and subrogation
 

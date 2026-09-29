@@ -116,7 +116,7 @@ The fraud-of-principal scenario typically arises in:
 
 The structural defence:
 
-- **Crime / Fidelity Insurance.** Specific cover for the fraud-of-principal gap. The Loss-Discovered trigger (Singapore market default; see [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)) responds to dishonest acts discovered during the policy period.
+- **Crime / Fidelity Insurance.** Specific cover for the fraud-of-principal gap. The Loss-Discovered trigger (Singapore market default; see [why it suits fraud found years later](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore)) responds to dishonest acts discovered during the policy period.
 - **Singapore Academy of Law (SAL) Practice Audit Programme.** Risk-management infrastructure required by the Law Society.
 - **Solicitors' Accounts Rules compliance.** Statutory framework for client-monies segregation.
 

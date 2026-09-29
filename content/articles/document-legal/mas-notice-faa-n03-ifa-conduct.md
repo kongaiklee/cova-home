@@ -42,7 +42,7 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), perso
 - Collective investment schemes
 - Specific advisory categories
 
-For pure insurance brokers serving commercial SMEs, additional licensing under the **Insurance Act 1966 Section 36** for insurance broking applies (see [Article 128](/document-legal/insurance-act-1966-overview)).
+For pure insurance brokers serving commercial SMEs, additional licensing under the **Insurance Act 1966 Section 36** for insurance broking applies (see [how the Act regulates brokers](/document-legal/insurance-act-1966-overview)).
 
 #### What a licensed adviser actually is in Singapore context
 

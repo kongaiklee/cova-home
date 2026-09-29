@@ -103,7 +103,7 @@ The structural exposure pathways for a director of a Singapore listed SME:
 
 D&O Liability is the primary line responding to director personal exposure. The cover architecture for a listed SME typically includes:
 
-**Side A - Non-indemnifiable individual loss.** Direct cover for directors where the company cannot or will not indemnify. The structural fit for insolvency, derivative actions, and indemnification-prohibited contexts (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)).
+**Side A - Non-indemnifiable individual loss.** Direct cover for directors where the company cannot or will not indemnify. The structural fit for insolvency, derivative actions, and indemnification-prohibited contexts (see [how Side A, B and C cover differ](/comparison/side-a-side-b-side-c-do-singapore)).
 
 **Side B - Corporate reimbursement.** Cover for the company's indemnification of directors under [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 172B (third-party indemnity carve-out).
 

@@ -47,7 +47,7 @@ For Singapore SMEs entering Korea, the Four Major Insurances framework is non-ne
 
 The Korean insurance market is supervised by the [Financial Services Commission (FSC)](https://www.fsc.go.kr/) at policy level and the [Financial Supervisory Service (FSS)](https://www.fss.or.kr/) at operational level. The framework is substantially developed with commercial conventions.
 
-For non-mandatory commercial insurance lines (Property, BI, GL, PI, D&O, Marine, Cyber, etc.), Korean-admitted insurance from FSC-licensed insurers is typically required for Korean risks. Singapore-issued policies generally do not provide compliant cover for Korean-located property or Korean-employee exposure. Master/Local architecture (per [Article 190](/comparison/master-local-vs-dic-dil-multinational)) is the standard approach.
+For non-mandatory commercial insurance lines (Property, BI, GL, PI, D&O, Marine, Cyber, etc.), Korean-admitted insurance from FSC-licensed insurers is typically required for Korean risks. Singapore-issued policies generally do not provide compliant cover for Korean-located property or Korean-employee exposure. Master/Local architecture (see [how multinational programmes are structured](/comparison/master-local-vs-dic-dil-multinational)) is the standard approach.
 
 Major insurers operating in Korea include Samsung Fire & Marine, Hyundai Marine & Fire, DB Insurance, KB Insurance, Meritz Fire & Marine, and specific other major insurers. International insurers with Korean operations (AIG Korea, Allianz Korea, Chubb Korea, etc.) provide Master/Local fronting capability for Singapore SME multinational programmes.
 
@@ -61,7 +61,7 @@ Key PIPA framework elements include:
 
 Specific consent requirements for personal data collection, processing, and transfer that are typically more granular than Singapore PDPA requirements. Cross-border transfer requirements that include specific data subject consent and specific contractual / certification mechanisms. Data breach notification within specific timeframes (typically 72 hours for substantial breaches) to PIPC and affected data subjects. Specific penalty framework including substantial fines (up to 3% of relevant turnover for major violations) and criminal exposure for specific officer-level violations. Specific cross-border enforcement that has affected international operators.
 
-For Singapore SMEs operating in Korea (particularly technology, e-commerce, consumer-facing operations), PIPA compliance is foundational and substantially more demanding than Singapore PDPA. Cyber Liability cover (per [Article 167](/comparison/cyber-tower-vs-single-policy)) should be coordinated with Korean PIPA exposure considerations, often through specific Korea-aware cover or Master/Local arrangements.
+For Singapore SMEs operating in Korea (particularly technology, e-commerce, consumer-facing operations), PIPA compliance is foundational and substantially more demanding than Singapore PDPA. Cyber Liability cover (see [choosing a single cyber policy or a tower](/comparison/cyber-tower-vs-single-policy)) should be coordinated with Korean PIPA exposure considerations, often through specific Korea-aware cover or Master/Local arrangements.
 
 #### Korean labour law considerations
 
@@ -93,7 +93,7 @@ EPL cover for Korean operations should reflect this substantially elevated emplo
 
 #### Specific cross-border architecture
 
-For Singapore SMEs operating in Korea, the standard insurance architecture is Master/Local (per [Article 190](/comparison/master-local-vs-dic-dil-multinational)):
+For Singapore SMEs operating in Korea, the standard insurance architecture is Master/Local (see [how it compares with DIC/DIL](/comparison/master-local-vs-dic-dil-multinational)):
 
 Singapore master policy provides coordinated programme structure, broader scope where commercially appropriate, and commercial relationships. Korean local policies issued by FSC-licensed insurers provide compliant cover for Korean risks, customer-facing certificates where required, and specific local operational support.
 

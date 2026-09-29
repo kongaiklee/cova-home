@@ -82,13 +82,13 @@ The "betterment gap" is the difference between:
 
 Standard Singapore market property wordings address the betterment gap through a **Public Authorities Extension** (sometimes called "Capital Additions" or "Public Authorities Clause"). The Extension covers the additional cost of complying with current BCA Building Code and SCDF Fire Code requirements imposed on rebuilding. Without the Extension, the SME funds the betterment out of working capital.
 
-For SMEs holding older premises (built before the current code edition), the Public Authorities Extension is critical. See [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property) for the broader Reinstatement vs Indemnity framework.
+For SMEs holding older premises (built before the current code edition), the Public Authorities Extension is critical. See [how reinstatement and indemnity bases compare](/comparison/reinstatement-cost-vs-indemnity-value-property).
 
 #### Insurance triggers and the subrogation question
 
-**Landlord's Property (Fire / All Risks) cover.** Responds first. Settlement basis depends on whether the cover is on Reinstatement basis (with Reinstatement Memorandum and 12-month rebuilding window) or Indemnity basis (depreciated value). See [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property). Average clause applies if sum insured is less than 85% of full reinstatement value at the time of loss (see [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)). Public Authorities Extension addresses the BCA / SCDF betterment gap.
+**Landlord's Property (Fire / All Risks) cover.** Responds first. Settlement basis depends on whether the cover is on Reinstatement basis (with Reinstatement Memorandum and 12-month rebuilding window) or Indemnity basis (depreciated value). See [how the payout differs under each](/comparison/reinstatement-cost-vs-indemnity-value-property). Average clause applies if sum insured is less than 85% of full reinstatement value at the time of loss (see [how underinsurance reduces the payout](/comparison/first-loss-vs-full-value-average-clause-property)). Public Authorities Extension addresses the BCA / SCDF betterment gap.
 
-**Loss of rent / Business Interruption.** Either embedded in the Property cover or as a separate BI module. Indemnity period typically 12 to 36 months. Waiting period (typically 7 to 30 days for property-type events; see [Article 277](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)). The Indemnity Period must be sized against realistic rebuilding plus customer / tenant re-establishment timeline.
+**Loss of rent / Business Interruption.** Either embedded in the Property cover or as a separate BI module. Indemnity period typically 12 to 36 months. Waiting period (typically 7 to 30 days for property-type events; see [the three ways it can be set](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)). The Indemnity Period must be sized against realistic rebuilding plus customer / tenant re-establishment timeline.
 
 **Subrogation against the tenant.** Recovery by the landlord's insurer against the tenant for the tenant's negligent causation of the fire. Subject to any waiver-of-subrogation clause in the lease. The landlord's insurer typically pursues subrogation against the tenant's Public Liability insurer.
 
@@ -154,7 +154,7 @@ The allocation depends on the order of claim-filing and the tenant's PL aggregat
 
 3. **Missing the Public Authorities Extension.** Pre-2010 buildings rebuilt to current BCA and SCDF code can carry significant betterment that the SME funds out of working capital absent the Extension.
 
-4. **Property sum insured below 85% of reinstatement value.** Triggers the average clause (see [Article 275](/comparison/first-loss-vs-full-value-average-clause-property)) even on partial losses. SMEs should refresh the Reinstatement Cost Assessment annually at renewal.
+4. **Property sum insured below 85% of reinstatement value.** Triggers the average clause (see [a worked example of the reduction](/comparison/first-loss-vs-full-value-average-clause-property)) even on partial losses. SMEs should refresh the Reinstatement Cost Assessment annually at renewal.
 
 5. **Loss of Rent Indemnity Period too short.** A 12-month Indemnity Period against a realistic 18-month reconstruction leaves the SME without rental income for the back end of the rebuild.
 

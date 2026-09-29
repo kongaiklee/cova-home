@@ -29,7 +29,7 @@ The tuition and enrichment industry in Singapore is large, fragmented, and light
 
 #### The regulatory landscape
 
-**For children below 7 years** - covered by [Early Childhood Development Centres Act 2017](https://sso.agc.gov.sg/Act/ECDCA2017) and ECDA framework. See [Article 95](/decision-tree/opening-childcare-centre-checklist) on opening a kindergarten.
+**For children below 7 years** - covered by [Early Childhood Development Centres Act 2017](https://sso.agc.gov.sg/Act/ECDCA2017) and ECDA framework. See [the insurance checklist for opening a kindergarten](/decision-tree/opening-childcare-centre-checklist).
 
 **For children 7 and above** - generally not subject to ECDA. Regulatory framework depends on the type of provider:
 
@@ -188,8 +188,8 @@ Tuition and enrichment centres hold:
 - Photographs and videos
 
 PDPA exposure considerations:
-- [Section 26D 3-day breach notification](https://sso.agc.gov.sg/Act/PDPA2012) - see [Article 66](/document-legal/pdpa-section-26d-breach-notification)
-- [Section 24 Protection Obligation](https://sso.agc.gov.sg/Act/PDPA2012) - see [Article 98](/document-legal/pdpa-section-24-protection-obligation)
+- [Section 26D 3-day breach notification](https://sso.agc.gov.sg/Act/PDPA2012) - see [what triggers it and what to report](/document-legal/pdpa-section-26d-breach-notification)
+- [Section 24 Protection Obligation](https://sso.agc.gov.sg/Act/PDPA2012) - see [what reasonable security arrangements mean](/document-legal/pdpa-section-24-protection-obligation)
 - Enhanced consent considerations for minor data
 - Photography and image use - explicit parent consent essential
 
