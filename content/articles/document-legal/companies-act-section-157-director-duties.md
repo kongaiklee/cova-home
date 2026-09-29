@@ -175,7 +175,7 @@ Section 157 takes specific significance in insolvency contexts. Directors approa
 - Specific Section 224 transactions at undervalue exposure
 - Specific Section 225 unfair preferences exposure
 
-These provisions (see [Article 53](/document-legal/irda-2018-director-duties-insolvency) for IRDA-specific framework) operate alongside Section 157 in insolvency scenarios. D&O coverage typically responds, but the run-off / extended reporting period matters substantially because insolvency-related claims often surface after the company ceases trading.
+These provisions (see [how IRDA 2018 treats directors in insolvency](/document-legal/irda-2018-director-duties-insolvency)) operate alongside Section 157 in insolvency scenarios. D&O coverage typically responds, but the run-off / extended reporting period matters substantially because insolvency-related claims often surface after the company ceases trading.
 
 #### Specific case considerations
 
@@ -225,7 +225,7 @@ For Singapore SME directors:
 
 6. **Specific run-off / extended reporting consideration.** Specific insolvency-context exposure.
 
-7. **Coordinate with WSHA Section 48 framework.** Specific personal liability layer (see [Article 22](/document-legal/wsha-section-48-director-liability)).
+7. **Coordinate with WSHA Section 48 framework.** Specific personal liability layer (see [why directors must prove the defence](/document-legal/wsha-section-48-director-liability)).
 
 8. **For specific industries / governance complexity, specialist counsel.**
 

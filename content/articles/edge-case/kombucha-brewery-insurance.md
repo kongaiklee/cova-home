@@ -132,11 +132,11 @@ For breweries running:
 - Customer database with subscriber data
 - Wholesale customer ordering systems
 
-Cyber Liability covers the standard breach response stack - see [Article 72](/document-legal/cyber-insurance-complete-guide-singapore-sme). Limits S$1M-S$3M typical for SME-scale operations.
+Cyber Liability covers the standard breach response stack - see [what a cyber policy actually pays](/document-legal/cyber-insurance-complete-guide-singapore-sme). Limits S$1M-S$3M typical for SME-scale operations.
 
 **12. Group Medical and Group PA**
 
-Production environments have higher injury frequency than office work. GPA in particular complements WICA by covering off-duty events (see [Article 58](/comparison/wica-vs-gpa)). Group Medical for retention.
+Production environments have higher injury frequency than office work. GPA in particular complements WICA by covering off-duty events (see [why a business usually needs both](/comparison/wica-vs-gpa)). Group Medical for retention.
 
 #### Distribution-channel-specific considerations
 
@@ -154,7 +154,7 @@ Production environments have higher injury frequency than office work. GPA in pa
 - Personal Liability for any tasting events or pop-up activities
 
 **Export (regional or international)**
-- Marine Cargo cover for international shipments - typically ICC A or ICC B for finished goods (see [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim))
+- Marine Cargo cover for international shipments - typically ICC A or ICC B for finished goods (see [how an all-risks claim is proved](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [what the narrower named-perils cover pays](/procedural-howto/marine-cargo-institute-clauses-c-claim))
 - Product Liability with appropriate territorial extension - particularly USA/Canada if exporting there
 - Currency exchange and trade credit considerations
 

@@ -41,7 +41,7 @@ The specialty bakery / artisanal food producer category has grown materially in 
 
 **Co-packer / private-label producer.** Producing under other brands' labels. Distinct contractual exposure.
 
-**Fermentation / specialty production.** Sourdough, kimchi, miso, kombucha (separately covered in [Article 79](/edge-case/kombucha-brewery-insurance)), tempeh, kefir. Live-culture products with specific stability and contamination considerations.
+**Fermentation / specialty production.** Sourdough, kimchi, miso, kombucha (separately covered in [its own brewery guide](/edge-case/kombucha-brewery-insurance)), tempeh, kefir. Live-culture products with specific stability and contamination considerations.
 
 #### The unique risk profile
 

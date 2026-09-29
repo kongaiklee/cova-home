@@ -35,7 +35,7 @@ Lifting operation failures combine high-energy mechanical events with concentrat
 
 **Penalty regulations.** [Workplace Safety and Health (Amendment of Penalties) Regulations 2024](https://sso.agc.gov.sg/SL-Supp/S434-2024/Published/20240527) - first conviction max raised to SGD 50,000.
 
-**Mandatory VSS for projects ≥ SGD 5m.** Per [Article 351](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024) framework, mandatory VSS coverage extends to lifting operations specifically. Footage retention 30 days normal / 180 days post-incident - the same retention extension protocol applies.
+**Mandatory VSS for projects ≥ SGD 5m.** Under [the June 2024 video surveillance rule](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024), mandatory VSS coverage extends to lifting operations specifically. Footage retention 30 days normal / 180 days post-incident - the same retention extension protocol applies.
 
 **WICA framework.** [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - mandatory designated insurer cover for injured workers.
 
@@ -144,7 +144,7 @@ Construction contracts typically include:
 
 **WICA designated insurer.**
 - For injured workers
-- Per [Article 271](/regulatory-change/wica-update-nov-2025) limits
+- Subject to [the compensation caps from 1 November 2025](/regulatory-change/wica-update-nov-2025)
 
 **Project Business Interruption (Delayed Start-Up).**
 - For construction projects: extension of completion period

@@ -21,7 +21,7 @@ og_description: "D&O covers the individual, PI covers the work, EPL covers the e
 
 > **The Answer in 60 Seconds**
 >
-> **Directors & Officers (D&O)** covers individual directors, officers, and senior managers personally for "wrongful acts" - primarily breach of duty, mismanagement, and decisions in their corporate capacity. **Professional Indemnity (PI)** covers the *firm* (and named individuals) for negligent professional advice or service delivery. **Employment Practices Liability (EPL/EPLI)** covers the firm and managers for employment-related claims - wrongful dismissal, discrimination, harassment, retaliation. All three are typically **claims-made** policies (see [Article 64](/comparison/claims-made-vs-occurrence)). They are structurally distinct: D&O protects the *individual* in a *governance* role; PI protects the *firm* in a *service-delivery* role; EPL protects the *firm and managers* in an *employer* role. Each addresses a different exposure; one does not substitute for another.
+> **Directors & Officers (D&O)** covers individual directors, officers, and senior managers personally for "wrongful acts" - primarily breach of duty, mismanagement, and decisions in their corporate capacity. **Professional Indemnity (PI)** covers the *firm* (and named individuals) for negligent professional advice or service delivery. **Employment Practices Liability (EPL/EPLI)** covers the firm and managers for employment-related claims - wrongful dismissal, discrimination, harassment, retaliation. All three are typically **claims-made** policies (see [why the trigger type matters](/comparison/claims-made-vs-occurrence)). They are structurally distinct: D&O protects the *individual* in a *governance* role; PI protects the *firm* in a *service-delivery* role; EPL protects the *firm and managers* in an *employer* role. Each addresses a different exposure; one does not substitute for another.
 
 ### The Sourced Detail
 
@@ -164,7 +164,7 @@ For directors of larger SMEs or regulated entities, a "Side A Difference-in-Cond
 4. **Treating EPL as a "nice to have."** With WFA 2024 introducing protected characteristics, EPL exposure has materially increased.
 5. **Not coordinating retroactive dates across the three policies.** A claim arising from acts in the past may be covered under one but not another if continuity wasn't maintained.
 6. **For founder-led SMEs - the sole director assumption.** A sole director is exposed personally for governance decisions; D&O Side A is more critical, not less, when there's no board to share the duty.
-7. **At fundraising or M&A - forgetting D&O run-off for outgoing directors.** See [Article 49](/procedural-howto/update-insurance-after-acquisition).
+7. **At fundraising or M&A - forgetting D&O run-off for outgoing directors.** See [the insurance steps in an acquisition](/procedural-howto/update-insurance-after-acquisition).
 
 ### What This Means for Your Business
 

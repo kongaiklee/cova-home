@@ -107,7 +107,7 @@ If a Singapore SaaS hosts in the EU region (AWS eu-central-1 / eu-west-1, Azure 
 - Singapore SaaS is a customer of an EU-located processor
 - Contractual obligations under GDPR may flow through
 
-**With EU customers**, the GDPR application is more direct (see [Article 97](/cross-border/sg-ecommerce-eu-gdpr)).
+**With EU customers**, the GDPR application is more direct (see [what that means for a Singapore seller](/cross-border/sg-ecommerce-eu-gdpr)).
 
 #### CLOUD Act and the US dimension
 
@@ -319,7 +319,7 @@ The distinction matters for customer contracts, regulatory compliance, and insur
 - GDPR + PDPA simultaneous compliance
 - Cyber Liability worldwide
 - EU representative under Article 27 if applicable
-- See [Article 97](/cross-border/sg-ecommerce-eu-gdpr)
+- See [what GDPR means for selling into the EU](/cross-border/sg-ecommerce-eu-gdpr)
 
 **Scenario D: Singapore SaaS providing services to MAS-regulated financial customer**
 - Specific MAS guidance on outsourcing applies

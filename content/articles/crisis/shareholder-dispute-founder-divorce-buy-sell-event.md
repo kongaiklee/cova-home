@@ -129,7 +129,7 @@ For SMEs with founder-CEO shareholdings facing divorce, the structurally importa
 
 **Cyber.** Where the dispute involves alleged misuse of confidential information or data exfiltration by a departing party, Cyber cover may respond.
 
-**Crime / Fidelity.** Where the dispute reveals diversion of assets or misappropriation by one party, Crime cover may respond. See [Article 279](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) for the trigger architecture.
+**Crime / Fidelity.** Where the dispute reveals diversion of assets or misappropriation by one party, Crime cover may respond. See [how loss-discovered and loss-sustained triggers differ](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore).
 
 #### The 72-hour priorities
 

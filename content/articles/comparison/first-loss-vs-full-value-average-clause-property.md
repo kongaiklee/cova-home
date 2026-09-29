@@ -91,7 +91,7 @@ Three pathways recur:
 
 **Sum insured frozen at historical fit-out cost.** A renovation done 3 years ago at S$280,000 is insured at S$280,000 today, while current reinstatement cost has risen to S$340,000. The sum insured is 82% of current value, below the 85% threshold. Average triggers on the first claim.
 
-**Sum insured set on a depreciation basis.** SMEs sometimes set the sum insured at depreciated book value rather than current reinstatement cost, especially for plant and equipment. This is structurally wrong for Reinstatement-basis settlement (see [Article 274](/comparison/reinstatement-cost-vs-indemnity-value-property)) and triggers Average even on a partial loss.
+**Sum insured set on a depreciation basis.** SMEs sometimes set the sum insured at depreciated book value rather than current reinstatement cost, especially for plant and equipment. This is structurally wrong for Reinstatement-basis settlement (see [what a new-for-old policy expects](/comparison/reinstatement-cost-vs-indemnity-value-property)) and triggers Average even on a partial loss.
 
 **Stock value not declared on a peak basis.** SMEs insuring stock at average value rather than peak value face Average exposure at the precise moments of greatest commercial value at risk (CNY inventory build, year-end retail surge).
 

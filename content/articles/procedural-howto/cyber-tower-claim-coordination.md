@@ -21,7 +21,7 @@ og_description: "A cyber claim in a tower must be coordinated across primary and
 
 > **The Answer in 60 Seconds**
 >
-> When a Cyber claim arises in a tower structure (per [Article 167](/comparison/cyber-tower-vs-single-policy) and [Article 197](/comparison/cyber-tower-follow-form-mechanics)), coordination across primary and excess layers is operationally critical. The standard sequence: **first indication of cyber event** -> **immediate broker notification** -> **broker coordinates notification across all tower layers** -> **incident response panel engagement** (typically pre-arranged via primary insurer) -> **specific [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) notification** within 3 days where significant harm threshold met -> **specific regulatory cooperation** ([CSA](https://www.csa.gov.sg/) for [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) scope; [PDPC](https://www.pdpc.gov.sg/) for PDPA scope) -> **defence cost coordination across layers** -> **specific allocation provisions for mixed claims** -> **settlement coordination requiring consent at all relevant layers**. Critical operational discipline: **single coordinated notification protocol** (not separate notifications to each insurer), **incident response panel pre-engagement** (24/7 capability foundational), **specific exhaustion mechanics** (primary fully exhausts before excess engages), and **specific defence cost coordination**.
+> When a Cyber claim arises in a tower structure (see [when layered cover makes sense](/comparison/cyber-tower-vs-single-policy) and [where gaps open between layers](/comparison/cyber-tower-follow-form-mechanics)), coordination across primary and excess layers is operationally critical. The standard sequence: **first indication of cyber event** -> **immediate broker notification** -> **broker coordinates notification across all tower layers** -> **incident response panel engagement** (typically pre-arranged via primary insurer) -> **specific [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012) notification** within 3 days where significant harm threshold met -> **specific regulatory cooperation** ([CSA](https://www.csa.gov.sg/) for [Cybersecurity Act](https://sso.agc.gov.sg/Act/CA2018) scope; [PDPC](https://www.pdpc.gov.sg/) for PDPA scope) -> **defence cost coordination across layers** -> **specific allocation provisions for mixed claims** -> **settlement coordination requiring consent at all relevant layers**. Critical operational discipline: **single coordinated notification protocol** (not separate notifications to each insurer), **incident response panel pre-engagement** (24/7 capability foundational), **specific exhaustion mechanics** (primary fully exhausts before excess engages), and **specific defence cost coordination**.
 
 ### The Sourced Detail
 
@@ -50,7 +50,7 @@ Standard pre-engagement:
 
 **Specific 24/7 detection capability.**
 
-For [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) designated infrastructure (CII / FDI; per [Article 172](/regulatory-change/cybersecurity-act-2024-first-year)):
+For [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) designated infrastructure (CII / FDI; per [the review of the 2024 amendments](/regulatory-change/cybersecurity-act-2024-first-year)):
 
 - Specific 24/7 detection foundational
 - Specific 2-hour reporting capability
@@ -112,7 +112,7 @@ The SME's broker is the operational gateway:
 
 **Single coordinated notification.**
 
-Per the follow-form architecture (per [Article 197](/comparison/cyber-tower-follow-form-mechanics)):
+Per the follow-form architecture (per [excess layer coordination in a tower](/comparison/cyber-tower-follow-form-mechanics)):
 
 - Single notification through broker
 - Operational specific to all tower layers
@@ -149,7 +149,7 @@ Per the follow-form architecture (per [Article 197](/comparison/cyber-tower-foll
 
 **The 3-day clock.**
 
-Where personal data breach meets significant harm threshold (per [Article 66](/document-legal/pdpa-section-26d-breach-notification)):
+Where personal data breach meets significant harm threshold (per [the PDPA Section 26D rules](/document-legal/pdpa-section-26d-breach-notification)):
 
 - 72-hour notification to [PDPC](https://www.pdpc.gov.sg/)
 - Operational specific affected individual notification
@@ -173,7 +173,7 @@ For designated CII / FDI / STCC scope:
 
 **The 2-hour reporting framework.**
 
-Per [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) (per [Article 172](/regulatory-change/cybersecurity-act-2024-first-year)):
+Per [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) (per [the 2-hour CSA reporting rules](/regulatory-change/cybersecurity-act-2024-first-year)):
 
 - 2-hour reporting to CSA for specific incidents
 - Operational operational considerations
@@ -198,7 +198,7 @@ For tower structures, defence cost coordination matters:
 
 **Specific defence cost provisions.**
 
-- Within limits vs outside limits (per [Article 197](/comparison/defense-costs-inside-vs-outside-limits-liability))
+- Within limits vs outside limits (per [the defence costs comparison](/comparison/defense-costs-inside-vs-outside-limits-liability))
 - Operational specific exhaustion mechanics
 - Operational operational considerations
 
@@ -243,7 +243,7 @@ Settlement decisions typically require consent:
 
 #### Stage 10 - Recovery / subrogation
 
-For specific recovery scenarios (per [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston):
+For specific recovery scenarios (per [the Castellain v Preston subrogation rule](/document-legal/castellian-preston-subrogation)):
 
 **Subrogation against threat actors.**
 
@@ -316,13 +316,13 @@ Internal communications without privilege structure:
 
 **Healthcare.**
 
-- Specific HCSA coordination (per [Article 176](/regulatory-change/hcsa-full-implementation-review))
+- Specific HCSA coordination (per [the service-based licensing rules](/regulatory-change/hcsa-full-implementation-review))
 - Operational specific elevated PDPA exposure
 - Operational operational considerations
 
 **Technology / SaaS.**
 
-- Specific Tech E&O coordination (per [Article 191](/comparison/pi-vs-tech-eo-for-saas))
+- Specific Tech E&O coordination (see [where PI falls short for SaaS firms](/comparison/pi-vs-tech-eo-for-saas))
 - Operational specific customer-facing exposure
 - Operational operational considerations
 

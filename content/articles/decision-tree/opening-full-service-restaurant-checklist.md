@@ -21,7 +21,7 @@ og_description: "Opening a full-service restaurant starts with the SFA Food Shop
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore full-service restaurant requires: **Singapore Food Agency (SFA) Food Shop Licence** (and applicable sub-categories per SFA's tier framework - see [Article 102](/association/sfa-licensing-tiers-insurance)), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/), [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [NEA](https://www.nea.gov.sg/) environmental health requirements. Insurance baseline: **Public Liability** (S$2M-S$5M; mall and landlord typically require), **Product Liability** for food safety (S$1M-S$5M), **WICA** for kitchen and front-of-house staff, **Property/Fire** for fit-out, equipment, stock, **Equipment Breakdown** for ovens, refrigeration, dishwashers (high-frequency claim line), **Public Liability with Liquor Liability extension** if licensed for alcohol, **Cyber** for POS systems and customer data, and **Crime / Money** for cash handling. For restaurants with delivery operations: **Goods in Transit** + **Motor cover** for delivery vehicles. Halal-certified or specialised dietary focus brings additional certification considerations - see [Article 101](/decision-tree/opening-halal-fnb-catering-checklist).
+> A Singapore full-service restaurant requires: **Singapore Food Agency (SFA) Food Shop Licence** (and applicable sub-categories per SFA's tier framework - see [what each licence means for insurance](/association/sfa-licensing-tiers-insurance)), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/), [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [NEA](https://www.nea.gov.sg/) environmental health requirements. Insurance baseline: **Public Liability** (S$2M-S$5M; mall and landlord typically require), **Product Liability** for food safety (S$1M-S$5M), **WICA** for kitchen and front-of-house staff, **Property/Fire** for fit-out, equipment, stock, **Equipment Breakdown** for ovens, refrigeration, dishwashers (high-frequency claim line), **Public Liability with Liquor Liability extension** if licensed for alcohol, **Cyber** for POS systems and customer data, and **Crime / Money** for cash handling. For restaurants with delivery operations: **Goods in Transit** + **Motor cover** for delivery vehicles. Halal-certified or specialised dietary focus brings additional certification considerations - see [the Halal F&B insurance checklist](/decision-tree/opening-halal-fnb-catering-checklist).
 
 ### The Sourced Detail
 
@@ -37,7 +37,7 @@ Full-service restaurants - distinct from cafes, fast-food, food courts, and food
 - Coffee Shop / Hawker Stall
 - Specific food preparation categories
 
-Each has specific requirements on premises, equipment, food handling certification of staff, hygiene standards, and food safety systems. See [Article 102](/association/sfa-licensing-tiers-insurance) for SFA tier framework.
+Each has specific requirements on premises, equipment, food handling certification of staff, hygiene standards, and food safety systems. See [the SFA licensing tiers and their insurance impact](/association/sfa-licensing-tiers-insurance).
 
 **SCDF FSC:** Premises with kitchen equipment, particularly with gas, cooking, exhaust systems, require SCDF FSC compliance. Specific assessment for fire-protection systems including suppression in commercial kitchens (Ansul or equivalent for hood / range protection).
 
@@ -49,7 +49,7 @@ Each has specific requirements on premises, equipment, food handling certificati
 
 **MOM Foreign Manpower:** F&B sector has specific Work Permit quotas, levy structures, and source country requirements. See Article 16.
 
-**Halal Certification:** Optional but strategically important for operators serving Muslim customers. [MUIS Halal Certification](https://www.muis.gov.sg/) - see [Article 101](/decision-tree/opening-halal-fnb-catering-checklist).
+**Halal Certification:** Optional but strategically important for operators serving Muslim customers. [MUIS Halal Certification](https://www.muis.gov.sg/) - see [why it matters to your insurer](/decision-tree/opening-halal-fnb-catering-checklist).
 
 #### The Public Liability layer
 
@@ -96,7 +96,7 @@ Distinct from PL, Product Liability covers food-related exposures:
 - Cross-contamination incidents
 
 **Claims-made or occurrence basis:**
-Most restaurant Product Liability is occurrence-based - covering incidents happening during the policy period regardless of when the claim is made. See [Article 64](/comparison/claims-made-vs-occurrence).
+Most restaurant Product Liability is occurrence-based - covering incidents happening during the policy period regardless of when the claim is made. See [which insurance lines use which trigger](/comparison/claims-made-vs-occurrence).
 
 **Limit considerations:**
 - Single restaurant: S$1M-S$3M typical
@@ -134,7 +134,7 @@ Restaurant equipment is high-value and high-failure-rate:
 - POS systems
 - Climate control
 
-Equipment Breakdown specifically covers internal mechanical/electrical/electronic failure that standard Property/Fire excludes. See [Article 116](/crisis/equipment-breakdown-halts-production).
+Equipment Breakdown specifically covers internal mechanical/electrical/electronic failure that standard Property/Fire excludes. See [what to do when a breakdown stops production](/crisis/equipment-breakdown-halts-production).
 
 **Spoilage cover:**
 Refrigeration breakdown leading to spoilage of stock - specific sub-limit under Equipment Breakdown is essential. Particularly important for restaurants with:
@@ -159,7 +159,7 @@ Specific WICA exposures:
 - Lifting injuries (stock, kitchen equipment)
 - Chemical exposure (cleaning agents)
 
-Common-Law / Employer's Liability extension is appropriate. See [Article 80](/document-legal/employers-liability-insurance-singapore-wica-gap).
+Common-Law / Employer's Liability extension is appropriate. See [what WICA does not pay](/document-legal/employers-liability-insurance-singapore-wica-gap).
 
 #### Foreign Worker Medical Insurance
 
@@ -197,7 +197,7 @@ For restaurants serving alcohol:
 - Reservation system data
 - Loyalty programme data
 - BEC scenarios for supplier payments
-- See [Article 98](/document-legal/pdpa-section-24-protection-obligation) on PDPA
+- See [how PDPA expects personal data to be secured](/document-legal/pdpa-section-24-protection-obligation)
 
 **Crime / Money:**
 - Cash handling (front-of-house, end-of-day)
@@ -263,7 +263,7 @@ For mid-size operations, Crime / Money cover at appropriate limits is standard.
 **Cloud kitchens / ghost kitchens:**
 - Different exposure profile (no customer-facing premises)
 - Delivery-focused (GIT + Motor)
-- See [Article 103](/edge-case/food-truck-mobile-vendor) on food trucks for comparable
+- See [insurance for food trucks and mobile vendors](/edge-case/food-truck-mobile-vendor) for a comparable profile
 
 **Banquet / event catering:**
 - Off-site activity exposure

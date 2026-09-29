@@ -84,7 +84,7 @@ The [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) is enacted
 - Sex, marital status, pregnancy status, and caregiving responsibilities
 - Race, religion, and language
 - Disability and mental health conditions
-- See [Article 4](/regulatory-change/wfa-2024)
+- See [what the Workplace Fairness Act changes for employers](/regulatory-change/wfa-2024)
 
 (Note that sexual orientation and gender identity are *not* protected characteristics under the Act.)
 
@@ -100,7 +100,7 @@ EPL (Employment Practices Liability) exposure rises sharply during a retrenchmen
 
 **D&O** is the adjacent cover: it responds to director-related claims over the commercial decision-making and any disclosure obligations, including shareholder considerations.
 
-For an **insolvent or distressed employer**, the IRDA 2018 provisions on employee priority in a winding-up and on personal director liability come into play - see [Article 149](/document-legal/irda-2018-director-duties-insolvency).
+For an **insolvent or distressed employer**, the IRDA 2018 provisions on employee priority in a winding-up and on personal director liability come into play - see [what D&O covers when a company fails](/document-legal/irda-2018-director-duties-insolvency).
 
 #### The legal claims dimension
 

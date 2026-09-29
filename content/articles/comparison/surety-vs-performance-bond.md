@@ -141,7 +141,7 @@ For Singapore importers / exporters:
 - Specific bonded warehouse operations
 - Operational considerations
 
-Per [Singapore Customs framework](https://www.customs.gov.sg/) (see [Article 161](/decision-tree/opening-import-export-trader-checklist) on import / export trader operations).
+Per [Singapore Customs framework](https://www.customs.gov.sg/) (see [the import and export trader checklist](/decision-tree/opening-import-export-trader-checklist)).
 
 #### Specific other bond types
 

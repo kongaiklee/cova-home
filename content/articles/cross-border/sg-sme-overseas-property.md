@@ -111,7 +111,7 @@ For larger SMEs and family offices, a captive insurance company (typically based
 **Marine Cargo / Goods in Transit:**
 - For goods moving between Singapore and overseas property
 - Typically Singapore-issued policy with worldwide scope
-- See [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim) on Institute Cargo Clauses
+- See [the ICC A claim steps](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [what ICC C leaves out](/procedural-howto/marine-cargo-institute-clauses-c-claim)
 
 **Public Liability:**
 - Local policy typically required for overseas operations
@@ -135,7 +135,7 @@ For larger SMEs and family offices, a captive insurance company (typically based
 - Major Singapore insurers have Malaysian sister entities
 - SOCSO/EIS for Malaysian-employed staff
 - Malaysian Property Insurance from Malaysian-licensed insurers
-- See [Article 86](/cross-border/sg-sme-malaysia-branch) for full Malaysia detail
+- See [how a Malaysia branch is insured](/cross-border/sg-sme-malaysia-branch)
 
 **Indonesia:**
 - Insurance regulated by [Otoritas Jasa Keuangan (OJK)](https://www.ojk.go.id/)
@@ -159,7 +159,7 @@ For larger SMEs and family offices, a captive insurance company (typically based
 - Insurance Commission regulates
 - Major Filipino insurers for property
 - SSS/PhilHealth/ECC/Pag-IBIG for employees
-- See [Article 88](/cross-border/sg-sme-philippines-remote-workers) for full Philippines detail
+- See [what hiring staff in the Philippines involves](/cross-border/sg-sme-philippines-remote-workers)
 
 **Australia:**
 - Sophisticated insurance market
@@ -177,7 +177,6 @@ For larger SMEs and family offices, a captive insurance company (typically based
 - State-by-state regulation (50 states + DC)
 - High litigation environment
 - Specific natural catastrophe exposures (hurricane, earthquake, wildfire by state)
-- See [Article 87](/cross-border/sg-saas-us-customers) for US-related considerations
 
 #### Tax and regulatory considerations
 
@@ -233,7 +232,7 @@ For Singapore SMEs with overseas property:
 - Standard approach: Malaysian local policy for Malaysian property
 - Singapore parent's Property/PAR for Singapore HQ
 - Coordinated marine cargo for goods movement
-- See [Article 86](/cross-border/sg-sme-malaysia-branch)
+- See [Malaysian cover for Singapore SMEs](/cross-border/sg-sme-malaysia-branch)
 
 **Scenario B: Singapore SME with offices in 5 ASEAN countries**
 - Multinational programme worth considering

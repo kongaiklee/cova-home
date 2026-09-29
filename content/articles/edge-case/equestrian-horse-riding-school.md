@@ -51,7 +51,7 @@ Equestrian operations combine high-severity participant injury exposure with hig
 - Equestrian sports have one of the highest documented severity profiles in organised sport
 - Participant injury can include severe spinal injuries, traumatic brain injuries, multiple fractures
 - Recommended PL limits for commercial equestrian: SGD 10-20 million minimum
-- Underwriting often requires participant waivers (though enforceability is limited under [UCTA 1977](https://sso.agc.gov.sg/Act/UCTA1977) for negligence-based claims per [Article 323](/document-legal/ucta-1977-commercial-limitation))
+- Underwriting often requires participant waivers (though enforceability is limited under [UCTA 1977](https://sso.agc.gov.sg/Act/UCTA1977) for negligence-based claims per [the ban on excluding liability for injury](/document-legal/ucta-1977-commercial-limitation))
 
 **Equine Mortality and Accident Cover** - for owned horses:
 

@@ -21,7 +21,7 @@ og_description: "A business interruption claim turns on a counterfactual: what y
 
 > **The Answer in 60 Seconds**
 >
-> BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on counterfactual analysis - what would the SME have earned absent the disruption, calculated against what was actually earned during the disruption. The standard sequence: **incident triggers BI cover** -> **specific deductible mechanics engage** (per [Article 195](/comparison/bi-deductible-structures)) -> **operational baseline establishment** (pre-incident revenue, gross profit, operational cost structure) -> **specific disruption period documentation** -> **specific gross profit calculation** -> **specific Increased Cost of Working (ICOW) quantification** -> **specific indemnity period management** -> **claim settlement**. Critical operational discipline: **comprehensive pre-incident financial records** (foundational for baseline establishment), **specific contemporaneous disruption documentation**, **operational decisions documentation** (mitigation, ICOW), and **considerations on indemnity period**. For Singapore SMEs with material BI cover, getting BI claims right requires substantive operational and accounting discipline.
+> BI (Business Interruption) claim handling is among the most operationally complex commercial insurance scenarios because the claim quantum depends on counterfactual analysis - what would the SME have earned absent the disruption, calculated against what was actually earned during the disruption. The standard sequence: **incident triggers BI cover** -> **specific deductible mechanics engage** (see [how waiting periods and excesses apply](/comparison/bi-deductible-structures)) -> **operational baseline establishment** (pre-incident revenue, gross profit, operational cost structure) -> **specific disruption period documentation** -> **specific gross profit calculation** -> **specific Increased Cost of Working (ICOW) quantification** -> **specific indemnity period management** -> **claim settlement**. Critical operational discipline: **comprehensive pre-incident financial records** (foundational for baseline establishment), **specific contemporaneous disruption documentation**, **operational decisions documentation** (mitigation, ICOW), and **considerations on indemnity period**. For Singapore SMEs with material BI cover, getting BI claims right requires substantive operational and accounting discipline.
 
 ### The Sourced Detail
 
@@ -46,11 +46,11 @@ BI claim handling is the most operationally and quantitatively demanding insuran
 
 **Specific BI procurement discipline.**
 
-Per [Article 159](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore):
+Per [the gross-profit basis for BI sum insured](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore):
 
 - [Sum insured matched to gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore)
 - Operational indemnity period matched to operational restoration reality
-- Operational specific deductible structure (per [Article 195](/comparison/bi-deductible-structures))
+- Operational specific deductible structure (see [the waiting period and excess options](/comparison/bi-deductible-structures))
 - Operational specific extension considerations
 
 #### Stage 1 - Incident triggers BI cover
@@ -76,7 +76,7 @@ For specific extension scenarios:
 
 **Time deductible application.**
 
-For time deductible structures (per [Article 195](/comparison/bi-deductible-structures)):
+For time deductible structures (per [the waiting period examples](/comparison/bi-deductible-structures)):
 
 - Specific waiting period mechanics
 - Operational operational discipline

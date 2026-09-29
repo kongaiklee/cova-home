@@ -106,17 +106,17 @@ For an architectural SME, disciplinary action against a registered architect or 
 
 The principal insurance lines for Singapore SME architectural practices:
 
-**Professional Indemnity (PI).** Statutorily compelled by section 24 at the licensed-entity level. Annual aggregate or per-claim structures; claims-made trigger architecture (see [Article 271](/comparison/claims-made-vs-occurrence-cover)). Limits typically S$1 million to S$5 million for SME practices; higher for practices handling institutional, public-sector, or international projects.
+**Professional Indemnity (PI).** Statutorily compelled by section 24 at the licensed-entity level. Annual aggregate or per-claim structures; claims-made trigger architecture (see [how it compares with occurrence cover](/comparison/claims-made-vs-occurrence-cover)). Limits typically S$1 million to S$5 million for SME practices; higher for practices handling institutional, public-sector, or international projects.
 
 **Public Liability (PL).** Not statutorily compelled for architects, but required by client and main-contractor contracts. Coverage for third-party bodily injury and property damage arising from the practice's operations, including site visits.
 
-**Work Injury Compensation Insurance (WICI 2019).** Statutorily compelled under the Work Injury Compensation Act 2019 for manual employees and non-manual employees earning S$2,600 per month or less (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work Injury Compensation Insurance (WICI 2019).** Statutorily compelled under the Work Injury Compensation Act 2019 for manual employees and non-manual employees earning S$2,600 per month or less (see [the MOM designated insurer rules](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Run-Off PI Cover.** Critical for sole-practitioner retirement, partnership change, or firm cessation. Claims-made PI leaves an uninsured tail of 6 to 12 years post-handover given typical limitation periods under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959). Run-off cover preserves cover for past acts after the practice ceases.
 
-**Directors and Officers Liability (D&O).** For licensed architectural corporations and LLPs. Defends directors' personal exposure under the Companies Act 1967 and statutory regimes (see [Article 280](/comparison/side-a-side-b-side-c-do-singapore)).
+**Directors and Officers Liability (D&O).** For licensed architectural corporations and LLPs. Defends directors' personal exposure under the Companies Act 1967 and statutory regimes (see [the three sides of D&O cover](/comparison/side-a-side-b-side-c-do-singapore)).
 
-**Cyber Liability.** Architectural practices use BIM platforms, cloud-hosted design files, and client-data management systems; cyber exposure is material. PDPA section 26D 3-day notification clock applies (see [Article 263](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
+**Cyber Liability.** Architectural practices use BIM platforms, cloud-hosted design files, and client-data management systems; cyber exposure is material. PDPA section 26D 3-day notification clock applies (see [who must be told, and how fast](/regulatory-change/pdpa-section-26d-mandatory-data-breach-notification-3-day)).
 
 **Project-Specific PI.** Required by public-sector procurement (BCA, JTC, HDB, URA) and by client mandate on private projects. Typically tower-structure with primary and excess layers.
 

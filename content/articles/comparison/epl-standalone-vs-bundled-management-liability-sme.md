@@ -45,7 +45,7 @@ The two routes share the same underlying coverage trigger - claims by employees,
 
 ## The Post-WFA Underwriting Reset
 
-The [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) and the [Workplace Fairness (Dispute Resolution) Bill 2025](https://www.parliament.gov.sg/parliamentary-business/bills-introduced) (Bill No. 17/2025) introduce a statutory tort of discrimination, expand the Employment Claims Tribunal (ECT) jurisdictional architecture, and create the operational expectations on documented anti-discrimination policies, training records, and grievance procedures. The framework is covered in detail in [article 386](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort).
+The [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) and the [Workplace Fairness (Dispute Resolution) Bill 2025](https://www.parliament.gov.sg/parliamentary-business/bills-introduced) (Bill No. 17/2025) introduce a statutory tort of discrimination, expand the Employment Claims Tribunal (ECT) jurisdictional architecture, and create the operational expectations on documented anti-discrimination policies, training records, and grievance procedures. The framework is covered in detail in [the guide to the new tort and EPL](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort).
 
 The underwriting reset that has followed:
 
@@ -159,7 +159,7 @@ For multi-policy claims (e.g., a director's termination of an employee triggerin
 
 ### Notification Workflow
 
-Notice of Circumstance procedures (see [article 408](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)) are typically per-policy. Bundled programmes streamline by allowing single notification to the composite insurer; standalone programmes require parallel notifications.
+Notice of Circumstance procedures (see [how to draft and send one](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)) are typically per-policy. Bundled programmes streamline by allowing single notification to the composite insurer; standalone programmes require parallel notifications.
 
 ### Tail / Run-Off
 

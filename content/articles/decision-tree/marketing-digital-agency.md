@@ -111,7 +111,7 @@ For Singapore marketing / digital agency SMEs, foundational cover stack includes
 
 **Property/Fire** - for premises and equipment scope. Substantial for video / production agencies given equipment values.
 
-**Equipment Breakdown** (per [Article 209](/procedural-howto/equipment-breakdown-claim-process)) - for substantive production equipment scope.
+**Equipment Breakdown** (see [cover and claims for mechanical failures](/procedural-howto/equipment-breakdown-claim-process)) - for substantive production equipment scope.
 
 **BI cover** - for operational disruption.
 

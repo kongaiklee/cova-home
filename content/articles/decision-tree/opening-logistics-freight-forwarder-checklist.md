@@ -101,7 +101,7 @@ Distinct from FFL (which covers the forwarder's professional liability), Marine 
 
 **Marine Cargo:**
 - Goods carried under bill of lading
-- Institute Cargo Clauses A, B, or C (see [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim), [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim))
+- Institute Cargo Clauses A, B, or C (see [how an ICC A claim is made](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [when ICC C is enough](/procedural-howto/marine-cargo-institute-clauses-c-claim))
 - Issued in customer's name typically; some forwarders issue under own programme
 
 **Goods in Transit (own custody):**
@@ -158,7 +158,7 @@ Specific WICA exposures:
 - Falls from height in warehouses
 - Repetitive strain
 
-For larger firms, **Common-Law / Employer's Liability extension** at appropriate limits is standard - see [Article 80](/crisis/worker-fatality-on-site) on workplace fatalities.
+For larger firms, **Common-Law / Employer's Liability extension** at appropriate limits is standard - see [what a workplace death can cost above WICA](/crisis/worker-fatality-on-site).
 
 #### Foreign worker considerations
 
@@ -166,7 +166,7 @@ The logistics sector employs significant foreign manpower:
 - FWMI for Work Permit and S Pass holders (S$60,000 inpatient minimum from 1 July 2023)
 - Security bonds for non-Malaysian Work Permit holders
 - 6-monthly medical examinations
-- Specific MOM Designated Insurer requirements (see [Article 99](/document-legal/wica-designated-insurer-regulations))
+- Specific MOM Designated Insurer requirements (see [who may issue a WICA policy](/document-legal/wica-designated-insurer-regulations))
 
 #### Cyber considerations
 
@@ -184,7 +184,7 @@ Specific exposures:
 - Customer data breach
 - PDPA exposure on personal data of consignees
 
-For 3PL operators with sophisticated TMS and Warehouse Management Systems, Cyber Liability with appropriate limits and BI extension is increasingly standard. See [Article 72](/document-legal/cyber-insurance-complete-guide-singapore-sme).
+For 3PL operators with sophisticated TMS and Warehouse Management Systems, Cyber Liability with appropriate limits and BI extension is increasingly standard. See [what cyber insurance covers for an SME](/document-legal/cyber-insurance-complete-guide-singapore-sme).
 
 #### Stage-by-stage insurance build
 
@@ -263,7 +263,7 @@ For a typical Singapore freight forwarder / logistics firm:
 
 **Customer contracts:**
 - Customer MSAs typically require specified insurance
-- "Indemnity to Principal" extension on PL/FFL (see [Article 59](/document-legal/indemnity-to-principal))
+- "Indemnity to Principal" extension on PL/FFL (see [what the clause does and does not cover](/document-legal/indemnity-to-principal))
 - Waiver of subrogation in customer's favour
 - Certificate of Insurance delivery
 - AAA-rated insurer requirements for major customers

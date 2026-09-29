@@ -21,11 +21,11 @@ og_description: "A trade credit claim is process-driven and the process decides 
 
 > **The Answer in 60 Seconds**
 >
-> Trade Credit claim submission is highly process-driven, with operational discipline determining claim outcomes. The standard sequence: **customer payment default** -> **internal collection efforts** -> **overdue notification to insurer** (typically within 30-60 days of due date) -> **collection cooperation phase** (insurer may require specific actions) -> **specific claim submission with documentation** -> **insurer investigation and validation** -> **specific recovery action coordination** -> **claim payment per policy provisions** (typically 70-90% of covered amount). Critical operational discipline: **customer credit limit compliance** (claims for amounts exceeding insurer-approved limits typically denied), **specific reporting cycle compliance** (specific monthly / quarterly turnover reports), **specific overdue notification timing** (late notification can deny coverage), and **specific debt collection cooperation**. For Singapore SMEs with Trade Credit cover (per [Article 199](/comparison/trade-credit-vs-letters-of-credit)), getting the claim process right is foundational to actual coverage realisation.
+> Trade Credit claim submission is highly process-driven, with operational discipline determining claim outcomes. The standard sequence: **customer payment default** -> **internal collection efforts** -> **overdue notification to insurer** (typically within 30-60 days of due date) -> **collection cooperation phase** (insurer may require specific actions) -> **specific claim submission with documentation** -> **insurer investigation and validation** -> **specific recovery action coordination** -> **claim payment per policy provisions** (typically 70-90% of covered amount). Critical operational discipline: **customer credit limit compliance** (claims for amounts exceeding insurer-approved limits typically denied), **specific reporting cycle compliance** (specific monthly / quarterly turnover reports), **specific overdue notification timing** (late notification can deny coverage), and **specific debt collection cooperation**. For Singapore SMEs with Trade Credit cover (see [how it compares with letters of credit](/comparison/trade-credit-vs-letters-of-credit)), getting the claim process right is foundational to actual coverage realisation.
 
 ### The Sourced Detail
 
-Trade Credit claim handling is more operationally demanding than typical commercial insurance. The portfolio-based architecture and operational discipline requirements mean that Trade Credit claim outcomes depend substantially on whether the SME has maintained operational discipline throughout the policy period - not just on the loss event itself. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For specific Singapore subrogation case law application, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including the framework discussed in [Article 187](/document-legal/castellian-preston-subrogation).
+Trade Credit claim handling is more operationally demanding than typical commercial insurance. The portfolio-based architecture and operational discipline requirements mean that Trade Credit claim outcomes depend substantially on whether the SME has maintained operational discipline throughout the policy period - not just on the loss event itself. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For specific Singapore subrogation case law application, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including the framework discussed in [the case behind Singapore subrogation law](/document-legal/castellian-preston-subrogation).
 
 #### The pre-claim foundation
 
@@ -187,7 +187,7 @@ Insurer evaluates:
 For substantiated claims:
 
 - Insurer may pursue recovery from defaulted customer
-- Specific subrogation framework (per [Article 187](/document-legal/castellian-preston-subrogation) on Castellian v Preston)
+- Specific subrogation framework (per [the Castellain v Preston decision](/document-legal/castellian-preston-subrogation))
 - Operational considerations
 
 **SME cooperation.**
@@ -402,7 +402,7 @@ Trade Credit claim outcomes depend substantially on operational discipline maint
 
 ### Related Information
 - [Trade Credit Insurance vs Letters of Credit: Two Approaches to Customer Payment Risk](/comparison/trade-credit-vs-letters-of-credit)
-- [Castellian v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
+- [Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
 - [Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist](/decision-tree/opening-import-export-trader-checklist)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

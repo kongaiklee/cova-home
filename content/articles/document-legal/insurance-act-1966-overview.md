@@ -156,7 +156,7 @@ The Act regulates insurance business "in Singapore or from Singapore." For Singa
 **Outbound - Singapore SME insuring overseas exposures:**
 - Local insurance in the country of property/operation typically required
 - Singapore policies with worldwide territory may extend in specific cases
-- See [Article 96](/cross-border/sg-sme-overseas-property) on overseas property
+- See [how to insure overseas property](/cross-border/sg-sme-overseas-property)
 - See [Articles 86-88, 109, 117, 127](/cross-border/sg-sme-malaysia-branch) on country-specific cross-border
 
 **Inbound - Foreign-licensed insurers covering Singapore exposures:**

@@ -69,7 +69,7 @@ For Singapore construction SMEs, BizSafe Level 3 is the common minimum required 
 
 Sub-contractor SME insurance flows through three interlocking channels:
 
-**Channel 1: WICI 2019 / WICI 2019 statutory cover.** Every sub-contractor SME with manual employees or non-manual employees earning S$2,600 per month or less must hold WICI 2019 cover from an MOM Designated Insurer (see [Article 264](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)). The 1 November 2025 compensation limit uplift (death S$269,000 maximum; permanent incapacity S$346,000 maximum; medical S$53,000) automatically applies to WICI 2019 policies.
+**Channel 1: WICI 2019 / WICI 2019 statutory cover.** Every sub-contractor SME with manual employees or non-manual employees earning S$2,600 per month or less must hold WICI 2019 cover from an MOM Designated Insurer (see [why the list needs checking at each renewal](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)). The 1 November 2025 compensation limit uplift (death S$269,000 maximum; permanent incapacity S$346,000 maximum; medical S$53,000) automatically applies to WICI 2019 policies.
 
 **Channel 2: Employer's common-law liability.** WICI 2019 typically includes a common-law extension responding to claims by the SME's own employees suing at common law for negligence (rather than claiming under WICA). The common-law extension sub-limit should be tested at placement.
 

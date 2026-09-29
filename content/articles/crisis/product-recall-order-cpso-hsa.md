@@ -239,7 +239,7 @@ The point for an SME is structural: most of these are **first-party** costs that
 - Specific adverse event reporting alongside recall
 - Specific insurance complexity
 
-**Food (alongside [Article 368](/crisis/sfa-caterer-suspension-foodborne-illness)).**
+**Food (see also [when the SFA suspends a caterer](/crisis/sfa-caterer-suspension-foodborne-illness)).**
 - Specific SFA framework
 - Specific CPR vs GL framework
 - Specific institutional vs retail distribution

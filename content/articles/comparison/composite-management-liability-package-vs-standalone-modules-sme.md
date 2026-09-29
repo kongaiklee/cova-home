@@ -230,7 +230,7 @@ Composite produces one renewal documentation set; standalone produces multiple s
 
 ### Notice of Circumstance Coordination
 
-Multi-policy NoC coordination (see [article 408](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)) is simpler under composite - single insurer to notify across all triggered modules. Standalone NoC requires per-policy notifications.
+Multi-policy NoC coordination (see [how to file one, step by step](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore)) is simpler under composite - single insurer to notify across all triggered modules. Standalone NoC requires per-policy notifications.
 
 ## Common Mistakes Singapore SMEs Make on the Composite vs Standalone Decision
 

@@ -83,7 +83,7 @@ For practical SME purposes: assume each country requires its own admitted commer
 
 Despite the fragmentation, several lines do permit meaningful regional coordination:
 
-**Marine Cargo and Goods in Transit.** Marine insurance is by nature global. A Singapore Marine Cargo policy with Institute Cargo Clauses A or C (per [Article 51](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [Article 62](/procedural-howto/marine-cargo-institute-clauses-c-claim)) covers goods regardless of route. A regional ASEAN logistics operation can typically run a single Singapore-issued Marine Cargo programme.
+**Marine Cargo and Goods in Transit.** Marine insurance is by nature global. A Singapore Marine Cargo policy with Institute Cargo Clauses A or C (see [how an A claim is made](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [the ICC C claim guide](/procedural-howto/marine-cargo-institute-clauses-c-claim)) covers goods regardless of route. A regional ASEAN logistics operation can typically run a single Singapore-issued Marine Cargo programme.
 
 **D&O Liability.** Multinational D&O programmes are common. A Singapore-issued master D&O can cover directors of Singapore parent and ASEAN subsidiaries, often supplemented by local "DIC/DIL" (difference in conditions / difference in limits) policies in jurisdictions where local cover is required.
 

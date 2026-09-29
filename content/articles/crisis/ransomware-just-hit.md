@@ -25,7 +25,7 @@ og_description: "The first four hours decide the outcome for a Singapore busines
 
 ### The Step-by-Step
 
-A ransomware incident is a fast-moving regulatory and operational crisis. Decisions made in the first hours determine whether the cyber insurance responds, whether the regulatory exposure is manageable, and whether the business survives the operational disruption. The sequence below assumes you hold standalone Cyber insurance with panel access - if you don't, see [Article 72](/comparison/cyber-standalone-vs-par-sublimit) on the structural gap.
+A ransomware incident is a fast-moving regulatory and operational crisis. Decisions made in the first hours determine whether the cyber insurance responds, whether the regulatory exposure is manageable, and whether the business survives the operational disruption. The sequence below assumes you hold standalone Cyber insurance with panel access - if you don't, see [cyber cover under a property policy](/comparison/cyber-standalone-vs-par-sublimit) on the structural gap.
 
 #### Hour 0 - Detection and immediate response
 
@@ -115,7 +115,7 @@ The organisation must conduct an expeditious assessment of whether the breach is
 
 A breach is notifiable if it (a) results in or is likely to result in significant harm to affected individuals, or (b) affects 500 or more individuals.
 
-**Significant harm categories** include NRIC + name, account credentials, financial information, health data, biometric data - see [Article 66](/document-legal/pdpa-section-26d-breach-notification).
+**Significant harm categories** include NRIC + name, account credentials, financial information, health data, biometric data - see [what makes a breach notifiable](/document-legal/pdpa-section-26d-breach-notification).
 
 For ransomware specifically, the question of "data exfiltration" is critical:
 - If only encrypted (not exfiltrated): may not constitute a confidentiality breach; may not trigger Section 26D
@@ -130,7 +130,7 @@ Forensics determines this. Some ransomware groups exfiltrate as standard; others
 
 **For CII operators:**
 
-Per the [Cybersecurity (Amendment) Act 2024](https://www.csa.gov.sg/news-events/press-releases/provisions-in-the-cybersecurity--amendment--act-to-come-into-force-on-31-october-2025/), CII owners must report prescribed cybersecurity incidents to CSA **within 2 hours** of becoming aware. Most SMEs are not CII operators - see [Article 76](/document-legal/cybersecurity-act-cii-designation).
+Per the [Cybersecurity (Amendment) Act 2024](https://www.csa.gov.sg/news-events/press-releases/provisions-in-the-cybersecurity--amendment--act-to-come-into-force-on-31-october-2025/), CII owners must report prescribed cybersecurity incidents to CSA **within 2 hours** of becoming aware. Most SMEs are not CII operators - see [who gets designated and what it means](/document-legal/cybersecurity-act-cii-designation).
 
 #### Week 1-4 - Recovery and remediation
 
@@ -190,7 +190,7 @@ For Singapore SMEs without a dedicated security team - which is most SMEs - the 
 
 The pre-incident discipline that saves businesses:
 
-1. **Standalone Cyber insurance with appropriate limits and panel.** See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
+1. **Standalone Cyber insurance with appropriate limits and panel.** See [what a property policy add-on leaves out](/comparison/cyber-standalone-vs-par-sublimit).
 2. **Insurer's 24-hour incident hotline saved offline** - on mobile phones, laminated cards, anywhere not on the systems that may be encrypted.
 3. **Tabletop exercise annually.** PDPC explicitly recommends this in the [Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/help-and-resources/2021/01/guide-on-managing-and-notifying-data-breaches-under-the-pdpa). For SMEs, a 2-hour annual exercise covering a representative scenario.
 4. **Offline, immutable backups.** The fastest way out of ransomware is a clean restore. Insurance pays for the loss; backups prevent it.

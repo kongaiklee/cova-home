@@ -9,149 +9,135 @@ agencies: ["Singapore Statutes", "MOM"]
 required_by_law: "cover"
 article_number: 67
 published: "2026-05-04"
-source_verified: "2026-05-04"
-updated: "2026-08-30"
-word_count: 1664
+source_verified: "2026-09-29"
+updated: "2026-09-29"
+word_count: 1796
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-section-25-offence"
-meta_description: "Section 25 makes failing to insure or maintain WICA cover a Singapore offence. What the penalties are, and what an uninsured employer still owes."
+meta_description: "WICA section 25 makes failure to maintain required insurance an offence, sets repeat-offender penalties and removes key ignorance defences."
 og_title: "WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure"
-og_description: "Section 25 makes failing to insure or maintain WICA cover a Singapore offence. What the penalties are, and what an uninsured employer still owes."
+og_description: "WICA section 25 makes failure to maintain required insurance an offence, sets repeat-offender penalties and removes key ignorance defences."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> [Section 25 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) makes it an offence for an employer to fail to insure or to fail to maintain the WICA insurance required by [Section 24](https://sso.agc.gov.sg/Act/WICA2019). The penalty under Section 25(2) is a fine **not exceeding S$10,000**, imprisonment **not exceeding 12 months**, or both. Where the offence is committed by a body corporate, **directors, managers, secretaries, and similar officers** can be personally liable under Section 25(3) if the offence was committed with their consent, connivance, or attributable to their neglect. The Section 25 offence is independent of the employer's underlying liability to pay compensation under WICA - which continues regardless of whether the policy is in place. Verify all dates and figures against the current statute on Singapore Statutes Online.
+> [WICA section 24](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) requires every employer to insure and maintain insurance under approved employee insurance policies with designated employer's insurers against liabilities under the Act for every employee, subject to prescribed exclusions and minimum amounts. [WICA section 25](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) makes contravention of that duty an offence. The first-offence penalty is a fine not exceeding S$10,000 or imprisonment for up to 12 months or both. For a repeat offender, it is a fine not exceeding S$20,000 or imprisonment for up to 12 months or both.
+>
+> Not knowing your employee numbers, required liability, policy approval status or insurer designation does not provide a defence unless the employer took all reasonable steps to ascertain those matters. Officer liability is not in section 25(3). It sits in [WICA section 72](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr72-), which applies its own three-limb test to officers and influential managers and operates whether or not the corporation is convicted.
 
 ### The Sourced Detail
 
-The Section 25 offence sits at the heart of Singapore's mandatory employer insurance regime. Many SME founders do not realise that failing to maintain WICA insurance is a *criminal* offence - not just a regulatory issue - with personal liability extending to directors. Understanding the structure is essential.
+The offence is built around a continuous operating duty. Your company must know which employees require insurance, maintain an approved policy with a designated insurer and keep the policy information accurate. No one needs to be injured for the offence to be committed: the trigger is failing the insurance duty itself.
 
-#### Section 24 - the duty to insure
+#### The duty under section 24
 
-Per [Section 24(1) of the WICA 2019](https://sso.agc.gov.sg/Act/WICA2019):
+[Section 24(1) of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) requires every employer to insure and maintain insurance under one or more approved employee insurance policies with one or more designated employer's insurers. The cover is against liabilities the employer incurs under the Act for every employee.
 
-> "It is the duty of every employer to insure, and maintain insurance, under approved policies of insurance with insurers authorised under section 30, against all liabilities which the employer may incur under this Act in respect of any employee employed by the employer."
+The words "insure and maintain" require continuity. The employer needs an approved policy in force, not an application, quotation or renewal discussion. The insurer also needs to hold the required designation. MOM maintains the current [designated-insurer page](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer), so verify status against that page rather than relying on an old list or count.
 
-This duty is owed continuously throughout the period of employment. The employer must:
+[Section 24(2)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) states that the duty does not apply to prescribed excluded classes and is subject to a prescribed minimum amount. The Act leaves those details to the applicable prescription. MOM's current [WIC insurance requirements](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) set out who must be insured: every employee doing manual work, whatever the salary, and every employee doing non-manual work who earns S$2,600 or less a month, not counting overtime, bonuses, the annual wage supplement, productivity incentives and allowances. The same page tells employers not to under-declare the number of employees and to keep each employee's occupation accurate with the insurer.
 
-1. **Insure** - obtain a policy at the start of employment
-2. **Maintain insurance** - keep the policy in force without lapse
-3. **Use approved policies** - policies with the standard MOM-mandated wording
-4. **Use designated insurers** - only the 24 insurers on the [MOM Designated Insurer list dated 1 January 2026](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer) (or 6 insurers on the platform operator list dated 26 December 2024)
+Use the [WICA complete guide](/document-legal/wica-complete-guide-singapore-employers) for the wider compensation and claims framework. This page focuses on the insurance offence.
 
-#### Section 25 - the offence
+#### The offence and both penalty tiers
 
-Per Section 25(1):
+[Section 25(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) states that an employer who contravenes section 24(1) is guilty of an offence. The first tier carries a fine not exceeding S$10,000 or imprisonment for a term not exceeding 12 months or both. For a repeat offender, the maximum fine rises to S$20,000 while the imprisonment term remains up to 12 months.
 
-> "An employer who fails to comply with section 24 commits an offence."
+The penalty sits in subsection (1), not subsection (2). [Section 25(2)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) defines a repeat offender by reference to at least one earlier conviction under subsection (1), section 34P(1), or section 35(1)(b) of the repealed Act, whether that earlier conviction occurred before, on or after 1 September 2020.
 
-Per Section 25(2):
+#### The ignorance rule in section 25(3)
 
-> "An employer who is convicted of an offence under subsection (1) is liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+[Section 25(3)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) addresses the practical failures that arise in an SME. It is not a director-liability provision. It removes specified ignorance arguments unless the employer took all reasonable steps to ascertain the relevant matters.
 
-The threshold for the offence is the failure itself. There is no need for an injury to have occurred. An employer running uninsured for any period of time has committed the offence on each day the gap exists. Practical enforcement typically focuses on cases discovered through:
+Ignorance does not provide a defence for the number of employees, the extent of liability requiring insurance, the policy's lack of approval or the insurer's lack of designation. The statutory exception requires the employer to have taken all reasonable steps to ascertain those matters.
 
-- WICA claims where MOM finds no policy in force at date of accident
-- WSH inspections that include policy verification
-- Complaints from injured workers or their families
-- Cross-checks against MOM's designated-insurer policy database
+This makes verification central. Reconcile employee records with the policy information. Check policy approval and insurer designation. Keep renewal, endorsement and payment records. When employee numbers, occupations or remuneration change, determine what the policy and compulsory terms require and complete the update.
 
-#### Section 25(3) - directors' personal liability
+A verbal assurance that insurance is "handled" leaves no written record of the steps taken. Keep the policy schedule, dates, employer identity, declared information and insurer status in a controlled record. Escalate mismatches before work continues without the required insurance.
 
-This is the provision SME founders most frequently overlook. Per Section 25(3):
+#### Deducting insurance costs from employee earnings
 
-> "Where an offence under this section by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, that director, manager, secretary or other similar officer or person, as well as the body corporate, is guilty of that offence and is liable to be proceeded against and punished accordingly."
+[Section 25(4)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) creates a separate offence where an employer deducts from an employee's earnings to defray or partly defray the required insurance cost. A first conviction carries a fine not exceeding S$5,000 or imprisonment for up to 6 months or both. A repeat conviction raises the maximum fine to S$10,000 and retains the maximum imprisonment term of 6 months.
 
-In plain terms: if the company is convicted of a Section 25 offence, the director (or other officer) can also be personally convicted if:
+[Section 25(5)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) defines repeat offender for that deduction offence by specified earlier convictions. Keep the insurance premium as an employer cost. Do not pass it to employees through a payroll deduction.
 
-- The offence was committed with their **consent** (they knew and approved), or
-- The offence was committed with their **connivance** (they knew and turned a blind eye), or
-- The offence is **attributable to their neglect** (they should have known and prevented it)
+#### Officer and manager exposure under section 72
 
-The "neglect" limb is broad. A director who never asked HR whether the WICA policy was in force may face personal liability - ignorance is not a defence.
+Corporate-officer liability sits in [section 72(2)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr72-). It reaches an officer of the corporation and an individual involved in management who is in a position to influence the corporation's conduct in relation to the offence.
 
-A convicted individual director faces the same penalty as the corporate offender: fine up to S$10,000, imprisonment up to 12 months, or both. The criminal record that follows attaches to the individual.
+The person is guilty of the same offence as the corporation where one of three conditions applies. First, the person consented, connived or conspired with others to effect the offence. Second, the person was knowingly concerned in or party to the offence by act or omission. Third, the person knew or ought reasonably to have known that the offence, or one of the same type, would be or was being committed and failed to take all reasonable steps to prevent or stop it.
 
-#### Section 24(3) - when exemption applies
+[Section 72(6)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr72-) defines officer to include a director, partner, chief executive, manager, secretary or similar officer, a person purporting to act in such a capacity, and specified members where members manage the corporation's affairs.
 
-Per Section 24(3), the Minister may exempt specific employers from the insurance requirement in writing. This exemption is rare in practice and is typically only granted to specific government bodies or large enterprises with approved self-insurance arrangements meeting MOM standards. The standard SME cannot self-insure WICA.
+[Section 72(3)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr72-) lets the individual rely on a defence available to the corporation and places on that person the same burden of proof the corporation would carry. [Section 72(5)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr72-) states that the officer mechanism applies whether or not the corporation is convicted and does not affect the corporation's own liability.
 
-#### What "maintain insurance" means in practice
+This differs from the reverse-burden structure in the [WSHA section 48 guide](/document-legal/wsha-section-48-director-liability). Read each statute on its own terms rather than importing one officer test into the other.
 
-The duty under Section 24 is continuous. Common scenarios that breach the duty:
+#### What an uninsured employer still owes
 
-1. **Lapse between policies.** The old policy expires on 31 December and the new policy starts on 2 January. The company is uninsured on 1 January - a Section 25 offence on that day.
+Insurance transfers the covered payment obligation to the designated insurer under the approved policy. It does not create the employer's underlying liability. [Section 24(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr24-) describes insurance against liabilities the employer incurs under the Act. [Section 7(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr7-) makes the employer liable to pay compensation for a work injury. It sets no condition about insurance.
 
-2. **Premium warranty void.** The premium is not paid within 60 days (standard Singapore market premium warranty), the policy is void *ab initio* - meaning treated as if it never existed. Every day during the supposed cover is a Section 25 day.
+An uninsured employer therefore faces two separate problems. The prosecution concerns failure to maintain required insurance. The compensation process concerns the employer's liability for the work injury. Do not assume the absence of a policy removes the employee's statutory route or converts the employer's liability into a discretionary payment.
 
-3. **Material non-disclosure leading to avoidance.** The insurer voids the policy from inception due to non-disclosure on the proposal form. Same effect - every day is a Section 25 day.
+Follow the [WICA claim procedure](/procedural-howto/how-to-file-wica-claim-singapore-mom) after an accident. Preserve the accident report, employment and wage records, medical documents, policy history and communications with MOM. Obtain legal advice on an uninsured period without delaying accident reporting or required payments.
 
-4. **Hiring a worker before policy endorsement.** New hire starts on Monday. Broker sends endorsement instruction on Wednesday. Endorsement issued on Friday. Three days of Section 25 exposure for that worker.
+#### Controls that prevent an insurance offence
 
-5. **Cancellation without replacement.** Mid-term cancellation without immediate replacement is an open Section 25 breach.
+Assign one owner for the policy and a separate reviewer. Record the expiry date, renewal lead time, insurer designation check, approved-policy evidence, employee reconciliation and premium status. Completion means the policy is issued and in force with correct information.
 
-6. **Misclassification - workers omitted from policy.** Treating a manual worker as an "independent contractor" without verifying the substantive employment relationship may leave a worker uninsured. The substantive test (control, integration, mutuality of obligation) is what MOM applies, not the contractual label.
+Reconcile after hiring, termination, role changes and payroll changes. The control should identify employees missing from the declared information and discrepancies between policy records and actual employment. Preserve the report and corrective action.
 
-#### What happens when an injury occurs in a Section 25 gap
+For a company acquisition, inspect the target's policy history, employee data, claims and renewal evidence. A certificate alone does not prove uninterrupted compliance or accurate declarations.
 
-Two consequences apply in parallel:
+## Common Mistakes
 
-1. **The Section 25 prosecution proceeds.** The criminal offence is independent of injury.
+1. **Putting the penalty in subsection (2).** [Section 25(1)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr25-) contains the offence and penalties. Subsection (2) defines a repeat offender.
 
-2. **The employer remains personally liable for compensation.** Per Section 24, the duty is to insure against the *employer's liability*. The liability under WICA exists regardless of whether the policy was in place. If the policy is missing, the employer pays out of pocket - full statutory amount, without insurer reimbursement. As of 1 November 2025, that exposure can be up to S$269,000 (death) or S$346,000 (total permanent incapacity) per incident.
+2. **Treating subsection (3) as director liability.** It is the employer ignorance rule. Officer liability sits in [section 72](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr72-).
 
-The combined exposure is substantial: criminal conviction of the company *and* the responsible director, plus six-figure compensation paid personally.
+3. **Checking only whether a policy document exists.** The statute requires an approved employee insurance policy with a designated employer's insurer.
 
-#### How MOM enforces
+4. **Relying on an old insurer list.** A designation can expire, be suspended or be cancelled under WICA [section 31](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr31-) and [section 34](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr34-). Use MOM's current page and retain the verification.
 
-Enforcement actions historically include:
-- Prosecution before the State Courts
-- Fines imposed on conviction
-- Public announcement of convictions
-- Director personal prosecution where Section 25(3) applies
+5. **Allowing a renewal gap.** A pending renewal does not satisfy the duty to maintain insurance.
 
-The volume of prosecutions is not large compared to the number of employers - partly because designated insurer policy data feeds MOM's systems and most lapses are detected and rectified short of prosecution. But when a serious incident occurs and the employer is uninsured, prosecution typically follows.
+6. **Ignoring employee-data changes.** Headcount and required liability are matters the employer must take reasonable steps to ascertain.
 
-### Common Mistakes / What Goes Wrong
+7. **Charging the premium to employees.** Deduction from earnings for the required insurance is a separate offence with separate penalties.
 
-1. **Treating WICA as a "best to have" rather than a statutory duty.** It is mandatory. Failure is criminal.
-2. **Assuming directors are protected by the corporate veil.** Section 25(3) pierces it specifically for this offence.
-3. **Letting the policy lapse between renewals.** Even one day uninsured is a Section 25 offence.
-4. **Misclassifying workers as independent contractors.** The substantive test, not the label, determines whether they are employees within WICA scope.
-5. **Treating premium warranty as flexible.** It is not. Late premium payment can void the policy *ab initio*.
-6. **Forgetting platform workers.** Since 1 January 2025 under the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024), platform operators have separate WICA-equivalent obligations under different designated insurers.
+8. **Assuming the corporation must be convicted first.** The officer provision applies whether or not the corporation is convicted.
 
-### What This Means for Your Business
+## What This Means for Your Business
 
-For founders and directors of any Singapore SME with employees, the operational discipline is non-negotiable:
+Make WIC insurance verification an operating control, not a renewal reminder. Your evidence should show which employees are covered, why the policy is approved, why the insurer is designated, when the cover starts and ends, and how changes reach the insurer.
 
-1. **Treat WICA renewal as a calendar-anchored obligation.** Set reminders 90, 60, and 30 days before expiry. Confirm the new policy is bound and the schedule received before the old policy expires.
+Give senior management visibility of gaps and unresolved discrepancies. The officer test includes people able to influence the corporation's conduct, so the control cannot stop at payroll or administration.
 
-2. **Run the policy and payroll reconciliation monthly.** Every employee on the payroll should be within the declared headcount and EAE on the WICA policy. New hires, terminations, role changes, salary increases - all should reflect on the policy via endorsement or annual declaration.
+If a gap is discovered, establish the dates and affected employees, notify the appropriate adviser and preserve the evidence. Fix the insurance position without rewriting the record of what occurred.
 
-3. **Verify designated insurer status periodically.** The MOM list has changed historically; your insurer should remain on it.
+## Questions to Ask Your Adviser
 
-4. **For directors specifically - verify, don't trust.** Ask HR or finance to produce the current WICA policy schedule on request. Do not rely on "it's handled." Section 25(3) makes "I assumed someone was doing it" an attributable neglect risk.
-
-5. **In M&A transactions, verify target's WICA status as part of due diligence.** Buying a company with a Section 25 problem inherits the exposure.
-
-6. **For platform operators specifically - confirm you're on the platform-operator designated list, not the standard employer list.** They are different.
-
-The cost of compliance is small (annual premium plus administration). The cost of non-compliance is criminal liability extending to directors plus uninsured statutory exposure. The asymmetry is total.
-
-### Questions to Ask Your Adviser
-
-1. Is my current WICA policy with one of the 24 MOM-designated insurers, and is it in force without gap?
-2. Does my policy schedule reflect every current employee in the in-scope categories (manual + non-manual ≤ S$2,600)?
-3. What is my premium warranty deadline, and has the current period premium been paid on time?
-4. As a director, what process do I have to verify policy status without relying on a single staff member?
-5. If an employee is misclassified as independent contractor and is later determined to be an employee, what's my exposure?
+1. Is this an approved employee insurance policy issued by a currently designated employer's insurer?
+2. Which employees and liabilities must our policy cover under the current prescribed rules?
+3. Does the policy information match our employee numbers, occupations and remuneration records?
+4. What event requires an endorsement or updated declaration, and when does that change take effect?
+5. What evidence confirms that renewal is bound before the current policy expires?
+6. How does the policy respond to an injury discovered during a disputed or uninsured period?
+7. Which people in management fall within our verification and escalation process?
 
 ### Related Information
+
+WICA duties and claims:
+- [WICA Insurance: The Complete Guide to Work Injury Compensation for Singapore Employers](/document-legal/wica-complete-guide-singapore-employers)
+- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
-- [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 
-*Published 4 May 2026. Source verified 4 May 2026.*
+Officer and incident response:
+- [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
+- [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
+- [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
+- [MOM Just Issued a Stop-Work Order on Our Site - What Do I Do Now?](/crisis/mom-stop-work-order-issued)
+
+*Published 4 May 2026. Source verified 29 September 2026.*

@@ -45,7 +45,7 @@ Per the [CaseTrust Accreditation for Renovation Businesses](https://www.case.org
 **Deposit Performance Bond:**
 The bond protects customer deposits against firm failure (insolvency, business closure). The amount is calculated based on the firm's projected revenue and deposit volumes. Bond providers are typically insurance companies; the firm pays a premium for the bond.
 
-CaseTrust-RCMA accreditation is the joint scheme combining CASE consumer protection with RCMA industry registration. See [Article 24](/association/casetrust-rcma-joint-accreditation-comparison) on CaseTrust-RCMA.
+CaseTrust-RCMA accreditation is the joint scheme combining CASE consumer protection with RCMA industry registration. See [how it differs from CaseTrust alone](/association/casetrust-rcma-joint-accreditation-comparison).
 
 #### HDB renovation considerations
 
@@ -111,7 +111,7 @@ For ID firms operating in HDB, registration as an HDB Approved Renovation Contra
 - Larger commercial / luxury residential: S$3M-S$10M+
 
 **Claims-made structure:**
-PI is claims-made and notified. Retroactive date matters - see [Article 64](/comparison/claims-made-vs-occurrence). For new firms, retroactive date typically defaults to inception; ensure continuity if switching insurers.
+PI is claims-made and notified. Retroactive date matters - see [how it can leave past work uncovered](/comparison/claims-made-vs-occurrence). For new firms, retroactive date typically defaults to inception; ensure continuity if switching insurers.
 
 #### The physical works layer (Model B)
 
@@ -140,7 +140,7 @@ PI is claims-made and notified. Retroactive date matters - see [Article 64](/com
 For Model B firms engaging subcontractors:
 - Each subcontractor should have own WICA, PL, possibly CAR
 - Certificates of Insurance verified before mobilisation
-- "Indemnity to Principal" extension (see [Article 59](/document-legal/indemnity-to-principal)) on subcontractor's PL
+- "Indemnity to Principal" extension (see [what it does and does not cover](/document-legal/indemnity-to-principal)) on subcontractor's PL
 
 #### Cyber considerations for ID firms
 

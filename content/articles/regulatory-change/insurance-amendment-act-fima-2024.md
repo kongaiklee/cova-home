@@ -21,7 +21,7 @@ og_description: "From 24 January 2025 FIMA 2024's second phase consolidated Sing
 
 > **The Answer in 60 Seconds**
 >
-> Effective **24 January 2025**, the second phase of the [Financial Institutions (Miscellaneous Amendments) Act 2024](https://sso.agc.gov.sg/Acts-Supp/12-2024/Published/20240401) (FIMA Act 2024, Act 12 of 2024) consolidated and rationalised [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) investigative and supervisory powers across financial institutions including insurers. (A separate 2024 statute - the [Insurance (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/37-2024/Published/20241118) (Act 37 of 2024) - is not part of this supervisory consolidation: it was an urgent amendment requiring the relevant Ministry's approval for transactions involving co-operative-linked insurers, the change that halted the proposed Allianz-Income Insurance acquisition.) Key changes affecting Singapore SMEs: (1) **harmonised regulatory restitution and prohibition powers** giving MAS consistent enforcement tools across banks, insurers, capital market intermediaries; (2) **enhanced fit-and-proper assessment** for insurer key persons including non-executive directors; (3) **expanded regulator information powers** for systemic risk assessment; (4) **technology and cyber risk supervisory framework** alignment with the MAS Cyber Hygiene notices - Notice FSM-N04 for insurers and FSM-N06 for banks, which replaced the former Notices 132 and 655 from 10 May 2024. SME procurement implications: (a) increased insurer underwriting discipline driven by MAS supervisory expectations flowing through to SME-facing premium and cover decisions; (b) financial strength rating verification (per [Article 349](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)) becomes more material as MAS supervisory tools sharpen; (c) commercial cyber covers reflect MAS Technology Risk Management Guidelines as baseline expectation. Important: these are insurer-side and intermediary-side reforms primarily, but their effects flow through to SME insurance market in pricing, cover availability, and claims handling discipline.
+> Effective **24 January 2025**, the second phase of the [Financial Institutions (Miscellaneous Amendments) Act 2024](https://sso.agc.gov.sg/Acts-Supp/12-2024/Published/20240401) (FIMA Act 2024, Act 12 of 2024) consolidated and rationalised [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) investigative and supervisory powers across financial institutions including insurers. (A separate 2024 statute - the [Insurance (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/37-2024/Published/20241118) (Act 37 of 2024) - is not part of this supervisory consolidation: it was an urgent amendment requiring the relevant Ministry's approval for transactions involving co-operative-linked insurers, the change that halted the proposed Allianz-Income Insurance acquisition.) Key changes affecting Singapore SMEs: (1) **harmonised regulatory restitution and prohibition powers** giving MAS consistent enforcement tools across banks, insurers, capital market intermediaries; (2) **enhanced fit-and-proper assessment** for insurer key persons including non-executive directors; (3) **expanded regulator information powers** for systemic risk assessment; (4) **technology and cyber risk supervisory framework** alignment with the MAS Cyber Hygiene notices - Notice FSM-N04 for insurers and FSM-N06 for banks, which replaced the former Notices 132 and 655 from 10 May 2024. SME procurement implications: (a) increased insurer underwriting discipline driven by MAS supervisory expectations flowing through to SME-facing premium and cover decisions; (b) financial strength rating verification (see [the step-by-step check](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)) becomes more material as MAS supervisory tools sharpen; (c) commercial cyber covers reflect MAS Technology Risk Management Guidelines as baseline expectation. Important: these are insurer-side and intermediary-side reforms primarily, but their effects flow through to SME insurance market in pricing, cover availability, and claims handling discipline.
 
 ### The Sourced Detail
 
@@ -153,9 +153,9 @@ Continued framework for Lloyd's syndicates operating in Singapore:
 #### Operational implications for SME procurement
 
 **Renewal preparation.**
-- Schedule of Loss request remains foundational (per [Article 350](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore))
-- Insurer financial strength verification (per [Article 349](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)) more material
-- Broker remuneration disclosure (per [Article 346](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)) reinforced
+- Schedule of Loss request remains foundational (see [how to renew after claims](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore))
+- Insurer financial strength verification (see [which rating agencies to check](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)) more material
+- Broker remuneration disclosure (see [how to get commission rates in writing](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)) reinforced
 
 **Claims handling.**
 - Documentation discipline more critical
@@ -171,7 +171,7 @@ Continued framework for Lloyd's syndicates operating in Singapore:
 - Specialty line market access via brokers important
 
 **Insurer transitions.**
-- Mid-term switching considerations (per [Article 347](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)) reflect new MAS supervisory framework
+- Mid-term switching considerations (see [how to avoid a gap in cover](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)) reflect new MAS supervisory framework
 - WICA designated insurer continuity remains mandatory
 
 #### MAS supervisory tools post-24 January 2025
@@ -194,7 +194,7 @@ For SMEs, the practical implications: insurer behaviour at claim handling, premi
 
 The 24 January 2025 reforms operate alongside:
 - [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704) provisions effective 31 October 2025
-- [PDPA enhanced enforcement](https://www.pdpc.gov.sg/) (per [Article 357](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025))
+- [PDPA enhanced enforcement](https://www.pdpc.gov.sg/) (see [the Marina Bay Sands fine](/regulatory-change/pdpc-enforcement-escalation-mbs-marina-bay-sands-2025))
 - [FIDReC small business jurisdiction](https://www.fidrec.com.sg/) effective 1 July 2025
 - [WICA limit increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act) effective 1 November 2025
 

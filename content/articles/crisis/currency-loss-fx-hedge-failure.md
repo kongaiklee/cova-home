@@ -145,7 +145,7 @@ If the loss was caused by employee dishonesty (e.g. treasury staff fraudulently 
 - Subject to specific FG policy terms
 - [Police](https://www.police.gov.sg/) report typically required
 - Forensic investigation
-- See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [Article 91](/crisis/employee-embezzlement-discovered)
+- See [how to file a fidelity guarantee claim](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [the first steps after discovering embezzlement](/crisis/employee-embezzlement-discovered)
 
 **Crime / Computer Crime - for cyber-driven scenarios:**
 
@@ -154,7 +154,7 @@ If the loss was caused by:
 - Computer fraud (unauthorised system access causing transfer)
 - Funds Transfer Fraud (specific cover sub-set)
 
-Cyber and Crime policies with appropriate sub-limits may respond. See [Article 90](/crisis/vendor-ran-off-with-deposit) for vendor scenario; same principles apply to treasury scenarios.
+Cyber and Crime policies with appropriate sub-limits may respond. See [what to do when a vendor disappears](/crisis/vendor-ran-off-with-deposit); same principles apply to treasury scenarios.
 
 **D&O - for director liability:**
 
@@ -164,7 +164,7 @@ If directors face personal liability claims for:
 - Disclosure failures relating to FX exposure
 - Specific shareholder claims tied to currency-related loss
 
-D&O may cover defence and indemnity. See [Article 71](/comparison/do-vs-pi-vs-epl) and [Article 119](/document-legal/companies-act-section-172-indemnification).
+D&O may cover defence and indemnity. See [how D&O differs from PI and EPL](/comparison/do-vs-pi-vs-epl) and [the section 172 bar on indemnifying directors](/document-legal/companies-act-section-172-indemnification).
 
 **Tech E&O - for systems failure:**
 
@@ -205,12 +205,12 @@ If currency loss is related to customer non-payment:
 - Crime / FG / Cyber may respond
 - Police report
 - Forensic investigation
-- See [Article 91](/crisis/employee-embezzlement-discovered) on embezzlement
+- See [what to do once embezzlement is found](/crisis/employee-embezzlement-discovered)
 
 **Scenario D: BEC scam: fake CFO email directing emergency wire of S$500k in foreign currency**
 - Crime / Cyber / Social Engineering Fraud may respond
 - Notification window critical
-- See [Article 90](/crisis/vendor-ran-off-with-deposit) on vendor scenario; same principles
+- See [when a vendor runs off with your deposit](/crisis/vendor-ran-off-with-deposit); same principles
 
 **Scenario E: Hedge counterparty bank in difficulty, hedge contract effectiveness in question**
 - Counterparty Credit Risk consideration

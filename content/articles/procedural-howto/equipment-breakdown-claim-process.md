@@ -25,7 +25,7 @@ og_description: "Equipment breakdown covers the mechanical and electrical failur
 
 ### The Sourced Detail
 
-EBD claim handling combines specific equipment expertise, cause-determination discipline, and operational coordination. Understanding the process explains both procurement priorities and operational discipline at incident time. Singapore EBD operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For pressure equipment specifically, specific [MOM](https://www.mom.gov.sg/) WSHA Pressure Vessel and Crane regulations provide foundational compliance framework. For specific BI extension treatment, see [Article 208](/procedural-howto/bi-claim-deep-dive).
+EBD claim handling combines specific equipment expertise, cause-determination discipline, and operational coordination. Understanding the process explains both procurement priorities and operational discipline at incident time. Singapore EBD operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For pressure equipment specifically, specific [MOM](https://www.mom.gov.sg/) WSHA Pressure Vessel and Crane regulations provide foundational compliance framework. For specific BI extension treatment, see [how lost gross profit is calculated](/procedural-howto/bi-claim-deep-dive).
 
 #### The pre-incident foundation
 
@@ -40,7 +40,7 @@ For EBD effectiveness:
 
 **Why this matters.**
 
-Per [Article 196](/comparison/property-all-risks-exclusions-deep-dive):
+Per [the breakdown and wear exclusions](/comparison/property-all-risks-exclusions-deep-dive):
 
 - EBD covers breakdown (covered)
 - Wear and tear / gradual deterioration (excluded)

@@ -93,7 +93,7 @@ Singapore real estate transactions can range from S$300k HDB resale to S$30M+ lu
 Vendors, purchasers, financiers, lawyers, valuers, agents - multiple parties with potentially conflicting interests. Conflict of interest is a significant exposure category.
 
 **3. Long-tail latency.**
-Errors in advice (zoning, defects disclosure, future development information) may not surface until years later. The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year contract/tort period applies - see [Article 75](/document-legal/limitation-act-6-year-clock).
+Errors in advice (zoning, defects disclosure, future development information) may not surface until years later. The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year contract/tort period applies - see [when the clock starts running](/document-legal/limitation-act-6-year-clock).
 
 **4. Significant client data sensitivity.**
 Identity documents (NRIC, passport), financial information (income, savings, loan eligibility), family situation, property assets - all highly sensitive PDPA categories.
@@ -138,7 +138,7 @@ Defence:
 
 #### Fidelity Guarantee considerations
 
-For agencies handling settlement funds or with significant cash flow, Fidelity Guarantee covers employee dishonesty. See [Article 48](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [Article 91](/crisis/employee-embezzlement-discovered).
+For agencies handling settlement funds or with significant cash flow, Fidelity Guarantee covers employee dishonesty. See [what a claim must prove](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [what to do when embezzlement is found](/crisis/employee-embezzlement-discovered).
 
 #### Stage-by-stage insurance build
 

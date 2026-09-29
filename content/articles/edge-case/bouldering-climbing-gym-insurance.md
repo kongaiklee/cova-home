@@ -74,9 +74,9 @@ So the waiver is not the protection - **operational discipline is**: assessing m
 
 A facility's workforce is a mix of front-desk and administration staff, operations and maintenance staff, and instructors or coaches.
 
-**Instructor classification** is the key WICA question - instructors are often engaged as contractors, and whether each is in substance an employee or a genuine contractor follows the operational reality, not the contract label (see [Article 67](/document-legal/wica-section-25-offence)). Misclassification creates exposure.
+**Instructor classification** is the key WICA question - instructors are often engaged as contractors, and whether each is in substance an employee or a genuine contractor follows the operational reality, not the contract label (see [the test MOM applies to contractors](/document-legal/wica-section-25-offence)). Misclassification creates exposure.
 
-The **high-frequency injuries** are distinctive: demonstration injuries, equipment-related injuries during setup and maintenance, injuries while assisting participants, and repetitive-strain and climbing-related injuries. A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [Article 22](/document-legal/wsha-section-48-director-liability)).
+The **high-frequency injuries** are distinctive: demonstration injuries, equipment-related injuries during setup and maintenance, injuries while assisting participants, and repetitive-strain and climbing-related injuries. A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [directors' personal liability under Section 48](/document-legal/wsha-section-48-director-liability)).
 
 #### Equipment and Property considerations
 
@@ -149,7 +149,7 @@ Insurers underwrite adventure sport facilities on:
 2. **No Participant Sport Liability.** The core activity exposure left uninsured.
 3. **Relying on waivers against negligence claims.** They have limited effect in Singapore.
 4. **Equipment cover gaps.** Custom walls and equipment under-covered.
-5. **WICA misclassification of contractor instructors.** See [Article 67](/document-legal/wica-section-25-offence).
+5. **WICA misclassification of contractor instructors.** See [the Section 25 penalties for uninsured staff](/document-legal/wica-section-25-offence).
 6. **Waivers and incident reports undocumented.** Weakens the defence to a claim.
 7. **No staff certification or competence standards.**
 8. **No alignment with industry standards.** An operational and reputational risk.

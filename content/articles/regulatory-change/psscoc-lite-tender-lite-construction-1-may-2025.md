@@ -160,7 +160,7 @@ The procurement timeline for a Tender Lite tender is typically 6-8 weeks from te
 
 ## Annual vs Project-Specific Approach for SME Contractors
 
-The PSSCOC-lite standardisation makes the annual-vs-project-specific decision (covered in detail in [article 398](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)) cleaner. The decision rests on:
+The PSSCOC-lite standardisation makes the annual-vs-project-specific decision (covered in detail in [the Contractors' All Risks comparison](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor)) cleaner. The decision rests on:
 
 **Annual Blanket CAR (with monthly or quarterly project declarations):**
 

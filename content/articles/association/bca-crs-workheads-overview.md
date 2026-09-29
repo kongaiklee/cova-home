@@ -186,13 +186,13 @@ CRS is one of several construction-related qualification regimes:
 - Required for general builders and specialist builders
 - Different scope from CRS (BLS is a statutory licence; CRS is procurement registration)
 - Many contractors hold both
-- See [Article 2](/licensing/bca-crs-bizsafe-level-3-insurance-proof) on BCA bizSAFE 3 / BLS context
+- See [where bizSAFE Level 3 fits in CRS registration](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 
 **[SCAL Singapore Contractors Association Limited](https://www.scal.com.sg/):**
 - Industry association
 - SLOTS (Safety, Labour, Operations, Training, Sustainability) certification
 - Voluntary but widely held
-- See [Article 1](/licensing/scal-slots-application-insurance-requirements) on SCAL SLOTS
+- See [what a SCAL SLOTS application requires](/licensing/scal-slots-application-insurance-requirements)
 
 **[CaseTrust Renovation](https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/):**
 - Consumer protection accreditation for renovation contractors

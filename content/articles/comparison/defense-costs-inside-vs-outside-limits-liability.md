@@ -75,7 +75,7 @@ The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the Insurance (G
 
 The [Insurance (Intermediaries) Regulations](https://sso.agc.gov.sg/SL/IA1966-RG16) and MAS conduct guidelines for financial advisers under the Financial Advisers Act 2001 (including the FAA-G04 series Guidelines on Standards of Conduct), which oblige the intermediary to disclose the material features of the policy at point of sale. The defense-costs treatment is a material feature; an SME relying on its broker to explain the cover should expect this to be addressed in the benefit illustration and the policy summary.
 
-The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) section 6 6-year contract limitation period frames the temporal boundary on a coverage dispute between the insured and the insurer about defense allocation (see [Article 256](/document-legal/limitation-act-1959-time-bar-insurance-claims) on Limitation Act mechanics).
+The [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) section 6 6-year contract limitation period frames the temporal boundary on a coverage dispute between the insured and the insurer about defense allocation (see [when time starts running on a claim](/document-legal/limitation-act-1959-time-bar-insurance-claims)).
 
 #### Claim-time worked example: D&O programme
 

@@ -25,7 +25,7 @@ og_description: "A sole-source supplier filing under Singapore's IRDA becomes yo
 
 ### The Sourced Detail
 
-A key supplier's insolvency event is structurally different from a customer's insolvency event. The customer scenario in [Article 291](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff) concerns receivables and the SME as an unsecured creditor. The supplier scenario concerns ongoing operations and the SME as a contractually entitled buyer relying on the supplier for continued performance. The IRDA section 440 ipso facto stay operates in favour of the SME in this scenario, preventing the supplier or its appointed insolvency practitioner from terminating the contract by reason only of the insolvency event.
+A key supplier's insolvency event is structurally different from a customer's insolvency event. The customer scenario in [the trade credit guide](/crisis/major-customer-bankruptcy-trade-credit-dso-cliff) concerns receivables and the SME as an unsecured creditor. The supplier scenario concerns ongoing operations and the SME as a contractually entitled buyer relying on the supplier for continued performance. The IRDA section 440 ipso facto stay operates in favour of the SME in this scenario, preventing the supplier or its appointed insolvency practitioner from terminating the contract by reason only of the insolvency event.
 
 #### What just happened
 

@@ -88,7 +88,7 @@ The two-part solution:
 
 ### Part A: File All Known Notices of Circumstance Before Cancellation
 
-Before cancelling any claims-made policy, scan the company's records for any circumstance that might give rise to a claim. The Notice of Circumstance workflow is detailed in [article 408](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore). At cessation, the scan should be exhaustive:
+Before cancelling any claims-made policy, scan the company's records for any circumstance that might give rise to a claim. The Notice of Circumstance workflow is detailed in [the step-by-step filing guide](/procedural-howto/how-to-file-notice-of-circumstance-claims-made-singapore). At cessation, the scan should be exhaustive:
 
 - Open customer complaints, disputes, or arbitrations.
 - Open employee grievances, harassment complaints, or termination disputes.

@@ -49,7 +49,7 @@ Before any claim arises, foundational HR infrastructure determines EPL claim out
 
 **Specific accommodation framework.**
 
-For disability and mental health (per [WFA framework](https://sso.agc.gov.sg/Act/WFA2025); see [Article 189](/document-legal/wfa-2024-protected-characteristics)):
+For disability and mental health (per [WFA framework](https://sso.agc.gov.sg/Act/WFA2025); see [the protected characteristics in detail](/document-legal/wfa-2024-protected-characteristics)):
 
 - Specific accommodation request process
 - Specific evaluation framework
@@ -164,7 +164,7 @@ Most EPL policies trigger on:
 
 **Notification process.**
 
-Similar to D&O notification (see [Article 200](/procedural-howto/do-claim-notification-process)):
+Similar to D&O notification (see [the steps from first notice to defence](/procedural-howto/do-claim-notification-process)):
 
 - SME notifies broker on first indication
 - Broker coordinates insurer notification
@@ -254,7 +254,7 @@ For substantial claims beyond ECT scope:
 
 #### Specific WFA implications
 
-Per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation) on WFA implementation:
+Per [the WFA rollout for SMEs](/regulatory-change/wfa-2024-phase-2-implementation):
 
 **On commencement (expected end-2027):**
 
@@ -270,7 +270,7 @@ Per [Article 171](/regulatory-change/wfa-2024-phase-2-implementation) on WFA imp
 
 #### Specific protected characteristic considerations
 
-For specific protected characteristics (per [Article 189](/document-legal/wfa-2024-protected-characteristics)):
+For specific protected characteristics (per [the statutory list and its exemptions](/document-legal/wfa-2024-protected-characteristics)):
 
 **Pregnancy / family responsibilities.**
 

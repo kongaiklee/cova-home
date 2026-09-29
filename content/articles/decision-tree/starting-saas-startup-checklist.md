@@ -59,7 +59,7 @@ Three structural features distinguish SaaS from typical SME exposures:
 
 **Growth stage (S$10M+ ARR, multi-jurisdiction):**
 - **Comprehensive multi-line programme**
-- **Cross-border considerations** - see [Article 86](/cross-border/sg-sme-malaysia-branch) family
+- **Cross-border considerations** - see [insuring a Malaysia branch](/cross-border/sg-sme-malaysia-branch) and the related guides
 - **R&W insurance** for any M&A activity
 - **Specialty extensions** as product complexity grows
 
@@ -86,7 +86,7 @@ For SaaS, Cyber is not optional - it's foundational. Standard SaaS Cyber covers:
 - Regulatory investigations (PDPC, sector regulators)
 - PCI fines and assessments
 
-For Singapore SaaS, the [PDPA Section 26D 3-day notification](https://sso.agc.gov.sg/Act/PDPA2012) regime drives the response timeline. See [Article 66](/document-legal/pdpa-section-26d-breach-notification).
+For Singapore SaaS, the [PDPA Section 26D 3-day notification](https://sso.agc.gov.sg/Act/PDPA2012) regime drives the response timeline. See [who must be told and what to send](/document-legal/pdpa-section-26d-breach-notification).
 
 **Technology Errors & Omissions (Tech E&O)**
 
@@ -106,7 +106,7 @@ The boundary between Cyber and Tech E&O is policy-specific. Some markets offer c
 - Growth stage: S$10M-S$50M+
 - Customer-driven: enterprise customers may require S$10M+ minimums in MSAs
 
-**Retroactive date matters.** Tech E&O is claims-made (see [Article 64](/comparison/claims-made-vs-occurrence)). The retroactive date should reflect when the company first started providing services - not just policy inception. Without proper retroactive cover, claims arising from acts before policy start are uninsured.
+**Retroactive date matters.** Tech E&O is claims-made (see [how that differs from occurrence cover](/comparison/claims-made-vs-occurrence)). The retroactive date should reflect when the company first started providing services - not just policy inception. Without proper retroactive cover, claims arising from acts before policy start are uninsured.
 
 #### The D&O question
 
@@ -127,7 +127,7 @@ D&O for SaaS should consider:
 - **Investigation cover** - regulatory action increasing in tech sector
 - **Subsidiary cover** - for international expansion
 
-See [Article 71](/comparison/do-vs-pi-vs-epl) on D&O/PI/EPL distinctions.
+See [how D&O, PI and EPL differ](/comparison/do-vs-pi-vs-epl).
 
 #### Employment Practices Liability
 
@@ -136,7 +136,7 @@ EPL becomes more important as the team scales:
 - 10-25 staff: increasingly common
 - 25+ staff: standard
 
-The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - passed January 2025 - introduces statutory protected characteristics for discrimination claims. EPL exposure for Singapore tech companies is increasing as a result. See [Article 18](/regulatory-change/wfa-2024).
+The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - passed January 2025 - introduces statutory protected characteristics for discrimination claims. EPL exposure for Singapore tech companies is increasing as a result. See [what the Act means for your insurance](/regulatory-change/wfa-2024).
 
 #### International and cross-border considerations
 
@@ -205,7 +205,7 @@ These are illustrative; obtain comparative quotes for actual exposure.
 3. **Retroactive date set at policy inception only.** Claims arising from pre-policy acts are uninsured.
 4. **No D&O when raising institutional capital.** Investor expectations not met; founders personally exposed.
 5. **Not extending Cyber/Tech E&O territorially for international customers.** US/EU customer claims may be uninsured.
-6. **Treating Cyber under business package as adequate.** PAR sub-limits are far below SaaS exposure. See [Article 72](/comparison/cyber-standalone-vs-par-sublimit).
+6. **Treating Cyber under business package as adequate.** PAR sub-limits are far below SaaS exposure. See [how standalone cover compares](/comparison/cyber-standalone-vs-par-sublimit).
 7. **No coordinated multi-line programme at scale.** Each policy bought separately at different times by different brokers; gaps emerge.
 8. **Underestimating downstream regulatory exposure.** A single B2B customer in healthcare or financial services can elevate the entire SaaS regulatory profile.
 

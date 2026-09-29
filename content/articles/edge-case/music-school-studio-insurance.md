@@ -43,7 +43,7 @@ Music education combines premises liability for minor students with high-value i
 
 **Public Liability** - covers premises and student injury claims. Considerations:
 
-- Standard SME PL limits inadequate for child-injury exposure (per [Article 323](/edge-case/indoor-playground-soft-play-insurance))
+- Standard SME PL limits inadequate for child-injury exposure (see [why paediatric claims carry lifetime damages](/edge-case/indoor-playground-soft-play-insurance))
 - Recommended SGD 5 million minimum for school-style operations
 - Practice-room slip / fall, instrument-related injury (string break, pinched finger, dropped instrument), heavy instrument handling injury
 
