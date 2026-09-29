@@ -112,7 +112,7 @@ Factors that affect Fire / PAR underwriting include: occupancy type (F&B and war
 - [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 - [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 - [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
-- [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
 - [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
 
 ---

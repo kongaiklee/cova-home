@@ -131,7 +131,7 @@ Your property policy is a separate question. Read the policy schedule and condit
 - [Commercial Property and Fire Insurance for Singapore SMEs: The Complete Guide](/document-legal/commercial-property-fire-complete-guide-singapore)
 - [How to Obtain Renovation CAR Insurance for HDB / MCST / Condo Fit-Out Works](/procedural-howto/renovation-car-insurance-hdb-mcst-condo-singapore)
 - [Tenant vs Landlord: Who Insures What Under a Commercial Lease in Singapore](/document-legal/tenant-landlord-insurance-responsibilities-commercial-lease-singapore)
-- [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
 - [How to Renew Commercial Fire Insurance in Singapore](/procedural-howto/renew-commercial-fire-insurance)
 
 *Published 3 May 2026. Source verified 11 September 2026.*

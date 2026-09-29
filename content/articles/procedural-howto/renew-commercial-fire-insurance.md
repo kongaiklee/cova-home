@@ -82,7 +82,7 @@ The biggest risk is silent underinsurance - paying premiums every year and disco
 ### Related Information
 - [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
 - [SCDF Fire Certificate (FC): Insurance Implications for Singapore Businesses](/licensing/scdf-fire-safety-certificate-insurance-implications)
-- [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
 - [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
 - [Fire Insurance vs Property All Risks (PAR): What's the Difference?](/comparison/fire-vs-par)
 

@@ -96,7 +96,7 @@ For SMEs in Retail, F&B, Manufacturing and Hospitality:
 5. How does my BI policy handle a forced shutdown for SCDF rectification work?
 
 ## Related Information
-- [SCDF Fire Certificate: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
 - [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025)
 - [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
 

@@ -1,5 +1,5 @@
 ---
-title: "SCDF Fire Certificate: 36-Month Validity From 1 April 2026"
+title: "SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026"
 slug: "/regulatory-change/scdf-fc-3-year-2026"
 category: "regulatory-change"
 intent: "know-where-you-stand"
@@ -9,13 +9,13 @@ agencies: ["SCDF", "Singapore Statutes", "GoBusiness"]
 article_number: 20
 published: "2026-05-03"
 source_verified: "2026-05-03"
-updated: "2026-08-30"
+updated: "2026-09-29"
 word_count: 991
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/scdf-fc-3-year-2026"
 meta_description: "New and renewed Singapore Fire Certificates run 36 months from 1 April 2026 instead of 12, with revised fees. What that changes for your file."
-og_title: "SCDF Fire Certificate: 36-Month Validity From 1 April 2026"
+og_title: "SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026"
 og_description: "New and renewed Singapore Fire Certificates run 36 months from 1 April 2026 instead of 12, with revised fees. What that changes for your file."
 ---
 

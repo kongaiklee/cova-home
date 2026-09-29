@@ -813,4 +813,10 @@
     <loc>https://www.covarage.com/regulatory-change/wsh-penalty-doubling-2024</loc>
     <lastmod>2026-08-26</lastmod>
   </url>
+  <!-- merge 1 (CMO route 2026-09-28, Kong "yes to all" 16:18): this guide was retired into
+       /guides/regulatory-change/scdf-fc-3-year-2026 on 2026-09-29; listed so Google refetches it and sees the 308 -->
+  <url>
+    <loc>https://covarage.com/guides/regulatory-change/scdf-fc-36-month-renewal-2026</loc>
+    <lastmod>2026-09-29</lastmod>
+  </url>
 </urlset>

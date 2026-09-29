@@ -200,7 +200,7 @@ The operational uplift - HACCP, traceability, allergen management, supplier audi
 ## Related Information
 
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
-- [SCDF Fire Certificate 36-Month Renewal Cycle from 1 April 2026: Operator Readiness](/regulatory-change/scdf-fc-36-month-renewal-2026)
+- [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)
 - [Property All Risks Exclusions Deep-Dive: The Provisions That Define Where Cover Ends](/comparison/property-all-risks-exclusions-deep-dive)
 - [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
 - [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
