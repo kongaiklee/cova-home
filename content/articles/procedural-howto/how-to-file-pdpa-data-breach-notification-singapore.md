@@ -22,7 +22,7 @@ og_description: "Filing a breach notification with PDPC: what the form asks, whe
 
 > **The Answer in 60 Seconds**
 >
-> When a Singapore organisation experiences a notifiable data breach, the [Personal Data Protection Act 2012 Section 26D](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=P16A-) requires notification to the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) within **3 calendar days** of assessing the breach is notifiable, and to affected individuals "as soon as practicable" thereafter unless an exception applies. A breach is notifiable if either: (a) it results in **significant harm** to affected individuals, OR (b) it affects **500 or more individuals** (regardless of harm). The procedure: (1) detect breach, (2) contain breach, (3) assess whether notifiable (typically within 30 days of discovery), (4) prepare and submit notification to PDPC via [PDPC online portal](https://www.pdpc.gov.sg/), (5) notify affected individuals (if required), (6) document remediation. Maximum penalty for organisations with annual Singapore turnover exceeding SGD 10 million: the higher of **SGD 1 million** or **10% of annual turnover in Singapore**. Recent enforcement benchmarks: Marina Bay Sands Pte Ltd fined SGD 315,000 in October 2025; Singapore Data Hub Pte Ltd fined SGD 17,500 in April 2025 (small SME case affecting 689,000 individuals). Section 26D is the procedural notification duty that operates alongside Section 24 substantive Protection Obligation.
+> When a Singapore organisation experiences a notifiable data breach, the [Personal Data Protection Act 2012 Section 26D](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=P16A-) requires notification to the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) within **3 calendar days** of assessing the breach is notifiable, and, where the breach is likely to cause significant harm, to affected individuals on or after notifying the PDPC (the PDPC's guidance says as soon as practicable) unless an exception applies. A breach is notifiable if either: (a) it results in **significant harm** to affected individuals, OR (b) it affects **500 or more individuals** (regardless of harm). The procedure: (1) detect breach, (2) contain breach, (3) assess whether notifiable (typically within 30 days of discovery), (4) prepare and submit notification to PDPC via [PDPC online portal](https://www.pdpc.gov.sg/), (5) notify affected individuals (if required), (6) document remediation. Maximum penalty for organisations with annual Singapore turnover exceeding SGD 10 million: the higher of **SGD 1 million** or **10% of annual turnover in Singapore**. Recent enforcement benchmarks: Marina Bay Sands Pte Ltd fined SGD 315,000 in October 2025; Singapore Data Hub Pte Ltd fined SGD 17,500 in April 2025 (a provider of point-of-sale and CRM software to SMEs; two incidents affecting 698,112 individuals). Section 26D is the procedural notification duty that operates alongside Section 24 substantive Protection Obligation.
 
 ### The Sourced Detail
 
@@ -34,7 +34,7 @@ The PDPA mandatory data breach notification regime took effect 1 February 2021 u
 
 **Regulations.** [Personal Data Protection (Notification of Data Breaches) Regulations 2021](https://sso.agc.gov.sg/SL/PDPA2012-S64-2021).
 
-**PDPC guidance.** [Guide to Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/other-guides/guide-to-managing-and-notifying-data-breaches.pdf) - operational guidance from PDPC on breach assessment, notification mechanics, remediation expectations.
+**PDPC guidance.** [Guide on Managing and Notifying Data Breaches Under the PDPA](https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/data-breach-management-guide) - operational guidance from PDPC on breach assessment, notification mechanics, remediation expectations.
 
 **Administering body.** [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) - under the Info-communications Media Development Authority (IMDA).
 
@@ -42,14 +42,13 @@ The PDPA mandatory data breach notification regime took effect 1 February 2021 u
 
 A data breach is **notifiable** if it satisfies either trigger:
 
-**Trigger A - Significant harm to affected individuals.** Per Section 26B, the breach results in (or is likely to result in) significant harm to one or more affected individuals. Categories of personal data presumed to result in significant harm include:
-- Full name + NRIC / FIN / passport number
+**Trigger A - Significant harm to affected individuals.** Per Section 26B, the breach results in (or is likely to result in) significant harm to one or more affected individuals. A breach is deemed to result in significant harm if it involves an individual's full name, alias or identification number together with data listed in the Schedule to the Notification Regulations, or an account identifier together with the password or other data used to access that account. Examples of the data concerned include:
 - Financial information (bank account number, credit card number, salary)
-- Health / medical information
-- Biometric data
-- Children's personal data
-- Information about disability, mental health, sexual orientation
-- Information about criminal records or proceedings
+- Specified health information, such as the diagnosis or treatment of HIV, sexually transmitted diseases, schizophrenia or substance abuse, and claims under life or accident and health policies
+- Biometric data, a password or other access data, together with the identifier of the account it unlocks
+- Information identifying a child or young person as the subject of specified investigations, arrests, care or custody, court orders or court proceedings
+- Information about suicide or attempted suicide, domestic, child or sexual abuse, adoption, and specified reproductive treatments
+- Information identifying a woman or girl alleged to be the victim of a specified sexual offence, including through details given in court proceedings
 
 **Trigger B - Significant scale.** Per Section 26B, the breach affects **500 or more individuals** ("significant scale"), regardless of harm assessment.
 
@@ -79,7 +78,7 @@ Immediate actions:
 
 **Step 3 - Assess whether notifiable.**
 
-Within 30 days of discovery, organisation must complete assessment:
+The PDPC's guidelines say organisations should generally complete the assessment within 30 calendar days, and be ready to explain to the PDPC if it takes longer:
 - What data was affected?
 - How many individuals affected?
 - What is the harm risk to affected individuals?
@@ -94,7 +93,7 @@ The 3-day clock starts from the date organisation **assesses** the breach as not
 
 **Step 4 - Notify PDPC within 3 days.**
 
-Required information per Notification Regulations Schedule:
+Required information (regulation 5 of the Notification Regulations, and the PDPC's online form) includes:
 - Organisation particulars
 - Nature of breach
 - Date and time of breach (occurrence and discovery)
@@ -103,19 +102,21 @@ Required information per Notification Regulations Schedule:
 - Cause of breach (if known)
 - Potential impact / harm
 - Remedial actions taken / planned
-- Contact information
+- Business contact information of at least one authorised representative
+- A chronological account of the steps taken after becoming aware of the breach, including the assessment that it is notifiable
+- Any plan to inform affected individuals or the public
 
-Submission via PDPC online portal or written submission.
+Submission is through the PDPC's [online notification form](https://eservice.pdpc.gov.sg/case/db).
 
 **Step 5 - Notify affected individuals.**
 
-Required "as soon as practicable" after PDPC notification, unless exception applies:
+Required where the breach is likely to cause significant harm to the individual, on or after notifying the PDPC (the PDPC's guidance: as soon as practicable, at the same time or after notifying it), unless an exception applies:
 
 **Exceptions to individual notification:**
-- Notification to individuals would compromise law enforcement investigation
-- Notification to individuals would prejudice security
-- Where remediation has eliminated likely harm
-- PDPC waives notification
+- A prescribed law enforcement agency instructs the organisation not to notify, or the PDPC directs it not to
+- Action taken after the assessment makes significant harm to the individual unlikely
+- A technological measure in place before the breach makes significant harm to the individual unlikely
+- The PDPC waives the requirement on the organisation's written application
 
 Notification content for individuals:
 - Description of breach
@@ -131,7 +132,7 @@ Post-notification:
 - Continue investigation
 - Implement preventive measures
 - Update PDPC if material new information emerges
-- Maintain records for 12 months minimum (PDPC may request)
+- Keep documentation of all steps taken in assessing the breach (the PDPC may ask for it)
 
 #### The 3-day clock interpretation
 
@@ -139,17 +140,17 @@ Post-notification:
 
 **Clock end:** Submission of notification to PDPC. Submission via portal time-stamps submission.
 
-**Calendar days:** Section 26D specifies 3 days; PDPC interprets as calendar days inclusive of weekends. Organisation reaches out to PDPC if 3-day deadline truly cannot be met (rare; typically results in shortened timeline rather than extension).
+**Calendar days:** Section 26D itself specifies 3 calendar days, so weekends count. If the notification is made after the 3 days, it must also give the reasons for the late notification with any supporting evidence (regulation 5(2)).
 
-**Late notification consequences:** Late notification triggers separate enforcement consideration. PDPC's enforcement decisions show late-notification scenarios face additional scrutiny.
+**Late notification consequences:** Any unreasonable delay in notifying is a breach of the notification obligation, and the PDPC's guidelines say the reasons given for a late notification go toward the gravity of the contravention and the penalties imposed, if any.
 
 #### Recent enforcement benchmarks
 
 **Marina Bay Sands Pte Ltd (October 2025).** Fine: **SGD 315,000**. Affected: 665,495 patrons. Breach involved unauthorised access to Loyalty Programme database. Penalty primarily under Section 24 (Protection Obligation) but procedural compliance noted.
 
-**Singapore Data Hub Pte Ltd (April 2025).** Fine: **SGD 17,500**. Affected: approximately 689,000 individuals. SME case demonstrating PDPC enforcement applies across organisation sizes.
+**Singapore Data Hub Pte Ltd (April 2025).** Fine: **SGD 17,500**. Affected: 698,112 individuals across two incidents. The organisation provides point-of-sale and CRM software to SMEs, and the PDPC considered its turnover in setting the penalty.
 
-**Trend.** PDPC enforcement decisions ([all decisions catalogue](https://www.pdpc.gov.sg/all-commissions-decisions)) show: (i) Section 24 (substantive security failure) drives fine quantum; (ii) Section 26D procedural compliance affects fine multiplier; (iii) cooperation with PDPC during investigation reduces fines materially.
+**Trend.** PDPC enforcement decisions ([all decisions catalogue](https://www.pdpc.gov.sg/all-commissions-decisions)) show: (i) Section 24 (substantive security failure) drives fine quantum; (ii) the PDPC weighs the factors in section 48J(6), such as action taken to mitigate the breach and its timeliness, and in the Marina Bay Sands decision gave some additional mitigating weight to voluntary notification of affected individuals; (iii) cooperation with the PDPC during the investigation is among the factors decisions cite.
 
 #### Insurance considerations
 
@@ -185,7 +186,7 @@ Cyber insurance and PDPA breach response intersect:
 
 5. **Missing required notification elements.** Schedule items omitted; PDPC requests resubmission.
 
-6. **No individual notification or inadequate notification.** Section 26D requires individual notification "as soon as practicable" unless exception; organisation delays unreasonably.
+6. **No individual notification or inadequate notification.** Where the breach is likely to cause significant harm, section 26D requires individual notification on or after notifying the PDPC unless an exception applies, and the PDPC's guidance is to notify as soon as practicable; organisation delays unreasonably.
 
 7. **Premature individual notification.** Notification to affected individuals before PDPC notification (contrary to PDPC expected sequence).
 
@@ -219,7 +220,7 @@ For Singapore SMEs handling personal data:
 
 10. **Post-notification: ongoing remediation discipline** and PDPC update protocol.
 
-The cost of breach response is substantial - typical SME breach costs (forensic, legal, notification, remediation) run SGD 50,000-500,000 before any regulatory fine. Cyber insurance with appropriate breach response provisions reduces both the financial impact and the procedural execution risk.
+Breach response (forensic, legal, notification, remediation) has costs of its own before any regulatory fine. Cyber insurance with appropriate breach response provisions reduces both the financial impact and the procedural execution risk.
 
 ### Questions to Ask Your Adviser
 
@@ -232,6 +233,6 @@ The cost of breach response is substantial - typical SME breach costs (forensic,
 ### Related Information
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [The First 72 Hours After a Cyber Incident: A Singapore SME Playbook](/crisis/cyber-incident-first-72-hours-singapore-sme-playbook)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

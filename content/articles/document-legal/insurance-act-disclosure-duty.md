@@ -29,13 +29,13 @@ The duty of disclosure is the most consequential principle in Singapore insuranc
 
 #### The doctrinal source
 
-The duty of utmost good faith originates in the leading 18th-century English case *Carter v Boehm* (1766) 3 Burr 1905, where Lord Mansfield held that insurance is a contract of "the most perfect good faith" because the insurer relies entirely on the insured's representations. The principle was codified for marine insurance in the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) section 17:
+The duty of utmost good faith originates in the leading 18th-century English case *Carter v Boehm* (1766) 3 Burr 1905, where Lord Mansfield held that "the under-writer trusts to his representation" and that "Good faith forbids either party by concealing what he privately knows, to draw the other into a bargain, from his ignorance of that fact, and his believing the contrary." The principle was codified for marine insurance in the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) section 17:
 
 > "A contract of marine insurance is a contract based upon the utmost good faith, and, if the utmost good faith is not observed by either party, the contract may be avoided by the other party."
 
 Section 18 expands on the disclosure duty:
 
-> "Subject to the provisions of this section, the assured must disclose to the insurer, before the contract is concluded, every material circumstance which is known to the assured, and the assured is deemed to know every circumstance which, in the ordinary course of business, ought to be known by him. If the assured fails to make such disclosure, the insurer may avoid the contract."
+> "Subject to this section, the assured must disclose to the insurer, before the contract is concluded, every material circumstance which is known to the assured, and the assured is deemed to know every circumstance which, in the ordinary course of business, ought to be known by him; and if the assured fails to make such disclosure, the insurer may avoid the contract."
 
 While the Marine Insurance Act applies specifically to marine insurance, Singapore courts and the [International Comparative Legal Guides Singapore Insurance & Reinsurance chapter](https://iclg.com/practice-areas/insurance-and-reinsurance-laws-and-regulations/singapore) confirm that the same duty applies at common law to all insurance contracts in Singapore - life, general, health, liability, property.
 
@@ -61,7 +61,7 @@ What is typically held material:
 
 What is typically held *not* material:
 - Common public-domain facts
-- Facts the insurer asks about and accepts an answer (waiver)
+- Facts about which the insurer has waived information (waiver)
 - Facts that diminish the risk
 - Facts the insurer should know in the ordinary course of underwriting
 
@@ -89,7 +89,7 @@ Under Singapore law, the insurer's remedy for material non-disclosure or misrepr
 - The policy is treated as if it never existed
 - Cover is removed for the entire policy period, not just from the date of breach
 - Claims pending or already paid may be reversed and recovered
-- Premium is typically returned (less administrative costs, sometimes adjusted)
+- Premium is returnable, unless there was fraud or illegality on the insured's part
 
 This is a binary remedy. The insurer cannot, under default Singapore law, "partially avoid" - applying a higher premium retroactively or imposing a new exclusion. It is full avoidance or no avoidance.
 
@@ -98,9 +98,9 @@ This is a binary remedy. The insurer cannot, under default Singapore law, "parti
 The UK [Insurance Act 2015](https://www.legislation.gov.uk/ukpga/2015/4) reformed disclosure law for UK contracts:
 - Non-consumer insureds must make a "fair presentation of the risk"
 - Remedies are now proportionate - the outcome depends on whether the breach was deliberate, reckless, or inadvertent
-- Inadvertent breaches may result in proportionate premium adjustment or claim reduction, not always full avoidance
+- For a breach that is neither deliberate nor reckless, the insurer may avoid the contract only if it would not have entered into it on any terms (and must then return the premiums); otherwise, if the insurer so requires, the contract is treated as made on the other terms it would have required, and a claim may be reduced proportionately if it would have charged a higher premium
 
-Singapore has **not** adopted this reform. The [Singapore Academy of Law's Insurance Law Reform Sub-committee](https://www.sal.org.sg/) has published [a 2020 report on reforming insurance law in Singapore](https://www.sal.org.sg/Resources-Tools/Law-Reform-Library) recommending changes, but pending statutory change, the common-law avoidance remedy continues to apply. Singapore remains relatively pro-insurer on disclosure compared to the UK and Australia.
+Singapore has **not** adopted this reform. The [Singapore Academy of Law's Insurance Law Reform Sub-committee](https://www.sal.org.sg/) has published [a 2020 report on reforming insurance law in Singapore](https://sal.org.sg/wp-content/uploads/2025/02/2020-Report-on-Reforming-Insurance-Law-in-Singapore_0.pdf) recommending changes, but pending statutory change, the common-law avoidance remedy continues to apply. Singapore remains relatively pro-insurer on disclosure compared to the UK and Australia.
 
 #### Basis clauses - converting disclosure into warranty
 
@@ -129,15 +129,15 @@ The "fact-find at inception, calendar-the-changes, refresh at renewal" disciplin
 #### Key cases for Singapore practitioners
 
 - ***Pan Atlantic Insurance Co Ltd v Pine Top Insurance Co Ltd* [1995] 1 AC 501** - establishing the two-limb materiality test
-- ***Lambert v Cooperative Insurance Society* [1975] 2 Lloyd's Rep 485** - duty extends to facts the insured ought to know
+- ***Lambert v Co-operative Insurance Society* [1975] 2 Lloyd's Rep 485**: in non-marine insurance, materiality is judged by what would influence a prudent insurer, not by what a reasonable insured would believe to be material
 - Singapore-specific decisions further developing the doctrine - verify directly on [eLitigation](https://www.elitigation.sg/) for current authority
 
 ### Common Mistakes / What Goes Wrong
 
 1. **Treating proposal form questions as a literal interview rather than the foundation document.** The form is the contract.
-2. **Letting brokers fill it in without thorough review.** Per FIDReC guidance, "you cannot later claim that you have made a mistake, or that the mistake was due to someone other than you filling up the proposal."
+2. **Letting brokers fill it in without thorough review.** Per [FIDReC's Case Study #6](https://www.fidrec.com.sg/knowledgebase/article/KA-01182/en-us), "At the end of the day, the policy applicant is the one responsible for the answers in the insurance proposal form."
 3. **Not disclosing under "Other material information."** This is where the duty of utmost good faith catches questions the insurer didn't think to ask.
-4. **Failing to update at renewal.** Disclosure is a continuous duty; "same as last year" is not a defence if the year has changed materially.
+4. **Failing to update at renewal.** The duty of disclosure applies again before each renewal is concluded; "same as last year" is not a defence if the year has changed materially.
 5. **Forgetting prior insurer history.** Prior claims, declined applications, cancelled policies - all material, all should be disclosed.
 6. **Misclassifying business activities.** The proposal form's "Business Description" must capture all material activities; omissions are non-disclosure.
 7. **Verbal disclosure to the broker.** Verbal disclosure may not bind the insurer; ensure material facts are in writing on the form or annexure.
@@ -152,7 +152,7 @@ For Singapore SMEs, the proposal form discipline:
 
 3. **Re-baseline annually.** At renewal, the proposal is a fresh exercise, not last year's PDF with a date change.
 
-4. **Disclose under "Other" generously.** Anything that might be material - pending dispute, planned expansion, regulatory inquiry, near-miss incident - disclose. The cost of disclosing is zero; the cost of not disclosing is the entire policy.
+4. **Disclose under "Other" generously.** Anything that might be material - pending dispute, planned expansion, regulatory inquiry, near-miss incident - disclose. Disclosing may change the premium or terms; not disclosing a material fact can cost the whole policy.
 
 5. **Keep all proposal forms and correspondence for at least the policy period plus 7 years.** They are the foundation document if a claim is ever contested.
 

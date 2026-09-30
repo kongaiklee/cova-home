@@ -39,11 +39,11 @@ D&O cover is procured by Singapore SMEs to protect (a) individual directors and 
 
 #### Verbatim wording extracts
 
-**AIG Singapore Dragonshield Management Liability suite** product page summarises the Side A / Side B / Side C architecture and references "BIPD Exclusion: provides carve-backs for Non-Indemnifiable Loss, Insured Persons Defence Costs and Securities Claims" and "Transferrable limits from the POSI form to the D&O policy over a period of 3 years". The drafter and procurement team should obtain the Singapore-issued Dragonshield wording and reproduce Insuring Clauses 1 (Non-Indemnifiable Loss / Side A), 2 (Indemnifiable Loss / Side B), and 3 (Entity Securities / Side C) verbatim, plus the POSI extension architecture.
+**AIG Singapore Dragonshield Management Liability suite** product page summarises the Side A / Side B / Side C architecture and references "BIPD Exclusion: provides carve-backs for Non-Indemnifiable Loss, Insured Persons Defence Costs and Securities Claims" and "Transferrable limits from the POSI form to the D&O policy over a period of 3 years".
 
-**Chubb Singapore ForeFront Portfolio / Elite VI D&O** confirms a Singapore-issued D&O wording with capacity up to USD 50m per policy, with Side A / Side B / Side C architecture and over 30 standard extensions. Chubb's published primary D&O literature confirms its position on eliminating the traditional presumptive indemnification clause: "Revolutionary Approach to Presumptive Indemnification - The Chubb Primary D&O and Entity Securities Liability Insurance eliminated the traditional 'presumptive indemnification' clause, removing the potential for Insured Persons to be held accountable for significant retention amounts. In effect, only organizations can incur retentions, not individuals." The drafter should obtain the Singapore-issued ForeFront Portfolio or Elite VI wording (issued to insureds at placement) and reproduce verbatim the Insuring Clauses and the absence of the Presumptive Indemnification clause.
+**Chubb Singapore ForeFront Portfolio / Elite VI D&O** confirms a Singapore-issued D&O wording with capacity up to USD 50m per policy, with Side A / Side B / Side C architecture and over 30 standard extensions. Chubb's published primary D&O literature confirms its position on eliminating the traditional presumptive indemnification clause: "Revolutionary Approach to Presumptive Indemnification - The Chubb Primary D&O and Entity Securities Liability Insurance eliminated the traditional 'presumptive indemnification' clause, removing the potential for Insured Persons to be held accountable for significant retention amounts. In effect, only organizations can incur retentions, not individuals."
 
-**MSIG Singapore Executive & Management Liability (SUMO Management Liability section)** and **MSIG Singapore Directors & Officers Liability** product pages confirm Side A (cover for individual directors and officers), Side B (cover for damages and defence costs reimbursed by the company), and entity cover. The drafter should obtain the SUMO Management Liability wording and reproduce the Insuring Clauses verbatim. MSIG's D&O product page also confirms coverage for defence costs and investigation costs for claims arising from a pollution event, and post-retirement run-off cover.
+**MSIG Singapore Executive & Management Liability (SUMO Management Liability section)** and **MSIG Singapore Directors & Officers Liability** product pages confirm Side A (cover for individual directors and officers), Side B (cover for damages and defence costs reimbursed by the company), and entity cover. MSIG's D&O product page also confirms coverage for defence costs and investigation costs for claims arising from a pollution event, and post-retirement run-off cover.
 
 **QBE Singapore Management Liability, Beazley Singapore D&O, Markel Singapore D&O** are typically issued through brokers; specimen wordings should be requested for placement and footnoted accordingly.
 
@@ -57,7 +57,7 @@ Sections 172, 172A, and 172B of the Companies Act 1967 control when a Singapore 
 
 **Section 172B** permits the company to indemnify an officer or auditor against liability incurred to a person other than the company (third-party civil claims). The carve-out is subject to specific exclusions: the indemnity must not cover (i) a fine in criminal proceedings; (ii) a regulatory penalty for non-compliance with a regulatory requirement; (iii) defence costs in criminal proceedings where the officer is convicted; (iv) defence costs in civil proceedings brought by the company or a related company where judgment is given against the officer; or (v) costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
 
-For accurate citation, drafters should fetch the current SSO version of sections 172, 172A, and 172B at the publication date and reproduce the exact text. The Companies Act 1967 has been amended over time and the current numbering and text govern. Section 172B runs directly to Section 173 in the current Act - there is no Section 172C.
+The Companies Act 1967 has been amended over time and the current numbering and text govern. Section 172B runs directly to Section 173 in the current Act - there is no Section 172C.
 
 The interaction with D&O cover:
 
@@ -65,7 +65,7 @@ The interaction with D&O cover:
 - **Section 172A** expressly authorises the company to pay D&O premiums. Without this provision, the premium payment might itself fall within the section 172 prohibition.
 - **Section 172B** carves out the cases where third-party indemnification is permitted. This is where Side B responds (the company indemnifies under the section 172B carve-out, and the insurer reimburses the company).
 
-**Section 76A** of the Companies Act 1967 (financial assistance) interacts with D&O premium payment in group structures where a parent or holding company funds D&O premiums on behalf of subsidiaries. Section 76A limits financial assistance for the acquisition of the company's own shares, with exceptions in section 76A(13) to (15) for acts not materially prejudicial to the interests of the company. Drafters reviewing group D&O arrangements should test the section 76A position.
+**Section 76A** of the Companies Act 1967 (financial assistance) interacts with D&O premium payment in group structures where a parent or holding company funds D&O premiums on behalf of subsidiaries. Section 76A limits financial assistance for the acquisition of the company's own shares, with exceptions in section 76A(13) to (15) for acts not materially prejudicial to the interests of the company.
 
 #### SGX Listing Rules framework (Side C drivers)
 
@@ -115,7 +115,7 @@ A Singapore Pre-IPO technology SME with a 4-person board buys a S$5m D&O program
 
 #### Singapore court treatment
 
-[elitigation.sg](https://www.elitigation.sg) should be searched for D&O coverage disputes, derivative action coverage decisions, and section 172 indemnification authorities. The Singapore Court of Appeal and High Court have addressed the scope of section 172 in director-liability cases; drafters should identify and cite any reported decisions verbatim. [FIDReC](https://www.fidrec.com.sg) summaries are not on-point because D&O claims exceed FIDReC's monetary jurisdiction.
+The Singapore Court of Appeal and High Court have addressed the scope of section 172 in director-liability cases. [FIDReC](https://www.fidrec.com.sg) summaries are not on-point because D&O claims exceed FIDReC's monetary jurisdiction.
 
 ### Common Mistakes / What Goes Wrong
 

@@ -21,39 +21,39 @@ og_description: "GST reached 9% in Singapore on 1 January 2024. How it applies t
 
 > **The Answer in 60 Seconds**
 >
-> Singapore's GST rate increased to **8% from 1 January 2023** and then to **9% from 1 January 2024**, completing the two-step rate increase announced in Budget 2022. The treatment of insurance premiums under [the Goods and Services Tax Act 1993](https://sso.agc.gov.sg/Act/GSTA1993) and its [Regulations (GSTA1993-RG1)](https://sso.agc.gov.sg/SL/GSTA1993-RG1) is more nuanced than the general rate increase suggests: **life insurance** is generally exempt; **general insurance** premiums for Singapore-resident insureds are generally subject to GST at the standard rate; **general insurance** premiums for international policyholders may be zero-rated; **insurance brokerage and intermediary fees** are subject to GST at the standard rate (now 9%). The practical impact on an SME's insurance cost base is that the GST component on commercial general insurance premiums and brokerage fees has stepped up across the two-year period. This article sets out the treatment by cover type, the documentation required for input-tax recovery (for GST-registered SMEs), and the [IRAS guidance](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/insurance) on insurance-sector GST.
+> Singapore's GST rate increased to **8% from 1 January 2023** and then to **9% from 1 January 2024**, completing the two-step rate increase announced in Budget 2022. The treatment of insurance premiums under [the Goods and Services Tax Act 1993](https://sso.agc.gov.sg/Act/GSTA1993) and its [Regulations (GSTA1993-RG1)](https://sso.agc.gov.sg/SL/GSTA1993-RG1) is more nuanced than the general rate increase suggests: **life insurance** is generally exempt; **general insurance** premiums for Singapore-resident insureds are generally subject to GST at the standard rate; **general insurance** premiums for international policyholders may be zero-rated; **insurance brokerage and intermediary fees** charged by a GST-registered intermediary to a customer belonging in Singapore are generally subject to GST at the standard rate (now 9%). The practical impact on an SME's insurance cost base is that the GST component on commercial general insurance premiums and brokerage fees has stepped up across the two-year period. This article sets out the treatment by cover type, the documentation required for input-tax recovery (for GST-registered SMEs), and the [IRAS e-Tax Guide GST: Guide for the Insurance Industry](https://www.iras.gov.sg/media/docs/default-source/e-tax/etaxguide_gst_guide-for-the-insurance-industry-(fifth-edition)c87f527e-f5a9-4215-9c3b-088e68261654.pdf).
 
 ### The Sourced Detail
 
-The GST rate increases from 7% (pre-2023) through 8% (2023) to 9% (2024-onwards) were announced in Budget 2022 and operationalised through [GST Act](https://sso.agc.gov.sg/Act/GSTA1993) amendments. The two-step structure was designed to spread the consumption-tax impact.
+The GST rate increases from 7% (pre-2023) through 8% (2023) to 9% (2024-onwards) were announced in Budget 2022 and operationalised through [GST Act](https://sso.agc.gov.sg/Act/GSTA1993) amendments. The Finance Minister said he delayed the increase to 2023 and staggered it over two steps given concerns about it taking place at the same time as rising prices.
 
-For insurance specifically, the GST treatment is sector-specific. The [IRAS GST guidance for the insurance sector](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/specific-business-sectors/insurance) sets out the framework.
+For insurance specifically, the GST treatment is sector-specific. The [IRAS e-Tax Guide GST: Guide for the Insurance Industry](https://www.iras.gov.sg/media/docs/default-source/e-tax/etaxguide_gst_guide-for-the-insurance-industry-(fifth-edition)c87f527e-f5a9-4215-9c3b-088e68261654.pdf) sets out the framework.
 
 #### Treatment by cover type
 
 **Life insurance.** Generally exempt under the GST framework. Life insurance premiums (and certain related life-product premiums) do not attract GST.
 
-**General insurance for Singapore-resident insureds.** Generally subject to GST at the standard rate (9% from 1 January 2024). The category includes fire, property, motor, public liability, professional indemnity, cyber, D&O, marine cargo (for Singapore-resident shippers), and similar.
+**General insurance for Singapore-resident insureds.** Generally subject to GST at the standard rate (9% from 1 January 2024). The category includes fire, property, motor, public liability, professional indemnity, cyber, D&O and similar. Marine cargo cover for goods carried on an international voyage qualifies for zero-rating under section 21(3)(c) of the GST Act, even where the policyholder belongs in Singapore.
 
-**General insurance for international policyholders.** May be zero-rated where the policyholder is GST-registered overseas and the insured risk is overseas-based. The exact treatment depends on the specifics of the policy and the insured risk.
+**General insurance for international policyholders.** May be zero-rated where the policyholder belongs outside Singapore and the cover is not directly in connection with land or goods in Singapore, among other conditions in section 21(3) of the GST Act. The exact treatment depends on the specifics of the policy and the insured risk.
 
-**Reinsurance premiums.** Generally outside the GST perimeter for the policyholder; the treatment turns on whether the reinsurance is between Singapore-registered entities or cross-border.
+**Reinsurance premiums.** Reinsurance is placed by insurers (cedants), not by the policyholder. IRAS treats reinsurance placed locally as exempt, and says reinsurance premiums received from cedants belonging outside Singapore can be zero-rated.
 
 **Health insurance / medical insurance.** General-insurance treatment typically applies; certain health-insurance products may have specific treatment under the GST framework.
 
 #### The brokerage and intermediary fee question
 
-Brokerage and intermediary fees - the amounts paid to licensed advisers, brokers, and other intermediaries for placing or servicing insurance - are subject to GST at the standard rate (9% from 1 January 2024). This applies regardless of whether the underlying insurance premium is itself subject to GST.
+Brokerage and intermediary fees, the amounts paid to licensed advisers, brokers and other intermediaries for placing or servicing insurance, are generally subject to GST at the standard rate (9% from 1 January 2024) when a GST-registered intermediary charges them to a customer belonging in Singapore. This applies to brokerage on life policies even though the life premium itself is exempt. Fees for arranging marine or aviation cargo and hull cover for international transport can be zero-rated, as can fees charged to a customer belonging outside Singapore.
 
 For Singapore SMEs paying licensed adviser / broker fees, the GST element is an additional cost; for GST-registered SMEs, the GST is recoverable as input tax subject to the standard conditions.
 
 #### Input tax recovery for GST-registered SMEs
 
-A Singapore SME that is GST-registered (annual turnover above S$1 million, or voluntarily registered) may recover input tax on GST paid on its business-purpose expenses, including commercial-insurance premiums and brokerage fees, subject to:
+A Singapore SME that is GST-registered (taxable turnover above S$1 million in a calendar year or expected to exceed S$1 million in the next 12 months, or voluntarily registered) may recover input tax on GST paid on its business-purpose expenses, including commercial-insurance premiums and brokerage fees, subject to:
 
 - **Possession of a valid tax invoice** from the insurer / intermediary.
 - **Business-purpose attribution** - the input tax must relate to the SME's taxable supplies.
-- **Input-tax restriction** - certain types of insurance (medical insurance for non-employees, family benefits) may be subject to input-tax restrictions.
+- **Input-tax restriction**: Regulation 26 of the GST (General) Regulations bars input tax on medical and accident insurance premiums, such as staff medical and personal accident cover (unless the insurance is obligatory under the Work Injury Compensation Act or a collective agreement), and on benefits for staff's family members.
 
 The input-tax recovery effectively neutralises the GST cost for GST-registered SMEs with full taxable supplies; for non-GST-registered SMEs (below the threshold), the GST is a sunk cost.
 
@@ -80,7 +80,7 @@ Each renewal cycle, the insurer / intermediary should issue a tax invoice that i
 - The GST amount.
 - The total amount.
 
-A valid tax invoice is required for input-tax recovery; the [IRAS tax invoice requirements](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/when-to-charge-goods-and-services-tax-(gst)/tax-invoice) set out the specifics.
+A valid tax invoice is required for input-tax recovery; the [IRAS tax invoice requirements](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/invoicing-price-display-and-record-keeping/invoicing-customers) set out the specifics.
 
 The tax invoice belongs in the relevant policy-year folder under [the seven-folder document structure](/procedural-howto/corporate-insurance-folder-structure-singapore-sme).
 
@@ -92,7 +92,7 @@ For Singapore SMEs with overseas operations or overseas-based affiliates, the GS
 
 The change at 1 January 2024 was the rate step from 8% to 9% - the second of the two announced steps. The structural treatment of insurance (exempt, standard-rated, zero-rated) did not change; only the standard rate applied.
 
-For renewals straddling the rate change, the standard transitional-rules timing applies - the rate applicable is generally the rate at the time of supply, which for insurance is typically the policy inception date.
+For renewals straddling the rate change, the standard transitional-rules timing applies - the rate applicable is generally the rate at the time of supply, which for a premium paid in one sum is the earlier of the invoice date and the date payment is received (for instalments, each instalment's due date or payment date, whichever is earlier). Where the invoice date, the payment date and the period of cover do not all fall on the same side of the rate change, the transitional rules in section 39 of the GST Act may affect the rate charged.
 
 #### Beyond the GST rate
 
@@ -110,7 +110,7 @@ The Singapore tax framework continues to evolve. SMEs should track:
 
 3. **No valid tax invoice obtained** from the insurer / intermediary.
 
-4. **Brokerage fees treated as exempt.** They are standard-rated.
+4. **Brokerage fees treated as exempt.** They are generally standard-rated.
 
 5. **Life insurance treated as standard-rated.** It is generally exempt.
 
@@ -145,7 +145,7 @@ The Singapore tax framework continues to evolve. SMEs should track:
 ### Questions to Ask Your Adviser
 
 1. For each of our insurance covers, what is the GST treatment under the current IRAS guidance?
-2. Are the tax invoices you issue compliant with the [IRAS requirements](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/charging-gst-(output-tax)/when-to-charge-goods-and-services-tax-(gst)/tax-invoice) for input-tax recovery?
+2. Are the tax invoices you issue compliant with the [IRAS requirements](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/basics-of-gst/invoicing-price-display-and-record-keeping/invoicing-customers) for input-tax recovery?
 3. For our brokerage fees, how is GST disclosed on your invoice?
 4. For any cross-border policy, what is the GST position?
 5. For renewals straddling a rate change, how do you allocate the GST?

@@ -14,9 +14,9 @@ word_count: 1014
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/group-medical-outpatient-claim"
-meta_description: "Outpatient cover for pass holders is governed by MOM's own requirements. What is mandated, what is voluntary, and how the claim runs."
+meta_description: "MOM requires inpatient and day surgery cover for S Pass and Work Permit holders, and a Primary Care Plan for some. How a group outpatient claim runs."
 og_title: "How to File Group Medical Claim Outpatient Singapore"
-og_description: "Outpatient cover for pass holders is governed by MOM's own requirements. What is mandated, what is voluntary, and how the claim runs."
+og_description: "MOM requires inpatient and day surgery cover for S Pass and Work Permit holders, and a Primary Care Plan for some. How a group outpatient claim runs."
 ---
 
 > **The Answer in 60 Seconds**  
@@ -69,7 +69,7 @@ For most outpatient reimbursement claims, the useful minimum set is:
 - Referral letter if a specialist claim depends on referral.  
 - Completed claim form or app submission details.
 
-A very common failure point is the receipt. If it is not itemised, the claims administrator may not be able to tell whether the bill relates to consultation, medicine, procedure, screening, or something else.
+The receipt matters. At least one group insurer's outpatient claim procedure asks for original bills and a detailed breakdown of each bill. If the receipt is not itemised, the claims administrator may not be able to tell whether the bill relates to consultation, medicine, procedure, screening, or something else.
 
 #### Step 4 - Submit through the correct channel
 
@@ -85,11 +85,11 @@ The correct route depends on the employer’s arrangement. In many SMEs, the ins
 
 This distinction is especially important when your workforce includes S Pass or Work Permit holders. MOM’s official pages require inpatient care and day surgery coverage with at least S$60,000 annual cover for those pass holders. That does not automatically mean every clinic visit is claimable as an outpatient benefit.
 
-So the correct internal question is not “Does this worker have medical insurance?” It is “Which medical benefit responds to this bill?” A worker can have valid MOM-required MI and still have no employer-funded outpatient reimbursement outside the specific group plan.
+So the correct internal question is not “Does this worker have medical insurance?” It is “Which medical benefit responds to this bill?” A worker can have valid MOM-required MI and still have no outpatient benefit under the group plan. For S Pass and Work Permit holders, the work pass conditions separately make the employer responsible for the cost of the worker's medical treatment, apart from limited co-payments, and a Primary Care Plan is required for those who stay in a dormitory that can house 7 or more workers or work in the construction, marine shipyard or process sectors.
 
-#### Step 6 - Watch the main reasons outpatient claims fail
+#### Step 6 - Watch the reasons outpatient claims can fail
 
-The most common issues are:
+Reasons an outpatient claim can fail include:
 
 - Out-of-panel visit without valid basis under the plan.  
 - Missing itemised receipt.  
@@ -110,9 +110,9 @@ These are usually administrative issues rather than evidence that the employee w
 
 ### What This Means for Your Business
 
-Companies typically need a cleaner internal map of employee medical benefits. In many SMEs, staff do not know whether their benefits are hospital-only, outpatient-only, panel-based, reimbursement-based, or a mix. That confusion creates avoidable claim friction and bad employee experience.
+Companies typically need a cleaner internal map of employee medical benefits. Staff may not know whether their benefits are hospital-only, outpatient-only, panel-based, reimbursement-based, or a mix. That confusion creates avoidable claim friction and bad employee experience.
 
-A short internal guide can fix most of this: which clinics are panel, when referral is needed, which documents are mandatory, and where MOM-mandated cover ends and optional outpatient benefits begin. If your business has a mixed workforce with locals, S Pass holders, and Work Permit holders, that separation becomes even more important.
+A short internal guide can fix most of this: which clinics are panel, when referral is needed, which documents are mandatory, and where MOM-mandated cover ends and optional outpatient benefits begin. For S Pass and Work Permit holders, MOM-mandated cover includes a Primary Care Plan for those who stay in a dormitory that can house 7 or more workers or work in the construction, marine shipyard or process sectors, and the employer bears the cost of their medical treatment apart from limited co-payments. If your business has a mixed workforce with locals, S Pass holders, and Work Permit holders, that separation becomes even more important.
 
 ### Questions to Ask Your Adviser
 

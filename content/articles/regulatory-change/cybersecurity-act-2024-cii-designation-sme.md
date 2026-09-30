@@ -93,13 +93,13 @@ The primary-source URLs:
 
 [Cybersecurity (Amendment) Act 2024 (Act 19 of 2024) on SSO](https://sso.agc.gov.sg/Acts-Supp/19-2024/Published/20240704).
 
-[Cybersecurity (Amendment) Act 2024 (Commencement) Notification 2025 on SSO](https://sso.agc.gov.sg) - drafter to retrieve at the time of advice.
+[Cybersecurity (Amendment) Act 2024 (Commencement) Notification 2025 on SSO](https://sso.agc.gov.sg).
 
 [CSA legislation page](https://www.csa.gov.sg/legislation/cybersecurity-act/).
 
 [CSA Codes of Practice page](https://www.csa.gov.sg/legislation/codes-of-practice).
 
-Drafters and SMEs should extract verbatim:
+The provisions that matter here:
 
 **Section 7, CA 2018** (as amended) - designation of computer or computer system as CII, including the amended scope covering virtual systems and offshore systems owned by a person in Singapore.
 

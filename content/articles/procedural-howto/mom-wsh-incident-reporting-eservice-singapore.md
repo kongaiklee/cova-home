@@ -21,11 +21,9 @@ og_description: "MOM replaced iReport with the WSH Incident Reporting eService. 
 
 When a worker in your Singapore SME slips on a wet kitchen floor, falls from a scaffold, or is hospitalised after a chemical splash, the clock starts running on a separate, parallel set of duties to the Ministry of Manpower (MOM) - duties that are distinct from your work injury insurance claim, and that carry their own fines and imprisonment risks if you miss them. This article walks SME founders, HR managers, safety officers, operations leads, and finance directors through the **WSH Incident Reporting eService** (the platform MOM rebranded from "iReport"), explains the three trigger tracks under the [Workplace Safety and Health (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3) (Cap. 354A, Rg 3), and shows how the regulatory reporting workflow connects to the insurance side: WICA, WSH statutory liability cover, public liability, and director and officer (D&O) extensions.
 
-Every figure, statutory section, and deadline cited below is linked to a primary source - Singapore Statutes Online, MOM, the WSH Council, or designated insurer documents.
-
 ## What the WSH Incident Reporting eService Actually Is
 
-The WSH Incident Reporting eService is the single online portal at [mom.gov.sg/eservices/services/wsh-incident-reporting](https://www.mom.gov.sg/eservices/services/wsh-incident-reporting) through which employers, occupiers, treating doctors, insurers, injured employees, dependants, legal representatives, platform operators, and platform workers submit work-related incident reports to the Commissioner for Workplace Safety and Health. MOM confirms on its FAQ page that the service "previously known as iReport" was enhanced to offer an integrated user experience, and it is accessed only via **CorpPass (for businesses) or SingPass (for individuals)**.
+The WSH Incident Reporting eService is the single online portal at [mom.gov.sg/eservices/services/wsh-incident-reporting](https://www.mom.gov.sg/eservices/services/wsh-incident-reporting) through which employers, occupiers, treating doctors, insurers, injured employees, dependants, legal representatives, platform operators, and platform workers submit work-related incident reports to the Commissioner for Workplace Safety and Health. MOM's FAQ describes it as the successor to "the previous iReport online", and it is accessed only via **CorpPass (for businesses) or SingPass (for individuals)**.
 
 Service availability is **24 hours daily, except for maintenance windows of 3am-4am every day and 10pm-11pm every Tuesday and Thursday** (per the MOM service page).
 
@@ -41,14 +39,14 @@ The Regulations create three distinct reporting pathways. Misclassifying an inci
 
 Regulation 4(1) requires that "Where any accident at a workplace occurs which leads to the death of any employee, the employer of that employee shall, **as soon as is reasonably practicable**, notify the Commissioner of the accident." Regulation 4(2) extends the same obligation to occupiers when the deceased is a non-worker, member of the public, student, or self-employed person at the workplace. A full follow-up report must then be submitted "**not later than 10 days** after the accident" under Reg 4(3). Reg 4(1A), inserted by S 1018/2024, extends this duty to relevant platform operators for fatalities involving platform workers.
 
-"As soon as reasonably practicable" is not defined as a fixed window in the Regulations. In practice, MOM's published guidance tells SMEs to call **+65 6317 1111** or fax **+65 6317 1220** for incidents that "require immediate notification." For fatalities, the realistic standard is the same day, alongside a 999 / Singapore Civil Defence Force (SCDF) call.
+"As soon as reasonably practicable" is not defined as a fixed window in the Regulations. MOM's current guidance is to notify the Commissioner online, giving the date, time and place of the accident, the name and identification number of the injured or deceased, the employer and occupier, a brief description, and your contact details. For fatalities, the realistic standard is the same day, alongside a 995 call to the Singapore Civil Defence Force (SCDF).
 
 ### Track 2 - Immediate Notification: Dangerous Occurrences (Regulation 5)
 
 If a dangerous occurrence happens at the workplace, Regulation 5(1) requires the **occupier** (not the employer) to notify the Commissioner "as soon as is reasonably practicable," followed by a written report within 10 days under Reg 5(2). The list of reportable dangerous occurrences is set out in the [First Schedule to the WSH Act 2006](https://sso.agc.gov.sg/Act/WSHA2006?ProvIds=Sc1-), which lists nine specific events:
 
 1. Bursting of a revolving vessel, wheel, grindstone or grinding wheel moved by mechanical power.
-2. Collapse or failure of a crane, derrick, winch, hoist, piling frame or other lifting appliance, or its overturning.
+2. Collapse or failure of a crane, derrick, winch, hoist, piling frame or other appliance used in raising or lowering persons or goods, or of any load-bearing part of it (except breakage of chain or rope slings), or the overturning of a crane.
 3. Explosion or fire involving dust, gas, vapour, or celluloid that suspends ordinary work or stops machinery for **5 hours or more**.
 4. Electrical short circuit or failure attended by explosion or fire causing stoppage for **5 hours or more**.
 5. Explosion or fire affecting any room in which persons are at work and causing complete suspension of ordinary work for **24 hours or more**.
@@ -105,7 +103,7 @@ The prior year - 2024 - provides the comparison baseline most renewal underwrite
 - **Construction:** 20 fatalities, **146 major injuries**, **combined fatal-and-major-injury rate of 31.0 per 100,000 workers** (down from 31.9 in 2023)
 - **Marine:** 5 fatalities (up from zero in 2023); combined fatal-and-major rate **35.8 per 100,000 workers** - the highest since 2018
 - **Construction, transport/storage, and marine combined:** **79% of fatalities** in 2024
-- **MOM enforcement intensity in 2024:** more than **16,000 enforcement actions** under the WSH Act and Regulations, including **1,500 composition fines totalling over S$3.1 million** and **58 stop-work orders** - figures released at MOM's National WSH Report media briefing on 25 March 2025 ([Workplace Safety and Health Report 2024](https://www.mom.gov.sg/-/media/mom/documents/safety-health/reports-stats/wsh-national-statistics/wsh-national-stats-2024.pdf), MOM).
+- **MOM enforcement intensity in 2024:** enforcement actions for more than **16,000 breaches** under the WSH Act and Regulations, including **1,500 composition fines totalling over S$3.1 million** and **58 stop-work orders** - figures released by MOM on 26 March 2025 ([Workplace Safety and Health Report 2024](https://www.mom.gov.sg/-/media/mom/documents/safety-health/reports-stats/wsh-national-statistics/wsh-national-stats-2024.pdf), MOM).
 
 ## Step-by-Step: How to Submit a Report Through the eService
 
@@ -116,7 +114,7 @@ Most SMEs submit through one of two doors:
 
 ### Before You Log In
 
-CorpPass admin or sub-admin must assign two eServices to the staff member who will submit: **WSH eServices** *and* **myMOM Portal**. Without both, the WSH menu will not appear. SMEs without a UEN (sole proprietors, hawkers, joint ventures, trust funds) must first apply at [uen.gov.sg](https://www.uen.gov.sg), then for CorpPass at [corppass.gov.sg](https://www.corppass.gov.sg).
+CorpPass admin or sub-admin must assign two eServices to the staff member who will submit: **WSH eServices** *and* **myMOM Portal**. Without both, the WSH menu will not appear. Businesses without a UEN (such as hawkers, trust funds or joint ventures) must first apply at [uen.gov.sg](https://www.uen.gov.sg), then for CorpPass at [corppass.gov.sg](https://www.corppass.gov.sg).
 
 ### What to Have Ready
 
@@ -133,16 +131,16 @@ Per MOM's published guidance:
 
 1. **Log in via CorpPass / SingPass.** The dashboard shows submitted reports and drafts.
 2. **Click "Actions" -> "Create Report".** Gather information and documents before proceeding (the service times out).
-3. **Fill the mandatory fields.** The system asks specifically: "Did the accident result in death of the injured person?" - answering "Yes" routes the report to the immediate-notification track.
+3. **Fill the mandatory fields.** The system asks specifically: "Did the accident result in death of the injured person?" - answering "Yes" opens the fatal-accident fields, such as the cause of death and the hospital or clinic.
 4. **Add the injured person.** Enter NRIC / FIN, click "Retrieve," verify particulars, complete remaining fields.
 5. **Indicate platform-worker status** if the worker is also a platform worker and the accident is on or after 1 January 2025.
 6. **Upload supporting documents.**
 7. **Submit and capture the case reference number.** MOM issues an acknowledgement on screen and via email.
 8. **Amend if needed.** Under "Submitted incident reports" -> "Actions" -> "Amend" you can correct errors. Late amendments that look like attempts to mislead can constitute false notification under Reg 10 - itself an offence carrying up to S$5,000 fine and/or 6 months' imprisonment under Reg 11(3).
 
-### The 24/7 Phone Channel
+### Notifying the Commissioner First
 
-For fatalities and dangerous occurrences, the eService is **not the first call**. Phone the Commissioner on **+65 6317 1111** as soon as practicable. Then file the eService report within 10 days. Calling first creates the contemporaneous record that MOM expects of a compliant employer.
+For fatalities and dangerous occurrences, notify the Commissioner as soon as reasonably practicable, which MOM's current guidance says is done online, and then submit the full report within 10 days.
 
 ### Three-Year Record-Keeping Duty
 
@@ -175,13 +173,13 @@ The regulatory reporting workflow does not, by itself, pay the medical bill, the
 
 WICI is **mandatory** for every Singapore employer for: (a) all employees doing manual work, regardless of salary; and (b) all employees doing non-manual work earning S$2,600 or less a month (excluding overtime, bonus, AWS, productivity payments, allowances). Platform operators must cover all platform workers from 1 January 2025. Only **MOM-designated insurers** can issue compliant policies.
 
-The [MOM list of designated WIC insurers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) for employers, accurate as at 1 January 2026 with designations expiring between 1 and 10 September 2026, contains **23 insurers**: AIG Asia Pacific, Allianz, Allied World Assurance, Berkshire Hathaway Specialty, China Taiping, Chubb, EQ Insurance, ERGO, Etiqa, Great American Insurance Company, Great Eastern General, Income Insurance, India International Insurance, Liberty Specialty Markets, Lonpac, MS First Capital, MSIG, QBE, Singapore Life, Sompo, Tokio Marine, United Overseas Insurance, and Zurich (Singapore Branch). Insurers will be re-applying through MOM's renewal portal in mid-2026; SMEs should consult the live MOM list before placing or renewing cover.
+The [MOM list of designated WIC insurers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) for employers, accurate as at 23 September 2026, contains **24 insurers**, with designations running to September 2029 (Lonpac to July 2029): AIG Asia Pacific, Allianz, Allied World Assurance, Berkshire Hathaway Specialty, China Taiping, Chubb, EQ Insurance, ERGO, Etiqa, Great American Insurance Company, Great Eastern General, HL Assurance, Income Insurance, India International Insurance, Liberty, Lonpac, MS First Capital, MSIG, QBE, Singapore Life, Sompo, Tokio Marine, United Overseas Insurance, and Zurich (Singapore Branch). The list changes, so the live MOM list is the one that counts.
 
 The 1 November 2025 limit increases (S$269,000 death max, S$346,000 PI max, S$53,000 medical max) flow through automatically to incidents on or after that date for compliant WICA cover written by MOM-designated insurers - designated insurers have publicly confirmed that compliant WICA policies update automatically to reflect the new statutory caps for accidents on or after 1 November 2025. SMEs should still ask their broker to confirm that any **non-Act ("excess of WICA") extensions, sub-limits, or sums insured** that were sized to the prior caps are reviewed at the next renewal - those layers do not auto-update.
 
 ### 2. WSH Statutory Liability Insurance
 
-This is a separate cover that pays **defence costs and (where insurable) fines** for prosecutions under the WSH Act and its subsidiary regulations. AIG Singapore, Chubb, Liberty, and Tokio Marine are among the carriers that distribute WSH statutory-liability extensions or standalone policies in Singapore. This cover is *not* mandatory and is *not* the same as WICI - it sits alongside.
+This is a separate cover that pays **defence costs and (where insurable) fines** for prosecutions under the WSH Act and its subsidiary regulations. This cover is *not* mandatory and is *not* the same as WICI - it sits alongside.
 
 ### 3. Directors' & Officers' (D&O) Liability - with WSH Act Section 48 Extension
 
@@ -203,11 +201,11 @@ A line cook spills hot oil; the cook is sent to A&E, given outpatient treatment,
 
 ### Scenario B - Construction sub-contractor: Fall from scaffold, fatality on site
 
-A worker falls from a 12-metre scaffold and dies at scene. **Track:** Immediate notification under Reg 4(1) - call **+65 6317 1111** at once; full eService report within 10 days. SCDF and the Singapore Police Force will respond. MOM's investigation team typically attends fatal sites the same day. If the scaffold collapse exceeded the 15-metre dangerous-occurrence threshold, Reg 5 also applies. **Parallel insurer notification:** designated WICI insurer for the death claim (now up to S$269,000 maximum); notify D&O carrier and WSH statutory liability carrier within the policy notification period (often 14-30 days). **Director exposure:** Section 48 personal liability, up to S$200,000 fine and/or 2 years' jail.
+A worker falls from a 12-metre scaffold and dies at scene. **Track:** Immediate notification under Reg 4(1) - notify the Commissioner as soon as reasonably practicable; full eService report within 10 days. SCDF and the Singapore Police Force will respond. MOM may investigate at the accident site. If the scaffold collapse exceeded the 15-metre dangerous-occurrence threshold, Reg 5 also applies. **Parallel insurer notification:** designated WICI insurer for the death claim (now up to S$269,000 maximum); notify D&O carrier and WSH statutory liability carrier within the notification period each policy sets. **Director exposure:** Section 48 personal liability, up to S$200,000 fine and/or 2 years' jail.
 
 ### Scenario C - Logistics SME: Forklift tip-over with no injury, but property damage
 
-A forklift overturns during a load transfer. No one is injured. **Track:** Whether this is reportable as a dangerous occurrence depends on the First Schedule. Item 2 captures "the overturning of a crane" but not forklifts as a class. However, if the forklift is being used as a lifting appliance and overturns, item 2 may apply. If the explosion-or-fire criteria are not met and the forklift is not within the lifting-equipment definition, this may be a non-reportable near-miss - but MOM's guidance is that "even if a work-related incident does not fall within the reporting criteria, the employer should still give notice to MOM if the work injury is serious enough for there to be a possibility of permanent incapacity being sustained." When in doubt, file. The cost of an unnecessary report is zero; the cost of a missed report can be S$10,000.
+A forklift overturns during a load transfer. No one is injured. **Track:** Whether this is reportable as a dangerous occurrence depends on the First Schedule. Item 2 captures "the overturning of a crane" but not forklifts as a class. However, if the forklift is being used as a lifting appliance and overturns, item 2 may apply. If the explosion-or-fire criteria are not met and the forklift is not within the lifting-equipment definition, this may be a non-reportable near-miss - but MOM's guidance is: "If there is doubt after you have completed investigations, please report." When in doubt, file. The cost of an unnecessary report is zero; the cost of a missed report can be S$10,000.
 
 ### Scenario D - Manufacturing SME: Worker chemical exposure, hospitalised 36 hours
 
@@ -215,17 +213,17 @@ A maintenance technician is exposed to a chemical leak and admitted overnight (m
 
 ## What This Means for Your Business
 
-**1. The eService is not optional.** Every SME with at least one employee under a contract of service has reporting exposure. The 24/7 hotline (+65 6317 1111) and the eService together create a reporting footprint that MOM expects to be present after every recordable incident.
+**1. The eService is not optional.** Every SME with at least one employee under a contract of service has reporting exposure. The eService report, with a notice to the Commissioner where one is required, creates a reporting footprint that MOM expects to be present after every recordable incident.
 
 **2. The penalty for failure to report is now twice what it was before 1 June 2024.** The S$10,000 first-offence fine under Reg 11(1) (S 435/2024) is paid by the corporate entity; the Section 48 personal-officer exposure on the underlying WSH offence is paid by the director personally and can reach S$200,000.
 
 **3. Filing the MOM report does not file your insurance claim.** The two workflows run in parallel. Insurers expect concurrent notification - most WICI policies require the insured to notify the insurer (and any insurance intermediary, if a broker or financial adviser placed the cover) at the same time as filing the regulatory report.
 
-**4. The 1 November 2025 WICA limit increase raised the financial stakes per fatal incident by 19%.** A fatal claim that would have cost S$225,000 in October 2025 now costs S$269,000. SMEs whose WICI sub-limits or PL excess layers were sized to the old caps may now be under-insured on the non-Act layers.
+**4. The 1 November 2025 WICA limit increase raised the maximum death compensation by about 19%.** For an accident on or after that date, a fatal claim that was capped at S$225,000 can now reach S$269,000. SMEs whose WICI sub-limits or PL excess layers were sized to the old caps may now be under-insured on the non-Act layers.
 
-**5. The soft commercial market in 2026 favours renegotiation.** Marsh GIMI Q1 2026 confirms the seventh consecutive quarter of declining rates globally and a 5% decline in Asia. WSH statutory liability and D&O extensions can often be added at the 2026 renewal at flat premium.
+**5. The soft commercial market in 2026 favours renegotiation.** Marsh GIMI Q1 2026 confirms the seventh consecutive quarter of declining rates globally and a 5% decline in Asia.
 
-**6. Your incident-reporting record is tied to your premium experience and to the MOM Demerit Point System.** Companies with poor records face higher premiums (the WICA 2019 framework allows insurers to share claims data); under MOM's published Demerit Point System, prosecutions can attract significant demerit points (up to 50 for a single conviction depending on offence severity), composition fines add 1 point each, and accumulating thresholds can lead to migrant-worker hiring restrictions extending up to 24 months - see [mom.gov.sg](https://www.mom.gov.sg) for the current framework details.
+**6. Your incident-reporting record is tied to your premium experience and to the MOM Demerit Point System.** Companies with poor records face higher premiums (the WICA 2019 framework allows insurers to share claims data); under MOM's Demerit Point System, which covers the construction and manufacturing sectors, a composition fine adds 1 demerit point, a stop-work order 5 or 10, and a decision to prosecute 25 or 50; 25 or more points within 18 months bars the company from hiring new migrant workers for 3 months to 2 years - see [mom.gov.sg](https://www.mom.gov.sg) for the current framework details.
 
 ## Questions to Ask Your Adviser
 
@@ -247,7 +245,7 @@ A maintenance technician is exposed to a chemical leak and admitted overnight (m
 
 ### Related Information
 
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom) - the work injury compensation (WICA) claim that follows the incident report, from notifying the insurer to payment
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom) - the work injury compensation (WICA) claim that follows the incident report, from notifying the insurer to payment
 - [WICA Compensation Limit Update: What Changed on 1 November 2025](/regulatory-change/wica-update-nov-2025) - what the higher WICA compensation limits from 1 November 2025 mean for employers
 - [WSHA Section 48 Director Personal Liability: Guilty Unless You Prove the Defence](/document-legal/wsha-section-48-director-liability)
 - [SME Startup Decision Tree: Light Manufacturing - Foundational Insurance Procurement](/decision-tree/light-manufacturing-sme) - the cover options for a light-manufacturing business facing machinery, product, premises and workplace-injury risks

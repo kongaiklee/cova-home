@@ -21,11 +21,11 @@ og_description: "An indemnity to principal clause stretches your liability cover
 
 > **The Answer in 60 Seconds**
 >
-> "Indemnity to Principal" is a liability policy extension typically used in construction, fit-out, maintenance, and event services, where one party (the contractor / supplier / event organiser, the "Insured") agrees by contract to indemnify another party (the "Principal" - usually the client, employer, main contractor, or venue) against third-party liability arising from the Insured's work. The clause **extends the Insured's policy** to respond to liabilities the Insured has assumed contractually toward the Principal. It does **not** make the Principal an insured under the policy. Singapore courts have analysed contractual indemnity and exemption clauses, including in [*HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248](https://www.elitigation.sg/gd/s/2022_SGHC_248), confirming that the legal effect depends on the precise wording of both the contract and the policy.
+> "Indemnity to Principal" is a liability policy extension typically used in construction, fit-out, maintenance, and event services, where one party (the contractor / supplier / event organiser, the "Insured") agrees by contract to indemnify another party (the "Principal" - usually the client, employer, main contractor, or venue) against third-party liability arising from the Insured's work. The clause **extends the Insured's policy to the Principal**: the insurer indemnifies the Principal, as it would the Insured, against the Principal's liability arising from the Insured's work, but only as far as the contract requires. It is not the same as Additional Insured status, which the PSSCOC treats as a separate requirement. Singapore courts construe contractual indemnity clauses strictly, on their wording read in context: in [*HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248](https://www.elitigation.sg/gd/s/2022_SGHC_248), a warehouse lease indemnity was held to cover only third-party claims, not the landlord's own fire loss.
 
 ### The Sourced Detail
 
-This is one of the most frequently misread clauses on a Singapore Public Liability schedule. Founders see the phrase and assume their client is now "covered under our insurance for everything that happens on the job." That is not what the clause does. Understanding what it actually does - and what it does not - is essential before signing any commercial contract that requires it.
+The clause does not cover the client for everything that happens on the job. Understanding what it actually does - and what it does not - is essential before signing any commercial contract that requires it.
 
 #### The structure of the clause
 
@@ -35,7 +35,7 @@ A typical Indemnity to Principal extension reads something like:
 
 Three things follow from that wording:
 
-1. **The cover responds to the Insured's liability** , not the Principal's general exposure.
+1. **The cover responds to the Principal's liability arising from the Insured's work**, not to the Principal's general exposure.
 2. **It is bounded by the contract.** If the contract requires only indemnity for the Insured's negligence, the policy responds only on that basis - not for the Principal's own acts.
 3. **Policy exclusions still apply.** If the underlying loss is excluded under the policy (war, pollution, professional negligence carved out of PL), the extension cannot reverse that.
 
@@ -43,11 +43,11 @@ Three things follow from that wording:
 
 An "Additional Insured" endorsement adds a named party as an insured under the policy, giving them direct rights to claim. The Principal can sue the insurer directly under their own contractual rights to indemnity.
 
-An "Indemnity to Principal" extension is structurally different. The Principal is **not** an insured. The contractor remains the only insured. The extension simply confirms that when the contractor is held liable to a third party in circumstances where the contract required them to indemnify the Principal, the policy will respond on the contractor's behalf.
+An "Indemnity to Principal" extension works differently. The insurer indemnifies the Principal, subject to the policy's terms as if it were the Insured, but only against liability arising from the Insured's work and only as far as the contract requires. It does not cover the Principal's own activities beyond that.
 
 The practical difference matters at claim time:
 - **Additional Insured:** Principal claims directly under the policy. Independent right of recovery.
-- **Indemnity to Principal:** Principal claims against the contractor under the contract. Contractor's policy responds to the contractor's liability.
+- **Indemnity to Principal:** the contractor's policy indemnifies the Principal against its liability arising from the contractor's work, to the extent the contract requires. Where the policy excludes third-party rights under the Contracts (Rights of Third Parties) Act 2001, as Etiqa's Public Liability wording does, a Principal that is not a party to the policy may have to rely on the contractor to claim.
 
 If the contractor goes insolvent before the claim resolves, the Additional Insured route gives the Principal a path to the insurer; the Indemnity to Principal route may not.
 
@@ -57,11 +57,9 @@ In [*HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd*
 
 For Indemnity to Principal extensions, the same principle applies: the policy extension responds *as the contract requires it to respond*. If the contract indemnity clause is narrow ("for the Insured's negligence"), the extension is narrow. If broad ("for any loss arising from the works"), the extension may be wider - but only to the extent the policy itself can support that scope.
 
-The [*Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) decision on subrogation, while a different doctrinal area, illustrates the same drafting discipline: insurance contracts in Singapore are construed on their wording, and parties are held to what they signed.
-
 #### Where the clause typically appears
 
-- **Construction subcontracts.** The main contractor (Principal) requires the subcontractor (Insured) to carry PL insurance with Indemnity to Principal in the main contractor's favour. Standard form: PSSCOC (Public Sector Standard Conditions of Contract) and REDAS contracts include such requirements.
+- **Construction subcontracts.** The main contractor (Principal) requires the subcontractor (Insured) to carry PL insurance with Indemnity to Principal in the main contractor's favour. The PSSCOC (Public Sector Standard Conditions of Contract) takes a different route for public works: the contractor's insurances must note the Employer as "Principal" for employer's liability, or as an "Additional Insured" with a "cross liability" provision for third party liability (clause 27.1).
 - **Landlord fit-out works.** The landlord (Principal) requires the tenant or fit-out contractor (Insured) to carry insurance with the landlord noted as Principal for the duration of the works.
 - **Event organising contracts.** The venue (Principal) requires the event organiser (Insured) to carry liability cover extending to the venue as Principal.
 - **Maintenance and FM contracts.** The building owner (Principal) requires the maintenance contractor (Insured) to carry the extension.
@@ -76,12 +74,12 @@ The [*Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2
 
 #### The interaction with Cross-Liability
 
-A Cross-Liability extension says that if there are multiple parties insured under the policy (or treated as insured), each is treated as if separately insured. It is commonly added together with Indemnity to Principal so that:
+A Cross-Liability extension says that if there are multiple parties insured under the policy (or treated as insured), each is treated as if separately insured. Where it is added together with Indemnity to Principal, the intended effect is that:
 
 - A claim by the Principal against the Insured is treated as a third-party claim (covered by the policy)
 - A claim by the Insured against the Principal does not collapse the cover
 
-Without Cross-Liability, the standard "claims between insureds" exclusion can defeat the Indemnity to Principal cover at exactly the moment it matters.
+Without Cross-Liability, a claim by one party covered under the policy against another may fall outside the cover, which can defeat the Indemnity to Principal cover at exactly the moment it matters.
 
 ### What This Means for Your Business
 
@@ -93,7 +91,7 @@ If you sign a contract that requires you to carry insurance "with Indemnity to P
 
 For SMEs that sign multiple similar contracts (construction subcontractors, fit-out contractors, event organisers), the practical move is to standardise the policy wording up front - request a blanket Indemnity to Principal clause that responds to "any party the Insured is required by contract to so indemnify." This avoids per-contract endorsements and Certificate-issuance delays.
 
-If a contract counterparty insists on terminology that your policy cannot match (most commonly: a demand for full Additional Insured status when your insurer offers only Indemnity to Principal), that is a negotiation point - not a paperwork issue. Either the contract wording flexes, or the policy is endorsed at additional premium, or the deal does not happen on the original terms.
+If a contract counterparty insists on terminology that your policy cannot match (for example, a demand for full Additional Insured status when your insurer offers only Indemnity to Principal), that is a negotiation point - not a paperwork issue. Either the contract wording flexes, or the policy is endorsed at additional premium, or the deal does not happen on the original terms.
 
 ### Questions to Ask Your Adviser
 

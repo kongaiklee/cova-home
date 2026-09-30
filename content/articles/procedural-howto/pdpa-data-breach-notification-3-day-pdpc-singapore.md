@@ -27,37 +27,37 @@ og_description: "Singapore's PDPA Part 6A gives three calendar days to notify PD
 
 The PDPA's data-breach-notification architecture is now a mature regulatory regime in Singapore. The framework sets out specific thresholds, a defined process, and meaningful penalties; the PDPC publishes enforcement decisions that map each year's practice patterns.
 
-The framework distinguishes three discrete duties at sections 26A through 26E of the PDPA - definition, notifiable criteria, assessment, notification, and the data-intermediary cascade.
+Sections 26A to 26E of the PDPA set out the definitions, the criteria for a notifiable breach, and three duties: assessment, notification, and the data intermediary's duty to notify the organisation it processes for.
 
 #### The Part 6A architecture
 
-**Section 26A - Interpretation.** Defines key terms including "data breach" (an unauthorised access to, collection, use, disclosure, copying, modification, or disposal of personal data).
+**Section 26A - Interpretation.** Defines key terms including "data breach" (the unauthorised access, collection, use, disclosure, copying, modification or disposal of personal data, or the loss of a storage medium or device holding personal data where any of those is likely to occur).
 
 **Section 26B - Notifiable data breach.** A data breach is notifiable where it:
 
 - Results in, or is likely to result in, **significant harm** to an affected individual; OR
 - Is, or is likely to be, of a **significant scale** - 500 or more affected individuals.
 
-The "significant harm" criterion is qualitative and depends on the categories of personal data affected. The PDPC's [Advisory Guidelines on Key Concepts](https://www.pdpc.gov.sg/help-and-resources/2017/09/advisory-guidelines-on-key-concepts-in-the-pdpa) list categories typically considered significant-harm-relevant: identification documents (NRIC, passport), financial account information, health information, and similar.
+The "significant harm" criterion is qualitative and depends on the categories of personal data affected. The PDPC's [Advisory Guidelines on Key Concepts](https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-key-concepts-in-the-personal-data-protection-act) set out the personal data that the Personal Data Protection (Notification of Data Breaches) Regulations 2021 deem to cause significant harm: an individual's full name, alias or full national identification number (such as an NRIC or passport number) together with listed data such as salary, card or bank account numbers, creditworthiness, life, accident and health insurance details, or specified medical conditions; or an account identifier together with its password or access code.
 
 **Section 26C - Duty to assess data breach.** Where the organisation has reason to believe a data breach has occurred, it must conduct an assessment in a "reasonable and expeditious manner" to determine whether the breach is notifiable. The 3-calendar-day clock for notification under section 26D runs from the completion of this assessment, not from the discovery of the breach.
 
 **Section 26D - Duty to notify Commission and affected individuals.** Where the assessment determines the breach is notifiable, the organisation must:
 
 - Notify the **Personal Data Protection Commission** (PDPC) **no later than 3 calendar days** after determining the breach is notifiable.
-- Notify affected individuals where the breach meets the significant-harm threshold, in a manner the organisation considers reasonable.
+- Notify affected individuals where the breach meets the significant-harm threshold, on or after notifying the PDPC, in any manner that is reasonable in the circumstances.
 
 **Section 26E - Data intermediary of public agency.** Specific provisions for data intermediaries acting for public agencies.
 
 #### The data-intermediary cascade
 
-Section 26C(2) imposes a cascade obligation: where a data intermediary (a third party processing personal data on behalf of an organisation) has reason to believe a data breach has occurred, the intermediary must **notify the organisation it processes for** without undue delay. The organisation then conducts its section 26C assessment and triggers the section 26D notification if required.
+Section 26C(3) imposes a cascade obligation: where a data intermediary (a third party processing personal data on behalf of an organisation) has reason to believe a data breach has occurred, the intermediary must **notify the organisation it processes for** without undue delay. The organisation then conducts its section 26C assessment and triggers the section 26D notification if required.
 
 For Singapore SMEs that act as data intermediaries (cloud-based service providers, payment processors, marketing-analytics platforms), the cascade obligation is operationally important - the SME's own clients are the recipients of the cascade notification.
 
 #### The penalty regime
 
-Under [section 48J of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012) (in force from 1 October 2022), the PDPC may impose a financial penalty for breaches of specific obligations including the Protection Obligation (section 24) and the breach notification duties. The maximum penalty is the higher of:
+Under [section 48J of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012) (in force from 1 February 2021, with the 10% of turnover maximum from 1 October 2022), the PDPC may impose a financial penalty for breaches of specific obligations including the Protection Obligation (section 24) and the breach notification duties. The maximum penalty is the higher of:
 
 - **S$1 million**; OR
 - **10% of the organisation's annual turnover in Singapore** (for organisations whose Singapore turnover exceeds S$10 million).
@@ -73,14 +73,14 @@ The PDPC publishes [enforcement decisions](https://www.pdpc.gov.sg/commissions-d
 - **Horizon Fast Ferry** - **S$28,000** penalty, vendor-related breach affecting **108,488 individuals**.
 - **Singapore Data Hub** - **S$17,500** penalty (April 2025).
 - **Ezynetic** - **S$17,500** penalty (July 2025, **190,589** affected).
-- **People Central** - **S$17,500** penalty (January 2026, **95,000** affected).
+- **People Central** - **S$17,500** penalty (January 2026; personal data of **95,000** employees of its clients and **24,765** of their emergency contacts and children put at risk).
 - **Cortina Watch** - decision involving **3,953 individuals** affected by a ransomware incident.
 
-The pattern is consistent: penalties scale with the affected count, the sensitivity of the data, and the quality of the organisation's pre-incident controls.
+In setting a penalty, the PDPC must have regard to the matters in section 48J(6), which include the nature, gravity and duration of the non-compliance, the type and nature of the personal data affected, any action taken to mitigate it, and whether adequate compliance measures were in place.
 
 #### The five-step notification process
 
-A structured notification process has five steps; the entire cycle should typically complete within the 3-calendar-day window from assessment.
+A structured notification process has five steps. The 3-calendar-day window starts only once the assessment in Step 2 finds the breach notifiable, and the notice to the PDPC in Step 3 must be made inside it.
 
 **Step 1: Detection and triage (Hour 0-24).**
 
@@ -88,7 +88,7 @@ A structured notification process has five steps; the entire cycle should typica
 - Engage forensic resources (internal or external).
 - Begin documentation of the incident timeline.
 
-**Step 2: Section 26C assessment (Hour 24-48 typical, sometimes longer).**
+**Step 2: Section 26C assessment (reasonable and expeditious; the PDPC's guidelines say generally within 30 calendar days).**
 
 - Determine the nature and scope of the breach.
 - Identify the categories of personal data affected.
@@ -98,11 +98,11 @@ A structured notification process has five steps; the entire cycle should typica
 **Step 3: PDPC notification (within 3 calendar days of completing the assessment).**
 
 - Use the [PDPC's data breach notification portal](https://eservice.pdpc.gov.sg/case/db).
-- Provide the prescribed information: the organisation's particulars, the date of the breach, the nature and circumstances, the categories of personal data and number of individuals affected, the actions taken or proposed.
+- Provide the prescribed information, which includes: the date on which and the circumstances in which the organisation first became aware of the breach, how it occurred, the number of individuals and the personal data affected, the potential harm, a chronological account of the steps taken (including the assessment), the actions taken or planned, and the contact details of an authorised representative.
 
 **Step 4: Individual notification (where significant-harm threshold met).**
 
-- Notify affected individuals in a manner the organisation considers reasonable.
+- Notify affected individuals in any manner that is reasonable in the circumstances, at the same time as or after notifying the PDPC.
 - The notification typically includes: what happened, what data was affected, what the organisation is doing about it, and what the individual can do.
 
 **Step 5: Post-notification.**

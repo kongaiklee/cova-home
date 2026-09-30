@@ -115,7 +115,7 @@ The primary-source URLs:
 
 [PPF FAQ](https://www.sdic.org.sg/pp_faq/).
 
-Current list of PPF Scheme members at [sdic.org.sg](https://www.sdic.org.sg) - drafters and SMEs should verify the current membership list at the time of advice.
+The current list of PPF Scheme members is at [sdic.org.sg](https://www.sdic.org.sg).
 
 #### Counterparty diligence for non-PPF commercial lines
 

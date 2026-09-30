@@ -35,7 +35,7 @@ Surety bonds involve three parties:
 
 **The obligee.** The party benefiting from the guarantee (typically the SME's customer, government agency, or specific commercial counterparty). The obligee can claim under the bond if the principal fails to perform.
 
-**The surety.** The party providing the guarantee (typically an insurer or specialist surety company). The surety pays the obligee if the principal fails, and recovers from the principal.
+**The surety.** The party providing the guarantee (typically an insurer or specialist surety company). The surety pays the obligee on a valid claim under the bond (under an on-demand bond, on the obligee's written demand, without proof of default), and recovers from the principal.
 
 The structure is fundamentally different from traditional insurance:
 
@@ -44,9 +44,9 @@ The structure is fundamentally different from traditional insurance:
 
 The principal's liability to the surety is the key commercial point that distinguishes bonds from insurance.
 
-#### Performance bonds - the most common type
+#### Performance bonds
 
-**Scope.** Performance bonds guarantee the principal's performance under a specific contract. If the principal fails to perform, the obligee can claim under the bond.
+**Scope.** Performance bonds guarantee the principal's performance under a specific contract. If the principal fails to perform, the obligee can claim under the bond. Many Singapore performance bonds are on-demand, which lets the obligee call on the bond without proving the principal's default.
 
 **Standard scope.**
 
@@ -55,11 +55,7 @@ The principal's liability to the surety is the key commercial point that disting
 - Specific timeline failures
 - Specific other contract performance failures
 
-**Standard exclusions.**
-
-- Specific obligee bad faith
-- Specific contract changes without surety consent
-- Specific other defined exclusions
+**Exclusions and defences.** These depend on the bond wording. Under an on-demand bond, the issuer pays on the obligee's demand without proof of default. The security deposit guarantee in the PSSCOC for public construction works is on-demand: the issuer pays on the employer's written claim without proof of the contractor's default, and is not released by any alteration in the contractor's obligations, with or without its consent. A Singapore court can restrain a call on an on-demand performance bond where the call is fraudulent or, unless the contract excludes it, unconscionable.
 
 **Common application - construction.**
 
@@ -95,7 +91,7 @@ For government procurement:
 
 If bidder wins but refuses to sign, obligee claims the bid bond.
 
-**Standard scope.** Typically a percentage of bid amount (often 1-5%).
+**Standard scope.** An amount set by the tender documents.
 
 **Common application.** Construction tenders, government procurement.
 
@@ -108,7 +104,6 @@ If bidder wins but refuses to sign, obligee claims the bid bond.
 **Common application.**
 
 - US construction (substantial payment bond market)
-- Singapore: less prevalent than US but commercial conventions
 - Specific government contracts
 
 #### Maintenance bonds
@@ -119,7 +114,7 @@ If bidder wins but refuses to sign, obligee claims the bid bond.
 
 **Common application.**
 
-- Construction (typically 1-2 years post-completion)
+- Construction (the defects liability period, which is 12 months under the PSSCOC for construction works if the contract states none)
 - Specific equipment supply contracts
 - Commercial conventions
 
@@ -171,7 +166,7 @@ This is more like credit underwriting than insurance underwriting.
 
 **Premium economics.** Surety bond premiums typically reflect credit risk:
 
-- 1-3% of bond amount typical for established SMEs
+- One Singapore broker quotes 1% to 3% of the bond amount a year
 - Higher for SMEs with weaker financials
 - Commercial relationships
 - Specific industry conventions
@@ -191,7 +186,7 @@ A common alternative to surety bonds: bank guarantees:
 
 - Bank issues guarantee on principal's behalf
 - Typically requires cash collateral or credit facility
-- Commercial conventions (often dominant in Singapore)
+- Commercial conventions
 - Specific cost economics
 
 For SMEs, the choice between surety bond and bank guarantee depends on:
@@ -208,8 +203,8 @@ Bank guarantees often easier for SMEs with strong credit / cash position; surety
 **Construction.**
 
 - Performance bonds standard for material projects
-- Maintenance bonds standard for defects liability periods
-- Specific HDB-RRC bond for renovation contractors (S$15,000)
+- Maintenance bonds where the contract asks for security over the defects liability period
+- A bank, insurance or finance guarantee for renovation contractors listed in HDB's Directory of Renovation Contractors (DRC)
 - Commercial conventions
 
 **Customs / trade.**
@@ -277,14 +272,14 @@ Bonds operate within specific contracts:
 **Scenario A: Principal defaults on contract performance.**
 
 - Obligee claims under performance bond
-- Surety investigates
-- If valid claim, surety pays obligee
+- Under an on-demand bond, the surety pays on the obligee's written demand, without proof of default and with no duty to inquire into the grounds
+- Under a conditional bond, payment depends on the conditions in the bond wording
 - Surety pursues principal for indemnification
 
 **Scenario B: Principal disputes obligee's claim.**
 
 - Commercial dispute
-- Specific surety position depends on facts
+- Under a conditional bond, the obligee must prove the principal's default, so the surety's position depends on the facts; under an on-demand bond, the dispute does not by itself stop payment, and the principal can apply to court to restrain the call, which a Singapore court can do where the call is fraudulent or, unless the contract excludes it, unconscionable
 - Operational considerations required
 
 **Scenario C: Bid bond claim.**

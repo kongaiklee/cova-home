@@ -119,18 +119,6 @@ D&O Liability is the primary line responding to director personal exposure. The 
 
 SGX rulebooks are at [rulebook.sgx.com](https://rulebook.sgx.com). SFA 2001 consolidated text is at [sso.agc.gov.sg/Act/SFA2001](https://sso.agc.gov.sg/Act/SFA2001). SGX RegCo announcements are at [sgxgroup.com/media-centre](https://www.sgxgroup.com/media-centre).
 
-Drafters and SME advisers should extract verbatim:
-
-The exact text of Rule 703 from the SGX rulebook (the language is structural for continuous disclosure analysis).
-
-The exact text of Rule 705 (financial reporting periodicity has been reformed; confirm current rules).
-
-The exact text of Rule 1207(20) and the Sustainability Reporting Guide (ISSB-aligned).
-
-SFA sections 197, 199, 218, 219, 234, and 254 from the consolidated SSO text.
-
-Companies Act 1967 sections 172, 172A, and 172B from the consolidated SSO text.
-
 #### Claim-time worked example
 
 A Catalist-listed manufacturing SME ("Manufacturer C") has market capitalisation of S$280 million. Manufacturer C is not an STI constituent and has market cap below S$1 billion, so its other ISSB-based CRD obligation applies from FY2030. However, Scope 1 and Scope 2 GHG disclosure is mandatory from FY2025.

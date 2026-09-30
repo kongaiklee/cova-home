@@ -21,7 +21,7 @@ og_description: "Trade credit insurance responds when an insured buyer fails to 
 
 > **The Answer in 60 Seconds**
 >
-> **Trade credit insurance** protects a Singapore supplier against the **insolvency** or **protracted default** of its buyers (its trade-credit customers). The cover responds when an insured buyer fails to pay an invoice within the cover's defined period, allowing the supplier to claim the invoice value (minus any deductible) from the trade-credit insurer. The cover is structured around a **buyer list** with **credit limits** per buyer; only buyers on the list with credit limits in force are covered, and only invoices within the per-buyer limit are covered. The Singapore commercial trade-credit market is mature, with major underwriters operating Singapore offices. The cover is most relevant for SMEs extending payment terms to commercial customers (B2B sales on credit terms of 30, 60, 90 days or more), and is rarely relevant for cash-on-delivery, advance-payment, or consumer-facing businesses. This article sets out the mechanics, the underwriting process, the claim process, and the operational discipline that makes the cover valuable.
+> **Trade credit insurance** protects a Singapore supplier against the **insolvency** or **protracted default** of its buyers (its trade-credit customers). The cover responds when an insured buyer fails to pay an invoice within the cover's defined period, allowing the supplier to claim the policy's insured percentage of the loss (after any deductible) from the trade-credit insurer. The cover is structured around a **buyer list** with **credit limits** per buyer; only buyers with a credit limit in force are covered (a limit the insurer sets, or one the supplier sets within any discretionary limit the policy allows), and the cover for each buyer is capped at that buyer's credit limit. The Singapore commercial trade-credit market is mature, with major underwriters operating Singapore offices. The cover is most relevant for SMEs extending payment terms to commercial customers (B2B sales on credit terms of 30, 60, 90 days or more), and is rarely relevant for cash-on-delivery, advance-payment, or consumer-facing businesses. This article sets out the mechanics, the underwriting process, the claim process, and the operational discipline that makes the cover valuable.
 
 ### The Sourced Detail
 
@@ -49,7 +49,7 @@ The cover typically responds to two trigger events.
 
 **Insolvency.** The buyer enters formal insolvency proceedings - liquidation, judicial management, scheme of arrangement under the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA2018)](https://sso.agc.gov.sg/Act/IRDA2018) or equivalent foreign procedure.
 
-**Protracted default.** The buyer fails to pay the invoice within a stated period beyond the original due date (commonly 180 days). The protracted default trigger covers cases where the buyer is not formally insolvent but is non-paying.
+**Protracted default.** The buyer fails to pay the invoice within a stated period beyond the original due date (set in the policy; a World Bank primer on trade credit insurance gives a normal range of 60 to 180 days). The protracted default trigger covers cases where the buyer is not formally insolvent but is non-paying.
 
 #### The claim process
 
@@ -58,7 +58,7 @@ When a loss event occurs:
 1. **Notify the insurer** within the policy's notification window.
 2. **Provide documentation** - the invoice, the contract, the credit-limit confirmation, the buyer's payment history.
 3. **Cooperate with the insurer's investigation** - the insurer may engage a debt-recovery agent.
-4. **Wait out the indemnification waiting period** (sometimes 30-60 days from notification while the insurer attempts recovery).
+4. **Wait out any waiting period the policy sets**, during which the insurer may try to collect the debt.
 5. **Receive indemnity** subject to the deductible and co-insurance percentage.
 
 The insurer then exercises subrogation rights against the buyer (or the insolvency estate) - see [subrogation](/procedural-howto/subrogation-insurer-recovery-singapore).
@@ -92,7 +92,7 @@ Trade credit is less useful where:
 
 Trade credit insurance interacts positively with bank financing. Banks often accept insured receivables as preferred collateral, with higher advance rates than uninsured receivables. The structure unlocks working capital that would otherwise be tied up in receivables.
 
-For Singapore SMEs, the trade-credit policy can be assigned to a bank as part of the financing structure, with the bank named as the loss payee. The assignment-and-loss-payee arrangement requires the insurer's consent and is operationally straightforward.
+For Singapore SMEs, the trade-credit policy can be assigned to a bank as part of the financing structure, with the bank named as the loss payee. The assignment-and-loss-payee arrangement requires the insurer's consent.
 
 ### Common Mistakes / What Goes Wrong
 

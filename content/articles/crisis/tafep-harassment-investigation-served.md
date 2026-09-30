@@ -298,6 +298,6 @@ The cost of a harassment investigation is meaningful - an external investigation
 ### Related Information
 - [A Key Employee Just Resigned and Is Taking Customers/IP With Them - What Do I Do Now?](/crisis/key-employee-resignation-ip-customer-migration)
 - [We Need to Conduct a Mass Layoff or Major Restructuring - What Do I Do Now?](/crisis/mass-layoff-restructuring)
-- [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
+- [WSH Maximum Fines Raised (1 June 2024): The New Ceilings Under the WSH Regulations](/regulatory-change/wsh-penalty-doubling-2024)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

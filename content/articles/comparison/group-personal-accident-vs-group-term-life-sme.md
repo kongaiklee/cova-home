@@ -219,7 +219,7 @@ The annual renewal is the right moment to refresh the analysis. Demographics shi
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 - [Group Hospital & Surgical (GHS) Panel Insurer Comparison: Singapore SME Decision Framework](/comparison/ghs-panel-insurer-comparison-singapore-sme)
 - [Group Hospitalisation & Surgical vs Personal Integrated Shield Plan: How They Coordinate](/comparison/ghs-vs-personal-ip)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [Group Term Life Death Benefit Claim Process: From Notification to Beneficiary Payment](/procedural-howto/group-term-life-claim-process)
 
 *Published 14 May 2026. Source verified 14 May 2026.*

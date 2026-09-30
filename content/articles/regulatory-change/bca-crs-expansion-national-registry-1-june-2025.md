@@ -21,7 +21,7 @@ og_description: "Any firm hiring construction Work Permit holders must now sit o
 
 > **The Answer in 60 Seconds**
 >
-> On 5 March 2024 the [Building and Construction Authority (BCA)](https://www1.bca.gov.sg/) announced that, with effect from **1 June 2025**, its [Contractors Registration System (CRS)](https://www1.bca.gov.sg/growth-and-transformation/procurement/registration-of-built-environment-firms/contractors-registration-system-crs/) would expand from a **public-sector procurement registry** into a **nation-wide registry of construction firms**. The change has two practical limbs. First, **any firm that wants to hire construction Work Permit or S Pass holders must now be registered in the CRS** - registration must be in place *before* the firm submits the work-permit application to the Ministry of Manpower - even if the firm never bids for a public-sector tender. Against roughly 11,000 firms already registered, BCA estimated up to about 7,000 more would need to register. Second, the **minimum entry requirements were raised**: from 1 June 2025 the entry floor is at least **S$50,000 in paid-up capital** and a **S$300,000 track record** of projects completed over the preceding three years. For a Singapore SME, the CRS is a registration regime, not insurance - but it sits directly upstream of the insurance an SME must carry, because hiring foreign construction workers triggers Work Injury Compensation insurance, foreign-worker medical insurance and, for non-Malaysian Work Permit holders, a security bond. This article explains the expansion and where it touches an SME's insurance programme. Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser.
+> On 5 March 2024 the [Building and Construction Authority (BCA)](https://www1.bca.gov.sg/) announced that, with effect from **1 June 2025**, its [Contractors Registration System (CRS)](https://www1.bca.gov.sg/growth-and-transformation/procurement/registration-of-built-environment-firms/contractors-registration-system-crs/) would expand from a **public-sector procurement registry** into a **nation-wide registry of construction firms**. The change has two practical limbs. First, **any firm that wants to hire construction Work Permit or S Pass holders must now be registered in the CRS** - registration must be in place *before* the firm submits the work-permit application to the Ministry of Manpower - even if the firm never bids for a public-sector tender. Second, the **minimum entry requirements were raised**: from 1 June 2025 the entry floor is at least **S$50,000 in paid-up capital** and a **S$300,000 track record** of ongoing and completed projects over the preceding three years. For a Singapore SME, the CRS is a registration regime, not insurance - but it sits directly upstream of the insurance an SME must carry, because hiring foreign construction workers triggers Work Injury Compensation insurance, foreign-worker medical insurance and, for non-Malaysian Work Permit holders, a security bond. This article explains the expansion and where it touches an SME's insurance programme. Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser.
 
 ### The Sourced Detail
 
@@ -29,25 +29,25 @@ og_description: "Any firm hiring construction Work Permit holders must now sit o
 
 The Contractors Registration System is BCA's register of construction and construction-related firms. Historically its main function was procurement: a firm had to be registered in the right **workhead** and **grade** to tender for public-sector construction projects, and the grade set the value ceiling of the projects it could bid for.
 
-The expansion announced on **5 March 2024** and effective **1 June 2025** keeps that procurement function but adds a second one. The CRS is now a **nation-wide registry**: any firm that hires construction-sector **Work Permit or S Pass holders** must be CRS-registered, regardless of whether it works on public or private projects, and the registration must be in place *before* the firm lodges the work-permit application with the Ministry of Manpower. BCA's stated rationale is to apply consistent baseline standards - financial, track-record and personnel - across the whole industry rather than only to firms chasing government work. Against roughly 11,000 firms already in the system, BCA estimated up to about 7,000 additional firms would be brought in.
+The expansion announced on **5 March 2024** and effective **1 June 2025** keeps that procurement function but adds a second one. The CRS is now a **nation-wide registry**: any firm that hires construction-sector **Work Permit or S Pass holders** must be CRS-registered, regardless of whether it works on public or private projects, and the registration must be in place *before* the firm lodges the work-permit application with the Ministry of Manpower. BCA's stated aim is that the same minimum standards apply equally to all firms hiring foreign construction workers, whether they undertake public or private sector projects.
 
-Alongside the expansion, BCA raised the **minimum entry requirements** so they keep pace with current market costs. From 1 June 2025 the entry floor is at least **S$50,000 in paid-up capital** and a **S$300,000 track record** of projects completed in the past three years. The precise figures for each workhead and grade are set out in BCA's published **Specific Registration Requirements (SRR)** documents, which BCA revises periodically - the current edition should be checked before relying on any figure.
+Alongside the expansion, BCA raised the **minimum entry requirements** so they keep pace with current market costs. From 1 June 2025 the entry floor is at least **S$50,000 in paid-up capital** and a **S$300,000 track record** of ongoing and completed projects over the past three years. The precise figures for each workhead and grade are set out in BCA's published **Specific Registration Requirements (SRR)** documents, which BCA revises periodically - the current edition should be checked before relying on any figure.
 
 #### Statutory and regulatory framework
 
 - **[Building Control Act 1989](https://sso.agc.gov.sg/Act/BCA1989)** - the statute under which BCA regulates the construction industry, including the Builders Licensing scheme.
 - **[Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990)** - governs Work Permits and S Passes; the CRS-registration precondition operates upstream of a work-permit application made under this Act.
 - **[Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006)** - imposes the duty of care that runs across every construction site.
-- **[Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019)** - requires employers to maintain WIC insurance for the workers a CRS-registered firm hires.
+- **[Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019)** - requires employers to insure all employees doing manual work, and non-manual employees earning S$2,600 or less a month.
 
-The CRS sits separately from BCA's **Builders Licensing** scheme (General Builder Class 1 and Class 2, and Specialist Builder), which is the licence to carry out building works. A firm typically needs both: the appropriate builder's licence to do the work, and CRS registration to tender for public projects and - from 1 June 2025 - to hire foreign workers.
+The CRS sits separately from BCA's **Builders Licensing** scheme (General Builder Class 1 and Class 2, and Specialist Builder), which is the licence to carry out building works. A main contractor doing building works whose plans need the Commissioner of Building Control's approval needs a builder's licence, and every CW grade requires one; BCA says subcontractors (except for specialist works) are generally not required to hold a General Builder's Licence. CRS registration is needed to tender for public projects and, from 1 June 2025, to hire construction S Pass or Work Permit holders.
 
 #### Workhead and grade structure
 
 The CRS organises firms into about 50 **workheads**, grouped into five families:
 
 - **CW - Construction Workhead** (CW01 General Building, CW02 Civil Engineering)
-- **CR - Construction-Related Workhead** (piling, structural steel, precast and similar trades)
+- **CR - Construction-Related Workhead** (piling, precast concrete production, ground support and similar trades)
 - **ME - Mechanical & Electrical Workhead**
 - **TR - Trade Heads**
 - **RW - Regulatory Workheads**
@@ -62,15 +62,15 @@ For an SME, the CRS expansion is not itself an insurance change - but it changes
 
 **CRS registration is now upstream of foreign-worker insurance.** A construction SME that hires Work Permit or S Pass holders must be CRS-registered before it can apply for those passes. Hiring those workers in turn triggers insurance obligations the SME cannot opt out of:
 
-- **Work Injury Compensation insurance.** Under the Work Injury Compensation Act 2019, an employer must maintain WIC insurance for all employees doing manual work, regardless of salary - which covers construction workers. The premium is rated mainly on wages.
+- **Work Injury Compensation insurance.** Under the Work Injury Compensation Act 2019, an employer must maintain WIC insurance for all employees doing manual work, regardless of salary - which covers construction workers. When confirming the policy, the employer gives the insurer its nature of business, headcount, annual wages and employees' occupations, among other details.
 - **Foreign-worker medical insurance.** MOM requires employers to hold medical insurance for Work Permit and S Pass holders, subject to a published annual minimum sum insured. (Confirm the current minimum and co-payment rules on the MOM website.)
-- **Security bond.** For non-Malaysian Work Permit holders, MOM requires a security bond, which is commonly satisfied through an insurer-issued bond.
+- **Security bond.** For non-Malaysian Work Permit holders, MOM requires a security bond, which can be bought from a bank or an insurance company.
 
-The practical sequence for an SME is therefore: CRS registration -> work-permit application -> the WIC, medical-insurance and bond obligations that attach to each foreign worker. A gap or delay at the CRS stage stalls everything downstream.
+The practical sequence for an SME is therefore: CRS registration -> work-permit application -> WIC insurance where WICA requires it, medical insurance for each Work Permit and S Pass holder, and a security bond for each non-Malaysian Work Permit holder. A gap or delay at the CRS stage stalls everything downstream.
 
 **Underwriting signal.** A firm's CRS workhead and grade are an objective, BCA-maintained record of its financial standing, track record and safety certification. Contractors' all-risks (CAR) and employer's/public-liability underwriters may ask for CRS workhead and grade as part of a renewal submission, because it corroborates the firm's scale and capability. It is one input an underwriter can weigh - not a rating in itself, and not a substitute for claims history.
 
-**Tender qualification.** For public-sector construction work, CRS registration in the relevant workhead and grade has long been a baseline tender condition, and public-sector construction contracts are let on the Public Sector Standard Conditions of Contract (PSSCOC), which carry their own insurance clauses. The expansion does not change that; it widens the pool of firms inside the registry. Some private-sector developers and managing agents also reference CRS grade in their pre-qualification criteria.
+**Tender qualification.** For public-sector construction work, CRS registration in the relevant workhead and grade has long been a baseline tender condition, and public-sector construction contracts are let on the Public Sector Standard Conditions of Contract (PSSCOC), which carry their own insurance clauses. The expansion does not change that; it widens the pool of firms inside the registry. BCA does not require CRS registration to perform construction work for private-sector projects, though other regulatory or client-specific requirements may still apply; a firm that employs construction S Pass or Work Permit holders must be registered whatever projects it takes on.
 
 #### What the expansion means for different firms
 
@@ -86,7 +86,7 @@ The practical sequence for an SME is therefore: CRS registration -> work-permit 
 
 3. **Registering in the wrong workhead.** Holding a grade in a workhead that does not match the work actually carried out, so the registration does not support the firm's tenders or its hiring.
 
-4. **Confusing CRS registration with a Builder's Licence.** The two are separate: the licence authorises the building work, the CRS registration supports tendering and foreign-worker hiring. A firm usually needs both.
+4. **Confusing CRS registration with a Builder's Licence.** The two are separate: the licence authorises the building work, the CRS registration supports tendering and foreign-worker hiring. A firm registered in a CW workhead needs both, since every CW grade requires a General Builder's Licence; BCA says that in general only main contractors need a General Builder's Licence, and subcontractors (except for specialist works) generally do not.
 
 5. **Treating CRS grade as a substitute for insurance.** A grade signals financial and track-record standing; it is not cover. WIC insurance, foreign-worker medical insurance and the security bond remain mandatory.
 
@@ -104,7 +104,7 @@ For a Singapore SME in construction, the CRS expansion is best treated as a sequ
 
 2. **Check against the raised thresholds** - paid-up capital and track record - at registration and at every renewal, using BCA's current SRR.
 
-3. **Sequence hiring correctly** - CRS registration first, then the work-permit application, then the WIC insurance, medical insurance and security bond for each worker.
+3. **Sequence hiring correctly** - CRS registration first, then the work-permit application, then WIC insurance where WICA requires it, medical insurance for each Work Permit and S Pass holder, and a security bond for each non-Malaysian Work Permit holder.
 
 4. **Keep CRS evidence in your renewal file** - workhead, grade and safety certification are useful corroboration for a CAR or liability submission.
 
@@ -126,7 +126,7 @@ The cost of CRS compliance - meeting the capital and track-record floor, and the
 
 ### Related Information
 - [WSH Mandatory Video Surveillance for Construction (S$5m+) Effective 1 June 2024: CAR Underwriting and Claims Evidence Impact](/regulatory-change/wsh-mandatory-video-surveillance-construction-1-june-2024)
-- [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
+- [WSH Maximum Fines Raised (1 June 2024): The New Ceilings Under the WSH Regulations](/regulatory-change/wsh-penalty-doubling-2024)
 - [How to Comply with PSSCOC Insurance Clauses for a Government Construction Tender](/procedural-howto/psscoc-insurance-clauses-government-tender-singapore)
 
 *Published 17 May 2026. Source verified 17 May 2026.*

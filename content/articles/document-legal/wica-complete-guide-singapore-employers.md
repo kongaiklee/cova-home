@@ -103,7 +103,7 @@ The employee's right to compensation does not depend on the employer having insu
 3. **Leaving the policy to the week before.** MOM requires the contract finalised and the insurer's information supplied at least 21 days before commencement.
 4. **Waiting for "more than three days" of medical leave before reporting.** The [MOM guide](https://www.mom.gov.sg/-/media/mom/documents/safety-health/publications/wica-2019/wic-guide-for-employers.pdf) starts the 10-day clock on any instance of medical leave or light duty.
 5. **Reading the maximum as $346,000.** At 100% permanent incapacity MOM adds 25%, so the maximum is $432,500 ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)).
-6. **Under-declaring payroll or headcount.** The lump sum runs on wages, so the wages declared to the insurer are what the cover is sized on. [WICA mid-policy wage adjustment workflow](/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore) covers the change.
+6. **Under-declaring payroll or headcount.** The lump sum runs on wages. MOM warns that under-declaring employees to the insurer can affect all your claims, and that inaccurate information may lead the insurer to seek back from the employer what it paid out. [WICA mid-policy wage adjustment workflow](/procedural-howto/wica-mid-policy-wage-adjustment-workflow-singapore) covers the change.
 7. **Confusing WICA with group personal accident or employers' liability.** Different triggers, different limits. See [WICA vs GPA](/comparison/wica-vs-gpa).
 
 ## What This Means for Your Business
@@ -112,7 +112,7 @@ List every person under a contract of service or apprenticeship. Mark the manual
 
 Put two dates in the business's own record, not in one person's memory: the policy start date minus 21 days, which is [MOM's](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) deadline for the insurer's information, and the renewal date. Put one procedure beside them: who files the MOM incident report within 10 days of any medical leave, and who covers it when that person is away.
 
-Size the exposure on wages and age, not headcount. The permanent incapacity maximum for accidents from 1 November 2025 is $346,000, and $432,500 at 100% incapacity ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)). A team with higher earners or older staff sits closer to those figures than headcount suggests.
+Size the exposure on wages and age, not headcount. The permanent incapacity maximum for accidents from 1 November 2025 is $346,000, and $432,500 at 100% incapacity ([MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation)). A team with higher earners or younger staff sits closer to those figures than headcount suggests, because the age multiplying factor in the Act falls as age rises.
 
 Covarage holds the WIC policy and schedule, the designated-insurer details and the renewal date in one place, with reminders before it lapses, and introduces you to a licensed intermediary when the cover needs to be arranged or reviewed. The compliance is yours; the record is what we keep.
 
@@ -140,7 +140,7 @@ Insurers and the panel:
 
 Claims and process:
 - [How to File a Workplace Accident Notification Under WICA 2019: The 10-Day MOM Rule](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How to Add a New Employee to Existing WICA Policy](/procedural-howto/wica-add-new-employee)
 - [How to Renew WICA When Changing to a Different Insurer](/procedural-howto/wica-change-insurer-renewal)
 

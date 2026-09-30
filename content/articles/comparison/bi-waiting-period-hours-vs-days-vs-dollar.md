@@ -49,7 +49,7 @@ The structural priority for an SME is usually to size the Indemnity Period corre
 
 #### Verbatim wording extracts
 
-**MSIG Singapore SUMO SME Insurance** BI section states its cover "covers the additional increased cost of working up to 100 days and cost of recompiling records due to Insured Perils under Section 1 and electronic equipment interruption". The drafter should fetch the SUMO Policy Wording PDF and extract the BI section's Time Excess, Indemnity Period, Increased Cost of Working, and any monetary deductible clauses verbatim before placement.
+**MSIG Singapore SUMO SME Insurance** BI section states its cover "covers the additional increased cost of working up to 100 days and cost of recompiling records due to Insured Perils under Section 1 and electronic equipment interruption".
 
 **AIG Singapore property and BI bundles** provide a BI section within commercial property packages. The deductible clause and Indemnity Period definition should be reproduced verbatim from the issued wording.
 
@@ -173,7 +173,7 @@ For SMEs whose business survival depends on speed of cash recovery in the first 
 - [Reinstatement Cost vs Indemnity Value: Property and Equipment Cover Decision Framework](/comparison/reinstatement-cost-vs-indemnity-value-property)
 - [First Loss vs Full Value with Average Clause: Property Sum Insured Decision Framework](/comparison/first-loss-vs-full-value-average-clause-property)
 - [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: The Insurance Clauses for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
 - [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 - [Ransomware Active Negotiation Phase: Data Exfiltration, Sanctions Screening, Payment Decision](/crisis/ransomware-active-negotiation-phase)
 

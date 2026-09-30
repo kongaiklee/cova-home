@@ -21,7 +21,7 @@ og_description: "Stop, exchange particulars, photograph, do not admit liability.
 
 ### The Answer in 60 Seconds
 
-> Per the General Insurance Association of Singapore's Motor Claims Framework (gia.org.sg/motor-insurance), the driver must (1) **stop, exchange particulars, take photos, do NOT admit liability**, (2) call the police if injury, fatality, government property, foreign vehicle, pedestrian/cyclist or hit-and-run is involved, (3) call the insurer's 24-hour hotline, and (4) report the accident to the insurer within **24 hours or by the next working day**, by bringing the vehicle to an Authorised Reporting Centre or Workshop (ARC). Failure to report can dock No-Claim Discount, void cover, or trigger non-renewal. The MCF is "fully supported by all insurers in Singapore."
+> Per the General Insurance Association of Singapore's Motor Claims Framework (gia.org.sg/motor-insurance), the driver must (1) **stop, exchange particulars and take photos** (AIG Singapore's claims guidance adds that you "should not admit any liability"), (2) call the police if injury, fatality, government property, foreign vehicle, pedestrian/cyclist or hit-and-run is involved, (3) call the insurer's 24-hour hotline, and (4) report the accident to the insurer within **24 hours or by the next working day**, by bringing the vehicle to an Authorised Reporting Centre or Workshop (ARC). Failure to report can dock No-Claim Discount, void cover, or trigger non-renewal. The MCF is "fully supported by all insurers in Singapore."
 
 ### The Step-by-Step
 
@@ -30,18 +30,17 @@ og_description: "Stop, exchange particulars, photograph, do not admit liability.
 - If anyone is injured: call **995** for ambulance; call **999** for police.
 - Photograph: vehicle positions before moving, all damage, road conditions, traffic signs, both drivers' licences, insurance certificates, the other vehicle's registration plate.
 - Exchange: name, NRIC/FIN, address, phone, vehicle plate, insurer.
-- Per GIA: "Do not admit any liability, negotiate, or make any offer or settlement to a third party."
+- AIG Singapore's claims guidance: "You should not admit any liability, negotiate, or make any offer or settlement to a third party."
 
 **Step 2 - Decide if Traffic Police report is required.**
 Per GIA, file a Traffic Police report "as soon as possible or within 24 hours of the accident if the accident involves: Fatality; Damage to government property; Foreign vehicle; Pedestrian or cyclist; Hit-and-run case; or Injury cases where (a) at least one person involved in the accident was taken to hospital from the accident scene by an ambulance/self-conveyed or (b) any party involved in the accident was injured and obtained outpatient medical leave for 3 days or more." Filing a Traffic Police report is **not** the same as reporting to your insurer.
 
 **Step 3 - Call your insurer's 24-hour hotline.**
-The insurer arranges towing (if needed) via authorised tow operators. **Avoid all unauthorised tow truck operators or workshops** - using one can void your claim. AIG's Singapore guidance is explicit on this.
+The insurer arranges towing (if needed) via authorised tow operators. **Avoid all unauthorised tow truck operators or workshops**: GIA strongly advises against dealing with unauthorised tow-truck operators and against using an unauthorised workshop "to avoid complications of your claim", and AIG's Singapore guidance says the same.
 
 **Step 4 - Report to the insurer within 24 hours or the next working day.**
 Bring the vehicle (drivable or not) to an Authorised Reporting Centre (ARC) or Authorised Workshop. Bring:
 - NRIC and driving licence
-- Vehicle registration card
 - Certificate of Insurance (current)
 - Company stamp (commercial vehicles)
 - Authorisation letter / email if driver is not the owner
@@ -56,25 +55,25 @@ Per GIA: "Myinfo reporting will be the default reporting process going forward."
 Insurer-appointed surveyor inspects the damage. For third-party claims (you not at fault claiming against the other party's insurer), formally notify the third-party insurer and wait for their joint survey before commencing repairs (typically 2 working days; if no response, document and proceed).
 
 **Step 7 - Repair authorisation.**
-Repairs proceed at an authorised workshop. Don't approve repairs above the policy excess without written insurer authorisation.
+Repairs proceed at an authorised workshop. Insurers can require their authorisation before repairs above a set amount: Sompo's private car claims procedure, for example, requires it for any repairs exceeding S$300.
 
 **Step 8 - Settlement.**
-Insurer pays the workshop directly (own-damage claim) or settles with the third party (liability claim). Your No-Claim Discount (NCD) is affected by the outcome - even non-claimable accidents reported can affect NCD per GIA: "If you do not report an accident…Your No-Claims Discount may be docked upon the renewal of your policy."
+Insurer pays the workshop directly (own-damage claim) or settles with the third party (liability claim). Your No-Claim Discount (NCD) depends on the outcome: GIA says the impact on NCD and premiums "will be determined by the outcome of the insurer's investigations into the accident", and that if you do not report an accident, "Your No-Claims Discount may be docked upon the renewal of your policy."
 
 ### Common Mistakes / What Goes Wrong
 
 1. **Settling privately with the other driver.** GIA: "Even if the parties agree to a private settlement, a report to the respective insurers is still required for record purposes." A "minor" private settlement that the other party renounces six weeks later leaves you defending an unreported claim.
-2. **Using an unauthorised tow truck.** Workshops not on the insurer's panel may inflate repair quotes; the insurer can refuse payment.
+2. **Using an unauthorised tow truck.** Workshops not on the insurer's panel may inflate repair quotes, and GIA warns that using one can complicate your claim.
 3. **Missing the 24-hour window.** The MCF allows next-working-day reporting; longer than that without documented justification can dock NCD or void cover.
 4. **Repairing before joint survey (third-party claim).** Pre-repair photos and a third-party surveyor's inspection are critical to a defensible third-party claim.
-5. **Running a private car for "hire and reward" without disclosure.** Using a private motor policy for ride-hail or delivery without expanding cover is a non-disclosure that voids the policy. GIA: "approach insurers to expand their motor policy to cover 'hire and reward' usage."
+5. **Running a private car for "hire and reward" without the right cover.** A private car policy's "Limitation to Use" condition restricts use to social, domestic and pleasure purposes, and for personal motorcycles used for deliveries GIA warns that the insurer "may repudiate liability" and may cancel or refuse to renew the policy. GIA: "approach insurers to expand their motor policy to cover 'hire and reward' usage."
 
 ### What This Means for Your Business
 
 If your business runs commercial vehicles - vans, lorries, motorbikes for delivery - three operational habits prevent most claim disputes:
 
 1. **Driver pack in every vehicle.** Includes: insurer hotline number, accident reporting cheat-sheet, ARC list, blank exchange-of-particulars form, and a "Do NOT admit liability" reminder card.
-2. **Telematics or dashcam.** Footage settles ambiguity. Some insurers offer premium discounts for verified dashcam installation - ask your licensed adviser which insurers in your fleet's risk class currently apply such discounts.
+2. **Telematics or dashcam.** Footage settles ambiguity. Insurers can give a benefit when in-car camera footage is provided: AIG Singapore's car claims page, for example, offers a waiver of up to S$1,090 (including GST) of the accidental repair excess, terms applying; ask your licensed adviser which insurers in your fleet's risk class offer one.
 3. **Quarterly review of all reported incidents** (claimable or not). Trend data identifies the high-risk routes, drivers, or vehicle types and feeds into renewal negotiations with your insurer.
 
 The Motor Claims Framework was designed to standardise reporting and contain claim costs. Working with it (not around it) protects your premium and your NCD.

@@ -21,51 +21,51 @@ og_description: "First loss or full value with average: two ways a Singapore bus
 
 > **The Answer in 60 Seconds**
 >
-> Singapore property insurance settles the sum insured question in one of two architectures. **Full Value with Average Clause** requires the SME to insure the full reinstatement value of the property at risk; if the sum insured at the time of loss is less than the full value, the insurer's payment is reduced pro rata. Most Singapore market wordings carry an 85% trigger: if the sum insured is at least 85% of the value at risk, the clause does not apply; below 85%, averaging applies to the full proportionate shortfall. **First Loss basis** allows the SME to insure a fraction of total value (a maximum probable loss) at the agreed first-loss limit, with no average clause applying. Premium per S$1m of cover is materially higher under First Loss, but the SME insures a smaller number. First Loss is structurally suited to risks where total simultaneous loss is implausible (large multi-compartment warehouses, distributed inventory, high-value portable items in a sea of low-value stock). Full Value with Average is the universal default for buildings, fixed plant, and stock-in-trade. Critical Singapore statutory point: under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the Insurance (General Provisions) Regulations, the existence of a Condition of Average must be clearly disclosed on the policy in order to be operative - undisclosed average clauses have no legal effect. The published [MSIG Singapore consumer guidance](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) confirms the disclosure-as-precondition rule in plain terms. The claim-time arithmetic is unforgiving: a Singapore wholesale SME insuring S$2m of stock when the true value at risk is S$5m, suffering a S$1m loss, recovers only S$400,000 under Average - versus S$1m under First Loss at the same insured amount.
+> Singapore property insurance settles the sum insured question in one of two architectures. **Full Value with Average Clause** requires the SME to insure the full reinstatement value of the property at risk; if the sum insured at the time of loss is less than the full value, the insurer's payment is reduced pro rata. Some wordings carry an 85% trigger: if the sum insured is at least 85% of the value at risk, the clause does not apply; below 85%, averaging applies to the full proportionate shortfall. Others, such as MSIG's SUMO SME package, reduce the payment whenever the property is worth more than the sum insured. **First Loss basis** allows the SME to insure a fraction of total value (a maximum probable loss) at the agreed first-loss limit, with no average clause applying. Under First Loss the SME insures a smaller number. First Loss is structurally suited to risks where total simultaneous loss is implausible (large multi-compartment warehouses, distributed inventory, high-value portable items in a sea of low-value stock). Full Value with Average is used for buildings, fixed plant and stock-in-trade, but not universally: Etiqa's HDB Fire Insurance master policy for HDB flats, for example, states that the condition of average shall not apply. Average applies only where the policy carries an average clause: [MSIG Singapore's consumer guidance](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) says that if an average clause is not stated in the policy, the cover is on a first-loss basis. Neither the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) nor the Insurance (General Provisions) Regulations contains a rule on average clauses. The claim-time arithmetic is unforgiving: a Singapore wholesale SME insuring S$2m of stock when the true value at risk is S$5m, suffering a S$1m loss, recovers only S$400,000 under Average - versus S$1m under First Loss at the same insured amount.
 
 ### The Sourced Detail
 
-The Condition of Average is one of the highest-volume painful claim-time disputes in Singapore property insurance. It arises whenever an SME's sum insured at the time of loss is less than the full reinstatement value of the property at risk. The insurer reduces the payment pro rata, meaning the SME bears not just the gap between sum insured and full value but also a proportionate share of every claim regardless of size. SMEs operating with under-set sums insured for premium-management reasons are routinely surprised at claim time. The First Loss alternative exists for specific risk profiles where the structural answer is to insure less, not under-insure.
+The Condition of Average applies at claim time. It arises whenever an SME's sum insured at the time of loss is less than the full reinstatement value of the property at risk (under a wording with an 85% margin, only when it is less than 85% of that value). The insurer reduces the payment pro rata, meaning the SME bears not just the gap between sum insured and full value but also a proportionate share of every claim regardless of size. The First Loss alternative exists for specific risk profiles where the structural answer is to insure less, not under-insure.
 
 #### The two structures defined
 
-**Full Value with Average Clause** (also called Condition of Average, 85% co-insurance clause, or pro-rata under-insurance clause). The SME insures the full reinstatement (or, less commonly, indemnity) value of the property at risk. The policy contains a Condition of Average providing that in the event of loss where the sum insured is less than the value at risk at the time of loss, the insurer's payment is reduced pro rata. Most Singapore market wordings include an 85% threshold: if the sum insured is at least 85% of the value at risk, no averaging applies; below 85%, averaging applies to the full proportionate shortfall, not just the shortfall below 85%.
+**Full Value with Average Clause** (also called Condition of Average, co-insurance clause, or pro-rata under-insurance clause). The SME insures the full reinstatement (or, less commonly, indemnity) value of the property at risk. The policy contains a Condition of Average providing that in the event of loss where the sum insured is less than the value at risk at the time of loss, the insurer's payment is reduced pro rata. Some wordings include an 85% threshold (Sompo's HomeMax wording is one Singapore example): if the sum insured is at least 85% of the value at risk, no averaging applies; below 85%, averaging applies to the full proportionate shortfall, not just the shortfall below 85%. Others, such as MSIG's SUMO SME package, have no threshold, so any shortfall reduces the payment.
 
 **First Loss basis.** The SME and insurer agree that the SME insures a maximum probable loss (an amount less than total value at risk), and that no Condition of Average will apply. Used where total destruction is implausible (e.g., a large warehouse where a single fire compartment limits the maximum probable loss, or a portable-equipment cover where physical and security controls limit simultaneous loss).
 
-#### The Singapore statutory rule: disclosure as precondition
+#### Average applies only if the policy carries it
 
-The foundational legal point of this article is that under Singapore insurance law a Condition of Average must be expressly disclosed on the policy to be operative. This is the rule against undisclosed averaging.
+A Condition of Average applies only if the policy contains one. Whether it does is a question of the wording.
 
-The rule is anchored in the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the [Insurance (General Provisions) Regulations](https://sso.agc.gov.sg/SL/IA1966-RG17). The operative substance is that where a policy contains an average clause, this must be indicated clearly on the cover of the policy, failing which the average clause has no legal effect. Some published insurer disclosure notices reference the historical "Regulation 126(5) of the Insurance Act" numbering; the regulatory numbering has been re-issued under successive revisions to the Insurance Act's subsidiary legislation, and the current paragraph number should be confirmed on Singapore Statutes Online at the date of publication.
+The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and the [Insurance (General Provisions) Regulations](https://sso.agc.gov.sg/SL/IA1966-RG17) contain no provision on average clauses; the Regulations deal with matters such as insurers' fees, transfers of business, free-look periods and life policy values.
 
-The [MSIG Singapore consumer-facing guidance page](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) confirms the disclosure rule in plain language: "If average clause is not stated in the policy, it means your insurance coverage is based on first-loss." This is MSIG's own statement that disclosure on the policy face is a precondition; SMEs reviewing their property wordings should specifically check that the Condition of Average, if any, is disclosed on the policy cover or schedule, and not merely buried in standard terms and conditions.
+The [MSIG Singapore consumer-facing guidance page](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) says in plain language: "If average clause is not stated in the policy, it means your insurance coverage is based on first-loss." In MSIG's own SUMO SME package wording, the underinsurance condition sits among the general conditions (condition 12).
 
 #### Verbatim wording extracts
 
-The standard Singapore market 85% Condition of Average wording, carried in materially common form in [MSIG Singapore SUMO](https://www.msig.com.sg/sites/msig_sg/files/2024-01/SMO022401_SUMO_Insurance_Policy.pdf), Tokio Marine Singapore Fire and Industrial All Risks, AIG Singapore commercial property, and Chubb Singapore Property All Risks wordings, reads in substantively common form:
+Wordings differ. [MSIG Singapore SUMO](https://www.msig.com.sg/sites/msig_sg/files/2024-01/SMO022401_SUMO_Insurance_Policy.pdf) has no 85% margin: "If any property insured shall at the time of the occurrence be collectively of greater value than the sum insured, the amount payable by the Company in respect of the loss or damage shall be proportionately reduced." A Condition of Average with an 85% margin can take this form:
 
 "If at the time of any loss or damage the Property Insured shall be of greater value than the Sum Insured stated in the Schedule, the Insured shall be considered as being his own insurer for the difference and shall bear a rateable proportion of the loss accordingly. Where, however, the Sum Insured at the time of any loss or damage is not less than 85 per cent of the value of the Property Insured at the time of such loss or damage, this Condition shall not apply."
 
-Drafters and procurement teams should reproduce each insurer's wording verbatim from the issued SUMO, Tokio Marine, AIG Singapore, or Chubb Singapore wording in question rather than generalising from one wording. The 85% threshold is widely standardised but not universal - some specialist wordings use 80% or no margin at all.
+The 85% threshold is not universal: MSIG's SUMO SME package, for example, has no margin at all.
 
-For First Loss cover, the wording typically inserts a "First Loss Memorandum" or "First Loss Endorsement" that explicitly disapplies the Condition of Average and confirms the first-loss limit as the cap on cover regardless of total value at risk. The Endorsement is granted at the underwriter's discretion and is conditional on the SME providing a credible Maximum Probable Loss estimate from a quantity surveyor or risk engineer.
+A First Loss wording puts the cover on a first-loss basis with no Condition of Average, and the first-loss limit is the cap on cover regardless of total value at risk. As [MSIG Singapore's consumer guidance](https://www.msig.com.sg/lifestyle-library/abcs-reading-home-insurance-policy) puts it, "Unlike average clause, you are not required to insure your assets at full value. In a first-loss policy, you are compensated only up to the amount insured". Whether to offer First Loss is the insurer's decision.
 
 #### The Singapore market convention by property type
 
-**Buildings, fixed plant, fixed renovation, tenants' improvements.** Full Value with 85% Condition of Average is the universal Singapore market default. First Loss is not offered for fixed building cover; the structural assumption is that simultaneous total loss is the relevant scenario.
+**Buildings, fixed plant, fixed renovation, tenants' improvements.** Full Value with a Condition of Average is used for these items, on the assumption that a total loss is a realistic scenario. It is not universal: Etiqa's HDB Fire Insurance master policy for HDB flats states that the condition of average shall not apply, and Etiqa's Complimentary Home Insurance wording insures renovation on a first-loss basis.
 
-**Stock-in-trade.** Full Value with Average - sum insured set at the highest stock value during the period - is standard, often paired with a Stock Declaration Memorandum (adjustment at year-end against declared monthly stock levels). SMEs with seasonal stock peaks (typically retail and F&B in advance of Chinese New Year and year-end) should specifically request the Stock Declaration mechanism rather than insuring at average stock value.
+**Stock-in-trade.** Full Value with Average, with the sum insured set at the highest stock value during the period, can be paired with a Stock Declaration Memorandum (adjustment at year-end against declared monthly stock levels). SMEs with seasonal stock peaks (typically retail and F&B in advance of Chinese New Year and year-end) should specifically request the Stock Declaration mechanism rather than insuring at average stock value.
 
-**Theft of high-value portable items from a warehouse with hundreds of SKUs.** First Loss is genuinely used where the maximum probable theft loss is a small fraction of total stock value. The First Loss premium per S$1m is materially higher than the Full Value premium per S$1m, but the SME insures a much smaller number.
+**Theft of high-value portable items from a warehouse with hundreds of SKUs.** First Loss is genuinely used where the maximum probable theft loss is a small fraction of total stock value. The SME insures a much smaller number.
 
-**Goods in transit, Money insurance, electronic equipment under specified perils.** First Loss is a common architecture, because total simultaneous loss across all conveyances or locations is implausible. The cover is sized to a single-conveyance or single-location maximum.
+**Goods in transit, Money insurance, electronic equipment under specified perils.** First Loss can be used for these covers, because total simultaneous loss across all conveyances or locations is implausible. The cover is sized to a single-conveyance or single-location maximum.
 
-**Engineering classes - Computer All Risk, Machinery Breakdown, Equipment All Risk, Contractors Plant and Equipment All Risk.** Full Value with Average is standard for fixed plant; First Loss may be applicable for distributed mobile equipment.
+**Engineering classes - Computer All Risk, Machinery Breakdown, Equipment All Risk, Contractors Plant and Equipment All Risk.** Full Value with Average can apply to fixed plant; First Loss may be applicable for distributed mobile equipment.
 
 #### Claim-time worked example: SME wholesale stock
 
-A Singapore wholesale SME holds stock with a true total value at risk of S$5,000,000 at peak (pre-Chinese New Year inventory build). The SME insures stock at S$2,000,000 sum insured to manage premium, on Full Value basis with the standard 85% Condition of Average.
+A Singapore wholesale SME holds stock with a true total value at risk of S$5,000,000 at peak (pre-Chinese New Year inventory build). The SME insures stock at S$2,000,000 sum insured to manage premium, on Full Value basis with an 85% Condition of Average.
 
 Fire destroys S$1,000,000 of stock. Settlement outcomes:
 
@@ -73,7 +73,7 @@ Fire destroys S$1,000,000 of stock. Settlement outcomes:
 
 **Scenario B - Full Value with 85% Average, sum insured S$4,250,000 (=85% of S$5m), loss S$1,000,000.** Sum insured equals the 85% threshold. Average does not apply. Payment = S$1,000,000 less deductible.
 
-**Scenario C - First Loss basis, first-loss limit S$2,000,000 declared with total value at risk S$5,000,000, loss S$1,000,000.** No average. Payment = S$1,000,000 less deductible. Premium for the S$2m first-loss limit is materially higher per dollar than the premium for S$2m sum insured under full-value-with-average, but lower than the premium for S$5m full-value cover. The SME has bought certainty within the S$2m envelope.
+**Scenario C - First Loss basis, first-loss limit S$2,000,000 declared with total value at risk S$5,000,000, loss S$1,000,000.** No average. Payment = S$1,000,000 less deductible. The SME has bought certainty within the S$2m envelope.
 
 **Scenario D - First Loss basis, first-loss limit S$2,000,000, loss S$3,000,000.** Payment capped at S$2,000,000 less deductible. The SME bears the S$1,000,000 excess. First Loss is structurally inappropriate where a single-event total loss is possible.
 
@@ -89,7 +89,7 @@ Had the SME insured at S$289,000 (85% of S$340,000), the Average clause would no
 
 Three pathways recur:
 
-**Sum insured frozen at historical fit-out cost.** A renovation done 3 years ago at S$280,000 is insured at S$280,000 today, while current reinstatement cost has risen to S$340,000. The sum insured is 82% of current value, below the 85% threshold. Average triggers on the first claim.
+**Sum insured frozen at historical fit-out cost.** A renovation done 3 years ago at S$280,000 is insured at S$280,000 today, while current reinstatement cost has risen to S$340,000. The sum insured is 82% of current value, below any 85% threshold. Average triggers on the first claim.
 
 **Sum insured set on a depreciation basis.** SMEs sometimes set the sum insured at depreciated book value rather than current reinstatement cost, especially for plant and equipment. This is structurally wrong for Reinstatement-basis settlement (see [what a new-for-old policy expects](/comparison/reinstatement-cost-vs-indemnity-value-property)) and triggers Average even on a partial loss.
 
@@ -99,29 +99,29 @@ Three pathways recur:
 
 There is no published GIA Singapore aggregate data permitting a numerical statement of the First Loss vs Full Value premium spread. The structural drivers are:
 
-**Premium per S$1m of sum insured.** First Loss is materially more expensive per dollar of cover than Full Value with Average, because the insurer prices the higher conditional probability that the agreed first-loss amount will be reached. The premium differential can be substantial (often 2-4x the full-value rate per dollar).
+**Premium per S$1m of sum insured.** How the rate for a first-loss limit compares with the full-value rate is a matter for each insurer's quote.
 
 **Decision factors for First Loss adoption.** First Loss is rational where: (a) total simultaneous loss is implausible due to physical separation, compartmentation, or geographic distribution; (b) the SME has a credible Maximum Probable Loss estimate from a quantity surveyor or risk engineer; and (c) the SME is fluent in declaring the basis at renewal so that the wording is properly endorsed.
 
-**Decision factors for Full Value adoption.** Full Value with Average is rational for almost all other property exposures, provided the sum insured is rigorously maintained at >=85% of the value at risk and revisited annually for inflation. The discipline of obtaining a fresh Reinstatement Cost Assessment at each renewal is the critical anti-creep mechanism.
+**Decision factors for Full Value adoption.** Full Value with Average is rational for almost all other property exposures, provided the sum insured is maintained at the level the wording requires (the full value at risk where there is no margin, or at least 85% of it where the wording has an 85% margin) and revisited annually for inflation. The discipline of obtaining a fresh Reinstatement Cost Assessment at each renewal is the critical anti-creep mechanism.
 
 #### Singapore inflation context 2024-2026
 
-Singapore construction-cost and replacement-cost inflation has narrowed the historical gap between declared sums insured and current value at risk. SMEs whose sum insured was last refreshed before 2023 are particularly likely to be under-insured against current reinstatement cost. A renewal-cycle Reinstatement Cost Assessment is the structurally important discipline; this is more important than negotiating wording features for most SME property placements.
+Construction-cost and replacement-cost increases widen the gap between a sum insured set in an earlier year and current value at risk, so a sum insured that has not been refreshed since costs rose is likely to sit below current reinstatement cost. A renewal-cycle Reinstatement Cost Assessment is the structurally important discipline; this is more important than negotiating wording features for most SME property placements.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Setting the sum insured to manage premium rather than to reflect value at risk.** This is the single most common pathway to under-insurance. The premium saving on a 30% under-set sum insured is small relative to the claim-time Average exposure.
+1. **Setting the sum insured to manage premium rather than to reflect value at risk.** The premium saving on a 30% under-set sum insured is small relative to the claim-time Average exposure.
 
-2. **Confusing "I insured for S$2m" with "the insurer pays the first S$2m of loss".** Under Full Value with Average, the sum insured is the cap on cover, but the payment on any loss is reduced pro rata if the sum insured is less than 85% of value at risk. The SME does not get full payment up to the sum insured.
+2. **Confusing "I insured for S$2m" with "the insurer pays the first S$2m of loss".** Under Full Value with Average, the sum insured is the cap on cover, but the payment on any loss is reduced pro rata if the sum insured is less than the value at risk (or less than 85% of it, where the wording has an 85% margin). The SME does not get full payment up to the sum insured.
 
-3. **Not refreshing the sum insured for inflation.** A sum insured frozen at historical cost will drift below the 85% threshold as construction costs and replacement costs inflate. The annual broker conversation should specifically address sum-insured adequacy against current Reinstatement Cost Assessment.
+3. **Not refreshing the sum insured for inflation.** A sum insured frozen at historical cost will drift below the value at risk, and below any 85% threshold, as construction costs and replacement costs inflate. The annual broker conversation should specifically address sum-insured adequacy against current Reinstatement Cost Assessment.
 
 4. **Setting stock sum insured at average value rather than peak.** Stock declarations should reflect the highest expected stock value during the policy period, with a Stock Declaration Memorandum for year-end adjustment if the SME wants premium efficiency.
 
 5. **Buying First Loss cover without a credible MPL estimate.** First Loss requires the SME to estimate the maximum probable loss. Setting this too low (S$500k where a single-event loss could realistically reach S$1.5m) leaves the SME funding the excess directly.
 
-6. **Assuming the absence of an explicit Condition of Average means no averaging applies.** Under the Singapore regulatory framework, the Condition of Average is operative only if disclosed on the policy. SMEs should specifically confirm with their broker whether the wording carries an average clause and at what threshold (typically 85%, sometimes 80%, occasionally no margin).
+6. **Not checking whether the wording carries a Condition of Average.** MSIG's consumer guidance says a policy that does not state an average clause is first-loss cover; where the wording does carry one, it can sit in the general conditions rather than on the schedule. SMEs should specifically confirm with their broker whether the wording carries an average clause and at what threshold (some wordings waive average at 85% of value; others, such as MSIG's SUMO, have no margin).
 
 7. **Buying separate sub-limits without coordinating with the main sum insured.** A property package with separate sub-limits for renovation, stock, plant, and money can be under-set on any individual sub-limit, triggering Average on that line even if the overall package looks adequate.
 
@@ -129,20 +129,20 @@ Singapore construction-cost and replacement-cost inflation has narrowed the hist
 
 9. **Ignoring the Stock Declaration mechanism.** SMEs with material seasonal stock variation should specifically request the Stock Declaration Memorandum to align cover with peak exposure without paying peak premium year-round.
 
-10. **Discovering Average for the first time at claim time.** The brokers' duty under the Insurance (Intermediaries) Regulations and MAS conduct guidelines includes explaining material policy features at point of sale. SMEs who were not specifically informed about the Average clause at placement should raise this with the broker and the insurer.
+10. **Discovering Average for the first time at claim time.** Section 67 of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966?ProvIds=pr67-) requires an insurance intermediary, including a broker, to disclose "all material information" before inviting a proposal for insurance, including the insurer's name, the intermediary's relationship with the insurer and the premium; and the General Insurance Association's Code of Practice says member insurers will "explain all the main features" of their products to customers dealing with them directly. SMEs who were not specifically informed about the Average clause at placement should raise this with the broker and the insurer.
 
 ### What This Means for Your Business
 
-For a Singapore SME procuring property insurance, the order of operations is: obtain a current Reinstatement Cost Assessment from a qualified quantity surveyor or valuer; set the sum insured at full reinstatement value (or at minimum at 85% of value at risk); confirm whether the wording carries a Condition of Average and at what threshold; for stock, declare on a peak-value or Stock Declaration basis rather than average; refresh the Reinstatement Cost Assessment annually at renewal; and align the sum insured with the basis of settlement (Reinstatement Memorandum must be coordinated with sum-insured-at-reinstatement-value).
+For a Singapore SME procuring property insurance, the order of operations is: obtain a current Reinstatement Cost Assessment from a qualified quantity surveyor or valuer; set the sum insured at full reinstatement value (or, where the wording has an 85% margin, at minimum 85% of value at risk); confirm whether the wording carries a Condition of Average and at what threshold; for stock, declare on a peak-value or Stock Declaration basis rather than average; refresh the Reinstatement Cost Assessment annually at renewal; and align the sum insured with the basis of settlement (Reinstatement Memorandum must be coordinated with sum-insured-at-reinstatement-value).
 
-For SMEs with distributed inventory, large multi-compartment warehouses, or high-value portable equipment, First Loss may be the structurally correct architecture, but requires a credible Maximum Probable Loss estimate and is materially more expensive per dollar of cover.
+For SMEs with distributed inventory, large multi-compartment warehouses, or high-value portable equipment, First Loss may be the structurally correct architecture, but depends on a realistic Maximum Probable Loss estimate.
 
-The Singapore statutory disclosure rule (Condition of Average must be disclosed on the policy to be operative) is a backstop, not a substitute for placement discipline. SMEs whose wordings clearly disclose an average clause cannot rely on the disclosure rule to escape its effect at claim time.
+Where the wording carries a Condition of Average, it applies at claim time, so checking for it belongs at placement, not after a loss.
 
 ### Questions to Ask Your Adviser
 
-1. Does our property wording carry a Condition of Average, and what is the threshold (85% standard, occasionally 80%)?
-2. Is the average clause clearly disclosed on the policy cover or schedule, in compliance with the Insurance Act regulatory disclosure rule?
+1. Does our property wording carry a Condition of Average, and what is the threshold (some wordings waive average at 85% of value; others have no margin)?
+2. Where in the wording or schedule is the average clause set out, and which sections does it apply to?
 3. When was our last Reinstatement Cost Assessment, and how does the current sum insured compare with current reinstatement value?
 4. For stock, are we declaring on peak value, average value, or via a Stock Declaration Memorandum?
 5. Is First Loss available for any of our property risks, and what is the realistic Maximum Probable Loss estimate?
@@ -155,7 +155,7 @@ The Singapore statutory disclosure rule (Condition of Average must be disclosed 
 - [Unfair Contract Terms Act 1977: Commercial Limitation of Liability Framework](/document-legal/ucta-1977-commercial-limitation)
 - [Marine Insurance Act 1906: Utmost Good Faith Doctrine and Commercial Implications](/document-legal/mia-1906-utmost-good-faith)
 - [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
-- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
+- [PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: The Insurance Clauses for Sub-S$1m Public Works in Singapore](/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025)
 - [Limitation Act 1959: Time-Bar Mechanics for Commercial Insurance Claims](/document-legal/limitation-act-1959-time-bar-insurance-claims)
 
 ---

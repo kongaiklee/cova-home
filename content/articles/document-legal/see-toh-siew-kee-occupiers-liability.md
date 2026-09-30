@@ -21,7 +21,7 @@ og_description: "See Toh Siew Kee restructured occupiers' liability in Singapore
 
 > **The Answer in 60 Seconds**
 >
-> *See Toh Siew Kee v Ho Ah Lam Ferrocement* [2013] SGCA 29 is the Singapore Court of Appeal decision that fundamentally restructured occupiers' liability in Singapore. The decision abolished the historical category-based approach (different duties owed to invitees vs licensees vs trespassers) and replaced it with a unified negligence-based framework. After See Toh, occupiers owe a single duty of care framed in negligence terms: to take such care as is reasonable in the circumstances to ensure the visitor will be reasonably safe. The decision has substantial practical implications for **Public Liability** insurance underwriting and claim handling, **commercial premises operations**, **specific industry-specific risk management**, and **landlord-tenant frameworks**. For Singapore SMEs operating any premises with public access - retail, F&B, hospitality, sport facilities, healthcare, professional services - See Toh defines the standard against which premises-related claims are evaluated.
+> *See Toh Siew Kee v Ho Ah Lam Ferrocement* [2013] SGCA 29 is the Singapore Court of Appeal decision that fundamentally restructured occupiers' liability in Singapore. The decision abolished the historical category-based approach (different duties owed to invitees vs licensees vs trespassers) and replaced it with a unified negligence-based framework. After See Toh, whether an occupier owes a duty of care is decided under the general negligence test in Spandeck on the facts of the case, and where a duty is owed, it is a duty to exercise reasonable care. The decision has substantial practical implications for **Public Liability** insurance underwriting and claim handling, **commercial premises operations**, **specific industry-specific risk management**, and **landlord-tenant frameworks**. For Singapore SMEs operating any premises with public access - retail, F&B, hospitality, sport facilities, healthcare, professional services - See Toh defines the standard against which premises-related claims are evaluated.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ See Toh Siew Kee v Ho Ah Lam Ferrocement is one of the most important Singapore 
 
 #### The factual background
 
-The plaintiff, See Toh Siew Kee, suffered serious injury at the defendant's premises. The defendant operated a ferrocement business with industrial premises. The plaintiff was on the premises in circumstances that raised the question of what duty was owed to him under the historical occupiers' liability framework.
+The plaintiff, See Toh Siew Kee, was a service engineer on his way to service the radar of a tugboat. He entered a shipyard at 9/11 Tuas Basin Close, leased by Ho Ah Lam Ferrocement (a ship building and repair business) and sublet to Lal Offshore, through a gap between a fence and the shoreline rather than the main gate, and was hit by a fouled mooring wire while a crane barge used by Asian Lift was being moored. The trial judge found he had knowingly trespassed, which raised the question of what duty, if any, was owed to him.
 
 The case worked through the courts to the Court of Appeal, which used it as the vehicle for reconsidering the framework that had been the subject of confusion and inconsistent application.
 
@@ -37,9 +37,9 @@ The case worked through the courts to the Court of Appeal, which used it as the 
 
 Historically, occupiers' liability operated on category-based duties:
 
-**Invitees** (visitors with a common interest with the occupier - e.g. customers, business visitors): owed the highest duty - to use reasonable care to make the premises safe and to warn of unusual dangers.
+**Invitees** (visitors with a common interest with the occupier - e.g. customers, business visitors): owed the highest duty: the occupier had to use reasonable care to prevent damage from unusual dangers of which it knew or ought to have known.
 
-**Licensees** (visitors with permission but not common interest - e.g. social guests): owed a lower duty - to warn of known dangers, but not necessarily to make premises safe.
+**Licensees** (visitors with permission but not common interest - e.g. social guests): owed a lower duty: licensees took the premises as they found them, apart from concealed dangers of which the occupier actually knew, and ran the risk of obvious dangers.
 
 **Trespassers** (visitors without permission): owed the lowest duty - typically only not to inflict deliberate or reckless harm.
 
@@ -58,16 +58,9 @@ The Singapore Court of Appeal in See Toh:
 
 **Adopted a unified negligence-based framework.** Occupiers' liability became part of negligence law generally - applying the standard duty of care, breach, causation, and remoteness analysis.
 
-**Defined the duty.** Occupiers owe a duty to take such care as is reasonable in the circumstances to ensure the visitor will be reasonably safe.
+**Applied the general negligence test.** Whether an occupier owes a duty of care is decided under the Spandeck test on the facts of the case. Where a duty is owed, it is a duty to exercise reasonable care; occupiers are not insurers of the safety of their property. The lead judgment held that an occupier in control of premises owes a lawful entrant a prima facie duty of care; one judge preferred to decide that case by case, and the third, while inclined to agree, left the point open.
 
-**Specified the relevant factors.** What's "reasonable in the circumstances" depends on:
-
-- The nature of the premises
-- The nature of the visitor
-- The nature of the risk
-- Specific custom and practice in the relevant context
-- Specific economic and operational factors
-- Specific resource and feasibility considerations
+**Addressed control and trespassers.** Control matters: the two occupiers had no part in the mooring operation that injured See Toh, and the court held that only the company conducting it, Asian Lift, owed him a duty of care. For a trespasser there is no blanket rule either way: whether a duty arises depends on all the circumstances of the case, and the entrant's own culpability is one relevant factor.
 
 This approach mirrors the broader negligence framework - the duty exists; what's required to discharge it is contextual.
 
@@ -75,7 +68,7 @@ This approach mirrors the broader negligence framework - the duty exists; what's
 
 After See Toh, premises-related claims work through a unified analysis:
 
-**Step 1: Did the occupier owe a duty?** Generally yes, to all visitors (with specific limited exceptions for criminal trespassers in some scenarios).
+**Step 1: Did the occupier owe a duty?** This is decided under the Spandeck test on the facts. An occupier in control of the premises will usually owe a lawful visitor a duty of care. For a trespasser there is no blanket rule either way: it depends on all the circumstances, and See Toh himself, who had no criminal intent, was held to be owed no duty by the two occupiers.
 
 **Step 2: What's the standard of care?** Reasonable care in the circumstances - applied with the contextual factors above.
 
@@ -127,11 +120,9 @@ The framework applies across industries with specific contextual variations:
 
 See Toh's framework directly affects PL insurance underwriting and claim handling:
 
-**Underwriting.** Insurers evaluate premises and operations against the reasonable-care standard. Specific risk management infrastructure, specific maintenance records, specific incident response all influence underwriting.
+**Underwriting.** Insurers ask about the premises and operations: Chubb's and AIG's Singapore general liability proposal forms, for example, ask whether premises, plant, equipment and machinery are in good condition and well maintained, and ask about past claims (the last five years on Chubb's form, three on AIG's).
 
 **Claim handling.** PL claims work through the See Toh framework. The insurer evaluates whether reasonable care was taken; defence strategies focus on demonstrating compliance with the standard.
-
-**Risk management.** Insurers' risk management resources (loss control engineers, specific industry expertise) often help SMEs improve premises safety in alignment with See Toh expectations.
 
 **Specific exclusions.** Standard PL exclusions (intentional acts, employer's liability, professional services, etc.) operate alongside the See Toh framework; the insurance covers the negligent occupier exposure that See Toh defines.
 
@@ -166,7 +157,7 @@ See Toh's framework operates in landlord-tenant contexts:
 
 **Specific overlap scenarios.** Specific contractual allocations of responsibility.
 
-**Commercial framework.** Specific landlord-tenant insurance requirements common.
+**Commercial framework.** A lease can set insurance requirements; JTC's standard terms for its space leases, for example, require the tenant to carry public liability insurance.
 
 #### Specific case considerations
 

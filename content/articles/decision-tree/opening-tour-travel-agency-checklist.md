@@ -21,7 +21,7 @@ og_description: "A tour or travel agency needs a Travel Agent Licence under the 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore tour or travel agency requires a [Travel Agent Licence](https://www.stb.gov.sg/) under the [Travel Agents Act 1975](https://sso.agc.gov.sg/Act/TAA1975) and the Travel Agents Regulations 2017, administered by the [Singapore Tourism Board (STB)](https://www.stb.gov.sg/). STB issues two categories: a **General Licence** (the full scope of travel-agent activity) and a **Niche Licence** (tours within Singapore only, providing conveyance but not accommodation), each with its own minimum paid-up capital and a Key Executive requirement. Insurance baseline: **Public Liability** with worldwide territory (S$1M-S$5M typical), **Professional Indemnity** including Errors and Omissions cover for ticketing and booking errors, **WICA** for staff, **Property/Fire** for the office, **Cyber Liability** with significant attention to BEC (travel agencies are heavily targeted), **Crime / Money** for client funds and supplier payments, and **Tour Operator Liability** for inbound tour operations. The most distinctive risk: **financial responsibility for travel arrangements** - agents are intermediaries holding significant client funds, and the failure of a supplier (airline, hotel, ground operator) creates a client-compensation exposure.
+> A Singapore tour or travel agency requires a [Travel Agent Licence](https://www.stb.gov.sg/) under the [Travel Agents Act 1975](https://sso.agc.gov.sg/Act/TAA1975) and the Travel Agents Regulations 2017, administered by the [Singapore Tourism Board (STB)](https://www.stb.gov.sg/). STB issues two categories: a **General Licence** (the full scope of travel-agent activity) and a **Niche Licence** (tours within Singapore only, providing conveyance but not accommodation), each with its own minimum paid-up capital and a Key Executive requirement. Insurance baseline: **Public Liability** with worldwide territory, **Professional Indemnity** including Errors and Omissions cover for ticketing and booking errors, **WICA** insurance for staff where MOM requires it (all employees doing manual work, and non-manual employees earning S$2,600 a month or less), **Property/Fire** for the office, **Cyber Liability** with attention to BEC, **Crime / Money** for client funds and supplier payments, and **Tour Operator Liability** for inbound tour operations. The most distinctive risk: **financial responsibility for travel arrangements** - agents are intermediaries holding significant client funds, and the failure of a supplier (airline, hotel, ground operator) creates a client-compensation exposure.
 
 ### The Sourced Detail
 
@@ -37,7 +37,7 @@ Travel agents are regulated under the [Travel Agents Act 1975](https://sso.agc.g
 
 Both require the applicant to maintain a net worth equal to the paid-up capital and to nominate a **Key Executive** responsible for the agency's administration and operations. Applications are made through STB's TRUST licensing system.
 
-**Operational standards** under the Act and Regulations cover record-keeping, advertising, the handling of consumer complaints, and the consumer-protection measures the 2017 Regulations introduced. Separately, the **CaseTrust-NATAS** accreditation scheme - run by CASE with the National Association of Travel Agents Singapore (NATAS) - is a voluntary consumer-trust mark an agency can hold on top of its STB licence.
+**Operational standards** under the Act and Regulations cover record-keeping, advertising, the handling of consumer complaints, and the consumer-protection measures the 2017 Regulations introduced.
 
 #### Business model categories
 
@@ -52,7 +52,7 @@ Both require the applicant to maintain a net worth equal to the paid-up capital 
 PL responds to the office and consultation operations, and - for inbound or escorted operations - to tour- and event-related activity.
 
 **Limit considerations:**
-- Standard limits S$1M-S$5M
+- Limits depend on the agency's activities
 - Higher for inbound tour operators running on-tour activities, especially higher-risk activity tours
 - Commercial contracts may set their own minimums
 
@@ -63,7 +63,7 @@ PL responds to the office and consultation operations, and - for inbound or esco
 PI is critical for a travel agent. It responds to booking errors (wrong dates, destinations, or prices), airline ticketing errors, accommodation booking errors, advice and itinerary errors, and a failure to deliver the arrangements promised - broadly, the errors and omissions of the booking process and supplier coordination.
 
 **Limit considerations:**
-- Standard limits S$1M-S$3M
+- Limits depend on booking volumes and package values
 - Higher for high-volume or corporate operations, and where package values are large
 
 **Points to confirm with the insurer:** that booking errors are explicitly covered, the territorial scope, and how consumer-dispute scenarios are treated.
@@ -72,18 +72,18 @@ PI is critical for a travel agent. It responds to booking errors (wrong dates, d
 
 A distinctive travel-agency exposure arises when a supplier fails - airline insolvency, a hotel or accommodation closure, a ground-operator or cruise-operator failure. The consumer impact is cancelled or disrupted travel, the need for alternative arrangements, and compensation expectations the agency may be commercially or contractually exposed to.
 
-**Insurance** is only a partial answer: some PI policies extend to supplier-failure scenarios, but dedicated cover is uncommon. The more effective mitigation is operational - bonded or financial-protection arrangements with key suppliers, sound commercial contracts, and segregation of consumer funds - alongside the consumer-protection requirements of the Travel Agents Regulations.
+**Insurance** is only a partial answer, and whether a PI wording responds to supplier failure depends on its terms. The more effective mitigation is operational - bonded or financial-protection arrangements with key suppliers, sound commercial contracts, and segregation of consumer funds - alongside the consumer-protection requirements of the Travel Agents Regulations.
 
 #### The Cyber Liability layer
 
-Travel agencies are heavily targeted for cyber attacks, across four exposures:
+Travel agencies face four cyber exposures:
 
-1. **BEC / social-engineering fraud** - high-frequency targeting of both supplier-payment and client-booking-fund flows; a successful BEC also disrupts operations (see [the first hours after a fraudulent payment](/crisis/bec-wire-fraud-loss-discovered)).
+1. **BEC / social-engineering fraud** - aimed at both supplier-payment and client-booking-fund flows; a successful BEC also disrupts operations (see [the first hours after a fraudulent payment](/crisis/bec-wire-fraud-loss-discovered)).
 2. **Customer data breaches** - agencies hold NRIC, contact, and financial data, and frequently passport details, so a breach carries real PDPA significant-harm exposure.
 3. **Credit card data** - payment processing brings PCI-DSS compliance obligations.
 4. **Operational disruption** - booking-system failures and platform dependencies.
 
-**A workable Cyber stack:** comprehensive Cyber with adequate limits (S$2M-S$10M+ typical); BEC / social-engineering-fraud cover (foundational for travel); business interruption for system disruption; and cover for PDPA Section 26D notification costs.
+**A workable Cyber stack:** comprehensive Cyber with adequate limits; BEC / social-engineering-fraud cover; business interruption for system disruption; and cover for PDPA Section 26D notification costs.
 
 #### The Crime / Money layer
 
@@ -105,7 +105,7 @@ Client-money handling should also be set up to meet the record-keeping and consu
 - PL with worldwide territory
 - PI / E&O for booking operations
 - Property/Fire for the office
-- WICA for staff
+- WICA insurance where MOM requires it (all manual employees, and non-manual employees earning S$2,600 a month or less)
 - Group benefits if staff are employed
 - Cyber Liability with comprehensive BEC cover
 - Crime / Money
@@ -128,20 +128,7 @@ Client-money handling should also be set up to meet the record-keeping and consu
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore travel / tour agencies (actual premiums depend on volumes, destinations, and limits):
-
-**Small agency (3-8 staff, single office):**
-- PL / PI: S$3,000-S$10,000
-- Cyber with comprehensive BEC: S$3,000-S$8,000
-- WICA, Property, Crime: S$3,000-S$10,000
-- **Total annual insurance budget:** typically S$10,000-S$30,000
-
-**Mid-size (15-40 staff, multi-destination):**
-- Higher limits, comprehensive Cyber, specialist provisions
-- **Total:** typically S$25,000-S$80,000
-
-**Larger established / specialist:**
-- A comprehensive programme; total scales with the operation
+Premiums depend on the agency's volumes, destinations and limits, and are set by each insurer.
 
 #### Operational risk management
 
@@ -158,7 +145,7 @@ Insurers underwrite travel agencies on:
 1. **Operating without an STB Travel Agent Licence.**
 2. **Standard SME PL with no travel-specific cover.**
 3. **PI inadequate for booking volumes and values.**
-4. **Cyber inadequate for BEC exposure.** A high-frequency exposure for travel.
+4. **Cyber inadequate for BEC exposure.**
 5. **No BEC awareness or payment-verification protocols.** Direct loss exposure.
 6. **Breach of the Travel Agents Regulations.** Consumer-complaint and reputational impact.
 7. **Supplier-failure scenarios neither insured nor operationally mitigated.**
@@ -174,7 +161,7 @@ For Singapore travel agency founders:
 
 2. **Match PI to booking volumes and values.**
 
-3. **Invest heavily in BEC-aware Cyber.** Travel is specifically targeted.
+3. **Invest in BEC-aware Cyber.**
 
 4. **Build supplier-verification discipline.**
 

@@ -21,7 +21,7 @@ og_description: "Only one of the two bodies behind a Singapore accountant attach
 
 > **The Answer in 60 Seconds**
 >
-> The [Institute of Singapore Chartered Accountants (ISCA)](https://isca.org.sg) is the national accountancy body conferring the Chartered Accountant of Singapore (CA Singapore) designation. The [Accounting and Corporate Regulatory Authority (ACRA)](https://www.acra.gov.sg) administers the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) and houses the Public Accountants Oversight Committee (PAOC), which registers and regulates public accountants and accounting entities. **Section 28 (Professional Indemnity Insurance)** is the operative PI provision; **section 17** governs approval of accounting corporations (PAC), section 18 of accounting firms, and section 18A of accounting LLPs. ACRA's published PI formula (per acra.gov.sg) is the higher of prescribed amounts including 2.5 times the entity's gross income in the last completed financial year, capped at S$50 million. Minimum paid-up capital for PACs and accounting LLPs is S$50,000. The [Accountants (Public Accountants) Rules (AA2004-R1)](https://sso.agc.gov.sg/SL/AA2004-R1) and amendments (S 130/2021 and S 952/2022) implement the framework. The ISCA Code of Professional Conduct and Ethics aligns with the IESBA International Code; the statutory code under section 64AA is prescribed by PAOC. Part 5 (sections 32-38A) and Part 5A house the Practice Monitoring Programme and AML/CFT review framework. The Corporate and Accounting Laws (Amendment) Act 2025 (Act 24 of 2025) amends Part IV provisions including disciplinary processes. Common SME gaps: audit PI for retired partners (claims-made tail extends 6 years post-cessation); LLP architecture preserves partnership goodwill but individual partner negligence cover still required; cross-jurisdictional audit exclusions; AML/CFT compliance defence not always within standard audit PI.
+> The [Institute of Singapore Chartered Accountants (ISCA)](https://isca.org.sg) is the national accountancy body conferring the Chartered Accountant of Singapore (CA Singapore) designation. The [Accounting and Corporate Regulatory Authority (ACRA)](https://www.acra.gov.sg) administers the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) and houses the Public Accountants Oversight Committee (PAOC), which registers and regulates public accountants and accounting entities. **Section 28 (Professional Indemnity Insurance)** is the operative PI provision; **section 17** governs approval of accounting corporations (PAC), section 18 of accounting firms, and section 18A of accounting LLPs. ACRA's published PI formula (per acra.gov.sg) is the higher of prescribed amounts including 2.5 times the entity's gross income in the last completed financial year, capped at S$50 million. Minimum paid-up capital for PACs and accounting LLPs is S$50,000. The [Accountants (Public Accountants) Rules (AA2004-R1)](https://sso.agc.gov.sg/SL/AA2004-R1) and amendments (S 130/2021 and S 952/2022) implement the framework. The ISCA Code of Professional Conduct and Ethics aligns with the IESBA International Code; the statutory code under section 64AA is prescribed by PAOC. Part 5 (sections 32-38A) and Part 5A house the Practice Monitoring Programme and AML/CFT review framework. The Corporate and Accounting Laws (Amendment) Act 2025 (Act 24 of 2025) amends the Accountants Act, including Part 4, with its first provisions in force from 6 May 2026. Common SME gaps: audit PI for retired partners (under the Limitation Act 1959, a negligence claim can be brought within 6 years from when the cause of action accrues, or within 3 years from when the claimant first had the knowledge needed to sue if that is later, subject to a 15-year long-stop); partners' personal liability in an LLP (a partner remains personally liable in tort for their own wrongful acts, while the Act defines professional indemnity insurance as including cover for the LLP's liability for negligence by any of its partners); cross-jurisdictional audit exclusions; whether the PI wording covers the costs of responding to an AML/CFT review.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ The Singapore accountancy profession operates under the most formalised PI-formu
 
 #### The two-tier institutional architecture
 
-**Institute of Singapore Chartered Accountants (ISCA).** The professional body conferring the Chartered Accountant of Singapore (CA Singapore) designation. ISCA membership is voluntary; the designation requires education, examination, and continuing professional development.
+**Institute of Singapore Chartered Accountants (ISCA).** The professional body conferring the Chartered Accountant of Singapore (CA Singapore) designation. ISCA membership is a condition of registration as a public accountant: the Oversight Committee must not register an applicant unless the applicant is an ISCA member and a registered chartered accountant. The designation requires education, examination, and continuing professional development.
 
 **Accounting and Corporate Regulatory Authority (ACRA).** The statutory body administering the Accountants Act 2004 and related legislation. ACRA houses the Public Accountants Oversight Committee (PAOC) which registers and regulates public accountants (the statutorily licensed practitioners who can issue audit opinions and undertake reserved accountancy functions).
 
@@ -45,17 +45,17 @@ The [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) is the primary sta
 
 **Part IV (sections 17-31): Accounting Corporations, Accounting Firms, and Accounting LLPs.** The entity-licence framework.
 
-- **Section 17: Approval of Accounting Corporations (PAC).** Section 17(2)(e) requires that the corporation be covered by professional indemnity insurance in accordance with section 28 and the prescribed requirements.
+- **Section 17: Approval of Accounting Corporations (PAC).** Section 17(3)(e) requires that the corporation be covered by professional indemnity insurance in accordance with section 28 and the prescribed requirements.
 - **Section 18: Approval of Accounting Firms.**
-- **Section 18A: Approval of Accounting LLPs.** Section 18A(2)(d) imposes the same PI requirement.
+- **Section 18A: Approval of Accounting LLPs.** Section 18A(3)(d) imposes the same PI requirement.
 - **Section 25: Professional Misconduct.**
 - **Section 28: Professional Indemnity Insurance.** The operative PI provision for accounting entities.
 
-**Part 5 (sections 32-38A) and Part 5A: Practice Monitoring and AML/CFT Review.** ACRA Practice Monitoring Programme. Section 38A prohibits refusal to undergo PMP.
+**Part 5 (sections 32-38A) and Part 5A: Practice Monitoring and AML/CFT Review.** ACRA Practice Monitoring Programme. Under section 38A, the Oversight Committee may suspend for up to 2 years a public accountant who refuses, without reasonable excuse, to undergo the PMP.
 
 **Section 64AA: Code of Professional Conduct and Ethics.** Prescribed by PAOC.
 
-The Corporate and Accounting Laws (Amendment) Act 2025 (Act 24 of 2025) amends Part IV provisions including disciplinary processes touching section 28 PI breaches. The amendments commenced progressively from late 2025; drafters should track commencement notifications.
+The Corporate and Accounting Laws (Amendment) Act 2025 (Act 24 of 2025), passed on 5 November 2025, amends the Accountants Act, including Part 4 provisions such as sections 17 and 18A. It commences in phases; the first provisions, including a requirement that the audit report name the public accountant primarily responsible for the audit, commenced on 6 May 2026.
 
 #### The PI formula: section 28 and ACRA's published requirements
 
@@ -63,14 +63,15 @@ ACRA's published requirements implement section 28. The PI minimum formula (per 
 
 The accounting entity (PAC or LLP) must be covered by professional indemnity insurance of not less than the highest of:
 
-- A prescribed base amount.
+- S$1 million.
+- S$500,000 for every corporate practitioner in the entity.
 - A sum equal to 2.5 times the gross income of the entity in the last completed financial year of the entity, subject to a maximum sum of S$50 million.
 
-For a small SME accounting practice with annual gross income of S$800,000, the formula minimum is 2.5 × S$800,000 = S$2 million PI cover.
+For a small SME accounting practice with annual gross income of S$800,000 and no more than four corporate practitioners, the minimum is 2.5 x S$800,000 = S$2 million PI cover.
 
-For a mid-tier accounting practice with annual gross income of S$5 million, the formula minimum is 2.5 × S$5 million = S$12.5 million PI cover.
+For a mid-tier accounting practice with annual gross income of S$5 million and no more than 25 corporate practitioners, the minimum is 2.5 x S$5 million = S$12.5 million PI cover.
 
-For a top-tier audit firm with annual gross income of S$30 million, the formula minimum is 2.5 × S$30 million = S$75 million, capped at S$50 million.
+For a top-tier audit firm with annual gross income of S$30 million, the income limb is 2.5 x S$30 million = S$75 million, capped at S$50 million; the minimum is S$50 million unless the firm has more than 100 corporate practitioners.
 
 The structural implication: PI minimum scales with revenue growth. A practice whose revenue has grown materially since the prior PI inception must scale cover before the next renewal to maintain section 28 compliance.
 
@@ -80,7 +81,7 @@ ACRA requires minimum paid-up capital of S$50,000 for both PACs and accounting L
 
 #### Subsidiary legislation and codes
 
-**Accountants (Public Accountants) Rules (AA2004-R1).** Available on [SSO](https://sso.agc.gov.sg/SL/AA2004-R1). Detailed regulatory framework for public accountant registration, conduct, and PI requirements.
+**Accountants (Public Accountants) Rules (AA2004-R1).** Available on [SSO](https://sso.agc.gov.sg/SL/AA2004-R1). Sets out the requirements for registration and renewal as a public accountant, continuing professional education and disciplinary procedure; the PI minimum is in section 28 of the Act.
 
 **Accountants (Public Accountants) (Amendment) Rules 2021 (S 130/2021).** Available on [SSO](https://sso.agc.gov.sg/SL-Supp/S130-2021/Published/20210226).
 
@@ -95,23 +96,23 @@ ACRA requires minimum paid-up capital of S$50,000 for both PACs and accounting L
 The ACRA Practice Monitoring Programme (PMP) under Part 5 of the Accountants Act assesses public accountants' compliance with professional standards. The PMP:
 
 - Examines audit engagements for compliance with Singapore Standards on Auditing (SSAs).
-- Reviews quality control under International Standard on Quality Management (ISQM) 1.
+- Firm-level quality control is reviewed separately, in a quality control standards review of the accounting entity under Part 5A (section 38D), against the Singapore Standards on Quality Management 1 and 2 (SSQM 1 and SSQM 2).
 - Tests independence under IESBA Code requirements.
 - Assesses general adherence to the Accountants Act and subsidiary regulations.
 
-PMP outcomes range from satisfactory to partially satisfactory (triggering remediation under section 38) and unsatisfactory (triggering disciplinary action). Refusal to undergo PMP is itself a statutory offence under section 38A.
+PMP outcomes range from satisfactory to partially satisfactory (for which the Oversight Committee may order remedial steps under section 38(1)) and not satisfactory (for which it may cancel, suspend or refuse to renew the registration, or restrict the accountant's practice, under section 38(2)). Refusing to undergo the PMP without reasonable excuse can lead to suspension of the public accountant's registration for up to 2 years under section 38A.
 
 #### AML/CFT framework
 
-Part 5A imposes anti-money-laundering and counter-terrorism-financing review obligations on public accountants. The AML/CFT framework applies to: (i) accounting services provided in the course of carrying on a designated business of preparing and submitting accounts; (ii) services constituting "specified accountancy work" under Singapore's AML/CFT regime.
+Part 5A allows the Oversight Committee to require an accounting entity to undergo a quality control standards review, and an accounting entity and its individual practitioners to undergo a review of compliance with the prescribed requirements on detecting and preventing money laundering, terrorism financing and proliferation financing (AML/CFT/CPF requirements).
 
-AML/CFT compliance defence costs are sometimes carved out of standard audit PI; SMEs should test the wording explicitly.
+Whether a PI policy pays the costs of responding to an AML/CFT review depends on its wording.
 
 #### Insurance interaction for SME accounting practices
 
 The principal insurance lines for Singapore SME accounting practices:
 
-**Audit / Accounting Professional Indemnity.** Statutorily compelled at the entity level under section 28. The 2.5 × gross income / S$50 million cap formula sets the minimum.
+**Audit / Accounting Professional Indemnity.** Statutorily compelled at the entity level under section 28. The minimum is the highest of S$1 million, S$500,000 per corporate practitioner, and 2.5 times gross income capped at S$50 million.
 
 **Top-Up PI.** Voluntary top-up cover above the statutory floor. For high-revenue audit firms, the S$50 million cap on the statutory formula may not adequately cover credible single-audit claims; top-up cover bridges the gap.
 
@@ -123,9 +124,9 @@ The principal insurance lines for Singapore SME accounting practices:
 
 **Fidelity Guarantee / Commercial Crime.** Especially for practices handling client monies in liquidation, insolvency, or trust engagements.
 
-**Run-Off PI.** Critical for retired partners. The Limitation Act 1959 6-year limitation on contract claims (and 6-year tort limitation under section 6, with possible postponement under section 29 for fraud) means audit claims can arise up to 6 years post-engagement.
+**Run-Off PI.** Critical for retired partners. The Limitation Act 1959 6-year limitation on contract claims (and 6-year tort limitation under section 6, with possible postponement under section 29 for fraud) means audit claims are not always barred 6 years after the work: the 6 years run from when the cause of action accrues, and a negligence claim can be brought within 3 years from when the claimant first had the knowledge needed to sue, if that is later, subject to a 15-year long-stop from the negligent act (sections 24A and 24B).
 
-**WICI 2019.** Statutorily compelled for employees.
+**Work Injury Compensation Insurance.** Required under the Work Injury Compensation Act 2019 for all employees doing manual work, and for non-manual employees earning S$2,600 a month or less (excluding overtime, bonuses, annual wage supplements, productivity incentives and allowances).
 
 ### Common Mistakes / What Goes Wrong
 
@@ -133,13 +134,13 @@ The principal insurance lines for Singapore SME accounting practices:
 
 2. **No top-up cover above the S$50 million statutory cap.** For high-revenue audit firms, credible single-audit claims can exceed S$50 million. The statutory cap is the floor for compliance, not the appropriate limit for claim severity.
 
-3. **Audit PI for retired partners lapsing.** Run-off cover should preserve cover for 6 years post-retirement to align with the Limitation Act 6-year limitation.
+3. **Audit PI for retired partners lapsing.** Run-off cover set at 6 years post-retirement may not match the Limitation Act, under which negligence claims for latent damage can be brought up to 15 years after the negligent act.
 
 4. **LLP architecture relied on for individual partner negligence.** LLP architecture preserves partnership goodwill but partners remain personally liable for their own acts. Individual partner PI may be required for high-risk engagements.
 
 5. **Cross-jurisdictional audit exclusions.** Regional audits (client subsidiaries in Southeast Asia, China, India) may be excluded by territorial scope. Wording should specifically include cross-border engagement scope.
 
-6. **AML/CFT compliance defence not within standard audit PI wording.** SMEs should test wording for AML/CFT defence response.
+6. **AML/CFT review costs not checked against the PI wording.** Whether the policy pays the costs of responding to an AML/CFT review depends on its wording.
 
 7. **Cyber missing for client-data management.** Audit firms hold extensive client data on cloud platforms; cyber exposure is material.
 
@@ -159,9 +160,9 @@ For practices undertaking AML/CFT-regulated activities, the AML/CFT framework un
 
 ### Questions to Ask Your Adviser
 
-1. Is our PI cover at or above the section 28 formula minimum (2.5 × gross income from last completed FY, capped at S$50 million)?
+1. Is our PI cover at or above the section 28 minimum (the highest of S$1 million, S$500,000 per corporate practitioner, and 2.5 x gross income from the last completed FY capped at S$50 million)?
 2. For our gross income trajectory, do we have a renewal-trigger threshold at which top-up cover is required?
-3. Is our run-off cover in place to preserve PI for at least 6 years post-engagement aligned with the Limitation Act?
+3. Is our run-off cover in place for the Limitation Act periods, including the 15-year long-stop for latent negligence claims?
 4. Does our PI wording include AML/CFT compliance defence, cross-border engagement scope, and electronic-engagement extensions?
 5. For high-risk engagements (audit, liquidation, insolvency, trust), do we have individual-partner PI top-up or D&O cover for personal exposure?
 6. Are our Cyber and Fidelity Guarantee covers aligned with client-data and client-monies exposure?

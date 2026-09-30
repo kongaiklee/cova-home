@@ -21,7 +21,7 @@ og_description: "Singapore's section 157 requires honesty and reasonable diligen
 
 > **The Answer in 60 Seconds**
 >
-> [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) is the foundational provision establishing director duties in Singapore. It codifies that directors must act honestly and use reasonable diligence in the discharge of their duties, and that directors and officers cannot use their position to gain personal advantage that would cause detriment to the company. Breach is a criminal offence carrying fines and potential imprisonment, plus civil exposure to the company. The provision interacts with broader common-law director duties (fiduciary duty, duty of care, duty to act within powers, etc.) which Singapore courts have developed extensively. For Singapore SMEs, Section 157 is the regulatory foundation that makes **D&O (Directors & Officers) insurance** essential - D&O responds to defence costs and damages for director-level claims, with specific policy provisions addressing the criminal / fraud exclusions that limit cover for deliberate breach. The provision also informs the [WSHA Section 48](/licensing/bca-me-workhead-contractor-insurance-requirements) personal director liability framework.
+> [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) is the foundational provision establishing director duties in Singapore. It codifies that directors must act honestly and use reasonable diligence in the discharge of their duties, and that an officer or agent must not make improper use of their position, or of information gained through it, to gain an advantage for themselves or anyone else, or to cause detriment to the company. Breach is a criminal offence carrying fines and potential imprisonment, plus civil exposure to the company. The provision interacts with broader common-law director duties (fiduciary duty, duty of care, duty to act within powers, etc.) which Singapore courts have developed extensively. For Singapore SMEs, Section 157 is the regulatory foundation that makes **D&O (Directors & Officers) insurance** essential - D&O responds to defence costs and damages for director-level claims, with specific policy provisions addressing the criminal / fraud exclusions that limit cover for deliberate breach.
 
 ### The Sourced Detail
 
@@ -35,12 +35,12 @@ Per [Companies Act 1967 Section 157](https://sso.agc.gov.sg/Act/CoA1967):
 A director shall at all times act honestly and use reasonable diligence in the discharge of the duties of his office.
 
 **Section 157(2):**
-An officer or agent of a company shall not make improper use of any information acquired by virtue of his position to gain, directly or indirectly, an advantage for himself or for any other person, or to cause detriment to the company.
+An officer or agent of a company must not make improper use of his or her position as an officer or agent of the company or any information acquired by virtue of his or her position as an officer or agent of the company to gain, directly or indirectly, an advantage for himself or herself or for any other person or to cause detriment to the company.
 
 **Section 157(3):**
 An officer or agent who commits a breach of any of the provisions of this section shall be:
 - Liable to the company for any profit made by him or for any damage suffered by the company as a result of the breach
-- Guilty of an offence and shall be liable on conviction to a fine not exceeding S$5,000 or to imprisonment for a term not exceeding 1 year
+- Guilty of an offence and shall be liable on conviction to a fine not exceeding S$20,000 or to imprisonment for a term not exceeding 12 months or to both
 
 **Section 157(4):**
 This section is in addition to and not in derogation of any other written law or rule of law relating to the duty or liability of directors or officers.
@@ -71,7 +71,7 @@ For SME directors, the diligence standard means active engagement with company o
 
 #### Section 157(2) - improper use of position
 
-Subsection (2) addresses what's commonly called the "no profit / no conflict" rule:
+Subsection (2) bars improper use of position or information. It sits alongside, and does not replace, the common-law fiduciary rules against profiting from the office or being in a conflict of interest. Under subsection (2):
 
 - Directors cannot use their position to gain personal advantage
 - Directors cannot use their position to harm the company
@@ -113,7 +113,7 @@ These civil remedies can be pursued by the company itself or, where the company 
 
 Section 157(3) creates a criminal offence:
 
-- Fine up to S$5,000 (modest by current standards but real)
+- Fine up to S$20,000 (raised from S$5,000 on 6 May 2026), and a court may impose both a fine and imprisonment
 - Imprisonment up to 1 year
 - Specific procedural framework via [ACRA](https://www.acra.gov.sg/) and prosecution authorities
 
@@ -141,7 +141,7 @@ D&O policies typically exclude:
 - Fraudulent / dishonest conduct (final adjudication required)
 - Specific deliberate breach of duty
 - Specific conduct outside the scope of duties
-- Specific Insured vs Insured (claims between insureds) with carve-outs
+- Claims brought in the USA by or on behalf of the company against its own directors and officers (company versus insured), with carve-outs such as independent derivative suits, claims by a liquidator, and defence costs
 
 For Section 157 claims, the fraud / dishonesty exclusion is particularly relevant - Section 157(1) requires "honestly," and findings of dishonesty would commonly engage the exclusion. However:
 
@@ -169,7 +169,7 @@ For SME directors, Section 157 has practical operational implications:
 
 Section 157 takes specific significance in insolvency contexts. Directors approaching insolvency face:
 
-- Heightened duties to creditors (per IRDA 2018)
+- A duty to consider creditors' interests, as part of the duty to act in the company's best interests, once the company is unable or imminently likely to be unable to pay its debts; this comes from the courts (Foo Kian Beng v OP3 International Pte Ltd [2024] SGCA 10), not from IRDA 2018
 - Specific Section 239 wrongful trading exposure
 - Specific Section 238 fraudulent trading exposure
 - Specific Section 224 transactions at undervalue exposure

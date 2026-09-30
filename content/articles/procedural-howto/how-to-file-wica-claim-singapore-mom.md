@@ -1,5 +1,5 @@
 ---
-title: "How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers"
+title: "How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers"
 slug: "/procedural-howto/how-to-file-wica-claim-singapore-mom"
 category: "procedural-howto"
 intent: "get-it-right"
@@ -15,7 +15,7 @@ status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom"
 meta_description: "The Singapore WICA claim process for employers: medical care, incident reporting, insurer notice, compensation, objections and payment."
-og_title: "How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers"
+og_title: "How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers"
 og_description: "The Singapore WICA claim process for employers: medical care, incident reporting, insurer notice, compensation, objections and payment."
 ---
 

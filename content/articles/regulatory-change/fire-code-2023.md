@@ -22,25 +22,25 @@ og_description: "Fire Code 2023 is the ninth edition of Singapore's fire code, p
 # What does Fire Code 2023 mean for my shop, restaurant or workshop's insurance?
 
 > **The Answer in 60 Seconds**
-> The [Code of Practice for Fire Precautions in Buildings 2023](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023) (Fire Code 2023) is the 9th edition of Singapore's Fire Code, published by SCDF on **25 August 2023** and effective for new and altered building plans submitted on or after **1 March 2024**, per the [SCDF circular](https://www.scdf.gov.sg/docs/default-source/fssd-downloads/circulars/circular-publication-of-the-code-of-practice-for-fire-precautions-in-buildings-2023-edition.pdf). New provisions cover Mass Engineered Timber, Electric Vehicle charging, Energy Storage Systems, and farm/food-production occupancies. Fire and Property All Risks (PAR) insurance underwriters now ask about Fire Code 2023 compliance status as standard.
+> The [Code of Practice for Fire Precautions in Buildings 2023](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023) (Fire Code 2023) is the 9th edition of Singapore's Fire Code, published by SCDF on **25 August 2023** and effective for new and altered building plans submitted on or after **1 March 2024**, per the [SCDF circular](https://www.scdf.gov.sg/docs/default-source/fssd-downloads/circulars/circular-publication-of-the-code-of-practice-for-fire-precautions-in-buildings-2023-edition.pdf). The Code includes requirements for solar PV panels, Energy Storage Systems and farms; its EV charging clause, in force from 1 March 2022, was omitted on 2 September 2024 because those requirements now sit in the Electric Vehicles Charging (Electric Vehicle Chargers) Regulations 2023. The ESS and farm requirements date from amendments to the 2018 edition in 2019 to 2021, and items new in the 2023 edition include wall-integrated PV installations and sea-based buildings.
 
 ## The Sourced Detail
 
-Singapore's Fire Code is reviewed roughly every 5 years by the SCDF-led Fire Code Review Committee. The 2023 edition replaces the 2018 edition. The Fire Code is the prescriptive technical standard underpinning the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993).
+Singapore's Fire Code is reviewed by the SCDF-led Fire Code Review Committee. The 2023 edition replaces the 2018 edition. The Fire Code is the prescriptive technical standard underpinning the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993).
 
 ### What's new in Fire Code 2023
 
-Per the [SCDF Foreword](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023/foreword-and-acknowledgement) and the [Fire Code 2023 PDF](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/firecode-2023-111220241013.pdf), the 2023 edition introduces:
+Per the [SCDF Foreword](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023/foreword-and-acknowledgement) and the [Fire Code 2023 PDF](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/firecode-2023-111220241013.pdf), the 2023 edition as published included the following provisions (the amendment tables in the PDF show that several were first added to the 2018 edition before 2023):
 
-**(a) Mass Engineered Timber (MET).** Clause 9.9.5 provides a dedicated pathway for using cross-laminated timber (CLT) and glued-laminated timber (GLT) structural elements per EN 16351 and EN 14080. For buildings ≤12m habitable height: prescriptive route with mandatory automatic sprinklers throughout. For >12m: full Performance-Based Design pathway with Fire Safety Engineer.
+**(a) Mass Engineered Timber (MET).** Clause 9.9.5 provides a dedicated pathway for using cross-laminated timber (CLT) and glued-laminated timber (GLT) structural elements per EN 16351 and EN 14080. An engineered timber building must be fully sprinkler-protected; the sprinklers can be omitted only if the building is not more than 12m in habitable height, has no healthcare occupancy, has an SS 645 fire alarm system and uses alternative protection such as fully encapsulated timber. Above 12m habitable height, a performance-based design approach is required.
 
-**(b) Electric Vehicle charging.** [Clause 10.4](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023/table-of-content/chapter-10-requirements-for-special-installations/clause-10.4-electric-vehicle-(ev)-charging-installation) cross-references the [Electric Vehicles Charging (Electric Vehicle Chargers) Regulations 2023](https://sso.agc.gov.sg//SL/EVCA2022-S786-2023). Each EV charging station must have an emergency main isolation shut-off switch within 15m, per the requirements first introduced by SCDF in March 2022.
+**(b) Electric Vehicle charging.** [Clause 10.4](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023/table-of-content/chapter-10-requirements-for-special-installations/clause-10.4-electric-vehicle-(ev)-charging-installation) was omitted from 2 September 2024 because its requirements are now in the First Schedule of the [Electric Vehicles Charging (Electric Vehicle Chargers) Regulations 2023](https://sso.agc.gov.sg//SL/EVCA2022-S786-2023). Each EV charging station must have an emergency main isolation shut-off switch within 15m, per the requirements first introduced by SCDF in March 2022.
 
-**(c) Energy Storage Systems (ESS).** Clause 10.3 introduces fire-safety standards for ESS (lithium-ion battery installations) in buildings.
+**(c) Energy Storage Systems (ESS).** Clause 10.3 sets fire-safety requirements for ESS (lithium-ion battery installations) in buildings; they were first added by an amendment dated 2 December 2019, effective 1 June 2020.
 
 **(d) Solar Photo-Voltaic (PV) installations.** Clause 10.2 sets requirements for solar panel access, isolation and firefighting access aisles.
 
-**(e) Farm sector.** New requirements calibrated for high-tech indoor farming, reflecting Singapore's "30 by 30" food-security policy.
+**(e) Farm sector.** Requirements for farm buildings (Clause 9.6.4), calibrated to their fire risk in support of Singapore's food security goal; the amendment tables date them to an amendment effective 1 June 2021.
 
 ### Who must comply
 
@@ -53,39 +53,36 @@ This means:
 
 ### Insurance implications
 
-**Fire and Property All Risks (PAR) underwriting.** Industry questionnaires have evolved to reflect the new Code; underwriters typically request:
+**Fire and Property All Risks (PAR) underwriting.** A property insurer's proposal form may ask about fire safety matters such as:
 - Date of last Fire Code compliance assessment.
 - Edition of Fire Code applicable to your premises.
 - Whether you operate EV charging, solar PV or ESS on the premises.
 - Whether your premises is a Mass Engineered Timber building.
 - Status of [SCDF Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications) (where required).
 
-**Underwriting differentiation.** Premiums and terms increasingly reflect:
-- Sprinkler protection (always a meaningful pricing variable).
-- EV charging exposure - premiums may be loaded for premises with EV charging in basement carparks. Per the [LTA/SCDF/BCA 2024 Parliamentary reply](https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/9/media-replies/measures-in-place-to-mitigate-fire-risks.html), the multi-agency EV Safety Taskforce co-chaired by SCDF and LTA continues to review fire-mitigation measures for EVs.
+**Underwriting differentiation.** Features that bear on fire risk, and that an insurer may take into account, include:
+- Sprinkler protection.
+- EV charging exposure - premiums may be loaded for premises with EV charging in basement carparks. Per the [LTA, BCA and SCDF media reply of 5 September 2024](https://www.lta.gov.sg/content/ltagov/en/newsroom/2024/9/media-replies/measures-in-place-to-mitigate-fire-risks.html), the multi-agency EV Safety Taskforce co-chaired by SCDF and LTA continues to review fire-mitigation measures for EVs.
 - ESS exposure - lithium-ion battery fires are difficult to extinguish and underwriters may require specific protections.
-- F&B kitchen suppression systems - particularly for restaurants with deep-fat fryers (typical Code requirement is a UL 300-listed kitchen hood suppression).
+- F&B kitchen suppression systems - particularly for restaurants with deep-fat fryers (the Fire Code lists UL 300 as the test standard for kitchen hood extinguishing systems; it requires a wet chemical extinguishing system on the exhaust hood where restaurants or small F&B outlets share a kitchen exhaust system, and a kitchen whose cooking facilities are all fitted with approved extinguishing systems can be exempted from its 1-hour fire-rated separation requirement).
 
 **A&A trigger risk.** SMEs renovating shopfronts or factory layouts can inadvertently trigger Fire Code 2023 compliance for the renovation scope.
 
 ### Enforcement teeth
 
-Per [section 35 of the Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993):
+Under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993):
 - Operating designated premises without a valid [Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications) is an offence.
-- Misrepresentation in a Fire Certificate application is an offence.
-- Failure to comply with notices to rectify fire-hazard increases is an offence.
-
-A pending SCDF enforcement notice typically renders any subsequent fire claim contestable on grounds of policy condition breaches.
+- Failing to comply with a fire hazard abatement notice is an offence (section 28(5)), as is failing without reasonable excuse to comply with a fire hazard order made by a Magistrate's Court (section 31(5)).
 
 ## What This Means for Your Business
 
 For SMEs in Retail, F&B, Manufacturing and Hospitality:
 
-**If you've done renovations since 1 March 2024, your Fire Code applicable edition is now 2023.** That means your fire/PAR insurance application should reflect Fire Code 2023 compliance, with current SCDF approvals on file.
+**If plans of fire safety works for your renovation were submitted to SCDF on or after 1 March 2024, those works are subject to Fire Code 2023.** That means your fire/PAR insurance application should reflect Fire Code 2023 compliance, with current SCDF approvals on file.
 
-**EV charging and ESS expose you to specialised underwriting questions.** A multi-tenant industrial building installing EV charging needs to confirm with insurers how the addition affects premiums and exclusions.
+**EV charging and ESS can raise specific underwriting questions.** A multi-tenant industrial building installing EV charging needs to confirm with insurers how the addition affects premiums and exclusions.
 
-**F&B kitchen and combustible-storage compliance pays back.** A documented kitchen suppression system, combined with sprinkler maintenance records, typically supports premium reductions.
+**F&B kitchen and combustible-storage compliance pays back.** A documented kitchen suppression system and sprinkler maintenance records are evidence of fire protection that an insurer may take into account.
 
 ## Questions to Ask Your Adviser
 

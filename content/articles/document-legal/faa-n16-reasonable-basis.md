@@ -14,18 +14,18 @@ word_count: 1574
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/faa-n16-reasonable-basis"
-meta_description: "An adviser who recommends without documenting why has breached paragraph 35. What MAS Notice FAA-N16 puts on the file, and how a breach is proved."
+meta_description: "FAA-N16 requires an adviser to document the basis for a recommendation (paragraphs 31 and 35). What goes on the file, and what a breach looks like."
 og_title: "MAS Notice FAA-N16: The \"Reasonable Basis for Recommendation\" Duty Explained"
-og_description: "An adviser who recommends without documenting why has breached paragraph 35. What MAS Notice FAA-N16 puts on the file, and how a breach is proved."
+og_description: "FAA-N16 requires an adviser to document the basis for a recommendation (paragraphs 31 and 35). What goes on the file, and what a breach looks like."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> [MAS Notice FAA-N16 on Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) requires every licensed financial adviser making a recommendation on an investment product (including most life policies and certain general insurance products) to have a **reasonable basis** for the recommendation. The adviser must conduct a fact-find covering the client's financial objectives, financial situation, particular needs, risk tolerance, and any other relevant matters; document the basis; and ensure the product recommended is appropriate to those facts. The duty applies equally to **tied agents and independent advisers**. Breach exposes the adviser firm to MAS regulatory action and the client to civil claims for negligent advice.
+> [MAS Notice FAA-N16 on Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) requires every licensed financial adviser making a recommendation on an investment product (including most life policies; general insurance policies are not investment products) to have a **reasonable basis** for the recommendation. The adviser must take reasonable steps to collect and document the information listed in paragraph 11 of the notice, including the client's financial objectives, risk tolerance and financial situation; document the basis for the recommendation; and recommend a product that is suitable based on that information. The duty applies equally to **tied agents and independent advisers**. Breach exposes the adviser firm to MAS regulatory action, and under section 36(3) of the Act a client who reasonably relied on a recommendation made without a reasonable basis, and suffered loss as a result, can claim damages from the adviser.
 
 ### The Sourced Detail
 
-For Singapore SMEs receiving advice on life policies, group medical, keyperson cover, or any product within the regulated investment product definition, the FAA-N16 standard is the formal benchmark for the quality of advice. Understanding what it requires - and what your adviser is supposed to be doing - protects against poor recommendations and identifies when a complaint or recourse is justified.
+For Singapore SMEs receiving advice on life policies, keyperson life cover, or any other product within the regulated investment product definition, the FAA-N16 standard is the formal benchmark for the quality of advice. Group medical cover is an accident and health policy, not a life policy, so FAA-N16 does not apply to it. Understanding what it requires - and what your adviser is supposed to be doing - protects against poor recommendations and identifies when a complaint or recourse is justified.
 
 #### What FAA-N16 actually says
 
@@ -33,7 +33,7 @@ Per **paragraph 8 of [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/noti
 
 > "Section 36 of the Act requires licensed financial advisers to have a reasonable basis for any recommendation made, with respect to any investment product, to a person who may reasonably be expected to rely on the recommendation. In particular, the licensed financial adviser shall give due consideration to the person's investment objectives, financial situation and particular needs."
 
-FAA-N16 further requires the financial adviser to conduct a fact-find - taking reasonable steps to ascertain the client's investment objectives, financial situation, particular needs, risk tolerance, and any other matters reasonably relevant to making the recommendation - and to document the basis for the recommendation (paragraph 35 of FAA-N16 sets out the documentation requirement, which must include the client's stated objectives and needs, the adviser's reasonable basis for the recommendation, and the adviser's assessment of disadvantages of the recommended product).
+FAA-N16 further requires the financial adviser to conduct a fact-find - taking reasonable steps to collect and document the information listed in paragraph 11, including the client's financial objectives, risk tolerance, employment status, financial situation, regular income, financial commitments and current investment portfolio - and to document the basis for the recommendation (paragraph 35 of FAA-N16 sets out the documentation requirement, which must include the client's stated objectives and needs, the adviser's reasonable basis for the recommendation, and the adviser's assessment of disadvantages of the recommended product).
 
 The notice further requires that the recommendation be appropriate to the information ascertained, that the client's risk tolerance be considered, and that material information about the recommended product be disclosed.
 
@@ -54,13 +54,13 @@ Per the FAA 2001 and related notices, "investment products" includes:
 - Life policies (term, whole life, endowment, investment-linked)
 - Collective investment schemes (unit trusts, funds)
 - Securities (shares, bonds, structured products)
-- Specified financial products under the Securities and Futures Act 2001
+- Other capital markets products as defined in the Securities and Futures Act 2001
 
-For general insurance, FAA-N16 applies more narrowly. Property, motor, and most pure-protection liability covers are not "investment products" within the FAA-N16 scope. However, the underlying duty of reasonable advice - through a combination of common law negligence, the FAA conduct framework, and broader MAS guidance - remains applicable to all advisers.
+FAA-N16 does not apply to general insurance. The Act's definition of "investment product" covers capital markets products, certain spot foreign exchange contracts, life policies and any other prescribed product, so property, motor, liability and medical (accident and health) policies fall outside it. Advice on those policies can still be the subject of a negligence claim under the common law.
 
-#### The five-element fact-find
+#### The fact-find
 
-To meet the FAA-N16 reasonable basis duty, the adviser must ascertain at minimum:
+Paragraph 11 of FAA-N16 lists the information the adviser must take reasonable steps to collect and document: the client's financial objectives, risk tolerance, employment status, financial situation (assets, liabilities, cash flow and income), source and amount of regular income, financial commitments, current investment portfolio including any life policy, whether the amount to be invested is a substantial portion of the client's assets and, for life policies, the number of dependants and the support each needs. Paragraph 8 adds due consideration of the client's particular needs. In practice these cover:
 
 1. **Financial objectives.** What is the client trying to achieve? Income protection, wealth accumulation, retirement, legacy, business continuity, debt cover.
 
@@ -70,9 +70,9 @@ To meet the FAA-N16 reasonable basis duty, the adviser must ascertain at minimum
 
 4. **Risk tolerance.** Capacity to absorb premium fluctuation, willingness to accept variable returns (for ILPs), comfort with policy complexity.
 
-5. **Other relevant matters.** Existing cover with other insurers, planned life events (marriage, retirement, business sale), regulatory licence requirements that imply specific cover.
+5. **Existing portfolio and commitments.** The client's current investment portfolio, including any life policy, and financial commitments; for life policies, the number of dependants and the support each needs.
 
-The fact-find is documented in a Customer Knowledge Assessment / Financial Needs Analysis - a form the adviser typically completes with the client and retains as the basis-of-recommendation record.
+Paragraph 36 requires the adviser to give the client a document summarising the information gathered under paragraph 11 and the recommendation with its basis, and paragraph 38 requires the adviser to keep a copy. (A "Customer Knowledge Assessment" in FAA-N16 is something else: a review of the client's knowledge and experience in unlisted Specified Investment Products.)
 
 #### Documentation: the audit trail that matters
 
@@ -116,17 +116,15 @@ If a client believes their adviser failed the FAA-N16 duty:
 
 3. **MAS complaint.** For systemic or serious misconduct, complain to MAS. MAS does not generally adjudicate individual disputes but takes regulatory action against advisers and firms for breach of conduct rules. MAS's enforcement pages publish notable actions.
 
-4. **Civil action for negligence.** Common law negligence claim against the adviser firm. The FAA-N16 standard is admissible evidence of the standard of care expected.
+4. **Civil action for negligence.** Common law negligence claim against the adviser firm. Section 36(3) of the Financial Advisers Act 2001 also gives a statutory right to damages where a recommendation made without a reasonable basis causes loss to a client who reasonably relied on it.
 
 #### Singapore case authority
 
 While FAA-N16 is the regulatory standard, Singapore courts have considered the related civil law duty in negligent advice cases. Notable decisions include those discussing the scope and limits of an adviser's duty when explaining product features and risks - courts will look at the adviser's communications, the disclosures made, the client's sophistication, and the documentation. Specific case citations should be verified directly on [eLitigation](https://www.elitigation.sg/) before relying on them.
 
-The general principle: a regulated adviser owes a duty of care that goes beyond merely passing on product information. The FAA-N16 reasonable-basis duty is the regulatory expression of that broader civil law duty.
-
 ### What This Means for Your Business
 
-For SMEs purchasing life cover, group medical, keyperson policies, or other regulated investment products through an adviser, the practical takeaways:
+For SMEs purchasing life cover, keyperson life policies, or other regulated investment products through an adviser, the practical takeaways:
 
 1. **Insist on a documented fact-find.** If the adviser is not running through a structured needs analysis, that itself is a warning sign. Ask for a copy of the completed form.
 
@@ -138,7 +136,7 @@ For SMEs purchasing life cover, group medical, keyperson policies, or other regu
 
 5. **Keep the documentation.** Save the fact-find, the recommendation, and any product disclosures. If a problem arises later, this is your evidence base.
 
-For business owners considering an adviser switch (life cover, group medical, keyperson), the FAA-N16 standard is what differentiates substantive advice from order-taking. An adviser who runs a real fact-find, documents the basis, and stays available for ongoing review is performing the regulated function. An adviser who fills in a form and hands you a quote may be technically compliant but is not adding the analysis that the regulation expects.
+For business owners considering an adviser switch on life cover or keyperson life policies, the FAA-N16 standard is what differentiates substantive advice from order-taking. An adviser who runs a real fact-find, documents the basis, and stays available for ongoing review is performing the regulated function. An adviser who fills in a form and hands you a quote may be technically compliant but is not adding the analysis that the regulation expects.
 
 ### Questions to Ask Your Adviser
 

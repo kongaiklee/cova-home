@@ -14,9 +14,9 @@ word_count: 2237
 status: "published"
 hero_image: "/assets/blog/association.jpg"
 canonical_url: "https://covarage.com/guides/association/singapore-hotel-association-membership-insurance"
-meta_description: "Hotel Association membership is voluntary and imposes no insurance. The duties that do reach a hotel come from the licence, the lease and the contracts."
+meta_description: "Hotel Association membership is voluntary and imposes no insurance. Insurance duties come from WICA, the work pass rules, the lease and the contracts."
 og_title: "Singapore Hotel Association Membership and Hospitality Insurance"
-og_description: "Hotel Association membership is voluntary and imposes no insurance. The duties that do reach a hotel come from the licence, the lease and the contracts."
+og_description: "Hotel Association membership is voluntary and imposes no insurance. Insurance duties come from WICA, the work pass rules, the lease and the contracts."
 ---
 
 > **The Answer in 60 Seconds**
@@ -25,17 +25,17 @@ og_description: "Hotel Association membership is voluntary and imposes no insura
 >
 > The legal requirement to operate a hotel sits in the [Hotels Act 1954](https://sso.agc.gov.sg/Act/HA1954). The premises must be registered under [section 5](https://sso.agc.gov.sg/Act/HA1954), and no person may keep or manage them as a hotel unless they hold a valid hotel-keeper's licence granted by the [Hotels Licensing Board under section 7](https://sso.agc.gov.sg/Act/HA1954). That licence, not SHA membership, is the thing the law cares about, and running an unlicensed hotel is an offence under [section 16](https://sso.agc.gov.sg/Act/HA1954).
 >
-> Even the licence does not, on its face, compel a commercial property or liability policy. The one insurance the law makes mandatory is separate again: under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), the hotel, as an employer, must take out and maintain approved work-injury cover for its staff. Everything else (property and fire, public liability for guest injury, innkeeper's liability for guests' belongings, business interruption) flows from the operation and from your landlord and lender contracts, not from a membership card.
+> Even the licence does not, on its face, compel a commercial property or liability policy. Insurance the law does make mandatory is separate again: under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), the hotel, as an employer, must take out and maintain approved work-injury cover for its staff who do manual work and for other staff earning S$2,600 a month or less, and a hotel that employs Work Permit or S Pass holders must also buy medical insurance for them. Everything else (property and fire, public liability for guest injury, innkeeper's liability for guests' belongings, business interruption) flows from the operation and from your landlord and lender contracts, not from a membership card.
 
 ### The Sourced Detail
 
-"Do I need insurance to be in the Singapore Hotel Association" is the wrong question, asked the wrong way round. SHA membership is voluntary and carries no insurance condition. What actually governs a hotel is a licensing regime, and what actually protects it is a set of operational policies. The three (association, licence, insurance) get tangled because they all feel like boxes a new operator has to tick. Only one of them is a statute, and the insurance the statute compels is not the insurance most operators are worried about. Untangling them is the whole job here.
+"Do I need insurance to be in the Singapore Hotel Association" is the wrong question, asked the wrong way round. SHA membership is voluntary and carries no insurance condition. What actually governs a hotel is a licensing regime, and what actually protects it is a set of operational policies. The three (association, licence, insurance) get tangled because they all feel like boxes a new operator has to tick. The licence comes from a statute, the Hotels Act, which compels no insurance, and the insurance other laws do compel is not the insurance most operators are worried about. Untangling them is the whole job here.
 
 #### The association is a trade body, not a regulator
 
 The Singapore Hotel Association is an industry association. It represents hotel operators, runs training and industry programmes, and speaks for the sector in policy discussions. It is not a statutory authority. It issues no licences, sets no binding insurance minimums, and cannot stop you trading. Membership is a commercial choice about access to industry services and representation.
 
-That matters because trade associations often arrange member-discounted insurance schemes with brokers or insurers. Those schemes are a benefit of membership, not a requirement of it, and they are not a substitute for sizing cover against your own building, your own guest footfall, and your own contracts. An association programme is a buying channel. It is never a compliance obligation.
+That matters because an association may arrange insurance schemes for its members with brokers or insurers. Those schemes are a benefit of membership, not a requirement of it, and they are not a substitute for sizing cover against your own building, your own guest footfall, and your own contracts. An association programme is a buying channel. It is never a compliance obligation.
 
 #### The real requirement: registration and a licence under the Hotels Act
 
@@ -45,19 +45,19 @@ Two separate approvals are needed. First, [section 5](https://sso.agc.gov.sg/Act
 
 Operating outside this regime is a criminal matter. [Section 16](https://sso.agc.gov.sg/Act/HA1954) makes it an offence to keep or manage premises as a hotel without a current certificate of registration or a valid licence, or to fail to comply with a licence condition. The Board can also suspend or cancel registration and licences under [section 8](https://sso.agc.gov.sg/Act/HA1954) where a hotel is conducted improperly or kept in an insanitary condition. None of this turns on whether you belong to any association. (The licensing mechanics, fees and conditions are covered in our note on the [hotel-keeper licence and its insurance touchpoints](/licensing/hotel-keeper-licence-insurance-singapore).)
 
-One more point on the Act, because it shapes liability exposure. [Section 13](https://sso.agc.gov.sg/Act/HA1954) makes a licensed hotel-keeper liable for the acts, omissions, neglect and defaults of agents and servants employed in the business, and deems anyone who appears to be employed in the hotel to be the licensee's servant. The operator carries responsibility for what its staff do on the floor. That is a liability profile, and liability profiles are what insurance is built around.
+One more point on the Act. [Section 13](https://sso.agc.gov.sg/Act/HA1954) makes a licensed hotel-keeper liable to the same pecuniary penalty or forfeiture under the Act or its regulations for every similar act, omission, neglect or default of an agent or servant employed in the business, and deems anyone who appears to be employed in the hotel to be the licensee's servant for that purpose. It is a rule about penalties under the Act, not about claims by guests or other third parties.
 
 #### The insurance the law actually compels: WICA
 
-Here the genuine mandatory insurance enters, and like the licence it does not come from SHA membership. A hotel employs people: front desk, housekeeping, kitchen, maintenance. As an employer it falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, for every employee within the prescribed scope.
+Here a mandatory insurance enters, and like the licence it does not come from SHA membership. A hotel employs people: front desk, housekeeping, kitchen, maintenance. As an employer it falls under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, for every employee within the prescribed scope.
 
 So the work-injury cover is mandatory because the hotel is an employer, not because it is a hotel and not because it is an SHA member. Housekeeping and kitchen roles are manual work, squarely within the duty. The detail of who must be covered, and the prescribed classes, sits in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The exposures a hotel carries, whether or not a policy is named in any rule
 
-Beyond WICA, the law does not hand you a checklist. The hospitality operation does. These are the substantive lines a hotel typically needs to think about, none of them triggered by association membership:
+Beyond WICA (and medical insurance for any Work Permit or S Pass holders), the law does not hand you a checklist. The hospitality operation does. These are the substantive lines a hotel typically needs to think about, none of them triggered by association membership:
 
-**Property and fire.** The building, fixtures, furniture, fittings and stock represent concentrated value, and fire in a multi-storey occupied building is a high-consequence event. Property cover is usually demanded by your landlord (for leased premises) and your lender (for mortgaged or asset-financed buildings) as a contract condition, sized to reinstatement value. Whether to insure on a fire basis or a wider all-risks basis is a real decision with different claim mechanics, set out in [Fire Insurance vs Property All Risks](/comparison/fire-vs-par-claim-mechanics).
+**Property and fire.** The building, fixtures, furniture, fittings and stock represent concentrated value, and fire in a multi-storey occupied building is a high-consequence event. Property cover can be required by your landlord (for leased premises) as a lease condition, and by your lender (for mortgaged or asset-financed buildings) if the loan terms say so. Whether to insure on a fire basis or a wider all-risks basis is a real decision with different claim mechanics, set out in [Fire Insurance vs Property All Risks](/comparison/fire-vs-par-claim-mechanics).
 
 **Public liability.** A hotel is a place the public enters in large numbers: lobbies, pools, gyms, restaurants, wet floors, lifts. A guest who slips, trips or is injured on the premises can bring an occupiers' liability claim, the modern Singapore framework for which is explained in [See Toh Siew Kee v Ho Ah Lam Ferrocement](/document-legal/see-toh-siew-kee-occupiers-liability). Public liability cover responds to third-party injury and property damage arising from the operation.
 
@@ -67,7 +67,7 @@ Beyond WICA, the law does not hand you a checklist. The hospitality operation do
 
 For smaller lodging operators specifically (guesthouses, hostels and boutique properties that still fall under the Hotels Act definition), the practical insurance shape is set out in [Boutique Hotel and Hostel Insurance](/edge-case/boutique-hotel-hostel-insurance).
 
-The honest summary: SHA membership is optional and silent on insurance; the Hotels Act licence is mandatory and largely silent on insurance too; WICA is the one statute that names an insurance duty; and the property, liability, innkeeper's and business-interruption lines are driven by the building, the guests and the contracts above you.
+The honest summary: SHA membership is optional and silent on insurance; the Hotels Act licence is mandatory and largely silent on insurance too; the insurance duties the law names include WICA work-injury cover and medical insurance for any Work Permit or S Pass holders; and the property, liability, innkeeper's and business-interruption lines are driven by the building, the guests and the contracts above you.
 
 ### Common Mistakes
 
@@ -75,7 +75,7 @@ The honest summary: SHA membership is optional and silent on insurance; the Hote
 
 2. **Treating SHA membership as proof of cover.** A member-discounted scheme is a buying channel, not a compliance state. Cover still has to be sized against your own building and operation.
 
-3. **Assuming the hotel licence comes with mandatory insurance.** It does not name a property or liability policy on its face. The compulsion that does exist is the separate [WICA section 24](https://sso.agc.gov.sg/Act/WICA2019) duty you owe as an employer.
+3. **Assuming the hotel licence comes with mandatory insurance.** It does not name a property or liability policy on its face. The compulsions that do exist are separate: the [WICA section 24](https://sso.agc.gov.sg/Act/WICA2019) duty you owe as an employer, and medical insurance for any Work Permit or S Pass holders you employ.
 
 4. **Missing that small guesthouses and hostels are caught.** The [section 2](https://sso.agc.gov.sg/Act/HA1954) definition reaches premises of four rooms or more with domestic service, so a modest operation can be a "hotel" in law and inside the same exposure profile.
 
@@ -83,7 +83,7 @@ The honest summary: SHA membership is optional and silent on insurance; the Hote
 
 6. **Insuring the building but not the income.** Without adequate business interruption cover and a realistic indemnity period, a fire that closes the hotel for months leaves the revenue uninsured even when the property claim pays.
 
-7. **Forgetting the section 13 vicarious exposure.** Under [section 13](https://sso.agc.gov.sg/Act/HA1954) the licensee answers for staff acts and defaults, which feeds straight into the liability cover the operation needs.
+7. **Forgetting the section 13 exposure.** Under [section 13](https://sso.agc.gov.sg/Act/HA1954) the licensee is liable to the same penalties and forfeitures under the Act for the acts and defaults of its staff as it would be for its own.
 
 ### What This Means for Your Business
 
@@ -93,7 +93,7 @@ Treat **SHA membership** as an optional industry decision. Join for the represen
 
 Treat the **Hotels Act licence** as the non-negotiable legal gate. Confirm your premises are registered under [section 5](https://sso.agc.gov.sg/Act/HA1954) and that the manager holds a current hotel-keeper's licence under [section 7](https://sso.agc.gov.sg/Act/HA1954), and diary the annual renewal so the licence never lapses against the 31 December expiry.
 
-Treat **insurance** as two layers. The mandatory layer is [WICA section 24](https://sso.agc.gov.sg/Act/WICA2019) cover for your employees, which you carry because you employ people. The operational layer is property and fire, public liability, innkeeper's liability, and business interruption, sized against the building, the guest footfall, and what your landlord and lender contracts require. Read those contracts: the limits and bases they demand, not any association rule, are what oblige you.
+Treat **insurance** as two layers. The mandatory layer is [WICA section 24](https://sso.agc.gov.sg/Act/WICA2019) cover for your employees who do manual work or earn S$2,600 a month or less, and medical insurance for any Work Permit or S Pass holders, both of which you carry because you employ people. The operational layer is property and fire, public liability, innkeeper's liability, and business interruption, sized against the building, the guest footfall, and what your landlord and lender contracts require. Read those contracts: the limits and bases they demand, not any association rule, are what oblige you.
 
 Covarage helps with the part that quietly goes wrong: keeping the licence record, the WICA policy and the property and liability cover organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 

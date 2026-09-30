@@ -21,7 +21,7 @@ og_description: "Fleet or individual vehicle cover for Singapore commercial moto
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating commercial vehicles - delivery vans, light trucks, prime movers, contractor vehicles, taxi or private-hire fleets - choose between two procurement structures: (1) **Annual Fleet Rated Motor** - a single policy covering all declared vehicles under a fleet rating, with adds and removes managed by endorsement, and (typically) renewal pricing based on the fleet's combined loss experience; (2) **Individual Vehicle Cover** - a separate policy per vehicle, each renewed individually, with each vehicle's loss history tracked and priced separately. The structural break-even is typically around 4-6 vehicles: below that, individual cover is administratively simpler and per-vehicle pricing is comparable; above that, fleet rating typically produces 10-25% premium savings, materially simpler administration, and (for a stable fleet) better long-term pricing discipline through combined-experience rating. The [Land Transport Authority](https://www.lta.gov.sg/) regulates motor insurance through the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) which mandates minimum third-party liability cover for all motor vehicles operated on Singapore roads. The Motor Insurance Bureau of Singapore handles uninsured-vehicle claims under the Singapore framework. The 2026 Singapore motor market has seen claims inflation continuing; SMEs should test the fleet vs individual question at every renewal cycle and not default to legacy structure.
+> Singapore SMEs operating commercial vehicles - delivery vans, light trucks, prime movers, contractor vehicles, taxi or private-hire fleets - choose between two procurement structures: (1) **Annual Fleet Rated Motor** - a single policy covering all declared vehicles under a fleet rating, with adds and removes managed by endorsement, and (typically) renewal pricing based on the fleet's combined loss experience; (2) **Individual Vehicle Cover** - a separate policy per vehicle, each renewed individually, with each vehicle's loss history tracked and priced separately. Some insurers offer fleet cover on a master fleet policy basis, with one inception and expiry date and a fleet discount available. One designs its fleet product for businesses with more than 10 vehicles; another gives a 20% discount to fleets of 10 or more vehicles. Whether fleet rating costs less for a given fleet, and by how much, depends on the quotes obtained. The [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960) makes it an offence to use a motor vehicle in Singapore without insurance against third-party death and bodily injury, and the [Land Transport Authority](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/ongoing-car-costs/insurance.html) will not renew road tax unless the vehicle is insured for the whole road tax period. The Motor Insurers' Bureau of Singapore considers death and bodily injury claims where the vehicle is untraced (hit-and-run) and meets unsatisfied court judgments against uninsured motorists; property damage is outside its scope. GIA reported that motor claims rose 11% in 2025 while the number of motor accidents it recorded stayed stable; SMEs should test the fleet vs individual question at every renewal cycle and not default to legacy structure.
 
 ## The Singapore Commercial Motor Framework
 
@@ -33,7 +33,7 @@ The [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.a
 
 - **Third-party bodily injury**: unlimited cover for bodily injury to third parties.
 - **Third-party property damage**: minimum coverage specified by statute.
-- **Statutory exclusions**: cover does not extend to liability to the insured driver themselves, to liability assumed by contract above statutory minimum, or to specified excluded risks.
+- **What the Act does not require**: a policy need not cover the death of or bodily injury to the insured's own employees arising out of and in the course of their employment (or, since 1 January 2025, to platform workers arising out of and in the course of providing a platform service for an insured platform operator), or any contractual liability (section 4(4)).
 
 Driving a vehicle on a Singapore road without compliant insurance is an offence punishable by fine and disqualification from driving.
 
@@ -45,15 +45,15 @@ Singapore commercial motor cover typically comes in three structural levels:
 - **Third Party, Fire and Theft (TPFT)**: TPO plus own-vehicle damage from fire and theft. Limited own-vehicle protection.
 - **Comprehensive**: TPO plus full own-vehicle damage (accident, fire, theft, malicious damage, flood subject to wording). Personal accident cover for driver and passengers typically included or optional.
 
-For commercial vehicles, comprehensive is the typical choice - the own-vehicle exposure is material and the cost differential to TPO is often modest given commercial-vehicle pricing dynamics.
+For commercial vehicles, the choice between the three levels turns on the own-vehicle exposure and the premium difference quoted.
 
 ### Mandatory Endorsements and Exclusions
 
 Several standard endorsements and exclusions feature in Singapore commercial motor wordings:
 
 - **Named driver** vs **any authorised driver** clauses. Named-driver restrictions can reduce premium but create coverage gaps when other authorised employees drive.
-- **Geographical limits**. Typically limited to Singapore; extensions to West Malaysia commonly available, others by endorsement.
-- **Trade plates** for dealer / fleet operations.
+- **Geographical limits**. A policy that complies with the Act must cover third-party death and bodily injury from use in Singapore and West Malaysia (section 4(1)(b) and the Schedule). Commercial vehicle wordings such as Sompo's define the geographical area as Singapore, West Malaysia and the part of Thailand within 80.5 km of the border with West Malaysia.
+- **Trade plates** for motor manufacturers, dealers and repairers.
 - **Modifications**. Aftermarket modifications must be declared; undisclosed modifications can void cover.
 
 ## Annual Fleet Rated Motor
@@ -66,31 +66,27 @@ Annual fleet rated motor is a single policy structure for SMEs operating multipl
 - **Single renewal cycle** for the full fleet.
 - **Endorsement workflow** for adds and removes during the policy year.
 - **Combined loss experience** for renewal pricing.
-- **Fleet discount** applied to the per-vehicle rate, typically 10-25% relative to individual cover.
+- **Fleet discount** available; one insurer publishes a 20% discount for fleets of 10 or more vehicles, and otherwise the size of any discount against individual cover depends on the insurer's quote.
 - **Per-vehicle excess** structure (separately specified by vehicle class).
 
 ### Fleet Composition
 
-Most carriers will rate a fleet of any class composition. Mixed fleets (vans + cars + trucks) are common; the rating reflects the weighted-average exposure by vehicle class.
+Fleet products cover a range of vehicle types: one insurer lists vans, pick-up trucks, refrigerated vehicles, lorries, prime movers and trailers, and another covers commercial vehicles and company cars under one fleet product.
 
-Some specialty fleet markets focus on specific compositions - e.g., logistics fleets (vans, prime movers), trade fleets (contractor vehicles), executive fleets (passenger cars). The specialty markets typically offer better terms for the specific composition.
+Some specialty fleet markets focus on specific compositions - e.g., logistics fleets (vans, prime movers), trade fleets (contractor vehicles), executive fleets (passenger cars).
 
 ### Loss Experience Treatment
 
-Fleet rating typically uses 2-3 year rolling loss experience. The renewal rating reflects:
+Renewal rating can take account of the fleet's loss experience, including:
 
 - **Loss ratio**: claims paid plus reserves divided by premium received.
 - **Frequency**: number of claims per vehicle per year.
 - **Severity**: average cost per claim.
 - **Risk Improvement / Deterioration**: trend in the loss profile.
 
-A fleet running 50-60% loss ratio typically sees stable or modest renewal pricing. A fleet running 90%+ loss ratio sees significant renewal pricing pressure.
-
 ### Telematics and Risk-Management Adjustments
 
-Some carriers offer telematics-linked rating for fleets - the SME installs vehicle telematics devices that report driving behaviour (speed, braking, cornering, route discipline), and the renewal premium reflects the actual driving profile. The data also informs internal risk management (driver coaching, route planning, vehicle maintenance scheduling).
-
-Telematics adoption among Singapore SME commercial fleets is growing. The pricing advantage for fleets with good telematics profiles can be material.
+Vehicle telematics devices report driving behaviour (speed, braking, cornering, route discipline). The data also informs internal risk management (driver coaching, route planning, vehicle maintenance scheduling).
 
 ## Individual Vehicle Cover
 
@@ -106,7 +102,7 @@ Individual vehicle cover is the structural alternative - a separate policy per v
 
 ### When Individual Makes Sense
 
-- **Small fleets (1-4 vehicles)**: administrative simplicity dominates; per-vehicle pricing is comparable to fleet rating.
+- **Small fleets**: there are fewer separate policies to administer, and fleet products may be aimed at larger fleets (one insurer designs its fleet product for businesses with more than 10 vehicles).
 - **Atypical vehicle mix**: where vehicles have very different risk profiles, fleet rating may produce cross-subsidisation that one party finds unfair.
 - **Phased acquisition**: where vehicles are added over time at different lease or finance contract dates, individual cover aligns with the underlying asset financing.
 - **Specialty vehicles**: where one vehicle has a unique risk profile (e.g., a specialty crane, a specialty mobile workshop), separate placement may produce better terms than fleet rating.
@@ -117,10 +113,8 @@ The fleet vs individual decision rests on:
 
 ### Variable 1: Fleet Size
 
-- **1-3 vehicles**: individual typically wins on simplicity.
-- **4-6 vehicles**: break-even territory. Both routes should be priced.
-- **7+ vehicles**: fleet rating typically wins on premium and administration.
-- **15+ vehicles**: fleet rating with specialty fleet markets becomes structurally appropriate; telematics integration becomes more meaningful.
+- Some fleet products set a size threshold: one insurer designs its fleet product for businesses with more than 10 vehicles, and another gives a 20% discount to fleets of 10 or more vehicles.
+- The fleet size at which fleet rating costs less than individual cover depends on the quotes for the fleet in question.
 
 ### Variable 2: Driver Pool
 
@@ -132,7 +126,7 @@ Bulk acquisition of similar vehicles fits fleet rating (single placement, single
 
 ### Variable 4: Claim Profile
 
-A fleet with consistent claim experience benefits from fleet rating (the experience averaged across the pool typically smooths the renewal). A fleet with concentrated claims on specific vehicles or drivers may find individual cover allows the problematic vehicle to be isolated.
+A fleet with consistent claim experience benefits from fleet rating. A fleet with concentrated claims on specific vehicles or drivers may find individual cover allows the problematic vehicle to be isolated.
 
 ### Variable 5: Operational Discipline
 
@@ -148,28 +142,28 @@ Consider a delivery-services SME with:
 - 2-year loss experience: 65% loss ratio
 
 **Annual Fleet Rated Option:**
-- Programme premium: approximately S$28,000 - S$36,000 annually.
+- Programme premium (assumed for this illustration, not a market rate): S$28,000 to S$36,000 a year.
 - Single renewal cycle, single endorsement workflow, telematics integration option.
-- Combined loss experience: predictable renewal-pricing trajectory.
+- Combined loss experience for the whole fleet at renewal.
 
 **Individual Vehicle Option:**
-- Estimated combined premium: approximately S$35,000 - S$45,000 annually (assuming comparable cover specifications per vehicle).
+- Combined premium (assumed for this illustration, not a market rate): S$35,000 to S$45,000 a year, assuming comparable cover for each vehicle.
 - 12 separate renewal cycles unless deliberately aligned.
 - 12 separate insurer interactions for endorsements, claims, certificates of insurance.
 
-For this profile, fleet rating produces approximately 20% premium savings plus material administrative efficiency. Recommended fleet structure.
+On these assumed figures, the fleet option costs about 20% less at the midpoints (S$32,000 against S$40,000), with one renewal cycle instead of up to twelve.
 
 ## Wording Considerations
 
 ### "Any Authorised Driver" vs Named Driver
 
-Most commercial SME fleets use "any authorised driver" clauses - any employee or contractor authorised to operate the vehicle on the SME's business is covered. The trade-off is broader cover at higher premium relative to named-driver structures.
+Under an "any authorised driver" clause, cover extends to the drivers the Certificate of Insurance describes as authorised; wordings such as Sompo's exclude an accident while anyone else is driving.
 
 Some carriers offer hybrid structures - named primary driver per vehicle, with limited any-authorised-driver extension. This can balance cost and flexibility.
 
 ### Geographic Extensions
 
-Singapore-registered commercial vehicles operating across the Causeway require explicit West Malaysia geographical extensions. Extensions to other territories (Thailand, Indonesia, China) by endorsement and typically with substantial loadings.
+A policy that complies with the Act already covers third-party death and bodily injury in West Malaysia (section 4(1)(b) and the Schedule), and wordings such as Sompo's set the geographical area as Singapore, West Malaysia and the part of Thailand within 80.5 km of the border. Use beyond the geographical area in the policy needs cover agreed with the insurer.
 
 ### Loss of Use / Hire Cost Cover
 
@@ -191,7 +185,7 @@ Modifications must be declared. Common items: roof racks, freezer/refrigeration 
 
 ### Certificate of Insurance for Vehicle Registration
 
-LTA requires evidence of motor insurance for vehicle registration and at LTA inspection. The fleet policy must produce certificates of insurance per vehicle promptly.
+LTA requires proof of valid motor insurance to register a vehicle, and requires the vehicle to be insured for the whole road tax period before its road tax can be renewed. The fleet policy must produce certificates of insurance per vehicle promptly.
 
 ### Mid-Year Vehicle Changes
 
@@ -208,20 +202,17 @@ The workflow is more streamlined under fleet rating; individual cover requires a
 
 Commercial motor claims typically run:
 
-- Driver / employee notification to SME within 24 hours.
-- SME notification to insurer within 7 days.
+- Report to the insurer within 24 hours or by the next working day, with the vehicle taken to the insurer's approved reporting centre or authorised workshop, whether or not a claim will be made (Motor Claims Framework).
 - Insurer-appointed surveyor inspection of damage.
 - Repair authorisation and workflow.
 - Third-party claim handling (if applicable) by insurer.
 - Subrogation pursuit against responsible third parties.
 
-Fleet programmes typically have streamlined claim workflows; individual cover claims go through standard SME-motor processes.
-
 ### Renewal Negotiation
 
 Fleet renewal involves the SME's licensed adviser engaging the incumbent and (at periodic intervals) testing the market with alternative carriers. The key documents:
 
-- Two- or three-year loss experience report.
+- Loss experience report.
 - Vehicle and driver schedules.
 - Telematics data (if applicable).
 - Risk-management documentation (driver training, vehicle maintenance, route discipline).
@@ -230,11 +221,11 @@ Fleet renewal involves the SME's licensed adviser engaging the incumbent and (at
 
 ### Logistics and Last-Mile Delivery
 
-Logistics SMEs typically have larger fleets (10-50+ vehicles), defined route patterns, and dedicated driver pools. Fleet rating with telematics integration is the structural answer. Specialty logistics-fleet markets serve this segment.
+Vans, lorries, refrigerated vehicles and prime movers are among the vehicle types that insurers' fleet products list.
 
 ### Trade and Contractor Vehicles
 
-Contractor SMEs typically have 3-15 vehicles, mixed use patterns, and varying driver pools. Fleet rating becomes economical at the larger end of this range; smaller contractor fleets may use individual cover.
+Contractor fleets vary in size and use; whether fleet rating is economical depends on the quotes for the fleet in question.
 
 ### Taxi and Private Hire
 
@@ -246,7 +237,7 @@ Heavy commercial vehicles carry distinct risk profiles. Specialty markets exist 
 
 ### Specialty Vehicles
 
-Specialty vehicles (concrete mixers, cherry pickers, specialty cranes) typically require specialty cover combining motor liability with plant/equipment cover (the [Plant & Equipment section of CAR](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor) where the vehicle is on a construction site, or specialty engineering covers otherwise).
+Specialty vehicles (concrete mixers, cherry pickers, specialty cranes) carry plant whose operation a motor wording may limit: Sompo's mobile plant endorsement, for example, removes third-party liability for operating attached plant other than in or on the vehicle, except as the Act requires. Some fleet products offer a third-party working risks extension, and the plant itself may need plant and equipment cover (the [Plant & Equipment section of CAR](/comparison/annual-blanket-car-vs-project-specific-car-sme-contractor) where the vehicle is on a construction site, or specialty engineering covers otherwise).
 
 ## Common Mistakes Singapore SMEs Make on Commercial Motor
 
@@ -256,15 +247,15 @@ Specialty vehicles (concrete mixers, cherry pickers, specialty cranes) typically
 
 **Failing to declare modifications.** Undisclosed modifications can void claims for related damage.
 
-**Geographic boundary surprise.** Operating beyond Singapore without explicit territorial extension creates uninsured exposure.
+**Geographic boundary surprise.** Operating outside the geographical area in the policy creates uninsured exposure. Wordings such as Sompo's already include West Malaysia and southern Thailand within 80.5 km of the border, and the Act requires third-party death and bodily injury cover in West Malaysia.
 
-**Insufficient telematics adoption.** Telematics is operational risk management as much as it is insurance rating. SMEs missing the operational benefit miss the larger value.
+**Insufficient telematics adoption.** Telematics data can support operational risk management, such as driver coaching, route planning and vehicle maintenance scheduling.
 
 **Confusing motor cover with goods-in-transit cover.** Damage to goods being carried is not covered by motor cover; it requires GIT or marine cargo cover.
 
 **Forgetting WICA coordination on driver injury.** WICA responds to work-related driver injuries; driver PA cover under the motor policy responds independently. The coordination must be understood at claim time.
 
-**Inadequate documentation of driver training and discipline.** Underwriters reward documented risk management. SMEs that maintain driver training records, traffic-violation tracking, and vehicle-maintenance records have negotiation leverage at renewal.
+**Inadequate documentation of driver training and discipline.** Driver training records, traffic-violation tracking and vehicle-maintenance records are evidence of risk management that an SME can show insurers at renewal.
 
 **Allowing renewal drift through "soft" markets.** When the market is soft, premium drops may mask wording deterioration. Wording quality should be tested at every renewal.
 
@@ -274,7 +265,7 @@ Specialty vehicles (concrete mixers, cherry pickers, specialty cranes) typically
 
 If you are operating commercial vehicles in Singapore, the motor cover is statutory mandatory and operationally critical. The fleet vs individual question is structural - the right answer for a 2-vehicle SME differs from the right answer for a 20-vehicle SME.
 
-Your licensed adviser handling the placement should walk you through the cost-benefit analysis, present a quote in both structures where it makes sense, and run periodic market testing. Telematics is increasingly a feature of fleet-rating placements; the operational benefits warrant evaluation independent of pricing.
+Your licensed adviser handling the placement should walk you through the cost-benefit analysis, present a quote in both structures where it makes sense, and run periodic market testing. Telematics also has operational uses, such as driver coaching and maintenance scheduling, whatever its effect on pricing.
 
 The renewal cycle is annual. The structural decision (fleet vs individual) can be tested at any renewal but typically becomes meaningful as the fleet size changes. SMEs scaling from a small to a mid-sized fleet should transition to fleet rating at the appropriate inflection point; SMEs shrinking fleets may transition back.
 

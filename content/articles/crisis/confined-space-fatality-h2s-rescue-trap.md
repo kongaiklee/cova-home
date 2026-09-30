@@ -269,7 +269,7 @@ The cost of confined space competence is bounded - typical programme SGD 30,000-
 ### Related Information
 - [Multi-Injury Workplace Incident: 3+ Workers Down, MOM Major-Incident Classification](/crisis/multi-injury-mass-casualty-mom-major-classification)
 - [A Worker Just Died on Site - What Do I Do Now?](/crisis/worker-fatality-on-site)
-- [WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing](/regulatory-change/wsh-penalty-doubling-2024)
+- [WSH Maximum Fines Raised (1 June 2024): The New Ceilings Under the WSH Regulations](/regulatory-change/wsh-penalty-doubling-2024)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

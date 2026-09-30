@@ -251,7 +251,7 @@ For facilities management operations extending beyond cleaning (mechanical maint
 ### Related Information
 - [WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate](/comparison/wica-panel-vs-cw-el-extension)
 - [Opening a Private Security Firm or Security Agency in Singapore: Full Insurance Checklist](/decision-tree/opening-private-security-firm-checklist)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
 

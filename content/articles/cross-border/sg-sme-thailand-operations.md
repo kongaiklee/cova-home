@@ -139,7 +139,7 @@ For substantive Thai operations, specialist broker engagement, Thai-licensed cou
 5. As Thai regulatory framework evolves, what cover evolution should I plan for?
 
 ### Related Information
-- [Master/Local vs DIC/DIL: Multinational Insurance Structures Explained](/comparison/master-local-vs-dic-dil-multinational)
+- [Master/Local Programmes and DIC/DIL Cover: Multinational Insurance Structures Explained](/comparison/master-local-vs-dic-dil-multinational)
 - [Singapore SME With a Malaysia Branch: How Insurance Works Across the Causeway](/cross-border/sg-sme-malaysia-branch)
 - [Singapore SME With Vietnam Operations: How Insurance Works for Vietnamese Subsidiaries and Branches](/cross-border/sg-sme-vietnam-operations)
 

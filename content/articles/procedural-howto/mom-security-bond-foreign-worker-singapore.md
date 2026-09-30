@@ -22,7 +22,7 @@ og_description: "A S$5,000 MOM security bond must be lodged before a non-Malaysi
 
 > **The Answer in 60 Seconds**
 >
-> Your SME is hiring a non-Malaysian Work Permit holder for the first time and needs to lodge the SGD 5,000 [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) Security Bond before the worker arrives. The bond covers MOM's costs if the worker absconds, breaches Work Permit conditions, or requires repatriation. Critical workflow: (1) Submit Work Permit application via [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits); (2) wait for In-Principle Approval (IPA) - IPA is regenerated next working day after FIN issued; (3) request bond quote from MOM-approved insurer or bank with IPA + ACRA Bizfile; (4) accept terms - choose insurance bond (cheapest) or banker's guarantee (more expensive but no counter-indemnity recovery exposure); (5) insurer transmits to MOM electronically (typically 1-3 working days); (6) verify "SB Effective Date" on WPOL before worker arrives in Singapore; (7) on cessation of employment, discharge ~1 week after worker departs Singapore. Quantitative anchors: SGD 5,000 per non-Malaysian Work Permit holder (no bond required for S Pass or Malaysian Work Permit holders); 14-month bond period (12-month WP + 2-month buffer) or 26-month (24-month WP + 2-month buffer); the bond premium is a small fraction of the SGD 5,000 face value, obtained as a quote; a counter-indemnity waiver, where bought, adds to that premium. **Critical insurance angle:** standard insurance bond contains counter-indemnity clause allowing insurer to recover from employer if MOM forfeits bond - most SMEs don't realise this. Waiver of counter-indemnity is the specific endorsement to demand if affordable.
+> Your SME is hiring a non-Malaysian Work Permit holder for the first time and needs to lodge the SGD 5,000 [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) Security Bond before the worker arrives. The bond is a pledge to pay the Government if you or the worker breaches the Work Permit or security bond conditions, and MOM may forfeit it if, for example, the worker goes missing, salary is paid late, or you fail to send the worker home. Critical workflow: (1) Submit Work Permit application via [Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits); (2) wait for In-Principle Approval (IPA); for a new worker the FIN is assigned within 3 working days after approval, so regenerate the IPA to get the FIN before buying the bond; (3) request a bond quote from any bank or insurance company, giving the worker's FIN and your CPF Submission Number from the IPA; (4) accept terms: choose an insurance bond or a banker's guarantee; (5) insurer transmits to MOM electronically (typically 1-3 working days); (6) verify "SB Effective Date" on WPOL before worker arrives in Singapore; (7) on cessation of employment, discharge ~1 week after worker departs Singapore. Quantitative anchors: SGD 5,000 per non-Malaysian Work Permit holder (no bond required for S Pass or Malaysian Work Permit holders); 14-month bond period (12-month WP + 2-month buffer) or 26-month (24-month WP + 2-month buffer); the bond premium is a small fraction of the SGD 5,000 face value, obtained as a quote; a counter-indemnity waiver, where bought, adds to that premium. **Critical insurance angle:** standard insurance bond contains counter-indemnity clause allowing insurer to recover from employer if MOM forfeits bond - most SMEs don't realise this. Waiver of counter-indemnity is the specific endorsement to demand if affordable.
 
 ### The Sourced Detail
 
@@ -80,26 +80,24 @@ MOM processes application:
 - Specific eligibility verification
 - Specific quota check
 - Specific employer compliance history
-- IPA issuance with FIN
+- IPA issuance
 
-After FIN issued: regenerate IPA next working day for use in bond purchase.
+For a new worker, MOM assigns the FIN within 3 working days after the Work Permit application is approved: regenerate the IPA to get the FIN before buying the bond.
 
 **Step 3 - Bond quote and selection (Day 7-10).**
 
 Request bond from:
 
 **Option A - Insurance bond (most common).**
-- MOM-approved insurer (specific list maintained by MOM)
+- Any insurance company can issue it
 - Premium is a small fraction of the SGD 5,000 face value, quoted by the insurer
 - Counter-indemnity clause standard
-- Faster issuance (often same-day during business hours)
+- The insurer sends the bond details to MOM, which takes up to 3 working days
 
 **Option B - Banker's guarantee.**
-- Singapore-incorporated bank
+- Any bank
 - Specific cash collateral or letter of credit typically required
 - More expensive total cost
-- No counter-indemnity recovery exposure (banker holds collateral)
-- Slower issuance
 
 **Option C - Bond + Foreign Worker Medical Insurance + WICA bundle.**
 - Specific bundled product from MOM-approved insurer
@@ -108,9 +106,8 @@ Request bond from:
 
 **Documentation required:**
 - IPA (after FIN regeneration)
-- ACRA Bizfile
-- Specific employer registration documents
-- Specific bank account details for premium payment
+- The worker's FIN and your CPF Submission Number, both shown on the IPA or renewal notice
+- Your UEN
 
 **Step 4 - Bond issuance (Day 10-14).**
 
@@ -157,13 +154,13 @@ The counter-indemnity clause is buried in the bond agreement and most SMEs don't
 **Waiver of counter-indemnity.**
 - Specific endorsement available from many insurers
 - Adds an additional premium quoted by the insurer
-- Insurer takes the SGD 5,000 forfeiture risk fully
-- More expensive but genuine risk transfer
-- Specific evaluation: the additional premium weighed against the SGD 5,000 contingent liability it removes
+- Reduces or removes your share of a forfeiture on terms set in the policy, usually only where the breach was not caused by your negligence or fault
+- Transfers part or all of the forfeiture risk, on the policy's terms
+- Specific evaluation: the additional premium weighed against the share of the SGD 5,000 it would cover
 
 For SMEs hiring multiple foreign workers, the counter-indemnity waiver decision is material:
-- 10 workers × SGD 5,000 = SGD 50,000 contingent liability without waiver
-- 100 workers × SGD 5,000 = SGD 500,000 contingent liability without waiver
+- 10 workers x SGD 5,000 = SGD 50,000 contingent liability without waiver
+- 100 workers x SGD 5,000 = SGD 500,000 contingent liability without waiver
 
 #### Bundle considerations - FWMI and WICA
 
@@ -178,7 +175,7 @@ Many MOM-approved insurers offer combined products:
 - Single insurer relationship
 - Specific premium discount where the insurer offers a combined rate
 - Coordinated administration
-- Single COI for MOM compliance verification
+- One insurer to send the bond details to MOM and to give you the medical insurance details you submit in WP Online
 
 **Bundle considerations:**
 - Specific cover scope alignment
@@ -189,7 +186,7 @@ Many MOM-approved insurers offer combined products:
 #### Sector-specific patterns
 
 **Construction.**
-- Highest volume of Work Permit holders
+- Part of the construction, marine shipyard and process (CMP) sectors, which together hold the largest group of Work Permit holders in MOM's published figures (490,700 in June 2026)
 - Specific MOM scrutiny on dependency ratio
 - Specific quota management
 - Specific bond volume
@@ -214,13 +211,8 @@ Many MOM-approved insurers offer combined products:
 
 #### MOM enforcement and forfeiture history
 
-MOM publishes specific bond forfeiture statistics annually:
-- Specific common forfeiture causes
-- Specific employer compliance patterns
-- Specific recovery rates
-
 Common forfeiture triggers:
-- Worker absconding (most common)
+- Worker going missing
 - Specific overstaying after WP cessation
 - Specific failure to repatriate
 - Specific breach of WP conditions
@@ -243,17 +235,17 @@ Specific employer due diligence:
 - Operating cost, not contingent liability
 - Specific quota implications
 
-These are distinct obligations - both required for Work Permit holders.
+These are distinct obligations, and both apply to non-Malaysian Work Permit holders.
 
 ### Common Mistakes / What Goes Wrong
 
 1. **Counter-indemnity clause not read.** SME assumes bond is risk transfer; learns later it's not.
 
-2. **SB Effective Date timing failure.** Worker arrives before bond effective; WP issuance delayed.
+2. **SB Effective Date timing failure.** Worker arrives before the bond takes effect; the immigration officer will not let the worker enter, MOM cannot change the bond's effective date, and the worker must be sent home.
 
 3. **Bundle vs standalone analysis missing.** SME purchases standalone components; misses bundle discount.
 
-4. **Discharge process not followed.** Worker departs but bond not discharged; ongoing premium exposure.
+4. **Discharge process not followed.** Worker departs but the Work Permit is not cancelled, so the bond is not discharged.
 
 5. **Forfeiture handling reactive.** Specific MOM forfeiture letter not addressed proactively.
 
@@ -304,7 +296,7 @@ The cost of bond mismanagement is bounded but real - single forfeiture is SGD 5,
 ### Related Information
 - [How to Comply with FWMI Stage 2 Requirements (1 July 2025+)](/procedural-howto/fwmi-stage-2-mom-1-july-2025-singapore)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How to Renew FDW Insurance Before Work Permit Expiry](/procedural-howto/fdw-insurance-renew-before-permit-expiry)
 - [Foreign Worker Insurance in Singapore: WICA, Medical, and Repatriation, End to End](/document-legal/foreign-worker-insurance-complete-guide-singapore)
 

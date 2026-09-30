@@ -51,7 +51,7 @@ The implication for the limit-structure decision: regardless of whether the poli
 
 #### Verbatim wording extracts
 
-Singapore commercial motor wordings from NTUC Income, AIG Singapore, Chubb Singapore, Allianz Singapore, Tokio Marine Singapore, and MSIG Singapore follow a common architecture: the Schedule states the Limits of Indemnity in either CSL or Split-Limit format, the Liability to Third Parties section is the substantive insuring clause, and the wording carries an exclusion of liability above the stated contractual limit (subject to the statutory compulsion above). Drafters and procurement teams should fetch each commercial-motor wording from the insurer's published material and reproduce the relevant Schedule and Section II clause verbatim.
+Singapore commercial motor wordings from NTUC Income, AIG Singapore, Chubb Singapore, Allianz Singapore, Tokio Marine Singapore, and MSIG Singapore follow a common architecture: the Schedule states the Limits of Indemnity in either CSL or Split-Limit format, the Liability to Third Parties section is the substantive insuring clause, and the wording carries an exclusion of liability above the stated contractual limit (subject to the statutory compulsion above).
 
 The substantive liability clause in a Singapore commercial motor wording typically reads, in materially common form: "The Company will indemnify the Insured against all sums which the Insured shall become legally liable to pay in respect of (a) death of or bodily injury to any person; (b) damage to property; caused by or arising out of the use of the Motor Vehicle, up to the Limits of Indemnity stated in the Schedule."
 
@@ -121,7 +121,7 @@ There is no published GIA Singapore aggregate data permitting a numerical statem
 
 #### Singapore court treatment
 
-[elitigation.sg](https://www.elitigation.sg) holds numerous Singapore reported decisions on motor third-party claims and the operation of sections 9 and 10 of the MV Act. Drafters should sweep for limit-allocation disputes and reproduce verbatim the relevant paragraphs of any on-point judgment. FIDReC Annual Reports include motor-claim summaries within FIDReC's jurisdictional limits (S$150,000 for motor and personal-injury claims as at current FIDReC monetary thresholds).
+[elitigation.sg](https://www.elitigation.sg) holds numerous Singapore reported decisions on motor third-party claims and the operation of sections 9 and 10 of the MV Act. FIDReC Annual Reports include motor-claim summaries within FIDReC's jurisdictional limits (S$150,000 for motor and personal-injury claims as at current FIDReC monetary thresholds).
 
 ### Common Mistakes / What Goes Wrong
 

@@ -43,7 +43,7 @@ The [Land Surveyors Act 1991](https://sso.agc.gov.sg/Act/LSA1991) (current 2020 
 
 The Act addresses registration of survey corporations, partnerships, and LLPs supplying survey services in Singapore. The entity-licence framework and insurance compulsion mirror the Architects Act 1991 and Professional Engineers Act 1991 structure: the licensed entity must hold PI cover at the LSB-prescribed minimum.
 
-Drafters and SME advisers should locate the entity-licence and insurance section directly on SSO at [sso.agc.gov.sg/Act/LSA1991](https://sso.agc.gov.sg/Act/LSA1991) and verify the current section number and PI compulsion against the LSB licence-condition floor at [lsb.mlaw.gov.sg](https://lsb.mlaw.gov.sg) before reliance.
+The Act's current text is on SSO at [sso.agc.gov.sg/Act/LSA1991](https://sso.agc.gov.sg/Act/LSA1991), and the LSB licence-condition floor is published at [lsb.mlaw.gov.sg](https://lsb.mlaw.gov.sg).
 
 #### The subsidiary legislation
 

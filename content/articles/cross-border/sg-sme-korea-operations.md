@@ -137,7 +137,7 @@ SMEs that engage thoughtfully with the Korean framework benefit from sustainable
 5. As Korean regulatory framework evolves, what cover evolution should I plan for?
 
 ### Related Information
-- [Master/Local vs DIC/DIL: Multinational Insurance Structures Explained](/comparison/master-local-vs-dic-dil-multinational)
+- [Master/Local Programmes and DIC/DIL Cover: Multinational Insurance Structures Explained](/comparison/master-local-vs-dic-dil-multinational)
 - [Singapore SME With Japan Operations: How Insurance Works for Japanese Subsidiaries and Branches](/cross-border/sg-sme-japan-operations)
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 
