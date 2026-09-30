@@ -21,7 +21,7 @@ og_description: "Section 14 of Singapore's Employment Act governs dismissal for 
 
 > **The Answer in 60 Seconds**
 >
-> [Section 14 of the Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) - together with the 2019 amendments to the definition of "dismissal" in the Act (which expressly captures constructive dismissal scenarios where an employee resigns under the employer's conduct or omissions) - and the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/) issued by [MOM](https://www.mom.gov.sg/), [NTUC](https://www.ntuc.org.sg/), and [SNEF](https://www.snef.org.sg/), Singapore's wrongful dismissal framework provides specific procedural and substantive protections. Disputes are heard by the [Employment Claims Tribunals (ECT)](https://www.judiciary.gov.sg/state-courts) under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) for eligible matters. **Employment Practices Liability (EPL)** insurance covers defence costs and potentially settlements/awards for wrongful dismissal, discrimination, harassment, and related employment claims - but not severance pay, statutory entitlements, or back wages. EPL becomes increasingly important as headcount and complexity grow, particularly with the [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) implementation.
+> [Section 14 of the Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) governs employer dismissal of employees on grounds of misconduct after due inquiry. Combined with Section 14(2) - together with the 2019 amendments to the definition of "dismissal" in the Act (which expressly captures constructive dismissal scenarios where an employee resigns under the employer's conduct or omissions) - and the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/guidelines/tripartite-guidelines-on-wrongful-dismissal.pdf) issued by [MOM](https://www.mom.gov.sg/), [NTUC](https://www.ntuc.org.sg/), and [SNEF](https://www.snef.org.sg/), Singapore's wrongful dismissal framework provides specific procedural and substantive protections. Disputes are heard by the [Employment Claims Tribunals (ECT)](https://www.judiciary.gov.sg/civil/employment-claims) under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) for eligible matters. **Employment Practices Liability (EPL)** insurance covers defence costs and potentially settlements/awards for wrongful dismissal, discrimination, harassment, and related employment claims - but not severance pay, statutory entitlements, or back wages. EPL becomes increasingly important as headcount and complexity grow, particularly once the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/Published/20250213?DocDate=20250213) takes effect; MOM aims for end-2027.
 
 ### The Sourced Detail
 
@@ -37,9 +37,9 @@ The [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968) is Singapore's pri
 - In lieu of notice payment available
 
 **Section 11 - Termination without notice:**
-- Specific circumstances permitting termination without notice
-- Misconduct, breach of express conditions
-- Other specified grounds
+- Either party may end the contract without notice by paying salary in lieu of notice (section 11(1))
+- Either party may end it without notice for a wilful breach of a condition of the contract by the other party (section 11(2))
+- Dismissal for misconduct is dealt with separately, under section 14
 
 **Section 14(1) - Dismissal for misconduct after due inquiry:**
 
@@ -51,7 +51,7 @@ The procedural requirement is "due inquiry":
 - Decision based on inquiry findings
 - Documentation of process
 
-**Constructive dismissal - captured within the section 14 definition of "dismissal" (2019 amendments):**
+**Constructive dismissal: captured within the section 2 definition of "dismiss" (2019 amendments):**
 
 The 2019 amendments to the Employment Act expanded the statutory definition of "dismissal" to include the scenario where an employee resigns but the resignation was not voluntary - i.e. the employee was forced to resign because of the conduct or omissions of the employer. This is the statutory anchor for constructive dismissal claims in Singapore; there is no standalone Section 14A. Typical scenarios:
 - Material change in employment terms without consent
@@ -61,20 +61,20 @@ The 2019 amendments to the Employment Act expanded the statutory definition of "
 
 **Section 14(2) - Wrongful dismissal challenge mechanism:**
 
-An employee dismissed under section 14(1) (or otherwise) may challenge the dismissal as wrongful under section 14(2). Wrongful dismissal claims are filed with the Tripartite Alliance for Dispute Management (TADM) for mandatory mediation, and unresolved disputes proceed to the Employment Claims Tribunals. Remedies the tribunal can order include:
-- Reinstatement to the previous position (rare in practice)
-- Compensation
-- Other relief the tribunal considers appropriate
+An employee dismissed under section 14(1) (or otherwise) may challenge the dismissal as wrongful under section 14(2). Wrongful dismissal claims are filed with the Tripartite Alliance for Dispute Management (TADM) for mandatory mediation, and unresolved disputes proceed to the Employment Claims Tribunals. The employee claims one of two remedies, which the tribunal can order (sections 14(2) and 14(3)):
+- Reinstatement in the former employment, with the wages the employee would have earned had they not been dismissed
+- Compensation, an amount of wages determined by the tribunal
 
 #### The Tripartite Guidelines on Wrongful Dismissal
 
-Issued jointly by MOM, NTUC, and SNEF, the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/) provide practical guidance:
+Issued jointly by MOM, NTUC, and SNEF, the [Tripartite Guidelines on Wrongful Dismissal](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/guidelines/tripartite-guidelines-on-wrongful-dismissal.pdf) provide practical guidance:
 
 **Categories of wrongful dismissal:**
-- **Misconduct-related** - dismissal claimed as misconduct without due inquiry or without basis
-- **Discrimination-related** - dismissal based on protected characteristics
-- **Retaliation-related** - dismissal for whistleblowing or exercising legal rights
-- **Specific procedural failures** - failure to follow contractual or statutory procedures
+- **Misconduct or poor performance not proven**: the employer cites misconduct or poor performance but cannot prove it, or dismisses without notice without a due inquiry
+- **Discrimination**: for example on age, race, gender, religion, marital status and family responsibilities, or disability
+- **Deprivation of benefits**: dismissal to deprive the employee of benefits or entitlements, such as maternity benefits
+- **Punishment for exercising an employment right**: such as filing a mediation request with TADM or declining a request to work overtime
+- **False reason**: a reason given for a dismissal with notice that is proven false
 
 **What's typically not wrongful dismissal:**
 - Genuine retrenchment (subject to specific procedures)
@@ -105,12 +105,12 @@ Per the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016), the EC
 - Wrongful dismissal claims: typically 1 month from termination
 - Specific procedural requirements
 
-#### The Workplace Fairness Act 2024 dimension
+#### The Workplace Fairness Act 2025 dimension
 
-The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - see [a guide to each protected characteristic](/document-legal/wfa-2024-protected-characteristics) - introduces specific anti-discrimination provisions:
+The [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/Published/20250213?DocDate=20250213) (see [a guide to each protected characteristic](/document-legal/wfa-2024-protected-characteristics)) introduces specific anti-discrimination provisions once it is in force (MOM aims for end-2027):
 
 **Protected characteristics:**
-- Age, race, religion, language, sex, marital status, family responsibilities, sexual orientation, gender identity (specific provisions per Act)
+- Age, nationality, sex, marital status, caregiving responsibilities, race, religion and language ability (section 8); the Act says sex does not include sexual orientation or gender identity (section 10(2))
 - Disability and mental health
 - Pregnancy and breastfeeding
 
@@ -120,11 +120,11 @@ The [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) - see [a g
 - Specific remedies
 
 **Implementation:**
-- Phased implementation
+- Not yet in force: MOM aims for the Act to take effect in end-2027, and small firms with fewer than 25 employees will be exempted at the start
 - Specific guidance from MOM
 - Specific employer obligations
 
-For founders of Singapore SMEs, WFA significantly expands the wrongful dismissal landscape. Termination decisions need to consider:
+Once in force, the WFA adds to the wrongful dismissal landscape for the employers it covers (MOM has said small firms with fewer than 25 employees will be exempted at the start, though the Tripartite Guidelines on Fair Employment Practices still apply to them). Termination decisions need to consider:
 - Substantive grounds (genuine performance, misconduct, redundancy)
 - Procedural compliance (Section 14 due inquiry where applicable)
 - Specific WFA considerations (protected characteristics)
@@ -153,7 +153,7 @@ The "due inquiry" under Section 14 typically involves:
 **For redundancy / retrenchment:**
 - Genuine business need documented
 - Specific selection criteria applied
-- Retrenchment benefits per [MOM Tripartite Advisory](https://www.mom.gov.sg/) (eligible employees)
+- Retrenchment benefits per [MOM Tripartite Advisory](https://www.mom.gov.sg/-/media/mom/documents/employment-practices/guidelines/tripartite-advisory-on-managing-excess-manpower-and-responsible-retrenchment.pdf) (eligible employees)
 - Specific notification requirements
 
 #### Employment Practices Liability (EPL) insurance
@@ -183,14 +183,13 @@ EPL covers employment-related claims:
 **EPL vs Common Law Employer's Liability:**
 
 These cover different scenarios:
-- **Common Law / Employer's Liability** under WICA: bodily injury / disease at work
+- **Work injury compensation (WICA) insurance, and common law employer's liability cover**: bodily injury or disease at work. MOM notes that insurance for common law liabilities is not governed under WICA
 - **EPL** : discrimination, wrongful dismissal, harassment, retaliation
 
 Both may be needed.
 
 **Specific EPL features:**
-- Third-party harassment cover (claims by non-employees against organisation)
-- Wage and hour sub-limit (where applicable)
+- Who can bring a covered claim: at least one published Singapore wording covers only claims made by an employee, so claims by non-employees need checking
 - Specific category coverage (immigration, internet usage, etc.)
 - Defence cost mechanism
 
@@ -198,7 +197,7 @@ Both may be needed.
 
 **Pre-need:**
 - For SMEs with 5-10 employees, EPL may be relatively low priority
-- Standard PL may include some employment-related dispute cover
+- Public liability wordings can exclude employment practices claims (wrongful dismissal, discrimination, harassment) altogether, so check the wording
 - Specific to risk profile
 
 **Growth phase (10-50 employees):**
@@ -207,7 +206,6 @@ Both may be needed.
 - Coordination with HR practices
 
 **Mature SME (50+ employees):**
-- EPL essentially standard
 - Higher limits
 - Specific industry considerations
 
@@ -288,25 +286,7 @@ For SMEs managing employment risk:
 
 #### Premium considerations
 
-For typical Singapore SMEs:
-
-**Small SME (under 25 employees):**
-- EPL: S$1,500-S$5,000 typical (sometimes bundled)
-- Limits: S$500k-S$1M
-
-**Mid-size SME (25-100 employees):**
-- EPL: S$3,000-S$15,000
-- Limits: S$1M-S$3M
-
-**Larger SME (100+ employees):**
-- EPL: S$10,000-S$40,000+
-- Limits: S$3M-S$5M+
-
-**Specific industries with elevated employment risk:**
-- Financial services
-- Healthcare
-- Technology (rapid growth and turnover)
-- Specific sectors with documented elevated litigation
+EPL premiums depend on factors such as the number of staff, claims history, employee turnover and the business's employment practices, and are set by each insurer's quote.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -346,7 +326,7 @@ The asymmetry: maintaining employment discipline costs little; defending wrongfu
 ### Questions to Ask Your Adviser
 
 1. For my headcount and industry, what EPL limits and structure are appropriate?
-2. What's the boundary between EPL and Common Law / Employer's Liability under WICA?
+2. What's the boundary between EPL and our work injury compensation and common law employer's liability covers?
 3. Does my EPL include third-party harassment cover, wage and hour, and specific category extensions?
 4. How does EPL coordinate with D&O for executive-related employment claims?
 5. As I scale (headcount, complexity, industry-specific risk), what EPL milestones should I plan for?

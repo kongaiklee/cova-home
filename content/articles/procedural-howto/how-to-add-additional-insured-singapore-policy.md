@@ -21,27 +21,27 @@ og_description: "Adding an additional insured extends specific protections to a 
 
 > **The Answer in 60 Seconds**
 >
-> Adding an "additional insured" to a Singapore commercial policy is a procedural endorsement that extends specific cover protections to a named third party (typically landlord, main contractor, hospital, MNC, or vendor) for liability arising from the named insured's operations. The procedure: (1) identify the third party requiring additional insured status (usually triggered by lease, contract, or commercial agreement); (2) confirm the type of additional insured cover required (most contracts specify standard ISO-equivalent endorsement language CG 20 10 or CG 20 37); (3) request endorsement from current insurer with specific party name and address; (4) confirm cover scope (typically liability arising from named insured's acts or operations involving the additional insured); (5) obtain certificate of insurance evidencing additional insured status; (6) deliver certificate to third party; (7) update at policy renewal. Distinguishing four common third-party roles: **Named Insured** (controls policy), **Additional Insured** (named on endorsement; gets liability protection for vicarious exposure from named insured's operations), **Loss Payee** (receives property claim payment, no liability protection), **Certificate Holder** (only sees evidence of cover, no rights). Additional insured premium impact: typically nominal or absorbed; landlords commonly require ≥SGD 1m PL limit and 30-day cancellation notice. Premium increases occur only if substantially elevated risk profile.
+> Adding an "additional insured" to a Singapore commercial policy is a procedural endorsement that extends specific cover protections to a named third party (typically landlord, main contractor, hospital, MNC, or vendor) for liability arising from the named insured's operations. The procedure: (1) identify the third party requiring additional insured status (usually triggered by lease, contract, or commercial agreement); (2) confirm the type of additional insured cover required (the contract sets what is required; the PSSCOC for public works, for example, asks for the Employer to be noted as an "Additional Insured" with a "cross liability" provision); (3) request endorsement from current insurer with specific party name and address; (4) confirm cover scope (typically liability arising from named insured's acts or operations involving the additional insured); (5) obtain certificate of insurance evidencing additional insured status; (6) deliver certificate to third party; (7) update at policy renewal. Distinguishing four common third-party roles: **Named Insured** (controls policy), **Additional Insured** (named on endorsement; gets liability protection for vicarious exposure from named insured's operations), **Loss Payee** (receives property claim payment, no liability protection), **Certificate Holder** (only sees evidence of cover, no rights). Any premium impact is for the insurer to quote. Leases can set a minimum public liability limit: JTC's standard lease terms, for example, require at least S$1 million per occurrence, in the tenant's and JTC's joint names.
 
 ### The Sourced Detail
 
-Additional insured endorsements are among the most frequently requested but commonly misunderstood procedural elements in Singapore commercial insurance. Driven by lease and contract requirements, the endorsement creates specific cover relationships with significant procedural considerations. Misunderstanding the four role distinctions (Named Insured, Additional Insured, Loss Payee, Certificate Holder) is the most common source of error.
+Leases and contracts can require a party to be added as an additional insured on a Singapore commercial policy. Driven by lease and contract requirements, the endorsement creates specific cover relationships with significant procedural considerations. The four role distinctions (Named Insured, Additional Insured, Loss Payee, Certificate Holder) decide what the third party actually gets.
 
 #### Regulatory framework
 
-**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - establishes general insurance contract framework.
+**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), which regulates insurance business in Singapore, insurers and insurance intermediaries.
 
 **Third-party rights statute.** [Contracts (Rights of Third Parties) Act 2001](https://sso.agc.gov.sg/Act/CRTPA2001) - establishes default framework for third-party rights under contracts. Note: most insurance contracts contractually exclude or modify CRTPA application; specific endorsement provisions govern.
 
-**Industry framework.** Singapore insurance market typically uses ISO-equivalent endorsement language sourced from Lloyd's market or major commercial insurers. Common forms (referenced by edition):
+**Industry framework.** The contract sets what is required, and Singapore standard forms can use their own terms: the PSSCOC for public works asks for the Employer to be noted as an "Additional Insured" with a "cross liability" provision (clause 27.1), and JTC's standard lease terms ask for the tenant's public liability policy to be in joint names with "Cross Liability" and "Waiver of Subrogation" clauses. Two US additional insured endorsements published by the Insurance Services Office (ISO) are:
 - **CG 20 10** - Additional Insured: Owners, Lessees or Contractors - Scheduled Person or Organization
 - **CG 20 37** - Additional Insured: Owners, Lessees or Contractors - Completed Operations
 
-**Lloyd's market access.** Many Singapore commercial covers placed through [Lloyd's Asia syndicates](https://www.lloyds.com/en-sg/lloyds-around-the-world/service-companies) - endorsement language follows Lloyd's market standards.
+**Lloyd's market access.** Lloyd's has [16 service companies in Singapore](https://www.lloyds.com/en-sg/lloyds-around-the-world/service-companies) (Lloyd's Asia) writing various classes of business.
 
-**Industry associations.** [Singapore Insurance Brokers' Association (SIBA)](https://www.siba.sg/) and [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) publish industry conventions on certificate of insurance formats and additional insured endorsement scope.
+**Industry associations.** The [Singapore Insurance Brokers' Association (SIBA)](https://www.siba.sg/) represents insurance brokers, and the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) represents Singapore's general insurance industry.
 
-**Real estate industry standards.** Standard commercial leases in Singapore (often based on [Real Estate Developers' Association of Singapore (REDAS)](https://www.redas.com/) / [Singapore Institute of Surveyors and Valuers (SISV)](https://www.sisv.org.sg/) conventions) typically include specific insurance provisions including additional insured requirements.
+**Real estate industry standards.** Commercial leases in Singapore can include insurance provisions that put the landlord on the tenant's policy: [JTC's standard lease terms](https://www.jtc.gov.sg/-/media/project/jtc-cx/corpweb/assets/home/space-lease-standard-terms.pdf), for example, require the tenant's public liability policy to be in the tenant's and JTC's joint names, with a limit of not less than S$1 million per occurrence and "Cross Liability" and "Waiver of Subrogation" clauses.
 
 #### The four third-party role distinctions
 
@@ -75,7 +75,7 @@ Understanding these distinctions is foundational:
 - Does NOT receive any rights to claim
 - Common where third party wants evidence of insurance for compliance / risk management but doesn't require cover for itself
 
-Confusion between Additional Insured and Certificate Holder is the most common procedural error. Many SME contracts request "Certificate Holder" status when the contracting party actually needs "Additional Insured" status (or vice versa).
+Additional Insured and Certificate Holder are easily confused: a contract may ask for "Certificate Holder" status when the contracting party actually needs "Additional Insured" status, or the other way round.
 
 #### Common Singapore scenarios for additional insured
 
@@ -84,14 +84,13 @@ Confusion between Additional Insured and Certificate Holder is the most common p
 - Slip-and-fall on common area where tenant's operations contributed
 - Property damage from tenant's operations to common areas
 
-Standard lease provisions typically require:
-- PL limit ≥ SGD 1 million (landlords increasingly request SGD 2-5 million)
-- Landlord named as Additional Insured
-- 30-day cancellation notice to landlord
+Lease provisions can require, for example:
+- A minimum PL limit (JTC's standard lease terms: not less than S$1 million per occurrence). For a retail lease of one year or more signed on or after 1 February 2024, the lease must not require a limit above S$3 million or the landlord's own public liability limit, whichever is lower, unless the premises exceed 15,000 square feet
+- The landlord named on the tenant's policy (JTC's terms: joint names, with "Cross Liability" and "Waiver of Subrogation" clauses)
 
 **Main contractor / sub-contractor.** Main contractor requires sub-contractor to add main contractor as Additional Insured:
 - Main contractor's vicarious liability from sub-contractor's operations
-- Construction industry standard
+- Used in construction contracts: the PSSCOC for public works, for example, requires the contractor's insurances to note the Employer as an "Additional Insured" with a "cross liability" provision for third party liability (clause 27.1)
 
 **Hospital / medical staffing.** Medical staffing agency adds hospital as Additional Insured for staff working at hospital:
 - Hospital's vicarious liability from staffed personnel's actions
@@ -99,7 +98,6 @@ Standard lease provisions typically require:
 
 **MNC vendor agreements.** MNC requires vendor to add MNC as Additional Insured for vendor services:
 - MNC's vicarious liability from vendor work
-- Common in IT services, facility management, security services
 
 **Joint venture / commercial partnership.** JV partners may add each other as Additional Insureds for joint operations.
 
@@ -124,7 +122,7 @@ Different additional insured endorsements have different scope:
 - **Combined** - both ongoing and completed
 - **Specific endorsement** - tailored to specific arrangement
 
-The contract typically specifies which type. If unclear, request both for completeness.
+Check whether the contract specifies a type. If unclear, request both for completeness.
 
 **Step 3 - Request endorsement from insurer.**
 
@@ -139,7 +137,7 @@ To insurer / broker:
 Insurer reviews and confirms:
 - Endorsement available under cover
 - Cover scope acceptable
-- Premium impact (typically nominal or absorbed; substantial increases for high-risk additions)
+- Premium impact, if any
 - Additional terms acceptable
 
 **Step 5 - Receive endorsement and certificate of insurance.**
@@ -173,9 +171,9 @@ At each renewal:
 
 **Primary and non-contributory cover.** Some contracts require Named Insured's policy to respond as "primary and non-contributory" for AI's liability - meaning AI's own insurance doesn't contribute to defence/indemnity until Named Insured's policy exhausted.
 
-**Waiver of subrogation.** Some contracts require waiver of subrogation - Named Insured's insurer cannot pursue AI for any contribution. Important consideration; some insurers limit or charge for subrogation waiver.
+**Waiver of subrogation.** Some contracts require waiver of subrogation - Named Insured's insurer cannot pursue AI for any contribution. Check whether the policy already waives subrogation (a cross liability clause can, for the parties comprising the insured) or whether the insurer must agree to a waiver, and on what terms.
 
-**30-day cancellation notice to AI.** Common landlord requirement; insurer notifies AI directly before cancellation.
+**Cancellation notice to AI.** A contract may ask for the insurer to notify the AI directly before cancelling. That may need an endorsement, because a standard wording can provide for notice to the insured only: Etiqa's public liability wording lets the insurer cancel "by sending fourteen days' notice by registered letter to the insured".
 
 **Maintenance of cover.** Some contracts require specific cover scope and limits maintained throughout contract period.
 
@@ -187,7 +185,7 @@ At each renewal:
 
 **Certificate of insurance limitations.** Certificate is a snapshot evidence of cover; doesn't grant rights independent of policy. AI status only established by endorsement, not by certificate alone.
 
-**Premium impact considerations.** Most additional insured additions are nominal premium impact or absorbed. However:
+**Premium impact considerations.** Any premium impact is for the insurer to quote. Factors that can affect it:
 - Multiple AIs (e.g., 50+ landlords across multi-location operation) can affect underwriting
 - High-risk AIs (e.g., heavy industrial main contractors) may attract premium loading
 - Specific endorsements (waiver of subrogation, primary and non-contributory) may have premium impact
@@ -248,7 +246,7 @@ For Singapore SMEs managing additional insured requirements:
 
 9. **Mid-term updates** when new contracts begin or end.
 
-10. **Premium impact awareness** - most absorbed, but specific scenarios increase cost.
+10. **Premium impact awareness**: ask the insurer what each addition costs, as some additions can increase it.
 
 The cost of additional insured procedural failure is substantial - contract breach for failure to provide compliant cover, AI's potential claim against Named Insured for failed cover, regulatory exposure if specific cover required. Procedural discipline matters especially for SMEs with multi-property leases or multi-contract operations where AI list management becomes operationally complex.
 

@@ -14,23 +14,23 @@ word_count: 1065
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/read-policy-schedule-singapore"
-meta_description: "A Singapore commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries go wrong."
+meta_description: "A Singapore commercial policy is read as one contract with its schedule, the personalised part. What sits in the schedule, and which entries go wrong."
 og_title: "How to Read Your Commercial Insurance Policy Schedule"
-og_description: "A Singapore commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries go wrong."
+og_description: "A Singapore commercial policy is read as one contract with its schedule, the personalised part. What sits in the schedule, and which entries go wrong."
 ---
 
 ### The Answer in 60 Seconds
 
-> A commercial insurance policy in Singapore typically has six structural sections: **Schedule (Declarations)**, **Definitions**, **Insuring Agreement / Coverage**, **Exclusions**, **Conditions** (including warranties and conditions precedent), and **Endorsements**. The Schedule is the personalised summary - named insured, UEN, policy period, sums insured, excess, and any extensions. Per the General Insurance Association of Singapore and standard ISO-influenced Singapore wordings, the schedule **alone** does not grant cover - it must be read with the full policy wording. Common pitfalls: company name not matching UEN, sum insured below replacement cost (triggers average), missed warranties (e.g., maintenance of FSC), and undeclared materials/operations.
+> A commercial insurance policy in Singapore can be read in parts such as the **Schedule (Declarations)**, **Definitions**, **Insuring Agreement / Coverage**, **Exclusions**, **Conditions** (including warranties and conditions precedent), and **Endorsements**; the layout varies between wordings. The Schedule is the personalised summary - named insured, UEN, policy period, sums insured, excess, and any extensions. Singapore wordings state that the policy and the schedule are read together as one contract, so the schedule **alone** does not grant cover; it must be read with the full policy wording. Common pitfalls: company name not matching UEN, sum insured below replacement cost (triggers average), missed warranties (e.g., a licence warranty), and undeclared materials/operations.
 
 ### The Step-by-Step
 
 **Step 1 - Open the Schedule (also called Declarations or "Dec Page").**
-The Schedule is a 1-3 page summary at the front of the policy. Verify, line by line:
+The Schedule is the summary at the front of the policy. Verify, line by line:
 
-- **Named Insured** - must match your ACRA-registered name *exactly*. "Acme Pte. Ltd." ≠ "Acme Pte Ltd" in some claim disputes. If you have related entities (parent, subsidiaries), confirm whether each is named or covered as "subsidiary companies."
+- **Named Insured** - must match your ACRA-registered name *exactly*. If you have related entities (parent, subsidiaries), confirm whether each is named or covered as "subsidiary companies."
 - **UEN** - the registration number. Mismatch can cause claim rejection.
-- **Business Description** - the *exact* trade. "F&B retail" is not the same as "central kitchen with delivery." A misdescription is non-disclosure.
+- **Business Description** - the *exact* trade. "F&B retail" is not the same as "central kitchen with delivery." A material misdescription can make the policy voidable.
 - **Insured Address(es)** - every operating location. Unlisted location = no cover.
 - **Policy Period** - note inception and expiry to the day. Singapore commercial policies typically run 12 months.
 - **Sums Insured / Limits of Indemnity** - for property: building, contents, stock, machinery (each separately listed). For liability: per occurrence and aggregate. For BI: gross profit / annual turnover and indemnity period.
@@ -47,22 +47,22 @@ This is the actual promise. "We will indemnify the Insured against legal liabili
 This is where most coverage disputes live. Standard exclusions to look for:
 - War and terrorism (sometimes split - terrorism may be add-back).
 - Cyber (often excluded under Property unless cyber sub-limit added; standalone cyber policies cover more).
-- Communicable disease (post-2020, almost universally excluded under PL/Property).
+- Communicable disease (a Singapore SME package policy can exclude it from both its property and its public liability sections).
 - Pollution (gradual seepage often excluded).
 - Asbestos / lead.
 - Professional services (covered under PI, not PL).
-- Employer's liability (covered under WICA, not PL).
+- Employer's liability (covered under a work injury compensation or employer's liability policy, not PL).
 - Contractual liability (often a carve-out for "insured contracts").
 
 **Step 5 - Read the Conditions, including warranties and conditions precedent.**
 Singapore insurance law is strict on warranties. Per CMS Singapore: "The breach of a warranty in an insurance policy entitles the insurer to be wholly discharged from all liabilities under the policy as from the date of the breach of warranty."
 
-Common warranties on a fire/PAR policy:
-- Maintenance of valid SCDF Fire Certificate.
-- Sprinkler systems operative at all times.
-- No use of LPG above stated quantity.
-- Alarm systems on outside business hours.
-- Hot work permit for any cutting/welding.
+Warranties a Singapore fire wording can apply, when the schedule specifies them:
+- Holding the licences the law requires.
+- An approved automatic sprinkler installation kept in proper working order with a sufficient supply of water.
+- No hazardous goods or inflammable liquids on the premises beyond stated quantities.
+- No spray painting on or near the premises.
+- No power other than the kinds stated used on the premises.
 
 Common conditions precedent on liability policies:
 - Notification of claim or circumstances within X days.
@@ -80,8 +80,8 @@ Singapore insurance is a contract of utmost good faith. Material non-disclosure 
 1. **"It's a 60-page document - I'll read it if there's a claim."** By then it's too late to fix mismatches. Spend 30 minutes at inception.
 2. **Named Insured doesn't match ACRA / UEN.** A trading name vs. legal name discrepancy can stall a claim.
 3. **Operating location not listed.** Pop-up store, satellite kitchen, warehouse rental - if not on the schedule, not covered.
-4. **Sum insured set in 2021, never reviewed.** BCA's Building Works Tender Price Index moved from 102.8 in 2020 to 137.7 in 2024 - a ~34% rise - making 2021 reinstatement values materially inadequate today; the average clause is harsh.
-5. **Reading the schedule but not the warranties.** A breached fire warranty (lapsed FC, disabled sprinkler) can void the entire claim.
+4. **Sum insured set in 2021, never reviewed.** BCA's Tender Price Index (2010 = 100) moved from 117.1 in 2021 to 137.7 in 2024, a rise of about 18%, so a reinstatement value set in 2021 may now be too low; the average clause is harsh.
+5. **Reading the schedule but not the warranties.** A breached fire warranty (a lapsed licence the warranty requires, or a disabled sprinkler) can void the entire claim.
 6. **Assuming "all risks" means everything.** All Risks policies cover all perils *except* those expressly excluded - and there are dozens of exclusions.
 
 ### What This Means for Your Business
@@ -89,9 +89,9 @@ Singapore insurance is a contract of utmost good faith. Material non-disclosure 
 Your policy schedule is a legal instrument. Treat it the way you'd treat a tenancy agreement or shareholder agreement. Two practical disciplines:
 
 1. **The 30-minute annual review.** At each renewal, the founder, ops lead, and finance lead read the schedule together. Verify named insured, UEN, addresses, sums insured, excesses, and any warranties. Flag changes year-on-year.
-2. **The "what changed" log.** New product line, new location, new machine, new key person, new contract type - anything that changes the risk profile gets logged and disclosed to the insurer mid-term, not at renewal. Material non-disclosure mid-term is as serious as at inception.
+2. **The "what changed" log.** New product line, new location, new machine, new key person, new contract type - anything that changes the risk profile gets logged and disclosed to the insurer mid-term, not at renewal. The duty of disclosure applies while the contract is being negotiated; during the policy period, conditions such as a fire policy's alteration clause can end cover for property affected by a change the insurer has not approved.
 
-Your licensed adviser's job is to translate the schedule into business terms and flag mismatches. Their job is *not* to recommend a specific product to you blindly - under MAS Notice FAA-N02 and related rules, advice on a specific contract is a regulated activity requiring specific licensing. Covarage's role is to introduce you to a licensed adviser who can do that work.
+Your licensed adviser's job is to translate the schedule into business terms and flag mismatches. Their job is *not* to recommend a specific product to you blindly. Covarage's role is to introduce you to a licensed adviser who can do that work.
 
 ### Questions to Ask Your Adviser
 

@@ -28,9 +28,9 @@ The BLS was introduced in 2009 under the Building Control (Amendment) Act 2007 t
 
 #### Two licence types, three scopes
 
-Per the [BLS Simplified Guide PDF](https://www1.bca.gov.sg/docs/default-source/docs-corp-procurement/builderslicensing_guide.pdf):
+Per the [BLS Simplified Guide PDF](https://isomer-user-content.by.gov.sg/338/e0cb07b3-6f07-47af-a172-e76be2a2abd6/builderslicensing_guide.pdf):
 
-- **General Builder Class 1 (GB1)** - undertake general building projects of any value, plus the six types of minor specialist building works
+- **General Builder Class 1 (GB1):** undertake general building works of any value. General builders of either class may also carry out minor specialist building works, and, on a project that does not need checks by an Accredited Checker, any of the six specialist works
 - **General Builder Class 2 (GB2)** - restricted to projects valued at S$6 million or less
 - **Specialist Builder (SB)** - for builders undertaking any of six specialist building works: piling; ground support and stabilization; instrumentation and monitoring; structural steelwork; precast concrete work; in-situ post-tensioning work
 
@@ -47,29 +47,29 @@ Per the BCA BLS page, every licensed builder must appoint:
 - **An Approved Person (AP)** : takes charge and directs the management of building works. Must be a sole-proprietor, partner, director or member of the board of management.
 - **A Technical Controller (TC)** : personally supervises execution and performance of building works. For Specialist Builders, the TC must hold a civil or structural engineering degree from a recognised institution.
 
-Per the [BLS FAQs PDF](https://www1.bca.gov.sg/docs/default-source/docs-corp-procurement/builderslicensing_faqs.pdf), a TC cannot supervise multiple firms - only one firm at a time.
+Per the [BLS FAQs PDF](https://isomer-user-content.by.gov.sg/338/e8c3f36b-6105-463d-9fb8-cf73157860f2/builderslicensing_faqs.pdf), a TC cannot supervise multiple firms - only one firm at a time.
 
 #### Licence fees and validity
 
-Per the BCA BLS page: GB1 fee S$1,800; GB2 S$1,200; Specialist Builder S$1,500. All licences valid up to **3 years**, with a S$100 late renewal fee per licence if filed late.
+Per the BCA BLS page: GB1 fee S$1,800; GB2 S$1,200; Specialist Builder S$1,500. All licences valid up to **3 years**. Per the [BLS FAQs](https://isomer-user-content.by.gov.sg/338/e8c3f36b-6105-463d-9fb8-cf73157860f2/builderslicensing_faqs.pdf), a late fee of S$100 per licence applies if the renewal application is received within 1 month before the licence expires.
 
 #### Where insurance enters the picture
 
 The BLS does not, on its own, require WICA, PL, or CAR. But three real-world layers stack on top of the licence:
 
-**Layer 1 - WICA (statutory, regardless of BLS).** Per the [WICA page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation), every Singapore employer must hold a WICA-approved policy from a [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf). From 1 November 2025, limits rose to S$269,000 (death), S$346,000 (permanent incapacity), and S$53,000 (medical expenses).
+**Layer 1 - WICA (statutory, regardless of BLS).** Per [MOM's WIC insurance page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance), every employer must insure all employees doing manual work, and all employees earning S$2,600 or less a month, under a WIC policy from a [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf). From 1 November 2025, limits rose to S$269,000 (death), S$346,000 (permanent incapacity), and S$53,000 (medical expenses).
 
-**Layer 2 - Principal's secondary liability under Section 13 of WICA 2019.** Section 13 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) creates a fallback liability on the principal of a contractor where a worker injured at a project site under the principal's management or control would otherwise be unable to recover from an uninsured or insolvent direct employer. In practice, this means a principal main contractor can be exposed to the WICA liability of a sub-contractor's worker if the sub-contractor is uninsured and its insolvency leaves the worker without recovery.
+**Layer 2 - Principal's secondary liability under Section 13 of WICA 2019.** Section 13 of the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) lets the Commissioner direct a principal to fulfil an employer's obligations under the Act for an employee of a contractor that the principal engaged, in the course of its trade or business, to carry out work the principal had undertaken, where the accident happens at a place where the principal has undertaken to execute work or that is under the principal's control or management. The Act does not limit this to cases where the contractor is uninsured or insolvent. A principal who pays is entitled to be indemnified by the worker's employer.
 
-If you are a GB1 main contractor and your specialist subcontractor's worker is uninsured, *you* may bear the WICA liability. Project Employer's Liability insurance is one structural answer to that exposure.
+If you are a GB1 main contractor and your specialist subcontractor's worker is uninsured, *you* may bear the WICA liability. MOM's guidance is that a principal must insure its own liabilities under its own WIC policy, not under its contractor's policy; that each sub-contractor must buy WIC insurance for its own employees; and that main contractors and developers should not buy or renew project WIC policies (since 1 September 2020). Insurance for common law liabilities can be bought separately and is not governed by WICA.
 
-**Layer 3 - Contractors All Risk (CAR) and Public Liability - driven by tender and contract terms.** For projects requiring Building Control Commissioner approval, the developer or main contractor's tender documents typically require a project CAR policy in joint names, project PL at limits tied to contract value, and performance bonds. These are commercial contractual requirements, not BLS conditions.
+**Layer 3 - Contractors All Risk (CAR) and Public Liability - driven by tender and contract terms.** On public-sector projects, the PSSCOC requires the contractor to insure the works in the joint names of the employer and the contractor for not less than the contract sum, to carry third-party liability insurance at the limits the contract sets, and to lodge a security deposit, which may be a bank or insurer guarantee. Private contracts set their own terms. These are commercial contractual requirements, not BLS conditions.
 
 #### When subcontractors need their own licence
 
-Per the [BLS Simplified Guide PDF](https://www1.bca.gov.sg/docs/default-source/docs-corp-procurement/builderslicensing_guide.pdf): "In general, only the main contractors are required to apply for a General Builder's Licence. Subcontractors undertaking construction works (except for Specialist works mentioned below) are generally not required to apply for a General Builder's Licence."
+Per the [BCA BLS page](https://www1.bca.gov.sg/safety-and-standards/applications-and-licenses/builders-licensing-scheme-bls/): "In general, only the main contractors are required to apply for a General Builder's Licence. Subcontractors undertaking construction works (except for Specialist works mentioned below) are generally not required to apply for a General Builder's Licence."
 
-Subcontractors performing the six prescribed specialist works **must** hold the relevant Specialist Builder licence - even if subcontracted. BCA's [2024 public consultation](https://www.reach.gov.sg/latest-happenings/public-consultation-pages/2024/proposed-enhancements-to-specialist-builders--licensing-scheme) proposed extending Specialist Builder licensing to all sub-contractors of Specialist Builders carrying out specialist building works.
+A subcontractor carrying out any of the six specialist works needs its own Specialist Builder licence unless it always works as a sub-contractor of a licensed Specialist Builder on the same type of specialist work (Building Control Act, section 29A(2A)). BCA's [2024 public consultation](https://www.reach.gov.sg/latest-happenings/public-consultation-pages/2024/proposed-enhancements-to-specialist-builders--licensing-scheme) proposed extending Specialist Builder licensing to all sub-contractors of Specialist Builders carrying out specialist building works.
 
 ### What This Means for Your Business
 
@@ -88,7 +88,7 @@ Factors that affect your project insurance scope include: contract value, tender
 ### Related Information
 
 - [SCAL SLOTS Application: Insurance Requirements (Singapore 2026)](/licensing/scal-slots-application-insurance-requirements)
-- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [BCA CRS bizSAFE Level 3: Where It Is Required, and Why WIC Insurance Is Separate](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 - [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 
 ---

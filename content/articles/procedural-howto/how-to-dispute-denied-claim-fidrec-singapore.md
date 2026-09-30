@@ -21,11 +21,11 @@ og_description: "FIDReC has heard small-business insurance disputes in Singapore
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs disputing a denied insurance claim now have access to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) following the **1 July 2025** jurisdiction extension under the [Financial Services and Markets (Dispute Resolution Schemes) Regulations 2023](https://sso.agc.gov.sg/SL/FSMA2022-S232-2023). Eligible small businesses are those (i) registered and operating in Singapore, (ii) with **group annual turnover not exceeding SGD 1 million** in each of the prior two financial years. The procedure: (1) escalate dispute to insurer's CEO / appeals function; (2) obtain the insurer's written **final reply** on the dispute; (3) file the complaint with FIDReC within **6 months** of that final reply; (4) FIDReC mediation phase (free for complainant); (5) if unresolved, adjudication phase (**SGD 250 + GST per claim** for small businesses); (6) Adjudicator's decision binds insurer if accepted by complainant. Adjudication ceiling: **SGD 150,000 per claim** (raised from SGD 100,000 on 1 July 2024). FIDReC disposed of approximately 2,000 disputes in financial year 2024-2025; small business claims expected to add material volume going forward. Note: FIDReC is not a government agency; its scheme operates under MAS-approved Terms of Reference.
+> Singapore SMEs disputing a denied insurance claim now have access to the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) following the **1 July 2025** jurisdiction extension under the [Financial Services and Markets (Dispute Resolution Schemes) Regulations 2023](https://sso.agc.gov.sg/SL/FSMA2022-S232-2023). Eligible small businesses are those (i) registered and operating in Singapore, (ii) with **group annual turnover not exceeding SGD 1 million** in each of the prior two financial years. The procedure: (1) raise the dispute with the insurer and use its internal dispute process; (2) FIDReC can take the complaint once that process has not resolved it, or four weeks after the dispute was referred to the insurer, whichever is earlier; (3) file no later than **6 months** after the insurer's written **final reply**; (4) FIDReC mediation phase (free for complainant); (5) if unresolved, adjudication phase (**SGD 250 + GST per claim** for small businesses); (6) Adjudicator's decision binds insurer if accepted by complainant. Adjudication ceiling: **SGD 150,000 per claim** (raised from SGD 100,000 on 1 July 2024). FIDReC received 4,355 claims in financial year 2024-2025 and accepted 2,646 for handling. Note: FIDReC is not a government agency; its scheme operates under MAS-approved Terms of Reference.
 
 ### The Sourced Detail
 
-The 2025 expansion of FIDReC jurisdiction to small businesses and charities is the most significant change to Singapore SME insurance dispute resolution in over a decade. Previously, SMEs disputing denied claims had only court action (high cost, formal process) or industry association mediation (limited binding authority). FIDReC provides a structured, low-cost, binding-on-insurer alternative - but only when the procedural framework is followed correctly.
+FIDReC described the 1 July 2025 extension of its jurisdiction to small businesses and charities as a major milestone. Previously, a company disputing a denied claim could not use FIDReC, and routes such as court action remained. FIDReC provides a structured, low-cost, binding-on-insurer alternative - but only when the procedural framework is followed correctly.
 
 #### Regulatory framework
 
@@ -43,29 +43,28 @@ The 2025 expansion of FIDReC jurisdiction to small businesses and charities is t
 
 **Effective 1 July 2025**, FIDReC's scheme extended to:
 - **Small businesses** (registered and operating in Singapore, group annual turnover not exceeding SGD 1 million in each of the prior 2 financial years)
-- **Charities** registered with [Commissioner of Charities](https://www.charities.gov.sg/)
+- **Charities** registered under the Charities Act and operating in Singapore, with gross annual receipts of not more than SGD 10 million in each of the prior 2 financial years (see the [Commissioner of Charities](https://www.charities.gov.sg/))
 
 FIDReC's June 2025 announcement noted the extension brings approximately 200,000 small businesses and 2,000 charities into scope.
 
-Previously, only individual consumers (and some sole proprietors) could access FIDReC - leaving SMEs with limited dispute options.
+Previously, FIDReC's services were available to individuals and sole proprietors - leaving SMEs with limited dispute options.
 
 #### Eligibility criteria for SME complainants
 
 To bring an insurance dispute to FIDReC, an SME must satisfy:
 
 **Entity criteria:**
-- Registered with [ACRA](https://www.acra.gov.sg/) and operating in Singapore
+- A business entity registered and operating in Singapore
 - Group annual turnover not exceeding SGD 1 million in each of the prior 2 financial years (turnover criterion measured at group level for related entities)
-- Not be a "regulated financial institution" (financial institutions have separate dispute resolution channels)
 
 **Dispute criteria:**
-- Dispute with a financial institution that is a [FIDReC subscriber](https://www.fidrec.com.sg/) (most Singapore insurers and brokers are subscribers; check directory)
-- Dispute relates to financial product or service (insurance claim is the most common SME case type)
+- Dispute with a financial institution that is a [FIDReC subscriber](https://www.fidrec.com.sg/) (the Regulations require direct insurance brokers to subscribe, and direct insurers too unless they are specialist insurers or insure no individuals other than in the course of a business; check the directory)
+- Dispute relates to financial product or service (FIDReC's 30 June 2025 announcement lists disputes over employee medical insurance claims and insurance claims involving company-owned vehicles among the new types of claims)
 - Dispute filed within **6 months** of financial institution's final response
-- Claim amount within FIDReC's monetary jurisdiction (SGD 150,000 per claim for adjudication)
+- No claim limit for mediation; a claim above SGD 150,000 goes to adjudication only if the complainant limits it to that sum or the insurer agrees to adjudication of the higher amount
 
 **Excluded disputes:**
-- Disputes already in court or arbitration
+- Cases that have been through a court hearing in which a court judgment or order has been passed
 - Disputes about commercial decisions of FI (e.g., decision not to renew, decision on premium pricing - these are not "claims")
 - Disputes about products not within FIDReC scope
 
@@ -73,30 +72,30 @@ To bring an insurance dispute to FIDReC, an SME must satisfy:
 
 **Step 1 - Escalate within insurer.**
 
-Before FIDReC, the SME must:
-- Submit written complaint to insurer's customer service / claims function
-- Receive insurer's initial response
-- If unsatisfied, escalate to insurer's senior management or appeals function
-- Receive insurer's "final response" letter
+Before FIDReC, the SME must first raise the dispute with the insurer, so the insurer has the chance to resolve it:
+- Submit the complaint to the insurer's customer service / claims function
+- If unsatisfied, escalate to the insurer's internal dispute resolution or appeals function
+- FIDReC can take the complaint once that has not resolved it, or four weeks after the dispute was referred to the insurer, whichever is earlier
+- If the insurer issues a "final reply", the 6-month filing limit runs from it
 
 The "final response" letter is a key procedural document. It must explicitly state insurer's final position and reference dispute resolution rights.
 
 The insurer-side steps, from getting the denial and its clause in writing to the appeal to the Chief Executive, are set out in [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim).
 
-**Step 2 - Obtain the insurer's final reply.**
+**Step 2: The insurer's final reply, or four weeks.**
 
-FIDReC requires that the SME has first given the insurer the opportunity to resolve the dispute. The insurer's written **final reply** is the trigger document - there is no mandatory waiting period after it is received, and the SME may proceed straight to FIDReC. The **6-month** filing clock runs from the date of that final reply.
+FIDReC requires that the SME has first given the insurer the opportunity to resolve the dispute. The insurer's written **final reply** is one trigger: there is no waiting period after it is received, and the SME may proceed straight to FIDReC. If no final reply comes, the SME may file once four weeks have passed since the dispute was referred to the insurer. The **6-month** filing clock runs from the date of that final reply.
 
 **Step 3 - File complaint with FIDReC.**
 
-Within **6 months** of insurer's final response, file via [FIDReC's complaint portal](https://www.fidrec.com.sg/) or paper submission.
+Within **6 months** of insurer's final response, file via [FIDReC's complaint portal](https://www.fidrec.com.sg/).
 
 **Required information:**
-- Complainant business particulars (UEN, financial information demonstrating SME eligibility)
+- Complainant business particulars (UEN)
 - Insurer particulars
 - Policy details (policy number, cover scope, premium, period)
 - Claim details (incident date, circumstance, amount claimed)
-- Insurer's response history (initial denial, escalation, final response)
+- Insurer's response history (the denial, any escalation and any final reply)
 - Supporting documentation
 - Resolution sought
 
@@ -112,7 +111,7 @@ FIDReC assigns case manager who:
 - Settlement: case closed; binding only if memorialised in agreement
 - No settlement: case proceeds to adjudication if complainant elects
 
-Mediation is **free** for complainant. Most cases resolve at mediation stage.
+Mediation is **free** for complainant. FIDReC says it closes an average of about 75% of claims at mediation.
 
 **Step 5 - Adjudication phase.**
 
@@ -135,9 +134,9 @@ Adjudicator's decision:
 
 **Post-1 July 2024:** SGD 150,000 per claim
 
-**Coverage above ceiling:** Complainant may bring claim up to ceiling at FIDReC; portion above ceiling unresolved (must pursue separately if desired). Some complainants choose to limit claim to ceiling for resolution efficiency.
+**Claims above the ceiling:** FIDReC mediates without a claim limit. A claim above SGD 150,000 goes to adjudication only if the complainant limits the claim to SGD 150,000 or the insurer agrees to the higher amount, and if the award is in the complainant's favour, the complainant must agree not to claim the excess in any other forum, including the courts.
 
-**Multiple-policy claims:** Where dispute spans multiple policies / cover lines, monetary jurisdiction applied per claim or per policy depending on case framing.
+**Multiple-policy claims:** Where a dispute spans more than one policy or cover line, the Adjudicator has sole discretion to decide what counts as a claim for the per-claim limit, and that decision binds the insurer.
 
 #### Strategic considerations
 
@@ -145,7 +144,7 @@ Adjudicator's decision:
 - Dispute amount within / near jurisdiction ceiling
 - Complainant prefers structured resolution over court
 - Dispute involves contested coverage interpretation rather than complex factual disputes
-- Speed matters (FIDReC resolves typically 6-12 months vs court 18-36+ months)
+- Speed matters (FIDReC says most cases are resolved within 6 months)
 
 **When FIDReC may not be optimal:**
 - Dispute amount substantially exceeds ceiling
@@ -161,7 +160,7 @@ Adjudicator's decision:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Filing without exhausting insurer escalation.** FIDReC requires final response letter; case rejected if escalation incomplete.
+1. **Filing before the insurer has had its chance.** A dispute not first raised with the insurer is referred back to the insurer. The complaint can be filed with FIDReC once the insurer's internal dispute process has not resolved it, or four weeks after it was referred to the insurer, whichever is earlier.
 
 2. **Missing 6-month deadline.** Filing more than 6 months after insurer's final response - case time-barred.
 
@@ -169,7 +168,7 @@ Adjudicator's decision:
 
 4. **Eligibility miscalculation.** Group turnover exceeding SGD 1m threshold; case rejected on eligibility.
 
-5. **Insurer not a FIDReC subscriber.** Some specialty / overseas-based insurers not subscribers; FIDReC has no jurisdiction.
+5. **Insurer not a FIDReC subscriber.** Specialist insurers, and direct insurers that insure only persons other than individuals, are not required to subscribe (the Regulations do not count an individual insured in the course of a business as an individual); FIDReC can hear a dispute against an insurer that is not a subscriber only if the insurer agrees to submit to its jurisdiction.
 
 6. **Inadequate documentation.** Submissions without supporting evidence; weakens position.
 
@@ -177,7 +176,7 @@ Adjudicator's decision:
 
 8. **No engagement during mediation.** Treating mediation as formality; missing settlement opportunity.
 
-9. **Rejecting adjudication decision based on emotion.** Strategic decision; rejection means starting again in court.
+9. **Rejecting adjudication decision based on emotion.** Strategic decision; after rejecting it, the complaint can only be pursued through other avenues, such as the courts.
 
 10. **No legal / professional advice during process.** Some disputes benefit from professional support during adjudication.
 
@@ -189,13 +188,13 @@ For Singapore SMEs facing denied insurance claims:
 
 2. **Document insurer escalation thoroughly** with written communications.
 
-3. **Obtain insurer's "final response" letter** explicitly - don't rely on email confirmations.
+3. **Keep the insurer's final reply.** Under FIDReC's rules it is a letter or other written document that says it is the final reply and that you can contact FIDReC within six months; the filing deadline runs from it.
 
 4. **Note the 6-month filing window** from the insurer's final reply carefully.
 
 5. **Prepare submission with complete documentation** - claim file, policy, communications, evidence.
 
-6. **Engage substantively with mediation** - most cases settle.
+6. **Engage substantively with mediation.** FIDReC says it closes an average of about 75% of claims at mediation.
 
 7. **Consider adjudication strategically** - fee modest, decision binding on insurer.
 
@@ -203,9 +202,9 @@ For Singapore SMEs facing denied insurance claims:
 
 9. **Preserve court option** by understanding decision binding effect.
 
-10. **Time budget realistic expectations** - typically 6-12 months total resolution.
+10. **Time budget realistic expectations.** FIDReC says most cases are resolved within 6 months, and the time needed varies with the complexity of each case.
 
-The expansion of FIDReC jurisdiction to SMEs represents a material improvement in dispute resolution access. The cost differential (SGD 250 + GST vs court costs typically SGD 50,000+) is substantial. The procedural discipline matters: missing deadlines, eligibility errors, or escalation gaps all trigger case rejection.
+The expansion of FIDReC jurisdiction to SMEs represents a material improvement in dispute resolution access. Filing with FIDReC is free, and adjudication costs a small business SGD 250 plus GST per claim. The procedural discipline matters: a complaint filed more than six months after the final reply, or from a business outside the eligibility criteria, cannot be brought, and a dispute not first raised with the insurer is referred back to it.
 
 ### Questions to Ask Your Adviser
 
@@ -216,7 +215,7 @@ The expansion of FIDReC jurisdiction to SMEs represents a material improvement i
 5. For the substantive dispute, should we attempt FIDReC mediation, proceed to adjudication, or consider court directly?
 
 ### Related Information
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [When to Engage FIDReC, the Court, or Your Insurer Direct: A Singapore SME's Dispute-Resolution Decision Tree](/decision-tree/insurance-dispute-resolution-fidrec-court-insurer-singapore)
 - [How to Dispute a Denied Insurance Claim in Singapore](/procedural-howto/dispute-denied-claim)
 

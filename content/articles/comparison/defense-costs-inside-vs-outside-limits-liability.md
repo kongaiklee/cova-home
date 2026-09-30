@@ -65,7 +65,7 @@ The same wording reverts to DCIL for North American jurisdiction claims under an
 
 **AIG Singapore Dragonshield Management Liability** product summary describes "Insured Persons Defence Costs" as a discrete carve-back to certain exclusions, consistent with DCIL with carve-backs (the directors' defense is funded within the management/corporate liability limit, with certain exclusions reading carve-backs for defense purposes).
 
-Drafters and procurement teams must fetch the issued PDF wording and reproduce verbatim the relevant clauses for each policy under comparison. Insurer-published factsheets give the structural position but only the wording governs at claim time.
+Insurer-published factsheets give the structural position but only the wording governs at claim time.
 
 #### Singapore statutory and regulatory framework
 

@@ -21,7 +21,7 @@ og_description: "Where your SaaS keeps customer data decides its PDPA exposure, 
 
 > **The Answer in 60 Seconds**
 >
-> Where a Singapore SaaS hosts customer data materially affects regulatory exposure, customer contract requirements, and insurance posture. **Singapore region hosting** keeps data within PDPA and Singapore legal jurisdiction primarily; **EU region hosting** brings GDPR considerations even if customers are not EU-resident; **US region hosting** brings CLOUD Act and state-specific data protection considerations. Customer enterprise contracts increasingly **specify hosting region** as a compliance requirement (financial services, healthcare, government clients commonly require local-region hosting). Insurance considerations: **Cyber Liability** territorial scope must cover all hosting regions and customer regions, **Tech E&O** must address service delivery from chosen regions, and **business interruption** must respond to regional outages of cloud providers. Multi-region architectures (production in one region, backups in another, customer-facing in regional points-of-presence) create coordination complexity for both compliance and insurance.
+> Where a Singapore SaaS hosts customer data materially affects regulatory exposure, customer contract requirements, and insurance posture. **Singapore region hosting** keeps data within PDPA and Singapore legal jurisdiction primarily; **EU region hosting** brings GDPR considerations even if customers are not EU-resident; **US region hosting** brings CLOUD Act and state-specific data protection considerations. Customer enterprise contracts can **specify hosting region** as a compliance requirement. Insurance considerations: **Cyber Liability** territorial scope must cover all hosting regions and customer regions, **Tech E&O** must address service delivery from chosen regions, and **business interruption** must respond to regional outages of cloud providers. Multi-region architectures (production in one region, backups in another, customer-facing in regional points-of-presence) create coordination complexity for both compliance and insurance.
 
 ### The Sourced Detail
 
@@ -62,12 +62,11 @@ For Singapore-based SaaS companies, data residency is one of the most consequent
 
 #### Why customers care
 
-Customer enterprise contracts increasingly specify hosting region for several reasons:
+Customer enterprise contracts can specify hosting region for several reasons:
 
 **1. Regulatory requirements:**
 - Singapore financial sector - MAS guidance on data outsourcing
 - Healthcare - health data sensitivity
-- Government - typically Singapore-only
 - Some industries with cross-border data restrictions
 
 **2. Sovereign data concerns:**
@@ -87,15 +86,16 @@ Customer enterprise contracts increasingly specify hosting region for several re
 
 Per [Section 26 of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012), an organisation must not transfer personal data to a country or territory outside Singapore except in accordance with the PDPA requirements, including ensuring that the recipient is bound by legally enforceable obligations to provide a standard of protection that is comparable to the protection under the Act.
 
-This is the **Transfer Limitation Obligation**. It applies regardless of who initiates the transfer or the technical mechanism.
+This is the **Transfer Limitation Obligation**. It applies when an organisation transfers personal data to another organisation outside Singapore, such as a cloud provider acting as its data intermediary, and so gives up possession or direct control of the data; data it keeps overseas under its own control stays subject to all of the PDPA's data protection provisions (PDPC Advisory Guidelines on Key Concepts, paragraph 19.1). It also applies to the organisation when its data intermediary moves the data overseas on its behalf.
 
-The PDPC's [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg/guidelines-and-consultation) interpret comparable protection as achievable through:
+The PDPC's [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-key-concepts-in-the-personal-data-protection-act) interpret comparable protection as achievable through:
 - Contractual arrangements with the recipient
 - Binding corporate rules
 - Specific legal mechanisms
-- Recognized data protection regimes in the recipient country
+- A law that binds the recipient
+- Specified certifications held by the recipient (Global CBPR or APEC CBPR, and for a data intermediary also Global PRP or APEC PRP)
 
-For a Singapore SaaS hosting in the US or EU, the cloud provider's Data Processing Agreement (DPA) typically contains the contractual elements. The customer's understanding of where their data is processed remains a transparency obligation regardless.
+For a Singapore SaaS hosting in the US or EU, the cloud provider's Data Processing Agreement (DPA) typically contains the contractual elements.
 
 #### GDPR and the EU dimension
 
@@ -132,7 +132,7 @@ The Cyber Liability policy must cover:
 - All regions where customers are located
 - All regions where regulatory exposure exists
 
-A Singapore Cyber policy with "worldwide" scope typically covers:
+Whether a Singapore Cyber policy with "worldwide" scope covers each of these depends on its territory, jurisdiction and fines wording:
 - All hosting regions
 - All customer regions
 - All regulatory regimes
@@ -142,7 +142,7 @@ A Cyber policy restricted to Singapore will not respond to:
 - US state regulatory action under CCPA/equivalent
 - Customer claims arising in foreign jurisdictions
 
-For SaaS with multi-region architecture, **worldwide territory** is essential, not optional. Premium impact is moderate but cover scope is critical.
+For SaaS with multi-region architecture, **worldwide territory** is essential, not optional.
 
 **Technology E&O:**
 
@@ -191,7 +191,7 @@ Enterprise SaaS MSAs commonly specify:
 - Cyber Liability minimum limits
 - Tech E&O minimum limits
 - Customer named additional insured
-- AAA-rated insurers
+- Minimum insurer financial strength ratings
 
 **Audit rights:**
 - Customer right to audit
@@ -255,7 +255,7 @@ For SaaS serving enterprise customers, certifications increasingly drive both cu
 
 **ISO/IEC 27701:**
 - Privacy information management
-- Extension of ISO 27001
+- A standalone standard since the 2025 edition (the 2019 edition was an extension of ISO 27001)
 - Complementary to GDPR/PDPA compliance demonstration
 
 **Industry-specific:**
@@ -264,7 +264,7 @@ For SaaS serving enterprise customers, certifications increasingly drive both cu
 - FINRA for US financial
 - HKMA, MAS guidance for financial
 
-Certifications are not insurance but affect insurability - insurers price favourably for certified SaaS and may require specific certifications for higher limits.
+Certifications are not insurance.
 
 #### Data residency vs data sovereignty distinction
 
@@ -323,7 +323,7 @@ The distinction matters for customer contracts, regulatory compliance, and insur
 
 **Scenario D: Singapore SaaS providing services to MAS-regulated financial customer**
 - Specific MAS guidance on outsourcing applies
-- Singapore-region hosting often required
+- MAS's outsourcing guidelines allow service providers outside Singapore, subject to conditions such as MAS having prompt access to information held by the service provider
 - Stricter audit and reporting requirements
 - Insurance must align with MAS expectations
 

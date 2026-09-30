@@ -263,7 +263,7 @@ The cost of multi-policy coordination failure is substantial - partial recovery,
 5. For aggregate limit interactions across cover lines, are potential conflicts documented?
 
 ### Related Information
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How to File a PDPA Section 26D Data Breach Notification: The 3-Day Clock Explained](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore)
 - [Property/Fire Claim Deep-Dive: From Incident to Settlement](/procedural-howto/property-fire-claim-deep-dive)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

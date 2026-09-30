@@ -21,7 +21,7 @@ og_description: "A sale, wind-down or restructure leaves claims-made policies ex
 
 > **The Answer in 60 Seconds**
 >
-> If your SME is being sold, wound down or restructured, watch the **claims-made** policies - directors' & officers' (D&O), professional indemnity (PI), cyber, employment practices liability (EPL), crime. A claims-made policy responds to a claim only if the claim is **made** while the policy (or its extended reporting period) is in force - not based on when the underlying act happened. So when such a policy terminates at completion, a claim that surfaces *afterwards* about something done *before* completion can fall into a gap: the old policy has ended, and a buyer's new policy will normally exclude pre-acquisition acts through its **retroactive date**. The fix is an **Extended Reporting Period (ERP)** - also called **tail** or **run-off** cover - an endorsement that keeps the expiring policy open to *report* claims for a defined period after it ends, for acts committed before it ended. The practical work: identify every claims-made policy and its retroactive date early; get tail quotes during due diligence; decide the length; settle who pays for it in the Sale and Purchase Agreement (SPA); and bind it at completion. Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser.
+> If your SME is being sold, wound down or restructured, watch the **claims-made** policies - directors' & officers' (D&O), professional indemnity (PI), cyber, employment practices liability (EPL). A claims-made policy responds to a claim only if the claim is **made** while the policy (or its extended reporting period) is in force - not based on when the underlying act happened. So when such a policy terminates at completion, a claim that surfaces *afterwards* about something done *before* completion can fall into a gap: the old policy has ended, and a buyer's new policy will normally exclude pre-acquisition acts through its **retroactive date**. The fix is an **Extended Reporting Period (ERP)** - also called **tail** or **run-off** cover - an endorsement that keeps the expiring policy open to *report* claims for a defined period after it ends, for acts committed before it ended. The practical work: identify every claims-made policy and its retroactive date early; get tail quotes during due diligence; decide the length; settle who pays for it in the Sale and Purchase Agreement (SPA); and bind it at completion. Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser.
 
 ### The Sourced Detail
 
@@ -32,7 +32,7 @@ The Extended Reporting Period is the mechanism that bridges the structural gap i
 Insurance policies trigger in one of two ways:
 
 - **Occurrence-based** cover (such as public liability, property, and Work Injury Compensation) responds to an event that *occurs* during the policy period, even if the claim is made years later.
-- **Claims-made** cover (such as D&O, PI / E&O, cyber, EPL and crime) responds to a claim *first made* during the policy period - and, crucially, does not respond to a claim made after the policy has expired, even if the underlying act happened while the policy was live.
+- **Claims-made** cover (such as D&O, PI / E&O, cyber and EPL) responds to a claim *first made* during the policy period - and, crucially, does not respond to a claim made after the policy has expired, even if the underlying act happened while the policy was live.
 
 That second feature is the gap. When a claims-made policy terminates with no ERP, an act committed during the policy period is no longer covered once the policy ends; and the buyer's go-forward policy will normally exclude that act because it predates the buyer's **retroactive date**. The people left exposed are typically the seller's former directors and officers, personally - and D&O, regulatory and similar claims can surface years after a deal closes.
 
@@ -47,7 +47,7 @@ Tail cover comes into play whenever a claims-made policy is about to end without
 
 #### The legal backdrop - why limitation periods matter
 
-The reason a tail has to last *years*, not months, is that the underlying legal claims can be brought long after completion. Under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959), the general limitation period for actions founded on contract or tort is **six years** (with a longer period for actions on a deed, and the period postponed in cases of fraud or deliberate concealment). Claims by a company against its directors for breach of the statutory duties in section 157 of the [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) are generally subject to limitation in the ordinary way. The length of a tail is therefore usually considered against two horizons: the **limitation period** during which a claim could still be brought, and the **indemnity and warranty-claim windows** the SPA itself sets (which often run shorter for general warranties and longer for tax or title).
+The reason a tail has to last *years*, not months, is that the underlying legal claims can be brought long after completion. Under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959), the general limitation period for actions founded on contract or tort is **six years** (with the period postponed in cases of fraud or mistake under section 29). Claims by a company against its directors for breach of the statutory duties in section 157 of the [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) are generally subject to limitation in the ordinary way. The length of a tail is therefore usually considered against two horizons: the **limitation period** during which a claim could still be brought, and the **indemnity and warranty-claim windows** the SPA itself sets (which often run shorter for general warranties and longer for tax or title).
 
 #### How tail cover works - and what it does not cover
 
@@ -57,7 +57,7 @@ Other features to understand: the exclusions of the original policy carry throug
 
 #### Choosing the length
 
-Tails are commonly offered in fixed lengths - for example one, three or six years. The longer the tail, the higher the premium: tail premium is usually quoted as a percentage of the expiring annual premium, and that percentage rises steeply with length (the exact figures depend on the risk, the line of cover and the insurer - they are a matter for a quote, not assumption). Choosing the length is a judgement that weighs the limitation horizon, the SPA's indemnity windows, the nature of the business (regulated activities and professional services tend to carry longer-tail risks), and cost. Where the existing insurer will not offer the tail, run-off and specialty markets may.
+Tail lengths are set by the wording and the insurer: for example, some Singapore D&O wordings offer an optional 12-month discovery period on non-renewal and up to 84 months after a transaction. Some Singapore wordings price an optional 12-month discovery period as a percentage of the annual premium (for example 100%), and leave a longer run-off after a transaction to the insurer's terms and premium. The exact figures depend on the risk, the line of cover and the insurer; they are a matter for a quote, not assumption. Choosing the length is a judgement that weighs the limitation horizon, the SPA's indemnity windows, the nature of the business (regulated activities and professional services tend to carry longer-tail risks), and cost. Where the existing insurer will not offer the tail, run-off and specialty markets may.
 
 #### The buyer-side alternative: "prior acts" cover
 
@@ -65,7 +65,7 @@ A separate seller tail is not the only route. A buyer may be able to extend the 
 
 #### Getting it into the deal - the SPA
 
-Tail cover should be a documented term of the **Sale and Purchase Agreement**, not an afterthought at completion. The SPA should address who buys the tail (commonly the seller, often funded from sale proceeds, but split arrangements are negotiated), the length, any cost cap, the named insureds to be covered (former directors and officers, predecessor entities), and the remedy if the obligation is not performed. Resolving this during due diligence - when there is still time to get quotes and compare the buyer-side alternative - avoids a scramble at closing.
+Tail cover should be a documented term of the **Sale and Purchase Agreement**, not an afterthought at completion. The SPA should address who buys the tail (the seller, the buyer, or a split, as negotiated), the length, any cost cap, the named insureds to be covered (former directors and officers, predecessor entities), and the remedy if the obligation is not performed. Resolving this during due diligence - when there is still time to get quotes and compare the buyer-side alternative - avoids a scramble at closing.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -105,7 +105,7 @@ For a Singapore SME in an M&A deal or a major restructuring, tail cover is a due
 
 7. **Keep notifying claims** - the tail only works if claims are reported within it.
 
-The cost of a tail is real and rises with its length, but it is quantifiable in advance. The cost of having none is open-ended: former directors and officers personally exposed to claims, with no policy to respond, potentially years after the deal has closed.
+The cost of a tail is real, but it can be quoted in advance. The cost of having none is open-ended: former directors and officers personally exposed to claims, with no policy to respond, potentially years after the deal has closed.
 
 ### Questions to Ask Your Adviser
 

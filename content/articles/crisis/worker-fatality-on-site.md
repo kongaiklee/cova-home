@@ -177,7 +177,7 @@ Most workplace fatalities, on review, were preceded by warning signs: near-miss 
 5. What pre-incident preparation does the insurer recommend or require - incident response plan, WSH documentation, CCTV retention?
 
 ### Related Information
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [How To Handle Simultaneous Claims WICA And Common Law](/procedural-howto/wica-simultaneous-common-law)
 - [WICA Section 25 Offence: What Penalties Actually Apply for Failure to Insure](/document-legal/wica-section-25-offence)
 

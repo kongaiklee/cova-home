@@ -14,14 +14,14 @@ word_count: 2725
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/commercial-property-fire-complete-guide-singapore"
-meta_description: "No statute forces you to insure your own premises. Your lease and your lender almost certainly do, and their wording decides the sum insured you need."
+meta_description: "No statute forces you to insure your own premises. A lease or a loan may, and its wording can set what you insure, for how much and in whose name."
 og_title: "Commercial Property and Fire Insurance for Singapore SMEs: The Complete Guide"
-og_description: "No statute forces you to insure your own premises. Your lease and your lender almost certainly do, and their wording decides the sum insured you need."
+og_description: "No statute forces you to insure your own premises. A lease or a loan may, and its wording can set what you insure, for how much and in whose name."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> For most Singapore SMEs, property and fire insurance is **not compulsory by statute**. There is no general law that forces you to insure your own premises, stock, or equipment. What does force the issue is contract: almost every commercial tenancy requires the tenant to insure the unit and its contents, and almost every business loan or mortgage requires the borrower to keep the financed asset insured. So the duty is real, but it comes from your **lease and your bank**, not from an Act of Parliament.
+> For most Singapore SMEs, property and fire insurance is **not compulsory by statute**. There is no general law that forces you to insure your own premises, stock, or equipment. What can force the issue is contract: a commercial lease may require the tenant to insure (JTC's standard terms, for example, require its tenants to insure their own fixtures, fittings and other items and to hold public liability cover, and a tenant leasing land from JTC to insure the property itself for the full cost of rebuilding or reinstatement), and a bank lending against a property may require fire insurance. Where such a duty exists, it comes from your **lease or your loan**, not from an Act of Parliament.
 >
 > Do not confuse fire insurance with fire safety. The [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) and the SCDF's [Fire Code 2023](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023) impose **safety** duties (a Fire Certificate for designated premises, approved fire safety works, fire safety managers), enforced by the Singapore Civil Defence Force. None of those require you to buy insurance. They are a separate, parallel obligation about preventing fires, not paying for them.
 >
@@ -29,22 +29,22 @@ og_description: "No statute forces you to insure your own premises. Your lease a
 
 ### The Sourced Detail
 
-Property and fire cover is the insurance most SME owners assume they understand and most often hold wrongly. The errors are rarely about whether to buy it; they are about which form to buy, how much to insure for, and what the policy quietly excludes. The structure below follows the order the question actually arises: whether you are required to have it, what the fire-safety law separately demands, which form of cover fits, how the sum insured works, what business interruption adds, and where the gaps sit.
+The questions that decide how property and fire cover performs are which form to buy, how much to insure for, and what the policy excludes. The structure below follows the order the question actually arises: whether you are required to have it, what the fire-safety law separately demands, which form of cover fits, how the sum insured works, what business interruption adds, and where the gaps sit.
 
 #### Is it compulsory? Lease and finance, not statute
 
 Start with the honest answer: no general Singapore statute compels an ordinary SME to insure its own commercial property or stock against fire. Unlike work injury cover, which the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) makes mandatory for defined employees, property insurance has no equivalent across-the-board legal mandate for the typical shop, office, workshop, or F&B unit.
 
-What makes it effectively unavoidable is contract. Two documents almost always require it:
+What can make it a requirement is contract. Two documents may require it:
 
-- **Your tenancy.** Standard commercial leases place an insuring obligation on the tenant: insure the demised premises, the tenant's fixtures and contents, and frequently public liability, with the landlord named as an interested party. A landlord can treat a failure to insure as a breach. If a tenant's fire damages the building, the dispute that follows is exactly the kind of mess unpicked in [a tenant-caused major fire: the landlord and SME workflow](/crisis/tenant-caused-major-fire-landlord-sme-workflow).
-- **Your financing.** Any bank lending against premises, plant, or equipment will require the financed asset to be kept insured for its full value, with the bank's interest endorsed on the policy. Let that cover lapse and you are usually in default of the loan, independent of any insurance consequence.
+- **Your tenancy.** A commercial lease may place insuring obligations on the tenant. JTC's standard terms for leased space, for example, require the tenant to insure its own machinery, fixtures, fittings and other items against loss and damage, and to hold public liability insurance in the joint names of tenant and JTC with a limit of at least S$1 million for each occurrence. JTC's standard terms for leased land also require the tenant to insure the property itself against loss and damage to the full cost of rebuilding or reinstatement. A landlord can treat a failure to insure as a breach. If a tenant's fire damages the building, the dispute that follows is exactly the kind of mess unpicked in [a tenant-caused major fire: the landlord and SME workflow](/crisis/tenant-caused-major-fire-landlord-sme-workflow).
+- **Your financing.** A bank lending against a property may require it to be insured. [Bank of China's Singapore terms for loans secured on residential or commercial property](https://pic.bankofchina.com/bocappd/singapore/202103/P020210319571521574630.pdf), for example, require the property to be insured against fire and other risks, in the joint names of the owner and the bank as mortgagee and loss payee, for its reinstatement value or another sum the bank sets. Whether a lapse puts you in default depends on the loan terms.
 
-So the practical position for most SMEs is that property and fire cover is required, just not by the Government. That distinction matters, because it means the terms you must satisfy are set by your landlord and your lender, and those terms (full reinstatement value, specific perils, the bank as loss payee) are what you need to read, not a statute.
+So where property and fire cover is required, the requirement comes from a contract, not from the Government. That distinction matters, because the terms you must satisfy are then set by your landlord or lender, and those terms (what must be insured, for how much, and in whose name) are what you need to read, not a statute.
 
 #### Fire safety is a separate duty: the Fire Safety Act and SCDF Fire Code
 
-This is the single most common confusion, so it is worth stating plainly: the fire-safety regime is about **preventing and surviving fires**, not insuring against them. The two never substitute for each other.
+It is worth stating plainly: the fire-safety regime is about **preventing and surviving fires**, not insuring against them. The two never substitute for each other.
 
 The [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) is the governing statute, administered by the Commissioner of Civil Defence. It requires, among other things, a **[Fire Certificate](/licensing/scdf-fire-safety-certificate-insurance-implications)** for designated premises under [section 35](https://sso.agc.gov.sg/Act/FSA1993), empowers orders to install fire safety measures under [section 36](https://sso.agc.gov.sg/Act/FSA1993), and provides for **fire safety managers** at larger premises under [section 38](https://sso.agc.gov.sg/Act/FSA1993). The technical design standard sitting under the Act is the SCDF's [Fire Code 2023](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023), the code of practice that architects and qualified persons design to, and [fire safety works require SCDF plan approval](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) before they are carried out.
 
@@ -66,7 +66,7 @@ The choice between named-peril Fire and All Risks is not just about breadth; it 
 
 #### The money: sum insured, reinstatement, and the average clause
 
-This is where most property claims are won or lost. A property policy pays up to the **sum insured**, but the sum insured has to be set on the right basis, and if it is set too low, the **average clause** can reduce even a partial-loss payout in proportion to the underinsurance.
+A property policy pays up to the **sum insured**, but the sum insured has to be set on the right basis, and if it is set too low, the **average clause** can reduce even a partial-loss payout in proportion to the underinsurance.
 
 Two valuation bases matter:
 
@@ -75,11 +75,11 @@ Two valuation bases matter:
 
 A policy written on a reinstatement basis but insured for an indemnity-level figure is underinsured by design, and that gap is exactly what the average clause bites on. The difference between the two bases is set out in [reinstatement cost versus indemnity value](/comparison/reinstatement-cost-vs-indemnity-value-property).
 
-The **average clause** is the trap that catches SMEs who insure for what they paid rather than what it costs to rebuild. If you insure a property for $600,000 when full reinstatement value is $1,000,000, you are carrying 60% of the risk yourself, and on a $200,000 partial-loss claim the insurer can apply average and pay only around $120,000. The shortfall is yours, even though the loss was well within the sum insured. Because the figures and worked examples date and vary, do not rely on a number here; read the full mechanism, and how to size cover to avoid it, in [the average clause and underinsurance in Singapore](/document-legal/average-clause-underinsurance-singapore), with the related design choice in [first-loss versus full-value and the average clause](/comparison/first-loss-vs-full-value-average-clause-property). This is the most important paragraph in this guide: the policy can be the right form, placed with the right insurer, and still pay you a fraction if the sum insured was set wrong.
+The **average clause** is the trap that catches SMEs who insure for what they paid rather than what it costs to rebuild. If you insure a property for $600,000 when full reinstatement value is $1,000,000, you are insured for 60% of the value and carrying the other 40% yourself, and on a $200,000 partial-loss claim the insurer can apply average and pay only around $120,000. The shortfall is yours, even though the loss was well within the sum insured. Because the figures and worked examples date and vary, do not rely on a number here; read the full mechanism, and how to size cover to avoid it, in [the average clause and underinsurance in Singapore](/document-legal/average-clause-underinsurance-singapore), with the related design choice in [first-loss versus full-value and the average clause](/comparison/first-loss-vs-full-value-average-clause-property). This is the most important paragraph in this guide: the policy can be the right form, placed with the right insurer, and still pay you a fraction if the sum insured was set wrong.
 
 #### Business interruption: the loss after the loss
 
-Material-damage cover rebuilds the building and replaces the stock. It does not replace the income you lose while you cannot trade. That is what **business interruption (BI)** cover does, and for many SMEs the income loss dwarfs the physical loss.
+Material-damage cover rebuilds the building and replaces the stock. It does not replace the income you lose while you cannot trade. That is what **business interruption (BI)** cover does.
 
 BI typically responds when an insured material-damage event (a fire, say) interrupts the business, and it pays for [lost gross profit](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore) and increased cost of working over an **indemnity period** you choose. Get the indemnity period too short and the cover stops paying before you have actually recovered. A related extension, **contingent business interruption (CBI)**, responds when the damage happens not to you but to a key supplier or customer whose failure stops your trade, a scenario shown in [the contingent BI trigger when a key supplier fails](/crisis/key-supplier-insolvency-contingent-bi-trigger). The difference between ordinary BI and CBI, worked through end to end, is in [BI versus CBI, a worked example](/comparison/bi-vs-cbi-worked-example), and the full claim process is in [the business interruption claim deep dive](/procedural-howto/bi-claim-deep-dive).
 
@@ -89,23 +89,23 @@ Even a wide All Risks wording does not cover everything, and the exclusions are 
 
 ### Common Mistakes
 
-1. **Believing it is legally compulsory, or believing the Fire Certificate is the insurance.** Neither is true. Property cover is required by your lease and bank, not by statute, and the Fire Certificate is a [Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) safety duty that has nothing to do with whether you are insured.
+1. **Believing it is legally compulsory, or believing the Fire Certificate is the insurance.** Neither is true. Where property cover is required, it is required by a lease or a loan, not by statute, and the Fire Certificate is a [Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) safety duty that has nothing to do with whether you are insured.
 
-2. **Insuring for purchase price or book value instead of reinstatement cost.** This is the single most expensive error, because it sets up the average clause to cut your payout. See [reinstatement versus indemnity](/comparison/reinstatement-cost-vs-indemnity-value-property).
+2. **Insuring for purchase price or book value instead of reinstatement cost.** It sets up the average clause to cut your payout. See [reinstatement versus indemnity](/comparison/reinstatement-cost-vs-indemnity-value-property).
 
 3. **Ignoring the average clause until a claim.** Underinsurance reduces even partial-loss payouts in proportion. The mechanism is unforgiving and is explained in [the average clause guide](/document-legal/average-clause-underinsurance-singapore).
 
 4. **Treating "all risks" as "everything".** All Risks shifts the burden to the insurer to prove an exclusion, but the [exclusions](/comparison/property-all-risks-exclusions-deep-dive) are extensive. Read them.
 
-5. **Buying material damage but skipping business interruption.** The income lost while you cannot trade is often the larger loss. Size the [BI indemnity period](/procedural-howto/bi-claim-deep-dive) to a realistic recovery time, not a guess.
+5. **Buying material damage but skipping business interruption.** Size the [BI indemnity period](/procedural-howto/bi-claim-deep-dive) to a realistic recovery time, not a guess.
 
-6. **Not endorsing the bank's or landlord's interest.** Financing and lease terms usually require the lender or landlord to be named on the policy. Omitting it can breach the loan or tenancy even if the cover is otherwise sound.
+6. **Not endorsing the bank's or landlord's interest.** Financing and lease terms can require the lender or landlord to be named on a policy (Bank of China's Singapore terms for property loans, for example, require the property insurance to be in joint names with the bank as mortgagee and loss payee, and JTC's standard terms for leased space require public liability insurance in the joint names of tenant and JTC). Where the terms require it, omitting it breaches the loan or tenancy even if the cover is otherwise sound.
 
 7. **Setting the sum insured once and never revisiting it.** Renovation, new equipment, more stock, and rising rebuilding costs all push reinstatement value up. A figure set three years ago is probably underinsured today.
 
 ### What This Means for Your Business
 
-For a Singapore SME, property and fire cover is the insurance you are almost certainly required to hold, just not by the Government. So the first move is to read the two documents that actually bind you: your tenancy and your financing. They tell you the basis (usually full reinstatement value), the perils, and who must be named on the policy. Satisfy those terms, and you have met the obligation that genuinely applies to you.
+For a Singapore SME, property and fire cover is not required by the Government, but a tenancy or a loan may require it. So the first move is to read those documents where you have them: they can set what must be insured, for how much, and who must be named on the policy. Satisfy those terms, and you have met the obligation that applies to you.
 
 Keep the fire-safety duty in a completely separate mental box. Holding a valid Fire Certificate, keeping your fire safety measures working, and renewing on time under the [Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) is about not having a fire and surviving one, enforced by SCDF. It does nothing for your lease or your bank, and your insurance does nothing for SCDF. Run both; assume neither covers the other.
 
@@ -122,7 +122,7 @@ Covarage keeps these moving parts in one place: the policy and schedule, the rei
 3. Are we on a Fire, Property All Risks, or Industrial All Risks form, and which one actually fits our operation?
 4. Do we carry business interruption, and is the indemnity period long enough to cover a realistic recovery time?
 5. Which exclusions and sub-limits apply to us (flood, terrorism, contamination), and do we need to buy any of them back?
-6. Are our landlord's and bank's interests correctly endorsed on the policy, as the lease and loan require?
+6. Where our lease or loan requires it, are our landlord's and bank's interests correctly endorsed on the policy?
 
 ### Related Information
 

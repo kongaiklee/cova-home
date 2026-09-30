@@ -37,7 +37,7 @@ The reform velocity in 2024-2026 reflects the Singapore government's strategy of
 
 **Budget 2026 sector-specific Basic Skilled levy uplifts.** Marine shipyard Basic Skilled levy raised by S$100 per month; process sector Basic Skilled levy raised by S$150 per month. SMEs in these sectors should verify the exact post-Budget 2026 levy rates at MOM.
 
-**Sector levy rate ranges (approximate, drafters and SMEs to verify at the MOM Foreign Worker Levy Calculator):**
+**Sector levy rate ranges (approximate):**
 
 Construction (MYE or Non-MYE): approximately S$300 per month (Higher Skilled MYE) to approximately S$950 per month (Basic Skilled MYE Waiver).
 

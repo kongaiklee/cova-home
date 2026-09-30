@@ -33,7 +33,7 @@ UCTA includes several key provisions:
 
 **Section 2 (Negligence liability)** - provides that a person cannot, by reference to any contract term or notice, exclude or restrict liability for death or personal injury resulting from negligence. For other loss / damage from negligence, a person cannot exclude or restrict liability except insofar as the term or notice satisfies the reasonableness requirement.
 
-**Section 3 (Liability arising in contract)** - applies where one contracting party deals as consumer or on the other's written standard terms of business. The party who deals as consumer or on standard terms cannot have liability for breach excluded except insofar as the contract term satisfies reasonableness requirement; cannot be required by reference to contract term to allow performance substantially different from reasonable expectation, or no performance at all, except insofar as reasonable.
+**Section 3 (Liability arising in contract)** - applies where one contracting party deals as consumer or on the other's written standard terms of business. As against the party who deals as consumer or on standard terms, the other party cannot by reference to a contract term exclude or restrict its own liability for breach, or claim to be entitled to render a performance substantially different from what was reasonably expected of it, or no performance at all, except in so far as the term satisfies the requirement of reasonableness.
 
 **Section 4 (Indemnity clauses)** - provides framework for indemnification clauses where party deals as consumer.
 
@@ -46,7 +46,7 @@ UCTA includes several key provisions:
 - Strength of bargaining positions of parties relative to each other
 - Whether customer received inducement to agree to term
 - Whether customer knew or ought reasonably to have known of existence and extent of term
-- Whether term was reasonable to expect compliance
+- Where the term excludes or restricts liability if some condition is not complied with, whether it was reasonable at the time of the contract to expect that compliance with that condition would be practicable
 - Whether goods were manufactured / processed / adapted to special order
 
 #### The reasonableness assessment framework
@@ -59,7 +59,7 @@ Specific factors typically informing reasonableness assessment:
 
 **Clause specificity:** operational scope around clause drafting precision.
 
-**Insurance availability:** where party seeking exclusion / restriction has insurance available addressing operational scope, reasonableness assessment tends to weigh against exclusion.
+**Insurance availability:** where a term restricts liability to a specified sum, section 11(4) directs regard in particular to the resources the party could expect to have to meet the liability and how far it was open to it to cover itself by insurance.
 
 #### The standard contract terms framework
 
@@ -75,7 +75,7 @@ UCTA Section 3 specifically addresses standard form contracts. Operational scope
 
 UCTA Section 2 framework around negligence liability:
 
-**Death / personal injury exclusions** - cannot be excluded under any circumstances. Considerations on personal injury risk in commercial scope matters substantially.
+**Death / personal injury resulting from negligence:** liability cannot be excluded or restricted by any contract term or notice (section 2(1)). The rule covers business liability only (section 1(3)), does not extend to the contracts listed in paragraph 1 of the First Schedule, such as contracts of insurance, and applies to a contract of employment only in favour of the employee. Considerations on personal injury risk in commercial scope matters substantially.
 
 **Other negligence liability** - can be excluded subject to reasonableness assessment. Considerations on reasonableness factors.
 
@@ -111,7 +111,7 @@ Commercial scenarios under UCTA framework include:
 
 1. **Inadequate UCTA constraints on exclusion / restriction.** Specific enforceability risk.
 2. **Reliance on broad exclusion clauses without reasonableness sophistication.**
-3. **Inadequate personal injury exclusions (which are unenforceable).** Operational scope misunderstanding.
+3. **Relying on exclusions of liability for death or personal injury resulting from negligence (which section 2(1) makes unenforceable).** Operational scope misunderstanding.
 4. **No standard terms vs negotiated commercial scope distinction.**
 5. **Inadequate indemnification clause enforceability.**
 6. **No Public Liability with adequate limits for personal injury scope.**
@@ -132,7 +132,7 @@ For substantive operations, considerations on standard contract terms, indemnifi
 
 1. For my standard commercial contract terms, what specific provisions apply under UCTA framework?
 2. For indemnification clauses in my commercial scope, what specific provisions apply?
-3. For Public Liability scope addressing personal injury liability (which cannot be excluded), what specific limits and provisions apply?
+3. For Public Liability scope addressing liability for death or personal injury resulting from negligence (which section 2(1) says cannot be excluded or restricted by a contract term or notice), what specific limits and provisions apply?
 4. For back-to-back commercial scope across supplier / subcontractor commercial relationships, what operational considerations is appropriate?
 5. As UCTA framework and operational considerations evolve, what cover evolution should I plan for?
 

@@ -21,23 +21,23 @@ og_description: "PSSCOC 8th Edition (2020) clauses 27 and 28 set the insurance o
 
 > **The Answer in 60 Seconds**
 >
-> Your SME contractor is bidding a [Building and Construction Authority (BCA)](https://www1.bca.gov.sg/) or other public sector tender governed by [PSSCOC for Construction Works 8th Edition (July 2020)](https://www1.bca.gov.sg/docs/default-source/docs-corp-procurement/psscoc-for-construction-works-2020.pdf), which has been amended periodically (most recently on 21 June 2024). The insurance provisions - Clauses 27 and 28 - were not altered by that amendment. The **PSSCOC Lite** form was adopted from 1 May 2025 for public-sector construction works estimated above SGD 90,000 but not exceeding SGD 1 million, with a simplified set of conditions. Critical insurance placements: (1) Clause 28 - Contractors All Risks (CAR) and Erection All Risks (EAR) covering Works, with Employer + Contractor + sub-contractors of all tiers as joint insured (joint name policy); (2) Clause 27 - Public Liability with Employer named as Principal, plus WICA per [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) with Common Law extension; (3) Existing-property cover SGD 1m on first-loss basis under Clause 28; (4) Professional fees 10% of contract sum and debris removal 5% - both standard PSSCOC sub-limits. The actual limits are not fixed by the standard form - they are set tender-by-tender in the Particular Conditions of Contract (PCC), so the PCC of each tender must be read for the exact public-liability limit, WICA Common Law limit, sub-limits and excesses. The premium is quoted against the specific project, not derived from a fixed percentage.
+> Your SME contractor is bidding a [Building and Construction Authority (BCA)](https://www1.bca.gov.sg/) or other public sector tender governed by [PSSCOC for Construction Works 8th Edition (July 2020)](https://isomer-user-content.by.gov.sg/338/5349d125-0337-4dc3-a36d-623e599f2865/1-psscoc-for-construction-works-2020.pdf), which has been amended periodically (most recently on 21 June 2024). The insurance provisions - Clauses 27 and 28 - were not altered by that amendment. The **PSSCOC Lite** form was adopted from 1 May 2025 for public-sector construction works estimated above SGD 90,000 but not exceeding SGD 1 million, with a simplified set of conditions. Critical insurance placements: (1) Clause 28 - Contractors All Risks (CAR) and Erection All Risks (EAR) covering Works, in the joint names of the Employer and the Contractor (joint name policy); (2) Clause 27 - Public Liability with the Employer noted as an Additional Insured with a cross liability provision (the form uses "Principal" for Employer's Liability), plus WICA per [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) with Common Law extension; (3) Any existing-property cover and its limit, where the tender's Contract documents require it (the standard form sets no figure); (4) Professional fees at the percentage stated in the Appendix (the standard form sets no percentage), and debris removal where the Contract documents require it. The actual limits are not fixed by the standard form - they are set tender-by-tender in the Particular Conditions of Contract (PCC), so the PCC of each tender must be read for the exact public-liability limit, WICA Common Law limit, sub-limits and excesses. The premium is quoted against the specific project, not derived from a fixed percentage.
 
 ### The Sourced Detail
 
-PSSCOC compliance is a structured insurance placement exercise - each clause maps to a specific insurance product, each Particular Conditions of Contract (PCC) entry sets specific limits, and each policy must be evidenced via Certificate of Insurance to the Employer before commencement. Compliance failures result in default under Clause 27.3 (allowing Employer to deduct premium from monies due to Contractor and pay it to insurer directly).
+PSSCOC compliance is a structured insurance placement exercise - each clause maps to a specific insurance product, each Particular Conditions of Contract (PCC) entry sets specific limits, and a copy of each policy must be deposited with the Superintending Officer before any work starts on Site, with the premium receipts no later than 14 days after (a certificate of insurance suffices only where the Contractor relies on a general policy under Clause 28.1(4)). Compliance failures result in default under Clause 27.3 (allowing Employer to deduct premium from monies due to Contractor and pay it to insurer directly).
 
 #### Statutory and contractual framework
 
 **Primary contract.**
-- [PSSCOC for Construction Works 8th Edition (July 2020)](https://www1.bca.gov.sg/docs/default-source/docs-corp-procurement/psscoc-for-construction-works-2020.pdf) - applicable to public sector construction contracts
-- The form has been amended periodically; the most recent amendment, on 21 June 2024, amended Clause 4.5(2) (Security Deposit) and added Clause 4.8 (Geotechnical Information) - the insurance Clauses 27 and 28 were not changed
+- [PSSCOC for Construction Works 8th Edition (July 2020)](https://isomer-user-content.by.gov.sg/338/5349d125-0337-4dc3-a36d-623e599f2865/1-psscoc-for-construction-works-2020.pdf), applicable to public sector construction contracts
+- The form has been amended periodically; the most recent amendment, on 21 June 2024, amended Clause 4.5 (Security Deposit), Clause 30.2 (Subcontractors) and the Option Module D definitions (Clause D1.0), added Clause 4.8 (Confidentiality of Information Supplied to Contractor) and Clause 40 (Compliance with Workplace Safety and Health Requirements), and updated the Appendix - the insurance Clauses 27 and 28 were not changed
 - PSSCOC Lite, adopted from 1 May 2025, applies to public-sector construction works estimated above SGD 90,000 but not exceeding SGD 1 million
 
 **Specific insurance clauses.**
 - Clause 26 - Indemnity (general indemnity by Contractor)
 - Clause 27 - Insurance for Personal Injury, Work Injury Compensation and Property Damage
-  - Clause 27.1 The Policies (PL, WICA, motor)
+  - Clause 27.1 The Policies (personal injury liability, the WICA approved policy, and property damage cover where the Contract requires it)
   - Clause 27.2 Damage to Property when Contractor Not Negligent
   - Clause 27.3 Default in Insuring (remedy where Contractor fails to insure)
 - Clause 28 - Insurance of the Works
@@ -52,7 +52,7 @@ PSSCOC compliance is a structured insurance placement exercise - each clause map
 
 **Industry resources.**
 - [Workplace Safety and Health Council](https://www.tal.sg/wshc/) - sector guidance
-- [BCA Builder Licensing Scheme](https://www1.bca.gov.sg/) - builder competence framework
+- [BCA Builder Licensing Scheme](https://www1.bca.gov.sg/safety-and-standards/applications-and-licenses/builders-licensing-scheme-bls/) - builder competence framework
 
 #### Step-by-step compliance procedure
 
@@ -62,11 +62,11 @@ Read tender Particular Conditions of Contract (PCC) and extract:
 - Contract sum
 - Contract period
 - Defects liability period (typically 12 months)
-- Specific PL limit (varies by tender; common SGD 5m or SGD 10m)
-- Specific WICA Common Law limit (typically SGD 10m)
-- Specific existing-property limit (typically SGD 1m)
-- Specific professional fees percentage (typically 10%)
-- Specific debris removal percentage (typically 5%)
+- Specific PL limit (varies by tender)
+- Specific WICA Common Law limit
+- Specific existing-property limit (where required)
+- Specific professional fees percentage (stated in the Appendix)
+- Specific debris removal requirement (where the Contract documents set one)
 - Specific principal name and address
 - Specific sub-contractor list (where known)
 
@@ -78,7 +78,6 @@ Brief broker comprehensively:
 - Specific co-insured list
 - Specific contract scope (hot works, lifting, demolition, hacking)
 - Specific WSH risk profile
-- Specific BCA workhead grade
 
 Receive quote covering:
 - CAR / EAR Section 1 (Material Damage)
@@ -90,21 +89,20 @@ Receive quote covering:
 **Step 3 - Policy placement and binding (Day -7 to Day -1).**
 
 Specific timeline considerations:
-- CAR typically placed within 24-48 hours of binding
 - WICA via designated insurer per MOM list
 - Specific PL per insurer requirements
 - Specific schedule of insureds finalised
 
-**Step 4 - COI issuance and submission (Day -1 to Day 0).**
+**Step 4: policy copies to the Superintending Officer (before work starts on Site).**
 
 For each policy:
 - Specific named insured (Contractor as named insured)
 - Specific additional insureds (Employer as joint insured / additional insured)
-- Specific sub-contractors of all tiers (joint insured)
+- Cover for sub-contractors' liability under the Clause 27.1 insurances (Clause 28 names only the Employer and the Contractor)
 - Specific endorsements present
 - Specific policy schedule attached
 
-Submit to Employer per tender requirements.
+Deposit a copy of each policy with the Superintending Officer before any work starts on Site, and the premium receipts no later than 14 days after (Clauses 27.1(2), 27.2(2) and 28.1(2)).
 
 **Step 5 - Maintenance through contract period.**
 
@@ -120,31 +118,26 @@ Submit to Employer per tender requirements.
 **Public Liability cover.**
 - Named insured: Contractor
 - Additional insured / Principal: Employer
-- Specific sub-contractors of all tiers as additional insureds
+- Cover for sub-contractors' liability (Clause 27.1(1) requires the insurances to cover the liability of the Contractor or of any subcontractor)
 - Cross-liability clause
-- Waiver of subrogation against Employer
-- Limit: per PCC - the figure and the "any one occurrence" / "any one period" basis are stated in the Particular Conditions
+- Limit: for the property damage insurance under Clause 27.1(1)(b), the limit "for any one accident" set out in the Appendix; otherwise as the Specifications or other Contract documents permit
 - Specific cover scope: bodily injury, property damage, defence costs
 
 **WICA cover.**
 - Named insured: Contractor (and sub-contractors)
 - WICA designated insurer per MOM list
-- Specific limits per WICA 2019 (medical, PI, death - see Article 271 framework)
-- Common Law extension typically SGD 10m for public sector tenders
+- Compensation limits set by WICA 2019 (medical expenses, permanent incapacity, death)
+- Common Law extension at the limit the tender's Contract documents set
 - Specific overseas exposure consideration
-
-**Motor cover.**
-- Specific cover for vehicles entering site
-- Specific liability extension for site driving
 
 ##### Clause 28 - Insurance of the Works
 
 **Contractors All Risks (CAR) Section 1 - Material Damage.**
-- Sum insured: contract sum + 10% (professional fees) + 5% (debris removal) + existing property cover
-- Joint name policy: Employer + Contractor + sub-contractors of all tiers
+- Sum insured: not less than the Contract Sum plus the professional-fees percentage stated in the Appendix (Clause 28.1(1)); debris removal and existing property only where the Contract documents require them
+- Joint name policy: Employer and Contractor (Clause 28.1(1))
 - Cross-liability clause
-- Waiver of subrogation (per insurance market practice)
-- Cover period: contract commencement through defects liability period
+- Subrogation: at least one Singapore CAR wording directs the insurer's recovery rights only at parties other than those insured under the policy (Clause 28 itself says nothing on subrogation)
+- Cover period: from before any work starts until 14 days after the Date of Substantial Completion, and during the Defects Liability Period for loss or damage from a cause occurring before that period began
 - Specific perils: fire, flood, storm, earthquake, theft, malicious damage, accidental damage
 - Specific exclusions: design defects (typically excluded; PI cover separate)
 
@@ -152,18 +145,18 @@ Submit to Employer per tender requirements.
 - Cover for third-party bodily injury and property damage arising from Works
 - Limit: set per PCC
 - Specific cover scope: liability arising during contract period
-- Specific endorsements: cross-liability, waiver of subrogation
+- Specific endorsements: cross-liability
 
 **Existing Property Cover.**
-- Commonly written on a first-loss basis; the limit is set in the PCC
+- The limit, where required, is set in the tender's Contract documents
 - Specific extension to CAR
 - Specific application to Employer's existing structures
 
-**Professional Fees (10%).**
+**Professional Fees (percentage stated in the Appendix).**
 - Specific extension to CAR for additional professional costs in event of loss
 - Specific architect / engineer / quantity surveyor fees
 
-**Debris Removal (5%).**
+**Debris Removal (where the Contract documents require it).**
 - Specific extension for cost of debris clearance
 - Specific waste disposal compliance
 
@@ -173,20 +166,18 @@ PSSCOC sets the insurance *structure* - Clauses 27 and 28 - but the *limits, sub
 
 The figures commonly seen on public-sector construction tenders fall into recognisable shapes:
 
-- **Public Liability:** a substantial limit per occurrence, with the "any one period" basis specified in the PCC
+- **Public Liability:** a limit the tender's Contract documents set or permit; for property damage, a limit "for any one accident" set out in the Appendix (Clause 27.1(1)(b))
 - **WICA Common Law extension:** a Common Law limit per occurrence, set in the PCC
-- **CAR Section 1 (Material Damage):** the contract sum, plus the professional-fees and debris-removal extensions
+- **CAR Section 1 (Material Damage):** not less than the Contract Sum plus the professional-fees percentage stated in the Appendix, with debris removal where the Contract documents require it
 - **CAR Section 2 (Third Party Liability):** a per-occurrence limit set in the PCC
-- **Existing property:** commonly covered on a first-loss basis
-- **Excesses:** a higher excess for major perils, a lower one for other perils
 
 Always take the actual figures from the PCC of the tender being bid - they vary by procurer and by project, and lower-value tenders carry correspondingly lower limits.
 
 #### Joint name and co-insured implications
 
-A joint-names CAR policy carries a well-established consequence: an insurer generally cannot exercise subrogation rights against a party that is itself a co-insured under the policy. So the Employer cannot recover from the Contractor (and vice versa) for a loss covered under the joint policy - which removes cross-claim exposure between co-insureds.
+A joint-names CAR policy can stop the insurer, after paying one co-insured, from pursuing another co-insured for the same loss, but the outcome is not automatic: the case law turns on the underlying contract, which parties it makes co-insured and the scope of cover it requires.
 
-This is a substantial benefit for an SME contractor: a fire on site that destroys completed works does not generate a civil action between Contractor and Employer; the CAR insurer indemnifies the insured parties under the policy, rather than the parties litigating against each other.
+Under PSSCOC Clause 28.2, the Contractor must make good damage to the Works, and insurance moneys under the Works policy are paid first to the Employer and then released to the Contractor by instalments as the restoration proceeds.
 
 #### How the cover is priced
 
@@ -211,8 +202,7 @@ This is a substantial commercial risk: Employer has direct remedy without litiga
 #### PSSCOC Lite (1 May 2025)
 
 For public sector contracts SGD 90,000-1,000,000:
-- Simplified insurance schedule
-- Reduced sum insured options
+- Insurance Clauses 27 and 28 and the Appendix insurance entries carried over from the full PSSCOC with drafting changes only; BCA's list of omitted or simplified clauses does not include insurance
 - Specific application to lower-value works (e.g., minor renovations, small infrastructure)
 - Specific compliance still required
 
@@ -220,7 +210,7 @@ For public sector contracts SGD 90,000-1,000,000:
 
 1. **PCC review delayed.** Specific insurance requirements identified close to bid deadline.
 
-2. **Joint name structure incomplete.** Specific sub-contractor tiers not included.
+2. **Joint name structure incomplete.** The Works policy not in the joint names of the Employer and the Contractor.
 
 3. **Cross-liability clause missing.** Specific co-insured cross-claim exposure.
 
@@ -228,7 +218,7 @@ For public sector contracts SGD 90,000-1,000,000:
 
 5. **Professional fees / debris removal sub-limits absent.** Specific CAR extensions not included.
 
-6. **WICA Common Law limit insufficient.** Specific public sector minimum not met.
+6. **WICA Common Law limit insufficient.** The limit the tender's Contract documents require is not met.
 
 7. **PL limit insufficient.** Specific tender minimum not matched.
 
@@ -248,7 +238,7 @@ For Singapore SMEs bidding public sector construction tenders:
 
 3. **Specific BCA workhead grade alignment** - current grading, financial requirements, technical capacity.
 
-4. **Specific sub-contractor management** - known sub-contractors as joint insureds, COI evidence.
+4. **Specific sub-contractor management**: sub-contractors' liability covered under the Clause 27 insurances as the tender requires, with policy copies ready to deposit.
 
 5. **Specific endorsement library** - cross-liability, waiver of subrogation, primary and non-contributory pre-templated.
 
@@ -268,7 +258,7 @@ The cost of PSSCOC compliance failure is acute - a single non-compliant bid can 
 
 1. For our typical PSSCOC tender bids, are joint name CAR / EAR / PL / WICA framework operationally established?
 2. For our common public sector procurers, are specific PCC requirements pre-mapped to insurance pack?
-3. For our sub-contractor relationships, is joint insured framework operational with COI evidence flow?
+3. For our sub-contractor relationships, do the Clause 27 insurances cover sub-contractors' liability as the tender requires, and can we produce the policy copies for deposit?
 4. For our endorsement library, are cross-liability, waiver of subrogation, primary and non-contributory pre-templated?
 5. For our WICA designated insurer, is current relationship adequate for typical public sector Common Law limits?
 

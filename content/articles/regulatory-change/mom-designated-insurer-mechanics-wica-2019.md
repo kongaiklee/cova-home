@@ -55,7 +55,7 @@ The compensation limit uplift reflects the rising cost of medical treatment, reh
 
 The WICA 2019 consolidated text is at [sso.agc.gov.sg/Act/WICA2019](https://sso.agc.gov.sg/Act/WICA2019). The Work Injury Compensation (Insurance) Regulations 2020 and WICI Compulsory Terms are accessible from the WICA 2019 subsidiary-legislation index on SSO. The MOM insurance-requirements page is at [mom.gov.sg/workplace-safety-and-health/work-injury-compensation/insurance-requirements](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/insurance-requirements). The current MOM-designated insurers list is linked from the insurance-requirements page; SMEs and intermediaries should verify the current list at the time of placement, as the list is updated periodically.
 
-Drafters and procurement teams should extract verbatim from the SSO consolidated text:
+The provisions that matter here:
 
 The WICA 2019 section defining "designated insurer" and the Commissioner for Labour's designation power.
 
@@ -103,7 +103,7 @@ SMEs whose current insurer is removed should specifically engage with their brok
 
 Within the WICA 2019 designated insurer regime, there are interlocking foreign-worker insurance requirements administered by MOM:
 
-**Foreign Worker Medical Insurance (FWMI)** is mandatory under the Employment of Foreign Manpower Act 1990 (EFMA) for Work Permit and S Pass holders. FWMI covers inpatient medical expenses for the foreign worker. The minimum annual coverage amount is set by MOM and has stepped up in prior cycles. Drafters and SMEs should verify the current FWMI minimum at MOM at the time of placement.
+**Foreign Worker Medical Insurance (FWMI)** is mandatory under the Employment of Foreign Manpower Act 1990 (EFMA) for Work Permit and S Pass holders. FWMI covers inpatient medical expenses for the foreign worker. The minimum annual coverage amount is set by MOM and has stepped up in prior cycles.
 
 **Foreign Domestic Worker (FDW) Insurance Scheme** is mandatory under EFMA for FDW employers. The Scheme requires personal accident insurance (typically S$60,000 minimum), medical insurance (minimum determined by MOM), and security bond. The current minimums and designated FDW insurers should be verified at MOM.
 

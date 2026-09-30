@@ -20,7 +20,7 @@ og_description: "Singapore's SCDF Fire Certificate keeps a designated building o
 ---
 
 > **The Answer in 60 Seconds**
-> Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), an FC is mandatory under Section 35 of the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for designated buildings - public buildings with occupant load >200, industrial buildings with occupant load ≥1,000 (or floor/site area ≥5,000 m² or habitable height >24m), and several other categories. Per SCDF: "For FCs with validity start date from 1 April 2026 and after, the validity is for a period of 36 months unless otherwise stated, with revised application fees payable once every three years when all the FC requirements have been complied with."
+> Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), an FC is mandatory under Section 35 of the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993) for designated buildings - public buildings with occupant load >200, industrial buildings with occupant load of 1,000 or more (or floor/site area of 5,000 square metres or more, or habitable height above 24m), and several other categories. Per SCDF: "For FCs with validity start date from 1 April 2026 and after, the validity is for a period of 36 months unless otherwise stated, with revised application fees payable once every three years when all the FC requirements have been complied with."
 
 ### The Sourced Detail
 
@@ -39,7 +39,7 @@ This article focuses on the **FC** because it's the recurring obligation that in
 Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), under Section 35 of the Fire Safety Act 1993, the owner or occupier of any public building such as offices, hospitals, shopping complexes, industrial buildings and private residential buildings that fall within the following criteria is required to apply for and obtain a Fire Certificate:
 
 1. **Public buildings** (except residential) with **occupant load > 200 persons** - excluding compliant serviced apartments, standalone carparks, and non-fully-enclosed hawker centres / wet markets
-2. **Industrial buildings** with: occupant load ≥1,000; OR floor/site area ≥5,000 m²; OR habitable height >24m
+2. **Industrial buildings** with: occupant load of 1,000 or more; OR floor/site area of 5,000 square metres or more; OR habitable height above 24m
 3. **Foreign dormitories** with the same thresholds
 4. **Hospitals** (any size)
 5. **Residential buildings** with habitable height >24m AND installed with automatic fire alarm/sprinkler/wet riser, that are not HDB flats
@@ -50,7 +50,7 @@ Per Section 35 of the Fire Safety Act, no designated building may be occupied or
 
 #### What changes from 1 April 2026
 
-Per the SCDF FC page banner: "To help businesses reduce regulatory compliance costs, SCDF will implement three-year Fire Certificate (FC) validity periods for renewal applications from 1 April 2026 onwards."
+Per [SCDF's circular introducing the regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf): "To help businesses reduce regulatory compliance costs, the Singapore Civil Defence Force (SCDF) will extend the Fire Certificate (FC) validity period from one year to three years from 1 April 2026 onwards for buildings that require an FC and which have a good compliance track record."
 
 Before 1 April 2026: 12-month FC validity, annual renewal, annual fees.
 From 1 April 2026: **[36-month FC validity for renewals](/regulatory-change/scdf-fc-3-year-2026)**, with revised application fees payable once every three years when all FC requirements have been complied with. Annual PE inspections still mandatory; SCDF still conducts random audits in non-renewal years.
@@ -61,29 +61,29 @@ If your FC is revoked due to late or incomplete submission, per SCDF: "Upon rect
 
 #### Penalties for non-compliance
 
-Per the [Ministry of Home Affairs press release on the Fire Safety (Amendment) Act commencement](https://www.mha.gov.sg/mediaroom/press-releases/commencement-of-the-fire-safety-amendment-act/) (14 September 2020): SCDF can issue a Fire Hazard Abatement Notice; if the hazard is not addressed, a Notice of Composition is issued; for serious cases, court action follows. For five categories of serious offences (including unauthorised change of use that renders existing fire safety measures inadequate, and failures by QPs/RIs to discharge their duties), penalties have been increased to align with comparable offences under the Building Control Act.
+Per the [Ministry of Home Affairs press release on the Fire Safety (Amendment) Act commencement](https://www.mha.gov.sg/media-room/newsroom/commencement-of-the-fire-safety-amendment-act/) (14 September 2020): SCDF can issue a Fire Hazard Abatement Notice; if the hazard is not addressed, a Notice of Composition is issued; for serious cases, court action follows. For five categories of serious offences (including unauthorised change of use that renders existing fire safety measures inadequate, and failures by QPs/RIs to discharge their duties), penalties have been increased to align with comparable offences under the Building Control Act.
 
 #### How fire insurance interacts with FC compliance
 
 This is the key practical link for SMEs. Note: the points below describe common market practice, not a regulator-published rule. You should confirm specifics with your appointed FA and read your own policy wording.
 
-**1. FC status as a policy condition.** Fire and Property All Risks (PAR) policies in Singapore commonly include a policy condition or warranty that the insured premises hold a valid Fire Certificate (where required) and comply with the Fire Code. Breach of warranty can affect cover or claim payout. Exact wording varies by insurer; this is not a uniform regulatory clause.
+**1. FC status as a policy condition.** A Fire or Property All Risks (PAR) policy may include a condition or warranty that refers to a Fire Certificate, a Fire Safety Certificate or compliance with the Fire Code; the policy schedule and conditions say whether yours does. Breach of warranty can affect cover or claim payout. Exact wording varies by insurer; this is not a uniform regulatory clause.
 
-**2. Fire Code 2023 compliance.** Per the [SCDF Fire Code 2023 page](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023), the Code of Practice for Fire Precautions in Buildings 2023 establishes minimum fire safety provisions. Insurers typically require Fire Code 2023 compliance in their underwriting questionnaire.
+**2. Fire Code 2023 compliance.** Per the [SCDF Fire Code 2023 page](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023), the Code of Practice for Fire Precautions in Buildings 2023 establishes minimum fire safety provisions.
 
-**3. Change-of-use trigger.** If you change premises use (e.g., from warehouse to retail or to F&B), the existing FC may no longer reflect current usage. This is one of the five serious-offence categories under the amended Fire Safety Act. It is also a circumstance where insurers commonly suspend cover until re-certification.
+**3. Change-of-use trigger.** If you change premises use (e.g., from warehouse to retail or to F&B), the existing FC may no longer reflect current usage. Under [section 61 of the Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993?ProvIds=pr61-), a change of use that would make the existing fire safety measures inadequate needs SCDF's approval before the change is made, and making it without approval is an offence with a fine of up to $200,000, imprisonment of up to 2 years, or both. MHA lists unauthorised change of use among the serious offences whose penalties rose from 14 September 2020. What a change of use does to your fire cover is set by the policy wording.
 
-**4. Renewal timing.** Per the SCDF FC page, applications must be submitted at least 2 months before existing FC expiry. Missing the submission deadline results in revocation. Most fire insurers require notification of any FC lapse.
+**4. Renewal timing.** Per the SCDF FC page, applications must be submitted at least 2 months before existing FC expiry. Under the three-year regime, missing the deadline for the annual FC Form in a year between renewals results in SCDF revoking the FC with immediate effect ([SCDF circular](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf)). An FC that lapses because the renewal was late leaves the building without a valid FC, and SCDF states that occupying it then may make the owner or occupier liable to prosecution. Whether your policy requires notice of an FC lapse is set by its wording.
 
 #### What a Property/Fire policy typically covers (generally)
 
-Per insurer brochures published by [MAS-authorised general insurers](https://eservices.mas.gov.sg/fid), a typical Property All Risks or Fire policy in Singapore covers:
+For home insurance, the [General Insurance Association of Singapore](https://gia.org.sg/property-insurance-faq.html) describes two types of cover, insured perils and all risks, the second including accidental damage. A Fire or Property All Risks policy for a business, and the covers written alongside it, can include:
 
 - **Fire** - accidental fire damage to insured property
-- **Lightning, explosion, aircraft impact** - common extensions
+- **Lightning, explosion, aircraft impact**: lightning sits with fire in the core cover, per GIA; explosion and aircraft impact are named perils, and the policy schedule shows which are included
 - **PAR perils** - broader, covering accidental physical damage (not just fire)
-- **Business Interruption** - loss of profits during the indemnity period (commonly 12 or 24 months) following an insured peril
-- **Public Liability** - third-party injury or property damage on insured premises (often a separate section or policy)
+- **Business Interruption** - loss of profits during the indemnity period (the period the policy states) following an insured peril
+- **Public Liability** - third-party injury or property damage on insured premises (liability cover, written as its own policy or section rather than as part of the property cover)
 
 Specific limits, deductibles, and warranties vary by insurer.
 
@@ -94,9 +94,9 @@ Companies typically need to consider four interactions between SCDF compliance a
 1. **FC status as a policy warranty** : ensure your FC is valid and renewals are timely
 2. **Fire Code 2023 compliance** : insurers' underwriting may treat non-compliance as a material change in risk
 3. **Change-of-use disclosures** : notify your insurer **before** changing premises use
-4. **PE inspection records** : keep pre-test reports, RI certifications, and the FC submission audit trail; insurers commonly ask for these post-loss
+4. **PE inspection records** : keep pre-test reports, RI certifications, and the FC submission audit trail; an insurer may ask for them after a loss
 
-Factors that affect Fire / PAR underwriting include: occupancy type (F&B and warehousing typically priced higher than office), construction type, sprinkler protection, occupancy load, neighbouring occupancies, and prior loss history. Premium for the same risk can vary between insurers depending on warranty wording. A licensed adviser can tell you how that applies to your own placement.
+A licensed adviser can tell you what an insurer will ask about your premises.
 
 ### Questions to Ask Your Adviser
 
@@ -109,7 +109,7 @@ Factors that affect Fire / PAR underwriting include: occupancy type (F&B and war
 ### Related Information
 
 - [BCA Builders Licensing Scheme: Insurance Requirements (Singapore)](/licensing/bca-builders-licensing-scheme-insurance)
-- [BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
+- [BCA CRS bizSAFE Level 3: Where It Is Required, and Why WIC Insurance Is Separate](/licensing/bca-crs-bizsafe-level-3-insurance-proof)
 - [MOM Designated Insurer WICA List 2026: Who Can Sell You WICA in Singapore](/regulatory-change/mom-designated-insurer-wica-list-2026)
 - [How to Apply for a Fire Safety Certificate (FSC) in Singapore: SCDF's Process, Step by Step](/procedural-howto/apply-fsc-scdf-fire-safety-certificate)
 - [SCDF Fire Certificate Renewal: 36-Month Validity From 1 April 2026](/regulatory-change/scdf-fc-3-year-2026)

@@ -25,7 +25,7 @@ og_description: "Limitation of liability is where the real risk allocation happe
 
 ### The Sourced Detail
 
-Limitation of liability clauses operate as foundational risk allocation mechanism in Singapore commercial contracts. Framework for enforceability operates under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework with substantial common law development accessible through [eLitigation.sg](https://www.elitigation.sg/). [MAS](https://www.mas.gov.sg/) administers insurance regulatory framework with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Commercial dispute scope operates within the [State Courts](https://www.judiciary.gov.sg/) framework (the former Subordinate Courts, renamed the State Courts in 2014).
+Limitation of liability clauses operate as foundational risk allocation mechanism in Singapore commercial contracts. Framework for enforceability operates under [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework with substantial common law development accessible through [eLitigation.sg](https://www.elitigation.sg/). [MAS](https://www.mas.gov.sg/) administers insurance regulatory framework with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Commercial claims of up to S$250,000 can be heard in the District Courts of the [State Courts](https://www.judiciary.gov.sg/), which were called the Subordinate Courts until they were renamed on 7 March 2014.
 
 #### The clause structure framework
 
@@ -54,7 +54,6 @@ Standard limitation of liability clauses include several structural elements:
 - Breach of confidentiality
 - IP indemnification
 - Framework for fraud
-- Framework for fundamental breach
 
 #### The UCTA enforceability framework
 
@@ -130,7 +129,7 @@ For commercial scope around limitation clauses, operational considerations inclu
 3. **Inadequate insurance integration.** Specific gap exposure or excessive limitation.
 4. **No damage type exclusion drafting precision.** Specific enforceability risk.
 5. **Inadequate carve-out framework.** Operational scope misalignment.
-6. **Personal injury / death exclusions (which are unenforceable under UCTA Section 2).** Operational scope misunderstanding.
+6. **Exclusions of liability for death or personal injury resulting from negligence (which UCTA Section 2(1) makes unenforceable).** Operational scope misunderstanding.
 7. **No commercial counsel engagement for operational scope.**
 8. **Inadequate aggregate vs per-occurrence framework.**
 9. **No defence costs allocation.**

@@ -203,9 +203,12 @@ export interface AgencyLink {
 }
 
 /** Every agency the markdown links to, first-seen order, with the first cited URL and link count. */
+// A URL may hold one balanced "( ... )" - IRAS's ".../guide-(fifth-edition)c87f....pdf", MOM's "...-(dispute-resolution)-act" -
+// as a markdown link's own address does. The first version stopped at any ")" and cut such a URL at its "(", so the tag
+// linked to a page that does not exist (7 guides, measured on the built pages 2026-09-30).
 export function agencyLinks(markdown: string): AgencyLink[] {
   const out = new Map<string, AgencyLink>();
-  for (const m of markdown.matchAll(/https?:\/\/([^/\s)"']+)[^\s)"']*/g)) {
+  for (const m of markdown.matchAll(/https?:\/\/([^/\s()"']+)(?:[^\s()"']|\([^\s()"']*\))*/g)) {
     const name = agencyFor(m[1]);
     if (!name) continue;
     const cur = out.get(name);

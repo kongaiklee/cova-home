@@ -344,7 +344,7 @@
     "industries": [],
     "agencies": [],
     "published": "2026-05-31",
-    "meta_description": "Singapore insurers rate business interruption on insurable gross profit, not the figure in your accounts. It is turnover minus only the variable costs.",
+    "meta_description": "A Singapore BI policy defines gross profit as turnover, adjusted for stock, less the working expenses its schedule lists. It can differ from your accounts.",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 2189,
     "article_number": 521,
@@ -600,7 +600,7 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-31",
-    "meta_description": "Hotel Association membership is voluntary and imposes no insurance. The duties that do reach a hotel come from the licence, the lease and the contracts.",
+    "meta_description": "Hotel Association membership is voluntary and imposes no insurance. Insurance duties come from WICA, the work pass rules, the lease and the contracts.",
     "hero_image": "/assets/blog/association.jpg",
     "word_count": 2237,
     "article_number": 509,
@@ -1454,7 +1454,7 @@
       "MAS"
     ],
     "published": "2026-05-31",
-    "meta_description": "No statute forces you to insure your own premises. Your lease and your lender almost certainly do, and their wording decides the sum insured you need.",
+    "meta_description": "No statute forces you to insure your own premises. A lease or a loan may, and its wording can set what you insure, for how much and in whose name.",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 2725,
     "article_number": 470,
@@ -1501,7 +1501,7 @@
       "BCA"
     ],
     "published": "2026-05-31",
-    "meta_description": "Construction site insurance requirements in Singapore come from three places: your BCA grade, the WSH Act, and the contract. Only one cover is statutory.",
+    "meta_description": "Singapore law requires WIC insurance for construction workers and medical insurance for Work Permit and S Pass holders. Contracts set the rest of the stack.",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 2766,
     "article_number": 468,
@@ -3282,7 +3282,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: Simplified Insurance Schedule for Sub-S$1m Public Works in Singapore",
+    "title": "PSSCOC-lite for Tender Lite (Construction) Effective 1 May 2025: The Insurance Clauses for Sub-S$1m Public Works in Singapore",
     "slug": "/regulatory-change/psscoc-lite-tender-lite-construction-1-may-2025",
     "category": "regulatory-change",
     "intent": "know-where-you-stand",
@@ -3526,7 +3526,7 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-17",
-    "meta_description": "Singapore venues make event liability cover and an additional-insured endorsement a condition of hire. What the contract asks for, and who provides it.",
+    "meta_description": "A Singapore venue's hire agreement can make event liability cover, with the venue as an additional insured, a condition of hire. What the contract asks for.",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1508,
     "article_number": 378,
@@ -4110,7 +4110,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "WSH Act Penalty Doubling (1 June 2024): Why Workplace Safety Fines Now Drive WICI and EPL Pricing",
+    "title": "WSH Maximum Fines Raised (1 June 2024): The New Ceilings Under the WSH Regulations",
     "slug": "/regulatory-change/wsh-penalty-doubling-2024",
     "category": "regulatory-change",
     "intent": "know-where-you-stand",
@@ -4328,7 +4328,7 @@
     "updated": "2026-09-11"
   },
   {
-    "title": "How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers",
+    "title": "How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers",
     "slug": "/procedural-howto/how-to-file-wica-claim-singapore-mom",
     "category": "procedural-howto",
     "intent": "get-it-right",
@@ -5318,7 +5318,7 @@
       "LIA"
     ],
     "published": "2026-05-06",
-    "meta_description": "Sending staff overseas raises a layered question. WICA generally follows a short trip, but an assignment is a different arrangement entirely.",
+    "meta_description": "Sending staff overseas raises a layered question. WICA can reach an overseas trip or assignment, but medical, travel and CPF rules change with the posting.",
     "hero_image": "/assets/blog/cross-border.jpg",
     "word_count": 2200,
     "article_number": 303,
@@ -5854,7 +5854,7 @@
       "Courts"
     ],
     "published": "2026-05-14",
-    "meta_description": "A fraud that ran three years and surfaced last month is paid under one trigger and refused under the other. Loss-discovered against loss-sustained, decided.",
+    "meta_description": "A fraud that ran three years and surfaced last month can be paid under one trigger and refused under the other. Loss-discovered vs loss-sustained, decided.",
     "hero_image": "/assets/blog/comparison.jpg",
     "word_count": 3043,
     "article_number": 279,
@@ -6172,7 +6172,7 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-14",
-    "meta_description": "BCA CRS once set only your tendering limit. Since 1 June 2025 it also decides who may hire foreign construction workers. What changed per grade.",
+    "meta_description": "A BCA CRS grade sets the value of public tenders a firm can bid for. Since 1 June 2025, a firm must also be registered to hire foreign construction workers.",
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 2196,
     "article_number": 265,
@@ -6391,7 +6391,7 @@
       "Courts"
     ],
     "published": "2026-05-14",
-    "meta_description": "Singapore's CROTPA lets a named non-party enforce a benefit conferred on them. What that means when you are an additional insured, and its limits.",
+    "meta_description": "Singapore's CROTPA lets an identified non-party enforce a term made for its benefit, but most policies exclude it. What that means for an additional insured.",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 3755,
     "article_number": 255,
@@ -7251,7 +7251,7 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-05",
-    "meta_description": "Opening a pet grooming, boarding or daycare business in Singapore needs AVS licensing under NParks. What the licence requires, and what to prepare.",
+    "meta_description": "Boarding pets for reward in Singapore needs an AVS licence; grooming and day care alone do not. What the licence requires, and what to prepare.",
     "hero_image": "/assets/blog/decision-tree.jpg",
     "word_count": 1566,
     "article_number": 218,
@@ -7837,7 +7837,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "Master/Local vs DIC/DIL: Multinational Insurance Structures Explained",
+    "title": "Master/Local Programmes and DIC/DIL Cover: Multinational Insurance Structures Explained",
     "slug": "/comparison/master-local-vs-dic-dil-multinational",
     "category": "comparison",
     "intent": "make-the-call",
@@ -7850,7 +7850,7 @@
       "MAS"
     ],
     "published": "2026-05-05",
-    "meta_description": "Master and local, or DIC and DIL: two ways a Singapore group structures a multinational programme. What each does when a local policy falls short.",
+    "meta_description": "A multinational programme pairs a master policy with local policies, and the master's DIC/DIL cover fills local gaps. How to decide where to buy local cover.",
     "hero_image": "/assets/blog/comparison.jpg",
     "word_count": 1671,
     "article_number": 190,
@@ -9900,7 +9900,7 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-04",
-    "meta_description": "A BCA financial grade sets your tendering ceiling and the workhead sets the trade. How CRS grading works, and which cover each registration assumes.",
+    "meta_description": "A BCA financial grade sets your public-sector tendering limit and the workhead sets the trade. How CRS grading works, and where insurance is actually set.",
     "hero_image": "/assets/blog/association.jpg",
     "word_count": 1664,
     "article_number": 100,
@@ -10612,7 +10612,7 @@
       "Courts"
     ],
     "published": "2026-05-04",
-    "meta_description": "An adviser who recommends without documenting why has breached paragraph 35. What MAS Notice FAA-N16 puts on the file, and how a breach is proved.",
+    "meta_description": "FAA-N16 requires an adviser to document the basis for a recommendation (paragraphs 31 and 35). What goes on the file, and what a breach looks like.",
     "hero_image": "/assets/blog/document-legal.jpg",
     "word_count": 1574,
     "article_number": 68,
@@ -10923,7 +10923,7 @@
       "MOM"
     ],
     "published": "2026-05-04",
-    "meta_description": "Outpatient cover for pass holders is governed by MOM's own requirements. What is mandated, what is voluntary, and how the claim runs.",
+    "meta_description": "MOM requires inpatient and day surgery cover for S Pass and Work Permit holders, and a Primary Care Plan for some. How a group outpatient claim runs.",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1014,
     "article_number": 53,
@@ -11153,7 +11153,7 @@
     "industries": [],
     "agencies": [],
     "published": "2026-05-03",
-    "meta_description": "A Singapore commercial policy has six structural sections and the schedule is the personalised one. What sits in it, and which entries go wrong.",
+    "meta_description": "A Singapore commercial policy is read as one contract with its schedule, the personalised part. What sits in the schedule, and which entries go wrong.",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 1065,
     "article_number": 40,
@@ -11350,7 +11350,7 @@
     "updated": "2026-08-30"
   },
   {
-    "title": "Why Do Singapore Doctors Use \"Mutual Indemnity\" Instead of Insurance?",
+    "title": "Mutual Indemnity or Insurance? How Singapore Doctors Are Covered",
     "slug": "/comparison/medical-mutual-indemnity-vs-commercial-insurance",
     "category": "comparison",
     "intent": "make-the-call",
@@ -11365,7 +11365,7 @@
       "Singapore Statutes"
     ],
     "published": "2026-05-03",
-    "meta_description": "Most Singapore doctors use a mutual rather than an insurer. What discretionary protection means, and how it differs from a policy limit.",
+    "meta_description": "Doctors in Singapore's public healthcare institutions are insured under MOHH's scheme; private doctors choose a mutual or an insurer. What that choice means.",
     "hero_image": "/assets/blog/comparison.jpg",
     "word_count": 1073,
     "article_number": 28,
@@ -11466,7 +11466,7 @@
     ],
     "agencies": [],
     "published": "2026-05-03",
-    "meta_description": "SgMA is a simplified safety and environmental assessment run by SCAL's subsidiary. It is not insurance, but it shapes Singapore pricing.",
+    "meta_description": "SgMA is a simplified safety and environmental management assessment run by SCAL's subsidiary SC2, required for SLOTS unless waived. It is not insurance.",
     "hero_image": "/assets/blog/association.jpg",
     "word_count": 840,
     "article_number": 23,
@@ -11751,7 +11751,7 @@
       "MOM"
     ],
     "published": "2026-05-03",
-    "meta_description": "The MAS Register of Representatives names every licensed adviser, broker and tied agent in Singapore. How to look one up before you sign anything.",
+    "meta_description": "MAS lists regulated firms in its Financial Institutions Directory and the people who advise on life policies and investments in a register. How to check both.",
     "hero_image": "/assets/blog/procedural-howto.jpg",
     "word_count": 945,
     "article_number": 9,
@@ -11810,7 +11810,7 @@
       "MAS"
     ],
     "published": "2026-05-03",
-    "meta_description": "The MOM designated insurer list dated 1 January 2026 names 24 Singapore insurers for WICA employer policies. What designation controls.",
+    "meta_description": "MOM's list of designated insurers, accurate as at 23 September 2026, names 24 insurers for employer WICA policies. What designation controls.",
     "hero_image": "/assets/blog/regulatory-change.jpg",
     "word_count": 1329,
     "article_number": 6,
@@ -11879,7 +11879,7 @@
     "updated": "2026-09-11"
   },
   {
-    "title": "BCA CRS bizSAFE Level 3: Insurance Proof for Specific Registration Requirements",
+    "title": "BCA CRS bizSAFE Level 3: Where It Is Required, and Why WIC Insurance Is Separate",
     "slug": "/licensing/bca-crs-bizsafe-level-3-insurance-proof",
     "category": "licensing",
     "intent": "know-where-you-stand",
@@ -11896,7 +11896,7 @@
       "WSH Council"
     ],
     "published": "2026-05-03",
-    "meta_description": "bizSAFE Level 3 satisfies a BCA CRS registration condition. It does not satisfy Singapore's WICA, which is separately mandatory and proves more.",
+    "meta_description": "bizSAFE Level 3 or ISO 45001 is a BCA CRS requirement for some workhead grades. It does not replace WIC insurance, which WICA requires separately.",
     "hero_image": "/assets/blog/licensing.jpg",
     "word_count": 1047,
     "article_number": 2,

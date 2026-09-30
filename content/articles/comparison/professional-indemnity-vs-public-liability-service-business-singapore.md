@@ -25,11 +25,11 @@ og_description: "They answer different claims, so most Singapore service busines
 >
 > The line that decides which one responds is the **kind of harm**. Public Liability is built for physical injury and physical damage. Professional Indemnity is built for **pure financial loss** with no physical injury attached. A consultant whose advice loses a client money has a Professional Indemnity exposure, not a Public Liability one. A studio where a visitor trips over a cable has a Public Liability exposure, not a Professional Indemnity one.
 >
-> Neither is mandated by general law for most service businesses in Singapore, though Professional Indemnity is a [licence condition for some regulated professions](https://www.mas.gov.sg/regulation/notices/notice-faa-n13). A firm that both advises clients and hosts them or works on their premises usually carries both exposures, and needs both covers.
+> Neither is mandated by general law for most service businesses in Singapore, though Professional Indemnity is a [licence condition for some regulated professions](https://sso.agc.gov.sg/SL/FAA2001-RG2?ProvIds=pr17-). A firm that both advises clients and hosts them or works on their premises usually carries both exposures, and needs both covers.
 
 ### The Sourced Detail
 
-Service businesses confuse Professional Indemnity and Public Liability more often than any other pair, because both sound like "the policy that protects me when a client is unhappy". They are not interchangeable. They respond to structurally different events, they are triggered by different kinds of loss, and a claim that one covers, the other almost always excludes. Buying the wrong one, or buying one and assuming it does the work of both, is how a service firm ends up uninsured for the exact claim it was most likely to face.
+Service businesses can confuse Professional Indemnity and Public Liability, because both sound like "the policy that protects me when a client is unhappy". They are not interchangeable. They respond to structurally different events, they are triggered by different kinds of loss, and a claim that one covers, the other almost always excludes. Buying the wrong one, or buying one and assuming it does the work of both, is how a service firm ends up uninsured for the exact claim it was most likely to face.
 
 #### What Public Liability covers
 
@@ -53,7 +53,7 @@ In each case someone is physically hurt, or something is physically broken, and 
 A standard Singapore Professional Indemnity policy responds to the insured's legal liability for:
 
 - A third party's **financial loss** caused by an actual or alleged **negligent act, error, or omission** in the professional services the insured provided
-- **Legal defence costs** for those claims, which on professional negligence allegations are frequently the largest single component
+- **Legal defence costs** for those claims
 
 The defining feature here is the opposite: there is usually **no bodily injury and no property damage**. The client has lost *money* because the service was done badly. Triggering scenarios for a service business:
 
@@ -77,25 +77,25 @@ The cleanest way to tell the two apart is to ask what kind of harm the claim is 
 | **Classic claim** | Visitor slips and is injured | Advice or work product was wrong and cost the client money |
 | **Usually excluded** | Pure financial loss with no injury or damage | Bodily injury and property damage |
 
-This is why they are complementary rather than competing. A Public Liability policy generally **excludes** liability arising from the rendering of professional services or advice, and a Professional Indemnity policy generally **excludes** bodily injury and property damage. The exclusions are mirror images. Each cover is written to fill the gap the other deliberately leaves open.
+This is why they are complementary rather than competing. A Public Liability policy generally **excludes** liability arising from the rendering of professional services or advice, and a Professional Indemnity policy generally **excludes** bodily injury and property damage. The exclusions are mirror images, which can leave a gap between them: a claim that professional work caused an injury can fall outside both, as the next section shows.
 
 #### The grey zone: when one event could look like either
 
 Most claims fall cleanly on one side. A few sit on the boundary, and that is where wordings matter.
 
-Consider an interior designer who specifies a heavy fixture, and the fixture later falls and injures someone. There are two arguable characterisations. If the claim is that the *design was negligent*, it reads as a professional error, which is the Professional Indemnity lane. If the claim is simply that *something the business was responsible for physically injured a person*, it reads as a Public Liability event. A claimant's lawyers may plead it both ways. A firm that holds only one of the two covers can find the insurer it does have arguing the claim belongs in the policy it does not have. This is one of the strongest practical arguments for holding both rather than betting on the characterisation.
+Consider an interior designer who specifies a heavy fixture, and the fixture later falls and injures someone. There are two arguable characterisations. If the claim is that the *design was negligent*, it reads as a professional error, but a Professional Indemnity wording can exclude bodily injury however it is caused. If the claim is simply that *something the business was responsible for physically injured a person*, it reads as a Public Liability event. A claimant's lawyers may plead it both ways. A firm that holds only one of the two covers can find the insurer it does have arguing the claim belongs in the policy it does not have. Holding both does not by itself close the gap, because a Public Liability wording can also exclude claims arising out of advice or design provided for a fee.
 
 #### Is either one compulsory in Singapore?
 
-For most service businesses, neither Public Liability nor Professional Indemnity is required by general law. They are commercial risk decisions, frequently driven by what clients demand in contract rather than by statute.
+For most service businesses, neither Public Liability nor Professional Indemnity is required by general law. They are commercial risk decisions, which client contracts can also drive, rather than duties set by statute.
 
-There are exceptions, and they sit with **Professional Indemnity** for specific regulated professions. Holders of a [financial advisory services licence under the Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) are subject to a professional indemnity insurance requirement set under the Financial Advisers Regulations made under that Act. Singapore-qualified lawyers are required to maintain professional indemnity cover through the profession's compulsory scheme under the [Legal Profession Act 1966](https://sso.agc.gov.sg/Act/LPA1966) and its subsidiary rules. These are licence and practice conditions tied to the profession, not a general rule for service businesses at large. If you are in a regulated profession, check your own regulator's requirement directly rather than assume; for most unregulated service firms, the obligation comes from client contracts, not the law.
+There are exceptions, and they sit with **Professional Indemnity** for specific regulated professions. Holders of a [financial advisory services licence under the Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) are subject to a professional indemnity insurance requirement set under the Financial Advisers Regulations made under that Act. Advocates and solicitors who apply for or hold a practising certificate, and law corporations and limited liability law partnerships, must take out and maintain professional indemnity insurance under the [Legal Profession Act 1966](https://sso.agc.gov.sg/Act/LPA1966) and the Legal Profession (Professional Indemnity Insurance) Rules. These are licence and practice conditions tied to the profession, not a general rule for service businesses at large. If you are in a regulated profession, check your own regulator's requirement directly rather than assume; for most unregulated service firms, the obligation comes from client contracts, not the law.
 
-Public Liability, by contrast, is not generally compelled by statute for service businesses, but it is very commonly **required by contract**: commercial landlords routinely require tenants to hold it, and client and main-contractor agreements often require it at a stated limit before you can begin work. The requirement is real, it simply originates in the lease or the contract rather than in legislation.
+Public Liability, by contrast, is not generally compelled by statute for service businesses, but it can be **required by contract**: a lease can require it (JTC's standard terms for leased space require tenants to hold public liability cover of at least $1 million for each occurrence), and client and main-contractor agreements can require it at a stated limit before you begin work. The requirement is real, it simply originates in the lease or the contract rather than in legislation.
 
 #### Note on sourcing
 
-This article describes how two voluntary commercial covers operate, which is a matter of standard policy mechanics rather than statute, so the body cites fewer than five primary regulatory sources by design. The legal anchors that do exist are cited inline: the MAS professional indemnity requirement for financial advisers, the Financial Advisers Act, and the Legal Profession Act. The coverage descriptions reflect standard Singapore market wordings; the controlling document in any real claim is your own policy schedule, which is where the exact insuring clause, exclusions, and limits live.
+This article describes how two voluntary commercial covers operate, which is a matter of standard policy mechanics rather than statute, so the body cites fewer than five primary regulatory sources by design. The legal anchors that do exist are cited inline: the professional indemnity requirement in the Financial Advisers Regulations, the Financial Advisers Act, and the Legal Profession Act. The coverage descriptions reflect standard Singapore market wordings; the controlling document in any real claim is your own policy schedule, which is where the exact insuring clause, exclusions, and limits live.
 
 ### Common Mistakes
 
@@ -115,11 +115,11 @@ This article describes how two voluntary commercial covers operate, which is a m
 
 Work from the harm your business can actually cause, not from the policy name.
 
-**If you give professional advice or deliver expert work product** (consultants, architects, engineers, accountants, agencies, IT and design firms), your dominant exposure is a client's financial loss from a service done negligently. That is Professional Indemnity. For most advisory firms this is the more dangerous of the two exposures, because a single flawed engagement can drive a claim many times the fee earned.
+**If you give professional advice or deliver expert work product** (consultants, architects, engineers, accountants, agencies, IT and design firms), your dominant exposure is a client's financial loss from a service done negligently. That is Professional Indemnity.
 
-**If you receive clients or work on client premises** (almost every service business does at least one), you also carry a physical exposure: someone gets hurt, or something gets damaged, in connection with your operations. That is Public Liability, and it is also what your landlord's lease and your clients' contracts will most often demand in writing.
+**If you receive clients or work on client premises** (almost every service business does at least one), you also carry a physical exposure: someone gets hurt, or something gets damaged, in connection with your operations. That is Public Liability, and it is a cover a lease or a client contract can demand in writing.
 
-**For most service firms, both exposures exist at once**, which is why both covers are commonly held together. A design studio advises clients (Professional Indemnity) and hosts them in a space full of furniture and cabling (Public Liability). A management consultancy advises clients (Professional Indemnity) and sends staff into client offices (Public Liability). The two policies are not redundant; each closes a gap the other is written to leave open.
+**For most service firms, both exposures exist at once**, which is why both covers can be needed. A design studio advises clients (Professional Indemnity) and hosts them in a space full of furniture and cabling (Public Liability). A management consultancy advises clients (Professional Indemnity) and sends staff into client offices (Public Liability). The two policies are not redundant, though a claim that professional work caused an injury can still fall between them.
 
 The practical move is to map your real activities to the two harm types, confirm what your client contracts and lease already oblige you to hold, and then decide deliberately rather than defaulting to whichever policy you happened to be quoted first.
 

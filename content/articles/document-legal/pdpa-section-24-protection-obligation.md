@@ -22,7 +22,7 @@ og_description: "Most PDPC enforcement lands on one line of the PDPA, and sectio
 
 > **The Answer in 60 Seconds**
 >
-> [Section 24 of the Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) requires every organisation to "make reasonable security arrangements to prevent: (a) unauthorised access, collection, use, disclosure, copying, modification or disposal, or similar risks; and (b) the loss of any storage medium or device on which personal data is stored." This is the **Protection Obligation** - one of the nine PDPA obligations and the most-enforced. The [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) interprets "reasonable security arrangements" through its [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg/guidelines-and-consultation) and through enforcement decisions. Failure can result in financial penalty up to **10% of annual Singapore turnover** (organisations with turnover above S$10 million) or **S$1 million**, whichever higher (effective 1 October 2022). Most PDPC enforcement actions historically have been Section 24 (Protection Obligation) breaches rather than Section 26D (breach notification) failures.
+> [Section 24 of the Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) requires every organisation to "make reasonable security arrangements to prevent: (a) unauthorised access, collection, use, disclosure, copying, modification or disposal, or similar risks; and (b) the loss of any storage medium or device on which personal data is stored." This is the **Protection Obligation**, one of the ten main PDPA obligations the PDPC lists, and the one most PDPC decisions concern. The [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) interprets "reasonable security arrangements" through its [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-key-concepts-in-the-personal-data-protection-act) and through enforcement decisions. Failure can result in financial penalty up to **10% of annual Singapore turnover** (organisations with turnover above S$10 million) or **S$1 million**, whichever higher (effective 1 October 2022). Most PDPC enforcement actions historically have been Section 24 (Protection Obligation) breaches rather than Section 26D (breach notification) failures.
 
 ### The Sourced Detail
 
@@ -42,14 +42,14 @@ The obligation applies to:
 
 #### The "reasonable security arrangements" test
 
-PDPC's [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg/guidelines-and-consultation) interpret "reasonable security arrangements" as a context-dependent standard considering:
+PDPC's [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg/organisations/regulations-decisions/regulatory-guidance/advisory-guidelines-on-key-concepts-in-the-personal-data-protection-act) interpret "reasonable security arrangements" as a context-dependent standard considering:
 
 - **Nature of the personal data** - sensitive personal data (NRIC, financial, health) requires stronger protection than less sensitive data
 - **Form of the personal data** - physical (paper records) vs electronic (databases, files); digital handling vs physical storage
 - **Possible impact** of unauthorised access or disclosure on individuals
-- **Likely security risks** based on threat landscape and organisation profile
-- **Cost and feasibility** of security measures
-- **Industry practice** for similar organisations
+- **Size of the organisation** and the amount and type of personal data it holds
+- **Who within the organisation has access** to the personal data
+- **Whether a third party holds or uses the data** on the organisation's behalf
 
 The test is **not** absolute security - that's impossible. It's reasonable security proportionate to risk and feasibility.
 
@@ -128,7 +128,7 @@ PDPC emphasises that security arrangements should be appropriate to the specific
 - **Health data** triggers higher expectations than basic contact data
 - **Financial data** triggers high expectations
 - **Children's data** triggers high expectations
-- **Sensitive personal data** (race, religion, political opinion, health, sexual orientation) triggers heightened expectations
+- **NRIC and passport numbers**, which PDPC decisions treat as sensitive personal data alongside financial and medical information, trigger heightened expectations
 
 The risk-proportionate standard means SMEs cannot defend by pointing to limited resources alone - but reasonable proportionality is recognised.
 
@@ -149,7 +149,7 @@ Cyber Liability insurance responds to:
 
 **3. Third-party claims by affected individuals:**
 - Civil claims by individuals affected by Section 24 breaches
-- [Section 32 of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012) provides private right of action - see below
+- [Section 48O of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr48O-) (formerly section 32) provides a private right of action; see below
 
 **4. Breach response costs:**
 - Forensic investigation
@@ -166,11 +166,11 @@ Cyber Liability insurance responds to:
 
 Per [Section 48O of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012):
 
-> "Any person who suffers loss or damage directly as a result of a contravention by an organisation of any provision in Part 4, 5, 6, 6A, 6B or 7 has a right of action for relief in civil proceedings in a court."
+> "A person who suffers loss or damage directly as a result of a contravention ... by an organisation of any provision of Part 4, 5, 6, 6A or 6B ... has a right of action for relief in civil proceedings in a court."
 
 This means individuals affected by Section 24 breaches can sue the organisation directly for damages. The provision was originally Section 32 of the PDPA and was renumbered to Section 48O when the [Personal Data Protection (Amendment) Act 2020](https://sso.agc.gov.sg/Acts-Supp/40-2020) restructured the enforcement framework. The Court of Appeal's 2022 decision in *Reed v Bellingham* clarified that emotional distress can constitute "loss or damage" for purposes of the private right of action.
 
-For SMEs, the Section 32 exposure is increasing - class-action-style mechanisms are evolving and individual claims are more accessible. Cyber Liability with **third-party privacy liability** cover responds to this exposure.
+For SMEs, section 48O is a civil exposure separate from PDPC enforcement. Cyber Liability with **third-party privacy liability** cover responds to this exposure.
 
 #### Operational risk management
 
@@ -211,23 +211,22 @@ Singapore SMEs implementing Section 24 compliance typically:
 - Records of incidents (notifiable and non-notifiable)
 - Records of vendor agreements
 
-Insurers underwriting Cyber Liability examine these elements; SMEs with stronger documentation receive better terms.
-
 #### How Section 24 interacts with other PDPA obligations
 
-The nine PDPA obligations work together:
+The ten main PDPA obligations the PDPC lists work together:
 
-- **Consent** (Section 13-15) - basis for collection
+- **Consent** (Sections 13 to 17): basis for collection
 - **Purpose Limitation** (Section 18) - only for stated purpose
 - **Notification** (Section 20) - informing individuals of collection
-- **Access and Correction** (Section 21-22) - individual rights
+- **Access and Correction** (Sections 21, 22 and 22A): individual rights
 - **Accuracy** (Section 23) - keeping data accurate
 - **Protection** (Section 24) - the security obligation **(this article)**
 - **Retention Limitation** (Section 25) - not keeping longer than necessary
 - **Transfer Limitation** (Section 26) - limits on cross-border transfer
-- **Accountability** (Section 11-12) - DPO, internal compliance
+- **Accountability** (Sections 11 and 12): DPO, internal compliance
+- **Data Breach Notification** (Sections 26A to 26E): assessing whether a data breach is notifiable and notifying the PDPC and, where required, affected individuals
 
-A Section 24 breach often co-exists with breaches of other obligations (excess retention, unauthorised disclosure, lack of accountability framework). PDPC enforcement typically addresses multiple obligations simultaneously.
+A Section 24 breach sometimes co-exists with breaches of other obligations (excess retention, unauthorised disclosure, lack of accountability framework), and some PDPC decisions address more than one obligation.
 
 #### Comparison with other jurisdictions
 
@@ -260,7 +259,7 @@ A Section 24 breach often co-exists with breaches of other obligations (excess r
 
 **Scenario D: Singapore healthcare provider with patient records**
 - Section 24 applies with highest expectations
-- Health data is significant-harm category
+- A breach involving specified health data (such as a diagnosis of HIV, a sexually transmitted disease or schizophrenia) together with the patient's full name, alias or identification number is deemed to cause significant harm
 - Specialised security framework
 - Cyber Liability with healthcare-aware panel
 
@@ -274,7 +273,7 @@ A Section 24 breach often co-exists with breaches of other obligations (excess r
 6. **Disposal failures.** Old records, decommissioned devices, departing staff - all create breach risk.
 7. **No breach response plan.** Section 26D 3-day clock requires preparation.
 8. **No tabletop exercise.** First-time response is first-time-mistakes-prone.
-9. **Phishing without MFA.** Most SME breaches start with credential compromise.
+9. **Phishing without MFA.**
 
 ### What This Means for Your Business
 
@@ -301,7 +300,7 @@ The cost of Section 24 compliance is meaningful - DPO time or external services,
 ### Questions to Ask Your Adviser
 
 1. For my Cyber Liability, does the policy specifically cover Section 24 PDPC penalties (subject to insurability)?
-2. How does the policy respond to Section 32 third-party claims by affected individuals?
+2. How does the policy respond to Section 48O third-party claims by affected individuals?
 3. What technical controls does the insurer expect (MFA, encryption, backup, etc.) for my premium tier?
 4. Does my policy provide pre-incident services (vulnerability scanning, training, tabletop) that support Section 24 compliance?
 5. As personal data volumes grow, what insurance limit increases should I plan for?

@@ -31,7 +31,7 @@ For Singapore SMEs operating in or serving Critical Information Infrastructure s
 
 Per the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), a computer system is CII where three things hold:
 
-1. **It supports an essential service.** The Act's essential-service sectors are banking and finance, energy (electricity, oil, gas), water, healthcare, information and communications, aviation, land transport, maritime, government, media, and security and emergency services.
+1. **It supports an essential service.** The Act's essential-service sectors are banking and finance, energy (electricity, and natural gas for electricity generation), water, healthcare, information and communications, aviation, land transport, maritime, government, media, and security and emergency services.
 2. **It is necessary for the continuous delivery of that service** - its loss or compromise would have a debilitating effect on the service.
 3. **CSA has designated it.** Designation is made by the [Commissioner of Cybersecurity](https://www.csa.gov.sg/), by written notice to the CII owner, defining the scope of the designation.
 
@@ -48,7 +48,7 @@ Per the Act, a designated CII owner must:
 
 #### The 2-hour reporting requirement
 
-The 2-hour clock applies to **specified cybersecurity incidents** - broadly, successful cyber attacks on CII and incidents affecting essential-service delivery, with the precise scope set by CSA guidance.
+The 2-hour clock applies to **prescribed cybersecurity incidents**, which the Cybersecurity (Provider-Owned Critical Information Infrastructure) Regulations 2018 define: unauthorised hacking to gain access to or control of a system, installing or running malicious software or code, man-in-the-middle attacks, session hijacking or other unauthorised interception, and denial-of-service attacks or other unauthorised acts that affect a system's availability, on the CII or on a system interconnected with it, including a supplier's. It also applies to any other type of incident on the CII that the Commissioner specifies by written direction to the owner. An incident on another system the owner controls needs the 2-hour report only if it disrupts or degrades the essential service; otherwise it goes into a consolidated quarterly report, with a 2-hour report as well if, for example, its effects are observable by the public or it involves a zero-day vulnerability or an advanced persistent threat.
 
 The clock runs **from detection** - when the CII owner becomes aware of the incident - not from when the incident first occurred. In practice this requires a 24/7 detection capability, an incident-response process, and someone with the authority to make the reporting decision quickly. Failure to report carries fines and regulatory consequences.
 
@@ -59,10 +59,10 @@ The [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Acts-Supp/19-202
 It introduces **three new categories** of regulated systems and entities:
 
 1. **Systems of Temporary Cybersecurity Concern (STCC)** - systems carrying a temporarily heightened cybersecurity risk, such as those supporting a major event or a time-limited national need. In force since 31 October 2025.
-2. **Foundational Digital Infrastructure (FDI)** - designated providers of major foundational digital services, principally cloud-computing and data-centre services, with obligations proportionate to scale and economy-wide dependency. Commences at a later date.
+2. **Foundational Digital Infrastructure (FDI)**: providers of cloud computing or data centre facility services (the two services the Amendment Act lists) that the Commissioner designates because the loss or impairment of the service is likely to disrupt a large number of businesses or organisations. Commences at a later date.
 3. **Entities of Special Cybersecurity Interest (ESCI)** - entities whose disruption, or whose disclosure of sensitive information, would significantly harm Singapore's defence, foreign relations, economy, or public health, safety, or order. Commences at a later date.
 
-The Amendment also **enhances the Commissioner's powers** of investigation, designation, and enforcement, and tightens reporting - including where an incident cascades through a CII's supply chain. For Singapore SMEs serving CII owners, it significantly tightened the expectations that flow down through customer contracts.
+The Amendment also **widens the Commissioner's designation powers** (to CII located wholly outside Singapore, and to essential-service providers responsible for CII that a third party owns), adds a power to authorise an inspection and to direct compliance with prescribed cybersecurity standards, and widens reporting: since 31 October 2025 a CII owner must also report prescribed incidents on a supplier's system that is interconnected with or communicates with the CII. Its civil penalties, of up to 10% of annual turnover in Singapore or S$500,000, whichever is greater, for breaches of the main CII duties, were enacted but had not been brought into force as at September 2026. For Singapore SMEs serving CII owners, it significantly tightened the expectations that flow down through customer contracts.
 
 #### Cybersecurity standards expectations
 
@@ -75,16 +75,16 @@ CSA Codes of Practice typically address:
 - **Network security** - network architecture, and perimeter and internal controls.
 - **System security** - configuration and patch management.
 - **Application security** - a secure software-development lifecycle, with testing and validation.
-- **Data protection** - encryption and data classification.
+- **Data protection**: database security, strong encryption and cryptographic key management.
 - **Incident detection and response** - monitoring and detection, response procedures, and exercises.
 - **Business continuity** - BC / DR planning and testing.
 - **Supply chain** - vendor management and the contractual provisions that flow obligations down.
 
 #### Insurance considerations for CII owners
 
-CII designation significantly elevates Cyber Liability requirements. A CII owner's Cyber programme should provide:
+The Cybersecurity Code of Practice for CII (2026) requires a CII owner's board to be informed of the owner's cyber risk transfer arrangements, including cyber insurance coverage, and to oversee them at least once every 12 months; it does not set a level of cover. A CII owner's Cyber programme should provide:
 
-- **Substantial limits** - S$10M-S$100M+, sized to operational scale and exposure.
+- **Substantial limits**: sized to operational scale and exposure.
 - **First-party and third-party coverage** - forensic, breach-response, and notification costs; regulatory and customer liability; cyber crime and extortion.
 - **Regulatory defence** - the costs of CSA engagement and investigation.
 - **PDPA Section 26D notification cover** - for the data-breach notification obligation.
@@ -92,13 +92,13 @@ CII designation significantly elevates Cyber Liability requirements. A CII owner
 - **Business interruption / contingent BI** - for operational disruption, with attention to dependencies and waiting periods.
 - **Restoration costs** - hardware and software replacement and data recovery.
 
-For CII-designated SMEs, the programme typically needs a tower structure (a primary layer plus excess layers).
+Larger limits can be arranged as a tower (a primary layer plus excess layers).
 
 #### Insurance for SMEs serving CII owners
 
-For an SME serving a CII owner as a vendor or sub-contractor, the customer contract typically requires:
+For an SME that performs or assists with functions for a CII as a vendor or sub-contractor, the Cybersecurity Code of Practice for CII (2026) requires the CII owner's agreement with it to set out the vendor's access to the CII, its obligations to protect the CII and report cybersecurity incidents, and the owner's right to audit the vendor's cybersecurity for that work or to receive the vendor's own audit report. The customer contract may also require:
 
-- **Cyber Liability** - often S$5M-S$50M+, with defined provisions and incident-response obligations.
+- **Cyber Liability**: at the limit the contract sets, with defined provisions and incident-response obligations.
 - **PI / Tech E&O** - limits sized to the engagement value and service obligations.
 - **Compliance demonstrations** - [ISO/IEC 27001](https://www.iso.org/standard/27001) certification, [AICPA SOC 2](https://www.aicpa-cima.com/) Type II reports, and cyber-maturity assessments.
 - **Contractual provisions** - cascading audit rights, regulator-access provisions, incident-reporting obligations, and cyber-operational standards, in the same pattern as the MAS Outsourcing cascade (see [what a vendor to a bank now signs](/document-legal/mas-guidelines-on-outsourcing)).
@@ -107,7 +107,7 @@ The exact requirements vary by sector - financial-services CII differs from heal
 
 #### FDI and STCC implications
 
-An SME that may fall within **FDI scope** once those provisions commence - principally cloud-services providers and data-centre operators - should expect designation-defined operational standards, cybersecurity practices, and incident reporting proportionate to its scale and the economy's dependence on it.
+Once those provisions commence, a provider of cloud computing or data centre facility services falls within **FDI scope** only if the Commissioner designates it, on the ground that the loss or impairment of its service is likely to disrupt a large number of businesses or organisations. A designated provider would have to furnish information when required, comply with the applicable codes of practice and the Commissioner's directions, and report prescribed cybersecurity incidents that disrupt or degrade its service in Singapore or significantly affect its business operations in Singapore.
 
 For **STCC scenarios**, an operator brought within scope for a temporary event or situation faces time-limited obligations, operational adjustments, and reporting for the duration of the designation.
 
@@ -119,7 +119,7 @@ Insurers underwrite CII-related cyber risk on:
 - **Incident response** - a tested 24/7 capability with defined recovery objectives.
 - **Governance** - board-level cybersecurity oversight, senior-management involvement, and clear accountability.
 - **Documentation** - cyber-programme documentation, incident records, and compliance evidence.
-- **Certifications** - ISO/IEC 27001 is increasingly expected, with SOC 2 Type II for service providers.
+- **Certifications**: for example ISO/IEC 27001 certification, or a SOC 2 Type II report for service providers.
 
 #### Stage-by-stage SME cybersecurity build
 

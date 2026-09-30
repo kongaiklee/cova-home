@@ -19,11 +19,11 @@ og_title: "Customer Data Subject Access Request: Singapore PDPA Section 21 Respo
 og_description: "A data subject access request under PDPA section 21 starts a clock. What you must provide, what you may withhold, and on what grounds."
 ---
 
-> **60-second answer.** A data subject access request (DSAR) under Personal Data Protection Act (PDPA) 2012 Section 21 is a request from an individual to access personal data the organisation holds about them, plus information about how that data has been used or disclosed in the year before the request. Organisations must respond as soon as reasonably possible - generally interpreted by PDPC as within 30 calendar days - or notify the requester if more time is needed. Access may be withheld only on limited grounds: Section 21(2) excepts the matters listed in the Fifth Schedule (such as legal privilege and evaluative opinion data), and Section 21(3) prohibits disclosure that would, for example, threaten another person's safety or reveal a third party's personal data; a refusal must be communicated with reasons. Fees for compliance are permitted under Section 28 but must be reasonable. Errors in DSAR handling can lead to PDPC complaints, financial penalties under the [post-1 October 2022 framework](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act), and reputational consequences.
+> **60-second answer.** A data subject access request (DSAR) under Personal Data Protection Act (PDPA) 2012 Section 21 is a request from an individual to access personal data the organisation holds about them, plus information about how that data has been used or disclosed in the year before the request. Organisations must respond as soon as reasonably possible, and if they cannot respond within 30 days of receiving the request, they must tell the requester in writing, within those 30 days, when they will respond (Personal Data Protection Regulations 2021, regulation 5). Access may be withheld only on limited grounds: Section 21(2) excepts the matters listed in the Fifth Schedule (such as legal privilege and evaluative opinion data), and Section 21(3) prohibits disclosure that would, for example, threaten another person's safety or reveal a third party's personal data; the requester must be notified of a refusal (section 21(6)), and PDPC's guidelines say the reasons should be given. A reasonable fee may be charged under regulation 7 of the Personal Data Protection Regulations 2021, after the requester is given a written estimate, and PDPC can review the fee under section 48H. Errors in DSAR handling can lead to PDPC complaints, financial penalties under the [post-1 October 2022 framework](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act), and reputational consequences.
 
 ---
 
-A customer data subject access request can arrive in any form: a formal letter, an email to a generic inbox, a chat message to customer service, a tweet directed at the company. The form is not what defines it; the substance is. If an individual is asking what personal data the organisation holds about them or how it has been used, the PDPA Section 21 framework applies.
+A customer data subject access request can arrive in any form: a formal letter, an email to a generic inbox, a chat message to customer service, a tweet directed at the company. The channel is not what defines it; the substance is, provided the request meets regulation 3 of the Personal Data Protection Regulations 2021: it must be in writing, give enough detail for the organisation to identify the requester and the data asked for, and be sent to the organisation (for example to its data protection officer's business contact) or in another manner the organisation accepts. If an individual is asking what personal data the organisation holds about them or how it has been used, the PDPA Section 21 framework applies.
 
 The framework is not optional. Organisations that handle DSARs carelessly - losing the request in customer-service workflows, responding partially without analysis, or refusing without proper grounds - face PDPC complaints, enforcement action, and reputational consequences. Organisations that handle DSARs deliberately treat them as the regulatory matter they are.
 
@@ -33,9 +33,9 @@ This article walks through the framework. It is not legal advice. For complex re
 
 #### What is a DSAR
 
-[PDPA 2012 Section 21](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=P14-) establishes the right of access:
+[PDPA 2012 Section 21](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr21-) establishes the right of access:
 
-**Section 21(1) provides:** Subject to subsections (2), (3) and (4), an organisation shall, upon request of an individual, provide that individual with  - 
+**Section 21(1) provides:** Subject to subsections (2), (3) and (4), on request of an individual, an organisation must, as soon as reasonably possible, provide the individual with  - 
 
 (a) personal data about the individual that is in the possession or under the control of the organisation; and
 
@@ -59,14 +59,14 @@ The "or under the control of" language extends scope to data held by service pro
 
 Before responding, the organisation must verify the requester is who they claim to be. Disclosure to an impostor is a separate breach.
 
-**Reasonable verification.** Per [PDPC Advisory Guidelines on Key Concepts](https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/advisory-guidelines/advisory-guidelines-on-key-concepts-in-the-pdpa.pdf), verification should be proportionate to the sensitivity of the data. Standard approaches include:
+**Reasonable verification.** Per [PDPC Advisory Guidelines on Key Concepts](https://www.pdpc.gov.sg/assets/34058be5-ae13-4c40-89e6-1c945d19f65c), organisations should exercise due diligence and adopt appropriate measures to verify an individual's identity before responding; PDPC does not prescribe the method and encourages organisations to keep documentary evidence of it. Common approaches include:
 
 - Government-issued ID verification (NRIC for Singapore residents, passport for others)
 - Account credentials verification for digital service customers
 - Multi-factor verification for sensitive data (financial, health)
 - Dual-channel verification (e.g. callback to registered phone number)
 
-**Proportionality.** Excessive verification demands can constitute unreasonable refusal. Demanding notarised documents or in-person appearance for a routine request raises PDPC complaint risk. The verification should match the sensitivity of the data being disclosed.
+**Proportionality.** An individual can ask PDPC to review a refusal to provide access, or a failure to provide it within a reasonable time (section 48H). The verification should match the sensitivity of the data being disclosed.
 
 **Authorised representatives.** A requester may act through a representative (e.g. a lawyer, family member, advocacy organisation). Verification of representative authority is required.
 
@@ -74,15 +74,13 @@ Before responding, the organisation must verify the requester is who they claim 
 
 #### The 30-day clock
 
-Section 21 requires response "as soon as reasonably possible." PDPC interprets this in practice as within 30 calendar days, with extension permitted on notification.
+Section 21 requires response "as soon as reasonably possible." Regulation 5 of the Personal Data Protection Regulations 2021 adds a checkpoint: if the organisation cannot respond within 30 days after receiving the request, it must, within that time, tell the requester in writing when it will respond. PDPC's guidelines say the 30 days are generally calendar days.
 
 **Day 1 = receipt.** The clock starts on receipt, not on the date the request reaches the appropriate department. Organisations need internal routing protocols to ensure DSARs received at any inbox or channel reach the data protection officer (DPO) within 24-48 hours.
 
-**Day 30 = response deadline.** Response by Day 30 with the requested information, OR notification that more time is needed with explanation, OR notification of refusal with grounds.
+**Day 30 = checkpoint.** By Day 30 the organisation must either have responded, or have told the requester in writing the time by which it will respond. A refusal is a response too, and the requester must be notified of it (section 21(6)).
 
-**Extension notification.** Where 30 days is insufficient (e.g. complex request, large data volume, multiple systems to query), notification to the requester with anticipated response date is required. Typical extensions are 30-60 additional days; extensions beyond this require strong justification.
-
-**Iterative response.** Where a complete response within 30 days is impractical, partial response with explanation of follow-up is acceptable. Holding the entire response for completion is generally a worse approach.
+**Extension notification.** Where 30 days is insufficient (e.g. complex request, large data volume, multiple systems to query), notification to the requester with anticipated response date is required. The organisation must still respond as soon as reasonably possible.
 
 ---
 
@@ -96,7 +94,7 @@ The 30-day clock requires the organisation to search systematically for personal
 
 **Service provider engagement.** Vendors holding personal data on the organisation's behalf must be engaged. Cloud service providers, marketing automation platforms, payment processors, customer service platforms, and others are within scope. Service agreements should provide for cooperation with DSAR responses.
 
-**Backup considerations.** Backup systems are technically within scope but PDPC Advisory Guidelines acknowledge proportionality - searching backups for routine DSARs is generally not required. Where backups are the only source of certain data, the position is more complex.
+**Backup considerations.** Backup systems are technically within scope. PDPC's Advisory Guidelines do not single out backups; the Fifth Schedule lets an organisation decline a request where the burden or expense of providing access would be unreasonable to it or disproportionate to the individual's interests. Where backups are the only source of certain data, the position is more complex.
 
 **Recordings and footage.** Voice recordings, video footage, and similar media are within scope where they capture the individual. Retrieval often requires technical capability that customer-service teams do not have; pre-arranged technical workflows are needed.
 
@@ -114,7 +112,7 @@ Section 21(2) and 21(3) qualify the right of access in two different ways:
 
 Where only part of the data is caught by an exception or prohibition, the organisation must still provide the rest.
 
-**Fees (Section 28).** Separately, an organisation may charge the individual a reasonable fee for the services of responding to an access request. PDPC has issued guidance on reasonable fees. Charging fees that are obviously punitive (designed to deter requests) is itself problematic. Where fees are charged, transparency about the fee basis is expected.
+**Fees (regulation 7 of the Personal Data Protection Regulations 2021).** Separately, an organisation may charge the individual a reasonable fee for the services of responding to an access request. PDPC has issued guidance on reasonable fees. Charging fees that are obviously punitive (designed to deter requests) is itself problematic. Where fees are charged, transparency about the fee basis is expected.
 
 ---
 
@@ -124,9 +122,9 @@ The matters that justify withholding access fall into two groups - the Fifth Sch
 
 **Legal privilege (Fifth Schedule).** Information subject to solicitor-client privilege is within the Fifth Schedule exceptions. Litigation privilege also applies in defined circumstances.
 
-**Prejudice to investigations (Fifth Schedule).** Where disclosure could reasonably be expected to prejudice an investigation or associated proceedings.
+**Investigations and prosecutions (Fifth Schedule).** Personal data collected, used or disclosed without consent for the purposes of an investigation, while the investigation and associated proceedings and appeals have not been completed; and a document related to a prosecution, while the proceedings related to the prosecution have not been completed.
 
-**Evaluative and confidential commercial information (Fifth Schedule).** Opinion data kept solely for an evaluative purpose - about employment, contractual, or similar matters - and information that would reveal confidential commercial information that could harm the organisation's competitive position are Fifth Schedule matters, narrowly construed.
+**Evaluative and confidential commercial information (Fifth Schedule).** Opinion data kept solely for an evaluative purpose - about employment, contractual, or similar matters - and information that would reveal confidential commercial information that could harm the organisation's competitive position are Fifth Schedule matters.
 
 **Threat to safety or health (Section 21(3)).** An organisation shall not provide access where it could reasonably be expected to threaten the safety or physical or mental health of another individual, or cause immediate or grave harm to the requester.
 
@@ -134,9 +132,9 @@ The matters that justify withholding access fall into two groups - the Fifth Sch
 
 **National interest (Section 21(3)).** Disclosure that would be contrary to the national interest is prohibited.
 
-Separately, Section 21(4) provides that an organisation must not, without the consent of the relevant agency, inform an individual that it has disclosed personal data to a prescribed law enforcement agency or under a prescribed law.
+Separately, Section 21(4) provides that an organisation must not tell an individual, in answer to a request about use and disclosure, that it has disclosed the individual's personal data to a prescribed law enforcement agency, if that disclosure was made under the PDPA or any other written law without the individual's consent.
 
-The exceptions and prohibitions are construed narrowly. A refusal must be supported by a specific exception or prohibition applied to specific data, with reasoning communicated to the requester. Blanket refusals or unsupported refusals are PDPC complaint magnets. [PDPC enforcement decisions](https://www.pdpc.gov.sg/All-Commissions-Decisions) provide guidance on how the exceptions have been evaluated in practice.
+A refusal must be supported by a specific exception or prohibition applied to specific data, with reasoning communicated to the requester. Blanket refusals or unsupported refusals are PDPC complaint magnets. [PDPC enforcement decisions](https://www.pdpc.gov.sg/All-Commissions-Decisions) provide guidance on how the exceptions have been evaluated in practice.
 
 ---
 
@@ -149,13 +147,13 @@ A frequent complication is data that includes personal data of third parties. Ex
 - An email from a third party about the customer - the third party's personal data may be redacted.
 - A meeting note involving multiple parties - personal data of others may be redacted.
 
-The general approach is to provide the customer's personal data while redacting personal data of third parties where their identification would breach their privacy interests. The redaction is documented; the rationale is recorded. Disputed cases sometimes require legal advice.
+The general approach is to provide the customer's personal data while masking the personal data of other individuals, as section 21(3)(c) requires. That prohibition does not apply to user activity data about, or user-provided data from, the requester (section 21(3A)), and PDPC's guidelines say it also does not apply where the other individual's data may be disclosed without consent (for example, because it is publicly available), where another law permits or requires the disclosure, or where that individual consents. The redaction is documented; the rationale is recorded. Disputed cases sometimes require legal advice.
 
 ---
 
 #### When DSARs link to litigation or disputes
 
-A material proportion of DSARs are filed in connection with disputes - disgruntled customers preparing complaints, employees preparing employment claims, parties preparing civil litigation. The framework is the same, but the stakes are higher.
+Some DSARs are filed in connection with disputes - disgruntled customers preparing complaints, employees preparing employment claims, parties preparing civil litigation. The framework is the same, but the stakes are higher.
 
 **Litigation privilege protection.** Where litigation is reasonably contemplated, communications prepared for the dominant purpose of litigation can be subject to litigation privilege. Privilege analysis requires legal counsel; routing through DPO alone is insufficient.
 

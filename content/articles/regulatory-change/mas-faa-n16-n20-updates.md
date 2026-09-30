@@ -21,7 +21,7 @@ og_description: "FAA-N20 ties an adviser's pay to the quality of advice, not sal
 
 > **The Answer in 60 Seconds**
 >
-> The [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) periodically updates the Notices issued under the [Financial Advisers Act 2001 (FAA)](https://sso.agc.gov.sg/Act/FAA2001) governing financial advisory and insurance distribution conduct. Two notices particularly relevant for SMEs procuring insurance: **[FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16)** on **recommendations on investment products** (the obligations on licensed FAs to conduct fact-find and ensure recommendations are suitable for client circumstances) and **[FAA-N20](https://www.mas.gov.sg/regulation/notices/notice-faa-n20)** on the **Balanced Scorecard remuneration framework** for FA representatives and the Independent Sales Audit Unit. Recent updates have refined: specific fact-find documentation expectations, specific commission disclosure requirements, operational considerations, and specific consumer protection provisions. For Singapore SMEs evaluating insurance procurement: understanding the framework explains the depth of fact-find expected, the documentation obligations imposed on advisers, and the regulatory protections that apply to SME consumers.
+> The [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) periodically updates the Notices issued under the [Financial Advisers Act 2001 (FAA)](https://sso.agc.gov.sg/Act/FAA2001) governing financial advisory and insurance distribution conduct. The FAA regulates advice on investment products, which include life policies but not general insurance such as fire, liability or work injury cover. Two notices cover advice on a life policy or another investment product: **[FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16)** on **recommendations on investment products** (the obligations on licensed FAs to conduct fact-find and ensure recommendations are suitable for client circumstances) and **[FAA-N20](https://www.mas.gov.sg/regulation/notices/notice-faa-n20)** on the **Balanced Scorecard remuneration framework** for FA representatives and the Independent Sales Audit Unit. The latest amendments to both notices took effect on 29 December 2025. Among them, FAA-N16 now requires an adviser, with narrow exceptions, to review the advice documents before a recommended transaction takes effect, and for some clients to make a call-back as well. Commission disclosure is not in either notice: it sits in FAA-N03, last amended in 2018. For Singapore SMEs evaluating insurance procurement: understanding the framework explains the depth of fact-find expected, the documentation obligations imposed on advisers, and the regulatory protections that apply to SME consumers.
 
 ### The Sourced Detail
 
@@ -29,14 +29,13 @@ The MAS Notices framework under the FAA defines operational and conduct standard
 
 #### The MAS Notices framework
 
-Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001):
+MAS issues these Notices under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and publishes them on its website.
 
 **Specific MAS Notices issued under FAA:**
 
-- FAA-N01: Operational scope
 - FAA-N02: Introducer arrangements (see [what MAS Notice FAA-N02 requires of introducers](/regulatory-change/mas-faa-n02-introducer-licence-requirements))
-- FAA-N03: Operational scope
-- FAA-N04: Operational scope
+- FAA-N03: Information to clients and product information disclosure, including the commission an adviser receives
+- FAA-N26: Competency requirements for representatives of financial advisers, in force from 1 April 2024
 - Specific other notices per FAA framework
 - FAA-N16: Recommendations on investment products
 - FAA-N20: Balanced Scorecard remuneration framework and Independent Sales Audit Unit
@@ -96,39 +95,18 @@ Per [MAS Notice FAA-N20](https://www.mas.gov.sg/regulation/notices/notice-faa-n2
 
 **Specific implications for advisory relationships:**
 
-- A representative advising an SME is not rewarded purely for closing a sale
+- FAA-N20 does not apply to every client. Under [regulation 34A of the Financial Advisers Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2?ProvIds=pr34A-), it does not apply to advice given to a client that is not an individual, such as a company, or to recommendations on group life policies
 - Operational operational scope
 
-#### Specific recent update observations
+#### The latest update: 29 December 2025
 
-**Specific framework refinement:**
+Amendments to both notices took effect on 29 December 2025. Changes for a client under [FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) include:
 
-Recent MAS Notice updates have refined:
-
-**1. Fact-find documentation expectations:**
-
-- Specific contemporaneous documentation
-- Operational specific recommendation rationale
-- Operational operational scope
-- Operational operational standards
-
-**2. Commission disclosure:**
-
-- Specific commission disclosure requirements
-- Operational operational scope
-- Operational operational standards
-
-**3. Operational considerations:**
-
-- Specific advisory standards
-- Operational operational scope
-- Operational operational sophistication
-
-**4. Specific consumer protection:**
-
-- Specific consumer protection provisions
-- Operational operational scope
-- Operational specific dispute resolution
+- Before a recommended transaction takes effect, the adviser must, with narrow exceptions, review the advice documents to check that the non-sales standards were met.
+- For a selected client, or a client of a selected representative, the adviser must also make a call-back, unless a supervisor was present for the whole sales and advisory process.
+- A client is a selected client when at least two of these apply: aged 62 or over, not proficient in the language the sales process is run in, and without at least GCE 'O' or 'N' Level or equivalent qualifications. The adviser may treat the client otherwise only if it has reason to conclude the client has adequate knowledge and experience in the products recommended.
+- A selected representative is one graded B or worse under the balanced scorecard for the two quarters before.
+- Commission disclosure did not change. It sits in FAA-N03, last amended in 2018.
 
 #### Specific SME implications
 
@@ -136,7 +114,7 @@ Recent MAS Notice updates have refined:
 
 **Foundation expectations:**
 
-When working with licensed FAs / brokers, SMEs should expect:
+When an SME takes advice on a life policy or another investment product from a licensed or exempt financial adviser, it should expect the following. None of it is required by FAA-N16 of a broker placing general insurance such as fire, liability or work injury cover:
 
 **1. Comprehensive fact-find:**
 
@@ -215,7 +193,7 @@ When working with licensed FAs / brokers, SMEs should expect:
 **Specific transition framework:**
 
 - Introducer provides factual information and gateway
-- Licensed FA / broker conducts full FAA-N16 / FAA-N20 advisory framework
+- The licensed or exempt financial adviser gives any advice, and FAA-N16 governs its recommendation on an investment product. FAA-N20's balanced scorecard does not apply where the client is not an individual, such as a company
 - Specific commercial transparency
 - Operational operational scope
 
@@ -278,7 +256,7 @@ Advisory industry continues evolution. Operational considerations.
 
 For Singapore SMEs evaluating insurance advisory:
 
-1. **Expect comprehensive fact-find from licensed FA / broker.** Foundation regulatory expectation.
+1. **For a life policy or another investment product, expect a fact-find.** FAA-N16 requires the adviser to take reasonable steps to collect and document the client's financial objectives, risk tolerance and financial situation before recommending. It does not apply to general insurance.
 
 2. **Specific suitability assessment matters.** Recommendation rationale documented.
 

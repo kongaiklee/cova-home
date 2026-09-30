@@ -14,13 +14,13 @@ word_count: 945
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/mas-register-verify-insurance-broker"
-meta_description: "The MAS Register of Representatives names every licensed adviser, broker and tied agent in Singapore. How to look one up before you sign anything."
+meta_description: "MAS lists regulated firms in its Financial Institutions Directory and the people who advise on life policies and investments in a register. How to check both."
 og_title: "MAS Register of Representatives: How to Verify Your Insurance Broker (Singapore)"
-og_description: "The MAS Register of Representatives names every licensed adviser, broker and tied agent in Singapore. How to look one up before you sign anything."
+og_description: "MAS lists regulated firms in its Financial Institutions Directory and the people who advise on life policies and investments in a register. How to check both."
 ---
 
 > **The Answer in 60 Seconds**
-> Per the [MAS Directories page](https://www.mas.gov.sg/directories), every licensed financial adviser, insurance broker, and tied agent in Singapore must appear on either the [Financial Institutions Directory](https://eservices.mas.gov.sg/fid) (for firms) or the [Register of Representatives](https://eservices.mas.gov.sg/rr) (for individuals). If your broker is not listed, they are not authorised to advise you.
+> Two MAS lists matter here. The [Financial Institutions Directory](https://eservices.mas.gov.sg/fid) lists the firms MAS regulates, including financial advisers and insurance brokers, and the activities each may carry on. The [Financial Institution Representatives Register](https://eservices.mas.gov.sg/rr) lists the individuals appointed to carry on regulated activities under the Securities and Futures Act or to give financial advisory services under the Financial Advisers Act, such as advice on life policies and other investment products. A firm missing from the directory is not on MAS's list of the institutions it regulates. Staff who only arrange general insurance, such as fire, liability or work injury cover, are not on the representatives register, and agents of general insurers are checked on the [General Insurance Association's agent register](https://gia.org.sg/agents.html) instead.
 
 ### The Sourced Detail
 
@@ -36,15 +36,14 @@ Per the [MAS Directories page](https://www.mas.gov.sg/directories):
 #### Step-by-step: how to verify a financial adviser firm
 
 1. Go to [eservices.mas.gov.sg/fid](https://eservices.mas.gov.sg/fid)
-2. Enter the firm name (or UEN)
+2. Enter the firm name
 3. Confirm the firm appears in results
 4. Click into the firm and verify:
-   - **Licence Type/Status** - e.g., "Licensed Financial Adviser", "Exempt Financial Adviser", "Insurance Broker", "Capital Markets Services Licensee"
-   - **Sector** - Banking / Insurance / Capital Markets
-   - **Authorised regulated activities** - e.g., advising on investment products, dealing in capital markets products
+   - **Licence Type/Status**: e.g., "Licensed Financial Adviser", "Exempt Financial Adviser", "Registered Insurance Broker", "Capital Markets Services Licensee"
+  - **Authorised regulated activities** - e.g., advising on investment products, dealing in capital markets products
 5. Cross-check that the activity matches what they're proposing to do for you
 
-A firm may hold multiple licences, so a single name can return multiple entries.
+A firm may hold more than one licence. The directory shows all of a firm's licences on its one entry, and its result count counts licences, so the count can be higher than the number of firms listed.
 
 #### Step-by-step: how to verify an individual representative
 
@@ -52,32 +51,32 @@ A firm may hold multiple licences, so a single name can return multiple entries.
 2. Enter the individual's full name
 3. Confirm:
    - **Principal firm** - the licensed FI that has appointed them
-   - **Type of regulated activity** - e.g., "providing financial advisory service"
-   - **CMFAS examination compliance** - the representative should hold the relevant Rules, Ethics & Skills (RES) and product modules
-   - **Status** - Active / Resigned / Suspended
+   - **Regulated activities**: the types of service the representative is appointed to provide, such as advising on life policies or arranging life policies. Check that they include the service being provided to you
+   - **CMFAS exams**: the register does not show them. Under [MAS Notice FAA-N26](https://www.mas.gov.sg/regulation/notices/notice-faa-n26) the firm keeps its own record of each representative's exam passes (RES5 plus the product modules for the advice given), so ask the firm
+   - **Status**: whether each activity is current or suspended. Activities that ended in the past three years are shown as past activities, with their start and end dates
 
-Per [MAS competency-requirements guidance](https://mco.mycomplianceoffice.com/blog/mas-revises-faa-and-sfa-competency-requirements), competency requirements for individual representatives are governed by Notice FAA-N26 (Financial Advisers Act) and SFA 04-N22 (Securities and Futures Act), effective 1 April 2024. The CMFAS modules now include Rules, Ethics & Skills (RES) content tailored to the regulated activities the representative conducts.
+Per MAS, competency requirements for representatives are set by [Notice FAA-N26](https://www.mas.gov.sg/regulation/notices/notice-faa-n26) (Financial Advisers Act) and [Notice SFA 04-N22](https://www.mas.gov.sg/regulation/notices/notice-sfa-04-n22) (Securities and Futures Act), both in force from 1 April 2024. The CMFAS modules now include Rules, Ethics & Skills (RES) content tailored to the regulated activities the representative conducts.
 
 #### Step-by-step: what fields signal a problem
 
 - **Not in the FID at all** - strong signal. Cross-check the [Investor Alert List](https://www.mas.gov.sg/directories). If they appear there, they are unregulated.
 - **In the FID but the regulated activity does not match** - for example, a CMS licensee not authorised to advise on life insurance.
-- **Resigned status on the Representatives Register** - they cannot advise you under that firm any longer.
+- **The activity appears only among past activities on the register**: that appointment has ended, so they can no longer carry on that activity for that firm.
 - **Recent enforcement action listed against the firm** - review carefully.
 
-Per [ScamShield](https://www.scamshield.gov.sg/verify-with-official-sources/): "For investment-related situations, check that the entity is regulated by the Monetary Authority of Singapore (MAS) as dealing with an unregulated entity means giving up the safeguards offered under the laws administered by MAS."
+Per [MoneySense](https://www.moneysense.gov.sg/how-to-spot-an-investment-scam/): "Remember, dealing with an unregulated entity means giving up the safeguards offered under the laws administered by MAS."
 
 #### Why this matters for SMEs buying business insurance
 
 Three real risks if you skip the check:
 
 1. **Fraud risk.** Unlicensed individuals posing as brokers can collect "premiums" and disappear. There is no Policy Owners' Protection Scheme recourse if there was no licensed insurer in the chain.
-2. **Unauthorised advice risk.** Even well-meaning unlicensed parties cannot legally advise.
+2. **Unauthorised intermediary risk.** A firm that arranges general insurance for you as your agent, such as fire, liability or work injury cover, must be registered or exempt as an insurance broker under [section 75 of the Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966?ProvIds=pr75-). Advising on or arranging a life policy, or advising on another investment product, as a business needs a financial adviser's licence or an exemption under [section 6 of the Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001?ProvIds=pr6-).
 3. **Indirect liability risk.** If you end up with a non-WICA-compliant policy because an unlicensed party set you up, you remain liable to your employees under WICA - the [MOM-designated insurer regime](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) is binary.
 
 #### What about FIDReC?
 
-The Financial Industry Disputes Resolution Centre (FIDReC) handles disputes between consumers and financial institutions in Singapore. Per [MOM's WICA explanation note](https://www.libertyinsurance.com.sg/sites/libertysg/files/documents/Work_Injury_Compensation/pw_WICA.pdf): MOM-designated insurers are required to comply with MOM's guidelines for the processing of claims under WICA 2019; if an issue remains unresolved, you may contact MOM or FIDReC for assistance.
+The Financial Industry Disputes Resolution Centre (FIDReC) handles disputes between consumers and financial institutions in Singapore. MOM's [Conditions for Work Injury Compensation Designated Insurers](https://www.mom.gov.sg/-/media/mom/documents/safety-health/conditions-for-designated-insurer.pdf) require every MOM-designated insurer to process WICA claims to the timelines and standards in MOM's manual for designated insurers. If a dispute with the insurer remains unresolved, you may contact MOM, or [FIDReC](https://www.fidrec.com.sg/knowledgebase/article/KA-01131), which takes complaints from individuals, sole proprietors, small businesses and charities.
 
 FIDReC's jurisdiction is limited to MAS-regulated financial institutions. If you bought from an unregulated party, FIDReC cannot help - another reason verification matters.
 

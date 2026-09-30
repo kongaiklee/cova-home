@@ -234,7 +234,7 @@ The cost of properly structured Platform Workers Act compliance is typically sub
 5. For incident response, are iReport and insurer notification protocols established with designated personnel?
 
 ### Related Information
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 - [Platform and Gig Workers After the Platform Workers Act: The Work-Injury Insurance Duty for Singapore Businesses](/emerging-risk/platform-gig-workers-wica-singapore)
 - [Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know](/regulatory-change/platform-workers-act-first-year-review)
 

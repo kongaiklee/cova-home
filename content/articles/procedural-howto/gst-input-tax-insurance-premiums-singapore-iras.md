@@ -21,7 +21,7 @@ og_description: "Which insurance premiums carry claimable GST input tax and whic
 
 > **The Answer in 60 Seconds**
 >
-> Your GST-registered SME is paying GST on commercial insurance premiums and needs to determine which premiums attract claimable input tax and which fall under the [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/) Reg 26/27 disallowance. Critical framework: (1) [GST Act](https://sso.agc.gov.sg/Act/GSTA1993) Section 19 and [GST (General) Regulations](https://sso.agc.gov.sg/SL/GSTA1993-RG1) Regs 25-27 establish input tax claim conditions; (2) Reg 26 specifically blocks input tax on medical and accident insurance premiums providing personal/family benefits; (3) Reg 27 blocks input tax on motor car expenses including motor insurance for non-commercial vehicles. **Key carve-outs that allow claim:** (a) WICA premium fully claimable (statutory obligation under [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019)); (b) collective agreement medical / hospitalisation premiums claimable where mandatory under [Industrial Relations Act 1960](https://sso.agc.gov.sg/Act/IRA1960) collective agreement; (c) note that the post-1 October 2021 IRAS expansion - which allows input tax on staff medical *treatment expenses* connected to work-environment health risks - applies to medical expenses, **not** to medical or accident insurance premiums, so premium claimability still turns only on the WICA and collective-agreement carve-outs; (d) D&O, PI, Cyber, Professional Indemnity, Public Liability, CAR, Property, Marine Cargo all fully claimable. GST rate: 9% (since 1 January 2024, raised from 8% effective from that date); 8% transitional rate for premiums billed before 1 January 2024. Where input tax disallowed, claim premium as deductible Income Tax expense.
+> Your GST-registered SME is paying GST on commercial insurance premiums and needs to determine which premiums attract claimable input tax and which fall under the [Inland Revenue Authority of Singapore (IRAS)](https://www.iras.gov.sg/) Reg 26/27 disallowance. Critical framework: (1) [GST Act](https://sso.agc.gov.sg/Act/GSTA1993) Section 19 and [GST (General) Regulations](https://sso.agc.gov.sg/SL/GSTA1993-RG1) Regs 25-27 establish input tax claim conditions; (2) Reg 26 specifically blocks input tax on medical and accident insurance premiums providing personal/family benefits; (3) Reg 27 blocks input tax on motor car expenses including motor insurance for non-commercial vehicles. **Key carve-outs that allow claim:** (a) WICA premium fully claimable (statutory obligation under [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019)); (b) collective agreement medical / hospitalisation premiums claimable where mandatory under [Industrial Relations Act 1960](https://sso.agc.gov.sg/Act/IRA1960) collective agreement; (c) note that the post-1 October 2021 IRAS expansion - which allows input tax on staff medical *treatment expenses* required under a written law of Singapore (or, for COVID-19, a government advisory) because of the nature of the work or the work environment - applies to medical expenses, **not** to medical or accident insurance premiums, so premium claimability still turns only on the WICA and collective-agreement carve-outs; (d) D&O, PI, Cyber, Professional Indemnity, Public Liability, CAR, Property all claimable under the normal conditions; Marine Cargo cover for goods in international transport is zero-rated, so no GST is charged on it to claim. GST rate: 9% (since 1 January 2024, raised from 8% effective from that date); premiums invoiced in 2023 carried 8%, the rate then in force, subject to IRAS's transitional rules for supplies spanning 1 January 2024. Where input tax is disallowed, the GST is part of the premium cost, which is deductible for Income Tax only where the normal deduction rules allow it; private car expenses are not deductible.
 
 ### The Sourced Detail
 
@@ -37,17 +37,17 @@ GST input tax claim on insurance premiums is one of the most misunderstood compl
 - Reg 27 - block on motor car expenses
 
 **IRAS guidance.**
-- [IRAS e-Tax Guide GST: Guide for the Insurance Industry (Fifth Edition)](https://www.iras.gov.sg/) - primary guidance
+- [IRAS e-Tax Guide GST: Guide for the Insurance Industry (Tenth Edition, 30 January 2026)](https://www.iras.gov.sg/media/docs/default-source/e-tax/etaxguide_gst_guide-for-the-insurance-industry-(fifth-edition)c87f527e-f5a9-4215-9c3b-088e68261654.pdf), the primary guidance
 - [IRAS Conditions for Claiming Input Tax](https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/claiming-gst-(input-tax)/conditions-for-claiming-input-tax)
-- [IRAS GST: Fringe Benefits e-Tax Guide (Fifth Edition)](https://www.iras.gov.sg/media/docs/default-source/e-tax/gst-fringe-benefits-(fifth-edition).pdf)
-- [IRAS TaxBytes: Are you aware that input tax incurred on certain expenses is not claimable](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/are-you-aware-that-input-tax-incurred-on-certain-expenses-is-not-claimable)
-- [IRAS GST Guide on Insurance: Cash Payments and Input Tax on Motor Car Expenses (Fourth Edition)](https://www.iras.gov.sg/)
+- [IRAS GST: Fringe Benefits e-Tax Guide (Fourteenth Edition, 30 January 2026)](https://www.iras.gov.sg/media/docs/default-source/e-tax/gst-fringe-benefits-(fifth-edition).pdf)
 
-**GST rate.** 9% effective 1 January 2024 (raised from 8% effective from that date). 8% transitional rate applies for premiums billed before 1 January 2024.
+- [IRAS GST Guide on Insurance: Cash Payments and Input Tax on Motor Car Expenses (Eighth Edition, 30 January 2026)](https://www.iras.gov.sg/media/docs/default-source/e-tax/e-tax-guide-for-cash-payment-and-input-tax-on-motor-car-expenses-(fourth-edition).pdf)
 
-#### Conditions for claiming input tax (Section 19 / Reg 25)
+**GST rate.** 9% effective 1 January 2024 (raised from 8% effective from that date). A premium invoiced in 2023 was charged at 8%, the rate then in force, unless it was neither fully paid nor fully performed by 31 December 2023; then IRAS's transitional rules applied 9% to the lower of the part paid, or the part performed, on or after 1 January 2024.
 
-For input tax to be claimable, all four conditions must be satisfied:
+#### Conditions for claiming input tax (GST Act sections 19 and 20)
+
+IRAS lists eight conditions that must all be met; four of them are:
 
 1. **GST-registered.** SME is GST-registered (annual taxable turnover > SGD 1m or voluntary registration)
 2. **Tax invoice held.** Specific tax invoice from supplier (insurer, broker)
@@ -59,11 +59,11 @@ For input tax to be claimable, all four conditions must be satisfied:
 **Reg 26 specifically blocks input tax on:**
 - Medical insurance premiums providing personal/family benefits to staff
 - Accident insurance premiums providing personal/family benefits to staff
-- Specific benefits in kind to staff
+- Benefits provided to the family members or relatives of staff (family benefits)
 
-**Critical carve-outs (post-1 October 2021 expansion).**
+**Critical carve-outs.**
 
-Per [IRAS GST: Fringe Benefits e-Tax Guide (Fifth Edition)](https://www.iras.gov.sg/media/docs/default-source/e-tax/gst-fringe-benefits-(fifth-edition).pdf), input tax on medical insurance is claimable where:
+Per [IRAS GST: Fringe Benefits e-Tax Guide (Fourteenth Edition, 30 January 2026)](https://www.iras.gov.sg/media/docs/default-source/e-tax/gst-fringe-benefits-(fifth-edition).pdf), input tax on medical insurance is claimable where:
 
 **(a) Statutory obligation - WICA.**
 - Specific Work Injury Compensation Act 2019 statutory cover
@@ -77,7 +77,7 @@ Per [IRAS GST: Fringe Benefits e-Tax Guide (Fifth Edition)](https://www.iras.gov
 - Fully claimable
 
 **(c) The post-1 October 2021 expansion applies to medical *expenses*, not insurance premiums.**
-- From 1 October 2021 IRAS allowed input tax on staff medical *treatment expenses* connected to a health risk or requirement arising from the nature of the work, or the work environment
+- From 1 October 2021 IRAS allowed input tax on staff medical *treatment expenses* where the treatment is required because of a health risk or requirement arising from the nature of the work or the work environment, and is given under a written law of Singapore (or, for COVID-19, a government advisory)
 - That expansion covers medical treatment expenses - it did **not** extend input tax claimability to medical or accident insurance *premiums*
 - Input tax on staff medical and accident insurance premiums therefore remains blocked under Reg 26 unless the WICA or collective-agreement carve-out above applies
 
@@ -85,7 +85,7 @@ Per [IRAS GST: Fringe Benefits e-Tax Guide (Fifth Edition)](https://www.iras.gov
 - Group Hospitalisation & Surgical (GHS) for staff: **typically blocked** under Reg 26
 - WICA premium: **fully claimable**
 - FWMI premium: **typically blocked** under Reg 26 - it is a medical insurance premium, and the post-1 October 2021 expansion (medical expenses) does not change this
-- Group Term Life: **typically claimable** (life, not medical, distinct from Reg 26)
+- Group Term Life: **no GST to claim** on the life cover, because life insurance is exempt from GST; a medical or accident rider on a group life policy carries GST, and that part is blocked under Reg 26 unless the WICA or collective-agreement carve-out applies
 - Group Personal Accident: **typically blocked** under Reg 26 - an accident insurance premium, claimable only under the WICA or collective-agreement carve-out
 
 #### Reg 27 block - motor car expenses
@@ -99,7 +99,7 @@ Per [IRAS GST: Fringe Benefits e-Tax Guide (Fifth Edition)](https://www.iras.gov
 Reg 27 block does NOT apply to:
 - Commercial vehicles (lorries, vans, specific commercial use)
 - Specific exempt vehicles
-- Specific vehicles used wholly for business
+- Chauffeured private hire cars used in a chauffeur-service business (Reg 27(3) and (6)); a motor car used wholly for any other business is still blocked
 
 For SMEs:
 - Commercial fleet motor: **fully claimable** (not blocked)
@@ -118,9 +118,7 @@ For SMEs:
 - Property / Industrial All Risks (IAR)
 - Business Interruption
 - Contractors All Risks (CAR) / Erection All Risks (EAR)
-- Marine Cargo
-- Marine Hull (commercial vessels)
-- Trade Credit
+- Marine Cargo, Marine Hull (commercial vessels) and Trade Credit, where GST is charged; cover for goods or commercial vessels in international transport, and export credit insurance, is zero-rated under GST Act s21(3), so no GST is charged on it to claim
 - Commercial Crime / Fidelity
 - Performance Bonds
 - Equipment Breakdown
@@ -169,7 +167,7 @@ For each claimable premium:
 **Step 4 - Input tax claim.**
 
 In GST F5 return:
-- Specific Box 5 (input tax) reporting
+- Input tax reported in Box 7 (input tax and refunds claimed), with the premium value in Box 5 (total value of taxable purchases)
 - Specific reconciliation with tax invoices
 - Specific apportionment if mixed personal/business use
 
@@ -177,7 +175,7 @@ In GST F5 return:
 
 For Reg 26/27 blocked premiums:
 - **Cannot claim GST input tax**
-- **Can claim premium (gross of GST) as deductible Income Tax expense**
+- **The premium, including the GST, is deductible for Income Tax only where the normal deduction rules allow it**: private car (S-plated) expenses are not deductible even if the car is used for business, and staff medical expenses are deductible only up to 1% of total employee remuneration (2% with portable medical benefits)
 - Specific deduction in tax computation
 - Specific accounting treatment
 
@@ -188,7 +186,7 @@ For Reg 26/27 blocked premiums:
 - Specific transition rules per IRAS
 
 **Premium billing dates:**
-- Premium billed before 1 January 2024: 8% rate (transitional)
+- Premium invoiced in 2023: 8%, the rate then in force, unless it was neither fully paid nor fully performed by 31 December 2023 (then 9% applied to part of it under IRAS's transitional rules)
 - Premium billed on/after 1 January 2024: 9% rate
 - Specific straddling consideration for multi-year policies
 
@@ -199,9 +197,9 @@ For Reg 26/27 blocked premiums:
 
 #### Specific industry guidance
 
-**Insurance Industry e-Tax Guide (Fifth Edition).**
+**Insurance Industry e-Tax Guide (Tenth Edition).**
 
-Per [IRAS GST: Guide for the Insurance Industry](https://www.iras.gov.sg/) (Fifth Edition):
+Per [IRAS GST: Guide for the Insurance Industry](https://www.iras.gov.sg/media/docs/default-source/e-tax/etaxguide_gst_guide-for-the-insurance-industry-(fifth-edition)c87f527e-f5a9-4215-9c3b-088e68261654.pdf) (Tenth Edition):
 - Specific insurance industry input tax framework
 - Specific apportionment rules for life vs general insurance
 - Specific exempt supplies (life insurance)
@@ -272,7 +270,7 @@ For Singapore GST-registered SMEs:
 
 10. **Specific monitoring** - specific changes in IRAS guidance and statutory framework.
 
-The cost of GST input tax mistakes is meaningful - typical SME unrecovered GST on group health & safety can be 0.5-1.5% of total annual benefits spend. The cost of specific compliance discipline is minimal - typical IRAS-reviewable framework requires modest documentation and assessment effort.
+The cost of specific compliance discipline is minimal - typical IRAS-reviewable framework requires modest documentation and assessment effort.
 
 ### Questions to Ask Your Adviser
 

@@ -21,7 +21,7 @@ og_description: "Cancellation cover pays your own loss when the event cannot go 
 
 > **The Answer in 60 Seconds**
 >
-> Event cancellation insurance is not the same thing as event public liability, and Singapore SMEs lose money by assuming one covers the other. Public liability responds when an attendee is injured or third-party property is damaged. Event cancellation insurance responds to **your own financial loss** when the event itself cannot go ahead as planned: cancelled, abandoned partway through, postponed, or relocated, for reasons beyond your control. Think venue fire or structural damage, extreme weather closing an outdoor site, a critical supplier collapsing days before, or a headline speaker or performer failing to appear.
+> Event cancellation insurance is not the same thing as event public liability, and Singapore SMEs lose money by assuming one covers the other. Public liability responds when an attendee is injured or third-party property is damaged. Event cancellation insurance responds to **your own financial loss** when the event itself cannot go ahead as planned: cancelled, abandoned partway through, postponed, or relocated, for reasons beyond your control. Think venue fire or structural damage, extreme weather closing an outdoor site, a power failure at the venue, or a headline speaker or performer failing to appear.
 >
 > What it pays is, broadly, the money you cannot get back: deposits, venue and supplier fees, marketing and production spend already committed, and, where you insure it, the profit or revenue you would have earned. What it does **not** pay is where most disputes start. After COVID-19, **communicable disease** is now widely excluded unless specifically bought back, and **lack of funds**, poor ticket sales, and ordinary commercial failure are never covered. To arrange it: size the cover off your non-recoverable costs plus expected revenue, brief a licensed adviser early, place it before any insured peril could occur, and read the insured-perils list and the exclusions before the event, not after. Covarage does not recommend insurers or arrange policies; where you ask, it introduces you to a licensed adviser, who gives the advice and places the cover.
 
@@ -41,7 +41,7 @@ A cancellation policy is built around a core promise and then extended. At its c
 
 - **Damage to the venue** that makes it unusable, such as fire, flood, or structural failure.
 - **Adverse weather**, where specifically insured, that prevents an outdoor or partly outdoor event from proceeding, or makes the site inaccessible.
-- **Failure of an essential supplier or service**, such as a power outage or the collapse of a critical contractor, where insured.
+- **Failure of an essential supplier or service**, such as a power outage, where insured.
 - **Non-appearance of a key person**, such as a headline speaker, artist, or performer, through accident, illness, or travel failure, where that exposure is specifically added.
 - **Denial of access** to the venue by an authority for reasons unconnected with the organiser's own fault.
 
@@ -53,13 +53,13 @@ A connected feature worth asking about is **postponement and re-staging cost**. 
 
 Cancellation cover is where the gap between expectation and wording is widest, so read the exclusions as carefully as the insured perils.
 
-**Communicable disease.** Before 2020, some policies could be extended to respond to an outbreak forcing cancellation. After COVID-19, communicable and infectious disease is now **widely and specifically excluded** across the market, and where any cover exists it is narrow, sub-limited, and separately negotiated. An SME that assumes a pandemic, an epidemic, or a localised outbreak will be covered by a standard cancellation policy is very likely wrong. If this exposure matters to you, raise it explicitly with your adviser and confirm in writing what, if anything, the policy does.
+**Communicable disease.** Before 2020, some policies could be extended to respond to an outbreak forcing cancellation. After COVID-19, many cancellation policies now contain a **communicable disease exclusion**, and some insurers offer a buy-back of that exclusion for an additional premium. An SME that assumes a pandemic, an epidemic, or a localised outbreak will be covered by a standard cancellation policy is very likely wrong. If this exposure matters to you, raise it explicitly with your adviser and confirm in writing what, if anything, the policy does.
 
 **Lack of funds and commercial failure.** No cancellation policy insures you against your own event not being commercially viable. Poor ticket sales, a sponsor pulling out, running out of money, or simply deciding the event is not worth holding are **not** insured causes. Cancellation cover responds to fortuitous external events, not to a disappointing business outcome.
 
 **Things within your control or known in advance.** A peril that has already occurred or is already foreseeable when you arrange the cover is not insurable. You cannot buy weather cover once the storm is forecast, or non-appearance cover once the speaker has pulled out. This is why timing the placement matters so much.
 
-**Other common exclusions** to check the wording for include government action or regulation in some forms, threat or fear of an event rather than the event itself, gradual causes, and anything arising from the organiser's own breach of contract or failure to take reasonable care. None of these are exotic. They are standard, and they are exactly the points an organiser should confirm before relying on the policy.
+**Other common exclusions** to check the wording for include financial failure and insolvency, disinclination to travel to or attend the event, threat or fear of an event rather than the event itself, terrorism and war, and circumstances that already existed or were threatened when the cover was bought. None of these are exotic. They are standard, and they are exactly the points an organiser should confirm before relying on the policy.
 
 #### How to size the cover
 
@@ -76,7 +76,7 @@ The sum insured should reflect the **maximum exposure at the worst moment**, whi
 1. **Decide what you are protecting** - sunk costs only, or costs plus revenue - and on what basis.
 2. **Build the two-column figure** above and set a provisional sum insured against your peak exposure.
 3. **Brief a licensed adviser early.** Give the event type (conference, exhibition, gala, launch, concert, wedding), the date and the full event period, the venue and whether it is indoor or outdoor, the key suppliers and any single points of failure, and any key speaker or performer whose non-appearance would sink the event.
-4. **Place the cover before any insured peril could arise.** Cancellation cover bought too late, once weather is forecast or a supplier is already wobbling, will not respond to a loss that was already in train.
+4. **Place the cover before any insured peril could arise.** Cancellation cover bought too late, once weather is forecast or a key speaker has already pulled out, will not respond to a loss that was already in train.
 5. **Read the insured perils and the exclusions** against your actual event. Confirm in particular the position on communicable disease, weather, and key-person non-appearance, and whether postponement costs are funded.
 6. **Keep the evidence.** Cancellation claims turn on proof of committed spend and expected revenue, so keep contracts, invoices, deposit receipts, and sales records organised from the start.
 

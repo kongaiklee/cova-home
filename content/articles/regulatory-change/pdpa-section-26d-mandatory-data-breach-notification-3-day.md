@@ -21,7 +21,7 @@ og_description: "PDPA section 26D gives you three calendar days to notify PDPC o
 
 > **The Answer in 60 Seconds**
 >
-> Every Singapore organisation collecting, using, or disclosing personal data is subject to mandatory data breach notification under [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) section 26D, in force from 1 February 2021. A data breach is "notifiable" under section 26B if it: (1) results in or is likely to result in significant harm to an affected individual; OR (2) is or is likely to be of a significant scale (500 or more individuals). On making the assessment that a notifiable data breach has occurred, the organisation must notify the [PDPC](https://www.pdpc.gov.sg) as soon as practicable but in any case no later than 3 calendar days. Affected individuals must be notified as soon as practicable where significant harm is likely, subject to limited exceptions. The enhanced financial penalty regime under section 48J (in force from 1 October 2022) caps fines at S$1 million or 10% of annual Singapore turnover, whichever is higher, for organisations with annual Singapore turnover exceeding S$10 million. The PDPC has imposed six-figure penalties under section 48J including the SingHealth / IHIS decision (S$1 million combined) and subsequent post-2022 turnover-linked penalties. For Singapore SMEs, the interaction with cyber insurance is critical: cyber policies typically respond to incident-response cost, notification cost, regulatory defence, and third-party liability; financial penalties imposed by the PDPC are generally not insurable to the extent treated as punitive under Singapore public-policy doctrine. The policy's notification window to the insurer (typically 60 days) runs independently of the PDPA 3-day clock.
+> Every Singapore organisation collecting, using, or disclosing personal data is subject to mandatory data breach notification under [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) section 26D, in force from 1 February 2021. A data breach is "notifiable" under section 26B if it: (1) results in or is likely to result in significant harm to an affected individual; OR (2) is or is likely to be of a significant scale (500 or more individuals). On making the assessment that a notifiable data breach has occurred, the organisation must notify the [PDPC](https://www.pdpc.gov.sg) as soon as practicable but in any case no later than 3 calendar days. Affected individuals must be notified as soon as practicable where significant harm is likely, subject to limited exceptions. The enhanced financial penalty regime under section 48J (in force from 1 October 2022) caps fines at S$1 million or 10% of annual Singapore turnover, whichever is higher, for organisations with annual Singapore turnover exceeding S$10 million. Before section 48J took effect, the PDPC fined IHiS S$750,000 and SingHealth S$250,000 in January 2019 over the cyber attack on SingHealth's patient database system. For Singapore SMEs, the interaction with cyber insurance is critical: cyber policies typically respond to incident-response cost, notification cost, regulatory defence, and third-party liability; cyber wordings that include regulatory fines cover a PDPC financial penalty only to the extent it is insurable by law, and the wording itself does not settle whether a given penalty meets that test. The policy's own notice condition to the insurer (in the published AIG and Chubb Singapore wordings, written notice as soon as practicable) runs separately from the PDPA 3-day clock.
 
 ### The Sourced Detail
 
@@ -35,25 +35,25 @@ Section 26C of the PDPA requires the organisation to assess any suspected data b
 
 A data breach is notifiable under section 26B if:
 
-It results in, or is likely to result in, significant harm to an affected individual. The Schedule to the Personal Data Protection (Notification of Data Breaches) Regulations 2021 enumerates the significant-harm categories: NRIC; financial-account credentials; medical and health information; life, accident, and health insurance information; child-protection information; and others. Where any of these categories is involved, the significant-harm test is likely met.
+It results in, or is likely to result in, significant harm to an affected individual. Under regulation 3 and the Schedule to the Personal Data Protection (Notification of Data Breaches) Regulations 2021, a breach is deemed to cause significant harm if it involves an individual's full name, alias or identification number (such as an NRIC number) together with any of the listed data, which include pay and income; credit, charge or debit card numbers; bank account numbers; child-protection and vulnerable-adult information; life, accident and health insurance details; specified medical conditions such as HIV and other sexually transmitted diseases; and others. An account identifier together with the password or other access code for that account is also deemed to cause significant harm. An NRIC number on its own is not on the list.
 
 OR
 
-It is, or is likely to be, of a significant scale. Regulation 3 of the Notification of Data Breaches Regulations 2021 sets the significant-scale threshold at 500 or more individuals.
+It is, or is likely to be, of a significant scale. Regulation 4 of the Notification of Data Breaches Regulations 2021 sets the significant-scale threshold at 500 or more individuals.
 
 A breach meeting either test must be notified. A breach meeting neither test (e.g., 12 corporate email addresses without significant-harm data) is not notifiable under section 26B but the organisation must still maintain records of the assessment.
 
 #### The 3-day clock
 
-Section 26D(1) requires notification to the PDPC "as soon as practicable, but in any case no later than 3 calendar days" after the day the organisation makes the assessment that a notifiable data breach has occurred.
+Section 26D(1) requires notification to the PDPC "as soon as is practicable, but in any case no later than 3 calendar days" after the day the organisation makes the assessment that a notifiable data breach has occurred.
 
 The clock starts on the assessment day, not on the breach day. This is a critical distinction: a ransomware attack discovered on Monday may take until Wednesday to confirm the scope of personal data exfiltrated. The assessment is complete on Wednesday. The 3-day clock starts Wednesday. Notification is due by Saturday 23:59.
 
 Section 26D(2) requires the organisation to notify each affected individual "as soon as practicable" if the breach is likely to result in significant harm.
 
-Section 26D(5) provides exceptions to individual notification: where the organisation has taken remedial action that renders significant harm to the individual unlikely; and other prescribed exceptions.
+Section 26D(5) provides two exceptions to individual notification: where the organisation, on or after the assessment, takes action that makes significant harm to the individual unlikely; or where, before the breach, it had put in place a technological measure that makes significant harm to the individual unlikely. Under section 26D(7), the PDPC may also waive individual notification on the organisation's written application.
 
-Section 26D(6) permits the PDPC or a prescribed law enforcement agency (typically the Singapore Police Force or CSA) to direct the organisation not to notify affected individuals (typically where notification would prejudice an ongoing investigation).
+Section 26D(6) provides that the organisation must not notify affected individuals if a prescribed law enforcement agency so instructs or the PDPC so directs. The PDPC's Advisory Guidelines say the law enforcement instruction caters for a breach under ongoing or potential investigation, where notifying individuals would compromise the investigation. The prescribed law enforcement agencies include the Singapore Police Force, the Central Narcotics Bureau, the Internal Security Department and the Corrupt Practices Investigation Bureau.
 
 #### The data intermediary obligation
 
@@ -87,15 +87,15 @@ Singapore market cyber insurance policies (issued by AIG Singapore, Chubb Singap
 
 **Notification cost cover** - the cost of preparing and sending breach notifications to affected individuals (letters, emails, dedicated call centres). At the 500-individual significant-scale threshold, notification costs can be material.
 
-**Regulatory defence cover** - legal costs for PDPC investigation and any prosecution. Most Singapore cyber wordings include a sub-limit for regulatory defence; this should be tested at placement.
+**Regulatory defence cover** - legal costs for PDPC investigation and any prosecution. Some Singapore cyber wordings put regulatory defence costs inside the privacy liability limit and set separate sub-limits only for items such as regulatory fines; the policy schedule shows which applies.
 
-**PDPC financial penalty cover** - generally not insurable to the extent the penalty is treated as punitive under Singapore public-policy doctrine. The general legal principle is that fines and penalties imposed by a regulator for punitive purposes are not insurable. Some wordings include the cover "to the extent insurable by law in Singapore", which is a careful drafting position that protects the insurer if a court later determines the penalty is uninsurable. SMEs reading "fines and penalties cover" in a policy summary must specifically test this against the wording.
+**PDPC financial penalty cover** - covered only where the wording includes regulatory fines, and then only to the extent the penalty is insurable by law. Published Singapore wordings use qualifiers such as "lawfully insurable" and "where legally insurable", and whether a given PDPC financial penalty is insurable is a question of law the wording does not settle. SMEs reading "fines and penalties cover" in a policy summary must specifically test this against the wording.
 
 **Third-party liability cover** - claims by data subjects under section 48O PDPA, claims by business counterparties for downstream losses, claims by payment-card brands for PCI-DSS-related issues.
 
 **Business interruption cover** - loss of gross profit and increased cost of working following a cyber-triggered operational shutdown (see [how BI waiting periods are measured](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
 
-The cyber policy's notification window to the insurer is typically 60 days from awareness, with a "discovery" or "claim first made" trigger architecture. This runs in parallel with, not in place of, the PDPA 3-day clock. The wording should permit the SME to make regulatory notifications without prejudicing cover.
+Cyber cover sections are triggered by events such as an incident discovered, or a claim first made, during the policy period. The published AIG and Chubb Singapore cyber wordings require written notice to the insurer as soon as practicable; the 60 days in their notice conditions is an outer limit that runs from the end of the policy period, not from awareness. This runs in parallel with, not in place of, the PDPA 3-day clock. The wording should permit the SME to make regulatory notifications without prejudicing cover.
 
 #### Claim-time worked example
 
@@ -104,19 +104,19 @@ A 45-person Singapore marketing agency ("Marketer A") suffers a ransomware attac
 Section 26B assessment timeline:
 - Day 1 (Monday): incident detected; IT response begins.
 - Day 2 (Tuesday): scope of data exfiltration confirmed.
-- Day 3 (Wednesday): formal assessment completed at 11:00 - the breach is notifiable on both significant-harm grounds (partial NRIC) and significant-scale grounds (2,800 individuals exceeds 500).
+- Day 3 (Wednesday): formal assessment completed at 11:00. The breach is notifiable on significant-scale grounds (2,800 individuals is more than 500). It is not deemed to cause significant harm, because none of the data (names, partial NRIC numbers, email addresses, phone numbers and marketing preferences) is in Part 1 of the Schedule to the Regulations, so the assessment must separately decide whether significant harm is still likely.
 
 Section 26D(1) clock starts Wednesday. Notification to PDPC is due by Saturday 23:59 (3 calendar days from assessment).
 
-Section 26D(2) requires individual notification "as soon as practicable" because significant harm is likely.
+If the assessment finds significant harm is likely, section 26D(2) also requires notifying each affected individual, on or after notifying the PDPC. If the breach is notifiable only on scale, the PDPA does not require individual notification.
 
 Cyber insurance triggers:
 - Day 1 (Monday): cyber policy discovery trigger fires. Incident-response retainer engaged via the policy's 24/7 hotline.
 - Day 1 onwards: forensic, breach coach, regulatory defence cover attaches.
 - Day 3 (Wednesday) onwards: notification cost cover funds the customer notification logistics.
-- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period - typically 8 to 12 hours for cyber BI; see [the day-based and dollar-based alternatives](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
+- Throughout: business interruption cover funds any operational shutdown loss (subject to the waiting period stated in the policy schedule; see [the day-based and dollar-based alternatives](/comparison/bi-waiting-period-hours-vs-days-vs-dollar)).
 
-Subsequent PDPC investigation. If the PDPC imposes a financial penalty under section 48J, the policy responds only "to the extent insurable by law". For a punitive penalty, this is generally zero.
+Subsequent PDPC investigation. If the PDPC imposes a financial penalty under section 48J, the policy responds only "to the extent insurable by law". Whether a given PDPC penalty is insurable by law is a question the wording does not settle.
 
 #### PDPC enforcement history
 
@@ -126,37 +126,37 @@ The SingHealth and IHIS decisions (2019, pre-mandatory regime) imposed combined 
 
 Since the mandatory regime took effect on 1 February 2021, the PDPC has continued to issue enforcement decisions and financial penalties against organisations for breaches of the Protection Obligation, with each published decision setting out the facts, the remediation expected, and the penalty quantum.
 
-Post-1 October 2022 turnover-linked penalty cases - the PDPC has the section 48J power to impose up to 10% of Singapore turnover for organisations above the S$10 million threshold. Drafters and SME advisers should review the [PDPC enforcement decisions index](https://www.pdpc.gov.sg/all-commissions-decisions) for the most recent on-point cases at the time of advising.
+Post-1 October 2022 turnover-linked penalty cases - the PDPC has the section 48J power to impose up to 10% of Singapore turnover for organisations above the S$10 million threshold. Published decisions are listed in the [PDPC enforcement decisions index](https://www.pdpc.gov.sg/all-commissions-decisions).
 
-The PDPC's published [Guide on Managing and Notifying Data Breaches Under the PDPA](https://www.pdpc.gov.sg/help-and-resources/2021/01/data-breach-management-guide) provides the practical step-by-step framework, including notification templates and the PDPC's preferred reporting channel.
+The PDPC's published [Guide on Managing and Notifying Data Breaches Under the PDPA](https://www.pdpc.gov.sg/help-and-resources/2021/01/data-breach-management-guide) provides the practical step-by-step framework, including a cyber incident response checklist, a notification flowchart and the link to the PDPC's online data breach notification form.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Starting the 3-day clock from the breach date rather than the assessment date.** Section 26D(1) explicitly references "the day the organisation makes the assessment". A breach discovered on Day 1 but not assessed until Day 5 starts the clock on Day 5.
+1. **Starting the 3-day clock from the breach date rather than the assessment date.** Section 26D(1) explicitly references "the day the organisation makes that assessment". A breach discovered on Day 1 but not assessed until Day 5 starts the clock on Day 5.
 
 2. **Failing to document the section 26C assessment.** Even where a breach is found not notifiable, the assessment process and conclusion should be documented as evidence of compliance with the duty to assess.
 
 3. **Notifying individuals before the PDPC.** Section 26D(2) says individual notification is "on or after" notifying the PDPC. Early individual notification can prejudice forensic investigation and PDPC engagement.
 
-4. **Assuming financial penalty cover under cyber insurance is universal.** PDPC financial penalties are generally not insurable to the extent punitive. Policies that purport to cover financial penalties typically use the qualifier "to the extent insurable by law" - which often delivers zero recovery in practice.
+4. **Assuming financial penalty cover under cyber insurance is universal.** PDPC financial penalties are covered only where the wording includes regulatory fines, and then only to the extent insurable by law, which the wording itself does not settle.
 
-5. **Not aligning cyber policy notification windows with PDPA timing.** Some cyber wordings require notification to the insurer before public regulatory notifications. The wording should specifically permit PDPA notification under section 26D without prejudicing cyber cover.
+5. **Not aligning cyber policy notification windows with PDPA timing.** Some Singapore cyber wordings pay the cost of notifying individuals only where the insurer consented to it in advance. The wording should specifically permit PDPA notification under section 26D without prejudicing cyber cover.
 
 6. **Outsourcing personal data processing without proper data intermediary terms.** Section 26C(3)(a) imposes a notification obligation on the data intermediary to the principal organisation. If the vendor contract is silent on this, the SME may face delayed notification and miss the section 26D clock.
 
-7. **Missing the significant-harm test even at small scale.** A breach involving 12 individuals' NRIC numbers is notifiable on significant-harm grounds even though it is well below the 500-individual significant-scale threshold.
+7. **Missing the significant-harm test even at small scale.** A breach of 12 individuals' full names together with their bank account or credit card numbers is deemed to cause significant harm, and so is notifiable, even though it is well below the 500-individual significant-scale threshold.
 
 8. **Ignoring the data intermediary cascade.** SMEs outsourcing CRM, payroll, customer support, or cloud hosting to vendors are subject to a notification cascade. Vendor breach assessments must flow to the SME within the timing that allows the SME to meet its own 3-day clock.
 
-9. **Treating "ransomware" as automatically equivalent to "data breach".** A ransomware attack that encrypts but does not exfiltrate personal data is not a section 26B notifiable breach (encryption is unauthorised modification, but the assessment must reach the significant-harm or significant-scale threshold). Exfiltration is the typical trigger.
+9. **Treating every ransomware attack as automatically notifiable, or as automatically not notifiable.** A ransomware attack that encrypts personal data without copying it out is still a data breach under section 26A (unauthorised modification). It is notifiable if it meets the significant-harm test or affects 500 or more individuals, whether or not any data was exfiltrated.
 
-10. **Buying cyber cover without testing notification cost adequacy.** For SMEs holding databases above the 500-individual significant-scale threshold, notification logistics (letters, dedicated call centres, identity-theft monitoring offers) can run into six figures. The notification cost sub-limit must be sized against the realistic breach scenario.
+10. **Buying cyber cover without testing notification cost adequacy.** Notification logistics (letters, dedicated call centres, identity-theft monitoring offers) grow with the number of people notified. Under the PDPA, individuals must be notified only where the breach is likely to cause them significant harm; a breach notifiable only because it affects 500 or more people must be reported to the PDPC, but the PDPA does not require notice to each individual. The notification cost sub-limit must be sized against the realistic breach scenario.
 
 ### What This Means for Your Business
 
 For a Singapore SME, the operational order of operations is: maintain a documented data breach response plan referencing the section 26C and 26D clocks; pre-engage incident response panel (forensic, breach coach, legal) through the cyber policy or by separate retainer; ensure data-intermediary vendor contracts include section 26C-aligned notification obligations; train relevant staff (IT, finance, customer service) on the 3-day clock and the significant-harm and significant-scale tests; and review cyber policy coverage at each renewal against the realistic breach scenario for the SME's data holdings.
 
-For SMEs whose data holdings include significant-harm categories (NRIC, financial credentials, health, insurance), the realistic notification scenario is typically section 26D-notifiable. Cyber insurance limit sizing should reflect this baseline.
+For SMEs whose data holdings include significant-harm categories (such as card or bank account numbers, specified medical conditions, or life, accident and health insurance details, held together with a person's full name or NRIC number; or account identifiers held together with their passwords), the realistic notification scenario is typically section 26D-notifiable. Cyber insurance limit sizing should reflect this baseline.
 
 For SMEs operating across borders, the section 26D PDPA clock interacts with foreign notification regimes (EU GDPR 72-hour clock, US state breach laws, China PIPL). A multi-jurisdiction breach response plan is essential.
 

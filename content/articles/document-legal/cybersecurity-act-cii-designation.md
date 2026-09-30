@@ -21,7 +21,7 @@ og_description: "CII in cyber security means Critical Information Infrastructure
 
 > **The Answer in 60 Seconds**
 >
-> The [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), administered by the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/), establishes a framework for protecting **Critical Information Infrastructure (CII)** - computer systems necessary for the continuous delivery of essential services. The [Cybersecurity (Amendment) Act 2024](https://www.csa.gov.sg/news-events/press-releases/provisions-in-the-cybersecurity--amendment--act-to-come-into-force-on-31-october-2025/) - with key provisions in force from **31 October 2025** - expanded the framework to cover Systems of Temporary Cybersecurity Concern (STCC), Entities of Special Cybersecurity Interest (ESCI), and Major Foundational Digital Infrastructure (FDI) services. CII owners face mandatory obligations including incident reporting (within 2 hours for prescribed incidents), code of practice compliance, audits, and penalties for non-compliance. **Most Singapore SMEs are not CII operators**, but those serving CII sectors as third parties may have flow-down obligations through customer contracts.
+> The [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), administered by the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/), establishes a framework for protecting **Critical Information Infrastructure (CII)** - computer systems necessary for the continuous delivery of essential services. The [Cybersecurity (Amendment) Act 2024](https://www.csa.gov.sg/news-events/press-releases/provisions-in-the-cybersecurity--amendment--act-to-come-into-force-on-31-october-2025/) brought key provisions into force on **31 October 2025**, including Systems of Temporary Cybersecurity Concern (STCC) and CII owned by third parties. Its parts on Entities of Special Cybersecurity Interest (ESCI) and Major Foundational Digital Infrastructure (FDI) service providers were passed but had not been brought into force as at September 2026. CII owners face mandatory obligations including incident reporting (within 2 hours for prescribed incidents), code of practice compliance, audits, and penalties for non-compliance. **Most Singapore SMEs are not CII operators**, but those serving CII sectors as third parties may have flow-down obligations through customer contracts.
 
 ### The Sourced Detail
 
@@ -33,6 +33,8 @@ Per [Section 7 of the Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018)
 
 > (a) the computer or computer system is necessary for the continuous delivery of an essential service, and the loss or compromise of the computer or computer system will have a debilitating effect on the availability of the essential service in Singapore; and
 > (b) the computer or computer system is located wholly or partly in Singapore.
+
+Since 31 October 2025, section 7(1A) also lets the Commissioner designate a system located wholly outside Singapore if it meets test (a) and would have been designated had it been located in Singapore.
 
 **Essential services** are defined in the [First Schedule of the Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) and currently cover sectors including:
 
@@ -56,7 +58,7 @@ A designated CII owner must, per the Cybersecurity Act:
 
 1. **Provide information** about the design, configuration, and security of the CII to CSA
 2. **Comply with codes of practice and standards of performance** issued by CSA
-3. **Conduct cybersecurity audits** at intervals specified by CSA (typically annually)
+3. **Conduct cybersecurity audits** at least once every 2 years, or more often if the Commissioner directs
 4. **Conduct cybersecurity risk assessments** as specified
 5. **Report cybersecurity incidents** to CSA within prescribed timeframes
 6. **Participate in cybersecurity exercises** as required
@@ -71,34 +73,25 @@ Per [CSA's press release on the Cybersecurity (Amendment) Act 2024 commencement]
 
 1. **Expansion beyond CII to additional categories:**
    - **Systems of Temporary Cybersecurity Concern (STCC)** - systems temporarily critical due to specific events
-   - **Entities of Special Cybersecurity Interest (ESCI)** - entities with cybersecurity functions affecting national interests
-   - **Major Foundational Digital Infrastructure (FDI) services** - providers of foundational digital services with broad sectoral impact
+   - **Entities of Special Cybersecurity Interest (ESCI)**: entities incorporated or established under Singapore law that the Commissioner designates because a system they control holds information whose disclosure, or performs a function whose disruption, would significantly harm Singapore's defence, foreign relations, economy, public health, public safety or public order. This part of the Amendment Act had not been brought into force as at September 2026.
+   - **Major Foundational Digital Infrastructure (FDI) service providers**: designated providers of cloud computing or data centre facility services. This part had also not been brought into force as at September 2026.
 
 2. **Enhanced incident reporting:**
-   - Reporting timeline of **within 2 hours** for prescribed incidents involving CII
+   - The **2-hour** initial report, in place since 2018, is unchanged; supplementary details are now due within 72 hours of becoming aware (previously 14 days after the initial report), followed by a final report within 30 days after those supplementary details are submitted
    - Expanded reporting scope including incidents in supply chain
-   - Reporting obligations now extend to the new categories above
+   - Owners of Systems of Temporary Cybersecurity Concern must also report prescribed incidents
 
-3. **CII covered "owners" expanded** beyond traditional operators to include responsible third parties in some scenarios
+3. **Third-party-owned CII**: the Commissioner may now designate a provider of an essential service as responsible for the cybersecurity of a system it relies on but does not own, and may designate virtual computers and systems as CII
 
-4. **Increased penalties** for non-compliance under the amended framework
+4. **Civil penalties** of up to 10% of annual turnover in Singapore or S$500,000, whichever is greater, for breaches of the main CII duties were enacted but had not been brought into force as at September 2026; the criminal penalty for those duties remains a fine of up to S$100,000, imprisonment of up to 2 years, or both
 
-5. **Enhanced powers** for the Commissioner to direct remediation, conduct investigations, and take preventive action
+5. **New supervisory powers**: the Commissioner may authorise an inspection of a CII where it appears the owner has not complied, and may direct owners on prescribed cybersecurity standards
 
 #### Who is and isn't a CII owner
 
-Most Singapore SMEs are **not** CII owners. Designation is sector-specific and identifies particular computer systems within designated essential services. A typical CII designation list (as published by CSA from time to time) is held by:
+Most Singapore SMEs are **not** CII owners. Designation is sector-specific and identifies particular computer systems within designated essential services. CSA's pages list the CII sectors but do not name designated systems or their owners, and the Act lets a designation notice go to the owner without being published in the Gazette (section 7(9)). The essential services behind the designations are set out in the First Schedule and include electricity generation, transmission and distribution; telephony and broadband; water supply; acute hospital care; banking, payments and securities trading; civil defence and police; air navigation and airport operations; rapid transit and bus services; container terminal and shipping traffic services; electronic delivery of government services; and free-to-air broadcasting.
 
-- Major banks (DBS, OCBC, UOB, Standard Chartered, etc.)
-- Telecommunications operators (Singtel, StarHub, M1)
-- Power utilities (SP Group, generation companies)
-- Water (PUB)
-- Major hospitals and healthcare providers (SingHealth, NUHS, NHG)
-- Aviation and maritime operators
-- Public transport operators (LTA, SBS, SMRT)
-- Government agencies
-
-Even within these organisations, only specific systems are CII - not the entire entity's IT estate.
+Even within an organisation that provides an essential service, only specific systems are CII - not the entire entity's IT estate.
 
 For SMEs in supply chains to these entities - software vendors, managed service providers, consultancies - the regulatory obligations don't directly apply but contractual obligations from CII customers may flow down materially.
 
@@ -111,7 +104,6 @@ Where an SME provides services to a CII operator, the CII owner's contract typic
 - Cooperation in investigations, audits, and exercises
 - Compliance with the CII owner's information security policies
 - Right to audit the supplier's controls
-- Insurance requirements (typically Cyber Liability with stated limits and panel access)
 
 The SME effectively absorbs CII-grade obligations through the contract chain. Compliance cost falls on the SME; the CII owner's regulatory obligation flows down operationally even if not legally.
 
@@ -119,7 +111,7 @@ The SME effectively absorbs CII-grade obligations through the contract chain. Co
 
 For Singapore SMEs in CII supply chains, insurance considerations:
 
-1. **Cyber Liability with appropriate limits** - typically S$2M to S$10M for SME suppliers; higher if customer contract requires
+1. **Cyber Liability with appropriate limits**: the limit each customer contract requires, where it sets one
 2. **Panel access** - for incident response within tight reporting windows, insurer-panel forensics and breach counsel matter
 3. **Regulatory investigation defence cover** - coverage for participation in CSA-led investigations
 4. **Third-party liability for CII owner losses** - if a supplier breach causes a CII owner to fail their CSA obligations, downstream claims may follow
@@ -146,9 +138,9 @@ The two regulatory regimes run in parallel, not as alternatives. For a CII opera
 
 #### What "essential services" expansion could mean
 
-The Cybersecurity (Amendment) Act 2024 did not dramatically expand the *list* of essential services - but the addition of FDI services means cloud providers, payment processors, and digital identity providers may now have categorised obligations even without traditional CII designation.
+The Cybersecurity (Amendment) Act 2024 did not change the *list* of essential services in the First Schedule. It adds a separate regime for Major Foundational Digital Infrastructure (FDI) service providers, limited in the Act to cloud computing and data centre facility services, and that part had not been brought into force as at September 2026.
 
-For Singapore SMEs that themselves provide foundational digital infrastructure to multiple sectors, monitoring CSA's published guidance on FDI categorisation criteria is increasingly relevant. The market is still settling into the post-October 2025 regime; CSA publishes interpretive guidance and codes of practice on a rolling basis.
+For Singapore SMEs that provide cloud computing or data centre facility services, the FDI part of the Amendment Act is the relevant one once it is brought into force. The market is still settling into the post-October 2025 regime; CSA publishes interpretive guidance and codes of practice on a rolling basis.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -170,7 +162,7 @@ For SMEs that don't operate CII directly, the Cybersecurity Act is mostly releva
 
 4. **Is my Cyber insurance limit and panel access adequate for the customer base I serve?** Generic SME cyber may not meet CII-customer expectations.
 
-5. **For technology businesses - am I providing services that could be designated as Foundational Digital Infrastructure?** Cloud platforms, payment infrastructure, digital identity providers should monitor CSA guidance.
+5. **For technology businesses: do I provide a service that could fall under Foundational Digital Infrastructure?** The Amendment Act limits FDI services to cloud computing and data centre facility services, and that part had not been brought into force as at September 2026.
 
 For SMEs with CII operator status (uncommon for SMEs, but possible for specialist operators in healthcare, security, energy, or telecoms), the regulatory burden is substantial and dedicated compliance resources are typically required.
 

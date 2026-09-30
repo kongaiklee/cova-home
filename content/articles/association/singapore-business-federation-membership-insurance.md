@@ -91,6 +91,6 @@ Covarage helps with the part that membership leaves untouched: keeping your WICA
 - [WICA Section 24: The Mandatory Insurance Provision That Underpins Singapore's Workplace Injury Framework](/document-legal/wica-section-24-mandatory-insurance)
 - [Singapore Manufacturing Federation (SMF): Industry Association Framework and Manufacturing-Sector Insurance Architecture](/association/smf-manufacturing-sector-insurance-framework)
 - [Corporate Insurance Folder Structure Every Singapore SME Should Have](/procedural-howto/corporate-insurance-folder-structure-singapore-sme)
-- [How to File a WICA Claim with MOM: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
+- [How to Handle a WICA Claim: Step-by-Step Procedure for Singapore Employers](/procedural-howto/how-to-file-wica-claim-singapore-mom)
 
 *Published 31 May 2026. Source verified 31 May 2026.*
