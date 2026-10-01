@@ -156,13 +156,15 @@ export function Onboarding() {
   );
 }
 
-/** 10. How we make money. The only place free appears. */
+/** 10. How we make money. The only place free appears. The intermediary sentence ("The intermediary pays us an introduction fee out of its
+ *  own commission.") is deleted, nothing in its place (Kong 2026-10-02 00:4x "yes to 3"; his 10-01 "no introducer fee"; PENDING_KONG
+ *  10-01 18:1x): the new model's words wait until they are true. */
 export function Money() {
   return (
     <section className="border-b border-border-primary bg-white">
       <div className={`${WRAP} py-[52px] lg:py-24`}>
         <h2 className={`${H2} mb-3.5 text-[28px]/[1.12] tracking-[-0.9px] lg:mb-[18px] lg:text-[34px]/[1.1] lg:tracking-[-1px]`}>Built to work in your interest.</h2>
-        <p className="m-0 max-w-[58ch] text-base/[1.6] text-text-primary lg:text-lg">Free for your business while we are in early access. The intermediary pays us an introduction fee out of its own commission. <strong className="font-semibold">No insurer pays us anything.</strong></p>
+        <p className="m-0 max-w-[58ch] text-base/[1.6] text-text-primary lg:text-lg">Free for your business while we are in early access. <strong className="font-semibold">No insurer pays us anything.</strong></p>
       </div>
     </section>
   );
