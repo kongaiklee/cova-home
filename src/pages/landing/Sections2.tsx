@@ -162,7 +162,7 @@ export function Money() {
     <section className="border-b border-border-primary bg-white">
       <div className={`${WRAP} py-[52px] lg:py-24`}>
         <h2 className={`${H2} mb-3.5 text-[28px]/[1.12] tracking-[-0.9px] lg:mb-[18px] lg:text-[34px]/[1.1] lg:tracking-[-1px]`}>Built to work in your interest.</h2>
-        <p className="m-0 max-w-[58ch] text-base/[1.6] text-text-primary lg:text-lg">Free for your business while we are in early access. The intermediary pays us an introduction fee out of its own commission. <strong className="font-semibold">No insurer pays us anything.</strong></p>
+        <p className="m-0 max-w-[58ch] text-base/[1.6] text-text-primary lg:text-lg">Free for your business while we are in early access. <strong className="font-semibold">No insurer pays us anything.</strong></p>
       </div>
     </section>
   );
