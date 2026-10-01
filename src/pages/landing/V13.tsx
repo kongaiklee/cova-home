@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, type CSSProperties } from 'react';
 import { Link } from 'react-router-dom';
 import { IMG, INSURERS, TOPIC_GROUPS, TRADES, type Trade } from './data';
 import RequestCard from './RequestCard';
@@ -27,19 +27,71 @@ const BODY = 'text-base/[1.6] lg:text-[17px]';
    the white serif H1 on desktop; the phone keeps the split (copy, photo tile, card). */
 const SCRIM = 'linear-gradient(90deg, rgba(38,29,22,0.86) 0%, rgba(38,29,22,0.70) 34%, rgba(38,29,22,0.18) 62%, rgba(38,29,22,0.30) 100%)';
 
+/* The logo strip at the foot of the hero (Kong 2026-10-01 11:3x: "PROUD TO WORK WITH AND ALONGSIDE / CIMB | ASME | SRA | SMCCI |
+   Deskimo | Charlie Legal AI | Associum AI", then "all have been approved / Proud to work with and alongside and put the logos in
+   exactly the sequence i shared"; CD's DIRECTION_lander-v1.3-and-er2027.md s10). His heading and his order; each logo one colour,
+   white on the desktop's dark foot and Teak on the phone's Sailcloth, at the height that gives it the same weight as the rest.
+   `on: false` takes a logo out with no gap. Names, never links: the lander does not send visitors away. */
+const PARTNERS: { slug: string; ext: 'svg' | 'png'; alt: string; desktopPx: number; phonePx: number; on: boolean }[] = [
+  { slug: 'cimb', ext: 'svg', alt: 'CIMB', desktopPx: 25, phonePx: 20, on: true },
+  { slug: 'asme', ext: 'png', alt: 'ASME', desktopPx: 34, phonePx: 27, on: true },
+  { slug: 'sra', ext: 'png', alt: 'Singapore Retailers Association', desktopPx: 22, phonePx: 18, on: true },
+  { slug: 'smcci', ext: 'png', alt: 'SMCCI', desktopPx: 35, phonePx: 27, on: true },
+  { slug: 'deskimo', ext: 'svg', alt: 'Deskimo', desktopPx: 20, phonePx: 16, on: true },
+  { slug: 'charlie-legal-ai', ext: 'png', alt: 'Charlie Legal AI', desktopPx: 23, phonePx: 18, on: true },
+  { slug: 'associum-ai', ext: 'png', alt: 'Associum AI', desktopPx: 34, phonePx: 27, on: true },
+];
+/* A second Teak scrim from the foot, laid over the live one, so every logo sits on the same dark ground whatever trade photo shows. */
+const FOOT = 'linear-gradient(0deg, rgba(38,29,22,0.88) 0, rgba(38,29,22,0.88) 132px, rgba(38,29,22,0) 260px)';
+
+function LogoStrip() {
+  const shown = PARTNERS.filter((p) => p.on);
+  if (!shown.length) return null;
+  return (
+    <div className={`${WRAP} relative pt-7 pb-9 lg:pt-0 lg:pb-[34px]`} data-logo-strip>
+      <div className="lg:border-t lg:border-white/[0.18] lg:pt-[26px]">
+        <p className="m-0 mb-[18px] text-center text-xs font-medium tracking-[0.14em] text-primary uppercase lg:mb-5 lg:text-left lg:text-[#FDFBF9]">
+          Proud to work with and alongside
+        </p>
+        <ul className="m-0 flex list-none flex-wrap items-center justify-center gap-x-[18px] gap-y-5 p-0 lg:flex-nowrap lg:justify-between">
+          {shown.map((p) => (
+            <li key={p.slug} className="flex items-center" data-partner={p.slug}>
+              <picture>
+                <source media="(min-width: 1024px)" srcSet={`${IMG}/partners/${p.slug}-on-dark.${p.ext}`} />
+                <img
+                  src={`${IMG}/partners/${p.slug}-on-light.${p.ext}`}
+                  alt={p.alt}
+                  className="block h-[var(--ph)] w-auto lg:h-[var(--dh)]"
+                  style={{ '--ph': `${p.phonePx}px`, '--dh': `${p.desktopPx}px` } as CSSProperties}
+                  decoding="async"
+                />
+              </picture>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+  );
+}
+
 export function Hero13() {
   const [trade, setTrade] = useState('');
   const hero = TRADES.find((t) => t.id === trade)?.hero ?? 'fnb';
   const photo = `${IMG}/pg-hero-${hero}.jpg`;
+  const strip = PARTNERS.some((p) => p.on);
   return (
-    <section className="relative overflow-hidden border-b border-border-primary lg:flex lg:min-h-[720px] lg:items-center">
+    <section className="relative overflow-hidden border-b border-border-primary lg:flex lg:min-h-[720px] lg:flex-col lg:items-center">
       <div
         className="absolute inset-0 hidden bg-no-repeat motion-safe:transition-[background-image] lg:block"
-        style={{ backgroundImage: `${SCRIM}, url(${photo})`, backgroundPosition: '0 0, 52% 50%', backgroundSize: 'auto, cover' }}
+        style={{
+          backgroundImage: `${strip ? `${FOOT}, ` : ''}${SCRIM}, url(${photo})`,
+          backgroundPosition: `${strip ? '0 0, ' : ''}0 0, 52% 50%`,
+          backgroundSize: `${strip ? 'auto, ' : ''}auto, cover`,
+        }}
         aria-hidden
         data-hero-photo={hero}
       />
-      <div className={`${WRAP} relative pt-10 pb-14 lg:grid lg:grid-cols-[1fr_420px] lg:items-center lg:gap-20 lg:py-[88px]`}>
+      <div className={`${WRAP} relative pt-10 ${strip ? 'pb-0 lg:flex-1 lg:pt-[88px] lg:pb-14' : 'pb-14 lg:py-[88px]'} lg:grid lg:grid-cols-[1fr_420px] lg:items-center lg:gap-20`}>
         <div>
           <h1 className="m-0 max-w-[600px] font-serif text-[38px]/[1.05] font-normal tracking-[-1px] text-text-primary lg:text-[64px] lg:tracking-[-2px] lg:text-white">
             Your insurance team, without the insurance department.
@@ -51,6 +103,7 @@ export function Hero13() {
         </div>
         <RequestCard trade={trade} onTrade={setTrade} />
       </div>
+      <LogoStrip />
     </section>
   );
 }
