@@ -156,9 +156,7 @@ export function Onboarding() {
   );
 }
 
-/** 10. How we make money. The only place free appears. The intermediary sentence ("The intermediary pays us an introduction fee out of its
- *  own commission.") is deleted, nothing in its place (Kong 2026-10-02 00:4x "yes to 3"; his 10-01 "no introducer fee"; PENDING_KONG
- *  10-01 18:1x): the new model's words wait until they are true. */
+/** 10. How we make money. The only place free appears. */
 export function Money() {
   return (
     <section className="border-b border-border-primary bg-white">
