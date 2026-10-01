@@ -50,13 +50,13 @@ Three things happen at lapse, in this order.
 
 #### Scenario 1: WICA lapses
 
-The Work Injury Compensation Act 2019 makes WICA insurance mandatory under section 24 for all employees doing manual work, and for non-manual employees within the salary threshold (currently **S$2,600 per month**, in force since 1 April 2021). Section 25 makes failure to maintain the insurance an offence.
+The Work Injury Compensation Act 2019 makes WICA insurance mandatory under section 24 for all employees doing manual work, and for non-manual employees within the salary threshold (currently **S$2,600 per month**, in force since 1 April 2021), unless the employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers. Section 25 makes failure to maintain the insurance an offence.
 
 The compensation scheme itself - per the [WICA 2019 schedule](https://sso.agc.gov.sg/Act/WICA2019), updated by the [MOM higher-compensation-limits announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act) for accidents on or after 1 November 2025 - sets statutory limits for medical expenses (up to S$53,000), permanent incapacity (S$116,000 to S$346,000) and death (S$91,000 to S$269,000).
 
 What lapse does not change is the employer's underlying liability. The WICA scheme exists alongside Common Law claims; an injured employee who would otherwise have been compensated under the WICA scheme retains the option to claim at Common Law for negligence, where damages are not capped by the WICA limits. The Singapore workplace fatality picture remains material - [MOM reported 43 workplace deaths in 2024](https://www.channelnewsasia.com/singapore/workplace-deaths-major-injuries-mom-construction-sector-5024886) and [36 in 2025](https://www.channelnewsasia.com/singapore/workplace-deaths-major-injuries-construction-manufacturing-mom-6013966), concentrated in construction, manufacturing and transport-related sectors.
 
-When WICA insurance is in force, the WIC insurer indemnifies the employer for the schedule liability and, depending on policy structure, may also indemnify the Common Law exposure. When WICA insurance is lapsed, the employer pays the schedule liability personally, faces an MOM offence under section 25, and is unindemnified for any Common Law claim that follows.
+When WICA insurance is in force, the WIC insurer indemnifies the employer for the schedule liability and, depending on policy structure, may also indemnify the Common Law exposure. When WICA insurance is lapsed, the employer pays the schedule liability personally, faces an MOM offence under section 25 where the employees are outside the excluded classes, and is unindemnified for any Common Law claim that follows.
 
 #### Scenario 2: Foreign-worker medical insurance lapses
 
@@ -134,7 +134,7 @@ The cadence is what makes the difference. Renewal-quote requests made at T-14 ty
 
 7. **For claims-made covers, log circumstances continuously** and notify them within the policy period - retroactive disclosure at renewal is rarely effective.
 
-8. **Treat mandatory covers (WICA, foreign-worker medical, motor third-party) as never-lapse covers** - same-day reinstatement is not always available, and the offence is the gap itself.
+8. **Treat mandatory covers (WICA, subject to the excluded classes; foreign-worker medical; motor third-party) as never-lapse covers** - same-day reinstatement is not always available, and the offence is the gap itself.
 
 ### Questions to Ask Your Adviser
 

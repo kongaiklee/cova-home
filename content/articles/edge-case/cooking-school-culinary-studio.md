@@ -75,7 +75,7 @@ The cooking school / culinary studio category sits in an unusual place - neither
 
 **[CPE / SSG / SkillsFuture](https://www.ssg.gov.sg/)** - Where structured certificated culinary training is offered, registration as a [Private Education Institution (PEI)](https://www.ssg.gov.sg/cpe-pei.html) under the Private Education Act 2009 may apply, with corresponding educational regulatory layer.
 
-**[MOM](https://www.mom.gov.sg/) WICA** - For all employees including instructors, kitchen staff, host staff.
+**[MOM](https://www.mom.gov.sg/) WICA** - For all employees including instructors, kitchen staff, host staff, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers.
 
 #### Insurance build per business stage
 

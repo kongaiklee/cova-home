@@ -75,7 +75,7 @@ If you're an SME outside CII sectors, the amendments in force do not directly cr
 ## Questions to Ask Your Adviser
 
 1. Are any of my customer contracts in CII sectors likely to require 3PO CII commitments from me?
-2. Does my cyber wording cover regulatory defence costs for both PDPA and Cybersecurity Act notifications?
+2. Does my cyber wording cover regulatory investigations only under data protection law such as the PDPA, or would it also respond to a Cybersecurity Act matter?
 3. What is my notification-cost limit for forensic, legal and PR support, and is it inside or outside the policy aggregate?
 4. Does my policy require me to notify insurers within a window aligned with the 2-hour CSA window or the 3-day PDPC window?
 5. How does my cyber wording interact with E&O / professional liability for IT vendors?

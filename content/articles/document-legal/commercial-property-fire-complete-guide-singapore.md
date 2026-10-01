@@ -109,7 +109,7 @@ For a Singapore SME, property and fire cover is not required by the Government, 
 
 Keep the fire-safety duty in a completely separate mental box. Holding a valid Fire Certificate, keeping your fire safety measures working, and renewing on time under the [Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) is about not having a fire and surviving one, enforced by SCDF. It does nothing for your lease or your bank, and your insurance does nothing for SCDF. Run both; assume neither covers the other.
 
-Then spend your attention where claims are actually won or lost: the **sum insured**. Insure for what it costs to rebuild and replace, not what you paid, and revisit the figure whenever the business changes. This is the discipline that defeats the average clause, and it is cheaper than any premium.
+Then spend your attention on the **sum insured**. Insure for what it costs to rebuild and replace, not what you paid, and revisit the figure whenever the business changes. This is the discipline that defeats the average clause, and it is cheaper than any premium.
 
 Finally, decide deliberately on the form (Fire, PAR, or IAR), add business interruption sized to a realistic recovery period, and read the exclusions before you sign, not after a fire.
 

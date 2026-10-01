@@ -21,7 +21,7 @@ og_description: "Vietnam requires a locally licensed insurer under its own regim
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in Vietnam typically need: a Vietnamese-licensed insurer for **commercial property and liability** (regulatory requirement under the [Ministry of Finance / Insurance Supervisory Authority](https://mof.gov.vn/) framework), **mandatory state social insurance schemes** for Vietnamese employees (Vietnam Social Security covering retirement, illness, maternity, work injury, unemployment), specific **construction insurance** for any building/infrastructure work (mandatory by Vietnamese regulation), and Singapore parent's **multinational programme coordination** for cross-border risks. Vietnam's insurance market is regulated by the [Vietnam Insurance Supervisory Authority (ISA)](https://mof.gov.vn/) under the [Ministry of Finance](https://mof.gov.vn/). Foreign-invested enterprises (FIEs) face specific insurance and compliance requirements distinct from purely domestic Vietnamese businesses. The [Law on Insurance Business](https://thuvienphapluat.vn/) governs insurance market operations. Engaging a local Vietnamese broker is essential for material operations; Singapore-only insurance approaches are inadequate.
+> Singapore SMEs operating in Vietnam typically need: a Vietnamese-licensed insurer for **commercial property and liability** (regulatory requirement under the [Ministry of Finance / Insurance Supervisory Authority](https://mof.gov.vn/) framework), **mandatory state social insurance schemes** for Vietnamese employees (Vietnam Social Security covering retirement, illness, maternity, work injury, unemployment), **compulsory construction insurance** where Vietnamese regulation requires it (insurance of the works during construction for specified works, such as works significantly affecting public safety, and insurance for construction site personnel), and Singapore parent's **multinational programme coordination** for cross-border risks. Vietnam's insurance market is regulated by the [Vietnam Insurance Supervisory Authority (ISA)](https://mof.gov.vn/) under the [Ministry of Finance](https://mof.gov.vn/). Foreign-invested enterprises (FIEs) face specific insurance and compliance requirements distinct from purely domestic Vietnamese businesses. The [Law on Insurance Business](https://thuvienphapluat.vn/) governs insurance market operations. Engaging a local Vietnamese broker is essential for material operations; Singapore-only insurance approaches are inadequate.
 
 ### The Sourced Detail
 
@@ -35,10 +35,10 @@ Vietnam has emerged as a major regional market and manufacturing hub for Singapo
 - **Branch Office** of foreign company
 - **Representative Office** (limited operational scope)
 
-Each structure has different tax, employment, and insurance implications. WFOE is most common for Singapore SMEs establishing material Vietnamese operations.
+Each structure has different tax, employment, and insurance implications.
 
 **Investment licensing:**
-- [Investment Registration Certificate (IRC)](https://dauthau.mpi.gov.vn/) for many FIE structures
+- Investment Registration Certificate (IRC) for many FIE structures
 - [Enterprise Registration Certificate (ERC)](https://dangkykinhdoanh.gov.vn/) for legal entity formation
 - Sector-specific licensing where applicable
 
@@ -64,7 +64,7 @@ Each structure has different tax, employment, and insurance implications. WFOE i
 - Unemployment insurance
 - Health insurance (separate but related)
 
-**Contribution rates** (subject to current Vietnamese regulation; verify with [Vietnam Social Security](https://www.vss.gov.vn/) before relying on figures):
+**Contribution rates** (subject to current Vietnamese regulation; verify with [Vietnam Social Security](https://vss.gov.vn/) before relying on figures):
 
 Employer contributions and employee contributions are calculated on salary up to a cap. Total contribution rates for the various components have specific allocation between employer and employee.
 
@@ -82,15 +82,14 @@ For Singapore SMEs operating in Vietnam, the social insurance burden is meaningf
 Vietnam's commercial insurance is regulated by the [Vietnam Insurance Supervisory Authority](https://mof.gov.vn/) under the Ministry of Finance, governed by the [Law on Insurance Business 2022](https://thuvienphapluat.vn/) and implementing regulations.
 
 Major Vietnamese insurers include:
-- Bao Viet (state-owned origin, largest)
-- PVI (state-owned insurance group)
+- Bao Viet (state-owned origin; second by non-life market share in early 2026)
+- PVI (largest by non-life market share in 2025 and early 2026; its largest shareholder is HDI Global, with Petrovietnam holding 35%)
 - Bao Minh
 - PJICO
 - Vietnam National Reinsurance Corporation (VINARE) for reinsurance
 
 International insurers operating in Vietnam (typically through joint ventures or wholly-foreign subsidiaries):
 - AIG Vietnam
-- Allianz Vietnam
 - Chubb Insurance Vietnam
 - Tokio Marine Vietnam
 - Liberty Insurance
@@ -126,15 +125,14 @@ For Singapore-affiliated SMEs, working with international insurers operating in 
 Per Vietnamese law, certain insurance categories are mandatory:
 - Construction insurance for specified projects
 - Compulsory civil liability for vehicle owners (similar to Singapore Motor third-party)
-- Compulsory civil liability for fire and explosion (specific premises types)
-- Compulsory civil liability for transport of hazardous goods
+- Compulsory fire and explosion insurance of the property of facilities facing fire and explosion hazards
+- Compulsory civil liability insurance against environmental pollution for ships specially built to carry oil, petroleum products or other hazardous goods, while operating in Vietnamese port waters and waters (Vietnam Maritime Code 2015, Article 105)
 - Specific industry-mandated cover
 
 **Marine cargo / Transport:**
 - For goods movement between Singapore (or other countries) and Vietnam
-- Typically Singapore-issued for the Singapore origin movements
-- Vietnam-issued for domestic Vietnamese transport
-- Coordination through master programme typical
+- Vietnam-issued cover for domestic Vietnamese transport
+- International movements can be insured under a Singapore or Vietnamese policy depending on the sale terms
 
 #### Foreign employee considerations
 
@@ -147,8 +145,7 @@ For Singapore SMEs with foreign (Singaporean or other) employees in Vietnam:
 
 **Insurance for foreign employees:**
 - Some categories of foreign employees exempt from Vietnamese state social insurance
-- Private health insurance typically provided by employer
-- International health insurance for expatriate-tier employees common
+- Private or international health insurance may be provided by the employer
 - Singapore-issued group medical may extend with appropriate territorial scope
 
 **Singaporean employees on assignment:**
@@ -195,7 +192,7 @@ For Singapore SMEs with material Vietnamese operations:
 - POS / Cyber considerations
 
 **Construction:**
-- Mandatory CAR/EAR
+- CAR/EAR, which is compulsory for the works Decree 67/2023/ND-CP, as amended, specifies
 - Contractor's PI
 - Project-specific cover
 - Local Vietnamese contractor compliance
@@ -227,12 +224,12 @@ Vietnamese commercial insurance typically denominates in Vietnamese Dong (VND). 
 #### Cross-border data and compliance
 
 **Vietnamese data protection:**
-- [Decree 13/2023/ND-CP](https://thuvienphapluat.vn/) on personal data protection
+- The Law on Personal Data Protection (Law No. 91/2025/QH15) and Decree 356/2025/ND-CP, in force from 1 January 2026, which replaced Decree 13/2023/ND-CP
 - Specific requirements for cross-border data transfer
 - Coordination with Singapore PDPA for SG-VN data flows
 
 **Cyber considerations:**
-- Singapore parent's Cyber Liability with worldwide territory typically extends
+- Whether a Singapore parent's Cyber Liability policy extends to the Vietnamese entity depends on its territory and insured-entity terms
 - Local Vietnamese Cyber market emerging
 - Coordination at incident time across jurisdictions
 
@@ -267,15 +264,13 @@ Vietnamese commercial insurance typically denominates in Vietnamese Dong (VND). 
 For typical Singapore SMEs with Vietnamese subsidiaries:
 
 **Small Vietnamese operation (10-30 employees, single premises):**
-- Local Vietnamese commercial insurance: VND-equivalent S$5,000-S$20,000
+- Local Vietnamese commercial insurance: depends on the assets, activities and limits insured
 - State social insurance: variable by total payroll
 - Singapore parent multinational coordination: variable
-- **Total local Vietnamese commercial insurance** typically S$5,000-S$25,000
 
 **Mid-size Vietnamese operation (50-200 employees, manufacturing or larger services):**
-- Local commercial: S$15,000-S$60,000
+- Local commercial: depends on the assets, activities and limits insured
 - Specific industry cover (e.g. manufacturing, construction)
-- **Total typically S$25,000-S$150,000**
 
 **Larger Vietnamese operation:**
 - Comprehensive programme
@@ -293,7 +288,7 @@ For typical Singapore SMEs with Vietnamese subsidiaries:
 **Scenario B: Singapore manufacturer establishing Hanoi factory (50-200 employees)**
 - WFOE with full FIE compliance
 - Significant Property/Equipment exposure
-- Mandatory CAR for fit-out construction
+- CAR for fit-out construction, which is compulsory only if the works fall within the categories Decree 67/2023/ND-CP, as amended, specifies
 - WC top-up over state scheme
 - Marine cargo for export logistics
 
@@ -337,14 +332,14 @@ Premium tax, VAT on insurance, withholding tax considerations.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Operating without local Vietnamese commercial insurance.** Regulatory non-compliance.
+1. **Operating without the compulsory insurance Vietnamese law requires**, such as compulsory fire and explosion insurance for a facility facing fire and explosion hazards. Regulatory non-compliance.
 2. **State social insurance compliance gaps.** Affecting employees and creating regulatory exposure.
 3. **No coordination between Singapore parent and Vietnamese sub.** Silos and gaps.
-4. **Construction without mandatory CAR.** Direct regulatory breach for construction work.
+4. **Construction without compulsory construction insurance.** A regulatory breach where the works or the site personnel fall within Decree 67/2023/ND-CP, as amended.
 5. **Foreign employee insurance gaps.** Singaporean employees on assignment without appropriate cover.
 6. **No local broker engagement for material operations.** Generic Singapore approach inadequate.
 7. **Currency / inflation not addressed in sum insured.** Long-term adequacy degraded.
-8. **Local data protection compliance overlooked.** Decree 13/2023 and related provisions.
+8. **Local data protection compliance overlooked.** The Law on Personal Data Protection 2025 and Decree 356/2025/ND-CP, which replaced Decree 13/2023 from 1 January 2026.
 
 ### What This Means for Your Business
 

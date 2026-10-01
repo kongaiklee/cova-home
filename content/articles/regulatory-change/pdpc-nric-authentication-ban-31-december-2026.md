@@ -173,17 +173,17 @@ Per [the multi-policy response playbook](/procedural-howto/how-to-coordinate-mul
 
 **SaaS / IT services providers.** Customer authentication is part of the product, so any NRIC-based credential or default password in it needs replacing.
 
-**HR / Payroll / Staffing.** Employee data common; NRIC in employee records standard; authentication redesign required.
+**HR / Payroll / Staffing.** Employee records hold NRIC numbers; any staff login, default password or document password built on them needs replacing.
 
 **Healthcare.** Patient identification critical; specific MOH guidance applies.
 
 **Property management / Facilities.** Visitor / tenant access systems; NRIC capture historically common.
 
-**Telecommunications.** IMDA-specific guidance; customer authentication redesign required.
+**Telecommunications.** IMDA has issued sector guidance on ceasing NRIC authentication; any customer authentication that relies on NRIC numbers needs redesign.
 
-**Insurance / Finance.** MAS-specific guidance; customer / policyholder authentication redesign.
+**Insurance / Finance.** MAS has issued sector guidance on ceasing NRIC authentication; any customer or policyholder authentication that relies on NRIC numbers needs redesign.
 
-**Education.** MOE / private institutions; student portal redesign.
+**Education.** Private institutions: any student portal that relies on NRIC numbers for authentication needs redesign.
 
 #### Coordination with related changes
 

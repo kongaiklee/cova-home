@@ -21,7 +21,7 @@ og_description: "Professional indemnity is claims-made. The trigger is a claim f
 
 > **The Answer in 60 Seconds**
 >
-> [Professional Indemnity](/document-legal/professional-indemnity-complete-guide-singapore) is **claims-made** insurance. The trigger is a claim *first made* against you (or a circumstance that may give rise to one) during the policy period - see [how claims-made and occurrence triggers differ](/comparison/claims-made-vs-occurrence). The sequence: identify the claim or circumstance, **notify the insurer immediately** (typically "as soon as reasonably practicable" or specific calendar days - late notification can void cover), preserve evidence, do **not** admit liability or settle without insurer consent, cooperate with the panel counsel the insurer appoints under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) and [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) regulatory framework. PI claims often involve long lead times - sometimes years from notification to resolution, bounded by the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) 6-year clock for contract and tort claims (see [when the limitation period starts running](/document-legal/limitation-act-6-year-clock)) - and significant defence cost which the policy typically covers (in addition to or within the limit, per wording). The professional's regulatory body (BOA, SMC, Law Society, etc.) may have separate disciplinary processes running parallel to the civil PI claim.
+> [Professional Indemnity](/document-legal/professional-indemnity-complete-guide-singapore) is **claims-made** insurance. The trigger is a claim *first made* against you (or a circumstance that may give rise to one) during the policy period - see [how claims-made and occurrence triggers differ](/comparison/claims-made-vs-occurrence). The sequence: identify the claim or circumstance, **notify the insurer immediately** (typically "as soon as reasonably practicable" or specific calendar days - late notification can void cover), preserve evidence, do **not** admit liability or settle without insurer consent, cooperate with the panel counsel the insurer appoints under the policy's claims-conduct terms (the Allied World ProFitSecure PI wording used in Singapore, for example, entitles the insurer to "take over and conduct in the name of the Insured the defence or settlement of any Claim"). PI claims often involve long lead times - sometimes years from notification to resolution, bounded by the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959): 6 years from accrual for contract and tort claims (section 6), but a negligence claim for personal injury has 3 years from accrual or from the claimant's knowledge, whichever ends later, and one for other damage can also be brought within 3 years of the claimant's knowledge where that ends later than the 6 years (section 24A), subject to a 15-year longstop from the negligent act (section 24B) (see [when the limitation period starts running](/document-legal/limitation-act-6-year-clock)) - and significant defence cost which the policy typically covers (in addition to or within the limit, per wording). The professional's regulatory body (BOA, SMC, Law Society, etc.) may have separate disciplinary processes running parallel to the civil PI claim.
 
 ### The Step-by-Step
 
@@ -33,8 +33,8 @@ PI policies typically cover claims and circumstances:
 
 **A claim** typically includes:
 - Letter of demand from a client or third party alleging negligence
-- Writ of summons or originating application
-- Notice of complaint to professional regulatory body
+- Originating claim or originating application (the court documents that start civil proceedings in Singapore since 1 April 2022)
+- Notice of complaint to a professional regulatory body, where the wording includes it (some wordings define a claim as a demand for compensation and cover disciplinary hearing costs under a separate, sub-limited extension)
 - Specific allegation of professional fault with potential financial implication
 
 **A circumstance** is broader:
@@ -51,7 +51,7 @@ The distinction matters: under most claims-made wordings, **circumstance notific
 
 Receipt of:
 - Letter of demand or formal complaint
-- Writ of summons
+- Originating claim (formerly a writ of summons)
 - Notice from professional body
 - Client communication suggesting dissatisfaction sufficient to trigger circumstance notification
 
@@ -114,7 +114,7 @@ Settlements made before notification typically not covered.
 
 #### Step 4 - Engage the insurer's panel counsel
 
-Insurers typically appoint panel counsel for PI claims. Most major Singapore PI insurers have established panels of law firms with PI defence experience.
+Insurers typically appoint panel counsel for PI claims.
 
 **Panel counsel's role:**
 - Substantive defence of the claim
@@ -137,7 +137,7 @@ In limited circumstances (conflict of interest, coverage dispute, very high stak
 
 #### Step 5 - Do not admit liability or settle
 
-This is the most-violated rule in PI claim handling.
+PI wordings can make it a policy condition: the Allied World ProFitSecure PI wording, for example, says "No admission, offer, promise or indemnity shall be made or given by or on behalf of the Insured without the written consent of the Company."
 
 **Admissions of liability:**
 - Verbal during difficult conversation with client
@@ -209,7 +209,7 @@ There's nuance here. Some forms of apology express regret without admitting faul
 - Possible appeal considerations
 
 **Outcome reporting:**
-- Some PI insurers report claims data to industry pools
+- Proposal forms ask about past claims and notified circumstances
 - Affects future premium and underwriting
 - Reputation considerations
 
@@ -269,7 +269,7 @@ There's nuance here. Some forms of apology express regret without admitting faul
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Late notification.** Most-frequent reason for PI claim denial.
+1. **Late notification.** The wording sets the notice requirement ("as soon as practicable" in the Allied World ProFitSecure PI wording, for example), and missing it puts cover for the claim at risk.
 2. **Internal triage missing circumstance threshold.** "Not yet a claim" is dangerous if client expressing dissatisfaction.
 3. **Direct settlement with client to make it go away.** Typically voids cover.
 4. **Apologies admitting fault without counsel review.** Subsequent admission.
@@ -299,9 +299,9 @@ For Singapore professionals, a PI claim is a structured process with significant
 
 8. **Build PI relationship over career.** Same insurer relationship over years means understanding history and trust.
 
-PI claims are not unusual for established professionals - most senior practitioners have notified at least one circumstance over their career. The difference between cases handled well and cases handled badly is the discipline of the response. Insurance funds the defence; the professional's role is providing what counsel needs to do their job.
+The difference between cases handled well and cases handled badly is the discipline of the response. Insurance funds the defence; the professional's role is providing what counsel needs to do their job.
 
-For practice owners, building incident response procedures, maintaining current panel relationships, and ensuring adequate limits and retroactive coverage are foundation work that pays off when (not if) a claim or circumstance arises.
+For practice owners, building incident response procedures, maintaining current panel relationships, and ensuring adequate limits and retroactive coverage are foundation work that pays off if a claim or circumstance arises.
 
 ### Questions to Ask Your Adviser
 

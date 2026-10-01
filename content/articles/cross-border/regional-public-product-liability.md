@@ -21,7 +21,7 @@ og_description: "Operations in a country need locally admitted liability cover; 
 
 > **The Answer in 60 Seconds**
 >
-> Public Liability and Product Liability across borders fragment along a clean rule: **operations physically performed in a country require local-admitted PL**, while **products manufactured in Singapore but sold abroad can usually be covered by a Singapore Product Liability with appropriate territorial extension**. A Singapore PL policy generally cannot cover an Indonesian operation, a Vietnamese factory, or a Thai retail outlet - local PL is required. But a Singapore manufacturer's product sold across ASEAN, EU, and other markets can be covered by a Singapore Product Liability with worldwide territory (often excluding USA/Canada). The structural distinction matters because the two lines have different risk transfer mechanics: PL responds to physical-place-of-operation; Product Liability responds to physical-place-of-product-presence. For Singapore-HQ SMEs, the practical structure is **local PL in each operating country** plus **a Singapore Product Liability with worldwide-excluding-US territory** plus **specific US extension if US customer base exists**. Class-action risk in the US, EU [GPSR (General Product Safety Regulation 2023/988)](https://eur-lex.europa.eu/), and ASEAN consumer protection frameworks all shape the cover requirement.
+> Public Liability and Product Liability across borders fragment along a clean rule: **operations physically performed in a country require local-admitted PL**, while **products manufactured in Singapore but sold abroad can usually be covered by a Singapore Product Liability with appropriate territorial extension**. A Singapore PL policy generally cannot cover an Indonesian operation, a Vietnamese factory, or a Thai retail outlet - local PL is required. But a Singapore manufacturer's product sold across ASEAN, EU, and other markets can be covered by a Singapore Product Liability with worldwide territory (often excluding USA/Canada). The structural distinction matters because the two lines have different risk transfer mechanics: PL responds to physical-place-of-operation; Product Liability responds to physical-place-of-product-presence. For Singapore-HQ SMEs, the practical structure is **local PL in each operating country** plus **a Singapore Product Liability with worldwide-excluding-US territory** plus **specific US extension if US customer base exists**. Class-action risk in the US, EU [GPSR (General Product Safety Regulation 2023/988)](https://eur-lex.europa.eu/eli/reg/2023/988/oj), and ASEAN consumer protection frameworks all shape the cover requirement.
 
 ### The Sourced Detail
 
@@ -53,8 +53,8 @@ Host-country regulatory regimes typically do not have specific PL compulsory fra
 
 For Singapore-HQ SMEs operating physically in foreign jurisdictions, local PL is the practical necessity:
 
-- **Malaysia** - local PL from BNM-licensed insurers, typically RM 1-10 million limits depending on activity
-- **Indonesia** - local PL from OJK-licensed insurers, typically IDR 5-50 billion limits
+- **Malaysia** - local PL from BNM-licensed insurers
+- **Indonesia** - local PL from OJK-licensed insurers
 - **Philippines** - local PL from IC-licensed insurers
 - **Thailand** - local PL from OIC-licensed insurers
 - **Vietnam** - local PL from MOF-licensed insurers
@@ -75,15 +75,15 @@ Singapore-issued Product Liability policies typically allow worldwide territoria
 
 Product Liability claims are shaped by host-country consumer protection law:
 
-**EU - General Product Safety Regulation** Effective 13 December 2024, [GPSR 2023/988](https://eur-lex.europa.eu/) imposes specific safety obligations on products placed on the EU market, with substantial penalties. Product Liability cover for SG SMEs selling into EU should reflect GPSR exposure including notification, recall, and compensation obligations.
+**EU - General Product Safety Regulation** Effective 13 December 2024, [GPSR 2023/988](https://eur-lex.europa.eu/eli/reg/2023/988/oj) imposes specific safety obligations on products placed on the EU market, with substantial penalties. Cover for SG SMEs selling into the EU should reflect GPSR exposure, including accident notification (Article 20), recall, and the remedies a recall requires the business to offer consumers (a choice of at least two of repair, replacement or refund, Article 37). Recall costs are usually excluded from a base Product Liability wording and can be bought as an extension or a separate cover.
 
 **ASEAN consumer protection** Each ASEAN country has its own consumer protection framework:
 - Singapore - [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003) and related regulations
-- Malaysia - [Consumer Protection Act 1999](https://www.kpdn.gov.my/)
-- Indonesia - [Law 8/1999 on Consumer Protection](https://www.bpkn.go.id/)
-- Philippines - [Consumer Act of the Philippines RA 7394](https://www.dti.gov.ph/)
-- Thailand - [Consumer Protection Act BE 2522 (1979)](https://www.ocpb.go.th/)
-- Vietnam - [Law on Protection of Consumer Rights 2023 (Law 19/2023/QH15)](https://thuvienphapluat.vn/), effective 1 July 2024, replacing the 2010 law
+- Malaysia - [Consumer Protection Act 1999](https://lom.agc.gov.my/ilims/upload/portal/akta/outputaktap/1690994_BI/011121_Act%20599_final.pdf)
+- Indonesia - [Law 8/1999 on Consumer Protection](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)
+- Philippines - [Consumer Act of the Philippines RA 7394](https://elibrary.judiciary.gov.ph/thebookshelf/showdocs/2/3302)
+- Thailand - [Consumer Protection Act BE 2522 (1979)](https://www.ocpb.go.th/ewtadmin/ewt/ocpb_en/download/consumer%20protection%20act.pdf)
+- Vietnam - [Law on Protection of Consumer Rights 2023 (Law 19/2023/QH15)](https://thuvienphapluat.vn/van-ban/Thuong-mai/Luat-Bao-ve-quyen-loi-nguoi-tieu-dung-2023-19-2023-QH15-500102.aspx), effective 1 July 2024, replacing the 2010 law
 
 Each provides specific consumer rights, complaint mechanisms, and in some cases statutory damages. Product Liability cover should respond to claims under these frameworks.
 
@@ -99,7 +99,7 @@ A typical Singapore-issued Product Liability programme covers:
 
 **Defence costs.** Frequently the most material component, particularly across multiple jurisdictions.
 
-**Recall expenses.** Cost of recalling defective products from the market. Often a sub-limit; may be a separate "Product Recall" cover.
+**Recall expenses.** Cost of recalling defective products from the market. Usually excluded from the base wording; some insurers offer it as an optional extension with a sub-limit, and it can be bought as a separate "Product Recall" cover.
 
 **Vendor liability.** Cover for vendors selling the SME's products. Important for SMEs distributing through third parties.
 
@@ -115,7 +115,7 @@ Product recall is increasingly significant for regional SMEs. Standalone Product
 
 **Product Recall covers the cost of recalling and replacing defective products.** Notification, transportation, replacement, communication, refunds.
 
-For SMEs in food, pharmaceuticals, cosmetics, children's products, and consumer electronics, Product Recall cover should be specifically considered. Major international Product Recall insurers (Beazley, AIG, Chubb, Allianz) provide cover with regional capability.
+For SMEs in food, pharmaceuticals, cosmetics, children's products, and consumer electronics, Product Recall cover should be specifically considered. Product Recall is a niche line written by a limited number of insurers and specialist underwriting agencies, some with Asia-Pacific capability.
 
 #### USA/Canada extension considerations
 
@@ -123,7 +123,7 @@ For Singapore-HQ SMEs selling into US/Canada:
 
 **USA/Canada exclusion** is standard on most Singapore Product Liability wordings. Claims arising in USA/Canada or under US/Canadian law are excluded.
 
-**USA/Canada extension** is available at additional premium, typically 50-200 percent uplift on the base premium depending on product, volume, and customer profile.
+**USA/Canada extension** is available at additional premium, depending on product, volume, and customer profile.
 
 **Worldwide territory** is broadest; available on specialist programmes typically for larger commercial operations.
 
@@ -138,7 +138,7 @@ For SMEs entering US market, Product Liability with US extension is foundational
 
 #### Coordination with Public Liability
 
-A common SME oversight: PL and Product Liability are sometimes packaged in a single "PL & PD" policy, sometimes separate. The package question matters because:
+A common SME oversight: PL and Product Liability are sometimes packaged in a single general liability policy, sometimes separate. The package question matters because:
 
 - Limits may be shared or separate
 - Sub-limits and aggregations differ
@@ -156,7 +156,7 @@ For regional SMEs, the practical structure is typically:
 
 **Singapore electronics manufacturer selling regionally.** Singapore Product Liability worldwide; specific product compliance considerations under regional electrical safety regulations; considerable EU GPSR exposure.
 
-**Singapore cosmetics brand selling across ASEAN.** Singapore Product Liability worldwide; specific cosmetic safety compliance per [ASEAN Cosmetic Directive](https://asean.org/); each market's cosmetic registration requirements; considerable recall exposure.
+**Singapore cosmetics brand selling across ASEAN.** Singapore Product Liability worldwide; specific cosmetic safety compliance per [ASEAN Cosmetic Directive](https://file.go.gov.sg/agreement-on-asean-harmonized-cosmetic-regulatory-scheme.pdf); the product notification each market's cosmetic regulator requires before sale; considerable recall exposure.
 
 **Singapore industrial equipment supplier with regional installation services.** Singapore Product Liability worldwide for products; local PL in each country where installation services are physically performed.
 
@@ -183,7 +183,7 @@ For Singapore-HQ SMEs operating regionally:
 
 3. **Maintain Singapore Product Liability with appropriate territorial scope.** Worldwide-excluding-US for ASEAN-only; with US extension for US customer base.
 
-4. **Set limits proportionate to product exposure.** Below SGD 5 million annual product revenue, SGD 1-3 million typical; SGD 5-25 million revenue, SGD 5-10 million; high-recall-risk products warrant higher limits.
+4. **Set limits proportionate to product exposure.** High-recall-risk products may warrant higher limits.
 
 5. **Add Product Recall cover for relevant categories.** Food, pharma, cosmetics, children's products, electronics.
 
@@ -191,7 +191,7 @@ For Singapore-HQ SMEs operating regionally:
 
 7. **Review annually as product portfolio and markets evolve.** New product, new market, new contractual requirement should each trigger review.
 
-The cost of properly structured regional PL/Product Liability for an SME with SGD 5-25 million product revenue is typically SGD 8,000-40,000 in annual premium depending on product category, US exposure, and recall risk. The cost of a single significant claim - particularly in US or for recallable consumer product - typically exceeds many years of premium.
+The cost of regional PL/Product Liability depends on product category, US exposure, and recall risk. The cost of a single significant claim - particularly in US or for recallable consumer product - typically exceeds many years of premium.
 
 ### Questions to Ask Your Adviser
 

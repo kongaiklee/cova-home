@@ -21,16 +21,16 @@ og_description: "A mobile beauty or wellness provider works in customers' homes.
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa, beauty-on-demand) typically needs: **Public Liability with worldwide / Singapore-territorial scope** (since the practitioner is operating away from a fixed premises - many SME PLs default to specific premises only), **Treatment Risk / Beauty Therapy Liability** for treatment-related claims (allergic reactions, burns, eye injury from lash extensions, nail damage), **Equipment in Transit / Goods in Transit** for portable equipment and supplies, **Personal Property cover** for items at clients' homes, **WICA** if employing therapists (or appropriate self-employed PA cover for solo practitioners), and **Cyber Liability** for booking platform and customer data. The most distinctive risk: **operating without fixed premises** means standard SME PL with premises endorsement may not respond. Mobile beauty services need specific underwriting; generic SME PL almost always has gaps. For services involving aesthetic devices (LED, microcurrent, RF, laser), specific HSA-aware underwriting applies - see [insuring energy-based aesthetic treatments](/edge-case/medical-aesthetics-injectables-clinics).
+> A Singapore mobile beauty or wellness service provider (in-home or location-based facials, lash extensions, nail services, massage, mobile spa, beauty-on-demand) typically needs: **Public Liability with worldwide / Singapore-territorial scope** (since the practitioner is operating away from a fixed premises, and a PL can be limited to a stated premises), **Treatment Risk / Beauty Therapy Liability** for treatment-related claims (allergic reactions, burns, eye injury from lash extensions, nail damage), **Equipment in Transit / Goods in Transit** for portable equipment and supplies, **Personal Property cover** for items at clients' homes, **WICA** insurance for employed therapists where the Work Injury Compensation Act 2019 and its regulations require it (or appropriate self-employed PA cover for solo practitioners), and **Cyber Liability** for booking platform and customer data. The most distinctive risk: **operating without fixed premises** means standard SME PL with premises endorsement may not respond. Mobile beauty services need specific underwriting: in one SME package wording, for example, the treatment-risks extension is capped at S$50,000 and does not list massage or lash extensions among its covered services. For services involving aesthetic devices (LED, microcurrent, RF, laser), the device rules come first: a medical device must be registered with HSA before it is supplied, unless it is a Class A low-risk device; Class 3b and Class 4 lasers need NEA licences to possess and use; and NEA says Class 4 lasers cannot be used in beauty salons, spas or at home. See [insuring energy-based aesthetic treatments](/edge-case/medical-aesthetics-injectables-clinics).
 
 ### The Sourced Detail
 
-The mobile beauty / on-demand wellness category has expanded rapidly in Singapore - driven by lifestyle convenience preferences, platform-based service marketplaces, and pandemic-era home service growth. Insurance underwriting has lagged the operational reality; many practitioners and platform operators discover gaps only at claim time.
+Mobile beauty and on-demand wellness services are delivered in clients' homes and can be booked through platforms.
 
 #### The unique risk profile
 
 **1. No fixed premises.**
-Standard SME PL is typically attached to a stated premises address. Mobile services operate at constantly varying client locations. Cover must address this explicitly.
+An SME PL may be limited to a stated premises address, or may cover the business anywhere within the policy's geographical limits, as one SME package wording does. Mobile services operate at constantly varying client locations. Cover must address this explicitly.
 
 **2. Client home environment risks.**
 Practitioners encounter:
@@ -58,25 +58,25 @@ Working alone in client homes:
 Same as fixed-premises beauty (allergic reactions, burns, infections) but possibly amplified by environmental variables.
 
 **6. Platform / marketplace dynamics.**
-Many mobile practitioners work through platforms (Vaniday, ClassPass, specific beauty marketplaces):
+Some practitioners take bookings through platforms or beauty marketplaces:
 - Platform's own insurance vs practitioner's own
 - Platform contractual indemnification arrangements
 - Specific obligations under platform terms
 
 **7. Sometimes employee-status ambiguity.**
 Platform-engaged practitioners may be:
-- Independent contractors (most common)
+- Independent contractors
 - Employees of platform (some models)
 - Hybrid arrangements
 
-For WICA classification, see [Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025) and the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024).
+The [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) does not reach these arrangements: its First Schedule lists only delivery and ride-hail services (see [Platform Workers Act: Full Commencement on 1 January 2025](/regulatory-change/pwa-jan-2025)). WICA covers a practitioner employed under a contract of service, and does not cover independent contractors or the self-employed.
 
 #### Stage-by-stage insurance build
 
 **Pre-launch:**
-- ACRA business registration if running as a business
+- ACRA business registration if running as a business, unless exempted (a business run under the owner's full NRIC name only need not register)
 - Specific licensing if operating from any fixed premises (rare for pure mobile)
-- [HSA](https://www.hsa.gov.sg/) registration for any aesthetic devices used
+- For any aesthetic device that is a medical device, confirm it is registered with [HSA](https://www.hsa.gov.sg/) (registration comes before the device is supplied, and Class A low-risk devices are exempt); a Class 3b or Class 4 laser also needs [NEA](https://www.nea.gov.sg/) licences to possess and use it
 - Insurance procurement before commencing services
 
 **Solo practitioner mobile service:**
@@ -89,7 +89,7 @@ For WICA classification, see [Platform Workers Act: Full Commencement on 1 Janua
 
 **Mobile service business with employed practitioners:**
 - All above plus
-- WICA for employed therapists
+- WICA for employed therapists where the duty to insure applies: the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires it for employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, annual wage supplement, productivity incentive payments and allowances, is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude. One of those classes is "any employee employed in the operation of a hairdressing saloon", a term the Regulations do not define, so ask MOM or your insurer whether it applies to your business. An employer outside the duty to insure must still compensate injured employees under WICA.
 - Group Medical / Group PA for staff
 - Higher PL limits
 - D&O if incorporated
@@ -112,7 +112,6 @@ PL for mobile beauty / wellness:
 - Visitor injuries (pets, children, family members in client home)
 
 **Limit considerations:**
-- Standard limits S$1M-S$3M typical
 - Higher considerations for high-end / luxury service tiers
 - Specific landlord / corporate client requirements
 
@@ -128,7 +127,7 @@ PL for mobile beauty / wellness:
 
 This is the critical specialty layer for beauty services:
 
-**Treatments commonly covered:**
+**Treatments to check against the policy's list of covered services** (one SME package's treatment-risks extension, for example, lists manicures, pedicures, nail extensions, facials and eyelash shaping and tinting, but not massage or lash extensions):
 - Facials and skincare treatments
 - Lash extensions
 - Nail services (manicure, pedicure, gel, acrylic)
@@ -145,7 +144,7 @@ This is the critical specialty layer for beauty services:
 - Nail damage (over-filing, infections)
 
 **Limit considerations:**
-- Standard treatment risk: S$500k-S$2M
+- Treatment risk limits vary by wording (one SME package caps its treatment-risks extension at S$50,000 for any one occurrence and in the aggregate)
 - Higher-risk treatments (chemical, device-based): higher limits
 - Specific to the treatment menu
 
@@ -173,13 +172,13 @@ Mobile equipment cover:
 - Specific equipment limits
 
 **The unattended vehicle warranty:**
-Most equipment policies require equipment in vehicles to be:
+Equipment policies may set conditions for equipment left in a vehicle, such as:
 - Out of sight
 - Vehicle locked
-- Not left overnight (typically)
+- Not left overnight
 - Some require alarm armed
 
-Breach voids theft cover for that incident.
+Breaching such a condition can leave a theft uncovered, and one SME package's goods-in-transit section excludes loss from an unattended vehicle altogether.
 
 #### Aesthetic device considerations
 
@@ -214,12 +213,12 @@ Mobile beauty services hold:
 
 **Specific Cyber considerations:**
 - Customer addresses are particularly sensitive (home access information)
-- [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) significant-harm category for sensitive personal data
+- [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) breach notification: a breach must be notified if it is likely to cause significant harm or affects 500 or more people, and significant harm is deemed for prescribed data (such as a name with a card or bank account number, or an account name with its password), which does not cover an ordinary home address
 - Platform-based booking introduces platform Cyber dependencies
 - BEC scenarios for supplier and platform payments
 
 **Recommended Cyber stack:**
-- Standalone Cyber with appropriate limits (S$500k-S$2M typical for SME mobile beauty)
+- Standalone Cyber with appropriate limits
 - BEC / Social Engineering Fraud cover
 - BI for booking system disruption
 - PDPA Section 26D notification cover
@@ -247,7 +246,7 @@ For solo practitioners working in client homes:
 
 #### Platform / marketplace considerations
 
-Many mobile beauty practitioners work through platforms:
+Some mobile beauty practitioners work through platforms:
 
 **Platform contractual:**
 - Specific insurance requirements imposed by platform
@@ -277,7 +276,7 @@ Many mobile beauty practitioners work through platforms:
 
 **Nail services:**
 - Cross-contamination risks
-- Tool sterilisation (specific HSA / [NEA](https://www.nea.gov.sg/) standards)
+- Tool cleaning and sterilisation
 - Allergen exposure
 - Specific equipment
 
@@ -302,17 +301,17 @@ Many mobile beauty practitioners work through platforms:
 For typical Singapore mobile beauty / wellness:
 
 **Solo practitioner:**
-- PL/Treatment Risk bundle: S$800-S$3,000
-- Equipment / GIT: S$300-S$1,500
-- Cyber / others: S$500-S$2,000
-- Personal Accident: S$200-S$800
-- **Total annual insurance budget** typically S$2,000-S$7,500
+- PL/Treatment Risk bundle
+- Equipment / GIT
+- Cyber / others
+- Personal Accident
+- **Total annual insurance budget** depends on the treatments offered, the limits chosen and the claims history
 
 **Mobile service business with team (3-10 therapists):**
 - Higher PL/Treatment Risk
 - WICA, Group benefits
 - Cyber Liability with appropriate limits
-- **Total typically S$8,000-S$25,000**
+- **Total** depends on headcount, the treatments offered and the limits chosen
 
 **Larger mobile beauty operator / platform:**
 - Comprehensive programme
@@ -320,7 +319,7 @@ For typical Singapore mobile beauty / wellness:
 
 #### Operational risk management
 
-Insurers underwrite mobile beauty on:
+Risk controls for mobile beauty:
 
 **Practitioner certifications:**
 - Specific qualifications for treatments offered
@@ -350,7 +349,7 @@ Insurers underwrite mobile beauty on:
 2. **No Treatment Risk / Beauty Therapy Liability.** Treatment-related claims uninsured.
 3. **Equipment in Transit gap.** Loss/damage during transit between clients.
 4. **No territorial scope review.** Service area may exceed cover scope.
-5. **Aesthetic devices used without specific underwriting and HSA registration.** Compliance and insurance gaps.
+5. **Aesthetic devices used without specific underwriting, or without checking HSA registration and NEA laser licensing.** Compliance and insurance gaps.
 6. **Platform reliance without practitioner-own cover.** Platform cover may not extend to all scenarios.
 7. **No personal safety protocols documented.** Practitioner welfare and incident response.
 8. **Customer address data not specifically protected.** PDPA exposure on sensitive data.
@@ -377,7 +376,7 @@ For Singapore mobile beauty / wellness practitioners:
 
 8. **Annual review covering service expansion.** New treatments warrant insurance review.
 
-The mobile beauty insurance build is moderate-cost but specific. Generic approaches almost always have gaps that surface only at incident time.
+The mobile beauty insurance build is specific to the treatments offered and the way the work is done.
 
 ### Questions to Ask Your Adviser
 

@@ -21,7 +21,7 @@ og_description: "A medical clinic or specialist practice is licensed under HCSA 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore medical clinic or specialist practice requires licensing under the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by the [Ministry of Health (MOH)](https://www.moh.gov.sg/) - replacing the older Private Hospitals and Medical Clinics Act framework. Each licensed service has specific requirements. Insurance baseline includes **Medical Indemnity** (specialist-specific; minimums set by the [Singapore Medical Council (SMC)](https://www.healthprofessionals.gov.sg/smc) and / or the doctor's defence organisation - MPS, MDA Medical, MIPS, MDDUS commonly), **Public Liability** for clinic premises, **Property/Fire** for clinic and equipment, **WICA** for clinic staff, **Cyber Liability** with elevated attention to medical record sensitivity (PDPA significant-harm category and MOH's separate health data framework), **Equipment Breakdown** for medical equipment, and **D&O** for incorporated structures. Specialty practices (radiology, cardiology, orthopaedics, plastic/cosmetic surgery, ophthalmology) face higher Medical Indemnity premiums and specific underwriting; cosmetic practice in particular has elevated exposure.
+> A Singapore medical clinic or specialist practice requires licensing under the [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020) administered by the [Ministry of Health (MOH)](https://www.moh.gov.sg/) - replacing the older Private Hospitals and Medical Clinics Act framework. Each licensed service has specific requirements. Insurance baseline includes **Medical Indemnity** (specialist-specific; no minimum set by the [Singapore Medical Council (SMC)](https://www.smc.gov.sg/), whose practising certificate conditions do not include indemnity cover; the Singapore Medical Association names MPS, Income and Marsh as its preferred partners for the common indemnity models), **Public Liability** for clinic premises, **Property/Fire** for clinic and equipment, **WICA** for clinic staff, **Cyber Liability** with elevated attention to medical record sensitivity (under the PDPA breach-notification rules, a breach of a patient's name or identification number together with some health data, such as treatment for HIV or a sexually transmitted disease, is deemed to cause significant harm; MOH's Health Information Act, passed on 12 January 2026, is intended to take effect from early 2027), **Equipment Breakdown** for medical equipment, and **D&O** for incorporated structures. Specialty practices (radiology, cardiology, orthopaedics, plastic/cosmetic surgery, ophthalmology) face higher Medical Indemnity premiums and specific underwriting; cosmetic practice in particular has elevated exposure.
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ Per the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020), admi
 
 **Common services for clinics:**
 - Outpatient Medical Service (OMS) - general practice, specialist clinics
-- Specialist Outpatient Medical Service - specialty-specific
+- Specified Services approved under the Outpatient Medical Service licence (for example endoscopy, ECG stress testing or liposuction)
 - Specific procedure-based services (e.g. day surgery)
 - Specific equipment-based services (e.g. radiology)
 
@@ -59,9 +59,9 @@ Per the [Medical Registration Act 1997](https://sso.agc.gov.sg/Act/MRA1997) and 
 - Specialist register
 
 **Practising Certificate:**
-- Annual renewal
+- Renewal every one or two years (a practising certificate is granted for up to 2 years)
 - Continuing Medical Education (CME) compliance
-- Professional indemnity insurance - typically a renewal condition
+- Professional indemnity: section 36(7)(c) of the Medical Registration Act 1997 lets the SMC, with the Minister's approval, make cover a practising certificate condition, but none is currently prescribed
 
 **Specialist register:**
 - Specialty-specific accreditation
@@ -81,10 +81,7 @@ Medical Indemnity is the most material insurance for any practising doctor:
 
 **Mutual / Defence Organisation:**
 - MPS (Medical Protection Society)
-- MDA (Medical Defence Association)
-- MIPS (Medical Insurance Protection Society)
-- MDDUS (Medical and Dental Defence Union of Scotland)
-- Discretionary support model historically; increasingly contractual products
+- Discretionary support model (MPS states that its benefits of membership are all discretionary and that it is not an insurance company)
 
 **Commercial Medical Indemnity:**
 - Insurance-based product
@@ -96,8 +93,6 @@ Both structures provide:
 - Settlement / damages payments
 - Disciplinary representation (SMC, etc.)
 - Coronial / inquest representation
-- Specific cover for related events (HSA investigations, MOH compliance matters)
-
 The rules are set out in [how medical indemnity is regulated for Singapore doctors](/association/sma-smc-medical-practitioner-indemnity-framework), and the choice between a defence organisation and a commercial policy in [discretionary mutual indemnity vs commercial insurance](/comparison/medical-mutual-indemnity-vs-commercial-insurance).
 
 **Premium scales materially with specialty:**
@@ -128,7 +123,7 @@ Medical claims have notably long tail:
 - Limitation Act 6-year contract/tort + 3-year personal injury
 - 15-year long-stop for latent damage
 - Specific extensions for minors (limitation runs from age of majority)
-- Some claims surface 10-15+ years after the index treatment
+- A claim can therefore be brought years after the treatment, within those limits
 
 This long tail makes:
 - Continuous cover essential
@@ -158,8 +153,8 @@ Beyond the doctor's individual Medical Indemnity:
 
 **WICA:**
 - Clinic staff (nurses, medical assistants, admin, cleaners)
-- All in scope per WICA categorisation
-- Common-Law / EL extension typical
+- Insurance is required for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless another excluded class in the WIC (Insurance) Regulations applies; cover for other staff is a choice, and the duty to compensate under WICA applies either way
+- Insurance for common law liabilities can also be bought; MOM notes it is not governed under WICA
 
 **Group benefits:**
 - Group Medical
@@ -172,13 +167,13 @@ Cyber for medical clinics is critical:
 
 **1. Patient personal data:**
 - NRIC, contacts, family details
-- Highly sensitive PDPA category
-- Significant-harm threshold under [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012)
+- A breach of an NRIC number together with certain financial or health data is deemed under the PDPA breach-notification rules to cause significant harm
+- Significant-harm threshold under [PDPA Section 26B](https://sso.agc.gov.sg/Act/PDPA2012), with notification under section 26D
 
 **2. Medical records:**
 - Diagnosis, treatment, history
 - Among the most sensitive personal data
-- MOH's [Health Information Bill](https://www.moh.gov.sg/) (and related frameworks) introduces specific protections
+- MOH's [Health Information Bill](https://www.gov.sg/explainers/health-information-bill/) was passed on 12 January 2026; it sets cybersecurity and data security requirements for health information, and MOH intends it to take effect from early 2027
 
 **3. Payment data:**
 - Patient billing
@@ -196,7 +191,7 @@ Cyber for medical clinics is critical:
 - PDPA Section 26D notification requirements
 - MOH-specific reporting obligations for some incidents
 
-Cyber Liability with appropriate limits (S$3M-S$10M+ for material practice), BI/CBI for operational disruption, and PDPA Section 26D notification cover essential.
+Cyber Liability with appropriate limits, BI/CBI for operational disruption, and PDPA Section 26D notification cover essential.
 
 #### Specific specialty considerations
 
@@ -217,7 +212,7 @@ Cyber Liability with appropriate limits (S$3M-S$10M+ for material practice), BI/
 - Day surgery considerations
 
 **Plastic / aesthetic / cosmetic practice:**
-- Highest-risk specialty for indemnity
+- Rated separately for indemnity (Income's family medicine rates exclude cosmetic and aesthetic procedures)
 - Specific HCSA service licensing
 - Patient expectation management critical
 - Photography / before-after consent
@@ -305,14 +300,14 @@ Clinics with pharmaceutical inventory have specific exposures:
 For typical Singapore clinics:
 
 **Solo GP clinic (1 doctor, 2-4 staff):**
-- Medical Indemnity: S$2,000-S$8,000 (defence organisation typical)
-- Clinic-level insurance: S$5,000-S$15,000
-- **Total annual insurance budget** typically S$10,000-S$30,000
+- Medical Indemnity: Income publishes annual premiums of S$1,487.85 (non-procedural) and S$2,266.11 (procedural) for family medicine, including GST; MPS does not publish its rates
+- Clinic-level insurance: depends on the cover, limits and premises
+- **Total annual insurance budget** depends on the cover and limits chosen
 
 **Specialist clinic (1-2 specialists, 5-10 staff):**
-- Medical Indemnity: variable by specialty (S$5,000-S$30,000+ per specialist)
-- Clinic-level insurance: S$10,000-S$30,000
-- **Total typically S$25,000-S$80,000+**
+- Medical Indemnity: variable by specialty (Income's published annual premiums run from S$1,773.98 for its low-risk specialties to S$33,533.85 for obstetrics, including GST)
+- Clinic-level insurance: depends on the cover, limits and premises
+- **Total depends on specialty, cover and limits**
 
 **Multi-specialist group / day surgery:**
 - Comprehensive programme
@@ -320,7 +315,7 @@ For typical Singapore clinics:
 - **Total scales materially**
 
 **Cosmetic / plastic surgery practice:**
-- Highest-cost Medical Indemnity category
+- Medical Indemnity rated separately (Income's family medicine rates exclude cosmetic and aesthetic procedures)
 - Significant equipment exposure
 - **Total materially higher**
 
@@ -362,8 +357,8 @@ Insurers and defence organisations underwrite medical practice on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Operating without confirmed Medical Indemnity.** SMC Practising Certificate condition.
-2. **Cyber inadequate for medical record sensitivity.** PDPA significant-harm category.
+1. **Operating without confirmed Medical Indemnity.** It is not a current SMC Practising Certificate condition; the Singapore Medical Association says it is every doctor's responsibility to ensure they are adequately covered.
+2. **Cyber inadequate for medical record sensitivity.** A breach of a patient's name or identification number together with some health data is deemed under the PDPA to cause significant harm.
 3. **Equipment Breakdown skipped for sensitive equipment.** Vaccine spoilage, imaging downtime.
 4. **HCSA service licensing gaps for new procedures or services.**
 5. **Specialty progression without indemnity update.** New procedures may trigger higher indemnity.
@@ -379,7 +374,7 @@ For Singapore medical practitioners opening or running clinics:
 
 1. **Engage MOH-experienced consultant for HCSA licensing.** Service-specific complexity.
 
-2. **Maintain Medical Indemnity continuously.** Practising Certificate condition; long-tail exposure.
+2. **Maintain Medical Indemnity continuously.** Long-tail exposure.
 
 3. **For specialist practice, choose defence organisation or commercial insurer carefully.** Both have advantages; one isn't universally better.
 

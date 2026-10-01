@@ -37,7 +37,7 @@ Law firm insurance in Singapore is structurally different from most SME insuranc
 The Law Society administers a mandatory PI scheme. Every Singapore lawyer holding a Practising Certificate must have current PI cover that meets the Rules' specifications. The scheme:
 - Provides a default cover at minimum specified limits
 - Operates on the Practice Year (1 April-31 March)
-- Premiums calculated based on firm size, practice areas, claims history
+- Premium unpaid for more than 2 months after it falls due counts as a breach of the duty to insure (PII Rules r6A)
 - Some firms purchase top-up cover above the scheme minimum from commercial insurers
 
 **Minimum limits and excess:**
@@ -52,7 +52,7 @@ Per the Rules. Verify current minimums directly with the [Law Society Profession
 - Civil liability arising from professional services
 
 **What it doesn't cover (typically):**
-- Fraudulent or dishonest acts (subject to scheme provisions for affected clients)
+- Fraud or dishonesty of a sole proprietor, partner or director (the scheme does cover the practice's liability for dishonesty of employee lawyers and non-lawyer employees)
 - Bodily injury, property damage (other policies)
 - Employment disputes (EPL)
 - Specific carve-outs per the scheme wording
@@ -130,13 +130,13 @@ Legal data is among the most sensitive personal data categories handled by SMEs:
 - Privileged communications exposure
 
 **Recommended Cyber stack for law firms:**
-- Standalone Cyber with appropriate limits (S$2M-S$10M+ depending on practice scale)
+- Standalone Cyber with limits set to the practice's scale
 - Business Email Compromise / Social Engineering Fraud cover (significant exposure for real estate and transactional firms)
 - Panel breach counsel familiar with privilege issues
 - PDPC investigation defence cover
 - Third-party liability for affected clients
 
-The [PDPC Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/help-and-resources/2021/01/guide-on-managing-and-notifying-data-breaches-under-the-pdpa) applies - but with privilege considerations layered on. See [the 3-day deadline under PDPA Section 26D](/document-legal/pdpa-section-26d-breach-notification).
+The [PDPC Guide on Managing and Notifying Data Breaches](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Other-Guides/Guide-on-Managing-and-Notifying-Data-Breaches-under-the-PDPA-15-Mar-2021.pdf) applies - but with privilege considerations layered on. See [the 3-day deadline under PDPA Section 26D](/document-legal/pdpa-section-26d-breach-notification).
 
 #### Real estate / conveyancing-specific issues
 
@@ -147,7 +147,7 @@ Singapore real estate practice has specific PI exposure:
 - Lease drafting errors
 - Conveyancing process errors
 
-Settlement funds in particular sit in the firm's client account. The [Law Society Members' Conduct Rules](https://www.lawsociety.org.sg/) and [Solicitors' Accounts Rules](https://sso.agc.gov.sg/SL/LPA1966-RG6) impose specific account handling requirements; breaches can give rise to disciplinary and civil exposure.
+Settlement funds in particular sit in the firm's client account. The [Legal Profession (Professional Conduct) Rules 2015](https://sso.agc.gov.sg/SL/LPA1966-S706-2015) and [Legal Profession (Solicitors' Accounts) Rules](https://sso.agc.gov.sg/SL/LPA1966-R8) impose specific account handling requirements; breaches can give rise to disciplinary and civil exposure.
 
 **Cyber + Crime cover for real estate firms:**
 Real estate practice is a primary target for Business Email Compromise - fraudsters intercept email between firms and clients, redirect settlement funds. Specific Cyber/Crime cover with:
@@ -160,7 +160,7 @@ Real estate practice is a primary target for Business Email Compromise - fraudst
 Law firms have specific employment exposures:
 - Up-or-out partnership dynamics
 - Long hours and burnout culture
-- Discrimination claims under the [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025)
+- Discrimination claims under the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/) once it is in force (MOM aims for end-2027; employers with fewer than 25 employees are exempt from most of it)
 - Harassment exposures in hierarchical environments
 - Equity partner disputes
 
@@ -183,14 +183,12 @@ For a typical Singapore law firm:
 **Small firm (3-8 lawyers):**
 - Mandatory PI scheme premium: per Law Society scheme calculation
 - Top-up PI: optional, depending on practice
-- Other lines (WICA, Property, BI, Group Medical, Cyber): S$8,000-S$25,000
-- **Total annual insurance budget** typically S$15,000-S$50,000+
+- Other lines (WICA, Property, BI, Group Medical, Cyber): priced by quote
 
 **Mid-size firm (10-25 lawyers):**
 - Higher PI scheme premium
 - Top-up PI typical
-- Other lines: S$25,000-S$80,000
-- **Total: S$50,000-S$200,000+**
+- Other lines: priced by quote
 
 **Larger firm:**
 - Comprehensive programme
@@ -207,7 +205,7 @@ These are illustrative; obtain comparative quotes for actual circumstances.
 **Family law** - emotionally charged, complaint-frequent
 **Personal injury** - outcomes-driven, contingency considerations
 **Intellectual property** - international scope, technical complexity
-**Construction** - long-tail under [Limitation Act 1959 Section 24A](https://sso.agc.gov.sg/Act/LA1959) 15-year long-stop
+**Construction** - long-tail under [Limitation Act 1959 section 24B](https://sso.agc.gov.sg/Act/LA1959?ProvIds=pr24B-) 15-year long-stop
 
 Each specialist practice area may benefit from underwriting review and tailored cover.
 
@@ -219,7 +217,7 @@ Each specialist practice area may benefit from underwriting review and tailored 
 4. **No Crime / Social Engineering Fraud cover for real estate / transactional firms.**
 5. **At lawyer departure / firm change - not coordinating PI tail.** Departing lawyers need run-off; firm needs continuity for prior acts.
 6. **Underestimating long-tail latency.** Errors may surface 6+ years later; cover continuity matters.
-7. **Treating EPL as optional at small firm size.** Workplace Fairness Act 2024 and harassment exposures don't scale with size.
+7. **Treating EPL as optional at small firm size.** Harassment exposures do not depend on firm size; the Workplace Fairness Act 2025, once in force (MOM aims for end-2027), exempts employers with fewer than 25 employees from most of it.
 8. **No coordination at firm restructuring (LLP conversion, incorporation, merger).** Each event has insurance implications.
 
 ### What This Means for Your Business

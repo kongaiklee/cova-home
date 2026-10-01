@@ -14,38 +14,38 @@ word_count: 1544
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/real-estate-agency-insurance-stack-singapore"
-meta_description: "A real estate agency is licensed at two levels under the Estate Agents Act. What the CEA requires, and the cover the transactions themselves demand."
+meta_description: "An estate agency is licensed and its salespersons registered under the Estate Agents Act. What the CEA requires, PI included, and the cover deals demand."
 og_title: "Real Estate Agencies in Singapore: The Insurance Stack from Salesperson PI to Agency PL"
-og_description: "A real estate agency is licensed at two levels under the Estate Agents Act. What the CEA requires, and the cover the transactions themselves demand."
+og_description: "An estate agency is licensed and its salespersons registered under the Estate Agents Act. What the CEA requires, PI included, and the cover deals demand."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore real estate agency operates under the [Estate Agents Act 2010 (EAA2010)](https://sso.agc.gov.sg/Act/EAA2010) administered by the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/), with licensing requirements at both the agency level and the salesperson level. The insurance stack reflects two distinct exposures: **agency-level liabilities** (errors in advertising, marketing claims, regulatory non-compliance under EAA2010, PDPA breaches arising from client personal data) and **salesperson-level liabilities** (misrepresentation of properties, unauthorised commission arrangements, conflicts of interest under [CEA's Practice Guidelines](https://www.cea.gov.sg/professionals/regulatory-info/practice-circulars)). Mandatory covers include [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) for employed staff and [foreign-worker medical](https://sso.agc.gov.sg/Act/EFMA1990) for any work-pass holders; high-priority discretionary covers include professional indemnity (PI), public liability (PL), cyber liability, and crime / fidelity guarantee. This article sets out the regulatory perimeter, the seven covers most relevant to a Singapore real estate agency, and the operational controls that materially reduce the PI exposure.
+> A Singapore real estate agency operates under the [Estate Agents Act 2010 (EAA2010)](https://sso.agc.gov.sg/Act/EAA2010) administered by the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/), with a licence required at the agency level and registration at the salesperson level. The insurance stack reflects two distinct exposures: **agency-level liabilities** (errors in advertising, marketing claims, regulatory non-compliance under EAA2010, PDPA breaches arising from client personal data) and **salesperson-level liabilities** (misrepresentation of properties, unauthorised commission arrangements, conflicts of interest under [CEA's Code of Ethics and Professional Client Care](https://www.cea.gov.sg/regulatory-matters/codes-of-conduct/)). Mandatory covers include [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) insurance for employees doing manual work and non-manual employees earning S$2,600 a month or less outside the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude (such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month) and [foreign-worker medical](https://sso.agc.gov.sg/Act/EFMA1990) for any Work Permit or S Pass holders; professional indemnity (PI) is also mandatory, under the Estate Agents (Estate Agency Work) Regulations 2010, for the agency and all its salespersons; high-priority discretionary covers include public liability (PL), cyber liability, and crime / fidelity guarantee. This article sets out the regulatory perimeter, the seven covers most relevant to a Singapore real estate agency, and the operational controls that materially reduce the PI exposure.
 
 ### The Sourced Detail
 
 Real estate agency operations in Singapore are tightly regulated. The [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) governs the conduct of estate agencies and registered salespersons. The CEA administers the licensing regime and issues practice guidelines that shape what agencies and salespersons may and may not do.
 
-The insurance stack mirrors the regulatory structure: agency-level covers protect the licensed entity; salesperson-level conduct creates exposures the agency typically carries vicariously.
+The insurance stack mirrors the regulatory structure: agency-level covers protect the licensed entity; salesperson-level conduct is for the agency to supervise, and CEA requires the agency's PI policy to cover all its salespersons.
 
 #### The regulatory perimeter
 
-**Estate agent licensing.** Under the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) and its subsidiary regulations, an estate agency operating in Singapore must hold an estate agent licence issued by CEA. The licence is renewed annually; the renewal requires evidence of continued compliance with CEA's conduct standards.
+**Estate agent licensing.** Under the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) and its subsidiary regulations, an estate agency operating in Singapore must hold an estate agent licence issued by CEA. Licences have been renewed every year; from the 2026 renewal exercise, a renewed licence is valid for three years, from 1 January 2027 to 31 December 2029. The agency must keep professional indemnity insurance in force that covers the agency and all its salespersons, and renewal also requires its key executive officer and salespersons to be up to date with CPD and MediSave.
 
 **Salesperson registration.** Each estate salesperson must be registered with CEA, hold the required Real Estate Salesperson (RES) qualification, complete continuing professional development (CPD), and be attached to a licensed estate agency. The Public Register of Estate Agents and Salespersons on the CEA website is the authoritative reference.
 
-**Practice circulars and guidelines.** CEA issues Practice Circulars on specific conduct matters (advertising representations, co-broking, dual representation, AML/CFT). These shape what amounts to a regulatory breach and, indirectly, the PI exposure.
+**Practice circulars and guidelines.** CEA issues Practice Guidelines and Practice Circulars on specific conduct matters (for example, ethical advertising, co-broking, and options to purchase), and the Estate Agents (Estate Agency Work) Regulations 2010 bar a salesperson from having both buyer and seller, or both landlord and tenant, as clients for the same property and prescribe a Code of Ethics and Professional Client Care that includes a duty to avoid conflicts of interest. These shape what amounts to a regulatory breach and, indirectly, the PI exposure.
 
-**AML/CFT.** Real estate agencies are designated non-financial businesses and professions (DNFBPs) for AML/CFT purposes; the agency must maintain a programme aligned with [CEA's Practice Circulars on AML/CFT](https://www.cea.gov.sg/professionals/regulatory-info/practice-circulars) and the [Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992](https://sso.agc.gov.sg/Act/CDTOSCCBA1992) (CDTOSCCBA1992) - including customer due diligence, suspicious-transaction reporting, and record retention.
+**AML/CFT.** Real estate agencies are designated non-financial businesses and professions (DNFBPs) for AML/CFT purposes; the agency must maintain a programme aligned with Part 4A of the Estate Agents Act 2010, the [Estate Agents (Prevention of Money Laundering, Proliferation Financing and Terrorism Financing) Regulations 2021](https://www.cea.gov.sg/regulatory-matters/preventing-money-laundering-proliferation-financing-and-terrorism-financing/) and the [Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992](https://sso.agc.gov.sg/Act/CDTOSCCBA1992) (CDTOSCCBA1992) - including customer due diligence, suspicious-transaction reporting, and record retention.
 
 **PDPA.** Agencies and salespersons handle extensive personal data - clients' identity documents, financial information, employment information, family information. The [PDPA's Data Protection Obligations](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations) apply, including the Part 6A breach notification regime.
 
 #### The seven-cover insurance stack
 
-A Singapore real estate agency's insurance stack typically includes seven covers.
+Seven covers are most relevant to a Singapore real estate agency.
 
-**1. Work Injury Compensation (WICA).** Mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) section 24 for employed staff doing manual work and for non-manual employees within the S$2,600/month salary threshold. Most agency staff (administrative, marketing, support) fall within the perimeter as non-manual workers. Salespersons engaged as independent contractors are outside the WICA perimeter; the contractual relationship determines this.
+**1. Work Injury Compensation (WICA).** Mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) section 24 for employees doing manual work and for non-manual employees earning S$2,600 a month or less; the Work Injury Compensation (Insurance) Regulations 2020 also exclude the employees of some classes of employer, such as banks and retail-trade employers. Administrative, marketing and support staff are non-manual, so they fall within the duty only if they earn S$2,600 a month or less. Salespersons engaged as independent contractors are outside the WICA perimeter; the contractual relationship determines this.
 
 **2. Foreign-worker medical insurance.** Mandatory under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) for any Work Permit or S Pass holders. Stage 2 enhancement in force from 1 July 2025.
 
@@ -55,7 +55,7 @@ A Singapore real estate agency's insurance stack typically includes seven covers
 
 **5. Cyber liability.** Real estate agencies hold large volumes of personal data and transaction information. Cyber response cover - forensics, PDPA notification, individual notification, third-party claims - is material. See [how to file a data breach notification under PDPA Part 6A](/procedural-howto/pdpa-data-breach-notification-3-day-pdpc-singapore).
 
-**6. Crime / Fidelity Guarantee.** Real estate transactions involve client funds (deposits, option fees) flowing through the agency. Fidelity Guarantee cover responds to employee dishonesty - misappropriation of client funds by salespersons or staff.
+**6. Crime / Fidelity Guarantee.** Agents are generally prohibited from handling transaction monies such as option fees and deposits, which clients pay directly to the payee, but commissions are paid to the agency. Fidelity Guarantee cover responds to employee dishonesty, such as misappropriation of the agency's funds by staff.
 
 **7. Office contents and equipment.** Standard property cover for the agency's premises - computers, furniture, fixtures, lease-improvements.
 
@@ -63,11 +63,11 @@ A Directors' and Officers' (D&O) cover may be added for governance exposure, par
 
 #### Three PI exposure scenarios
 
-Three recurring scenarios drive PI claims against Singapore real estate agencies.
+Three scenarios show how PI claims can arise against a Singapore real estate agency.
 
-**Scenario A: Property condition misrepresentation.** A salesperson represents the property as having a feature it does not have (e.g., en-bloc potential, school proximity, freehold tenure) or fails to disclose a known material fact (e.g., a pending en-bloc, a structural issue, a regulatory restriction). The buyer relies on the misrepresentation and incurs loss. The agency's PI responds subject to the policy wording, with the salesperson's conduct attributed to the agency under vicarious liability.
+**Scenario A: Property condition misrepresentation.** A salesperson represents the property as having a feature it does not have (e.g., en-bloc potential, school proximity, freehold tenure) or fails to disclose a known material fact (e.g., a pending en-bloc, a structural issue, a regulatory restriction). The buyer relies on the misrepresentation and incurs loss. The agency's PI responds subject to the policy wording; CEA requires that policy to cover the agency and all its salespersons.
 
-**Scenario B: Commission arrangement breach.** The salesperson takes an unauthorised commission share or breaches CEA's dual-representation rules. The client (typically the seller) claims for the unauthorised commission and any consequential loss. Regulatory action by CEA may also engage, though regulatory fines are typically uninsurable under Singapore law.
+**Scenario B: Commission arrangement breach.** The salesperson takes an unauthorised commission share or breaches CEA's dual-representation rules. The client (typically the seller) claims for the unauthorised commission and any consequential loss. Regulatory action by CEA may also engage, and insurance policies can exclude fines and penalties (AIG's Singapore CGL wording, for example, excludes "civil or criminal fines or penalties").
 
 **Scenario C: Documentation error.** An Option to Purchase, Sale and Purchase Agreement, or tenancy agreement is prepared by the agency with an error - wrong figure, wrong description, wrong stamp duty calculation. The error causes loss to one of the parties. PI responds to the resulting claim subject to the wording.
 
@@ -77,30 +77,30 @@ A central PI question for any real estate agency is the agency's responsibility 
 
 The PI policy should be checked for:
 
-- Whether the policy covers conduct of registered salespersons attached to the agency.
-- Whether the policy covers both employed and self-employed salespersons.
-- Whether the policy carries dollar limits per individual salesperson or shared limits across the agency.
+- That it covers the agency and all its registered salespersons, employed or self-employed, as CEA requires.
+- That the limit meets CEA's minimum for the agency's number of salespersons (from S$100,000 for a sole proprietor who engages no other salesperson to S$1 million for more than 500), with a sub-limit of at least S$100,000 for each salesperson and deductibles within CEA's maximums.
+- That it covers every type of estate agency work the agency does, such as en bloc sales or the marketing of foreign properties.
 
 #### AML/CFT and the agency's controls
 
 Real estate agencies' AML/CFT obligations include:
 
-- **Customer due diligence (CDD)** on every transaction.
+- **Customer due diligence (CDD)** on clients, and due diligence on unrepresented counterparties, in every property transaction except the rental of HDB property wholly for residential use.
 - **Enhanced due diligence** for high-risk transactions (politically exposed persons, complex structures, jurisdictions of concern).
-- **Suspicious transaction reporting** to the [Suspicious Transaction Reporting Office (STRO)](https://www.police.gov.sg/Advisories/Crime/Commercial-Crimes/Suspicious-Transaction-Reporting-Office).
+- **Suspicious transaction reporting** to the [Suspicious Transaction Reporting Office (STRO)](https://www.police.gov.sg/Advisories/Commercial-Crimes/Suspicious-Transaction-Reporting-Office/Suspicious-Transaction-Reporting).
 - **Record retention** of CDD and transaction records.
 
 A breach of the AML/CFT regime is typically not directly insurable for the regulatory penalty itself; the cover may respond to associated investigation costs depending on the wording.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **PI cover that does not extend to self-employed salespersons.** Many agency salespersons are self-employed; cover gaps follow.
+1. **PI cover that does not extend to every registered salesperson.** CEA requires the agency's PI policy to cover the agency and all its salespersons, many of whom are self-employed; a gap breaches that licensing requirement as well as leaving the exposure uninsured.
 
 2. **No formal record of agency conduct standards.** Difficult to demonstrate the agency's mitigation position at any subsequent claim.
 
 3. **PDPA practice that has not been audited.** The volume of personal data in real estate transactions is high.
 
-4. **No documented co-broking arrangements.** The CEA Practice Circulars require clear documentation.
+4. **No documented co-broking arrangements.** CEA's Practice Guidelines require co-broking terms to be confirmed in writing before a transaction closes.
 
 5. **Office contents under-insured.** Agencies often expand without updating sums insured.
 

@@ -14,17 +14,17 @@ word_count: 2723
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/parametric-insurance-singapore"
-meta_description: "Parametric cover pays a fixed sum when a measured trigger is crossed, not when a loss is proved. What that changes, and where it fits a Singapore SME."
+meta_description: "Parametric cover pays a fixed sum when a measured trigger is crossed, rather than an adjusted loss. What that changes, and where it fits a Singapore SME."
 og_title: "Parametric Insurance for Singapore SMEs: How Trigger-Based Cover Actually Works"
-og_description: "Parametric cover pays a fixed sum when a measured trigger is crossed, not when a loss is proved. What that changes, and where it fits a Singapore SME."
+og_description: "Parametric cover pays a fixed sum when a measured trigger is crossed, rather than an adjusted loss. What that changes, and where it fits a Singapore SME."
 ---
 
 > **The Answer in 60 Seconds**
 > Parametric insurance pays a fixed, pre-agreed amount the moment a measured trigger is crossed: a rainfall total above a threshold, a wind speed past a defined point, an earthquake of a stated magnitude within a stated radius, a flight delayed beyond a set number of hours. It does not pay your actual loss. It pays the agreed sum tied to the trigger, whether your real loss is larger or smaller.
 >
-> That is the whole difference from the insurance you already hold. Traditional commercial cover is *indemnity* cover: it puts you back where you were by paying your proven, adjusted loss, up to the sum insured. Parametric cover skips the loss-proving step entirely and pays on a data reading. The trade is speed and certainty against a thing called basis risk: the gap between what the trigger pays and what you actually lost.
+> That is the whole difference from the insurance you already hold. Traditional commercial cover is *indemnity* cover: it puts you back where you were by paying your proven, adjusted loss, up to the sum insured. Parametric cover skips loss adjustment and pays on a data reading, although a policy written as insurance may still require you to show that the event caused you a financial loss. The trade is speed and certainty against a thing called basis risk: the gap between what the trigger pays and what you actually lost.
 >
-> In Singapore, any insurer writing this cover is licensed and regulated by the Monetary Authority of Singapore under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), the same statute that governs every other insurer here ([MAS, Insurance regulation](https://www.mas.gov.sg/regulation/insurance)). Parametric is a structure, not a loophole. This article explains the mechanics, where it fits for an SME, and where it does not.
+> In Singapore, an insurer writing this cover is regulated by the Monetary Authority of Singapore under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), the same statute that governs every other insurer here, for example as a licensed insurer or as a foreign insurer under the Lloyd's Asia Scheme ([MAS, Insurance regulation](https://www.mas.gov.sg/regulation/insurance)). Parametric is a structure, not a loophole. This article explains the mechanics, where it fits for an SME, and where it does not.
 
 ### The Sourced Detail
 
@@ -38,7 +38,7 @@ A parametric policy has three moving parts, and only three:
 2. **The trigger.** The threshold at which the policy pays. "If rainfall at Station X exceeds 200mm in any rolling 72-hour period during the cover term." Cross the line, the policy responds. Stay under it, it does not, no matter what happened to your business.
 3. **The payout structure.** What you receive when the trigger fires. It can be binary (trigger met, fixed sum paid) or stepped (more is paid as the index climbs through bands). The amount is agreed when you buy the policy, not calculated after the event.
 
-There is no loss adjuster, no claim form for damage, no negotiation over depreciation or proximate cause. The insurer checks the agreed data source, confirms the trigger was met, and pays the agreed amount. That is the entire claims process by design.
+There is no loss adjuster, no claim form for damage, no negotiation over depreciation or proximate cause. The insurer checks the agreed data source, confirms the trigger was met, and pays the agreed amount. Some policies written as insurance also require proof that the event caused you a financial loss.
 
 Contrast that with the indemnity cover most Singapore SMEs hold. A Property All Risks or Fire policy, a Business Interruption section, a Public Liability policy: all of these pay your *actual* loss, proven and adjusted, capped at the sum insured. The mechanics of that proving process are not trivial, which is part of why parametric exists. (For how a conventional flood or property claim is built and settled, see the related procedural articles linked below.)
 
@@ -50,12 +50,12 @@ The cleanest way to hold the distinction:
 |---|---|---|
 | **What it pays** | Your proven actual loss, up to sum insured | A pre-agreed amount tied to a trigger |
 | **Trigger** | Physical loss or damage from a covered peril | A measured index crossing a threshold |
-| **Claims process** | Loss notification, adjustment, documentation, settlement | Data check that the trigger was met |
+| **Claims process** | Loss notification, adjustment, documentation, settlement | Data check that the trigger was met, plus proof of a loss where the policy requires it |
 | **Time to pay** | Weeks to months, sometimes longer | Often days, because there is nothing to adjust |
 | **Risk to you** | Underinsurance, disputes over cause and quantum | Basis risk: payout may not match actual loss |
-| **Proof of loss** | Required | Not required |
+| **Proof of loss** | Required | Depends on the policy: some pay on the trigger alone, others also require proof that the event caused a financial loss |
 
-Both are real insurance. Both, in Singapore, are written by MAS-licensed insurers under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966). The choice between them is not "better or worse." It is "what problem are you solving." Indemnity solves "make me whole for a damage I can prove." Parametric solves "get me cash fast when a defined event happens, without waiting to prove anything."
+Both are real insurance. Both, in Singapore, are written by insurers that MAS regulates under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), such as licensed insurers and foreign insurers under the Lloyd's Asia Scheme. The choice between them is not "better or worse." It is "what problem are you solving." Indemnity solves "make me whole for a damage I can prove." Parametric solves "get me cash fast when a defined event happens, without waiting for the loss to be adjusted."
 
 #### Basis risk: the concept that decides everything
 
@@ -81,7 +81,7 @@ Parametric is not a replacement for your core programme. It is a targeted instru
 
 **Risks that indemnity cover excludes or sub-limits.** Some perils are hard to insure conventionally, or carry small sub-limits, or sit behind exclusions. Where a measurable index exists for that peril, a parametric policy can sit alongside your main programme to fill a defined gap, rather than duplicating cover you already have.
 
-**Hard-to-prove losses.** Some losses are genuinely real but painful to document: a business interruption with no physical damage to the premises, a downturn caused by an external event you did not cause and cannot easily evidence. If the *cause* of that loss is a measurable index, parametric pays on the index and sidesteps the proof problem.
+**Hard-to-prove losses.** Some losses are genuinely real but painful to document: a business interruption with no physical damage to the premises, a downturn caused by an external event you did not cause and cannot easily evidence. If the *cause* of that loss is a measurable index, parametric pays on the index rather than on an adjusted measure of the loss.
 
 **Topping up a thin programme.** An SME with modest indemnity limits can use a parametric layer to add fast, certain capacity for a named scenario without renegotiating the whole policy.
 
@@ -101,19 +101,19 @@ One more practical point. Parametric does not displace the rest of insurance dis
 
 #### The regulatory position in Singapore
 
-There is no separate "parametric regime." An insurer offering parametric cover to a Singapore SME is a licensed insurer under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) and is supervised by MAS like any other insurer ([MAS, Insurance regulation](https://www.mas.gov.sg/regulation/insurance)). The same rules on licensing, conduct, and consumer protection apply.
+There is no separate "parametric regime." An insurer carrying on parametric business in Singapore is regulated under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), for example as a licensed insurer or as a foreign insurer under the Lloyd's Asia Scheme, and is supervised by MAS like any other insurer ([MAS, Insurance regulation](https://www.mas.gov.sg/regulation/insurance)). The same rules on licensing, conduct, and consumer protection apply.
 
-What changes is the *shape* of the contract, not its regulated status. Because a parametric contract pays on an index rather than on indemnifiable loss, the structure is sometimes discussed alongside derivatives. In substance, an insurance-structured parametric policy is still insurance: it responds to a fortuitous event affecting the insured, written by a licensed insurer. The practical consequence for an SME is simple. Buy it through a licensed insurer or a licensed intermediary in Singapore, and you are inside the same regulatory perimeter as the rest of your programme. Source the same cover offshore through an unlicensed route, and you are not, with all the protection and recourse questions that follow.
+What changes is the *shape* of the contract, not its regulated status. Because a parametric contract pays on an index rather than on indemnifiable loss, the structure is sometimes discussed alongside derivatives. In substance, an insurance-structured parametric policy is still insurance: it responds to a fortuitous event affecting the insured, and in Singapore the insurer writing it is regulated by MAS, for example as a licensed insurer or as a foreign insurer under the Lloyd's Asia Scheme. The practical consequence for an SME is simple. Buy it through a licensed insurer or a licensed intermediary in Singapore, and you are inside the same regulatory perimeter as the rest of your programme. Source the same cover offshore through an unlicensed route, and you are not, with all the protection and recourse questions that follow.
 
 ## Common Mistakes
 
-1. **Treating parametric as "insurance that always pays."** It pays when the trigger fires, full stop. A near-miss on the index pays nothing, even if the event was severe for you. The certainty is about the *mechanism*, not about always getting money.
+1. **Treating parametric as "insurance that always pays."** It pays only when the trigger fires. A near-miss on the index pays nothing, even if the event was severe for you. The certainty is about the *mechanism*, not about always getting money.
 2. **Ignoring basis risk at the point of purchase.** The cheapest index is rarely the one that fits your exposure best. Buying on price means buying a loose fit, which means a higher chance the payout and your loss diverge badly in either direction.
 3. **Choosing a convenient reference station over a representative one.** A rainfall or wind reading taken far from your premises can miss a localised event entirely. The measurement point is as important as the threshold.
 4. **Assuming it replaces indemnity cover.** Parametric fills defined gaps and provides fast liquidity. It does not make you whole for a proven loss. SMEs that drop core property or BI cover in favour of parametric are usually swapping the wrong risk for the wrong reason.
 5. **Setting the trigger by feel.** A trigger should be set against where real impact to your business tends to begin, using the actual exposure, not a round number that sounds reasonable.
 6. **Overlooking interaction with existing cover.** A parametric payout for the same event your indemnity policy also responds to needs to be understood together, including how recoveries and any contribution principles interact across the programme.
-7. **Buying offshore to chase a wording.** Sourcing parametric cover outside the licensed Singapore market to access a particular product can place the whole arrangement outside MAS supervision and standard local recourse.
+7. **Buying offshore to chase a wording.** Sourcing parametric cover outside the regulated Singapore market to access a particular product can place the whole arrangement outside MAS supervision and standard local recourse.
 
 ## What This Means for Your Business
 
@@ -143,7 +143,7 @@ When you sit with a licensed adviser or broker to look at a parametric option, a
 5. What is the **payout structure**: binary or stepped, and what is the maximum I can receive?
 6. How **fast** does it pay once the trigger is confirmed, and what evidence does the insurer need to confirm the trigger?
 7. How does this layer **interact with my existing indemnity cover** for the same event, including any contribution or recovery effects across the programme?
-8. Is the insurer **licensed by MAS under the Insurance Act 1966**, and is the placement entirely within the licensed Singapore market?
+8. Is the insurer **licensed by MAS under the Insurance Act 1966**, or a foreign insurer under the Lloyd's Asia Scheme, and is the placement entirely within the regulated Singapore market?
 9. Is this filling a **defined gap** in my programme, or am I duplicating cover I already hold under property, BI, or another section?
 
 ### Related Information

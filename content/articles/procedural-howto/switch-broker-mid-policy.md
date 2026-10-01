@@ -28,9 +28,9 @@ Insurance brokers in Singapore are regulated under the Insurance Act 1966 and mu
 
 ### The Step-by-Step
 
-**Step 1 - Decide first, paper second.** Service issues, renewal price reviews, claims handling, or specialist line expertise are common reasons. Decide whether you want a clean cut (full transfer of all policies) or a partial transfer (e.g. property to new broker, employee benefits stays with incumbent). Industry guidance consistently warns business owners not to sign a BOR while still shopping for quotes - once signed and accepted by the insurer, the incumbent's authority ends.
+**Step 1 - Decide first, paper second.** Service issues, renewal price reviews, claims handling, or specialist line expertise are common reasons. Decide whether you want a clean cut (full transfer of all policies) or a partial transfer (e.g. property to new broker, employee benefits stays with incumbent). Chubb's BOR guidelines say a BOR should be used only when an insured has decided to appoint another broker, not simply to let a broker obtain a renewal quotation. Once signed and accepted by the insurer, the incumbent's authority ends.
 
-**Step 2 - Draft the BOR.** Standard BOR content (see [Chubb's published BOR guidelines](https://www.chubb.com/marketplace/CMSContent/en-us/documents/borrequestform.pdf)):
+**Step 2 - Draft the BOR.** [Chubb's published BOR guidelines](https://www.chubb.com/marketplace/CMSContent/en-us/documents/borrequestform.pdf), written for the US market, ask for the company name on its letterhead, the signatory's name, title and date, the insurer and the policy number(s), and its form carries an effective date and a line that the appointment supersedes all others. The UEN, address, policy period and ACRA signatory in the list below are not in Chubb's document:
 - Company name, UEN, address, letterhead
 - Policy number(s) and policy period
 - Named insurer
@@ -54,9 +54,9 @@ Insurance brokers in Singapore are regulated under the Insurance Act 1966 and mu
 5. **Forgetting the WICA designated-insurer constraint.** Switching broker is fine; switching the WICA insurer is constrained to MOM's list of designated insurers (see Article 46).
 
 ### What This Means for Your Business
-A broker switch is a low-risk administrative change. It does not affect your cover, your claim history, your No-Claim Discount or your continuity of insurance. What it changes is who advises you, who holds the file, and who gets paid commission on the policy.
+A broker switch is a low-risk administrative change. It does not affect your cover, your claim history, your No-Claim Discount or your continuity of insurance. What it changes is who advises you, who holds the file and, typically from renewal, who is paid commission on the policy. Chubb's guidelines say the former broker is entitled to the full annual commission for the current term, a practice they note may not be acceptable to all insurers.
 
-For an SME with a stack of policies - Fire/PAR, Public Liability, WICA, Group Health, Cyber, D&O - the broker is your single point of accountability when something goes wrong at 11pm. A sensible window to evaluate is 90-120 days before renewal: enough runway for a new broker to remarket, but past any honeymoon-period dissatisfaction with the incumbent. If you switch only one or two lines, document clearly which policies are in scope on the BOR; agents/brokers in Singapore will not assume.
+For an SME with a stack of policies - Fire/PAR, Public Liability, WICA, Group Health, Cyber, D&O - the broker is your single point of accountability when something goes wrong at 11pm. A sensible window to evaluate is 90-120 days before renewal: enough runway for a new broker to remarket, but past any honeymoon-period dissatisfaction with the incumbent. If you switch only one or two lines, document clearly which policies are in scope on the BOR; Chubb's guidelines ask for the insurer and the policy number(s) to be shown on the letter.
 
 If your business is regulated (MAS-licensed, MOH-licensed, MOM-licensed), check whether your licensing condition requires a specific broker capability (e.g. PI cover with a particular wording).
 

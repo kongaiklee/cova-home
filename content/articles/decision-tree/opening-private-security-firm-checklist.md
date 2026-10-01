@@ -21,26 +21,26 @@ og_description: "A private security firm is licensed by the Singapore police und
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore private security firm requires licensing under the [Private Security Industry Act 2007 (PSIA)](https://sso.agc.gov.sg/Act/PSIA2007), administered by the [Police Licensing and Regulatory Department (PLRD) under SPF](https://www.police.gov.sg/) - with separate licences for security agencies, security service providers, and individual security officers. Insurance baseline: **Public Liability** at elevated limits (S$3M-S$10M typical, given the operational risk profile), **Professional Indemnity** for advisory and security-audit work, **WICA** for officers (manual workers, with high-frequency injury exposure), **Property/Fire** for the office, **Cyber Liability** for client data and access-control system data, **Crime / Money** for cash-escort and valuables-in-transit operations, and **Motor (Commercial)** for patrol vehicles. The most distinctive risk: **physical incident exposure during security operations** - assaults, restraints, and use-of-force scenarios. Standard SME PL almost always excludes use-of-force and physical security operations, so industry-aware insurers and policies are essential. Confirm PLRD's current licensing conditions, which set the operational standards the agency must meet.
+> A Singapore private security firm requires licensing under the [Private Security Industry Act 2007 (PSIA)](https://sso.agc.gov.sg/Act/PSIA2007), administered by the [Police Regulatory Department (PRD) of the SPF](https://www.police.gov.sg/Business-E-Services/Apply-for-Security-Agency-Licence) - with separate licences for security agencies, security service providers, and individual security officers. Insurance baseline: **Public Liability** at limits sized to the operational risk profile and to clients' contract minimums, **Professional Indemnity** for advisory and security-audit work, **WICA** for officers (high-frequency injury exposure), **Property/Fire** for the office, **Cyber Liability** for client data and access-control system data, **Crime / Money** for cash-escort and valuables-in-transit operations, and **Motor (Commercial)** for patrol vehicles. The most distinctive risk: **physical incident exposure during security operations** - assaults, restraints, and use-of-force scenarios. Standard SME PL may exclude or restrict use-of-force and physical security operations, so the wording needs checking for security work. Confirm PRD's current licensing conditions, which set the operational standards the agency must meet.
 
 ### The Sourced Detail
 
 Singapore's private security industry - manned guarding, mobile patrol, alarm response, cash escort, executive protection, security consultancy - is a substantial sector serving commercial, residential, and event-based clients. The regulatory framework is comprehensive; the insurance considerations reflect both regulatory compliance and the operational risk profile.
 
-#### The PSIA / PLRD framework
+#### The PSIA / PRD framework
 
-The [Private Security Industry Act 2007 (PSIA)](https://sso.agc.gov.sg/Act/PSIA2007), administered by [PLRD](https://www.police.gov.sg/), licenses the industry at three levels:
+The [Private Security Industry Act 2007 (PSIA)](https://sso.agc.gov.sg/Act/PSIA2007), administered by the Police Regulatory Department ([PRD](https://www.police.gov.sg/Business-E-Services/Apply-for-Security-Agency-Licence)), licenses the industry at three levels:
 
-- **Security Agency Licence** - for an agency providing security officers, subject to PLRD's compliance requirements and renewed periodically.
-- **Security Service Provider Licence** - for the other regulated service categories, such as alarm response, security consultancy, and security audit.
+- **Security Agency Licence** - for an agency providing security officers, subject to PRD's licensing requirements, including the Security Agency Competency Evaluation, and renewed periodically.
+- **Security Service Provider Licence** - for the other regulated security services, such as installing, maintaining, repairing, designing or selling security equipment, advice on security equipment (including identifying and analysing security risks), and alarm surveillance and other monitoring services using security equipment.
 - **Individual Security Officer Licence** - for each officer, conditional on the required training and WSQ certifications.
 
-PLRD also sets **operational standards** for the industry, and security-sector wages follow a tripartite-set Progressive Wage Model. Confirm PLRD's current licensing conditions before relying on any specific requirement - they cover deployment standards and compliance and audit obligations (WICA is mandatory for the officer workforce in any event).
+PRD also sets **operational standards** for the industry, and security-sector wages follow a tripartite-set Progressive Wage Model. Confirm PRD's current licensing conditions before relying on any specific requirement - they cover deployment standards and compliance and audit obligations (WICA is mandatory for the officer workforce in any event, subject to the excluded classes).
 
 #### Business model categories
 
 - **Manned guarding** - the most common Singapore security service: static and mobile guarding across commercial, residential, and industrial sites.
-- **Cash escort / valuables in transit** - a specialist service, sometimes armed, with its own PLRD requirements.
+- **Cash escort / valuables in transit** - a specialist service; confirm with PRD what licence conditions apply.
 - **Alarm response / mobile patrol** - operations built around response-time commitments.
 - **Executive protection** - personal security for commercial or private clients, sometimes cross-border.
 - **Security consultancy / audit** - a commercial advisory service, which carries PI exposure.
@@ -50,7 +50,7 @@ PLRD also sets **operational standards** for the industry, and security-sector w
 PL responds to the general premises exposures of operating at client sites - slip / trip, equipment, and incident exposure - and, distinctively for security work, to **security-operation incidents**: use-of-force scenarios (restraint, removal), bystander and third-party injuries, and property damage during an incident.
 
 **Limit considerations:**
-- Standard limits S$3M-S$10M typical, given the risk profile
+- Limits sized to the risk profile
 - Higher for specialist operations (cash escort, executive protection)
 - Commercial clients frequently set their own minimums
 
@@ -69,11 +69,11 @@ For **insurance**, the key points are that use-of-force cover is often subject t
 
 #### Cash escort / valuables in transit
 
-Cash escort and valuables-in-transit work carries an acute risk profile - armed-robbery exposure, and the safety of both officers and the public. It needs dedicated **cash-in-transit cover**, sized to the values carried. Where the service is armed, weapon licensing and PLRD's specific provisions for armed services apply.
+Cash escort and valuables-in-transit work carries an acute risk profile - armed-robbery exposure, and the safety of both officers and the public. It needs dedicated **cash-in-transit cover**, sized to the values carried. Confirm with PRD what licence conditions apply to the escort service offered.
 
 #### The WICA layer
 
-Security operations carry substantial [WICA](https://sso.agc.gov.sg/Act/WICA2019) exposure. Most security officers are manual workers within WICA, and the high-frequency injuries are distinctive: injuries sustained during use-of-force incidents, assault injuries where an officer is attacked, traffic-related injuries in mobile patrol, and psychological or stress injuries.
+Security operations carry substantial [WICA](https://sso.agc.gov.sg/Act/WICA2019) exposure. WICA's compensation covers security officers as employees whatever their pay. Whether the duty to insure applies to an officer turns on the excluded classes in the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-); among them, the duty does not apply to an employee employed otherwise than by way of manual labour whose salary, not counting overtime, bonuses, annual wage supplement, productivity incentive payments and allowances, is more than S$2,600 a month. The Act does not define manual labour, so confirm the position with MOM or the insurer; the employer must compensate an excluded officer either way. The high-frequency injuries are distinctive: injuries sustained during use-of-force incidents, assault injuries where an officer is attacked, traffic-related injuries in mobile patrol, and psychological or stress injuries.
 
 A **Common-Law / Employer's Liability extension** is generally appropriate, given the WSHA exposure (see [what Section 48 means for directors](/document-legal/wsha-section-48-director-liability)) and the higher-risk operations. Officer welfare - including psychological support after an incident - is both a duty and an underwriting consideration.
 
@@ -95,7 +95,7 @@ Event security - concerts and festivals, corporate events, sporting events - is 
 
 **Pre-launch:**
 - ACRA business registration
-- PSIA / PLRD licence application
+- PSIA licence application to PRD
 - Officer training and certification
 - Insurance package procured
 
@@ -119,17 +119,15 @@ Event security - concerts and festivals, corporate events, sporting events - is 
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore security agencies (actual premiums depend on officer headcount, services, and claims history):
+Premiums for Singapore security agencies depend on officer headcount, services, and claims history:
 
 **Small agency (10-50 officers):**
-- PL / PI: S$5,000-S$15,000
+- PL / PI, sized to limits and services
 - WICA: substantial, driven by the officer payroll
-- Property, Cyber, other lines: S$3,000-S$10,000
-- **Total annual insurance budget:** typically S$20,000-S$80,000
+- Property, Cyber and other lines
 
 **Mid-size (100-500 officers):**
 - Higher PL limits, substantial WICA, and service-specific cover
-- **Total:** typically S$80,000-S$300,000+
 
 **Larger established agency:**
 - A comprehensive programme; total scales with the operation
@@ -146,7 +144,7 @@ Insurers underwrite security agencies on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Operating without PSIA / PLRD licensing.**
+1. **Operating without PSIA licensing from PRD.**
 2. **PL limits inadequate for the operational risk profile.**
 3. **Standard SME PL with a use-of-force exclusion.** A major exposure left unaddressed.
 4. **WICA scope too narrow for officers.** Significant manual-injury exposure.
@@ -161,7 +159,7 @@ Insurers underwrite security agencies on:
 
 For Singapore private security founders:
 
-1. **PSIA / PLRD compliance is foundational.** There is no workaround.
+1. **PSIA / PRD compliance is foundational.** There is no workaround.
 
 2. **Take PL with security-operations and use-of-force cover.** A standard SME policy is inadequate.
 

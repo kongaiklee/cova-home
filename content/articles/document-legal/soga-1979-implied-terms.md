@@ -21,7 +21,7 @@ og_description: "Singapore's Sale of Goods Act implies terms into every commerci
 
 > **The Answer in 60 Seconds**
 >
-> The [Sale of Goods Act 1979 (SOGA)](https://sso.agc.gov.sg/Act/SGA1979) creates the foundational framework for commercial sale of goods in Singapore. The Act includes specific implied terms - Section 12 (right to sell), Section 13 (sale by description), Section 14 (satisfactory quality and fitness for purpose), Section 15 (sale by sample) - that operate as conditions of commercial sale contracts unless effectively excluded. Section 14 is particularly significant: it imposes implied conditions of satisfactory quality (where seller sells in course of business) and fitness for purpose (where buyer makes purpose known to seller and relies on seller's skill / judgment). The framework substantively shapes commercial scope for SME sellers and buyers across all commercial sale of goods. Commercial implications include Product Liability scope under Public Liability extensions, considerations on exclusion clauses (subject to [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework), operational consumer commercial scope under [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), and operational commercial dispute scope.
+> The [Sale of Goods Act 1979 (SOGA)](https://sso.agc.gov.sg/Act/SGA1979) creates the foundational framework for commercial sale of goods in Singapore. The Act includes specific implied terms - Section 12 (right to sell), Section 13 (sale by description), Section 14 (satisfactory quality and fitness for purpose), Section 15 (sale by sample) - that operate as conditions of sale contracts (section 12(2) adds two warranties). The section 12 terms cannot be excluded at all; the section 13 to 15 terms can be excluded only as the Unfair Contract Terms Act allows. Where the buyer does not deal as consumer, a breach of a section 13 to 15 condition so slight that rejection would be unreasonable is not treated as a breach of condition but may be treated as a breach of warranty, unless the contract shows a contrary intention (section 15A). Section 14 is particularly significant: it imposes implied conditions of satisfactory quality (where seller sells in course of business) and fitness for purpose (where buyer makes purpose known to seller and relies on seller's skill / judgment). The framework substantively shapes commercial scope for SME sellers and buyers across all commercial sale of goods. Commercial implications include Product Liability scope under Public Liability extensions, considerations on exclusion clauses (subject to [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) framework), operational consumer commercial scope under [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), and operational commercial dispute scope.
 
 ### The Sourced Detail
 
@@ -37,9 +37,9 @@ SOGA includes several key implied terms:
 
 **Section 14 (Satisfactory quality and fitness for purpose)** - substantively the most commercially significant provision. Section 14(2) implies condition of satisfactory quality where seller sells in course of business. Section 14(3) implies condition of fitness for particular purpose where buyer makes purpose known to seller and relies on seller's skill / judgment.
 
-Satisfactory quality means goods meet standards reasonable persons would regard as satisfactory considering description, price, and operational scope. Specific factors include fitness for common purposes, appearance and finish, freedom from minor defects, safety, and durability.
+Satisfactory quality means goods meet standards reasonable persons would regard as satisfactory taking account of any description of the goods, the price (if relevant) and all the other relevant circumstances. Specific factors include fitness for common purposes, appearance and finish, freedom from minor defects, safety, and durability.
 
-**Section 15 (Sale by sample)** - implied condition that bulk corresponds with sample, that goods are free from defects rendering them unsatisfactory which would not be apparent on reasonable examination of sample, and operational scope.
+**Section 15 (Sale by sample)** - implied condition that bulk corresponds with sample, and that the goods are free from any defect making their quality unsatisfactory which would not be apparent on reasonable examination of the sample.
 
 #### The exclusion framework
 
@@ -77,7 +77,7 @@ SOGA framework creates framework for chain of supply.
 
 #### The Consumer Protection (Fair Trading) Act 2003 integration
 
-[CPFTA 2003](https://sso.agc.gov.sg/Act/CPFTA2003) - administered by the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg/), with the [Consumers Association of Singapore (CASE)](https://www.case.org.sg/) as the first point of contact for consumer complaints - creates specific consumer commercial scope. Considerations on CPFTA framework integration with SOGA framework matters substantially.
+[CPFTA 2003](https://sso.agc.gov.sg/Act/CPFTA2003) - administered by the [Competition and Consumer Commission of Singapore (CCS)](https://www.ccs.gov.sg/), with the [Consumers Association of Singapore (CASE)](https://www.case.org.sg/) as the first point of contact for consumer complaints - creates specific consumer commercial scope. Considerations on CPFTA framework integration with SOGA framework matters substantially.
 
 CPFTA framework includes framework for unfair practices, operational consumer remedies, operational operational scope considerations.
 
@@ -93,7 +93,7 @@ Commercial scenarios under SOGA framework include:
 
 **Commercial dispute scenarios** - considerations on commercial disputes around quality / fitness scope. Framework for dispute resolution.
 
-**Cross-border commercial scope** - considerations on international sale of goods including specific [United Nations Convention on Contracts for the International Sale of Goods (CISG)](https://uncitral.un.org/) where applicable. Singapore has acceded to CISG; framework for CISG vs SOGA application.
+**Cross-border commercial scope** - considerations on international sale of goods including specific [United Nations Convention on Contracts for the International Sale of Goods (CISG)](https://uncitral.un.org/) where applicable. Singapore signed the CISG in 1980 and ratified it in 1995; it has applied in Singapore since 1 March 1996 through the Sale of Goods (United Nations Convention) Act 1995, which, under Singapore's Article 95 reservation, applies it only between parties whose places of business are in different Contracting States.
 
 #### Operational considerations
 
@@ -124,7 +124,7 @@ For substantive commercial sale of goods operations, considerations on SOGA fram
 
 For Singapore SMEs in commercial sale of goods:
 
-SOGA implied terms - particularly Section 14 (satisfactory quality and fitness for purpose) - create substantive baseline commercial scope applying to substantially all commercial sale of goods. Exclusion framework operates subject to UCTA constraints. Public Liability with Product Liability extension addresses framework for defective goods scenarios. Considerations on chain of supply commercial scope, supplier commercial relationships, and standard contract terms forms the operational foundation.
+SOGA implied terms - particularly Section 14 (satisfactory quality and fitness for purpose) - create substantive baseline commercial scope applying to substantially all commercial sale of goods. Exclusion framework operates subject to UCTA constraints. Public Liability with a Product Liability extension responds to injury, or damage to other property, caused by defective goods; wordings such as AIG's Singapore Commercial General Liability policy exclude the cost of repairing, replacing or recalling the defective goods themselves. Considerations on chain of supply commercial scope, supplier commercial relationships, and standard contract terms forms the operational foundation.
 
 For substantive operations, considerations on SOGA framework, commercial counsel relationships where applicable, and operational discipline around quality compliance form the foundation.
 

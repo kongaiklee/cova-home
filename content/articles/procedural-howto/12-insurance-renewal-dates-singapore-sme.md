@@ -33,7 +33,7 @@ The table below sets out the twelve recurring dates a Singapore SME carrying a t
 
 | # | Cover | Typical Cycle | Key Rule | If Missed |
 |---|---|---|---|---|
-| 1 | Work Injury Compensation | Annual, aligned to policy year | Mandatory under [WICA 2019 s.24](https://sso.agc.gov.sg/Act/WICA2019) for all manual workers and non-manual employees at or below S$2,600/month | Section 25 offence; employer personally liable for the schedule and Common Law exposure |
+| 1 | Work Injury Compensation | Annual, aligned to policy year | Mandatory under [WICA 2019 s.24](https://sso.agc.gov.sg/Act/WICA2019) for all manual workers and non-manual employees at or below S$2,600/month, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers | Section 25 offence; employer personally liable for the schedule and Common Law exposure |
 | 2 | Foreign-Worker Medical Insurance | Annual | Mandatory under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990); Stage 2 in force from 1 July 2025 with age-differentiated premiums and standardised exclusions | MOM enforcement; work-pass privilege impact |
 | 3 | Public Liability | Annual | Most landlords and procurers require continuous cover; sub-contractor exposure typically excluded unless endorsed | Lease breach; uninsured third-party liability |
 | 4 | Fire and Property | Annual, often aligned to tenancy term | Average clause penalises underinsurance proportionately on partial losses; cyber excluded under standard property wordings | Contents and building reinstatement uninsured |

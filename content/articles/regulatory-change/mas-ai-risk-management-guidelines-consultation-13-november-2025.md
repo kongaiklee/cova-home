@@ -71,8 +71,6 @@ FI customers may ask AI vendors to provide:
 - ISO/IEC 42001:2023 (AI Management System) alignment or equivalent.
 - Compliance with [IMDA Model AI Governance Framework for Generative AI (30 May 2024)](https://aiverifyfoundation.sg/resources/mgf-gen-ai/) and [AI Verify](https://aiverifyfoundation.sg/what-is-ai-verify/) toolkit testing where applicable.
 
-For SME vendors, the documentation expectation is the operational baseline.
-
 ### Contractual Indemnities
 
 FI customers may seek indemnities from AI vendors covering:
@@ -168,7 +166,7 @@ The AIRG sits within a broader Singapore AI governance architecture. The interac
 
 **Treating the AIRG consultation as advisory.** It is. But FI customers may build the proposed expectations into vendor contracts before the Guidelines are final.
 
-**Underestimating the documentation burden.** Model cards, bias testing, adversarial robustness testing - these are not nice-to-haves.
+**Underestimating the documentation burden.** Model cards, bias testing and adversarial robustness testing are among the items FI customers may ask for.
 
 **Accepting uncapped indemnities to win business.** An uncapped indemnity for AI-related losses can exceed the limits of the SME's insurance.
 
@@ -178,17 +176,17 @@ The AIRG sits within a broader Singapore AI governance architecture. The interac
 
 **Missing the D&O implication.** AI governance failures at the SME level can produce director-level exposure. The D&O programme should be sized accordingly.
 
-**Forgetting the PDPC and other regulators.** MAS is not the only regulator in scope. PDPC, IMDA, CSA, and (extraterritorially) the EU AI Act all create parallel exposures.
+**Forgetting the PDPC and other regulators.** MAS is not the only regulator in scope. The PDPC (under the PDPA) and, extraterritorially, the EU AI Act can create parallel obligations, as can CSA under the Cybersecurity Act for AI services within its scope; IMDA's Model AI Governance Framework is voluntary.
 
 **Not coordinating Tech E&O and Cyber.** AI-related cyber incidents (model exfiltration, training-data poisoning) sit at the boundary of Tech E&O and Cyber cover. The coordination between the two policies must be specified.
 
 ## What This Means for Your Business
 
-If you are an SME AI vendor selling into the Singapore FI sector, the proposed AIRG framework bears on your procurement environment. The operational uplift - AI inventory, model cards, bias testing, ISO 42001 alignment - is the table-stakes investment.
+If you are an SME AI vendor selling into the Singapore FI sector, the proposed AIRG framework bears on your procurement environment. The operational uplift (AI inventory, model cards, bias testing, ISO 42001 alignment) covers items FI customers may ask for.
 
 The insurance side is the financial backstop. Your licensed adviser handling Tech E&O, PI, D&O, and Cyber should walk you through the AI-specific underwriting environment, the affirmative AI endorsement availability, the limit adequacy against your contractual indemnity exposure, and the wording amendments that respond to hallucination, drift, and autonomous-agent action.
 
-For SME AI vendors not selling into MAS-regulated FIs, the AIRG framework is not directly applicable. But the PDPA (explained for AI in the PDPC AI guidelines) and, where the SME has EU exposure, the EU AI Act create parallel obligations, and the voluntary [IMDA MGF](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline) framework sets out parallel practices. The operational baseline is the same.
+For SME AI vendors not selling into MAS-regulated FIs, the AIRG framework is not directly applicable. But the PDPA (explained for AI in the PDPC AI guidelines) and, where the SME has EU exposure, the EU AI Act create parallel obligations, and the voluntary [IMDA MGF](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline) framework sets out parallel practices.
 
 ## Questions to Ask Your Adviser
 
@@ -203,7 +201,7 @@ For SME AI vendors not selling into MAS-regulated FIs, the AIRG framework is not
 
 ## Related Information
 
-- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [MAS AIRG, IMDA MGF, EU AI Act: The AI Compliance Timeline for Singapore SMEs](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
 - [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
 - [AI-Generated Code Security Vulnerabilities: A Cyber, Tech E&O, PI and Product Liability Risk for Singapore SMEs](/emerging-risk/ai/ai-generated-code-security-vulnerabilities-singapore-sme)
 - [Professional Indemnity vs Tech E&O: What's the Difference for SaaS and Technology Companies?](/comparison/pi-vs-tech-eo-for-saas)

@@ -21,7 +21,7 @@ og_description: "WICA cover must be bought from one of Singapore MOM's designate
 
 > **The Answer in 60 Seconds**
 >
-> Under the [Work Injury Compensation Act 2019 (WICA)](https://sso.agc.gov.sg/Act/WICA2019), employers must procure insurance for WICA-covered employees from one of [MOM's designated insurers](https://www.mom.gov.sg/) - WICA cannot be sourced on the open market. MOM maintains **two separate designated-insurer panels**: one for **standard employer WICA** (24 designated insurers as of 1 January 2026), and a separate panel for **platform operator WICA** under the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (6 designated insurers as of 26 December 2024). The panels exist because WICA cover is mandatory, and MOM wants assured insurer capacity, claims-handling capability, and operational standards behind it. **Implications for procurement:** an SME must source WICA from a designated insurer; the panel composition shapes the pricing competition and policy availability; some panel insurers specialise in particular industries; and the platform-operator panel reflects the different commercial structure of platform work. Understanding the panel composition explains both the choice available and the pricing dynamics.
+> Under the [Work Injury Compensation Act 2019 (WICA)](https://sso.agc.gov.sg/Act/WICA2019), employers must procure insurance for WICA-covered employees from one of [MOM's designated insurers](https://www.mom.gov.sg/), unless the employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers. WICA cannot be sourced on the open market. MOM maintains **two separate designated-insurer panels**: one for **standard employer WICA** (24 designated insurers as of 1 January 2026), and a separate panel for **platform operator WICA** under the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) (6 designated insurers as of 26 December 2024). The panels exist because WICA cover is mandatory outside the excluded classes, and MOM wants assured insurer capacity, claims-handling capability, and operational standards behind it. **Implications for procurement:** an SME must source WICA from a designated insurer; the panel composition shapes the pricing competition and policy availability; some panel insurers specialise in particular industries; and the platform-operator panel reflects the different commercial structure of platform work. Understanding the panel composition explains both the choice available and the pricing dynamics.
 
 ### The Sourced Detail
 
@@ -29,15 +29,15 @@ The designated insurer panel framework is a distinctive feature of Singapore's W
 
 #### The WICA mandate
 
-The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires employers to compensate employees for work injuries. It covers **all manual workers regardless of salary**, and **non-manual workers earning S$2,600 a month or less**.
+The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires employers to compensate employees for work injuries. It also requires them to insure, a duty that covers **all manual workers regardless of salary** and **non-manual workers earning S$2,600 a month or less**, subject to the excluded classes.
 
 The compensation is capped, and the limits - effective **1 November 2025** - are S$269,000 for death, S$346,000 for total permanent incapacity, and S$53,000 for medical expenses. (Confirm the prevailing limits before relying on them.)
 
-Critically, WICA requires every employer to **insure its WICA liability with a designated insurer** - the cover cannot be placed on the open market.
+Critically, WICA requires every employer, subject to the excluded classes, to **insure its WICA liability with a designated insurer** - the cover cannot be placed on the open market.
 
 #### The designated insurer panel framework
 
-MOM operates the designated-insurer panels to assure the market: because WICA cover is compulsory, MOM wants confidence that there is sufficient insurer capacity, consistent claims handling, and a baseline of operational standards behind it. MOM evaluates insurers for the panel on financial strength, claims-handling capacity, and industry experience.
+MOM operates the designated-insurer panels to assure the market: because WICA cover is compulsory outside the excluded classes, MOM wants confidence that there is sufficient insurer capacity, consistent claims handling, and a baseline of operational standards behind it. MOM evaluates insurers for the panel on financial strength, claims-handling capacity, and industry experience.
 
 #### The standard employer panel (24 insurers as of 1 January 2026)
 
@@ -99,7 +99,7 @@ A platform operator follows a parallel path: confirm Platform Workers Act scope;
 ### Common Mistakes / What Goes Wrong
 
 1. **Procuring WICA from a non-designated insurer.** The cover must come from a panel insurer; a non-designated policy does not discharge the WICA obligation.
-2. **WICA scope inadequate for the workforce.** Manual workers are covered regardless of salary; non-manual workers are covered only up to the salary threshold - misclassifying who needs cover leaves a gap.
+2. **WICA scope inadequate for the workforce.** Outside the excluded classes, manual workers are covered regardless of salary; non-manual workers are covered only up to the salary threshold - misclassifying who needs cover leaves a gap.
 3. **No Common-Law / Employer's Liability extension.** A negligence claim outside the WICA scale is then uninsured.
 4. **No annual rate review.** Panel composition and industry rates move; an unreviewed policy can drift above market.
 5. **No industry-aware intermediary.** A broker without trade-specific WICA experience is poorly placed to negotiate construction or manufacturing rates.

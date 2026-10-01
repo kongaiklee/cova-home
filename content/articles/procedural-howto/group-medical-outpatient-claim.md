@@ -79,7 +79,7 @@ Outpatient claims are commonly handled through one of three routes:
 - Insurer or TPA app reimbursement.  
 - HR-assisted reimbursement where the company consolidates claims.
 
-The correct route depends on the employer’s arrangement. In many SMEs, the insurer is not the same party the employee interacts with for outpatient claims. A third-party administrator may handle panel access, claims adjudication, and reimbursement timelines.
+The correct route depends on the employer’s arrangement. The insurer may not be the same party the employee interacts with for outpatient claims. A third-party administrator may handle panel access, claims adjudication, and reimbursement timelines.
 
 #### Step 5 - Keep MOM minimum medical insurance and outpatient benefits separate
 

@@ -142,7 +142,7 @@ The two routes produce similar operational outcomes if executed competently. The
 5. If we have a dispute that proceeds to FIDReC, what is your role and what is the SME's role?
 
 ### Related Information
-- [5 Things Your Insurance Adviser Should Be Doing (That Most Do Not)](/comparison/5-things-insurance-adviser-should-do-singapore)
+- [5 Things Your Insurance Adviser Should Be Doing (And How to Ask for Them)](/comparison/5-things-insurance-adviser-should-do-singapore)
 - [How to Prepare Information So Your Insurance Claim Gets Processed Faster](/procedural-howto/insurance-claim-preparation-singapore)
 - [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 

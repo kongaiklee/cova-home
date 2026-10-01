@@ -21,7 +21,7 @@ og_description: "Section 172 voids a Singapore constitution clause exempting a d
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision in a company's constitution or contract that purports to **exempt** a director, officer, or auditor from, or **indemnify** them against, any liability arising from negligence, default, breach of duty, or breach of trust **is void**. Section 172A authorises the company to purchase D&O insurance for officers; Section 172B permits limited third-party indemnity, with statutory carve-outs for criminal fines, regulatory penalties, defence costs where the officer is convicted, and defence costs where civil judgment is given against the officer in proceedings brought by the company. Section 172 is the legal foundation of why **D&O Side A insurance is structurally important** - when the company cannot lawfully indemnify a director, only Side A cover provides protection. Verify the current text of the section directly on Singapore Statutes Online before relying on it; specific application requires legal advice.
+> Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision in a company's constitution, in a contract with the company or otherwise that purports to **exempt** a director or other officer from liability for negligence, default, breach of duty, or breach of trust in relation to the company **is void**, and so is any provision by which the company **indemnifies** the officer against that liability, except as permitted by Sections 172A and 172B. Section 172A authorises the company to purchase D&O insurance for officers; Section 172B permits limited third-party indemnity, with statutory carve-outs for criminal fines, regulatory penalties, defence costs where the officer is convicted, and defence costs where civil judgment is given against the officer in proceedings brought by the company. Section 172 is the legal foundation of why **D&O Side A insurance is structurally important** - when the company cannot lawfully indemnify a director, only Side A cover provides protection. Verify the current text of the section directly on Singapore Statutes Online before relying on it; specific application requires legal advice.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ Companies Act Section 172 sits at the intersection of corporate governance, fidu
 
 #### What Section 172 actually says
 
-Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision - whether contained in the constitution of a company, in a contract with the company, or otherwise - that purports to exempt an officer or auditor of the company from, or indemnify the officer against, any liability that by law would otherwise attach to that person for any negligence, default, breach of duty, or breach of trust in relation to the company is void, subject to the carve-outs set out in Sections 172A and 172B. Fetch the current text on Singapore Statutes Online before relying on the exact wording.
+Per [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), any provision, whether contained in the constitution of a company, in a contract with the company, or otherwise, that purports to exempt an officer of the company from any liability that would otherwise attach to the officer for any negligence, default, breach of duty, or breach of trust in relation to the company is void. Any provision by which the company indemnifies an officer against such liability is also void, except as permitted by Sections 172A and 172B. Auditors are dealt with separately, in Section 208A. Fetch the current text on Singapore Statutes Online before relying on the exact wording.
 
 The general rule: **a company cannot prospectively exempt or indemnify its directors against liability for negligence, default, breach of duty, or breach of trust** committed in relation to the company. Any such provision in the constitution, in a contract, or "otherwise" is void.
 
@@ -46,13 +46,13 @@ Without Section 172:
 
 #### The Section 172A authorisation for D&O insurance
 
-[Section 172A](https://sso.agc.gov.sg/Act/CoA1967) authorises the company to **purchase and maintain insurance** for an officer or auditor of the company (or a related company) against any liability incurred by that officer or auditor in respect of negligence, default, breach of duty, or breach of trust in relation to the company. This is the statutory anchor for D&O insurance: although Section 172 voids prospective company indemnification for breach of duty, the company may still lawfully pay premiums on a D&O policy whose proceeds settle the director's liability directly. The premium payment is not an indemnification; it is the procurement of a separate contract of insurance with the insurer.
+[Section 172A](https://sso.agc.gov.sg/Act/CoA1967) provides that Section 172(2) does not prevent a company from **purchasing and maintaining insurance** for an officer of the company against any liability for negligence, default, breach of duty, or breach of trust in relation to the company. This is the statutory anchor for D&O insurance: although Section 172 voids prospective company indemnification for breach of duty, the company may still lawfully pay premiums on a D&O policy whose proceeds settle the director's liability directly. The premium payment is not an indemnification; it is the procurement of a separate contract of insurance with the insurer.
 
 #### The Section 172B third-party indemnity carve-out
 
-[Section 172B](https://sso.agc.gov.sg/Act/CoA1967) permits the company to indemnify an officer or auditor against liability incurred to a **person other than the company** (or a related company) - third-party civil claims by customers, contracting parties, employees, and so on. The carve-out is subject to specific exclusions: the indemnity must not cover liability to pay a fine in criminal proceedings; liability to pay a regulatory penalty for non-compliance with a regulatory requirement; defence costs incurred in defending criminal proceedings where the officer is convicted; defence costs incurred in defending civil proceedings brought by the company or a related company where judgment is given against the officer; or costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
+[Section 172B](https://sso.agc.gov.sg/Act/CoA1967) permits the company to indemnify an officer against liability incurred to a **person other than the company** - third-party civil claims by customers, contracting parties, employees, and so on. The carve-out is subject to specific exclusions: the indemnity must not cover liability to pay a fine in criminal proceedings; liability to pay a regulatory penalty for non-compliance with a regulatory requirement; defence costs incurred in defending criminal proceedings where the officer is convicted; defence costs incurred in defending civil proceedings brought by the company or a related company where judgment is given against the officer; or costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
 
-The effect: a company can indemnify directors for third-party civil exposures, but cannot pick up the bill on criminal fines, regulatory penalties, or defence costs where the director ultimately loses the substantive proceedings. Where the company funds defence costs in real time and the director is later convicted or has judgment given against him in company-brought proceedings, those costs are repayable to the company.
+The effect: a company can indemnify directors for third-party civil exposures, but cannot pick up the bill on criminal fines, regulatory penalties, defence costs where the director is convicted in criminal proceedings, or defence costs where judgment is given against the director in civil proceedings brought by the company or a related company. For the defence-cost exclusions, Section 172B(2) and (3) look to the final decision in the proceedings, reached when the time for appealing ends or any appeal (or further appeal) is disposed of.
 
 #### How Section 172 interacts with D&O insurance
 
@@ -67,7 +67,7 @@ The structural relationship:
 - Should not be conditional on company's willingness to indemnify
 
 **Side B (Company Reimbursement):**
-- Pays the company back when it has indemnified a director under permitted circumstances (Section 172A third-party liabilities, Section 172B defence costs)
+- Pays the company back when it has indemnified a director under permitted circumstances (Section 172B, for liabilities to third parties, including defence costs outside the excluded cases)
 - Operates within the legal framework of permitted indemnification
 
 **Side C (Entity Coverage):**
@@ -100,8 +100,8 @@ The Section 172 prohibition becomes operationally relevant in scenarios where:
 - Side A may respond subject to insurability
 
 **5. Criminal proceedings:**
-- Company cannot indemnify criminal fines (Section 172A exclusion)
-- Defence costs can be funded but must be repaid if convicted (Section 172B)
+- Company cannot indemnify criminal fines (Section 172B(1)(a)(i) exclusion)
+- Defence costs cannot be indemnified where the officer is convicted (Section 172B(1)(b)(i))
 - D&O may cover defence costs and (subject to insurability) some aspects of penalties
 
 #### Practical implications for Singapore SME directors
@@ -140,7 +140,7 @@ Singapore Section 172 is broadly similar to:
 - UK Companies Act 2006 Sections 232-234 (prohibitions on exemption and indemnification, with permitted indemnity for third-party proceedings and defence costs)
 - Most Commonwealth jurisdictions follow similar patterns
 
-US states (particularly Delaware) have different frameworks - [DGCL Section 145](https://delcode.delaware.gov/) provides broader indemnification capability. For Singapore SaaS with US Delaware C-Corp parent (common venture-funded structure), the parent's DGCL framework and the subsidiary's CA Section 172 framework operate in parallel, requiring coordinated D&O programmes.
+US states (particularly Delaware) have different frameworks - [DGCL Section 145](https://delcode.delaware.gov/title8/c001/sc04/index.html) provides broader indemnification capability. For Singapore SaaS with US Delaware C-Corp parent (common venture-funded structure), the parent's DGCL framework and the subsidiary's CA Section 172 framework operate in parallel, requiring coordinated D&O programmes.
 
 See [D&O for US-exposed company structures](/cross-border/sg-saas-us-customers).
 
@@ -150,14 +150,14 @@ See [D&O for US-exposed company structures](/cross-border/sg-saas-us-customers).
 
 - Limited company assets to indemnify
 - Section 172 prohibits indemnification for breach of duty regardless
-- Side A cover at modest limits ($1M-$3M typical)
+- Side A cover at modest limits
 - Company-paid premium typically permissible
 
 **Scenario B: Series A-funded SaaS with VC board members**
 
 - Investor term sheet typically requires D&O
 - Multiple board members across investor and founder seats
-- Higher limits ($3M-$10M typical)
+- Higher limits
 - Each director's personal protection considered
 
 **Scenario C: Established SME with multiple directors and operations across industries**
@@ -186,7 +186,7 @@ See [D&O for US-exposed company structures](/cross-border/sg-saas-us-customers).
 Practical review:
 
 **1. Confirm Side A presence and limit.**
-Side A direct cover at meaningful limits is foundational. For founder-directors, S$3M-S$10M typical baseline.
+Side A direct cover at meaningful limits is foundational.
 
 **2. Verify policy responds when company cannot indemnify.**
 Some policies are structured around company indemnification first; pure Side A response requires specific policy design.
@@ -198,7 +198,7 @@ Some policies have specific conditions or extensions addressing company insolven
 Shareholder derivative actions are precisely the Section 172 scenario; D&O response should be clear.
 
 **5. Confirm defence cost mechanisms.**
-Section 172B allows company funding of defence subject to repayment; D&O should provide direct funding without that conditionality.
+Section 172B bars a company indemnity for defence costs where the officer is convicted, or where judgment is given against the officer in civil proceedings brought by the company or a related company; D&O should provide direct funding of defence costs.
 
 **6. Examine retroactive date and run-off arrangements.**
 Past acts continue to be Section 172-relevant; cover continuity matters.

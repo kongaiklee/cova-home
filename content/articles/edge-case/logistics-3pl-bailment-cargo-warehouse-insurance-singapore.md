@@ -31,7 +31,7 @@ The Singapore logistics sector is mature, large, and structurally exposed to bai
 
 A bailment arises when one party (the bailor, typically the customer) delivers goods to another (the bailee, the logistics operator) for a specific purpose (storage, transport, processing), with the bailee taking actual possession but not ownership. The bailee owes a duty of care over the goods.
 
-The standard of care depends on the nature of the bailment. A bailment for reward (where the bailee is paid, as 3PL operations are) imposes a higher standard than a gratuitous bailment. The bailee is typically liable for loss or damage unless it can show the loss arose without fault on its part.
+A bailee's duty of care over goods in its custody is a heavy one (Smart Modular Technologies Sdn Bhd v Federal Express Services (M) Sdn Bhd [2006] SGHC 66), and a 3PL holds goods as a paid bailee. The bailee is typically liable for loss or damage unless it can show the loss arose without fault on its part.
 
 The contractual documentation - bill of lading, air waybill, warehouse receipt, standard trading conditions - modifies the common-law position. Standard freight-forwarder terms typically include limitations of liability, exclusions, and conditions precedent to claim.
 
@@ -41,7 +41,7 @@ The contractual documentation - bill of lading, air waybill, warehouse receipt, 
 
 **[BLA1992](https://sso.agc.gov.sg/Act/BLA1992)** addresses rights of suit and other matters under bills of lading.
 
-**[CAA1988](https://sso.agc.gov.sg/Act/CAA1988)** governs air carriage, giving force to the Montreal/Warsaw Convention regime in Singapore.
+**[CAA1988](https://sso.agc.gov.sg/Act/CAA1988)** gives force in Singapore to the Warsaw Convention, including as amended by the Hague Protocol and Montreal Protocol No. 4; the Montreal Convention 1999 has force under the separate [Carriage by Air (Montreal Convention, 1999) Act 2007](https://sso.agc.gov.sg/Act/CAMC1999A2007).
 
 #### The seven-cover insurance stack
 
@@ -49,7 +49,7 @@ The contractual documentation - bill of lading, air waybill, warehouse receipt, 
 
 **2. Foreign-worker medical insurance.** Mandatory under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) for Work Permit and S Pass holders, common in the sector. Stage 2 enhancement in force from 1 July 2025.
 
-**3. Motor third-party / fleet.** Mandatory for any company vehicle under [MVTPRCA 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960). For larger fleets, a fleet motor policy with own-damage cover is standard.
+**3. Motor third-party / fleet.** Mandatory for any company vehicle under [MVTPRCA 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960). For larger fleets, a fleet motor policy can add own-damage (comprehensive) cover to the compulsory third-party cover.
 
 **4. Cargo-in-transit / Goods-in-transit (GIT).** The cover for goods being transported by the operator's vehicles. Covers loss or damage to the goods while in the operator's possession during transit. The sum insured is set per vehicle or per consignment.
 
@@ -65,10 +65,10 @@ Additional covers that may apply: cyber (for the operator's IT systems and custo
 
 The [Singapore Logistics Association (SLA)](https://www.sla.org.sg/) publishes standard trading conditions used widely in the sector. The conditions typically:
 
-- Limit the operator's liability per kilogram and per consignment.
+- Limit the operator's liability per kilogram and per claim (in the 2004 SLA conditions, S$5.00 per gross kilogram and S$100,000 for any one claim).
 - Exclude liability for certain types of loss (consequential, indirect).
 - Set notification windows for claims.
-- Require the customer to declare high-value goods.
+- Allow higher compensation only by special written agreement and an extra charge, and handle some valuables (such as jewellery, bullion and works of art) solely at the customer's risk.
 
 The customer's recourse against the operator is bounded by these conditions, and the operator's freight-liability cover responds within them. Where the customer has its own cargo cover, the customer's insurer typically pays the customer and then subrogates against the operator (and the operator's freight-liability cover).
 

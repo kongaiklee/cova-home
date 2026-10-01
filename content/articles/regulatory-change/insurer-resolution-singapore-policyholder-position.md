@@ -14,38 +14,34 @@ word_count: 2410
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/insurer-resolution-singapore-policyholder-position"
-meta_description: "Singapore insurers do not enter the ordinary insolvency regime. Part 3AA of the Insurance Act governs instead, and it changes where you stand."
+meta_description: "Winding up a Singapore insurer runs through IRDA 2018, with Insurance Act rules and MAS resolution powers on top. What that means for your cover and claims."
 og_title: "Insurer Resolution in Singapore: What Happens to Your Cover When Your Insurer Enters Difficulty"
-og_description: "Singapore insurers do not enter the ordinary insolvency regime. Part 3AA of the Insurance Act governs instead, and it changes where you stand."
+og_description: "Winding up a Singapore insurer runs through IRDA 2018, with Insurance Act rules and MAS resolution powers on top. What that means for your cover and claims."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Singapore insurers do not enter the general IRDA 2018 insolvency regime. They have their own special regime under Part 3AA of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), supported by Part IVB of the [Monetary Authority of Singapore Act 1970](https://sso.agc.gov.sg/Act/MASA1970) (financial-institution resolution powers), with compensation backstops under the [Deposit Insurance and Policy Owners' Protection Schemes Act 2011 (DIPOPS Act)](https://sso.agc.gov.sg/Act/DIPOPSA2011) administered by SDIC. The Policy Owners' Protection Scheme (PPF) provides automatic compensation cover for: (1) compulsory insurance under the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960); (2) compulsory insurance under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019); (3) specified personal lines issued to individuals only. Commercial-lines general insurance (Property, Public Liability, Marine, PI, Cyber, D&O, Trade Credit) is generally not PPF-protected - SMEs must rely on carrier financial-strength selection. Where MAS intervenes, the available outcomes include scheme of transfer to another insurer (the dominant solvent outcome - the closest live Singapore precedent is the 1 February 2023 transfer of HSBC Insurance (Singapore) Pte. Limited into HSBC Life (Singapore) Pte. Ltd., formerly AXA Insurance Pte. Ltd.), run-off by SDIC, or termination of policies with compensation. Court sanction is required for a scheme of transfer; policy terms are preserved by operation of law; the policyholder does not consent individually.
+> A Singapore insurer cannot be placed in judicial management under IRDA 2018, but it is wound up through the general IRDA 2018 winding-up process with insurer-specific rules on top: Part 3AA of the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) (transfers of business, winding-up rules and the priority of policy owners' claims) and, since 10 May 2024, Part 8 of the [Financial Services and Markets Act 2022](https://sso.agc.gov.sg/Act/FSMA2022) (MAS resolution powers, which replaced Part 4B of the Monetary Authority of Singapore Act 1970), with compensation backstops under the [Deposit Insurance and Policy Owners' Protection Schemes Act 2011 (DIPOPS Act)](https://sso.agc.gov.sg/Act/DIPOPSA2011) administered by SDIC. The Policy Owners' Protection Scheme (PPF) provides automatic compensation cover for: (1) compulsory insurance under the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960); (2) compulsory insurance under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019); (3) short-term accident and health policies; (4) specified personal lines issued to individuals only; and (5) life policies, including riders. Commercial-lines general insurance (Property, Public Liability, Marine, PI, Cyber, D&O, Trade Credit) is generally not PPF-protected - SMEs must rely on carrier financial-strength selection. Where MAS intervenes, the available outcomes include scheme of transfer to another insurer (the dominant solvent outcome - the closest live Singapore precedent is the 1 February 2023 transfer of HSBC Insurance (Singapore) Pte. Limited into HSBC Life (Singapore) Pte. Ltd., formerly AXA Insurance Pte. Ltd.), run-off by SDIC, or termination of policies with compensation. Court sanction is required for a scheme of transfer; policy terms are preserved by operation of law; the policyholder does not consent individually.
 
 ### The Sourced Detail
 
-Singapore licensed insurers operate under a special resolution regime separate from the general IRDA 2018 corporate insolvency framework. This is a deliberate regulatory design: insurance carries long-tail liabilities, MAS-supervised RBC2 capital adequacy obligations, and the need for orderly transfer of in-force policies to avoid disruption to policyholders and the broader market.
+Singapore licensed insurers cannot be placed in judicial management under IRDA 2018, but they are wound up through its general corporate winding-up framework, with insurer-specific rules in the Insurance Act 1966 and MAS resolution powers in the Financial Services and Markets Act 2022 on top. This is a deliberate regulatory design: insurance carries long-tail liabilities, MAS-supervised RBC2 capital adequacy obligations, and the need for orderly transfer of in-force policies to avoid disruption to policyholders and the broader market.
 
 The framework consists of three statutory layers:
 
-The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), particularly Part 3AA (Transfer of Business and Shares, Restructuring of Licensed Insurer, and Winding Up), which provides the insurer-specific judicial management, transfer-of-business, and winding-up architecture.
+The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), particularly Part 3AA (Transfer of Business and Shares, Restructuring of Licensed Insurer, and Winding Up), which now provides for voluntary transfers of insurance business, insurer-specific winding-up rules and the priority of policy owners' claims (Divisions 2 to 4 of the Part were repealed by Act 31 of 2017).
 
-Part IVB of the [Monetary Authority of Singapore Act 1970](https://sso.agc.gov.sg/Act/MASA1970), which gives MAS standing financial-institution resolution powers including bail-in, stabilisation, and bridge-institution mechanisms.
+Part 8 of the [Financial Services and Markets Act 2022](https://sso.agc.gov.sg/Act/FSMA2022), in force since 10 May 2024 in place of Part 4B of the Monetary Authority of Singapore Act 1970, which gives MAS powers to resolve financial institutions, including compulsory transfer of business or shares, compulsory restructuring of share capital and, for prescribed classes of institution, bail-in.
 
 The [Deposit Insurance and Policy Owners' Protection Schemes Act 2011](https://sso.agc.gov.sg/Act/DIPOPSA2011), which establishes the PPF Scheme administered by the [Singapore Deposit Insurance Corporation Limited (SDIC)](https://www.sdic.org.sg).
 
-#### Why insurers are carved out of the general IRDA regime
+#### Why insurers get special rules on top of the general IRDA regime
 
-The general corporate insolvency regime under IRDA 2018 is designed for commercial entities whose creditors are predominantly third-party trade creditors and lenders. An insurer's largest creditor class is its policyholders, whose claims may emerge over decades (life and annuity business) or in concentrated catastrophe scenarios (general insurance). The IRDA general regime is unsuitable for managing this liability profile.
+The general corporate insolvency regime under IRDA 2018 is designed for commercial entities whose creditors are predominantly third-party trade creditors and lenders. An insurer's largest creditor class is its policyholders, whose claims may emerge over decades (life and annuity business) or in concentrated catastrophe scenarios (general insurance). So the Insurance Act 1966 adapts the IRDA winding-up process for insurers: a liquidator must try to sell or transfer the insurance business and keep carrying it on until it is transferred unless the Court directs otherwise, and policy liabilities are valued under prescribed rules (section 120).
 
 The Insurance Act 1966 Part 3AA provides for:
 
-Insurer-specific judicial management with MAS oversight.
-
 Transfer of insurance business between insurers, with court sanction, preserving policy terms by operation of law.
-
-Restructuring orders affecting insurer share capital and ownership.
 
 Winding up of insurers on grounds including inability to pay debts and MAS recommendation.
 
@@ -67,11 +63,11 @@ Change of control of the insurer where the new controller is not fit and proper.
 
 Capital adequacy below the RBC2 minimum thresholds.
 
-When MAS intervenes, the available statutory toolkit includes: issuing directions to the insurer; appointing a statutory manager or judicial manager; appointing an inspector; ordering a transfer of business under Part 3AA; placing the insurer in winding up; exercising Part IVB MAS Act resolution powers (bridge institution, bail-in, etc.).
+When MAS intervenes, the available statutory toolkit includes: issuing directions to the insurer; assuming control of the insurer's business or appointing a statutory manager (Insurance Act section 102); inspecting the insurer; approving a voluntary transfer of business under Part 3AA, which the Court must confirm; applying to the Court to wind up the insurer; and exercising resolution powers under Part 8 of the Financial Services and Markets Act 2022 (such as compulsory transfer of business or shares and, for prescribed classes of institution, bail-in).
 
 #### The Policy Owners' Protection Scheme (PPF)
 
-The PPF Scheme administered by SDIC provides compensation cover for policyholders of failed PPF Scheme members. Membership is mandatory by law for all insurers registered by MAS to carry on direct life business (other than captives) or direct general business (other than captives or specialist insurers). Levies are paid by the insurer, not by the policyholder, and are embedded in pricing.
+The PPF Scheme administered by SDIC provides compensation cover for policyholders of failed PPF Scheme members. Membership is mandatory by law for insurers licensed by MAS to carry on direct life business (other than captives) or direct general business (other than captives or specialist insurers), unless MAS exempts them. Levies are paid by the insurers that are PPF Scheme members, not by the policyholder.
 
 PPF coverage scope for general insurance (per SDIC published material):
 
@@ -79,31 +75,33 @@ All compulsory insurance under the Motor Vehicles (Third-Party Risks and Compens
 
 All compulsory insurance under the Work Injury Compensation Act 2019.
 
-Specified personal lines issued to individuals only, where the risks arise in Singapore or the policy owner is a Singapore resident or has a permanent establishment in Singapore.
+Short-term accident and health policies.
+
+Specified personal lines issued to individuals only, where the risks arise in Singapore or the policy owner is resident in Singapore.
 
 PPF coverage is 100% with no caps for general insurance, except: statutory limits for compulsory insurance; S$50,000 for own property damage motor claims under personal motor policies; S$300,000 for property damage claims under personal property (structure and contents) policies.
 
-Commercial-lines general insurance issued to non-individuals is generally not PPF-protected, except for the compulsory portions of motor and WICA cover. Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers Liability, and Trade Credit are outside PPF protection for SME policyholders. (See [what SMEs recover if an insurer fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage) for the full PPF Scheme architecture.)
+Commercial-lines general insurance issued to non-individuals is generally not PPF-protected, except for the compulsory portions of motor and WICA cover and short-term accident and health policies. Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers Liability, and Trade Credit are outside PPF protection for SME policyholders. (See [what SMEs recover if an insurer fails](/regulatory-change/sdic-policy-owners-protection-scheme-sme-coverage) for the full PPF Scheme architecture.)
 
 PPF coverage scope for life insurance: all life policies including riders issued by PPF Scheme members, covering guaranteed benefits only, subject to caps published at SDIC.
 
 #### Activation triggers under the PPF Scheme
 
-The PPF Scheme is activated on:
+MAS may decide that the PPF funds be used where there is:
 
 Court order to wind up a PPF Scheme member.
 
-Voluntary winding up of the Scheme member or cancellation of registration.
+Voluntary winding up of the Scheme member or, where the Scheme member is a co-operative society, cancellation of its registration.
 
 MAS determination of insolvency, inability or likely inability to meet obligations, or imminent suspension of payments.
 
-MAS exercise of Part IVB MAS Act resolution powers on the Scheme member.
+MAS exercising, being likely to exercise, or having exercised its resolution powers under Part 8 of the Financial Services and Markets Act 2022 on the Scheme member (Part 4B of the Monetary Authority of Singapore Act 1970 before 10 May 2024).
 
-On activation, MAS may choose one of three outcomes: transfer of business to another insurer (under Insurance Act 1966 Part 3AA); run-off by SDIC; or termination of policies with compensation. For general insurance, compensation covers claims incurred up to 30 days after the winding-up order and refunds pro-rated unearned premium where the policy expressly entitles to a refund.
+On activation, MAS may use the PPF funds for one or more of: paying compensation; funding a transfer of the business to another insurer; funding a run-off by SDIC; or funding the termination of policies with compensation. For general insurance, compensation covers claims incurred up to 30 days after the winding-up order and refunds pro-rated unearned premium where the policy expressly entitles to a refund.
 
 #### The Singapore precedent: AXA -> HSBC Life scheme of transfer
 
-The closest live Singapore precedent for an insurer-resolution-style transaction is a solvent scheme of transfer, not a failure. HSBC Insurance (Asia Pacific) Holdings Limited acquired AXA Insurance Pte Ltd in August 2021 (closing 11 February 2022 for consideration of US$529 million / S$694 million). On 1 February 2023, the insurance business of HSBC Insurance (Singapore) Pte. Limited was transferred into HSBC Life (Singapore) Pte. Ltd. (formerly AXA Insurance Pte. Ltd.) via a court-confirmed Scheme of Transfer under the Insurance Act 1966 Part 3AA mechanism. No PPF Scheme activation occurred because there was no failure.
+The closest live Singapore precedent for an insurer-resolution-style transaction is a solvent scheme of transfer, not a failure. HSBC Insurance (Asia Pacific) Holdings Limited announced its acquisition of AXA Insurance Pte Ltd on 16 August 2021 and completed it on 11 February 2022, for a total cash consideration of US$529 million. On 1 February 2023, the insurance business of HSBC Insurance (Singapore) Pte. Limited was transferred into HSBC Life (Singapore) Pte. Ltd. (formerly AXA Insurance Pte. Ltd.) via a court-confirmed Scheme of Transfer under the Insurance Act 1966 Part 3AA mechanism. No PPF Scheme activation occurred because there was no failure.
 
 The transaction demonstrated the Part 3AA mechanism in operation:
 
@@ -117,7 +115,7 @@ The receiving insurer assumed the contractual rights and obligations from the ef
 
 #### Disambiguation: AXA Singapore versus AXA XL
 
-The AXA group operates two distinct businesses in Singapore. AXA Insurance Pte Ltd was the retail-and-SME general insurance business sold to HSBC and rebranded as HSBC Life (Singapore). AXA XL is the global commercial and specialty lines business and continues to operate in Singapore unaffected by the 2023 transaction. SMEs holding AXA XL commercial lines policies are not affected by the AXA-to-HSBC transfer.
+The AXA group operates two distinct businesses in Singapore. AXA Insurance Pte Ltd (AXA Singapore), a life, general and health insurer with retail and corporate customers, was sold to HSBC and renamed HSBC Life (Singapore) Pte. Ltd. AXA XL is the global commercial and specialty lines business and continues to operate in Singapore unaffected by the 2023 transaction. SMEs holding AXA XL commercial lines policies are not affected by the AXA-to-HSBC transfer.
 
 #### What happens to your in-force policies in a transfer
 
@@ -129,11 +127,7 @@ The receiving insurer assumes all rights, liabilities, and obligations of the tr
 
 Outstanding claims are continued by the receiving insurer.
 
-Premium paid in advance remains valid; the receiving insurer credits the SME's account.
-
-Policy documents continue to be valid; rebadging to the new insurer's name is administrative and typically done at renewal.
-
-Cooling-off and statutory rights remain undisturbed.
+Policy documents continue to be valid; in the 2023 HSBC Life integration, AXA Singapore customers were told that from 1 February 2023 any document referring to AXA Singapore should be read as referring to HSBC Life Singapore.
 
 For an SME, the practical effect of a scheme of transfer is minimal disruption: the policyholder receives notification of the transfer, the policy reference may change at renewal, and claims continue.
 
@@ -141,13 +135,13 @@ For an SME, the practical effect of a scheme of transfer is minimal disruption: 
 
 If a Singapore insurer enters winding up rather than being rescued by transfer, the order of events for an SME policyholder:
 
-MAS announces the winding-up order (or pre-positions notification of imminent insolvency).
+The Court makes the winding-up order, and information is made available through press releases.
 
-SDIC activates the PPF Scheme for the relevant insurer.
+MAS decides whether the PPF funds are used for the relevant insurer, and SDIC publishes a notification of that decision.
 
-For PPF-protected policies (compulsory motor third-party, WICA, specified personal lines), SDIC takes over claim handling under the Scheme.
+For PPF-protected policies (compulsory motor third-party, WICA, short-term accident and health, specified personal lines), SDIC states that claims continue to be processed through the insurer and SDIC pays the compensation; if MAS decides on a run-off, SDIC takes over the business.
 
-For non-PPF policies (commercial lines), the SME becomes an unsecured creditor in the winding up. The SME files a proof of debt for outstanding claims and unearned premium. The SME's recovery depends on insurer-asset realisation and the priority order under the Insurance Act 1966.
+For non-PPF policies (commercial lines), the SME's claims rank under section 123 of the Insurance Act 1966 behind PPF levies and PPF-protected liabilities, but ahead of the insurer's other unsecured liabilities (other than IRDA preferential debts). The SME files a proof of debt for outstanding claims and unearned premium. The SME's recovery depends on insurer-asset realisation and the priority order under the Insurance Act 1966.
 
 MAS may permit a partial transfer of the in-force book to another insurer to minimise disruption to policyholders. This is the preferred MAS outcome.
 
@@ -173,9 +167,9 @@ For commercial-lines towers above material concentration, co-insurance or panel 
 
 2. **Treating the AXA-to-HSBC transfer as a failure event.** It was a solvent commercial scheme of transfer. PPF was not activated.
 
-3. **Confusing AXA Insurance (the local retail entity transferred to HSBC) with AXA XL (the global commercial entity still operating in Singapore).** SME D&O, PI, Cyber, and large-account commercial placements with AXA XL are not affected by the 2023 transfer.
+3. **Confusing AXA Insurance (the local life, general and health insurer sold to HSBC) with AXA XL (the global commercial entity still operating in Singapore).** SME D&O, PI, Cyber, and large-account commercial placements with AXA XL are not affected by the 2023 transfer.
 
-4. **Failing to verify PPF Scheme membership at placement.** Most direct insurers are PPF members by mandate, but Lloyd's syndicates, foreign branches, and captives have different positions.
+4. **Failing to verify PPF Scheme membership at placement.** Most direct insurers are PPF members by mandate, including foreign insurers licensed to write direct business unless MAS exempts them; captives, specialist insurers and insurers MAS has exempted are not members.
 
 5. **Concentrating all SME cover with one insurer.** For non-PPF commercial lines, single-carrier failure exposure can be material. Splitting the programme across two or more carriers reduces this risk.
 

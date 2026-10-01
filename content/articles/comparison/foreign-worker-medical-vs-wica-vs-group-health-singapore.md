@@ -14,14 +14,14 @@ word_count: 2076
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/foreign-worker-medical-vs-wica-vs-group-health-singapore"
-meta_description: "Three covers get confused for one migrant worker and Singapore compels two of them. What foreign worker medical, WICA and group health each actually do."
+meta_description: "Foreign worker medical, WICA and group health get confused. The law compels medical cover and, outside the excluded classes, WICA. What each actually does."
 og_title: "Foreign Worker Medical Insurance vs WICA vs Group Health: What Each Actually Covers"
-og_description: "Three covers get confused for one migrant worker and Singapore compels two of them. What foreign worker medical, WICA and group health each actually do."
+og_description: "Foreign worker medical, WICA and group health get confused. The law compels medical cover and, outside the excluded classes, WICA. What each actually does."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> For a migrant worker, three different covers get confused, and two of them are required by law. The first is **foreign worker medical insurance**: under the [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ViewType=Pdf), made under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990), the employer must "purchase and maintain medical insurance" covering day surgery and in-patient care for each Work Permit and S Pass holder. The second is **WICA work-injury cover**: under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must insure against the liabilities it may incur for work injury and occupational disease, regardless of fault.
+> For a migrant worker, three different covers get confused, and two of them are required by law. The first is **foreign worker medical insurance**: under the [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012?ViewType=Pdf), made under the [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990), the employer must "purchase and maintain medical insurance" covering day surgery and in-patient care for each Work Permit and S Pass holder. The second is **WICA work-injury cover**: under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must insure against the liabilities it may incur for work injury and occupational disease, regardless of fault, unless the employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of retailers and hotel-keepers, or staff employed in operating a coffee shop.
 >
 > The third, **group health** (group hospitalisation and surgical, often with outpatient riders), is a voluntary staff benefit. No statute compels it. The three do not overlap cleanly: medical insurance pays for a worker hospitalised from any cause, WICA pays statutory compensation only when the injury arose out of employment, and group health tops up everyday care. Holding one does not satisfy the duty to hold another. Get the two mandatory covers in place first, then decide on the third deliberately.
 
@@ -92,7 +92,7 @@ Sequence the three covers by whether the law compels them. The two mandatory cov
 
 Put the **foreign worker medical insurance** in place for every Work Permit and S Pass holder before the pass is issued, sized to the current Eighth Schedule requirements. Diary the renewal against each worker's specified employment period, and check the limits and co-payment terms are the post-1-July-2025 ones rather than carried-over assumptions.
 
-Put **WICA cover** in place because you employ people, with a designated insurer, against your work-injury liabilities. This is a separate policy, separate trigger, separate renewal. A migrant worker hurt at work needs both the medical policy and WICA to do their jobs, and neither does the other's.
+Put **WICA cover** in place because you employ people, subject to the excluded classes, with a designated insurer, against your work-injury liabilities. This is a separate policy, separate trigger, separate renewal. A migrant worker hurt at work needs both the medical policy and WICA to do their jobs, and neither does the other's.
 
 Treat **group health** as a deliberate decision, not a compliance box. It is where you close the everyday-care gap the statutory hospitalisation cover leaves, raise limits, or extend medical cover to staff outside the foreign worker condition. Decide it on benefit and cost grounds, knowing it satisfies no legal duty on its own.
 

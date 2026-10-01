@@ -14,38 +14,36 @@ word_count: 1863
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-full-service-restaurant-checklist"
-meta_description: "Opening a full-service restaurant starts with the SFA Food Shop Licence and its sub-categories. What each tier requires, and what follows."
+meta_description: "Opening a full-service restaurant in Singapore starts with an SFA Food Shop Licence. What the licences require, and the insurance covers that follow."
 og_title: "Opening a Full-Service Restaurant in Singapore: Full Insurance Checklist"
-og_description: "Opening a full-service restaurant starts with the SFA Food Shop Licence and its sub-categories. What each tier requires, and what follows."
+og_description: "Opening a full-service restaurant in Singapore starts with an SFA Food Shop Licence. What the licences require, and the insurance covers that follow."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore full-service restaurant requires: **Singapore Food Agency (SFA) Food Shop Licence** (and applicable sub-categories per SFA's tier framework - see [what each licence means for insurance](/association/sfa-licensing-tiers-insurance)), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/), [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [NEA](https://www.nea.gov.sg/) environmental health requirements. Insurance baseline: **Public Liability** (S$2M-S$5M; mall and landlord typically require), **Product Liability** for food safety (S$1M-S$5M), **WICA** for kitchen and front-of-house staff, **Property/Fire** for fit-out, equipment, stock, **Equipment Breakdown** for ovens, refrigeration, dishwashers (high-frequency claim line), **Public Liability with Liquor Liability extension** if licensed for alcohol, **Cyber** for POS systems and customer data, and **Crime / Money** for cash handling. For restaurants with delivery operations: **Goods in Transit** + **Motor cover** for delivery vehicles. Halal-certified or specialised dietary focus brings additional certification considerations - see [the Halal F&B insurance checklist](/decision-tree/opening-halal-fnb-catering-checklist).
+> A Singapore full-service restaurant requires: **Singapore Food Agency (SFA) Food Shop Licence** (see [what each licence means for insurance](/association/sfa-licensing-tiers-insurance)), [SCDF](https://www.scdf.gov.sg/) approval of any fire safety works, with a Fire Safety Certificate once they are complete, [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [NEA](https://www.nea.gov.sg/) environmental health requirements. Insurance baseline: **Public Liability** (a mall or landlord lease may require it, at a limit the lease sets), **Product Liability** for food safety, **WICA** for kitchen and front-of-house staff, **Property/Fire** for fit-out, equipment, stock, **Equipment Breakdown** for ovens, refrigeration, dishwashers, **Public Liability with Liquor Liability extension** if licensed for alcohol, **Cyber** for POS systems and customer data, and **Crime / Money** for cash handling. For restaurants with delivery operations: **Goods in Transit** + **Motor cover** for delivery vehicles. Halal-certified or specialised dietary focus brings additional certification considerations - see [the Halal F&B insurance checklist](/decision-tree/opening-halal-fnb-catering-checklist).
 
 ### The Sourced Detail
 
-Full-service restaurants - distinct from cafes, fast-food, food courts, and food trucks - combine the highest typical food safety exposure (more complex menus, longer ingredient supply chains, alcohol service common) with significant fit-out and equipment investment, customer-facing premises liability, and operational complexity. The insurance build is comprehensive and the operational discipline matters significantly.
+Full-service restaurants - distinct from cafes, fast-food, food courts, and food trucks - combine significant food safety exposure (more complex menus, longer ingredient supply chains, alcohol service common) with significant fit-out and equipment investment, customer-facing premises liability, and operational complexity. The insurance build is comprehensive and the operational discipline matters significantly.
 
 #### The licensing baseline
 
-**SFA Food Shop Licence:** Per the [SFA licensing framework](https://www.sfa.gov.sg/), all premises serving food to the public require a Food Shop Licence. Sub-categories include:
+**SFA Food Shop Licence:** Per the [SFA licensing framework](https://www.sfa.gov.sg/), a restaurant that runs its own premises needs a Food Shop Licence. Other formats need other SFA licences, for example:
 
-- General Food Shop (most restaurants)
-- Restaurant
-- Eating House
-- Coffee Shop / Hawker Stall
-- Specific food preparation categories
+- Food Stall Licence (a stall inside a multi-unit Food Shop such as a food court or coffeeshop, unless the stall runs its own refreshment area)
+- Hawker stalls in NEA's hawker centres (NEA helps the stallholder obtain the SFA licence as part of the tenancy; where a managing agent appointed by NEA runs the tenancies, the stallholder applies to SFA for a Food Stall Licence)
+- Temporary Fair Permit (for the fair, with a licence for each food stall at it)
 
-Each has specific requirements on premises, equipment, food handling certification of staff, hygiene standards, and food safety systems. See [the SFA licensing tiers and their insurance impact](/association/sfa-licensing-tiers-insurance).
+Each has specific requirements on premises, equipment, food handling certification of staff, hygiene standards, and food safety systems. See [the SFA licences and their insurance impact](/association/sfa-licensing-tiers-insurance).
 
-**SCDF FSC:** Premises with kitchen equipment, particularly with gas, cooking, exhaust systems, require SCDF FSC compliance. Specific assessment for fire-protection systems including suppression in commercial kitchens (Ansul or equivalent for hood / range protection).
+**SCDF fire safety:** Fit-out works that involve fire safety works need SCDF approval, and the Fire Safety Certificate (FSC) is issued once those works are complete. The Fire Code sets rules for a restaurant's kitchen exhaust system, and where restaurants share a kitchen exhaust system, the exhaust hood must be fitted with a wet chemical fire extinguishing system (Fire Code 2023 cl 7.1.13).
 
 **URA zoning:** Restaurant uses require appropriate URA zoning. Some commercial zones permit restaurants; others restrict.
 
-**NEA:** Environmental health, hygiene grading, smoke/odour issues from cooking, waste disposal.
+**NEA:** Environmental health, smoke/odour issues from cooking, waste disposal. Food hygiene grading is SFA's: since 19 January 2026, SFA grades food establishments under its SAFE framework (A, B or C, with NEW for establishments open less than a year).
 
-**Liquor Licensing:** For premises serving alcohol, [Liquor Licensing Board](https://www.police.gov.sg/) licensing under the [Liquor Control (Supply and Consumption) Act 2015](https://sso.agc.gov.sg/Act/LCSCA2015) is required. Specific licence categories with operating hour and other restrictions.
+**Liquor Licensing:** For premises serving alcohol, a liquor licence granted by the Licensing Officer under the [Liquor Control (Supply and Consumption) Act 2015](https://sso.agc.gov.sg/Act/LCSCA2015) is required (applications go through GoBusiness; see the [Singapore Police Force's liquor licence page](https://www.police.gov.sg/E-Services/Apply-for-Liquor-Licence)). Specific licence categories with operating hour and other restrictions.
 
 **MOM Foreign Manpower:** F&B sector has specific Work Permit quotas, levy structures, and source country requirements. See Article 16.
 
@@ -53,7 +51,7 @@ Each has specific requirements on premises, equipment, food handling certificati
 
 #### The Public Liability layer
 
-Restaurant PL covers high-frequency typical claims:
+Restaurant PL covers typical claims such as:
 
 **Customer injury:**
 - Slip and fall (wet floors, polished surfaces, spills)
@@ -69,9 +67,9 @@ Restaurant PL covers high-frequency typical claims:
 - Coat check losses
 
 **Limit considerations:**
-- Mall/landlord minimum (S$2M-S$5M typical; some malls higher)
-- Realistic exposure for serious customer injury can warrant S$5M-S$10M
-- Liquor-licensed venues should consider higher limits given elevated incident risk
+- Mall/landlord minimum (the lease sets it)
+- Realistic exposure for serious customer injury can warrant a limit above the lease minimum
+- Liquor-licensed venues should consider higher limits given the added liquor exposures described below
 
 **Specific items to confirm:**
 - Liquor Liability extension if licensed
@@ -96,22 +94,20 @@ Distinct from PL, Product Liability covers food-related exposures:
 - Cross-contamination incidents
 
 **Claims-made or occurrence basis:**
-Most restaurant Product Liability is occurrence-based - covering incidents happening during the policy period regardless of when the claim is made. See [which insurance lines use which trigger](/comparison/claims-made-vs-occurrence).
+Product Liability can be written on an occurrence basis, covering incidents during the policy period regardless of when the claim is made, or on a claims-made basis. See [which insurance lines use which trigger](/comparison/claims-made-vs-occurrence).
 
 **Limit considerations:**
-- Single restaurant: S$1M-S$3M typical
-- Higher-volume / chain operations: S$3M-S$10M
-- Specialist (banquet, catering): higher proportionate
+- The limit needed grows with volume, the number of outlets, and off-site work such as banquets and catering
 
 **Recall cover:**
 For larger operations or those producing for retail, Product Recall cover is a separate consideration - covers cost of recalling product, customer notification, business interruption from recall.
 
 #### Allergen and disclosure considerations
 
-Singapore restaurants face increasing exposure on allergen disclosure:
+Singapore restaurants face exposure on allergen disclosure:
 - Common food allergens (peanut, tree nut, dairy, egg, seafood, gluten, soy)
 - Severe allergic reactions can be life-threatening
-- Disclosure obligations on menu and at point of sale
+- Allergen declaration on prepacked food labels (required by the Food Regulations), and allergen information on menus and at point of sale
 - Cross-contamination considerations in shared kitchens
 
 Best-practice operations:
@@ -123,10 +119,10 @@ Best-practice operations:
 
 #### The Equipment Breakdown layer
 
-Restaurant equipment is high-value and high-failure-rate:
+Restaurant equipment is high-value, and a breakdown can stop service:
 
 **Common equipment:**
-- Commercial ovens, ranges, fryers, grills (S$5,000-S$50,000+)
+- Commercial ovens, ranges, fryers, grills
 - Refrigeration (walk-in coolers, freezers, prep refrigerators)
 - Dishwashers (commercial)
 - Coffee equipment (espresso machines, grinders)
@@ -144,12 +140,12 @@ Refrigeration breakdown leading to spoilage of stock - specific sub-limit under 
 
 #### The WICA layer
 
-Restaurant staff classifications under WICA:
+Restaurant staff classifications for WICA's duty to insure (section 24) are listed below. The duty does not apply to staff in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude. Two of those classes are "any employee of an employer engaged in retail trade" and "any employee employed in the operation of a coffee shop". Neither term is defined, so whether a restaurant's staff fall in either is a question for MOM or the restaurant's insurer. An employer need not insure staff in an excluded class, but must still compensate them under WICA. The classifications:
 - Kitchen staff (manual; in scope regardless of salary)
 - Front-of-house service staff (typically manual; in scope)
 - Bar staff (manual; in scope)
 - Cleaners (manual; in scope)
-- Management (non-manual; in scope if salary ≤ S$2,600)
+- Management (non-manual; in scope if salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
 - Part-time / casual staff (in scope per category)
 
 Specific WICA exposures:
@@ -179,9 +175,9 @@ For restaurants serving alcohol:
 - Conflict / assault among customers
 
 **Liquor Liability extension under PL:**
-- Often a specific endorsement
-- Sub-limited typically
-- Specific exclusions for service to minors, obvious intoxication
+- Can be added by endorsement
+- May carry a sub-limit
+- May carry exclusions, for example for service to minors or to obviously intoxicated patrons
 
 **Operational risk management:**
 - Trained bar staff (responsible service of alcohol)
@@ -205,14 +201,14 @@ For restaurants serving alcohol:
 - Bank deposit transit
 - Safe storage
 
-For mid-size operations, Crime / Money cover at appropriate limits is standard.
+Crime / Money cover responds to these exposures; the Money sum insured follows the cash held and carried.
 
 #### Stage-by-stage insurance build
 
 **Pre-launch:**
 - ACRA business registration
 - SFA Food Shop Licence application
-- SCDF FSC inspection and approval
+- SCDF approval of any fire safety works, and the FSC once they are complete
 - URA zoning verification
 - NEA-specific requirements
 - Liquor Licence (if applicable)
@@ -273,25 +269,10 @@ For mid-size operations, Crime / Money cover at appropriate limits is standard.
 **Bar / pub focus:**
 - Higher liquor exposure
 - Often longer operating hours
-- Higher incident frequency
 
 #### Premium considerations
 
-For typical Singapore restaurants:
-
-**Small restaurant (50-80 covers, 8-15 staff):**
-- PL/Product Liability bundle: S$3,000-S$10,000
-- Property, Equipment Breakdown, BI: S$5,000-S$15,000
-- WICA, Cyber, Crime/Money, employee benefits: S$5,000-S$15,000
-- **Total annual insurance budget** typically S$12,000-S$40,000
-
-**Mid-size restaurant (100-200 covers, 20-40 staff):**
-- Higher limits across the board
-- **Total typically S$30,000-S$100,000**
-
-**Fine dining / specialty:**
-- Higher property, BI, and equipment exposure
-- **Total typically S$40,000-S$150,000+**
+Premiums depend on the format, the number of covers and staff, the limits chosen, the claims history and the insurer. A fine dining or specialty restaurant carries higher property, BI and equipment exposure.
 
 **Multi-location:**
 - Coordinated programme
@@ -302,8 +283,8 @@ For typical Singapore restaurants:
 Insurers underwrite restaurants on operational standards:
 
 **Food safety:**
-- All food handlers WSQ Basic Food Hygiene Certificate (mandatory)
-- Hygiene grading (NEA) - A or B grade preferred by insurers
+- All food handlers must pass the WSQ Food Safety Course Level 1 (formerly the Basic Food Hygiene Course), and the licensee must register them with SFA
+- SAFE grade from SFA (A, B or C, or NEW in the first year, under the SAFE framework from 19 January 2026)
 - Documented food safety management system
 - Cold chain compliance
 - Pest management
@@ -331,14 +312,14 @@ Insurers underwrite restaurants on operational standards:
 ### Common Mistakes / What Goes Wrong
 
 1. **PL without liquor extension when alcohol served.** Major exposure gap.
-2. **No Product Liability cover.** Foodborne illness claim has no insurance response.
+2. **No Product Liability cover.** A foodborne illness claim may have no insurance response, or only a sub-limit where the PL wording extends to food and drink sold.
 3. **Equipment Breakdown skipped.** Single oven failure can halt operations.
 4. **No spoilage sub-limit.** Refrigeration failure plus stock loss compounds.
 5. **Standard SME Cyber for POS.** PDPA exposure inadequately addressed.
 6. **WICA misclassification.** Kitchen staff erroneously classified as non-manual.
 7. **No Crime/Money cover.** Cash handling exposure ignored.
 8. **Allergen disclosure gaps.** Severe reaction claims very difficult to defend without disclosure documentation.
-9. **Hygiene grading C/D.** Insurer underwriting affected; renewal terms degrade.
+9. **Poor food safety track record.** Under SFA's SAFE framework (from 19 January 2026), a poor track record brings a lower grade and more frequent inspections.
 10. **Halal-certified operations without halal-aware insurance.** Specific stock cover considerations.
 
 ### What This Means for Your Business
@@ -351,7 +332,7 @@ For founders opening a full-service restaurant in Singapore:
 
 3. **Match limits to format.** Casual vs fine dining vs specialty have different exposure profiles.
 
-4. **Maintain food safety and hygiene grading.** A or B grade matters operationally and for insurance underwriting.
+4. **Maintain your food safety track record.** Your SAFE grade from SFA (NEW in the first year, then A, B or C) reflects it, and a poor record brings more frequent inspections.
 
 5. **Document everything.** Temperature logs, allergen training, incident reports, supplier records.
 

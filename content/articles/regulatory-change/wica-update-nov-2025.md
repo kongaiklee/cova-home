@@ -14,9 +14,9 @@ word_count: 992
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wica-update-nov-2025"
-meta_description: "On 1 November 2025 Singapore's WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
+meta_description: "On 1 November 2025 Singapore's WICA compensation limits for death, permanent incapacity and medical expenses rose for the first time since 2020."
 og_title: "WICA Compensation Limit Update: What Changed on 1 November 2025"
-og_description: "On 1 November 2025 Singapore's WICA compensation limits rose for the first time since 2020, starting with death compensation. The new figures."
+og_description: "On 1 November 2025 Singapore's WICA compensation limits for death, permanent incapacity and medical expenses rose for the first time since 2020."
 ---
 
 # What changed in WICA on 1 November 2025?
@@ -42,34 +42,35 @@ Per the [MOM announcement of 8 February 2024](https://www.mom.gov.sg/newsroom/pr
 
 ### Who pays the difference
 
-WICA liability sits with the employer. Under WICA 2019, employers must maintain a [Work Injury Compensation Insurance policy issued by an MOM-designated insurer](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/designated-insurer) for all manual workers (regardless of salary) and all non-manual workers earning S$2,600/month or less. Approved WICA 2019 policies must comply with [MOM's compulsory terms](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2020/0807-annex-a-summary-of-regulatory-regime-for-wic-insurers-under-wica-2019.pdf). Because the statutory limits are baked into the compulsory policy wording, existing [WICA insurance policies](/document-legal/wica-complete-guide-singapore-employers) automatically uplift to the new limits for accidents on or after 1 November 2025.
+WICA liability sits with the employer. Under WICA 2019, employers must maintain a [Work Injury Compensation Insurance policy issued by an MOM-designated insurer](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/designated-insurer) for all manual workers (regardless of salary) and all non-manual workers earning S$2,600/month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers. Approved WICA 2019 policies must comply with [MOM's compulsory terms](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2020/0807-annex-a-summary-of-regulatory-regime-for-wic-insurers-under-wica-2019.pdf). Because the statutory limits are baked into the compulsory policy wording, existing [WICA insurance policies](/document-legal/wica-complete-guide-singapore-employers) automatically uplift to the new limits for accidents on or after 1 November 2025.
 
 This is important: SMEs do **not** need to amend their policy wording or buy a new product to capture the higher limits. Insurers update the limits at law. However, premiums may rise at renewal because insurers price to the new exposure.
 
 ### What the limits cover
 
 Per the [MOM types of compensation page](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/types-of-compensation):
-- **Medical leave wages** : full Average Monthly Earnings during MC days, capped at one year from accident or S$53,000 (whichever is reached first), from 1 Nov 2025.
+- **Medical leave wages** : full average monthly earnings (AME) for up to 14 days of outpatient medical leave and up to 60 days of hospitalisation leave, then two-thirds of AME, up to one year from the accident.
+- **Medical expenses** : up to S$53,000 or one year from the accident, whichever is reached first, for accidents from 1 Nov 2025.
 - **Permanent incapacity (PI)** : a lump sum based on age, average monthly earnings, and percentage of incapacity, with the new minimum of S$116,000 and the new maximum of S$346,000 for total PI.
 - **Death** : minimum S$91,000; maximum S$269,000 from 1 Nov 2025.
 
-### The triennial-review context
+### The review cycle
 
-MOM's stated policy, per the [press release](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), is to review WICA limits roughly every three to five years to keep pace with wage growth and healthcare inflation. The 2020-to-2025 gap was wider than usual. A [further occupational-disease list update took effect on 1 December 2025](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica), harmonising 38 reportable diseases under both WSHA and WICA.
+Per the [press release](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), MOM updates the limits as part of its regular review to keep pace with wage growth and rising healthcare costs. In its [2019 public consultation](https://www.reach.gov.sg/latest-happenings/public-consultation-pages/2019/public-consultation-on-proposed-amendments-to-the-work-injury-compensation-act/), MOM said the limits are updated every four years. The 2020-to-2025 gap was wider than usual. A [further occupational-disease list update took effect on 1 December 2025](https://www.mom.gov.sg/workplace-safety-and-health/od-under-wsha-and-wica), harmonising 38 reportable diseases under both WSHA and WICA.
 
 ### What this means for premiums
 
-Insurers price WICA on payroll, headcount, occupation class, and claims experience. With the maximum severity claim cost rising about 19% on death/PI and 17% on medical, insurers reasonably expect higher loss costs at renewal. Per the [Allegiance Insurance Brokers commentary](https://allegiance.com.sg/understanding-the-changes-to-the-work-injury-compensation-act-from-1-nov-2025/), "employers should expect higher insurance costs regardless of claims history" - broker commentary, not an MOM forecast.
+Insurers price WICA on payroll, headcount, occupation class, and claims experience. With the maximum severity claim cost rising about 19% on death/PI and 17% on medical, insurers reasonably expect higher loss costs at renewal. Per the [Allegiance Insurance Brokers commentary](https://allegiance.com.sg/understanding-the-changes-to-the-work-injury-compensation-act-from-1-nov-2025/), "Insurers will likely increase premiums to account for these higher exposures." That is broker commentary, not an MOM forecast.
 
 ## What This Means for Your Business
 
 If your renewal cycle straddles 1 November 2025, your insurer will quote on the new limits. Three practical points.
 
-First, **review job declarations**. WICA premium hinges on accurate occupation classification per MOM's [WICA insurance guidance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/insurance). Under-declaring (e.g., classifying a forklift driver as office staff) creates two risks: a denied claim under the recovery clause, and an exposed business covering the gap from cash. The [Liberty Singapore guide](https://www.libertyinsurance.com.sg/blog/employers-guide-worker-injury-compensation-insurance-and-foreign-worker-medical-insurance) explains the recovery mechanism.
+First, **review job declarations**. WICA premium hinges on accurate occupation classification per MOM's [WICA insurance guidance](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance). Under-declaring (e.g., classifying a forklift driver as office staff) can leave the business exposed: MOM warns that you may not be fully covered, and that inaccurate information may result in the designated insurer seeking from the employer what it paid out. The [Liberty Singapore guide](https://www.libertyinsurance.com.sg/blog/employers-guide-worker-injury-compensation-insurance-and-foreign-worker-medical-insurance) explains the recovery mechanism.
 
 Second, **rebuild your incident playbook around the new numbers**. Internally, your finance team budgets contingency reserves; HR drafts notification templates; legal advises on common-law liability above the WICA cap. Each of those numbers needs updating.
 
-Third, **clarify your common-law exposure**. WICA caps the no-fault statutory liability. It does not cap common-law liability for negligence. An employee who can prove employer negligence may sue at common law, where damages are uncapped. Many businesses buy a separate Employer's Liability extension or standalone policy to address this. An licensed adviser on the Covarage platform can walk through the gap between statutory and common-law exposure for your specific industry.
+Third, **clarify your common-law exposure**. WICA caps the no-fault statutory liability. It does not cap common-law liability for negligence. An employee who can prove employer negligence may sue at common law, where damages are uncapped. MOM notes that employers can discuss a rider for common law liabilities with their insurer. An licensed adviser on the Covarage platform can walk through the gap between statutory and common-law exposure for your specific industry.
 
 ## Questions to Ask Your Adviser
 

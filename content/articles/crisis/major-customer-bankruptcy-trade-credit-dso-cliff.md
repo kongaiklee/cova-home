@@ -21,7 +21,7 @@ og_description: "Your largest customer has filed under Singapore's IRDA. What th
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME's largest customer has filed under the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) - scheme of arrangement under Part 5 (section 64 moratorium), judicial management under Part 7 (sections 90 and 91), or winding up under Part 8 (sections 124 and 125). From the moment of filing, the SME's contractual rights are constrained. Section 64(8) imposes an automatic 30-day moratorium during which the SME cannot commence legal proceedings. Section 440(1) prevents termination of the supply contract by reason only of the insolvency event, voiding any contracting-out under section 440(3) for contracts entered into on or after 30 July 2020. The SME's Trade Credit Insurance fires on either of two triggers: the insolvency event itself, or protracted default (typically 180 days). Section 239 wrongful trading creates personal exposure for the SME's own directors if they continue extending credit knowing the customer cannot pay. The [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 210, 211, 212 govern the substantive scheme of arrangement; IRDA hosts the moratorium framework. The 7 January 2025 IRDA (Amendment) Act commenced 29 January 2026, making the Simplified Insolvency Programme permanent for companies with total liabilities not exceeding S$2 million. Statutory demand threshold for corporate winding up is debt exceeding S$15,000. The SME's Day-One workflow: confirm which proceeding has been filed (court cause-book search at [elitigation.sg](https://www.elitigation.sg)), freeze further shipments pending review, pull all customer contracts for date-of-execution analysis (section 440 savings under regulation 3 limit application to post-30 July 2020 contracts), and notify the Trade Credit insurer within the policy window (typically 30 days from insolvency event, 60 days from protracted default).
+> The Singapore SME's largest customer has filed under the [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) - scheme of arrangement under Part 5 (section 64 moratorium), judicial management under Part 7 (sections 90 and 91), or winding up under Part 8 (sections 124 and 125). From the moment of filing, the SME's contractual rights are constrained. If the customer applies under section 64(1) for a moratorium, section 64(8) gives an automatic moratorium that runs until the Court decides the application or for 30 days, whichever ends first, during which the SME cannot commence or continue proceedings against the customer without the Court's permission. Where the filing is a scheme or judicial management application, section 440(1) prevents termination of the supply contract by reason only of the proceedings or the insolvency (a winding-up application is not among the proceedings section 440 lists), voiding any contracting-out under section 440(3) for contracts entered into on or after 30 July 2020. The SME's Trade Credit Insurance fires on either of two triggers: the insolvency event itself, or protracted default (the policy sets the period; the World Bank's trade credit insurance primer says normally 60 to 180 days after the due date). Section 239 wrongful trading can create personal exposure for the SME's own directors if the SME itself, while insolvent or in a way that makes it insolvent, incurs debts or other liabilities it has no reasonable prospect of meeting in full. The [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 210, 211, 212 govern the substantive scheme of arrangement; IRDA hosts the moratorium framework. The 7 January 2025 IRDA (Amendment) Act commenced 29 January 2026, making the Simplified Insolvency Programme permanent for companies with total liabilities not exceeding S$2 million. Statutory demand threshold for corporate winding up is debt exceeding S$15,000. The SME's Day-One workflow: confirm which proceeding has been filed (court cause-book search at [elitigation.sg](https://www.elitigation.sg)), freeze further shipments pending review, pull all customer contracts for date-of-execution analysis (section 440 savings under regulation 3 limit application to post-30 July 2020 contracts), and notify the Trade Credit insurer within the time the policy sets (some wordings require notice of a buyer's actual or imminent insolvency without undue delay).
 
 ### The Sourced Detail
 
@@ -31,19 +31,19 @@ The trigger event for this article is the filing of an IRDA application by a maj
 
 The SME's customer has filed one of three IRDA applications. The procedural shape:
 
-**Scheme of arrangement under IRDA Part 5.** The customer applies for court sanction of a compromise or arrangement with creditors. Section 64 imposes an automatic 30-day moratorium on filing of the application. The moratorium can be extended by court order. Section 65 may extend moratorium relief to related companies. Section 66 restrains disposition of property. Sections 69 to 71 permit cram-down on dissenting classes of creditors. The substantive scheme architecture (creditor class voting, majority thresholds, court sanction) remains in [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 210 to 212, requiring a majority in number representing 75% in value of each creditor class present and voting.
+**Scheme of arrangement under IRDA Part 5.** The customer applies for court sanction of a compromise or arrangement with creditors. If the customer also applies under section 64(1) for a moratorium, section 64(8) gives an automatic moratorium from that application until the Court decides it or for 30 days, whichever ends first. The Court may make moratorium orders under section 64(1) and extend them under section 64(7). Section 65 may extend moratorium relief to related companies. Section 66 restrains disposition of property. Section 69 lets the Court order a re-vote, section 70 permits cram-down on dissenting classes of creditors, and section 71 lets the Court approve a compromise or arrangement without a meeting of creditors. The substantive scheme architecture (creditor class voting, majority thresholds, court sanction) remains in [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 210 to 212, requiring a majority in number representing 75% in value of each creditor class present and voting.
 
-**Judicial management under IRDA Part 7.** The customer applies under section 90 for a judicial management order. Section 91 governs court appointment of the judicial manager. Section 92 covers interim judicial management; section 93 restricts company acts pending hearing. Section 94 (the out-of-court route added by IRDA) permits creditors holding the requisite majority of debt to place the company under judicial management by resolution without a court order. Section 95 sets the effect of the application (statutory stay on proceedings).
+**Judicial management under IRDA Part 7.** The customer applies under section 90 for a judicial management order. Section 91 governs court appointment of the judicial manager. Section 92 covers interim judicial management; section 93 restricts company acts pending hearing. Section 94 (the out-of-court route added by IRDA) lets a company that is, or is likely to become, unable to pay its debts appoint an interim judicial manager and be placed under judicial management, without a court order, by a resolution of a majority in number and value of its creditors present and voting. Section 95 sets the effect of the application (statutory stay on proceedings).
 
-**Winding up under IRDA Part 8.** A creditor (or the company itself, or the Official Receiver) applies under section 124 for a winding-up order. Section 125 sets out the grounds, including inability to pay debts under the statutory demand threshold (currently debt exceeding S$15,000). Section 126 permits appointment of a provisional liquidator.
+**Winding up under IRDA Part 8.** A creditor (or another person listed in section 124(1), such as the company itself, a director with the Court's permission, a contributory, the liquidator, the judicial manager or the Minister) applies under section 124 for a winding-up order. Section 125 sets out the grounds, including inability to pay debts under the statutory demand threshold (currently debt exceeding S$15,000). Section 138 covers the appointment of a provisional liquidator; section 126 sets when the winding up commences.
 
-For the SME holding unpaid receivables, the practical impact of each track is similar in the early stages: the SME's ability to act unilaterally is constrained, contract terms are frozen by section 440 (for post-30 July 2020 contracts), and cash recovery becomes a proof-of-debt exercise.
+For the SME holding unpaid receivables, the practical impact of each track is similar in the early stages: the SME's ability to act unilaterally is constrained, section 440 limits termination and amendment of the contract in a scheme or judicial management (for post-30 July 2020 contracts; a winding-up application is not among the proceedings section 440 lists), and cash recovery becomes a proof-of-debt exercise.
 
 #### The section 440 ipso facto stay
 
 Section 440 IRDA voids contracting-out and prevents the SME from terminating or modifying the supply contract by reason only of the customer's insolvency or commencement of IRDA proceedings.
 
-**Section 440(1):** "No person may, at any time after the commencement, and before the conclusion, of any proceedings by a company - (a) terminate or amend, or claim an accelerated payment or forfeiture of the term under, any agreement (including a security agreement) with the company; or (b) terminate or modify any right or obligation under any agreement with the company, by reason only that the proceedings are commenced or that the company is insolvent."
+**Section 440(1):** "No person may, at any time after the commencement and before the conclusion of any proceedings by a company, or at any time after the date of commencement of the simplified debt restructuring programme for a company until the time the compromise or arrangement becomes effective in accordance with section 72M(16) or the time the company is discharged from the simplified debt restructuring programme (whichever is earlier): (a) terminate or amend, or claim an accelerated payment or forfeiture of the term under, any agreement (including a security agreement) with the company; or (b) terminate or modify any right or obligation under any agreement (including a security agreement) with the company, by reason only that the proceedings are commenced, the company is insolvent, or the company has entered the simplified debt restructuring programme." (as amended by Act 3 of 2025 from 29 January 2026)
 
 **Section 440(3)** voids any contracting-out.
 
@@ -59,41 +59,41 @@ The section 440 interaction matrix for post-30 July 2020 contracts:
 
 **Permitted:** cease further credit extension. Section 440 does not compel the SME to continue extending credit; it restricts termination and modification of existing contractual rights by reason of insolvency. The SME can refuse to fulfil orders not yet placed.
 
-**Restricted:** unilateral conversion to cash-on-delivery terms for future supply where credit terms are entrenched in the existing contract. This may be a section 440(1)(b) modification by reason of insolvency and unenforceable. Negotiated transition to COD with the judicial manager or scheme administrator's consent is the proper route.
+**Permitted:** requiring cash payment for goods or services supplied after the proceedings began. Section 440(2)(a) says nothing in section 440 is to be construed as prohibiting a person from requiring payments to be made in cash for goods, services or other valuable consideration provided after the commencement of the proceedings.
 
 **Prohibited:** acceleration of the contract by reason only of insolvency under section 440(1)(a).
 
 **Permitted:** termination on pre-filing material breach grounds. Section 440 does not protect against termination on grounds independent of insolvency. A pre-filing material breach (such as non-payment of an earlier invoice that triggered a contractual termination right before the IRDA filing) can ground termination.
 
-**Permitted (with court order):** application under section 440(4) for relief on grounds of significant financial hardship. The SME must demonstrate that maintaining the contract is causing significant financial hardship beyond the ordinary commercial consequences of the customer's insolvency.
+**Permitted (with court order):** application under section 440(4) for relief on grounds of significant financial hardship. On the SME's application, the Court may declare that section 440 does not apply, or applies only to a declared extent, if the SME satisfies the Court that the operation of section 440 would likely cause it significant financial hardship.
 
 #### The Trade Credit Insurance trigger
 
-Singapore market Trade Credit Insurance wordings (Atradius, Coface, Allianz Trade, Chubb, QBE, ICIC, Sinosure Singapore) fire on either of two triggers:
+Trade Credit Insurance wordings generally respond to two causes of loss (MAS's Financial Institutions Directory tags Atradius, Coface and Euler Hermes, which trades as Allianz Trade, as general insurers providing trade credit insurance):
 
-**Insolvency event.** Includes filing under IRDA Part 5 scheme, Part 7 judicial management, or Part 8 winding up; bankruptcy of an individual proprietor; or other prescribed insolvency events under the policy wording. Notification window typically 30 days from the SME's awareness of the event.
+**Insolvency event.** Defined by each policy. One published wording lists the appointment of a receiver, receiver and manager, judicial manager or agent for a mortgagee in possession over all the buyer's assets, its liquidation (other than for a reconstruction or amalgamation), a winding-up order, an assignment for the benefit of, or composition with, its creditors generally, an accepted debtor's petition, or a sequestration order; whether a filing alone counts depends on the wording. Some wordings require notice of a buyer's actual or imminent insolvency without undue delay.
 
-**Protracted default.** Buyer has not paid an undisputed invoice within the policy's stated period (typically 180 days past due). The protracted default trigger commonly fires first because section 440 prevents the SME from terminating the contract, so the SME continues to deliver and the receivable ages.
+**Protracted default.** Buyer has not paid an undisputed invoice within the policy's stated period (the World Bank's trade credit insurance primer says normally 60 to 180 days after the due date). Section 440 bars termination by reason only of the proceedings or the insolvency, but section 440(2) lets the SME require cash for goods supplied after the proceedings began and does not require it to advance further credit.
 
 Standard Singapore market terms:
-- Discretionary credit limit (DCL) for unrated or sub-threshold buyers, typically S$100,000 to S$500,000 per buyer.
+- Discretionary credit limit (DCL), up to a maximum set in the policy schedule, for buyers on which the SME sets its own limit.
 - Named-buyer endorsement for material exposures above the DCL.
 - Co-insurance retention typically 10% to 20% of insured value.
 - Recoveries waterfall: insurer subrogates to proof of debt; SME assigns rights post-indemnity; uninsured percentage retained by the SME.
 
 The policy may also include the following pre-claim conditions precedent:
 - Overdue declaration at 60 days past due.
-- Cease-deliveries condition at 90 days past due (although section 440 limits the SME's ability to cease supply unilaterally).
+- Cease-deliveries condition at 90 days past due (section 440 bars terminating the contract by reason only of the proceedings or the insolvency, but section 440(2) does not require the SME to advance further credit).
 - Claim filing at 180 days past due or immediately on the insolvency event.
 
 #### Wrongful trading exposure for the SME's own directors
 
-The SME's directors face personal exposure under section 239 IRDA if they continue extending credit to a customer they know or ought to know cannot pay, and the SME itself becomes insolvent in consequence.
+The SME's directors can face personal exposure under section 239 IRDA through the SME's own debts: if the SME, while insolvent or in a way that makes it insolvent, incurs debts or other liabilities it has no reasonable prospect of meeting in full, the Court may declare a person who was a party to that trading, and who knew, or as an officer ought to have known, that the SME was trading wrongfully, personally responsible for all or any of the SME's debts as the Court directs. A customer's failure matters here if it leaves the SME in that position.
 
 Section 239 provides that a company trades wrongfully if it incurs debts or other liabilities without reasonable prospect of meeting them in full when it is insolvent, or if it becomes insolvent as a consequence of incurring those debts or other liabilities. The court may declare a person who is a party to that wrongful trading personally liable for all or any of the debts.
 
 For the SME extending trade credit to a customer in known financial distress, the section 239 risk is twofold:
-- If the SME's own directors continue extending credit and the SME later becomes insolvent in consequence, the SME's directors face personal exposure.
+- If the SME, while insolvent or in a way that makes it insolvent, keeps incurring debts it has no reasonable prospect of meeting in full, the SME's directors can face personal exposure.
 - This is independent of the customer's own director exposure under section 239 for incurring debts to the SME.
 
 The directors' protective steps are (a) documented board decisions assessing the credit risk; (b) credit limits set after consideration of customer-health information; (c) consultation with the Trade Credit insurer at policy-cycle reviews; (d) appropriate D&O Side A cover (see [protection when the company cannot indemnify](/comparison/side-a-side-b-side-c-do-singapore)).
@@ -112,19 +112,19 @@ For the SME holding receivables from a small customer (total liabilities under S
 
 #### The proof of debt process
 
-For winding up and judicial management, the SME files a proof of debt with the appointed insolvency practitioner. The Insolvency, Restructuring and Dissolution (Corporate Insolvency and Restructuring) Rules 2020 prescribe the form. Ranking under section 203 places preferential debts (employee wages capped per the IRDA Regulations, CPF contributions, certain taxes) ahead of unsecured trade creditors. The SME ranks pari passu with other unsecured creditors.
+For winding up and judicial management, the SME files a proof of debt with the appointed insolvency practitioner. The Insolvency Office publishes the prescribed forms for each proceeding on its website. Ranking under section 203 places preferential debts (employee wages up to an amount the Minister prescribes by order under section 203(2), CPF contributions, certain taxes) ahead of unsecured trade creditors. The SME ranks pari passu with other unsecured creditors.
 
 Secured creditors enforce security outside the proof-of-debt process to the extent the security covers their claim. Floating charges crystallise on winding up and the secured creditor stands behind preferential debts to the extent the floating-charge collateral overlaps with preferential claims.
 
 #### The 72-hour priorities
 
-Day 1: confirm which IRDA proceeding has been filed. Search [elitigation.sg](https://www.elitigation.sg) for the cause-book entry; check HC/OS, HC/CWU, or HC/JM case numbers. For SIP 2.0 filings, check the Ministry of Law Insolvency Office e-Services portal.
+Day 1: confirm which IRDA proceeding has been filed. Search [elitigation.sg](https://www.elitigation.sg) for the cause-book entry; check for HC/OA (originating application, the form that section 64 moratorium and judicial management applications now take) or HC/CWU (winding up) case numbers. For SIP 2.0 filings, check the Ministry of Law Insolvency Office e-Services portal.
 
-Day 1: freeze further shipments and service performance pending legal review. Where contract permits, convert open orders to cash-on-delivery, noting the section 440 constraints set out above.
+Day 1: freeze further shipments and service performance pending legal review. Where contract permits, convert open orders to cash-on-delivery; section 440(2) does not prohibit requiring cash payment for goods supplied after the proceedings began.
 
 Day 2: pull all customer-related contracts and identify (i) date of contract for section 440 savings analysis under the 30 July 2020 transitional regulation; (ii) any pre-filing default that could ground termination on non-section-440 grounds.
 
-Day 2: notify Trade Credit insurer per policy. Most Singapore market wordings require notification within 30 days of an insolvency event and 60 days of protracted default.
+Day 2: notify Trade Credit insurer per policy. The policy sets the notification deadline; some wordings require notice of a buyer's actual or imminent insolvency without undue delay.
 
 Day 3: convene board. Minute the credit-risk decision and the section 239 wrongful trading analysis. Continuing to extend credit to the customer should be supported by documented board reasoning.
 
@@ -143,36 +143,36 @@ Day-One actions:
 Cash-recovery sequence:
 - Insurer accepts the claim within standard handling period.
 - Co-insurance retention: 10% of insured value.
-- Insurer interim payment under policy provision (many wordings allow advance payment on acceptance).
+- Insurer payment under the policy's claim payment terms.
 - Final indemnity calculated against the recoveries waterfall.
 - Uninsured 10% remains the SME's exposure.
 
 Section 239 wrongful trading analysis:
-- SME's directors must consider whether continuing to extend credit was a reasonable commercial decision.
+- The SME's directors consider whether the SME itself, while insolvent or in a way that makes it insolvent, has incurred debts it has no reasonable prospect of meeting in full.
 - Board minutes document the decision-making.
-- The SME does not extend further credit on the same terms; future supply (if continued at all under section 440) moves to cash-on-delivery with the judicial manager's consent.
+- The SME does not extend further credit on the same terms; section 440(2) lets it require cash payment for any goods supplied after the proceedings began and does not require it to advance further credit.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Terminating the contract on the insolvency event.** Section 440(1) voids this for post-30 July 2020 contracts. The purported termination is ineffective; the judicial manager may seek damages for wrongful termination.
+1. **Terminating the contract on the insolvency event.** Where the customer's proceeding is a scheme or judicial management, section 440(1) voids this for post-30 July 2020 contracts (a winding-up application is not among the proceedings section 440 lists). The purported termination is ineffective; the judicial manager may seek damages for wrongful termination.
 
-2. **Commencing legal proceedings during the moratorium.** Section 64(8) imposes the automatic 30-day moratorium for scheme of arrangement filings. Filing a writ during the stay is a contempt of the moratorium.
+2. **Commencing legal proceedings during the moratorium.** Section 64(8) bars commencing or continuing proceedings against the customer without the Court's permission during the automatic moratorium that follows a section 64(1) application, which runs until the Court decides the application or for 30 days, whichever ends first.
 
-3. **Failing to notify the Trade Credit insurer within the policy window.** The 30-day notification window for insolvency events runs from the SME's awareness, not from policy expiry. Missed notification can prejudice or void the claim.
+3. **Failing to notify the Trade Credit insurer within the policy window.** The policy sets when notice of an insolvency event is due; some wordings require notice of a buyer's actual or imminent insolvency without undue delay. Missed notification can prejudice or void the claim.
 
-4. **Continuing to extend credit on the same terms.** The SME's directors face section 239 IRDA wrongful trading exposure if the SME later becomes insolvent in consequence. Future supply should move to cash-on-delivery or letter of credit terms.
+4. **Continuing to extend credit on the same terms.** Section 239 IRDA wrongful trading exposure for the SME's directors arises if the SME, while insolvent or in a way that makes it insolvent, incurs debts it has no reasonable prospect of meeting in full. Future supply should move to cash-on-delivery or letter of credit terms.
 
-5. **Misidentifying the controlling statute for scheme of arrangement.** The Companies Act 1967 still houses the substantive scheme provisions in sections 210 to 212. IRDA provides the moratorium framework in section 64. Some commentary refers loosely to "CIRA 2018" or treats schemes as purely an IRDA mechanism.
+5. **Misidentifying the controlling statute for scheme of arrangement.** The Companies Act 1967 still houses the substantive scheme provisions in sections 210 to 212. IRDA provides the moratorium framework in section 64.
 
 6. **Not preserving evidence of the protracted default.** Even where the insolvency-event trigger fires, the Trade Credit insurer reviews the underlying receivable for compliance with credit-limit conditions, dispute-handling protocols, and documentation requirements. Missing documentation can prejudice the claim.
 
-7. **Ignoring the out-of-court judicial management route under section 94.** Creditors holding the requisite majority of debt can place a company under judicial management by resolution without a court order. The SME may receive notice of this and should engage promptly.
+7. **Ignoring the out-of-court judicial management route under section 94.** A company that is, or is likely to become, unable to pay its debts can appoint an interim judicial manager and be placed under judicial management, without a court order, by a resolution of a majority in number and value of its creditors present and voting. The SME may receive notice of the creditors' meeting and should engage promptly.
 
 8. **Failing to test the policy wording against IRDA terminology.** Some older Trade Credit wordings predate IRDA and use Companies Act and Bankruptcy Act terminology. Renewal should specifically incorporate IRDA cross-references for section 64, section 91, section 94, and the Simplified Insolvency Programme.
 
 9. **Not coordinating with other affected creditors.** Trade creditors holding similar receivables may form an ad-hoc committee to negotiate with the judicial manager or scheme administrator. Acting alone reduces the SME's leverage in any creditor vote under Companies Act section 210.
 
-10. **Assuming the SME can use section 440(4) freely.** Court relief on grounds of significant financial hardship requires the SME to demonstrate hardship beyond the ordinary commercial consequences of the customer's insolvency. The threshold is high and the SME should obtain legal advice before relying on this route.
+10. **Assuming the SME can use section 440(4) freely.** The Court grants relief under section 440(4) only if the SME satisfies it that the operation of section 440 would likely cause the SME significant financial hardship, and the SME should obtain legal advice before relying on this route.
 
 ### What This Means for Your Business
 
@@ -180,17 +180,17 @@ For a Singapore SME with concentrated trade receivables from one or more custome
 
 For an SME whose customer has just filed under IRDA Part 5, Part 7, or Part 8, the immediate workflow is: notify the Trade Credit insurer within the policy window; cease further credit extension; review existing contracts for pre-filing breach grounds for termination (section 440 does not protect against non-insolvency termination); submit proof of debt with the appointed insolvency practitioner; consider joining an ad-hoc creditors' committee.
 
-For directors of the SME, the wrongful trading section 239 IRDA defence requires that they take every step a reasonably diligent person would have taken to minimise potential loss to the company's creditors once they knew (or ought to have known) the customer could not pay. The defence depends on documented decision-making. Board minutes recording the credit decision, the assessment of customer health, and the steps taken to limit exposure are the evidentiary backbone.
+For directors of the SME, section 239 IRDA has no "every step" defence: where a person is declared responsible, the Court may relieve that person, in whole or in part, if the person acted honestly and ought fairly to be relieved having regard to all the circumstances (section 239(2)). A company may also apply to the Court under section 239(10) for a declaration that a course of conduct does not constitute wrongful trading. Board minutes recording the credit decision, the assessment of customer health, and the steps taken to limit exposure are the evidentiary backbone.
 
 ### Questions to Ask Your Adviser
 
 1. Does our Trade Credit Insurance wording explicitly include IRDA section 64 filing, IRDA section 91 judicial management order, IRDA section 94 creditors' resolution judicial management, IRDA Part 8 winding up, and SIP 2.0 SDRP and SWUP as insolvency events?
 2. What is the notification window from awareness of an insolvency event, and what documentation is required at notification?
 3. For our concentrated buyers (top 5 by exposure), do we have named-buyer cover or are they within the whole-turnover form's discretionary credit limit?
-4. What is the policy's protracted default trigger period (180 days standard) and how does it interact with the insolvency-event trigger?
+4. What is the policy's protracted default trigger period (the World Bank's trade credit insurance primer says normally 60 to 180 days) and how does it interact with the insolvency-event trigger?
 5. For our standard supply contracts, is there a "future supply" mechanism that survives section 440 (e.g., a cash-on-delivery automatic conversion on insolvency event)?
 6. Does our policy respond to a scheme of arrangement haircut, or only to compulsory liquidation?
-7. For directors' protection against section 239 wrongful trading exposure, is our D&O cover Side A limit adequate for the credit-management decisions made during the year?
+7. For directors' protection against section 239 wrongful trading exposure, is our D&O cover Side A limit adequate?
 
 ### Related Information
 

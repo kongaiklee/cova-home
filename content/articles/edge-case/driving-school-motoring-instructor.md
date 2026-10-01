@@ -21,7 +21,7 @@ og_description: "Driving schools and instructors sit under the Traffic Police an
 
 > **The Answer in 60 Seconds**
 >
-> Driving schools and motoring instructors in Singapore are regulated by the [Singapore Police Force Traffic Police Division](https://www.police.gov.sg/) under the [Road Traffic Act 1961](https://sso.agc.gov.sg/Act/RTA1961) and the [Road Traffic (Driving Instructors and Driving Schools) Rules](https://sso.agc.gov.sg/SL/RTA1961-R16). Two operating models: (a) **Established driving centres** - [ComfortDelGro Driving Centre](https://www.cdc.com.sg/), [Bukit Batok Driving Centre](https://www.bbdc.com.sg/), [Singapore Safety Driving Centre](https://www.ssdcl.com.sg/) - large-scale operators with on-site test routes; (b) **Private driving instructors (PDIs)** - individual instructors licensed by [Traffic Police](https://www.police.gov.sg/) to instruct in their own vehicles (a closed category: no new PDI licences have been issued since 1987, so the existing PDI pool is diminishing). Instructors hold a driving instructor's licence issued by the Traffic Police under those Rules; vehicle compliance under [Land Transport Authority (LTA)](https://www.lta.gov.sg/) Motor Vehicles regulation. Insurance commercial spine: (a) **Motor insurance with instructor / driving school endorsement** (specific cover for student-driver scenarios), (b) **Public Liability** for premises and any non-vehicle activity, (c) **Professional Indemnity** for instruction-quality / examination-result claims, (d) **Property/Fire** for premises and any test-route infrastructure (driving centres only), (e) **WICA** for staff, (f) **Cyber/PDPA cover** for student records. The edge-case features that frequently get missed: **student-driver third-party liability** (student causing injury / damage to third party during lesson), **vehicle modification for dual-control** (dual brake pedal modification - instructor's vehicle non-standard), **instructor's vicarious liability for student incidents**, **non-Singapore-licence student instruction** (foreign learners with provisional permit creating licensing complications), and **driving centre test-route exposure** (closed-circuit test routes have specific premises-liability profile).
+> Driving schools and motoring instructors in Singapore are regulated by the [Singapore Police Force Traffic Police Division](https://www.police.gov.sg/) under the [Road Traffic Act 1961](https://sso.agc.gov.sg/Act/RTA1961) and the [Road Traffic (Driving Instructors and Driving Schools) Rules](https://sso.agc.gov.sg/SL/RTA1961-R16). Two operating models: (a) **Established driving centres** - [ComfortDelGro Driving Centre](https://www.cdc.com.sg/), [Bukit Batok Driving Centre](https://info.bbdc.sg/), [Singapore Safety Driving Centre](https://www.ssdcl.com.sg/) - large-scale operators with on-site test routes; (b) **Private driving instructors (PDIs)** - individual instructors licensed by [Traffic Police](https://www.police.gov.sg/) to instruct in their own vehicles (a closed category: no new PDI licences have been issued since 1987, so the existing PDI pool is diminishing). Instructors hold a driving instructor's licence issued by the Traffic Police under those Rules; vehicle compliance under [Land Transport Authority (LTA)](https://www.lta.gov.sg/) Motor Vehicles regulation. Insurance commercial spine: (a) **Motor insurance with instructor / driving school endorsement** (specific cover for student-driver scenarios), (b) **Public Liability** for premises and any non-vehicle activity, (c) **Professional Indemnity** for instruction-quality / examination-result claims, (d) **Property/Fire** for premises and any test-route infrastructure (driving centres only), (e) **WICA** for staff, (f) **Cyber/PDPA cover** for student records. The edge-case features that frequently get missed: **student-driver third-party liability** (student causing injury / damage to third party during lesson), **vehicle modification for dual-control** (dual brake pedal modification - instructor's vehicle non-standard), **instructor's vicarious liability for student incidents**, **non-Singapore-licence student instruction** (foreign learners with provisional permit creating licensing complications), and **driving centre test-route exposure** (closed-circuit test routes have specific premises-liability profile).
 
 ### The Sourced Detail
 
@@ -33,11 +33,11 @@ Driving instruction in Singapore operates within a specific regulatory framework
 
 - Driving school registration and licensing
 - Driving instructor licensing (instructor's licence issued by the Deputy Commissioner of Police)
-- Vehicle requirements for instruction (dual controls, instructor identification)
+- Vehicle and instructor requirements (a vehicle registered for instruction, insurance for instruction and driving tests, the instructor's licence worn while instructing)
 - Student permits (Provisional Driving Licence - PDL)
 - Test administration and protocols
 
-**Vehicle regulation.** [Land Transport Authority (LTA)](https://www.lta.gov.sg/) under [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) for compulsory motor third-party insurance. Driving school / instructor vehicles require compulsory motor cover plus typically comprehensive cover with driving-school endorsement.
+**Vehicle regulation.** [Land Transport Authority (LTA)](https://www.lta.gov.sg/) under [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) for compulsory motor third-party insurance. Driving school / instructor vehicles require compulsory motor cover, and rule 27 of the Road Traffic (Driving Instructors and Driving Schools) Rules requires a vehicle used for instruction or a driving test to be insured against any liability arising from a driving instructor using it for instruction, any person driving it, or any other person in it during the test.
 
 **Workplace safety.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019).
 
@@ -49,7 +49,7 @@ Driving instruction in Singapore operates within a specific regulatory framework
 
 **Established driving centres.** Large-scale operators with on-site test routes:
 - [ComfortDelGro Driving Centre (CDC)](https://www.cdc.com.sg/)
-- [Bukit Batok Driving Centre (BBDC)](https://www.bbdc.com.sg/)
+- [Bukit Batok Driving Centre (BBDC)](https://info.bbdc.sg/)
 - [Singapore Safety Driving Centre (SSDC)](https://www.ssdcl.com.sg/)
 
 These operate large facilities with:
@@ -60,10 +60,10 @@ These operate large facilities with:
 - Substantial employee count (instructors, examiners, support staff)
 
 **Private driving instructors (PDIs).** Individual instructors licensed by Traffic Police - a closed category, as no new PDI licences have been issued since 1987:
-- Operate using own vehicle (modified with dual controls)
+- Operate using own vehicle, which must be registered for instruction
 - Independent of established centres
 - 1:1 instruction model
-- Public road instruction (not on closed circuit)
+- Public road instruction; a private instructor can also book circuit practice at a driving centre
 
 #### Insurance commercial spine
 
@@ -99,12 +99,12 @@ For PDIs operating from home or with mobile-only model, premises PL less materia
 - Refund / compensation claims
 - Examination result disputes
 
-PI is less commonly carried in this segment but worth considering for premium / specialty operators.
+PI is worth considering for premium / specialty operators.
 
 **Property / Fire** - for driving centres:
 - Buildings and fit-out
 - Test route infrastructure (cones, markings, signs, parking marker installations)
-- Classroom equipment (simulators are often substantial - modern driving simulators SGD 50,000-500,000+)
+- Classroom equipment, including driving simulators
 - Office and administrative infrastructure
 
 For PDIs, property cover is minimal (vehicle is primary asset; covered under motor).
@@ -137,7 +137,7 @@ This is the operational core for instructor insurance:
 - Student takes wrong action causing accident
 
 **Cover response.**
-- Compulsory motor third-party cover responds (statutory)
+- Compulsory motor third-party cover responds to third-party death or bodily injury (statutory); the Motor Vehicles (Third-Party Risks and Compensation) Act does not compel cover for third-party property damage, but rule 27 of the Road Traffic (Driving Instructors and Driving Schools) Rules requires an instruction vehicle to be insured to cover any liability arising from a driving instructor using it for instruction or any person driving it
 - Comprehensive cover responds to instruction vehicle damage
 - Driving school endorsement specifically addresses student-driver scenarios
 - Standard motor without endorsement may exclude or limit
@@ -156,11 +156,11 @@ This is the operational core for instructor insurance:
 
 Instruction vehicles are non-standard:
 - **Dual-control modification.** Instructor-side brake (and sometimes clutch / accelerator)
-- **Identification.** Roof signage, side signage required
+- **Identification.** Roof or side signage
 - **Specific equipment.** Logbook, instruction materials
 - **Insurance underwriting.** Modified vehicles assessed differently; specific cover scope
 
-Modification undertaken by approved facilities; modification documentation matters for both regulatory compliance and insurance.
+Modification documentation matters for both regulatory compliance and insurance.
 
 #### The instructor vicarious liability question
 
@@ -243,7 +243,7 @@ For a typical Singapore driving school operator (centre or PDI):
 3. **Documented instruction protocols.**
 4. **Student records compliant with PDPA.**
 
-The cost of properly structured driving school insurance varies dramatically: PDI single-vehicle operator might run SGD 4,000-8,000 annually; major driving centre with fleet, premises, employees substantially more (SGD 100,000-500,000+). The cost of a single major incident - student-instruction-related fatality, multi-vehicle incident on test route - typically exceeds many years of premium.
+The cost of driving school insurance varies with the operator: a single-vehicle PDI and a driving centre with a fleet, premises and employees sit at very different levels. A single major incident, such as a fatality during instruction or a multi-vehicle incident on a test route, can cost far more than a year's premium.
 
 ### Questions to Ask Your Adviser
 

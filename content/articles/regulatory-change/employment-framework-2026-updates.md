@@ -138,7 +138,7 @@ Per [the WFA's effect on EPL cover](/regulatory-change/wfa-2024-phase-2-implemen
 
 Per [the employer's WICA obligations](/document-legal/wica-complete-guide-singapore-employers):
 
-- Mandatory cover from designated insurer panel
+- Mandatory cover from designated insurer panel, except for the classes of employee the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers
 - Specific compensation framework
 
 **Common-Law / Employer's Liability:**
@@ -351,7 +351,7 @@ The Singapore employment framework continues to mature. SMEs that engage thought
 5. As frameworks continue to evolve, what compliance and insurance evolution should I plan for?
 
 ### Related Information
-- [Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know](/regulatory-change/wfa-2024-phase-2-implementation)
+- [Workplace Fairness Act 2025 Implementation: What Singapore SMEs Need to Know](/regulatory-change/wfa-2024-phase-2-implementation)
 - [Platform Workers Act 2024 First-Year Enforcement Review: What Singapore SMEs Need to Know](/regulatory-change/platform-workers-act-first-year-review)
 - [WICA 1 November 2025 Compensation Limit Increase: Claim Patterns and Insurance Implications](/regulatory-change/wica-2025-limit-increase-claim-patterns)
 

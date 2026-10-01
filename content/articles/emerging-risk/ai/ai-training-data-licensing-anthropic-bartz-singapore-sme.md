@@ -22,7 +22,7 @@ og_description: "Anthropic settled the Bartz class action for around USD 1.5bn i
 
 > **The Answer in 60 Seconds**
 >
-> On 5 September 2025, Anthropic agreed to pay approximately **USD 1.5 billion** to settle the class action *Bartz et al. v Anthropic PBC* (N.D. Cal.) brought by authors alleging that Anthropic had copied their books without licence to train the Claude family of large language models. The fairness hearing was set for **14 May 2026**. The settlement is the largest publicly reported AI training-data settlement to date and crystallises a question that affects Singapore SMEs in two distinct positions: SMEs that **produce** content (text, images, code, data) that may have been used to train a model without licence, and SMEs that **use** generative AI tools whose model providers face training-data litigation. The Singapore copyright framework - the [Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021) - contains two specific provisions relevant to AI training: the **computational data analysis exception** at sections 243-244, and the **fair use** framework at sections 190-191. This article sets out the international training-data landscape, the Singapore Copyright Act framework, the contractual position major AI vendors take with their customers, and the insurance covers that respond.
+> On 5 September 2025, Anthropic agreed to pay approximately **USD 1.5 billion** to settle the class action *Bartz et al. v Anthropic PBC* (N.D. Cal.) brought by authors alleging that Anthropic had copied their books without licence to train the Claude family of large language models. The fairness hearing was held on **14 May 2026**, and the court granted final approval on 20 July 2026. The settlement is the largest publicly reported AI training-data settlement to date and crystallises a question that affects Singapore SMEs in two distinct positions: SMEs that **produce** content (text, images, code, data) that may have been used to train a model without licence, and SMEs that **use** generative AI tools whose model providers face training-data litigation. The Singapore copyright framework - the [Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021) - contains two specific provisions relevant to AI training: the **computational data analysis exception** at sections 243-244, and the **fair use** framework at sections 190-191. This article sets out the international training-data landscape, the Singapore Copyright Act framework, the contractual position major AI vendors take with their customers, and the insurance covers that respond.
 
 ### The Sourced Detail
 
@@ -32,7 +32,7 @@ The two sides of the Singapore SME exposure are distinct: content producers whos
 
 #### The Bartz settlement in context
 
-In *Andrea Bartz, Charles Graeber and Kirk Wallace Johnson v Anthropic PBC*, filed in the Northern District of California, three authors brought a putative class action alleging that Anthropic had downloaded copies of their books from shadow-library sources to train the Claude models without licence. After class certification in 2025 and intensive motion practice, Anthropic agreed to settle for approximately **USD 1.5 billion**, with a fairness hearing scheduled for 14 May 2026.
+In *Andrea Bartz, Charles Graeber and Kirk Wallace Johnson v Anthropic PBC*, filed in the Northern District of California, three authors brought a putative class action alleging that Anthropic had downloaded copies of their books from shadow-library sources to train the Claude models without licence. After class certification in 2025 and intensive motion practice, Anthropic agreed to settle for approximately **USD 1.5 billion**, with a fairness hearing held on 14 May 2026; the court granted final approval and entered judgment on 20 July 2026.
 
 The settlement does not resolve the underlying legal question - whether large-scale training-data ingestion is fair use under US copyright law - but it does set the financial-impact reference point for the industry. Other matters proceeding in parallel include the New York Times' case against OpenAI and Microsoft, and various music publishers' cases against AI music-generation providers.
 
@@ -42,11 +42,11 @@ The Singapore relevance is two-fold. First, AI vendors face direct commercial pr
 
 The [Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021), in force from 21 November 2021, contains two provisions directly relevant to AI training in Singapore.
 
-**Computational data analysis (CDA) exception - sections 243 and 244.** Section 243 of the Copyright Act creates a defence to copyright infringement where a person uses a work (and any communication of it) for the purpose of computational data analysis or to prepare a work for computational data analysis, subject to specified conditions. Section 244 requires that the user have lawful access to the work, and that the use is not for a commercial purpose involving the supply of the work to others.
+**Computational data analysis (CDA) exception - sections 243 and 244.** Section 243 of the Copyright Act defines computational data analysis, which includes using a work as an example of a type of information or data to improve the functioning of a computer program (the Act's illustration is using images to train a program to recognise images). Section 244 makes it a permitted use to copy a work for computational data analysis, or to prepare it for that analysis, if its conditions are met: the copy is used for no other purpose; it is not supplied to anyone except to verify the results or for collaborative research or study; the user has lawful access to the source; and the source is not an infringing copy, subject to limited exceptions. The section contains no non-commercial condition.
 
 The CDA exception was deliberately drafted to facilitate text- and data-mining and machine-learning research in Singapore. Its application to commercial-scale AI training is the subject of evolving interpretation; the conditions (lawful access; non-supply of the work) are the contested edges.
 
-**Fair use - sections 190 and 191.** Section 190 of the Copyright Act sets out the Singapore fair use framework using four factors: the purpose and character of the use (including whether commercial), the nature of the work, the amount and substantiality of the portion used, and the effect on the potential market. Section 191 lists illustrative purposes including criticism, review, news reporting, research, and study.
+**Fair use - sections 190 and 191.** Section 190 of the Copyright Act makes fair use a permitted use, and section 191 sets out the matters to be considered, including four factors: the purpose and character of the use (including whether it is of a commercial nature), the nature of the work, the amount and substantiality of the portion used, and the effect on the potential market for or value of the work. Sections 192 to 194 add rules for news reporting, criticism or review, and research or study.
 
 Fair use is the more general framework; CDA is the specific. The interaction between them in the context of AI training is a live legal question.
 
@@ -88,7 +88,7 @@ Three covers are operationally relevant.
 
 **Media liability / Intellectual property infringement cover.** Where the SME's commercial activity is content-driven (publishing, advertising, marketing services), media liability or specific IP infringement cover is the primary route. The market for these covers in Singapore for SMEs is developing.
 
-**Cyber liability** typically does not respond to IP claims directly, although cyber may engage if the SME's training-data use involves a data-protection failure.
+**Cyber liability** responds to an IP claim only where its wording includes it: one Singapore insurer's SME cyber cover names intellectual property rights under its media and social media liability, while a Singapore broker lists intellectual property infringement among cyber exclusions. Cyber may also engage if the SME's training-data use involves a data-protection failure.
 
 #### The future direction
 

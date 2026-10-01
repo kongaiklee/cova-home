@@ -21,7 +21,7 @@ og_description: "A 3D printing service or maker space mixes public access, machi
 
 > **The Answer in 60 Seconds**
 >
-> 3D printing service operators and maker spaces in Singapore operate as standard commercial services with specific intersections: [BCA building usage classification](https://www1.bca.gov.sg/) for industrial / commercial space conversion, [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for fire safety (3D printing involves heated materials and potential fire risk), [WSHA 2006](https://sso.agc.gov.sg/Act/WSHA2006) for workplace safety, and significant [Intellectual Property Office of Singapore (IPOS)](https://www.ipos.gov.sg/) considerations under [Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021), [Patents Act 1994](https://sso.agc.gov.sg/Act/PA1994), and [Registered Designs Act 2000](https://sso.agc.gov.sg/Act/RDA2000) given the IP-replication potential of 3D printing. Insurance commercial spine: (a) **Public Liability** for premises and any maker space participant exposure, (b) **Product Liability** for printed parts sold to customers, (c) **Professional Indemnity** for design / engineering advisory work, (d) **Property/Fire** including printers (industrial 3D printers can run SGD 50,000-500,000+), (e) **Cyber/PDPA cover** for design files, customer data, IP-related considerations, (f) **WICA** for staff, (g) **IP infringement liability cover** (specialty cover for IP-related claims). The edge-case features that frequently get missed: **product liability for printed parts** (printed component fails, downstream injury or property damage), **IP infringement exposure** (printing of patented or copyrighted designs without authorisation), **fire risk from FDM printer thermal events** (heated extruder + plastic feedstock fire risk in unattended printing), **maker space participant injury** (multi-user equipment access, training quality questions), and **design file / customer IP custody** (operator holds customer's confidential design files).
+> 3D printing service operators and maker spaces in Singapore operate as standard commercial services with specific intersections: [URA planning permission](https://www.ura.gov.sg/guidelines/property-and-business-owners/business-owners/change-use-of-property-for-business/assessment-criteria/) where converting industrial or commercial space to a new use needs it, [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for fire safety (3D printing involves heated materials and potential fire risk), [WSHA 2006](https://sso.agc.gov.sg/Act/WSHA2006) for workplace safety, and significant [Intellectual Property Office of Singapore (IPOS)](https://www.ipos.gov.sg/) considerations under [Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021), [Patents Act 1994](https://sso.agc.gov.sg/Act/PA1994), and [Registered Designs Act 2000](https://sso.agc.gov.sg/Act/RDA2000) given the IP-replication potential of 3D printing. Insurance commercial spine: (a) **Public Liability** for premises and any maker space participant exposure, (b) **Product Liability** for printed parts sold to customers, (c) **Professional Indemnity** for design / engineering advisory work, (d) **Property/Fire** including printers, (e) **Cyber/PDPA cover** for design files, customer data, IP-related considerations, (f) **WICA** insurance for the staff the law requires it for, (g) **IP infringement liability cover** (specialty cover for IP-related claims). The edge-case features that frequently get missed: **product liability for printed parts** (printed component fails, downstream injury or property damage), **IP infringement exposure** (printing of patented or copyrighted designs without authorisation), **fire risk from FDM printer thermal events** (heated extruder + plastic feedstock fire risk in unattended printing), **maker space participant injury** (multi-user equipment access, training quality questions), and **design file / customer IP custody** (operator holds customer's confidential design files).
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ og_description: "A 3D printing service or maker space mixes public access, machi
 
 #### Regulatory framework
 
-**Building / fire safety.** [BCA building code](https://www1.bca.gov.sg/) for any change of use - industrial 3D printing operations may need industrial-use classification; smaller services in commercial space typically fit standard commercial classifications. [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for fire safety; 3D printing operations have specific fire risk considerations.
+**Building / fire safety.** A change of use may need planning permission from the [Urban Redevelopment Authority](https://www.ura.gov.sg/guidelines/property-and-business-owners/business-owners/change-use-of-property-for-business/assessment-criteria/), depending on the use and the type of property. [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for fire safety; 3D printing operations have specific fire risk considerations.
 
 **Workplace safety.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). 3D printing operations involve:
 - Heated equipment (extruders typically 200-300°C for FDM)
@@ -37,7 +37,7 @@ og_description: "A 3D printing service or maker space mixes public access, machi
 - Powder-based systems (SLS, MJF) - inhalation risk
 - Solvents and post-processing chemicals
 
-**Intellectual property.** Three layers:
+**Intellectual property.** Four layers:
 - [Copyright Act 2021](https://sso.agc.gov.sg/Act/CA2021) - for digital files (STL files, CAD designs)
 - [Patents Act 1994](https://sso.agc.gov.sg/Act/PA1994) - for inventions / utility designs
 - [Registered Designs Act 2000](https://sso.agc.gov.sg/Act/RDA2000) - for industrial design rights
@@ -49,7 +49,7 @@ og_description: "A 3D printing service or maker space mixes public access, machi
 
 **Restricted / dual-use considerations.** Some 3D printing applications engage [Strategic Goods (Control) Act](https://sso.agc.gov.sg/Act/SGCA2002) - military or dual-use parts. Most maker spaces don't engage this but specialty operations might.
 
-**PDPA.** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) - customer data including design files contain customer IP.
+**PDPA.** [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012): personal data of customers and members. Design files are not personal data unless they hold data about an individual who can be identified; any customer IP in them falls under confidentiality and IP law, not the PDPA.
 
 #### Insurance commercial spine
 
@@ -74,9 +74,9 @@ og_description: "A 3D printing service or maker space mixes public access, machi
 
 **Property / Fire** - equipment values:
 
-- Industrial FDM printers: SGD 5,000-50,000
-- Industrial SLA / SLS / MJF systems: SGD 50,000-500,000+
-- Metal printing (DMLS / SLM): SGD 200,000-1,500,000+
+- Industrial FDM printers
+- Industrial SLA / SLS / MJF systems
+- Metal printing (DMLS / SLM)
 - Post-processing equipment, dryers, ovens
 - Software / CAD station infrastructure
 
@@ -95,7 +95,7 @@ og_description: "A 3D printing service or maker space mixes public access, machi
 
 Standard PI / PL may not respond to IP infringement; specialty IP cover provides clearer scope.
 
-**WICA** - for staff: machine operators, designers, post-processing technicians.
+**WICA**: work injury compensation insurance is required for employees doing manual work (which can include machine operators and post-processing technicians) and for employees not doing manual work whose salary (excluding overtime, bonus, annual wage supplement, productivity incentive payments and allowances) is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude. The business must still compensate any injured employee under WICA, insured or not, so it can choose to insure designers and others outside the duty too.
 
 **Group Medical / Group PA** - voluntary employer-paid cover.
 
@@ -151,7 +151,7 @@ FDM (filament) printing has specific fire risk considerations:
 - Long unattended print runs (often overnight or multi-day)
 - Equipment failures (thermistor failure causing thermal runaway, electrical faults)
 
-Industry data documents 3D-printer-related fire incidents in residential and commercial settings. Underwriting often examines:
+Points an underwriter may ask about:
 - Smoke detection
 - Fire suppression near equipment
 - Unattended-printing protocols
@@ -176,7 +176,7 @@ Participant injury scenarios:
 - Eye injury from inadequate eye protection during specific operations
 - Inhalation from inadequate ventilation during certain materials
 
-PL must cover maker space configurations explicitly; some standard SME PL limits to staff-only operation.
+PL must cover maker space configurations explicitly.
 
 #### The design file custody and confidentiality
 
@@ -228,13 +228,13 @@ For a typical Singapore 3D printing service or maker space - single facility, 1-
 
 7. **IP Infringement Liability** if customer-submitted-design printing is significant.
 
-8. **WICA for all staff** including material-handling specifics.
+8. **WICA insurance where the law requires it** (employees doing manual work, and employees not doing manual work whose salary, excluding overtime, bonus, annual wage supplement, productivity incentive payments and allowances, is S$2,600 a month or less, unless in a class the WIC (Insurance) Regulations exclude), including material-handling specifics; the business must still compensate any injured employee under WICA, insured or not.
 
 9. **Documented protocols** for unattended printing, IP verification, material certification.
 
 10. **Customer agreements** clearly addressing material limitations, end-use disclaimers, IP warranties.
 
-The cost of properly structured 3D printing operator insurance is typically SGD 5,000-25,000 annually depending on equipment scope and operation type. The cost of a single major incident - printed part product liability claim, IP infringement litigation, fire destroying premium equipment - typically exceeds many years of premium.
+The premium depends on equipment scope and operation type.
 
 ### Questions to Ask Your Adviser
 

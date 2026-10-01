@@ -95,7 +95,7 @@ A frequent gap worth naming: locum doctors. A locum joining for three months who
 
 ## Related Information
 - [Singapore Medical Association (SMA), Singapore Medical Council (SMC), and Medical Practitioner Indemnity: Statutory Framework and Insurance Implications](/association/sma-smc-medical-practitioner-indemnity-framework)
-- [What Insurance Does an MOH Nursing Home or Eldercare Licence Need in Singapore?](/licensing/moh-nursing-home-licence-insurance-singapore)
+- [What Insurance Does an MOH Nursing Home Licence Need in Singapore?](/licensing/moh-nursing-home-licence-insurance-singapore)
 - [Cyber Insurance for Singapore SMEs: The Complete Guide](/document-legal/cyber-insurance-complete-guide-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 

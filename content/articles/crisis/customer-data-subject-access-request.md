@@ -108,7 +108,7 @@ Section 21(2) and 21(3) qualify the right of access in two different ways:
 
 **Section 21(2) - the Fifth Schedule exceptions.** An organisation is *not required* to provide access in respect of the matters listed in the Fifth Schedule to the PDPA - for example, opinion data kept solely for an evaluative purpose, information that would reveal confidential commercial information harmful to the organisation's competitive position, and information subject to legal privilege.
 
-**Section 21(3) - the mandatory prohibitions.** An organisation *shall not* provide access where doing so could reasonably be expected to threaten the safety or physical or mental health of another individual; cause immediate or grave harm to the requester; reveal personal data about another individual; reveal the identity of an individual who provided data about the requester in confidence; or be contrary to the national interest.
+**Section 21(3) - the mandatory prohibitions.** An organisation *shall not* provide access where doing so could reasonably be expected to threaten the safety or physical or mental health of another individual; cause immediate or grave harm to the requester; reveal personal data about another individual; reveal the identity of an individual who provided personal data about the requester and does not consent to the disclosure of his or her identity; or be contrary to the national interest.
 
 Where only part of the data is caught by an exception or prohibition, the organisation must still provide the rest.
 
@@ -128,13 +128,13 @@ The matters that justify withholding access fall into two groups - the Fifth Sch
 
 **Threat to safety or health (Section 21(3)).** An organisation shall not provide access where it could reasonably be expected to threaten the safety or physical or mental health of another individual, or cause immediate or grave harm to the requester.
 
-**Personal data of other individuals (Section 21(3)).** Where access would reveal personal data about another individual, or reveal the identity of an individual who provided data about the requester in confidence, Section 21(3) prohibits disclosure. The organisation is expected to consider redaction to provide what can be provided without breaching third-party privacy.
+**Personal data of other individuals (Section 21(3)).** Where access would reveal personal data about another individual, or reveal the identity of an individual who provided personal data about the requester and does not consent to the disclosure of his or her identity, Section 21(3) prohibits disclosure. The organisation is expected to consider redaction to provide what can be provided without breaching third-party privacy.
 
 **National interest (Section 21(3)).** Disclosure that would be contrary to the national interest is prohibited.
 
 Separately, Section 21(4) provides that an organisation must not tell an individual, in answer to a request about use and disclosure, that it has disclosed the individual's personal data to a prescribed law enforcement agency, if that disclosure was made under the PDPA or any other written law without the individual's consent.
 
-A refusal must be supported by a specific exception or prohibition applied to specific data, with reasoning communicated to the requester. Blanket refusals or unsupported refusals are PDPC complaint magnets. [PDPC enforcement decisions](https://www.pdpc.gov.sg/All-Commissions-Decisions) provide guidance on how the exceptions have been evaluated in practice.
+A refusal must be supported by a specific exception or prohibition applied to specific data, and PDPC's guidelines say the requester should be told the reasons. Blanket refusals or unsupported refusals are PDPC complaint magnets. [PDPC enforcement decisions](https://www.pdpc.gov.sg/All-Commissions-Decisions) provide guidance on how the exceptions have been evaluated in practice.
 
 ---
 

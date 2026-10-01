@@ -34,7 +34,7 @@ Standard insurance clauses include several structural elements:
 **Mandated cover types** - considerations on required cover. Typical commercial conventions include:
 
 - Public Liability (foundational across most commercial scope)
-- Workers' Compensation / WICA cover (mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019))
+- Workers' Compensation / WICA cover (mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), except for the classes of employees the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers)
 - Professional Indemnity (where advisory commercial scope)
 - Specific Product Liability scope (where product commercial scope)
 - Specific Marine Cargo / Goods in Transit (where transport scope)
@@ -67,7 +67,7 @@ Standard insurance clauses include several structural elements:
 
 **Public Liability with Product Liability extension** - foundational across most commercial scope. Considerations on limits.
 
-**Workers' Compensation / WICA cover** - mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) framework. Considerations on designated insurer scope (see [how MOM changes the list](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Workers' Compensation / WICA cover** - mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) framework, subject to the excluded classes. Considerations on designated insurer scope (see [how MOM changes the list](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Professional Indemnity** - where advisory commercial scope. Considerations on limits and provisions.
 

@@ -201,7 +201,7 @@ Wedding photography frequently engages second shooters and assistants on day rat
 - Engagement contract clarifying scope, IP, indemnities
 
 **Employee model:**
-- WICA mandatory
+- WICA insurance compulsory, except for the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month
 - Group PA, group medical typically
 - Employment Act compliance
 - IP automatically vests with employer

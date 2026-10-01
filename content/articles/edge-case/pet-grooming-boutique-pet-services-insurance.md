@@ -14,14 +14,14 @@ word_count: 1492
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/pet-grooming-boutique-pet-services-insurance"
-meta_description: "A Singapore pet grooming salon, boutique or mobile groomer is licensed under the Animal and Veterinary rules. What that requires, and what handling adds."
+meta_description: "Pet grooming needs no AVS licence in Singapore, but a pet shop or paid pet boarding generally does. What each licence covers, and what handling pets adds."
 og_title: "Pet Grooming, Boutique Pet Services, and Mobile Pet Care Insurance in Singapore"
-og_description: "A Singapore pet grooming salon, boutique or mobile groomer is licensed under the Animal and Veterinary rules. What that requires, and what handling adds."
+og_description: "Pet grooming needs no AVS licence in Singapore, but a pet shop or paid pet boarding generally does. What each licence covers, and what handling pets adds."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore pet grooming salon, boutique pet retailer, mobile pet groomer, or pet day-spa typically requires: licensing under the [Animal and Veterinary Service (AVS)](https://www.nparks.gov.sg/avs) for animal-related businesses (pet shop licence, pet boarding licence, etc., per service offered), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) for premises, and [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability** (S$1M-S$3M typical), **Care, Custody and Control extension / Bailee cover** for pets in custody (standard PL excludes property in CCC; specific extension essential), **Property/Fire** for fit-out and stock, **WICA** for staff, **Cyber Liability** for pet owner data, and for retailers **Product Liability** for pet food and products. Mobile pet groomers face additional considerations on operating without fixed premises; pet boarding facilities have elevated overnight-care exposure and specific AVS licensing. The most distinctive insurance issue: **pet injury or death while in custody** is a foreseeable claim category that standard PL does not address - Bailee / CCC extension is essential.
+> A Singapore pet grooming salon, boutique pet retailer, mobile pet groomer, or pet day-spa may need: a licence from the [Animal and Veterinary Service (AVS)](https://www.nparks.gov.sg/avs) only where a licensed purpose applies, such as selling pets (pet shop licence) or boarding pets for reward (pet boarding licence), since there is currently no licensing regime for pet groomers; [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) where the fit-out involves fire safety works, and [URA](https://www.ura.gov.sg/) zoning compliance. Insurance baseline: **Public Liability**, **Care, Custody and Control extension / Bailee cover** for pets in custody (standard PL excludes property in CCC; specific extension essential), **Property/Fire** for fit-out and stock, **WICA** for staff, **Cyber Liability** for pet owner data, and for retailers **Product Liability** for pet food and products. Mobile pet groomers face additional considerations on operating without fixed premises; pet boarding facilities have elevated overnight-care exposure and specific AVS licensing. The most distinctive insurance issue: **pet injury or death while in custody** is a foreseeable claim category that standard PL does not address - Bailee / CCC extension is essential.
 
 ### The Sourced Detail
 
@@ -29,10 +29,10 @@ Singapore's pet care industry has matured significantly with grooming salons, bo
 
 #### The AVS regulatory framework
 
-Per the [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965), animal-related businesses require AVS licensing:
+Under the Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules, made under the [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965), a licence from AVS is needed to use premises as a pet shop, to exhibit animals or birds, to distribute pet animals or birds, or to breed, board or rear them for reward, with some exceptions (for example, an individual breeding or boarding at home where the Rules' conditions are met):
 
 **Pet shop licence:**
-- For premises selling pets or pet products
+- For premises where pet animals or birds are kept or displayed for sale
 - Operational standards
 - Premises requirements
 - Animal welfare standards
@@ -66,7 +66,7 @@ PL for pet care services:
 - Allergic reactions to pet exposure
 
 **Limit considerations:**
-- Standard limits S$1M-S$3M typical
+- Limits are set per occurrence; a lease may name a minimum
 - Pet boarding facilities often warrant higher
 - Mall-based businesses subject to mall minimums
 
@@ -90,10 +90,9 @@ For pet care businesses, customer pets are precisely such property - held by the
 - Pet injury or death while in custody
 - Veterinary costs from incidents in custody
 - Replacement value for fatal incidents
-- Sometimes: emotional distress / consortium claims
 
 **Limit considerations:**
-- Per-pet limit (typical S$5,000-S$25,000)
+- Per-pet limit
 - Aggregate per occurrence
 - Annual aggregate
 
@@ -186,36 +185,9 @@ Pet care businesses hold:
 - Specific information (allergies, behaviours, medications)
 
 PDPA exposure standard. Specific considerations:
-- Pet medical information may be sensitive
+- Pet records that name the owner hold the owner's personal data (the PDPA protects data about individuals)
 - Photos / videos with identifying owner information
 - Booking platform data
-
-#### Premium considerations
-
-For typical Singapore pet care:
-
-**Solo mobile groomer:**
-- PL with Bailee bundle: S$1,500-S$5,000
-- Vehicle / equipment: S$1,000-S$3,000
-- Cyber / others: S$300-S$1,500
-- **Total annual insurance budget** typically S$3,000-S$10,000
-
-**Pet salon (3-10 staff):**
-- PL/Bailee: S$3,000-S$10,000
-- Property/Fire/BI: S$3,000-S$10,000
-- WICA, Group benefits, Cyber: S$3,000-S$10,000
-- **Total typically S$10,000-S$30,000**
-
-**Pet day-care / boarding (10+ staff, larger facility):**
-- Higher Bailee limits per pet and aggregate
-- Comprehensive other lines
-- **Total typically S$20,000-S$80,000**
-
-**Boutique pet retailer (with grooming services):**
-- Product Liability for pet food / products
-- Property cover for inventory
-- Comprehensive package
-- **Total typically S$15,000-S$50,000**
 
 #### Product Liability for pet retailers
 
@@ -270,7 +242,7 @@ For pet retailers selling food, treats, supplements, accessories:
 
 #### Operational risk management
 
-Insurers underwrite pet care on:
+Risk controls for pet care:
 
 **Pet evaluation:**
 - Pre-service assessment
@@ -310,7 +282,7 @@ Insurers underwrite pet care on:
 3. **Pet boarding without AVS licensing.**
 4. **Mobile groomer with fixed-premises PL only.** Operations not covered.
 5. **No consent for high-risk procedures.** Defence to claims weakened.
-6. **No Cyber for pet medical data.** PDPA exposure.
+6. **No Cyber for customer data.** PDPA exposure for owners' personal data.
 7. **Pet retailer without Product Liability.** Foodborne illness in pets.
 8. **No incident reporting discipline.** Defence to subsequent claims weakened.
 9. **Vaccination verification gaps.** Disease transmission risks.
@@ -336,7 +308,7 @@ For Singapore pet care operators:
 
 8. **Annual review with pet-care-aware broker.** Specific underwriting expertise matters.
 
-The pet care insurance build is moderate-cost but specific. Bailee / CCC extension is the defining cover; without it, the most foreseeable claim category is uninsured.
+The pet care insurance build is specific. Bailee / CCC extension is the defining cover; without it, the most foreseeable claim category is uninsured.
 
 ### Questions to Ask Your Adviser
 

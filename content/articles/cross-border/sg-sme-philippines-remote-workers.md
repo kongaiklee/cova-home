@@ -21,7 +21,7 @@ og_description: "Hiring Filipino remote workers from Singapore can be done three
 
 > **The Answer in 60 Seconds**
 >
-> Hiring Filipino remote workers from Singapore can be done via three main structures: **independent contractor**, **Employer of Record (EOR)** services, or **directly establishing a Philippine entity**. Each has different statutory insurance and benefits implications. Singapore [WICA](https://sso.agc.gov.sg/Act/WICA2019) does not extend to Philippine-resident workers in any structure. Filipino employees engaged directly or via EOR receive coverage under the **Philippine Social Security System (SSS)**, **PhilHealth (national health insurance)**, **Employees' Compensation Commission (ECC)**, and **Pag-IBIG (housing fund)** - administered by the [Department of Labor and Employment (DOLE)](https://www.dole.gov.ph/) framework. Independent contractors generally don't trigger employer obligations but require careful classification - Philippine Department of Labor and Employment uses substantive tests, and misclassification carries penalties. Singapore commercial liability covers (PI, D&O, Cyber) typically have territorial scope considerations for Philippine operations.
+> Hiring Filipino remote workers from Singapore can be done via three main structures: **independent contractor**, **Employer of Record (EOR)** services, or **directly establishing a Philippine entity**. Each has different statutory insurance and benefits implications. Singapore [WICA](https://sso.agc.gov.sg/Act/WICA2019) does not extend to Philippine-resident workers in any structure. Filipino employees engaged directly or via EOR receive coverage under the **Philippine Social Security System (SSS)**, **PhilHealth (national health insurance)**, **Employees' Compensation Commission (ECC)**, and **Pag-IBIG (housing fund)**, each run by its own agency rather than by the Department of Labor and Employment (PhilHealth, for example, is an attached agency of the Department of Health, while the ECC is a government corporation attached to the Department of Labor and Employment for policy coordination and guidance). Independent contractors generally don't trigger employer obligations but require careful classification - Philippine Department of Labor and Employment uses substantive tests, and misclassification carries penalties. Singapore commercial liability covers (PI, D&O, Cyber) typically have territorial scope considerations for Philippine operations.
 
 ### The Sourced Detail
 
@@ -48,7 +48,7 @@ The Singapore SME engages the Filipino worker as an independent contractor, typi
 
 **Structure 2: Employer of Record (EOR) services**
 
-The Singapore SME contracts an EOR provider (Deel, Remote, Multiplier, RemoteOK, Velocity Global, and others) which acts as the legal employer of the Filipino worker:
+The Singapore SME contracts an EOR provider (Deel, Remote, Multiplier, Pebl (formerly Velocity Global), and others) which acts as the legal employer of the Filipino worker:
 
 - EOR runs Philippine payroll
 - EOR pays SSS, PhilHealth, ECC, Pag-IBIG contributions
@@ -64,7 +64,7 @@ The Singapore SME contracts an EOR provider (Deel, Remote, Multiplier, RemoteOK,
 - EOR contracts typically include indemnities and insurance representations
 
 **Cost:**
-- EOR service fee: typically USD 200-USD 600 per worker per month, plus salary and statutory contributions
+- EOR service fee: list prices on two providers' own pricing pages are USD 599 (Deel) and USD 699 (Remote) per employee per month, plus salary and statutory contributions
 - Premium over direct employment but lower than establishing a Philippine entity for small headcount
 
 **Structure 3: Direct establishment of Philippine entity**
@@ -72,8 +72,8 @@ The Singapore SME contracts an EOR provider (Deel, Remote, Multiplier, RemoteOK,
 The Singapore SME establishes a Philippine company (typically a domestic corporation) which directly employs Filipino workers:
 
 - Requires Philippine company incorporation via [Securities and Exchange Commission (SEC)](https://www.sec.gov.ph/)
-- Local director and statutory requirements
-- Direct registration with SSS, PhilHealth, ECC, Pag-IBIG, BIR (tax), DOLE
+- Local officers (the treasurer must be a Philippine resident and the corporate secretary a Philippine citizen and resident) and other statutory requirements
+- Direct registration with SSS (which also brings employees into the employees' compensation programme), PhilHealth, Pag-IBIG, BIR (tax), DOLE
 - Direct payroll, statutory benefits, employment compliance
 
 **Insurance implications:**
@@ -83,7 +83,7 @@ The Singapore SME establishes a Philippine company (typically a domestic corpora
 - Coordinated multinational programme considerations
 
 **When this is appropriate:**
-- Significant Philippine headcount (typically 10+ employees)
+- Significant Philippine headcount
 - Long-term commitment to Philippine operations
 - Tax structuring or commercial reasons
 - Specific industry licensing requirements
@@ -104,7 +104,7 @@ Filipino workers (as employees, including via EOR) receive coverage from four ma
 
 **Employees' Compensation Commission (ECC)**
 - Work-related injury and disease compensation (analogous to Singapore WICA)
-- Funded through SSS contributions
+- Funded by employer-paid EC contributions, remitted to SSS for private-sector employees
 - Administered by [Employees' Compensation Commission](https://ecc.gov.ph/)
 
 **Pag-IBIG (Home Development Mutual Fund)**
@@ -117,7 +117,7 @@ For Singapore SMEs using EORs, all four schemes are handled by the EOR; for thos
 #### What Singapore commercial insurance does and doesn't cover
 
 **Does cover (typically):**
-- Singapore-employed staff (regardless of where they work physically) - Singapore WICA
+- Singapore WICA: accidents to employees in Singapore, and accidents outside Singapore only where the employee is ordinarily resident in Singapore and is employed by an employer in Singapore but required in the course of employment to work outside Singapore (WICA section 9)
 - Singapore HQ premises and operations
 - Liability for services performed from Singapore by Singapore staff
 - Cyber and data breaches affecting Singapore-resident personal data
@@ -131,7 +131,7 @@ For Singapore SMEs using EORs, all four schemes are handled by the EOR; for thos
 **The cyber territorial issue specifically:**
 - For SaaS or service businesses serving Filipino customers or holding Filipino personal data, the [Philippine Data Privacy Act 2012 (RA 10173)](https://privacy.gov.ph/) imposes data protection obligations on processing of Filipino personal data
 - The National Privacy Commission (NPC) is the regulator
-- Breach notification, registration of Data Protection Officer, and other obligations apply
+- Breach notification and other obligations apply. Under NPC Circular 2022-04, registration of data processing systems and the Data Protection Officer with the NPC is mandatory for an organisation that employs 250 or more persons, processes sensitive personal information of 1,000 or more individuals, or carries out processing likely to pose a risk to data subjects, and any system using automated decision-making or profiling must be registered; others may register voluntarily or file a sworn declaration
 - Singapore Cyber Liability needs territorial extension to cover Philippine regulatory and third-party exposure
 
 #### Typical insurance considerations by structure
@@ -217,7 +217,7 @@ For Singapore SMEs using EORs, all four schemes are handled by the EOR; for thos
 2. **Misclassifying employees as contractors to avoid statutory obligations.** Philippine DOLE substantive test; retroactive obligations can apply.
 3. **Using EOR but not extending Cyber/Tech E&O to cover EOR worker scope.** Coverage gap on work delivered by EOR workers.
 4. **Establishing Philippine subsidiary without coordinating insurance programme.** Singapore parent D&O may not respond for Philippine subsidiary director acts.
-5. **Holding Filipino personal data without Philippine DPA registration.**
+5. **Not checking whether NPC registration is mandatory.** Under NPC Circular 2022-04, an organisation employing 250 or more persons, processing sensitive personal information of 1,000 or more individuals, or carrying out processing likely to pose a risk to data subjects must register its data processing systems and Data Protection Officer.
 6. **Not securing Filipino workers' devices and access.** Cyber risk profile changes with distributed workforce.
 7. **No clear contractual structure on IP, confidentiality, indemnities.** Cross-jurisdiction enforcement complexity.
 8. **Assuming Singapore PI covers all work regardless of where performed.** Territorial scope on Singapore policies typically limits to certain jurisdictions.

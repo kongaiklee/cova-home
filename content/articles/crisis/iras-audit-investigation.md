@@ -21,7 +21,7 @@ og_description: "An IRAS compliance review, an information request and an invest
 
 > **The Answer in 60 Seconds**
 >
-> First, distinguish what you have received: an **IRAS Compliance Programme review** (sectoral / risk-based selection), an **information request** under the information-gathering powers of the [Income Tax Act 1947](https://sso.agc.gov.sg/Act/ITA1947) (or the [GST Act 1993](https://sso.agc.gov.sg/Act/GSTA1993)), a **field audit** at your premises, or a **formal investigation** (potentially indicating suspected evasion). Each carries a different urgency and approach. Then, in parallel: engage tax counsel or advisers (specifically tax-experienced - distinct from general commercial counsel), comply with information requests within the stated timelines, document the engagement comprehensively, and assess insurance options. **The insurance layer is limited:** most tax controversies are not insurance-coverable; **D&O** may respond to director-related claims arising from tax matters, and dedicated **Tax Investigation cover** exists in some markets but is uncommon for Singapore SMEs. The Inland Revenue Authority of Singapore ([IRAS](https://www.iras.gov.sg/)) administers Singapore's tax framework, with broad compliance and investigation powers.
+> First, distinguish what you have received: an **IRAS Compliance Programme review** (sectoral / risk-based selection), an **information request** under the information-gathering powers of the [Income Tax Act 1947](https://sso.agc.gov.sg/Act/ITA1947) (or the [GST Act 1993](https://sso.agc.gov.sg/Act/GSTA1993)), a **field audit** at your premises, or a **formal investigation** (potentially indicating suspected evasion). Each carries a different urgency and approach. Then, in parallel: engage tax counsel or advisers (specifically tax-experienced - distinct from general commercial counsel), comply with information requests within the stated timelines, document the engagement comprehensively, and assess insurance options. **The insurance layer is limited:** most tax controversies are not insurance-coverable; **D&O** may respond to director-related claims arising from tax matters, and dedicated **Tax Investigation cover** exists in some markets, such as the UK. The Inland Revenue Authority of Singapore ([IRAS](https://www.iras.gov.sg/)) administers Singapore's tax framework, with broad compliance and investigation powers.
 
 ### The Step-by-Step
 
@@ -56,13 +56,13 @@ The **issues that commonly arise** are revenue-recognition timing, deductibility
 
 The [Income Tax Act 1947](https://sso.agc.gov.sg/Act/ITA1947) gives the Comptroller of Income Tax broad information-gathering and enforcement powers. The provisions that matter in a compliance or investigation context:
 
-- **Section 65 - power to call for returns and books.** The Comptroller can require returns and the production of books.
+- **Section 65 - power to call for returns.** The Comptroller can require a person to complete and return a return specified in a notice.
 - **Section 65A - power to obtain statements of bank accounts and assets.**
 - **Section 65B - power to obtain information.** The Comptroller can require any person to furnish information.
 
 The Act also provides powers of access to premises and documents, which underpin a field audit. On the enforcement side, **Section 95** sets the penalty framework for incorrect returns and compliance failures (with higher penalties where there are aggravating factors), and **Section 96** is the serious offence of **wilful tax evasion**, which carries criminal penalties - fines and potential imprisonment.
 
-A company's income tax is the company's own liability. Directors are not generally personally liable for it - but personal exposure arises where **personal conduct** is in issue (wilful evasion or abetment under the Act), and a company must appoint a public officer who is answerable for the company's tax compliance.
+A company's income tax is the company's own liability. Directors are not generally personally liable for it - but personal exposure arises where **personal conduct** is in issue (wilful evasion or abetment under the Act), and under section 55 of the Act the manager or principal officer in Singapore of a company is answerable for doing all such acts, matters and things as the Act requires for the company's assessment and payment of tax.
 
 #### The GST Act framework
 
@@ -81,7 +81,7 @@ The [GST Act 1993](https://sso.agc.gov.sg/Act/GSTA1993) sets the GST compliance 
 
 The honest landscape - what insurance does and does not reach:
 
-**Tax investigation insurance** - dedicated cover for the adviser and counsel costs of an investigation exists in some markets; it is less common for Singapore SMEs but available.
+**Tax investigation insurance** - dedicated cover for the adviser and counsel costs of an investigation exists in some markets, such as the UK.
 
 **D&O** may respond to director-related claims arising from tax matters and associated governance disputes - but the **fraud and criminal-act exclusions** apply: deliberate evasion and conduct for personal benefit are excluded, typically once established.
 

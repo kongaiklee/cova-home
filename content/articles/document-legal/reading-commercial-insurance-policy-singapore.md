@@ -14,14 +14,14 @@ word_count: 1590
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/reading-commercial-insurance-policy-singapore"
-meta_description: "A commercial policy runs 30 to 60 pages around six core sections. Which sections decide whether it responds, and the order to read them in."
+meta_description: "A commercial policy is built around six core sections. Which of them decide whether it responds to a claim, and the order to read them in."
 og_title: "How to Read a Singapore Commercial Insurance Policy: The Six Sections That Matter Most"
-og_description: "A commercial policy runs 30 to 60 pages around six core sections. Which sections decide whether it responds, and the order to read them in."
+og_description: "A commercial policy is built around six core sections. Which of them decide whether it responds to a claim, and the order to read them in."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A typical Singapore commercial insurance policy runs 30 to 60 pages and is structured around six core sections that determine whether the policy responds at the moment of a claim: the **schedule** (the bespoke parameters of cover - sums insured, deductibles, period), the **insuring clauses** (what is covered), the **definitions** (the meaning of the terms used), the **exclusions** (what is not covered), the **conditions** (what the policyholder must do to keep cover effective), and the **endorsements** (modifications to the standard wording). The policy is a contract subject to the principles of [Singapore contract law](https://sso.agc.gov.sg/Act/CRTPA2001), the [Marine Insurance Act 1906 (codifying utmost good faith)](https://sso.agc.gov.sg/Act/MIA1906), and the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) where applicable. This article walks through each section, explains what to look for at policy inception and at renewal, and identifies the wording-and-clause patterns most relevant to a Singapore SME.
+> A typical Singapore commercial insurance policy is structured around six core sections that determine whether the policy responds at the moment of a claim: the **schedule** (the bespoke parameters of cover - sums insured, deductibles, period), the **insuring clauses** (what is covered), the **definitions** (the meaning of the terms used), the **exclusions** (what is not covered), the **conditions** (what the policyholder must do to keep cover effective), and the **endorsements** (modifications to the standard wording). The policy is a contract subject to the principles of [Singapore contract law](https://sso.agc.gov.sg/Act/CRTPA2001) and the duty of utmost good faith, codified for marine insurance in the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906). The controls on exclusion clauses in sections 2 to 4 of the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977) do not extend to contracts of insurance (First Schedule, paragraph 1(a)). This article walks through each section, explains what to look for at policy inception and at renewal, and identifies the wording-and-clause patterns most relevant to a Singapore SME.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ A commercial insurance policy is a contract between the insurer and the policyho
 
 #### Section 1: The schedule
 
-The schedule is the bespoke front-page of the policy. Across two to four pages, it sets out:
+The schedule is the bespoke front section of the policy. It sets out:
 
 - **The insured.** Named entity, registered address, business description.
 - **The period of insurance.** Inception and expiry dates - typically a 12-month cycle.
@@ -51,7 +51,7 @@ Three patterns matter.
 
 **All-risks vs named perils.** A property cover may be "all risks" (responds to all causes except those specifically excluded) or "named perils" (responds only to specifically listed causes - fire, lightning, explosion, etc.). The all-risks formulation is broader; named-perils is narrower.
 
-**Indemnity basis.** The basis on which the loss is measured - reinstatement, replacement, indemnity (market value at the time of loss), declared value. Reinstatement is the broadest; declared value is the most restrictive.
+**Indemnity basis.** The basis on which the loss is measured - reinstatement, replacement, indemnity (market value at the time of loss), declared value. Which basis applies changes how much is paid, so check it in the schedule and the wording.
 
 #### Section 3: The definitions
 
@@ -72,7 +72,6 @@ Common exclusions to read carefully:
 - **Insolvency-of-the-insured** exclusions.
 - **Insured-vs-insured** exclusions in D&O.
 - **Sub-contractor** exclusions in PL unless specifically endorsed.
-- **Home-based business** exclusions in standard fire policies.
 
 Reading the exclusions at inception identifies which actual exposures are uncovered and may be removable by endorsement (typically at additional premium).
 
@@ -80,7 +79,7 @@ Reading the exclusions at inception identifies which actual exposures are uncove
 
 Conditions are what the policyholder must do to keep cover effective. Two types matter.
 
-**Conditions precedent to liability.** Steps that, if not taken, allow the insurer to deny cover entirely. Notification within a stated window is a common condition precedent; payment of premium by a stated date is another (linked to the [60-day Premium Payment Framework](/document-legal/premium-payment-framework)).
+**Conditions precedent to liability.** Steps that, if not taken, allow the insurer to deny cover entirely. Notification within a stated window is a common condition precedent. Premium payment works differently: under the [60-day Premium Payment Framework](/document-legal/premium-payment-framework), premium not paid within 60 days of inception ends the cover automatically at the end of that period, without prejudice to liability incurred within the 60 days.
 
 **Conditions of the policy.** General obligations - take reasonable care, maintain stated risk-management controls, comply with statutes and regulations. Breach of a condition (as opposed to a condition precedent) typically does not void the cover but may give the insurer remedies (premium adjustment, claim adjustment).
 

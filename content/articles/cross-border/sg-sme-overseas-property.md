@@ -21,11 +21,11 @@ og_description: "A Singapore property policy generally does not reach overseas p
 
 > **The Answer in 60 Seconds**
 >
-> Singapore-issued Property/PAR insurance generally does not extend to overseas property as standard. SMEs holding overseas commercial property (warehouse, factory, office, retail) typically need either: **a locally-issued policy in the country of property location** (most common, often regulatory requirement), or a **multinational programme** with Singapore master and local policies in each operating country, or in limited cases **Singapore policy with worldwide territorial extension** (less common, less reliable for material exposures). Local regulatory frameworks (insurance licensing, claim handling, regulatory reporting) typically require local underwriting. Beyond property cover, considerations include: business interruption with appropriate territorial scope, marine cargo for goods movement, third-party liability for overseas operations, and tax/regulatory implications of cross-border insurance. Most regional insurers (AIG, Allianz, Chubb, MS&AD, Tokio Marine, Zurich) operate in multiple ASEAN countries and can coordinate.
+> Singapore-issued Property/PAR insurance generally does not extend to overseas property as standard. SMEs holding overseas commercial property (warehouse, factory, office, retail) typically need either: **a locally-issued policy in the country of property location** (often a regulatory requirement), or a **multinational programme** with a Singapore master policy and local policies in the countries where the exposures, local rules or the business's own requirements warrant them, or in limited cases **Singapore policy with worldwide territorial extension** (less common, less reliable for material exposures). Local regulatory frameworks (insurance licensing, claim handling, regulatory reporting) often require local underwriting. Beyond property cover, considerations include: business interruption with appropriate territorial scope, marine cargo for goods movement, third-party liability for overseas operations, and tax/regulatory implications of cross-border insurance. Most regional insurers (AIG, Allianz, Chubb, MS&AD, Tokio Marine, Zurich) operate in multiple ASEAN countries and can coordinate.
 
 ### The Sourced Detail
 
-Singapore SMEs increasingly hold property in regional markets - Malaysian factories, Indonesian warehouses, Vietnamese manufacturing, Thai retail, Indian operations. The insurance side is more complex than for purely domestic property and benefits from structured approach rather than ad hoc procurement.
+Singapore SMEs hold property in regional markets: Malaysian factories, Indonesian warehouses, Vietnamese manufacturing, Thai retail, Indian operations. The insurance side is more complex than for purely domestic property and benefits from structured approach rather than ad hoc procurement.
 
 #### Why Singapore Property/PAR doesn't extend overseas as standard
 
@@ -42,7 +42,7 @@ Extending these to cover overseas property faces several issues:
 - **Regulatory reporting.** Some countries require local insurer reporting that overseas policies cannot satisfy
 - **Operational practicality.** A fire in a Vietnamese factory requires local response; foreign insurers may struggle
 
-Some Singapore policies offer "worldwide territory" extensions for limited categories (typically for movable equipment, samples, occasional travel) but are rarely the basis for substantive overseas property cover.
+Some Singapore policies may offer "worldwide territory" extensions for limited categories, such as movable equipment or samples, but these are not a basis for substantive overseas property cover.
 
 #### The four structural options
 
@@ -51,7 +51,7 @@ Some Singapore policies offer "worldwide territory" extensions for limited categ
 The Singapore SME's overseas subsidiary or branch buys property insurance from a locally licensed insurer in the country where the property is located.
 
 **Pros:**
-- Regulatory compliant (most countries require this)
+- Regulatory compliant (many countries restrict cover from insurers not licensed locally)
 - Local claim handling expertise
 - Local valuation methodology
 - Local vendor relationships for restoration
@@ -67,7 +67,7 @@ The Singapore SME's overseas subsidiary or branch buys property insurance from a
 
 **Option 2: Multinational programme with Singapore master and local policies**
 
-The Singapore SME engages an international or regional insurer with operations in multiple countries. A "master" policy is issued in Singapore (often providing top-up cover or coordinating principal); "local" policies are issued in each operating country. The programme coordinates centrally.
+The Singapore SME engages an international or regional insurer with operations in multiple countries. A "master" policy is issued in Singapore (often providing top-up cover or coordinating principal); "local" policies are issued in the countries where the exposures, local rules or the business's own requirements warrant them, and smaller exposures may be covered under the master policy where that is permitted. The programme coordinates centrally.
 
 **Pros:**
 - Consistent overall risk management
@@ -77,15 +77,14 @@ The Singapore SME engages an international or regional insurer with operations i
 
 **Cons:**
 - More complex than single jurisdiction
-- Premium often higher than ad hoc local procurement
 - Requires sophisticated broker capability
 - Some smaller markets may not have suitable local capacity from the chosen insurer
 
-**When appropriate:** SMEs with material operations in 3+ countries; growth-stage companies expanding regionally; family offices with diversified property.
+**When appropriate:** SMEs with material operations in several countries; growth-stage companies expanding regionally; family offices with diversified property.
 
 **Option 3: Singapore policy with worldwide territorial extension**
 
-Some Singapore-issued PAR policies offer limited "worldwide territory" coverage. Rarely the primary basis for overseas property cover but may apply to specific assets or scenarios.
+Some Singapore-issued PAR policies may offer limited "worldwide territory" coverage. It is not a primary basis for overseas property cover but may apply to specific assets or scenarios.
 
 **When appropriate:** Mobile equipment regularly traveling internationally; sample stock at trade fairs; very small overseas exposures where local policy is uneconomic.
 
@@ -114,19 +113,19 @@ For larger SMEs and family offices, a captive insurance company (typically based
 - See [the ICC A claim steps](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [what ICC C leaves out](/procedural-howto/marine-cargo-institute-clauses-c-claim)
 
 **Public Liability:**
-- Local policy typically required for overseas operations
+- Local policy may be required for overseas operations, depending on each country's rules on cover from insurers not licensed there
 - Singapore PL may extend with territorial endorsement for specific scenarios
 - Boundary often handled with multi-jurisdictional liability programme
 
 **Workmen's Compensation / equivalent:**
-- Country-specific schemes (Malaysia SOCSO, Thailand Social Security Act, Indonesia BPJS, etc.)
-- Singapore WICA does not extend
+- Country-specific schemes (Malaysia SOCSO, Thailand's Workmen's Compensation Fund under the Workmen's Compensation Act B.E. 2537, Indonesia BPJS, etc.)
+- Singapore WICA extends to an accident outside Singapore only where the employee is ordinarily resident in Singapore and employed by an employer in Singapore who requires the employee to work outside Singapore; staff who do not meet both conditions are outside it
 - Each jurisdiction's mandatory employer scheme applies independently
 
 **Cyber:**
 - Personal data laws in each jurisdiction
 - Cross-jurisdiction data flows
-- Local PDPA-equivalents (Malaysia PDPA, Thailand PDPA, Indonesia PDP, Vietnam decrees, etc.)
+- Local PDPA-equivalents (Malaysia PDPA, Thailand PDPA, Indonesia PDP, Vietnam's Personal Data Protection Law, in force from 1 January 2026, etc.)
 
 #### Country-specific considerations
 
@@ -187,9 +186,9 @@ For larger SMEs and family offices, a captive insurance company (typically based
 - Compliance burden on the SME
 
 **Insurer licensing:**
-- Most jurisdictions require local insurer licensing for property in that jurisdiction
+- Many jurisdictions restrict cover for property in that jurisdiction from insurers not licensed there
 - "Non-admitted" insurance (foreign insurer covering local risk) may be permitted in some scenarios but carries compliance and tax implications
-- Singapore (per [MAS regulation](https://www.mas.gov.sg/regulation/insurance)) is one of the more open jurisdictions but other countries vary
+- In Singapore, the licensing rules in the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) are aimed at insurers and at the intermediaries who place business, not at the buyer; other countries vary
 
 **Withholding tax:**
 - Cross-border premium payments may trigger withholding tax in some jurisdictions
@@ -236,7 +235,7 @@ For Singapore SMEs with overseas property:
 
 **Scenario B: Singapore SME with offices in 5 ASEAN countries**
 - Multinational programme worth considering
-- Singapore master with local policies in each country
+- Singapore master with local policies in the countries where the exposures, local rules or the business's own requirements warrant them
 - Single broker with regional capability
 - Aggregated risk management
 

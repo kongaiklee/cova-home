@@ -21,20 +21,20 @@ og_description: "Opening a tuition or enrichment centre needs ACRA registration 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore tuition or enrichment centre typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); registration with [MOE](https://www.moe.gov.sg/) under the [Education Act 1957](https://sso.agc.gov.sg/Act/EA1957) (a centre offering tuition or enrichment to 10 or more students must register as a private school); a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate; [URA](https://www.ura.gov.sg/) zoning compliance for the premises; and, where the centre operates as a Private Education Institution, registration with the Committee for Private Education under the **Private Education Act 2009**. Insurance baseline: **Public Liability** with elevated child-safety considerations (S$2M-S$5M typical), **Professional Indemnity** for educational outcomes and advice, **WICA** for staff including part-time tutors, **Property/Fire** for premises and equipment, **Cyber Liability** for student personal data (a breach of minor data readily meets the PDPA significant-harm threshold), **Crime / Money** for fee handling, and **D&O** for incorporated structures. The distinctive risk is **child safety** - the dominant exposure for any centre serving minors: supervision, premises safety, transport coordination, and behavioural incidents, with safeguarding protocols that insurers increasingly underwrite.
+> A Singapore tuition or enrichment centre typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); registration with [MOE](https://www.moe.gov.sg/) under the [Education Act 1957](https://sso.agc.gov.sg/Act/EA1957) (a centre offering tuition or enrichment to 10 or more students must register as a private school); a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate; [URA](https://www.ura.gov.sg/) zoning compliance for the premises; and registration with the Skills and Workforce Development Agency under the **Private Education Act 2009**, instead of MOE, where the centre provides private education as that Act defines it (for example full-time preparatory courses for examinations, or diploma or degree courses), since such a centre is outside the Education Act. Insurance baseline: **Public Liability** with elevated child-safety considerations, **Professional Indemnity** for educational outcomes and advice, **WICA** for staff including part-time tutors, **Property/Fire** for premises and equipment, **Cyber Liability** for student personal data (the PDPC treats children's personal data as generally sensitive, needing a higher standard of protection), **Crime / Money** for fee handling, and **D&O** for incorporated structures. The distinctive risk is **child safety** - the dominant exposure for any centre serving minors: supervision, premises safety, transport coordination, and behavioural incidents.
 
 ### The Sourced Detail
 
-Singapore's tuition and enrichment industry is one of the largest globally relative to population - academic tuition, language enrichment, music, dance, art, sport, STEM enrichment, and a wide variety of niche programmes. The regulatory framework varies by scope and scale; the insurance considerations centre heavily on child safety.
+Singapore's tuition and enrichment industry spans academic tuition, language enrichment, music, dance, art, sport, STEM enrichment, and a wide variety of niche programmes. The regulatory framework varies by scope and scale; the insurance considerations centre heavily on child safety.
 
 #### The MOE / CPE regulatory framework
 
 **MOE registration under the Education Act.** A centre offering tuition or enrichment to **10 or more students** must register with MOE as a private school under the [Education Act 1957](https://sso.agc.gov.sg/Act/EA1957). Registration covers the school, its courses, and the teachers approved to teach, and requires baseline compliance on premises and fire safety and a school management committee.
 
-**Private Education Institution (PEI) registration.** A centre operating as a PEI must additionally register with the [Committee for Private Education (CPE)](https://www.ssg.gov.sg/cpe.html) - the body under SkillsFuture Singapore - under the **Private Education Act 2009** and its Enhanced Registration Framework. The PEI regime adds:
+**Private Education Institution (PEI) registration.** A centre that provides private education as the **Private Education Act 2009** defines it (for example full-time preparatory courses for examinations, or diploma or degree courses) is outside the Education Act, so it registers under the Private Education Act and its Enhanced Registration Framework instead of with MOE. Registration is granted by the Skills and Workforce Development Agency (SWDA), which may delegate its powers under the Act to the Committee for Private Education (CPE). The PEI regime adds:
 - **EduTrust certification** - a voluntary quality scheme with three tiers (EduTrust Provisional, EduTrust, EduTrust Star)
 - Course and programme registration and quality-assurance requirements
-- The **Student Protection Scheme**, which protects students' fees
+- Course-fee protection: Industry-Wide Course (IWC) fee insurance, or the Fee Protection Scheme (FPS) for EduTrust-certified institutions, with caps on how many months of fees may be collected in advance
 
 Most pure academic-tuition and enrichment centres fall under MOE registration; the PEI regime applies to institutions offering the courses the Private Education Act covers.
 
@@ -59,7 +59,7 @@ PL is the core cover, and for a centre serving minors it carries elevated child-
 - Behavioural incidents between students
 
 **Limit considerations:**
-- Standard limits S$2M-S$5M typical
+- Limits depend on the centre's activities
 - Higher for centres running higher-risk activities (sports, gym-based)
 - Landlords and franchise / parent organisations may set their own minimums
 
@@ -73,7 +73,7 @@ PL is the core cover, and for a centre serving minors it carries elevated child-
 
 Child safety is the dominant exposure for any centre serving minors.
 
-**Safeguarding obligations** include taking reasonable care of minors in the centre's custody, verifying staff (police clearance and working-with-children checks), and reporting incidents. **Supervision protocols** should set adult-to-child ratios appropriate to the age group and activity, with a defined incident response.
+**Safeguarding obligations** include taking reasonable care of minors in the centre's custody, verifying staff (MOE registers each teacher at a registered centre, and the teacher must declare any conviction for an offence punishable with imprisonment), and reporting incidents. **Supervision protocols** should set adult-to-child ratios appropriate to the age group and activity, with a defined incident response.
 
 The **scenarios that generate claims** are injury during an activity, incidents between students (bullying, fights), staff-conduct issues, an external incident at the premises, transport-related incidents, and medical events.
 
@@ -84,9 +84,7 @@ On **consent and waivers**: parental consent should be obtained for higher-risk 
 PI responds to claims about the educational service itself: educational-outcome disputes, examination-preparation claims, advice errors, claims arising from outcome guarantees (for example a "guaranteed pass"), and advertising or marketing claims.
 
 **Limit considerations:**
-- Solo / small centre: S$500k-S$2M
-- Mid-size: S$2M-S$3M
-- Larger PEI: S$3M-S$5M+
+- Limits depend on the centre's size, courses and any contract requirements
 
 Confirm that the centre's specific courses and programmes are within cover, and how any marketing claims and guarantees are treated.
 
@@ -100,7 +98,7 @@ All employees are within [WICA](https://sso.agc.gov.sg/Act/WICA2019) - confirm p
 
 Tuition and enrichment centres hold student personal data (NRIC, contact, family information), parent data, academic and progress records, assessment data, payment information, and - for some activities - photos and videos.
 
-**The minor-data dimension is what makes this acute.** A breach of children's data is readily assessed as causing significant harm, which engages the notification duty under [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012), and consent for minors' data has its own requirements. Alongside that, the centre faces BEC targeting fee payments and the operational disruption of a platform or system outage.
+**The minor-data dimension is what makes this acute.** The PDPC treats children's personal data as generally sensitive, needing a higher standard of protection, and a breach that results in, or is likely to result in, significant harm to an affected individual must be notified under [PDPA Section 26D](https://sso.agc.gov.sg/Act/PDPA2012), and consent for minors' data has its own requirements. Alongside that, the centre faces BEC targeting fee payments and the operational disruption of a platform or system outage.
 
 **A workable Cyber stack:** standalone Cyber with adequate limits; BEC / social-engineering-fraud cover; business interruption for centre operations; and cover for PDPA Section 26D notification costs.
 
@@ -116,7 +114,7 @@ Tuition and enrichment centres hold student personal data (NRIC, contact, family
 
 **Pre-launch:**
 - ACRA business registration
-- MOE registration (and CPE registration if operating as a PEI)
+- MOE registration (or, for a centre providing private education under the Private Education Act 2009, registration under that Act instead)
 - SCDF Fire Safety Certificate application
 - URA zoning verification
 - Insurance package procured
@@ -135,7 +133,7 @@ Tuition and enrichment centres hold student personal data (NRIC, contact, family
 - D&O once incorporated
 - EPL as headcount grows
 
-**Established PEI:**
+**Established multi-site operation:**
 - A comprehensive, coordinated multi-site programme, aligned with any franchise or parent-organisation requirements
 
 #### Worked scenarios
@@ -144,31 +142,18 @@ Tuition and enrichment centres hold student personal data (NRIC, contact, family
 - **Music school** - adds instrument cover and recital / performance considerations to the standard child-safety build.
 - **Sports / physical-activity centre** - higher PL limits, equipment cover, careful waivers and consents, and competition / event scenarios.
 - **STEM / tech enrichment** - equipment-heavy, with equipment-breakdown and Cyber considerations, and online / hybrid delivery.
-- **PEI-scale operation** - a comprehensive multi-site programme, with EduTrust and Student Protection Scheme considerations.
+- **Private education institution (PEI):** a centre providing private education as the Private Education Act 2009 defines it registers under that Act, with EduTrust and course-fee protection considerations.
 - **Niche centre (debate, public speaking, leadership)** - the standard educational covers at standard PL.
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore tuition / enrichment centres (actual premiums depend on activities, sites, and limits):
-
-**Small centre (2-10 staff, single premises):**
-- PL / PI: S$2,500-S$8,000
-- Property / Fire / BI: S$3,000-S$10,000
-- WICA, Cyber, Crime: S$2,500-S$8,000
-- **Total annual insurance budget:** typically S$7,500-S$25,000
-
-**Mid-size (15-40 staff, 2-4 premises):**
-- Higher limits, multi-site coordination, comprehensive Cyber
-- **Total:** typically S$20,000-S$60,000
-
-**Larger PEI / major enrichment chain:**
-- A comprehensive programme; total scales with the operation
+Premiums depend on the centre's activities, sites and limits, and are set by each insurer.
 
 #### Operational risk management
 
-Insurers underwrite tuition / enrichment centres on:
+Risk management for tuition / enrichment centres covers:
 
-- **Child safety** - documented safeguarding policies, staff clearances, supervision protocols, incident response, and parent communication.
+- **Child safety** - documented safeguarding policies, staff verification, supervision protocols, incident response, and parent communication.
 - **Premises safety** - safety features, equipment maintenance, and evacuation drills.
 - **Documentation** - student records and consents, incident reports, and communications.
 - **Cyber discipline** - MFA on systems, minor-data protection, platform security, and BEC awareness.
@@ -180,8 +165,8 @@ Insurers underwrite tuition / enrichment centres on:
 2. **Standard PL with no child-safety cover.** Minor-injury exposure left open.
 3. **No PI for educational-outcome claims.**
 4. **WICA scope too narrow for part-time staff.** Part-time and casual tutors left out.
-5. **Cyber inadequate for minor data.** A breach readily meets the PDPA significant-harm threshold.
-6. **No BEC awareness.** Fee-payment fraud is common.
+5. **Cyber inadequate for minor data.** The PDPC treats children's personal data as generally sensitive.
+6. **No BEC awareness.**
 7. **Off-premises activities without matching cover.** Excursion and performance exposure.
 8. **Transport arranged without matching cover.** A major exposure where the centre undertakes it.
 9. **Safeguarding undocumented.** Weakens the defence to a later claim.
@@ -191,13 +176,13 @@ Insurers underwrite tuition / enrichment centres on:
 
 For Singapore tuition / enrichment founders:
 
-1. **MOE registration - and CPE registration if you operate as a PEI - is foundational.** There is no workaround.
+1. **MOE registration (or, for a centre providing private education under the Private Education Act 2009, registration under that Act instead) is foundational.** There is no workaround.
 
 2. **Child safety is the dominant insurance consideration.** Build the cover and the operations around it.
 
 3. **Take PI for the educational service** - outcome and guarantee claims land here.
 
-4. **Size Cyber to the sensitivity of minor data.** A breach engages PDPA Section 26D.
+4. **Size Cyber to the sensitivity of minor data.** A notifiable breach (one likely to cause significant harm to an individual, or of significant scale) must be notified under PDPA Section 26D.
 
 5. **Document safeguarding thoroughly** - staff verification, supervision, and incidents.
 

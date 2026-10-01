@@ -25,7 +25,7 @@ og_description: "Only one of the two bodies behind a Singapore accountant attach
 
 ### The Sourced Detail
 
-The Singapore accountancy profession operates under the most formalised PI-formula architecture among the regulated professions. Unlike the Architects Act and Professional Engineers Act (where the numerical minimum is set by regulatory direction), the Accountants Act 2004 framework specifies a formulaic minimum tied to the entity's gross income with a cap at S$50 million. This produces structurally larger PI requirements for high-revenue audit firms.
+The Singapore accountancy profession operates under the most formalised PI-formula architecture among the regulated professions. Unlike the Architects Act and Professional Engineers Act (where the numerical minimum is set by regulatory direction), the Accountants Act 2004 framework specifies a formulaic minimum: the highest of S$1 million, S$500,000 per corporate practitioner, and 2.5 times the entity's gross income capped at S$50 million. This produces structurally larger PI requirements for high-revenue audit firms.
 
 #### The two-tier institutional architecture
 
@@ -73,7 +73,7 @@ For a mid-tier accounting practice with annual gross income of S$5 million and n
 
 For a top-tier audit firm with annual gross income of S$30 million, the income limb is 2.5 x S$30 million = S$75 million, capped at S$50 million; the minimum is S$50 million unless the firm has more than 100 corporate practitioners.
 
-The structural implication: PI minimum scales with revenue growth. A practice whose revenue has grown materially since the prior PI inception must scale cover before the next renewal to maintain section 28 compliance.
+The structural implication: where the income limb is the highest, the PI minimum scales with revenue growth, up to the S$50 million cap. A practice whose income limb is the highest, and whose revenue has grown materially since the prior PI inception, may need more cover to stay at or above the section 28 minimum.
 
 #### Paid-up capital requirements
 
@@ -114,7 +114,7 @@ The principal insurance lines for Singapore SME accounting practices:
 
 **Audit / Accounting Professional Indemnity.** Statutorily compelled at the entity level under section 28. The minimum is the highest of S$1 million, S$500,000 per corporate practitioner, and 2.5 times gross income capped at S$50 million.
 
-**Top-Up PI.** Voluntary top-up cover above the statutory floor. For high-revenue audit firms, the S$50 million cap on the statutory formula may not adequately cover credible single-audit claims; top-up cover bridges the gap.
+**Top-Up PI.** Voluntary top-up cover above the statutory floor. For high-revenue audit firms, the S$50 million cap on the statutory formula's income limb may not adequately cover credible single-audit claims; top-up cover bridges the gap.
 
 **Partners' Personal PI.** LLP architecture preserves partnership goodwill but does not eliminate individual partner liability for own negligence. Some practices procure partner-specific PI on top of the LLP cover.
 
@@ -130,9 +130,9 @@ The principal insurance lines for Singapore SME accounting practices:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **PI cover not scaled with revenue growth.** The 2.5 × gross-income formula increases the minimum as revenue grows. A practice with materially grown revenue since prior inception may be below the section 28 minimum at renewal.
+1. **PI cover not scaled with revenue growth.** Where the 2.5 x gross-income limb is the highest, the minimum increases as revenue grows, up to the S$50 million cap. A practice with materially grown revenue since prior inception may be below the section 28 minimum at renewal.
 
-2. **No top-up cover above the S$50 million statutory cap.** For high-revenue audit firms, credible single-audit claims can exceed S$50 million. The statutory cap is the floor for compliance, not the appropriate limit for claim severity.
+2. **No top-up cover above the S$50 million statutory cap.** For high-revenue audit firms, credible single-audit claims can exceed S$50 million. The S$50 million cap applies only to the income limb of the section 28 minimum, and the minimum is the floor for compliance, not the appropriate limit for claim severity.
 
 3. **Audit PI for retired partners lapsing.** Run-off cover set at 6 years post-retirement may not match the Limitation Act, under which negligence claims for latent damage can be brought up to 15 years after the negligent act.
 

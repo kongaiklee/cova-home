@@ -57,7 +57,7 @@ Two points are easy to miss. First, CaseTrust accreditation is **voluntary**, li
 
 This sits alongside the broader consumer-protection backdrop. The [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003) governs unfair practices in consumer transactions, which is the regime spa prepayment and aggressive package-selling complaints fall under. The Act does not by itself force a spa to insure prepayments; the prepayment insurance requirement is a CaseTrust scheme condition. But the Act is the reason the consumer-protection conversation around spa prepayments exists at all, and it is worth knowing where the line sits.
 
-#### Statutory licensing: PLRD massage establishment licence where it applies
+#### Statutory licensing: the Police massage establishment licence where it applies
 
 Some spa and wellness operators fall under a licensing regime that has nothing to do with associations or accreditation. Under [section 5 of the Massage Establishments Act 2017](https://sso.agc.gov.sg/Act/MEA2017), a person must not carry on the business of providing massage services in an establishment for massage without a licence. The Act defines "massage" broadly, as the act of rubbing, kneading or manipulating the human body or any part of it to relax muscle tension, stimulate circulation, increase suppleness or otherwise, and an "establishment for massage" as any premises used or intended for the reception or treatment of persons seeking massage.
 
@@ -65,9 +65,9 @@ The licence is granted under [section 7](https://sso.agc.gov.sg/Act/MEA2017) by 
 
 The licence is not an insurance policy, and the Act does not, on its face, compel a commercial insurance policy as a condition of the licence. But the licensing regime sets the legal frame your liability and property cover sits inside, and operating without the licence where it is required is an offence in its own right.
 
-#### WICA and premises cover: the duties that apply regardless
+#### WICA and premises cover: duties from employment and from contracts
 
-Two further obligations apply to a spa as a matter of course, independent of any membership, accreditation or massage licence.
+Two further points apply to a spa independent of any membership, accreditation or massage licence: the employer's work injury insurance duty, and premises cover that a lease can require.
 
 Every spa that employs people is an employer, and under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) an employer must insure against its liabilities under the Act for its employees, except the classes the regulations exclude. MOM requires cover for every employee doing manual work, whatever the salary, and every non-manual employee earning S$2,600 a month or less. The duty follows the employment and the kind of work, not the spa brand or any scheme.
 

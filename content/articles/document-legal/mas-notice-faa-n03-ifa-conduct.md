@@ -21,15 +21,15 @@ og_description: "What a licensed Singapore financial adviser must disclose under
 
 > **The Answer in 60 Seconds**
 >
-> [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices) - issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) - establishes information disclosure requirements for licensed financial advisers (FAs), including licensed advisers selling insurance to SME and individual buyers. Combined with related notices including [FAA-N16](https://www.mas.gov.sg/regulation/notices) (recommendations on investment products) and the underlying [FAA Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2), this framework imposes specific conduct obligations on licensed advisers: **disclosure of remuneration**, **suitability assessment** for products recommended, **documentation of advice**, **specific representation and selling restrictions**, and **complaint resolution mechanisms**. For SME insurance buyers, this means: licensed advisers must adhere to specific standards when advising on insurance, and these standards form the basis for accountability if advice proves inadequate. Verify current notices on the [MAS regulation page](https://www.mas.gov.sg/regulation) - notices are amended periodically.
+> [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03), issued under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), sets standards for the information that licensed and exempt financial advisers (FAs) and their representatives disclose to clients when providing financial advisory services on investment products, which include life policies but not general insurance such as property or liability cover. Combined with related notices including [FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) (recommendations on investment products) and the underlying [FAA Regulations](https://sso.agc.gov.sg/SL/FAA2001-RG2), this framework imposes specific conduct obligations on licensed advisers: **disclosure of remuneration**, **suitability assessment** for products recommended, **documentation of advice**, **specific representation and selling restrictions**, and **complaint resolution mechanisms**. For SME insurance buyers, this means: these standards apply when an adviser advises on life policies or other investment products, and they form a basis for accountability if that advice proves inadequate. Advice on general insurance such as property or liability cover falls outside the Financial Advisers Act's definition of an investment product. Verify current notices on the [MAS regulation page](https://www.mas.gov.sg/regulation) - notices are amended periodically.
 
 ### The Sourced Detail
 
-For SME founders evaluating insurance advisers, understanding the regulatory framework that applies to licensed advisers explains both the protections that exist and the standards that licensed advisers must meet. The framework is more developed for life insurance and investment products than for pure general insurance, but key principles apply across.
+For SME founders evaluating insurance advisers, understanding the regulatory framework that applies to licensed advisers explains both the protections that exist and the standards that licensed advisers must meet. The Financial Advisers Act framework covers life insurance and other investment products, not pure general insurance; insurance brokers who arrange general insurance must be registered under the Insurance Act 1966 unless exempt (a licensed financial adviser, for example, is an exempt insurance broker under section 92).
 
 #### The licensing baseline
 
-Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), persons providing financial advisory services (including insurance advice) require licensing or specific exemption.
+Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), persons providing financial advisory services (advising on investment products such as life policies, and arranging life insurance) require licensing or specific exemption.
 
 **Licence categories:**
 - **Licensed Financial Adviser** - primary FA licence
@@ -42,7 +42,7 @@ Per the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), perso
 - Collective investment schemes
 - Specific advisory categories
 
-For pure insurance brokers serving commercial SMEs, additional licensing under the **Insurance Act 1966 Section 36** for insurance broking applies (see [how the Act regulates brokers](/document-legal/insurance-act-1966-overview)).
+For pure insurance brokers serving commercial SMEs, registration as an insurance broker under the **Insurance Act 1966 (section 75)** applies, and a registered insurance broker is exempt from holding a financial adviser's licence (FAA section 20(1)(c)) (see [how the Act regulates brokers](/document-legal/insurance-act-1966-overview)).
 
 #### What a licensed adviser actually is in Singapore context
 
@@ -50,7 +50,7 @@ The term "Independent Financial Adviser" (licensed adviser) typically denotes:
 - Licensed Financial Adviser (under FAA 2001)
 - Independent of any single insurer (i.e., not tied agent of one insurer)
 - Distributes products from multiple insurers
-- Receives commission from insurers (with disclosure)
+- Under regulation 21 of the Financial Advisers Regulations, may use the word "independent" only if it receives no commission or other benefit from product providers that may create product bias, operates free from restrictions on the products it recommends, and has no conflict of interest from a connection with any product provider
 
 Distinct from:
 - **Tied agents** - represent single insurer
@@ -60,21 +60,21 @@ Distinct from:
 
 For SME buyers, the licensed adviser structure typically provides:
 - Multi-insurer placement options
-- Independent advice (not tied to single insurer's products)
-- Commission-based remuneration (typically paid by insurer)
+- Advice not tied to a single insurer's products
+- Remuneration by commission from insurers or by client fees (an adviser paid commission that may create product bias cannot call itself "independent")
 - Specific regulatory framework
 
 #### The conduct framework - key obligations
 
 **1. Suitability of advice:**
 
-Per [FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) and [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices), FAs recommending investment products must have a "reasonable basis" for the recommendation, considering:
+Per [FAA section 36](https://sso.agc.gov.sg/Act/FAA2001?ProvIds=pr36-) and [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16), FAs recommending investment products must have a "reasonable basis" for the recommendation, considering:
 - Client's financial situation
 - Client's particular needs
 - Client's investment objectives
 - Risk tolerance
 
-While FAA-N16 specifically addresses investment products, the broader principle of reasonable basis applies to insurance advice. For SME insurance, this means the licensed adviser should:
+FAA-N16 and section 36 apply to recommendations on investment products, which include life policies but not general insurance such as property or liability cover. Applied to SME insurance, the same reasoning would have the adviser:
 - Understand the SME's business and risk profile
 - Identify relevant exposures
 - Recommend products appropriate to the exposures
@@ -107,7 +107,7 @@ FAs must disclose:
 
 **4. Suitability obligation:**
 
-[FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) requires a financial adviser to have a reasonable basis for any recommendation on an investment product made to a client. The provision is the statutory anchor for the FA suitability regime - operationalised through [MAS Notice FAA-N16 - Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices). False or misleading statements by FAs are separately addressed under other FAA provisions and MAS Notices (including the disclosure framework under FAA-N03) and through MAS enforcement and disciplinary action.
+[FAA section 36](https://sso.agc.gov.sg/Act/FAA2001?ProvIds=pr36-) (applied to exempt financial advisers by section 20(2)) requires a financial adviser to have a reasonable basis for any recommendation on an investment product made to a client. The provision is the statutory anchor for the FA suitability regime - operationalised through [MAS Notice FAA-N16, Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices/notice-faa-n16). False or misleading statements by FAs are separately addressed under other FAA provisions and MAS Notices (including the disclosure framework under FAA-N03) and through MAS enforcement and disciplinary action.
 
 **5. Specific selling restrictions:**
 
@@ -122,7 +122,7 @@ FAs must have complaint handling procedures and customers can escalate to FIDReC
 
 #### MAS Notice FAA-N03 specifically
 
-[MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices) addresses information disclosure requirements. Key provisions:
+[MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) addresses information disclosure requirements. Key provisions:
 
 **Pre-contract disclosure:**
 - Information about the FA and the products recommended
@@ -132,18 +132,18 @@ FAs must have complaint handling procedures and customers can escalate to FIDReC
 **Specific product disclosure:**
 - Key features documents
 - Specific risk warnings
-- Comparison information where relevant
+- Fees and charges, and warnings, exclusions and disclaimers
 
-**Post-contract disclosure:**
-- Confirmation of transactions
-- Periodic statements as applicable
-- Specific event-based disclosures
+**Other matters in the Notice:**
+- The free-look period for life policies and the cancellation period for unit trusts
+- How often, and from whom, the client can expect any regular reports the law requires product providers to send
+- Standards for illustrating past and future performance, and for marketing materials
 
 The Notice has been amended multiple times; verify current version on MAS regulation page.
 
 #### MAS Notice FAA-N16 - reasonable basis recommendations
 
-[MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices) sets out the framework for FAs making recommendations on investment products. While focused on investment-linked policies and similar products, the principles influence broader FA conduct expectations. What the duty puts on file, and how a breach is proved, is set out in [MAS Notice FAA-N16 and the reasonable basis duty](/document-legal/faa-n16-reasonable-basis).
+[MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) sets out the framework for FAs making recommendations on investment products. It applies to recommendations on investment products, which include capital markets products and life policies but not general insurance. What the duty puts on file, and how a breach is proved, is set out in [MAS Notice FAA-N16 and the reasonable basis duty](/document-legal/faa-n16-reasonable-basis).
 
 **Key elements:**
 - Know-Your-Client (KYC) requirements
@@ -151,7 +151,7 @@ The Notice has been amended multiple times; verify current version on MAS regula
 - Documentation requirements
 - Specific product-class restrictions
 
-For SME insurance buyers, even where strict FAA-N16 doesn't apply, licensed advisers typically operate within similar frameworks for general insurance advice as a matter of standard practice and broader conduct expectations.
+For SME general insurance, FAA-N16 does not apply, because general insurance is not an investment product under the Financial Advisers Act.
 
 #### The complaint and dispute framework
 
@@ -182,7 +182,7 @@ When SME insurance buyers have concerns about licensed adviser conduct or advice
 
 **1. Commission disclosure transparency:**
 
-licensed advisers typically receive commission from insurers (rather than fees from clients). Disclosure of:
+Licensed advisers may be paid by commission from product providers or by fees from clients, and one paid commission that may create product bias cannot call itself "independent" (Financial Advisers Regulations, regulation 21). For investment products, FAA-N03 requires disclosure of the following (for a life policy, the adviser discloses the "distribution cost" item in the policy illustration instead):
 - Whether commission paid
 - Approximate amount or percentage
 - Other potential incentives (volume bonuses, etc.)
@@ -216,7 +216,7 @@ Most regulatory framework was designed with individual consumers in mind. SME in
 For SME buyers selecting a licensed adviser:
 
 **Verification:**
-- MAS-licensed (verify on [MAS Financial Institutions Directory](https://www.mas.gov.sg/regulation/financial-institutions-directory))
+- MAS-licensed (verify on [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid))
 - Specific licence categories applicable to SME insurance needs
 - Current status
 
@@ -243,11 +243,11 @@ For SME buyers selecting a licensed adviser:
 - Industry reputation
 - Specific case examples (with appropriate confidentiality)
 
-#### Specific MAS-licensed brokers and licensed advisers serving SMEs
+#### Specific MAS-registered insurance brokers and licensed advisers serving SMEs
 
 The Singapore market has multiple categories serving SMEs:
 
-**Major commercial brokers** (Aon, Marsh, WTW, Lockton, Howden, Gallagher, McLarens):
+**Major commercial brokers** (Aon, Marsh, WTW, Lockton, Howden, Gallagher):
 - Multinational reach and capability
 - Generally focused on larger SMEs and corporates
 - Sophisticated technical capability

@@ -14,22 +14,22 @@ word_count: 2045
 status: "published"
 hero_image: "/assets/blog/licensing.jpg"
 canonical_url: "https://covarage.com/guides/licensing/avs-pet-animal-licence-insurance-singapore"
-meta_description: "An AVS pet business licence names no policy at all. Your lease, your customers and the Work Injury Compensation Act are what actually oblige you to buy cover."
+meta_description: "An AVS pet business licence names no policy at all. Your lease, your customers and laws such as the Work Injury Compensation Act can oblige you to buy cover."
 og_title: "What Insurance Does an AVS Pet Shop or Animal Business Licence Need in Singapore?"
-og_description: "An AVS pet business licence names no policy at all. Your lease, your customers and the Work Injury Compensation Act are what actually oblige you to buy cover."
+og_description: "An AVS pet business licence names no policy at all. Your lease, your customers and laws such as the Work Injury Compensation Act can oblige you to buy cover."
 ---
 
 > **The Answer in 60 Seconds**
 >
 > An [Animal & Veterinary Service (AVS) licence for a pet shop or animal business](https://sso.agc.gov.sg/SL/ABA1965-R2?DocDate=20240828) does not require you to buy an insurance policy. AVS, part of the National Parks Board, licenses pet shops, animal boarding, breeding and rearing under the [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965) and the [Pet Shop rules](https://sso.agc.gov.sg/SL/ABA1965-R2?DocDate=20240828) made under [section 80 of the Act](https://sso.agc.gov.sg/Act/ABA1965). Read those rules and you will find a licence turns on the suitability of your premises and your own fitness as an applicant. There is no insurance condition anywhere in them.
 >
-> The only insurance the law actually compels is separate from the licence. Your business employs people, and under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) every employer must take out and maintain approved work-injury cover for its employees. That duty follows employment, not the AVS licence.
+> The insurance the law does compel is separate from the licence. Your business employs people, and under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) an employer must insure its liabilities under the Act with a designated insurer for every employee except the classes the regulations exclude. MOM applies this to all employees doing manual work and to non-manual employees earning S$2,600 a month or less. One excluded class is any employee of an employer engaged in retail trade. The [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) do not define "retail trade", so whether a pet shop falls in that class is a question for MOM or your insurer. An employer in that class is not required to insure its staff; it remains liable to pay them compensation under WICA, and cover is a choice. If you employ Work Permit or S Pass holders, their medical insurance is a legal duty too. Those duties follow employment, not the AVS licence.
 >
-> Everything else is prudence, not compliance. An animal business carries real third-party exposure: a dog that bites a customer, an animal that escapes, a boarded pet injured in your care. Public liability and care-and-custody cover are built for exactly that, but no statute ties them to your licence. So the honest answer is: the licence needs no policy, your staff need WICA cover, and the animals in your charge are a risk you insure by choice, not by law.
+> Everything else in this guide is prudence, not compliance. An animal business carries real third-party exposure: a dog that bites a customer, an animal that escapes, a boarded pet injured in your care. Public liability and care-and-custody cover are built for exactly that, but no statute ties them to your licence. So the honest answer is: the licence needs no policy, staff doing manual work and non-manual staff earning S$2,600 a month or less need WICA cover, subject to the excluded classes (whether a pet shop is an employer "engaged in retail trade", a term the law does not define, is a question for MOM or your insurer), and the animals in your charge are a risk you insure by choice, not by law.
 
 ### The Sourced Detail
 
-The question "what insurance does my AVS licence require" usually folds three different things together: the licence AVS grants to let you operate, the work-injury cover every employer owes its staff, and the liability cover an animal business carries because animals are unpredictable. They feel like one bundle of "insurance the business has to sort out." Only one of them is mandatory because of the licence, and it is not actually an insurance condition at all. Keep them separate and the picture gets clear.
+The question "what insurance does my AVS licence require" usually folds three different things together: the licence AVS grants to let you operate, the work-injury cover an employer must buy for the staff the law covers, and the liability cover an animal business carries because animals are unpredictable. They feel like one bundle of "insurance the business has to sort out." Only one of them is mandatory because of the licence, and it is not actually an insurance condition at all. Keep them separate and the picture gets clear.
 
 #### What the AVS licence actually requires, and what it does not
 
@@ -47,7 +47,7 @@ The same Act produces a small family of animal-business licences, and the patter
 
 Here is where a genuine insurance obligation enters, and it has nothing to do with the AVS licence. Your pet shop, boarding facility or breeding operation employs people: groomers, animal handlers, kennel staff, retail assistants. As an employer you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to insure and maintain insurance under one or more approved employee insurance policies against the liabilities the employer may incur under the Act, in respect of every employee, subject to the excluded classes the regulations prescribe.
 
-So the work-injury cover is mandatory because you are an employer, not because you hold an animal-business licence. The trigger is employment. A sole operator with no staff may fall outside the duty; a shop with a team of handlers and groomers will usually sit squarely inside it. Animal handling is also physical, bite-prone work, which makes the WICA duty more than a formality here. The detail of who exactly must be covered is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
+So, outside the excluded classes, the work-injury cover is mandatory because you are an employer, not because you hold an animal-business licence. The trigger is employment. A sole operator with no staff may fall outside the duty; a boarding or grooming business with a team of handlers and groomers will usually sit squarely inside it. For a pet shop, one exception may matter: any employee of an employer engaged in retail trade is in an excluded class, and the law does not define "retail trade", so whether your business falls in it is a question for MOM or your insurer. An employer in that class is not required to insure its employees, though it remains liable to compensate them under WICA. Animal handling is also physical, bite-prone work, which makes the WICA duty more than a formality here. The detail of who exactly must be covered is set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
 #### The cover the licence does not require, but an animal business badly wants
 
@@ -67,7 +67,7 @@ Property and fire cover rounds out the picture. Animal premises hold stock, cage
 
 4. **Forgetting that boarded and groomed animals are "in your care."** Standard public liability frequently excludes property in your care, custody or control. Without a care-and-custody extension, a claim over a boarded pet can fall into the gap.
 
-5. **Assuming a one-person operation owes WICA, or that a staffed one does not.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty follows employment and the prescribed classes, not the licence.
+5. **Assuming a one-person operation owes WICA, or that a staffed one does not.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty follows employment and the excluded classes the regulations prescribe, not the licence. Whether a pet shop is an employer "engaged in retail trade", a term the law does not define, is a question for MOM or your insurer; an employer whose staff are excluded must still compensate them under WICA.
 
 6. **Confusing the licence fee with insurance.** The fee in the [Second Schedule](https://sso.agc.gov.sg/SL/ABA1965-R2?DocDate=20240828) is an administrative charge. It buys you the licence, not any cover.
 
@@ -77,9 +77,9 @@ If you are opening or renewing a pet shop, boarding facility, breeding operation
 
 Treat the **AVS licence** as a regulatory permission, not an insurance trigger. Confirm your licensed activities under [rule 3](https://sso.agc.gov.sg/SL/ABA1965-R2?DocDate=20240828), satisfy the premises and welfare standards, and read any conditions AVS attaches to your particular licence. If a condition mentions insurance, that condition, not the Act, is what binds you.
 
-Treat **WICA** as the one insurance the law makes you carry, and carry it because you employ people. Check your headcount and the nature of the work, which here is hands-on animal handling, against the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty and the excluded classes, and keep the cover current as you hire.
+Treat **WICA** as insurance the law makes you carry because you employ people, unless your staff fall in an excluded class (whether a pet shop's do is a question for MOM or your insurer, and an employer whose staff are excluded must still compensate them under WICA), alongside the medical insurance the law requires for any Work Permit or S Pass holders. Check your headcount and the nature of the work, which here is hands-on animal handling, against the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty and the excluded classes, and keep the cover current as you hire.
 
-Treat **public liability, care-and-custody and property cover** as risk decisions, not compliance. Map your real exposures: who handles animals, which animals belong to customers, what stock and live animals sit on your premises. Read your customer contracts and your landlord's lease, both of which often require public liability at a stated limit. Decide deliberately rather than by default.
+Treat **public liability, care-and-custody and property cover** as risk decisions, not compliance. Map your real exposures: who handles animals, which animals belong to customers, what stock and live animals sit on your premises. Read your customer contracts and your landlord's lease, either of which may require public liability at a stated limit. Decide deliberately rather than by default.
 
 Covarage helps with the part that quietly goes wrong: keeping the licence, the WICA policy and any liability cover organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 

@@ -23,17 +23,17 @@ og_description: "A Singapore home contents policy is written for domestic use an
 >
 > A standard Singapore home contents policy is written for **domestic use**. It typically excludes property used for trade or business and any liability arising from a business carried on at the premises. So the laptop you run a consultancy on, the oven and stock behind a home baking business, and a customer who trips while collecting an order are commonly outside the cover, even though they all sit inside your flat.
 >
-> Running a business from home is allowed. Under the [HDB Home-Based Business Scheme](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/home-business/home-based-business-scheme), small-scale activity needs no HDB approval as long as the flat stays primarily residential and the activity causes no disamenity to neighbours. Private homes use the URA Home Office Scheme. But neither scheme provides insurance, and neither requires it. Permission to operate is not cover.
+> Running a business from home is allowed. Under the [HDB Home-Based Business Scheme](https://www.hdb.gov.sg/managing-my-home/home-ownership/home-business/homebased-business-scheme), small-scale activity needs no HDB approval as long as the flat stays primarily residential and the activity causes no disamenity to neighbours. Private homes use the URA Home Office Scheme. But neither scheme provides insurance, and neither requires it. Permission to operate is not cover.
 >
-> What a home operator usually needs to close the gap: **business equipment and stock** cover (a portable-equipment or commercial policy, not the home policy), **public liability** if customers visit or you ship goods, **product liability** for anything you make or sell, **professional indemnity** if you advise, and **WICA** the moment you employ anyone. The home policy answers none of these.
+> What a home operator usually needs to close the gap: **business equipment and stock** cover (a portable-equipment or commercial policy, not the home policy), **public liability** if customers visit or you ship goods, **product liability** for anything you make or sell, **professional indemnity** if you advise, and **work injury compensation insurance** once you employ anyone the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees earning S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers). A home policy usually answers none of these, though some include a limited sum for office equipment used for business in the home.
 
 ### The Sourced Detail
 
-Tens of thousands of Singapore micro-businesses run from a kitchen table, a spare room, or a flat's living room. The model is genuine and officially recognised. The mistake is assuming the household insurance follows the business into that room. It usually does not, and the wording that excludes it is doing exactly what it was written to do.
+Singapore micro-businesses can run from a kitchen table, a spare room, or a flat's living room. The model is genuine and officially recognised. The mistake is assuming the household insurance follows the business into that room. It usually does not, and the wording that excludes it is doing exactly what it was written to do.
 
 #### What the home schemes actually permit (and do not)
 
-The [HDB Home-Based Business Scheme](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/home-business/home-based-business-scheme) lets owners, registered occupants, or tenants run small-scale business activity from an HDB flat without HDB approval, provided the flat remains primarily residential. The published conditions are tight and worth reading against your actual operation: only the flat's residents may work there (no non-resident employees and no third parties), no signage or advertising at the flat, no extraneous traffic or nuisance to neighbours, no heavy or non-domestic equipment, and no large-scale storage or frequent loading and unloading. The scheme also requires that the activity complies with other authorities' rules, naming the Singapore Food Agency for food safety and the fire safety authority for fire requirements. Permitted examples HDB itself lists include small-scale baking, hairdressing and beauty services excluding massage, private tuition for not more than three students at a time, sewing, and freelance creative work.
+The [HDB Home-Based Business Scheme](https://www.hdb.gov.sg/managing-my-home/home-ownership/home-business/homebased-business-scheme) lets owners, registered occupants, or tenants run small-scale business activity from an HDB flat without HDB approval, provided the flat remains primarily residential. The published conditions are tight and worth reading against your actual operation: only the flat's residents may work there (no non-resident employees and no third parties), no signage or advertising at the flat, no extraneous traffic or nuisance to neighbours, no heavy or non-domestic equipment, and no large-scale storage or frequent loading and unloading. The scheme also requires that the activity complies with other authorities' rules, naming the Singapore Food Agency for food safety and the fire safety authority for fire requirements. Permitted examples HDB itself lists include small-scale baking, hairdressing and beauty services excluding massage, private tuition for not more than three students at a time, sewing, and freelance creative work.
 
 For private residential property, the equivalent route is the URA Home Office Scheme, administered by the [Urban Redevelopment Authority](https://www.ura.gov.sg/), which allows a registered home office use within a dwelling subject to its own conditions and a registration step.
 
@@ -69,20 +69,20 @@ The same applies to anyone shipping a handmade product, a cosmetic, a candle, or
 
 If your home business sells advice or a professional service rather than a thing, the relevant cover is [professional indemnity](/document-legal/pe-firm-professional-indemnity-pea-section-34), which responds to claims of negligence, error, or omission in the service you provided. A home-based consultant, bookkeeper, designer, marketing freelancer, or coach faces this exposure: a client who says your work caused them loss. It is invisible until a dispute arrives, and the home policy has nothing to say about it.
 
-#### WICA: the line you cross the day you employ someone
+#### WICA: when employing someone makes insurance compulsory
 
-There is one cover the law makes mandatory, and it is triggered by employment, not by the home. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees. The HDB scheme bars non-resident employees from working in the flat, so a compliant HDB home business often has no employees on the premises and may sit outside the duty. But many home operators employ a part-timer who works elsewhere, or a family helper, or scale into rented space. The instant you are an employer, WICA cover is not optional, and it has nothing to do with where the work happens.
+There is one cover the law makes mandatory, and it is triggered by employment, not by the home. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), an employer must insure its employees under an approved policy, except the classes of employee the regulations exclude; MOM makes it compulsory for all employees doing manual work and for non-manual employees earning S$2,600 a month or less. The HDB scheme bars non-resident employees from working in the flat, so a compliant HDB home business often has no employees on the premises and may sit outside the duty. But some home operators employ a part-timer who works elsewhere, or scale into rented space. Once you employ someone in the compulsory classes, WICA cover is not optional, and it has nothing to do with where the work happens. A domestic worker is outside WICA altogether.
 
 #### So what does a home operator actually need
 
 Strip it back to the operation:
 
-- **Advise or consult from home, no visitors, no product:** professional indemnity, plus a portable-equipment cover for the laptop and kit. Public liability is low but cheap.
+- **Advise or consult from home, no visitors, no product:** professional indemnity, plus a portable-equipment cover for the laptop and kit. Public liability exposure is low.
 - **Make or sell a product, ship to customers:** product liability and stock or equipment cover, plus public liability.
 - **Customers visit (tuition, beauty, collection):** public liability becomes central, plus equipment cover.
-- **Employ anyone, anywhere:** WICA, on top of the above.
+- **Employ anyone, anywhere:** WICA for employees in the compulsory classes (all employees doing manual work, and non-manual employees earning S$2,600 a month or less), subject to the excluded classes, on top of the above.
 
-Most of this is available as a modest home-business or micro-business package rather than a full commercial programme. The point is that it is a deliberate purchase sitting alongside the home policy, not something the home policy quietly includes.
+Each of these is business cover. The point is that it is a deliberate purchase sitting alongside the home policy, not something the home policy quietly includes.
 
 ### Common Mistakes
 
@@ -94,7 +94,7 @@ Most of this is available as a modest home-business or micro-business package ra
 
 4. **Forgetting public liability the first time a customer visits.** One collection or one tuition session creates a third-party exposure the home policy was not written for.
 
-5. **Missing the WICA trigger.** Employing even one person, even off-site, brings the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty into play regardless of the home setting.
+5. **Missing the WICA trigger.** Employing even one person in the compulsory classes (all employees doing manual work, and non-manual employees earning S$2,600 a month or less), even off-site, brings the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty into play regardless of the home setting, subject to the excluded classes.
 
 6. **Outgrowing the scheme without noticing.** More traffic, employees, or storage breaches the HDB conditions and changes the insurance picture at the same moment.
 
@@ -102,23 +102,23 @@ Most of this is available as a modest home-business or micro-business package ra
 
 If you run a business from home, separate the household risk from the business risk and insure them as the two different things they are.
 
-Keep the home contents policy for the household, and read its business-use exclusion so you know precisely where it stops. Then map your business honestly against the operation: do you advise, do you make or sell a product, do customers come to you, do you ship, do you employ anyone. Each answer points to a specific cover, and a small home-business package usually carries several of them together for a modest premium.
+Keep the home contents policy for the household, and read its business-use exclusion so you know precisely where it stops. Then map your business honestly against the operation: do you advise, do you make or sell a product, do customers come to you, do you ship, do you employ anyone. Each answer points to a specific cover.
 
-Check your operation against the [HDB scheme conditions](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/home-business/home-based-business-scheme) (or the URA Home Office terms for private property) at the same time, because growth that breaches the scheme and growth that breaks the insurance assumptions tend to arrive together. The day you take on storage, traffic, or an employee is the day to revisit both.
+Check your operation against the [HDB scheme conditions](https://www.hdb.gov.sg/managing-my-home/home-ownership/home-business/homebased-business-scheme) (or the URA Home Office terms for private property) at the same time, because growth that breaches the scheme and growth that breaks the insurance assumptions tend to arrive together. The day you take on storage, traffic, or an employee is the day to revisit both.
 
 Covarage helps with the part that quietly goes wrong for home operators: keeping the home policy, the business cover, and the WICA policy organised in one place, with every renewal date visible, and, where you ask, an introduction to a licensed adviser, who gives the advice and places the cover.
 
 ### Questions to Ask Your Adviser
 
 1. Does my home contents policy contain a business-use exclusion, and exactly what does it exclude for my equipment, stock, and liability?
-2. For my home business, do I need public liability, product liability, professional indemnity, or a combination, and which package carries them together?
+2. For my home business, do I need public liability, product liability, professional indemnity, or a combination, and can one policy or package carry them together?
 3. If customers visit or I ship goods, is my public and product liability limit adequate for the worst realistic claim?
-4. The moment I employ anyone, even off-site, am I correctly covered under WICA section 24?
+4. If I employ anyone, even off-site, does WICA section 24 require me to insure them, and am I correctly covered?
 5. If my operation grows past the HDB or URA scheme conditions, how does my insurance need to change at the same time?
 
 ### Related Information
 - [Public Liability vs Product Liability: What Each Actually Covers](/comparison/pl-vs-product-liability)
-- [Tuition Centres and Enrichment Schools in Singapore: The Insurance Stack Under the Private Education Act 2009](/edge-case/tuition-centre-enrichment-insurance-singapore)
+- [Tuition Centres and Enrichment Schools in Singapore: Registration Rules and the Insurance Stack](/edge-case/tuition-centre-enrichment-insurance-singapore)
 - [Cleaning and Facilities Management Companies in Singapore: The Insurance Stack](/edge-case/cleaning-facilities-management-insurance-singapore)
 - [Real Estate Agencies in Singapore: The Insurance Stack from Salesperson PI to Agency PL](/edge-case/real-estate-agency-insurance-stack-singapore)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)

@@ -25,11 +25,11 @@ og_description: "A travel agent licence turns on financial and fitness condition
 >
 > The only place insurance appears in the rules is [regulation 21](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf), which makes you ask the customer to consider buying **travel insurance** before you take payment for an eligible product. That is the cover the traveller buys, not cover the agency holds, and arranging it is a regulated activity in its own right.
 >
-> So the honest answer is: the licence needs capital, not a policy. Professional indemnity and public liability are sensible for booking errors and third-party claims, and your own staff need [work-injury cover under the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) because you employ people, but no statute ties any of those to the travel agent licence.
+> So the honest answer is: the licence needs capital, not a policy. Professional indemnity and public liability are sensible for booking errors and third-party claims, and your own staff need [work-injury cover under the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) because you employ people, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, but no statute ties any of those to the travel agent licence.
 
 ### The Sourced Detail
 
-The question "does my travel agent licence require insurance" usually bundles four different things: the capital the Singapore Tourism Board (STB) demands before it grants the licence, the travel insurance the agency must offer its customers, the work-injury cover every employer owes its staff, and the liability cover a travel business might want for its own protection. They get conflated because all four feel like "the insurance side of running an agency". Only one of them is a licence condition, and that one is not insurance at all.
+The question "does my travel agent licence require insurance" usually bundles four different things: the capital the Singapore Tourism Board (STB) demands before it grants the licence, the travel insurance the agency must offer its customers, the work-injury cover an employer owes its staff outside the excluded classes, and the liability cover a travel business might want for its own protection. They get conflated because all four feel like "the insurance side of running an agency". Only one of them is a licence condition, and that one is not insurance at all.
 
 #### Who needs the licence, and who grants it
 
@@ -58,7 +58,7 @@ There is exactly one insurance obligation in the Regulations, and it is not cove
 
 An "eligible travel product" is one delivered wholly or partly outside Singapore where the first payment is $500 or more per traveller, or the price is $1,000 or more per traveller. The duty does not apply where the buyer is a registered business or body corporate, where the product already bundles insolvency cover, or where no payment is made until after departure.
 
-Two things follow. First, this is the traveller's policy, not the agency's: regulation 21 makes you a conduit who must prompt and inform, not an insured party. Second, **actually arranging or selling that insurance is a separately regulated activity.** Distributing general insurance products is governed by the Financial Advisers Act 2001 and the Insurance Act 1966, supervised by the Monetary Authority of Singapore, not by the STB licence. An agency that wants to place travel insurance for its customers, rather than simply point them to an insurer, has to satisfy that regime on its own terms. The travel agent licence does not grant it.
+Two things follow. First, this is the traveller's policy, not the agency's: regulation 21 makes you a conduit who must prompt and inform, not an insured party. Second, **actually arranging or selling that insurance is a separately regulated activity.** Acting as an agent for general insurance products such as travel insurance requires registration with the General Insurance Association's Agents' Registration Board through the insurers you represent, and unregistered agents are referred to the Monetary Authority of Singapore for action under the Insurance Act 1966. The STB licence does not cover it. An agency that wants to place travel insurance for its customers, rather than simply point them to an insurer, has to satisfy that regime on its own terms. The travel agent licence does not grant it.
 
 #### The cover the licence does not require, but a travel business often wants
 
@@ -66,9 +66,9 @@ Three further policies come up constantly, and none of them is a licence conditi
 
 **Professional indemnity** responds to claims that the agency was negligent in the service it provided: a misbooked itinerary, a visa step missed, a supplier whose collapse left travellers stranded, or confidential customer data mishandled. The exposure is real for a travel business because so much of what you sell depends on third parties you do not control, and [regulation 25](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) already obliges you to offer refunds when a sold travel product is materially changed. The Act and the Regulations do not require this cover, but the commercial risk sits there whether or not you buy it.
 
-**Public liability** answers for injury or damage to third parties arising from the agency's operations, including at a physical shopfront, which [regulation 10](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) assumes you maintain. Again, prudent, not mandated.
+**Public liability** answers for injury or damage to third parties arising from the agency's operations, including at the place of business that [regulation 10](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) requires you to maintain. Again, prudent, not mandated.
 
-**Work-injury insurance** is the one cover the law genuinely compels, and it has nothing to do with the travel agent licence. Your agency employs people, including the key executive officer every licensee must appoint under [regulation 15](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf). As an employer, you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to take out and maintain approved work-injury cover for its employees, subject to the excluded classes the regulations set. The trigger is employment, not the STB licence.
+**Work-injury insurance** is the one cover here that the law can compel, and it has nothing to do with the travel agent licence. Every licensee must appoint a key executive officer under [regulation 15](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf), who must be one of its employees unless the licensee is a sole proprietor or partnership (the proprietor or a partner may then take the role). As an employer, you fall under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), which requires every employer to take out and maintain approved work-injury cover for its employees, subject to the excluded classes the regulations set. The trigger is employment, not the STB licence.
 
 ### Common Mistakes
 
@@ -76,11 +76,11 @@ Three further policies come up constantly, and none of them is a licence conditi
 
 2. **Thinking the regulation 21 travel insurance is the agency's cover.** It is the traveller's policy. [Regulation 21](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) makes you offer and record it, not hold it.
 
-3. **Assuming the licence lets you sell travel insurance.** Distributing insurance is regulated by MAS under the financial advisory and insurance regime, separate from the STB licence. Offering to place cover, rather than just naming an insurer, brings you into that regime.
+3. **Assuming the licence lets you sell travel insurance.** Acting as an agent for general insurance such as travel insurance requires registration with the General Insurance Association's Agents' Registration Board, and unregistered agents are referred to MAS for action under the Insurance Act 1966. This is separate from the STB licence. Offering to place cover, rather than just naming an insurer, brings you into that regime.
 
 4. **Letting net value drift below the floor mid-licence.** [Regulation 9](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) requires the threshold to be met at all times, and a company cannot quietly reduce paid-up capital without the Board's approval.
 
-5. **Forgetting the agency's own WICA duty.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows your employment of staff, including the mandatory key executive officer, not the travel agent licence.
+5. **Forgetting the agency's own WICA duty.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows your employment of staff, subject to the excluded classes, not the travel agent licence; a key executive officer who does non-manual work and whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month is in one of those classes.
 
 6. **Confusing the licensed tour-guide requirement with insurance.** [Regulation 16](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) requires that guiding services on local tours for tourists be provided by a licensed tourist guide. That is a personnel licensing rule, not a cover requirement.
 
@@ -92,7 +92,7 @@ Treat the **minimum financial requirement** as a licensing test, not an insuranc
 
 Treat the **regulation 21 travel insurance** as a compliance process, not your own cover. Build the offer-and-record step into your booking flow for every eligible product, and decide deliberately whether you will merely name an insurer or actually arrange the policy, because the second path pulls you into MAS-supervised insurance distribution.
 
-Treat **WICA** as the one insurance the law makes you carry, because you employ people. Check your headcount and roles against the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty and keep the cover current as you hire.
+Treat **WICA** as the one insurance the law makes you carry, subject to the excluded classes, because you employ people. Check your headcount and roles against the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty and keep the cover current as you hire.
 
 Treat **professional indemnity and public liability** as risk decisions, not licence conditions. Read your supplier and corporate-client contracts: where they require a stated limit, the contract, not the licence, is what obliges you. Decide on purpose rather than by default.
 
@@ -103,7 +103,7 @@ Covarage helps with the part that quietly goes wrong: keeping the proof of net v
 1. For our licence type, what net value and paid-up capital must we show now, and how do we keep proof current through the licence term?
 2. Does our booking flow satisfy the regulation 21 duty to offer and record travel insurance for every eligible product?
 3. If we want to place travel insurance for customers rather than just refer them, what MAS-regulated permissions does that require?
-4. Does our headcount, including the key executive officer, bring us within the WICA section 24 duty, and is everyone covered?
+4. Which of our staff, including the key executive officer, fall within the WICA section 24 duty once the excluded classes are taken out, and are they all covered?
 5. Do any of our supplier or corporate-client contracts require professional indemnity or public liability at a set limit, and do we meet it?
 
 ### Related Information

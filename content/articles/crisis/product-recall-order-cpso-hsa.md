@@ -21,11 +21,11 @@ og_description: "A mandatory recall order under Singapore's consumer safety regi
 
 > **The Answer in 60 Seconds**
 >
-> Your SME has received a mandatory recall order under [Consumer Protection (Safety Requirements) Regulations](https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1) ([Consumer Product Safety Office (CPSO)](https://www.consumerproductsafety.gov.sg/), [Consumers Association of Singapore (CASE)](https://www.case.org.sg/), or [Enterprise Singapore](https://www.enterprisesg.gov.sg/)) - for consumer goods. Or [Health Sciences Authority (HSA)](https://www.hsa.gov.sg/) for therapeutic products, medical devices, or cosmetics. Or you are voluntarily initiating following overseas regulator action ([FDA](https://www.fda.gov/), [CPSC](https://www.cpsc.gov/), [EU Safety Gate](https://ec.europa.eu/safety-gate/)). **Statutory clock - HSA: under Regulation 35 of the Health Products (Therapeutic Products) Regulations 2016, notify HSA of an intended recall at least 24 hours (excluding Sundays and public holidays) before it begins - and, under HSA's updated recall guidance effective 28 January 2026, notify HSA immediately once a consumer-level recall is decided**; CPSO: notify "when becoming aware of incidents involving their product which may lead to a recall, e.g. when there are serious or multiple injuries"; non-compliance penalty under CPSR up to SGD 2,000 fine and/or 12 months imprisonment for failure to recall Controlled Goods. Critical first 24 hours: (1) triage critical vs non-critical defect (HSA classification framework); (2) stop further supply; (3) suspend wholesale and retail distribution; (4) identify affected batches via traceability records; (5) draft customer / consumer notification; (6) initiate root cause analysis; (7) engage product recall insurer's crisis management consultants. **The insurance differentiation:** standalone Contaminated Products and Recall (CPR) cover vs General Liability (GL) product recall extension - GL covers third-party bodily injury and property damage but not the SME's own first-party recall costs; CPR covers first-party recall costs - typically notification, transport, destruction, replacement, lost gross profit and crisis management. Recall costs are predominantly first-party and can be substantial, which is the gap standalone CPR cover is designed to fill.
+> Your SME has received a mandatory recall order from the [Consumer Product Safety Office (CPSO)](https://www.consumerproductsafety.gov.sg/), overseen since 1 July 2025 by the Competition and Consumer Commission of Singapore (CCS), under the [Consumer Protection (Safety Requirements) Regulations](https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1) for one of the 33 categories of Controlled Goods. Or [Health Sciences Authority (HSA)](https://www.hsa.gov.sg/) for therapeutic products, medical devices, or cosmetics. Or you are voluntarily initiating following overseas regulator action ([FDA](https://www.fda.gov/), [CPSC](https://www.cpsc.gov/), [EU Safety Gate](https://ec.europa.eu/safety-gate/)). **Statutory clock, HSA: under Regulation 35 of the Health Products (Therapeutic Products) Regulations 2016, notify HSA of an intended recall, and the reasons for it, immediately and in any case no later than 24 hours before it begins; HSA's January 2026 recall guidance counts those 24 hours without Sundays and public holidays, and asks companies to notify immediately upon deciding to recall, particularly for consumer-level recalls**; CPSO (guidance, not a statutory clock): suppliers should notify the CPSO "when they become aware of incidents involving their product which may lead to a recall, e.g. when there are serious or multiple injuries"; non-compliance penalty under CPSR up to SGD 2,000 fine and/or 12 months imprisonment for failure to recall Controlled Goods. Critical first 24 hours: (1) triage critical vs non-critical defect (HSA classification framework); (2) stop further supply; (3) suspend wholesale and retail distribution; (4) identify affected batches via traceability records; (5) draft customer / consumer notification; (6) initiate root cause analysis; (7) engage product recall insurer's crisis management consultants. **The insurance differentiation:** standalone Contaminated Products and Recall (CPR) cover vs General Liability (GL) product recall extension - GL covers third-party bodily injury and property damage but not the SME's own first-party recall costs; CPR covers first-party recall costs - typically notification, transport, destruction, replacement, lost gross profit and crisis management. Recall costs are predominantly first-party and can be substantial, which is the gap standalone CPR cover is designed to fill.
 
 ### The Sourced Detail
 
-A product recall order - whether from Singapore regulators (CPSO, HSA), or driven by overseas regulator action - engages multiple statutory clocks, contractual obligations, and insurance positions simultaneously. The first 24 hours are structurally constrained: HSA's specific 24-hour pre-notification window for therapeutic products is the tightest, but CPSO's "when becoming aware" standard creates parallel pressure for consumer goods.
+A product recall order - whether from Singapore regulators (CPSO, HSA), or driven by overseas regulator action - engages multiple statutory clocks, contractual obligations, and insurance positions simultaneously. The first 24 hours are structurally constrained: HSA must be told of an intended therapeutic product recall immediately, and no later than 24 hours before it starts, while CPSO guidance asks suppliers to notify it when they become aware of incidents that may lead to a recall.
 
 #### Statutory framework
 
@@ -34,7 +34,7 @@ A product recall order - whether from Singapore regulators (CPSO, HSA), or drive
 - [Consumer Protection (Safety Requirements) Regulations](https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1) (CPSR) - Controlled Goods framework
 - [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003) (CPFTA) - fair trading and consumer remedies
 - [Consumer Product Safety Office (CPSO)](https://www.consumerproductsafety.gov.sg/) - administering body
-- [Enterprise Singapore](https://www.enterprisesg.gov.sg/) - overall framework
+- [Competition and Consumer Commission of Singapore (CCS)](https://www.ccs.gov.sg/): has overseen the CPSO since 1 July 2025 (previously Enterprise Singapore)
 - [Consumers Association of Singapore (CASE)](https://www.case.org.sg/) - consumer protection role
 
 **Therapeutic products framework.**
@@ -54,35 +54,29 @@ A product recall order - whether from Singapore regulators (CPSO, HSA), or drive
 
 #### HSA recall classification framework
 
-HSA classifies therapeutic product recalls by severity:
+HSA classifies therapeutic product recalls into two classes by the potential hazard of the defect:
 
-**Class I (most severe).**
-- Product likely to cause serious adverse health consequences or death
-- Specific public communication required
-- Specific timeline (typically immediate)
-- Specific recovery scope (consumer level)
+**Class 1.**
+- A critical defect, where there is a reasonable probability that use of or exposure to the product may cause serious adverse health consequences or death
+- Dear Purchaser Letter within 1 day of recall commencement (not counting Sundays and public holidays)
+- Recall recommended to be completed within 1 week
 
-**Class II.**
-- Product may cause temporary or medically reversible adverse health consequences
-- Specific notification scope
-- Specific timeline (specific period from awareness)
+**Class 2.**
+- A non-critical defect that may cause temporary or medically reversible adverse health consequences, or where serious harm is remote
+- Dear Purchaser Letter within 3 days of recall commencement
+- Recall recommended to be completed within 3 weeks
 
-**Class III.**
-- Product unlikely to cause adverse health consequences but recall warranted (e.g., labelling issues)
-- Specific notification scope (typically wholesale level)
-- Specific timeline
+The level of recall (consumer, retail or wholesale) is set separately, by the hazard, the extent of distribution and any other measures that can address the defect.
 
 #### CPSO recall framework
 
 CPSO operates a more general framework:
 
 **Mandatory recall trigger.**
-- Specific product hazard identified
-- Specific serious or multiple injuries
-- Specific overseas regulator action
+- A Controlled Good (one of the 33 categories under the CPSR) deemed unsafe, or supplied without registration, conformity to the safety requirements or the Safety Mark
 
 **Notification requirement.**
-- "When becoming aware of incidents involving their product which may lead to a recall"
+- Suppliers should notify the CPSO "when they become aware of incidents involving their product which may lead to a recall" (CPSO guidance)
 - Specific notification before public communication
 
 **Specific recall scope.**
@@ -100,10 +94,10 @@ CPSO operates a more general framework:
 **Hour 0-2 - Receipt and triage.**
 
 - Identify regulator (CPSO, HSA, overseas)
-- Identify recall classification (Class I / II / III for HSA; severity for CPSO)
+- Identify recall classification (Class 1 / Class 2 for HSA; severity for CPSO)
 - Identify product specifications (batch, model, lot, serial number)
 - Identify distribution scope (wholesale, retail, consumer, online, export)
-- Identify timeline (HSA 24 hours, CPSO immediate)
+- Identify timeline (HSA: immediately, and no later than 24 hours before the recall starts; CPSO: before the recall is enacted)
 
 **Hour 2-6 - Containment.**
 
@@ -115,15 +109,15 @@ CPSO operates a more general framework:
 
 **Hour 6-12 - Notification preparation.**
 
-- HSA / CPSO formal notification (within statutory timeline)
+- HSA formal notification (within the statutory timeline) and CPSO notification (before the recall is enacted, per CPSO guidance)
 - Customer notification drafting
 - Specific media statement preparation
 - Specific affected jurisdiction notifications
 
 **Hour 12-24 - Notification execution.**
 
-- HSA: notification 24 hours before customer notice
-- CPSO: timely notification per "when becoming aware" standard
+- HSA: notified immediately, and no later than 24 hours (not counting Sundays and public holidays) before the customer notice
+- CPSO: notified of the intended recall before it is enacted (CPSO guidance)
 - Customer / consumer notification per recall plan
 - Specific recovery instructions
 - Specific replacement or refund framework
@@ -131,7 +125,7 @@ CPSO operates a more general framework:
 #### First 7 days - execution
 
 **Recall progress reporting cadence.** CPSO / HSA typically require:
-- Specific daily / weekly progress reports
+- Progress reports at a frequency agreed with the CPSO, or as HSA requires
 - Specific recovery rate metrics
 - Specific issues encountered
 - Specific corrective and preventive actions
@@ -235,7 +229,7 @@ The point for an SME is structural: most of these are **first-party** costs that
 
 **Pharmaceuticals and medical devices.**
 - Specific HSA framework with 24-hour pre-notification
-- Specific Class I / II / III classification
+- Specific Class 1 / Class 2 recall classification for therapeutic products (medical device recalls are notified to HSA as Field Safety Corrective Actions)
 - Specific adverse event reporting alongside recall
 - Specific insurance complexity
 
@@ -245,7 +239,7 @@ The point for an SME is structural: most of these are **first-party** costs that
 - Specific institutional vs retail distribution
 
 **Automotive parts.**
-- Specific overseas market regulator coordination (NHTSA, Euro NCAP)
+- Specific overseas market regulator coordination (for example NHTSA in the US)
 - Specific OEM relationships
 - Specific liability cascade
 
@@ -258,7 +252,7 @@ Where SME exports affected products:
 - EU: Safety Gate notification
 - UK: Office for Product Safety and Standards
 - Australia: ACCC product safety
-- Specific Asian markets: Japan (METI), Korea (KCS), China (SAMR)
+- Specific Asian markets: Japan (METI), Korea (KATS), China (SAMR)
 
 **Specific regulator coordination.**
 - Voluntary disclosure to multiple regulators
@@ -274,11 +268,11 @@ Where SME exports affected products:
 
 1. **24-hour HSA window missed.** Specific therapeutic product timeline not tracked.
 
-2. **CPSO notification delayed.** "When becoming aware" standard interpreted narrowly.
+2. **CPSO notification delayed.** CPSO's guidance that suppliers notify it "when they become aware of incidents" that may lead to a recall is read narrowly.
 
 3. **Distribution scope incomplete.** Specific channels (online, export) missed.
 
-4. **Recall classification error.** Class I treated as Class III; insufficient response.
+4. **Recall classification error.** Class 1 treated as Class 2; insufficient response.
 
 5. **Customer notification deficient.** Specific reach / frequency / specificity inadequate.
 
@@ -298,7 +292,7 @@ For Singapore SMEs facing product recall:
 
 1. **Recall classification accuracy** - specific severity assessment.
 
-2. **Statutory timeline compliance** - HSA 24-hour, CPSO timely.
+2. **Notification timeline compliance**: HSA immediately and no later than 24 hours before the recall starts (statutory); CPSO before the recall is enacted (guidance).
 
 3. **Distribution scope** - comprehensive across all channels.
 
@@ -321,7 +315,7 @@ The cost of product recall is substantial - and, because it is largely first-par
 ### Questions to Ask Your Adviser
 
 1. For our recall exposure profile, is standalone CPR cover or GL recall extension appropriate?
-2. For HSA / CPSO compliance, are statutory notification timelines and protocols clear and operational?
+2. For HSA / CPSO compliance, are the HSA statutory notification timeline and the CPSO notification guidance clear and operational?
 3. For crisis management, is pre-engaged consultant relationship in place (CPR insurer panel typically includes)?
 4. For cross-border coordination, are export market regulator frameworks understood?
 5. For CAPA framework, is current quality management likely to identify root cause or just symptoms?

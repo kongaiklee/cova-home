@@ -22,7 +22,7 @@ og_description: "New and renewed Singapore Fire Certificates run 36 months from 
 # What changed about the SCDF Fire Certificate on 1 April 2026?
 
 > **The Answer in 60 Seconds**
-> Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), from **1 April 2026** new and renewed Fire Certificates are valid for **36 months** (up from 12 months). Revised application fees: **S$11/storey** for residential; **S$36/storey** for non-residential (up from S$33), payable once per 3-year cycle. Annual Professional Engineer (PE) inspections still apply via the FC Form during non-renewal years. SCDF conducts random audits. Insurance underwriters typically still ask for proof of FC validity at every fire/PAR renewal regardless of SCDF cycle.
+> Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), from **1 April 2026** new and renewed Fire Certificates are valid for **36 months** (up from 12 months). Revised application fees, per SCDF's [circular on the 3-year regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf) and the [GoBusiness FC page](https://licensing.gobusiness.gov.sg/licence-directory/scdf/fire-certificate): **S$11/storey** for residential; **S$36/storey** for non-residential (up from S$33), payable once per 3-year cycle. SCDF's Fire Certificate page, updated 24 September 2026, lists S$33/storey for non-residential. Annual Professional Engineer (PE) inspections still apply via the FC Form during non-renewal years. SCDF conducts random audits. Fire and PAR insurers may still ask for proof of FC validity at renewal, whatever the SCDF cycle.
 
 ## The Sourced Detail
 
@@ -36,11 +36,11 @@ Per the [SCDF Fire Certificate FAQ on GoBusiness](https://licensing.gobusiness.g
 
 - FCs with validity **start dates from 1 April 2026 onwards** are issued with **36-month validity**.
 - Buildings whose current FC expires **on or after 31 March 2026** will be issued a 3-year FC at next renewal.
-- Buildings whose current FC expires on or before 30 March 2026 will renew under the existing 12-month regime, then migrate to the 3-year regime at the subsequent renewal.
+- Buildings whose current FC expires on or before 30 March 2026 will remain on the existing regime with shorter validity for their upcoming renewal, and may be issued a 3-year FC at the subsequent renewal.
 
 ### Revised fees
 
-Per the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate):
+Per SCDF's [circular on the 3-year regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf) and the [GoBusiness FC page](https://licensing.gobusiness.gov.sg/licence-directory/scdf/fire-certificate) (SCDF's Fire Certificate page, updated 24 September 2026, lists S$33/storey for non-residential and no revised fee):
 
 | Fee | Pre-1 April 2026 (annual) | From 1 April 2026 (per 3-year cycle) |
 |---|---|---|
@@ -51,14 +51,14 @@ For a 5-storey non-residential building: prior cost was S$33 × 5 × 3 = S$495 o
 
 ### What stays the same: annual PE inspections and audits
 
-Per the [3-year FC implementation document](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/implementation-of-three-year-fire-certificate-regime-from-1-april-2026.pdf):
+Per SCDF's [circular on the 3-year regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf) and the [SCDF Fire Certificate page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate):
 - The owner/occupier must still engage a Professional Engineer (PE) and contractor to inspect fire safety systems annually.
 - During non-renewal years (years 2 and 3 of the 3-year cycle), the owner submits an **annual FC Form** via GoBusiness Portal certifying ongoing compliance.
 - SCDF conducts **selective audits** - owners are notified to submit inspection schedules.
 
 ### Revocation and the 1-year-regime fallback
 
-Per the [SCDF FC page](https://www.scdf.gov.sg/fire-safety-services-listing/permits-and-certifications/fire-certificate), if an FC is revoked due to non-compliance, the premises is moved back onto the 1-year FC regime until consistent compliance is demonstrated.
+Per SCDF's [circular on the 3-year regime](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/permits-and-certification/introduction-of-three-year-fire-certificate-regime-from-1-april-2026.pdf), if an FC expires because of a late or incomplete application, or is revoked because FC Forms were late or incomplete in a non-renewal year, the premises is placed on a 1-year FC regime once the issues are rectified, PE certification is obtained and a new FC application succeeds, until consistent compliance is achieved.
 
 ### Late renewal and lapsed-FC consequences
 
@@ -68,7 +68,7 @@ There is no refund of the 3-year fee if the building is sold, demolished, or the
 
 ### Insurance underwriting implications
 
-Despite the SCDF moving to 3-year cycles, fire and Property All Risks (PAR) insurance underwriting typically remains on an **annual cycle**. Underwriters will continue to ask for:
+Despite the SCDF moving to 3-year cycles, fire and Property All Risks (PAR) insurance underwriting typically remains on an **annual cycle**. Underwriters may ask for:
 - Current valid FC (with validity dates).
 - Most recent PE inspection report.
 - Evidence of annual FC Form submission for years 2 and 3 of the 3-year cycle.
@@ -81,11 +81,11 @@ The 3-year FC does **not** mean SMEs can defer fire safety attention for 3 years
 
 If you own or occupy a designated building:
 
-**Map your renewal date against 1 April 2026.** If your current FC expires in late March 2026, you renew under the old 1-year regime and migrate to 3-year on the next cycle. If your current FC expires on or after 31 March 2026, you migrate now.
+**Map your renewal date against 1 April 2026.** If your current FC is valid till 30 March 2026 or earlier, you renew under the old regime with shorter validity and may be issued a 3-year FC at the next renewal. If your current FC expires on or after 31 March 2026, you migrate now.
 
 **Set 3 calendar reminders, not 1.** Year 1: PE inspection, FC application/renewal. Year 2: PE inspection, FC Form submission. Year 3: PE inspection, FC Form submission, prepare for FC renewal at year 4. Missing a year-2 or year-3 FC Form could trigger SCDF enforcement.
 
-**Continue providing FC evidence to your insurers annually.** Your insurer's policy terms likely still require annual evidence of compliance at each [fire insurance renewal](/procedural-howto/renew-commercial-fire-insurance), regardless of SCDF cycle.
+**Continue providing FC evidence to your insurers annually.** Your insurer may still ask for evidence of compliance at each [fire insurance renewal](/procedural-howto/renew-commercial-fire-insurance), regardless of SCDF cycle.
 
 **Don't defer maintenance to year 3.** Fire pumps, alarm systems, sprinklers, fire doors and emergency lighting all degrade.
 

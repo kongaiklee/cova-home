@@ -21,29 +21,28 @@ og_description: "Trade credit insurance and a letter of credit answer the same S
 
 > **The Answer in 60 Seconds**
 >
-> [Trade Credit insurance](/document-legal/trade-credit-insurance-how-it-works-singapore) and Letters of Credit (L/C) address the same fundamental commercial question - how to protect against customer non-payment - through fundamentally different mechanisms. **Trade Credit insurance** is portfolio-based: the insurer covers a specified portion of receivables across the SME's customer base, responding when customers fail to pay due to insolvency or protracted default. **Letter of Credit** is transaction-specific: the buyer's bank issues a guarantee to the seller that payment will be made upon presentation of specified documents. Trade Credit suits SMEs with substantial customer portfolios and ongoing commercial relationships; L/Cs suit specific high-value transactions or new customer relationships where ongoing portfolio cover isn't appropriate. For Singapore SMEs in trading, manufacturing, and B2B services with material credit exposure, both tools have their place - many sophisticated SMEs use both, applying L/Cs for new / large transactions and Trade Credit for ongoing portfolio.
+> [Trade Credit insurance](/document-legal/trade-credit-insurance-how-it-works-singapore) and Letters of Credit (L/C) address the same fundamental commercial question - how to protect against customer non-payment - through fundamentally different mechanisms. **Trade Credit insurance** is portfolio-based: the insurer covers a specified portion of receivables across the SME's customer base, responding when customers fail to pay due to insolvency or protracted default. **Letter of Credit** is transaction-specific: the buyer's bank issues a guarantee to the seller that payment will be made upon presentation of specified documents. Trade Credit suits SMEs with substantial customer portfolios and ongoing commercial relationships; L/Cs suit specific high-value transactions or new customer relationships where ongoing portfolio cover isn't appropriate. For Singapore SMEs in trading, manufacturing, and B2B services with material credit exposure, both tools have their place, and an SME can use both, applying L/Cs for new / large transactions and Trade Credit for ongoing portfolio.
 
 ### The Sourced Detail
 
-Customer payment risk is one of the most material commercial risks for Singapore SMEs in B2B operations. Understanding the two primary risk transfer mechanisms - Trade Credit and Letters of Credit - explains both their commercial logic and where each is appropriate. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Letters of Credit operate within international frameworks (UCP 600) and Singapore banking frameworks per [MAS banking regulation](https://www.mas.gov.sg/regulation/banking).
+Customer payment risk is one of the most material commercial risks for Singapore SMEs in B2B operations. Understanding the two primary risk transfer mechanisms - Trade Credit and Letters of Credit - explains both their commercial logic and where each is appropriate. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) as the general insurers' trade association. Letters of Credit operate within international frameworks (UCP 600) and Singapore banking frameworks per [MAS banking regulation](https://www.mas.gov.sg/regulation/banking).
 
 #### Trade Credit insurance
 
-**Foundation scope.** Trade Credit insurance covers receivables - the SME's claims against customers for goods supplied or services rendered. The insurer covers a specified percentage (typically 70-90%) of receivables in scope, responding when customers fail to pay.
+**Foundation scope.** Trade Credit insurance covers receivables - the SME's claims against customers for goods supplied or services rendered. The insurer covers a specified percentage of each insured loss on receivables in scope, responding when customers fail to pay; a World Bank primer puts it at normally no more than 85% to 90%, and Atradius covers up to 95%.
 
 **Standard triggers.**
 
 Trade Credit responds on:
 
 - **Customer insolvency** - formal bankruptcy / liquidation / similar
-- **Protracted default** - non-payment for a specified period (typically 90-180 days past due)
+- **Protracted default** - non-payment for a specified period (a waiting period normally between 60 and 180 days, per a World Bank primer)
 - **Specific political risk** - for export receivables in some jurisdictions
 
 **Standard exclusions.**
 
 - Disputes (where customer has commercial reason for non-payment)
 - Specific contractual issues
-- Specific buyer's wilful default outside insolvency
 - Specific war / political risk (without specific extension)
 - Specific other defined exclusions
 
@@ -126,7 +125,7 @@ L/Cs operate within international commercial frameworks:
 - ISBP (International Standard Banking Practice)
 - Commercial conventions
 
-For Singapore SMEs, L/Cs are widely used in cross-border trade per these conventions.
+For Singapore SMEs, UCP 600 applies to an L/C used in cross-border trade when the text of the credit expressly says it is subject to those rules.
 
 **Specific cost economics.**
 
@@ -137,7 +136,7 @@ L/C costs typically include:
 - Specific bank charges
 - Commercial conventions
 
-Total cost typically 0.5-2% of L/C amount per period.
+Because a letter of credit covers a single transaction for a single buyer, a World Bank primer describes it as normally more expensive than trade credit insurance.
 
 **Operational discipline.**
 
@@ -200,7 +199,7 @@ L/C: percentage of transaction (per L/C, can be substantial cumulatively).
 
 **Combined approach.**
 
-Many sophisticated SMEs use both:
+An SME can use both:
 
 - Trade Credit for portfolio
 - L/Cs for new / large transactions
@@ -249,11 +248,6 @@ For Singapore SMEs with cross-border operations:
 - Specific UCP 600 governance
 - Specific bank relationships
 - Commercial conventions
-
-**Specific market considerations.**
-
-- Specific markets (developed economies) - Trade Credit common
-- Specific markets (emerging / specific high-risk) - L/Cs common
 
 #### Operational considerations
 
@@ -341,7 +335,7 @@ For Singapore SMEs with material customer credit exposure:
 
 3. **L/Cs suit transaction-specific scenarios.** Specific high-value / new customer relationships.
 
-4. **Many sophisticated SMEs use both.** Specific commercial flexibility.
+4. **An SME can use both.** Specific commercial flexibility.
 
 5. **Operational discipline matters for both.** Specific compliance foundations.
 

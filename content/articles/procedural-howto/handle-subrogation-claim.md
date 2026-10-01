@@ -19,7 +19,7 @@ og_title: "How to Handle a Subrogation Claim Against Your Business"
 og_description: "A subrogation demand from a third party's insurer goes to your liability insurer, not to you. Why a Singapore business should not reply directly."
 ---
 
-> **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party - confirmed in Singapore in cases including *Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.
+> **The Answer in 60 Seconds:** When a third-party insurer sends you a subrogation demand letter, **do not respond directly**. Forward immediately to your liability insurer (Public Liability, Property, Motor, or relevant cover). Subrogation is the statutory and common-law right of an insurer who has paid its insured to step into the insured's shoes and recover from the responsible party - confirmed in Singapore in cases including *Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [2021] SGHC 152 and *HSBC Institutional Trust Services (Singapore) Ltd v DNKH Logistics Pte Ltd* [2022] SGHC 248.
 
 ### What subrogation is, in plain English
 Your neighbour's warehouse catches fire because (allegedly) of your faulty electrical wiring. Your neighbour's insurer pays the neighbour S$800,000 under their property policy. The neighbour's insurer then writes to **you** demanding S$800,000 because, by paying out, they have stepped into the neighbour's shoes. They have the same right of action against you as the neighbour would have had at common law.
@@ -34,7 +34,7 @@ Per *Castellain v Preston* (1883) 11 QBD 380, the insurer takes "the advantage o
 
 **Step 3 - Forward to your liability insurer immediately.** Identify the relevant policy:
 - Customer's property damaged on your premises -> **Public Liability**
-- Fire from your premises spread to neighbour -> **Public Liability** + your **Fire/PAR** (subrogation goes against you)
+- Fire from your premises spread to neighbour -> **Public Liability** (your own **Fire/PAR** policy covers damage to your own property, not the neighbour's insurer's demand)
 - Goods in your care/custody/control damaged -> **PL with care/custody/control extension** or **bailee cover**
 - Vehicle accident -> **Motor**
 - Professional advice loss -> **Professional Indemnity**
@@ -46,7 +46,7 @@ Per *Castellain v Preston* (1883) 11 QBD 380, the insurer takes "the advantage o
 
 **Step 6 - Insurer investigates and either defends or settles.** The insurer's claims team will assess: was there negligence? Is liability established? Is the quantum reasonable? They may negotiate down, settle, or instruct lawyers to defend.
 
-**Step 7 - Watch for waiver of subrogation clauses.** Many commercial contracts (leases, construction contracts, supply agreements) contain mutual waivers of subrogation. Per *HSBC Institutional Trust Services v DNKH Logistics* [2022] SGHC 248, courts will analyse the contractual exemption and indemnity clauses carefully - exemption clauses that effectively waive subrogation are enforceable subject to construction. Pull every contract relevant to the underlying loss and pass to your insurer's lawyers.
+**Step 7 - Watch for waiver of subrogation clauses.** Many commercial contracts (leases, construction contracts, supply agreements) contain mutual waivers of subrogation. In *HSBC Institutional Trust Services v DNKH Logistics* [2022] SGHC 248, the landlord's insurer sued the tenant in the landlord's name after a fire. The court construed the lease's indemnity clause strictly, held that it covered only third-party claims against the landlord, and dismissed the claim; it added that even on the landlord's reading, the clause would cover only losses caused by the tenant's fault, and the losses from the accidental fire were not attributable to anyone's fault. In *Marina Centre Holdings Pte Ltd v Pars Carpet Gallery Pte Ltd* [1997] 2 SLR(R) 897, discussed in that judgment, the Court of Appeal held that a lease exemption clause absolved the landlord from liability for negligence in a subrogated claim brought by the tenant's insurers. Pull every contract relevant to the underlying loss and pass to your insurer's lawyers.
 
 ### Common Mistakes
 1. **Replying "we'll look into it" or "we accept responsibility."** Even a polite reply can prejudice cover.
@@ -56,11 +56,11 @@ Per *Castellain v Preston* (1883) 11 QBD 380, the insurer takes "the advantage o
 5. **Treating subrogation as fraud.** It's not. It's a standard insurance recovery process; engaging cooperatively with your insurer is the proper response.
 
 ### What This Means for Your Business
-Subrogation demands typically arrive 6-18 months after the underlying loss, by which time the original incident may feel ancient. Two operational disciplines mitigate the pain:
+Subrogation demands can arrive long after the underlying loss: an action in negligence for property damage can be brought up to 6 years after the cause of action accrued, or 3 years from when the claimant had the required knowledge if that is later (Limitation Act 1959, section 24A(3)), subject to a 15-year longstop (section 24B). Two operational disciplines mitigate the pain:
 
 First, **document at the time of incident** - every fire, water leak, slip-and-fall, vehicle accident, IT outage. Photos, witness statements, contemporaneous notes. The defence stands on what you can prove eight months from now.
 
-Second, **read your contracts for waiver of subrogation**. In Singapore, leases, construction contracts and many B2B service agreements include mutual waivers - meaning your insurer cannot pursue the counterparty's insurer (and vice versa) for the agreed scope of risk. These clauses can defeat or substantially reduce the claim entirely.
+Second, **read your contracts for waiver of subrogation**. Some Singapore leases, construction contracts and B2B service agreements include mutual waivers of subrogation, meaning your insurer cannot pursue the counterparty (and the counterparty's insurer cannot pursue you) for the agreed scope of risk. An exemption clause in the contract can have a similar effect for the party it protects. These clauses can defeat or substantially reduce the claim entirely.
 
 For SMEs without in-house legal, brief your liability broker on every contract with a financial cap above your liability deductible - they will flag waiver clauses and notification triggers.
 

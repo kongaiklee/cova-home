@@ -21,7 +21,7 @@ og_description: "Singapore's PDPC enforcement from 2024 to 2026 shows one patter
 
 > **The Answer in 60 Seconds**
 >
-> [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) enforcement decisions across 2024-2026 reveal a consistent pattern of breaches under [PDPA Section 24 Protection Obligation](https://sso.agc.gov.sg/Act/PDPA2012) - and the resulting penalties now sit at materially higher levels reflecting the post-1 October 2022 turnover-based penalty regime (10% annual Singapore turnover, capped at SGD 1m, whichever higher). Recent benchmark cases: **Marina Bay Sands Pte Ltd SGD 315,000 (28 October 2025)** for 665,495 patrons affected via API identifier omission during March 2023 software migration; **PPLingo Pte Ltd SGD 74,000 (May 2024)** for 557,144 individuals (including 300,000+ minors) due to admin password "lingoace123"; **Horizon Fast Ferry SGD 28,000 (May 2024)** for 108,488 individuals via root credential misuse; **Singapore Data Hub Pte Ltd SGD 17,500 (April 2025)** for 689,000 affected via outdated public-facing servers; **People Central Pte Ltd SGD 17,500 (January 2026)** for 95,000 employees via April 2024 extortion. The pattern insurers are now underwriting against: weak passwords, no MFA, vendor management failure, no DPO appointment, outdated systems, no penetration testing, software migration errors. SME procurement implications: cyber insurance underwriting questionnaires now demand explicit attestation on these elements; PDPA penalty defence cover (often a sub-limit) is becoming material; SaaS providers face proportionately heavier scrutiny.
+> [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) enforcement decisions across 2024-2026 reveal a consistent pattern of breaches under [PDPA Section 24 Protection Obligation](https://sso.agc.gov.sg/Act/PDPA2012) - and penalties are now set under the regime in force since 1 October 2022, which allows up to 10% of annual Singapore turnover for an organisation whose annual Singapore turnover exceeds SGD 10m, and up to SGD 1m in any other case. Recent benchmark cases: **Marina Bay Sands Pte Ltd SGD 315,000 (28 October 2025)** for 665,495 patrons affected via API identifier omission during March 2023 software migration; **PPLingo Pte Ltd SGD 74,000 (May 2024)** for 557,144 individuals (including 300,000+ minors) due to admin password "lingoace123"; **Horizon Fast Ferry SGD 28,000 (May 2024)** for 108,488 individuals via root credential misuse; **Singapore Data Hub Pte Ltd SGD 17,500 (April 2025)** for 689,000 affected via outdated public-facing servers; **People Central Pte Ltd SGD 17,500 (January 2026)** for 95,000 employees via April 2024 extortion. The pattern insurers are now underwriting against: weak passwords, no MFA, vendor management failure, no DPO appointment, outdated systems, no penetration testing, software migration errors. SME procurement implications: cyber insurance underwriting questionnaires now demand explicit attestation on these elements; PDPA penalty defence cover (often a sub-limit) is becoming material; in two of these decisions, the PDPC expected SaaS providers to put in place increased security because of the volume of client data they held.
 
 ### The Sourced Detail
 
@@ -44,8 +44,8 @@ The 2024-2026 PDPC enforcement docket establishes the operational expectations S
 - **Penalty:** SGD 315,000
 - **Affected:** 665,495 patrons
 - **Cause:** API identifier omitted during March 2023 software migration; six-month undetected exposure
-- **Discovery:** Customer data found for sale on dark web
-- **Pattern:** Software migration without security review; missing API authentication; absence of monitoring detecting unauthorised access
+- **After the incident:** Customer data was later found offered for sale on the dark web
+- **Pattern:** API configurations copied by hand during a software migration by a single employee without second-layer checks; a token verification check left off one webpage; the gap undetected for six months
 
 For SMEs: software migration is a high-risk event; security review required before, during, after.
 
@@ -55,7 +55,7 @@ For SMEs: software migration is a high-risk event; security review required befo
 - **Affected:** 557,144 individuals (including 300,000+ minors)
 - **Cause:** Admin password "lingoace123"; no DPO appointed for 5+ years; no MFA
 - **Pattern:** Multiple foundational failures - password policy, governance, authentication
-- **Aggravating factor:** Children's data affected; specific PDPA enforcement priority
+- **Aggravating factor:** High volume and sensitivity of the data, including financial data and about 303,238 minors
 
 For SMEs: Strong password policy + MFA + DPO appointment are baseline; failure on any single element creates material exposure.
 
@@ -64,7 +64,7 @@ For SMEs: Strong password policy + MFA + DPO appointment are baseline; failure o
 - **Penalty:** SGD 28,000
 - **Affected:** 108,488 individuals
 - **Cause:** Root account credentials misused; vendor management failure
-- **Pattern:** Vendor (third-party developer) had root credentials; no controls on use
+- **Pattern:** IT support vendor managed without written vendor-management policies; no ICT policy covering the critical aspects of IT security; no firewall or other security solutions for the web server
 - **Lesson:** Vendor management is an organisational responsibility; cannot be delegated to vendor
 
 For SMEs: Vendor access controls, audit trails, periodic credential rotation are non-negotiable.
@@ -92,9 +92,9 @@ For SMEs (especially SaaS providers): Firewall + MFA + encryption + network segm
 
 - **Penalty:** SGD 17,500
 - **Affected:** 95,000 employees of clients + 24,765 emergency contacts
-- **Cause:** April 2024 extortion email; databases deleted; SaaS HR provider; no 2FA, no penetration testing
-- **Pattern:** SaaS provider; HR data; complete data loss scenario
-- **Implication:** B2B SaaS providers handling employee data face acute scrutiny
+- **Cause:** April 2024 extortion email; databases deleted; SaaS HR provider; RDP access open to the internet without 2FA; vulnerability scanning only every 2 years and no network vulnerability assessment
+- **Pattern:** SaaS provider; HR data; databases deleted and data likely exfiltrated
+- **Implication:** The PDPC found a financial penalty appropriate given the organisation's role as a SaaS provider processing personal data entrusted to it by its clients, and said the volume and types of client HR data it held called for increased security
 
 For SMEs (especially HR / payroll SaaS): 2FA, penetration testing, backup discipline are foundational.
 
@@ -140,7 +140,7 @@ Cyber insurance underwriting questionnaires now systematically address PDPC enfo
 - Incident response plan
 
 **Testing.**
-- Penetration testing (annual minimum for material data)
+- Penetration testing
 - Vulnerability scanning
 - Phishing simulations
 - Tabletop exercises
@@ -173,12 +173,12 @@ Cyber covers in Singapore are developing distinct features reflecting PDPC enfor
 - Notification costs
 - Credit monitoring (where data sensitivity warrants)
 - PDPA penalty defence (sub-limit; varies by insurer)
-- PDPA penalty indemnity (limited and conditional; some insurers provide; others exclude)
+- PDPA penalty indemnity (limited and conditional; some wordings cover penalties only where insurable by law)
 - Business interruption from cyber incident
 - Cyber extortion / ransomware
 - Reputation harm (some insurers; specific framing)
 
-**Critical:** PDPA fines themselves are usually NOT insurable (regulatory penalties commonly excluded). Defence costs are typically covered. Carefully review policy wording.
+**Critical:** Whether PDPA penalties are covered depends on the wording and on whether the penalty is insurable by law. AIG's Singapore CyberEdge wording, for example, covers "any lawfully insurable fines or penalties" a regulator imposes for a data protection breach, and defence costs for a regulatory investigation. Carefully review policy wording.
 
 #### SME compliance baseline
 
@@ -191,7 +191,7 @@ Based on enforcement pattern, SME baseline expectations include:
 - PDPA breach response plan (see [the 3-day filing steps](/procedural-howto/how-to-file-pdpa-data-breach-notification-singapore))
 
 **System maintenance.**
-- Patching cadence (critical patches within 30 days)
+- Patching cadence (critical patches applied as soon as feasible)
 - Software lifecycle management
 - Security review for migrations
 - Outdated system retirement schedule
@@ -210,7 +210,7 @@ Based on enforcement pattern, SME baseline expectations include:
 - Termination procedures
 
 **Testing.**
-- Annual penetration test (material data scope)
+- Periodic security testing, such as penetration testing, and testing after major changes (in People Central the PDPC expected penetration tests at least annually, given the volume and types of data held)
 - Vulnerability scanning
 - Phishing simulations
 
@@ -265,7 +265,7 @@ For Singapore SMEs handling personal data:
 
 10. **Annual review and update** - landscape evolves; framework must too.
 
-The cost of cyber maturity is meaningful but bounded - typical SME cyber baseline implementation SGD 30,000-100,000 first year, SGD 15,000-50,000 ongoing. The cost of PDPA failure can be catastrophic: regulatory penalty + civil claims + reputation harm + business loss often totalling SGD 100,000+ even for smaller SME breaches; major SME breach can exceed SGD 1m+.
+The cost of cyber maturity is meaningful but bounded. The cost of PDPA failure can include a regulatory penalty, civil claims, reputation harm and business loss.
 
 ### Questions to Ask Your Adviser
 

@@ -23,7 +23,7 @@ og_description: "No Singapore law makes D&O compulsory for a private company, so
 >
 > No law in Singapore makes directors and officers (D&O) insurance compulsory for a private company. So the honest starting point is that D&O is a **risk decision, not a compliance one**. You will not be fined for going without it.
 >
-> The reason it still matters is personal liability. Under [section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), every director and officer must act honestly and use reasonable diligence, and an officer who breaches that duty is liable to the company for any resulting loss and is also guilty of an offence. That liability attaches to the individual, not only to the company. Claims can come from regulators (ACRA, MAS, IRAS), from employees, from shareholders, from counterparties, and from creditors. The creditor exposure sharpens as a company nears insolvency, where the wrongful and fraudulent trading provisions of the [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) can make directors personally answerable for company debts.
+> The reason it still matters is personal liability. Under [section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), a director must act honestly and use reasonable diligence, an officer must not make improper use of the position or of information gained through it, and an officer who breaches the section is liable to the company for any resulting loss and is also guilty of an offence. That liability attaches to the individual, not only to the company. Claims can come from regulators (ACRA, MAS, IRAS), from employees, from shareholders, from counterparties, and from creditors. The creditor exposure sharpens as a company nears insolvency, where the wrongful and fraudulent trading provisions of the [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) can make directors personally answerable for company debts.
 >
 > D&O cover pays the defence costs and any award when a director is pursued in that personal capacity. Whether your SME needs it now turns on a handful of triggers: outside investors, more than one director, regulated activity, lending or creditor exposure, growth or acquisitions, and employee headcount. This guide walks the decision.
 
@@ -33,18 +33,18 @@ D&O insurance is often described as cover the company buys. That framing hides t
 
 #### Why directors carry personal liability at all
 
-The foundation is statutory. [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), titled "As to the duty and liability of officers", requires a director or officer to act honestly and use reasonable diligence in discharging the duties of office, and not to make improper use of position or of information acquired through it. An officer who breaches the section is liable to the company for any profit made or any damage suffered as a result, and additionally commits an offence. That liability is personal: it follows the individual, and it is not extinguished by the company indemnifying them or by the company itself being a separate legal person.
+The foundation is statutory. [Section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), titled "As to the duty and liability of officers", requires a director to act honestly and use reasonable diligence in discharging the duties of office, and an officer or agent not to make improper use of position or of information acquired through it. An officer who breaches the section is liable to the company for any profit made or any damage suffered as a result, and additionally commits an offence. That liability is personal: it follows the individual, and it is not extinguished by the company indemnifying them or by the company itself being a separate legal person.
 
 The duty under section 157 sits alongside the general fiduciary duties a director owes at common law and the many specific obligations scattered across the statute book: filing and disclosure duties enforced by ACRA, tax duties enforced by IRAS, and, for regulated businesses, the licensing and conduct duties enforced by MAS or the relevant sector regulator. Each of those is a potential source of a personal claim or sanction against a director, not merely against the company.
 
 #### Where the claims actually come from
 
-For an SME, the realistic claimant pool is wider than most founders assume.
+For an SME, claims can come from several directions.
 
 - **Regulators.** ACRA for filing and governance failures, IRAS for tax matters where a director's conduct is in issue, MAS or a sector regulator where the business is licensed. Investigations and enforcement carry defence costs even when no penalty follows.
-- **Employees.** Allegations of wrongful dismissal, discrimination, harassment or other employment-practices wrongs are frequently directed at the individuals who made the decision, not only the employing entity. This is the employment practices liability (EPL) exposure, and it scales with headcount.
+- **Employees.** Allegations of wrongful dismissal, discrimination, harassment or other employment-practices wrongs can be directed at the individuals who made the decision, not only the employing entity. This is the employment practices liability (EPL) exposure, and it scales with headcount.
 - **Shareholders and investors.** Minority shareholders, or incoming investors, who allege a director acted in breach of duty, misrepresented the company's position, or oppressed their interests.
-- **Creditors.** The exposure that founders most often miss. As a company approaches insolvency, the directors' duties shift to take account of creditor interests, and the [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) creates personal exposure through its wrongful trading and fraudulent trading provisions, under which a director can be made personally responsible for the company's debts.
+- **Creditors.** As a company approaches insolvency, the directors' duties shift to take account of creditor interests, and the [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) creates personal exposure through its wrongful trading and fraudulent trading provisions, under which a director can be made personally responsible for the company's debts.
 - **Counterparties.** Customers, suppliers or contractual partners who name directors personally in a dispute, particularly where personal assurances or representations are alleged.
 
 A single SME will rarely face all of these. The decision is about which of them are live for your business today, and which become live as you grow.
@@ -55,12 +55,12 @@ Work through these. The more that apply, the stronger the case for cover now rat
 
 | Trigger | Why it raises personal exposure |
 | --- | --- |
-| **External investors on the cap table** | Investors expect, and frequently require by contract, that the company maintains D&O for the board they help appoint. Term sheets often make it a condition. |
-| **More than one director** | Co-directors can be jointly and severally exposed for board decisions. A non-founder or independent director will usually require cover before accepting appointment. |
+| **External investors on the cap table** | Investors can require by contract that the company maintains D&O for the board they help appoint. |
+| **More than one director** | Co-directors can be jointly and severally exposed for board decisions. A non-founder or independent director may ask for cover before accepting appointment. |
 | **Regulated activity** | A MAS licence or a sector licence brings conduct duties whose breach can be pursued against the individual, plus regulatory investigation costs. |
 | **Lending or significant creditors** | Bank facilities, trade credit taken, and supplier terms all build creditor exposure that crystallises under the IRDA 2018 if the company's solvency deteriorates. |
-| **Growth, fundraising or M&A** | Due diligence, warranties and representations made in a transaction are a classic source of post-deal claims against directors. |
-| **Employee headcount (EPL risk)** | Each hire adds employment-practices exposure. Past a small team, the probability of an employment claim that names a director becomes material. |
+| **Growth, fundraising or M&A** | Due diligence, warranties and representations made in a transaction can lead to post-deal claims against directors. |
+| **Employee headcount (EPL risk)** | Each hire adds employment-practices exposure. An employment claim can name a director as well as the company. |
 
 If two or more of these are true for your company, D&O has moved from optional to a deliberate decision you should make with an adviser rather than defer by inertia.
 
@@ -92,9 +92,9 @@ D&O is one of three liability lines that often get confused, and the boundaries 
 
 2. **Assuming the company shields the directors.** A separate legal entity does not absorb a director's personal liability, and an insolvent company cannot indemnify anyone.
 
-3. **Overlooking the creditor and near-insolvency exposure.** The wrongful and fraudulent trading provisions of the [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018) are where personal liability bites hardest, and it is the exposure SMEs notice last.
+3. **Overlooking the creditor and near-insolvency exposure.** The wrongful and fraudulent trading provisions of the [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018) can make a director personally responsible, without limit, for the company's debts.
 
-4. **Appointing an independent or investor-nominated director without cover in place.** Few experienced directors will join a board that carries no D&O, and the obligation to maintain it is often written into the investment agreement.
+4. **Appointing an independent or investor-nominated director without cover in place.** An incoming director may ask for D&O before joining, and an investment agreement can oblige the company to maintain it.
 
 5. **Confusing D&O with PI or EPL.** Each responds to a different claim type. Buying one does not close the gap left by the others.
 
@@ -104,7 +104,7 @@ D&O is one of three liability lines that often get confused, and the boundaries 
 
 Run the decision in three steps.
 
-First, **count your directors and your investors.** If you have any director who is not also a sole owner, or any external money on the cap table, you are in the zone where D&O is normally expected, and frequently required by contract. Read your investment and shareholder agreements for an express obligation to maintain it.
+First, **count your directors and your investors.** If you have any director who is not also a sole owner, or any external money on the cap table, you are in the zone where D&O can be required by contract. Read your investment and shareholder agreements for an express obligation to maintain it.
 
 Second, **map your claimant pool against the triggers.** Are you regulated. Do you take on creditors or bank lending. Are you growing through fundraising or acquisition. How many employees do you have, and what is your employment-practices exposure. Two or more live triggers means you should be deciding actively, with an adviser, not by default.
 

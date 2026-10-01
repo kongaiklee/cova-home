@@ -46,7 +46,7 @@ Each exposure has its own insurance answer; the stack is more layered than a sin
 
 #### The eight-cover insurance stack
 
-**1. Work Injury Compensation (WICA).** Mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) for the operator's own employees.
+**1. Work Injury Compensation (WICA).** Mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) for the operator's own employees, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month.
 
 **2. Foreign-worker medical insurance.** Mandatory under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) for any Work Permit or S Pass holders employed by the operator.
 

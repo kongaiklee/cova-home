@@ -21,25 +21,25 @@ og_description: "TAFEP has made contact over a harassment complaint. What the Si
 
 > **The Answer in 60 Seconds**
 >
-> Your SME has received contact from the [Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep/) - either via the TAFEP hotline (6838 0969), formal letter requiring independent investigation, or POHA / Penal Code complaint copied to the employer. Alternatively, a media exposé or social media incident has surfaced. The complaint involves alleged workplace harassment, discrimination, or hostile environment. Critical first 7 days: (1) **appoint independent investigator** - not the alleged harasser's reporting line; (2) preserve email, CCTV, access-card logs covering relevant period; (3) implement complainant safety measures (no retaliation, separate work allocation, alternative reporting line); (4) interim suspension policy assessment for accused; (5) formal communication plan. First 30 days: structured investigation per [TAFEP Tripartite Advisory on Managing Workplace Harassment](https://www.tal.sg/tafep/), board-level oversight if executive involved, structured outcome communication, disciplinary action documentation. Statutory framework: [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014); [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) (operative end-2027 per Manpower Minister Tan See Leng's 4 November 2025 confirmation). Insurance angles: Employment Practices Liability (EPL) - typically a D&O extension or standalone, covers defence costs and settlements for harassment, discrimination, retaliation; not all D&O policies in Singapore include EPL by default; NOT covered: punitive damages where insurance not legally permitted, intentional acts of the alleged harasser. Reference precedent: Ubisoft Singapore TAFEP investigation (2024).
+> Your SME has received contact from the [Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP)](https://www.tal.sg/tafep/) - either via the TAFEP hotline (6838 0969), a request (typically by phone or email) that the employer investigate, or POHA / Penal Code complaint copied to the employer. Alternatively, a media exposé or social media incident has surfaced. The complaint involves alleged workplace harassment, discrimination, or hostile environment. Critical first 7 days: (1) **appoint independent investigator** - not the alleged harasser's reporting line; (2) preserve email, CCTV, access-card logs covering relevant period; (3) implement complainant safety measures (no retaliation, separate work allocation, alternative reporting line); (4) interim suspension policy assessment for accused; (5) formal communication plan. First 30 days: structured investigation per [TAFEP Tripartite Advisory on Managing Workplace Harassment](https://www.tal.sg/tafep/), board-level oversight if executive involved, structured outcome communication, disciplinary action documentation. Statutory framework: [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014); [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/) (not yet in force; MOM currently targets end-2027, per Manpower Minister Tan See Leng's 4 November 2025 speech). Insurance angles: Employment Practices Liability (EPL) - typically a D&O extension or standalone, covers defence costs and settlements for harassment, discrimination, retaliation; not all D&O policies in Singapore include EPL by default; NOT covered: punitive damages where insurance not legally permitted, intentional acts of the alleged harasser. Reference precedent: Ubisoft Singapore TAFEP investigation (opened in August 2021; in January 2022 TAFEP said it had closed the case without taking action).
 
 ### The Sourced Detail
 
-A TAFEP harassment investigation served on the employer compresses several legal frameworks into the same operational response. The employer's actions in the first week determine whether claims under POHA, Workplace Fairness Act (when operative), common law, and contractual obligations are mitigated or compounded.
+TAFEP contact over a harassment complaint compresses several legal frameworks into the same operational response. The employer's actions in the first week determine whether claims under POHA, Workplace Fairness Act (when operative), common law, and contractual obligations are mitigated or compounded.
 
 #### Statutory framework
 
 **Primary statute (current).** [Protection from Harassment Act 2014 (POHA)](https://sso.agc.gov.sg/Act/PHA2014) - provides civil and criminal remedies for harassment. Its key offences include:
-- Section 3: Intentionally causing harassment, alarm or distress
-- Section 4: Harassment, alarm or distress
+- Section 3: Intentionally causing harassment, alarm, distress or humiliation
+- Section 4: Harassment, alarm, distress or humiliation
 - Section 5: Fear, provocation or facilitation of violence
 - Section 6: Offences in relation to a public servant or public service worker
 - Section 7: Unlawful stalking
 
-**Workplace Fairness Act 2025.** Per [Manpower Minister Tan See Leng's confirmation on 4 November 2025](https://www.mom.gov.sg/) (second reading of the Workplace Fairness (Dispute Resolution) Bill): "the ministry is currently targeting to implement the Workplace Fairness Act in end-2027, but it will continue to monitor readiness of all parties and adjust the timeline as necessary."
+**Workplace Fairness Act 2025.** In his [4 November 2025 speech](https://www.mom.gov.sg/newsroom/speeches/2025/1104-second-reading-of-workplace-fairness-dispute-resolution-bill) at the second reading of the Workplace Fairness (Dispute Resolution) Bill, Manpower Minister Tan See Leng said: "we currently target to implement the Act in end-2027, but we will continue to monitor readiness of all parties and adjust this timeline as necessary."
 
 **Current TAFEP framework (until WFA operative).** [Tripartite Alliance for Fair and Progressive Employment Practices](https://www.tal.sg/tafep/):
-- Voluntary Tripartite Guidelines on Fair Employment Practices
+- Tripartite Guidelines on Fair Employment Practices, which all employers are expected to adhere to
 - Specific advisory on workplace harassment management
 - MOM work pass privilege suspension for non-compliant employers
 
@@ -47,15 +47,14 @@ A TAFEP harassment investigation served on the employer compresses several legal
 
 #### What TAFEP can do
 
-TAFEP operates within a tripartite framework and has specific powers:
+TAFEP operates within a tripartite framework. It cannot direct an employer to revise its action or determine compensation, but it can ask the employer to investigate and to put harassment policies and procedures in place:
 
 **Complaint receipt:**
 - Hotline: 6838 0969
 - Online form
-- Walk-in service
 
 **Investigation request:**
-- Letter to employer requesting independent investigation
+- Request to the employer, typically by phone or email, to conduct an independent, fair and neutral investigation
 - Specific timeframe for response
 - Specific scope of investigation
 
@@ -64,12 +63,10 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Specific application to foreign worker pass renewals
 - Specific disclosure to MOM officers
 
-**Public disclosure:**
-- Specific public reports on patterns
-- Identifying employer disclosure for serious cases
-- Specific media engagement
+**Public statements:**
+- In the Ubisoft Singapore case below, TAFEP confirmed to the media that it was investigating, and later set out its findings in a statement
 
-**Reference matter.** Ubisoft Singapore TAFEP investigation (2024) - sexual harassment and discrimination allegations. Public reporting of TAFEP engagement; specific company response.
+**Reference matter.** Ubisoft Singapore TAFEP investigation into sexual harassment and discrimination allegations, opened in August 2021; in January 2022 TAFEP said it had closed the case without taking action. Public reporting of TAFEP engagement; specific company response.
 
 #### Hour-by-hour response
 
@@ -109,7 +106,7 @@ TAFEP operates within a tripartite framework and has specific powers:
 - NOT internal HR if HR involved or proximate
 - Specific investigator credentials
 - Specific scope of investigation defined
-- Specific timeline (typically 4-8 weeks)
+- Specific timeline, communicated to all parties
 - Specific terms of engagement
 
 **Day 7-14 - Investigation kickoff.**
@@ -189,7 +186,7 @@ TAFEP operates within a tripartite framework and has specific powers:
 - Pre-existing claims (continuity gap)
 
 **Notification.**
-- Receipt of TAFEP letter is "circumstance" triggering claims-made notification
+- A TAFEP request may be a circumstance that could give rise to a claim; claims-made wordings can let the insured notify such a circumstance during the policy period, so that a later claim is treated as made at that time
 - Specific notification deadline per policy
 - Specific cooperation requirements with insurer
 
@@ -230,14 +227,14 @@ TAFEP operates within a tripartite framework and has specific powers:
 
 #### Workplace Fairness Act 2025 - when operative
 
-When [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Act/WFA2025) becomes operative (currently end-2027), the framework strengthens substantially:
+When [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/) becomes operative (currently end-2027), the framework strengthens substantially:
 - The eleven protected characteristics: age; nationality; sex; marital status; pregnancy; caregiving responsibilities; race; religion; language ability; disability; and mental health condition
 - Specific complaint mechanism
 - Specific tribunal jurisdiction
 - Specific remedies including compensation
 - Specific employer obligations
 
-For now (until end-2027), TAFEP voluntary framework + POHA + Penal Code remains the active regime.
+For now (until the WFA commences; MOM targets end-2027), the Tripartite Guidelines on Fair Employment Practices, the Tripartite Advisory on Managing Workplace Harassment, POHA and the Penal Code remain the active regime.
 
 ### Common Mistakes / What Goes Wrong
 

@@ -124,7 +124,7 @@ Insurers underwrite CII-related cyber risk on:
 #### Stage-by-stage SME cybersecurity build
 
 - **Before any CII engagement** - foundation cybersecurity practices, with Cyber Liability sized to the business as it stands.
-- **CII-related engagement (vendor / sub-contractor)** - uplift cybersecurity to CII expectations, and plan the certifications customer contracts will require.
+- **CII-related engagement (vendor / sub-contractor)** - uplift cybersecurity to CII expectations, and plan for any certifications the customer contract requires.
 - **CII designation (or FDI scope)** - a comprehensive cybersecurity programme with the compliance infrastructure the obligations demand.
 - **Mature CII / FDI operations** - a comprehensive, coordinated programme with a Cyber Liability tower matched to the exposure.
 
@@ -160,7 +160,7 @@ For Singapore SMEs in or serving CII / FDI scope:
 
 4. **Build a comprehensive Cyber Liability programme** - limits, scope, and panel access proportionate to exposure.
 
-5. **Maintain the expected certifications** - ISO/IEC 27001, SOC 2.
+5. **Maintain the certifications your customers ask for**, for example ISO/IEC 27001 or a SOC 2 report.
 
 6. **Engage a specialist broker and counsel.** CII-related cyber underwriting needs specific expertise.
 

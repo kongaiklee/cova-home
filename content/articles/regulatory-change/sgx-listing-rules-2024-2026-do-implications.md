@@ -21,7 +21,7 @@ og_description: "Two streams of SGX rule change through 2024 to 2026 reshape dir
 
 > **The Answer in 60 Seconds**
 >
-> Two streams of SGX regulatory change reshape director personal exposure in 2024-2026 and drive D&O cover requirements for Singapore listed and pre-IPO SMEs. **Stream 1 - Mandatory ISSB-aligned Climate-Related Disclosures (CRDs).** On 28 February 2024, ACRA and SGX RegCo announced mandatory CRDs aligned with the [International Sustainability Standards Board (IFRS S2)](https://www.sgxgroup.com) for all SGX-listed issuers from FY2025. SGX RegCo published Listing Rule amendments on 23 September 2024 to incorporate ISSB standards. **Stream 2 - Phased Scope 3 and other ISSB-based CRD timetable** (August 2025 refinement): all listed issuers must disclose Scope 1 and Scope 2 GHG from FY2025; STI constituents must add other ISSB CRD from FY2025 and Scope 3 from FY2026; non-STI listed companies with market cap S$1bn or above add other ISSB CRD from FY2028; non-STI listed under S$1bn from FY2030; external limited assurance for Scope 1 and 2 deferred to FY2029 for all listed companies. Director personal exposure flows through: continuous disclosure obligations under [SGX Mainboard Rule 703](https://rulebook.sgx.com/rulebook/mainboard-rules); financial reporting under Rule 705; interested person transaction rules in Chapter 9; prospectus liability under [SFA 2001 section 254](https://sso.agc.gov.sg/Act/SFA2001); insider trading under sections 218-219; market misconduct under sections 197-203; MAS civil penalty regime under section 234. D&O cover for listed SMEs typically includes Side A (non-indemnifiable individual loss), Side B (corporate reimbursement under Companies Act 1967 sections 172A and 172B), Side C (entity securities claims), plus investigation cover responding to SGX RegCo and MAS investigations.
+> Two streams of SGX regulatory change reshape director personal exposure in 2024-2026 and drive D&O cover requirements for Singapore listed and pre-IPO SMEs. **Stream 1 - Mandatory ISSB-aligned Climate-Related Disclosures (CRDs).** On 28 February 2024, ACRA and SGX RegCo announced mandatory CRDs aligned with the [International Sustainability Standards Board (IFRS S2)](https://www.ifrs.org/issued-standards/ifrs-sustainability-standards-navigator/ifrs-s2-climate-related-disclosures/) for all SGX-listed issuers from FY2025. SGX RegCo published Listing Rule amendments on 23 September 2024 to incorporate ISSB standards. **Stream 2 - Phased Scope 3 and other ISSB-based CRD timetable** (August 2025 refinement): all listed issuers must disclose Scope 1 and Scope 2 GHG from FY2025; STI constituents must add other ISSB CRD from FY2025 and Scope 3 from FY2026; non-STI listed companies with market cap S$1bn or above add other ISSB CRD from FY2028; non-STI listed under S$1bn from FY2030; external limited assurance for Scope 1 and 2 deferred to FY2029 for all listed companies. Director personal exposure flows through: continuous disclosure obligations under [SGX Mainboard Rule 703](https://rulebook.sgx.com/rulebook/mainboard-rules); financial reporting under Rule 705; interested person transaction rules in Chapter 9; prospectus liability under [SFA 2001 section 254](https://sso.agc.gov.sg/Act/SFA2001); insider trading under sections 218-219; market misconduct under sections 197-203; MAS civil penalty regime under section 232. D&O cover for listed SMEs typically includes Side A (non-indemnifiable individual loss), Side B (corporate reimbursement under Companies Act 1967 sections 172A and 172B), Side C (entity securities claims), plus investigation cover responding to SGX RegCo and MAS investigations.
 
 ### The Sourced Detail
 
@@ -49,9 +49,9 @@ The implication for director personal exposure: directors signing off the first 
 
 The substantive Listing Rule provisions producing director personal exposure:
 
-**Mainboard Rule 703 - Continuous Disclosure.** Immediate announcement of any information necessary to avoid a false market and any information likely to materially affect the price or value of the issuer's securities. The Rule is the principal driver of disclosure timing decisions; failure to disclose material information can trigger SGX RegCo investigation and potentially SFA section 199 exposure.
+**Mainboard Rule 703 - Continuous Disclosure.** Immediate announcement of any information necessary to avoid a false market and any information likely to materially affect the price or value of the issuer's securities. The Rule is the principal driver of disclosure timing decisions; failure to disclose material information can trigger SGX RegCo investigation and potentially SFA section 203 exposure (failing to notify the exchange of information the listing rules require).
 
-**Mainboard Rule 704** - Periodic announcements (changes in directors, controlling shareholders, and others).
+**Mainboard Rule 704**: immediate announcement of specific information, in addition to Rule 703, including the appointment or cessation of directors and other key persons.
 
 **Mainboard Rule 705** - Financial Reporting. SGX has reformed quarterly reporting in recent cycles; SMEs should confirm the latest periodicity rules at the [SGX rulebook](https://rulebook.sgx.com/rulebook/mainboard-rules).
 
@@ -59,7 +59,7 @@ The substantive Listing Rule provisions producing director personal exposure:
 
 **Mainboard Rules Chapter 10** - Acquisitions and Realisations.
 
-**Mainboard Rule 1207(20)** and the related Sustainability Reporting Guide (incorporating ISSB-aligned climate-related disclosure rules from FY2025).
+**Mainboard Rules 711A and 711B** and the related Sustainability Reporting Guide in Practice Note 7.6 (incorporating ISSB-aligned climate-related disclosure rules from FY2025).
 
 **Mainboard Rules on the general mandate** for issue of shares (Chapter 8).
 
@@ -69,19 +69,19 @@ The substantive Listing Rule provisions producing director personal exposure:
 
 Director personal exposure under the SFA flows through several provisions:
 
-**Section 137** - Substantial shareholder notifications under Part 4. Directors who are substantial shareholders face personal notification obligations.
+**Sections 133 and 135 to 137**: notifications under Part 7 (Disclosure of interests). A director must notify the corporation of his or her interests (section 133), and a substantial shareholder must notify the corporation of its interests, of changes in them and of ceasing to be a substantial shareholder (sections 135 to 137).
 
 **Section 197** - Market rigging.
 
-**Section 199** - False or misleading statements; market misconduct. The principal SFA exposure for misstatement or omission in continuous disclosure announcements, prospectuses, and circulars.
+**Section 199**: false or misleading statements. A person must not make a statement or disseminate information that is false or misleading in a material particular and likely to induce dealing or to affect the market price, where the person does not care whether it is true or knows or ought reasonably to have known it is false or misleading. A failure to notify the exchange of information the listing rules require falls under section 203, and prospectus misstatements and omissions under sections 253 and 254.
 
 **Sections 218 and 219** - Insider trading offences.
 
-**Section 234** - MAS civil penalty regime. MAS can impose civil penalties for breach of specified market-misconduct provisions, often as an alternative to criminal prosecution.
+**Section 232**: civil penalty. MAS may, with the Public Prosecutor's consent, bring a court action for a civil penalty for a contravention of the market conduct provisions in Part 12, or agree a civil penalty with the person out of court; once a civil penalty is ordered or agreed, no criminal proceedings may be brought for that contravention of sections 197 to 203 (section 204(2)). Section 234 is a separate right for investors to claim compensation for their loss.
 
-**Section 254** - Prospectus liability. Criminal and civil exposure for false or misleading statements in a prospectus.
+**Sections 253 and 254**: prospectus liability. Criminal liability (section 253) and civil liability (section 254) for false or misleading statements in, or omissions of required information from, a prospectus.
 
-The civil-penalty pathway under section 234 has become an increasingly used MAS enforcement tool. Civil penalties can be substantial and are typically resolved by negotiated settlement; the cases are reported at [MAS Enforcement Actions](https://www.mas.gov.sg/news/enforcement-actions).
+Under section 232, a court may order a civil penalty of up to three times the profit gained or loss avoided, or S$2 million, whichever is greater, and of at least S$100,000 for a corporation or S$50,000 for anyone else; MAS may also agree a civil penalty with the person out of court. MAS's actions are reported at [MAS Enforcement Actions](https://www.mas.gov.sg/regulation/enforcement/enforcement-actions).
 
 #### Director-personal-exposure pathways
 
@@ -91,7 +91,7 @@ The structural exposure pathways for a director of a Singapore listed SME:
 
 **Pathway 2 - Financial reporting misstatement.** Rule 705 financial reporting obligations carry director sign-off liability. A material misstatement in audited financials exposes signing directors to SGX disciplinary action and potentially SFA section 199 prosecution.
 
-**Pathway 3 - Climate disclosure misstatement.** From FY2025, ISSB-aligned CRDs carry the same director sign-off liability as financial reports. The first-year FY2025 disclosures using novel methodologies carry elevated risk.
+**Pathway 3 - Climate disclosure misstatement.** From FY2025, ISSB-aligned CRDs form part of the sustainability report, for which the Board has ultimate responsibility under the Sustainability Reporting Guide (Practice Note 7.6) and which must include a Board statement (Rule 711B). The first-year FY2025 disclosures using novel methodologies carry elevated risk.
 
 **Pathway 4 - Insider trading.** Sections 218-219 SFA exposure for trading on material non-public information.
 
@@ -109,7 +109,7 @@ D&O Liability is the primary line responding to director personal exposure. The 
 
 **Side C - Entity securities-claim cover.** Cover for the issuer itself for claims relating to its securities (shareholder claims, claims alleging prospectus misstatement, claims alleging mismanagement affecting securities value).
 
-**Investigation cover.** Most Singapore D&O wordings respond to formal SGX RegCo and MAS investigations, including pre-claim investigation costs. The investigation cover is typically separate from the main insuring clauses and may be sub-limited.
+**Investigation cover.** D&O wordings can include cover for formal SGX RegCo and MAS investigations, including pre-claim investigation costs; the scope varies by wording. The investigation cover is typically separate from the main insuring clauses and may be sub-limited.
 
 **Public Offering of Securities Insurance (POSI).** For IPOs and follow-on offerings. POSI specifically addresses prospectus liability under SFA section 254. [AIG Singapore Dragonshield](https://www.aig.sg/home/solutions/business-products-and-services/financial-lines/directors-and-officers-liability) offers transferrable POSI limits to the D&O policy over a 3-year post-listing period.
 
@@ -135,19 +135,15 @@ D&O response:
 
 The company assesses whether to self-report any potential SFA section 199 exposure (false or misleading statement). The D&O wording's pre-claim investigation cover allows engagement of senior counsel for the self-report assessment.
 
-If MAS later imposes a section 234 civil penalty on the company or individual directors, the cover responds only to the extent the penalty is insurable by law in Singapore. Punitive penalties are typically not insurable.
+If a section 232 civil penalty is later ordered by a court, or agreed with MAS, against the company or individual directors, the cover responds only to the extent the penalty is insurable by law in Singapore. Punitive penalties are typically not insurable.
 
 #### SGX and MAS enforcement context
 
-The [SGX Listings Disciplinary Committee](https://www.sgxregco.com/regulatory-actions) publishes regulatory actions including public censures and fines. MAS enforcement actions including SFA section 234 civil penalties are at [MAS Enforcement Actions](https://www.mas.gov.sg/news/enforcement-actions). The pattern over 2023-2025 has been:
-
-Increased frequency of SGX Listings Disciplinary Committee actions for continuous disclosure breaches.
+The [SGX-ST Listings Disciplinary Committee](https://regco.sgx.com/public-disciplinary-actions) can issue public reprimands and impose fines (Mainboard Rule 1417), and its written grounds of decision are published unless the sanction is a private warning (Rule 1418). MAS enforcement actions including SFA section 232 civil penalties are at [MAS Enforcement Actions](https://www.mas.gov.sg/regulation/enforcement/enforcement-actions). The pattern over 2023-2025 has been:
 
 MAS civil penalty pathway used in market misconduct cases as an alternative to criminal prosecution.
 
-ISSB disclosure landing in 2025 with first-year filings.
-
-D&O pricing for SGX-listed SMEs has bifurcated through 2024-2026: well-governed names with strong disclosure controls have seen flat or improving renewals; weaker controls (especially newly listed Catalist names and Catalist transfers) have seen double-digit premium increases and tighter retentions.
+ISSB-based disclosure applying from financial years starting on or after 1 January 2025, so the first reports under it fall due from 2026.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -155,25 +151,25 @@ D&O pricing for SGX-listed SMEs has bifurcated through 2024-2026: well-governed 
 
 2. **Underestimating ISSB first-year disclosure exposure.** The FY2025 disclosures use new methodologies; audit assurance is not required until FY2029. The intervening years carry elevated director sign-off risk.
 
-3. **Not procuring POSI for IPO prospectus exposure.** Pre-IPO SMEs facing prospectus liability under SFA section 254 need POSI specifically; standard D&O typically excludes IPO-period prospectus exposure or sub-limits it heavily.
+3. **Not procuring POSI for IPO prospectus exposure.** Pre-IPO SMEs facing prospectus liability under SFA section 254 need POSI specifically; D&O wordings differ in how they treat claims arising from a public offering, and POSI is written to cover that exposure separately.
 
 4. **Treating Rule 703 as a guideline rather than a mandatory immediate disclosure obligation.** Material information requires immediate announcement. Delay for verification carries personal exposure if the delay is later determined unjustified.
 
-5. **Confusing the SGX RegCo regulatory pathway with MAS prosecution pathway.** SGX RegCo handles Listing Rule breaches with administrative sanctions (public censure, fines, suspension). MAS handles SFA breaches with criminal prosecution or section 234 civil penalty. Both can apply to the same underlying conduct.
+5. **Confusing the SGX RegCo regulatory pathway with MAS prosecution pathway.** SGX RegCo handles Listing Rule breaches through enforcement action and disciplinary proceedings (public reprimands, fines imposed by the Disciplinary Committee, trading halts or suspension). SFA breaches can lead to criminal prosecution, which only the Attorney-General's Chambers may institute, or to a section 232 civil penalty, which MAS may seek in court with the Public Prosecutor's consent or agree with the person out of court. Both can apply to the same underlying conduct.
 
-6. **Not verifying interested person transaction announcement thresholds before transacting.** Chapter 9 thresholds (typically 5% of NTA for announcement, 5% for ordinary resolution shareholder approval) trigger director personal exposure if breached.
+6. **Not verifying interested person transaction announcement thresholds before transacting.** Chapter 9 thresholds (3% of the group's latest audited NTA for an immediate announcement and 5% for shareholder approval, Mainboard Rules 905 and 906) trigger director personal exposure if breached.
 
-7. **Buying entry-level D&O limits for newly listed Catalist names.** Initial post-listing D&O limits often sized at S$5 million to S$10 million may be insufficient for a real securities class claim with multiple plaintiffs.
+7. **Buying entry-level D&O limits for newly listed Catalist names.** Initial post-listing D&O limits may be insufficient for a securities claim with multiple plaintiffs.
 
 8. **Not addressing run-off cover on board exit or company sale.** Outgoing directors should specifically procure 6-year run-off cover for liabilities attaching during their tenure. Without run-off, claims surfacing post-departure may not be covered by the new ownership's policy.
 
 9. **Ignoring climate-disclosure governance infrastructure.** The board oversight of ISSB CRDs (board-level climate committee, GHG inventory verification, internal sign-off ladder) is the substantive defence to a personal-exposure claim arising from disclosure error. Documented governance reduces real exposure.
 
-10. **Confusing MAS civil penalty pathway with criminal pathway.** Section 234 civil penalty is a negotiated regulatory outcome typically resolved by settlement; criminal prosecution under sections 197, 199, 218, 219 is a separate pathway. D&O cover should specifically address both.
+10. **Confusing MAS civil penalty pathway with criminal pathway.** A section 232 civil penalty is ordered by a court or agreed with MAS out of court, and for sections 197 to 203 it bars criminal proceedings for the same contravention (section 204(2)); criminal prosecution under sections 197, 199, 218 and 219 is a separate pathway. D&O cover should specifically address both.
 
 ### What This Means for Your Business
 
-For a Singapore listed SME, the structural priority for director personal-exposure management is: D&O cover with all three sides (A, B, C); investigation cover responding to SGX RegCo and MAS investigations; POSI for IPO or follow-on offering prospectus exposure; explicit cover for ISSB-aligned climate disclosure (most current Singapore D&O wordings include this implicitly through securities-claim cover and the wrongful-act definition, but explicit confirmation at placement is the prudent step); side A DIC top-up for independent directors where the board includes high-litigation-risk independents.
+For a Singapore listed SME, the structural priority for director personal-exposure management is: D&O cover with all three sides (A, B, C); investigation cover responding to SGX RegCo and MAS investigations; POSI for IPO or follow-on offering prospectus exposure; explicit cover for ISSB-aligned climate disclosure (a D&O wording may respond to it through securities-claim cover and the wrongful-act definition, but explicit confirmation at placement is the prudent step); side A DIC top-up for independent directors where the board includes high-litigation-risk independents.
 
 For a Pre-IPO SME, the structurally important investments are: POSI for prospectus exposure (transferrable to the main D&O post-listing under wordings like AIG Dragonshield); upgraded D&O limit reflecting post-listing exposure; board-level governance infrastructure for first-year ISSB compliance.
 

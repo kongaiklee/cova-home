@@ -39,7 +39,7 @@ Operational machine relocation scope creates commercial considerations. Machines
 
 #### The regulatory framework
 
-For F&B vending operations, [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) frameworks apply. Specific licensing categories address food vending operations, operational scope, operational operational standards.
+For F&B vending operations, [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) frameworks apply. SFA licenses food vending machines that prepare food in the machine, or sell raw meat or seafood, under its Food Shop Licence. SFA states that retailers that solely sell pre-packed food supplied by SFA-licensed food processing establishments or importers do not require SFA food retail licences.
 
 Operational scope considerations include specific food handling discipline, operational cold chain requirements (where applicable to commercial scope), operational operational sophistication.
 
@@ -53,13 +53,13 @@ Specific HDB commercial scope has commercial conventions. Specific institutional
 
 For Singapore vending machine operators, foundational cover stack includes several elements.
 
-Public Liability cover with elevated limits given third-party premises exposure. Vending machines on third-party premises create specific Public Liability scope - specific incidents at machines (consumer injury from machine operation, food safety incidents from F&B vending, operational other commercial scenarios) typically engage operator's PL primarily.
+Public Liability cover with elevated limits given third-party premises exposure. Vending machines on third-party premises create specific Public Liability scope: injury from the operation of a machine can engage the operator's PL. Food safety incidents from F&B vending are a products liability exposure, which a public liability wording can exclude.
 
-Standard PL limits for substantive operations typically S$2M-S$10M reflecting operational operational scope across distributed operations.
+The PL limit is agreed with the insurer for the size and spread of the operation.
 
 Property/Fire cover with specific provisions for distributed equipment scope. Operational scope across multiple premises creates specific aggregate considerations. Considerations on sum insured adequacy (see [what the average clause does to a claim](/comparison/property-all-risks-exclusions-deep-dive)) matters substantially given equipment values across distributed operations.
 
-Equipment Breakdown cover (see [what it pays and how to claim](/procedural-howto/equipment-breakdown-claim-process)) for substantial machine investment. Modern vending machines (particularly smart vending with refrigeration, cashless payment integration, operational technology) carry substantial commercial value (typically S$5k-S$25k+ per machine). Operational scope across distributed operations creates specific Equipment Breakdown considerations.
+Equipment Breakdown cover (see [what it pays and how to claim](/procedural-howto/equipment-breakdown-claim-process)) for substantial machine investment. Modern vending machines (particularly smart vending with refrigeration, cashless payment integration, operational technology) carry substantial commercial value. Operational scope across distributed operations creates specific Equipment Breakdown considerations.
 
 BI cover (per [the comparison of deductible types](/comparison/bi-deductible-structures) and [the gross profit claim walkthrough](/procedural-howto/bi-claim-deep-dive)) for operational disruption. Distributed operations have operational characteristics - premises-by-premises BI scope, commercial relationships, operational scope. Indemnity period considerations matter for substantial commercial scope.
 
@@ -79,11 +79,11 @@ Specific Goods in Transit cover where applicable for product distribution scope.
 
 Vending machine operations face specific incident scenarios.
 
-Consumer injury scenarios (specific machine malfunction during operation, operational food safety incidents from F&B vending, operational other commercial scope) engage Public Liability primarily.
+Consumer injury from a machine malfunction can engage Public Liability; illness from food sold by the machine is a products liability exposure, which a public liability wording can exclude.
 
 Specific machine theft / vandalism scenarios engage Property/Fire and operational operational scope.
 
-Specific equipment breakdown scenarios (refrigeration failure being most consequential for F&B vending, operational other equipment failures) engage Equipment Breakdown scope.
+Specific equipment breakdown scenarios (such as refrigeration failure in F&B vending, and other equipment failures) engage Equipment Breakdown scope.
 
 Specific cashless payment system incidents (operational data breaches, operational operational scope) engage Cyber Liability.
 
@@ -91,7 +91,7 @@ Specific premises owner dispute scenarios engage commercial counsel and operatio
 
 Specific employee incidents engage WICA / Workers' Compensation framework.
 
-Specific food safety incidents from F&B vending engage specific SFA framework and Public Liability scope.
+Specific food safety incidents from F&B vending engage the SFA framework and products liability cover; a public liability wording can exclude them unless it is extended to food or drink sold by the insured.
 
 Specific cash collection incidents engage Crime / Specie scope.
 

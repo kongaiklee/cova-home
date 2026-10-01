@@ -14,14 +14,14 @@ word_count: 1450
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-physiotherapy-allied-health-checklist"
-meta_description: "Opening a physiotherapy or allied health practice in Singapore needs HCSA licensing from MOH. What the licence requires, and what registration adds."
+meta_description: "Opening a physiotherapy or allied health practice in Singapore: what AHPC registration requires, where HCSA licensing applies, and the insurance to plan."
 og_title: "Opening a Physiotherapy or Allied Health Practice in Singapore: Full Insurance Checklist"
-og_description: "Opening a physiotherapy or allied health practice in Singapore needs HCSA licensing from MOH. What the licence requires, and what registration adds."
+og_description: "Opening a physiotherapy or allied health practice in Singapore: what AHPC registration requires, where HCSA licensing applies, and the insurance to plan."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore physiotherapy, occupational therapy, podiatry, speech-language therapy, or other allied health practice typically requires: HCSA licensing administered by [MOH](https://www.moh.gov.sg/) for the relevant healthcare service, professional registration with the [Allied Health Professions Council (AHPC)](https://www.healthprofessionals.gov.sg/ahpc) for the practitioner(s), and where applicable specific specialty registration. Insurance baseline: **Professional Indemnity** (allied health-specific cover; defence organisations and commercial insurers offer products), **Public Liability** for clinic, **Property/Fire** for equipment, **WICA** for staff, **Cyber Liability** for patient records, and **D&O** for incorporated practices. Premiums are generally lower than for medical or dental practice. The most distinctive risk profile element: many allied health professionals work across multiple sites (private clinics, hospitals, schools, sports clubs, home visits) requiring **worldwide territorial scope** on PI and PL. Specific specialties (sports physiotherapy, paediatric therapy, post-surgical rehabilitation) have specific underwriting nuances.
+> A Singapore physiotherapy, occupational therapy or speech-language therapy practice needs its therapists registered with the [Allied Health Professions Council (AHPC)](https://www.ahpc.gov.sg/), each with a valid Practising Certificate. MOH does not license allied health services under the Healthcare Services Act at present; a practice that provides a licensable service, such as a radiological service, needs that licence. Podiatry is not one of the five professions AHPC registers. Insurance baseline: **Professional Indemnity** (allied health-specific cover; commercial insurers offer products), **Public Liability** for clinic, **Property/Fire** for equipment, **WICA** for staff, **Cyber Liability** for patient records, and **D&O** for incorporated practices. Many allied health professionals work across multiple sites (private clinics, hospitals, schools, sports clubs, home visits). A liability policy covers events within the territorial limits stated in its schedule and in connection with the business it describes, so work outside Singapore needs a territorial limit that includes those places. Specific specialties (sports physiotherapy, paediatric therapy, post-surgical rehabilitation) have specific underwriting nuances.
 
 ### The Sourced Detail
 
@@ -35,15 +35,15 @@ Per the [Allied Health Professions Act 2011](https://sso.agc.gov.sg/Act/AHPA2011
 - Physiotherapists
 - Occupational therapists
 - Speech-language therapists
-- Podiatrists
 - Diagnostic radiographers
 - Radiation therapists
-- Specific other categories (verify current list at [AHPC](https://www.healthprofessionals.gov.sg/ahpc))
+
+These five are the prescribed professions in the Act's Second Schedule. Podiatrists, dietitians and audiologists are named in its First Schedule but are not registered by AHPC (current list at [AHPC](https://www.ahpc.gov.sg/)).
 
 **Practising Certificate:**
-- Annual renewal
-- Continuing Professional Education compliance
-- Professional indemnity insurance - typically a renewal condition
+- Renewal by default every 2 years (a 1-year certificate may be applied for, subject to AHPC approval)
+- Continuing Professional Education: voluntary at present; a requirement for renewal from 1 January 2027, first applying to certificates expiring on 31 December 2028
+- Professional indemnity insurance: not a condition of the Practising Certificate under the Act, its Regulations or the AHPC renewal process
 
 **Professional code:**
 - Specific code of conduct
@@ -60,24 +60,9 @@ For these non-AHPC practitioners, different licensing and insurance consideratio
 
 #### The HCSA framework for allied health services
 
-Per the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020), allied health services may require specific HCSA licensing:
+Allied health services are potentially within the scope of the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020), but MOH does not license them at present. The practice of professionals such as physiotherapists continues to be regulated through their professional Act, the Allied Health Professions Act 2011.
 
-**Outpatient Allied Health Service:**
-- Specific service licence
-- Premises and operational standards
-- Staff qualification verification
-
-**Specific service categories:**
-- Outpatient physiotherapy
-- Outpatient occupational therapy
-- Outpatient speech-language therapy
-- Specific other categories
-
-**Mobile / outreach considerations:**
-- Specific provisions for non-clinic-based services
-- School-based services
-- Home-based therapy
-- Community-based services
+None of the 16 licensable healthcare services is an allied health service. A practice that provides one of them, such as a radiological service, needs that licence.
 
 #### The Professional Indemnity layer
 
@@ -91,16 +76,13 @@ PI for allied health professionals covers:
 - Communication and consent failures
 - Documentation and records issues
 
-**Defence organisations and commercial insurers:**
+**Commercial insurers:**
 - Various PI products available
-- Some allied health-specific defence organisations (overseas-headquartered typically)
 - Commercial PI products from major insurers
 - Singapore-specific products available
 
 **Limit considerations:**
-- Solo practitioner: S$500k-S$2M typical
-- Multi-practitioner clinic: S$2M-S$5M
-- Specialist practice (sports rehabilitation, paediatric, post-surgical): higher considerations
+- No limit is set by law or by AHPC; the limit is agreed with the insurer
 
 **Worldwide territory:**
 Many allied health professionals work across:
@@ -111,7 +93,7 @@ Many allied health professionals work across:
 - Sports clubs
 - Community settings
 
-PI with worldwide territory (or at least Singapore + ASEAN coverage) accommodates this multi-site practice.
+These sites are mostly in Singapore. A policy covers events within the territorial limits stated in its schedule and in connection with the business it describes, so work at other Singapore sites turns on that description; work outside Singapore needs a territorial limit that includes it.
 
 #### Specific specialty considerations
 
@@ -152,14 +134,13 @@ Largest allied health profession in Singapore.
 
 **Pre-launch:**
 - ACRA business registration
-- HCSA licence application
+- HCSA licence application only if the practice provides a licensable service (for example a radiological service)
 - AHPC verification of practitioners
-- Premises licensing
 - Insurance procured before opening
 
 **Year 1 (solo practitioner or 1-2 therapists, 2-5 staff):**
 - Professional Indemnity (allied health-specific)
-- PL with appropriate limits including worldwide territory
+- PL with appropriate limits, and a territorial limit that includes any work outside Singapore
 - Property/Fire for clinic and equipment
 - WICA for staff
 - Group benefits
@@ -181,7 +162,7 @@ Largest allied health profession in Singapore.
 Allied health professionals commonly work multi-site:
 
 **Hospital / institution sessions:**
-- Often own PI required by institution
+- Whether the institution requires the therapist to hold their own PI
 - Coordination with institution's policies
 - Specific access and operational arrangements
 
@@ -204,7 +185,7 @@ Allied health professionals commonly work multi-site:
 - Coordination with event organisers
 
 **PI structure for multi-site:**
-- Worldwide territory or appropriate regional scope
+- A territorial limit that includes any sites outside Singapore
 - Specific endorsements for institution work
 - Equipment in transit cover
 - Specific exclusions reviewed
@@ -223,26 +204,11 @@ PDPA exposure standard for medical-adjacent practices. Cyber Liability with appr
 
 #### Premium considerations
 
-For typical Singapore allied health practices:
-
-**Solo practitioner (1 therapist, possibly 1-2 staff):**
-- PI: S$1,500-S$5,000
-- PL/Property/Cyber bundle: S$3,000-S$10,000
-- WICA, Group benefits: S$2,000-S$8,000
-- **Total annual insurance budget** typically S$5,000-S$20,000
-
-**Multi-therapist clinic (3-8 therapists, 5-15 staff):**
-- Higher PI limits
-- Comprehensive other lines
-- **Total typically S$15,000-S$50,000**
-
-**Specialised / large practice:**
-- Comprehensive programme
-- **Total scales with practice**
+Premiums are quoted by each insurer for the individual practice and vary with its size, specialties and sites.
 
 #### Operational risk management
 
-Insurers underwrite allied health practice on:
+Practices that bear on an allied health practice's risk profile include:
 
 **Clinical governance:**
 - Documented standard procedures
@@ -307,12 +273,12 @@ Insurers underwrite allied health practice on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Operating without AHPC-required PI.** Practising Certificate condition.
+1. **Operating without PI.** It is not a Practising Certificate condition, so nothing in the AHPC renewal process prompts a practice to hold it.
 2. **Generic PI without allied health-specific wording.** May not cover specialty exposures.
-3. **PI without worldwide territory for multi-site practice.** Off-site work uninsured.
+3. **A business description that does not reach off-site work.** Cover is tied to the business described in the schedule; work outside Singapore also needs a territorial limit that includes it.
 4. **No Cyber Liability for patient data.** PDPA exposure.
 5. **Equipment in transit gaps for mobile practitioners.** Equipment loss/damage.
-6. **No HCSA licence for outpatient allied health service.**
+6. **No HCSA licence for a licensable service the practice provides.** MOH does not license physiotherapy or other allied health services at present, but a service such as a radiological service needs its licence.
 7. **Specialty progression without underwriting update.** Sports physio, paediatric, surgical-rehab considerations.
 8. **No Crime / Money for cash-handling practices.** Some patient payments still cash.
 9. **D&O omitted for incorporated structures.** Governance gap.
@@ -322,11 +288,11 @@ Insurers underwrite allied health practice on:
 
 For allied health professionals opening or running practices:
 
-1. **Maintain PI continuously.** AHPC Practising Certificate condition.
+1. **Maintain PI continuously.** It is not an AHPC Practising Certificate condition, so continuity depends on the practice's own renewals.
 
 2. **Match PI to practice scope.** Solo practice, multi-site, specialty, institution work all warrant specific consideration.
 
-3. **For multi-site practice, ensure worldwide / appropriate regional territory.** Off-site work must be covered.
+3. **For multi-site practice, check the business description and territorial limits.** Off-site work in Singapore turns on how the policy describes the business; work abroad needs a territorial limit that includes it.
 
 4. **Build Cyber Liability proportionate to data sensitivity.** Patient data including assessment outcomes.
 
@@ -338,7 +304,7 @@ For allied health professionals opening or running practices:
 
 8. **Annual review with allied health-aware broker.** Specialist appetite varies.
 
-The allied health insurance build is generally simpler and lower-cost than for medical or dental practice but requires specific consideration for the multi-site, multi-modality nature of much practice. Documentation discipline and appropriate cover together address the practice exposure profile.
+The allied health insurance build requires specific consideration for the multi-site, multi-modality nature of much practice. Documentation discipline and appropriate cover together address the practice exposure profile.
 
 ### Questions to Ask Your Adviser
 

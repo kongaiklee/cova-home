@@ -25,7 +25,7 @@ og_description: "A sole proprietor and the business are one in Singapore law, so
 >
 > A **private limited company (Pte Ltd)** is a separate legal person under the [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), and its members' liability is limited to what they agreed to put in. The corporate veil sits between the business and the owners' personal assets. But the company does not remove personal exposure. It relocates it onto the **directors**, who owe statutory duties under [section 157 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) and can be held personally liable when those duties are breached. That is the exposure directors and officers (D&O) cover is built for.
 >
-> One duty is common to both structures. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), any business that employs people, however it is structured, must carry work-injury insurance. The structure choice itself is a legal and tax decision to take with a qualified professional. This article only maps how each structure reshapes the insurance question.
+> One duty is common to both structures. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), any business that employs people, however it is structured, must carry work-injury insurance, unless its employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers. The structure choice itself is a legal and tax decision to take with a qualified professional. This article only maps how each structure reshapes the insurance question.
 
 ### The Sourced Detail
 
@@ -65,7 +65,7 @@ The trap here is the inverse of the sole proprietor's. The owner who incorporate
 
 One obligation cuts across the whole question. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees, subject to the classes the regulations exclude. The duty follows employment, not entity type. A sole proprietor with one assistant and a Pte Ltd with forty staff are both employers, and both owe this cover. Incorporating does not create the duty, and staying a sole proprietor does not avoid it. The detail of who must be covered is set out in the [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers).
 
-So the WICA line is the fixed point. Whatever structure you choose, if you employ people, this cover is not a decision. It is a legal requirement.
+So the WICA line is the fixed point. Whatever structure you choose, if you employ people outside the excluded classes, this cover is not a decision. It is a legal requirement.
 
 #### Mapping the structure to the cover
 
@@ -76,7 +76,7 @@ So the WICA line is the fixed point. Whatever structure you choose, if you emplo
 | Where the personal exposure sits | On the owner directly | On the directors, via section 157 duties |
 | Cover that carries the most weight | Public liability, professional indemnity, personal protection | D&O, plus company-level property and liability |
 | Common blind spot | Treating liability cover as optional overhead | Assuming the corporate veil insures the directors |
-| Cover owed regardless of structure | WICA, if employing staff | WICA, if employing staff |
+| Cover owed regardless of structure | WICA, if employing staff outside the excluded classes | WICA, if employing staff outside the excluded classes |
 
 The table is a starting map, not a prescription. The covers that actually apply depend on what the business does, who it serves, and what it contracts to, far more than on the two letters after its name. Structure tells you *where* a claim lands. The activity tells you *what kind* of claim it is.
 
@@ -92,7 +92,7 @@ The table is a starting map, not a prescription. The covers that actually apply 
 
 5. **Incorporating and skipping D&O.** The company gains limited liability while the founder-director gains a new, uninsured personal exposure that D&O is built to answer.
 
-6. **Assuming WICA depends on structure.** The section 24 duty follows employment. Both a sole proprietor with staff and a Pte Ltd with staff owe it.
+6. **Assuming WICA depends on structure.** The section 24 duty follows employment, subject to the excluded classes. Both a sole proprietor with staff and a Pte Ltd with staff owe it on the same terms.
 
 7. **Letting the structure choice drive the insurance choice and not the reverse.** The activity and the claims it can generate matter more than the entity type; structure only tells you whose assets are exposed.
 
@@ -104,7 +104,7 @@ If you run a **private limited company**, do not let the corporate veil lull you
 
 If you are **deciding between the two structures**, take that decision with a qualified professional. The choice turns on tax, liability, financing, succession, and how you intend to grow, and it is a legal and accounting question before it is an insurance one. What this article gives you is the insurance consequence of each path, so you can fold it into the conversation rather than discover it after the fact.
 
-Across all of it, the WICA line stays fixed: employ people in any structure, and you carry work-injury cover.
+Across all of it, the WICA line stays fixed: employ people in any structure, and you carry work-injury cover, subject to the excluded classes.
 
 Covarage helps with the part that quietly slips: keeping the liability, D&O, and WICA policies organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover for the structure you actually run.
 

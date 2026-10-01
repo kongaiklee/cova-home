@@ -36,9 +36,7 @@ The headline sum insured is the figure that draws the attention at quote stage. 
 - **Money cover** - the sub-limit for cash on premises, cash in transit, cash in safe.
 - **Documents and records** - a sub-limit for reinstatement of business records.
 - **Theft of stock** - sometimes capped within a fire-and-perils cover.
-- **Inflation provision** - a small uplift to the sum insured to address mid-year value increases.
 - **Specific peril sub-limits** in property cover (water damage, accidental damage to specific assets).
-- **Defence costs** sub-limit in liability cover, separate from indemnity.
 - **Crisis management** sub-limit in cyber and crime covers.
 
 A sub-limit operates as the **maximum** for that specific loss type within the broader cover. If the sum insured is S$5 million but the money sub-limit is S$50,000, a money loss is capped at S$50,000 regardless of the broader sum insured.
@@ -83,7 +81,7 @@ A ransomware incident triggers an extortion payment of S$300,000, forensic costs
 - Extortion: S$300,000 (within sub-limit) less S$50,000 deductible = S$250,000.
 - Forensics: S$200,000 (no sub-limit) less S$50,000 deductible (per-claim, deductible already applied) = S$200,000 if treated as same claim; S$150,000 if treated as separate claim with own deductible.
 - Notification: same analysis.
-- Third-party claims: S$1,500,000 within sum insured.
+- Third-party claims: S$1,500,000. If all four items are treated as one claim, their total of S$2,100,000 is more than the S$2 million per-claim sum insured, so the insurer's payment for that claim cannot exceed S$2 million.
 
 Total insurer payout depends on the "one claim" definition in the wording. If treated as one claim, the deductible applies once (S$50,000); if treated as multiple claims, the deductible applies multiple times.
 
@@ -93,11 +91,11 @@ The running aggregate is reduced by the insurer's payments.
 
 Three patterns where sub-limits create unexpected cover gaps.
 
-**Documents and records.** The sub-limit for reinstatement of damaged business records is often very small (S$10,000 to S$50,000) in standard property wordings. A fire that destroys the SME's filing room may face a reinstatement cost in the hundreds of thousands.
+**Documents and records.** The sub-limit for reinstatement of damaged business records can be small in property wordings. A fire that destroys the SME's filing room may face a reinstatement cost in the hundreds of thousands.
 
 **Specific perils within "all risks" property.** An "all risks" wording may carry sub-limits on specific perils (theft, water damage, accidental breakage) that meaningfully restrict the cover.
 
-**Defence costs.** The defence-costs sub-limit in a liability policy is separate from the indemnity. A serious claim may run defence costs that approach the indemnity limit; the sub-limit may exhaust before the claim is resolved.
+**Defence costs.** Liability wordings treat defence costs differently: some pay them in addition to the limit of liability, and others count them in the loss that erodes the limit. Where defence costs erode the limit, a serious claim can use up cover before it is resolved.
 
 #### Where aggregates hide cover gaps
 
@@ -105,7 +103,7 @@ Three patterns where aggregates create unexpected cover gaps.
 
 **Multiple PI claims in one year.** A PI policy with a S$2 million per-claim limit and a S$2 million aggregate effectively only covers one full-limit claim per year. A second claim in the same year reduces the available cover.
 
-**Cyber aggregates.** Cyber policies have moved toward smaller aggregates relative to per-event limits, reflecting insurer concern about systemic events. The aggregate may be the binding constraint, not the per-event limit.
+**Cyber aggregates.** The aggregate may be the binding constraint, not the per-event limit.
 
 **Crime / fidelity aggregates.** Multiple discovery events in one year (different schemes by different employees) may aggregate against the policy's annual limit.
 
@@ -131,9 +129,9 @@ Five questions to put to the licensed adviser at every renewal:
 
 #### How the structures interact with subrogation
 
-Where the insurer pays a claim, the insurer may then exercise subrogation rights against a responsible third party - see [subrogation: when your insurer recovers from a third party](/procedural-howto/subrogation-insurer-recovery-singapore). The subrogation recovery is for the insurer's account, not the SME's, unless the policy provides otherwise.
+Where the insurer pays a claim, the insurer may then exercise subrogation rights against a responsible third party - see [subrogation: when your insurer recovers from a third party](/procedural-howto/subrogation-insurer-recovery-singapore). Under the English Napier principles, unless the policy provides otherwise, a recovery goes first to the SME's uninsured loss other than the deductible, then to the insurer up to what it paid, and last towards the deductible.
 
-If the deductible was not waived, the SME's deductible payment may also be recoverable through subrogation; the policy wording determines whether the SME or the insurer is entitled to the deductible portion of the recovery.
+The policy wording can vary that order, including where the deductible falls in it.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -143,7 +141,7 @@ If the deductible was not waived, the SME's deductible payment may also be recov
 
 3. **Each-and-every deductible across a high-frequency line** without an aggregate cap.
 
-4. **Defence costs sub-limit missed** at the liability-policy review.
+4. **Defence costs treatment missed** at the liability-policy review.
 
 5. **Money sub-limit set at default** without checking actual cash exposure.
 

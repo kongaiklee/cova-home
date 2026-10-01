@@ -21,7 +21,7 @@ og_description: "From 1 September 2025 Singapore's S Pass Tier 1 levy rose from 
 
 > **The Answer in 60 Seconds**
 >
-> Effective 1 September 2025, the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) raised the S Pass Tier 1 monthly levy from SGD 550 to **SGD 650** - harmonising Tier 1 with the existing Tier 2 rate so the levy is now a flat SGD 650 across all sectors and tiers for new applications. The qualifying salary threshold also rose: minimum SGD 3,300 (all sectors except financial services) and SGD 3,800 (financial services), with progressive uplift to SGD 4,800 / SGD 5,650 for older workers. Renewal applications follow from 1 September 2026. **SME insurance impact:** the harmonisation removes the Tier 1 / Tier 2 levy distinction that previously incentivised hiring within Dependency Ratio Ceiling - pushing SMEs to recalibrate their foreign worker programme economics, which in turn affects [Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance), [Work Injury Compensation Insurance (WICA)](https://sso.agc.gov.sg/Act/WICA2019), and MOM Security Bond placements that scale with workforce size. For an SME with 20 S Pass holders previously at Tier 1, the SGD 100/month/worker increase is SGD 24,000 in additional annual levy - material when combined with FWMI Stage 2 (SGD 60,000 cover, age-tiered premiums) and WICA renewal costs. SMEs that respond by reducing S Pass headcount and upskilling local hires shift their risk profile (potentially lower W-rated premiums under WICA) but must accept Workforce Singapore reskilling lead times. Quantitative anchors: SGD 100/month per worker uplift; harmonised flat levy SGD 650/month; quota limits unchanged at 10% Tier 1 / 10-15% Tier 2; pro-rata daily levy SGD 21.37 for S Pass holders from September 2025; salary thresholds rise progressively with age starting from age 23.
+> Effective 1 September 2025, the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) raised the S Pass Tier 1 monthly levy from SGD 550 to **SGD 650** - harmonising Tier 1 with the existing Tier 2 rate so the levy is now a flat SGD 650 across all sectors and tiers for all S Pass holders. The qualifying salary threshold also rose for new applications: minimum SGD 3,300 (all sectors except financial services) and SGD 3,800 (financial services), with progressive uplift to SGD 4,800 / SGD 5,650 for older workers. For renewals, the new qualifying salary applies to passes expiring from 1 September 2026. **SME insurance impact:** the harmonisation removes the Tier 1 / Tier 2 levy distinction that previously charged a lower levy for S Pass holders up to 10% of a company's total workforce - pushing SMEs to recalibrate their foreign worker programme economics, which in turn affects [Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance), Work Injury Compensation (WIC) insurance under the [Work Injury Compensation Act 2019 (WICA)](https://sso.agc.gov.sg/Act/WICA2019), and MOM Security Bond placements that scale with workforce size. For an SME with 20 S Pass holders previously at Tier 1, the SGD 100/month/worker increase is SGD 24,000 in additional annual levy - material when combined with FWMI (SGD 60,000 minimum annual cover since Stage 1 on 1 July 2023; premiums differentiated by two age bands since Stage 2 on 1 July 2025) and WICA renewal costs. SMEs that respond by reducing S Pass headcount and upskilling local hires shift their risk profile but must accept reskilling lead times (Workforce Singapore's role passed to the Skills and Workforce Development Agency, SWDA, on 1 July 2026). Quantitative anchors: SGD 100/month per worker uplift; harmonised flat levy SGD 650/month; S Pass quota unchanged at 10% of total workforce in services and 15% in other sectors; pro-rata daily levy SGD 21.37 for S Pass holders from September 2025; salary thresholds rise progressively with age starting from age 23.
 
 ### The Sourced Detail
 
@@ -31,23 +31,23 @@ The S Pass levy harmonisation is the third and final step of a planned three-ste
 
 **Primary statute.** [Employment of Foreign Manpower Act 1990](https://sso.agc.gov.sg/Act/EFMA1990) - establishes the S Pass framework and levy authority.
 
-**Specific regulations.** Employment of Foreign Manpower (Work Passes) Regulations 2012 - sets out work pass conditions including the levy schedule.
+**Specific regulations.** Employment of Foreign Manpower (Work Passes) Regulations 2012 set out work pass conditions and fees; the levy itself is imposed under section 11 of the Act.
 
 **MOM administration.**
-- [MOM Foreign Worker Levy page](https://www.mom.gov.sg/passes-and-permits/s-pass/sector-specific-rules) - primary published rates
+- [MOM S Pass quota and levy requirements page](https://www.mom.gov.sg/passes-and-permits/s-pass/quota-and-levy/levy-and-quota-requirements) - primary published rates
 - [MOM Work Permit Online (WPOL)](https://www.mom.gov.sg/passes-and-permits) - pass administration
 - MOM circulars and Tripartite consultations 2022-2025
 
 **Insurance framework intersection.**
-- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - mandatory designated insurer cover applies to S Pass holders
+- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - mandatory designated insurer cover applies to S Pass holders unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, leaving out overtime, bonuses, annual wage supplement, productivity incentive payments and allowances, exceeds S$2,600 a month, and the staff of banks, retailers and hotel-keepers
 - FWMI Stage 2 effective 1 July 2025 - cover applies to S Pass and Work Permit holders alike
 - MOM Security Bond - applies to non-Malaysian Work Permit holders only (S Pass holders excluded from this specific bond)
 
 #### What changed on 1 September 2025
 
 **Levy structure (pre-1 September 2025).**
-- Tier 1: SGD 550/month (companies hiring within Dependency Ratio Ceiling)
-- Tier 2: SGD 650/month (companies exceeding DRC up to 10-15%)
+- Tier 1: SGD 550/month (S Pass holders up to 10% of the company's total workforce)
+- Tier 2: SGD 650/month (S Pass holders above 10% of total workforce, up to the S Pass quota)
 
 **Levy structure (1 September 2025+).**
 - Tier 1: SGD 650/month
@@ -60,9 +60,9 @@ The S Pass levy harmonisation is the third and final step of a planned three-ste
 - Progressive uplift by age: an experienced S Pass holder in their mid-40s requires SGD 4,800 (or SGD 5,650 in financial services)
 - Specific age progression starts from age 23
 
-**Quota / Dependency Ratio Ceiling (DRC) - unchanged.**
+**S Pass quota (unchanged).**
 - Services sector: max 10% of total workforce
-- Other sectors: 10-15% per sector-specific calibration
+- Construction, manufacturing, marine shipyard and process sectors: max 15% of total workforce
 
 #### What stayed unchanged
 
@@ -76,9 +76,9 @@ The S Pass levy harmonisation is the third and final step of a planned three-ste
 
 ##### WICA premium recalibration
 
-WICA insurance premium is calculated per worker per year, with rate cards differentiated by:
+Insurers set WIC insurance premiums on their own rating factors, which can include:
 - Worker classification (manual / non-manual)
-- Sector W-rating (lower for office work, higher for construction / marine / manufacturing)
+- The kind of work done (office work, construction, marine, manufacturing)
 - Specific employer claims history
 
 The levy harmonisation does not change WICA rates directly - but it changes the **mix of workers an SME is incentivised to hire**. SMEs that previously preferred S Pass holders at Tier 1 (cheaper levy + higher skill profile) now face the same SGD 650/month levy regardless of tier. Some will:
@@ -98,13 +98,11 @@ The S Pass Tier 1 levy increase does not affect MOM Security Bond placements bec
 
 ##### Levy debt and Work Permit cancellation cascade
 
-Per [MOM enforcement framework](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/employer-obligations), failure to pay the harmonised levy on time triggers:
-- Late payment penalty: SGD 20 or 2% per month, whichever higher (capped at 30% of outstanding levy)
-- Cancellation of existing Work Permits and S Passes
+Per [MOM's page on paying the S Pass levy](https://www.mom.gov.sg/passes-and-permits/s-pass/quota-and-levy/paying-the-s-pass-levy), failure to pay the full levy on time can lead to:
+- Late payment penalty: 2% a month of the unpaid levy, counted by the days overdue; where that comes to less than SGD 20, the penalty is SGD 20 or 30% of the unpaid levy, whichever is less
+- Revocation of existing Work Permits and S Passes the following month, if levy payments are missed for two consecutive months
 - Denial of new pass applications
 - Possible legal action to recover unpaid levy
-
-Pass cancellation in turn can trigger **gap exposure** under FWMI / WICA cover if not coordinated. Specifically, mid-cycle cancellation can leave the SME without insured medical cover for a worker who is still physically in Singapore awaiting repatriation - a known gap that requires broker coordination.
 
 #### Insurance angles SMEs should review at next renewal
 
@@ -112,7 +110,7 @@ Pass cancellation in turn can trigger **gap exposure** under FWMI / WICA cover i
 
 Brief broker on:
 - Updated workforce headcount mix (S Pass / Work Permit / local)
-- Specific sector W-rating implications
+- Specific nature-of-business and occupation implications
 - Specific claims history continuity
 - Specific Common Law extension limits aligned with WICA 2019 update
 
@@ -133,22 +131,20 @@ For SMEs with substantial foreign workforce changes:
 ##### 4. Specific budgeting
 
 Build the levy uplift into 24-month financial plans:
-- 1 September 2025 - 31 August 2026: new applications affected
-- 1 September 2026+: renewal applications affected
-- Specific cash flow timing of WPOL deductions
+- From 1 September 2025: the SGD 650 levy applies to all S Pass holders
+- From 1 September 2026: the higher qualifying salary applies to renewals of passes expiring from that date
+- Specific cash flow timing of levy GIRO deductions (on the 17th of the following month)
 
 #### Sector-specific patterns
 
 **Services sector (F&B, retail, cleaning).**
-- Highest S Pass holder concentration relative to local workforce
-- Specific 10% DRC (lowest among sectors)
-- Specific levy uplift impact: highest per-head ratio
+- Specific 10% S Pass quota (lowest among sectors; the overall services DRC is 35%)
+- Specific levy uplift impact: SGD 100 a month for each S Pass holder previously at Tier 1
 - Specific recommended response: aggressive local upskilling
 
 **Manufacturing.**
 - Specific S Pass sub-DRC 15% of total workforce; overall sector DRC 60%
-- Specific S Pass holder concentration moderate
-- Specific levy uplift impact: moderate
+- Specific levy uplift impact: SGD 100 a month for each S Pass holder previously at Tier 1
 - Specific recommended response: incremental rebalancing
 
 **Construction.**
@@ -160,11 +156,11 @@ Build the levy uplift into 24-month financial plans:
 **Financial services.**
 - Specific elevated qualifying salary (SGD 3,800 / SGD 5,650 for older workers)
 - Specific S Pass holder concentration variable
-- Specific levy uplift impact: moderate but salary impact larger
+- Specific levy uplift impact: SGD 100 a month for each S Pass holder previously at Tier 1, with a higher qualifying salary than other sectors
 - Specific recommended response: full programme re-evaluation
 
 **Marine and shipyard.**
-- Specific 77.8% DRC
+- Specific 75% DRC (cut from 77.8% on 1 January 2026)
 - Specific Work Permit holder dominant
 - Specific S Pass minority
 - Specific levy uplift impact: limited
@@ -173,9 +169,9 @@ Build the levy uplift into 24-month financial plans:
 
 | Date | Change |
 |---|---|
-| 1 September 2025 | Tier 1 levy SGD 550 -> SGD 650 (new applications) |
+| 1 September 2025 | Tier 1 levy SGD 550 -> SGD 650 (all S Pass holders) |
 | 1 September 2025 | Qualifying salary SGD 3,150 -> SGD 3,300 (most sectors); SGD 3,650 -> SGD 3,800 (financial services) - new applications |
-| 1 September 2026 | Renewal applications subject to new levy and salary thresholds |
+| 1 September 2026 | Renewals of passes expiring from this date subject to the new qualifying salary |
 
 ### Common Mistakes / What Goes Wrong
 
@@ -191,9 +187,9 @@ Build the levy uplift into 24-month financial plans:
 
 6. **Specific Work Permit substitution unmodelled.** Programme economics not recalculated when shifting to lower-tier passes.
 
-7. **Specific workforce gap during transition.** Mid-cycle pass changes leave coverage gaps in FWMI / WICA.
+7. **Specific workforce change during transition.** Mid-cycle pass changes not reflected in FWMI / WICA cover.
 
-8. **Specific local upskilling lead time.** Workforce Singapore reskilling programmes have 6-12 month lead times, not weeks.
+8. **Specific local upskilling lead time.** Reskilling takes time to plan; the programmes Workforce Singapore ran passed to the Skills and Workforce Development Agency (SWDA) on 1 July 2026.
 
 9. **Specific dependency ratio compliance.** Quota breaches trigger cascading enforcement, not just levy fines.
 

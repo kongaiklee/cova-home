@@ -21,7 +21,7 @@ og_description: "Music schools and studios usually sit outside preschool licensi
 
 > **The Answer in 60 Seconds**
 >
-> Music schools, studios, and instrument-instruction operators in Singapore generally fall outside ECDA preschool licensing scope (which applies to children below 7) but engage child-instruction and minor-supervision exposures. Premises operate under [BCA building code](https://www1.bca.gov.sg/) and [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) requirements. Recital and concert events may require [Public Entertainments Act](https://sso.agc.gov.sg/Act/PEA1958) licensing. Insurance commercial spine: (a) **Public Liability** for premises and student injury, (b) **Professional Indemnity** for instruction quality / student-progress claims, (c) **Property/Fire** including instruments and recording equipment (which can be high-value), (d) **Specific cover for instruments** including hire / loan instruments, (e) **WICA / Group Medical** for staff including instructors, (f) **Cyber/PDPA cover** for student records, (g) **Event cover** for recitals and performances. The edge-case features that frequently get missed: **instrument value concentration** (specific specialty instruments - pianos, recording equipment, string instruments - carry significant replacement values), **student instrument hire/loan exposure** (school-owned instruments in student custody), **recital and performance event exposure**, **minor-supervision liability** during lessons, and **independent-contractor instructor liability allocation**. Standard SME PL is typically inadequate for specialty instrument exposure; bespoke endorsement is needed.
+> Music schools, studios, and instrument-instruction operators in Singapore generally fall outside ECDA preschool licensing scope (which applies to children below 7) but engage child-instruction and minor-supervision exposures. Premises operate under [BCA building code](https://www1.bca.gov.sg/) and [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) requirements. Recital and concert events may require [Public Entertainments Act](https://sso.agc.gov.sg/Act/PEA1958) licensing. Insurance commercial spine: (a) **Public Liability** for premises and student injury, (b) **Professional Indemnity** for instruction quality / student-progress claims, (c) **Property/Fire** including instruments and recording equipment (which can be high-value), (d) **Specific cover for instruments** including hire / loan instruments, (e) **WICA** insurance for the employees the law requires it for (which can include instructors who are employees) and voluntary **Group Medical**, (f) **Cyber/PDPA cover** for student records, (g) **Event cover** for recitals and performances. The edge-case features that frequently get missed: **instrument value concentration** (specific specialty instruments - pianos, recording equipment, string instruments - carry significant replacement values), **student instrument hire/loan exposure** (school-owned instruments in student custody), **recital and performance event exposure**, **minor-supervision liability** during lessons, and **independent-contractor instructor liability allocation**. Instruments are insured under property cover, not public liability, which excludes property belonging to the insured; specialty instruments may need a named schedule with agreed values.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ Music education combines premises liability for minor students with high-value i
 
 #### Regulatory framework
 
-**Premises licensing.** [BCA building code](https://www1.bca.gov.sg/) for change-of-use approvals. [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for occupant load and fire safety. Music studios with multiple practice rooms have specific acoustic-isolation considerations that affect fire compartmentation and occupant load.
+**Premises licensing.** A change of use may need planning permission from the [Urban Redevelopment Authority](https://www.ura.gov.sg/guidelines/property-and-business-owners/business-owners/change-use-of-property-for-business/assessment-criteria/), depending on the use and the type of property. [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for occupant load and fire safety.
 
 **Childcare regulatory framework.** [ECDA (Early Childhood Development Agency)](https://www.ecda.gov.sg/) regulates childcare for children below 7 and pre-school. Music schools delivering instruction to children where parents are not present may engage ECDA framework if the operation has childcare-like characteristics; generally drop-in instruction does not engage ECDA. operational facts matter; if uncertain, regulatory clarification is worthwhile.
 
@@ -54,7 +54,7 @@ Music education combines premises liability for minor students with high-value i
 - Examination preparation failure where examination payment was made (Trinity, ABRSM, etc.)
 - Audition / competition preparation failure where significant fees were paid
 
-PI is less common in music schools than in regulated professions but worth considering for commercial operations with significant fees.
+PI is worth considering for commercial operations with significant fees.
 
 **Property / Fire** - covers:
 
@@ -74,7 +74,7 @@ PI is less common in music schools than in regulated professions but worth consi
 
 Standard Property cover may exclude or limit while-on-loan scenarios; specific extension addresses this.
 
-**WICA** - for employees: instructors, administrators, support staff.
+**WICA**: work injury compensation insurance is required for employees doing manual work and for employees not doing manual work whose salary (excluding overtime, bonus, annual wage supplement, productivity incentive payments and allowances) is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude. The school must still compensate any injured employee under WICA, insured or not, so it can choose to insure instructors, administrators and support staff outside the duty too.
 
 **Group Medical / Group PA** - voluntary employer-paid cover.
 
@@ -141,7 +141,7 @@ Many music schools operate hybrid models:
 For independent contractor instructors:
 - Instructor is independently liable for instruction quality and student-injury claims arising from instruction
 - School is still liable for premises (slip / fall in practice room, premises hazards)
-- School may be vicariously liable on apparent-authority grounds if school holds out instructor as school staff
+- School may face a claim that it is responsible for the instructor if it holds the instructor out as school staff
 
 **Insurance allocation.**
 - School PI / PL covers school-staff conduct and premises
@@ -194,7 +194,7 @@ For a typical Singapore music school - single location, 5-15 instructors (mix of
 
 5. **PI consideration if commercial fees are material.**
 
-6. **WICA for all employed staff.**
+6. **WICA insurance where the law requires it** (employees doing manual work, and employees not doing manual work whose salary, excluding overtime, bonus, annual wage supplement, productivity incentive payments and allowances, is S$2,600 a month or less, unless in a class the WIC (Insurance) Regulations exclude); the school must still compensate any injured employee under WICA, insured or not.
 
 7. **Independent contractor instructor PI evidence.** Required at engagement.
 
@@ -204,7 +204,7 @@ For a typical Singapore music school - single location, 5-15 instructors (mix of
 
 10. **Copyright licensing alignment** with [COMPASS](https://www.compass.org.sg/) where required.
 
-The cost of properly structured music school insurance for a typical operation is typically SGD 5,000-20,000 annually depending on instrument concentration, student count, and operational scope. Schools with concert-grand pianos, antique instruments, or recording studios may sit higher. The cost of a single material claim - major instrument loss, severe child injury, recital incident - typically exceeds many years of premium.
+The premium depends on instrument concentration, student count and operational scope; concert-grand pianos, antique instruments and recording studios add insured value.
 
 ### Questions to Ask Your Adviser
 

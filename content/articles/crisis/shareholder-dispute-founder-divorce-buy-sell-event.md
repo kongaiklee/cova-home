@@ -21,13 +21,13 @@ og_description: "A shareholder dispute or a founder's divorce can reach the shar
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME has a shareholder dispute (founder versus founder, founder versus investor, family-business succession) or a founder is going through divorce affecting shareholding. Operations, governance, and insurance posture are affected. [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 216 - Personal Remedies in Cases of Oppression or Injustice - is the principal statutory remedy: relief includes share-purchase orders, regulation of company affairs, or winding up. Section 216A provides the statutory derivative action by shareholder. Sections 76 to 76K govern share buyback. The [Women's Charter 1961](https://sso.agc.gov.sg/Act/WC1961) section 112 governs division of matrimonial assets including business shareholdings; Family Justice Courts jurisdiction. Singapore arbitration and mediation framework: [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg), [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg), [Singapore International Mediation Centre (SIMC)](https://www.simc.com.sg) provide dispute resolution routes that may be contractually mandated under the shareholders' agreement. Insurance triggers: D&O Side A for defending oppression action; Keyman if dispute leads to founder departure; buy-sell life cover triggered by departure under the shareholders' agreement. Day-One workflow: preserve board and shareholder communication records; engage corporate counsel to review the shareholders' agreement dispute-resolution clause; maintain operational continuity (banking and statutory filings cannot be held hostage); consider mediation invitation; D&O notice of circumstances if oppression litigation imminent. The leading authority on the oppression test: *Over & Over Ltd v Bonvests Holdings Ltd* [2010] 2 SLR 776 (Court of Appeal), available on [elitigation.sg](https://www.elitigation.sg).
+> The Singapore SME has a shareholder dispute (founder versus founder, founder versus investor, family-business succession) or a founder is going through divorce affecting shareholding. Operations, governance, and insurance posture are affected. [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 216 - Personal Remedies in Cases of Oppression or Injustice - is the principal statutory remedy: relief includes share-purchase orders, regulation of company affairs, or winding up. Section 216A provides the statutory derivative action by shareholder. Sections 76 to 76K govern share buyback. The [Women's Charter 1961](https://sso.agc.gov.sg/Act/WC1961) section 112 governs division of matrimonial assets including business shareholdings; Family Justice Courts jurisdiction. Singapore arbitration and mediation framework: [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg), [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg), [Singapore International Mediation Centre (SIMC)](https://www.simc.com.sg) provide dispute resolution routes that may be contractually mandated under the shareholders' agreement. Insurance to review: D&O cover for defending an oppression action, subject to its exclusions (a published Singapore D&O wording excludes claims by a shareholder that held 25% or more of the voting shares at the time of the wrongful act); Keyman and buy-sell life cover, which pay on the insured events the policies name, such as death or TPD, not on a founder's departure. Day-One workflow: preserve board and shareholder communication records; engage corporate counsel to review the shareholders' agreement dispute-resolution clause; maintain operational continuity (banking and statutory filings cannot be held hostage); consider mediation invitation; D&O notice of circumstances if oppression litigation imminent. The leading authority on the oppression test: *Over & Over Ltd v Bonvests Holdings Ltd* [2010] 2 SLR 776 (Court of Appeal), available on [elitigation.sg](https://www.elitigation.sg).
 
 ### The Sourced Detail
 
-Shareholder disputes and founder divorces are among the most relationship-intensive crisis categories for Singapore SMEs. The operational impact can be substantial (governance freeze, customer uncertainty, employee morale), but the structural framework is more controlled than other crisis categories: Companies Act section 216 oppression and section 216A derivative action provide statutory remedies; shareholders' agreements typically include dispute-resolution clauses; Family Justice Courts handle matrimonial asset division through established procedure.
+Shareholder disputes and founder divorces are among the most relationship-intensive crisis categories for Singapore SMEs. The operational impact can be substantial (governance freeze, customer uncertainty, employee morale), but the structural framework is more controlled than other crisis categories: Companies Act section 216 oppression and section 216A derivative action provide statutory remedies; a shareholders' agreement may include dispute-resolution clauses; Family Justice Courts handle matrimonial asset division through established procedure.
 
-The structural rule: contractual dispute-resolution mechanics (typically mediation or arbitration under the SHA) usually govern; statutory routes (section 216, section 216A) are available where no SHA mechanism exists or where the SHA mechanism has been exhausted; operational continuity must be maintained regardless of the dispute.
+The structural rule: contractual dispute-resolution mechanics the SHA provides, such as mediation or arbitration, apply to the disputes they cover; statutory routes (section 216, section 216A) are available where no SHA mechanism exists or where the SHA mechanism has been exhausted; operational continuity must be maintained regardless of the dispute.
 
 #### What just happened
 
@@ -49,22 +49,22 @@ Three principal trigger patterns:
 
 Relief available includes:
 - An order regulating the conduct of the affairs of the company.
-- An order requiring purchase of the shares of any member by other members or by the company itself (the most common remedy in SME oppression cases).
-- An order requiring the company to amend its memorandum or articles.
+- An order requiring purchase of the shares of any member by other members or by the company itself (one of the most common remedies where oppression is established, per the Court of Appeal in *Liew Kit Fah v Koh Keng Chew* [2019] SGCA 78).
+- An order altering or adding to the company's constitution.
 - An order winding up the company.
 - Any other order that the court considers appropriate.
 
-**Section 216A - Statutory Derivative Action.** Permits a complainant (including a shareholder) with leave of court to bring an action in the name of the company against directors or third parties. Used where the company itself is wronged but the controlling directors will not pursue the action.
+**Section 216A - Statutory Derivative Action.** Permits a complainant (including a shareholder) with the Court's permission to bring an action or arbitration in the name of the company against directors or third parties. Used where the company itself is wronged but the controlling directors will not pursue the action.
 
 **Section 216B** - Court approval required to discontinue derivative action.
 
 **Sections 76 to 76K - Share Buyback.** Companies Act framework for company purchase of its own shares. Subject to solvency tests, shareholder authorisation, and procedural requirements. The principal mechanism for company-purchase buy-sell arrangements under shareholders' agreements.
 
-**Women's Charter 1961 section 112.** Available on [SSO](https://sso.agc.gov.sg/Act/WC1961). Governs division of matrimonial assets on divorce. Family Justice Courts apply a structured analysis to identify matrimonial assets, ascribe values, and order division. Business shareholdings acquired during marriage, or whose value increased during marriage, can be matrimonial assets subject to division.
+**Women's Charter 1961 section 112.** Available on [SSO](https://sso.agc.gov.sg/Act/WC1961). Governs division of matrimonial assets on divorce. Family Justice Courts apply a structured analysis to identify matrimonial assets, ascribe values, and order division. Business shareholdings acquired during the marriage, or acquired before it and substantially improved during the marriage by the other spouse or by both spouses, can be matrimonial assets subject to division; shares one spouse received by gift or inheritance are excluded unless so improved.
 
 **Family Justice Act 2014.** Available on [SSO](https://sso.agc.gov.sg/Act/FJA2014). Establishes the Family Justice Courts and jurisdiction.
 
-**[Arbitration Act 2001](https://sso.agc.gov.sg/Act/AA2001)** and **[International Arbitration Act 1994](https://sso.agc.gov.sg/Act/IAA1994)**. Both available on SSO. Govern arbitration agreements. SIAC-administered arbitration is the typical Singapore SME route for shareholders' agreement disputes.
+**[Arbitration Act 2001](https://sso.agc.gov.sg/Act/AA2001)** and **[International Arbitration Act 1994](https://sso.agc.gov.sg/Act/IAA1994)**. Both available on SSO. Govern arbitration agreements. A shareholders' agreement may provide for arbitration administered by SIAC.
 
 **[Mediation Act 2017](https://sso.agc.gov.sg/Act/MA2017)** and **[Singapore Convention on Mediation Act 2020](https://sso.agc.gov.sg/Act/SCMA2020)**. Both available on SSO. Govern mediation agreements and enforcement of mediated settlements. SMC and SIMC provide institutional mediation services.
 
@@ -81,32 +81,32 @@ Subsequent authorities have applied the framework in family-business and joint-v
 For an SME considering section 216 relief, the framework analysis typically covers:
 - Whether the affairs of the company are conducted in a manner oppressive or in disregard of the petitioner's interests.
 - Whether the conduct involves commercial unfairness, not merely breach of legal rights.
-- The remedy: most commonly a share-purchase order at a price determined by the court.
+- The remedy: often a share-purchase order at a price determined by the court, which the Court of Appeal has called one of the most common remedies where oppression is established.
 
 #### Shareholders' agreement dispute-resolution architecture
 
-Most Singapore SME shareholders' agreements include dispute-resolution clauses governing escalation:
+A shareholders' agreement may include dispute-resolution clauses governing escalation, for example:
 
 **Tier 1 - Direct discussion.** Mandatory good-faith discussion between the disputing parties.
 
-**Tier 2 - Mediation.** SMC or SIMC mediation typically prescribed.
+**Tier 2 - Mediation.** The clause may name SMC or SIMC.
 
-**Tier 3 - Arbitration or court.** SIAC arbitration is the typical choice for sophisticated SHAs; Singapore High Court for simpler arrangements. Section 216 oppression actions are court-only and cannot be referred to arbitration (the court has exclusive jurisdiction over the section 216 remedy).
+**Tier 3 - Arbitration or court.** The clause may choose SIAC arbitration or the Singapore courts. A section 216 oppression claim can be referred to arbitration: the Court of Appeal held in *Tomolugen Holdings Ltd v Silica Investors Ltd* [2015] SGCA 57 that such a dispute is arbitrable, with the parties free to apply to the court for any relief the tribunal cannot grant, such as a winding-up order.
 
-**Buy-sell mechanics.** Most SHAs include buy-sell provisions covering departure events: voluntary resignation, retirement, death, incapacity, divorce (sometimes), termination for cause. Common architectures:
+**Buy-sell mechanics.** An SHA may include buy-sell provisions covering departure events: voluntary resignation, retirement, death, incapacity, divorce (sometimes), termination for cause. Common architectures:
 - Right of first refusal.
 - Tag-along and drag-along rights.
 - Shotgun clause (one party offers to buy or sell at a stated price; the other party chooses).
 - Texas shootout (both parties name a price; the higher offer prevails).
 - Pre-emption on third-party offers.
 
-**Valuation mechanism.** SHAs typically specify a valuation methodology: book value, last-funding-round value, multiple of revenue or EBITDA, or independent valuation by an agreed valuer. Disputes commonly arise over the valuation; the SHA may provide a tie-breaker (e.g., appointment of a third independent valuer).
+**Valuation mechanism.** An SHA may specify a valuation methodology: book value, last-funding-round value, multiple of revenue or EBITDA, or independent valuation by an agreed valuer. Disputes can arise over the valuation; the SHA may provide a tie-breaker (e.g., appointment of a third independent valuer).
 
 #### The divorce framework
 
 For founder divorces affecting shareholding, the Family Justice Courts apply Women's Charter section 112 to identify matrimonial assets and order division. Key principles:
 
-**Identification of matrimonial assets.** Assets acquired during marriage, gifts to the marriage, and (in some cases) assets owned before marriage but used as a matrimonial home or substantially improved during marriage.
+**Identification of matrimonial assets.** Assets acquired during the marriage by either or both spouses, and assets owned before the marriage that the spouses or their children ordinarily used, while the spouses lived together, for shelter, transport, household, education, recreational, social or aesthetic purposes, or that the other spouse or both spouses substantially improved during the marriage. An asset one spouse received by gift or inheritance is excluded unless it is a matrimonial home or the other spouse or both substantially improved it during the marriage.
 
 **Valuation.** The Court applies an "operative date" for valuation (typically date of Interim Judgment or date of hearing). Business shareholdings are valued at the operative date.
 
@@ -121,11 +121,11 @@ For SMEs with founder-CEO shareholdings facing divorce, the structurally importa
 
 #### Insurance triggers
 
-**D&O Side A.** Defends directors named in oppression action under section 216 or derivative action under section 216A. Defence costs covered subject to conduct exclusions. The Side A allocation among defending directors can be complex if multiple directors are co-defendants.
+**D&O Side A.** Can pay the defence costs of directors named in an oppression action under section 216 or a derivative action under section 216A where the company does not indemnify them, subject to the policy's exclusions: besides conduct exclusions, a published Singapore D&O wording excludes any claim brought by a shareholder that held 25% or more of the voting shares at the time of the wrongful act. The Side A allocation among defending directors can be complex if multiple directors are co-defendants.
 
 **Keyman.** If the dispute leads to a founder's departure, the Keyman policy on the founder's life or TPD continues until expressly cancelled. Departure does not automatically trigger Keyman payout (the policy responds to death or TPD, not to exit).
 
-**Buy-sell life cover.** If the SHA includes buy-sell mechanics triggered by departure, life cover funding the buyout (cross-purchase or company-purchase) continues per the policy. Where departure is itself the trigger, the life cover responds (some structures); where the trigger is death or TPD only, the cover does not respond to amicable or oppression-driven departure.
+**Buy-sell life cover.** If the SHA includes buy-sell mechanics triggered by departure, life cover funding the buyout (cross-purchase or company-purchase) continues per the policy. Life cover pays on the insured events the policy names, such as death or TPD, so it does not respond to an amicable or oppression-driven departure, even where the SHA makes departure a buy-sell trigger.
 
 **Cyber.** Where the dispute involves alleged misuse of confidential information or data exfiltration by a departing party, Cyber cover may respond.
 
@@ -154,7 +154,7 @@ Concurrently, Founder A is in divorce proceedings; A's spouse claims matrimonial
 Day-One actions (from the perspective of Founders B and C, the respondents in the oppression action and the remaining management):
 - Day 0: Founder A's lawyers serve the originating claim under section 216.
 - Day 1: B and C engage corporate-litigation counsel.
-- Day 1: SHA reviewed; arbitration clause covers commercial disputes but section 216 is court-only.
+- Day 1: SHA reviewed; the arbitration clause covers commercial disputes but carves out section 216 claims, which it could otherwise have sent to arbitration (*Tomolugen Holdings Ltd v Silica Investors Ltd* [2015] SGCA 57).
 - Day 2: D&O insurer notified; notice of circumstances filed.
 - Day 2: operational continuity maintained; Bs and Cs continue to operate the business with documented decision-making.
 - Day 3: communication strategy: customers and employees informed that there is a shareholder dispute being addressed through legal process; no operational impact expected.
@@ -163,11 +163,11 @@ Litigation trajectory:
 - 6 weeks: defence to the section 216 action filed.
 - 3 months: mediation under SMC auspices attempted (case-management direction).
 - 6 months: mediation unsuccessful; trial preparation begins.
-- 12 months: trial outcome. Most likely remedy if oppression found: share-purchase order requiring B and C (or the company) to purchase A's 40% at a court-determined price.
+- 12 months: trial outcome. One likely remedy if oppression found: share-purchase order requiring B and C (or the company) to purchase A's 40% at a court-determined price.
 
 Insurance response:
-- D&O Side A covers B and C's defence costs.
-- Side B (corporate reimbursement under section 172B of the Companies Act 1967, the third-party indemnity carve-out) covers the company's reimbursement of B and C if the company indemnifies them.
+- Whether D&O cover pays B and C's defence costs depends on the wording: A holds 40%, and a published Singapore D&O wording excludes any claim, defence costs included, brought by a shareholder that held 25% or more of the voting shares at the time of the wrongful act.
+- Side B (corporate reimbursement under section 172B of the Companies Act 1967, the third-party indemnity carve-out) covers the company's reimbursement of B and C if the company indemnifies them and the policy responds.
 - D&O Side C does not respond (not securities-related; not a listed entity).
 
 Divorce overlay:
@@ -183,7 +183,7 @@ Outcome scenarios:
 
 1. **No shareholders' agreement.** SMEs operating on Constitution alone (without an SHA) lack the dispute-resolution and buy-sell mechanics needed to manage shareholder disputes efficiently. The structural fix is to put an SHA in place during good times, not after disputes have started.
 
-2. **SHA dispute-resolution clause not aligned with section 216 jurisdiction.** Arbitration clauses cannot oust section 216 oppression jurisdiction. SHAs should specifically carve out section 216 from arbitration and direct it to court.
+2. **SHA dispute-resolution clause not aligned with section 216 jurisdiction.** A section 216 oppression claim that falls within an arbitration clause can be sent to arbitration (*Tomolugen Holdings Ltd v Silica Investors Ltd* [2015] SGCA 57), with the parties free to apply to the court for relief a tribunal cannot grant, such as a winding-up order. Whether the SHA sends section 216 claims to arbitration or carves them out to the court is a drafting choice.
 
 3. **No buy-sell triggers for divorce or family-court-ordered division.** Where the SHA does not contemplate divorce as a trigger, the spouse may become a shareholder by Family Justice Court order. Specifically addressing divorce in the SHA is the structurally correct solution.
 

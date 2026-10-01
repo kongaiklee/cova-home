@@ -51,7 +51,7 @@ PDPC's [Advisory Guidelines on Key Concepts in the PDPA](https://www.pdpc.gov.sg
 - **Who within the organisation has access** to the personal data
 - **Whether a third party holds or uses the data** on the organisation's behalf
 
-The test is **not** absolute security - that's impossible. It's reasonable security proportionate to risk and feasibility.
+The test is **not** absolute security - that's impossible. It's reasonable security appropriate to the circumstances, such as the nature of the data and the possible impact on individuals.
 
 #### Categories of security arrangements PDPC examines
 

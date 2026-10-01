@@ -33,7 +33,7 @@ The first 10 days after the accident are the operational window in which the mos
 
 The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) covers personal injury (and death) caused to an employee by accident arising out of and in the course of employment, plus prescribed occupational diseases. The WICA scheme operates as a no-fault compensation system - the employee does not need to prove employer negligence - subject to the statutory schedule.
 
-The coverage perimeter under section 24 of WICA requires WIC insurance for:
+Outside the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers, the coverage perimeter under section 24 of WICA requires WIC insurance for:
 
 - **All employees doing manual work**, regardless of salary.
 - **Non-manual employees** earning at or below **S$2,600 per month** (in force since 1 April 2021 per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)).

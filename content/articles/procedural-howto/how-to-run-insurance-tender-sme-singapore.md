@@ -14,16 +14,16 @@ word_count: 3458
 status: "published"
 hero_image: "/assets/blog/procedural-howto.jpg"
 canonical_url: "https://covarage.com/guides/procedural-howto/how-to-run-insurance-tender-sme-singapore"
-meta_description: "Most SMEs renew with the incumbent and accept a loading. Why that is the wrong move in the 2026 market, and how a real tender is run."
+meta_description: "Renewing with the incumbent without testing the market can leave an SME paying more than it needs to in the soft 2026 market. How a real tender is run."
 og_title: "How to Run an Insurance Tender for a Singapore SME: A Procedural Playbook for the 2026 Soft Market"
-og_description: "Most SMEs renew with the incumbent and accept a loading. Why that is the wrong move in the 2026 market, and how a real tender is run."
+og_description: "Renewing with the incumbent without testing the market can leave an SME paying more than it needs to in the soft 2026 market. How a real tender is run."
 ---
 
-Most Singapore SMEs do not run an insurance tender. They renew with whoever placed the cover last year, accept a small loading, and move on. That is a workable approach in a hard market when capacity is scarce and incumbents have leverage. It is the wrong approach in the market that exists in 2026.
+Renewing without a tender means staying with whoever placed the cover last year and accepting the terms offered, including any loading. That is a workable approach in a hard market when capacity is scarce and incumbents have leverage. In the soft market that exists in 2026, it can leave an SME paying more than the market now charges.
 
-The [Marsh Global Insurance Market Index for Q1 2026](https://www.marsh.com/en/about/media/global-commercial-insurance-rates-fall-5-percent-in-q1-2026.html), published 22 April 2026, recorded the seventh consecutive quarter of commercial rate decreases globally, with Asia rates down 5%. Property is down 5% in Asia, financial and professional lines are down 7% in Asia, and cyber is down 5% globally. Aon's [Q1 2026 Global Market Insights](https://www.aon.com/en/insights/articles/global-market-insights-report) confirms the picture: ample capacity, underwriter competition, and an active appetite for new business across every major commercial line. In this market, an SME that has not tested its programme against the market in three or more renewals is almost certainly overpaying - by margins that can range from 5% on a clean account to 30% or more on a programme the incumbent has loaded year on year without challenge.
+The [Marsh Global Insurance Market Index for Q1 2026](https://www.marsh.com/en/about/media/global-commercial-insurance-rates-fall-5-percent-in-q1-2026.html), published 22 April 2026, recorded the seventh consecutive quarter of commercial rate decreases globally, with Asia rates down 5%. Property is down 5% in Asia, financial and professional lines are down 7% in Asia, and cyber is down 5% globally. Aon's [Q1 2026 Global Insurance Market Insights](https://www.aon.com/en/insights/reports/global-insurance-market-insights/q1-2026-overview) confirms the picture: abundant capacity overall and intense competition, with Singapore rated a soft market with abundant capacity in Q1 2026, although capacity stays tighter for some commercial motor and US-exposed casualty risks. In this market, an SME that has not tested its programme against the market in three or more renewals may be paying more than the market now charges.
 
-A formal tender is the structured process that converts that market dynamic into actual savings. This article walks through it. It is built for Singapore SMEs running composite commercial programmes - property, Work Injury Compensation, public liability, group hospital and surgical, D&O, cyber, motor, marine, professional indemnity - and it is anchored to the conduct rules that apply to the licensed advisers who will respond to your tender. Covarage does not advise on, recommend, or arrange any insurance product. The tender process described here is the process you run in conjunction with a licensed Independent Financial Adviser or insurance broker - or, in the simplest cases, the process you run directly with a small number of named insurers.
+A formal tender is the structured process that tests that market dynamic against your own programme. This article walks through it. It is built for Singapore SMEs running composite commercial programmes - property, Work Injury Compensation, public liability, group hospital and surgical, D&O, cyber, motor, marine, professional indemnity - and it is anchored to the conduct rules that apply to the licensed advisers who will respond to your tender. Covarage does not advise on, recommend, or arrange any insurance product. The tender process described here is the process you run in conjunction with a licensed Independent Financial Adviser or insurance broker - or, in the simplest cases, the process you run directly with a small number of named insurers.
 
 ## What an Insurance Tender Actually Is
 
@@ -60,17 +60,17 @@ For most Singapore SMEs with annual commercial premium between S$15,000 and S$50
 
 ## Tender Panel Selection: Who to Invite
 
-The panel size for an SME tender is typically three. Fewer than three eliminates the comparative function. More than five overwhelms underwriters, who are aware when a submission is being shopped to a long list and price defensively.
+A panel of three is enough for a comparison. Fewer than three eliminates the comparative function. Beyond five, the submission is being shopped to a long list.
 
 The panel should include:
 
 - **The incumbent.** Always. The incumbent has the most data on the account and is the easiest to evaluate against. The incumbent also has the strongest commercial incentive to retain and will frequently sharpen pricing when challenged.
 - **One challenger broker with deep Singapore SME presence.** [MAS maintains the public Financial Institutions Directory of registered insurance brokers](https://eservices.mas.gov.sg/fid/institution?category=Registered+Insurance+Broker). The directory is the authoritative source for licensing status. The challenger broker should have demonstrated capability in the SME's specific sector (construction, F&B, professional services, tech, logistics).
-- **One challenger licensed adviser firm with corporate appointment.** Financial adviser firms licensed under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) can advise on commercial insurance products subject to the scope of their licence. The MAS [list of licensed financial advisers](https://eservices.mas.gov.sg/fid/institution?category=Licensed+Financial+Adviser) is searchable by name and licence type.
+- **One challenger licensed adviser firm with corporate appointment.** Financial adviser firms licensed under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) advise on investment products, which include life policies such as group term life, and arrange life policies; general insurance such as property, liability or work injury cover is outside that Act, but section 92 of the Insurance Act 1966 exempts a licensed financial adviser from registering as an insurance broker, subject to any conditions MAS imposes, and MAS's directory marks the firms that act as exempt insurance brokers. The MAS [list of licensed financial advisers](https://eservices.mas.gov.sg/fid/institution?category=Licensed+Financial+Adviser) is searchable by name and licence type.
 
 For specialty programmes - D&O for SGX-listed entities, large WICA portfolios, manufacturing property - consider including one Lloyd's Asia coverholder or one direct relationship with an international broker (Marsh, Aon, WTW, Howden, Lockton) that can access the London market for layered or excess capacity.
 
-The panel must be told at outset that this is a tender - that other firms are quoting, on identical instructions, with a defined response window. Concealing the tender is dishonest to the participants and corrosive to the relationships you may need to keep. [MAS Notice FAA-N03 on Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) requires advisers to disclose material information to the client; the symmetric professional courtesy is to disclose to the adviser that they are competing.
+The panel must be told at outset that this is a tender - that other firms are quoting, on identical instructions, with a defined response window. Concealing the tender is dishonest to the participants and corrosive to the relationships you may need to keep. [MAS Notice FAA-N03 on Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) requires financial advisers to disclose material information to clients when advising on investment products, which include life policies but not general insurance; the symmetric professional courtesy is to disclose to the adviser that they are competing.
 
 ## Building the Tender Brief
 
@@ -103,7 +103,7 @@ A line-by-line description of the cover currently in place. For each policy: ins
 The numbers underwriters need to rate the renewal. For each line:
 
 - **Property**: full reinstatement valuation (date and source), full sums insured by category (buildings, contents, stock, machinery, business interruption gross profit, indemnity period), site addresses, occupancy type, construction class.
-- **Work Injury Compensation**: CPF Submission Number, CPF EZPay output by employee class (manual, non-manual at-or-below S$2,600, non-manual above S$2,600), latest annual wages by class. Per [MOM's WIC insurance scope guidance](https://www.mom.gov.sg/faq/work-injury-compensation/why-is-the-salary-threshold-compulsory-wic-insurance-coverage-for-nonmanual-employees-increased-2600), the S$2,600 non-manual threshold has been in place since 1 April 2021.
+- **Work Injury Compensation**: CPF Submission Number, and headcount and latest annual wages by employee class (manual, non-manual at-or-below S$2,600, non-manual above S$2,600), taken from payroll. Per [MOM's WIC insurance scope guidance](https://www.mom.gov.sg/faq/work-injury-compensation/why-is-the-salary-threshold-compulsory-wic-insurance-coverage-for-nonmanual-employees-increased-2600), the S$2,600 non-manual threshold has been in place since 1 April 2021.
 - **Public liability / general liability**: trailing twelve months revenue, current year revenue, forecast next year revenue, geographic split, customer profile.
 - **Group hospital and surgical / group term life / group personal accident**: census by age, gender, role classification, dependant status.
 - **D&O**: ACRA snapshot, board composition, audited financials, subsidiary list, financing arrangements (debt, equity), pending litigation, regulatory enquiries within the look-back period.
@@ -114,7 +114,7 @@ The numbers underwriters need to rate the renewal. For each line:
 
 ### 6. Risk Management Evidence
 
-The documents that demonstrate the SME has been operating to a standard. Fire Safety Certificate (where applicable under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993)), Workplace Safety and Health risk assessments and bizSAFE level (the [WSH Council bizSAFE programme](https://www.tal.sg/wshc/bizsafe) is the de facto benchmark), Personal Data Protection Act DPIA evidence, business continuity plan, IT policies, MAS Technology Risk Management compliance documentation if regulated.
+The documents that demonstrate the SME has been operating to a standard. Fire Safety Certificate (where applicable under the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993)), Workplace Safety and Health risk assessments and bizSAFE level (the [WSH Council bizSAFE programme](https://www.tal.sg/wshc/programmes/bizsafe/about-bizsafe) is the de facto benchmark), Personal Data Protection Act DPIA evidence, business continuity plan, IT policies, MAS Technology Risk Management compliance documentation if regulated.
 
 ### 7. The Ask
 
@@ -125,14 +125,14 @@ What you want quoted, and what response format you require. Specify:
 - The sums insured and limits to be tested (current limits as a base case, with optional uplift quotes).
 - The retention / deductible alternatives to be priced.
 - The wording variations to be tested (e.g., affirmative AI endorsement on cyber, run-off provisions on D&O, professional services definition refinement on PI).
-- The remuneration disclosure required (commission, fee, or combination - disclosed in writing per MAS Notice FAA-N03).
+- The remuneration disclosure required (commission, fee, or combination, disclosed in writing; MAS Notice FAA-N03 requires written disclosure of remuneration on recommendations of investment products such as life policies, and MAS Notice 120 requires it for accident and health policies such as group hospital and surgical).
 - The response format - a structured grid showing, by line: insurer, sum insured, limit, deductible, premium, GST, brokerage / fee, key extensions added, key exclusions removed.
 
 ## The Conduct Framework for Responses
 
-A licensed adviser responding to the tender is bound by the MAS conduct rules. The three notices that matter most are:
+A licensed financial adviser is bound by these MAS notices when it advises on investment products, which include life policies such as group term life; they do not govern a broker's placement of general insurance lines, which is regulated under the Insurance Act 1966. The three notices are:
 
-- [MAS Notice FAA-N16 - Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices/notice-faa-n16). Although titled around investment products, the underlying "reasonable basis for recommendation" principle is treated as the conduct baseline for advice across product lines. The adviser must consider the client's investment objectives, financial situation, and particular needs.
+- [MAS Notice FAA-N16 - Recommendations on Investment Products](https://www.mas.gov.sg/regulation/notices/notice-faa-n16). It applies to recommendations on investment products, which include life policies but not general insurance. The adviser must consider the client's investment objectives, financial situation, and particular needs.
 - [MAS Notice FAA-N03 - Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03). Requires advisers to disclose material information about products and about the adviser's relationship with the client, including remuneration where applicable.
 - [MAS Notice FAA-N02 - Appointment and Use of Introducers by Financial Advisers](https://www.mas.gov.sg/regulation/notices/notice-faa-n02). The notice that governs introducers. Introducers may identify potential clients and pass them to licensed advisers; they may not advise, recommend, or arrange.
 
@@ -149,7 +149,7 @@ Within the window:
 - Site visits, where required, are scheduled in a fixed window and chaperoned to ensure parity.
 - The named contact does not discuss pricing with any responding firm during the response window - pricing is discussed only after all quotes are in.
 
-Communications discipline matters. The most common failure mode in SME tenders is the incumbent calling the named contact informally and probing for the challenger's pricing. If that conversation happens, the integrity of the process is gone.
+Communications discipline matters. One failure mode in SME tenders is the incumbent calling the named contact informally and probing for the challenger's pricing. If that conversation happens, the integrity of the process is gone.
 
 ## Evaluating Responses
 
@@ -168,9 +168,9 @@ The evaluation criteria, weighted, should be published in the tender brief and a
 - Service proposition (15%) - claims handling team, mid-term endorsement turnaround, dedicated relationship manager, annual review process.
 - Risk management value-add (5%) - included survey, included loss-prevention engineering, sector-specific advisory.
 
-Insurer financial strength matters because the cover is only as good as the carrier behind it. The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) requires Singapore-licensed insurers to maintain statutory deposits and meet capital adequacy requirements; the MAS list of [licensed insurers](https://eservices.mas.gov.sg/fid/institution?category=Licensed+Insurer) shows the current population. Ratings from A.M. Best, S&P, and Fitch are typically disclosed by the insurer in marketing material and confirmed in financial statements.
+Insurer financial strength matters because the cover is only as good as the carrier behind it. The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) requires Singapore-licensed insurers to satisfy fund solvency and capital adequacy requirements (section 17); the MAS list of [licensed general insurers](https://eservices.mas.gov.sg/fid/institution?category=Direct+Insurer+%28General%29) (with [composite insurers](https://eservices.mas.gov.sg/fid/institution?category=Direct+Insurer+%28Composite%29) listed separately) shows the current population.
 
-The 40% weighting on premium is deliberate. Premium matters, but a 5% saving on a programme with material coverage gaps is a worse outcome than paying the incumbent rate for a complete programme. Buying on price alone is the most common SME insurance mistake.
+The 40% weighting on premium is deliberate. Premium matters, but a 5% saving on a programme with material coverage gaps is a worse outcome than paying the incumbent rate for a complete programme.
 
 ## The Award Decision
 
@@ -186,13 +186,13 @@ The memo is the institutional record. If staff turnover affects the finance or o
 
 ## Common Mistakes Singapore SMEs Make in Tenders
 
-**Inviting too many firms.** Five is the upper limit. Anything more signals a fishing expedition and underwriters quote defensively.
+**Inviting too many firms.** Five is the upper limit this guide suggests; beyond that the submission is being shopped to a long list.
 
 **Not refreshing the exposure data.** A tender on stale numbers produces stale quotes. The pre-renewal data sprint (see [the 90/60/30-day data preparation article](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)) should precede the tender.
 
 **Failing to disclose loss history.** Hiding claims from the tender brief breaches the duty of utmost good faith and entitles the winning insurer to avoid the contract for non-disclosure when the omitted loss surfaces at claim time. Disclose everything.
 
-**Confusing brokerage with fee.** A broker may be paid by commission from the insurer (typically 10-20% of premium for SME commercial lines, varying by product) or by a fee paid directly by the client, or both. The tender brief should specify which model is required and require written disclosure. MAS Notice FAA-N03 supports the request.
+**Confusing brokerage with fee.** A broker may be paid by commission from the insurer (a percentage of premium that varies by product) or by a fee paid directly by the client, or both. The tender brief should specify which model is required and require written disclosure. MAS Notice FAA-N03 requires written remuneration disclosure on recommendations of investment products such as life policies, and MAS Notice 120 requires it for accident and health policies such as group hospital and surgical.
 
 **Treating cyber as a commodity line.** Cyber wordings vary materially across insurers in the affirmative-AI endorsement, the social engineering sub-limit, the business interruption trigger, and the regulatory defence sub-limit. A 10% premium saving on a cyber policy with a 25% smaller sub-limit on regulatory defence is not a saving.
 
@@ -202,11 +202,11 @@ The memo is the institutional record. If staff turnover affects the finance or o
 
 ## What This Means for Your Business
 
-If your commercial insurance programme has not been market-tested in three or more renewals, run a tender in the 2026 cycle. The market is structurally soft, capacity is ample, and a properly run process produces verifiable savings in the 5-20% range on most SME composite programmes, with measurable coverage upgrades on top.
+If your commercial insurance programme has not been market-tested in three or more renewals, run a tender in the 2026 cycle. The market is structurally soft, capacity is ample, and a properly run process tests the programme's price and cover against the market.
 
-If you do not have internal capacity to run a tender, the licensed adviser is your tender lead. A reputable broker or licensed adviser will run the process - or, if they are the incumbent, will agree to a contested renewal exercise - and document the result. Ask for the conduct disclosure under MAS Notice FAA-N03 in writing before you begin.
+If you do not have internal capacity to run a tender, the licensed adviser is your tender lead. A reputable broker or licensed adviser will run the process - or, if they are the incumbent, will agree to a contested renewal exercise - and document the result. Ask for the adviser's licensing basis, remuneration and any conflicts of interest in writing before you begin.
 
-The tender is a process, not a transaction. The output is not just lower premium - it is a refreshed programme specification, current exposure data, a written instruction record, and a relationship with a licensed adviser who understands your business and competes for it.
+The tender is a process, not a transaction. Besides a market-tested premium, the output is a refreshed programme specification, current exposure data, a written instruction record, and a relationship with a licensed adviser who understands your business and competes for it.
 
 ## Questions to Ask Your Adviser
 

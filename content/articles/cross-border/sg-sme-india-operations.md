@@ -21,7 +21,7 @@ og_description: "India's IRDAI framework is substantively distinctive, and it co
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in India through subsidiary, branch, or distributor structures face a substantively distinctive regulatory framework administered by the [Insurance Regulatory and Development Authority of India (IRDAI)](https://www.irdai.gov.in/). India operates an admitted-only market: insurance covering Indian risks must be placed with IRDAI-authorised Indian insurers, with limited reinsurance and specific cross-border arrangements available through the [International Financial Services Centre (IFSC) at GIFT City](https://www.ifsca.gov.in/). Mandatory frameworks include Employees' State Insurance (ESI) for wages up to ₹21,000/month, Employees' Provident Fund (EPF) at 12%+12%, Workmen's Compensation under the [Employees' Compensation Act 1923](https://labour.gov.in/), and Motor Third Party under the Motor Vehicles Act 1988. Specific [Companies Act 2013](https://www.mca.gov.in/) D&O considerations, [Digital Personal Data Protection Act 2023](https://www.meity.gov.in/) data protection scope, and [Goods and Services Tax (GST)](https://www.cbic.gov.in/) compliance create substantial operational sophistication considerations.
+> Singapore SMEs operating in India through subsidiary, branch, or distributor structures face a substantively distinctive regulatory framework administered by the [Insurance Regulatory and Development Authority of India (IRDAI)](https://www.irdai.gov.in/). India operates an admitted-only market: insurance covering Indian risks must be placed with IRDAI-authorised Indian insurers, with limited reinsurance and specific cross-border arrangements available through the [International Financial Services Centre (IFSC) at GIFT City](https://www.ifsca.gov.in/). Mandatory frameworks include Employees' State Insurance (ESI) for wages up to ₹21,000/month, Employees' Provident Fund (EPF) at 12%+12%, employees' compensation under the [Code on Social Security, 2020](https://labour.gov.in/), which repealed the Employees' Compensation Act 1923 from 21 November 2025, and Motor Third Party under the Motor Vehicles Act 1988. Specific [Companies Act 2013](https://www.mca.gov.in/) D&O considerations, [Digital Personal Data Protection Act 2023](https://www.meity.gov.in/) data protection scope, and [Goods and Services Tax (GST)](https://www.cbic.gov.in/) compliance create substantial operational sophistication considerations.
 
 ### The Sourced Detail
 
@@ -31,21 +31,21 @@ India operations represent one of the most substantively complex cross-border co
 
 India operates an admitted-only insurance market under the [Insurance Act 1938](https://www.irdai.gov.in/) administered by [IRDAI](https://www.irdai.gov.in/). The framework is substantively different from Singapore's commercial scope.
 
-Under the framework, insurance covering Indian risks must be placed with IRDAI-authorised Indian insurers. Foreign insurers cannot directly write Indian risks. Specific exceptions exist for reinsurance (where Indian primary insurers cede risk to foreign reinsurers under specific frameworks), for marine cargo and hull cover where specific provisions apply, and for specific scope through [International Financial Services Centre (IFSC) at GIFT City](https://www.ifsca.gov.in/) which provides offshore commercial scope under [International Financial Services Centres Authority (IFSCA)](https://www.ifsca.gov.in/) framework.
+Under the framework, insurance covering Indian risks must be placed with IRDAI-authorised Indian insurers. Foreign insurers cannot directly write Indian risks. Specific exceptions exist for reinsurance (where Indian primary insurers cede risk to foreign reinsurers under specific frameworks), for cover of property in India, or of a ship, vessel or aircraft registered in India, with an insurer based outside India where IRDAI gives prior permission (Insurance Act 1938 s2CB), and for specific scope through [International Financial Services Centre (IFSC) at GIFT City](https://www.ifsca.gov.in/) which provides offshore commercial scope under [International Financial Services Centres Authority (IFSCA)](https://www.ifsca.gov.in/) framework.
 
-For Singapore SMEs, this creates commercial considerations. Singapore-issued commercial insurance does not extend to Indian operational scope; Indian subsidiary / branch operations require Indian-issued commercial insurance from IRDAI-authorised insurers. Commercial relationships with major Indian insurers (ICICI Lombard, Bajaj Allianz, HDFC ERGO, Tata AIG, specific other Indian insurers) and Indian commercial brokers matter substantially.
+For Singapore SMEs, this creates commercial considerations. Indian law limits what a foreign insurer can cover: no one may take out or renew insurance on property in India, or on a ship, vessel or aircraft registered in India, with an insurer whose principal place of business is outside India without IRDAI's prior permission (Insurance Act 1938 s2CB), so property cover for an Indian subsidiary or branch is placed with IRDAI-registered insurers unless IRDAI permits otherwise. Commercial relationships with major Indian insurers (ICICI Lombard, Bajaj General Insurance (formerly Bajaj Allianz), HDFC ERGO, Tata AIG, specific other Indian insurers) and Indian commercial brokers matter substantially.
 
-For Singapore-headquartered groups with Indian operations, specific master programme architecture coordination becomes substantially complex. Considerations on Indian admitted cover plus Singapore-issued non-admitted Difference in Conditions / Difference in Limits (DIC/DIL) cover (where commercially feasible) provides operational scope.
+For Singapore-headquartered groups with Indian operations, specific master programme architecture coordination becomes substantially complex. Considerations on Indian admitted cover plus Singapore-issued non-admitted Difference in Conditions / Difference in Limits (DIC/DIL) cover (where commercially feasible and, for property in India, only with IRDAI's prior permission under Insurance Act 1938 s2CB) provides operational scope.
 
 #### The mandatory frameworks
 
 India mandates several insurance and welfare frameworks affecting commercial operations.
 
-**Employees' State Insurance (ESI)** under the [Employees' State Insurance Act 1948](https://www.esic.nic.in/) administered by [ESIC](https://www.esic.nic.in/) covers employees with wages up to ₹21,000/month (₹25,000 for persons with disabilities). Contribution rates are 3.25% employer + 0.75% employee. Coverage includes medical benefit, sickness benefit, maternity benefit, disablement benefit, dependants' benefit, and unemployment allowance. Considerations on ESI registration and compliance matters substantially.
+**Employees' State Insurance (ESI)** under Chapter IV of the [Code on Social Security, 2020](https://labour.gov.in/), which repealed the Employees' State Insurance Act 1948 from 21 November 2025, administered by [ESIC](https://www.esic.nic.in/) covers employees with wages up to ₹21,000/month (₹25,000 for persons with disabilities). Contribution rates are 3.25% employer + 0.75% employee. Coverage includes medical benefit, sickness benefit, maternity benefit, disablement benefit, dependants' benefit, and unemployment allowance. Considerations on ESI registration and compliance matters substantially.
 
-**Employees' Provident Fund (EPF)** under the [Employees' Provident Funds and Miscellaneous Provisions Act 1952](https://www.epfindia.gov.in/) administered by [EPFO](https://www.epfindia.gov.in/) applies to establishments with 20+ employees. Contribution rates are 12% employer + 12% employee on wages up to ₹15,000/month (with optional contribution on full wages). The framework includes Employees' Pension Scheme (EPS) at 8.33% of employer contribution.
+**Employees' Provident Fund (EPF)** under Chapter III of the [Code on Social Security, 2020](https://labour.gov.in/) administered by [EPFO](https://www.epfindia.gov.in/) applies to establishments with 20+ employees. Contribution rates are 12% employer + 12% employee on wages up to the statutory wage ceiling, raised from Rs 15,000 to Rs 25,000 a month with effect from 17 September 2026 (with optional contribution on full wages). The framework includes the Employees' Pension Scheme (EPS), which receives 8.33% of wages out of the employer's contribution, on wages up to the Rs 25,000 ceiling (at most Rs 2,083 a month).
 
-**Employees' Compensation Act 1923** (formerly Workmen's Compensation Act) administered through state labour departments addresses workplace injury compensation for employees not covered under ESI. Specific schedules address disability percentages and compensation calculations.
+**Employees' compensation** for workplace injury is governed by Chapter VII of the Code on Social Security, 2020, which repealed the Employees' Compensation Act 1923 (formerly the Workmen's Compensation Act) from 21 November 2025; a person eligible for ESI disablement or dependants' benefit cannot claim this compensation from the employer, and disputed claims are settled by a competent authority the State Government appoints. Specific schedules address disability percentages and compensation calculations.
 
 **Motor Vehicles Act 1988** mandates Motor Third Party Liability cover for all motor vehicles. Operational scope considerations apply for substantial vehicle fleets.
 
@@ -93,7 +93,7 @@ For Singapore SMEs with Indian operations, foundational cover stack includes sev
 
 **Commercial relationships** with Indian commercial brokers and specific Indian insurers.
 
-For Singapore-headquartered groups, master programme coordination through specialist multinational broker (typically Marsh, Aon, Willis Towers Watson, Lockton, Howden India operations) provides operational considerations.
+For Singapore-headquartered groups, master programme coordination through specialist multinational broker provides operational considerations.
 
 #### Specific incident scenarios
 
@@ -107,7 +107,7 @@ Specific motor incidents engage Motor framework.
 
 Specific D&O scenarios engage Indian-issued D&O cover and commercial counsel.
 
-Specific data breach scenarios engage DPDPA notification framework and Cyber Liability.
+Data breach scenarios engage Cyber Liability; the DPDPA breach intimation rule (rule 7 of the DPDP Rules 2025) comes into force eighteen months after the Rules were published on 13 November 2025.
 
 Commercial dispute scenarios engage commercial counsel - Indian commercial litigation has substantial timeline considerations.
 
@@ -148,7 +148,7 @@ For substantive operations, master programme coordination through specialist mul
 
 For Singapore SMEs operating Indian commercial scope:
 
-The IRDAI admitted-only insurance market creates substantively distinct commercial considerations from Singapore commercial scope. Indian-issued admitted cover from IRDAI-authorised insurers is foundational; Singapore-issued cover does not extend to Indian operational scope. Mandatory frameworks (ESI, EPF, Workmen's Compensation, Motor) create substantial compliance overhead. DPDPA data protection framework, Companies Act 2013 D&O scope, and GST compliance create operational sophistication considerations.
+The IRDAI admitted-only insurance market creates substantively distinct commercial considerations from Singapore commercial scope. Indian-issued admitted cover from IRDAI-authorised insurers is foundational; insuring property in India with an insurer whose principal place of business is outside India, such as a Singapore insurer, needs IRDAI's prior permission (Insurance Act 1938 s2CB). Mandatory frameworks (ESI, EPF, Workmen's Compensation, Motor) create substantial compliance overhead. DPDPA data protection framework, Companies Act 2013 D&O scope, and GST compliance create operational sophistication considerations.
 
 For substantive operations, specialist India-experienced commercial broker engagement, specific Indian commercial counsel relationships, and specific multi-state operational discipline form the foundation. SMEs that engage thoughtfully with the Indian regulatory complexity benefit from operational protection that supports substantial commercial scope; SMEs that approach Indian operations as extensions of Singapore commercial scope face material gaps across multiple regulatory and operational dimensions.
 

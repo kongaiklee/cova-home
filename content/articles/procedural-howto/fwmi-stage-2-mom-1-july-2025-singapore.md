@@ -21,7 +21,7 @@ og_description: "Singapore's FWMI Stage 2 requirements apply to policies from 1 
 
 > **The Answer in 60 Seconds**
 >
-> Your SME has [Foreign Worker Medical Insurance (FWMI)](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore) policies that need to comply with [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) Stage 2 requirements applicable to all FWMI policies with effective dates on or after 1 July 2025. Stage 2 introduces: (1) age-differentiated premiums (≤ 50 years vs > 50 years tiers); (2) standardised exclusion clauses across all insurers; (3) direct hospital-to-insurer reimbursement protocol replacing employer-mediated claims. Stage 1 (effective 1 July 2023) increased the annual cover minimum to SGD 60,000 with 25% employer co-payment for amounts SGD 15,001-SGD 60,000. **Critical compliance steps:** (1) Audit all FWMI policy renewal dates and identify any policies starting on/after 1 July 2025; (2) request Stage-2-compliant quotes from MOM-listed insurers; (3) decide on optional waiver of the 25% co-payment endorsement; (4) submit named-list (≤10 employees) or headcount basis (>10 employees) per insurer rules; (5) update Work Permit Online policy details before WP issuance/renewal; (6) maintain accurate headcount declarations to avoid claim-rejection risk. Quantitative anchors: SGD 60,000 annual minimum coverage; SGD 15,000 first-dollar 100% insurer cover; 25% employer co-payment for amounts SGD 15,001-SGD 60,000; example SGD 60,000 hospital bill = SGD 11,250 employer co-pay / SGD 48,750 insurer pay (without waiver endorsement). MOM's rationale for the enhancement was that a portion of foreign workers' medical bills exceeded the previous SGD 15,000 limit, leaving some employers exposed to large uninsured costs.
+> Your SME has [Foreign Worker Medical Insurance (FWMI)](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore) policies that need to comply with [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) Stage 2 requirements applicable to all FWMI policies with effective dates on or after 1 July 2025. Stage 2 introduces: (1) age-differentiated premiums (≤ 50 years vs > 50 years tiers); (2) standardised exclusion clauses across all insurers; (3) a requirement for insurers to reimburse hospitals directly upon the admissibility of the claim. Stage 1 (effective 1 July 2023) increased the annual cover minimum to SGD 60,000 with 25% employer co-payment for amounts SGD 15,001-SGD 60,000. **Critical compliance steps:** (1) Audit all FWMI policy renewal dates and identify any policies starting on/after 1 July 2025; (2) request Stage-2-compliant quotes from insurers (MOM lets employers buy from any insurer whose policy meets its minimum requirements, and asks them to have the insurer show that the product complies before buying); (3) decide on optional waiver of the 25% co-payment endorsement; (4) give the insurer the worker details it asks for, since each worker must be covered; (5) update Work Permit Online policy details before WP issuance/renewal; (6) keep the insurance details in WP Online up to date whenever they change. Quantitative anchors: SGD 60,000 annual minimum coverage; SGD 15,000 first-dollar 100% insurer cover; 25% employer co-payment for amounts SGD 15,001-SGD 60,000; example SGD 60,000 hospital bill = SGD 11,250 employer co-pay / SGD 48,750 insurer pay (without waiver endorsement). MOM's rationale for the enhancement was that a portion of foreign workers' medical bills exceeded the previous SGD 15,000 limit, leaving some employers exposed to large uninsured costs.
 
 ### The Sourced Detail
 
@@ -41,7 +41,7 @@ FWMI Stage 2 represents the second phase of MOM's enhanced foreign worker medica
 
 #### What FWMI covers
 
-FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and Foreign Domestic Workers - covering non-work-related medical conditions. The cover scope includes:
+FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and Foreign Domestic Workers - covering inpatient care and day surgery, including hospital bills for conditions that may not be work-related. The cover scope includes:
 
 **Inpatient care:**
 - Hospital admission and stay
@@ -53,11 +53,11 @@ FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and
 **Day surgery:**
 - Specific outpatient procedures requiring same-day discharge
 
-**Specific exclusions (industry standard):**
-- Pre-existing conditions (specific exclusion period typically 12 months)
-- Specific dental and eye care (separate cover required)
-- Specific outpatient general practitioner consultations (typically excluded)
-- Specific work-related injuries (covered under WICA - see Article 271 framework)
+**Exclusions (for policies starting on or after 1 July 2025, insurers may exclude only the items on MOM's list of allowable exclusions), for example:**
+- Pre-existing conditions known to the employer or worker before the cover starts, for treatment within the first 12 months of employment with the same employer
+- Dental treatment not needed because of an accident
+- Outpatient general practitioner consultations, which fall outside the inpatient care and day surgery cover MOM requires
+- Treatment already reimbursed under work injury compensation insurance (WICA) or other insurance
 - Specific elective procedures
 - Specific cosmetic and aesthetic treatments
 
@@ -76,7 +76,7 @@ FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and
 - Total: insurer SGD 48,750 / employer SGD 11,250
 
 **Employer co-payment waiver endorsement.**
-- Optional purchase from many insurers
+- Optional: MOM allows riders or additional plans that reduce, or cover the whole of, the 25% co-payment
 - The premium is higher, by an amount the insurer quotes
 - Insurer takes 100% of cover
 - Specific evaluation: bounded contingent liability vs known premium increase
@@ -85,11 +85,11 @@ FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and
 
 **Age-differentiated premiums.**
 - Tier 1: workers ≤ 50 years
-- Tier 2: workers > 50 years (higher premium reflecting higher claims experience)
+- Tier 2: workers > 50 years
 - Specific underwriting basis applied
 
 **Standardised exclusion clauses.**
-- All MOM-listed insurers must use specific exclusion language
+- Insurers may exclude only the treatment items, procedures, conditions and activities on MOM's list of allowable exclusions
 - Specific consistency across market
 - Specific employer transparency benefits
 
@@ -97,7 +97,6 @@ FWMI is mandatory medical insurance for Work Permit holders, S Pass holders, and
 - Worker presents at hospital
 - Hospital bills insurer directly per cover scope
 - Employer pays specific co-payment portion separately
-- Replaces previous employer-mediated reimbursement framework
 
 #### Hour-by-hour compliance procedure
 
@@ -113,8 +112,8 @@ Catalogue all current FWMI policies:
 - Specific premium
 
 Identify policies needing Stage 2 transition:
-- Policies expiring before 1 July 2025 (transition at renewal)
-- Policies expiring on/after 1 July 2025 (must be Stage 2 compliant at issuance)
+- Policies that started before 1 July 2025 (Stage 2 applies from the next purchase, renewal or extension; a policy longer than two years must move to Stage 2 by 30 June 2027)
+- Policies, renewals or extensions starting on or after 1 July 2025 (must meet Stage 2)
 
 **Step 2 - Quote requests (Day 7-14).**
 
@@ -139,11 +138,10 @@ Selection criteria:
 **Step 4 - WPOL policy submission (Day 21-28).**
 
 Update Work Permit Online with new policy details:
+- Name of insurer
 - Policy number
-- Insurer
-- Cover scope
-- Effective date
-- Worker list (named or headcount per insurer rules)
+- Policy commencement date
+- Policy expiry date
 
 **Critical:** policy details must be submitted before WP issuance/renewal.
 
@@ -183,7 +181,6 @@ Inform workers of:
 #### Sector-specific patterns
 
 **Construction.**
-- Highest worker volume
 - Specific manual labour exposure
 - Specific age distribution
 - Specific bundle considerations
@@ -210,11 +207,10 @@ Inform workers of:
 
 #### Coordination with WICA
 
-WICA covers work-related injuries. FWMI covers non-work-related medical conditions. Specific coordination considerations:
+WICA covers work injuries. The medical insurance covers inpatient care and day surgery, including conditions that may not be work-related; for policies starting on or after 1 July 2025, MOM's list of allowable exclusions does not let it exclude work injuries as such, only treatment already reimbursed under work injury compensation insurance or other insurance. Specific coordination considerations:
 
 **At hospital admission:**
-- Hospital determines work-related vs non-work-related
-- Specific routing to WICA insurer (work) or FWMI insurer (non-work)
+- Routing: a work injury claim goes to the WICA insurer; the medical insurance may exclude treatment already reimbursed under WICA insurance or other insurance, but not work injuries as such
 - Specific employer notification
 - Specific claim documentation
 
@@ -258,7 +254,7 @@ For Singapore SMEs with foreign workers:
 
 2. **Co-payment waiver decision** - explicit economic analysis.
 
-3. **MOM-listed insurer relationship** - competitive sourcing across major carriers.
+3. **Insurer choice**: any insurer whose policy meets MOM's minimum requirements can be used, so the market can be compared.
 
 4. **WPOL operational discipline** - policy details current and accurate.
 
@@ -280,7 +276,7 @@ The cost of FWMI compliance failure is acute - non-compliance can trigger Work P
 
 1. For our policy portfolio, are all FWMI policies issued on/after 1 July 2025 specifically Stage 2 compliant?
 2. For our co-payment waiver decision, is current economic analysis based on actual claims experience?
-3. For our MOM-listed insurer relationship, is current pricing competitive vs Stage 2 market alternatives?
+3. For our current insurer, is pricing competitive against other insurers offering Stage 2 compliant policies?
 4. For our WPOL operational discipline, are policy details current across all insured workers?
 5. For our bundle considerations, is total cost optimised across FWMI + WICA + Bond + MDW Insurance where applicable?
 

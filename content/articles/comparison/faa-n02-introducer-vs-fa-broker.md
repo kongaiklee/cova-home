@@ -14,14 +14,14 @@ word_count: 1478
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/faa-n02-introducer-vs-fa-broker"
-meta_description: "An FAA-N02 introducer may pass your details along and stop there. What separates that from a licensed financial adviser and from an insurance broker."
+meta_description: "An FAA-N02 introducer may pass your details along and give factual product information, not financial advice. How that differs from an adviser and a broker."
 og_title: "FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation"
-og_description: "An FAA-N02 introducer may pass your details along and stop there. What separates that from a licensed financial adviser and from an insurance broker."
+og_description: "An FAA-N02 introducer may pass your details along and give factual product information, not financial advice. How that differs from an adviser and a broker."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> An **introducer** under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) can: introduce prospective clients to licensed financial advisers (FAs) or insurance brokers, provide factual product information, and earn introduction fees from the licensed entity. An introducer **cannot**: provide financial advice, recommend specific products, conduct fact-finds, or hold client funds. A **licensed Financial Adviser (FA)** under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) can: conduct full fact-finds, provide regulated financial advice, recommend specific products, and earn commission / fees from product placements. **Insurance brokers** are registered with [MAS](https://www.mas.gov.sg/regulation/notices) under the Insurance Act to act on behalf of clients in placing insurance with insurers, and are subject to the FAA where they advise on life policies. The distinction matters because: introducers operate under lighter regulatory burden but with strictly limited scope; FAs / brokers operate with full regulatory obligations including fact-find documentation, suitability assessment, and disclosure requirements. For Singapore SMEs evaluating insurance procurement channels, understanding which type of entity you're working with explains both the scope of service and the regulatory protections that apply.
+> An **introducer** under [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) can: introduce prospective clients to licensed financial advisers (FAs) or insurance brokers, provide factual product information, and earn introduction fees from the licensed entity. An introducer **cannot**: provide financial advice, recommend any investment product (a term that includes a life policy), conduct fact-finds, or hold client funds. A **licensed Financial Adviser (FA)** under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) can: conduct full fact-finds, provide regulated financial advice, recommend specific products, and earn commission / fees from product placements. **Insurance brokers** are registered with [MAS](https://www.mas.gov.sg/regulation/notices) under the Insurance Act to act on behalf of clients in placing insurance with insurers, and are subject to the FAA where they advise on life policies. The distinction matters because: introducers operate under lighter regulatory burden but with strictly limited scope; FAs, and brokers when they advise on life policies or other investment products, operate with full FAA obligations including fact-find documentation, suitability assessment, and disclosure requirements. For Singapore SMEs evaluating insurance procurement channels, understanding which type of entity you're working with explains both the scope of service and the regulatory protections that apply.
 
 ### The Sourced Detail
 
@@ -31,10 +31,10 @@ The Singapore financial advisory and insurance distribution landscape includes m
 
 Two statutes frame insurance distribution in Singapore:
 
-- The **[Financial Advisers Act 2001 (FAA)](https://sso.agc.gov.sg/Act/FAA2001)** governs financial advisory activities, including the advising and arranging of insurance, through a set of licensing categories and consumer-protection provisions.
+- The **[Financial Advisers Act 2001 (FAA)](https://sso.agc.gov.sg/Act/FAA2001)** governs financial advisory activities, including advising on life policies and other investment products and arranging life insurance, through a set of licensing categories and consumer-protection provisions.
 - The **[Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966)** governs the insurance industry - both insurers and insurance intermediaries, including registered insurance brokers.
 
-Under the FAA, MAS issues a series of **[Notices](https://www.mas.gov.sg/regulation/notices)** (FAA-N01, FAA-N02, FAA-N03, and so on) that set the detailed conduct rules.
+Under the FAA, MAS issues a series of **[Notices](https://www.mas.gov.sg/regulation/notices)** (FAA-N02, FAA-N03, FAA-N16, and so on) that set the detailed conduct rules.
 
 #### The introducer framework (FAA-N02)
 
@@ -46,8 +46,8 @@ Under the FAA, MAS issues a series of **[Notices](https://www.mas.gov.sg/regulat
 3. Earn an introduction fee from the licensed entity
 
 **An introducer cannot:**
-1. Provide financial advice - a regulated activity reserved for licensed FAs
-2. Recommend specific products, or rank options
+1. Provide financial advice, a regulated activity reserved for licensed financial advisers and exempt financial advisers such as banks, insurers and registered insurance brokers
+2. Recommend any investment product, a term that includes a life policy, or rank such products
 3. Conduct fact-finds or suitability assessments
 4. Hold client funds or premium
 5. Bind cover or place insurance directly
@@ -56,11 +56,11 @@ An introducer must also **disclose its status as an introducer** - not an advise
 
 #### The Financial Adviser framework
 
-Under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), a financial adviser is either a **licensed FA firm** (the corporate entity) or a **licensed representative** (an individual acting for the firm).
+Under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), a financial adviser is a firm that carries on a business of providing financial advisory services, either under a **financial adviser's licence** or as an **exempt financial adviser** such as a bank, insurer or registered insurance broker. The individuals who advise on its behalf are its **representatives**.
 
 A licensed FA or representative can **conduct fact-finds** with prospective clients, **provide regulated financial advice**, **recommend specific products** on the basis of suitability, and **earn commission or fees** from product placement.
 
-With that scope come obligations: documented fact-finds, a suitability assessment for any recommendation (the reasonable-basis requirement of [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices)), and the disclosure requirements of [FAA-N03](https://www.mas.gov.sg/regulation/notices).
+With that scope come obligations: documented fact-finds, a suitability assessment for any recommendation on an investment product (the reasonable-basis requirement of [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16)), and the disclosure requirements of [FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03).
 
 #### The insurance broker
 
@@ -68,13 +68,13 @@ An **insurance broker** is registered under the Insurance Act and acts **on beha
 
 #### The licensed adviser distinction
 
-An **licensed adviser** is an FA that is not tied to any single insurer, and so can advise across the market. A **tied agent**, by contrast, represents one insurer and distributes that insurer's products.
+A **licensed adviser** that is not tied to any single insurer can advise on products from more than one insurer. A **tied agent**, by contrast, represents one insurer and distributes that insurer's products.
 
 #### Covarage's framework
 
 Covarage carries on no regulated activity. Covarage:
 - Introduces SME prospects to licensed advisers
-- Provides factual information sourced from primary regulators
+- Provides factual information with its sources, which include regulators such as MAS
 - Does **not** recommend specific products
 - Does **not** conduct fact-finds
 - Does **not** hold premium or client funds
@@ -85,7 +85,7 @@ The commercial model follows from that scope: the platform is **free for SMEs wh
 
 **Working with an introducer**, an SME should expect factual information about products and frameworks and an introduction to a licensed entity - but no product recommendation and no fact-find. The introducer must disclose that it is an introducer, not an adviser.
 
-**Working with a licensed FA or broker**, an SME should expect a documented fact-find, a suitability assessment, and a product recommendation - with the full FAA regulatory protections, suitability obligations, and complaint-resolution routes that come with regulated advice.
+**Working with a licensed FA or broker**, an SME should expect a product recommendation. Where the product is a life policy or other investment product, the FAA also requires a documented fact-find and a suitability assessment, with the FAA regulatory protections and complaint-resolution routes that come with regulated advice.
 
 #### When each model fits
 
@@ -95,7 +95,7 @@ Going **direct to a licensed FA or broker** fits where the need is already a com
 
 #### The complementary role
 
-The introducer and the licensed adviser are not competitors - they are complementary stages. The **introducer** provides market education, factual orientation, and the gateway function; the **licensed adviser or broker** provides the regulated advice, the fact-find and suitability assessment, and the product placement. For the SME, the result is lower friction at the point of initial engagement, with the full regulatory protections applying once regulated advice begins.
+The introducer and the licensed adviser are not competitors - they are complementary stages. The **introducer** provides market education, factual orientation, and the gateway function; the **licensed adviser or broker** provides the regulated advice and the product placement, with the fact-find and suitability assessment the FAA requires for life policies and other investment products. For the SME, the result is lower friction at the point of initial engagement, with the full regulatory protections applying once regulated advice begins.
 
 #### Regulatory oversight
 
@@ -103,17 +103,17 @@ MAS regulates FAA compliance, conduct under the FAA Notices, and market conduct 
 
 #### Contractual scope
 
-An **introducer relationship** is documented through an introduction-fee arrangement between the introducer and the licensed entity. An **FA or broker relationship** is documented through an advisory agreement, supported by the fact-find and suitability documentation the FAA requires.
+An **introducer relationship** is documented through an introduction-fee arrangement between the introducer and the licensed entity. An **FA or broker relationship** is supported, for life policies and other investment products, by the fact-find and suitability documentation the FAA requires.
 
 #### Comparison summary
 
 | Consideration | FAA-N02 Introducer | Licensed FA / Broker |
 |---|---|---|
-| Regulatory framework | FAA-N02 Notice | FAA full licensing |
+| Regulatory framework | FAA-N02 Notice | FAA licence (FA) or Insurance Act registration (broker) |
 | Scope of activity | Introduction + factual info | Full regulated advisory |
-| Product recommendation | No | Yes |
-| Fact-find | No | Yes (mandatory) |
-| Suitability assessment | No | Yes (per FAA-N16) |
+| Product recommendation | No, on any investment product | Yes |
+| Fact-find | No | Yes, for life policies and other investment products |
+| Suitability assessment | No | Yes, for life policies and other investment products (per FAA-N16) |
 | Hold client funds | No | Yes (subject to specific framework) |
 | Bind cover | No | Yes |
 | Earn commission | No (introduction fee) | Yes |
@@ -125,7 +125,7 @@ An **introducer relationship** is documented through an introduction-fee arrange
 2. **An introducer providing advice.** A direct regulatory breach.
 3. **An introducer not disclosing its introducer status.**
 4. **No FA fact-find before giving advice.** A compliance breach.
-5. **No suitability documentation for a recommendation.** A compliance breach.
+5. **No suitability documentation for a recommendation on a life policy or other investment product.** A compliance breach.
 6. **No transparency on commission or fee.** A consumer-protection failing.
 7. **Complaint-resolution routes (FIDReC) not used** where they are available.
 8. **A complex placement handled without the right expertise.**
@@ -144,7 +144,7 @@ For Singapore SME founders evaluating insurance procurement:
 
 4. **Expect transparency on commission and fees.**
 
-5. **Expect suitability documentation** for any recommendation - it is also what supports a later dispute.
+5. **Expect suitability documentation** for any recommendation on a life policy or other investment product. It is also what supports a later dispute.
 
 6. **For a complex or industry-specific placement, use a specialist broker.**
 

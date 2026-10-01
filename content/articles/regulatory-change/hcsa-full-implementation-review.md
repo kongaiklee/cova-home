@@ -21,11 +21,11 @@ og_description: "HCSA replaced Singapore's old clinics framework with service-ba
 
 > **The Answer in 60 Seconds**
 >
-> The [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020), administered by [MOH](https://www.moh.gov.sg/), replaces the prior Private Hospitals and Medical Clinics Act framework with a service-based licensing approach: licences are issued for **specific service types** rather than premises types. Implemented in three phases between January 2022 and December 2023, the framework is now fully in force and the prior Act repealed. Key features: **service-based licensing** (e.g. specific outpatient medical service, specific allied health service, specific telehealth service), **risk-based regulatory tiers**, **specific medical advertising standards**, **specific safety and quality frameworks**, and **specific patient protection provisions**. For Singapore SMEs in healthcare or healthcare-adjacent operations: **specific licensing review** under HCSA framework, **specific Professional Indemnity considerations** for service-specific exposure, **specific premises and operational compliance**, and **specific industry-aware insurance** essential for proper coverage.
+> The [Healthcare Services Act 2020 (HCSA)](https://sso.agc.gov.sg/Act/HSA2020), administered by [MOH](https://www.moh.gov.sg/), replaces the prior Private Hospitals and Medical Clinics Act framework with a service-based licensing approach: licences are issued for **specific service types** rather than premises types. The framework was implemented in three phases between January 2022 and December 2023; all three phases have commenced and the prior Act is repealed. Key features: **service-based licensing** (e.g. outpatient medical service or outpatient dental service, with telemedicine approved as a remote mode of delivering a licensed service), **a risk-based regulatory approach**, **specific medical advertising standards**, **specific safety and quality frameworks**, and **specific patient protection provisions**. For Singapore SMEs in healthcare or healthcare-adjacent operations: **specific licensing review** under HCSA framework, **specific Professional Indemnity considerations** for service-specific exposure, **specific premises and operational compliance**, and **specific industry-aware insurance** essential for proper coverage.
 
 ### The Sourced Detail
 
-The HCSA represents the most significant restructuring of Singapore's healthcare regulatory framework in decades. The shift from premises-based to service-based licensing reflects the modern healthcare landscape including telehealth, specialised outpatient services, and integrated care models.
+The HCSA replaced the Private Hospitals and Medical Clinics Act, under which providers were licensed based only on physical premises. MOH made the shift from premises-based to service-based licensing to keep healthcare regulation up to date with new models of care, such as mobile care and virtual care.
 
 #### The framework background
 
@@ -40,19 +40,19 @@ Per the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020):
 **HCSA framework:**
 
 - Service-based licensing
-- Risk-based regulatory tiers
+- A risk-based regulatory approach
 - Operational service types
 - Operational operational standards
 
 **Specific service categories:**
 
-Per [MOH HCSA framework](https://www.moh.gov.sg/):
+Per [MOH's HCSA overview](https://www.hcsa.gov.sg/about-us/1-about-us/):
 
 - Outpatient medical service
-- Operational specialist services
-- Operational allied health services
-- Operational specific telehealth services
-- Operational specific other healthcare services
+- Outpatient dental service
+- Acute hospital, community hospital and nursing home services
+- Clinical support services such as clinical laboratory, radiological and blood banking services
+- Telemedicine is approved as a mode of delivering a licensed service, not licensed as a service of its own; allied health services are not licensed under HCSA at present
 
 #### Phased implementation progress
 
@@ -68,12 +68,12 @@ Per [MOH HCSA framework](https://www.moh.gov.sg/):
 
 **Phase 3 - 18 December 2023:**
 
-- Long-term care services and other specialised and newer services; Phase 3 repealed the Private Hospitals and Medical Clinics Act
+- Nursing home service, the last group of licensees previously regulated under the PHMCA; Phase 3 repealed the Private Hospitals and Medical Clinics Act
 - Operational operational maturation
 
 **Current status (May 2026):**
 
-- HCSA framework fully implemented across all service categories; the PHMCA no longer applies
+- All three phases have commenced; the PHMCA was repealed with effect from 18 December 2023 and no longer applies
 - Operational operational maturation
 
 #### Specific licensing implications
@@ -94,9 +94,9 @@ Per [MOH HCSA framework](https://www.moh.gov.sg/):
 
 - Operational specific compliance framework
 
-**Risk-based tiers:**
+**Risk-based approach:**
 
-- Specific risk-based assessment
+- MOH uses a risk-based approach to decide which services to license, and the frequency of inspections is risk-based
 - Operational operational standards
 
 - Operational specific compliance framework
@@ -141,33 +141,21 @@ PI is foundational and varies by service type:
 
 For different service categories:
 
-- General practice: typical limits S$1M-S$5M
-- Specialist practice: higher limits S$3M-S$10M+
-- Specific surgical: substantial limits often S$5M-S$20M+
-- Operational high-risk specialties: substantial limits
+- Cover is classified by practitioner type, from generalists through to specialists
 
 **Specific service-specific underwriting:**
 
-Insurers underwrite PI specifically by:
-
-- Specific service category
-- Operational specific complexity
-- Operational specific patient profile
-- Operational operational sophistication
+Insurers classify medical malpractice cover by practitioner type. Chubb Singapore, for example, lists classifications from generalists through to specialists, dentists, allied health professionals and TCM practitioners.
 
 **Specific HCSA implications:**
 
-The service-based framework creates specific underwriting clarity:
-
-- Specific service-by-service licensing
+An HCSA licence is issued for each licensable healthcare service, and MOH approves each mode of service delivery and each specified service under it.
 
 #### Specific telehealth considerations
 
-**Telehealth as specific HCSA service:**
+**Telehealth under HCSA:**
 
-Telehealth has specific HCSA licensing:
-
-- Specific service category
+Telemedicine is not a licensable healthcare service of its own. It is approved as the "Remote" mode of service delivery under a licensed service such as an Outpatient Medical Service:
 - Operational operational standards
 - Operational operational scope
 
@@ -187,11 +175,9 @@ For telehealth with cross-border patient base:
 
 #### Specific allied health considerations
 
-**Allied health HCSA framework:**
+**Allied health and HCSA:**
 
-For allied health practitioners under [Allied Health Professions Act 2011](https://sso.agc.gov.sg/Act/AHPA2011):
-
-- Specific service category
+Allied health services are potentially within the scope of HCSA, but MOH does not license them at present. Registered allied health professionals, such as physiotherapists, are regulated under the [Allied Health Professions Act 2011](https://sso.agc.gov.sg/Act/AHPA2011):
 - Operational operational standards
 - Operational operational scope
 
@@ -211,14 +197,13 @@ For allied health practitioners under [Allied Health Professions Act 2011](https
 
 **HCSA patient protection:**
 
-- Specific complaint frameworks
-- Operational specific dispute resolution
+- Protection of patients from abuse and neglect
+- Informed consent, and continuity of care when a service ceases
 - Operational operational scope
 - Operational operational standards
 
 **Specific implications for PI:**
 
-- Specific dispute resolution scope
 - Operational operational scope
 - Operational operational sophistication
 
@@ -278,7 +263,7 @@ For allied health practitioners under [Allied Health Professions Act 2011](https
 - Specific Professional Indemnity (service-specific)
 - Specific Public Liability (premises and operations)
 - Specific Property/Fire (premises)
-- Specific WICA (staff)
+- Work injury compensation insurance for staff (compulsory under the Work Injury Compensation Act 2019 for all employees doing manual work, and for non-manual employees earning S$2,600 a month or less)
 - Specific Cyber Liability (patient data and PDPA)
 - Specific Crime / Money
 
@@ -373,7 +358,7 @@ For Singapore SME healthcare operators:
 
 8. **Annual review covering framework evolution.**
 
-The HCSA framework represents structural simplification with elevated specific service-by-service compliance expectations. SMEs that align licensing and insurance to specific services benefit; SMEs without specific framework engagement face elevated risk.
+Under HCSA, each licensable service needs its own licence and has its own service-specific regulatory requirements, on top of the requirements that apply to all services. SMEs that align licensing and insurance to specific services benefit; SMEs without specific framework engagement face elevated risk.
 
 ### Questions to Ask Your Adviser
 

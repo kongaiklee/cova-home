@@ -42,7 +42,7 @@ The transitions between stages are the moments when the stack typically falls be
 
 The dominant insurance characteristic of incorporation is **what is not yet needed**, combined with **what becomes locked in from Day 1**.
 
-**Work Injury Compensation insurance** is required as soon as the first employee is hired - including the founder if the founder is paid through CPF and the founder's role is operationally classified within the WICA perimeter (manual workers and non-manual workers at or below S$2,600 per month per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)).
+**Work Injury Compensation insurance** is required as soon as the first employee is hired - including the founder if the founder is paid through CPF and the founder's role is operationally classified within the WICA perimeter (manual workers and non-manual workers at or below S$2,600 per month per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)). The duty does not apply to the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers.
 
 **Professional Indemnity (claims-made)** matters from the date the SME first advises a customer. The PI policy's **retroactive date** determines how far back in time the cover extends. A retroactive date of "inception" leaves all prior advice uninsured; a retroactive date of "the SME's incorporation date" picks up the advice given between incorporation and the policy inception. The retroactive date is set at the first policy and is difficult to push earlier at subsequent renewals; getting it right from Day 1 is the highest-leverage decision at this stage.
 

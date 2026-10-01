@@ -23,7 +23,7 @@ og_description: "REDAS is a private trade body, not a regulator. It issues no li
 >
 > The Real Estate Developers' Association of Singapore (REDAS) is a private, non-statutory trade body. It is not a regulator, it does not issue licences, and it does not impose mandatory member insurance. Joining REDAS does not, by itself, oblige you to buy a single policy. What actually drives a developer's insurance is statute and contract, and those apply whether or not you are a member.
 >
-> If you develop housing for sale, you must hold a licence under the [Housing Developers (Control and Licensing) Act 1965](https://sso.agc.gov.sg/Act/HDCLA1965) and open a Project Account under [section 9](https://sso.agc.gov.sg/Act/HDCLA1965#pr9-). If you sell commercial units off the plan, you are governed by the [Sale of Commercial Properties Act 1979](https://sso.agc.gov.sg/Act/SCPA1979). Neither Act makes a commercial insurance policy a licensing condition. But the contracts you sign to actually build and finance the project do: the building contract requires Contractors All Risks and public liability, the lender requires property and fire cover, and the development agreement may require a performance bond. Separately, because you employ people, [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) compels work-injury cover for your own staff. So REDAS membership is a commercial choice. The insurance that matters comes from the licence, the project contracts, and employment law.
+> If you develop housing for sale, you must hold a licence under the [Housing Developers (Control and Licensing) Act 1965](https://sso.agc.gov.sg/Act/HDCLA1965) and open a Project Account under [section 9](https://sso.agc.gov.sg/Act/HDCLA1965#pr9-). If you sell commercial units off the plan, you are governed by the [Sale of Commercial Properties Act 1979](https://sso.agc.gov.sg/Act/SCPA1979). Neither Act makes a commercial insurance policy a licensing condition. But the contracts you sign to actually build and finance the project do: the building contract requires Contractors All Risks and public liability, the lender requires property and fire cover, and the development agreement may require a performance bond. Separately, because you employ people, [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) compels work-injury cover for your own staff, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers. So REDAS membership is a commercial choice. The insurance that matters comes from the licence, the project contracts, and employment law.
 
 ### The Sourced Detail
 
@@ -57,9 +57,9 @@ The development agreement itself may require a performance bond, where the devel
 
 #### The one insurance the law makes you carry: WICA
 
-There is exactly one insurance obligation that attaches to a developer because of what it is rather than what it signs, and it has nothing to do with REDAS. A developer is an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees against the liabilities it may incur under the Act. That duty follows your headcount, not your membership and not your development licence. The scope of who must be covered, and the prescribed exclusions, are set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers). For workers on a live construction site the practical exposure is large, which is part of why the building contract and CAR arrangements sit alongside it.
+There is exactly one insurance obligation that attaches to a developer because of what it is rather than what it signs, and it has nothing to do with REDAS. A developer is an employer. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), every employer must take out and maintain approved work-injury insurance for its employees against the liabilities it may incur under the Act, subject to the excluded classes. That duty follows your headcount, not your membership and not your development licence. The scope of who must be covered, and the prescribed exclusions, are set out in our [complete guide to WICA insurance for Singapore employers](/document-legal/wica-complete-guide-singapore-employers). For workers on a live construction site the practical exposure is large, which is part of why the building contract and CAR arrangements sit alongside it.
 
-So the real picture is three layers, none of them the association. The development licence and the Project Account regulate how you sell and ring-fence money. The project contracts require CAR, public liability, property and fire, and sometimes a performance bond. Employment law requires WICA cover for your staff. REDAS sits outside all three.
+So the real picture is three layers, none of them the association. The development licence and the Project Account regulate how you sell and ring-fence money. The project contracts require CAR, public liability, property and fire, and sometimes a performance bond. Employment law requires WICA cover for your staff outside the excluded classes. REDAS sits outside all three.
 
 ### Common Mistakes
 
@@ -73,7 +73,7 @@ So the real picture is three layers, none of them the association. The developme
 
 5. **Under-insuring the asset against reinstatement cost.** Financier covenants require fire and material-damage cover, but the sum insured has to reflect rebuild cost, or an [average clause](/comparison/reinstatement-cost-vs-indemnity-value-property) can cut the payout.
 
-6. **Forgetting the WICA duty for the development entity's own staff.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows employment and is easy to overlook in a lean development company that subcontracts the build.
+6. **Forgetting the WICA duty for the development entity's own staff.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows employment, subject to the excluded classes, and is easy to overlook in a lean development company that subcontracts the build.
 
 ### What This Means for Your Business
 
@@ -83,7 +83,7 @@ Separate your insurance into the three layers that actually govern it. First, th
 
 Second, the project contracts: before each development, read the building contract, the facility agreement, and any development agreement, and list every insurance and bond requirement they impose. Confirm who places the project CAR and public liability, that the developer is correctly named, that property and fire cover matches reinstatement cost, and whether a performance bond is required and from whom. These are the requirements that bind, project by project.
 
-Third, your own staff: confirm the development entity carries WICA cover for its employees, regardless of how much of the build is subcontracted.
+Third, your own staff: confirm the development entity carries WICA cover for its employees outside the excluded classes, regardless of how much of the build is subcontracted.
 
 Covarage helps with the part that quietly goes wrong across a multi-year, multi-contract development: keeping the licence documents, the project policies, the bonds, and the WICA cover organised in one place, with every renewal date visible in one place, and a route to a licensed adviser when you need to arrange or compare cover.
 

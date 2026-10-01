@@ -21,7 +21,7 @@ og_description: "Tuition and enrichment centres for children aged 7 and above si
 
 > **The Answer in 60 Seconds**
 >
-> Tutoring centres and enrichment centres serving children aged 7 and above in Singapore are **not regulated by ECDA** (which covers children below 7). They typically operate under standard business registration with [ACRA](https://www.bizfile.gov.sg/), with specific industry registration where applicable (e.g. [Committee for Private Education (CPE)](https://www.cpe.gov.sg/) for certain Private Education Institutions). The insurance build typically includes: **Public Liability** with child-specific scope (typically S$1M-S$3M), **Professional Indemnity** for educational services, **WICA** for staff, **Property/Fire** for premises and equipment, **Cyber** for student/parent data (PDPA significant-harm category for minor data), and **Group Personal Accident** for students attending. Without ECDA framework's structure, insurance underwriting is more variable; rigorous operational standards (background checks for staff, child safeguarding policies, incident reporting) are essential.
+> Tutoring centres and enrichment centres serving children aged 7 and above in Singapore are **not regulated by ECDA** (which covers children below 7). They register their business with [ACRA](https://www.bizfile.gov.sg/), and under the Education Act a centre offering tuition or enrichment to 10 or more students must also be registered with the Ministry of Education (MOE), as must its tutors; Private Education Institutions are regulated by the [Skills and Workforce Development Agency (SWDA)](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources), which took over from SkillsFuture Singapore on 1 July 2026. The insurance build typically includes: **Public Liability** with child-specific scope, **Professional Indemnity** for educational services, **WICA** for staff, **Property/Fire** for premises and equipment, **Cyber** for student/parent data, and **Group Personal Accident** for students attending. Without ECDA framework's structure, rigorous operational standards (background checks for staff, child safeguarding policies, incident reporting) are essential.
 
 ### The Sourced Detail
 
@@ -37,17 +37,17 @@ The tuition and enrichment industry in Singapore is large, fragmented, and light
 - Generally operate as standard private businesses
 - ACRA registration
 - Standard business compliance (tax, employment, premises)
-- No specific tuition-industry-wide regulator
+- Registration with MOE under the Education Act if the centre teaches 10 or more students, with its tutors registered with MOE too
 
 **Private Education Institutions (PEIs) offering recognised qualifications:**
-- Regulated by [Committee for Private Education (CPE)](https://www.cpe.gov.sg/) - part of [SkillsFuture Singapore (SSG)](https://www.ssg.gov.sg/)
-- [EduTrust certification](https://www.cpe.gov.sg/edutrust-certification) for higher-level recognition
+- Regulated by the [Skills and Workforce Development Agency (SWDA)](https://www.swda.gov.sg/home/skills-career-resources/private-education-resources), which took over from SkillsFuture Singapore (SSG) on 1 July 2026
+- [EduTrust certification](https://www.tpgateway.gov.sg/resources/information-for-private-education-institutions-(peis)/edutrust-certification-scheme/about-edutrust-certification-scheme) for higher-level recognition
 - Specific compliance requirements
 
 **Enrichment / co-curricular providers:**
 - Music schools, art schools, dance studios, language schools, coding schools, etc.
 - Generally standard business registration
-- Specific certifications may apply (e.g. music examination boards) but no universal regulator
+- Specific certifications may apply (e.g. music examination boards); MOE registration is needed for a school offering education to 10 or more persons, which MOE says includes enrichment centres teaching subjects taught in mainstream schools
 
 **Child-specific considerations:**
 - [Children and Young Persons Act 1993](https://sso.agc.gov.sg/Act/CYPA1993)
@@ -59,13 +59,10 @@ The tuition and enrichment industry in Singapore is large, fragmented, and light
 The absence of ECDA-style framework means:
 
 **No mandatory baseline insurance:**
-ECDA requires specific insurance as licence condition; tutoring centres have no equivalent universal requirement.
-
-**Variable underwriting expectations:**
-Insurers don't have a standard "tuition centre" risk profile to the extent they do for ECDA-licensed centres.
+The ECDA Code of Practice mentions insurance only as an optional incidental charge for a child's insurance coverage, and MOE's list of documents for registering a tuition or enrichment centre does not include insurance.
 
 **Variable operational standards:**
-Without licensing-driven standards, the quality of staff vetting, premises safety, and operational discipline varies materially.
+Beyond MOE's registration requirements (fire safety, approved use of the premises and registered tutors), the quality of staff vetting, premises safety, and operational discipline depends largely on each operator.
 
 **Reputation-driven market:**
 Quality signals come from market reputation, parent reviews, professional certifications - not regulatory licensing.
@@ -90,7 +87,7 @@ Tuition and enrichment centres face exposures similar in some ways to ECDA-licen
 - Defamation in student/parent communications
 
 **Cyber Liability:**
-- Student personal data (highly sensitive PDPA category for minors)
+- Student personal data (PDPC guidance: minors' personal data is generally considered sensitive and must be given a higher standard of protection)
 - Parent contact and payment data
 - Performance and academic records
 - Photographs and videos
@@ -181,7 +178,7 @@ Sharing student performance information inappropriately.
 #### Cyber and PDPA - the heightened sensitivity
 
 Tuition and enrichment centres hold:
-- Student personal data (highly sensitive - minor data triggers PDPA significant-harm category)
+- Student personal data (PDPC guidance: minors' personal data is generally considered sensitive and must be given a higher standard of protection)
 - Parent contact information
 - Payment information
 - Academic performance records
@@ -197,7 +194,7 @@ Cyber Liability with appropriate limits and panel response infrastructure is mea
 
 #### Operational risk management as insurance complement
 
-For insurers underwriting tuition/enrichment centres, key operational standards:
+Key operational standards for tuition and enrichment centres:
 
 **Staff vetting:**
 - Background checks (criminal record check for staff working with children)
@@ -231,11 +228,11 @@ For insurers underwriting tuition/enrichment centres, key operational standards:
 
 #### Group Personal Accident for students
 
-Many tuition/enrichment centres include Group PA for students as a parent benefit:
+A tuition or enrichment centre can include Group PA for students as a parent benefit:
 - Death and disability cover during centre activities
 - Sometimes 24/7 coverage
 - Per-student premium proportionate to enrolment
-- Often included in fees or offered as opt-in
+- Can be included in fees or offered as opt-in
 
 Provides parent reassurance and addresses no-fault accident scenarios where PL would require fault demonstration.
 
@@ -244,11 +241,8 @@ Provides parent reassurance and addresses no-fault accident scenarios where PL w
 For typical Singapore tuition/enrichment centre:
 
 **Small centre (50-100 students, 5-10 staff):**
-- PL: S$1,500-S$4,000
-- PI: S$1,000-S$3,000
 - Group PA for students: per enrolment scale
-- WICA, Property, Cyber, Group Medical/PA staff: S$5,000-S$15,000
-- **Total annual insurance budget** typically S$10,000-S$30,000
+- **Total annual insurance budget** varies with enrolment, activities taught, limits chosen and claims history
 
 **Mid-size operator (100-300 students, multiple branches):**
 - Higher aggregate limits
@@ -271,10 +265,9 @@ For typical Singapore tuition/enrichment centre:
 **Scenario B: Music school with multiple genres and performance programmes**
 - Instrument property cover (sometimes high-value)
 - Performance event PL
-- Specialist PI underwriting
 
 **Scenario C: Sports academy (martial arts, swimming, gymnastics)**
-- High PL/PI underwriting given physical injury exposure
+- PL/PI limits and wording to check for the physical injury exposure
 - Specific waiver and informed consent practices
 - Equipment property
 - Possibly higher Group PA
@@ -289,7 +282,7 @@ For typical Singapore tuition/enrichment centre:
 1. **Treating tuition centre as low-risk SME without child-specific underwriting.** Overlooks key exposures.
 2. **No background checks on staff.** Major operational and reputational risk.
 3. **Standard PL without inter-student and field trip coverage.** Common scenarios uncovered.
-4. **Inadequate Cyber for minor data.** PDPA significant-harm exposure.
+4. **Inadequate Cyber for minor data.** A breach of students' data can trigger PDPA breach-notification duties.
 5. **No PI for educational services.** Outcome-based claims uninsured.
 6. **No Group PA for students.** Parent expectations unmet.
 7. **Photography without parent consent.** PDPA exposure.
@@ -321,7 +314,7 @@ The light regulation creates flexibility but also responsibility. Operators who 
 
 1. For my specific tuition or enrichment type, what are the typical underwriting categories and standards expected?
 2. Does my PL specifically cover inter-student incidents, field trips, and pick-up/drop-off scenarios?
-3. For minor student data, is my Cyber Liability appropriate to PDPA significant-harm exposure?
+3. For minor student data, is my Cyber Liability appropriate to our PDPA breach-notification exposure?
 4. Is Group PA for students appropriate to my parent demographic and centre type?
 5. As I scale (more students, more branches, more programmes), what insurance milestones should I plan for?
 

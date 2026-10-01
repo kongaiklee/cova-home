@@ -21,7 +21,7 @@ og_description: "IRDA consolidated Singapore's insolvency framework and sharpene
 
 > **The Answer in 60 Seconds**
 >
-> The [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) consolidated Singapore's insolvency framework - replacing the earlier Bankruptcy Act and the corporate winding-up provisions of the Companies Act. For directors of distressed Singapore companies, IRDA creates personal liability scenarios: **Section 239** (wrongful trading - director liability for continuing to trade with no reasonable prospect of avoiding insolvent winding-up; it replaced the old "insolvent trading" provision in the Companies Act), **Section 238** (fraudulent trading), **Section 224** (transactions at undervalue), and **Section 225** (unfair preferences). Combined with the general director duties in [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967), the framework imposes meaningful personal exposure. **D&O insurance** typically responds to defence costs and indemnification for these exposures, but standard exclusions - fraud, dishonesty, deliberate breach - limit cover. Run-off cover at company sale, restructuring, or dissolution is essential for ongoing protection.
+> The [Insolvency, Restructuring and Dissolution Act 2018 (IRDA)](https://sso.agc.gov.sg/Act/IRDA2018) consolidated Singapore's insolvency framework - replacing the earlier Bankruptcy Act and the corporate winding-up provisions of the Companies Act. For directors of distressed Singapore companies, IRDA creates personal liability scenarios: **Section 239** (wrongful trading: where the company, while insolvent or in a way that makes it insolvent, incurs debts it has no reasonable prospect of paying in full, a person party to it who knew of it, or as an officer ought to have known of it, can be made personally liable; it replaced the old "insolvent trading" provision in the Companies Act), **Section 238** (fraudulent trading), **Section 224** (transactions at undervalue), and **Section 225** (unfair preferences). Combined with the general director duties in [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967), the framework imposes meaningful personal exposure. **D&O insurance** typically responds to defence costs and indemnification for these exposures, but standard exclusions - fraud, dishonesty, deliberate breach - limit cover. Run-off cover at company sale, restructuring, or dissolution is essential for ongoing protection.
 
 ### The Sourced Detail
 
@@ -39,15 +39,15 @@ The [IRDA 2018](https://sso.agc.gov.sg/Act/IRDA2018) consolidates and modernises
 
 #### Director duties at the solvency boundary
 
-Directors' duties traditionally run to shareholders. As insolvency approaches, the focus shifts: directors must begin to consider **creditors'** interests. Singapore's framework for this comes from the general duties in Companies Act Section 157, the IRDA wrongful-trading provisions, and the case law applying them. The practical consequence is that commercial decisions and transactions made during distress will be scrutinised after the fact for their effect on creditors.
+Directors' duties are owed to the company, and while it is financially healthy directors may treat the shareholders' interests as a proxy for the company's. As insolvency approaches, the focus shifts: directors must begin to consider **creditors'** interests. Singapore's framework for this comes from the general duties in Companies Act Section 157, the IRDA wrongful-trading provisions, and the case law applying them. The practical consequence is that commercial decisions and transactions made during distress will be scrutinised after the fact for their effect on creditors.
 
 #### IRDA provisions creating director exposure
 
-**Section 239 - Wrongful trading.** A director can be made personally liable where the company traded while the director knew, or ought to have concluded, that there was no reasonable prospect of avoiding insolvent winding-up. The elements are the director's actual or constructive knowledge, the absence of any reasonable prospect of avoiding insolvency, and the company's continued trading. The defence is that the director took every step they ought to have taken to minimise creditor loss - which is why contemporaneous documentation matters. Section 239 replaced the old "insolvent trading" provision (Companies Act s.339(3)).
+**Section 239 - Wrongful trading.** A director can be made personally liable where the company traded wrongfully and the director knew it, or, as an officer, ought to have known it. A company trades wrongfully if, while insolvent, it incurs debts it has no reasonable prospect of paying in full, or if it incurs such debts and they make it insolvent. The Court may relieve a person, wholly or partly, if the person acted honestly and ought fairly to be relieved (s 239(2)), which is one reason contemporaneous documentation matters. Section 239 replaced the old "insolvent trading" provision (Companies Act s.339(3)).
 
 **Section 238 - Fraudulent trading.** Where business is carried on with intent to defraud creditors, those knowingly party to it can be made personally liable. This is the egregious end of the spectrum - continued trading that is clearly fraudulent, or concealment of the company's true position - and it also carries criminal exposure.
 
-**Section 224 - Transactions at undervalue.** A transaction at a gross undervalue, entered into within the statutory look-back period before the onset of insolvency, can be challenged and unwound by a liquidator or judicial manager. The typical scenario is a sale of assets below market value, often to a related party.
+**Section 224 - Transactions at undervalue.** A gift, or a transaction for consideration significantly less than what the company gave, entered into within the statutory look-back period before the judicial management or winding up began, while the company was unable to pay its debts or with the result that it became unable to, can be challenged and unwound by a liquidator or judicial manager. The typical scenario is a sale of assets below market value, often to a related party.
 
 **Section 225 - Unfair preferences.** Putting one creditor in a better position than others, within the statutory look-back period (longer where the creditor is an associate of the company), can be challenged and unwound by a liquidator or judicial manager. The typical scenario is paying a particular creditor - often a related party - immediately before insolvency.
 
@@ -59,11 +59,11 @@ In parallel with IRDA, [Companies Act 1967 Section 157](https://sso.agc.gov.sg/A
 
 #### Scenarios where directors face exposure
 
-- **Continued trading while insolvent** - Section 239 wrongful trading; the analysis turns on what the director knew or ought to have known, and on whether they took every step to minimise creditor loss.
+- **Continued trading while insolvent** - Section 239 wrongful trading; the analysis turns on what the director knew or ought to have known, and on whether they acted honestly, which the Court weighs in deciding whether to relieve them.
 - **A creditor paid before others while insolvent** - Section 225 unfair preference; a liquidator can challenge the payment.
 - **An asset transferred to a related party at low value before insolvency** - Section 224 transaction at undervalue; the valuation and the timing relative to the onset of insolvency are central.
 - **A director's loan repaid while the company is insolvent** - typically a Section 225 unfair preference, given the director is an associate.
-- **Continuing to incur debts knowing payment is uncertain** - Section 239 wrongful trading.
+- **Incurring debts with no reasonable prospect of paying them in full, while insolvent or in a way that makes the company insolvent** - Section 239 wrongful trading.
 - **Misrepresentation to obtain credit during distress** - Section 238 fraudulent trading, with significant personal and potential criminal exposure.
 
 #### D&O insurance response
@@ -98,7 +98,7 @@ This is precisely when D&O cover - and run-off, where the directors have already
 
 For directors of a Singapore company under financial pressure, five disciplines reduce personal exposure:
 
-1. **Board minutes** - record decisions made during distress, the rationale, the information considered, and the advice obtained. This is the evidential basis of the Section 239 defence.
+1. **Board minutes** - record decisions made during distress, the rationale, the information considered, and the advice obtained. It is evidence of what the directors knew and of whether they acted honestly, both of which matter under Section 239.
 2. **Professional advice** - engage an insolvency practitioner, commercial counsel, and accounting or forensic support early, not only at formal insolvency.
 3. **Transaction discipline** - avoid transactions at undervalue (especially to related parties) and avoid preferring particular creditors.
 4. **Information and disclosure** - maintain creditor and lender communication, and meet covenant and regulatory disclosure obligations.
@@ -106,7 +106,7 @@ For directors of a Singapore company under financial pressure, five disciplines 
 
 #### Singapore case patterns
 
-The [Singapore courts](https://www.judiciary.gov.sg/supreme-court) have developed case law on director duties in insolvency - including Court of Appeal decisions on wrongful trading and cases on transactions at undervalue and fraudulent trading. Insolvency is also concentrated in particular sectors (construction is a recurring example), and founder-CEO companies - where ownership and management sit in the same hands - raise their own governance considerations. A director facing distress should take advice on the case law as it applies to their specific facts.
+The Singapore courts have developed case law on director duties in insolvency - including Court of Appeal decisions on wrongful trading and cases on transactions at undervalue and fraudulent trading. Founder-CEO companies - where ownership and management sit in the same hands - raise their own governance considerations. A director facing distress should take advice on the case law as it applies to their specific facts.
 
 #### Premium considerations for D&O
 
@@ -127,7 +127,7 @@ Insurers underwrite director-level risk in distressed contexts on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Continuing to trade past a reasonable expectation of insolvency.** Section 239 wrongful trading exposure.
+1. **Incurring debts the company has no reasonable prospect of paying in full, while insolvent or in a way that makes it insolvent.** Section 239 wrongful trading exposure.
 2. **Transactions at undervalue with related parties.** Section 224 exposure.
 3. **Preferring particular creditors before insolvency.** Section 225 exposure.
 4. **No documented advice or decision-making.** Weakens the defence to a claim.
@@ -148,7 +148,7 @@ For Singapore SME directors and founders:
 
 3. **Engage insolvency-practitioner advice early** - not only once formal insolvency has begun.
 
-4. **Document board decisions thoroughly**, especially during distress - it is the evidential basis of the wrongful-trading defence.
+4. **Document board decisions thoroughly**, especially during distress - it is evidence of what the directors knew and of whether they acted honestly, both of which matter in a wrongful-trading claim.
 
 5. **Avoid the transactions that get unwound** - undervalue transfers, creditor preferences, and related-party benefits.
 

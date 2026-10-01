@@ -56,7 +56,7 @@ In its [2025 GenAI Code Security Report](https://www.veracode.com/blog/genai-cod
 
 ### Snyk: nearly every developer uses these tools, more than half hit security problems
 
-In Snyk's 2023 AI Code Security Report, a survey of more than 500 technology professionals taken in late 2023 and published in January 2024, 56.4% said insecure AI suggestions are common. Snyk's [2024 State of Open Source Security report](https://snyk.io/blog/2024-open-source-security-report-slowing-progress-and-new-challenges-for/) added that 45% of organisations had to replace vulnerable build components in 2024 - supply-chain exposure that AI coding tools accelerate rather than reduce.
+In Snyk's 2023 AI Code Security Report, a survey of more than 500 technology professionals taken in late 2023 and published in November 2023, 56.4% said insecure AI suggestions are common. Snyk's [2024 State of Open Source Security report](https://snyk.io/blog/2024-open-source-security-report-slowing-progress-and-new-challenges-for/) added that 45% of organisations had to replace vulnerable build components in 2024, and it called the slow uptake of security practices concerning given "the potential for AI-injected vulnerabilities".
 
 ### Slopsquatting: about one in five AI-suggested packages does not exist
 
@@ -67,7 +67,7 @@ The supply-chain twist is "slopsquatting," a term coined by security researcher 
 - 58% recurred at least once.
 - 38% of hallucinated names were "inspired by real packages"; 13% were typos; 51% were entirely fabricated.
 
-The repeatability is the attack vector. An attacker who watches LLM output for popular hallucinations can register the fake name on PyPI or npm and wait for the next developer to copy-paste the install command. Lasso Security researcher Bar Lanyado demonstrated this with `huggingface-cli`, an empty package he registered on PyPI in his ["Diving Deeper into AI Package Hallucinations" research](https://www.lasso.security/blog/ai-package-hallucinations); the package was downloaded over 30,000 times in three months, and Alibaba had copy-pasted the hallucinated install command into the README of one of their public repositories.
+The repeatability is the attack vector. An attacker who watches LLM output for popular hallucinations can register the fake name on PyPI or npm and wait for the next developer to copy-paste the install command. Lasso Security researcher Bar Lanyado demonstrated this with `huggingface-cli`, an empty package he registered on PyPI in his ["Diving Deeper into AI Package Hallucinations" research](https://www.lasso.security/blog/ai-package-hallucinations); the package was downloaded over 30,000 times in three months, and instructions to install it appeared in the README of a repository for research conducted by Alibaba.
 
 ---
 
@@ -91,7 +91,7 @@ Three events in the six weeks to 10 September 2026 put the risks above on the re
 
 ### Samsung, April 2023: ChatGPT source-code paste leads to a company-wide ban
 
-In April 2023, Samsung engineers pasted proprietary source code and a recorded internal meeting into ChatGPT. [Fortune, 2 May 2023](https://fortune.com/2023/05/02/samsung-bans-employee-use-chatgpt-data-leak/) Samsung's emergency ban on 2 May 2023, citing an internal memo. Fortune's [list of 19 May 2023](https://fortune.com/2023/05/19/chatgpt-banned-workplace-apple-goldman-risk-privacy/) of companies that had banned or restricted ChatGPT ran to Apple, JPMorgan Chase, Verizon, Amazon, Goldman Sachs, Deutsche Bank, Bank of America, Wells Fargo and Citi; several of those restrictions dated from February 2023, before Samsung's leak.
+In April 2023, Samsung engineers pasted proprietary source code and a recorded internal meeting into ChatGPT. [Fortune reported on 2 May 2023](https://fortune.com/2023/05/02/samsung-bans-employee-use-chatgpt-data-leak/) that Samsung was banning staff from using generative AI tools such as ChatGPT at work, citing an internal memo sent to staff on Monday 1 May; Samsung later said the ban was temporary. Fortune's [list of 19 May 2023](https://fortune.com/2023/05/19/chatgpt-banned-workplace-apple-goldman-risk-privacy/) of companies that had banned or restricted ChatGPT ran to Apple, Bank of America, Calix, Citigroup, Deutsche Bank, Goldman Sachs, JPMorgan Chase, Northrop Grumman, Verizon and Samsung, with Accenture, Amazon and PwC Australia listed separately as not having banned it outright but having asked staff not to share confidential information on it; several of those restrictions dated from February 2023, before Samsung's leak.
 
 ### The "vibe coding" phenomenon - and why it matters for insurance
 
@@ -101,7 +101,7 @@ The label was coined by former OpenAI co-founder and Tesla AI director Andrej Ka
 
 Karpathy was describing his own throwaway weekend project, not enterprise practice. But by the time Collins Dictionary named "vibe coding" its Word of the Year on 6 November 2025 - Collins Managing Director Alex Beecroft framing the choice as one that "perfectly captures how language is evolving alongside technology… a major shift in software development, where AI is making coding more accessible" - the term had been swept into production workflows it was never designed for. Stack Overflow's [2025 Developer Survey](https://survey.stackoverflow.co/2025/ai), with results [announced in July 2025](https://stackoverflow.blog/2025/12/29/developers-remain-willing-but-reluctant-to-use-ai-the-2025-developer-survey-results-are-here/), found that 84% of developers either use or plan to use AI tools in their workflow (up from 76% in 2024), while 46% of developers said they do not trust the accuracy of the output from those tools and trust in AI accuracy fell from 40% in 2024 to 29% in 2025.
 
-For an insurance underwriter, the relevant translation is this: the volume of code being shipped has multiplied, the median time spent reviewing it has shrunk, and the human-in-the-loop has been reduced to a click on "Accept All."
+For an insurance underwriter, the relevant translation is this: most developers now use or plan to use AI tools, and in the workflow Karpathy described the human-in-the-loop is reduced to a click on "Accept All."
 
 ---
 
@@ -115,7 +115,7 @@ The Open Worldwide Application Security Project published its [Top 10 for LLM Ap
 - **LLM05:2025 Improper Output Handling** - when AI-generated code, SQL or shell commands are executed without validation (the Replit Agent root-cause class).
 - **LLM06:2025 Excessive Agency** - when an AI agent has tool access wider than the task requires (production database write privileges, when read-only would have done).
 - **LLM08:2025 Vector and Embedding Weaknesses** - relevant where SMEs build retrieval-augmented features into AI-generated code.
-- **LLM09:2025 Misinformation / Overreliance** - Stanford's "more confident, less secure" finding mapped onto an OWASP category.
+- **LLM09:2025 Misinformation** (its entry treats overreliance as a related issue) - Stanford's "more confident, less secure" finding mapped onto an OWASP category.
 
 Singapore's Cyber Security Agency's [Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/Tips-Resource/publications/2024/guidelines-on-securing-ai), published 15 October 2024, reference the MITRE ATLAS database and the OWASP Top 10 lists for Machine Learning and for Generative AI among their resources.
 
@@ -141,7 +141,7 @@ These are illustrative composites built from documented incident patterns. Names
 
 Under [Section 26D of the Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=P16A-) read with the [Personal Data Protection (Notification of Data Breaches) Regulations 2021](https://sso.agc.gov.sg/SL/PDPA2012-S64-2021?DocDate=20210930), an organisation that has assessed a breach as notifiable must notify the Personal Data Protection Commission "as soon as is practicable, but in any case no later than 3 calendar days." A breach is notifiable if it (a) is likely to result in significant harm or (b) affects 500 or more individuals.
 
-The financial-penalty cap, in force since 1 October 2022 under [section 48J of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=P15J-), is the higher of S$1 million or 10% of an organisation's annual Singapore turnover where Singapore turnover exceeds S$10 million. For a Series A SaaS company hitting S$15 million in Singapore revenue, that is a S$1.5 million ceiling on a single PDPA breach.
+The financial-penalty cap, in force since 1 October 2022 under [section 48J of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012?ProvIds=pr48J-), is the higher of S$1 million or 10% of an organisation's annual Singapore turnover where Singapore turnover exceeds S$10 million. For a Series A SaaS company hitting S$15 million in Singapore revenue, that is a S$1.5 million ceiling on a single PDPA breach.
 
 ### Cybersecurity Act 2018 as amended in 2024
 
@@ -149,7 +149,7 @@ For the few SMEs that own or operate designated Critical Information Infrastruct
 
 ### The Spandeck duty of care, applied to software defects
 
-Singapore's universal tort-of-negligence test is the two-stage [Spandeck Engineering v Defence Science & Technology Agency [2007] SGCA 37](https://www.elitigation.sg/gdviewer/s/2007_SGCA_37) framework: factual foreseeability as a threshold, then proximity, then policy. A Singapore SME that ships AI-generated code with a known-exploitable vulnerability to a customer that suffers loss is on the wrong side of all three limbs unless its contract carves the duty out.
+Singapore's universal tort-of-negligence test is the two-stage [Spandeck Engineering v Defence Science & Technology Agency [2007] SGCA 37](https://www.elitigation.sg/gdviewer/s/2007_SGCA_37) framework: factual foreseeability as a threshold, then proximity, then policy. A customer's claim in negligence that it suffered loss because an SME shipped AI-generated code with a known-exploitable vulnerability would be tested against this framework, which the Court of Appeal applies to pure economic loss as well.
 
 ### Sale of Goods, supply of services, and the CPFTA
 
@@ -208,8 +208,6 @@ Affirmative-AI wordings announced since 2024, and the territories each announcem
 - Armilla AI Liability Insurance with Chaucer (Lloyd's) - covers legal costs and liabilities from an AI solution failing to perform as intended, critical errors, hallucinations or inaccuracies; sold through US surplus lines brokers.
 - **Beazley / Chubb / Munich Re - Google Cloud Risk Protection Programme** - for Google Cloud-native customers, [Beazley offers a single-page attestation in lieu of full underwriting](https://cloud.google.com/security/products/risk-protection-program); affirmative AI coverage is part of the offering.
 
-Standard SG-distributed cyber and Tech E&O capacity in 2026 sits with AIG, Chubb, AXA XL, Tokio Marine, MSIG, Allianz Commercial, Sompo, Zurich, QBE, Liberty Specialty Markets and a range of Lloyd's Asia syndicates.
-
 ### The 2026 soft market: a window to negotiate
 
 According to Marsh's [Q1 2026 Global Insurance Market Index](https://www.marsh.com/en/about/media/global-commercial-insurance-rates-fall-5-percent-in-q1-2026.html), released 22 April 2026, global commercial insurance rates fell 5% in Q1 2026, the seventh consecutive quarterly decline. Cyber insurance rates declined 5% globally; financial and professional lines declined 5%. The Asia composite fell 5%. Marsh attributes the decline to "abundant capacity and intense insurer competition across most major product lines." A seventh consecutive quarter of falling rates is the buyer's side of the table.
@@ -219,10 +217,10 @@ According to Marsh's [Q1 2026 Global Insurance Market Index](https://www.marsh.c
 Across cyber, Tech E&O and PI, the exclusions that catch AI-code claims are:
 
 - **Open-source-licence and IP-infringement carve-outs** - a Tech E&O policy that excludes IP infringement will not respond to a claim that AI generated GPL-licensed code into a proprietary product.
-- Prior acts and known circumstances - a vulnerability that pre-dates inception and was logged in your issue tracker falls within this exclusion.
+- Prior acts and known circumstances - a vulnerability that pre-dates inception and was logged in your issue tracker may be argued to fall within it, depending on the wording.
 - **Contractual liability assumed beyond standard terms** - overly broad indemnities to enterprise customers can fall outside cover.
 - Bodily injury and property damage - excluded from cyber and Tech E&O wordings and left to GL or product-liability cover.
-- **War and infrastructure exclusions** - [Lloyd's Market Bulletin Y5381 of 16 August 2022](https://assets.lloyds.com/media/35926dc8-c885-497b-aed8-6d2f87c1415d/Y5381%20Market%20Bulletin%20-%20Cyber-attack%20exclusions.pdf) required a state-backed cyber-attack exclusion in every stand-alone cyber policy incepting or renewing from 31 March 2023.
+- **War and infrastructure exclusions** - [Lloyd's Market Bulletin Y5381 of 16 August 2022](https://assets.lloyds.com/media/35926dc8-c885-497b-aed8-6d2f87c1415d/Y5381%20Market%20Bulletin%20-%20Cyber-attack%20exclusions.pdf) required, unless Lloyd's agreed otherwise, a state-backed cyber-attack exclusion in every stand-alone cyber-attack policy written at Lloyd's (risk codes CY and CZ) incepting or renewing from 31 March 2023.
 
 ---
 
@@ -243,9 +241,9 @@ Third, the 2026 soft market is the negotiation window. Marsh's data shows a seve
 3. **Integrate static application security testing (SAST) and software composition analysis (SCA) into CI/CD.** Veracode, Snyk, Semgrep, GitHub Advanced Security, and CodeRabbit all have mature offerings; the [CSA Addendum on Securing Agentic AI](https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems/) specifically references SCA as a control.
 4. **Run secrets scanning before every push.** Hardcoded API keys are a recurrent AI-code failure mode; tools like GitGuardian, TruffleHog and GitHub secret scanning catch them.
 5. **Verify every package exists on the official registry before installing.** Pin versions; use lockfiles. The slopsquatting attack collapses if you do not run `pip install` on a package the AI just made up.
-6. **Threat-model AI-generated components specifically.** Map agent privileges; apply least privilege. The CSA Draft Addendum's instruction is unambiguous: "Do not allow agents to modify privileges."
+6. **Threat-model AI-generated components specifically.** Map agent privileges; apply least privilege. The CSA Addendum's instruction is unambiguous: "Do not allow agents to modify privileges."
 7. **Penetration-test before each material release** - and contractually require it for any product handling personal data.
-8. **Conduct vendor due diligence on AI coding tool providers.** Read the terms on training-data use, output ownership, IP indemnification and data residency. Samsung's 2023 ban came down to terms few read.
+8. **Conduct vendor due diligence on AI coding tool providers.** Read the terms on training-data use, output ownership, IP indemnification and data residency. Samsung's 2023 ban followed staff sending confidential material to a service whose provider said it could use submissions for training.
 9. **Audit your insurance stack against AI-code failure modes.** Cyber, Tech E&O, PI, Product Liability, D&O and Media/IP - check definitions of "security failure," "wrongful act," and any AI-specific exclusions.
 10. **Write a PDPA Section 26D-compliant incident-response playbook.** Three calendar days from assessment is short. The clock starts whether your CTO is on a flight to Tokyo or not.
 
@@ -271,7 +269,7 @@ When you sit down with a licensed Independent Financial Adviser or broker, the f
 - [Unpatched Software and Your Cyber Policy: What CSA's September 2026 Alerts Mean for a Singapore SME Claim](/emerging-risk/unpatched-software-cyber-insurance-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
-- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [MAS AIRG, IMDA MGF, EU AI Act: The AI Compliance Timeline for Singapore SMEs](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
 - [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
 - [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
 - [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)

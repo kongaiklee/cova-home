@@ -21,11 +21,11 @@ og_description: "Singapore migrant worker medical insurance entered Stage 2 on 1
 
 > **The Answer in 60 Seconds**
 >
-> Effective **1 July 2025**, [MOM's enhanced Medical Insurance requirements for Work Permit and S Pass holders](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) entered Stage 2, introducing three structural changes affecting Singapore SMEs employing foreign workers: (1) **age-differentiated premiums** with separate pricing bands for workers ≤50 and >50; (2) **MOM-standardised allowable exclusion clauses** in three categories - elective / non-medically necessary treatment; treatment from employer or worker acts; medical equipment plus repatriation; (3) **mandatory direct insurer-to-hospital reimbursement** removing employer cash-flow burden of front-paying and seeking reimbursement. Stage 1 baseline (effective 1 July 2023) retained: **annual coverage minimum SGD 60,000** per worker for inpatient + day-surgery costs; **co-payment 75% insurer / 25% employer** above the first SGD 15,000 of claim. With approximately **1.2 million Work Permit + S Pass holders** in Singapore (MOM data) and approximately 95% of migrant workers under 50 (per MOM), the age-differentiated structure benefits the dominant cohort; older workers face higher premiums. Procedural changes affect employer cash management (no front-pay), policy comparison (standardised exclusions allow apples-to-apples comparison), and renewal pricing structure (age-band re-rating). Separately announced 14 December 2025: Primary Care Plan (PCP) enhancements rolling out 1 April 2027.
+> Effective **1 July 2025**, [MOM's enhanced Medical Insurance requirements for Work Permit and S Pass holders](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) entered Stage 2, introducing three structural changes affecting Singapore SMEs employing foreign workers: (1) **age-differentiated premiums** with separate pricing bands for workers ≤50 and >50; (2) **MOM-standardised allowable exclusion clauses** in three categories - elective / non-medically necessary treatment; treatment resulting from employers' or workers' acts; and others, such as pre-existing conditions in the first 12 months, medical equipment and medical repatriation; (3) **mandatory direct insurer-to-hospital reimbursement** removing employer cash-flow burden of front-paying and seeking reimbursement. Stage 1 baseline (effective 1 July 2023) retained: **annual coverage minimum SGD 60,000** per worker for inpatient + day-surgery costs; **co-payment 75% insurer / 25% employer** above the first SGD 15,000 of claim. With about **1.42 million Work Permit and S Pass holders** in Singapore (MOM, June 2026) and approximately 95% of migrant workers under 50 (per MOM), the age-differentiated structure benefits the dominant cohort; older workers face higher premiums. Procedural changes affect employer cash management (no front-pay), policy comparison (standardised exclusions allow apples-to-apples comparison), and renewal pricing structure (age-band re-rating). Separately announced 14 December 2025: Primary Care Plan (PCP) enhancements rolling out 1 April 2027.
 
 ### The Sourced Detail
 
-The Stage 2 MWMI implementation is the most significant change to [foreign worker medical insurance](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore) in Singapore in a decade. The framework affects every SME employing Work Permit or S Pass holders - totalling approximately 1.2 million workers across construction, manufacturing, F&B, healthcare, marine, retail and services.
+Stage 2 completes the two-stage enhancement of [foreign worker medical insurance](/document-legal/foreign-worker-medical-insurance-complete-guide-singapore) in Singapore that MOM began on 1 July 2023. The framework affects every SME employing Work Permit or S Pass holders - totalling about 1.42 million in June 2026 (MOM), including 323,800 migrant domestic workers, with the rest across construction, manufacturing, F&B, healthcare, marine, retail and services.
 
 #### Regulatory framework
 
@@ -33,7 +33,7 @@ The Stage 2 MWMI implementation is the most significant change to [foreign worke
 
 **Subsidiary regulations.** [Employment of Foreign Manpower (Work Passes) Regulations 2012](https://sso.agc.gov.sg/SL/EFMA1990-S569-2012) - establishes specific work pass conditions including medical insurance.
 
-**Administering body.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) - sets and enforces requirements; publishes approved insurer list.
+**Administering body.** [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) - sets and enforces requirements; employers can buy from any insurer whose policy meets MOM's minimum requirements.
 
 **Original announcement.** MOM media statement 31 March 2023 outlining two-stage enhancement: Stage 1 effective 1 July 2023, Stage 2 effective 1 July 2025.
 
@@ -46,9 +46,9 @@ The Stage 2 MWMI implementation is the most significant change to [foreign worke
 
 **Coverage excluded by baseline:**
 - Outpatient treatment (subject to separate Primary Care Plan)
-- Mental health
+- Mental disorders, but only from the second treatment onwards
 - Maternity
-- Pre-existing conditions diagnosed before pass start
+- Pre-existing conditions known before the cover started, within the first 12 months of employment with the same employer
 
 **Annual coverage limit:** Minimum **SGD 60,000** per worker per policy year (raised from SGD 15,000 pre-2023).
 
@@ -59,7 +59,7 @@ The Stage 2 MWMI implementation is the most significant change to [foreign worke
 **Worker categories covered:**
 - Work Permit holders (all sectors)
 - S Pass holders
-- Migrant Domestic Workers (separate framework)
+- Migrant Domestic Workers (the same enhanced MI, plus personal accident insurance)
 
 #### Stage 2 changes (effective 1 July 2025)
 
@@ -69,9 +69,9 @@ Two age bands:
 - **Workers aged ≤ 50** - standard band (lower premium reflecting lower medical risk)
 - **Workers aged > 50** - older band (higher premium reflecting elevated risk)
 
-Premium differential typically 30-80% between bands depending on insurer and sector.
+Each insurer sets its own premium for each band.
 
-Per MOM data, approximately 95% of migrant workers are under 50, meaning the structure benefits the dominant cohort. Older workers (typically supervisors, specialists, long-tenure employees) face higher costs.
+Per MOM data, approximately 95% of migrant workers are under 50, meaning the structure benefits the dominant cohort. Older workers face higher costs.
 
 **Change 2 - Standardised allowable exclusion clauses.**
 
@@ -81,17 +81,16 @@ MOM standardised three permitted categories of exclusions, replacing previous pa
 - Cosmetic procedures
 - Voluntary plastic surgery
 - Treatment for fertility / reproductive choice
-- Treatment for self-inflicted conditions
 
 **Category B - Treatment from employer or worker acts:**
-- Injuries from employer's wilful neglect
-- Treatment from drug or alcohol abuse by worker
-- Self-inflicted injuries
+- Injuries arising from a malicious, unlawful or wilful act of the employer
+- Treatment arising from addiction to a controlled drug, and repeat treatment arising from addiction to alcohol or another drug
+- Repeat treatment for self-inflicted injury or attempted suicide
 - Acts contrary to law
 
-**Category C - Medical equipment + repatriation:**
+**Category C (Others), including:**
 - Medical equipment (e.g., wheelchairs, prosthetics) for ongoing use
-- Repatriation costs (covered separately under FWMI)
+- Medical repatriation
 
 Insurers cannot apply exclusions outside these three categories. This enables apples-to-apples comparison between policies and removes hidden cover gaps.
 
@@ -115,7 +114,7 @@ Procedural change implications:
 
 Distinct from MWMI hospital cover:
 
-**PCP introduction.** April 2022 - mandatory primary care for foreign workers in dormitories.
+**PCP introduction.** Launched in 2022; enrolment is mandatory for Work Permit and S Pass holders who live in dormitories or work in the Construction, Marine shipyard and Process sectors.
 
 **PCP coverage:**
 - General practitioner consultations
@@ -124,40 +123,32 @@ Distinct from MWMI hospital cover:
 - Medical certificates
 
 **PCP enhancements** (announced 14 December 2025; effective 1 April 2027):
-- Expanded coverage scope
-- Additional appointment types
-- Enhanced telemedicine integration
+- PCP clinics within 2km of where most workers live, compared to 3km before (announced 6 August 2026)
+- Co-payment standardised at SGD 5 per physical or telemedicine consultation
+- A PCP Enrolment Portal for employers, and advance appointment booking for workers (booking announced 6 August 2026)
+- Annual capitation rates of SGD 97 to SGD 113 per worker, compared to SGD 108 to SGD 138 (announced 6 August 2026)
 
 **Cost.** Employer cost is in the region of SGD 108-138 per worker annually, varying by zone and operator (per current rates).
 
-#### Approved insurer market
+#### Where to buy MWMI
 
-MWMI must be bought from an insurer on MOM's approved Medical Insurance insurer list. MOM publishes and periodically updates this list, and a number of established general insurers participate in the segment. Because participation changes over time, the current approved-insurer list should be checked directly with MOM at the point of procurement.
+Employers can buy MWMI from any insurer if the policy meets MOM's minimum requirements, and MOM advises asking the insurer to show, before buying, that the product complies.
 
 #### Premium impact analysis
 
-Approximate Stage 2 premium ranges per worker per year:
-- ≤ 50 cohort, low-risk sector: SGD 250-400
-- ≤ 50 cohort, high-risk sector: SGD 350-550
-- > 50 cohort, low-risk sector: SGD 350-600
-- > 50 cohort, high-risk sector: SGD 500-900
-
-For SME employing 50 workers (mix of ages), annual MWMI cost typically SGD 15,000-30,000.
+Premiums are set by each insurer, with separate rates for workers aged 50 and below and those above 50.
 
 #### Sector-specific considerations
 
 **Construction.**
-- Highest premium tier (manual work, injury exposure)
 - Combined with WICI, total worker cost substantial
 - Mass admission scenarios (dormitory outbreaks) historically significant
 
 **Manufacturing.**
-- Mid-to-high premium tier
 - Specific occupational health considerations (chemicals, machinery)
 - Group purchasing leverage with broker
 
 **F&B / Hospitality.**
-- Lower-tier premium
 - Burns, slip-fall, lifting injuries dominate
 - Often combined with hospitality-specific cover
 
@@ -167,7 +158,6 @@ For SME employing 50 workers (mix of ages), annual MWMI cost typically SGD 15,00
 - Often integrated with WSH compliance package
 
 **Healthcare.**
-- High premium reflecting elevated infectious disease and needle-stick risk
 - Combined with PI for foreign healthcare professionals
 
 #### Compliance procedure for SMEs
@@ -177,7 +167,7 @@ For SME employing 50 workers (mix of ages), annual MWMI cost typically SGD 15,00
 - Numbers per category
 - Sector classification
 
-**Step 2 - Procure MWMI from approved insurer.**
+**Step 2. Procure MWMI that meets MOM's requirements.**
 - SGD 60,000 minimum coverage
 - Compliant with Stage 2 standardised exclusions
 - Direct insurer-hospital reimbursement enabled
@@ -214,11 +204,11 @@ For SME employing 50 workers (mix of ages), annual MWMI cost typically SGD 15,00
 
 5. **PCP and MWMI confusion.** Employer assumes one cover satisfies both; gaps emerge.
 
-6. **EP holders covered under MWMI.** EP holders are not Work Permit / S Pass holders; have different MI requirements.
+6. **EP holders covered under MWMI.** EP holders are not Work Permit / S Pass holders, and MOM sets no medical insurance requirement for them.
 
 7. **Worker awareness gap.** Workers don't know coverage exists; access to care delayed.
 
-8. **Renewal without market test.** Substantial premium variation between approved insurers; absence of comparison costs.
+8. **Renewal without market test.** Premiums are set by each insurer, so without a comparison any difference goes unseen.
 
 9. **No dormitory outbreak coordination.** MWMI may have outbreak-specific provisions; awareness gap.
 
@@ -230,7 +220,7 @@ For Singapore SMEs employing Work Permit / S Pass holders:
 
 1. **Confirm MWMI compliance** with Stage 2 (post-1 July 2025) requirements.
 
-2. **Approved insurer selection** from MOM's current list.
+2. **Insurer selection** from insurers whose policies meet MOM's minimum requirements.
 
 3. **Standardised exclusions** verified in policy wording.
 
@@ -248,13 +238,13 @@ For Singapore SMEs employing Work Permit / S Pass holders:
 
 10. **April 2027 PCP enhancement** preparation.
 
-The cost of MWMI compliance is meaningful but bounded - typical annual cost for SME of 50 workers is SGD 15,000-30,000 plus PCP. The cost of MWMI non-compliance is substantial: regulatory exposure, worker access denial, and potentially work pass renewal complications.
+The cost of MWMI compliance is meaningful but bounded - the annual cost depends on each insurer's premiums for the workforce's age bands, plus PCP. The cost of MWMI non-compliance is substantial: regulatory exposure, worker access denial, and potentially work pass renewal complications.
 
 ### Questions to Ask Your Adviser
 
 1. For our current MWMI cover, is it Stage 2 compliant including standardised exclusions and direct hospital reimbursement?
 2. For workforce age distribution, is premium calculation reflecting current age bands accurately?
-3. For approved insurer selection, has market test been conducted at recent renewal?
+3. Has a market test of insurers whose policies meet MOM's requirements been conducted at recent renewal?
 4. For Primary Care Plan, is separate procurement in place from approved provider?
 5. For 1 April 2027 PCP enhancement, is preparation underway?
 

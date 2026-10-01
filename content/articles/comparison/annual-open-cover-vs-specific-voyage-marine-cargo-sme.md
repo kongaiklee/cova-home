@@ -21,7 +21,7 @@ og_description: "Open cover declares shipments as they go; specific voyage cover
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs engaged in international trade choose between two structural approaches to marine cargo cover: (1) **Annual Open Cover** - declaration-based blanket policy that automatically attaches every shipment up to per-vessel limits during the policy year (typically 12 months); (2) **Specific Voyage Policy** - single-shipment, one-time cover triggered for specific consignment, vessel, route, dates. The choice is orthogonal to the [Institute Cargo Clauses (ICC)](https://www.lloyds.com/) trigger choice: ICC (A) all-risks (broadest), ICC (B) named perils (mid), ICC (C) major-perils only (narrowest). Open Cover is administratively simpler for SMEs with steady shipment volume; Specific Voyage is appropriate for sporadic shippers or one-off high-value consignments. **War & Strikes** is invariably written separately under Lloyd's clauses with separate sub-limit. Singapore offshore marine business is substantial - [GIA reports offshore Cargo GWP S$343.101m and Marine Hull S$347.393m for FY2024](https://gia.org.sg/). Per IUMI Stats Report 2025 (presented Singapore September 2025), global marine insurance premiums in 2024 totalled USD 39.92 billion. The decision between Annual Open Cover and Specific Voyage is shaped by shipment frequency, value distribution, administrative capacity, and renewal positioning.
+> Singapore SMEs engaged in international trade choose between two structural approaches to marine cargo cover: (1) **Annual Open Cover** - declaration-based blanket policy that automatically attaches every shipment up to per-vessel limits during the policy year (typically 12 months); (2) **Specific Voyage Policy** - single-shipment, one-time cover triggered for specific consignment, vessel, route, dates. The choice is orthogonal to the [Institute Cargo Clauses (ICC)](https://www.lloyds.com/) trigger choice: ICC (A) all-risks (broadest), ICC (B) named perils (mid), ICC (C) major-perils only (narrowest). Open Cover is administratively simpler for SMEs with steady shipment volume; Specific Voyage is appropriate for sporadic shippers or one-off high-value consignments. **War & Strikes** is excluded from the Institute Cargo Clauses and is written separately under the Institute War Clauses (Cargo) and Institute Strikes Clauses (Cargo), published by the Lloyd's Market Association and the International Underwriting Association. Singapore offshore marine business is substantial - [GIA reports offshore Cargo GWP S$343.101m and Marine Hull S$347.393m for FY2024](https://gia.org.sg/). Per IUMI Stats Report 2025 (presented Singapore September 2025), global marine insurance premiums in 2024 totalled USD 39.92 billion. The decision between Annual Open Cover and Specific Voyage is shaped by shipment frequency, value distribution, administrative capacity, and renewal positioning.
 
 ## The Marine Cargo Architecture
 
@@ -31,7 +31,7 @@ Marine cargo insurance is among the oldest organised insurance lines, with roots
 
 Singapore marine cargo cover operates principally under:
 
-- **[Marine Insurance Act 1906 (UK), applied in Singapore](https://sso.agc.gov.sg/Act/MIA1906)** - establishes core marine insurance principles including utmost good faith, insurable interest, warranties, and the duty of disclosure. Singapore adopted the UK Marine Insurance Act through colonial-era statutory reception and it remains the foundational legislation.
+- **[Marine Insurance Act 1906 (UK), applied in Singapore](https://sso.agc.gov.sg/Act/MIA1906)** - establishes core marine insurance principles including utmost good faith, insurable interest, warranties, and the duty of disclosure. Since 12 November 1993 the Act has applied in Singapore under section 4 and the First Schedule of the Application of English Law Act 1993, and it remains the foundational legislation.
 - **[Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966)** - governs the licensed-insurer framework and supervisory architecture under MAS.
 - **Institute Clauses** - the standardised wording sets published originally by the Institute of London Underwriters and currently by the [International Underwriting Association of London](https://www.iua.co.uk/) and [Lloyd's Market Association](https://www.lmalloyds.com/). The Institute Clauses set the global benchmark for marine cargo wording.
 
@@ -39,11 +39,11 @@ Singapore marine cargo cover operates principally under:
 
 The Institute Cargo Clauses (ICC) are issued in three variants providing different breadths of cover:
 
-- **ICC (A)** - **All-Risks** cover. The broadest standard cover. Responds to all loss or damage except specified exclusions (standard exclusions include wilful misconduct, ordinary leakage, inherent vice, insufficient packing, delay, financial default of carrier).
-- **ICC (B)** - **Named Perils** mid-tier cover. Responds to a defined list of perils (fire, explosion, vessel stranding, vessel sinking, collision, jettison, washing overboard, water damage, and specified other perils). Total loss only for some categories.
+- **ICC (A)** - **All-Risks** cover. The broadest standard cover. Responds to all loss or damage except specified exclusions (standard exclusions include wilful misconduct of the assured, ordinary leakage, inherent vice, insufficient packing done by the assured or their employees or before the cover attached, delay, and insolvency or financial default of the vessel's owners, managers, charterers or operators where the assured knew or should have known at loading that it could prevent the normal prosecution of the voyage).
+- **ICC (B)** - **Named Perils** mid-tier cover. Responds to a defined list of perils (fire, explosion, vessel stranding, vessel sinking, collision, jettison, washing overboard, entry of sea, lake or river water, and specified other perils). Total loss only for some categories.
 - **ICC (C)** - **Major Perils Only** narrowest cover. Responds to specified major perils only (fire, explosion, vessel stranding, vessel sinking, vessel collision, jettison, general average sacrifice). Substantially narrower than ICC (B).
 
-The choice among A, B, C reflects the trade-off between cover breadth and premium. ICC (A) is the typical choice for SMEs in normal commercial trade; ICC (C) is sometimes used for low-value bulk commodities or in specific commercial contexts where the additional cover of A or B is not commercially relevant.
+The choice among A, B, C reflects the trade-off between cover breadth and premium. A member of the International Chamber of Commerce's Incoterms 2020 drafting group describes ICC (A) as more appropriate for manufactured goods and ICC (C) as more appropriate to bulk goods and commodities.
 
 ### War and Strikes
 
@@ -52,7 +52,7 @@ The Institute Cargo Clauses standard cover excludes war and strikes risks. These
 - **[Institute War Clauses (Cargo)](https://www.lmalloyds.com/)** - covers loss caused by war, civil war, revolution, capture, seizure.
 - **[Institute Strikes Clauses (Cargo)](https://www.lmalloyds.com/)** - covers loss caused by strikes, lock-outs, riots, civil commotions, terrorism.
 
-War & Strikes is typically written on an "named perils" basis with separate sub-limits. The cover is essential for shipments to or through regions with elevated war / strikes exposure.
+War & Strikes is written on a "named perils" basis: each clause set covers only the risks it lists. The cover is essential for shipments to or through regions with elevated war / strikes exposure.
 
 ## Annual Open Cover
 
@@ -61,25 +61,25 @@ Annual Open Cover is a 12-month declaration-based policy that automatically atta
 ### Structural Features
 
 - **12-month policy period** with annual renewal.
-- **Per-vessel / per-conveyance limit** typically SGD 1m to 10m depending on shipment value distribution.
-- **Aggregate limit per policy period**.
+- **Per-vessel / per-conveyance limit**: the most the insurer will pay for the goods in any one conveyance, agreed to suit the insured's shipment values.
+- **Aggregate limit per policy period**, where the wording sets one.
 - **Automatic attachment** for every declared shipment within scope.
-- **Declaration discipline** - typically monthly bordereau submission to insurer, or via web portal for larger SMEs.
-- **Minimum premium** typically S$5,000 to S$15,000 per annual period.
+- **Declaration discipline**: each shipment is declared to the insurer in the way the wording sets, for example by periodic bordereau or through a web portal.
+- **Minimum premium** per annual period, where the wording sets one.
 - **Premium calculation** - usually a rate per S$1,000 of declared value, with annual adjustment.
 
 ### Pros for SMEs
 
 - **Administrative efficiency**: no per-shipment placement. Every shipment within scope is automatically covered subject to declaration.
-- **Premium discount**: aggregate pricing typically 10-30% cheaper than equivalent specific-voyage placements summed.
+- **Agreed rates**: rates are agreed once in the open cover for all shipments in scope, instead of a quote for each shipment.
 - **Guaranteed cover** for declared shipments - no risk of being declined for a specific shipment during the policy year.
 - **Simplified renewal coordination** - single annual cycle.
 - **Better claims-experience visibility** - single insurer relationship across all shipments.
 
 ### Cons
 
-- **Declaration discipline required**. Under-declaration creates coverage gaps. Some Open Covers have automatic-attachment language that protects against innocent oversight; others do not.
-- **Limit erosion over policy year** - the aggregate limit reduces as shipments are declared and as losses occur.
+- **Declaration discipline required**. What a missed or wrong declaration costs depends on the wording. Under a floating policy, unless the policy provides otherwise, all consignments must be declared, but an omission or wrong declaration made in good faith may be rectified even after a loss or arrival (Marine Insurance Act 1906 s 29(3)).
+- **Limit erosion over policy year**, where the wording sets an aggregate limit: losses paid during the year reduce what remains of it.
 - **Renewal positioning affected by aggregate claims** - a large loss can compromise renewal terms.
 - **Minimum premium can be significant for low-volume SMEs** - if actual shipment volume falls below the minimum premium threshold, the SME pays the floor regardless.
 
@@ -88,9 +88,9 @@ Annual Open Cover is a 12-month declaration-based policy that automatically atta
 - **Insured cargo scope**: the categories of goods covered (often broadly defined but with exclusions for specific high-risk categories).
 - **Per-vessel limit**: maximum cover for any one vessel.
 - **Per-conveyance limit**: maximum cover for any one truck / aircraft / train conveyance.
-- **Aggregate limit**: maximum cover across all shipments in the policy period.
+- **Aggregate limit**, where the wording sets one: maximum cover across all shipments in the policy period.
 - **Geographic limits**: typically worldwide with specific exclusions (high-risk regions, sanctioned destinations).
-- **Vessel age and classification**: warranties on vessel age (often "vessel less than X years old") and classification society membership.
+- **Vessel age and classification**: the Institute Classification Clause applies the insurance and the agreed rates only to steel, self-propelled vessels classed with an IACS member or associate member society (or a national flag society in coastal trade); cargo on qualifying vessels over the clause's age limits is insured for an additional premium to be agreed, and cargo on other vessels must be notified promptly for rates and conditions to be agreed.
 - **General Average and Salvage**: standard inclusions.
 
 ## Specific Voyage Policy
@@ -116,7 +116,7 @@ Specific Voyage is a single-shipment, one-time cover policy.
 
 Pros: simplicity for one-off shipments, no annual minimum premium commitment, specific underwriting attention per shipment.
 
-Cons: per-shipment placement effort, higher per-shipment premium than equivalent Open Cover slice, no aggregate benefit.
+Cons: per-shipment placement effort, and each shipment is quoted and priced on its own.
 
 ## The Decision Framework
 
@@ -124,9 +124,9 @@ The choice between Annual Open Cover and Specific Voyage rests on:
 
 ### Variable 1: Shipment Frequency
 
-- **1-5 shipments per year**: Specific Voyage typically wins on cost and simplicity.
-- **6-15 shipments per year**: Break-even territory. Both routes should be priced.
-- **15+ shipments per year**: Annual Open Cover typically wins on premium and administration.
+- **Few shipments a year**: Specific Voyage avoids an annual commitment and any minimum premium.
+- **A moderate number**: both routes should be priced.
+- **Frequent shipments**: Annual Open Cover removes per-shipment placement.
 
 ### Variable 2: Value Distribution
 
@@ -136,7 +136,7 @@ A sporadic mix of low-value and very-high-value shipments can fit Open Cover for
 
 ### Variable 3: Administrative Capacity
 
-Open Cover requires declaration discipline. SMEs with strong logistics-administration capacity find Open Cover easy; SMEs that struggle with declaration discipline can find Open Cover produces unintended coverage gaps.
+Open Cover requires declaration discipline. SMEs with strong logistics-administration capacity find Open Cover easy; SMEs that struggle with declaration discipline depend on what the wording says about a missed or late declaration; the Marine Insurance Act default for a floating policy lets a good-faith omission be rectified even after a loss.
 
 ### Variable 4: Loss Experience
 
@@ -156,13 +156,13 @@ Consider an SME with:
 
 **Annual Open Cover:**
 - Per-vessel limit: S$750,000 (sized to accommodate the high-value shipments).
-- Aggregate limit: S$3,000,000.
-- Estimated annual premium: S$5,000 - S$8,000.
+- Aggregate limit, if the wording sets one: S$3,000,000 (an assumption for this example).
+- Illustrative annual premium (an assumption for this example, not a market rate): S$5,000 to S$8,000.
 - Single placement, monthly declarations.
 
 **Specific Voyage Approach:**
-- Estimated per-shipment premium: typically S$300-S$800 for moderate value, S$1,500-S$3,500 for high-value shipments.
-- Total estimated premium across 10 shipments: S$5,000 - S$10,000+.
+- Illustrative per-shipment premium (assumptions for this example, not market rates): S$300 to S$800 for a moderate-value shipment, S$1,500 to S$3,500 for a high-value one.
+- Total across the 10 shipments on those assumptions: about S$5,400 to S$13,400.
 - Per-shipment placement effort.
 
 For this profile, Open Cover wins on simplicity and likely on cost. Recommended Annual Open Cover with per-vessel limit calibrated to the high-value-shipment scenario.
@@ -171,7 +171,7 @@ For this profile, Open Cover wins on simplicity and likely on cost. Recommended 
 
 ### Duration of Cover
 
-Standard ICC clauses provide cover "warehouse to warehouse" - from leaving the seller's warehouse to arriving at the buyer's warehouse. Cover continues during loading, ocean / air / land transit, intermediate storage in normal course of transit, and final delivery.
+Standard ICC clauses provide cover "warehouse to warehouse": from when the goods are first moved in the warehouse at the place named in the insurance for immediate loading, until unloading is complete at the final warehouse at the named destination, unless an earlier end point in the transit clause comes first, such as 60 days after discharge from the ocean vessel at the final port, or unloading at another warehouse the assured chooses to use for storage outside the ordinary course of transit or for allocation or distribution. Cover continues during loading, ocean / air / land transit, intermediate storage in normal course of transit, and final delivery.
 
 ### Pre-Loss Settlement
 
@@ -183,7 +183,7 @@ Singapore SMEs typically place in SGD. For consignments with values quoted in US
 
 ### Particular Average
 
-ICC (A) and ICC (B) typically respond to particular average (partial loss). ICC (C) responds primarily to total loss. The treatment of partial loss is one of the most material differences across the three sets.
+All three sets pay partial loss (particular average) as well as total loss: ICC (A) for all risks except as excluded, and ICC (B) and ICC (C) for loss of or damage to the cargo from their named perils. The sets differ in the perils they cover, not in whether partial loss is paid.
 
 ### General Average
 
@@ -193,9 +193,9 @@ General average is a maritime law concept where losses incurred to save a ship a
 
 Marine cargo claims typically involve subrogation against carriers, terminal operators, or other parties. The insurer's subrogation rights are standard; the SME's obligation to support subrogation is also standard.
 
-### Free of Particular Average Unless / Subject to Loss
+### Free of Particular Average
 
-Specialised wordings used in commodity trades. "Free of Particular Average Unless" responds to partial loss only above a specified threshold; "Subject to Loss" requires a defined loss event before any cover responds. Less common in standard SME trade.
+An older wording. Clause 5 of the 1963 Institute Cargo Clauses (F.P.A.) reads "Warranted free from Particular Average unless the vessel or craft be stranded, sunk, or burnt": partial loss is not paid unless one of those casualties occurs, apart from stated exceptions such as a package totally lost in loading, transhipment or discharge, and loss reasonably attributable to fire, explosion, collision or discharge at a port of distress.
 
 ## Operational Workflow
 
@@ -205,8 +205,8 @@ The standard Open Cover operational workflow:
 - **Declaration**: shipper notifies insurer (or via portal) of shipment details - bill of lading reference, consignment value, vessel name, voyage details, dates.
 - **Certificate issuance**: insurer (or agent) issues certificate of insurance for the consignment. Where third parties require certificates, the certificate evidences the cover.
 - **Transit**: cover is in force during transit.
-- **Discharge**: cover continues through discharge, customs clearance, inland transit to buyer.
-- **Receipt**: cover terminates on receipt at buyer's premises (or specified end point).
+- **Discharge**: cover continues through discharge, customs clearance and inland transit in the ordinary course, but ends no later than 60 days after discharge from the ocean vessel at the final port.
+- **Receipt**: cover terminates on completion of unloading at the final warehouse at the destination named in the insurance, unless an earlier end point in the transit clause (such as the 60-day limit) comes first.
 - **Claim notification**: if loss / damage discovered, prompt notification to insurer with supporting documents.
 
 The Specific Voyage workflow is similar but operates on a per-shipment placement basis rather than ongoing declaration under a master policy.
@@ -215,13 +215,13 @@ The Specific Voyage workflow is similar but operates on a per-shipment placement
 
 **Defaulting to ICC (A) without testing the cargo's specific exclusion profile.** Even all-risks cover has exclusions; specific commodities have specific issues (e.g., temperature-sensitive cargo, fragile items, theft-prone items).
 
-**Underestimating warehouse-to-warehouse duration.** Cover continues across the full transit. The end-point matters; cover ending at port rather than buyer's warehouse leaves a gap.
+**Underestimating warehouse-to-warehouse duration.** Cover continues during the ordinary course of transit but ends at the first termination event in the transit clause, which includes 60 days after discharge from the ocean vessel at the final port. The end-point matters; cover ending at port rather than buyer's warehouse leaves a gap.
 
 **Forgetting War & Strikes for relevant routes.** Routes through certain regions warrant War & Strikes; missing the cover creates a gap on a real exposure.
 
 **Inadequate per-vessel limit on Open Cover.** A single high-value shipment exceeding the per-vessel limit creates a partial-cover gap. The per-vessel limit must be sized to actual shipment-value distribution.
 
-**Declaration drift under Open Cover.** Missed declarations create coverage gaps. The administrative discipline is the operational requirement.
+**Declaration drift under Open Cover.** A missed declaration is treated as the wording provides; under a floating policy, unless the policy provides otherwise, a good-faith omission may be rectified even after a loss (Marine Insurance Act 1906 s 29(3)). The administrative discipline is the operational requirement.
 
 **Currency mismatch.** Open Cover in SGD with shipments invoiced in USD can produce settlement mismatches. The mechanics should be specified.
 
@@ -235,7 +235,7 @@ The Specific Voyage workflow is similar but operates on a per-shipment placement
 
 If you ship goods internationally as a Singapore SME, marine cargo cover is core operational insurance. The Annual Open Cover vs Specific Voyage decision is structural - the right answer depends on shipment frequency, value distribution, and administrative capacity.
 
-For most SMEs with ongoing trade activity, Annual Open Cover is the structural answer. The administrative efficiency, the premium discount, and the certainty of cover for declared shipments are meaningful operational advantages. The licensed adviser handling your placement should walk you through the per-vessel limit sizing, the ICC level selection (A, B, or C), the War & Strikes coverage decision, and the geographic / commodity-specific wording amendments.
+For most SMEs with ongoing trade activity, Annual Open Cover is the structural answer. The administrative efficiency, the rates agreed once for every shipment in scope, and the certainty of cover for declared shipments are meaningful operational advantages. The licensed adviser handling your placement should walk you through the per-vessel limit sizing, the ICC level selection (A, B, or C), the War & Strikes coverage decision, and the geographic / commodity-specific wording amendments.
 
 For SMEs with sporadic shipping, Specific Voyage is the structural answer. The lack of annual commitment matches the lack of consistent activity.
 

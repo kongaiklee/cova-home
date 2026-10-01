@@ -21,7 +21,7 @@ og_description: "You can switch commercial insurer mid-term in Singapore, and th
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs can switch commercial insurers mid-policy-term, but the procedure has specific commercial and procedural traps. Standard procedure: (1) review current policy cancellation provisions (short-rate vs pro-rata refund, minimum earned premium clauses); (2) obtain new insurer's quote with **inception date set 1 day before old policy cancellation** to ensure continuous cover; (3) verify new insurer addresses any retroactive cover requirements (especially for claims-made covers like PI, D&O, Cyber); (4) confirm WICA is transferred to another [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) (cannot lapse); (5) submit cancellation notice to current insurer with 30-day notice (or per policy provisions); (6) coordinate with relevant third parties (landlords as additional insureds, finance counterparties, contract counterparties); (7) verify all certificates of insurance updated. Note: Singapore commercial insurance does **not** have statutory cooling-off / free-look period (unlike life/health policies); cancellation terms are contractual. Common traps: minimum earned premium clauses keeping insurer 25-50% of unearned premium; bundle discount loss when partial cancellation; open claim continuity (existing insurer continues handling claim despite cancellation). Mid-term switching is operationally feasible but rarely optimal - most switching benefits accrue at renewal timing.
+> Singapore SMEs can switch commercial insurers mid-policy-term, but the procedure has specific commercial and procedural traps. Standard procedure: (1) review current policy cancellation provisions (short-rate vs pro-rata refund, minimum earned premium clauses); (2) obtain new insurer's quote with **inception date set 1 day before old policy cancellation** to ensure continuous cover; (3) verify new insurer addresses any retroactive cover requirements (especially for claims-made covers like PI, D&O, Cyber); (4) where WICA s24 requires the business to insure its employees (the duty does not apply to the classes of employees excluded by the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-)), confirm WIC insurance moves to another [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) without a gap; (5) submit cancellation notice to current insurer as the policy requires (some commercial wordings let the insured cancel by written request at any time, while the compulsory WIC policy terms require 30 days' written notice); (6) coordinate with relevant third parties (landlords as additional insureds, finance counterparties, contract counterparties); (7) verify all certificates of insurance updated. Note: Singapore commercial insurance does **not** have statutory cooling-off / free-look period (unlike life/health policies); cancellation terms are contractual. Common traps: minimum premium terms, and wordings under which the premium is fully earned once a claim or occurrence has been notified; bundle discount loss when partial cancellation; open claim continuity (existing insurer continues handling claim despite cancellation). Mid-term switching is operationally feasible but rarely optimal - most switching benefits accrue at renewal timing.
 
 ### The Sourced Detail
 
@@ -29,14 +29,14 @@ Mid-term insurer switching is one of the more procedurally complex SME insurance
 
 #### Regulatory framework
 
-**Primary statute.** [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - establishes general insurance contract framework including cancellation provisions.
+**Primary statute.** The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) licenses and regulates insurers and insurance intermediaries; it sets no cancellation terms for commercial general insurance policies, which come from the policy wording.
 
 **Specific cover requirements:**
-- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) - WICA cover from designated insurer cannot lapse
+- [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019): where s24 requires the employer to insure (it does not for the classes of employees the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude), the insurance must be with a designated insurer and kept in force
 - [Motor Vehicles (Third-Party Risks and Compensation) Act](https://sso.agc.gov.sg/Act/MVTPRCA1960) - Compulsory motor third-party cover
-- [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), with insurance brokers also registered under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) - broker conduct in switching transactions
+- [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966): insurance brokers are registered under it; the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) covers advice on investment products and arranging life policies, not commercial general insurance
 
-**Industry framework.** [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) - industry conventions on cancellation, refunds, double-insurance.
+**Industry framework.** The [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) is the general insurers' association; its Code of Practice, which sets a time for refunds on cancellation, covers general insurance policies issued to an individual, so a policy issued to a company falls outside it.
 
 #### When mid-term switching is appropriate
 
@@ -65,9 +65,8 @@ For most SMEs, renewal timing is the optimal switching window; mid-term switchin
 
 **Public Liability.** Generally portable. Some cover scope variations between insurers (e.g., contractual liability scope).
 
-**Workers' Injury Compensation (WICA).** Mandatory transfer to another [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf). Cannot lapse. Coordination of:
+**Work Injury Compensation (WICA).** Where WICA s24 requires the employer to insure (it does not for the classes of employees the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude), the new policy must be with another [MOM-designated insurer](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf) and in force by the time the old one ends, so there is no gap. The employer's duty to compensate injured employees under WICA applies either way. Coordination of:
 - New cover effective date with old cancellation date
-- iReport portal updates
 - Worker communication of insurer change
 
 **Motor.** Portable. Compulsory cover under Motor Vehicles (Third-Party Risks and Compensation) Act must be continuous; lapse triggers regulatory exposure.
@@ -96,7 +95,7 @@ For most SMEs, renewal timing is the optimal switching window; mid-term switchin
 **Step 1 - Review current policy cancellation provisions.**
 
 Examine current policy for:
-- Cancellation notice period (typically 30 days)
+- Cancellation notice period (wordings differ: some let the insured cancel by written request at any time, while the compulsory WIC policy terms require 30 days' written notice)
 - Cancellation method (short-rate vs pro-rata)
 - Minimum earned premium clauses (insurer keeps minimum percentage)
 - Open claim implications
@@ -121,7 +120,7 @@ Total cost calculation:
 - PLUS any administrative / broker fees
 - PLUS lost bundle discounts (if multi-line bundle partially cancelled)
 
-Cancellation cost can be substantial. SGD 5,000 unearned premium with 50% minimum earned clause = SGD 2,500 retained by current insurer; only SGD 2,500 refunded.
+Cancellation cost can be substantial: depending on the wording, the insurer may refund less than the pro-rata premium, or nothing if a claim has been notified.
 
 **Step 4 - Coordinate with third parties.**
 
@@ -138,7 +137,7 @@ To current insurer:
 - Refund instructions
 - Acknowledgment of any open claims
 
-Per most policy terms, written notice required with 30 days advance.
+Written notice is the usual method; the notice period depends on the wording (30 days for a WIC policy under its compulsory terms).
 
 **Step 6 - Confirm new policy inception.**
 
@@ -164,11 +163,11 @@ Open claims at time of cancellation:
 
 #### Specific cancellation provisions
 
-**Short-rate cancellation.** Insurer keeps proportional fee plus penalty. Typical formula: insurer retains (X% of pro-rata premium) + (Y% penalty). Example: 6 months into 12-month policy, short-rate may keep insurer 60% of annual premium (vs 50% pro-rata).
+**Short-rate cancellation.** Insurer refunds less than the pro-rata amount, by calculating what would have been charged had the policy been a short-term policy. Example: 6 months into 12-month policy, short-rate may keep insurer 60% of annual premium (vs 50% pro-rata).
 
-**Pro-rata cancellation.** Insurer keeps pro-rata premium for cover period elapsed; refunds remainder. Less common in commercial; more common in motor / consumer.
+**Pro-rata cancellation.** Insurer keeps pro-rata premium for cover period elapsed; refunds remainder. Some Singapore commercial wordings use it when the insured cancels, and treat the premium as fully earned once a claim or occurrence has been notified.
 
-**Minimum earned premium.** Insurer retains specified minimum regardless of cancellation timing (e.g., 25%, 30%, 50% minimum). Common in commercial PL, PI, specialty covers.
+**Minimum premium.** Some wordings set a minimum premium the insurer keeps on cancellation; the compulsory WIC policy terms set a minimum premium payment of S$25 when the insured cancels (an insurer may substitute a lower amount).
 
 **Bundle discount considerations.** Multi-line bundle (e.g., property + WICA + PL packaged) may forfeit discount on partial cancellation; effective premium increase on retained covers.
 
@@ -187,7 +186,7 @@ This is commonly misunderstood by SMEs assuming cooling-off applies to all insur
 
 #### When NOT to switch mid-term
 
-**Significant minimum earned premium.** If 6 months remaining on policy with 50% minimum earned, switching costs significant value.
+**Significant minimum premium.** Where the wording's minimum premium is more than the pro-rata premium for the time on risk, or the premium is fully earned because a claim has been notified, switching loses that difference.
 
 **Open claims.** Active claim creates complications; better to resolve before switching.
 
@@ -203,7 +202,7 @@ This is commonly misunderstood by SMEs assuming cooling-off applies to all insur
 
 2. **Claims-made cover without retroactive provision.** Historical exposures uncovered post-switch.
 
-3. **WICA gap from non-designated insurer placement.** New insurer not designated; cover invalid.
+3. **WICA gap from non-designated insurer placement.** A policy from an insurer that is not designated does not meet the employer's duty under WICA s24(1) to insure with a designated employer's insurer.
 
 4. **Open claim assumption.** Assuming new insurer handles claim from before switch; current insurer is correct handler.
 

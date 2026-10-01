@@ -21,7 +21,7 @@ og_description: "Side A protects the director when the company cannot indemnify.
 
 > **The Answer in 60 Seconds**
 >
-> Directors & Officers Liability cover has three internal "sides" with structurally different protection architectures, and Singapore SMEs need to understand which sides their D&O programme delivers and what gaps remain. **Side A** covers individual directors and officers directly, paying their loss to them, where the company cannot or does not indemnify them. **Side B** reimburses the company for sums it has paid to indemnify directors and officers under the company's indemnification obligations. **Side C** covers the entity itself (the company) for securities claims, typically applicable only to listed or pre-IPO entities under SGX Listing Rules. The Singapore [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 172, 172A, and 172B control when a company can lawfully indemnify directors and when indemnification is prohibited, and authorise the company to purchase D&O insurance - this statutory architecture is what Side B sits on top of. The dominant Singapore SME wordings ([AIG Singapore Dragonshield](https://www.aig.sg/home/solutions/business-products-and-services/financial-lines/directors-and-officers-liability), [Chubb Singapore Elite VI](https://www.chubb.com/sg-en/business/directors-officers-liability-insurance), MSIG Singapore Management Liability) all offer Side A + Side B + Side C carve-back architecture, with Chubb's wording explicitly eliminating the traditional "presumptive indemnification" clause to protect individuals from retentions. **Side A-only Difference-in-Conditions (DIC) standalone policies** are purchased above the main D&O tower for board members who want personal protection independent of the company - particularly relevant for independent directors, PE-backed pre-IPO boards, and listed-company directors. For a Singapore Pre-IPO SME, the typical structurally correct architecture is Side A + Side B + Side C carve-back for securities claims, with POSI for IPO prospectus exposure and (where the board includes high-litigation-risk independents) a Side A DIC top-up.
+> Directors & Officers Liability cover has three internal "sides" with structurally different protection architectures, and Singapore SMEs need to understand which sides their D&O programme delivers and what gaps remain. **Side A** covers individual directors and officers directly, paying their loss to them, where the company cannot or does not indemnify them. **Side B** reimburses the company for sums it has paid to indemnify directors and officers under the company's indemnification obligations. **Side C** covers the entity itself (the company) for securities claims, typically applicable only to listed or pre-IPO entities under SGX Listing Rules. The Singapore [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) sections 172, 172A, and 172B control when a company can lawfully indemnify directors and when indemnification is prohibited, and authorise the company to purchase D&O insurance - this statutory architecture is what Side B sits on top of. Singapore D&O products include [AIG Singapore Dragonshield](https://www.aig.sg/home/solutions/business-products-and-services/financial-lines/directors-and-officers-liability), which AIG describes as customised for medium to large and/or listed companies (AIG's product for private companies with total assets under SGD 50 million is PrivateEdge), [Chubb Singapore Elite VI](https://www.chubb.com/sg-en/business/directors-officers-liability-insurance), which Chubb describes as developed for mid-market to large and multinational private or public companies, and MSIG Singapore Directors & Officers Liability, whose product page lists individual cover and company reimbursement cover. Dragonshield and Elite VI include entity cover for securities claims. **Side A-only Difference-in-Conditions (DIC) standalone policies** are purchased above the main D&O tower for board members who want personal protection independent of the company - particularly relevant for independent directors, PE-backed pre-IPO boards, and listed-company directors. For a Singapore Pre-IPO SME, the typical structurally correct architecture is Side A + Side B + Side C carve-back for securities claims, with POSI for IPO prospectus exposure and (where the board includes high-litigation-risk independents) a Side A DIC top-up.
 
 ### The Sourced Detail
 
@@ -33,29 +33,29 @@ D&O cover is procured by Singapore SMEs to protect (a) individual directors and 
 
 **Side B - Company Reimbursement (Corporate Indemnification).** Reimburses the company for sums it has paid to indemnify directors and officers, under the company's indemnification obligations in its constitution and the section 172B third-party indemnity carve-out of the Companies Act 1967.
 
-**Side C - Entity Cover (Securities-Claim Cover).** Cover for the entity itself (the company) for claims relating to its securities - typically securities-holder claims arising out of the entity's securities, allegations of prospectus misstatement, or claims alleging mismanagement affecting the entity's securities value. In Singapore, Side C is a structural fit for listed companies (Mainboard and Catalist) and pre-IPO entities under SGX Listing Rules; private-company D&O wordings typically restrict Side C to specific narrow contexts.
+**Side C - Entity Cover (Securities-Claim Cover).** Cover for the entity itself (the company) for claims relating to its securities - typically securities-holder claims arising out of the entity's securities, allegations of prospectus misstatement, or claims alleging mismanagement affecting the entity's securities value. In Singapore, Side C is a structural fit for listed companies (Mainboard and Catalist) and pre-IPO entities under SGX Listing Rules; D&O products available to private companies vary: AIG's PrivateEdge, for example, covers the company as well as its directors and officers for claims alleging a wrongful act, while MSIG's D&O product page lists individual cover and company reimbursement cover but no entity cover.
 
-**Presumptive indemnification** is a separate clause feature: it "presumes" the company will indemnify the directors to the maximum extent permitted by law, so that defence costs and settlement amounts attract the larger Side B retention rather than the smaller Side A retention. Some Singapore wordings retain this clause; Chubb's primary D&O wording has eliminated it.
+**Presumptive indemnification** is a separate clause feature: it "presumes" the company will indemnify the directors to the maximum extent permitted by law, so that defence costs and settlement amounts attract the larger Side B retention rather than the smaller Side A retention. Some Singapore wordings retain this clause (Beazley's Singapore D&O wording deems the company's constitution to permit indemnification "to the fullest extent allowable by law"); Chubb's US policy for publicly traded companies, The Chubb Primary D&O and Entity Securities Liability Insurance, eliminated it.
 
 #### Verbatim wording extracts
 
 **AIG Singapore Dragonshield Management Liability suite** product page summarises the Side A / Side B / Side C architecture and references "BIPD Exclusion: provides carve-backs for Non-Indemnifiable Loss, Insured Persons Defence Costs and Securities Claims" and "Transferrable limits from the POSI form to the D&O policy over a period of 3 years".
 
-**Chubb Singapore ForeFront Portfolio / Elite VI D&O** confirms a Singapore-issued D&O wording with capacity up to USD 50m per policy, with Side A / Side B / Side C architecture and over 30 standard extensions. Chubb's published primary D&O literature confirms its position on eliminating the traditional presumptive indemnification clause: "Revolutionary Approach to Presumptive Indemnification - The Chubb Primary D&O and Entity Securities Liability Insurance eliminated the traditional 'presumptive indemnification' clause, removing the potential for Insured Persons to be held accountable for significant retention amounts. In effect, only organizations can incur retentions, not individuals."
+**Chubb Singapore Elite VI D&O** factsheet describes a policy for mid-market to large and multinational private or public companies, with capacity up to USD 50m for a single policy, over 30 extensions of cover as standard, preservation of the Side A limit and securities entity cover as standard. Chubb's US literature for The Chubb Primary D&O and Entity Securities Liability Insurance, a policy for publicly traded companies, describes eliminating the traditional presumptive indemnification clause (Chubb's Singapore Elite VI factsheet does not address it): "Revolutionary Approach to Presumptive Indemnification - The Chubb Primary D&O and Entity Securities Liability Insurance eliminated the traditional 'presumptive indemnification' clause, removing the potential for Insured Persons to be held accountable for significant retention amounts. In effect, only organizations can incur retentions, not individuals."
 
-**MSIG Singapore Executive & Management Liability (SUMO Management Liability section)** and **MSIG Singapore Directors & Officers Liability** product pages confirm Side A (cover for individual directors and officers), Side B (cover for damages and defence costs reimbursed by the company), and entity cover. MSIG's D&O product page also confirms coverage for defence costs and investigation costs for claims arising from a pollution event, and post-retirement run-off cover.
+**MSIG Singapore Directors & Officers Liability** product page describes Individual Cover for directors and officers where the company is not legally required to indemnify them (Side A) and Company Reimbursement Cover (Side B); the **MSIG Singapore Management Liability** page, for private companies, lists cover for defence costs and company reimbursement cover among its features. Neither page describes entity securities cover. MSIG's D&O product page also confirms coverage for defence costs and investigation costs for claims arising from a pollution event, and post-retirement run-off cover.
 
-**QBE Singapore Management Liability, Beazley Singapore D&O, Markel Singapore D&O** are typically issued through brokers; specimen wordings should be requested for placement and footnoted accordingly.
+**QBE Singapore, Beazley and Markel** also write D&O or management liability business in Singapore; their specimen wordings can be requested for placement.
 
 #### The Singapore Companies Act 1967 statutory framework
 
 Sections 172, 172A, and 172B of the Companies Act 1967 control when a Singapore company can lawfully indemnify directors and officers, and authorise the company to purchase D&O insurance. This statutory architecture is the foundation Side B sits on top of.
 
-**Section 172** voids any provision (whether in the constitution, in a contract with the company, or otherwise) purporting to exempt an officer or auditor from, or to indemnify the officer or auditor against, any liability that by law would otherwise attach to that person in respect of any negligence, default, breach of duty, or breach of trust of which he may be guilty in relation to the company - subject to the carve-outs in sections 172A and 172B.
+**Section 172** voids any provision (whether in the constitution, in a contract with the company, or otherwise) that purports to exempt an officer from, or to indemnify an officer against, any liability that would otherwise attach to the officer in connection with any negligence, default, breach of duty or breach of trust in relation to the company. The ban on indemnities is subject to the exceptions in sections 172A and 172B.
 
-**Section 172A** expressly permits the company to take out and pay premiums for insurance for any officer or auditor against liability incurred in respect of negligence, default, breach of duty, or breach of trust in relation to the company. This is the statutory authorisation for D&O premium payment.
+**Section 172A** expressly permits the company to take out and pay premiums for insurance for an officer against liability incurred in respect of negligence, default, breach of duty, or breach of trust in relation to the company. This is the statutory authorisation for D&O premium payment.
 
-**Section 172B** permits the company to indemnify an officer or auditor against liability incurred to a person other than the company (third-party civil claims). The carve-out is subject to specific exclusions: the indemnity must not cover (i) a fine in criminal proceedings; (ii) a regulatory penalty for non-compliance with a regulatory requirement; (iii) defence costs in criminal proceedings where the officer is convicted; (iv) defence costs in civil proceedings brought by the company or a related company where judgment is given against the officer; or (v) costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
+**Section 172B** permits the company to indemnify an officer against liability incurred to a person other than the company (third-party civil claims). The carve-out is subject to specific exclusions: the indemnity must not cover (i) a fine in criminal proceedings; (ii) a regulatory penalty for non-compliance with a regulatory requirement; (iii) defence costs in criminal proceedings where the officer is convicted; (iv) defence costs in civil proceedings brought by the company or a related company where judgment is given against the officer; or (v) costs incurred in an unsuccessful application for relief under Section 76A(13) or Section 391 of the Act.
 
 The Companies Act 1967 has been amended over time and the current numbering and text govern. Section 172B runs directly to Section 173 in the current Act - there is no Section 172C.
 
@@ -65,13 +65,11 @@ The interaction with D&O cover:
 - **Section 172A** expressly authorises the company to pay D&O premiums. Without this provision, the premium payment might itself fall within the section 172 prohibition.
 - **Section 172B** carves out the cases where third-party indemnification is permitted. This is where Side B responds (the company indemnifies under the section 172B carve-out, and the insurer reimburses the company).
 
-**Section 76A** of the Companies Act 1967 (financial assistance) interacts with D&O premium payment in group structures where a parent or holding company funds D&O premiums on behalf of subsidiaries. Section 76A limits financial assistance for the acquisition of the company's own shares, with exceptions in section 76A(13) to (15) for acts not materially prejudicial to the interests of the company.
-
 #### SGX Listing Rules framework (Side C drivers)
 
 For listed and pre-IPO Singapore companies, Side C entity cover responds to securities claims. The relevant framework:
 
-**[SGX Mainboard Listing Rules](https://rulebook.sgx.com)** and **[SGX Catalist Listing Rules](https://rulebook.sgx.com)** Chapter 7 (Continuous Disclosure) and Chapter 6 (Prospectus and Offer Documents) - these are the rules whose breach can trigger securities-claim exposure.
+**[SGX Mainboard Listing Rules](https://rulebook.sgx.com)** Chapter 7 (Continuing Obligations) and Chapter 6 (Prospectus, Offering Memorandum and Introductory Document), and **[SGX Catalist Listing Rules](https://rulebook.sgx.com)** Chapter 7 (Continuing Obligations) and Chapter 4 Part IV (Requirements for Offer Documents) - these are the rules whose breach can trigger securities-claim exposure.
 
 **Mainboard Rule 705** (financial reporting) and **Rule 703** (general disclosure of material information) - these are the principal Continuous Disclosure rules whose breach triggers civil exposure.
 
@@ -81,9 +79,9 @@ A pre-IPO SME proceeding to list should specifically procure Public Offering of 
 
 #### Singapore market convention by SME type
 
-**Private-company / SME D&O.** All three sides typically offered. Side C entity cover is typically restricted to defence costs for entity-related investigation or limited to specific carve-outs (private companies do not face securities-claim exposure in the same way as listed companies).
+**Private-company / SME D&O.** Entity cover varies by product: some products for private companies cover the company itself for claims alleging a wrongful act (AIG's PrivateEdge), while others list individual cover and company reimbursement cover but no entity cover (MSIG's D&O product page). Private companies do not face securities-claim exposure in the same way as listed companies.
 
-**Listed companies (SGX Mainboard / Catalist).** Full Side C entity securities-claim cover is standard. The Side C limit is typically a discrete sub-limit within the overall D&O tower, separately stated in the schedule.
+**Listed companies (SGX Mainboard / Catalist).** Full Side C entity securities-claim cover is standard. Whether Side C shares the aggregate limit with Sides A and B (as in Beazley's Singapore specimen wording) or has a separate sub-limit is stated in the schedule.
 
 **Pre-IPO entities.** POSI is sold alongside D&O for the IPO prospectus exposure. AIG Dragonshield references transferrable limits from POSI to the D&O policy over a 3-year post-listing period.
 
@@ -93,45 +91,43 @@ A pre-IPO SME proceeding to list should specifically procure Public Offering of 
 
 A Singapore Pre-IPO technology SME with a 4-person board buys a S$5m D&O programme: Side A + Side B + Side C carve-back for securities claims arising out of the prospectus.
 
-**Scenario 1 - Solvent company, shareholder claim against two directors for breach of duty in approving a connected-party transaction.** The company indemnifies the directors under its constitution and the section 172A and 172B carve-outs (the directors are ultimately successful in defending the action). Defence costs S$650,000; no settlement. **Side B** reimburses the company for the S$650,000 it paid out - fitting within the section 172A and 172B statutory framework. The company's retention applies (typically higher than the Side A retention). Insurer pays S$650,000 minus retention.
+**Scenario 1 - Solvent company, shareholder claim against two directors for breach of duty in approving a connected-party transaction.** The company indemnifies the directors under its constitution and the section 172B carve-out (the directors are ultimately successful in defending the action). Defence costs S$650,000; no settlement. **Side B** reimburses the company for the S$650,000 it paid out - fitting within the section 172A and 172B statutory framework. The company's retention applies (typically higher than the Side A retention). Insurer pays S$650,000 minus retention.
 
-**Scenario 2 - Insolvent company, liquidator brings derivative action.** Company has gone into liquidation; cannot indemnify under section 172 (the underlying liability is to the company itself; indemnification by the company against its own liability is structurally impossible). **Side A** pays the directors' defence costs directly. This is the indispensable architecture in pre-IPO SMEs where investor disputes can crystallise into derivative actions following insolvency. Side A retention applies, typically lower than Side B retention.
+**Scenario 2: insolvent company, liquidator sues the directors in the company's name.** Company has gone into liquidation; cannot indemnify under section 172 (the underlying liability is to the company itself; indemnification by the company against its own liability is structurally impossible). **Side A** pays the directors' defence costs directly. This is the indispensable architecture in pre-IPO SMEs where investor disputes can lead to claims against the directors after insolvency. Side A retention applies, typically lower than Side B retention.
 
-**Scenario 3 - Post-IPO, securities claim alleging prospectus misstatement.** The company is named as defendant alongside the directors. **Side C** funds the company's defence and any settlement of the securities claim, subject to the entity sub-limit; **Side A** and **Side B** fund the directors' element. Coordination between sides is governed by the policy's allocation clause.
+**Scenario 3 - Post-IPO, securities claim alleging prospectus misstatement.** The company is named as defendant alongside the directors. **Side C** funds the company's defence and any settlement of the securities claim, subject to the policy limit (or any entity sub-limit); **Side A** and **Side B** fund the directors' element. Coordination between sides is governed by the policy's allocation clause.
 
 **Scenario 4 - Government investigation: MAS or CAD asks two directors to attend an interview about suspected market misconduct.** Pre-investigation costs are funded through the wording's investigation or regulatory-crisis extension (Chubb Elite VI's pre-investigation cover; AIG Dragonshield's Regulatory Crisis Event Costs). This is a discrete insuring extension distinct from the main Side A / Side B / Side C insuring clauses.
 
-**Scenario 5 - Insolvent company plus securities claim.** Only Side A responds; Side B is moot (no solvent company to reimburse); Side C may respond to the entity portion only if pre-insolvency facts attract cover. The interplay shows why a Side A DIC top-up is valued by board members in PE-backed entities and listed-company boards.
+**Scenario 5 - Insolvent company plus securities claim.** Side A responds for the directors; Side B is moot (no solvent company to reimburse); whether Side C pays the company's share depends on the wording, and a priority-of-payments clause may put the directors' loss first. The interplay shows why a Side A DIC top-up is valued by board members in PE-backed entities and listed-company boards.
 
 #### Premium impact
 
-**Side A only (standalone DIC)** is the lowest-premium product per S$1m of cover because the trigger is narrow (non-indemnifiable loss only).
+**Side A only (standalone DIC)** responds only to loss the company does not indemnify (non-indemnifiable loss).
 
-**Side A + Side B ("AB")** is the typical private-company D&O architecture.
+**Side A + Side B ("AB")** is the structure of D&O products without entity cover (MSIG's D&O product page, for example, lists individual cover and company reimbursement cover but no entity cover).
 
-**Full Side A + B + C ("ABC")** is the standard listed-company architecture; private-company wordings offer Side C with limitations or by endorsement.
+**Full Side A + B + C ("ABC")** is the standard listed-company architecture; private-company products vary in how, and how widely, they cover the company itself.
 
-**Side A DIC top-up above the main tower** is purchased for the benefit of directors who want personal protection independent of corporate retention and exclusions - typically by listed companies, PE-backed pre-IPO companies, and SMEs in litigious sectors. Premium per S$1m is lower than the underlying tower because the DIC trigger is narrow.
+**Side A DIC top-up above the main tower** is purchased for the benefit of directors who want personal protection independent of corporate retention and exclusions - for example by listed companies, PE-backed pre-IPO companies, and SMEs in litigious sectors.
 
 #### Singapore court treatment
 
-The Singapore Court of Appeal and High Court have addressed the scope of section 172 in director-liability cases. [FIDReC](https://www.fidrec.com.sg) summaries are not on-point because D&O claims exceed FIDReC's monetary jurisdiction.
+The Singapore Court of Appeal and High Court have addressed the scope of section 172 in director-liability cases. [FIDReC](https://www.fidrec.com.sg) summaries may be of limited use here: FIDReC mediates without a claim limit but adjudicates only claims of up to S$150,000 (for claims filed on or after 1 July 2024).
 
 ### Common Mistakes / What Goes Wrong
 
 1. **Procuring D&O cover without understanding the three sides.** SMEs sometimes buy "D&O" assuming it covers everything; the structural reality is three distinct cover sides with different triggers, retentions, and limits. The procurement decision should specifically address each side.
 
-2. **Side C entity cover purchased for private companies.** Private-company D&O programmes typically do not need Side C entity securities-claim cover because there are no listed securities. Paying premium for Side C in a private context is uneconomic.
+2. **Side C entity cover bought without checking the need.** A private company has no listed securities, so entity securities-claim cover matters less, although investor or M&A activity can still bring securities-type claims. What entity cover a wording gives varies by product.
 
-3. **Side A retention being inadvertently higher than Side B.** The presumptive indemnification clause (where retained in the wording) can lift the retention on Side A loss to the higher Side B retention. Singapore SMEs should specifically test whether the wording carries presumptive indemnification, and consider Chubb's architecture (eliminated) versus traditional architecture (retained).
+3. **Side A retention being inadvertently higher than Side B.** The presumptive indemnification clause (where retained in the wording) can lift the retention on Side A loss to the higher Side B retention. Singapore SMEs should specifically test whether the wording carries presumptive indemnification, and compare wordings that retain it with wordings that do not.
 
 4. **No Side A DIC top-up where the board includes high-litigation-risk independents.** Independent directors in PE-backed pre-IPO companies and listed-company boards face personal exposure that the main D&O tower may not adequately address (corporate retention, exclusions, insurer insolvency, exhaustion of limits by entity claims). A Side A DIC top-up addresses these gaps.
 
 5. **POSI not procured for IPO prospectus exposure.** Pre-IPO SMEs preparing to list should specifically procure POSI alongside D&O. The IPO prospectus liability exposure is substantial and is structurally addressed by POSI, not by D&O Side C.
 
 6. **Not understanding section 172 prohibitions.** Some SMEs assume the company can always indemnify directors. Section 172 voids indemnification for negligence, default, breach of duty, and breach of trust attaching by law. Where the underlying liability is non-indemnifiable, only Side A responds.
-
-7. **Premium funding from parent in violation of section 76A.** Group D&O premium arrangements where a parent or holding company funds subsidiary premium can engage section 76A financial-assistance issues. The section 76A(13) to (15) exceptions should be specifically tested.
 
 8. **Not coordinating Side A / Side B / Side C with defence costs allocation.** Defence allocation under D&O is on Defense Costs Inside Limits architecture (see [how it compares with the outside option](/comparison/defense-costs-inside-vs-outside-limits-liability)) and can erode the pool available across all three sides. The interaction between defence costs and side allocation should be specifically tested.
 
@@ -143,18 +139,18 @@ The Singapore Court of Appeal and High Court have addressed the scope of section
 
 For a Singapore SME procuring D&O cover, the structural priority varies by company type:
 
-**Private-company SMEs**: Side A + Side B is the typical architecture, with Side C either omitted or restricted. The structural test is whether the company has any listed securities (it does not) and whether the M&A or investor activity might generate quasi-securities claims (in which case a Side C carve-back may be added). Limit sizing should be against realistic derivative-action and regulatory-investigation exposure.
+**Private-company SMEs**: Side A + Side B is the core, and cover for the company itself varies by product. The structural test is whether the company has any listed securities (it does not) and whether the M&A or investor activity might generate quasi-securities claims (in which case a Side C carve-back may be added). Limit sizing should be against realistic derivative-action and regulatory-investigation exposure.
 
 **PE-backed pre-IPO SMEs**: Side A + Side B + Side C carve-back for securities claims arising out of any imminent prospectus or fundraising activity, with POSI specifically procured for IPO prospectus liability. A Side A DIC top-up should be considered for independent directors and PE-nominee directors.
 
-**Listed SMEs (Mainboard / Catalist)**: Full Side A + Side B + Side C architecture is standard. The Side C limit should be sized against realistic securities-claim exposure, taking into account Continuous Disclosure obligations under SGX Listing Rule 703 and prospectus liability under SFA 2001 section 254. A Side A DIC top-up for independent directors is widely adopted.
+**Listed SMEs (Mainboard / Catalist)**: Full Side A + Side B + Side C architecture is standard. The Side C limit should be sized against realistic securities-claim exposure, taking into account Continuous Disclosure obligations under SGX Listing Rule 703 and prospectus liability under SFA 2001 section 254. A Side A DIC top-up for independent directors can also be considered.
 
 The interaction with Companies Act sections 172, 172A, and 172B is the statutory floor. Side A responds where the company cannot indemnify; Side B responds where the company can. The wording's presumptive indemnification clause (or absence thereof) drives the retention allocation between sides.
 
 ### Questions to Ask Your Adviser
 
 1. Does our D&O policy provide Side A, Side B, and Side C, and what are the limits and retentions on each side?
-2. For Side C, is entity securities-claim cover relevant to our company type (private, pre-IPO, listed) and is the Side C sub-limit adequate?
+2. For Side C, is entity securities-claim cover relevant to our company type (private, pre-IPO, listed) and is the limit available for Side C (shared or sub-limited) adequate?
 3. Does our wording carry a presumptive indemnification clause, and what does its retention treatment do to Side A loss allocation?
 4. For PE-backed pre-IPO entities, have we procured POSI for IPO prospectus exposure, and is the POSI limit transferrable to the main D&O policy post-listing?
 5. For listed entities, should we consider a Side A DIC top-up above the main tower for independent director protection?

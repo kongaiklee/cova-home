@@ -1,5 +1,5 @@
 ---
-title: "Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know"
+title: "Workplace Fairness Act 2025 Implementation: What Singapore SMEs Need to Know"
 slug: "/regulatory-change/wfa-2024-phase-2-implementation"
 category: "regulatory-change"
 intent: "know-where-you-stand"
@@ -14,14 +14,14 @@ word_count: 1444
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/wfa-2024-phase-2-implementation"
-meta_description: "The Workplace Fairness Act arrives in Singapore in phases. What phase 2 introduces, who it binds, and what an employer needs in place first."
-og_title: "Workplace Fairness Act 2024 Phase 2 Implementation: What Singapore SMEs Need to Know"
-og_description: "The Workplace Fairness Act arrives in Singapore in phases. What phase 2 introduces, who it binds, and what an employer needs in place first."
+meta_description: "Singapore's Workplace Fairness Act 2025 is passed but not yet in force; MOM aims for end-2027. Who it binds and what an employer needs in place first."
+og_title: "Workplace Fairness Act 2025 Implementation: What Singapore SMEs Need to Know"
+og_description: "Singapore's Workplace Fairness Act 2025 is passed but not yet in force; MOM aims for end-2027. Who it binds and what an employer needs in place first."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The [Workplace Fairness Act 2024 (WFA)](https://sso.agc.gov.sg/Act/WFA2025) establishes Singapore's first comprehensive statutory framework prohibiting workplace discrimination on protected characteristics. It was passed by Parliament on 8 January 2025 but **is not yet in force** - the WFA is uncommenced and is expected to take effect by the end of 2027, after a lead-in period for employers to prepare. **Phase 1** focused on the foundational framework - passage of the Bill and the operational lead time. **Phase 2** is the implementation runway - preparing HR policies and practices for the coming protected-characteristics regime, ahead of enforcement through [TAFEP](https://www.tafep.sg/) and [MOM](https://www.mom.gov.sg/) and dispute resolution under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016) framework. Protected characteristics include age, nationality, sex, marital status, pregnancy status, caregiving responsibilities, race, religion, language, disability, and mental health condition. **Employers with fewer than 25 employees will be exempt for the first five years** after commencement. For Singapore SMEs, implications: **EPL (Employment Practices Liability)** insurance becomes substantially more relevant given the new statutory claim avenue, **HR documentation discipline** matters for defence, and **specific HR practices** (recruitment, performance management, termination) require review against the coming framework. The runway to commencement is the time to prepare.
+> The [Workplace Fairness Act 2025 (WFA)](https://sso.agc.gov.sg/Acts-Supp/8-2025/) establishes Singapore's first comprehensive statutory framework prohibiting workplace discrimination on protected characteristics. It was passed by Parliament on 8 January 2025 but **is not yet in force** - the WFA is uncommenced and is expected to take effect by the end of 2027, after a lead-in period for employers to prepare. The law was made in two Bills. The first, passed on 8 January 2025, sets the protections and employers' duties; the second, the [Workplace Fairness (Dispute Resolution) Act 2025](https://sso.agc.gov.sg/Acts-Supp/22-2025/), passed on 4 November 2025, sets how claims are made: mediation first, then the [Employment Claims Tribunals](https://sso.agc.gov.sg/Act/ECA2016) or the High Court. [MOM](https://www.mom.gov.sg/) intends both to take effect together, with enforcement by the Commissioner for Workplace Fairness and authorised officers appointed under the Act, and guidance from [TAFEP](https://www.tafep.sg/). The time before commencement is the runway for preparing HR policies and practices. Protected characteristics include age, nationality, sex, marital status, pregnancy status, caregiving responsibilities, race, religion, language, disability, and mental health condition. **Employers with fewer than 25 employees are exempt** from the Act except section 26 (fair consideration for work pass applications); MOM has said it will review the exemption five years after the law is implemented. For Singapore SMEs, implications: **EPL (Employment Practices Liability)** insurance becomes substantially more relevant given the new statutory claim avenue, **HR documentation discipline** matters for defence, and **specific HR practices** (recruitment, performance management, termination) require review against the coming framework. The runway to commencement is the time to prepare.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ The WFA represents a watershed shift in Singapore employment law. For decades, w
 
 #### The WFA framework
 
-Per the [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025):
+Per the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/):
 
 **Statutory protected characteristics:**
 
@@ -46,23 +46,22 @@ The Act protects against discrimination on:
 - Language
 - Disability
 - Mental health condition
-- Specific other characteristics per Act
+- Other characteristics are not in the Act; the Tripartite Guidelines on Fair Employment Practices continue to cover them
 
 **Specific scope:**
 - Recruitment / hiring
 - Promotion / development
-- Compensation / benefits
 - Performance management
 - Termination
 - Specific other employment-related decisions
 
 **Specific exemptions:**
 - Specific bona fide occupational qualifications
-- Employers with fewer than 25 employees - exempt for the first five years after commencement, after which the Government has said it will review the threshold
+- Employers with fewer than 25 employees: exempt except for section 26 (fair consideration for work pass applications); MOM has said it will review the exemption five years after the law is implemented
 
-#### Phase 1 (2024-2025) - Foundation
+#### The first Bill (2024-2025): foundation
 
-**Phase 1 focus:**
+**First Bill focus:**
 
 - Legislative passage
 - operational lead time for employers
@@ -76,9 +75,9 @@ The Act protects against discrimination on:
 - Performance management practices
 - Termination practices
 
-#### Phase 2 (2025-2027 runway) - Implementation preparation
+#### The second Bill and the runway to end-2027: implementation preparation
 
-**Phase 2 focus:**
+**Runway focus:**
 
 - Operational preparation ahead of commencement
 - Specific complaint handling via TAFEP
@@ -95,9 +94,9 @@ Per [TAFEP](https://www.tafep.sg/) guidance:
 
 **Specific dispute resolution:**
 
-Under the [Employment Claims Act 2016](https://sso.agc.gov.sg/Act/ECA2016):
-- TADM (Tripartite Alliance for Dispute Management) mediation
-- Employment Claims Tribunal (ECT) adjudication
+Under the [Workplace Fairness (Dispute Resolution) Act 2025](https://sso.agc.gov.sg/Acts-Supp/22-2025/), once in force:
+- Mediation first: a request to the Commissioner for Workplace Fairness, who refers the dispute to an approved mediator
+- Adjudication in an Employment Claims Tribunal (claims up to S$250,000) or the General Division of the High Court
 
 #### Anticipated claim categories once the WFA is in force
 
@@ -118,12 +117,10 @@ Once the Act commences, the claim categories most likely to arise are:
 
 3. **Mental health condition claims:**
    - Disclosure-related decisions
-   - Accommodation
    - Termination
    - Operational scope
 
 4. **Disability claims:**
-   - Specific reasonable accommodation
    - Operational decisions
    - Operational scope
 
@@ -155,16 +152,14 @@ Once the Act commences, the claim categories most likely to arise are:
 - Operational reasons
 - Operational consistency with performance management
 
-**Compensation / benefits:**
+**Compensation / benefits (pay is not an employment decision under WFA sections 5 to 7):**
 
 - Specific role-based equitability
 - Operational operational decisions
 
 **Reasonable accommodation:**
 
-- Specific disability accommodation
-
-- Operational commercial considerations
+- Not a duty under the WFA: the Tripartite Committee on Workplace Fairness recommended against legislating it, and MOM said the tripartite partners would release an advisory on reasonable accommodations for persons with disabilities
 
 #### Insurance implications - EPL becomes substantially more relevant
 
@@ -178,7 +173,7 @@ EPL (Employment Practices Liability Insurance) covers:
 
 **Specific WFA-driven elevation:**
 
-Pre-WFA, Singapore EPL was relatively niche given limited statutory employment claim avenues. The WFA will materially expand the claim landscape once it commences:
+The WFA will materially expand the claim landscape once it commences:
 
 - Statutory discrimination claims actionable once in force
 - Specific damages framework
@@ -194,7 +189,7 @@ Singapore SME EPL typically provides:
 **Specific limit considerations:**
 
 For Singapore SMEs:
-- Standard EPL limits S$500k-S$2M
+- Limits are set per policy
 - Higher for larger operations
 - Industry exposure
 
@@ -222,12 +217,6 @@ For Singapore SMEs:
 - Operational performance history
 - Operational consistency with policies
 
-**Specific accommodation documentation:**
-
-- Specific accommodation requests
-- Operational operational evaluation
-- Operational decision rationale
-
 #### Specific industry observations
 
 Likely industry exposure patterns once the WFA is in force:
@@ -245,9 +234,6 @@ Likely industry exposure patterns once the WFA is in force:
 **Technology:**
 - Specific recruitment and performance patterns
 - Operational sophistication
-
-**Manufacturing:**
-- Specific accommodation patterns
 
 #### Specific TAFEP guidance evolution
 
@@ -276,7 +262,6 @@ Likely industry exposure patterns once the WFA is in force:
 
 **Operational considerations:**
 
-- Damages typically modest by international standards
 - Specific defence costs material
 - Operational reputational considerations
 - Operational commercial impact
@@ -327,7 +312,7 @@ Annual policy and practice review as TAFEP guidance and the commencement date ar
 
 #### Specific case law evolution
 
-There is no statutory discrimination case law yet, as the WFA is not in force. Once it commences, TADM mediation outcomes and ECT adjudications will begin to develop the framework; meaningful case-law patterns are likely only some years after commencement.
+There is no statutory discrimination case law yet, as the WFA is not in force. Once it commences, decisions of the Employment Claims Tribunals and the High Court will begin to develop the framework; mediation under the Act is held in private.
 
 For specific developments, [eLitigation](https://www.elitigation.sg/) provides ECT decisions where published.
 
@@ -336,13 +321,13 @@ For specific developments, [eLitigation](https://www.elitigation.sg/) provides E
 1. **No HR policy review for WFA compliance.** operational and defence weakness.
 2. **Recruitment practices with prohibited preferences.** Direct claim risk once the Act is in force.
 3. **Specific termination without documented basis.**
-4. **No accommodation disability / mental health.** Direct claim risk.
+4. **No approach to disability / mental health accommodation.** Not a WFA duty; MOM said the tripartite partners would issue an advisory on reasonable accommodations for persons with disabilities.
 5. **No EPL or inadequate EPL limits.**
 6. **No manager training on WFA framework.**
-7. **Specific compensation / benefits inequities.** Specific claim categories.
+7. **Specific compensation / benefits inequities.** Pay is not one of the employment decisions listed in WFA sections 5 to 7.
 8. **No complaint handling framework.** operational and reputational risk.
 9. **No coordination with TAFEP for specific complaints.**
-10. **Assuming the WFA is already in force, or that the under-25-employee exemption is permanent.** It is uncommenced (expected end-2027); the small-employer exemption runs only five years.
+10. **Assuming the WFA is already in force, or that the under-25-employee exemption can never change.** It is uncommenced (expected end-2027); MOM has said it will review the small-employer exemption five years after the law is implemented.
 
 ### What This Means for Your Business
 
@@ -356,7 +341,7 @@ For Singapore SME founders and HR leaders:
 
 4. **Manager training on WFA framework.** operational and cultural foundation.
 
-5. **Specific accommodation disability / mental health.** operational requirement.
+5. **Accommodation for disability / mental health.** Not a WFA requirement; MOM said the tripartite partners would issue an advisory on reasonable accommodations for persons with disabilities.
 
 6. **For complex employment scope, specialist HR / employment counsel.**
 

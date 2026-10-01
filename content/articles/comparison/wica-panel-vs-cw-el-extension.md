@@ -14,14 +14,14 @@ word_count: 1618
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/wica-panel-vs-cw-el-extension"
-meta_description: "In Singapore WICA cover is compulsory; the common-law employer's liability extension is not. What each responds to, and the gap between them."
+meta_description: "In Singapore WICA cover is compulsory outside excluded classes; the common-law employer's liability extension is not. What each responds to, and the gap."
 og_title: "WICA Designated Panel Cover vs Common-Law / Employer's Liability Extension: How They Coordinate"
-og_description: "In Singapore WICA cover is compulsory; the common-law employer's liability extension is not. What each responds to, and the gap between them."
+og_description: "In Singapore WICA cover is compulsory outside excluded classes; the common-law employer's liability extension is not. What each responds to, and the gap."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> WICA cover (mandatory under [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019)) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance components that together address Singapore employer workplace injury exposure. **WICA cover** responds to compensation under the WICA framework - capped at statutory limits (currently S$269k death, S$346k total PI, S$53k medical per [1 November 2025 increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). It must be procured from one of the [24 designated insurers](https://www.mom.gov.sg/) (see [how MOM's employer and platform panels differ](/comparison/wica-designated-insurer-panel)) and is criminally enforced. **CW/EL extension** responds to common-law negligence claims by employees against employers - claims for damages exceeding WICA caps where employer negligence is established. The extension is operationally essential because the gap between WICA caps (S$346k) and actual claim values for severe injuries (often S$500k-S$2M+) is substantial. The two work together: WICA handles the statutory compensation; CW/EL handles the common-law gap. For Singapore SMEs, both components are typically procured as a single package from the same designated insurer.
+> WICA cover (mandatory under [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019), except for the classes of employees the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers) and Common-Law / Employer's Liability (CW/EL) extension are two related but distinct insurance components that together address Singapore employer workplace injury exposure. **WICA cover** responds to compensation under the WICA framework - capped at statutory limits (currently S$269k death, S$346k total PI, S$53k medical per [1 November 2025 increases](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)). It must be procured from one of the [24 designated insurers](https://www.mom.gov.sg/) (see [how MOM's employer and platform panels differ](/comparison/wica-designated-insurer-panel)) and is criminally enforced. **CW/EL extension** responds to common-law negligence claims by employees against employers - claims for damages exceeding WICA caps where employer negligence is established. The extension is operationally essential because the gap between WICA caps (S$346k) and actual claim values for severe injuries (often S$500k-S$2M+) is substantial. The two work together: WICA handles the statutory compensation; CW/EL handles the common-law gap. For Singapore SMEs, both components are typically procured as a single package from the same designated insurer.
 
 ### The Sourced Detail
 
@@ -37,7 +37,7 @@ The combination of WICA cover and CW/EL extension addresses the integrated workp
 - Total permanent incapacity: S$346,000
 - Medical expenses: S$53,000
 
-**Specific scope.** Per the WICA framework (see [the complete employer guide](/document-legal/wica-complete-guide-singapore-employers) and [the November 2025 limit increase](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
+**Specific scope.** Subject to the excluded classes, per the WICA framework (see [the complete employer guide](/document-legal/wica-complete-guide-singapore-employers) and [the November 2025 limit increase](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
 - All manual workers, regardless of salary
 - Non-manual workers earning S$2,600/month or below

@@ -21,7 +21,7 @@ og_description: "Utmost good faith is what separates an insurance contract from 
 
 > **The Answer in 60 Seconds**
 >
-> "Utmost good faith" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial contracts. Singapore inherits the common-law doctrine via [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) (Sections 17, 18, 19 - applicable directly to marine and by analogy to non-marine insurance) and through judicial development. The doctrine imposes a positive duty of disclosure on the insured before contract formation: every material fact that would influence a prudent insurer's underwriting decision must be disclosed, even if not specifically asked. Singapore courts apply this strictly. For Singapore SMEs, the doctrine has substantial practical implications: **proposal form discipline matters profoundly**, **non-disclosure can void cover at claim time**, **the standard is what a prudent insurer would consider material - not what the SME thinks is relevant**, and **the doctrine extends to renewals and amendments**, not just initial placement. The leading authority is *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [what the case decided on materiality](/document-legal/pan-atlantic-pine-top-materiality-test)).
+> "Utmost good faith" (uberrimae fidei) is the foundational doctrine of insurance law that distinguishes insurance contracts from ordinary commercial contracts. Singapore inherits the common-law doctrine via [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) (Sections 17, 18, 19 - applicable directly to marine and by analogy to non-marine insurance) and through judicial development. The doctrine imposes a positive duty of disclosure on the insured before contract formation: every material fact that would influence a prudent insurer's underwriting decision must be disclosed, even if not specifically asked. For Singapore SMEs, the doctrine has substantial practical implications: **proposal form discipline matters profoundly**, **non-disclosure can void cover at claim time**, **the standard is what a prudent insurer would consider material - not what the SME thinks is relevant**, and **the doctrine extends to renewals and amendments**, not just initial placement. The leading authority is *Pan Atlantic Insurance Co. Ltd v Pine Top Insurance Co. Ltd* [1995] 1 AC 501 (see [what the case decided on materiality](/document-legal/pan-atlantic-pine-top-materiality-test)).
 
 ### The Sourced Detail
 
@@ -53,7 +53,7 @@ A circumstance is material if it would influence the judgment of a prudent insur
 
 The "prudent insurer" standard is critical: the question is not what the SME thinks would matter, or what an ordinary person would think would matter, but what a hypothetical prudent insurer in the relevant market would consider influential.
 
-This standard means SMEs cannot rely on intuitive judgment. A fact the SME considers irrelevant might be material if a prudent insurer would treat it as relevant - past claims history, near-miss incidents, regulatory issues, financial difficulties, prior insurer non-renewals all commonly meet the materiality threshold even when an SME might not initially see them as relevant.
+This standard means SMEs cannot rely on intuitive judgment. A fact the SME considers irrelevant might be material if a prudent insurer would treat it as relevant - past claims history, near-miss incidents, regulatory issues, financial difficulties, prior insurer non-renewals can each meet the materiality threshold even when an SME might not initially see them as relevant.
 
 #### The "actual inducement" requirement
 
@@ -65,7 +65,7 @@ In practice, insurers establish actual inducement through underwriting evidence:
 
 The utmost good faith duty extends to:
 
-**Material facts known to the insured.** The duty is to disclose what the insured knows, not what they should have known (though the line is sometimes blurred - willful blindness or reckless ignorance can be treated as constructive knowledge).
+**Material facts known to the insured.** The duty is to disclose what the insured knows, and the insured is deemed to know every circumstance which, in the ordinary course of business, ought to be known by them (Marine Insurance Act 1906, section 18(1)).
 
 **Facts not specifically asked.** This is the most operationally consequential aspect: even if the proposal form doesn't ask about a particular topic, a material fact must still be disclosed. SMEs cannot defend non-disclosure by arguing "you didn't ask."
 
@@ -88,24 +88,13 @@ These limits matter operationally. For example, an SME doesn't need to disclose 
 
 Where the duty is breached, the standard remedy is **avoidance** - the insurer can treat the contract as if it had never existed, returning premium and refusing to pay any claims. This is a substantial remedy that reaches back to the inception of the policy.
 
-Singapore courts have applied avoidance in published decisions (available through [eLitigation](https://www.elitigation.sg/)). The general approach has been:
+Singapore courts have applied avoidance in published decisions (available through [eLitigation](https://www.elitigation.sg/)). The questions a court asks include whether the fact was material, whether it induced the insurer, and whether the insurer waived its right to avoid (for example, [Tan Yi Lin Cheryl v AIA Singapore Pte Ltd [2021] SGHC 130](https://www.elitigation.sg/gd/s/2021_SGHC_130)).
 
-- Strict application where the breach is substantial and clearly material
-- Specific consideration of fairness in borderline cases
-- Specific recognition that avoidance is a serious commercial consequence
-- Specific evaluation of insurer's conduct (delay in raising the issue, etc.)
-
-Avoidance can be partial in some scenarios (avoidance only of specific extensions or sections of cover), though the general doctrine treats the contract as a whole.
+Avoidance applies to the contract as a whole; the Singapore Academy of Law's 2020 law reform report calls this an all-or-nothing approach.
 
 #### The 1906 Act's duty as reciprocal
 
-Section 17 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) imposes the duty on "either party" - meaning the insurer also owes utmost good faith to the insured. In practice, the insurer's duty is less developed in case law but has been recognised in scenarios involving:
-
-- Non-disclosure of relevant insurer information at placement
-- Specific bad faith in claim handling
-- Specific concealment of policy interpretation positions
-
-Singapore courts have shown willingness to apply utmost good faith bilaterally in appropriate cases.
+Section 17 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) imposes the duty on "either party" - meaning the insurer also owes utmost good faith to the insured. Where the insurer is the party in breach, the remedy is still avoidance, which the Singapore Academy of Law's 2020 law reform report notes does not help an insured who wants the claim paid.
 
 #### Practical implications for SME procurement
 
@@ -113,7 +102,7 @@ The doctrine creates operational obligations:
 
 **Comprehensive proposal form completion.** Standard fields plus volunteered material information.
 
-**Discussion of operations, claims history, near-misses with the broker / FA.** The broker's role under [FAA Section 27](https://sso.agc.gov.sg/Act/FAA2001) (see [the suitability assessment duty](/document-legal/faa-section-27-suitability-assessment)) includes drawing out material facts the SME might not volunteer.
+**Discussion of operations, claims history, near-misses with the broker / FA.** A broker or adviser who asks about operations and history can help draw out material facts the SME might not volunteer.
 
 **Renewal discipline.** Material changes during the policy period need disclosure at renewal - operations expansion, new activities, claims history, regulatory issues, financial changes.
 
@@ -130,7 +119,7 @@ Section 19 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906
 - Ensure renewal discipline addresses material changes
 - Document the disclosure process
 
-For SMEs, working with a competent broker reduces utmost good faith risk because the broker professionally identifies material facts the SME might not naturally surface.
+For SMEs, working with a competent broker can reduce utmost good faith risk, because a broker can help identify material facts the SME might not naturally surface.
 
 #### Specific case examples
 
@@ -139,10 +128,9 @@ Several Singapore decisions illustrate the doctrine in operation:
 The cases generally show courts:
 - Insisting on substantive materiality assessment
 - Requiring actual inducement under Pan Atlantic
-- Recognising that SMEs are not held to underwriting expertise standards
 - Specific willingness to find avoidance in clear cases
 
-For specific case-by-case treatment, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions; specific market commentary is available through [GIA](https://gia.org.sg/) industry publications.
+For specific case-by-case treatment, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions.
 
 ### Common Mistakes / What Goes Wrong
 
@@ -162,15 +150,15 @@ For specific case-by-case treatment, [eLitigation](https://www.elitigation.sg/) 
 For Singapore SMEs:
 
 1. **Treat proposal forms with care.** Comprehensive completion, operational reality reflected.
-2. **Discuss operations comprehensively with broker / FA.** They draw out what's material.
+2. **Discuss operations comprehensively with broker / FA.** They can help draw out what is material.
 3. **Annual renewal review.** Material changes since last placement.
 4. **Mid-term amendment discipline.** Operations expansion, new activities, claims history.
 5. **Document disclosures made.** Both your records and broker's records.
-6. **Past claims and near-miss history is material.** Specific disclosure expectation.
-7. **Regulatory and financial issues are commonly material.** Specific disclosure expectation.
-8. **For complex operations, specialist broker.** Section 27 / utmost good faith expertise overlap.
+6. **Past claims and near-miss history can be material.** Specific disclosure expectation.
+7. **Regulatory and financial issues can be material.** Specific disclosure expectation.
+8. **For complex operations, specialist broker.** Disclosure for complex operations benefits from specialist experience.
 
-The utmost good faith doctrine is unique to insurance contracts. SMEs that approach proposal forms and renewals with the doctrine in mind benefit from operational simplicity and reduced claim-time risk; SMEs that approach them as routine paperwork face avoidance exposure that can render cover worthless when needed.
+The utmost good faith doctrine applies to every insurance contract. SMEs that approach proposal forms and renewals with the doctrine in mind benefit from operational simplicity and reduced claim-time risk; SMEs that approach them as routine paperwork face avoidance exposure that can render cover worthless when needed.
 
 ### Questions to Ask Your Adviser
 

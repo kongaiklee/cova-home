@@ -176,7 +176,7 @@ Cyber insurance and PDPA breach response intersect:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Late notification beyond 3-day window.** Beyond 3 days from assessment without adequate justification.
+1. **Late notification beyond 3-day window.** Notifying more than 3 calendar days after the assessment contravenes section 26D(1); the reasons given for the delay go to the gravity of the contravention.
 
 2. **Notification before assessment complete.** Filing without verified facts; subsequent corrections create inconsistency.
 
@@ -184,7 +184,7 @@ Cyber insurance and PDPA breach response intersect:
 
 4. **Inadequate harm assessment documentation.** Cannot demonstrate basis for "not notifiable" decision; PDPC subsequent investigation finds otherwise.
 
-5. **Missing required notification elements.** Schedule items omitted; PDPC requests resubmission.
+5. **Missing required notification elements.** Regulation 5 items omitted; PDPC requests resubmission.
 
 6. **No individual notification or inadequate notification.** Where the breach is likely to cause significant harm, section 26D requires individual notification on or after notifying the PDPC unless an exception applies, and the PDPC's guidance is to notify as soon as practicable; organisation delays unreasonably.
 

@@ -27,7 +27,7 @@ og_description: "No Singapore statute requires group health cover. What decides 
 
 ### The Sourced Detail
 
-Three things get bundled under "staff insurance" in a small SME owner's head: the work injury cover the law makes you carry, the foreign-worker medical cover the work pass regime makes you arrange, and the group health benefit nobody makes you carry at all. Only the first two are compliance. Group health is the discretionary layer, and treating it as compliance is the most common framing error.
+Three things get bundled under "staff insurance" in a small SME owner's head: the work injury cover the law makes you carry (unless your employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers), the foreign-worker medical cover the work pass regime makes you arrange, and the group health benefit nobody makes you carry at all. Only the first two are compliance. Group health is the discretionary layer, and treating it as compliance is the most common framing error.
 
 #### What the law actually requires, and what it does not
 
@@ -82,7 +82,7 @@ Each option trades cost, administration, and signalling value differently. The t
 
 ### Common Mistakes
 
-1. **Treating group health as compliance.** It is not. WICA cover and foreign-worker medical insurance are mandatory; group H&S, outpatient and GPA are voluntary. Bundling them in your head leads to over-buying out of a misplaced sense of obligation.
+1. **Treating group health as compliance.** It is not. WICA cover (subject to the excluded classes) and foreign-worker medical insurance are mandatory; group H&S, outpatient and GPA are voluntary. Bundling them in your head leads to over-buying out of a misplaced sense of obligation.
 
 2. **Buying group H&S without accounting for the cover staff already hold.** Residents have MediShield Life and often an Integrated Shield Plan. The benefit you are adding is the marginal gap, not the whole bill, and pricing the decision against the full cost overstates the value.
 

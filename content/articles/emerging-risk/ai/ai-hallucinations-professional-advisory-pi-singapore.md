@@ -15,9 +15,9 @@ word_count: 1910
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-hallucinations-professional-advisory-pi-singapore"
-meta_description: "Mata v Avianca is the case every professional now gets warned about. Where AI hallucination becomes a professional indemnity problem in Singapore."
+meta_description: "In Mata v Avianca, lawyers were sanctioned for citing cases ChatGPT invented. Where AI hallucination becomes a professional indemnity problem in Singapore."
 og_title: "AI Hallucinations in Professional and Advisory Services: The Singapore Professional Indemnity Exposure"
-og_description: "Mata v Avianca is the case every professional now gets warned about. Where AI hallucination becomes a professional indemnity problem in Singapore."
+og_description: "In Mata v Avianca, lawyers were sanctioned for citing cases ChatGPT invented. Where AI hallucination becomes a professional indemnity problem in Singapore."
 ---
 
 > **The Answer in 60 Seconds**
@@ -38,7 +38,7 @@ District Judge P. Kevin Castel imposed sanctions on Schwartz, LoDuca and their f
 
 #### The Singapore framework: Spandeck negligence
 
-In [*Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency* \[2007\] SGCA 37](https://www.elitigation.sg/gdviewer/s/2007_SGCA_37), a five-judge Court of Appeal led by Chief Justice Chan Sek Keong established the single two-stage test that governs negligence claims in Singapore: factual foreseeability (the threshold), then a combined analysis of legal proximity and policy considerations. The test applies uniformly to all categories of negligence including professional negligence and pure economic loss.
+In [*Spandeck Engineering (S) Pte Ltd v Defence Science & Technology Agency* \[2007\] SGCA 37](https://www.elitigation.sg/gdviewer/s/2007_SGCA_37), a three-judge Court of Appeal (Chief Justice Chan Sek Keong, Andrew Phang Boon Leong JA and V K Rajah JA) established the single two-stage test that governs negligence claims in Singapore: after a threshold question of factual foreseeability, first legal proximity and then policy considerations. The test applies uniformly to all categories of negligence including professional negligence and pure economic loss.
 
 A claimant harmed by an AI-fabricated citation, calculation, or recommendation in professional work pleads Spandeck against the professional. The proximity analysis is straightforward - the client engaged the professional for the advice; the policy analysis is also straightforward - imposing the duty of verification on professionals is consistent with the regulatory structure each profession sits within.
 
@@ -48,9 +48,9 @@ Each Singapore advisory profession has its own statutory and regulatory architec
 
 **Financial advice.** The [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) governs the conduct of FAs. [MAS Notice FAA-N16](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) requires a reasonable basis for any recommendation on investment products - the FA must have considered the client's investment objectives, financial situation and particular needs, and have a reasonable basis for the recommendation given those factors. An AI-generated recommendation that was not verified against the client's actual circumstances breaches the Notice; the responsibility is the FA's, not the AI's. [MAS Notice FAA-N03](https://www.mas.gov.sg/regulation/notices/notice-faa-n03) sets the information-to-clients and product-disclosure standard.
 
-**Legal services.** The [Legal Profession Act 1966](https://sso.agc.gov.sg/Act/LPA1966) regulates Singapore lawyers; section 75A and the [Legal Profession (Professional Indemnity Insurance) Rules at LPA1966-R11](https://sso.agc.gov.sg/SL/LPA1966-R11) make professional indemnity insurance mandatory for solicitors in practice. The compulsory minimum is S$1 million per claim for a sole proprietor or partnership and S$2 million per claim for a Law Corporation or LLP, with the scheme operative since 1991. A lawyer who files an AI-hallucinated citation has failed in the duty to the court and to the client; the PII responds to the resulting claim subject to the policy wording and the compulsory scheme terms.
+**Legal services.** The [Legal Profession Act 1966](https://sso.agc.gov.sg/Act/LPA1966) regulates Singapore lawyers; section 75A and the [Legal Profession (Professional Indemnity Insurance) Rules at LPA1966-R11](https://sso.agc.gov.sg/SL/LPA1966-R11) make professional indemnity insurance mandatory for solicitors in practice. The compulsory minimum is S$1 million per claim for a solicitor practising in a law firm (a sole proprietorship or partnership), S$1 million for a law corporation with only one director, and S$2 million for any other law corporation or an LLP, with the scheme operative since 1991. A lawyer who files an AI-hallucinated citation has failed in the duty to the court and to the client; the PII responds to the resulting claim subject to the policy wording and the compulsory scheme terms.
 
-**Accounting practice.** The [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) regulates public accountants. Section 28 requires accounting firms to maintain professional indemnity insurance to a formula: the higher of S$1 million per claim, or S$500,000 per corporate practitioner, or 2.5 times the firm's gross income (capped at S$50 million). An AI-fabricated tax position or audit finding is an accountant's responsibility under the verification standard the profession applies.
+**Accounting practice.** The [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) regulates public accountants. Section 28 requires every accounting corporation and accounting LLP to be covered by professional indemnity insurance of at least the highest of S$1 million, S$500,000 for every corporate practitioner, or (where applicable) 2.5 times its gross income in the last completed financial year, capped at S$50 million. An AI-fabricated tax position or audit finding is an accountant's responsibility under the verification standard the profession applies.
 
 **Engineering.** The [Professional Engineers Act 1991](https://sso.agc.gov.sg/Act/PEA1991) regulates Singapore PEs; section 34 imposes liability-insurance requirements. An AI calculation error that flows through into a structural design is the PE's responsibility under the verification standard.
 
@@ -62,7 +62,7 @@ Each Singapore advisory profession has its own statutory and regulatory architec
 
 Five recurring scenarios in Singapore advisory work.
 
-**Scenario 1: Fabricated legal citations.** The Mata pattern. A Singapore lawyer using a generative AI tool for research receives a brief or memorandum containing case citations that do not exist or that misstate the holdings. The Legal Profession Act and the Rules of Court duties apply; the PII responds to any resulting professional negligence claim.
+**Scenario 1: Fabricated legal citations.** The Mata pattern. A Singapore lawyer using a generative AI tool for research receives a brief or memorandum containing case citations that do not exist or that misstate the holdings. The Legal Profession Act and the Rules of Court duties apply; the PII responds to a resulting professional negligence claim, subject to the policy wording.
 
 **Scenario 2: Fabricated regulatory references.** A compliance professional, accountant, or financial adviser receives an AI-generated reference to a regulation, notice or section that does not exist or that has been mis-cited. The misstatement flows into advice given to the client.
 
@@ -74,12 +74,12 @@ Five recurring scenarios in Singapore advisory work.
 
 #### The verification protocol that contains the risk
 
-Four-step verification, consistently applied, removes most of the hallucination exposure.
+Four-step verification, consistently applied, reduces the hallucination exposure.
 
 1. **Treat AI output as draft, not final.** The same standard applied to junior-staff work product.
 2. **Independently verify every primary-source citation.** Statutes, cases, regulations, notices, official guidance - check each against the actual source. AI confidence is not corroboration.
-3. **Re-perform numerical calculations.** Either by hand or in an independent tool. AI calculation errors are not random; they cluster on particular question types.
-4. **Disclose AI use to the client where the engagement terms require it.** Many professional engagement letters are being updated to address AI use; the disclosure norm is rising.
+3. **Re-perform numerical calculations.** Either by hand or in an independent tool.
+4. **Disclose AI use to the client where the engagement terms require it.**
 
 The protocol is the same in spirit as the historical professional standard for verifying junior-staff work product before it leaves the firm under the supervising professional's name. The AI does not change the standard; it changes the source of the draft.
 
@@ -87,12 +87,12 @@ The protocol is the same in spirit as the historical professional standard for v
 
 **Professional indemnity (PI).** PI is the principal cover. PI is claims-made and responds to third-party claims arising from professional services. Two wording checks apply:
 
-- Whether the policy carries an AI-related exclusion (some 2024-2025 wordings introduced these; many did not).
-- Whether the policy's "professional services" definition extends to AI-assisted work product. Most wordings do, but the question should be confirmed.
+- Whether the policy carries an AI-related exclusion (some 2024-2025 wordings introduced these).
+- Whether the policy's "professional services" definition extends to AI-assisted work product. The wording decides it.
 
 **Cyber liability.** Cyber typically does not respond to a hallucination-driven professional negligence claim, because the loss is not a cyber event in the policy's sense. Where the hallucination involves a confidential-information exposure (the AI fabricates content about a client's confidential matter), cyber may respond as a privacy event.
 
-**Errors and omissions / Technology E&O.** For technology professionals, Tech E&O is the primary cover and addresses both technology-product defects and AI-related output errors.
+**Errors and omissions / Technology E&O.** For technology professionals, Tech E&O is the primary cover and can address both technology-product defects and AI-related output errors, unless the wording carries an AI exclusion.
 
 ### Common Mistakes / What Goes Wrong
 

@@ -21,7 +21,7 @@ og_description: "No MAS rule makes one distribution channel cheaper. What actual
 
 > **The Answer in 60 Seconds**
 >
-> There is no MAS rule that makes one channel cheaper than the other. The premium an SME pays through a [MAS-licensed insurance broker under the Insurance Act 1966](https://www.mas.gov.sg/regulation/insurance) and the premium for the same risk placed direct with the insurer's own sales channel can be the same, higher, or lower depending on the insurer's commission structure, distribution agreements, and underwriting appetite for that specific class. Brokers in Singapore are paid by the insurer (commission), not by the SME - so the visible premium is not always reduced when the broker is removed from the chain. The "cheaper" question is the wrong question; the right one is who can actually access the underwriter that wants your risk.
+> There is no MAS rule that makes one channel cheaper than the other. The premium an SME pays through a [insurance broker registered with MAS under the Insurance Act 1966](https://www.mas.gov.sg/regulation/insurance) and the premium for the same risk placed direct with the insurer's own sales channel can be the same, higher, or lower depending on the insurer's commission structure, distribution agreements, and underwriting appetite for that specific class. A broker in Singapore can be paid by commission from the insurer, which comes out of the premium, by a fee agreed with the SME, or by both, so the visible premium is not always reduced when the broker is removed from the chain. The "cheaper" question is the wrong question; the right one is who can actually access the underwriter that wants your risk.
 
 ### The Sourced Detail
 
@@ -31,24 +31,24 @@ That third point is the source of most confusion. SME founders often assume that
 
 #### How brokers get paid
 
-In the Singapore commercial insurance market, brokers are remunerated through commission paid by the insurer, calculated as a percentage of the gross premium. The exact percentage varies by line of business and by negotiation. For SME-grade policies (Property, Public Liability, Group Medical, WICA), commission rates commonly fall in the 10-20% range; for specialty lines (Cyber, D&O, Professional Indemnity), rates can be higher.
+In the Singapore commercial insurance market, a broker can be remunerated through commission paid by the insurer, calculated as a percentage of the premium, through a fee agreed in advance with the client, or through a combination of both. The exact percentage varies by line of business and by negotiation.
 
-Per [MAS Notice FAA-N03 on Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03), licensed financial advisers must disclose remuneration in specified circumstances. For corporate insurance broking, MAS-supervised brokers operate under the Insurance Act 1966 framework and, in practice, will disclose commission to clients on request - and frequently as a default for sophisticated corporate buyers.
+Per [MAS Notice FAA-N03 on Information to Clients and Product Information Disclosure](https://www.mas.gov.sg/regulation/notices/notice-faa-n03), licensed financial advisers must disclose remuneration in specified circumstances. For corporate insurance broking, MAS-supervised brokers operate under the Insurance Act 1966 framework. FAA-N03's remuneration disclosure is tied to investment products, such as life policies; for accident and health policies, such as group medical cover, MAS Notice 120 requires a broker to disclose in writing all remuneration, including any commission, that it receives for advising on or arranging the policy. Some brokers' terms of business also say they will disclose their remuneration in full at the client's request.
 
 #### When direct is actually cheaper
 
 The direct channel can produce a lower premium in a narrow set of circumstances:
 
-1. **Highly commoditised, low-value covers.** Foreign Worker Medical Insurance for a small headcount, basic motor for a single van, single-premise FDW policies - these are increasingly sold via insurer portals at lower acquisition cost, and that saving may be passed through.
-2. **Net-rated direct programmes.** Some insurers operate a "net-rated" SME platform that strips out the broker commission line and prices accordingly. The savings show up as a lower headline premium.
-3. **Affinity schemes.** Industry associations (SCAL, SBF, trade chambers) sometimes negotiate group rates with one insurer that are not available to brokers.
+1. **Highly commoditised, low-value covers.** Foreign Worker Medical Insurance for a small headcount, basic motor for a single van, single-premise FDW policies - these are also sold through insurers' online portals, where acquisition cost can be lower, and any saving may be passed through.
+2. **Net-rated direct programmes.** Where an insurer prices a direct SME product without a broker commission line, any saving can show up as a lower headline premium.
+3. **Affinity schemes.** Where an industry association or trade chamber has negotiated group rates with an insurer for its members, those rates may not be available through other channels.
 
 #### When the broker is actually cheaper
 
 The broker channel often produces a lower *or better* outcome in:
 
 1. **Risks with multiple insurers competing.** A broker can run three to five quotes against the same submission. Direct gets one quote.
-2. **Non-standard risks.** F&B with central kitchen, fintech with API exposure, contractors with overseas sub-contracting - these need underwriter relationships. Direct online platforms decline or refer; brokers route to the underwriter who has appetite.
+2. **Non-standard risks.** F&B with central kitchen, fintech with API exposure, contractors with overseas sub-contracting - these need underwriter relationships. Direct online platforms may decline or refer them; a broker can route them to an underwriter who has appetite.
 3. **Claims-made lines (PI, D&O, Cyber).** Wording differences across insurers materially affect cover. The broker's job is to negotiate wording, not just price.
 4. **Negotiated extensions.** Cross-liability, additional insured endorsements, waiver of subrogation, named premises additions - all are negotiable, all are easier through a broker.
 
@@ -65,17 +65,17 @@ The premium is one number. The wording, sub-limits, excess, and extensions are e
 
 #### The verification step that matters more
 
-Per the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid) and the [MAS Register of Representatives](https://eservices.mas.gov.sg/rr), any broker or financial adviser representative dealing with you should be searchable in the public register. Verify before you rely on any quote.
+A broking firm should appear in the [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid) as a registered or exempt insurance broker. The [MAS Financial Institution Representatives Register](https://eservices.mas.gov.sg/rr) lists individuals who provide financial advisory services under the Financial Advisers Act, such as advice on life policies, so a broker's staff who arrange only general insurance may not appear on it. Verify before you rely on any quote.
 
 For an SME buying commercial insurance, the practical due-diligence question is not "are you cheaper?" but "are you regulated, what insurers do you have access to, and how is the wording I'm being offered different from the wording I might get elsewhere?"
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Assuming direct = cheaper because no commission.** The insurer often retains the saving; the SME doesn't see it as a discount.
+1. **Assuming direct = cheaper because no commission.** The insurer may retain the saving, in which case the SME doesn't see it as a discount.
 2. **Comparing direct vs broker quotes without comparing wording.** Two policies at "the same price" can have different exclusions, sub-limits, and notification clauses.
-3. **Using direct for claims-made lines (PI, D&O, Cyber) to save 5%.** Saving is wiped out the first time a claim runs into a wording argument.
+3. **Using direct for claims-made lines (PI, D&O, Cyber) to save a small amount of premium.** Saving is wiped out the first time a claim runs into a wording argument.
 4. **Asking the broker for "cheapest only."** A broker forced to compete only on price will return the cheapest market quote with no improvement to terms - defeating the purpose of using one.
-5. **Not verifying broker licence on the MAS register.** Some intermediaries operate as "consultants" without proper licensing; if they are not on the register, they cannot lawfully advise on regulated products.
+5. **Not verifying the broker's registration with MAS.** Some intermediaries operate as "consultants" without proper licensing or registration. A broking firm should appear in the MAS Financial Institutions Directory, and an individual who gives financial advisory services, such as advice on life policies, should appear on the MAS Financial Institution Representatives Register.
 
 ### What This Means for Your Business
 

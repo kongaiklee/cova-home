@@ -21,16 +21,16 @@ og_description: "A content creator carries defamation, IP and advertising exposu
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore content creator or influencer (food blogger, lifestyle YouTuber, Instagram beauty creator, tech reviewer, family vlogger, gaming streamer) operates as a small business and faces exposures that standard SME insurance often does not address. Insurance baseline: **Public Liability** for shoots, events, and sponsored experiences (with worldwide territory if travel-heavy), **Media Liability / Defamation cover** for content (defamation, copyright, trade mark, and advertising standards under the [Advertising Standards Authority of Singapore (ASAS)](https://asas.org.sg/), plus [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) data obligations), **Equipment cover** for cameras, lighting, and computers (often substantial - S$10,000-S$100,000+), **Cyber Liability** for audience data, payment processing, and brand-partnership data, **Personal Accident** for the creator (income protection where injury or illness stops content production), and **Product Liability** where the creator sells merchandise or branded products. The most distinctive risk: content-related claims - defamation, IP infringement, advertising-standards breaches, sponsored-content disclosure failures - are typically not addressed by a generic SME PL policy.
+> A Singapore content creator or influencer (food blogger, lifestyle YouTuber, Instagram beauty creator, tech reviewer, family vlogger, gaming streamer) operates as a small business and faces exposures that standard SME insurance often does not address. Insurance baseline: **Public Liability** for shoots, events, and sponsored experiences (with worldwide territory if travel-heavy), **Media Liability / Defamation cover** for content claims (defamation, copyright, trade mark and privacy; advertising standards are set separately by the [Advertising Standards Authority of Singapore (ASAS)](https://asas.org.sg/), and data obligations by the [PDPA](https://sso.agc.gov.sg/Act/PDPA2012)), **Equipment cover** for cameras, lighting, and computers (often a substantial investment), **Cyber Liability** for audience data, payment processing, and brand-partnership data, **Personal Accident** for the creator (cover where an accidental injury stops content production; illness falls outside personal accident cover unless the policy adds it), and **Product Liability** where the creator sells merchandise or branded products. The most distinctive risk: content-related claims - defamation, IP infringement, advertising-standards breaches, sponsored-content disclosure failures - are typically not addressed by a generic SME PL policy.
 
 ### The Sourced Detail
 
-Singapore's content creator economy has grown into a meaningful commercial category - full-time creators, brand-partnered influencers, content production agencies, and emerging platforms collectively represent a significant business segment. Insurance underwriting for this category is still maturing; many creators discover gaps only at incident time.
+Singapore's content creator economy has grown into a meaningful commercial category - full-time creators, brand-partnered influencers, content production agencies, and emerging platforms collectively represent a significant business segment.
 
 #### The unique business profile
 
 **Typical revenue mix:**
-- Brand sponsorships (usually the most material line)
+- Brand sponsorships
 - Platform monetization (YouTube AdSense, Spotify, and similar)
 - Affiliate marketing
 - Direct sales - merchandise, courses, subscriptions
@@ -55,8 +55,7 @@ Singapore's content creator economy has grown into a meaningful commercial categ
 PL responds to injury to subjects or talent during shoots, damage to property during productions, event- and sponsored-experience injuries, and studio or location operations.
 
 **Limit considerations:**
-- Standard limits S$1M-S$3M typical
-- Higher for production agencies and larger operations
+- Higher limits for production agencies and larger operations
 - Brand-partnership contracts may set their own minimums
 
 **Points to confirm with the insurer:**
@@ -70,28 +69,23 @@ This is the cover that matters most for content creators, and the one a generic 
 - Defamation - false statements about people or businesses
 - Copyright and trade-mark infringement - using others' content or marks
 - Privacy invasion
-- Advertising-standards breaches and platform-terms violations
-
 Typical claim scenarios: a restaurant review leading to a defamation claim, music or images used without a licence, a brand mention without permission, or a subject identified without consent.
 
 **Limit considerations:**
-- Standard Media Liability: S$500k-S$2M
-- Higher for high-engagement creators and more sensitive content
+- Higher limits for high-engagement creators and more sensitive content
 
 **Points to confirm with the insurer:** defamation and IP-infringement defence costs, platform-related claims, and worldwide territory.
 
 #### The Equipment layer
 
-A creator's equipment is often the single largest insurable asset:
-- Cameras (DSLR, mirrorless, video): S$2,000-S$15,000+
-- Lenses: often a substantial portfolio
-- Lighting: S$500-S$5,000 per piece
-- Audio: S$200-S$3,000 per piece
-- Computer / editing equipment: S$3,000-S$10,000+, plus storage and backup
+A creator's equipment can be a substantial insurable asset:
+- Cameras (DSLR, mirrorless, video)
+- Lenses, often a substantial portfolio
+- Lighting
+- Audio
+- Computer / editing equipment, plus storage and backup
 - Gimbals, sliders, and other specialised gear
 - Drones are insured separately - see [insurance for commercial drone operators](/edge-case/commercial-drone-operator-insurance)
-
-**Total equipment value:** beginner S$5,000-S$20,000; mid-tier S$20,000-S$80,000; established S$80,000-S$300,000+.
 
 Cover it on an "all risks" basis, with worldwide territory for travel, and confirm the theft, accidental-damage, and replacement terms.
 
@@ -100,7 +94,7 @@ Cover it on an "all risks" basis, with worldwide territory for travel, and confi
 Content creators hold audience data (subscriber lists, engagement data), payment information (Patreon, subscriptions, merchandise), brand-partnership data, and platform-account credentials.
 
 The acute exposures:
-- Account hijacking is high-frequency for creators, and a hijack directly cuts off monetization
+- Account hijacking is a known risk for creators (Google's Threat Analysis Group has reported phishing campaigns that hijack YouTube creators' channels), and a hijack directly cuts off monetization
 - Audience data brings PDPA exposure
 - BEC on brand-partnership payments
 
@@ -108,7 +102,7 @@ The acute exposures:
 
 #### Personal Accident considerations
 
-For a creator who *is* the business, an injury or illness that stops on-camera work stops the revenue. Personal Accident - with income-protection or disability cover, and worldwide cover for travel - addresses that creator-dependent exposure, whether the cause is a travel injury, a sports or activity injury, or a health event.
+For a creator who *is* the business, an injury or illness that stops on-camera work stops the revenue. Personal Accident - with income-protection or disability cover, and worldwide cover for travel - addresses that creator-dependent exposure, where the cause is an accident, such as a travel injury or a sports or activity injury; illness falls outside personal accident cover unless the policy adds it.
 
 #### Considerations by creator category
 
@@ -120,7 +114,7 @@ For a creator who *is* the business, an injury or illness that stops on-camera w
 - **Travel creators** - worldwide territory is essential, with destination risk, equipment-in-transit exposure, and local compliance.
 - **Educational / how-to creators** - advice exposure (financial, health, legal) raises PI considerations and calls for disclaimer discipline.
 
-**Brand partnerships / sponsored content:** the Singapore-specific obligations are the ASAS / SCAP disclosure requirements - clear #ad / #sponsored labelling in the format each platform expects - alongside the contractual obligations the brand imposes.
+**Brand partnerships / sponsored content:** the Singapore-specific obligations include the ASAS / SCAP disclosure requirements (ASAS's guidance notes say a disclosure should appear as early as reasonably possible: in the picture or caption, visibly within a video, audibly in audio, with short forms such as #sponsored, #adv or #sp where length is limited), alongside the contractual obligations the brand imposes.
 
 #### Stage-by-stage insurance build
 
@@ -137,32 +131,17 @@ For a creator who *is* the business, an injury or illness that stops on-camera w
 
 **Production agency / multi-creator team:**
 - Higher limits across the board
-- WICA for staff
+- Work injury compensation insurance for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, subject to the classes the WIC (Insurance) Regulations 2020 exclude
 - Comprehensive Cyber
 - D&O once incorporated
 
 #### Brand partnership considerations
 
-Brand partnerships add a contractual layer. Brand contracts routinely impose their own insurance requirements, indemnification provisions, deliverable obligations, and exclusivity terms. The exposures that follow are failure to deliver per the agreement, advertising-standards breaches, and platform-terms violations. Brands often ask for a certificate of insurance as proof - confirm the policy can produce one.
+Brand partnerships add a contractual layer. Brand contracts can impose their own insurance requirements, indemnification provisions, deliverable obligations, and exclusivity terms. The exposures that follow are failure to deliver per the agreement, advertising-standards breaches, and platform-terms violations. A brand may ask for a certificate of insurance as proof - confirm the policy can produce one.
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore content creators (actual premiums depend on revenue, content type, and limits):
-
-**Solo creator (small operation):**
-- PL / Media: S$800-S$3,000
-- Equipment: S$500-S$3,000
-- Cyber: S$500-S$1,500
-- PA: S$500-S$2,000
-- **Total annual insurance budget:** typically S$2,000-S$10,000
-
-**Established creator (significant revenue, multiple brand partnerships):**
-- Higher PL / Media limits, comprehensive equipment and Cyber cover
-- **Total:** typically S$5,000-S$25,000
-
-**Production agency / multi-creator team:**
-- A comprehensive programme with higher limits and WICA for staff
-- **Total:** typically S$15,000-S$80,000
+Premiums depend on revenue, content type, equipment values and limits.
 
 #### Operational risk management
 
@@ -208,7 +187,7 @@ For Singapore content creators:
 
 9. **Review annually.** The influencer landscape changes quickly.
 
-The content creator insurance build is moderate-cost but specialised. The category sits in a regulatory and commercial space that traditional SME insurance has not fully recognised, so specialised cover is both increasingly available and increasingly necessary.
+The content creator insurance build is specialised: a generic liability policy can exclude content claims for a business whose work is publishing or broadcasting, so media liability cover sits alongside the usual covers.
 
 ### Questions to Ask Your Adviser
 

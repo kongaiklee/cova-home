@@ -21,17 +21,17 @@ og_description: "A certificate of insurance demanded in 24 hours for GeBIZ, BCA 
 
 > **The Answer in 60 Seconds**
 >
-> Your SME has just been told it has 24-48 hours to produce a Certificate of Insurance (COI) to validate a tender bid on [GeBIZ](https://www.gebiz.gov.sg/), [BCA](https://www1.bca.gov.sg/), a private MCST/landlord portal, or a corporate procurement system. Critical first 4 hours: (1) **confirm the named insured spelling against [ACRA Bizfile](https://www.bizfile.gov.sg/)** - a single-character mismatch invalidates the COI; (2) identify the additional insured(s) requested by the procurer (Government of Singapore, BCA, statutory board, MCST, landlord); (3) extract specific cover requirements from tender Particular Conditions (PL limit, WICA Common Law extension, waiver of subrogation, "primary and non-contributory" wording, cancellation notice period); (4) brief broker with single email containing all data - round-trip clarification is the largest source of delay. Hour 4-12: insurer endorsement issuance; hour 12-24: COI verification, signed PDF download, tender portal upload. Distinguish broker-issued COI ("for information only") from insurer-issued COI (binding evidence). Where policy is not yet bound, request a **binder letter** (cover note) from insurer as substitute. Common failures: named insured spelling mismatch, missing AI on the right policy line (e.g., AI on PL but tender requires AI on CAR), absence of "primary and non-contributory" wording, cancellation notice period less than required (typically 30 days), expired policy attached. Insurance angles: adding an additional insured, a waiver of subrogation or "primary and non-contributory" wording is done by endorsement - some endorsements carry a small additional premium and some none, depending on the insurer and the policy line, but each must actually appear on the COI.
+> Your SME has just been told it has 24-48 hours to produce a Certificate of Insurance (COI) to validate a tender bid on [GeBIZ](https://www.gebiz.gov.sg/), [BCA](https://www1.bca.gov.sg/), a private MCST/landlord portal, or a corporate procurement system. Critical first 4 hours: (1) **confirm the named insured spelling against [ACRA Bizfile](https://www.bizfile.gov.sg/)** - a mismatch can lead the procurer to reject the COI; (2) identify the additional insured(s) requested by the procurer (Government of Singapore, BCA, statutory board, MCST, landlord); (3) extract specific cover requirements from tender Particular Conditions (PL limit, WICA Common Law extension, waiver of subrogation, "primary and non-contributory" wording, cancellation notice period); (4) brief broker with single email containing all data - each round of clarification costs time. Hour 4-12: insurer endorsement issuance; hour 12-24: COI verification, signed PDF download, tender portal upload. Distinguish a broker-issued COI, which may be marked "for information only", from a certificate issued by the insurer: the PSSCOC for construction works, for example, lets a contractor whose general policy covers the contract works, with the Employer's interest endorsed, produce current certificates of insurance from the insurers instead of depositing the policy (clause 28.1(4)). Where policy is not yet bound, request a **binder letter** (cover note) from insurer as substitute. Common failures: named insured spelling mismatch, missing AI on the right policy line (e.g., AI on PL but tender requires AI on CAR), absence of "primary and non-contributory" wording, cancellation notice period less than required, expired policy attached. Insurance angles: adding an additional insured, a waiver of subrogation or "primary and non-contributory" wording is done by endorsement - some endorsements carry a small additional premium and some none, depending on the insurer and the policy line, but each must actually appear on the COI.
 
 ### The Sourced Detail
 
-The 24-hour tender COI is one of the highest-frequency operational tasks for Singapore SMEs across construction, services, IT, F&B catering, security, cleaning, and logistics sectors. It is also one of the highest-frequency causes of disqualified bids - typically because of preventable documentation errors made under time pressure. The first 4 hours of internal preparation determine whether the broker can issue a clean COI within deadline.
+Tenders in construction, services, IT, F&B catering, security, cleaning and logistics can call for a COI. The first 4 hours of internal preparation determine whether the broker can issue a clean COI within deadline.
 
 #### Statutory and contractual framework
 
 **Procurement framework.**
 - [GeBIZ](https://www.gebiz.gov.sg/) - Singapore Government electronic business platform; ITT (Invitation to Tender) for procurements above SGD 90,000; ITQ (Invitation to Quote) SGD 6,000-90,000
-- [Ministry of Finance Singapore Government Procurement Policy](https://www.mof.gov.sg/) - overall framework
+- [Ministry of Finance Singapore Government Procurement Policy](https://www.mof.gov.sg/policies/government-procurement/overview/) - overall framework
 - BCA Conditions of Tender - for construction-related procurement
 - Private sector: corporate procurement systems (Coupa, SAP Ariba), MCST permits, landlord requirements
 
@@ -57,7 +57,7 @@ Read the tender Particular Conditions of Contract (PCC) and identify:
   - "Primary and non-contributory" wording
   - Waiver of subrogation
   - Cross-liability clause
-  - Cancellation notice (typically 30 days written notice)
+  - Cancellation notice period
   - Severability of interests
 - COI submission deadline (date and time)
 - COI submission method (tender portal, email, hardcopy)
@@ -66,7 +66,7 @@ Read the tender Particular Conditions of Contract (PCC) and identify:
 **Hour 1-2 - Verification of internal data.**
 
 Verify against [ACRA Bizfile](https://www.bizfile.gov.sg/):
-- Exact registered company name (single-character mismatch invalidates COI)
+- Exact registered company name (a mismatch can lead the procurer to reject the COI)
 - UEN
 - Registered address
 - Specific business activities (SSIC codes)
@@ -87,7 +87,7 @@ Single comprehensive email to broker containing:
 - Specific endorsements required (with verbatim wording from tender)
 - Internal contact for clarifications (mobile number, not just email)
 
-**Critical:** include all information in single email. Round-trip clarification is the single largest cause of missed deadlines.
+**Critical:** include all information in single email. Each round of clarification costs time.
 
 **Hour 3-4 - Quote and approval.**
 
@@ -101,7 +101,7 @@ Broker confirms:
 
 **Where policy already in force.**
 - Broker submits endorsement request to insurer
-- Insurer underwriter approval (typically 2-6 hours during business hours)
+- Insurer underwriter approval (turnaround varies by insurer)
 - Endorsement issuance
 - Policy schedule update
 
@@ -109,7 +109,7 @@ Broker confirms:
 - Broker submits new policy quote
 - Insurer underwriter approval
 - Binder letter issuance as interim evidence
-- Full policy issuance follows within 7-14 days
+- Full policy issuance follows
 
 **Where policy is being renewed.**
 - Coordinate renewal placement with new endorsement
@@ -119,8 +119,8 @@ Broker confirms:
 #### Hour 12-24 - COI issuance and verification
 
 **COI types.**
-- **Insurer-issued COI:** binding evidence directly from insurer
-- **Broker-issued COI:** typically labelled "for information only"; some procurers reject these
+- **Insurer-issued COI:** issued by the insurer itself to confirm the cover; the PSSCOC for construction works, for example, lets a contractor whose general policy covers the contract works, with the Employer's interest endorsed, produce current certificates of insurance from the insurers instead of depositing the policy (clause 28.1(4))
+- **Broker-issued COI:** issued by the broker and may be marked "for information only"; a tender may ask for an insurer-issued COI instead
 - **ACORD-style format:** US convention occasionally requested by international procurers
 - **Customised format:** procurer-specified template
 
@@ -140,7 +140,7 @@ Read the COI carefully against tender requirements:
 For GeBIZ:
 - Login as supplier
 - Open tender opportunity
-- Upload COI PDF (typically max 10MB per document)
+- Upload COI PDF (GeBIZ allows up to 35 MB per file added as an attachment, or 100 MB from the Supplier File Repository)
 - Confirm submission with timestamp
 - Retain submission acknowledgement
 
@@ -167,7 +167,7 @@ For private procurement portals:
 **Primary and Non-Contributory.**
 - Confirms the SME's policy responds first (primary)
 - Confirms the SME's policy does not seek contribution from any other policy held by the additional insured (non-contributory)
-- Usually carries no additional premium, but must be specifically endorsed
+- May carry no additional premium, but must be specifically endorsed
 - Specific implication: SME's policy bears full loss before AI's policy responds
 
 **Cross-liability clause.**
@@ -181,14 +181,13 @@ For private procurement portals:
 - Typically standard but specific endorsement may be required
 
 **Cancellation Notice.**
-- Insurer agrees to provide specific notice period (typically 30 days) to additional insured before cancelling policy
+- Insurer agrees to give the additional insured a set notice period before cancelling the policy (a standard wording may give notice to the insured only: Etiqa's public liability wording lets the insurer cancel "by sending fourteen days' notice by registered letter to the insured")
 - Protects AI from sudden coverage gap
-- Specific failure to notify can trigger insurer liability
 
 #### Common deadline-busting failures
 
 **Failure 1 - Named insured spelling mismatch.**
-"ABC Engineering Pte Ltd" vs "ABC Engineering Private Limited" - single character difference; COI rejected.
+"ABC Engineering Pte Ltd" vs "ABC Engineerng Pte Ltd": one missing letter, and the procurer can reject the COI. ("Pte" for "Private" and "Ltd" for "Limited" are lawful abbreviations under section 27(9) of the Companies Act 1967, so that difference alone is not a misspelling.)
 
 **Failure 2 - AI on wrong policy line.**
 Tender requires AI on CAR; broker adds AI to PL only. COI rejected.
@@ -197,7 +196,7 @@ Tender requires AI on CAR; broker adds AI to PL only. COI rejected.
 Tender requires this language; standard COI lacks it. COI rejected.
 
 **Failure 4 - Cancellation notice insufficient.**
-Tender requires 60 days; standard policy has 30 days. COI rejected without endorsement.
+Tender requires 60 days; the policy gives less. COI rejected without endorsement.
 
 **Failure 5 - Policy expiry before contract end.**
 Policy expires mid-contract; tender requires cover through performance period plus defects liability. COI rejected without renewal.
@@ -216,7 +215,7 @@ Tender deadline 16:00; COI uploaded at 16:01. Bid rejected as non-compliant.
 **GeBIZ Open Tender (above SGD 90,000).**
 - Standard documentation requirements
 - Specific Conditions of Tender insurance schedule
-- COI submission via GeBIZ portal with bid documents
+- Insurance evidence when and as the tender documents require it (under the PSSCOC for construction works, a copy of the policy is deposited before work starts on site)
 
 **BCA / construction sector.**
 - PSSCOC 8th Ed Clauses 27-28 (full insurance)
@@ -225,12 +224,12 @@ Tender deadline 16:00; COI uploaded at 16:01. Bid rejected as non-compliant.
 - Specific CRS workhead financial grades
 
 **MCST condominium permits.**
-- Typically PL minimum SGD 1m
+- PL minimum as the MCST sets it
 - Specific MCST as additional insured
 - Specific renovation permit conditions
 
 **Landlord COI for tenancy.**
-- Typically PL minimum SGD 1-3m
+- PL minimum as the lease sets it: JTC's standard lease terms, for example, require at least S$1 million per occurrence, and a qualifying retail lease cannot require more than S$3 million or the landlord's own PL limit, whichever is lower (premises over 15,000 sq ft excepted)
 - Specific landlord and property manager as additional insured
 - Specific waiver of subrogation in favour of landlord
 
@@ -273,7 +272,7 @@ For Singapore SMEs bidding tenders regularly:
 
 4. **Pre-approved AI relationships** - common procurers' standard wording pre-cleared with broker.
 
-5. **Broker SLA on COI** - agreed turnaround time (typically 4-24 hours for routine COIs).
+5. **Broker SLA on COI** - agreed turnaround time for routine COIs.
 
 6. **Tender insurance review checklist** - single-page checklist for each tender.
 

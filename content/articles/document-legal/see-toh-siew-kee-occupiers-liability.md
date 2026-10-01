@@ -62,7 +62,7 @@ The Singapore Court of Appeal in See Toh:
 
 **Addressed control and trespassers.** Control matters: the two occupiers had no part in the mooring operation that injured See Toh, and the court held that only the company conducting it, Asian Lift, owed him a duty of care. For a trespasser there is no blanket rule either way: whether a duty arises depends on all the circumstances of the case, and the entrant's own culpability is one relevant factor.
 
-This approach mirrors the broader negligence framework - the duty exists; what's required to discharge it is contextual.
+This approach mirrors the broader negligence framework: whether a duty exists, and what is needed to meet it, both depend on the facts.
 
 #### The post-See Toh framework
 
@@ -70,7 +70,7 @@ After See Toh, premises-related claims work through a unified analysis:
 
 **Step 1: Did the occupier owe a duty?** This is decided under the Spandeck test on the facts. An occupier in control of the premises will usually owe a lawful visitor a duty of care. For a trespasser there is no blanket rule either way: it depends on all the circumstances, and See Toh himself, who had no criminal intent, was held to be owed no duty by the two occupiers.
 
-**Step 2: What's the standard of care?** Reasonable care in the circumstances - applied with the contextual factors above.
+**Step 2: What's the standard of care?** Reasonable care in all the circumstances of the case.
 
 **Step 3: Did the occupier breach the standard?** Specific factual analysis: did they identify the risk, take appropriate precautions, warn of dangers, etc.
 

@@ -21,7 +21,7 @@ og_description: "An agency licensed under Singapore's Estate Agents Act carries 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore real estate agency requires licensing under the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) administered by the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/). Every agency must hold an Estate Agent (EA) Licence; every salesperson (RES) must register with CEA through a licensed agency. **Professional Indemnity is not optional - it is a condition of the EA Licence**: CEA requires the agency to hold a PI policy covering the agency and all its salespersons for the full validity period of the licence. The rest of the build includes **Public Liability** for the office, **Property/Fire** for premises, **[WICA](https://sso.agc.gov.sg/Act/WICA2019)** for employed admin and management staff (most RES are self-employed contractors and fall outside WICA), **Cyber Liability** for client personal data and property data ([PDPA](https://sso.agc.gov.sg/Act/PDPA2012) - a breach exposing identity together with home-address data can meet the significant-harm threshold), **Crime / Money** where the agency holds client funds, and **D&O** for incorporated structures. The most distinctive risk: **misrepresentation and disclosure failures** in property transactions are a high-frequency claim line, and CEA disciplinary action runs parallel to any civil claim.
+> A Singapore real estate agency requires licensing under the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) administered by the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/). Every agency must hold an Estate Agent (EA) Licence; every salesperson (RES) must register with CEA through a licensed agency. **Professional Indemnity is not optional - it is a condition of the EA Licence**: CEA requires the agency to hold a PI policy covering the agency and all its salespersons for the full validity period of the licence. The rest of the build includes **Public Liability** for the office, **Property/Fire** for premises, **[WICA](https://sso.agc.gov.sg/Act/WICA2019)** for employed admin and management staff (most RES are self-employed contractors and fall outside WICA), **Cyber Liability** for client personal data and property data ([PDPA](https://sso.agc.gov.sg/Act/PDPA2012) - a breach exposing identity together with home-address data can meet the significant-harm threshold), **Crime / Money** where the agency holds client funds, and **D&O** for incorporated structures. A distinctive risk is **misrepresentation and disclosure failure** in property transactions, where CEA disciplinary action can run parallel to any civil claim.
 
 ### The Sourced Detail
 
@@ -35,14 +35,14 @@ Per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010):
 - Held at agency level; the applicant must be a Singapore-registered business entity
 - Requires a Key Executive Officer (KEO) who is a registered salesperson accountable for the agency's conduct
 - Carries a mandatory Professional Indemnity Insurance condition (see below)
-- Renewed annually
+- Renewed each year until 2026; a licence renewed in the 2026 exercise is valid for three years, from 1 January 2027 to 31 December 2029
 
 **Real Estate Salesperson (RES) registration:**
 - Held at individual level
 - Requires the RES examination (or a recognised exemption)
-- Requires Continuing Professional Development (CPD) each licence period
+- Requires at least 16 hours of Continuing Professional Development (CPD) in each calendar year
 - May be attached to only one licensed EA at a time
-- Renewed annually
+- Renewed each year until 2026; registrations renewed in the 2026 exercise run to 31 December 2029
 
 **Conduct and operational obligations:**
 - Disclosure duties to clients and counterparties
@@ -66,31 +66,28 @@ The agency's transaction mix drives its liability profile more than headcount do
 - **Luxury / high-end residential** - low volume, high transaction values, so one misrepresentation claim can be large relative to the PI limit
 - **Commercial and industrial** - office, retail, and industrial property; high values and technical lease and zoning issues
 - **International / cross-border** - marketing overseas property or serving overseas buyers; adds foreign-jurisdiction marketing rules and currency exposure
-- **Property management** - distinct from agency work; involves ongoing client-money handling and is underwritten separately
+- **Property management**: distinct from agency work, and involves ongoing client-money handling
 
 #### The Professional Indemnity layer
 
 PI is the core cover for a real estate agency, and for CEA-licensed agencies it is **mandatory**: CEA requires the EA to hold a PI policy covering the agency and all its salespersons for the full validity period of the licence. Lapsed or inadequate PI is a licensing breach, not merely an uninsured gap.
 
 PI responds to:
-- Misrepresentation of a property - the most common claim line
+- Misrepresentation of a property
 - Failure to disclose material defects
 - Failure to disclose material facts (pending proceedings, planning restrictions)
 - Errors in transaction documentation
 - Breach of confidentiality
 - Defamation in marketing material
 
-**Limit considerations** (illustrative - confirm against the agency's actual transaction values):
-- Solo practitioner: S$500k-S$2M
-- Small agency: S$1M-S$3M
-- Larger or commercial-focused agency: S$3M-S$5M+
+**Limit considerations:** reg 13 of the Estate Agents (Estate Agency Work) Regulations 2010 sets minimum cover by size: S$100,000 for a sole proprietor with no salesperson; S$200,000 for 2 to 10 representatives; S$300,000 for 11 to 30; S$400,000 for 31 to 50; S$600,000 for 51 to 500; and S$1,000,000 for more than 500. A limit applying to any one salesperson must be at least S$100,000, and an agency may buy more than the minimum.
 
 **Points to confirm with the insurer:**
 - That cover extends to both the licensed agency and its individual salespersons
 - Treatment of sub-agents and co-broking arrangements
 - That every transaction type the agency handles (HDB, private, commercial) is in scope
 - Whether cross-border transactions are covered
-- Whether CEA-inquiry defence costs are included or available as an extension - regulatory-action defence is otherwise uninsured
+- Whether CEA-inquiry defence costs are included or available as an extension
 
 #### Specific transaction risks
 
@@ -99,7 +96,7 @@ Misrepresentation and disclosure claims usually trace to one of these:
 **1. Property condition / defects:**
 - Hidden defects emerging after completion
 - Buyer expectations set against the property's actual condition
-- The duty to disclose visible defects and not to misstate condition (a reasonable-care duty, not strict liability)
+- The Code of Ethics and Professional Client Care: an agent must not mislead the client or misrepresent any relevant fact, and must not withhold any relevant fact or information from the client
 
 **2. Title and ownership issues:**
 - Title disputes, encumbrances, outstanding charges or liens
@@ -128,7 +125,7 @@ A real estate agency holds a dense, sensitive data set:
 - Client identification documents
 
 **Acute Cyber exposures:**
-- Business email compromise (BEC) on transaction funds - fraudsters intercept or spoof deposit and completion-fund instructions; real estate is a primary BEC target (see [what to do once wire fraud is found](/crisis/bec-wire-fraud-loss-discovered))
+- Business email compromise (BEC) on transaction funds - fraudsters intercept or spoof deposit and completion-fund instructions (see [what to do once wire fraud is found](/crisis/bec-wire-fraud-loss-discovered))
 - PDPA exposure - a breach exposing client identity together with home-address data can meet the significant-harm threshold
 - Privacy exposure from photo and video data
 - Listings, documents, and client data routinely held in WhatsApp and email, often on personal devices
@@ -138,7 +135,7 @@ A breach exposing property addresses alongside client identities is particularly
 
 **A workable Cyber stack:**
 - Standalone Cyber with limits sized to the data held
-- BEC / social-engineering-fraud cover (real estate is specifically targeted - see [the first steps after a BEC loss](/crisis/bec-wire-fraud-loss-discovered))
+- BEC / social-engineering-fraud cover (see [the first steps after a BEC loss](/crisis/bec-wire-fraud-loss-discovered))
 - Business interruption for system or operational outage
 - Cover for PDPA Section 26D breach-notification costs
 - Access to a forensic and breach-counsel panel
@@ -189,11 +186,11 @@ Most RES are self-employed contractors attached to an agency, which shapes both 
 
 **The individual RES:**
 - A self-employed RES carries no WICA cover from the agency and may want personal accident cover
-- Many hold their own PI, or are covered as insureds under the agency PI - confirm which
+- CEA requires the agency's PI policy to cover every registered salesperson, with a sub-limit of at least S$100,000 for each
 
 **Agency vs salesperson liability:**
 - The agency's PI is the primary response to a claim
-- A claimant may still pursue an RES personally for their own acts, so confirm whether individual salespersons are named or covered as insureds
+- A claimant may still pursue an RES personally for their own acts; CEA requires the agency's PI to cover each salesperson, so confirm the policy does
 
 **The agency-RES agreement:**
 - Should set out indemnification and the respective obligations of each side clearly - gaps here surface at claim time
@@ -228,24 +225,11 @@ Confirm with the insurer that PI and Cyber both extend to cross-border work.
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore real estate agencies (actual premiums depend on transaction values, claims history, and limits):
-
-**Small agency (5-15 RES, 2-5 admin staff):**
-- PI: S$3,000-S$10,000
-- PL / Property / Cyber: S$5,000-S$15,000
-- WICA, group benefits, Crime: S$3,000-S$10,000
-- **Total annual insurance budget:** typically S$10,000-S$30,000
-
-**Mid-size agency (50-150 RES, 10-30 admin staff):**
-- Higher PI limits and comprehensive other lines, with BEC-aware Cyber
-- **Total:** typically S$25,000-S$80,000
-
-**Larger agency / specialist commercial:**
-- A comprehensive programme; total scales with transaction values and limits
+Premiums are quoted by each insurer and depend on the agency's transaction values, claims history and limits.
 
 #### Operational risk management
 
-Insurers underwrite real estate agencies on:
+Practices that bear on an agency's risk profile include:
 
 **Compliance discipline:**
 - Current CEA registration and renewal
@@ -276,9 +260,9 @@ Insurers underwrite real estate agencies on:
 
 1. **Operating without a valid EA Licence - or letting mandatory PI lapse.** Both are licensing breaches.
 2. **PI limit not matched to transaction values.** Major property transactions warrant higher limits.
-3. **No BEC / social-engineering-fraud cover.** Real estate is a primary target.
+3. **No BEC / social-engineering-fraud cover.**
 4. **Cyber limits too low for combined identity and property data.** A breach can reach the PDPA significant-harm threshold.
-5. **No CEA-inquiry defence cost cover under PI.** Regulatory-action defence is otherwise uninsured.
+5. **No CEA-inquiry defence cost cover under PI.**
 6. **WICA misclassification - treating self-employed RES as employees, or the reverse.** See [the penalty for failing to insure](/document-legal/wica-section-25-offence).
 7. **Crime / Money cover absent where the agency holds client funds.**
 8. **Marketing-material disputes left uncovered** - defamation and IP exposure from listings.
@@ -293,7 +277,7 @@ For Singapore real estate agency founders:
 
 2. **Match PI to your transaction profile.** HDB resale is a very different risk from luxury or commercial work.
 
-3. **Invest in BEC-aware Cyber.** Real estate is specifically targeted for transaction-fund fraud.
+3. **Invest in BEC-aware Cyber.**
 
 4. **Build compliance discipline** around CEA conduct rules, AML/CFT due diligence, and disclosure.
 

@@ -25,7 +25,7 @@ og_description: "Yoga, pilates, CrossFit and combat studios put customers under 
 
 ### The Sourced Detail
 
-The specialty fitness segment has expanded substantially in Singapore over the past decade. Independent boutique studios offering yoga, pilates, CrossFit, boxing, dance, and specialty movement now operate alongside larger fitness chains. The combination of instructor-led participation, equipment-intensive operations, operational scope, and specific demographic considerations creates an insurance profile that differs from generic gym operations. Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For instructor classification specifically, the [MOM](https://www.mom.gov.sg/) framework distinguishing employees from contractors applies; misclassifying an instructor who is in substance an employee creates WICA Section 25 exposure (per [the duty to insure and its penalties](/document-legal/wica-section-25-offence)).
+Independent boutique studios offering yoga, pilates, CrossFit, boxing, dance, and specialty movement now operate alongside larger fitness chains. The combination of instructor-led participation, equipment-intensive operations, operational scope, and specific demographic considerations creates an insurance profile that differs from generic gym operations. Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For instructor classification specifically, the [MOM](https://www.mom.gov.sg/) framework distinguishing employees from contractors applies; an instructor who is in substance an employee under a contract of service is covered by WICA, so the studio is liable to compensate a work injury, and failing to insure such an employee is an offence under WICA s25 unless the employee is in a class the [WIC (Insurance) Regulations 2020](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude from the duty to insure (per [the duty to insure and its penalties](/document-legal/wica-section-25-offence)).
 
 #### The participation injury exposure
 
@@ -37,7 +37,7 @@ Specific injury scenarios across the segment include yoga injuries (particularly
 
 Instructor-led participation creates Professional Indemnity scope distinct from generic gym operations. Specific advisory liability scope includes specific instruction quality, specific safety guidance, specific modifications for participant capabilities and limitations, instructor qualifications and certifications, operational discipline.
 
-Operational scope considerations include specific instructor qualification frameworks (yoga has specific Yoga Alliance and specific other certification frameworks; pilates has specific Pilates Method Alliance and specific other certifications; CrossFit has specific CrossFit Inc certification frameworks; specific other segments have commercial conventions), operational discipline around instructor qualification verification, operational considerations.
+Operational scope considerations include specific instructor qualification frameworks (yoga has specific Yoga Alliance and specific other certification frameworks; pilates has the National Pilates Certification Program (formerly part of the Pilates Method Alliance) and specific other certifications; CrossFit has specific CrossFit Inc certification frameworks; specific other segments have commercial conventions), operational discipline around instructor qualification verification, operational considerations.
 
 #### The waiver and consent framework
 
@@ -55,13 +55,13 @@ For substantive operations, commercial counsel engagement around waiver framewor
 
 For Singapore specialty fitness SMEs, foundational cover stack includes several elements.
 
-Public Liability cover with elevated limits given participation injury scope. Operational scope considerations include substantial premises traffic during peak hours, operational class capacity, operational scope. Limits typically S$2M-S$5M for SME-scale operations.
+Public Liability cover with elevated limits given participation injury scope. Operational scope considerations include substantial premises traffic during peak hours, operational class capacity, operational scope.
 
 Professional Indemnity cover addressing instructor advisory scope. Considerations on limits and scope.
 
 Specific Participant Sport / Activity cover where applicable. Specific specialty markets address participant injury scope with operational scope considerations.
 
-Property/Fire cover with specific equipment provisions. Considerations on adequate sum insured for substantial equipment scope (pilates reformers can cost S$5k-S$15k each, CrossFit equipment scope substantial, specific other equipment scope).
+Property/Fire cover with specific equipment provisions. Considerations on adequate sum insured for substantial equipment scope (pilates reformers can cost several thousand dollars each, CrossFit equipment scope substantial, specific other equipment scope).
 
 Equipment Breakdown (see [the mechanical and electrical failures covered](/procedural-howto/equipment-breakdown-claim-process)) for specific equipment dependencies where applicable.
 
@@ -71,13 +71,13 @@ Commercial Crime / employee dishonesty cover. Where studios handle membership an
 
 D&O cover for incorporated structures.
 
-EPL cover addressing employment relationships - particularly relevant for specific instructor relationships (where instructors operate as employees vs contractors; misclassification carries WICA Section 25 exposure per [the offence of failing to insure](/document-legal/wica-section-25-offence)).
+EPL cover addressing employment relationships - particularly relevant for specific instructor relationships (where instructors operate as employees vs contractors; an instructor who is in fact an employee is covered by WICA, and failing to insure one whom the [WIC (Insurance) Regulations 2020](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) do not exclude from the duty is an offence, per [the offence of failing to insure](/document-legal/wica-section-25-offence)).
 
 Cyber Liability cover for member personal data and specific commercial information.
 
 #### Specific instructor classification considerations
 
-Instructor classification - employee versus contractor - matters substantially for specialty fitness operations; treating a substantively employed instructor as a contractor creates WICA Section 25 exposure (see [what an uninsured employer faces](/document-legal/wica-section-25-offence)).
+Instructor classification - employee versus contractor - matters substantially for specialty fitness operations; treating a substantively employed instructor as a contractor leaves the studio liable to compensate that instructor under WICA, and exposed to the WICA s25 offence of failing to insure unless the instructor is in a class the [WIC (Insurance) Regulations 2020](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude from the duty to insure (see [what an uninsured employer faces](/document-legal/wica-section-25-offence)).
 
 Operational scenarios include studio-employed instructors (clearly within employer-employee framework, specific WICA scope, specific EPL scope), specific contractor instructors (where instructors operate independently - considerations on classification matters; specific MOM scrutiny applies where classification is mismatched to operational reality), specific hybrid operational scope, operational considerations.
 

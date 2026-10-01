@@ -23,13 +23,13 @@ og_description: "A cyber policy has two halves. First-party pays your own breach
 >
 > A cyber policy is built in two halves, and the difference decides what actually gets paid. **First-party cover** pays for losses to your own business: the cost of responding to a breach, IT forensics to work out what happened, restoring or rebuilding lost data, the income you lose while systems are down, and a cyber-extortion or ransomware demand. It answers one question: what does it cost us to recover.
 >
-> **Third-party cover** pays for your liability to other people. That includes claims from customers whose personal data was exposed, the cost of defending an investigation by the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) and any [financial penalty it imposes under section 48J of the Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012), and media liability for content you publish. It answers a different question: what does it cost us when others hold us responsible.
+> **Third-party cover** pays for your liability to other people. That includes claims from customers whose personal data was exposed, the cost of defending an investigation by the [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) and, where the wording covers it and the law allows it to be insured, a [financial penalty it imposes under section 48J of the Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012), and media liability for content you publish. It answers a different question: what does it cost us when others hold us responsible.
 >
-> Most SMEs need both halves, but lean on one more than the other depending on what they hold and what they do. The gap that catches businesses out is a policy that buys one half and skips the other, for example data restoration with no liability section. The data gets rebuilt and the customers still sue.
+> Which half matters more depends on what a business holds and what it does. A gap to check for is a policy that buys one half and skips the other, for example data restoration with no liability section. The data gets rebuilt and the customers still sue.
 
 ### The Sourced Detail
 
-Cyber insurance is sold as a single product, but inside the wording it splits into first-party and third-party insuring agreements, the same structural divide that runs through most liability-linked covers. Getting the two straight matters because they respond to completely different events. A ransomware lockout that never touches customer data is almost entirely a first-party loss. A leaked customer database that you recover from a clean backup in an hour is almost entirely a third-party exposure. Most real incidents land somewhere in between, which is why both halves usually appear in the same policy. But they are priced, limited, and sub-limited separately, and a buyer who does not read them as two things can end up paying for one and assuming the other came free.
+Cyber insurance is sold as a single product, but inside the wording it splits into first-party and third-party insuring agreements. Getting the two straight matters because they respond to completely different events. A ransomware lockout that never touches customer data is almost entirely a first-party loss. A leaked customer database that you recover from a clean backup in an hour costs little to restore, but it can still bring first-party forensics and notification costs, and it opens the third-party exposure: claims from the people whose data leaked, and a possible PDPC investigation. An incident can land somewhere in between, which is why both halves usually appear in the same policy. But each insuring agreement can carry its own limit, sub-limit and excess, and a buyer who does not read them as two things can end up paying for one and assuming the other came free.
 
 #### First-party cover: your own losses
 
@@ -38,8 +38,8 @@ First-party cover pays the costs your business incurs directly as a result of a 
 - **Breach response and notification costs.** The cost of running the response: legal advice, a breach coach, and the administrative work of notifying affected individuals. This matters in Singapore because notification is not optional. Where a breach is assessable as a notifiable data breach, [section 26D of the PDPA](https://sso.agc.gov.sg/Act/PDPA2012) requires the organisation to notify the PDPC as soon as practicable and in any case no later than 3 calendar days after it assesses the breach as notifiable, and to notify affected individuals where the breach is likely to result in significant harm.
 - **IT forensics.** Specialist investigators establish how the attacker got in, what they touched, and whether they are still inside. Forensics is the evidence base for the notification assessment and for any later dispute.
 - **Data and system restoration.** The cost of rebuilding corrupted or deleted data and restoring systems to working order. Note the limit of this: restoration rebuilds your own data. It does nothing for a customer who sues because their data was exposed.
-- **Business interruption.** The income lost while systems are down, and sometimes the extra cost of working around the outage. This is the line that often dwarfs the others for a trading business, and it is worth checking how the waiting period and the indemnity period are defined.
-- **Cyber extortion and ransomware.** The ransom demand itself, plus the cost of specialist negotiators. This line carries its own conditions, including insurer consent before any payment and sanctions-screening of the recipient.
+- **Business interruption.** The income lost while systems are down, and sometimes the extra cost of working around the outage. For a trading business this line can be larger than the others, and it is worth checking how the waiting period and the indemnity period are defined.
+- **Cyber extortion and ransomware.** The ransom demand itself, plus the cost of specialist negotiators. This line can carry its own conditions, for example cover for a ransom only where paying it is legally allowed and insurable, and no payment where it would breach sanctions or anti-terrorism law.
 
 What unites these is direction. Every dollar flows toward putting your own business back together. None of it answers to anyone outside the company.
 
@@ -79,9 +79,9 @@ A **professional or B2B firm** usually needs both in balance: confidential clien
 
 The point is not to pick one half. It is to know which half does the heavy lifting for your business, so the limits and sub-limits are set where your real exposure sits rather than spread evenly by default.
 
-#### The gap that catches SMEs out
+#### Gaps to check for
 
-The expensive mistake is a policy that covers one half and is read as if it covered both. Three versions of it recur.
+One mistake to check for is a policy that covers one half and is read as if it covered both. It can take three forms.
 
 The first is a **restoration-only or first-party-heavy policy with thin or no liability cover.** The business recovers its data, then discovers there is no cover when affected customers bring a claim or when the PDPC opens an investigation under the [PDPA](https://sso.agc.gov.sg/Act/PDPA2012). The data is fine. The liability is uninsured.
 
@@ -95,7 +95,7 @@ A note on honesty about sourcing: the statutory backdrop here, the [PDPA protect
 
 1. **Buying first-party cover and assuming liability came with it.** Restoration rebuilds your data. It does nothing when customers sue or the PDPC investigates. Confirm the policy has a third-party section, and check its limit.
 
-2. **Treating the headline limit as the figure that matters.** The line you will actually claim on, regulatory defence, business interruption, or extortion, is often sub-limited well below the headline. Read the sub-limits, not the cover page.
+2. **Treating the headline limit as the figure that matters.** The line you will actually claim on, regulatory defence, business interruption, or extortion, can be sub-limited well below the headline. Read the sub-limits, not the cover page.
 
 3. **Setting limits evenly instead of by exposure.** A data-heavy retailer and a systems-heavy manufacturer have opposite risk profiles. Spreading the limit evenly under-insures whichever half does the heavy lifting.
 
@@ -109,7 +109,7 @@ A note on honesty about sourcing: the statutory backdrop here, the [PDPA protect
 
 Start by deciding which half carries your real exposure. List what would actually hurt: a multi-day outage, a leaked customer database, a ransom demand, a regulator at the door. Map each to first-party or third-party, and you will see quickly where your weight sits.
 
-Then read the policy as two documents. Check that both a first-party and a third-party section exist, and read the sub-limits inside each. The most common failure is not the absence of a section but a section capped so low it cannot do its job. Business interruption, regulatory defence, and extortion are the lines worth checking line by line.
+Then read the policy as two documents. Check that both a first-party and a third-party section exist, and read the sub-limits inside each. A failure to look for is not only a missing section but a section capped so low it cannot do its job. Business interruption, regulatory defence, and extortion are the lines worth checking line by line.
 
 Tie the third-party side back to the law you actually live under. Your liability to customers runs through the [section 24 protection obligation](https://sso.agc.gov.sg/Act/PDPA2012), and your operational duty after a breach runs through the [section 26D notification timeline](https://sso.agc.gov.sg/Act/PDPA2012). A policy that funds a fast forensic assessment and a clean notification is a policy that helps you meet those duties, not just pay for the aftermath.
 

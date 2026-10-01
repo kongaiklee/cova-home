@@ -186,7 +186,7 @@ The cost of a single uninsured medical evacuation, hospital stay, or death claim
 ### Questions to Ask Your Adviser
 
 1. For each of my staff currently abroad, does Singapore WICA still apply, and is the documentation consistent with the cover position?
-2. For staff on assignments longer than 90 days, do they have international health insurance, or is local Singapore medical still the only cover?
+2. For staff on long assignments, do they have international health insurance, or is local Singapore medical still the only cover?
 3. For higher-risk jurisdictions, do my staff have evacuation and repatriation cover, and which provider responds in an emergency?
 4. As I send a new employee abroad next quarter, what is the implementation sequence - broker engagement, IHI underwriting, host-country registration, secondment documentation?
 5. For staff being localised, what is the timeline to transition Singapore covers to host-country covers, and are there any prior-acts gaps to address?

@@ -21,7 +21,7 @@ og_description: "After paying you, a Singapore insurer steps into your rights an
 
 > **The Answer in 60 Seconds**
 >
-> **Subrogation** is the process by which an insurer, having indemnified the SME for a loss, steps into the SME's rights and pursues recovery against any third party legally responsible for the loss. The principle is codified for marine insurance in [section 79 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applies more broadly as a matter of standard policy wording across Singapore non-marine covers. The standard subrogation case in Singapore is *Sompo Insurance Singapore Pte Ltd v RSA Insurance Group plc* [2021] SGHC 152, in which Sompo (as the insurer) sought recovery from a counterparty under subrogation principles. The SME's role in subrogation is largely passive - cooperate with the insurer's recovery action, preserve relevant evidence, and avoid waiving rights against third parties that would prejudice the insurer's recovery. This article sets out how subrogation operates, the SME's obligations, and the practical implications for vendor and customer contracts where subrogation rights may have been waived.
+> **Subrogation** is the process by which an insurer, having indemnified the SME for a loss, steps into the SME's rights and pursues recovery against any third party legally responsible for the loss. The principle is codified for marine insurance in [section 79 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and is implied by law into indemnity insurance contracts generally, including non-marine covers, subject to what the policy wording says. A Singapore High Court decision on subrogation is *Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [2021] SGHC 152, in which RSA, a cargo insurer that had paid its insured's loss, was held entitled by subrogation to call on a performance bond that Sompo had issued to the insured. The SME's role in subrogation is largely passive - cooperate with the insurer's recovery action, preserve relevant evidence, and avoid waiving rights against third parties that would prejudice the insurer's recovery. This article sets out how subrogation operates, the SME's obligations, and the practical implications for vendor and customer contracts where subrogation rights may have been waived.
 
 ### The Sourced Detail
 
@@ -31,13 +31,13 @@ Subrogation is one of the structural pillars of insurance, ensuring that:
 - The SME is not over-indemnified (the SME does not recover twice - once from the insurer and once from the responsible third party).
 - The responsible third party is not let off (the loss falls on the party legally responsible).
 
-The principle has a long common-law pedigree - foundational English cases like *Castellain v Preston* (1883) - and operates in Singapore through both statutory and policy-wording routes.
+The principle has a long common-law pedigree - foundational English cases like *Castellain v Preston* (1883) - and operates in Singapore as a rule of the general law for indemnity insurance, recognised for marine insurance by statute, alongside the policy's own wording.
 
 #### The statutory route - Marine Insurance Act 1906
 
 [Section 79 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) codifies subrogation for marine insurance: where the insurer pays for a total loss, the insurer is entitled to take over the interest of the insured in whatever may remain of the subject-matter so paid for; and the insurer is subrogated to all the rights and remedies of the insured in respect of the subject-matter from the time of the casualty causing the loss.
 
-The principle applies by analogy to non-marine insurance through the standard policy wording.
+Section 79 is not the whole of the law: the same doctrine is implied by the common law into indemnity insurance contracts generally, including non-marine covers, and a policy can expressly exclude or limit it.
 
 #### The policy-wording route
 
@@ -45,12 +45,12 @@ Standard Singapore non-life commercial policies include a subrogation clause tha
 
 - Vests in the insurer the right to take action in the SME's name to recover from any responsible third party.
 - Requires the SME to cooperate with the insurer's recovery action.
-- Prohibits the SME from waiving rights against third parties without the insurer's consent (typically with carve-outs for normal-course commercial arrangements).
-- Allocates any recovery between the insurer (up to the amount paid) and the SME (any excess, plus typically the SME's deductible).
+- May restrict the SME from waiving rights against third parties; some standard subrogation conditions do not mention waivers, so check the wording.
+- May set how any recovery is shared between the insurer and the SME; where it does not, the general law sets the order.
 
-#### The recurring Singapore authority
+#### A Singapore decision on subrogation
 
-The audit-memory-confirmed Singapore authority on subrogation is *Sompo Insurance Singapore Pte Ltd v RSA Insurance Group plc* [2021] SGHC 152. In that case, Sompo (as the insurer that had paid out a claim) brought a subrogation action against RSA, advancing the principles of subrogation in a context involving overlapping cover arrangements. The case is the standard reference for modern Singapore subrogation practice.
+The Singapore High Court considered subrogation in *Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [2021] SGHC 152. RSA, a marine cargo insurer that had paid the Government's loss, called on a performance bond that Sompo had issued to the Government under the carrier's contract. The court held that an insurer's subrogation extends to the insured's rights on a contract that concerns the subject-matter of the insured loss, even one given by someone other than the person responsible for the loss, and dismissed Sompo's appeal.
 
 Other Singapore authority on subrogation principles includes the older line of cases applying the common-law framework.
 
@@ -70,14 +70,14 @@ In each scenario, the SME's evidence preservation, contract documentation, and c
 
 A standard commercial contract may include a "waiver of subrogation" clause - the SME agrees that, in the event of a loss caused by the counterparty, the SME's insurer waives its subrogation rights against the counterparty.
 
-Waivers of subrogation are common in:
+Waivers of subrogation can appear in:
 
-- **Lease agreements** - landlord-tenant mutual waivers are standard.
-- **Construction contracts** - the JCT, FIDIC, and PSSCOC standard forms include waivers.
+- **Lease agreements**: some require the tenant's insurance to include a waiver of subrogation against the landlord.
+- **Construction contracts**: some require insurance in the parties' joint names; the PSSCOC for public construction works requires the works to be insured in the joint names of the Employer and the Contractor (cl 28.1) but contains no express waiver of subrogation.
 - **Customer contracts** - sometimes negotiated by larger customers.
 - **Vendor contracts** - sometimes negotiated by larger vendors.
 
-The waiver binds the SME's insurer **only if** the policy wording permits the SME to waive, or if the insurer is notified and accepts. Standard wording typically permits the SME to enter into waivers in the normal course of commercial arrangements, but the insurer should be on notice of any material waiver.
+The insurer is subrogated to the SME's own rights, so a right the SME has given up is not there for the insurer to pursue, and an SME that prejudices the insurer's subrogation rights can be accountable to the insurer. Whether the policy allows a waiver agreed before a loss depends on its wording, so the insurer should be on notice of any material waiver.
 
 Three practical implications:
 
@@ -87,15 +87,15 @@ Three practical implications:
 
 #### The deductible question
 
-Where the insurer recovers from a third party, the recovery typically reimburses the insurer first (up to the amount paid), then the SME (for any excess and, depending on the wording, the deductible).
+Where the insurer recovers from a third party, the general law sets the order in which the recovery is shared between the insurer and the SME unless the policy wording varies it; under the English case *Lord Napier and Ettrick v Hunter* [1993] AC 713, the SME is treated as its own insurer for the deductible.
 
-A subrogation recovery may not always include the SME's deductible. The policy wording determines whether the deductible portion of any recovery flows to the SME or remains with the insurer.
+A subrogation recovery may not always include the SME's deductible. The policy wording can vary the order the general law sets, so check how it treats the deductible portion of any recovery.
 
 #### The "made whole" principle
 
-The general principle, articulated in *Castellain v Preston* (1883), is that the SME is entitled to be made whole before the insurer takes the subrogation recovery. Where the insurer's payment was less than the SME's full loss (because of the deductible, sub-limit, or policy limit), and a subrogation recovery is obtained, the SME's residual loss may be entitled to first claim on the recovery.
+*Castellain v Preston* (1883) states that the insured is to be fully indemnified but never more than fully indemnified. How a recovery is shared where the insurer paid less than the SME's full loss because of a sub-limit or policy limit depends on the facts and the wording; for the deductible, the SME is treated as its own insurer (*Lord Napier and Ettrick v Hunter* [1993] AC 713).
 
-The "made whole" principle interacts with the policy's subrogation clause; the policy wording governs the specific allocation.
+The "made whole" principle interacts with the policy's subrogation clause; the general law sets a default allocation that the policy wording can vary.
 
 #### The SME's obligations
 
@@ -133,7 +133,7 @@ In each case, the insurer's payment is the SME's total recovery; the matter ends
 
 7. **No register of contracts with waivers.** Unknown waivers may surface at claim time.
 
-8. **Deductible recovery position not understood.** The wording governs.
+8. **Deductible recovery position not understood.** The general law sets a default that the wording can vary.
 
 9. **Subrogation declaration delayed** to insurer.
 

@@ -21,7 +21,7 @@ og_description: "An indemnity settlement pays current value after depreciation; 
 
 > **The Answer in 60 Seconds**
 >
-> An **indemnity** settlement pays the *current value* of the damaged property - replacement cost minus depreciation - putting the insured in the same financial position as immediately before the loss. A **reinstatement** settlement (also called "new for old") pays the cost of replacing the property as new at today's prices, *subject to actually reinstating it*. Per [GIA Singapore property insurance guidance](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html), reinstatement is the more common basis for commercial property insurance in Singapore but requires (a) explicit reinstatement memorandum on the policy, (b) actual rebuilding/replacement, and (c) adequate sum insured at reinstatement value (or the average clause penalises the claim). For older property and second-hand equipment, indemnity may be the only basis the insurer offers.
+> An **indemnity** settlement pays the *current value* of the damaged property - replacement cost minus depreciation - putting the insured in the same financial position as immediately before the loss. A **reinstatement** settlement (also called "new for old") pays the cost of replacing the property as new at today's prices, *subject to actually reinstating it*. A reinstatement basis typically requires (a) a reinstatement memorandum on the policy, (b) actual rebuilding or replacement, and (c) an adequate sum insured at reinstatement value (or the average clause reduces the claim); [GIA's property insurance FAQ](https://gia.org.sg/property-insurance-faq.html) notes that a property's sum insured is usually computed on a replacement cost basis. For older property and second-hand equipment, indemnity may be the only basis the insurer offers.
 
 ### The Sourced Detail
 
@@ -50,7 +50,7 @@ But three conditions typically apply:
 
 3. **Sum insured must reflect reinstatement value.** This is the trap. If the sum insured was set at indemnity (S$80,000) and reinstatement basis is selected, the average clause applies - the insured has materially under-insured at reinstatement value. The settlement is reduced proportionally.
 
-Per the [GIA property insurance FAQ](https://gia.org.sg/consumers/property/85-frequently-asked-questions-property.html): "The sum insured of a property is usually computed on a replacement cost basis, which is the cost to replace (i.e., to reconstruct) the property, and necessary incidental charges like professional and debris removal fees."
+Per the [GIA property insurance FAQ](https://gia.org.sg/property-insurance-faq.html): "The sum insured of a property is usually computed on a replacement cost basis, which is the cost to replace (i.e., to reconstruct) the property, and necessary incidental charges like professional and debris removal fees."
 
 #### The average clause - why under-insurance kills both bases
 
@@ -66,7 +66,7 @@ The clause applies regardless of basis - but the *value* against which under-ins
 
 A property insured for indemnity value of S$800,000 (depreciated) against a reinstatement value of S$2,000,000 would be 60% under-insured at reinstatement basis - making reinstatement settlement painfully reduced.
 
-Some Singapore property policies include an "85% co-insurance" or "memo waiver" clause, which waives the average clause if the insured is at least 85% covered (i.e. small under-insurance is forgiven; only material under-insurance is penalised).
+Some Singapore fire policies include an "average relief" clause, under which average does not apply unless the reinstatement cost exceeds the sum insured by 15 per cent (i.e. small under-insurance is forgiven; only material under-insurance is penalised).
 
 #### When indemnity is appropriate
 
@@ -81,13 +81,12 @@ Some Singapore property policies include an "85% co-insurance" or "memo waiver" 
 - **Modern commercial buildings** where rebuild-as-new is the realistic restoration plan
 - **Manufacturing facilities** with active production lines that need to be restored to full capacity
 - **Office and retail fit-outs** where down-time is more costly than the marginal premium
-- **Properties with mortgages** - lenders typically require reinstatement basis to protect their security
+- **Properties with mortgages** - the loan terms may fix the sum insured (one Singapore bank's standard mortgage terms set it at the property's reinstatement value or, for strata property, the lower of that and the loan amount)
 - **Operations dependent on specific equipment** where replacement-as-new is the only commercially viable option
-- **Most leasehold premises** where the lease requires the tenant to reinstate to original condition at lease end
 
 #### Two specific Singapore considerations
 
-1. **Construction inflation and the average clause.** The [Building and Construction Authority's Tender Price Index](https://www1.bca.gov.sg/) shows construction costs have moved materially over recent years. A reinstatement value set in 2020 may be 30-40% under today's actual rebuild cost. Without a recent revaluation, the reinstatement sum insured triggers the average clause at claim time. The saving from not commissioning a quantity surveyor's revaluation is dwarfed by the cost of the under-insurance penalty.
+1. **Construction inflation and the average clause.** The [Building and Construction Authority's Tender Price Index](https://www1.bca.gov.sg/e-services/key-construction-information/) shows construction costs have moved materially over recent years. A reinstatement value set in 2020 may be 30-40% under today's actual rebuild cost. Without a recent revaluation, the reinstatement sum insured triggers the average clause at claim time. The saving from not commissioning a quantity surveyor's revaluation can be small next to the cost of the under-insurance penalty.
 
 2. **Strata-titled commercial premises.** For strata units (commercial condominiums, industrial strata), the Management Corporation typically insures the building common areas and structure on reinstatement basis under a master Fire policy. The unit owner's policy covers tenant's improvements and contents. The two policies must dovetail - gaps and overlaps both cause settlement disputes.
 
@@ -95,7 +94,7 @@ Some Singapore property policies include an "85% co-insurance" or "memo waiver" 
 
 Even on reinstatement basis, several cost categories are sub-limited or excluded as standard:
 
-- **Debris removal** - usually capped at 10-20% of sum insured, sometimes a separate sub-limit
+- **Debris removal** - often capped (one Singapore fire programme limits it to 10% of the sum insured) or set as a separate sub-limit
 - **Professional fees** (architect, surveyor, engineer for reconstruction) - usually capped
 - **Authorities' requirements / public authority compliance** - required upgrades to current building code at rebuild can be excluded; often a separate Public Authority extension
 - **Increased Cost of Working** - separate BI sub-limit
@@ -114,13 +113,13 @@ These sub-limits matter. A S$5M reinstatement claim with S$500k of debris remova
 
 ### What This Means for Your Business
 
-For most operating SMEs, reinstatement is the more typical and commercially appropriate choice - but only if the sum insured is properly set at reinstatement value, with debris removal and professional fees adequately addressed. The discipline:
+For most operating SMEs, reinstatement is the more commercially appropriate choice - but only if the sum insured is properly set at reinstatement value, with debris removal and professional fees adequately addressed. The discipline:
 
-1. **Commission a quantity surveyor revaluation every 3-5 years.** Cost is a few thousand SGD; protection is potentially millions.
+1. **Commission a quantity surveyor revaluation every 3-5 years.**
 
 2. **Build "reinstatement value" into your annual review checklist.** When the broker sends the renewal terms, confirm in writing that the sum insured matches current reinstatement cost, not last year's number.
 
-3. **For mortgaged property, confirm the lender's basis requirement.** Most banks require reinstatement; some have specific co-insurance clauses.
+3. **For mortgaged property, confirm the lender's basis requirement.** Loan terms may require a sum insured at reinstatement value or, for some properties, the loan amount if that is lower.
 
 4. **For strata properties, coordinate with the MC.** Understand exactly what the building's master policy covers vs your unit policy. Gaps typically appear at the boundary of "common property" and "lot."
 
@@ -133,7 +132,7 @@ The indemnity-vs-reinstatement choice is not a marginal premium decision. It's s
 1. Is each insured asset (building, contents, machinery, fit-out) on indemnity or reinstatement basis?
 2. When was the sum insured last benchmarked against current reinstatement cost, and what's been the construction inflation since then?
 3. What are the debris removal, professional fees, and Public Authority sub-limits on my schedule?
-4. Does my policy have an 85% co-insurance / memo waiver clause for under-insurance forgiveness?
+4. Does my policy have an average relief clause, so that under-insurance of up to 15% is not penalised?
 5. For my mortgaged property, does the lender's standard insurance covenant align with my current basis and sum insured?
 
 ### Related Information

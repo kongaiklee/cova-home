@@ -21,11 +21,11 @@ og_description: "If the sum insured is below the true value, the average clause 
 
 > **The Answer in 60 Seconds**
 >
-> The **average clause** (sometimes called the "condition of average" or "co-insurance clause") is a standard provision in most Singapore non-life commercial insurance policies that reduces the insurer's payment on a **partial loss** in proportion to the **under-insurance ratio**. If the sum insured at the time of loss is **70%** of the actual value of the insured property, a partial-loss payment is reduced to 70% of what it would otherwise have been. The principle is codified for marine insurance in [section 81 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applies as a matter of standard wording across most non-marine property, contents, stock, plant-and-machinery, business interruption, and group medical covers in Singapore. The clause does not apply to a total loss - a total loss pays up to the sum insured regardless of any under-insurance - but for the more common partial-loss scenarios the clause is operative. This article sets out the mechanics, the calculation, the SME implications, and the renewal-time question that determines whether the SME's cover responds as expected.
+> The **average clause** (sometimes called the "condition of average" or "co-insurance clause") is a standard provision in most Singapore commercial property and business interruption policies that reduces the insurer's payment on a **partial loss** in proportion to the **under-insurance ratio**. If the sum insured at the time of loss is **70%** of the actual value of the insured property, a partial-loss payment is reduced to 70% of what it would otherwise have been. The principle is codified for marine insurance in [section 81 of the Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and applies as a matter of standard wording across most non-marine property, contents, stock, plant-and-machinery and business interruption covers in Singapore. The clause does not apply to a total loss - a total loss pays up to the sum insured regardless of any under-insurance - but for the more common partial-loss scenarios the clause is operative. This article sets out the mechanics, the calculation, the SME implications, and the renewal-time question that determines whether the SME's cover responds as expected.
 
 ### The Sourced Detail
 
-The average clause is the structural reason that under-insurance is more expensive than the premium saving. The clause is so standard in Singapore commercial insurance practice that its presence is generally assumed; the variations are in the formula (pro rata, special, or two-condition average) and in the exemption thresholds applied.
+The average clause is the structural reason that under-insurance is more expensive than the premium saving. In Singapore commercial property and business interruption wordings the clause is standard; the variations are in the formula (pro rata, special, or two-condition average) and in the exemption thresholds applied.
 
 #### The principle
 
@@ -66,22 +66,20 @@ The average clause is standard in the following Singapore commercial covers:
 - **Fire and property** (building, contents, stock, plant and machinery).
 - **All-risks property.**
 - **Business interruption** (against the gross profit basis).
-- **Group medical** (in some structures, where the sum insured per employee is below typical claim amounts).
-- **Group personal accident** (similar to group medical structure).
 
 The clause is **not** typically operative on:
 
 - **Liability covers** (PL, PI, D&O, cyber, EPL) - the sum insured is a maximum limit, not a declared value of a finite asset.
-- **WICA** - the statutory schedule applies regardless of premium.
+- **WICA**: the injured employee's statutory compensation is paid in full, but the compulsory terms of an approved WICA policy, set by the Work Injury Compensation (Insurance) Regulations 2020, include an underinsurance and average condition: if the estimated annual earnings the employer declared are less than the past annual earnings, the insurer can recover a rateable proportion of the liability from the employer.
 - **Motor third-party** - the statutory minimum applies.
 
 For BI specifically, the average clause operates against the [**gross profit** basis](/document-legal/business-interruption-sum-insured-gross-profit-basis-singapore). If the SME's actual annual gross profit was S$2 million but the BI cover was set against a declared S$1.5 million, a partial-period BI loss is reduced to 75% of what it would otherwise have been.
 
 #### The "special average" formula
 
-Some Singapore property wordings carry a "special" or "85% average" formula. Under this variant, the average clause applies only if the under-insurance exceeds a stated threshold (commonly 15%, so the SME is permitted to under-insure up to 85% of actual value without the clause biting).
+Some Singapore property wordings carry a "special" or "85% average" formula, also called average relief. Under this variant, the average clause applies only if the under-insurance exceeds a stated threshold (commonly 15%, so an SME that insures for at least 85% of actual value is not reduced for under-insurance).
 
-The special average is typically narrower for the SME than the pro-rata average. SMEs should check which formula their policy uses.
+Because the special average does not apply at all when the sum insured meets the threshold, it is more favourable to the SME than the pro-rata average. SMEs should check which formula their policy uses.
 
 #### The "first loss" exception
 
@@ -98,7 +96,7 @@ Three operational approaches.
 
 **Approach 1: Insure to value, refreshed regularly.** The sums insured are reviewed at every renewal against current values. The average clause does not bite if the sum insured equals the actual value.
 
-**Approach 2: Build a margin into the sum insured.** Some insurers permit (or recommend) declaring a 10-20% margin above current value to accommodate mid-year value increases. The margin functions as a buffer against minor under-insurance.
+**Approach 2: Build a margin into the sum insured.** A margin above current value can absorb value increases during the policy year. The margin functions as a buffer against minor under-insurance.
 
 **Approach 3: Negotiate a "first loss" basis for specific perils** where insuring to full value is not commercially reasonable.
 
@@ -122,15 +120,13 @@ A pre-loss valuation - particularly for high-value or specialty items - is a use
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Rolling forward last year's sum insured** without revaluation. Most common cause of average-clause exposure.
+1. **Rolling forward last year's sum insured** without revaluation.
 
-2. **Confusing market value with reinstatement value.** Insurance basis is typically reinstatement.
+2. **Confusing market value with reinstatement value.** Check which basis the policy uses; one Singapore insurer's fire policy wording, for example, pays the value of the property at the time of the loss.
 
-3. **Insuring building structure without contents** revaluation. Stock and equipment typically grow faster than building structure.
+3. **Insuring building structure without contents** revaluation.
 
 4. **BI cover with stale gross-profit basis.** The actual gross profit has moved.
-
-5. **Group medical with insufficient per-employee sum insured.** Average applies at the per-employee level if structured that way.
 
 6. **No documentation of the valuation basis.** Difficult to defend the sum insured at claim.
 

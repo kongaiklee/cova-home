@@ -25,7 +25,7 @@ og_description: "PI was built for advisers, tech E&O for products that fail. Whi
 
 ### The Sourced Detail
 
-The distinction between PI and Tech E&O reflects how technology has evolved as a commercial offering. Pure advisory work and pure technology delivery have different risk profiles requiring different cover architectures. Both PI and Tech E&O operate within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
+The distinction between PI and Tech E&O reflects how technology has evolved as a commercial offering. Pure advisory work and pure technology delivery have different risk profiles requiring different cover architectures. Both PI and Tech E&O operate within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/).
 
 #### The Professional Indemnity foundation
 
@@ -37,9 +37,9 @@ Traditional PI cover responds to:
 
 **Specific scope.** Generally covers the professional's "performance of professional services" - a phrase that traditionally captured advisory work and intellectual outputs.
 
-**Standard exclusions.** Typically include intentional acts, criminal acts, prior known issues, specific cyber-related (often), specific bodily injury / property damage (which sit in PL).
+**Standard exclusions.** Typically include intentional or dishonest acts and prior known matters. Wordings differ on cyber-related claims and on bodily injury or property damage, which usually sit in PL.
 
-**Commercial conventions.** PI is a mature insurance line with established underwriting frameworks for established professions. Limits scale with the professional's exposure profile (S$500k-S$5M typical for SME-scale professional services; substantially higher for specific specialty professions).
+**Commercial conventions.** PI is a mature insurance line with established underwriting frameworks for established professions. Limits scale with the professional's exposure profile.
 
 #### How PI handles technology operations
 
@@ -53,7 +53,7 @@ PI was designed before software-as-a-service became prevalent. When applied to t
 
 **IP / content issues.** Technology offering infringes third-party IP or contains problematic content. PI may not respond.
 
-**Specific cyber bridge.** Cyber events affecting software. PI typically excludes cyber.
+**Specific cyber bridge.** Cyber events affecting software. PI wordings differ on cyber: some civil liability wordings cover liability for a data protection breach, while the business's own breach response costs are the subject of a cyber policy.
 
 These gaps led to the development of Tech E&O.
 
@@ -70,13 +70,13 @@ Tech E&O is purpose-built for technology operations:
 
 **Technology product liability.** Errors in the software itself (vs errors in advice about software). This is the key conceptual extension beyond traditional PI.
 
-**Content / IP liability.** Technology offerings that infringe third-party IP or contain problematic content (defamation, intellectual property, trade secret).
+**Content / IP liability.** Technology offerings that infringe third-party IP or contain problematic content, such as copyright or trademark infringement and defamation. Patent and trade secret claims can be excluded; Chubb's PremierTech2 wording excludes them, apart from an extension, where included, for patent liability assumed under a written contract.
 
 **Specific cyber bridge.** Tech E&O often includes specific cyber-related coverage or coordinates with standalone Cyber cover.
 
-**Specific service-level / availability.** Some Tech E&O includes service availability cover; many require standalone BI for substantive availability protection.
+**Specific service-level / availability.** Some Tech E&O wordings cover claims for a failure of the insured's product or service to perform under its contract; the insured's own loss of income from an outage is first-party cover, such as a cyber policy's business interruption section.
 
-**Commercial conventions.** Tech E&O is a more recent insurance line with evolving underwriting frameworks. Limits scale with technology exposure (S$1M-S$10M typical for SaaS SMEs; substantially higher for material operations or specific high-risk applications).
+**Commercial conventions.** Tech E&O is a more recent insurance line with evolving underwriting frameworks. Limits scale with technology exposure.
 
 #### How they compare on common scenarios
 
@@ -96,14 +96,14 @@ Outcome: Tech E&O is appropriate.
 
 **Scenario 3: SaaS provider's service goes down for 24 hours. Client can't operate; client suffers loss.**
 
-PI: Generally does not respond.
+PI: May not respond; it depends on whether the outage falls within the wording's professional services and on exclusions such as one for failing to perform a service.
 Tech E&O: May respond if availability is in scope.
 
 Outcome: Tech E&O appropriate, with specific availability provisions checked.
 
 **Scenario 4: Software processes client personal data; data breach occurs.**
 
-PI: Typically excludes cyber.
+PI: Depends on the wording; some civil liability PI wordings cover liability for a data protection breach.
 Tech E&O: Specific cyber bridge or coordination with standalone Cyber.
 Cyber Liability: Direct response (see [what a standalone policy covers](/document-legal/cyber-insurance-complete-guide-singapore-sme)).
 
@@ -111,8 +111,8 @@ Outcome: Standalone Cyber is the primary; Tech E&O may provide specific bridge.
 
 **Scenario 5: Technology offering allegedly infringes third-party IP.**
 
-PI: Generally does not respond.
-Tech E&O: Often responds - content / IP liability provisions.
+PI: Depends on the wording; some Singapore civil liability PI wordings cover unintentional infringement of intellectual property, excluding patents and trade secrets.
+Tech E&O: Often responds, under its content / IP liability provisions.
 
 Outcome: Tech E&O appropriate.
 
@@ -134,7 +134,7 @@ For these operations, two architectures exist:
 
 **Combined PI/Tech E&O policy.** Some insurers offer a combined cover addressing both advisory and technology dimensions in a single policy. Provides clean coordination but may have specific limit considerations.
 
-**Separate PI + Tech E&O policies.** More common for substantive operations. Each policy addresses its scope; coordination at claim time matters.
+**Separate PI + Tech E&O policies.** Each policy addresses its scope; coordination at claim time matters.
 
 **Tech E&O with advisory extensions.** Tech E&O sometimes extended to cover advisory services tied to the technology offering. Limits are typically Tech E&O-driven.
 
@@ -153,12 +153,6 @@ For a SaaS provider, both are typically essential:
 - Specific overlap zones (e.g. software bug enables breach) require careful policy reading
 
 #### Specific limit considerations
-
-**For pure advisory technology consulting (small):** PI S$500k-S$2M typical.
-
-**For SaaS operations (small to mid):** Tech E&O S$1M-S$5M typical.
-
-**For SaaS operations (mid to large):** Tech E&O S$3M-S$10M typical, possibly with specific tower structure.
 
 **For material technology operations or high-exposure scenarios:** Tech E&O substantial limits often with tower structure.
 
@@ -207,12 +201,7 @@ Tech E&O underwriting typically considers:
 
 #### Specific Singapore market considerations
 
-The Singapore Tech E&O market has matured significantly with:
-
-- Major insurers offering specialised Tech E&O
-- Specific SaaS-focused brokers
-- Commercial conventions
-- Specific tower structures available for substantial limits
+In Singapore, major insurers offer specialised technology cover; Chubb, for example, sells PremierTech, a combined professional indemnity, cyber and general liability package for the technology industry.
 
 Specific market evolution continues with the [Cybersecurity (Amendment) Act 2024](https://sso.agc.gov.sg/Act/CA2018) (see [its first year of compliance](/regulatory-change/cybersecurity-act-2024-first-year)) and broader cyber market evolution.
 

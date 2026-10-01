@@ -14,18 +14,18 @@ word_count: 1348
 status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/cybersecurity-act-2024-first-year"
-meta_description: "Most of the Cybersecurity (Amendment) Act came into force in Singapore on 31 October 2024. What the first year showed about how it is applied."
+meta_description: "Most of the Cybersecurity (Amendment) Act 2024 came into force in Singapore on 31 October 2025. What is in force, what is not, and what it means."
 og_title: "Cybersecurity Act 2024 Amendment First-Year Compliance Review"
-og_description: "Most of the Cybersecurity (Amendment) Act came into force in Singapore on 31 October 2024. What the first year showed about how it is applied."
+og_description: "Most of the Cybersecurity (Amendment) Act 2024 came into force in Singapore on 31 October 2025. What is in force, what is not, and what it means."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> The [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), as amended by the **Cybersecurity (Amendment) Act 2024**, had most of its amending provisions come into force on 31 October 2025, expanding the framework administered by the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/). Key expansions: **Systems of Temporary Cybersecurity Concern (STCC)** capturing systems facing heightened risk during major events / major government activities, **Entities of Special Cybersecurity Interest (ESCI)**, and **Foundational Digital Infrastructure (FDI)** such as major cloud and data-centre providers - though the FDI regime (Part 3D) had **not yet commenced** as of 31 October 2025 and awaits a later commencement notification. The Amendment also expanded reporting / cybersecurity audit obligations. The first six months of operation has surfaced operational and insurance considerations. For Singapore SMEs operating CII or other designated scope: **2-hour incident reporting**, **specific cybersecurity audit cycles**, **specific incident response infrastructure**, and **specific Cyber Liability with regulatory defence cover** are operational requirements. For SMEs outside designated scope, the framework still influences market standards - Cyber Liability terms, panel response, and specific industry expectations have evolved.
+> The [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018), as amended by the **Cybersecurity (Amendment) Act 2024**, had most of its amending provisions come into force on 31 October 2025, expanding the framework administered by the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/). Key expansions: **Systems of Temporary Cybersecurity Concern (STCC)** capturing systems facing heightened risk during major events / major government activities, **Entities of Special Cybersecurity Interest (ESCI)**, and **Foundational Digital Infrastructure (FDI)** such as major cloud and data-centre providers. The ESCI regime (Part 3C) and the FDI regime (Part 3D) had **not commenced** as of 1 October 2026 and await a later commencement notification. The Amendment also expanded reporting / cybersecurity audit obligations. For Singapore SMEs operating CII, the Act requires **2-hour incident reporting** (Cybersecurity (Provider-Owned Critical Information Infrastructure) Regulations 2018, reg 5) and **a cybersecurity audit at least once every 2 years and a risk assessment at least once a year** (section 15). The owner of a designated STCC must also report incidents within 2 hours (Cybersecurity (Systems of Temporary Cybersecurity Concern) Regulations 2025, reg 4). The Act does not require Cyber Liability insurance; the 2026 Code of Practice asks a CII owner's board to be informed of and oversee its cyber risk transfer arrangements, including any cyber insurance, at least once every 12 months. For SMEs outside designated scope, the duties that come with designation as CII, third-party-owned CII or STCC apply only once CSA designates the SME, or a system it owns, by written notice (sections 7, 16A and 17).
 
 ### The Sourced Detail
 
-The 2024 Amendment to the Cybersecurity Act represents the most substantial expansion of Singapore's cybersecurity framework since the Act's 2018 introduction. The first months of operation have demonstrated CSA's regulatory approach and surfaced operational considerations for SMEs.
+The 2024 Amendment updated the Act's provisions on Critical Information Infrastructure and expanded CSA's oversight to new classes of regulated entities, such as Systems of Temporary Cybersecurity Concern (CSA press release, 31 October 2025).
 
 #### The framework expansion
 
@@ -42,7 +42,7 @@ Per the [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) with 2024 Am
 
 **1. Foundational Digital Infrastructure (FDI):**
 
-A new regulatory category for major digital infrastructure services - principally cloud computing services and data-centre facility services - that much of the economy depends on:
+A new regulatory category, not yet in force, for providers of the two services the Amendment Act lists in a new Third Schedule (cloud computing services and data centre facility services) whose loss or impairment is likely to disrupt a large number of businesses or organisations:
 - Specific digital infrastructure underlying broader operations
 
 - Operational operational standards
@@ -56,12 +56,12 @@ The FDI regime (Part 3D of the Act) had **not commenced** as of 31 October 2025 
 
 **2. Entities of Special Cybersecurity Interest (ESCI):**
 
-Entities that hold sensitive information, or perform a function, whose disruption would have a significant detrimental effect on national interests - even where they are not CII.
+Entities that store sensitive information, or use a computer system to perform a function whose disruption would have a significant detrimental effect on the defence, foreign relations, economy, public health, public safety or public order of Singapore, even where they are not CII. The ESCI regime (Part 3C of the Act) had **not commenced** as of 1 October 2026 and awaits a separate commencement notification; ESCI obligations are not yet live.
 
 **3. Systems of Temporary Cybersecurity Concern (STCC):**
 
 For systems supporting:
-- Major events (e.g. National Day, F1, major sporting events)
+- Temporary events or situations (CSA's examples: systems supporting government election processes, or the distribution of vaccines during a pandemic)
 
 **Operational implications:**
 - Specific event-period elevated standards
@@ -70,21 +70,21 @@ For systems supporting:
 
 **4. Expanded reporting:**
 
-- Specific 2-hour reporting for designated infrastructure
+- More types of reportable incidents for CII owners (their 2-hour window dates from 2018), and a new 2-hour reporting duty for STCC owners
 - Operational incident categories
 
 **5. Specific cybersecurity audit:**
 
-- Specific audit cycles for designated infrastructure
+- Audits at least every 2 years and annual risk assessments extended to third-party-owned CII (section 16J); the same cycles for CII owners date from 2018 (section 15)
 - Operational operational standards
 
-#### First-year compliance observations
+#### Compliance areas
 
-**CSA enforcement focus:**
+**Areas the duties cover:**
 
-In the first six months of the 2024 Amendment operation, CSA has emphasised:
+The amended Act's duties for designated owners fall into these areas:
 
-1. **CII, STCC and ESCI designation and scope clarification:**
+1. **CII and STCC designation and scope clarification (the ESCI provisions are not yet in force):**
    - Operational scope determination
    - Commercial relationship clarification
    - Operational operational standards
@@ -106,7 +106,7 @@ In the first six months of the 2024 Amendment operation, CSA has emphasised:
 
 #### Operational implications for designated infrastructure
 
-**For Singapore SMEs operating CII / STCC / ESCI scope:**
+**For Singapore SMEs operating CII or STCC scope (ESCI duties apply only once Part 3C commences):**
 
 **Foundational compliance:**
 
@@ -117,7 +117,7 @@ In the first six months of the 2024 Amendment operation, CSA has emphasised:
 
 **Specific incident response infrastructure:**
 
-- 24/7 detection and response capability
+- Mechanisms to monitor and detect cybersecurity events and to trigger incident reporting and response plans (for CII, Cybersecurity Code of Practice for CII (2026), clause 6.2.1)
 - Operational 2-hour reporting capability
 - Operational incident response panel
 - Operational operational considerations
@@ -142,7 +142,7 @@ In the first six months of the 2024 Amendment operation, CSA has emphasised:
 
 **Market standards influence:**
 
-The framework influences broader market expectations:
+The Act's designation duties do not apply outside designated scope, but cybersecurity demands can still arise from:
 
 - Customer expectations for cybersecurity
 - Operational commercial relationships
@@ -151,7 +151,7 @@ The framework influences broader market expectations:
 
 **Insurance market influence:**
 
-Cyber Liability market terms have evolved:
+Cyber insurers' proposal forms ask about security controls, such as multi-factor authentication, protected backups and endpoint protection:
 
 - Specific underwriting expectations
 - Operational operational standards expected
@@ -169,7 +169,7 @@ For specific industries (financial services, healthcare, technology, professiona
 
 **For designated CII:**
 
-Per [CSA framework](https://www.csa.gov.sg/):
+Per the [Cybersecurity (Provider-Owned Critical Information Infrastructure) Regulations 2018, reg 5](https://sso.agc.gov.sg/SL/CA2018-S519-2018?ProvIds=pr5-):
 
 **Reportable incidents:**
 
@@ -186,7 +186,7 @@ Per [CSA framework](https://www.csa.gov.sg/):
 
 **Operational operational implications:**
 
-- 24/7 detection capability foundational
+- Detection capability to identify incidents promptly (the 2-hour clock runs from becoming aware of an incident)
 - Operational incident response team availability
 - Operational operational standards
 - Operational operational considerations
@@ -204,8 +204,8 @@ Per [CSA framework](https://www.csa.gov.sg/):
 **Specific limit considerations:**
 
 For CII and other designated operators:
-- Substantial limits typical (S$10M-S$50M+)
-- Specific tower structures common (see [when layered cover makes sense](/comparison/cyber-tower-vs-single-policy))
+- Limits sized to the operator's own exposure
+- Tower structures possible (see [when layered cover makes sense](/comparison/cyber-tower-vs-single-policy))
 
 **Specific incident response panel:**
 
@@ -221,7 +221,7 @@ For CII and other designated operators:
 - Operational operational sophistication
 
 **Healthcare:**
-- Specific HCSA-coordinated framework
+- MOH, as the cybersecurity sector lead for healthcare
 - Operational operational sophistication
 
 **Telecom:**
@@ -279,11 +279,11 @@ For Singapore SMEs with cross-border digital operations:
 
 **Continued framework evolution:**
 
-CSA has indicated continued framework evolution, including the later commencement of the FDI (Part 3D) regime. Operational operational standards expected to mature.
+The ESCI (Part 3C) and FDI (Part 3D) regimes had not commenced as of 1 October 2026 and await a commencement notification. Operational operational standards expected to mature.
 
 **Specific industry-specific guidance:**
 
-Specific industry-specific guidance expected to issue. Operational scope.
+Sector regulators or CSA may issue further guidance. Operational scope.
 
 **Specific case law evolution:**
 
@@ -295,13 +295,13 @@ Cyber Liability market standards continue to evolve. Operational considerations.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **CII / STCC / ESCI designation scope unclear.** operational compliance gap.
+1. **CII or STCC designation scope unclear (the ESCI provisions are not yet in force).** operational compliance gap.
 2. **2-hour reporting capability inadequate.** Direct compliance breach risk.
 3. **Cybersecurity audit cycle compliance gap.**
 4. **No incident response panel pre-engagement.** Operational sophistication gap.
 5. **Cyber Liability inadequate for designated infrastructure.**
 6. **No regulatory defence cover.** Operational sophistication gap.
-7. **No 24/7 detection capability for designated scope.** Operational sophistication gap.
+7. **No way to escalate an incident fast enough to report it within 2 hours of becoming aware of it.** Operational sophistication gap.
 8. **No staff awareness for incident reporting.**
 9. **Specific cross-border operations without coordinated framework.**
 10. **Assuming the FDI regime is already in force.** The Part 3D provisions for major Foundational Digital Infrastructure providers had not commenced as of 31 October 2025.
@@ -310,11 +310,11 @@ Cyber Liability market standards continue to evolve. Operational considerations.
 
 For Singapore SMEs evaluating Cybersecurity Act compliance:
 
-1. **For CII / STCC / ESCI designated scope, comprehensive compliance is foundational.** No workarounds.
+1. **For CII or STCC designated scope (and ESCI scope once Part 3C commences), comprehensive compliance is foundational.** No workarounds.
 
 2. **For SMEs outside designated scope, market standards still apply.** Specific commercial expectations.
 
-3. **2-hour reporting requires 24/7 detection capability.** Operational sophistication.
+3. **The 2-hour reporting clock runs from becoming aware of an incident, so escalation and reporting need to be fast.** Operational sophistication.
 
 4. **Cybersecurity audit cycle compliance.** Operational standards.
 
@@ -326,11 +326,11 @@ For Singapore SMEs evaluating Cybersecurity Act compliance:
 
 8. **For specific industries, sector-specific guidance.**
 
-The Cybersecurity Act framework continues to evolve. First-year operation has clarified operational requirements; the FDI regime and further industry-specific guidance are still to come.
+The Cybersecurity Act framework continues to evolve. The ESCI and FDI regimes (Parts 3C and 3D) and the civil penalty provisions had not commenced as of 1 October 2026.
 
 ### Questions to Ask Your Adviser
 
-1. For my organisation profile, what CSA framework applies (CII, STCC, ESCI, or none)?
+1. For my organisation profile, what CSA framework applies (CII, STCC, or none; ESCI only once Part 3C commences)?
 2. How does my Cyber Liability address regulatory defence and 2-hour reporting?
 3. For incident response, what 24/7 panel capability is appropriate?
 4. For my industry, what sector-specific guidance applies?

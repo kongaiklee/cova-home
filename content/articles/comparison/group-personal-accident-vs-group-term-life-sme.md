@@ -102,7 +102,7 @@ The GPA / GTL framework operates alongside several statutory regimes that bear o
 
 ### WICA - The Statutory Floor for Work-Related Injuries
 
-The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires employers to maintain WIC insurance for all employees doing manual work and for non-manual employees earning S$2,600 a month or below. The MOM compensation limits [stepped up on 1 November 2025](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), with maximum work-related death compensation now S$269,000 (from S$225,000), total permanent incapacity S$346,000 (from S$289,000), and medical expenses S$53,000 (from S$45,000).
+The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires employers to maintain WIC insurance for all employees doing manual work and for non-manual employees earning S$2,600 a month or below, unless the employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers. The MOM compensation limits [stepped up on 1 November 2025](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act), with maximum work-related death compensation now S$269,000 (from S$225,000), total permanent incapacity S$346,000 (from S$289,000), and medical expenses S$53,000 (from S$45,000).
 
 WICA is the statutory floor for work-related injuries. GPA and GTL provide additional protection - for work-related accidents (additional to WICA), for non-work accidents (not covered by WICA at all), and for non-accidental death and disability (not covered by WICA).
 
@@ -178,7 +178,7 @@ Option 3 is the structure most SMEs in this profile would consider. The trade-of
 
 **Assuming GPA and GTL are equivalent.** They are not. GPA is accident-only; GTL is all-cause. The trigger difference is the most consequential element.
 
-**Forgetting WICA continues to apply.** WICA provides no-fault statutory compensation for work-related injuries. GPA and GTL supplement WICA; they do not replace it. The WICA cover must be maintained regardless.
+**Forgetting WICA continues to apply.** WICA provides no-fault statutory compensation for work-related injuries. GPA and GTL supplement WICA; they do not replace it. Subject to the excluded classes, the WICA cover must be maintained regardless.
 
 **Underestimating age-related GTL pricing.** A workforce with average age 50+ pays substantially more for GTL than one with average age 30. The pricing impact should be tested against actual demographics, not assumed from industry rules of thumb.
 

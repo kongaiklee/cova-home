@@ -21,11 +21,11 @@ og_description: "D&O is claims-made, and the triggers include a demand letter or
 
 > **The Answer in 60 Seconds**
 >
-> D&O insurance is **claims-made**. Triggering events include shareholder demand letter, derivative action, regulatory investigation, criminal investigation, employment claim by director, and others. The sequence: identify the triggering event, **notify the insurer immediately** (notification windows often strict), preserve documents, engage panel counsel, do not admit liability or settle without insurer consent. D&O has three structural sides: **Side A** (direct cover for individuals when company can't indemnify), **Side B** (company reimbursement when company indemnifies), **Side C** (entity cover for securities claims). Each has different mechanics. For Singapore directors specifically, [Companies Act 1967 Section 172](https://sso.agc.gov.sg/Act/CoA1967) restricts company indemnification for liabilities arising from negligence/default/breach of duty/breach of trust - making Side A particularly important for serious claims.
+> D&O insurance is **claims-made**. Triggering events include shareholder demand letter, derivative action, regulatory investigation, criminal investigation, employment claim by director, and others. The sequence: identify the triggering event, **notify the insurer immediately** (notification windows often strict), preserve documents, engage counsel (from the insurer's panel or with its consent), do not admit liability or settle without insurer consent. D&O has three structural sides: **Side A** (direct cover for individuals when company can't indemnify), **Side B** (company reimbursement when company indemnifies), **Side C** (entity cover for securities claims). Each has different mechanics. For Singapore directors specifically, [Companies Act 1967 Section 172](https://sso.agc.gov.sg/Act/CoA1967) restricts company indemnification for liabilities arising from negligence/default/breach of duty/breach of trust - making Side A particularly important for serious claims.
 
 ### The Step-by-Step
 
-D&O claims have distinctive characteristics: the defendants are individuals (directors, officers, senior managers) facing personal liability; the company may have limited or no power to indemnify under [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967); regulatory investigation cover is increasingly engaged; defence costs can be substantial. The process reflects this complexity.
+D&O claims have distinctive characteristics: the defendants are individuals (directors, officers, senior managers) facing personal liability; the company may have limited or no power to indemnify under [Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967); regulatory investigation cover can be engaged; defence costs can be substantial. The process reflects this complexity.
 
 #### What constitutes a D&O claim
 
@@ -80,11 +80,11 @@ D&O policies typically respond to:
 
 **Side C - Entity coverage:**
 - Pays the company directly for securities-related claims
-- Typically only for listed companies
+- Most relevant where a company has issued or offered securities to investors
 - Less common for private SMEs
 - Coordinated with Side A and B
 
-For SMEs, Side A and B are typical; Side C applies only to listed entities or those preparing for listing.
+For SMEs, Side A and B are typical; Side C responds only to securities claims, which wordings such as Chubb's Elite D&O define without limiting them to listed companies.
 
 #### Step 1 - Identify the trigger
 
@@ -116,7 +116,7 @@ In all cases - **error toward earlier notification**.
 #### Step 2 - Notify the insurer immediately
 
 Most D&O policies have notification windows:
-- "As soon as reasonably practicable" - most common
+- "As soon as practicable" (for example, Chubb's Elite D&O condition 5.4)
 - 30, 60, or 90 days specified
 - For regulatory investigations, sometimes shorter (specific timelines)
 
@@ -164,11 +164,11 @@ Late notification can result in:
 - Annual reports and financial statements
 - The underlying complaint or notice
 
-#### Step 4 - Engage panel counsel
+#### Step 4 - Engage counsel
 
-D&O insurers typically have panel law firms with directors' liability defence experience. Major Singapore D&O insurers include AIG, Allianz, Berkshire Hathaway, Chubb, Tokio Marine, Zurich, and others.
+Check whether your D&O insurer has panel law firms: under some wordings, such as Chubb's Elite D&O, it is the insured's duty to defend the claim, and defence costs need the insurer's prior written consent. D&O insurers in Singapore include AIG and Chubb, among others.
 
-**Panel counsel's role:**
+**Defence counsel's role:**
 - Substantive defence
 - Strategic decisions
 - Communication with claimants/regulators
@@ -187,7 +187,7 @@ D&O insurers typically have panel law firms with directors' liability defence ex
 - Insurer typically funds appropriate counsel arrangement
 
 **Director's own counsel separately:**
-- Generally not necessary if panel counsel adequately represents the director's interests
+- Generally not necessary if the defence counsel adequately represents the director's interests
 - May be appropriate where:
   - Director's interests diverge from company's
   - Director's interests diverge from other directors'
@@ -219,7 +219,7 @@ D&O claims typically involve coordination across:
 - Director(s) personally
 - Company / Board
 - Other directors and officers
-- External counsel (panel + possibly separate)
+- External counsel (defence counsel + possibly separate)
 - Insurer
 - Regulators (if applicable)
 - Auditors (if relevant)
@@ -270,7 +270,7 @@ Many regulatory inquiries close without enforcement. Cooperative engagement ofte
 #### Specific D&O scenarios
 
 **Scenario A: Shareholder demands company sue former CEO for breach of fiduciary duty**
-- Side A and B exposure (CEO's defence + company's potential liability)
+- Side A and B exposure (the CEO's defence, paid directly under Side A, or reimbursed to the company under Side B where it indemnifies the CEO)
 - Special committee of independent directors typical
 - Insurer notification by both individuals and company
 - Long-tail nature; may extend years
@@ -293,7 +293,7 @@ Many regulatory inquiries close without enforcement. Cooperative engagement ofte
 - Long-tail; potentially 6 years from underlying acts
 
 **Scenario E: Wrongful dismissal claim by ousted director**
-- D&O may respond as defendant company; EPL also potentially relevant
+- EPL may respond for the company; D&O may respond for any director named personally
 - Coordination of cover responses
 - Settlement vs trial calculus
 
@@ -322,10 +322,10 @@ For acquisition specifically, the seller's D&O run-off is typically purchased as
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Late notification.** Most-frequent issue.
+1. **Late notification.**
 2. **Internal triage missing circumstance threshold.** Whistle-blower complaints, audit findings often warrant notification.
 3. **Director resigning to "distance" from issue.** May affect cover; counsel guidance essential.
-4. **Direct settlement with claimant without insurer consent.** Voids cover.
+4. **Direct settlement with claimant without insurer consent.** Breaches the policy's consent condition and puts cover for the settlement at risk.
 5. **Public statements not coordinated with counsel.** Compromises position.
 6. **Engaging own counsel without consent.** Cost not reimbursed.
 7. **At change of control - no run-off cover.** Directors uncovered for legacy claims.
@@ -356,7 +356,7 @@ D&O is one of the few insurance products specifically designed to protect indivi
 
 1. What is my D&O policy's notification window for claims and circumstances?
 2. Do I have all three sides (A, B, C) appropriately, or just the relevant ones?
-3. Who are the panel counsel firms for directors' liability defence?
+3. Does my insurer have panel counsel for directors' liability defence, or do I appoint counsel with its consent?
 4. Are defence costs within or in addition to limit?
 5. At my next major transition (M&A, retirement, fundraising), what run-off planning should I do?
 

@@ -21,22 +21,22 @@ og_description: "From 1 April 2026 Singapore's MOH restructured Integrated Shiel
 
 > **The Answer in 60 Seconds**
 >
-> Effective **1 April 2026**, [Ministry of Health (MOH)](https://www.moh.gov.sg/) implemented two structural changes to Integrated Shield Plan (IP) rider design (announced 26 November 2025): (1) **new IP riders sold cannot cover MOH-set minimum IP deductibles** (which range from SGD 1,500 to SGD 3,500 per policy year, varying by ward class); (2) **annual co-payment cap raised from SGD 3,000 to SGD 6,000** for eligible claims (panel or pre-authorised). The minimum **5% co-payment requirement is retained**. Insurers expected to price new riders **~30% lower on average** than existing riders with maximum coverage. Transition arrangements: insurers continue selling existing riders until **31 March 2026**; new policyholders purchasing existing riders **on or after 27 November 2025** must transition to compliant riders no later than next policy renewal after **1 April 2028**; existing policyholders pre-27 November 2025 - individual insurers determine approach. The redesign primarily affects individual / family IPs, but the changes have material **employer group medical implications**: (1) **employee out-of-pocket exposure increases** - staff with private hospital preferences face deductible (SGD 1,500-3,500) plus 5% co-payment up to SGD 6,000; (2) **group medical pricing dynamics shift** as utilisation patterns adjust; (3) **panel discipline becomes more material** - co-payment cap applies only to panel or pre-authorised claims; (4) **employer benefit communication** must explain the new IP architecture to staff. The redesign reflects MOH's longstanding policy concern about over-consumption driven by full-coverage riders.
+> Effective **1 April 2026**, [Ministry of Health (MOH)](https://www.moh.gov.sg/) implemented two structural changes to Integrated Shield Plan (IP) rider design (announced 26 November 2025): (1) **new IP riders sold cannot cover MOH-set minimum IP deductibles** (which range from SGD 1,500 to SGD 3,500 per policy year, varying by ward class); (2) **annual co-payment cap raised from SGD 3,000 to SGD 6,000** for eligible claims, such as panel or pre-authorised claims. The minimum **5% co-payment requirement is retained**. Insurers expected to price new riders **~30% lower on average** than existing riders with maximum coverage. Transition arrangements: insurers continue selling existing riders until **31 March 2026**; new policyholders purchasing existing riders **on or after 27 November 2025** must transition to compliant riders no later than next policy renewal after **1 April 2028**; existing policyholders pre-27 November 2025 - individual insurers determine approach. The redesign primarily affects individual / family IPs, but the changes have material **employer group medical implications**: (1) **employee out-of-pocket exposure increases** - staff on the new riders face the deductible (SGD 1,500-3,500) plus 5% co-payment up to SGD 6,000 on panel or pre-authorised claims; (2) **group medical pricing dynamics shift** as utilisation patterns adjust; (3) **panel discipline becomes more material** - the co-payment cap MOH requires applies only to eligible claims, such as panel or pre-authorised claims; (4) **employer benefit communication** must explain the new IP architecture to staff. The redesign reflects MOH's longstanding policy concern about over-consumption driven by full-coverage riders.
 
 ### The Sourced Detail
 
-The 1 April 2026 IP rider redesign is the most significant change to Singapore individual / family medical insurance framework since the 2018 partial co-payment introduction. While positioned as individual insurance reform, the cascading effects on employer group medical procurement are material - particularly for SMEs whose staff combine group medical with personal IP cover.
+The 1 April 2026 IP rider redesign follows the minimum 5% co-payment requirement for riders that MOH announced in March 2018. While positioned as individual insurance reform, the cascading effects on employer group medical procurement are material - particularly for SMEs whose staff combine group medical with personal IP cover.
 
 #### Regulatory framework
 
-**Primary regulator.** [Ministry of Health (MOH)](https://www.moh.gov.sg/) - sets IP framework via [MediShield Life Council](https://www.medishieldlife.gov.sg/) and direct policy, in coordination with [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) for insurer regulation.
+**Primary regulator.** [Ministry of Health (MOH)](https://www.moh.gov.sg/) - sets requirements for the key parameters of IPs and riders, such as co-payment and deductible requirements, and works with the [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) in regulatory oversight of IP insurers.
 
 **Underlying schemes:**
 - **MediShield Life** - universal basic health insurance for Singapore Citizens / PRs
 - **Integrated Shield Plans (IPs)** - private insurer products extending cover beyond MediShield Life
 - **IP Riders** - private insurer additional products covering co-payment and deductibles
 
-**Approved IP insurers.** Integrated Shield Plans may be offered only by the small set of life insurers approved by MOH to do so; MOH and the MediShield Life Council publish the current list of IP insurers.
+**Approved IP insurers.** Integrated Shield Plans may be offered only by the small set of life insurers approved by MOH to do so; MOH publishes the current MediSave-approved Integrated Shield Plans and their insurers.
 
 **Underlying statutes.** [MediShield Life Scheme Act 2015](https://sso.agc.gov.sg/Act/MLSA2015) - establishes universal MediShield Life. [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) governs IP / IP rider products.
 
@@ -48,7 +48,7 @@ The 1 April 2026 IP rider redesign is the most significant change to Singapore i
 
 **Pre-2018.** Many IP riders were "as-charged" - covering 100% of co-payment and deductibles. Result: zero out-of-pocket cost for policyholders.
 
-**2018 partial co-payment.** MOH required minimum 5% co-payment on new IP riders. Existing rider holders grandfathered. SGD 3,000 annual co-payment cap introduced for new design.
+**2018 partial co-payment.** MOH announced in March 2018 a minimum 5% co-payment for new IP riders sold from 1 April 2019, with a co-payment cap of at least SGD 3,000 a year. Riders bought before 8 March 2018 were not required to change (though some insurers later added a co-payment); riders sold between 8 March 2018 and 31 March 2019 had to move to the new design by 1 April 2021.
 
 **1 April 2026 redesign.** Two further structural changes: (a) prohibition on rider coverage of MOH-set minimum IP deductibles; (b) co-payment cap raised from SGD 3,000 to SGD 6,000.
 
@@ -64,13 +64,13 @@ New IP riders sold from 1 April 2026 cannot cover MOH-set minimum IP deductibles
 
 Variation depends on (i) targeted IP coverage class and (ii) actual ward class utilised - whichever is lower applies.
 
-Result: every claim pays the deductible out-of-pocket before insurance engages.
+Result: the policyholder pays the deductible before insurance pays out. It is payable once per policy year, and multiple bills in the same year count towards it.
 
 **Change 2 - Co-payment cap raised.**
 
 Annual co-payment cap raised from **SGD 3,000 to SGD 6,000** to keep pace with increasing bill sizes.
 
-Cap applies to **eligible claims** - defined as panel admissions or pre-authorised claims. Non-panel non-pre-authorised admissions don't enjoy cap.
+Cap applies to **eligible claims**, such as panel or pre-authorised claims. MOH does not require riders to cap other claims.
 
 **Retained from 2018 framework.**
 - Minimum 5% co-payment requirement.
@@ -81,16 +81,16 @@ Insurers expected to price new riders ~30% lower on average compared to existing
 **Specific impact examples:**
 
 For a SGD 50,000 hospital bill, panel admission, Class B1 ward:
-- Pre-1 April 2026 (full-coverage rider): SGD 0 out-of-pocket
+- Full rider bought before 8 March 2018 (no co-payment): SGD 0 out-of-pocket
 - New rider: SGD 2,500 (deductible) + SGD 2,375 (5% of SGD 47,500) = SGD 4,875 out-of-pocket
 - Note: cap of SGD 6,000 not reached
 
 For a SGD 200,000 hospital bill, panel admission, Class B1:
-- Pre-1 April 2026 full-coverage rider: SGD 0 out-of-pocket
+- Full rider bought before 8 March 2018 (no co-payment): SGD 0 out-of-pocket
 - New rider: SGD 2,500 (deductible) + SGD 6,000 (co-payment cap) = SGD 8,500 out-of-pocket
 
-For SGD 200,000 bill, non-panel:
-- Pre-1 April 2026 full-coverage: SGD 0
+For SGD 200,000 bill, non-panel and not pre-authorised, on a rider that does not cap such claims:
+- Full rider bought before 8 March 2018 (no co-payment): SGD 0
 - New rider: SGD 2,500 (deductible) + SGD 9,875 (5% of SGD 197,500, no cap) = SGD 12,375
 
 (Both deductible and co-payment can be paid using MediSave subject to prevailing withdrawal limits.)
@@ -109,9 +109,9 @@ For SGD 200,000 bill, non-panel:
 
 **Channel 1 - Employee out-of-pocket exposure.**
 
-Staff with personal IP riders no longer face zero-co-payment scenario. Out-of-pocket exposure now includes:
+Staff who buy the new riders, or who bought a rider on or after 27 November 2025 and must move to the new design by their first renewal after 1 April 2028, face higher out-of-pocket exposure. For riders bought before 27 November 2025, each insurer decides its own approach. Out-of-pocket exposure now includes:
 - IP deductible: SGD 1,500-3,500 per policy year (varies by ward)
-- 5% co-payment: capped at SGD 6,000 (panel) or uncapped (non-panel)
+- 5% co-payment: capped at SGD 6,000 a year on eligible claims, such as panel or pre-authorised claims; other claims need not be capped
 
 Group medical can fill the gap if structured to do so:
 - **Deductible cover** - explicit provision for MOH-set IP deductible
@@ -131,12 +131,12 @@ For SMEs: depending on insurer and policy structure, premium dynamics may diverg
 
 **Channel 3 - Panel discipline materiality.**
 
-The cap structure (SGD 6,000 panel; uncapped non-panel) creates strong incentive for panel admission:
+The cap structure (SGD 6,000 on eligible claims, such as panel or pre-authorised claims; other claims need not be capped) creates strong incentive for panel admission:
 - Insurer-defined panel of approved hospitals / doctors
 - Network discipline rewards employees choosing panel
 - Group medical with panel restrictions aligns with new IP framework
 
-For SMEs structuring group medical with panel restrictions: better alignment with employee personal IP framework, often lower premium.
+For SMEs structuring group medical with panel restrictions: better alignment with employee personal IP framework.
 
 **Channel 4 - Communication and benefit transparency.**
 
@@ -149,6 +149,8 @@ Employers must communicate:
 Pre-1 April 2026, "comprehensive cover" was simpler to communicate. Post-redesign, education is needed.
 
 #### Sector-specific considerations
+
+These are general expectations, not measured figures.
 
 **Knowledge work / professional services.**
 - Higher salary cohort, more likely to have private IP riders
@@ -166,9 +168,9 @@ Pre-1 April 2026, "comprehensive cover" was simpler to communicate. Post-redesig
 - Communication challenge if employees expect zero-co-payment
 
 **Healthcare and finance.**
-- Highest personal IP penetration
-- Most affected by redesign
-- Highest expectation of comprehensive cover
+- Staff may be more likely to hold personal IP riders
+- So may feel the redesign more
+- May expect comprehensive cover
 
 #### Group medical strategy options
 
@@ -179,13 +181,13 @@ Pre-1 April 2026, "comprehensive cover" was simpler to communicate. Post-redesig
 
 **Option 2 - Deductible + co-payment supplement.**
 - Add specific cover for IP-driven deductible and co-payment
-- Premium impact: moderate (typically 5-15% loading)
+- Premium impact: varies by insurer and plan
 - Employee experience: closer to pre-redesign
 
 **Option 3 - Panel restriction in group medical.**
 - Restrict group medical to specific panel
 - Aligns with IP panel framework
-- Premium savings often material (10-25%)
+- Premium savings vary by insurer and plan
 
 **Option 4 - Hospital cash benefit.**
 - Daily / per-admission cash benefit
@@ -214,9 +216,9 @@ The right structure depends on workforce composition, sector, premium budget, an
 
 2. **Group medical not adjusted.** Relying on previous "comprehensive" assumption when redesign changes employee experience.
 
-3. **Panel framework not used.** Group medical without panel discipline; missing premium savings opportunity and SGD 6,000 cap protection.
+3. **Panel framework not used.** Group medical without panel discipline; missing SGD 6,000 cap protection.
 
-4. **Deductible cover absent.** No specific cover for MOH-set deductible; employee SGD 1,500-3,500 exposure per claim.
+4. **Deductible cover absent.** No specific cover for MOH-set deductible; employee SGD 1,500-3,500 exposure per policy year.
 
 5. **Pre-27 November 2025 rider holders not identified.** Specific transition arrangements; communication needed.
 

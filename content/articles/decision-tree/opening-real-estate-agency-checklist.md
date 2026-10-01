@@ -21,7 +21,7 @@ og_description: "A real estate agency is licensed by CEA under the Estate Agents
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore real estate agency requires licensing under the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). **Professional Indemnity insurance is mandatory** under the CEA framework and rules - minimum limits per CEA requirements with annual renewal aligned to the Practice Year. Beyond the mandatory PI: **Public Liability** for office and viewings, **WICA** for staff, **Cyber Liability** with attention to PDPA significance for client property and personal data (very high - financial information, identity documents, family situation), **Property/Fire** for office, and **Crime / Social Engineering Fraud** cover (real estate is one of the most-targeted sectors for Business Email Compromise). For agencies handling material settlement funds, **Fidelity Guarantee** for employee dishonesty. The mandatory PI scheme administered through CEA-approved insurers is a condition of agency licence; verify current PI requirements directly on the CEA portal before launching.
+> A Singapore real estate agency requires licensing under the [Council for Estate Agencies (CEA)](https://www.cea.gov.sg/) per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010). **Professional Indemnity insurance is mandatory** under the CEA framework and rules - minimum limits per CEA requirements, and the policy must cover the agency and all its salespersons for the whole licence period (from 1 January 2027, bought for the full three years or yearly for each calendar year). Beyond the mandatory PI: **Public Liability** for office and viewings, **WICA** for staff, **Cyber Liability** with attention to PDPA significance for client property and personal data (very high - financial information, identity documents, family situation), **Property/Fire** for office, and **Crime / Social Engineering Fraud** cover for Business Email Compromise. For employee dishonesty, **Fidelity Guarantee**; estate agents and salespersons must not hold or handle money for any party in the sale or purchase of Singapore property or the lease of HDB property (Estate Agents (Estate Agency Work) Regulations 2010 reg 7). A PI policy covering the agency and all its salespersons, at CEA's minimum requirements, is a condition of the agency licence; verify current PI requirements directly on the CEA portal before launching.
 
 ### The Sourced Detail
 
@@ -35,7 +35,7 @@ Per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) and [CEA's 
 - Agency-level licence for the firm
 - Key Executive Officer (KEO) requirement
 - Compliance with CEA Practice Guidelines
-- Annual renewal
+- Renewal every three years from the 2026 renewal exercise (licences renewed in 2026 run from 1 January 2027 to 31 December 2029)
 
 **Real Estate Salesperson (RES) registration:**
 - Individual registration for each practising salesperson
@@ -45,23 +45,23 @@ Per the [Estate Agents Act 2010](https://sso.agc.gov.sg/Act/EAA2010) and [CEA's 
 
 **Insurance requirements:**
 - Mandatory PI cover at CEA-specified minimum limits
-- Annual renewal aligned with Practice Year
+- In force for the whole licence period: from 1 January 2027, bought for the full three years or yearly for each calendar year
 
 **Practice rules:**
 - Standard form documents (Estate Agency Agreement)
 - Commission disclosure requirements
 - Anti-money laundering compliance
 - Conflict of interest management
-- Trust account requirements where applicable
+- No holding or handling of money for any party in the sale or purchase of Singapore property or the lease of HDB property (reg 7)
 
 #### The mandatory PI layer
 
-CEA mandates PI insurance as a licensing condition. The scheme:
+CEA mandates PI insurance as a licensing condition. The requirement:
 
-- Administered through CEA-approved insurers
+- Bought by the agency; CEA names bolttech Insurance Brokers and SingCapital for information, and accepts PII bought from other insurers
 - Minimum limits specified in CEA rules (verify current minimums on [CEA's licensing pages](https://www.cea.gov.sg/) before placing cover)
 - Coverage of agency and registered salespersons
-- Annual renewal
+- In force for the whole licence period (from 1 January 2027, bought for the full three years or yearly for each calendar year)
 
 **What CEA-mandated PI typically covers:**
 - Negligent advice or service to clients
@@ -73,13 +73,13 @@ CEA mandates PI insurance as a licensing condition. The scheme:
 
 **What it doesn't cover:**
 - Fraudulent or dishonest acts
-- Specific carve-outs per CEA approved wording
+- Specific exclusions in the policy wording
 - Bodily injury (PL)
 - Employment disputes (EPL)
 
 **Top-up PI:**
 
-Many agencies - particularly those handling commercial transactions, high-value residential, or complex deals - purchase top-up PI above the CEA minimum. Top-up structure typically:
+CEA says estate agents and salespersons can choose policies with higher coverage than its minimums, and agencies handling commercial transactions, high-value residential or complex deals may buy top-up PI. Top-up structure typically:
 - Sits above the mandatory cover
 - Higher per-claim and aggregate limits
 - May offer broader wording on specific exposures
@@ -99,10 +99,10 @@ Errors in advice (zoning, defects disclosure, future development information) ma
 Identity documents (NRIC, passport), financial information (income, savings, loan eligibility), family situation, property assets - all highly sensitive PDPA categories.
 
 **5. Settlement funds exposure.**
-Agencies handling settlement funds (deposits, holding deposits) face fiduciary exposure with strict trust account requirements.
+Estate agents and salespersons must not hold or handle money for any party in the sale or purchase of property in Singapore or the lease of HDB property ([Estate Agents (Estate Agency Work) Regulations 2010](https://sso.agc.gov.sg/SL/EAA2010-S644-2010) reg 7), and CEA tells consumers to pay the payee directly.
 
 **6. Business Email Compromise vector.**
-Real estate is one of the highest-frequency BEC targets globally. Fraudsters intercept legitimate emails and redirect settlement funds to fraudster accounts.
+Fraudsters intercept legitimate emails and redirect settlement funds to fraudster accounts.
 
 **7. AML / regulatory exposure.**
 Real estate is covered under Singapore's anti-money laundering framework; agencies have specific obligations under the [Estate Agents (Prevention of Money Laundering, Proliferation Financing and Terrorism Financing) Regulations 2021](https://sso.agc.gov.sg/SL/EAA2010-S555-2021).
@@ -119,7 +119,7 @@ Cyber Liability for real estate agencies is increasingly critical:
 - Customer communication manipulation
 
 **Recommended Cyber stack:**
-- Standalone Cyber with appropriate limits (S$2M-S$10M+)
+- Standalone Cyber with limits set for the agency's exposure
 - **Social Engineering Fraud cover specifically for BEC** at appropriate sub-limit
 - Pre-transaction verification protocols (callback before any payment instruction change)
 - Panel forensics and breach counsel
@@ -138,7 +138,7 @@ Defence:
 
 #### Fidelity Guarantee considerations
 
-For agencies handling settlement funds or with significant cash flow, Fidelity Guarantee covers employee dishonesty. See [what a claim must prove](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [what to do when embezzlement is found](/crisis/employee-embezzlement-discovered).
+For agencies with significant cash flow, Fidelity Guarantee covers employee dishonesty. Estate agents and salespersons must not hold or handle money for any party in the sale or purchase of Singapore property or the lease of HDB property (reg 7). See [what a claim must prove](/procedural-howto/fidelity-guarantee-employee-theft-claim) and [what to do when embezzlement is found](/crisis/employee-embezzlement-discovered).
 
 #### Stage-by-stage insurance build
 
@@ -191,29 +191,26 @@ For agencies handling settlement funds or with significant cash flow, Fidelity G
 - Different regulatory framework (where the property is located)
 - Cross-border PI coordination
 - Specific disclosure rules under CEA framework
-- Overseas Property Marketing licensing where applicable
+- The Estate Agents Act 2010 and CEA's Practice Guidelines on the Marketing of Foreign Properties apply to marketing foreign properties in Singapore
 
 **Property management:**
 - Different exposure profile
 - Premises liability for managed buildings
 - Tenant data management
-- May require separate licensing
 
 #### Premium considerations
 
 For a typical Singapore real estate agency:
 
 **Small agency (1-10 RES, 2-5 office staff):**
-- Mandatory CEA PI: per scheme calculation
+- Mandatory CEA PI: priced by the insurer, at no less than CEA's minimum limit for the agency's number of salespersons
 - Top-up PI: optional
-- Other insurance: S$8,000-S$25,000
-- **Total annual insurance budget** typically S$15,000-S$50,000+
+- Other insurance: priced by each insurer
 
 **Mid-size agency (20-60 RES, 5-15 office staff):**
 - Higher PI limits
-- Comprehensive other lines: S$20,000-S$60,000
-- Cyber with SEF: S$10,000-S$30,000
-- **Total: S$50,000-S$150,000+**
+- Comprehensive other lines
+- Cyber with SEF
 
 **Larger agency:**
 - Comprehensive programme
@@ -221,14 +218,14 @@ For a typical Singapore real estate agency:
 
 #### operational risk management
 
-Insurers underwrite real estate agencies on operational standards:
+Operational standards that bear on claims and on CEA compliance:
 
 **Conduct standards:**
 - Documented commission disclosures
 - Conflict of interest management
 - AML / KYC procedures
 - Standard form documentation
-- Client trust account discipline
+- No holding or handling of money for any party in Singapore property sales and purchases or HDB leases (reg 7)
 
 **Cyber discipline:**
 - MFA on all email and systems
@@ -249,7 +246,7 @@ Insurers underwrite real estate agencies on operational standards:
 1. **Operating without confirmed CEA mandatory PI.** Licensing breach.
 2. **PI limits at minimum only without top-up for transaction values.** Single deal error can exceed.
 3. **No Social Engineering Fraud cover for BEC.** Major exposure for real estate.
-4. **No Fidelity Guarantee where settlement funds handled.** Employee dishonesty risk.
+4. **No Fidelity Guarantee.** Employee dishonesty risk.
 5. **Cyber inadequate for client data sensitivity.** PDPA significant-harm category.
 6. **AML compliance gaps.** Direct regulatory exposure plus reputation impact.
 7. **No documented payment verification process.** BEC defence weakened.
@@ -265,7 +262,7 @@ For founders opening a real estate agency in Singapore:
 
 3. **Match insurance limits to transaction values.** Higher-end practice needs higher PI limits.
 
-4. **Invest in Cyber / BEC defence.** Real estate is a high-frequency target.
+4. **Invest in Cyber / BEC defence.**
 
 5. **Document AML and conduct compliance.** CEA disciplinary framework is active.
 
@@ -277,7 +274,7 @@ The real estate sector has high reputation sensitivity and consumer protection f
 
 ### Questions to Ask Your Adviser
 
-1. Does the CEA mandatory PI scheme provide adequate limits for my practice mix, or should I purchase top-up?
+1. Are CEA's minimum PI limits adequate for my practice mix, or should I purchase top-up?
 2. For BEC / Social Engineering Fraud cover specifically, what sub-limit and pre-transaction verification protocols are required?
 3. How does Cyber coordinate with PI for breach scenarios involving client data?
 4. For agents joining or leaving, what PI retroactive / run-off coordination is needed?

@@ -21,23 +21,23 @@ og_description: "Singapore's MAS has issued a post-inspection findings letter. W
 
 > **The Answer in 60 Seconds**
 >
-> [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) has issued a post-inspection findings letter to a licensed Financial Adviser, Capital Markets Services Licensee (CMSL), Payment Service Provider (PSP), or by extension a registered insurance broker or exempt FA. The letter identifies specific compliance shortcomings - typically across [Anti-Money Laundering / Countering the Financing of Terrorism (AML/CFT)](https://www.mas.gov.sg/regulation/anti-money-laundering), Technology Risk Management, conduct, or governance - and requires a structured remediation response within a specific timeframe. **First 24 hours: acknowledge receipt to the MAS Supervisory Officer; do NOT respond substantively yet; convene the board; engage external regulatory counsel; trigger D&O and PI claims-made notification IMMEDIATELY** - receipt of the findings letter is itself the "circumstance" that, if not notified, can be excluded from the next policy renewal. First 14 days: detailed remediation plan drafting (deadline as set in your specific findings letter - practitioner consensus is "typically within 1 month" but no fixed MAS-published timeframe exists), identify whether matter is within composition / civil penalty / criminal referral track per [MAS Enforcement Monograph (April 2022)](https://www.mas.gov.sg/), internal investigation scoping, evidence preservation, document hold, communications plan. Parallel notification clocks: [MAS Notice FSM-N05](https://www.mas.gov.sg/) (1 hour) for any concurrent IT incident; [FAA-N17](https://www.mas.gov.sg/regulation/notices/notice-faa-n17) (5 working days) for any fraud or suspicious activity discovered during remediation; STR filing (5 business days, or 1 business day for sanctioned parties) under revised AML/CFT Notices 2025. Reference enforcement: Swiss-Asia Financial Services Pte Ltd S$2.5m composition (7 May 2024); five payment institutions S$960k aggregate composition (27 June 2025); nine FIs including Blue Ocean Invest Pte Ltd S$27.45m collective composition (4 July 2025).
+> [Monetary Authority of Singapore (MAS)](https://www.mas.gov.sg/) has issued a post-inspection findings letter to a licensed Financial Adviser, Capital Markets Services Licensee (CMSL), Payment Service Provider (PSP), or by extension a registered insurance broker or exempt FA. The letter identifies specific compliance shortcomings - typically across [Anti-Money Laundering / Countering the Financing of Terrorism (AML/CFT)](https://www.mas.gov.sg/regulation/anti-money-laundering), Technology Risk Management, conduct, or governance - and requires a structured remediation response within a specific timeframe. **First 24 hours: acknowledge receipt to the MAS Supervisory Officer; do NOT respond substantively yet; convene the board; engage external regulatory counsel; trigger D&O and PI claims-made notification IMMEDIATELY** - receipt of the findings letter is itself the "circumstance" that, if not notified, can be excluded from the next policy renewal. First 14 days: detailed remediation plan drafting (deadline as set in your specific findings letter; no fixed MAS-published timeframe exists), identify whether matter is within composition / civil penalty / criminal referral track per the [MAS Enforcement Monograph (version 1.2, 1 July 2025)](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/enf/enforcement-monograph_final_july-2025.pdf), internal investigation scoping, evidence preservation, document hold, communications plan. Parallel notification clocks: the MAS Notice on Technology Risk Management ([FSM-N23](https://www.mas.gov.sg/regulation/notices/notice-fsm-n23) for financial advisers, [FSM-N21](https://www.mas.gov.sg/regulation/notices/notice-fsm-n21) for capital markets financial institutions) (1 hour) for a concurrent IT incident with severe and widespread impact on operations or material impact on customers; [FAA-N17](https://www.mas.gov.sg/regulation/notices/notice-faa-n17) (5 working days) for any fraud or suspicious activity discovered during remediation; STR filing (5 business days, or 1 business day for sanctioned parties) under revised AML/CFT Notices 2025. Reference enforcement: Swiss-Asia Financial Services Pte Ltd S$2.5m composition (7 May 2024); five payment institutions S$960k aggregate composition (27 June 2025); nine FIs including Blue Ocean Invest Pte Ltd S$27.45m collective composition (4 July 2025).
 
 ### The Sourced Detail
 
-The MAS adverse examination findings letter is the most consequential regulatory document a licensed financial entity will receive. It marks the transition from supervisory dialogue to enforcement track decision - composition vs civil penalty vs criminal referral. The first 24 hours determine whether the entity preserves its insurance and legal positioning for what follows.
+The MAS findings letter sets out what an inspection found and what MAS requires the entity to fix. Where MAS suspects breaches of laws or regulations, its enforcement function investigates further and decides whether enforcement action (such as composition, civil penalty or criminal prosecution) is necessary. The first 24 hours determine whether the entity preserves its insurance and legal positioning for what follows.
 
 #### Reference enforcement actions
 
-**Swiss-Asia Financial Services Pte Ltd, 7 May 2024.** SGD 2.5m composition penalty for AML/CFT breaches under [Financial Advisers Act](https://sso.agc.gov.sg/Act/FAA2001) and Notice FAA-N06. CEO Olivier Pascal Mivelaz and COO Steve Knabl reprimanded.
+**Swiss-Asia Financial Services Pte Ltd, 7 May 2024.** SGD 2.5m composition penalty for breaches of MAS Notice SFA04-N02 (AML/CFT for capital markets intermediaries), each an offence under section 27B(2) of the MAS Act. CEO Olivier Pascal Mivelaz and COO Steve Knabl reprimanded.
 
-**Five payment institutions, 27 June 2025.** SGD 960k aggregate composition - the first publicly reported MAS composition penalties on payment service providers under [Payment Services Act 2019](https://sso.agc.gov.sg/Act/PSA2019).
+**Five payment institutions, 27 June 2025.** SGD 960k aggregate composition on five Major Payment Institutions licensed under the [Payment Services Act 2019](https://sso.agc.gov.sg/Act/PSA2019), for breaches of MAS Notice PSN01 (AML/CFT).
 
 **Nine financial institutions including Blue Ocean Invest Pte Ltd, 4 July 2025.** SGD 27.45m collective composition with 3-6 year prohibition orders against four Blue Ocean executives.
 
 **Capital Markets Services licence revocation, 3 July 2025.** Revoked for cumulative compliance failures (audited financial statement non-filing, quarterly returns non-submission, principal place of business changes not notified).
 
-Per [MAS Enforcement Report 2023/2024 (released 14 April 2025)](https://www.mas.gov.sg/): SGD 11.5m total penalties imposed in 2H2024.
+Per [MAS Enforcement Report 2023/2024 (released 14 April 2025)](https://www.mas.gov.sg/publications/monographs-or-information-paper/2025/mas-enforcement-report-2023-2024): SGD 7.16m in civil penalties and SGD 4.4m in financial penalties and compositions for 1 July 2023 to 31 December 2024.
 
 #### Statutory and regulatory framework
 
@@ -49,12 +49,12 @@ Per [MAS Enforcement Report 2023/2024 (released 14 April 2025)](https://www.mas.
 - [Banking Act 1970](https://sso.agc.gov.sg/Act/BA1970) - for banks
 
 **Key MAS Notices:**
-- [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) - exemption for introducer activity
+- [Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02): appointment and use of introducers by financial advisers
 - Notice FAA-N06 - AML/CFT for FAs
 - Notice FAA-N17 - Reporting of Suspicious Activities and Incidents of Fraud
-- Notice FSM-N05 (effective 10 May 2024) - Technology Risk Management; 1-hour incident notification
+- Notices on Technology Risk Management (effective 10 May 2024): FSM-N23 for financial advisers, FSM-N21 for capital markets financial institutions; 1-hour incident notification
 
-**Enforcement framework:** [MAS Enforcement Monograph (April 2022)](https://www.mas.gov.sg/) - sets out civil, criminal, and administrative enforcement options.
+**Enforcement framework:** [MAS Enforcement Monograph (version 1.2, 1 July 2025)](https://www.mas.gov.sg/-/media/mas-media-library/publications/monographs-or-information-paper/enf/enforcement-monograph_final_july-2025.pdf) - sets out civil, criminal, and administrative enforcement options.
 
 #### Hour-by-hour response
 
@@ -69,14 +69,14 @@ Per [MAS Enforcement Report 2023/2024 (released 14 April 2025)](https://www.mas.
 **Hour 1-3 - Insurance notification (CRITICAL).**
 
 - **D&O insurer claims-made notification** - receipt of the findings letter is itself the "circumstance"
-  - Without notification, next policy renewal will exclude this matter
+  - Notifying it as a circumstance can attach a later claim to the current policy, where the wording deems a claim from a notified circumstance to be made when the circumstance was notified
   - Specific notification language ("circumstance" not "claim" - different policy implications)
   - Documentation of receipt date, time, contents
 - **Professional Indemnity (PI) insurer notification** - for advisory failure or service-related findings
 - **Cyber policy notification** - if technology / data findings included
 - **Specific coverage assessment:**
   - Defence costs cover scope
-  - Settlement / fine indemnity (typically excluded - see below)
+  - Settlements and fines (settlements of covered claims are part of loss; criminal fines and amounts uninsurable at law are generally excluded; some D&O wordings cover civil fines against individual insureds where insurable by law; see below)
   - Investigation costs
   - Specific exclusions (intentional / reckless conduct, dishonesty)
 
@@ -100,7 +100,7 @@ Per [MAS Enforcement Report 2023/2024 (released 14 April 2025)](https://www.mas.
 
 #### First 14 days - remediation plan
 
-The findings letter typically requests:
+A findings letter may request:
 - Confirmation of factual findings
 - Detailed remediation plan
 - Specific timeline for implementation
@@ -117,7 +117,7 @@ The findings letter typically requests:
 7. Specific monitoring and reporting cadence
 8. Specific independent verification (compliance consultant, internal audit)
 
-**Deadline.** No publicly published MAS framework on response timing. Practitioner consensus suggests "typically within 1 month" but specific deadline is set in each findings letter. The deadline is non-negotiable; extensions require formal request with substantive justification.
+**Deadline.** No publicly published MAS framework on response timing. The deadline is the one set in each findings letter.
 
 #### Track determination - composition vs civil penalty vs criminal referral
 
@@ -126,7 +126,7 @@ The findings letter typically requests:
 - Settlement payment to MAS
 - No criminal record
 - Specific public disclosure (MAS website)
-- Most common track for SME financial entities
+- Offered in lieu of prosecution where the misconduct is of low or moderate seriousness
 
 **Civil penalty.**
 - For specific market misconduct (insider trading, market manipulation) under SFA Part XII
@@ -141,7 +141,7 @@ The findings letter typically requests:
 
 **Reprimand and prohibition order.**
 - For specific individuals (CEO, CFO, compliance officer)
-- Specific industry exclusion (3-6 years typical)
+- Duration set case by case (MAS reported 22 prohibition orders for July 2023 to December 2024: 15 of 1 to 5 years, 4 of 6 to 10 years, 3 of more than 10 years)
 - Permanent prohibition for serious cases
 
 #### Insurance angle - D&O and PI cover scope
@@ -167,14 +167,14 @@ The findings letter typically requests:
 - Specific cover for forensic investigation
 - Specific cover for regulatory defence
 
-**Critical constraint - penalties typically not insurable.**
+**Critical constraint: cover for penalties is limited.**
 
-Regulatory penalties are generally treated as uninsurable as a matter of public policy. Allowing an insurance policy (or an indemnity) to absorb a fine would blunt its deterrent effect and undermine the individual accountability the penalty is designed to enforce.
+Cover depends on the policy wording and the law. D&O wordings exclude amounts that are uninsurable at law, and some exclude criminal fines expressly. Some Singapore D&O wordings cover civil fines and penalties imposed on an individual insured person, but only where the law allows them to be insured.
 
 **The practical implication for SMEs:**
 - Defence and investigation costs: typically covered (subject to exclusions)
 - Settlement of regulatory composition: typically NOT covered
-- Civil penalty: typically NOT covered
+- Civil penalty: some D&O wordings cover civil penalties imposed on an individual insured person where insurable by law; that extension names insured persons, not the company
 - Criminal fines: NOT covered (insurance against criminal penalties is itself problematic)
 - Specific carve-outs may exist for purely defence-related matters
 
@@ -182,13 +182,13 @@ Regulatory penalties are generally treated as uninsurable as a matter of public 
 
 Once findings letter is received, several parallel statutory clocks may engage:
 
-**MAS Notice FSM-N05 (1 hour):** "Relevant incident" - system malfunction or IT security incident with severe and widespread impact.
+**MAS Notice on Technology Risk Management, FSM-N23 / FSM-N21 (1 hour):** "Relevant incident" - system malfunction or IT security incident with severe and widespread impact.
 
 **MAS Notice FAA-N17 (5 working days):** Suspicious activity or fraud incident - Form F1 filing.
 
 **STR filing (5 business days):** Suspicious transaction report under AML/CFT framework. For sanctioned parties, 1 business day filing per revised AML/CFT Notices 2025.
 
-**MAS Notice FSM-N05 (14 days):** Root cause and impact analysis report after relevant IT incident.
+**MAS Notice on Technology Risk Management, FSM-N23 / FSM-N21 (14 days):** Root cause and impact analysis report after relevant IT incident.
 
 **PDPA Section 26D (3 calendar days):** Where data breach concurrent with findings.
 
@@ -224,7 +224,7 @@ Once findings letter is received, several parallel statutory clocks may engage:
 
 1. **Substantive response in first 24 hours.** Premature commitment to position before legal review.
 
-2. **D&O notification delayed.** "Circumstance" not notified; next renewal excludes.
+2. **D&O notification delayed.** "Circumstance" not notified; a later claim may fall outside the current policy.
 
 3. **PI notification missed.** Advisory failure findings; PI cover compromised.
 
@@ -234,7 +234,7 @@ Once findings letter is received, several parallel statutory clocks may engage:
 
 6. **Specific deadline assumption.** Generic "1 month" assumed when letter specifies different.
 
-7. **Parallel notification clocks missed.** STR filing, FSM-N05 IT incident notification, etc.
+7. **Parallel notification clocks missed.** STR filing, Technology Risk Management notice (FSM-N23 / FSM-N21) IT incident notification, etc.
 
 8. **Communication leak.** Specific content of findings letter to media or staff before strategy.
 
@@ -260,20 +260,18 @@ For Singapore licensed financial entities receiving MAS findings letter:
 
 7. **Personal exposure assessment** - for executives.
 
-8. **Parallel notification clocks** - STR, FSM-N05, FAA-N17 monitored.
+8. **Parallel notification clocks** - STR, FSM-N23 / FSM-N21, FAA-N17 monitored.
 
 9. **Communication strategy** - MAS, board, staff, clients, media.
 
 10. **Long-term remediation** - sustained, not transactional.
-
-The cost of MAS regulatory crisis is substantial - typical SME licensed entity total cost (defence, remediation, settlement, business impact) SGD 500k-5m+ depending on severity. The cost of pre-incident compliance discipline is bounded - typical compliance programme 5-15% of revenue for licensed entities.
 
 ### Questions to Ask Your Adviser
 
 1. For our D&O policy, is "circumstance" notification language clear and is current cover claims-made framework operational?
 2. For our compliance framework, is current state likely to withstand MAS inspection scrutiny across AML/CFT, conduct, and governance?
 3. For our external counsel, do we have specialist regulatory firm relationship pre-established with retainer?
-4. For our notification clock framework, are STR, FSM-N05, FAA-N17 monitoring procedures in place?
+4. For our notification clock framework, are STR, FSM-N23 / FSM-N21, FAA-N17 monitoring procedures in place?
 5. For our board oversight, is regulatory inspection response governance pre-established?
 
 ### Related Information

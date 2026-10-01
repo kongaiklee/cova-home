@@ -25,7 +25,7 @@ og_description: "Where your SaaS keeps customer data decides its PDPA exposure, 
 
 ### The Sourced Detail
 
-For Singapore-based SaaS companies, data residency is one of the most consequential architectural decisions - affecting customer addressability, regulatory compliance, performance, cost, and insurance posture simultaneously. The decision is increasingly forced by customer requirements rather than purely technical considerations.
+For Singapore-based SaaS companies, data residency is one of the most consequential architectural decisions - affecting customer addressability, regulatory compliance, performance, cost, and insurance posture simultaneously. Customer requirements, as well as technical considerations, can drive the decision.
 
 #### The architectural options
 
@@ -137,7 +137,7 @@ Whether a Singapore Cyber policy with "worldwide" scope covers each of these dep
 - All customer regions
 - All regulatory regimes
 
-A Cyber policy restricted to Singapore will not respond to:
+A Cyber policy whose territory and jurisdiction are limited to Singapore may not respond to:
 - EU regulatory action under GDPR
 - US state regulatory action under CCPA/equivalent
 - Customer claims arising in foreign jurisdictions
@@ -171,9 +171,9 @@ Cyber Liability with regulatory investigation defence cover should address:
 - US state attorney general investigations
 - Industry-specific regulator investigations (MAS for financial customers, etc.)
 
-#### Customer contract typical provisions
+#### Provisions customer contracts can include
 
-Enterprise SaaS MSAs commonly specify:
+Enterprise SaaS MSAs can specify:
 
 **Data residency:**
 - Specific hosting region
@@ -195,7 +195,7 @@ Enterprise SaaS MSAs commonly specify:
 
 **Audit rights:**
 - Customer right to audit
-- Third-party audit reports (SOC 2 Type II typical)
+- Third-party audit reports (for example SOC 2 Type II)
 - Specific compliance attestations
 
 **Termination and data return:**
@@ -231,7 +231,7 @@ Common patterns for Singapore SaaS:
 
 #### The compliance certification ecosystem
 
-For SaaS serving enterprise customers, certifications increasingly drive both customer addressability and insurance underwriting:
+For SaaS serving enterprise customers, the relevant certifications include:
 
 **SOC 2 Type II:**
 - AICPA framework

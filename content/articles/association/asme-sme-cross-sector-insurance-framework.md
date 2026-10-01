@@ -21,7 +21,7 @@ og_description: "ASME is a cross-sector Singapore SME association, not a regulat
 
 > **The Answer in 60 Seconds**
 >
-> The [Association of Small and Medium Enterprises (ASME)](https://www.asme.org.sg) is a non-statutory SME-focused trade association covering Singapore SMEs across all sectors. It complements (and to some extent overlaps with) the [Singapore Business Federation (SBF)](https://www.sbf.org.sg), which is constituted under the Singapore Business Federation Act and serves as Singapore's apex business chamber for cross-sector representation. ASME is not a sectoral regulator and does not impose insurance mandates on members. Membership obligations flow from ASME's own constitution and Code of Conduct. SME members are regulated by their sectoral statutes; common cross-cutting Singapore statutes include the [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), [Limited Liability Partnerships Act 2005](https://sso.agc.gov.sg/Act/LLPA2005), [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968), [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012), [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960), and [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). The SME insurance baseline: statutorily compelled (WICI 2019 under WICA, Third-Party Motor under MVTRC Act, sector-specific licence-condition insurances); contractually required (Public Liability, Property/Fire, Cyber, Group Medical / Personal Accident). ASME partners with insurers and brokers on SME-focused package programmes. The MAS FAA-N02 introducer architecture widens insurance access to SMEs that do not engage an appointed broker. Common SME gaps: micro-SME accessibility (single-director firms often uninsured due to broker-access barriers); WICA-only without common-law employer's liability extension; PL sub-limits inadequate for retail/F&B incident severity; PDPA penalty exposure under the 2020 Amendment Act; D&O missing for SME corporates; Business Interruption under-insured (12-month indemnity period inadequate for supply-chain shocks).
+> The [Association of Small and Medium Enterprises (ASME)](https://www.asme.org.sg) is a non-statutory SME-focused trade association covering Singapore SMEs across all sectors. It complements (and to some extent overlaps with) the [Singapore Business Federation (SBF)](https://www.sbf.org.sg), which is constituted under the Singapore Business Federation Act and serves as Singapore's apex business chamber for cross-sector representation. ASME is not a sectoral regulator and does not impose insurance mandates on members. SME members are regulated by their sectoral statutes; common cross-cutting Singapore statutes include the [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967), [Limited Liability Partnerships Act 2005](https://sso.agc.gov.sg/Act/LLPA2005), [Employment Act 1968](https://sso.agc.gov.sg/Act/EmA1968), [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012), [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960), and [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006). The SME insurance baseline: statutorily compelled (work injury compensation insurance under section 24 of WICA, except for the classes of employees the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers; Third-Party Motor under MVTRC Act; sector-specific licence-condition insurances); contractually required (Public Liability, Property/Fire, Cyber, Group Medical / Personal Accident). MAS Notice FAA-N02 governs introducers used by financial advisers, whose regulated services concern investment products such as life policies, not general insurance such as public liability or property cover. Common SME gaps: WICA-only without common-law employer's liability extension; PL sub-limits inadequate for retail/F&B incident severity; PDPA penalty exposure under the 2020 Amendment Act; D&O missing for SME corporates; Business Interruption under-insured (indemnity period too short for supply-chain shocks).
 
 ### The Sourced Detail
 
@@ -31,26 +31,25 @@ The Association of Small and Medium Enterprises represents Singapore's broadest 
 
 ASME is a non-statutory trade association. Its functions:
 
-- Advocacy on SME policy issues with Enterprise Singapore, MAS, MOM, and other regulatory bodies.
-- Member services including networking, training (typically delivered through external training partners and SkillsFuture-funded programmes), and business-development support.
-- Awards programmes including the SME 500 and Singapore Prestige Brand Awards.
-- ASME Insurance partnerships providing member-discounted access to standard SME insurance programmes.
+- Advocacy for SMEs, bridging the public and the private sectors.
+- Member services including business resources and toolkits, personalised business consultation services, preferential rates to networking events, and ASME Expert Workshops.
+- Awards programmes: the Entrepreneur of the Year Award (with the Rotary Club of Singapore) and the Singapore Prestige Brand Award (with Lianhe Zaobao).
 
 ASME complements rather than competes with the Singapore Business Federation (SBF), which is the apex Singapore business chamber constituted under the Singapore Business Federation Act. SBF represents Singapore's broader business community; ASME focuses specifically on SMEs.
 
-ASME membership is voluntary. Membership does not impose insurance compulsion; it provides access to member benefits including insurance-partner programmes.
+ASME membership is voluntary. Membership does not impose insurance compulsion; it provides access to member benefits.
 
 #### Cross-cutting regulatory framework for Singapore SMEs
 
 SME members are regulated by their sectoral statutes and by cross-cutting Singapore legislation:
 
-**Companies Act 1967.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). Governs incorporated SMEs. Section 145 resident director requirement, section 157 director duty, section 173 director-change filings.
+**Companies Act 1967.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). Governs incorporated SMEs. Section 145 resident director requirement, section 157 director duty, sections 173 and 173A on the register of directors and the company's duty to provide information on its directors.
 
 **Limited Liability Partnerships Act 2005.** Available on [SSO](https://sso.agc.gov.sg/Act/LLPA2005). Governs LLPs.
 
 **Employment Act 1968.** Available on [SSO](https://sso.agc.gov.sg/Act/EmA1968). Governs employment terms, working hours, leave, and other employment matters.
 
-**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less, subject to the excluded classes. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Workplace Safety and Health Act 2006.** Available on [SSO](https://sso.agc.gov.sg/Act/WSHA2006). Employer duty under section 12, principal duty under section 14A, offences and penalties under sections 50 to 52 (see [what changed for sub-contractor SMEs](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)).
 
@@ -74,7 +73,7 @@ For Singapore SMEs across sectors, the operational insurance baseline:
 
 **Statutorily compelled:**
 
-- **WICI 2019** under WICA for manual employees and non-manual employees up to S$2,600 per month, from an MOM Designated Insurer (see [how the list is drawn up and changed](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+- **Work injury compensation insurance** under section 24 of WICA for manual employees and non-manual employees up to S$2,600 per month, subject to the excluded classes, from an MOM Designated Insurer (see [how the list is drawn up and changed](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 - **Third-Party Motor Insurance** under the MVTRC Act 1960 for vehicle fleets.
 - **Sector-specific licence-condition insurances** as applicable.
 
@@ -85,7 +84,7 @@ For Singapore SMEs across sectors, the operational insurance baseline:
   - B2B service contracts.
   - Customer site visits and operations.
   
-  Typical SME PL: S$1 million to S$10 million per occurrence, scaled to operations.
+  PL limits are set per occurrence; a lease may name a minimum (JTC's standard space lease terms, for example, require not less than S$1 million for each and every occurrence).
 
 - **Property and Fire.** For:
   - Landlord requirements.
@@ -95,45 +94,29 @@ For Singapore SMEs across sectors, the operational insurance baseline:
 - **Cyber Liability.** Increasingly required by:
   - Enterprise customers (security questionnaires).
   - PDPA risk management.
-  - CSA Cybersecurity Act framework where applicable.
+ 
 
 - **Group Hospitalisation and Surgical / Group Personal Accident.** For talent retention and (in some sectors) industry baseline.
 
 - **D&O.** For incorporated SMEs, defending directors' personal exposure under Companies Act section 157 and statutory regimes (WSHA, PDPA, CSA).
 
-- **Business Interruption.** Either embedded in Property cover or as separate module. Indemnity period typically 12 months for SMEs; should be extended for supply-chain-dependent operations.
+- **Business Interruption.** Either embedded in Property cover or as separate module. The indemnity period is set in the policy, and supply-chain-dependent operations may need a longer one.
 
-#### The micro-SME accessibility challenge
+#### Introducers, brokers and the Insurance Act
 
-A structural challenge for Singapore SMEs is access to insurance, particularly for micro-SMEs (single-director firms with very small operations). Traditional broker access requires:
+Under the [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001), MAS Notice FAA-N02 sets the rules for financial advisers that appoint introducers. An introducer may introduce a client to a financial adviser, forward the client's particulars with consent and give factual information on investment products (Financial Advisers Regulations, reg 31(12)). Those services concern investment products, which include life policies; general insurance such as public liability, property or work injury cover is not an investment product.
 
-- Minimum premium thresholds.
-- Comprehensive insurance reviews.
-- Documentation requirements.
+The Insurance Act 1966 framework governs licensed insurers and registered insurance brokers. Covarage is not an insurance broker registered under the Insurance Act 1966.
 
-Many micro-SMEs face the position of being:
-- Insurance-eligible in principle.
-- Effectively unable to access broker-mediated cover due to scale.
+#### ASME and insurance
 
-The [Financial Advisers Act 2001](https://sso.agc.gov.sg/Act/FAA2001) FAA-N02 framework provides one route by which insurance access is widened. Under FAA-N02, introducers can connect SMEs to licensed intermediaries without acting as appointed financial advisers. This widens the accessibility of standard SME insurance to firms that do not engage an appointed broker.
+ASME's membership page describes member benefits as business resources and toolkits, personalised business consultation services and preferential rates to networking events; it lists no insurance programme.
 
-The Insurance Act 1966 framework governs licensed insurers and brokers. Covarage is not an Insurance Act 1966-licensed broker.
-
-#### The ASME Insurance-partner programme
-
-ASME partners with insurers and brokers on SME-focused package programmes. These typically include:
-
-- Property and Public Liability bundles.
-- Group Medical and Personal Accident schemes.
-- Cyber and D&O modules.
-
-The specific partnership terms vary; SMEs should verify the current ASME Insurance partners at asme.org.sg before placement.
-
-ASME does not itself underwrite insurance. The partnerships are commercial arrangements with insurers and brokers, providing member-discounted access to standard market products.
+ASME does not itself underwrite insurance.
 
 #### Common claim patterns for SMEs
 
-- **WICI 2019 claims.** Workplace injuries, particularly in F&B, retail, light manufacturing, and services sectors.
+- **Work injury compensation claims.** Workplace injuries, particularly in F&B, retail, light manufacturing, and services sectors.
 - **Public Liability claims.** Slips and falls at retail and F&B premises, customer property damage.
 - **Property claims.** Fire, water damage, theft.
 - **Cyber claims.** Phishing-led wire fraud (Business Email Compromise), ransomware, customer-data breach.
@@ -142,19 +125,19 @@ ASME does not itself underwrite insurance. The partnerships are commercial arran
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Micro-SME uninsured due to broker-access barriers.** Single-director firms often operate without any cover beyond WICI. The MAS FAA-N02 introducer framework widens access; SMEs should engage with introducers or direct insurer-portal options.
+1. **Assuming an FAA-N02 introducer can place general insurance.** MAS Notice FAA-N02 governs introducers for financial advisory services, which concern investment products such as life policies; public liability or property cover is not an investment product.
 
-2. **WICA at statutory floor without common-law employer's liability extension.** White-collar staff above the S$2,600 threshold are not within WICA scope; common-law extension is required.
+2. **WICA at statutory floor without common-law employer's liability extension.** WICA covers employees regardless of salary, so non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month can still claim under it; insuring them is the employer's choice, and the employer must compensate a valid claim either way. Cover for common law liabilities is optional; MOM suggests discussing a rider for them with the WIC insurer.
 
-3. **PL sub-limits inadequate for retail / F&B incident severity.** Mass food poisoning or slip-and-fall claims at high-footfall premises can exceed S$1 million.
+3. **PL sub-limits inadequate for retail / F&B incident severity.**
 
 4. **PDPA penalty exposure under the 2020 Amendment Act.** Section 48J penalties up to 10% of Singapore turnover for large organisations; SMEs should assess penalty-defence cover.
 
 5. **D&O missing for SME corporates.** Companies Act section 157 director duty applies regardless of company size. SME directors face personal exposure for company-level decisions.
 
-6. **Business Interruption indemnity period inadequate.** 12-month standard SME BI may be insufficient for supply-chain-dependent operations or specialised premises.
+6. **Business Interruption indemnity period inadequate.** A short indemnity period may be insufficient for supply-chain-dependent operations or specialised premises.
 
-7. **Sector-specific licence-condition insurance unmet.** Employment Agencies Act, Private Security Industry Act, Estate Agents Act, and others impose specific cover requirements.
+7. **Sector-specific licence-condition insurance unmet.** For example, an estate agent must hold professional indemnity insurance as a licensing criterion, and MOM's employment agency licence conditions require medical insurance for a domestic worker in the agency's care during a transition period.
 
 8. **Property under-insured triggering average clause.** Inflation in equipment and contents value can leave SMEs in average-clause exposure.
 
@@ -164,21 +147,19 @@ ASME does not itself underwrite insurance. The partnerships are commercial arran
 
 ### What This Means for Your Business
 
-For a Singapore SME, the structural priority is the operational insurance baseline aligned with regulatory and contractual obligations: WICI 2019 from an MOM Designated Insurer; PL adequate for premises and operations; Property for assets and premises; Cyber for operational and data exposure; D&O for incorporated SMEs; Group Medical and PA for talent.
+For a Singapore SME, the structural priority is the operational insurance baseline aligned with regulatory and contractual obligations: work injury compensation insurance from an MOM designated insurer where WICA requires it; PL adequate for premises and operations; Property for assets and premises; Cyber for operational and data exposure; D&O for incorporated SMEs; Group Medical and PA for talent.
 
-For micro-SMEs, the MAS FAA-N02 introducer framework offers access to standard SME insurance through introducers, without requiring engagement of an appointed broker.
-
-For ASME-member SMEs, the ASME Insurance-partner programmes offer member-discounted access. Comparative quotes from alternative brokers, direct insurer portals, or introducers should be considered at renewal to ensure competitive placement.
+Comparative quotes from alternative brokers, direct insurer portals or insurers' agents should be considered at renewal to ensure competitive placement.
 
 ### Questions to Ask Your Adviser
 
 1. For our SME, is the operational insurance baseline (WICI, PL, Property, Cyber, D&O, Group Medical/PA) in place at appropriate limits?
-2. Do we have a common-law employer's liability extension for white-collar staff above the WICA S$2,600 threshold?
+2. Have we decided whether to insure non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month (WICA still covers them, and we must compensate a valid claim whether or not they are insured), and do we want cover for common law liabilities?
 3. For our retail or F&B premises (if applicable), is PL sized for credible incident severity?
 4. For PDPA compliance, is our Cyber cover adequate for regulatory-defence and notification-cost exposure under section 48J?
 5. For incorporated SMEs, is D&O cover in place for director personal exposure under Companies Act section 157?
 6. For sector-specific licensing (employment agency, security, estate agent, travel, healthcare), are specific licence-condition insurances addressed?
-7. At renewal, are we comparing terms across multiple access channels (broker, direct insurer, FAA-N02 introducer) for competitive placement?
+7. At renewal, are we comparing terms across multiple access channels (broker, direct insurer, insurer's agent) for competitive placement?
 
 ### Related Information
 

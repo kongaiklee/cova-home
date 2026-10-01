@@ -70,7 +70,7 @@ The accommodation sector spans full-service hotels, boutique hotels, hostels, an
 
 PMS breach scenarios are frequent in hospitality industry globally; cover scope is material.
 
-**WICA** - all employees: front desk, housekeeping, F&B, maintenance, management.
+**WICA** - the employees of a hotel-keeper, the person granted a licence to keep or manage a hotel under section 7 of the [Hotels Act 1954](https://sso.agc.gov.sg/Act/HA1954), are a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude from the duty to insure. Where the hotel-keeper is the employer, it is not required to insure its front desk, housekeeping, F&B, maintenance and management staff, remains liable to pay them compensation under WICA, and may hold cover by choice. Where a manager holds the licence and a company employs the staff, the Regulations' words do not clearly place those staff in this class.
 
 **Group Medical / Group PA** - voluntary employer-paid cover.
 

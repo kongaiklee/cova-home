@@ -21,7 +21,7 @@ og_description: "A joint venture breaking down puts IP, contracts and liabilitie
 
 > **The Answer in 60 Seconds**
 >
-> The Singapore SME is in a joint venture (incorporated SPV or contractual JV) or partnership that has broken down. JV agreement governs but disputes have escalated; IP, customer contracts, shared liabilities, and insurance are entangled. The [Partnership Act 1890](https://sso.agc.gov.sg/Act/PA1890) governs general partnerships (sections 5 partner as agent, 9 joint liability, 17 retiring-partner liability, 19 variation by consent, 25 majority expulsion only by express agreement, 26 partnership-at-will dissolution by notice, 32 to 35 dissolution mechanics including section 35 just-and-equitable). The [Limited Liability Partnerships Act 2005](https://sso.agc.gov.sg/Act/LLPA2005) governs LLPs (section 4 separate legal personality, section 9 partner as agent, section 10 mutual rights default to First Schedule, First Schedule paragraph 11 no majority expulsion absent agreement). For JV companies, [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 216 oppression applies to deadlock (per *Ho Yew Kong v Sakae Holdings Ltd* [2018] SGCA 33). Insurance triggers: JV-named D&O for defence of JV directors; run-off cover for JV dissolution; Crime / Fidelity if dispute reveals misappropriation; Professional Indemnity if JV provides professional services. Singapore dispute-resolution: [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg) is the dominant arbitration venue; [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg) and [Singapore International Mediation Centre (SIMC)](https://www.simc.com.sg) provide institutional mediation. Day-One workflow: JV agreement review (dispute resolution clause, deadlock provision, termination triggers); customer and supplier contract review for change-of-control or JV-dissolution clauses; bank-account preservation; IP register and ownership clarification; D&O insurer notification.
+> The Singapore SME is in a joint venture (incorporated SPV or contractual JV) or partnership that has broken down. JV agreement governs but disputes have escalated; IP, customer contracts, shared liabilities, and insurance are entangled. The [Partnership Act 1890](https://sso.agc.gov.sg/Act/PA1890) governs general partnerships (sections 5 partner as agent, 9 joint liability, 17 retiring-partner liability, 19 variation by consent, 25 majority expulsion only by express agreement, 26 partnership-at-will dissolution by notice, 32 to 35 dissolution mechanics including section 35 just-and-equitable). The [Limited Liability Partnerships Act 2005](https://sso.agc.gov.sg/Act/LLPA2005) governs LLPs (section 4 separate legal personality, section 13 partner as agent, section 14 mutual rights default to First Schedule, First Schedule paragraph 11 no majority expulsion absent agreement). For JV companies, [Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967) section 216 lets a member apply where the company's affairs are conducted oppressively or in disregard of the member's interests; *Ho Yew Kong v Sakae Holdings Ltd* [2018] SGCA 33 applied it to a JV company whose money was diverted. Insurance triggers: JV-named D&O for defence of JV directors; run-off cover for JV dissolution; Crime / Fidelity if dispute reveals misappropriation; Professional Indemnity if JV provides professional services. Singapore dispute-resolution: [Singapore International Arbitration Centre (SIAC)](https://www.siac.org.sg) is the dominant arbitration venue; [Singapore Mediation Centre (SMC)](https://www.mediation.com.sg) and [Singapore International Mediation Centre (SIMC)](https://www.simc.com.sg) provide institutional mediation. Day-One workflow: JV agreement review (dispute resolution clause, deadlock provision, termination triggers); customer and supplier contract review for change-of-control or JV-dissolution clauses; bank-account preservation; IP register and ownership clarification; D&O insurer notification.
 
 ### The Sourced Detail
 
@@ -73,15 +73,15 @@ The procedural shape:
 
 **Section 4** - separate legal personality of LLP.
 
-**Section 9** - partner as agent of LLP.
+**Section 13**: partner as agent of LLP.
 
-**Section 10** - mutual rights and duties of partners default to First Schedule unless LLP agreement varies.
+**Section 14**: mutual rights and duties of partners default to First Schedule unless LLP agreement varies.
 
 **First Schedule paragraph 11** - no majority expulsion of a partner unless LLP agreement expressly provides.
 
 **Limited Partnerships Act 2008.** Available on [SSO](https://sso.agc.gov.sg/Act/LPA2008). Governs limited partnerships (LPs).
 
-**Companies Act 1967 for JV companies.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). For JV companies (incorporated SPVs), all Companies Act provisions apply: section 216 oppression for deadlock, section 216A derivative action, sections 76 to 76K share buyback for buy-out mechanisms.
+**Companies Act 1967 for JV companies.** Available on [SSO](https://sso.agc.gov.sg/Act/CoA1967). For JV companies (incorporated SPVs), all Companies Act provisions apply: section 216 where the company's affairs are conducted oppressively or in disregard of a member's interests, section 216A derivative action, sections 76 to 76K share buyback for buy-out mechanisms.
 
 #### The leading authorities
 
@@ -91,11 +91,11 @@ The procedural shape:
 
 **Turf Club Auto Emporium Pte Ltd v Yeo Boong Hua [2018] SGCA 44.** Available on [elitigation.sg](https://www.elitigation.sg). Arising from a joint-venture dispute and the breach of a consent order, the Court of Appeal's leading authority on the availability of Wrotham Park (negotiating) damages for breach of contract where the innocent party cannot establish ordinary pecuniary loss.
 
-For SMEs in JV disputes, these three authorities frame the substantive analysis: section 216 oppression for deadlock and unfair conduct (Ho Yew Kong v Sakae Holdings); the test for when fiduciary obligations arise between business participants (Tan Yok Koon); and the remedial reach of Wrotham Park damages where a JV breach causes no provable pecuniary loss (Turf Club).
+For SMEs in JV disputes, these three authorities frame the substantive analysis: section 216 oppression for oppressive conduct of a JV company's affairs, such as diverting its money (Ho Yew Kong v Sakae Holdings); the test for when fiduciary obligations arise between business participants (Tan Yok Koon); and the remedial reach of Wrotham Park damages where a JV breach causes no provable pecuniary loss (Turf Club).
 
 #### JV agreement architecture
 
-Most Singapore SME JV agreements (whether for incorporated SPV JVs or contractual JVs) include the following architectural elements:
+A JV agreement (whether for an incorporated SPV JV or a contractual JV) can include the following architectural elements:
 
 **Capital contribution and ownership.** Initial capital, drawdown schedule, top-up provisions, dilution mechanics.
 
@@ -107,7 +107,7 @@ Most Singapore SME JV agreements (whether for incorporated SPV JVs or contractua
 
 **Exit mechanics.** Buy-sell provisions for departure events: tag-along, drag-along, right of first refusal, pre-emption.
 
-**Dispute resolution.** Tiered escalation: discussion, mediation (typically SIMC or SMC), arbitration (typically SIAC) for non-section-216 disputes.
+**Dispute resolution.** Tiered escalation: discussion, mediation (for example at SIMC or SMC), arbitration (for example at SIAC) for non-section-216 disputes.
 
 **IP allocation.** Pre-JV IP retained by contributing party; JV-developed IP owned by the JV; post-JV IP allocation on dissolution.
 
@@ -117,11 +117,11 @@ Most Singapore SME JV agreements (whether for incorporated SPV JVs or contractua
 
 #### Insurance triggers
 
-**JV-named D&O.** Defends JV directors named in oppression action, derivative action, or other litigation arising from JV affairs. Singapore market D&O for SPV JVs typically procured by the JV company itself, with parent-party reimbursement.
+**JV-named D&O.** Defends JV directors named in oppression action, derivative action, or other litigation arising from JV affairs. D&O for JV directors can be bought by the JV company itself; a parent's own D&O policy may also extend to directors it places on an outside entity such as a JV, in excess of the JV's own indemnity and insurance (for example, the outside directorship extension in Chubb Insurance Singapore's Elite D&O wording).
 
-**Run-off cover.** On JV dissolution, run-off cover protects departing directors for past acts during their tenure on the JV board. Standard 6-year run-off.
+**Run-off cover.** On JV dissolution, run-off cover protects departing directors for past acts during their tenure on the JV board. The run-off period is set by the wording; for example, DUAL Asia's Singapore D&O wording gives retired insured persons an 84-month discovery period at no additional premium where the policy is not renewed and no other discovery period is operating.
 
-**Crime / Fidelity.** If dispute reveals misappropriation by one partner (diversion of JV funds, theft of JV assets), Crime cover responds (see [loss-discovered vs loss-sustained triggers](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) and [the day-one steps after internal fraud](/crisis/internal-fraud-cfo-embezzlement-day-one-workflow)).
+**Crime / Fidelity.** If dispute reveals misappropriation by one partner (diversion of JV funds, theft of JV assets), Crime cover may respond where the person responsible is within the policy's definition of employee or the loss falls within a named third-party crime cover such as computer or funds transfer fraud (see [loss-discovered vs loss-sustained triggers](/comparison/fidelity-guarantee-loss-discovered-vs-loss-sustained-singapore) and [the day-one steps after internal fraud](/crisis/internal-fraud-cfo-embezzlement-day-one-workflow)).
 
 **Professional Indemnity.** If JV provides professional services, PI responds to claims by JV clients arising from professional negligence. PI cover continues through the JV's operational period; on dissolution, run-off cover preserves protection for past acts.
 
@@ -165,7 +165,7 @@ Dispute trajectory:
 - Week 2: formal notice of breach issued to P2 under the SHA.
 - Week 4: mediation under SIMC initiated.
 - Week 12: mediation unsuccessful; SIAC arbitration filed for the breach-of-SHA element.
-- Week 12: section 216 oppression action filed in Singapore High Court for the oppression and deadlock element.
+- Week 12: section 216 oppression action filed in Singapore High Court for the oppression element.
 - Month 6: shotgun clause invoked by SME. SME offers to buy P2's 50% at S$X. P2 has 30 days to choose: buy at S$X or sell at S$X.
 - Month 7: P2 elects to sell at S$X (the price reflected market value at the time).
 - Months 8 to 12: SIAC arbitration and section 216 action settled as part of the broader buy-out negotiation; settlement allocates customer relationships and IP per the SHA terms.
@@ -191,11 +191,11 @@ Insurance response:
 
 7. **Treating the JV as a personal relationship rather than a contractual one.** Founder-friendly JVs often operate without formal documentation in early stages. When disputes arise, the absence of documentation favours the better-resourced or better-documented party.
 
-8. **Failing to procure run-off cover on JV dissolution.** Outgoing JV directors face continuing claim exposure for past acts. Without 6-year run-off, claims surfacing post-dissolution may not be covered.
+8. **Failing to procure run-off cover on JV dissolution.** Outgoing JV directors face continuing claim exposure for past acts. Without run-off cover, claims surfacing post-dissolution may not be covered.
 
 9. **Public communications during the dispute.** Customer and market communications about a JV dispute can damage the JV's commercial position and feed into the dispute itself. Coordinated communications managed by legal counsel.
 
-10. **Underestimating the duration of dissolution.** JV dissolution typically takes 6 to 18 months from initial dispute to substantive resolution. The SME's parallel operations must continue through this period.
+10. **Underestimating the duration of dissolution.** JV dissolution can take months from initial dispute to substantive resolution. The SME's parallel operations must continue through this period.
 
 ### What This Means for Your Business
 

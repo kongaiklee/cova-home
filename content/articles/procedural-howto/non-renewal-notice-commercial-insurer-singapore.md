@@ -21,7 +21,7 @@ og_description: "A non-renewal notice is a Singapore insurer exercising a contra
 
 > **The Answer in 60 Seconds**
 >
-> A **non-renewal notice** is the insurer telling you it will not offer renewal terms when your current commercial policy expires. It is the insurer's contractual right - a policy runs for its term, and neither side is obliged to renew - and it is **different** from a mid-term cancellation, from a renewal offered on tougher terms, and from a dispute over how a claim was handled. Under Singapore market practice the notice usually arrives some weeks before expiry, often after a loss-affected year or because the insurer is re-shaping its book. What matters is what you do next, and quickly: confirm the **expiry date** and the gap you are working against; ask the insurer, in writing, for your **loss runs** (claims history, typically the last five years) and the **reason** for non-renewal; brief your broker or adviser to **re-market** the risk to other insurers, including the Lloyd's Asia Scheme for harder-to-place risks; evaluate replacement quotes on cover as well as price; and **bind replacement cover before the old policy expires** so there is no gap. If you believe the non-renewal itself was improper, dispute options exist - but the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) only takes business complaints from a narrowly defined "small business", so most commercial SMEs fall outside it. Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser, who gives the advice and places the cover.
+> A **non-renewal notice** is the insurer telling you it will not offer renewal terms when your current commercial policy expires. It is the insurer's contractual right - a policy runs for its term, and neither side is obliged to renew - and it is **different** from a mid-term cancellation, from a renewal offered on tougher terms, and from a dispute over how a claim was handled. A non-renewal can follow a loss-affected year or a change in the insurer's appetite for the risk. What matters is what you do next, and quickly: confirm the **expiry date** and the gap you are working against; ask the insurer, in writing, for your **loss runs** (claims history, for example the last three or five years, depending on the proposal form) and the **reason** for non-renewal; brief your broker or adviser to **re-market** the risk to other insurers, including the Lloyd's Asia Scheme for harder-to-place risks; evaluate replacement quotes on cover as well as price; and **bind replacement cover before the old policy expires** so there is no gap. If you believe the non-renewal itself was improper, dispute options exist, but the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) takes business complaints only from sole proprietors and a narrowly defined "small business", and its Terms of Reference exclude "Commercial Decisions", which include insurance underwriting. Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser, who gives the advice and places the cover.
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ A commercial insurance policy is written for a fixed term, usually twelve months
 
 It should not be confused with:
 
-- **Mid-term cancellation by the insurer** - ending the policy *before* expiry, which insurers can generally do only in limited circumstances (for example non-payment of premium, or fraud / material misrepresentation) and on notice.
+- **Mid-term cancellation by the insurer** - ending the policy *before* expiry, which commercial wordings can allow the insurer to do by written notice, for example 14 days' notice by registered letter in MSIG's SUMO policy and 30 days' notice in AIG's Commercial General Liability policy.
 - **A renewal offer on changed terms** - the insurer is willing to renew, but with a higher premium, a larger excess, reduced sub-limits or new exclusions. That is a negotiation, not a non-renewal.
 - **A dispute over a claim** - disagreement about how a particular claim was handled or paid is a separate process from non-renewal.
 
@@ -45,7 +45,7 @@ Non-renewal at expiry is governed by the **contract**, not by a statute that com
 
 - **Disclosure to the replacement insurer.** Approaching a new insurer restarts the duty of disclosure. Singapore applies the duty of utmost good faith and the "prudent insurer" test of materiality drawn from section 18 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906), which Singapore courts apply to insurance contracts generally. You must disclose every material circumstance - including the claims history, and the fact and reason of the non-renewal if asked - or the new insurer may later avoid the policy.
 - **Who is authorised to write the cover.** Replacement cover should be placed with an insurer authorised by MAS. The [MAS Financial Institutions Directory](https://eservices.mas.gov.sg/fid/institution?sector=Insurance) is the live record of authorised direct insurers, and the **Lloyd's Asia Scheme**, established under [Part 2A of the Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), is a route to Lloyd's syndicate capacity for specialty and harder-to-place risks.
-- **Dispute resolution.** If you believe the non-renewal was improper, the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) is the low-cost dispute scheme - but, as set out below, its jurisdiction over *business* complaints is narrow.
+- **Dispute resolution.** If you believe the non-renewal was improper, the [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) is the low-cost dispute scheme, but, as set out below, its jurisdiction over *business* complaints is narrow, and its Terms of Reference exclude "Commercial Decisions", which include insurance underwriting.
 
 #### A practical response timeline
 
@@ -53,7 +53,7 @@ The intervals below are working guidance, not legal deadlines; compress them if 
 
 **On receipt (first day or two).** Record the date and how the notice arrived. Identify the **policy expiry date** and count the days to it - that is your real deadline. Acknowledge the notice to the insurer and alert whoever owns insurance decisions internally.
 
-**Within about a week.** Ask the insurer, in writing, for: your **loss runs** (claims history, usually five years), the **reason** for non-renewal, and whether it would consider renewal on any terms. Pull your current policy schedule, endorsements and premium history together for the broker. Loss runs are the single most time-critical document - no insurer will quote seriously without them.
+**Within about a week.** Ask the insurer, in writing, for: your **loss runs** (claims history, for example the last three or five years, depending on the proposal form), the **reason** for non-renewal, and whether it would consider renewal on any terms. Pull your current policy schedule, endorsements and premium history together for the broker. Loss runs are time-critical, because insurers' proposal forms ask for your claims history.
 
 **The following two to three weeks.** Brief your broker or adviser fully - current cover, claims history, any operational changes, and the cover you need - and have them **re-market** the risk to a range of insurers, including the Lloyd's Asia Scheme where the risk is hard to place. A proper submission - a clear risk presentation, the loss runs, and an honest account of any risk improvements - produces better quotes than a thin one.
 
@@ -80,17 +80,17 @@ A gap also has knock-on effects: contracts and tenders often require cover to be
 
 #### If you believe the non-renewal was wrong: dispute options
 
-If you think the insurer acted improperly, consider the dispute routes - but check **FIDReC eligibility** first.
+If you think the insurer acted improperly, consider the dispute routes, but check **FIDReC eligibility** first. FIDReC's Terms of Reference exclude "Commercial Decisions", defined to include an assessment of risk such as insurance underwriting, so a complaint about the decision not to renew may fall outside FIDReC even for an eligible business.
 
-FIDReC handles disputes between financial institutions and **consumers**, and from 1 July 2025 its jurisdiction was extended to **small businesses** and non-large charities. FIDReC's definition of a "small business" is narrow: a business entity registered and operating in Singapore with a **group annual sales turnover of S$1 million or less in each of the two financial years immediately preceding** the current one. That is far below the turnover thresholds many people associate with the word "SME", so **most commercial SMEs do not qualify** to bring a dispute to FIDReC.
+FIDReC handles disputes between financial institutions and **consumers**, and from 1 July 2025 its jurisdiction was extended to **small businesses** and non-large charities. FIDReC's definition of a "small business" is narrow: a business entity registered and operating in Singapore with a **group annual sales turnover of S$1 million or less in each of the two financial years immediately preceding** the current one. That is far below the turnover thresholds many people associate with the word "SME", so many SMEs do not qualify to bring a dispute to FIDReC, although FIDReC estimated that over 200,000 small businesses became eligible.
 
-Where FIDReC *is* available, its adjudication award limit is **S$150,000 per claim** for claims filed on or after 1 July 2024 (it was S$100,000 for claims filed before that date). Where FIDReC is not available - the position for most commercial SMEs - the alternatives are direct negotiation, mediation, arbitration where the contract provides for it, or civil litigation. Verify the current eligibility criteria and limits on the FIDReC website before relying on them.
+Where FIDReC *is* available, its adjudication award limit is **S$150,000 per claim** for claims filed on or after 1 July 2024 (it was S$100,000 for claims filed before that date). Where FIDReC is not available, the alternatives are direct negotiation, mediation, arbitration where the contract provides for it, or civil litigation. Verify the current eligibility criteria and limits on the FIDReC website before relying on them.
 
 ### Common Mistakes / What Goes Wrong
 
 1. **Reacting slowly.** Letting days pass before identifying the expiry date and requesting loss runs, compressing the time available to re-market.
 
-2. **Not getting loss runs early.** No insurer quotes seriously without claims history; a late request delays every quote.
+2. **Not getting loss runs early.** Insurers' proposal forms ask for claims history, so a late request can delay quotes.
 
 3. **Re-marketing too narrowly.** Approaching only one or two insurers instead of testing the market - including the Lloyd's Asia Scheme for difficult risks.
 
@@ -100,7 +100,7 @@ Where FIDReC *is* available, its adjudication award limit is **S$150,000 per cla
 
 6. **Breaking claims-made continuity.** Losing the retroactive date, or failing to notify known circumstances to the expiring insurer.
 
-7. **Assuming FIDReC is available.** Treating FIDReC as an option without checking the S$1 million small-business turnover ceiling.
+7. **Assuming FIDReC is available.** Treating FIDReC as an option without checking the S$1 million small-business turnover ceiling and the exclusion of Commercial Decisions, such as insurance underwriting.
 
 8. **Under-disclosing to the new insurer.** Not disclosing the claims history or the non-renewal, risking avoidance of the replacement policy.
 
@@ -120,7 +120,7 @@ For a Singapore SME that has received a non-renewal notice, the task is a discip
 
 6. **Bind before expiry** - and protect the retroactive date on any claims-made cover.
 
-7. **Check FIDReC eligibility** against the S$1 million turnover definition before assuming it is open to you.
+7. **Check FIDReC eligibility** against the S$1 million turnover definition, and whether the complaint is a Commercial Decision it cannot hear, before assuming it is open to you.
 
 8. **Disclose fully** to the replacement insurer.
 

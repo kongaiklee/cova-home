@@ -209,7 +209,7 @@ Covarage is a Singapore B2B insurance operations platform. We do not advise on, 
 ## Related Information
 - [The Scam Wave Reaches the Company Account: Money-Mule Offences, Business Email Compromise and What the Published Wordings Say](/emerging-risk/scam-wave-money-mule-exposure-singapore-sme)
 
-- [MAS AIRG, IMDA MGF, EU AI Act: The 2026-2027 AI Compliance Timeline Every Singapore SME Now Faces](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
+- [MAS AIRG, IMDA MGF, EU AI Act: The AI Compliance Timeline for Singapore SMEs](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
 - [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
 - [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
 - [AI-Generated Content and Copyright: Where a Singapore SME's Exposure Sits in 2026, and What the Published Wordings Say](/emerging-risk/ai/ai-generated-content-copyright-ip-infringement-singapore-sme)

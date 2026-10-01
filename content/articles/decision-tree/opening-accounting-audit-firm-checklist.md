@@ -21,7 +21,7 @@ og_description: "An accounting or audit firm's cover is part professional regula
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public accountants conducting statutory audits must register with the [Accounting and Corporate Regulatory Authority (ACRA) - Public Accountants Oversight Committee (PAOC)](https://www.acra.gov.sg/) under the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) and **mandatory PI insurance** is a registration condition for public accountants and accounting entities. Beyond the mandatory PI: **Public Liability** for office, **WICA** for staff, **Cyber Liability** with attention to client financial data sensitivity (audit firms hold some of the most commercially sensitive data of any service business), **Property/Fire** for office, **D&O** as practice scales, and **Crime / Fidelity Guarantee** for client trust funds where applicable. For firms providing tax advice, restructuring, insolvency, or specialist advisory work, additional PI considerations apply. Verify current PI minimums and registration requirements directly on the ACRA portal before launching.
+> A Singapore accounting or audit firm has insurance requirements that are partly mandatory by professional regulation and partly commercial. Public accountants conducting statutory audits must register with the [Accounting and Corporate Regulatory Authority (ACRA) - Public Accountants Oversight Committee (PAOC)](https://www.acra.gov.sg/) under the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004) and **mandatory PI insurance** is a condition of approval for an accounting corporation or accounting LLP (Accountants Act sections 17, 18A and 28); the Act sets no PI requirement for an individual public accountant or for an accounting firm run as a sole proprietorship or partnership. Beyond the mandatory PI: **Public Liability** for office, **WICA** for staff, **Cyber Liability** with attention to client financial data sensitivity (audit firms hold some of the most commercially sensitive data of any service business), **Property/Fire** for office, **D&O** as practice scales, and **Crime / Fidelity Guarantee** for client trust funds where applicable. For firms providing tax advice, restructuring, insolvency, or specialist advisory work, additional PI considerations apply. Verify current PI minimums and registration requirements directly on the ACRA portal before launching.
 
 ### The Sourced Detail
 
@@ -42,23 +42,22 @@ For founder-practitioners deciding the firm's scope, this affects both regulator
 Per the [Accountants Act 2004](https://sso.agc.gov.sg/Act/AA2004), only Public Accountants registered with PAOC may perform statutory audits. Registration requirements include:
 
 **Individual Public Accountant registration:**
-- Singapore citizen or permanent resident (or as permitted by exception)
-- Approved professional qualification (e.g. ISCA CA designation, or recognised foreign equivalent)
+- At least 21 years old
+- A professional examination (the Singapore CA Qualification or a recognised equivalent)
 - Practical experience (minimum specified hours of audit experience)
 - Approved audit training programme completion
-- Practising Certificate from ISCA
-- Mandatory PI insurance
+- ISCA membership with the CA (Singapore) designation (registration as a chartered accountant under the ACRA Act 2004)
 - Continuing Professional Education compliance
 
 **Accounting entity registration:**
 - Approved structure (sole proprietorship, partnership, LLP, or accounting corporation)
 - At least one Public Accountant as principal
-- Mandatory PI insurance for the entity
+- PI insurance of at least the section 28 minimum, for an accounting corporation or accounting LLP
 - Compliance with [Accountants (Public Accountants) Rules](https://sso.agc.gov.sg/SL/AA2004-R1) and [Code of Professional Conduct and Ethics](https://www.acra.gov.sg/)
 
 #### The mandatory PI layer
 
-Professional indemnity for Public Accountants is mandatory under the PAOC framework. Specific minimums and structure are set by PAOC; verify current requirements at [ACRA's Public Accountants page](https://www.acra.gov.sg/) before placing cover.
+Professional indemnity is mandatory for accounting corporations and accounting LLPs under section 28 of the Accountants Act, which sets the minimum as the highest of S$1 million, S$500,000 for every corporate practitioner, and 2.5 times the last completed financial year's gross income (capped at S$50 million); verify current requirements at [ACRA's Public Accountants page](https://www.acra.gov.sg/) before placing cover.
 
 **What mandatory PI typically covers:**
 - Negligent audit, review, or compilation work
@@ -68,14 +67,14 @@ Professional indemnity for Public Accountants is mandatory under the PAOC framew
 - Loss of documents
 
 **What it doesn't cover:**
-- Fraudulent or dishonest acts (subject to specific scheme provisions)
+- Fraud or dishonesty, depending on the wording (the Accountants Act's definition of professional indemnity insurance includes insurance against liability due to fraud or dishonesty)
 - Bodily injury (PL)
 - Employment disputes (EPL)
 - Specific carve-outs per wording
 
 **Top-up PI:**
 
-Many firms - particularly those auditing larger entities, public-interest entities, or specialist work - purchase top-up PI above the mandatory minimum. The top-up structure typically:
+Firms auditing larger entities or public-interest entities, or doing specialist work, can buy top-up PI above the mandatory minimum. The top-up structure typically:
 - Sits above the mandatory cover
 - Provides higher per-claim and aggregate limits
 - May offer broader wording on specific exposures
@@ -134,7 +133,7 @@ Cyber Liability for accounting/audit firms must address:
 **5. Cross-border data flows** - for clients with overseas operations.
 
 Recommended Cyber stack:
-- Standalone Cyber with appropriate limits (S$3M-S$10M+ for material practice)
+- Standalone Cyber with limits set for the practice
 - BEC / Social Engineering Fraud cover
 - BI for system/operational disruption
 - PDPA Section 26D notification cover
@@ -153,7 +152,7 @@ For LLPs and accounting corporations, D&O addresses governance-related claims th
 #### Specific service line considerations
 
 **Statutory audit:**
-- Mandatory PAOC PI
+- PI of at least the section 28 minimum (mandatory for an accounting corporation or accounting LLP)
 - Highest exposure category
 - Top-up PI typical for larger client base
 - Specific wording for audit-related exposures
@@ -199,24 +198,24 @@ Fidelity Guarantee covering employee dishonesty is appropriate. See [how to clai
 
 The Institute of Singapore Chartered Accountants is the professional body for accountants. ISCA:
 - Awards CA Singapore designation
-- Administers Practising Certificate for some categories
+- Runs the Public Practice Programme that PAOC requires before public accountant registration
 - Sets professional standards
 - Provides Continuing Professional Education
 - Has disciplinary jurisdiction over members
 
-ISCA membership and Practising Certificate requirements differ from PAOC public accountant registration; some practitioners hold both, others hold ISCA without PAOC registration (e.g. those not performing statutory audits).
+ISCA membership with the CA (Singapore) designation is a requirement for registration as a public accountant; an ISCA member need not be a public accountant (for example, one not performing statutory audits).
 
 #### Stage-by-stage insurance build
 
 **Pre-launch:**
 - ACRA business registration
 - For audit work: PAOC registration application
-- ISCA membership consideration
-- Mandatory PI in place
+- ISCA membership (required for public accountant registration)
+- PI in place (mandatory for an accounting corporation or accounting LLP)
 - Other commercial insurance procured
 
 **Year 1 (small firm, 1-5 staff):**
-- Mandatory PI (for audit work)
+- Mandatory PI (for an accounting corporation or accounting LLP)
 - Top-up PI if practice warrants
 - Public Liability
 - WICA
@@ -240,16 +239,14 @@ ISCA membership and Practising Certificate requirements differ from PAOC public 
 For typical Singapore accounting/audit firms:
 
 **Small firm (1-5 partners/staff, mostly compilation/tax/SME audits):**
-- Mandatory PI: per scheme calculation
+- Mandatory PI (accounting corporations and accounting LLPs): at least the section 28 minimum
 - Top-up PI: optional
-- Other commercial insurance: S$8,000-S$25,000
-- **Total annual insurance budget** typically S$15,000-S$50,000+
+- Other commercial insurance
 
 **Mid-size firm (10-25 staff, mix of audit/tax/advisory):**
 - Higher PI limits
-- Comprehensive other lines: S$20,000-S$60,000
-- Cyber with BEC cover: S$10,000-S$30,000
-- **Total: S$50,000-S$150,000+**
+- Comprehensive other lines
+- Cyber with BEC cover
 
 **Larger firm (specialist, public-interest entity audits, etc.):**
 - Comprehensive programme

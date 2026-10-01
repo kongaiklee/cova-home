@@ -21,25 +21,25 @@ og_description: "Axe throwing, archery, escape rooms and VR arcades put customer
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore axe throwing venue, archery range, escape room, VR arcade, ninja course, or similar experiential entertainment venue requires: business registration with [ACRA](https://www.bizfile.gov.sg/), a [SCDF](https://www.scdf.gov.sg/) [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate), and [URA](https://www.ura.gov.sg/) zoning compliance. Axes and knives are not categorised as firearms, so a venue is not licensed under the firearms regime - but it should confirm any [SPF](https://www.police.gov.sg/) requirements for its activity. For F&B-paired operations, [SFA](https://www.sfa.gov.sg/) food licensing applies, and liquor service requires a liquor licence under the [Liquor Control (Supply and Consumption) Act 2015](https://sso.agc.gov.sg/Act/LCSCA2015). Insurance baseline: **Public Liability** at elevated limits (S$3M-S$10M typical), **Participant Liability / Treatment Risk** for activity-related injuries, **WICA** for staff, **Property/Fire** with equipment and fit-out cover, **Cyber Liability** for booking and customer data, and **Liquor Liability** where alcohol is served. The most distinctive risk: **weapon-adjacent activity injury exposure** combined with **alcohol service** in many models - a combination insurers underwrite with particular scrutiny.
+> A Singapore axe throwing venue, archery range, escape room, VR arcade, ninja course, or similar experiential entertainment venue requires: business registration with [ACRA](https://www.bizfile.gov.sg/), a [SCDF](https://www.scdf.gov.sg/) [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) where its fit-out involves fire safety works, and [URA](https://www.ura.gov.sg/) zoning compliance. Axes, throwing knives, bows and arrows are listed as weapons under the Guns, Explosives and Weapons Control Act 2021, and possessing a weapon without a licence, class licence or exemption is an offence (section 29), so a venue that uses any of them should confirm with the [SPF](https://www.police.gov.sg/) which licence its activity needs. For F&B-paired operations, [SFA](https://www.sfa.gov.sg/) food licensing applies, and liquor service requires a liquor licence under the [Liquor Control (Supply and Consumption) Act 2015](https://sso.agc.gov.sg/Act/LCSCA2015). Insurance baseline: **Public Liability** at limits set against the activity, **cover for participant injury** during the activity, **WICA** for staff, **Property/Fire** with equipment and fit-out cover, **Cyber Liability** for booking and customer data, and **Liquor Liability** where alcohol is served. The most distinctive risk: **weapon-adjacent activity injury exposure** combined with **alcohol service** in many models. For axe throwing, the class licence under the Guns, Explosives and Weapons Control Act 2021 bars a customer from using or possessing an axe when adversely affected by alcohol.
 
 ### The Sourced Detail
 
-Singapore's experiential entertainment sector - axe throwing, archery, escape rooms, VR arcades, ninja courses, immersive theatre, dart bars, ping pong bars - has expanded significantly with both standalone venues and venues paired with food and beverage operations. The combination of physical activity participation, often alcohol service, and group / corporate event focus creates specific insurance considerations.
+Singapore's experiential entertainment sector - axe throwing, archery, escape rooms, VR arcades, ninja courses, immersive theatre, dart bars, ping pong bars - includes both standalone venues and venues paired with food and beverage operations. The combination of physical activity participation, often alcohol service, and group / corporate event focus creates specific insurance considerations.
 
 #### Activity categories
 
-- **Axe / hatchet throwing** - the most prominent emerging Singapore category, run in dedicated lanes under defined safety protocols.
+- **Axe / hatchet throwing** - run in dedicated lanes under defined safety protocols.
 - **Knife throwing** - a niche category with a specialised setup.
 - **Archery** - established and emerging niches, with their own facility and equipment standards.
-- **Escape rooms** - a mature Singapore market, with puzzle and theme variations.
+- **Escape rooms** - with puzzle and theme variations.
 - **VR arcades** - equipment-intensive, with health considerations such as motion sickness.
 - **Other experiential** - immersive theatre, dart and ping-pong bars, and similar.
 - **F&B-integrated** - many venues pair the activity with a food and beverage operation, which adds commercial complexity.
 
 #### Weapon-adjacent considerations
 
-**Axe and knife throwing.** Axes and knives are **not categorised as firearms**, so an axe-throwing venue is not licensed under the firearms regime. It operates under general premises and operational standards - and the venue should confirm directly with the relevant authorities whether any specific permit applies to its activity.
+**Axe and knife throwing.** Axes and throwing knives are not guns, but both are listed as weapons in the First Schedule to the Guns, Explosives and Weapons Control Act 2021, and possessing a weapon without a licence, class licence or exemption is an offence (section 29). Under the class licence order for sporting or recreational use (S 368/2025), customers of an operator licensed under the Act may hire and use axes at its axe-throwing centre, subject to conditions including a minimum age of 15, proof of parental consent for anyone under 18, use only in the dedicated area under the supervision and in the line of sight of the operator's official, and no use or possession when adversely affected by alcohol. Throwing knives are not covered by that class licence. The venue should confirm the licence it needs with the Singapore Police Force.
 
 The operational standards that matter - and that insurers underwrite on - are the lane and target setup, the safety protocols, PPE, and documentation. Archery operations have their own equipment specifications and range standards.
 
@@ -55,21 +55,20 @@ A venue that serves food and beverage takes on the F&B regulatory layer as well:
 PL responds to the general premises exposures - slip / trip, premises operations, and spectator injuries - and to activity-related incidents: participant injuries during the activity, equipment-related injuries, and contact between participants. For a weapon-adjacent venue it also has to reach axe- and knife-related incidents - rare, but high-severity, with bystander exposure.
 
 **Limit considerations:**
-- Standard limits S$3M-S$10M typical
-- Higher for weapon-adjacent operations
+- Limits set against the activity and the venue's size
 - Landlords may set their own minimums
 
-**Points to confirm with the insurer:** that weapon-adjacent activity is covered (often subject to endorsements), equipment-related claims, and instructor-led activities.
+**Points to confirm with the insurer:** that weapon-adjacent activity is covered, equipment-related claims, and instructor-led activities.
 
-#### The Participant Liability / Treatment Risk layer
+#### The participant injury layer
 
-This is the critical specialist layer. **Standard PL routinely excludes sport, hazardous-activity, and weapon-adjacent participation** - so without dedicated cover, a participant injured during the activity may not be covered at all. Participant Liability provides that activity-injury cover; confirm with the insurer which activity types are within scope and set the limit against the activity.
+This is the critical layer. **Confirm that injury to participants during the activity is covered.** If the PL wording excludes or limits it, a participant injured during the activity may not be covered at all. Confirm with the insurer which activity types are within scope and set the limit against the activity.
 
 #### The alcohol + activity combination
 
-Where alcohol is served alongside a weapon-adjacent or hazardous activity, insurers underwrite with particular scrutiny - and **Liquor Liability** cover is needed for the alcohol-service exposure.
+Where alcohol is served alongside a weapon-adjacent or hazardous activity, whether the liability cover responds to alcohol-related claims depends on its wording, including any **Liquor Liability** extension.
 
-The operational discipline insurers look for is concrete: drink limits during the activity, refusing service to intoxicated patrons, monitoring intoxication before allowing participation, and a clear incident-response process. The alcohol-plus-activity combination is the defining risk of this category, and it is managed operationally before it is insured.
+Operational discipline matters here, and for axe throwing the law sets part of it: under the class licence a customer may not use or possess an axe when adversely affected by alcohol, must use it only in the dedicated area under the supervision and in the line of sight of the operator's official, and must comply with the operator's directions under its safety management plan. Drink limits, refusing service to intoxicated patrons, checking for intoxication before participation and a clear incident-response process support those conditions. The alcohol-plus-activity combination is the defining risk of this category, and it is managed operationally before it is insured.
 
 #### The WICA layer
 
@@ -77,11 +76,11 @@ A venue's workforce is a mix of activity coaches and instructors, F&B service st
 
 **Instructor classification** is the key WICA question - coaches are often engaged as contractors, and whether each is in substance an employee or a genuine contractor follows the operational reality, not the contract label (see [the penalty when a worker is left uninsured](/document-legal/wica-section-25-offence)).
 
-The **high-frequency injuries** are demonstration injuries, equipment-related injuries, maintenance and setup injuries, and injuries sustained while responding to an incident.
+Staff injuries can include demonstration injuries, equipment-related injuries, maintenance and setup injuries, and injuries sustained while responding to an incident.
 
 #### Consent and waiver considerations
 
-Experiential venues use signed waivers - risk acknowledgements with medical disclosure - but their legal effect is limited. Under Singapore common law and the [UCTA 1977](https://sso.agc.gov.sg/Act/UCTA1977), **a waiver does not generally exclude liability for negligence**. For minors, parental consent is required and a waiver has even less effect against a negligence claim. The waiver supports the operation; it does not replace proper safety discipline.
+Experiential venues use signed waivers - risk acknowledgements with medical disclosure - but their legal effect is limited. Under Singapore common law and the [UCTA 1977](https://sso.agc.gov.sg/Act/UCTA1977), **a waiver does not generally exclude liability for negligence**. For axe throwing, a customer under 18 must produce proof of parental consent and must be at least 15 (class licence order S 368/2025). A waiver signed by or for a minor is subject to the same rule on negligence. The waiver supports the operation; it does not replace proper safety discipline.
 
 #### Equipment and Property considerations
 
@@ -118,17 +117,13 @@ The Cyber exposures: PDPA exposure for the personal data held; operational disru
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore experiential venues (actual premiums depend on activities, alcohol service, and scale):
+For Singapore experiential venues:
 
 **Small / single venue:**
-- PL / Participant Liability: S$3,000-S$15,000
-- Property / Equipment: S$2,000-S$10,000
-- Cyber, Liquor (where applicable), other lines: S$3,000-S$10,000
-- **Total annual insurance budget:** typically S$10,000-S$40,000
+- Premiums depend on the activities offered, alcohol service, limits and the value of equipment and fit-out insured
 
 **Mid-size (multi-site / specialty):**
 - Higher PL limits and comprehensive Property / Equipment cover
-- **Total:** typically S$30,000-S$100,000
 
 **Established operator:**
 - A comprehensive programme; total scales with the operation
@@ -145,7 +140,7 @@ Insurers underwrite experiential venues on:
 ### Common Mistakes / What Goes Wrong
 
 1. **Standard SME PL with a hazardous-activity exclusion.** A major exposure left unaddressed.
-2. **No Participant Liability for weapon-adjacent activities.** The core exposure left uninsured.
+2. **No confirmed cover for participant injury in weapon-adjacent activities.** If the wording excludes it, the core exposure is left uninsured.
 3. **No Liquor Liability for alcohol-paired operations.**
 4. **Relying on waivers against negligence claims.** They have limited effect in Singapore.
 5. **No staff certification or competence standards.**
@@ -159,13 +154,13 @@ Insurers underwrite experiential venues on:
 
 For Singapore experiential venue founders:
 
-1. **Participant Liability is foundational.** Do not operate without it.
+1. **Cover for participant injury is foundational.** Confirm the policy responds to it before operating.
 
 2. **For F&B-paired operations, take Liquor Liability.**
 
 3. **For alcohol-plus-activity combinations, hold operational discipline** - drink limits and intoxication monitoring.
 
-4. **A standard SME policy is typically inadequate.** Use industry-aware insurance.
+4. **Check a standard SME policy against the activity.** Confirm it covers participant injury and each activity offered.
 
 5. **Insure equipment on an all-risks, replacement basis.**
 
@@ -177,7 +172,7 @@ For Singapore experiential venue founders:
 
 9. **Review annually as the activity scope evolves.**
 
-The experiential venue insurance build is moderate-to-substantial in cost, reflecting the activity exposures. Standard SME approaches typically carry hazardous-activity exclusions - the specialist cover is what matters.
+The experiential venue insurance build is moderate-to-substantial in cost, reflecting the activity exposures. Whether a standard SME policy covers participant injury depends on its wording.
 
 ### Questions to Ask Your Adviser
 

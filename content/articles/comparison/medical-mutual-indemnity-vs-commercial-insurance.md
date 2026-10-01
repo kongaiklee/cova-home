@@ -45,7 +45,7 @@ Per the [Singapore Medical Association](https://www.sma.org.sg/page/professional
 
 Per the [explanatory article by insurance broker JLT, published by SMA in 2019](https://www.sma.org.sg/news/2019/November/medical-malpractice-indemnity-solutions--the-differences-between-discretionary-indemnity-and-insurance):
 
-- **Discretionary, occurrence-based (MPS-style)** : cover responds to events that occurred while the doctor was a member, regardless of when the claim arises. There is no stated limit. Assistance is at the council's discretion.
+- **Discretionary, occurrence-based (MPS-style)** : cover responds to events that occurred while the doctor was a member, regardless of when the claim arises. There is usually no stated limit. Assistance is at the council's discretion.
 - **Contractual, claims-made (one insurance structure; insurers in Singapore also offer occurrence-based cover)** : cover responds to claims made during the policy period. Past events become covered only if the doctor maintained continuous claims-made cover or buys "retroactive" cover. Limits are stated in the policy.
 
 The two structures lead to different risk profiles. Occurrence-based cover is "set and forget" - once an incident is covered, it stays covered even if the doctor switches providers. Claims-made requires careful management of retroactive dates and "tail" or "run-off" cover when retiring or switching schemes.
@@ -68,7 +68,7 @@ If you're a sole-practitioner or small-clinic owner-doctor, your single biggest 
 
 The choice between mutual and insurance is not just price - it's structure. Mutuals often have no stated limit (a strong feature for high-severity claims) but assistance is discretionary (a weaker feature in marginal cases). Insurers offer contractual certainty (a strong feature for predictable scenarios) but stated limits, and a claims-made policy needs its retroactive date and run-off cover managed.
 
-Singapore's medical liability environment has been changing. The informed-consent doctrine changed after the Court of Appeal's decision in Hii Chii Kok v Ooi Peng Jin London Lucien [2017] SGCA 38. Whatever structure you choose, make sure your limit (or absence of limit, in mutuals) matches your worst-case exposure.
+Singapore's medical liability environment has been changing. The informed-consent doctrine changed after the Court of Appeal's decision in Hii Chii Kok v Ooi Peng Jin London Lucien [2017] SGCA 38. Whatever structure you choose, make sure your limit (or, with a mutual that has no stated limit, its discretionary protection) matches your worst-case exposure.
 
 For multi-doctor practices, also consider clinic-level corporate PI on top of each doctor's individual cover - vicarious liability claims sometimes name the corporate entity in addition to the doctor.
 

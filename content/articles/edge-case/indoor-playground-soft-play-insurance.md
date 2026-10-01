@@ -55,7 +55,7 @@ Indoor playgrounds combine paediatric-density premises liability with regulated 
 - Major injury incident leading to investigation-driven closure
 - Equipment-related closure pending re-inspection
 
-**WICA** - required for all employees: floor supervisors, party hosts, F&B staff, cleaners, managers.
+**WICA** - required for all employees: floor supervisors, party hosts, F&B staff, cleaners, managers, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers.
 
 **Group Medical / Group PA** - voluntary employer-paid cover.
 

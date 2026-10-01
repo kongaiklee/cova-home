@@ -14,24 +14,24 @@ word_count: 1584
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/cyber-standalone-vs-par-sublimit"
-meta_description: "A Singapore cyber sub-limit inside a property package is usually S$50,000 to S$250,000. What that buys, and where a standalone policy starts."
+meta_description: "A Singapore property package may exclude cyber loss or carry only a small cyber sub-limit. What that buys, and where a standalone cyber policy starts."
 og_title: "Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?"
-og_description: "A Singapore cyber sub-limit inside a property package is usually S$50,000 to S$250,000. What that buys, and where a standalone policy starts."
+og_description: "A Singapore property package may exclude cyber loss or carry only a small cyber sub-limit. What that buys, and where a standalone cyber policy starts."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Many Singapore SMEs hold a small "Cyber" sub-limit (typically S$50,000 to S$250,000) as part of their **Property All Risks (PAR)** or business package policy. Standalone Cyber insurance is a dedicated policy with materially broader cover - typical limits S$1M to S$10M+, with first-party (your costs) and third-party (claims against you) sections, plus access to insurer panel forensics, legal, breach counsel, and PR. The PAR sub-limit responds primarily to *physical damage* caused by cyber events; standalone Cyber responds to the *full incident lifecycle* including business interruption, data breach response, ransomware payment (where covered), regulatory defence, and third-party liability. Post-2020, **most PAR policies expressly exclude cyber events** under what's commonly called the "cyber exclusion clause" or "CL380 Cyber Exclusion" derivative - making the PAR sub-limit a narrow add-back, not standalone protection.
+> A **Property All Risks (PAR)** or business package policy may carry a small "Cyber" sub-limit or carve-back, or may exclude cyber loss outright. Standalone Cyber insurance is a dedicated policy with materially broader cover, with first-party (your costs) and third-party (claims against you) sections, plus access to insurer panel forensics, legal, breach counsel, and PR. A PAR carve-back may respond only to *physical damage*, such as a fire or explosion that results from damage to electronic data (NMA2914) or from a non-malicious cyber incident (LMA5400); standalone Cyber responds to the *full incident lifecycle* including business interruption, data breach response, ransomware payment (where covered), regulatory defence, and third-party liability. Property policies can **expressly exclude cyber events**: MSIG's SUMO package, for example, excludes any "Cyber Loss" from its property sections, so any cyber cover left in a PAR is a narrow add-back, not standalone protection.
 
 ### The Sourced Detail
 
-This is one of the highest-impact insurance miscalibrations in the Singapore SME market. Founders see "Cyber" as a line item on the property package, assume it's covered, and discover at incident time that the sub-limit covers maybe one quarter of the response cost - if it responds at all.
+Founders who see "Cyber" as a line item on the property package may assume they are covered and discover at incident time that the sub-limit covers only part of the response cost, if it responds at all.
 
 #### Why PAR policies have cyber exclusions in the first place
 
-After significant losses from major cyber incidents (NotPetya 2017, WannaCry 2017, SolarWinds 2020), the global insurance market repriced cyber risk. The Lloyd's Market Association issued model exclusion clauses (notably the [Lloyd's CL380 / LMA5400 series](https://www.lmalloyds.com/)) that property insurers have widely adopted for non-marine and marine wordings.
+After significant losses from major cyber incidents (NotPetya 2017, WannaCry 2017, SolarWinds 2020), the global insurance market repriced cyber risk. Following Lloyd's Market Bulletin Y5258 (4 July 2019), the Lloyd's Market Association published model [property and marine cyber clauses](https://lmalloyds.com/property-and-marine-cyber-clauses/) on 13 November 2019 (LMA5400 to LMA5403) to help the market give clarity of cyber cover under first-party property policies. The older Institute Cyber Attack Exclusion Clause (CL380) is an Institute of London Underwriters clause dated 10 November 2003.
 
-The standard exclusion language reads (paraphrased from typical Singapore PAR wordings):
+The Institute Cyber Attack Exclusion Clause (CL380) reads, in paraphrase:
 
 > "This Policy does not cover loss, damage, liability, cost, or expense directly or indirectly caused by, contributed to by, resulting from, or arising out of the use or operation, as a means for inflicting harm, of any computer, computer system, computer software programme, malicious code, computer virus, computer process, or any other electronic system."
 
@@ -39,16 +39,16 @@ The exclusion typically applies regardless of whether the cyber event is the pro
 
 #### What a typical PAR Cyber sub-limit actually covers
 
-For SMEs that have a small Cyber section within their PAR or business package policy, the cover is typically:
+Where a PAR or business package policy has a small Cyber section or carve-back, check whether its cover is:
 
 - **Limited to physical damage** caused by cyber events (e.g. data centre fire triggered by malware) - the carve-back from the broader cyber exclusion
-- **First-party costs only** in many wordings - costs *you* incur, not third-party claims
-- **Sub-limit of S$50,000 to S$250,000** - far below typical incident response cost
+- **First-party costs only** - costs *you* incur, not third-party claims
+- **A low sub-limit**, which may sit far below the cost of responding to an incident
 - **No incident response panel** - you call your IT vendor, who is unlikely to be experienced in regulatory notification or breach counsel
 - **No specialist forensics** - meaning evidence preservation may be amateur
 - **No third-party liability** - claims by affected individuals or business partners are uncovered
-- **Often: no ransomware coverage** - extortion payments commonly excluded
-- **Often: no business interruption coverage** - downtime cost is uncovered
+- **No ransomware coverage**, with extortion payments excluded
+- **No business interruption coverage**, leaving downtime cost uncovered
 
 #### What standalone Cyber insurance covers
 
@@ -75,30 +75,28 @@ A dedicated Cyber policy is structured around the modern incident lifecycle. Sta
 
 **Service access:**
 - 24/7 incident hotline
-- Pre-vetted panel forensics (CrowdStrike, Mandiant, Kroll, etc.)
+- Pre-vetted panel forensics
 - Pre-vetted panel legal and breach counsel
 - Pre-vetted panel PR
 - Threat intelligence and post-incident remediation guidance
 
-The dollar value of the *services* accessed via panel can exceed the dollar value of the indemnity payment - for many SMEs, this is the primary reason to hold standalone Cyber.
+The dollar value of the *services* accessed via panel can exceed the dollar value of the indemnity payment.
 
 #### Limit and pricing comparisons
 
 **PAR sub-limit:**
-- Typical limit: S$50,000-S$250,000
-- Premium impact: usually nominal (often included as standard or marginal extension)
+- Limit: as set in the package wording
+- Premium impact: depends on the package; check whether the cyber item is included as standard or charged as an extension
 - Indicates: minimal cover; not designed for material incidents
 
 **Standalone Cyber for SMEs:**
-- Typical limits: S$1M-S$5M for SME (higher available)
+- Limits: chosen at placement and stated in the schedule
 - Annual premium: varies widely with revenue, sector, security posture, prior claims; obtain comparative quotes
 - Includes panel access and incident response infrastructure
 
-The premium difference between PAR sub-limit and standalone Cyber is significant in absolute terms but proportionate to the exposure difference. A S$2M Cyber policy is not "20× more expensive" than a S$100k PAR sub-limit - the rating algorithms and structures differ.
-
 #### Industries where the gap matters most
 
-For these sectors, relying on a PAR sub-limit is a known structural under-insurance:
+For these sectors, relying on a PAR sub-limit can leave the business under-insured:
 
 1. **SaaS and software companies** - customer data exposure plus business interruption
 2. **Healthcare** - patient data with PDPA significant-harm category implications
@@ -109,11 +107,11 @@ For these sectors, relying on a PAR sub-limit is a known structural under-insura
 7. **Logistics and supply chain** - system outage cascading to operational disruption
 8. **Schools and education providers** - minor-related personal data with elevated PDPA significance
 
-#### The Cybersecurity Act 2024 angle
+#### The Cybersecurity (Amendment) Act 2024 angle
 
 The [Cybersecurity (Amendment) Act 2024](https://www.csa.gov.sg/news-events/press-releases/provisions-in-the-cybersecurity--amendment--act-to-come-into-force-on-31-october-2025/) - with key provisions in force from 31 October 2025 - expanded cyber incident reporting requirements for owners of Critical Information Infrastructure (CII). For non-CII SMEs, the headline obligation remains the [PDPA Section 26D 3-day breach notification](https://sso.agc.gov.sg/Act/PDPA2012). For CII operators, the new framework adds 2-hour reporting obligations.
 
-The insurance implications: Cyber policies have repriced and re-scoped to reflect the regulatory landscape. Cover for regulatory investigation, defence, and (where insurable) penalties is increasingly differentiated between policies - making a comparative read more important than ever.
+The insurance implications: cover for regulatory investigation, defence and (where insurable) penalties differs between cyber policies, so a comparative read matters.
 
 #### When the PAR sub-limit might actually be enough
 
@@ -124,15 +122,15 @@ For a narrow set of SMEs, the PAR sub-limit can be operationally sufficient:
 - Pre-revenue startups with no production systems
 - Businesses where the entire IT estate is third-party SaaS and the SaaS providers carry the breach risk under contract
 
-For these profiles, the cost of standalone Cyber may exceed the realistic exposure. But the threshold at which standalone becomes proportionate is low - roughly any SME with employee data, customer data, or operational systems beyond email and basic office software.
+For these profiles, the cost of standalone Cyber may exceed the realistic exposure.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Reading "Cyber" on the PAR schedule and assuming it's adequate.** It's a derivative carve-back from the cyber exclusion, not a standalone product.
+1. **Reading "Cyber" on the PAR schedule and assuming it's adequate.** It can be a narrow carve-back from a cyber exclusion, not a standalone product.
 2. **Treating IT support contract as cyber insurance.** Your IT vendor fixes systems; they don't pay PDPC fines or third-party damages.
 3. **Calling the IT vendor before the cyber insurer.** Burns panel-forensics cover under standalone Cyber.
 4. **Buying standalone Cyber but not understanding the panel.** The panel is the cover. If you don't use them, you may not be reimbursed.
-5. **Letting Cyber lapse between policies.** Cyber is claims-made - late-notified incidents from prior periods may be uncovered.
+5. **Letting Cyber lapse between policies.** Cyber liability cover is written on a claims-made basis in wordings such as AIG's CyberEdge, and its first-party response cover applies to breaches first discovered during the policy period, so incidents notified or discovered after a lapse may be uncovered.
 6. **Ignoring retroactive dates.** Pre-policy breaches (often unknown when the policy is bought) may be excluded entirely.
 7. **Assuming Cyber covers all data breaches.** Some policies exclude employee data breaches, social engineering fraud, or specific incident types - read the wording.
 
@@ -150,7 +148,7 @@ For Singapore SMEs evaluating cyber cover:
 
 5. **Review at every business change.** New product line, new customer base, new geographic market, M&A, regulatory licence - all change cyber exposure.
 
-The PAR cyber sub-limit was sufficient when "cyber" meant a workstation virus. The current threat landscape (ransomware, supply chain attacks, regulatory enforcement, third-party class actions) has outgrown the sub-limit's design. For most SMEs above the smallest tier, standalone Cyber is the appropriate baseline; the PAR sub-limit becomes a marginal add-back, not the primary protection.
+Where a PAR carries a cyber sub-limit or carve-back, it is a narrow add-back, not the primary protection against ransomware, supply chain attacks, regulatory enforcement or third-party claims.
 
 ### Questions to Ask Your Adviser
 

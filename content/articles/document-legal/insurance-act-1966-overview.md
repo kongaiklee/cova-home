@@ -117,7 +117,7 @@ MAS approval required for material shareholdings or take-overs of Singapore-inco
 Statutory framework for the voluntary transfer of an insurer's business and for winding up, including the priority of policy owners' claims when a licensed insurer is insolvent or unable to meet its obligations (section 123). The moratorium, which the High Court may order on MAS's application, sits in Part 3 (section 107). In the 2020 Revised Edition this Part runs from section 116 to section 126.
 
 **Insurance intermediaries** (separate Part):
-Registration regime for direct insurance brokers, exempt insurance brokers, and approved Marine, Aviation and Transit (MAT) brokers; conduct of business obligations supplemented by the Insurance (Intermediaries) Regulations.
+Registration regime for insurance brokers, with exemption from registration for exempt insurance brokers and a separate approval route for some overseas Marine, Aviation and Transit (MAT) brokers; conduct of business obligations supplemented by the Insurance (Intermediaries) Regulations.
 
 For pinpoint statutory citation, fetch the current consolidated text on [Singapore Statutes Online](https://sso.agc.gov.sg/Act/IA1966); section numbers changed with the 2020 Revised Edition.
 
@@ -140,12 +140,12 @@ For SME buyers, this means:
 Distinct from broking, **introducer** activities are addressed through specific MAS frameworks. [MAS Notice FAA-N02](https://www.mas.gov.sg/regulation/notices/notice-faa-n02) on the requirements for the appointment and use of introducers by financial advisers establishes the framework.
 
 **An introducer:**
-- Refers prospective clients to licensed financial advisers (insurance brokers, licensed advisers)
+- Refers prospective clients to financial advisers, whether licensed financial advisers or exempt ones such as registered insurance brokers
 - Does not provide financial advice
 - Does not handle premium or claim funds
-- Operates under specific written agreements with the licensed FA
+- Operates under specific written agreements with the financial adviser
 
-For SME buyers seeking insurance, the introducer model can provide a content-rich, education-focused referral source while the actual insurance placement and advice occurs through a licensed FA.
+For SME buyers seeking insurance, the introducer model can provide a content-rich, education-focused referral source while the actual insurance placement and advice occurs through a financial adviser.
 
 #### Cross-border insurance considerations
 

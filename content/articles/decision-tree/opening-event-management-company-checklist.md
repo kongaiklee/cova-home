@@ -21,7 +21,7 @@ og_description: "An event management company needs no single industry licence, b
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore event management company registers its business with [ACRA](https://www.bizfile.gov.sg/); the company itself needs no single industry licence, but each event typically needs its own approvals - police licensing for public entertainment and public-assembly permits from the [SPF](https://www.police.gov.sg/), crowd-safety clearance from the [SCDF](https://www.scdf.gov.sg/), venue-use approval from the [URA](https://www.ura.gov.sg/), and, for some categories, [MOH](https://www.moh.gov.sg/) approval. A company that also sells tours or travel needs a separate travel agent licence (see [what STB requires and what to insure](/decision-tree/opening-tour-travel-agency-checklist)). Insurance baseline: **Public Liability** at elevated limits (S$3M-S$10M typical; venue and corporate-client requirements are often higher), **Event Cancellation** for material events with significant prepaid costs and revenue, **Professional Indemnity** for planning and advice, **WICA** for staff including event-day casual labour, **Property/Equipment** including hired equipment, **Cyber** for ticketing and attendee data, and **Crime / Money** for event cash-handling. The most distinctive risk: a single high-attendance event concentrates intense exposure that a standard annual SME PL policy does not contemplate - most material events warrant project-specific cover or a named-event endorsement.
+> A Singapore event management company registers its business with [ACRA](https://www.bizfile.gov.sg/); the company itself needs no single industry licence, but each event typically needs its own approvals - police licensing for public entertainment and public-assembly permits from the [SPF](https://www.police.gov.sg/), a fire-safety permit (a Temporary Change of Use Permit) from the [SCDF](https://www.scdf.gov.sg/) where the event is held in a space not already certified for it, a temporary occupation licence from the [URA](https://www.ura.gov.sg/) where an event with set-up uses one of its Marina Bay event spaces, and a Temporary Fair Permit from the [SFA](https://www.sfa.gov.sg/) where stalls sell food or drink. A company that also sells tours or travel needs a separate travel agent licence (see [what STB requires and what to insure](/decision-tree/opening-tour-travel-agency-checklist)). Insurance baseline: **Public Liability** at limits that meet each venue's and client's requirements (URA's Marina Bay event spaces, for example, require at least S$1 million), **Event Cancellation** for material events with significant prepaid costs and revenue, **Professional Indemnity** for planning and advice, **WICA** insurance for employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less (event-day casual labour included), unless an excluded class applies, **Property/Equipment** including hired equipment, **Cyber** for ticketing and attendee data, and **Crime / Money** for event cash-handling. The most distinctive risk: a single high-attendance event concentrates exposure, and venues can require a policy that names the event, as URA does for its Marina Bay event spaces.
 
 ### The Sourced Detail
 
@@ -33,21 +33,23 @@ Event management has no single industry licence. The company registers with ACRA
 
 **Per-event approvals (each event, not the company):**
 - **Police (SPF)** - a Public Entertainment Licence for events with entertainment elements, and a permit under the [Public Order Act 2009](https://sso.agc.gov.sg/Act/POA2009) for public assemblies and processions. Application timelines are tight - build them into the event schedule.
-- **SCDF** - crowd-safety and fire-safety clearance, scaled to attendance and venue.
-- **URA** - approval for the use of a venue or public space, including outdoor space.
-- **MOH** - approval for certain health-related event categories, and food-service requirements where catering is involved.
+- **SCDF** issues a Temporary Change of Use Permit, a fire-safety permit for stage shows, exhibitions, trade fairs, carnivals and similar events with temporary set-ups; it is not needed where, for example, the space is already certified for such events.
+- **The Police** must be notified at least 28 days ahead of an event expected to draw more than 5,000 people at any one time (10,000 for a private event).
+- **URA, NParks and SLA** each manage outdoor spaces with their own booking procedures; URA, for example, requires a temporary occupation licence for events with set-up at its Marina Bay event spaces.
+- **SFA** issues a Temporary Fair Permit where the event has stalls selling food or drink.
+- **IMDA** issues an Arts Entertainment Licence for plays, music and dance performances, art exhibitions and concerts open to the public, unless exempted.
 
 **STB and other registrations:**
 - [STB](https://www.stb.gov.sg/) does not license event management companies as such; its licensing regime applies to travel agents - companies that sell tours or travel - which need a separate travel agent licence (see [the insurance checklist for such agencies](/decision-tree/opening-tour-travel-agency-checklist)).
-- Career-fair and recruitment events may involve [Workforce Singapore (WSG)](https://www.wsg.gov.sg/).
+- Career-fair and recruitment events may involve the [Skills and Workforce Development Agency (SWDA)](https://www.swda.gov.sg/), formed on 1 July 2026 from the merger of Workforce Singapore and SkillsFuture Singapore.
 
 #### Event categories and risk profiles
 
-The risk profile and the PL limit follow attendance and venue type:
+The risk profile follows attendance and venue type:
 
-- **Weddings** - typically 50-300 guests, high personal stakes for the client, heavy multi-vendor coordination; standard PL is usually sufficient.
-- **Corporate events / conferences** - 50-2,000 attendees, possibly multi-day, with brand impact for the client and liability allocation set in the client contract; higher PL warranted.
-- **Public concerts / festivals** - 500 to 50,000+ attendees, intensive licensing, serious crowd-management and weather exposure; high PL essential.
+- **Weddings** - high personal stakes for the client, heavy multi-vendor coordination.
+- **Corporate events / conferences** - possibly multi-day, with brand impact for the client and liability allocation set in the client contract.
+- **Public concerts / festivals** - large crowds, intensive licensing, serious crowd-management and weather exposure.
 - **Sports events** - participant-injury and spectator exposure, varying by sport and venue.
 - **Trade shows / exhibitions** - usually multi-day, with multi-exhibitor coordination and commercial liability allocation across exhibitors.
 - **Hybrid / virtual events** - mostly online with physical components; the exposure shifts toward technology dependence and Cyber.
@@ -57,14 +59,12 @@ The risk profile and the PL limit follow attendance and venue type:
 PL is the core event cover. It responds to attendee injury (slip/trip, equipment- or crowd-related), performer injury, property damage, allergic reactions, and incidents such as fire or medical emergency. Matching it to a venue's insurance schedule is set out in [how to obtain event liability insurance for MICE events and venue bookings](/procedural-howto/event-liability-insurance-singapore-mice-venue).
 
 **Limit considerations:**
-- Standard SME PL (S$1M-S$3M) is inadequate for material events
-- Wedding / corporate events: S$3M-S$5M typical
-- Public concerts / festivals: S$10M+ common
+- Check the limit against each venue's and client's minimum; URA's Marina Bay event spaces, for example, require at least S$1 million
 - Venue and client contracts frequently set their own minimum limits
 
 **Annual vs project structure:**
-- **Annual PL** covers the ongoing event management work, with an aggregate cap per period; named-event endorsements can extend it to specific events.
-- **Project / event-specific cover** is taken out for a named event at higher limits, with the sub-limits and extensions that event needs - and is often required by the venue or client.
+- **Annual PL** covers the ongoing event management work up to its limit of indemnity, which some wordings set per occurrence and others also cap in the aggregate; named-event endorsements can extend it to specific events.
+- **Project / event-specific cover** is taken out for a named event, with the limits, sub-limits and extensions that event needs; a venue or client can require a policy that names the event, as URA does for its Marina Bay event spaces.
 
 **Points to confirm with the insurer:**
 - That crowd management and outdoor events are within cover
@@ -74,7 +74,7 @@ PL is the core event cover. It responds to attendee injury (slip/trip, equipment
 
 #### Event Cancellation insurance
 
-For material events carrying significant prepaid costs and expected revenue, [Event Cancellation insurance](/procedural-howto/event-cancellation-insurance-singapore-sme) responds to cancellation, postponement, or curtailed attendance caused by an insured peril.
+For material events carrying significant prepaid costs and expected revenue, [Event Cancellation insurance](/procedural-howto/event-cancellation-insurance-singapore-sme) responds to cancellation, postponement or curtailment caused by an insured peril, and to reduced attendance where the policy is extended to cover it.
 
 **Insured causes can include:** adverse weather where it is specifically insured, civil unrest or strikes, transport disruption, and denial of access to the venue by an authority.
 
@@ -82,16 +82,14 @@ For material events carrying significant prepaid costs and expected revenue, [Ev
 
 **Communicable disease:** since 2020, communicable-disease cancellation is generally excluded from standard Event Cancellation. An extension is sometimes available at additional premium - and the policy's definitions and triggers determine whether it responds at all.
 
-**Limits** are driven by the event budget - deposits, prepaid costs, and the revenue or profit at risk. **Premium** is usually charged per event as a percentage of the insured value, varying with event type and timing.
+**Limits** are driven by the event budget - deposits, prepaid costs, and the revenue or profit at risk.
 
 #### The Professional Indemnity layer
 
 PI responds to the planning function: planning and advice errors, failure to execute as agreed, contract-performance disputes, intellectual-property issues, and defamation in marketing.
 
 **Limit considerations:**
-- Solo planner: S$500k-S$2M
-- Mid-size agency: S$2M-S$5M
-- Specialist large-event operator: S$5M+
+- Limits depend on the operator's size and the value of the events it plans
 
 Confirm the policy covers the planning and advice function specifically, and that IP and defamation disputes are within scope.
 
@@ -117,7 +115,7 @@ Events run on equipment, much of it hired in:
 Event companies hold attendee registration, contact and payment data, speaker and sponsor data, and ticketing records - sometimes financial data for high-value attendees.
 
 The acute exposures:
-- Ticketing and registration systems are a prominent attack target, with direct PDPA exposure for the attendee data they hold
+- Ticketing and registration systems hold attendee data, with direct PDPA exposure
 - BEC on sponsor and vendor payments
 - Event-day operational disruption if a platform or system fails
 
@@ -128,7 +126,7 @@ The acute exposures:
 Beyond the risk profiles above:
 - **Weddings** - photography and videography content delivery is a recurring dispute point; wedding-specific programmes are available.
 - **Corporate / conference** - speaker and talent fee management and catering coordination, with insurance requirements usually set in the client contract.
-- **Concerts / festivals** - performer contracts, sponsor obligations, and weather contingency planning; Event Cancellation is typically purchased.
+- **Concerts / festivals** - performer contracts, sponsor obligations, and weather contingency planning.
 - **Sports events** - participant waivers, on-site medical provision, and the governing sport body's own requirements.
 - **Charity / fundraising** - donor data handling and the reputational sensitivity of the non-profit context.
 
@@ -141,7 +139,7 @@ Beyond the risk profiles above:
 **Year 1 (small operator, 1-5 staff):**
 - Annual PL
 - PI for planning
-- WICA for staff
+- WICA insurance for employees doing manual work and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless an excluded class applies
 - Property for the office
 - Cyber Liability
 - Group benefits if staff are employed
@@ -157,26 +155,11 @@ Beyond the risk profiles above:
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore event management (actual premiums depend on portfolio, claims history, and limits):
-
-**Small operator (1-5 staff, weddings / small corporate):**
-- PI / PL: S$2,000-S$8,000
-- WICA, Cyber, other lines: S$2,000-S$8,000
-- **Total annual insurance budget:** typically S$5,000-S$20,000
-
-**Mid-size (10-30 staff, larger corporate events, festivals):**
-- Higher PI / PL limits, comprehensive Cyber, project-specific cover for major events
-- **Total:** typically S$20,000-S$80,000, plus project-specific cover
-
-**Established operator (concerts, festivals, MICE):**
-- A comprehensive programme with several project-specific covers a year; total scales with the event portfolio
-
-**Per-event project-specific cover:**
-- A material concert or festival can run S$10,000-S$100,000+, depending on scale and type
+Premiums depend on the event portfolio, claims history and limits, and are set by each insurer.
 
 #### Operational risk management
 
-Insurers underwrite event management on:
+Operational controls an event company can document:
 
 - **Planning discipline** - documented event plans, a written risk assessment per event, contingency planning, and tracked approvals
 - **Vendor management** - vendor due diligence, insurance verification, clear contract terms, and performance monitoring
@@ -185,7 +168,7 @@ Insurers underwrite event management on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Annual PL relied on for a major event.** Material events need project-specific cover.
+1. **Annual PL relied on for a major event.** Venues can require a policy that names the event; URA's Marina Bay event spaces do.
 2. **No Event Cancellation for material events.** Prepaid costs and revenue left uninsured.
 3. **Generic SME PL with no crowd-management cover.**
 4. **No Cyber for ticketing and attendee data.** Direct PDPA exposure.
@@ -200,9 +183,9 @@ Insurers underwrite event management on:
 
 For Singapore event management founders:
 
-1. **Match the insurance structure to your event portfolio.** An annual policy plus project-specific cover is the common pattern.
+1. **Match the insurance structure to your event portfolio.**
 
-2. **For material events, take Event Cancellation.** It is the only cover for prepaid-cost and revenue exposure.
+2. **For material events, take Event Cancellation.** It is the cover written for the revenue and committed costs lost when an event is cancelled, postponed or curtailed.
 
 3. **Build Cyber around ticketing and attendee data**, especially where registration is online.
 

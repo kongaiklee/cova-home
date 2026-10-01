@@ -33,7 +33,7 @@ Surety bonds involve three parties:
 
 **The principal.** The party whose obligations are being guaranteed (the SME providing the bond). The principal has the underlying obligation to the obligee.
 
-**The obligee.** The party benefiting from the guarantee (typically the SME's customer, government agency, or specific commercial counterparty). The obligee can claim under the bond if the principal fails to perform.
+**The obligee.** The party benefiting from the guarantee (typically the SME's customer, government agency, or specific commercial counterparty). The obligee can claim under the bond on the terms the bond sets: under a conditional bond, on proof that the principal failed to perform; under an on-demand bond, on demand, without proof of default.
 
 **The surety.** The party providing the guarantee (typically an insurer or specialist surety company). The surety pays the obligee on a valid claim under the bond (under an on-demand bond, on the obligee's written demand, without proof of default), and recovers from the principal.
 

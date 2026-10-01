@@ -21,7 +21,7 @@ og_description: "The Limitation Act sets Singapore's deadline for starting a civ
 
 > **The Answer in 60 Seconds**
 >
-> The [Limitation Act 1959 (Singapore)](https://sso.agc.gov.sg/Act/LA1959) sets out time limits within which civil actions must be commenced. For most actions arising from contract or tort, the limitation period is **6 years from the date the cause of action accrued** (Section 6(1)). For personal injury claims, it is **3 years** (Section 24A). Insurance contract claims at common law - with marine cover codified in the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) providing the regulatory framework for insurers - fall under the section 6(1) 6-year period applicable to contract and tort. This includes claims by an insured against the insurer for indemnity and claims by the insurer against third parties via subrogation. Once the period expires, the claim is **time-barred** - the defendant can plead limitation as a complete defence. Specific exceptions and extensions exist for fraud, latent damage, disability, and acknowledgment of debt (Sections 24B, 26, 29).
+> The [Limitation Act 1959 (Singapore)](https://sso.agc.gov.sg/Act/LA1959) sets out time limits within which civil actions must be commenced. For most actions arising from contract or tort, the limitation period is **6 years from the date the cause of action accrued** (Section 6(1)). For personal injury claims, it is **3 years** (Section 24A). Insurance contract claims at common law - with marine cover codified in the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) and the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) providing the regulatory framework for insurers - fall under the section 6(1) 6-year period applicable to contract and tort. This includes claims by an insured against the insurer for indemnity. A claim by the insurer against a third party via subrogation is the insured's own claim against that party, so it carries whatever period applies to that claim; a claim for damages for negligence, nuisance or breach of duty falls under section 24A, which sets 3 years where the damages include personal injuries. Once the period expires, the claim is **time-barred** - the defendant can plead limitation as a complete defence. Specific exceptions and extensions exist for fraud or mistake (Section 29), latent damage (Section 24A), disability (Section 24) and acknowledgment or part payment of a debt or other liquidated claim (Section 26); Section 24B sets an overriding 15-year limit for negligence, nuisance and breach of duty actions.
 
 ### The Sourced Detail
 
@@ -33,9 +33,9 @@ Per [Section 6(1) of the Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959)
 
 > "Subject to this Act, the following actions shall not be brought after the expiration of 6 years from the date on which the cause of action accrued:
 > (a) actions founded on a contract or on tort;
-> (b) actions to enforce a recognisance;
-> (c) actions to enforce an award, where the submission is not by an instrument under seal;
-> (d) actions to recover any sum recoverable by virtue of any written law, other than a penalty or forfeiture or sum by way of penalty or forfeiture."
+> (b) actions to enforce a recognizance;
+> (c) actions to enforce an award;
+> (d) actions to recover any sum recoverable by virtue of any written law other than a penalty or forfeiture or sum by way of penalty or forfeiture."
 
 For personal injury claims, [Section 24A](https://sso.agc.gov.sg/Act/LA1959) sets a **3-year period from the date of knowledge** of the injury or its connection to the wrongdoer's act.
 
@@ -51,7 +51,7 @@ The clock starts when all the elements necessary to bring the claim are first co
 - **Personal injury:** Section 24A's 3-year-from-knowledge rule applies (note: the [Personal Data Protection Act 2012](https://sso.agc.gov.sg/Act/PDPA2012) imposes its own administrative timelines for breach notification - separate from the civil limitation period for damages claims)
 
 For insurance specifically:
-- **Insured suing insurer for indemnity under the policy:** clock starts when the insurer breaches the obligation to indemnify (typically when the insurer denies the claim or fails to pay within a reasonable period)
+- **Insured suing insurer for indemnity under the policy:** under the English authorities the insured's right to indemnity arises as soon as the loss is suffered, so the clock generally starts at the loss, not when the insurer denies the claim; under liability cover it starts when the insured's liability to the third party is ascertained and determined by agreement, award or judgment. A policy term can postpone accrual.
 - **Insured suing insurer for breach of duty (e.g. failure to advise):** clock starts when the breach causes loss
 - **Insurer suing third party via subrogation:** clock starts when the underlying cause of action accrued for the insured (subrogation does not extend the limitation period)
 
@@ -59,29 +59,29 @@ For insurance specifically:
 
 A claim against an insurer that is delayed beyond 6 years is unenforceable. Common scenarios:
 
-1. **Insured receives written denial in 2025.** Insured has until 2031 to sue (subject to fact-specific accrual analysis). After 2031, the claim is time-barred.
+1. **Loss occurs in 2025; the insurer denies the claim in writing in 2026.** If the right to indemnity arose at the loss in 2025, the insured has until 2031 to sue, not 2032, unless the policy's terms postpone accrual (subject to fact-specific accrual analysis). After that, the claim is time-barred.
 
 2. **Insured's broker negligently arranged cover in 2018; loss occurs in 2024.** Limitation against the broker for negligent advice may have already partly run; whether the clock started in 2018 (placement) or 2024 (loss) depends on when damage was first suffered - fact-specific.
 
-3. **Subrogation against third party for 2020 loss.** Insurer pays the insured in 2022, then pursues the third party. The third party can plead that the underlying cause of action accrued in 2020, meaning the insurer must commence proceedings by 2026 - *not* 2028 (which would be 6 years from when the insurer paid). The Singapore High Court in [*Royal & Sun Alliance Insurance plc v Sompo Insurance Singapore Pte Ltd* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) confirmed that subrogation occurs automatically upon indemnification but does not extend the underlying limitation period.
+3. **Subrogation against third party for 2020 loss.** Insurer pays the insured in 2022, then pursues the third party. The third party can plead that the underlying cause of action accrued in 2020, meaning the insurer must commence proceedings by 2026 - *not* 2028 (which would be 6 years from when the insurer paid). In [*Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) the High Court said that subrogation occurs automatically upon indemnification of the insured's loss (at [27]); the case was about calling on a performance bond and did not deal with limitation.
 
 #### The fraud exception
 
 Per [Section 29(1) of the Limitation Act](https://sso.agc.gov.sg/Act/LA1959):
 
-> "Where, in the case of any action for which a period of limitation is prescribed by this Act, either:
-> (a) the action is based upon the fraud of the defendant or his agent or of any person through whom he claims or his agent; or
+> "Where, in the case of any action for which a period of limitation is prescribed by this Act:
+> (a) the action is based upon the fraud of the defendant or his agent or of any person through whom he claims or his agent;
 > (b) the right of action is concealed by the fraud of any such person as aforesaid; or
-> (c) the action is for relief from the consequences of a mistake;
-> the period of limitation shall not begin to run until the plaintiff has discovered the fraud or the mistake, as the case may be, or could with reasonable diligence have discovered it."
+> (c) the action is for relief from the consequences of a mistake,
+> the period of limitation shall not begin to run until the claimant has discovered the fraud or the mistake, as the case may be, or could with reasonable diligence have discovered it."
 
-This matters in insurance fraud cases - both fraud *by* the insured (allowing the insurer extended time to sue for recovery) and fraud *by* the insurer (e.g. concealment of policy terms or claims handling mismanagement).
+This matters in insurance fraud cases - both fraud *by* the insured (allowing the insurer extended time to sue for recovery) and fraud *by* the insurer (for example, where a right of action is concealed by the insurer's fraud).
 
 #### Acknowledgment and part-payment - restarting the clock
 
-Per [Section 26 of the Limitation Act](https://sso.agc.gov.sg/Act/LA1959), an acknowledgment of liability or part-payment can restart the limitation period from the date of acknowledgment or payment.
+Per [Section 26(2) of the Limitation Act](https://sso.agc.gov.sg/Act/LA1959), where a right of action has accrued to recover a debt or other liquidated pecuniary claim, an acknowledgment of the claim or a payment in respect of it makes the right accrue afresh on the date of the acknowledgment or the last payment. An acknowledgment must be in writing and signed by the person making it (Section 27(1)).
 
-In insurance disputes, this can apply when:
+In insurance disputes, this can matter only where the claim is for a debt or other liquidated sum; a claim under an indemnity policy has been treated in English law as a claim for unliquidated damages (Chandris v Argo Insurance Co Ltd [1963] 2 Lloyd's Rep 65). Situations where the question may arise include:
 - The insurer makes an interim payment without prejudice
 - The insurer writes to acknowledge an obligation while disputing quantum
 - The insurer pays a portion of the claim and disputes the balance
@@ -90,7 +90,7 @@ The detailed application requires legal analysis - the wording and context of th
 
 #### Disability and minors
 
-Per [Section 24 of the Limitation Act](https://sso.agc.gov.sg/Act/LA1959), if the person entitled to bring the action is under disability (a minor or person of unsound mind) at the time the cause of action accrues, the limitation period may not start until the disability ends - subject to limits.
+Per [Section 24 of the Limitation Act](https://sso.agc.gov.sg/Act/LA1959), if the person entitled to bring the action is under disability (a minor, or a person who lacks capacity within the meaning of the Mental Capacity Act 2008 to conduct legal proceedings) at the time the cause of action accrues, the limitation period may not start until the disability ends - subject to limits.
 
 This is relevant for liability claims involving minors: a child injured in a slip-and-fall in 2025 may not be time-barred until well into adulthood, depending on the precise application.
 
@@ -128,7 +128,7 @@ The Extended Reporting Period (ERP) becomes the bridge: at policy end, an SME wi
 
 In acquisition transactions:
 - Buyer due diligence should include review of any open or potentially time-barred claims
-- The SPA may include indemnities for breach of warranties, which themselves are subject to contractual time limits (often 18-36 months for general warranties, 6+ years for tax) - but these are contract limits, not Limitation Act limits
+- The SPA may include indemnities for breach of warranties, which themselves are subject to contractual time limits (in Singapore, survival of seller liability for general warranties is commonly tied to one, and more rarely two, full-year audits, and tax claims to the statutory limitation period, generally four years for income tax and five years for GST, subject to exceptions) - but these are contract limits, not Limitation Act limits
 - W&I insurance sometimes provides cover beyond the SPA's contractual indemnity period, addressing the limitation gap
 
 ### Common Mistakes / What Goes Wrong
@@ -144,7 +144,7 @@ In acquisition transactions:
 
 For SME founders and directors:
 
-1. **At any insurance dispute - diary the limitation period.** A denial received today is the start of a 6-year clock. Don't lose track. The steps to challenge the denial before it reaches court are in [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim).
+1. **At any insurance dispute - diary the limitation period.** The 6-year clock may already be running from the loss, or from when your liability to a third party was fixed, not from the denial. Don't lose track. The steps to challenge the denial before it reaches court are in [how to dispute a denied insurance claim](/procedural-howto/dispute-denied-claim).
 
 2. **At any incident with potential third-party exposure - preserve evidence and notify insurers promptly.** The further from the incident date, the harder a defence, regardless of limitation.
 

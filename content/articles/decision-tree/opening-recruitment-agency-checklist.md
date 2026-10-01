@@ -21,7 +21,7 @@ og_description: "A recruitment agency is licensed by MOM under the Employment Ag
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore recruitment / employment agency requires licensing from the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) under the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and Employment Agencies Rules. Insurance baseline: **Professional Indemnity** for placement service errors and misrepresentation; **Public Liability** for office and candidate interviews; **WICA** for staff; **Cyber Liability** with elevated attention given the volume of personal data (resumes, identity documents, employment history); **Property/Fire** for office; **Crime/Fidelity Guarantee** for staff dishonesty. All EA licensees post a **MOM security bond** as a condition of licensing - a banker's guarantee of S$20,000 for a Select Licence or S$60,000 for a Comprehensive Licence - separately from the **S$5,000 per non-Malaysian Work Permit holder employer-side security bond** that the employer (not the EA) places with MOM for each migrant worker. Agencies handling **Foreign Domestic Worker (FDW)** placements have additional licensing, deployment, and welfare obligations on top of the standard EA requirements. For agencies engaging in **executive search with significant retainer arrangements** or **payroll/Employer of Record services**, additional liability and trust account considerations apply.
+> A Singapore recruitment / employment agency requires licensing from the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) under the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and Employment Agencies Rules. Insurance baseline: **Professional Indemnity** for placement service errors and misrepresentation; **Public Liability** for office and candidate interviews; **WICA** for staff; **Cyber Liability** with elevated attention given the volume of personal data (resumes, identity documents, employment history); **Property/Fire** for office; **Crime/Fidelity Guarantee** for staff dishonesty. All EA licensees post a **MOM security bond** as a condition of licensing - an electronic banker's guarantee of S$20,000 to S$60,000 (S$20,000 for a new Select Licence, S$60,000 for a new Comprehensive Licence) - separately from the **S$5,000 per non-Malaysian Work Permit holder employer-side security bond** that the employer (not the EA) places with MOM for each such worker. Agencies handling **Foreign Domestic Worker (FDW)** placements have additional licensing, deployment, and welfare obligations on top of the standard EA requirements. For agencies engaging in **executive search with significant retainer arrangements** or **payroll/Employer of Record services**, additional liability and trust account considerations apply.
 
 ### The Sourced Detail
 
@@ -29,19 +29,18 @@ Singapore's recruitment industry spans pure professional placement, executive se
 
 #### The MOM EA licensing framework
 
-Per the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and the [Employment Agencies Rules](https://sso.agc.gov.sg/SL/EAA1958-RG1), employment agency activities require licensing:
+Per the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and the [Employment Agencies Rules](https://sso.agc.gov.sg/SL/EAA1958-S172-2011), employment agency activities require licensing:
 
 **EA Licence categories:**
-- Comprehensive Licence (full range of activities)
-- Select Licence (limited activities; lower fee)
-- Personal Licence (for individual EA Personnel)
+- Comprehensive Licence (All, Local or non-FDW, set by the workers the agency may place)
+- Select Licence (placing workers earning more than S$4,500 a month)
 
 **Key requirements:**
-- KEO (Key Appointment Holder) appointment
+- Key appointment holder (KAH) appointment
 - EA Personnel registration for staff
 - Premises and operational standards
 - Compliance with Employment Agencies Rules
-- Annual renewal
+- Renewal every 3 years
 - Fee transparency requirements
 
 **operational rules:**
@@ -49,7 +48,6 @@ Per the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and t
 - Standard form Employment Agency Agreement
 - Disclosure obligations
 - Record-keeping requirements
-- Cooling-off rights for certain placements
 
 **FDW-specific additional requirements:**
 - Specific licensing for FDW placement
@@ -100,7 +98,7 @@ Per the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958) and t
 **Pre-launch:**
 - ACRA business registration
 - MOM EA licence application
-- KEO and EA Personnel registrations
+- Key appointment holder and EA Personnel registrations
 - Procure insurance package
 
 **Year 1 (small agency, 2-10 staff):**
@@ -134,13 +132,11 @@ PI for recruitment agencies covers:
 - Loss of documents
 
 **Limit considerations:**
-- Small agency: S$500k-S$2M
-- Mid-size: S$2M-S$5M
-- Executive search with high-value placements: S$5M-S$10M+
+- Limits are set with the adviser for the placement values involved; executive search with high-value placements may warrant higher limits
 
 **Specific exposures by segment:**
 
-**Executive search firms** - placement values can be substantial; misplacement causing executive failure can give rise to material claims. Higher PI limits typical.
+**Executive search firms** - placement values can be substantial; misplacement causing executive failure can give rise to material claims. Higher PI limits may be warranted.
 
 **Blue-collar manpower supply** - high volume, lower individual claim values, but aggregate exposure significant.
 
@@ -217,7 +213,7 @@ For executive search firms:
 - Off-limits / non-poach disputes between clients
 
 **Higher PI limits and specific underwriting:**
-- S$5M-S$10M+ typical
+- Limits set with the adviser for the placement values involved
 - Specialist insurer panel
 - D&O coordination for own firm
 
@@ -245,19 +241,16 @@ See [hiring Philippine staff through an EOR](/cross-border/sg-sme-philippines-re
 For a typical Singapore recruitment agency:
 
 **Small agency (2-8 staff, mid-market placements):**
-- PI: S$2,000-S$8,000
-- Other commercial insurance: S$5,000-S$15,000
-- **Total annual insurance budget** typically S$10,000-S$30,000
+- PI
+- Other commercial insurance
 
 **Mid-size agency (10-25 staff, mixed segments):**
 - Higher PI limits
-- Specialist segment cover: S$15,000-S$45,000
-- **Total: S$30,000-S$80,000**
+- Specialist segment cover
 
 **Executive search or EOR/payroll:**
 - Significantly higher PI for executive search
 - Specialist EOR cover for payroll services
-- **Total: S$40,000-S$150,000+**
 
 #### Operational risk management
 
@@ -316,7 +309,7 @@ For founders opening a recruitment agency in Singapore:
 
 6. **Annual review with broker familiar with recruitment.** Industry-specific underwriting matters.
 
-7. **Maintain client and candidate relationship discipline.** Most disputes start as relationship breakdowns; effective communication often resolves issues.
+7. **Maintain client and candidate relationship discipline.**
 
 ### Questions to Ask Your Adviser
 

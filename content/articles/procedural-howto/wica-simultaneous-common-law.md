@@ -47,7 +47,7 @@ That difference matters for businesses because the same accident can create two 
 
 If the worker, lawyer, or family sends any allegation letter, medical demand, or court document, forward it to the insurer and your servicing intermediary immediately. Do not reply substantively without understanding which policy or section may respond. Even if the WICA claim appears simple, a negligence allegation can change how the file is handled.
 
-Where there is employer liability or common-law extension wording attached to the WICA programme, the insurer will usually want the accident report, witness statements, photographs, salary data, and all medical correspondence. The earlier the insurer sees the whole picture, the better the position on both process and defence.
+Where an incident report is submitted for an injured employee, MOM forwards a copy of it to the employer's insurer. Where there is employer liability or common-law extension wording attached to the WICA programme, the insurer may also ask for witness statements, photographs, salary data and medical correspondence. The earlier the insurer sees the whole picture, the better the position on both process and defence.
 
 #### Step 4 - Do not assume the employee has already made an irrevocable election just because a lawyer wrote in
 

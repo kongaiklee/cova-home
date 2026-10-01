@@ -21,11 +21,11 @@ og_description: "Renovation CAR is the cover a Singapore fit-out firm carries in
 
 > **The Answer in 60 Seconds**
 >
-> A **renovation Contractors' All Risks (CAR) policy** is the cover a renovation or interior-design firm carries for fit-out works - in an HDB flat, a condominium unit governed by a management corporation (MCST), or a commercial space. Two things drive the need for it. First, **risk**: hacking, wet works, electrical and hot works generate frequent claims - water damage to the unit below, fire, damage to the host structure or a neighbour's property. Second, **permit conditions**: a condominium MCST will usually make renovation approval conditional on the contractor holding public-liability cover (a minimum of S$1 million is commonly required, though the figure is set by each MCST, not by statute) and submitting a **certificate of insurance (COI)** before work starts. A renovation CAR policy is typically arranged in two parts - **Section 1, material damage** to the works, and **Section 2, third-party liability** - and is commonly extended to cover the host structure, neighbouring property, hot works, and collapse/vibration from hacking, with the homeowner or property owner added as a joint insured. Separately, the contractor must carry **Work Injury Compensation (WIC) insurance** for its workers, which is compulsory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser.
+> A **renovation Contractors' All Risks (CAR) policy** is the cover a renovation or interior-design firm carries for fit-out works - in an HDB flat, a condominium unit governed by a management corporation (MCST), or a commercial space. Two things drive the need for it. First, **risk**: hacking, wet works, electrical and hot works generate frequent claims - water damage to the unit below, fire, damage to the host structure or a neighbour's property. Second, **permit conditions**: a condominium MCST will usually make renovation approval conditional on the contractor holding public-liability cover (the minimum figure is set by each MCST, not by statute) and submitting a **certificate of insurance (COI)** before work starts. A renovation CAR policy is typically arranged in two parts - **Section 1, material damage** to the works, and **Section 2, third-party liability** - and is commonly extended to cover the host structure, neighbouring property, hot works, and collapse/vibration from hacking, with the homeowner or property owner added as a joint insured. Separately, the contractor must carry **Work Injury Compensation (WIC) insurance** for its workers, which is compulsory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). Covarage does not advise on or arrange policies; where you ask, it introduces you to a licensed adviser.
 
 ### The Sourced Detail
 
-Renovation CAR is a high-volume specialty cover in Singapore. Most renovation contractors and interior designers run a policy covering their projects, sometimes topped up for individual jobs. The compliance driver is the MCST or building-owner permit condition; the underlying reason the cover exists is that fit-out work in an occupied building genuinely damages things.
+The compliance driver is the MCST or building-owner permit condition; the underlying reason the cover exists is that fit-out work in an occupied building genuinely damages things.
 
 #### What renovation CAR insurance is
 
@@ -57,7 +57,7 @@ Beyond the two core sections, renovation work usually calls for several extensio
 
 #### A practical process
 
-1. **Read the permit conditions first.** Whether HDB, an MCST or a commercial landlord, the approval will state the insurance it requires - the public-liability minimum, who must be named, and the COI deadline. That document defines the cover you must produce.
+1. **Read the permit conditions first.** An MCST's or a commercial landlord's approval will usually state the insurance it requires: the public-liability minimum, who must be named, and the COI deadline. That document defines the cover you must produce. HDB's renovation permit conditions set no insurance requirement; they make the flat owner indemnify HDB against claims arising from the works.
 2. **Brief the adviser on the real job.** Contract value, the address and building type, the scope of works (hacking, wet works, electrical, hot works, lifting), the sub-contractors involved, and the homeowner/owner relationship.
 3. **Place the cover.** Section 1 and Section 2, with the extensions the job needs and the homeowner or owner added as joint insured. Confirm WIC insurance is in place for everyone's workers.
 4. **Issue and submit the COI** to the MCST or building manager - and to the homeowner - before work starts. Most permits make commencement conditional on the COI being lodged.
@@ -99,7 +99,7 @@ A note on **same-day cover.** MCST permits often require the COI before work beg
 
 For a Singapore renovation contractor or interior designer, renovation CAR is a routine but unforgiving part of running jobs.
 
-1. **Treat the permit as the spec** - let the HDB, MCST or landlord conditions define the cover you arrange.
+1. **Treat the permit as the spec** - let the MCST or landlord conditions define the cover you arrange (HDB's renovation permit sets no insurance requirement).
 
 2. **Match the extensions to the work** - hot works, existing structures, collapse/vibration, surrounding property.
 

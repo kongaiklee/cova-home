@@ -25,7 +25,7 @@ og_description: "A Singapore gallery or auction house holds other people's prope
 
 ### The Sourced Detail
 
-The Singapore art market occupies a distinctive commercial position in the Asia Pacific regional landscape. The combination of commercial conventions, substantial value scope (individual works can range from S$1,000 to S$50M+), operational scope across exhibitions / consignments / auctions, and specific cross-border commercial scope creates an insurance profile that benefits from specialist understanding. Specialty cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) and specific [Lloyd's of London](https://www.lloyds.com/) specialist Fine Art markets providing substantial Asia Pacific commercial scope.
+The Singapore art market occupies a distinctive commercial position in the Asia Pacific regional landscape. The combination of commercial conventions, substantial value scope, operational scope across exhibitions / consignments / auctions, and specific cross-border commercial scope creates an insurance profile that benefits from specialist understanding. Insurers in Singapore are licensed and regulated by [MAS](https://www.mas.gov.sg/) under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966); the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) is the general insurance industry's association, and [Lloyd's](https://www.lloyds.com/) syndicates also write business from Singapore through Lloyd's Asia.
 
 #### The commercial market context
 
@@ -39,11 +39,11 @@ Specific high-value scope drives operational discipline. Individual works of sub
 
 [Fine art insurance](/document-legal/fine-art-insurance-business-singapore), written as Fine Art / Specie cover, is the foundational specialty cover that distinguishes art market operations from generic commercial scope.
 
-Fine Art / Specie cover provides specific provisions for fine art including specific All Risks scope (broader than standard Property/Fire - addresses specific scope including handling damage, accidental damage, transit scope), specific agreed value provisions (where insurance value is established at procurement rather than at claim - eliminating valuation disputes), operational market value or replacement scope considerations, and operational considerations around scope.
+Fine Art / Specie cover provides specific provisions for fine art including specific All Risks scope (broader than standard Property/Fire - addresses specific scope including handling damage, accidental damage, transit scope), specific agreed value provisions (where the insured value is agreed when the cover is placed rather than assessed at claim time), operational market value or replacement scope considerations, and operational considerations around scope.
 
 Specific scope considerations include specific agreed value vs market value vs replacement value choice (affecting commercial scope substantially), operational operational scope (premises only vs worldwide vs operational operational scope), operational transit scope, and operational exhibition scope.
 
-For SMEs in the segment, Fine Art / Specie cover from specialist markets (Hiscox, Chubb, AXA Art, operational specialist markets) is foundational. Commercial relationships with specialist markets matter substantially.
+For SMEs in the segment, Fine Art / Specie cover from specialist insurers and markets is foundational. Commercial relationships with specialist markets matter substantially.
 
 #### The Bailee liability framework
 
@@ -139,7 +139,7 @@ Specific cross-border commercial scope creates specific multi-jurisdictional com
 
 #### Operational considerations
 
-For substantive art market SMEs, operational considerations includes specialist art-aware broker engagement (the segment is sufficiently specialised that general commercial brokers typically lack specific market access), commercial counsel relationships, specific institutional commercial relationships, specific specialist provider commercial relationships, and operational sophistication.
+For substantive art market SMEs, operational considerations includes specialist art-aware broker engagement, commercial counsel relationships, specific institutional commercial relationships, specific specialist provider commercial relationships, and operational sophistication.
 
 For substantive operations including substantial commercial scope across exhibitions, consignments, and commercial relationships, operational considerations forms operational foundation.
 
@@ -150,7 +150,7 @@ For substantive operations including substantial commercial scope across exhibit
 3. **Inadequate Transit cover for art movement.**
 4. **No Equipment Breakdown for climate control dependencies.**
 5. **Inadequate authentication / provenance discipline.** Specific Professional Indemnity exposure.
-6. **No specialist art-aware broker engagement.** Operational considerations and market access gap.
+6. **No specialist art-aware broker engagement.**
 7. **No customs and cross-border scope.**
 8. **No commercial relationships with specialist markets.**
 9. **No premises provisions for art preservation.**
@@ -160,7 +160,7 @@ For substantive operations including substantial commercial scope across exhibit
 
 For Singapore art market SMEs:
 
-Fine Art / Specie cover is the foundational specialty cover that distinguishes art market operations from generic commercial scope. Bailee liability for consigned works addresses specific exclusion under standard Public Liability. Transit cover addresses substantial movement-related commercial scope. Specialist art-aware broker engagement provides specific market access; considerations on limits, scope, and commercial relationships matters substantially.
+Fine Art / Specie cover is the foundational specialty cover that distinguishes art market operations from generic commercial scope. Bailee liability for consigned works addresses specific exclusion under standard Public Liability. Transit cover addresses substantial movement-related commercial scope. Considerations on limits, scope, and commercial relationships matter substantially.
 
 For substantive operations, commercial counsel relationships, specific institutional commercial relationships, specific specialist provider relationships, and operational sophistication form the foundation. SMEs that engage thoughtfully with the specific risk profile benefit from operational protection that supports substantial commercial scope; SMEs that approach art market operations with standard commercial scope face material gaps across multiple commercial dimensions.
 

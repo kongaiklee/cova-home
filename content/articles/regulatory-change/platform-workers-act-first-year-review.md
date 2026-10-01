@@ -22,11 +22,11 @@ og_description: "The Platform Workers Act commenced in Singapore on 1 January 20
 
 > **The Answer in 60 Seconds**
 >
-> The [Platform Workers Act 2024 (PWA)](https://sso.agc.gov.sg/Act/PWA2024) commenced 1 January 2025, establishing a distinct legal category - **platform worker** - separate from employee or self-employed person. Phased implementation: **CPF contributions** (platform operators contribute alongside platform workers), **Work Injury Compensation** (platform operator procures cover via the 6-insurer designated panel - see [how it differs from the employer list](/comparison/wica-designated-insurer-panel)), and **representation rights** (Platform Work Associations). Year-one enforcement focus from [MOM](https://www.mom.gov.sg/) has emphasised: registration compliance for platform operators, accurate platform worker classification, and WICA-equivalent cover procurement. For Singapore SMEs operating platforms (ride-hail, food delivery, and other gig platforms) or engaging platform workers, the framework has implications across CPF, insurance, and operational structure. For SMEs that use platform workers (e.g. F&B engaging delivery riders), the platform operator handles obligations - but commercial coordination matters.
+> The [Platform Workers Act 2024 (PWA)](https://sso.agc.gov.sg/Act/PWA2024) commenced 1 January 2025, establishing a distinct legal category - **platform worker** - separate from employee or self-employed person. Phased implementation: **CPF contributions** (platform operators contribute alongside platform workers), **Work Injury Compensation** (platform operator procures cover via the 6-insurer designated panel - see [how it differs from the employer list](/comparison/wica-designated-insurer-panel)), and **representation rights** (Platform Work Associations). From 1 January 2025, a platform operator must notify [MOM](https://www.mom.gov.sg/) that it is one, insure its platform workers with a designated platform operator insurer, and deduct and pay their CPF contributions. For Singapore SMEs operating ride-hail or delivery platforms, the two platform services the Act covers, or engaging platform workers, the framework has implications across CPF, insurance, and operational structure. For SMEs that use platform workers (e.g. F&B engaging delivery riders), the platform operator handles obligations - but commercial coordination matters.
 
 ### The Sourced Detail
 
-The PWA represents a structural shift in Singapore's employment framework, creating a distinct legal category for the first time in decades. The first year of implementation has surfaced operational and insurance considerations for SMEs.
+The PWA represents a structural shift in Singapore's employment framework, creating a distinct legal category of worker. The first year of implementation has surfaced operational and insurance considerations for SMEs.
 
 #### The PWA framework
 
@@ -36,7 +36,7 @@ The [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024) means Singap
 2. **Self-employed person** - an independent contractor outside the Employment Act.
 3. **Platform worker** - the new PWA category: a person who provides ride-hail or delivery services through a platform operator and is not an employee of that operator.
 
-A **platform operator** is the entity that runs the platform connecting service requestors and platform workers. The platforms initially within scope are the ride-hail operators (Grab, Gojek, Tada, Ryde and similar) and food-delivery operators (Foodpanda, Deliveroo, GrabFood and similar).
+A **platform operator** is the entity that runs the platform connecting service requestors and platform workers. The platform services within scope are ride-hail services and delivery services (the Act's First Schedule). Operators on MOM's list of platform operators that have notified it include Grab, Gojek, Tada and Ryde for ride-hail, and Grab, Foodpanda and Lalamove for delivery.
 
 #### CPF contributions framework
 
@@ -46,7 +46,7 @@ CPF coverage is mandatory for platform workers born on or after 1 January 1995. 
 
 #### Work Injury Compensation framework
 
-The PWA requires platform operators to procure WICA-equivalent cover for their platform workers, sourced from the separate designated-insurer panel for platform operators (see [how the two lists compare](/comparison/wica-designated-insurer-panel)). The compensation framework parallels standard WICA.
+Since 1 January 2025, platform workers are covered under the Work Injury Compensation Act 2019 itself. Section 34O of that Act, inserted by the PWA, requires every platform operator to insure against its liabilities under the Act for its platform workers with one or more designated platform operator insurers, a separate panel from the employer list (see [how the two lists compare](/comparison/wica-designated-insurer-panel)). MOM states that platform workers get the same scope and level of compensation as employees, except compensation for light duties.
 
 The standard WICA compensation limits effective 1 November 2025 - S$269,000 for death, S$346,000 for total permanent incapacity, and S$53,000 for medical expenses - are the reference point for platform worker cover. (Confirm the prevailing limits and how they apply to platform worker cover against [MOM's guidance](https://www.mom.gov.sg/) before relying on them.)
 
@@ -54,13 +54,13 @@ The standard WICA compensation limits effective 1 November 2025 - S$269,000 for 
 
 The PWA allows platform workers to form and join **Platform Work Associations**, which can represent them on terms and working conditions. Platform operators within scope can expect to engage with these associations as the representation framework develops.
 
-#### First-year enforcement observations
+#### Platform operator duties from 1 January 2025
 
-In the first year of implementation, MOM enforcement has concentrated on four areas: registration compliance by platform operators; accurate classification of platform workers (distinguishing them from employees and the self-employed, assessed on the operational reality rather than the label); procurement of WICA-equivalent cover from the designated panel; and compliance with the phased CPF contribution rates.
+From 1 January 2025 a platform operator must notify MOM within 14 days of meeting the definition of a platform operator, insure its platform workers with a designated platform operator insurer under section 34O of the Work Injury Compensation Act 2019, and deduct and pay CPF contributions at the phased rates. Whether a worker is a platform worker turns on the Act's definitions, including the operator's management control, rather than on the label.
 
 #### Operational implications for platform operators
 
-An SME that operates a platform must register with MOM as a platform operator, procure WICA-equivalent cover from the designated panel, coordinate with the CPF Board on contribution mechanics, and classify its platform workers correctly - with the classification reflecting how the work is actually performed.
+An SME that operates a platform must notify MOM within 14 days of meeting the definition of a platform operator, insure its platform workers with a designated platform operator insurer, coordinate with the CPF Board on contribution mechanics, and classify its platform workers correctly - with the classification reflecting how the work is actually performed.
 
 #### Operational implications for SMEs engaging platform workers
 
@@ -70,11 +70,11 @@ Where an SME engages workers **directly** rather than through a platform, classi
 
 #### Industry observations
 
-The major ride-hail operators (Grab, Gojek, Tada, Ryde) and food-delivery operators (Foodpanda, Deliveroo, GrabFood) implemented PWA compliance from the start of the framework, and first-year commercial pricing adjustments have followed as CPF and insurance costs feed through. Smaller and emerging gig platforms approaching PWA scope need to evaluate whether the Act applies to their model and what compliance it triggers.
+The major ride-hail operators (Grab, Gojek, Tada, Ryde) and delivery operators (Grab, Foodpanda) are on MOM's list of platform operators that have notified it, and several raised their platform fees from 1 January 2025 as the Act's CPF and work injury compensation duties took effect. Smaller and emerging gig platforms approaching PWA scope need to evaluate whether the Act applies to their model and what compliance it triggers.
 
 #### Insurance implications
 
-A platform operator's core requirement is WICA-equivalent cover from the designated panel. Beyond that, platform operations commonly carry Public Liability for third-party injury and property damage arising from the operation, Cyber Liability for the platform's technology infrastructure and its PDPA exposure across platform worker and customer data, and Professional Indemnity where the platform provides a professional service.
+A platform operator's insurance duty under the law is WIC insurance from a designated platform operator insurer (Work Injury Compensation Act 2019, section 34O). Beyond that, other covers that respond to platform risks include Public Liability for third-party injury and property damage arising from the operation, Cyber Liability for the platform's technology infrastructure and its PDPA exposure across platform worker and customer data, and Professional Indemnity where the platform provides a professional service.
 
 #### For SMEs evaluating platform engagement
 
@@ -86,13 +86,13 @@ The first year of implementation has not yet generated significant published cas
 
 #### What's likely in years 2-5
 
-CPF contribution rates phase up each year through 2029, so operators should plan for the rising cost. The framework structure can in principle extend to additional platform categories, MOM enforcement is expected to mature with further guidance, and platform operators will continue adjusting their commercial structures as the framework settles.
+CPF contribution rates phase up each year through 2029, so operators should plan for the rising cost. The framework structure can in principle extend to additional platform categories, MOM may issue further guidance, and platform operators will continue adjusting their commercial structures as the framework settles.
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Platform operator registration overlooked.** Operating a platform without registering with MOM is a compliance breach.
+1. **Platform operator notification overlooked.** A platform operator that does not notify MOM within 14 days of meeting the definition is in breach of the Platform Workers Act (s8), a civil contravention that can attract an administrative penalty.
 2. **Platform worker misclassification.** Treating a platform worker as outside the framework - or an employee as self-employed - creates both labour and insurance exposure.
-3. **WICA-equivalent cover gap.** A platform operator without panel-sourced cover is in direct breach.
+3. **WIC insurance gap.** A platform operator without WIC insurance from a designated platform operator insurer is in breach of section 34O of the Work Injury Compensation Act 2019.
 4. **CPF contribution compliance gaps.** Underpaying or omitting the phased platform-operator CPF share.
 5. **No commercial coordination with platform workers or associations** as the representation framework develops.
 6. **Documented classification not matching operational reality.** The reality of the working relationship governs, not the paperwork.
@@ -105,13 +105,13 @@ CPF contribution rates phase up each year through 2029, so operators should plan
 
 For Singapore SMEs operating platforms or engaging platform workers:
 
-1. **A platform operator needs the full PWA compliance set** - registration, correct classification, panel-sourced insurance, and CPF - as foundational, not optional.
+1. **A platform operator needs the full PWA compliance set:** notifying MOM, correct classification, WIC insurance from a designated platform operator insurer, and CPF contributions. None of it is optional.
 
 2. **An SME engaging workers via a platform** does not carry the platform worker obligations, but should expect commercial coordination on pricing and service continuity as operator costs feed through.
 
 3. **An SME engaging workers directly** must classify them correctly: employee, platform worker, and self-employed person are distinct categories with distinct obligations.
 
-4. **WICA-equivalent cover for platform operators comes only from the designated panel** - see [what this means for buying insurance](/comparison/wica-designated-insurer-panel).
+4. **WIC insurance for platform workers comes only from the designated platform operator insurers** - see [what this means for buying insurance](/comparison/wica-designated-insurer-panel).
 
 5. **Plan for rising CPF cost** as contribution rates phase up through 2029, and review compliance annually.
 
@@ -125,7 +125,7 @@ The PWA framework continues to evolve. First-year implementation has clarified t
 
 1. For my SME profile (platform operator, platform-engaging, or direct-engaging), what PWA implications apply?
 2. How is platform worker classification evaluated for my operations?
-3. For WICA-equivalent cover (if I am a platform operator), what designated-panel options apply?
+3. For WIC insurance for my platform workers (if I am a platform operator), what designated-insurer options apply?
 4. How does the phased CPF contribution schedule affect my cost planning through 2029?
 5. As the framework matures, what compliance changes should I plan for?
 

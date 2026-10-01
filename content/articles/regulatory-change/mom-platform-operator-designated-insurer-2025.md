@@ -32,7 +32,7 @@ Per the [MOM press release of 17 December 2024](https://www.mom.gov.sg/newsroom/
 2. **Financial compensation if injured while working** - work injury compensation at the same level as employees under WICA 2019
 3. A legal framework for representation through Platform Work Associations
 
-Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=P14-) as extended by the Platform Workers Act 2024, platform operators must provide their platform workers with work injury compensation insurance at the same level of coverage as employees under WICA.
+Under [section 34O of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr34O-), in Part 3A inserted by the Platform Workers Act 2024, platform operators must insure with designated PO's insurers against their liabilities under the Act for every platform worker; MOM states this is work injury compensation insurance at the same level of coverage as employees under WICA.
 
 #### Who counts as a platform worker / platform operator
 
@@ -51,11 +51,9 @@ Per the [MOM Platform Operator Designated Insurer PDF](https://www.mom.gov.sg/-/
 
 Each entry includes a hotline and claims email. This is a smaller, specialised pool than the 24-insurer employer list.
 
-#### Why the PO list is smaller than the employer list
+#### What the PO designation requires
 
-MOM-designated PO insurers are required to maintain dedicated claimant support, including hotlines and email channels with response-time service levels for claimant enquiries, and to submit annual audit reports to MOM (specific service-level targets are set in the MOM designation framework; SMEs should verify the current published service standards on the MOM platform workers WICA page before relying on specific response-time figures).
-
-PO WICA also includes anti-discrimination provisions: designated insurers cannot cherry-pick low-risk workers or refuse coverage based on age, race, gender, health status or occupation type. The cohort risk profile (delivery riders on motorcycles, in particular) is materially different from a typical office or industrial workforce, which is why the underwriting pool is intentionally narrower.
+Section 34O of WICA requires a platform operator to insure under one or more approved platform worker insurance policies with one or more designated PO's insurers, and under section 31(2) the Commissioner may impose conditions on a designated insurer, including specified standards of performance relating to the processing of claims. MOM's PO list gives each designated insurer's WICA hotline and WICA email.
 
 #### Differences vs employer WICA
 
@@ -80,7 +78,7 @@ If you operate a platform (or are uncertain whether you qualify as one), compani
 1. **Self-assess** using MOM's published criteria. Notify MOM of platform-operator status if applicable
 2. **Buy from a designated PO insurer** - only the 6 listed above can issue compliant policies
 3. **Reconcile your payroll vs. platform-worker cohorts** : a hybrid business may need both an employer WICA and a PO WICA policy
-4. **Update payroll/payment systems** for CPF contributions (mandatory for platform workers born on/after 1 January 1995, optional opt-in for older workers)
+4. **Update payroll/payment systems** for CPF contributions (the increased contributions are mandatory for platform workers born on or after 1 January 1995 and opt-in for older workers, whose MediSave contributions the platform operator still deducts and pays to the CPF Board)
 5. **Adopt the [Approved Code of Practice for Platform Services](https://www.tal.sg/wshc/resources/publications/codes-of-practice/code-of-practice-for-platform-services)** issued by the WSH Council, which took effect 1 January 2025
 
 ### Questions to Ask Your Adviser

@@ -21,7 +21,7 @@ og_description: "A Singapore insurer's notice suspending, restricting or non-ren
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore SME that receives notice from its insurer of a cover suspension, restriction, mid-term cancellation, or non-renewal at expiry faces a defined operational window before exposure crystallises. The trigger events are typically: **non-payment of premium** under the [GIA Premium Payment Framework](https://gia.org.sg/images/resources/For-Agents/Agents_PremiumPaymentFramework.pdf) 60-day warranty; **material non-disclosure** that the insurer has discovered post-inception; an **unfavourable claims experience** that prompts mid-term review; or a **regulatory** trigger (insurer being acquired, repositioned, or transferred under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) transfer-of-business framework (sections 49FB and 49FC)). The first 48 hours after notice determine whether the SME secures alternative cover before the gap opens. This article sets out the seven-step Day-One response, the legal framework that constrains the insurer's ability to suspend or restrict, and the [FIDReC](https://www.fidrec.com.sg/) and court routes available where the suspension is disputed. For mandatory covers - WICA, foreign-worker medical, motor third-party - the consequence of an uncovered gap is regulatory; for discretionary covers, the consequence is uninsured exposure.
+> A Singapore SME that receives notice from its insurer of a cover suspension, restriction, mid-term cancellation, or non-renewal at expiry faces a defined operational window before exposure crystallises. The trigger events are typically: **non-payment of premium** under the [GIA Premium Payment Framework](https://gia.org.sg/images/resources/For-Agents/Agents_PremiumPaymentFramework.pdf) 60-day warranty; **material non-disclosure** that the insurer has discovered post-inception; an **unfavourable claims experience** that prompts mid-term review; or a **regulatory** trigger (insurer being acquired, repositioned, or transferred under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) transfer-of-business framework (sections 117 and 118)). The first 48 hours after notice determine whether the SME secures alternative cover before the gap opens. This article sets out the seven-step Day-One response, the legal framework that constrains the insurer's ability to suspend or restrict, and the [FIDReC](https://www.fidrec.com.sg/) and court routes available where the suspension is disputed. For mandatory covers - WICA, foreign-worker medical, motor third-party - the consequence of an uncovered gap is regulatory (for WICA, only for employees outside the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers); for discretionary covers, the consequence is uninsured exposure.
 
 ### The Sourced Detail
 
@@ -31,13 +31,13 @@ In each pattern, the timeline is similar: a written notice from the insurer, a s
 
 #### The trigger events
 
-**Trigger 1: Premium-payment lapse.** Under the [GIA Premium Payment Framework](https://gia.org.sg/images/resources/For-Agents/Agents_PremiumPaymentFramework.pdf), a non-life commercial policy in Singapore lapses automatically if the premium is unpaid by day 60 from policy inception. The insurer's notice in this scenario confirms the lapse rather than initiating it - the lapse is the framework's automatic operation. See [the hidden cost of a missed renewal](/procedural-howto/missed-insurance-renewal-cost-singapore-sme).
+**Trigger 1: Premium-payment lapse.** Under the [GIA Premium Payment Framework](https://gia.org.sg/images/resources/For-Agents/Agents_PremiumPaymentFramework.pdf), a commercial-lines policy in Singapore terminates automatically if the premium is not paid and received in full within 60 days of inception (on an instalment plan, the first instalment within 60 days and each later one by its due date); a policy shorter than 60 days must be paid for within the period of insurance. The framework's commercial lines exclude marine, aviation, bonds, trade credit, political risk and global or regional programme policies. The insurer's notice in this scenario confirms the lapse rather than initiating it - the lapse is the framework's automatic operation. See [the hidden cost of a missed renewal](/procedural-howto/missed-insurance-renewal-cost-singapore-sme).
 
 **Trigger 2: Material non-disclosure.** The Singapore law of insurance carries a duty of utmost good faith (uberrimae fidei) on the proposer to disclose all material facts the insurer would want to know. A non-disclosure discovered post-inception may give the insurer the right to avoid the policy from inception, depending on the circumstances. The [Marine Insurance Act 1906 (as applied) and the case law](https://sso.agc.gov.sg/Act/MIA1906) frame the principle.
 
-**Trigger 3: Adverse claims experience.** A high claim frequency or severity in the policy period may prompt the insurer's portfolio review. The standard policy wording typically allows mid-term cancellation only on specified grounds and notice periods (often 30 days); non-renewal at expiry is the more common response.
+**Trigger 3: Adverse claims experience.** A high claim frequency or severity in the policy period may prompt the insurer's portfolio review. Commercial policy wordings can let the insurer cancel mid-term by written notice without stating grounds, on a notice period the wording sets: the compulsory terms for a WIC policy set 30 days, and some published Singapore liability and motor wordings set 14 or 7 days. The insurer can also decline to renew at expiry.
 
-**Trigger 4: Regulatory / corporate action.** Where the insurer itself is being transferred, repositioned, or wound down, the cover position may change. The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) transfer-of-business provisions at sections 49FB and 49FC govern transfer of insurance business; the [Insurance (Amendment) Act 2024 (Act 37/2024)](https://sso.agc.gov.sg/Acts-Supp/37-2024) added a Ministerial-approval requirement for transactions involving co-operative-linked insurers.
+**Trigger 4: Regulatory / corporate action.** Where the insurer itself is being transferred, repositioned, or wound down, the cover position may change. The [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) transfer-of-business provisions at sections 117 and 118 govern transfer of insurance business; the [Insurance (Amendment) Act 2024 (Act 37/2024)](https://sso.agc.gov.sg/Acts-Supp/37-2024) added a Ministerial-approval requirement for transactions involving co-operative-linked insurers.
 
 #### The Day-One response: seven steps
 
@@ -58,11 +58,11 @@ The response is operationally tight. The seven steps run in parallel where possi
 
 - If the trigger is non-payment, attempt immediate payment with a reinstatement request.
 - Reinstatement is at the insurer's discretion; the [GIA Premium Payment Framework](https://gia.org.sg/images/resources/For-Agents/Agents_PremiumPaymentFramework.pdf) allows for it but does not compel it.
-- A successful reinstatement preserves continuity; an unsuccessful one confirms the gap.
+- Under the framework, cover is suspended from the date of breach to the date of payment, and a reinstatement, if the insurer agrees, runs from the date full payment is received to the original expiry date, so the period in between stays uninsured; an unsuccessful request confirms the gap.
 
 **Step 4: Identify the cover gap and its consequences.**
 
-- Mandatory covers (WICA under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), foreign-worker medical under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990), motor third-party under [MVTPRCA 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960)) have regulatory consequences if uncovered.
+- Mandatory covers (WICA under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), foreign-worker medical under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990), motor third-party under [MVTPRCA 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960)) have regulatory consequences if uncovered (for WICA, subject to the excluded classes).
 - Discretionary covers (PI, D&O, cyber, BI, fire) have uninsured-exposure consequences.
 
 **Step 5: Approach the market for alternative cover.**
@@ -80,7 +80,7 @@ The response is operationally tight. The seven steps run in parallel where possi
 **Step 7: Consider dispute routes if the action is contested.**
 
 - Direct resolution with the insurer is the first line.
-- [FIDReC](https://www.fidrec.com.sg/) is available for SMEs meeting the small-business threshold (group turnover at or below S$1 million in each of the two preceding FYs).
+- [FIDReC](https://www.fidrec.com.sg/) is available for SMEs meeting the small-business threshold (group turnover at or below S$1 million in each of the two preceding FYs), but its terms of reference exclude complaints about an insurer's commercial decisions, which include insurance underwriting.
 - Court is the formal route for matters above the FIDReC ceiling or outside its jurisdiction.
 
 See [when to engage FIDReC, the court, or your insurer direct](/decision-tree/insurance-dispute-resolution-fidrec-court-insurer-singapore).
@@ -89,9 +89,9 @@ See [when to engage FIDReC, the court, or your insurer direct](/decision-tree/in
 
 **Work Injury Compensation (WICA).** A gap exposes the employer to:
 
-- Section 25 offence under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019).
+- Section 25 offence under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), for employees outside the excluded classes.
 - Personal liability for the WICA schedule compensation (medical S$53,000, total permanent incapacity S$116,000-S$346,000, death S$91,000-S$269,000 for accidents on or after 1 November 2025 per the [MOM higher-compensation-limits announcement](https://www.mom.gov.sg/newsroom/press-releases/2024/0802-higher-compensation-limits-under-the-work-injury-compensation-act)).
-- Uncapped Common Law exposure that the standard WICA scheme would otherwise indemnify (via Employer's Liability extension).
+- Uninsured common law exposure, which the WICA compensation limits do not cap, where the lapsed policy carried a common law liability rider (MOM describes this as additional coverage, not governed by WICA).
 - Reputational impact in any MOM enforcement.
 
 **Foreign-worker medical insurance (EFMA).** A gap exposes the employer to:
@@ -119,19 +119,19 @@ The discretionary covers' gap is uninsured exposure on the underlying risk. The 
 
 For claims-made covers (PI, D&O, cyber, EPL, crime), a gap in cover creates a **retroactive-date** problem at the next renewal:
 
-- The new insurer's retroactive date typically aligns with the new policy's inception, not the original retroactive date.
+- The new insurer may set the retroactive date at the new policy's inception rather than the original retroactive date.
 - The gap period is then permanently outside cover.
-- Re-establishing the original retroactive date is rare and requires the new insurer's agreement.
+- Keeping the original retroactive date requires the new insurer's agreement.
 
-This is the most expensive long-term consequence of any gap in a claims-made cover - the historic exposure that was previously covered is permanently uninsured.
+If the new insurer moves the retroactive date to the new inception, exposure from before that date that was previously covered stays uninsured.
 
 ### Common Mistakes / What Goes Wrong
 
 1. **Delaying the licensed adviser notification.** Lost hours in a 48-hour window.
 
-2. **Attempting market approach without a licensed adviser.** The market is not accessible directly for most commercial covers.
+2. **Attempting market approach without the licensed adviser.** Insurers do write some commercial cover direct, but the adviser who placed the cover already holds the risk information.
 
-3. **Accepting a non-renewal without challenge if there is basis to challenge.** Direct resolution and FIDReC are available routes.
+3. **Accepting a non-renewal without challenge if there is basis to challenge.** Direct resolution with the insurer is the first route. FIDReC's terms of reference exclude complaints about an insurer's commercial decisions, which include insurance underwriting, so a decision not to renew may fall outside it.
 
 4. **Allowing a mandatory cover to gap, even briefly.** The regulatory consequences are immediate.
 

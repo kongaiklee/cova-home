@@ -1,5 +1,5 @@
 ---
-title: "FIDReC Terms of Reference v2.2 (1 July 2025): Small Businesses Now Eligible Complainants for Insurance Disputes Up to SGD 150,000"
+title: "FIDReC Terms of Reference v2.2 (1 July 2025): Small Businesses Now Eligible Complainants, With Adjudication Up to SGD 150,000"
 slug: "/regulatory-change/fidrec-small-business-eligible-complainants-1-july-2025"
 category: "regulatory-change"
 intent: "know-where-you-stand"
@@ -15,7 +15,7 @@ status: "published"
 hero_image: "/assets/blog/regulatory-change.jpg"
 canonical_url: "https://covarage.com/guides/regulatory-change/fidrec-small-business-eligible-complainants-1-july-2025"
 meta_description: "From 1 July 2025 Singapore's FIDReC accepts small businesses as eligible complainants. Which qualify, and what disputes can now go there."
-og_title: "FIDReC Terms of Reference v2.2 (1 July 2025): Small Businesses Now Eligible Complainants for Insurance Disputes Up to SGD 150,000"
+og_title: "FIDReC Terms of Reference v2.2 (1 July 2025): Small Businesses Now Eligible Complainants, With Adjudication Up to SGD 150,000"
 og_description: "From 1 July 2025 Singapore's FIDReC accepts small businesses as eligible complainants. Which qualify, and what disputes can now go there."
 ---
 
@@ -25,7 +25,7 @@ og_description: "From 1 July 2025 Singapore's FIDReC accepts small businesses as
 
 ### The Sourced Detail
 
-The 1 July 2025 jurisdiction extension is the most significant change to Singapore SME insurance dispute resolution in over a decade. Previously, SMEs disputing denied insurance claims had limited options - court action (high cost, formal process) or industry mediation (limited binding effect). FIDReC now provides structured, low-cost, binding-on-insurer alternative for eligible small businesses.
+The 1 July 2025 jurisdiction extension opens FIDReC to small businesses and charities. Previously, FIDReC's services were available to consumers who were individuals or sole proprietors, so other SMEs disputing denied insurance claims had to use other routes, such as the courts. FIDReC now provides structured, low-cost, binding-on-insurer alternative for eligible small businesses.
 
 #### Regulatory framework
 
@@ -43,9 +43,9 @@ The 1 July 2025 jurisdiction extension is the most significant change to Singapo
 
 **Change 1 - Small Business and Charity Eligibility.**
 
-Pre-1 July 2025: Only individual consumers and some sole proprietors eligible.
+Pre-1 July 2025: Individual consumers and sole proprietors eligible.
 
-Post-1 July 2025: Small businesses (per definition above) and registered charities eligible.
+Post-1 July 2025: Small businesses (per definition above) and charities registered under the Charities Act that are not large charities under the Charities (Large Charities) Regulations eligible.
 
 Per FIDReC's announcement: approximately 200,000 small businesses and 2,000 charities newly within scope.
 
@@ -62,27 +62,26 @@ FIDReC's 30 June 2025 announcement specifically identified categories newly with
 - Individuals / sole proprietors: SGD 50 + GST per claim
 - **Small businesses / charities: SGD 250 + GST per claim**
 
-The differential reflects business complexity but maintains FIDReC as low-cost option vs court action.
+FIDReC describes the extension as letting small businesses and charities resolve financial disputes affordably, without the need for costly legal action.
 
 **Change 4 - Adjudication claim limit (effective 1 July 2024 already).**
 
-Raised from SGD 100,000 to **SGD 150,000** per claim. Coverage above limit not addressable at FIDReC.
+Raised from SGD 100,000 to **SGD 150,000** per claim. Mediation at FIDReC has no claim limit; a claim above SGD 150,000 can go to adjudication only if the FI agrees to the higher amount or the complainant limits the claim.
 
 #### Eligibility criteria for SME complainants
 
 **Entity criteria:**
-- Registered with [ACRA](https://www.acra.gov.sg/) and operating in Singapore
+- Registered and operating in Singapore
 - Group annual sales turnover ≤ **SGD 1 million** in each of the prior 2 financial years (turnover criterion measured at group level)
-- Not a "regulated financial institution" (FIs have separate dispute channels)
 
 **Dispute criteria:**
 - Dispute with a financial institution that is a [FIDReC subscriber](https://www.fidrec.com.sg/) (most Singapore insurers and brokers are subscribers; check directory)
 - Dispute relates to financial product or service
 - Dispute filed within **6 months** of FI's final response
-- Claim amount within FIDReC's monetary jurisdiction (SGD 150,000 per claim for adjudication)
+- For adjudication, a claim of up to SGD 150,000 (a larger claim can be adjudicated if the FI agrees to the higher amount or the complainant limits the claim to SGD 150,000); mediation has no claim limit
 
 **Excluded disputes:**
-- Disputes already in court or arbitration
+- Cases that have had a court hearing and a court judgment or order
 - Disputes about commercial decisions of FI (decisions not to renew, premium pricing - these are not "claims")
 - Disputes about products not within FIDReC scope
 
@@ -92,13 +91,13 @@ Raised from SGD 100,000 to **SGD 150,000** per claim. Coverage above limit not a
 
 Submit written complaint to FI's customer service / claims function. Receive FI's initial response. If unsatisfied, escalate to FI's senior management or appeals function. Receive FI's "final response" letter.
 
-**Step 2 - Obtain the FI's final reply.**
+**Step 2: obtain the FI's final reply, or wait four weeks.**
 
-FIDReC requires the FI to have first been given the opportunity to resolve the dispute. The FI's written final reply is the trigger document - there is no mandatory waiting period after it, and the 6-month filing clock runs from its date.
+FIDReC requires the FI to have first been given the opportunity to resolve the dispute. A complaint can be filed once the FI's internal dispute resolution has not resolved the matter, or four weeks after the matter was referred to the FI, whichever is earlier, and no later than six months after the FI's written final reply (Terms of Reference rule 13(1)).
 
 **Step 3 - File complaint.**
 
-Within **6 months** of FI's final response, file via [FIDReC's complaint portal](https://www.fidrec.com.sg/) or paper submission.
+Within **6 months** of FI's final response, file online through [FIDReC's complaint portal](https://www.fidrec.com.sg/).
 
 **Step 4 - Mediation phase.**
 
@@ -119,9 +118,9 @@ Per FIDReC's 27 November 2025 press release "FIDReC received a record 4,355 clai
 - **4,355 claims** received in FY2024/2025 (highest in 20 years)
 - 50% increase over FY2023/2024 (2,894 claims)
 - 2,646 accepted for handling
-- Drivers: scam-related disputes; expanded jurisdiction; awareness
+- Drivers (FIDReC): scam-related disputes; more claims across most financial institution categories; public awareness
 
-For SMEs: FIDReC capacity is being tested. Early filing within 6-month window important to avoid backlog.
+For SMEs: FIDReC says it generally completes handling 85% of claims within 6 months, and the 6-month filing limit from the FI's final reply still applies.
 
 #### Specific use cases for SMEs
 
@@ -134,14 +133,14 @@ FIDReC route:
 - Internal escalation to insurer
 - Final response received
 - FIDReC complaint filed within 6 months of the final reply
-- Mediation typically resolves
+- Most claims close at mediation (FIDReC: about 75%)
 - Adjudication if mediation fails
 
 **Use case 2 - Vehicle insurance claim partial settlement.**
 
 SME's company-owned vehicle damaged in incident. Insurer offers partial settlement; SME contests.
 
-FIDReC route: similar process; SGD 150,000 adjudication ceiling typically more than adequate for typical motor claims.
+FIDReC route: similar process, with adjudication up to SGD 150,000 per claim.
 
 **Use case 3 - Business banking dispute.**
 
@@ -159,16 +158,16 @@ FIDReC route: applicable for SME-level loan disputes.
 
 SME's TCI claim denied; per [Singapore's first trade credit judgment](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment) (Marketlend v QBE), claim handling is rigorous.
 
-FIDReC route: applicable for SME-level TCI disputes within ceiling. For larger claims (above SGD 150,000), court action remains primary.
+FIDReC route: applicable where the trade credit insurer is a FIDReC subscriber; the Regulations do not require credit and political risk insurers, which are specialist insurers, to join. Above SGD 150,000, FIDReC mediation is still available, but adjudication needs the insurer's agreement or the SME limiting its claim to SGD 150,000.
 
 #### Strategic considerations for SMEs
 
 **When FIDReC is appropriate:**
-- Dispute amount within / near jurisdiction ceiling
+- Dispute amount within / near the SGD 150,000 adjudication ceiling
 - Complainant prefers structured resolution
 - Coverage interpretation rather than complex factual dispute
-- Speed matters (typically 6-12 months vs court 18-36+ months)
-- Cost matters (SGD 250 vs court costs SGD 50,000+)
+- Speed matters (FIDReC says most cases are resolved within 6 months)
+- Cost matters (filing is free; adjudication costs SGD 250 + GST for a small business)
 
 **When FIDReC may not be optimal:**
 - Dispute amount substantially exceeds ceiling
@@ -193,10 +192,10 @@ For SMEs with broker representation:
 #### FIDReC subscriber list
 
 Most Singapore insurers and brokers are FIDReC subscribers, including:
-- All MAS-licensed direct insurers (general and life)
-- All MAS-registered insurance brokers
-- All MAS-licensed financial advisers
-- Most banks and capital markets intermediaries
+- Direct insurers (general and life), other than specialist insurers and insurers whose policies are only for persons other than individuals
+- Direct insurance brokers
+- Licensed financial advisers, other than those licensed to advise only individual accredited investors or corporations
+- Licensed banks and finance companies, and capital markets services licensees other than those serving only accredited, expert or institutional investors or licensed only for corporate finance advice or credit rating
 
 Check current FIDReC subscriber directory before filing.
 
@@ -236,7 +235,7 @@ For Singapore SMEs facing insurance / banking disputes:
 
 5. **Prepare submission with complete documentation**.
 
-6. **Engage substantively with mediation** - most cases settle.
+6. **Engage substantively with mediation.** FIDReC closes about 75% of claims at mediation.
 
 7. **Consider adjudication strategically** - fee modest, decision binding on FI.
 
@@ -244,16 +243,16 @@ For Singapore SMEs facing insurance / banking disputes:
 
 9. **Preserve court option** by understanding decision binding effect.
 
-10. **Time budget realistic expectations** - typically 6-12 months total.
+10. **Time budget realistic expectations.** FIDReC says most cases are resolved within 6 months, and time varies with complexity.
 
-The expansion of FIDReC jurisdiction to SMEs represents material improvement in dispute resolution access. The cost differential (SGD 250 + GST vs court costs typically SGD 50,000+) is substantial. The procedural discipline matters: missing deadlines, eligibility errors, or escalation gaps all trigger case rejection.
+The expansion of FIDReC jurisdiction to SMEs represents material improvement in dispute resolution access. Filing is free, and adjudication costs SGD 250 + GST for a small business. The procedural discipline matters: a complaint made more than six months after the FI's final reply, or by a business that is not eligible, cannot be brought, and a dispute not first raised with the FI is referred back to it.
 
 ### Questions to Ask Your Adviser
 
 1. For our SME's group turnover position, are we within FIDReC eligibility threshold?
 2. For our insurer / broker, are they FIDReC subscribers?
 3. For any current dispute, are we within 6-month filing window from FI's final response?
-4. For dispute amount, is it within or near SGD 150,000 jurisdiction ceiling and does framing affect this?
+4. For dispute amount, is it within or near the SGD 150,000 adjudication ceiling and does framing affect this?
 5. For substantive dispute, should we attempt FIDReC mediation, proceed to adjudication, or consider court directly?
 
 ### Related Information

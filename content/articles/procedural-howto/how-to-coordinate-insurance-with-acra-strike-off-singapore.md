@@ -198,7 +198,7 @@ Where a director is the subject of a regulator investigation (CAD, MAS, ACRA, PD
 
 **Treating ACRA strike-off as a discharge of liability.** Strike-off does not extinguish the underlying claims. The six-year restoration window means the company can be brought back specifically to be sued.
 
-**Cancelling WICA before the last employment terminates.** WICA must run to the last day of employment for the last employee. Premature cancellation creates personal exposure for the directors at common law and under the WICA Act.
+**Cancelling WICA before the last employment terminates.** WICA must run to the last day of employment for the last employee, unless the remaining employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers. Premature cancellation creates personal exposure for the directors at common law and under the WICA Act.
 
 **Cancelling foreign-worker medical before the last work pass is cancelled.** EFMA penalties apply.
 

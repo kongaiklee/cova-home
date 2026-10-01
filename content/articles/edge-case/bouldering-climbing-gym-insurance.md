@@ -21,11 +21,11 @@ og_description: "A Singapore bouldering or climbing gym needs ACRA registration,
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore bouldering gym, indoor climbing facility, or adventure sport venue requires: business registration with [ACRA](https://www.bizfile.gov.sg/), a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate (with elevated standards for high-volume venues), [URA](https://www.ura.gov.sg/) zoning compliance, and - for facilities serving competitive or training audiences - alignment with [Sport Singapore (SportSG)](https://www.sportsingapore.gov.sg/) and national-association standards. Insurance baseline: **Public Liability** at elevated limits (S$3M-S$10M typical, given the activity injury profile), **Participant Sport Liability / Treatment Risk** for activity-related injuries (the foundational specialist layer), **WICA** for staff including activity instructors, **Property/Fire** with equipment cover for climbing walls, mats, holds, and harness equipment, **Cyber Liability** for membership and waiver data, and group **Personal Accident** where offered to members. The most distinctive risk: **participant injury during activity**. Standard SME PL routinely excludes sport and hazardous-activity participation, so activity-aware insurers and policies are essential. Waivers have real limits in Singapore against negligence claims, under common law and the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977).
+> A Singapore bouldering gym, indoor climbing facility, or adventure sport venue requires: business registration with [ACRA](https://www.bizfile.gov.sg/), a [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate (with elevated standards for high-volume venues), [URA](https://www.ura.gov.sg/) zoning compliance, and - for facilities serving competitive or training audiences - alignment with [Sport Singapore (SportSG)](https://www.sportsingapore.gov.sg/) and national-association standards. Insurance baseline: **Public Liability** at a limit set against the activity injury profile, confirmed cover for **participant injury** during the activity, **WICA** for staff including activity instructors, **Property/Fire** with equipment cover for climbing walls, mats, holds, and harness equipment, **Cyber Liability** for membership and waiver data, and group **Personal Accident** where offered to members. The most distinctive risk: **participant injury during activity**. Whether a PL policy covers injury to participants during the activity depends on its wording and endorsements. Waivers have real limits in Singapore against negligence claims, under common law and the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977).
 
 ### The Sourced Detail
 
-Singapore's adventure sport facilities - bouldering gyms, indoor rope climbing, ninja gyms, trampoline parks, ice skating, parkour gyms, indoor surfing - have grown rapidly with both casual and serious training markets. The combination of high participant volume with specific injury risk profiles creates a distinctive insurance category that generic SME approaches don't address.
+Singapore's adventure sport facilities - bouldering gyms, indoor rope climbing, ninja gyms, trampoline parks, ice skating, parkour gyms, indoor surfing - serve both casual and serious training markets. The combination of high participant volume with specific injury risk profiles creates a distinctive insurance category.
 
 #### The regulatory baseline
 
@@ -50,23 +50,23 @@ Singapore's adventure sport facilities - bouldering gyms, indoor rope climbing, 
 PL responds to the general premises exposures - slip / trip, premises operations, and spectator or family-member injuries - and to activity-related incidents: participant falls, equipment-related injuries, contact between participants, and medical events during activity.
 
 **Limit considerations:**
-- Standard limits S$3M-S$10M typical
+- Set against the activity injury profile
 - Higher for higher-risk facilities
 - Landlords may set their own minimums
 
-**Points to confirm with the insurer:** that activity operations are covered (often subject to endorsements), equipment-related claims, and instructor-led activities.
+**Points to confirm with the insurer:** that activity operations are covered, equipment-related claims, and instructor-led activities.
 
-#### The Participant Sport Liability / Treatment Risk layer
+#### The Participant Sport Liability layer
 
-This is the critical specialist layer. **Standard PL routinely excludes sport and hazardous-activity participation** - so without dedicated cover, the very claims a climbing gym most expects (a participant injured during the activity) may not respond at all.
+**Whether PL covers participant injury during the activity depends on the wording.** If the PL wording excludes or limits it, the very claims a climbing gym most expects (a participant injured during the activity) may not respond at all.
 
-Participant Sport Liability fills that gap, covering activity injury across the facility's activity types. Confirm with the insurer which activity types are covered, whether instruction-related cover is included, and how equipment is treated - and set the limit against the activity scope and the industry standard.
+Where the PL wording excludes participant injury, cover for it has to be arranged by endorsement or a separate policy, covering activity injury across the facility's activity types. Confirm with the insurer which activity types are covered, whether instruction-related cover is included, and how equipment is treated - and set the limit against the activity scope.
 
 #### Waiver and consent considerations
 
 Adventure sport facilities use waivers extensively - signed acknowledgements of risk, with medical disclosure - but their legal effect is limited.
 
-Under Singapore common law and the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977), **a waiver does not generally exclude liability for negligence** - the UCTA restricts exclusion clauses, and a clause purporting to exclude liability for death or personal injury caused by negligence is ineffective. For minors, parental consent is required but a waiver has even less effect against a negligence claim.
+Under Singapore common law and the [Unfair Contract Terms Act 1977](https://sso.agc.gov.sg/Act/UCTA1977), **a waiver does not generally exclude liability for negligence** - the UCTA restricts exclusion clauses, and a clause purporting to exclude liability for death or personal injury caused by negligence is ineffective. A waiver signed by or for a minor is subject to the same rule.
 
 So the waiver is not the protection - **operational discipline is**: assessing medical contraindications, fitting equipment correctly, delivering a safety briefing, and documenting all of it.
 
@@ -105,7 +105,7 @@ The Cyber exposures: PDPA exposure heightened by the medical and contraindicatio
 
 **Year 1 (small / single facility):**
 - PL with adventure-sport cover
-- Participant Sport Liability
+- Confirmed cover for participant injury
 - Property/Fire with equipment cover
 - WICA for staff
 - Cyber Liability
@@ -119,20 +119,7 @@ The Cyber exposures: PDPA exposure heightened by the medical and contraindicatio
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore adventure sport facilities (actual premiums depend on activities, scale, and claims history):
-
-**Small / single facility:**
-- PL / Participant Sport Liability: S$3,000-S$15,000
-- Property / Equipment: S$3,000-S$10,000
-- WICA, Cyber, other lines: S$2,000-S$8,000
-- **Total annual insurance budget:** typically S$10,000-S$40,000
-
-**Mid-size (multi-site / specialty):**
-- Higher PL limits and comprehensive Property / Equipment cover
-- **Total:** typically S$30,000-S$100,000
-
-**Established operator:**
-- A comprehensive programme; total scales with the operation
+Premiums depend on the activities offered, the scale of the operation and the claims history, and are set by each insurer's quote.
 
 #### Operational risk management
 
@@ -146,7 +133,7 @@ Insurers underwrite adventure sport facilities on:
 ### Common Mistakes / What Goes Wrong
 
 1. **Standard SME PL with a sport / hazardous-activity exclusion.** A major exposure left unaddressed.
-2. **No Participant Sport Liability.** The core activity exposure left uninsured.
+2. **No confirmed cover for participant injury.** The core activity exposure may be left uninsured.
 3. **Relying on waivers against negligence claims.** They have limited effect in Singapore.
 4. **Equipment cover gaps.** Custom walls and equipment under-covered.
 5. **WICA misclassification of contractor instructors.** See [the Section 25 penalties for uninsured staff](/document-legal/wica-section-25-offence).
@@ -160,11 +147,11 @@ Insurers underwrite adventure sport facilities on:
 
 For Singapore adventure sport facility founders:
 
-1. **Participant Sport Liability is foundational.** Do not operate without it.
+1. **Confirm that participant injury is covered.** Do not operate without that confirmation.
 
 2. **Match the cover to the activity profile.** Bouldering, rope climbing, and ninja gyms carry different risks.
 
-3. **A standard SME policy is typically inadequate.** Use activity-aware insurance.
+3. **Check a standard SME policy for activity exclusions.** Use cover that names the activities you run.
 
 4. **Recognise the limits of waivers.** Operational discipline is the real protection.
 
@@ -178,7 +165,7 @@ For Singapore adventure sport facility founders:
 
 9. **Review annually as the activity scope evolves.**
 
-The adventure sport insurance build is moderate-to-substantial in cost, reflecting the injury exposure. Standard SME approaches typically carry activity exclusions - the specialist cover is what matters.
+The cost of the adventure sport insurance build depends on the activities offered, the scale of the operation and the claims history. Check every policy for activity exclusions before relying on it.
 
 ### Questions to Ask Your Adviser
 

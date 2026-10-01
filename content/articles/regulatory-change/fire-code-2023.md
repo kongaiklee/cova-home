@@ -28,7 +28,7 @@ og_description: "Fire Code 2023 is the ninth edition of Singapore's fire code, p
 
 Singapore's Fire Code is reviewed by the SCDF-led Fire Code Review Committee. The 2023 edition replaces the 2018 edition. The Fire Code is the prescriptive technical standard underpinning the [Fire Safety Act 1993](https://sso.agc.gov.sg/Act/FSA1993).
 
-### What's new in Fire Code 2023
+### Selected provisions in Fire Code 2023
 
 Per the [SCDF Foreword](https://www.scdf.gov.sg/fire-safety-services-listing/fire-code-2023/foreword-and-acknowledgement) and the [Fire Code 2023 PDF](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/firecode-2023-111220241013.pdf), the 2023 edition as published included the following provisions (the amendment tables in the PDF show that several were first added to the 2018 edition before 2023):
 
@@ -82,7 +82,7 @@ For SMEs in Retail, F&B, Manufacturing and Hospitality:
 
 **EV charging and ESS can raise specific underwriting questions.** A multi-tenant industrial building installing EV charging needs to confirm with insurers how the addition affects premiums and exclusions.
 
-**F&B kitchen and combustible-storage compliance pays back.** A documented kitchen suppression system and sprinkler maintenance records are evidence of fire protection that an insurer may take into account.
+**F&B kitchen and combustible-storage fire protection.** A documented kitchen suppression system and sprinkler maintenance records are evidence of fire protection that an insurer may take into account.
 
 ## Questions to Ask Your Adviser
 
