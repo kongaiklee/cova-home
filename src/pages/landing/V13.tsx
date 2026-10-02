@@ -1,4 +1,4 @@
-import { useState, type CSSProperties } from 'react';
+import { Fragment, useState, type CSSProperties } from 'react';
 import { Link } from 'react-router-dom';
 import { IMG, INSURERS, TOPIC_GROUPS, TRADES, type Trade } from './data';
 import RequestCard from './RequestCard';
@@ -40,7 +40,14 @@ const PARTNERS: { slug: string; ext: 'svg' | 'png'; alt: string; desktopPx: numb
   { slug: 'deskimo', ext: 'svg', alt: 'Deskimo', desktopPx: 20, phonePx: 16, on: true },
   { slug: 'charlie-legal-ai', ext: 'png', alt: 'Charlie Legal AI', desktopPx: 23, phonePx: 18, on: true },
   { slug: 'associum-ai', ext: 'png', alt: 'Associum AI', desktopPx: 34, phonePx: 27, on: true },
+  { slug: 'runway-ventures', ext: 'png', alt: 'The Runway Ventures', desktopPx: 18, phonePx: 14, on: true },
+  { slug: 'repair-sg', ext: 'png', alt: 'Repair.sg', desktopPx: 24, phonePx: 19, on: true },
+  { slug: 'coinside', ext: 'svg', alt: 'CoInside', desktopPx: 23, phonePx: 18, on: true },
 ];
+/* Where a row ends, counted in the logos shown: on a phone after the 3rd, 6th and 8th (3 + 3 + 2 + 2, never one logo alone on a
+   row), at lg and up after the 5th (5 + 5; one row of ten would not fit the wrap). A slot switched off moves them. */
+const PHONE_BREAKS = [3, 6, 8];
+const DESKTOP_BREAKS = [5];
 /* A second Teak scrim from the foot, laid over the live one, so every logo sits on the same dark ground whatever trade photo shows. */
 const FOOT = 'linear-gradient(0deg, rgba(38,29,22,0.88) 0, rgba(38,29,22,0.88) 132px, rgba(38,29,22,0) 260px)';
 
@@ -53,20 +60,24 @@ function LogoStrip() {
         <p className="m-0 mb-[18px] text-center text-xs font-medium tracking-[0.14em] text-primary uppercase lg:mb-5 lg:text-left lg:text-[#FDFBF9]">
           Proud to work with and alongside
         </p>
-        <ul className="m-0 flex list-none flex-wrap items-center justify-center gap-x-[18px] gap-y-5 p-0 lg:flex-nowrap lg:justify-between">
-          {shown.map((p) => (
-            <li key={p.slug} className="flex items-center" data-partner={p.slug}>
-              <picture>
-                <source media="(min-width: 1024px)" srcSet={`${IMG}/partners/${p.slug}-on-dark.${p.ext}`} />
-                <img
-                  src={`${IMG}/partners/${p.slug}-on-light.${p.ext}`}
-                  alt={p.alt}
-                  className="block h-[var(--ph)] w-auto lg:h-[var(--dh)]"
-                  style={{ '--ph': `${p.phonePx}px`, '--dh': `${p.desktopPx}px` } as CSSProperties}
-                  decoding="async"
-                />
-              </picture>
-            </li>
+        <ul className="m-0 flex list-none flex-wrap items-center justify-center gap-x-[18px] gap-y-5 p-0 lg:justify-between lg:gap-x-10 lg:gap-y-6">
+          {shown.map((p, i) => (
+            <Fragment key={p.slug}>
+              <li className="flex items-center" data-partner={p.slug}>
+                <picture>
+                  <source media="(min-width: 1024px)" srcSet={`${IMG}/partners/${p.slug}-on-dark.${p.ext}`} />
+                  <img
+                    src={`${IMG}/partners/${p.slug}-on-light.${p.ext}`}
+                    alt={p.alt}
+                    className="block h-[var(--ph)] w-auto lg:h-[var(--dh)]"
+                    style={{ '--ph': `${p.phonePx}px`, '--dh': `${p.desktopPx}px` } as CSSProperties}
+                    decoding="async"
+                  />
+                </picture>
+              </li>
+              {i < shown.length - 1 && PHONE_BREAKS.includes(i + 1) && <li aria-hidden className="h-0 basis-full lg:hidden" data-row-break="phone" />}
+              {i < shown.length - 1 && DESKTOP_BREAKS.includes(i + 1) && <li aria-hidden className="hidden h-0 basis-full lg:block" data-row-break="desktop" />}
+            </Fragment>
           ))}
         </ul>
       </div>
