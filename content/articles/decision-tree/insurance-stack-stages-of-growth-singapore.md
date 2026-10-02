@@ -21,7 +21,7 @@ og_description: "A Singapore insurance stack should change when the business cha
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore SME's insurance stack should change as the business changes, not annually by default. The [Department of Statistics enterprise data](https://www.singstat.gov.sg/find-data/explore-data-themes/industry/enterprises-and-corporate-sector/latest-news-data) sets out the size bands and sector mix of Singapore enterprises; the IRAS [industry tax guides](https://www.iras.gov.sg/taxes/corporate-income-tax/industry-guides/industry-guides-overview) provide the sector-by-sector regulatory context. Across the four life-cycle stages typically observed - **incorporation (0-6 months)**, **early growth (6-24 months)**, **scaling (2-5 years)**, **established (5+ years)** - five insurance variables move: the **mandatory covers** required by [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) and the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960); the **premises exposures** introduced when leases start; the **liability exposures** that scale with customer count, employee count, and contracts; the **financial exposures** that emerge with trade credit, key-person dependencies and director appointments; and the **specialist exposures** (cyber, professional indemnity) that crystallise as the business holds customer data, advises customers, or contracts at scale. This article maps the stack to the stage and flags the most commonly missed cover at each transition.
+> A Singapore SME's insurance stack should change as the business changes, not annually by default. The [Department of Statistics enterprise data](https://www.singstat.gov.sg/find-data/explore-data-themes/industry/enterprises-and-corporate-sector/latest-news-data) sets out the size bands and sector mix of Singapore enterprises; IRAS publishes [common tax mistakes made by companies in specific industries](https://www.iras.gov.sg/taxes/corporate-income-tax/corporate-income-tax-compliance/getting-companies-to-comply). Across the four life-cycle stages typically observed - **incorporation (0-6 months)**, **early growth (6-24 months)**, **scaling (2-5 years)**, **established (5+ years)** - five insurance variables move: the **mandatory covers** required by [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019), [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) and the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960); the **premises exposures** introduced when leases start; the **liability exposures** that scale with customer count, employee count, and contracts; the **financial exposures** that emerge with trade credit, key-person dependencies and director appointments; and the **specialist exposures** (cyber, professional indemnity) that crystallise as the business holds customer data, advises customers, or contracts at scale. This article maps the stack to the stage and flags the most commonly missed cover at each transition.
 
 ### The Sourced Detail
 
@@ -31,8 +31,8 @@ The pattern of insurance failure across the Singapore SME lifecycle is consisten
 
 | Stage | Profile | Essential Covers | Commonly Missed |
 |---|---|---|---|
-| Incorporation (0-6 months) | 1-5 people, founder-led, often no premises lease yet, service or product to first customers | WICA (if any employees); Public Liability (if customer-facing); Professional Indemnity (if advising) | PI retroactive date from Day 1; key-person life on the founder |
-| Early growth (6-24 months) | 5-15 staff, office lease signed, contracts with first commercial customers | WICA, Public Liability, Fire and Contents, Foreign-Worker Medical (if hiring WP/S Pass), Business Interruption | BI extension to fire policy; cyber as customer data accumulates |
+| Incorporation (0-6 months) | 1-5 people, founder-led, often no premises lease yet, service or product to first customers | WIC insurance (for employees within the insurance duty, see Stage 1); Public Liability (if customer-facing); Professional Indemnity (if advising) | PI retroactive date from Day 1; key-person life on the founder |
+| Early growth (6-24 months) | 5-15 staff, office lease signed, contracts with first commercial customers | WIC insurance (for employees within the insurance duty, see Stage 1), Public Liability, Fire and Contents, Foreign-Worker Medical (if hiring WP/S Pass), Business Interruption | BI extension to fire policy; cyber as customer data accumulates |
 | Scaling (2-5 years) | 15-50 staff, multi-product or multi-location, contracts with larger counterparties | Add Key-person Life, Group Medical, Group Personal Accident, Fidelity Guarantee, D&O if appointing external directors | D&O Side A/B/C distinction; cyber as revenue grows; PI sum insured review |
 | Established (5+ years) | 50+ staff, multiple premises, trade credit extended to customers, possibly cross-border | Full stack: Trade Credit, D&O, Cyber, PI at scale, Group Benefits, Performance Bonds for project work | Review of all sum insured against current exposure (typically materially out of date) |
 
@@ -42,9 +42,9 @@ The transitions between stages are the moments when the stack typically falls be
 
 The dominant insurance characteristic of incorporation is **what is not yet needed**, combined with **what becomes locked in from Day 1**.
 
-**Work Injury Compensation insurance** is required as soon as the first employee is hired - including the founder if the founder is paid through CPF and the founder's role is operationally classified within the WICA perimeter (manual workers and non-manual workers at or below S$2,600 per month per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)). The duty does not apply to the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers.
+**Work Injury Compensation insurance** is required as soon as the first employee is hired - including a founder who is an employee under a contract of service (WICA covers employees regardless of salary, and the employer must compensate any employee who makes a valid claim, insured or not) and who falls within the classes that must be insured (manual workers, and non-manual workers whose salary, not counting overtime, bonuses, annual wage supplement, incentive payments and allowances, is S$2,600 a month or less per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)). The duty does not apply to the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers.
 
-**Professional Indemnity (claims-made)** matters from the date the SME first advises a customer. The PI policy's **retroactive date** determines how far back in time the cover extends. A retroactive date of "inception" leaves all prior advice uninsured; a retroactive date of "the SME's incorporation date" picks up the advice given between incorporation and the policy inception. The retroactive date is set at the first policy and is difficult to push earlier at subsequent renewals; getting it right from Day 1 is the highest-leverage decision at this stage.
+**Professional Indemnity (claims-made)** matters from the date the SME first advises a customer. The PI policy's **retroactive date** determines how far back in time the cover extends. A retroactive date of "inception" leaves all prior advice uninsured; a retroactive date of "the SME's incorporation date" picks up the advice given between incorporation and the policy inception. The retroactive date is stated in the policy schedule, and the policy does not cover claims arising from work done before it; getting it right from Day 1 is the highest-leverage decision at this stage.
 
 **Key-person life** on the founder is rarely considered at incorporation but is materially cheaper to take out when the founder is in their thirties or early forties than at any later stage. The cover protects the company against the financial impact of the founder's death or critical illness, including the costs of business continuity, recruitment of a replacement, and any contractual obligations that depend on the founder.
 
@@ -54,11 +54,11 @@ The dominant insurance characteristic of incorporation is **what is not yet need
 
 The dominant change at early growth is **physical premises** and **scaled headcount**.
 
-**Fire and contents cover** attaches to the premises and is rated on the building, contents, stock, and plant-and-machinery sums insured. The **average clause** applies - under-insurance reduces partial-loss payments proportionately. The fire policy should be selected with a Business Interruption extension at the same time; BI taken on at a later date typically results in the indemnity period running short on the first claim because the BI was not coordinated with the fire cover.
+**Fire and contents cover** attaches to the premises and is rated on the building, contents, stock, and plant-and-machinery sums insured. The **average clause** applies - under-insurance reduces partial-loss payments proportionately. The fire policy should be selected with a Business Interruption extension at the same time; some BI wordings pay only if the damaged property is insured against the same damage and that insurer has paid or admitted the claim, so the two covers need to match.
 
 **Foreign-worker medical insurance** under the [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) becomes mandatory as soon as the first Work Permit or S Pass holder is hired - currently with the Stage 2 requirements in force from 1 July 2025 (age-differentiated premiums, standardised exclusions, direct insurer-to-hospital reimbursement).
 
-**Cyber liability** becomes a candidate cover once the SME holds customer personal data subject to [PDPA Part 6A breach notification](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations). Standard general liability and property policies exclude cyber events (under [Lloyd's LMA5400/LMA5401 endorsements](https://www.lmalloyds.com/) or equivalent); without a specific cyber policy, a data-breach incident is uninsured.
+**Cyber liability** becomes a candidate cover once the SME holds customer personal data subject to [PDPA Part 6A breach notification](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations). Property policies may exclude cyber events (the London market's model cyber clauses for property policies include [LMA5400 and LMA5401](https://lmalloyds.com/property-and-marine-cyber-clauses/)), and some general liability wordings exclude liability arising from electronic data; without a specific cyber policy, much of a data-breach incident may be uninsured, though some PI wordings cover liability for a data protection breach.
 
 **Commonly missed:** BI extension to the fire policy; cyber cover as customer data accumulates; landlord-named-insured endorsement on public liability.
 
@@ -66,7 +66,7 @@ The dominant change at early growth is **physical premises** and **scaled headco
 
 The dominant change at scaling is **governance complexity** and **specialist exposures**.
 
-**Group medical and group personal accident** become economic as headcount approaches 15-20. Below that headcount, individual covers may be more cost-effective; above it, group covers offer better terms and lighter administration.
+**Group medical and group personal accident** can be bought for a small team: some SME group plans need only two employees, and some cover eligible employees without a medical examination.
 
 **Directors' and Officers' liability** (D&O) becomes material when external directors are appointed or when the company takes on investor obligations. The D&O policy is structured in three layers:
 
@@ -84,7 +84,7 @@ The Side distinctions matter because the cover the SME most needs at this stage 
 
 The dominant change at the established stage is **scale-driven complexity** and **the accumulation of legacy under-insurance**.
 
-**Trade credit insurance** becomes relevant when the SME extends payment terms to customers and is exposed to customer insolvency. The cover is rated on the buyer list and credit limits; undeclared buyers are typically uninsured.
+**Trade credit insurance** becomes relevant when the SME extends payment terms to customers and is exposed to customer insolvency. The cover is rated on the buyer list and credit limits; a buyer is covered up to the credit limit the insurer approves for it or, under some whole-turnover wordings, up to an amount within the policy's discretionary limit that the insured can justify from written credit information or its own experience of the buyer's account.
 
 **Performance bonds** become a recurring per-project requirement for SMEs in construction, project services, or large customer-contract environments. Bonds are tracked separately from the annual renewal cycle (see [the 12 insurance dates every Singapore SME must track](/procedural-howto/12-insurance-renewal-dates-singapore-sme)).
 
@@ -96,7 +96,7 @@ The dominant change at the established stage is **scale-driven complexity** and 
 
 Insurance stack review should be triggered by event, not by calendar.
 
-- **New hire that crosses a threshold** - first employee, first foreign worker, first 20-employee threshold (group covers become economic).
+- **New hire that crosses a threshold** - first employee, first foreign worker, the headcount at which group staff benefits can be bought (some SME group plans start at two employees).
 - **New premises** - additional location, change of premises, sub-letting.
 - **New contract** - first commercial customer, first cross-border customer, first regulated counterparty.
 - **New product or service line** - particularly any introduction of advisory services (PI), data-handling services (cyber), or physical products (product liability).
@@ -117,7 +117,7 @@ The seven-folder structure ([the corporate insurance folder framework](/procedur
 
 3. **Buying fire without BI.** First claim reveals the gap.
 
-4. **Cyber not bought before customer data accumulates.** PDPA breach exposure is unindemnified.
+4. **Cyber not bought before customer data accumulates.** Much of the PDPA breach exposure may be uninsured.
 
 5. **D&O Side C only without Side A.** Founder personally exposed in insolvency scenarios.
 
@@ -127,7 +127,7 @@ The seven-folder structure ([the corporate insurance folder framework](/procedur
 
 8. **Per-project bonds not tracked separately.** Bond release at end-of-defects-liability is missed.
 
-9. **Group covers maintained on the original headcount basis.** Underwriting subsidy decays as the workforce grows or shrinks.
+9. **Group covers not reviewed as the workforce changes.** Plan choices made for a small team may no longer fit, and some SME plans are priced on the insurer's whole portfolio rather than the firm's own claims.
 
 10. **Cross-border exposure not separately considered.** Singapore-domiciled covers may not respond outside Singapore.
 

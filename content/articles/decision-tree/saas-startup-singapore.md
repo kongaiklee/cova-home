@@ -21,7 +21,7 @@ og_description: "A Singapore SaaS startup's exposure concentrates in cyber: cust
 
 > **The Answer in 60 Seconds**
 >
-> Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer data scope, business interruption to customers, third-party data scope, operational regulatory liability), Technology Errors & Omissions / Professional Indemnity covering software defects and service-level commitment failures, Public Liability for premises and operational scope, D&O for incorporated structures with substantial limits reflecting investor commercial scope, EPL, and considerations on customer commercial relationships. Foundational regulatory framework includes [PDPC](https://www.pdpc.gov.sg/) for personal data, specific [Cybersecurity Act 2018 / 2024](https://sso.agc.gov.sg/Act/CA2018) where applicable to operational scope, and specific multi-jurisdictional data protection frameworks ([GDPR](https://gdpr.eu/), specific other frameworks) for cross-border commercial scope. Considerations on customer Master Service Agreements (MSAs), operational Service Level Agreements (SLAs), and operational data processing agreements matters substantially.
+> Software-as-a-Service (SaaS) startups in Singapore face a foundational insurance profile centred on substantial Cyber Liability scope (covering customer data scope, business interruption to customers, third-party data scope, operational regulatory liability), Technology Errors & Omissions / Professional Indemnity covering software defects and service-level commitment failures, Public Liability for premises and operational scope, D&O for incorporated structures with substantial limits reflecting investor commercial scope, EPL, and considerations on customer commercial relationships. Foundational regulatory framework includes [PDPC](https://www.pdpc.gov.sg/) for personal data, specific [Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) (as amended by the Cybersecurity (Amendment) Act 2024) where applicable to operational scope, and specific multi-jurisdictional data protection frameworks ([GDPR](https://gdpr.eu/), specific other frameworks) for cross-border commercial scope. Considerations on customer Master Service Agreements (MSAs), operational Service Level Agreements (SLAs), and operational data processing agreements matters substantially.
 
 ### The Sourced Detail
 
@@ -35,13 +35,13 @@ The first decision point distinguishes customer commercial scope.
 
 **Mid-market customer base** - operator serves mid-market customers with commercial conventions. Considerations on MSA / SLA negotiation, operational Cyber Liability and Tech E&O scope, operational scope.
 
-**Enterprise customer base** - operator serves enterprise customers with commercial conventions. Considerations on enterprise commercial relationships, substantial Cyber Liability and Tech E&O scope (typical enterprise contracts require specific minimum insurance evidence), commercial relationships scope.
+**Enterprise customer base** - operator serves enterprise customers with commercial conventions. Considerations on enterprise commercial relationships, substantial Cyber Liability and Tech E&O scope (enterprise contracts can require specific minimum insurance evidence), commercial relationships scope.
 
 **Consumer-facing (B2C) base** - operator serves consumer customers. Specific consumer protection scope under [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), specific privacy scope, operational scope.
 
 **Mixed customer base** - operator serves mixed customer profile. Considerations on varied commercial scope.
 
-For each customer base, specific Cyber Liability and Tech E&O / PI scope matters. Enterprise customer commercial scope typically drives substantial limits requirements.
+For each customer base, specific Cyber Liability and Tech E&O / PI scope matters. Enterprise customer contracts can set substantial minimum limits.
 
 #### Decision Point 2: Data scope
 
@@ -53,7 +53,7 @@ The second decision point distinguishes data scope.
 
 **Sensitive data scope** - operator processes sensitive data scope including health data (HIPAA-equivalent scope where US customers), financial data (operational scope), operational other sensitive data. Substantial Cyber Liability scope with specific provisions.
 
-**Critical infrastructure-adjacent scope** - operator's commercial scope intersects with [Critical Information Infrastructure (CII) Act framework](https://sso.agc.gov.sg/Act/CA2018) under operational scope. Considerations on CSA 2024 framework.
+**Critical infrastructure-adjacent scope** - operator's commercial scope intersects with [Critical Information Infrastructure (CII) framework under the Cybersecurity Act 2018](https://sso.agc.gov.sg/Act/CA2018) under operational scope. Considerations on the Cybersecurity (Amendment) Act 2024, parts of which came into operation on 31 October 2025.
 
 #### Decision Point 3: Operational geographic scope
 
@@ -85,7 +85,7 @@ The fifth decision point distinguishes investor commercial scope.
 
 **Angel-funded** - specific investor commercial relationships create specific D&O considerations.
 
-**Series A+ VC-funded** - substantive investor commercial relationships create specific D&O considerations. Framework for investor commercial relationships, specific board commercial scope, considerations on D&O scope. Typical D&O limits S$3M-S$10M+ for substantive scope.
+**Series A+ VC-funded** - substantive investor commercial relationships create specific D&O considerations. Framework for investor commercial relationships, specific board commercial scope, considerations on D&O scope. Illustrative D&O limits for substantive scope are S$3M-S$10M+ (an assumption for this guide, not a market survey).
 
 **Pre-IPO / IPO-track** - considerations on D&O including IPO-specific scope and operational commercial relationships.
 
@@ -135,7 +135,7 @@ Specific cryptocurrency-related scenarios engage specific Crime / Specie cover w
 
 SaaS operations involve commercial conventions affecting insurance.
 
-Specific MSA / SLA commercial scope creates operational considerations considerations. Customer-imposed insurance requirements (typical enterprise contracts specify minimum Cyber Liability, Tech E&O / PI limits) drive procurement scope.
+Specific MSA / SLA commercial scope creates operational considerations considerations. Customer-imposed insurance requirements (enterprise contracts can specify minimum Cyber Liability, Tech E&O / PI limits) drive procurement scope.
 
 Specific data processing agreements (DPAs) create operational scope. GDPR Article 28 requirements, operational other framework requirements.
 
@@ -164,7 +164,7 @@ For substantive SaaS operations, operational considerations includes specialist 
 
 For Singapore SaaS startup SMEs:
 
-Cyber Liability and Technology Errors & Omissions / PI are foundational. D&O cover with substantial limits matters substantially for VC-funded operations. Customer commercial scope drives substantial portions of insurance procurement (enterprise customers typically impose specific minimum insurance requirements). Specific MSA / SLA / DPA commercial sophistication forms the operational foundation alongside insurance procurement.
+Cyber Liability and Technology Errors & Omissions / PI are foundational. D&O cover with substantial limits matters substantially for VC-funded operations. Customer commercial scope drives substantial portions of insurance procurement (enterprise customers can impose specific minimum insurance requirements). Specific MSA / SLA / DPA commercial sophistication forms the operational foundation alongside insurance procurement.
 
 For substantive operations, specialist technology-aware broker engagement, commercial counsel relationships, and operational discipline form the foundation.
 

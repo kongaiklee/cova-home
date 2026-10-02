@@ -25,7 +25,7 @@ og_description: "Family office support services in Singapore handle other people
 
 ### The Sourced Detail
 
-Singapore's family office sector has expanded substantially through MAS's specific tax incentive frameworks (Section 13O for SFOs, Section 13U for substantive operations). The combination of substantial assets under management scope, commercial conventions around ultra-high-net-worth (UHNW) clientele, evolving regulatory framework, and commercial sensitivity creates an insurance profile that benefits substantially from specialist understanding. Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For PDPA framework specifically, [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) provides the foundational framework.
+Singapore's family office sector has expanded substantially, and funds managed by family offices can apply for MAS's fund tax schemes under sections 13O, 13OA and 13U of the Income Tax Act 1947, which set different minimum assets under management (S$20 million for 13O and 13OA, S$50 million for 13U) and numbers of investment professionals. The combination of substantial assets under management scope, commercial conventions around ultra-high-net-worth (UHNW) clientele, evolving regulatory framework, and commercial sensitivity creates an insurance profile that benefits substantially from specialist understanding. Singapore commercial cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). For PDPA framework specifically, [Personal Data Protection Commission (PDPC)](https://www.pdpc.gov.sg/) provides the foundational framework.
 
 #### Decision Point 1: Operational model
 
@@ -59,9 +59,9 @@ For licensed operations, MAS-required Professional Indemnity scope and operation
 
 The third decision point distinguishes tax incentive scheme participation.
 
-**Section 13O** - for SFOs meeting specific qualifying criteria (specific minimum AUM, specific minimum local business spending, specific minimum local employment, operational qualifying assets). Considerations on scheme compliance.
+**Section 13O** - for funds, including funds managed by SFOs, meeting specific qualifying criteria (specific minimum AUM, specific minimum local business spending, specific minimum local employment, operational qualifying assets). Considerations on scheme compliance.
 
-**Section 13U** - for substantive operations meeting specific elevated qualifying criteria (typically S$50M+ AUM with operational scope). Considerations on scheme compliance.
+**Section 13U** - for funds, including funds managed by SFOs, meeting higher qualifying criteria (at least S$50 million in designated investments and 3 qualifying investment professionals, of whom at least 1 is not a family member, against S$20 million and 2 for Section 13O). Considerations on scheme compliance.
 
 **No scheme participation** - operator operates without specific tax incentive scheme. Standard commercial scope.
 

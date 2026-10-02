@@ -360,7 +360,7 @@ The WFA represents a structural shift requiring substantive operational adaptati
 5. As the WFA approaches its commencement, what evolution should I plan for?
 
 ### Related Information
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
 - [EPL Discrimination Claim Handling Process: From Internal Complaint to Resolution](/procedural-howto/epl-discrimination-claim-process)
 

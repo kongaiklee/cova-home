@@ -21,7 +21,7 @@ og_description: "A WICA notification, a Singapore MOM safety investigation and a
 
 > **The Answer in 60 Seconds**
 >
-> First, distinguish what has been triggered: a **WICA claim notification** (an employee reporting a work injury for compensation), an **MOM Occupational Safety and Health inspection** (proactive or complaint-driven), a **WSHA enforcement investigation** (following a reportable incident), or a **criminal investigation** for a serious incident. Each carries a different urgency. Then, in parallel: notify your **WICA insurer** immediately (most policies require notification within about 7 days), engage **commercial / employment counsel** (specifically WSHA-experienced), preserve the incident scene and evidence per the [Workplace Safety and Health (Incident Reporting) Regulations 2020](https://sso.agc.gov.sg/SL/WSHA2006-S859-2020), and prepare for [MOM](https://www.mom.gov.sg/) interviews. The framework: the [Workplace Safety and Health Act 2006 (WSHA)](https://sso.agc.gov.sg/Act/WSHA2006) imposes general and specific duties on employers; **Section 48** creates personal director liability for offences (see [why the officer must prove the defence](/document-legal/wsha-section-48-director-liability)); and the Work Injury Compensation framework operates in parallel for compensation. Insurance considerations: **WICA** for compensation, **EPL** for employment-related claims, and **D&O** for director-related charges under WSHA Section 48.
+> First, distinguish what has been triggered: a **WICA claim notification** (an employee reporting a work injury for compensation), an **MOM Occupational Safety and Health inspection** (proactive or complaint-driven), a **WSHA enforcement investigation** (following a reportable incident), or a **criminal investigation** for a serious incident. Each carries a different urgency. Then, in parallel: notify your **WICA insurer** immediately (MOM tells employers to inform their insurer about the accident as soon as possible; check the policy's notice condition), engage **commercial / employment counsel** (specifically WSHA-experienced), preserve the incident scene and evidence per the [Workplace Safety and Health (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3), and prepare for [MOM](https://www.mom.gov.sg/) interviews. The framework: the [Workplace Safety and Health Act 2006 (WSHA)](https://sso.agc.gov.sg/Act/WSHA2006) imposes general and specific duties on employers; **Section 48** creates personal director liability for offences (see [why the officer must prove the defence](/document-legal/wsha-section-48-director-liability)); and the Work Injury Compensation framework operates in parallel for compensation. Insurance considerations: **WICA** for compensation, **EPL** for employment-related claims, and **D&O** for director-related charges under WSHA Section 48.
 
 ### The Step-by-Step
 
@@ -31,7 +31,7 @@ For Singapore SMEs, MOM workplace incident investigations span routine WICA clai
 
 **Categorise the trigger** - each carries a different urgency:
 
-- **Type A - WICA claim notification.** An employee files a compensation claim through the MOM portal; the employer must file the corresponding incident report. This is routine engagement with the compensation framework.
+- **Type A - WICA claim notification.** Under WICA an employee does not need to file a claim with MOM: the claim is deemed made once the employee notifies the employer of the accident. The employer must report the accident to MOM within 10 days where the employee is given medical leave, hospitalisation or light duty, and inform its insurer. This is routine engagement with the compensation framework.
 - **Type B - MOM OSH inspection.** A proactive or complaint-driven safety inspection - an MOM officer visit and compliance review.
 - **Type C - WSHA enforcement investigation.** Triggered by a reportable incident, with potential enforcement; the urgency rises with the severity.
 - **Type D - Criminal investigation.** For a serious incident potentially indicating an offence, with potential criminal liability for the company and its directors.
@@ -40,14 +40,14 @@ For Singapore SMEs, MOM workplace incident investigations span routine WICA clai
 
 #### The incident reporting framework
 
-Under the [Workplace Safety and Health (Incident Reporting) Regulations 2020](https://sso.agc.gov.sg/SL/WSHA2006-S859-2020), an employer must report:
+Under the [Workplace Safety and Health (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3), an employer must report:
 
 - Workplace fatalities
 - Defined dangerous occurrences
 - Occupational diseases
-- Workplace injuries resulting in more than three days of medical leave (4+ days)
+- Workplace injuries where the employee is certified unfit for work (any medical leave), or to require hospitalisation or light duties (the threshold since 1 September 2020)
 
-Reports must be made to MOM in the prescribed format and within the prescribed time. A failure to report is itself a compliance breach, and can be an aggravating factor in any subsequent enforcement.
+Reports must be made to MOM in the prescribed format and within the prescribed time. A failure to report is itself a compliance breach: failing without reasonable excuse to notify or report is an offence under regulation 11 (a fine of up to S$10,000, or more for a repeat offender).
 
 #### Hour 24-72 - Engagement and preparation
 
@@ -74,11 +74,11 @@ Under the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA
 
 **Section 12 - the general duty.** Employers must take, so far as is reasonably practicable, the measures necessary to ensure the safety and health of employees at work. In practice that means risk assessments, safe systems of work, information, instruction and training, PPE, and competent supervision.
 
-**Section 48 - personal director liability.** Where a company commits a WSHA offence, a director or officer can be personally liable if the offence was committed with their consent or connivance, or was attributable to their neglect (see [the two things an officer must prove](/document-legal/wsha-section-48-director-liability)). This is the provision that turns a corporate safety failure into personal exposure.
+**Section 48 - personal director liability.** Where a company commits a WSHA offence, an officer of the company is guilty of the same offence unless the officer proves both that it was committed without their consent or connivance and that they exercised all due diligence to prevent it (see [the two things an officer must prove](/document-legal/wsha-section-48-director-liability)). This is the provision that turns a corporate safety failure into personal exposure.
 
 #### The MOM investigation process
 
-A WSHA investigation typically runs through four stages:
+A WSHA investigation can include the following steps (an inspector's powers under section 41 include entering and examining the workplace, requiring the production of records and making inquiries):
 
 1. **Initial inspection** - scene preservation, evidence collection, and a compliance assessment.
 2. **Witness interviews** - employees, managers, and senior staff.
@@ -89,7 +89,7 @@ A WSHA investigation typically runs through four stages:
 
 The Work Injury Compensation Act framework operates in parallel for compensation. WICA administers medical-leave wages and capped compensation for medical expenses, permanent incapacity, and death. The current limits - which took effect on **1 November 2025** - are S$53,000 for medical expenses, S$346,000 for total permanent incapacity, and S$269,000 for death. (Confirm the prevailing limits before relying on them.)
 
-Separately, an employee may bring a **common-law claim** for the employer's negligence, beyond the WICA compensation - and that is where WSHA Section 48 and employer's-liability considerations come back into play.
+Alternatively, an employee may bring a **common-law claim** for the employer's negligence instead of claiming under WICA; MOM states that an injured employee can claim under WICA or common law, but not both. A common-law claim is where employer's-liability cover comes into play.
 
 #### Worked scenarios
 
@@ -102,14 +102,14 @@ Separately, an employee may bring a **common-law claim** for the employer's negl
 #### Insurance considerations
 
 - **WICA insurance** - administers the compensation, and may carry an employer's-liability extension for common-law claims.
-- **EPL insurance** - responds where the matter has an employment-relationship dimension.
-- **D&O insurance** - responds to the defence of a Section 48 director-liability charge, covering defence costs and damages - but subject to the **fraud and criminal-act exclusions**.
+- **EPL insurance** - may respond to an employment-practices claim that arises alongside the incident, depending on the policy's terms.
+- **D&O insurance** - may cover the cost of defending a Section 48 charge, subject to the policy's terms and exclusions (including any **fraud and criminal-act exclusions**); a WSHA charge is criminal, so on conviction the penalty is a fine, imprisonment or both, not damages.
 
-**Typically NOT covered:** fines and penalties (a regulatory penalty is generally uninsurable), deliberate or criminal acts, and the cost of the operational improvements MOM expects.
+**Check the policy for exclusions** of fines and penalties, deliberate or criminal acts, and the cost of the operational improvements MOM expects.
 
 #### Personal director exposure
 
-For a director facing a Section 48 charge, **D&O** is the relevant cover - defence costs and damages, subject to the policy provisions and exclusions. The director should engage commercial counsel, cooperate through a defined framework, and prepare personally for the investigation. Board engagement and governance discipline, both before and during the matter, shape the outcome.
+For a director facing a Section 48 charge, **D&O** may cover defence costs, subject to the policy provisions and exclusions. The director should engage commercial counsel, cooperate through a defined framework, and prepare personally for the investigation. Board engagement and governance discipline, both before and during the matter, shape the outcome.
 
 #### Operational recovery and prevention
 
@@ -144,7 +144,7 @@ For Singapore SMEs facing or planning for an MOM workplace incident investigatio
 
 6. **Document the operational improvements made after the incident.**
 
-7. **Recognise the insurance limits.** Penalties and fines are typically uninsured.
+7. **Recognise the insurance limits.** Check whether penalties and fines are excluded.
 
 8. **Build prevention infrastructure** - risk assessment, training, supervision, and equipment.
 

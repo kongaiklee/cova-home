@@ -191,7 +191,7 @@ Treating these as substitutes is the common error. Treating them as a coordinate
 ### Related Information
 - [Claims-Made vs Occurrence Triggers: Why It Matters Which Lines Use Which](/comparison/claims-made-vs-occurrence)
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

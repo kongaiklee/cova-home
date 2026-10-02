@@ -21,37 +21,37 @@ og_description: "Three risks concentrate in a cleaning or FM business at once: a
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore cleaning or facilities-management (FM) company operates with three dominant risk concentrations: a **largely manual workforce** with a high foreign-worker proportion (engaging [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) and [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) at scale); **access to multiple client premises** (engaging public liability, customer-property damage cover, and crime / fidelity exposure); and **specific occupational risks** (chemical handling, work at height, electrical work) subject to [WSHA 2006](https://sso.agc.gov.sg/Act/WSHA2006) and its subsidiary regulations. The sector is licensed under the [Environmental Public Health Act 1987 (EPHA1987)](https://sso.agc.gov.sg/Act/EPHA1987) for general cleaning, with the [NEA Cleaning Business Licence (CBL)](https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence) administered by the National Environment Agency. This article sets out the regulatory perimeter, the eight covers most relevant to a cleaning / FM company, and the operational controls that materially reduce the WICA frequency and PL severity.
+> A Singapore cleaning or facilities-management (FM) company operates with three dominant risk concentrations: a **largely manual workforce** that includes foreign workers on work passes (engaging [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) and [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) at scale); **access to multiple client premises** (engaging public liability, customer-property damage cover, and crime / fidelity exposure); and **specific occupational risks** (chemical handling, work at height, electrical work) subject to [WSHA 2006](https://sso.agc.gov.sg/Act/WSHA2006) and its subsidiary regulations. The sector is licensed under the [Environmental Public Health Act 1987 (EPHA1987)](https://sso.agc.gov.sg/Act/EPHA1987) for general cleaning, with the [NEA Cleaning Business Licence (CBL)](https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence) administered by the National Environment Agency. This article sets out the regulatory perimeter, the eight covers most relevant to a cleaning / FM company, and the operational controls that materially reduce the WICA frequency and PL severity.
 
 ### The Sourced Detail
 
-The Singapore cleaning and FM sector is labour-intensive, with thin margins, high staff turnover, and operations that span dozens or hundreds of client premises simultaneously. The insurance position must respond to a high-frequency / moderate-severity claim pattern rather than the lower-frequency / higher-severity pattern of less people-intensive businesses.
+The Singapore cleaning and FM sector is labour-intensive, and one operator can work across many client premises at the same time.
 
 #### The regulatory perimeter
 
 **NEA Cleaning Business Licence.** Under the [Environmental Public Health Act 1987](https://sso.agc.gov.sg/Act/EPHA1987) and its subsidiary regulations, cleaning businesses providing general cleaning services in Singapore must hold a Cleaning Business Licence from NEA. The CBL is renewed periodically and requires:
 
-- Progressive Wage Model (PWM) compliance for cleaning workers.
+- Progressive Wage Model (PWM) compliance for resident (Singapore citizen and permanent resident) cleaners.
 - Training requirements for cleaning workers (Environmental Cleaning WSQ).
-- Tripartite Alliance for Fair and Progressive Employment Practices (TAFEP) alignment.
+- bizSAFE Level 3 certification and a minimum paid-up capital (for Class 1 and Class 2 licences).
 
 **WSHA 2006 and subsidiary regulations.** [WSHA 2006](https://sso.agc.gov.sg/Act/WSHA2006) governs workplace safety; specific regulations apply for work at height, electrical work, chemical handling, and confined-space entry. The 1 June 2024 [WSH (Amendment of Penalties) Regulations 2024 (S 434/2024)](https://sso.agc.gov.sg/SL-Supp/S434-2024) raised subsidiary-regulation penalties tiered by severity (up to S$50,000 for breaches that are a major cause of serious harm).
 
-**Progressive Wage Model.** Mandatory for cleaning workers since 2014; ties the cleaning worker's wage to the worker's training level and experience.
+**Progressive Wage Model.** A licensing condition for resident (Singapore citizen and permanent resident) cleaners: it applied to those deployed under new contracts from 1 September 2014 and to all resident cleaners from 1 September 2015. It sets a minimum basic wage for each job level, alongside training requirements.
 
 **EFMA 1990 and foreign-worker medical insurance.** Many cleaning workers are Work Permit holders; the Stage 2 foreign-worker medical insurance enhancement is in force from 1 July 2025.
 
 #### The eight-cover insurance stack
 
-**1. WICA / Employer's Liability.** Mandatory; the highest-frequency cover for the sector. The premium scales with the manual-worker payroll. EL extension for Common Law exposure.
+**1. WICA / Employer's Liability.** Mandatory. The premium scales with the manual-worker payroll. EL extension for Common Law exposure.
 
 **2. Foreign-worker medical insurance.** Mandatory for Work Permit / S Pass holders.
 
 **3. Public liability.** For incidents at client premises - a customer or visitor injured by cleaning operations, property damage caused by cleaning materials or equipment. The PL sum insured must accommodate multiple-location exposure.
 
-**4. Customer goods / property damage cover.** For damage to client property caused by the cleaning operation - a damaged carpet, scratched flooring, broken fixture. Often included as an extension to PL.
+**4. Customer goods / property damage cover.** For damage to client property caused by the cleaning operation - a damaged carpet, scratched flooring, broken fixture. PL wordings can exclude it: Etiqa's PL wording excludes damage to property in the insured's charge or control, and to the part of any property the insured is working on where the damage results from that work, so cover depends on the policy's wording and any extension.
 
-**5. Crime / Fidelity guarantee.** Cleaning staff have access to client premises after hours. Fidelity guarantee responds to employee dishonesty. Often required by client contracts.
+**5. Crime / Fidelity guarantee.** Cleaning staff have access to client premises after hours. Fidelity guarantee responds to employee dishonesty. Client contracts may require it.
 
 **6. Fire / property.** For the cleaning company's own premises (office, storage of equipment and consumables).
 
@@ -63,7 +63,7 @@ The Singapore cleaning and FM sector is labour-intensive, with thin margins, hig
 
 Cleaning / FM contracts with corporate or institutional clients typically include specific insurance requirements:
 
-- **Public liability minimum** - often S$1 million to S$5 million.
+- **Public liability minimum**: a stated minimum limit, which varies by contract.
 - **Workmen's compensation / WICA** - confirmation of coverage in force.
 - **Fidelity / crime cover** - sometimes specifically required.
 - **Indemnity in favour of client** - the cleaning company indemnifies the client against losses caused by the cleaning company's negligence.
@@ -75,7 +75,7 @@ See [contribution between insurers](/procedural-howto/contribution-between-insur
 
 #### The two operational risk concentrations
 
-**Risk 1: Work at height.** Cleaning involves work at height (glass facades, high-ceiling spaces, gantries). The [WSH (Work at Heights) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-S592-2013) impose specific requirements. Falls from height are a leading source of WICA fatality claims.
+**Risk 1: Work at height.** Cleaning involves work at height (glass facades, high-ceiling spaces, gantries). The [WSH (Work at Heights) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-S223-2013) impose specific requirements. Falls from height are a leading source of WICA fatality claims.
 
 **Risk 2: Chemical handling.** Cleaning chemicals (acids, alkalis, solvents) cause occupational disease and acute injuries. Material Safety Data Sheets (MSDS), PPE, and ventilation are the controls. The WICA scheme covers occupational disease where specified.
 
@@ -92,7 +92,7 @@ Both risks demand documented control protocols, training records, and incident-r
 7. **No primary-and-non-contributory endorsement** where contractually required.
 8. **Cleaning Business Licence not in force** at any contract period.
 9. **PWM compliance gaps** affecting workforce stability and renewal eligibility.
-10. **No post-incident review** despite high-frequency loss profile.
+10. **No post-incident review** after incidents.
 
 ### What This Means for Your Business
 

@@ -389,7 +389,7 @@ The EPL claim process is the most consequential operational scenario where the W
 5. As the WFA approaches commencement, what evolution should I plan for?
 
 ### Related Information
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [Workplace Fairness Act 2025 Implementation: What Singapore SMEs Need to Know](/regulatory-change/wfa-2024-phase-2-implementation)
 - [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)
 

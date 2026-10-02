@@ -21,7 +21,7 @@ og_description: "Whole turnover covers your whole ledger, single buyer covers on
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs trading on credit terms face two structural choices for [trade credit insurance](/document-legal/trade-credit-insurance-how-it-works-singapore): (1) **Whole Turnover** - blanket policy covering all qualifying buyers under a single credit-management discipline, with the insurer monitoring all approved counterparties; (2) **Single-Buyer / Key-Accounts** - focused policy covering one named high-risk customer or a select group of key accounts. Both approaches protect against buyer payment default - insolvency, prolonged default, or political risk for export receivables. **Indemnity ratio:** typically 75-95% for private buyers; up to 100% for sovereign / quasi-sovereign buyers. **Premium:** 0.05-0.6% of gross monthly sales (typical 0.2%) for whole turnover; per-buyer pricing for single-buyer cover. The four major trade credit underwriters in Singapore are [Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html) (formerly Euler Hermes), Atradius, Coface, and Tokio Marine HCC. Marsh, Aon, WTW, and Howden distribute. Per [GIA FY2024 sector data](https://gia.org.sg/), Trade Credit / Surety / Bonds sit within the offshore Miscellaneous category. **Decision factor:** SMEs with concentrated risk (single buyer >30% revenue) typically benefit from single-buyer cover; diversified exporters benefit from whole-turnover discipline. Receivables typically represent a substantial proportion of business value for trade-credit-exposed SMEs; confirm the receivables-to-balance-sheet ratio against the firm's own management accounts rather than industry rules of thumb.
+> Singapore SMEs trading on credit terms face two structural choices for [trade credit insurance](/document-legal/trade-credit-insurance-how-it-works-singapore): (1) **Whole Turnover** - blanket policy covering all qualifying buyers under a single credit-management discipline, with the insurer monitoring all approved counterparties; (2) **Single-Buyer / Key-Accounts** - focused policy covering one named high-risk customer or a select group of key accounts. Both approaches protect against buyer payment default: insolvency and prolonged default and, where the policy is extended to cover it, political risk on export receivables. **Indemnity ratio:** a set percentage of each insured loss, below 100% (a World Bank primer says policies normally pay no more than 85% to 90%; Atradius covers up to 95%). **Premium:** a percentage of insured turnover for whole turnover (Atradius gives a typical range of 0.1% to 0.5%); per-buyer pricing for single-buyer cover. Insurers on MAS's register whose licence is limited to trade credit insurance (and, with MAS approval, political risk and bond business) are [Allianz Trade](https://www.allianz-trade.com/en_SG.html) (Euler Hermes), Atradius and Coface; other general insurers also write it. [GIA's FY2024 sector results](https://gia.org.sg/) do not report trade credit as a separate segment. **Decision factor:** SMEs with concentrated risk (single buyer >30% revenue) typically benefit from single-buyer cover; diversified exporters benefit from whole-turnover discipline. Receivables typically represent a substantial proportion of business value for trade-credit-exposed SMEs; confirm the receivables-to-balance-sheet ratio against the firm's own management accounts rather than industry rules of thumb.
 
 ## What Trade Credit Insurance Does
 
@@ -29,18 +29,18 @@ Trade credit insurance protects sellers against the risk that buyers will not pa
 
 ### The Triggers
 
-Standard trade credit policies respond to three principal triggers:
+Trade credit policies respond to two principal triggers, and to a third where the policy is extended to cover it:
 
 - **Buyer insolvency** - formal insolvency proceedings (bankruptcy, judicial management, liquidation, scheme of arrangement) against the buyer, recognised in the buyer's jurisdiction.
-- **Protracted default / prolonged default** - non-payment for a defined period (typically 90 to 180 days after due date) without formal insolvency proceedings. The trigger captures buyers who are commercially insolvent but not yet formally insolvent.
-- **Political risk** - for export receivables, non-payment caused by political events affecting the buyer's country (war, currency inconvertibility, government action preventing payment, expropriation).
+- **Protracted default / prolonged default** - non-payment for a defined period (set by the policy; a World Bank primer says usually 60 to 180 days after the due date) without formal insolvency proceedings. The trigger captures buyers who are commercially insolvent but not yet formally insolvent.
+- **Political risk**: where the policy is extended to cover it (a World Bank primer says at additional premium), non-payment on export receivables caused by political events affecting the buyer's country (war, currency inconvertibility, government action preventing payment, expropriation). Some published wordings exclude political risk.
 
 The "non-payment from dispute" exposure is typically excluded - disputes over the goods, services, or contract terms are commercial matters between the parties, not insurance triggers.
 
 ### Indemnity Structure
 
-- **Indemnity ratio**: typically 75-95% for private buyers, up to 100% for sovereign / quasi-sovereign buyers.
-- **Waiting period**: typically 90 to 180 days for protracted default before indemnity payment.
+- **Indemnity ratio**: a set percentage of each insured loss, below 100% (a World Bank primer says normally no more than 85% to 90%; Atradius covers up to 95%).
+- **Waiting period**: set by the policy for protracted default before indemnity payment (a World Bank primer says between 60 and 180 days).
 - **Maximum liability**: per-buyer limit set by the insurer based on credit assessment.
 - **Aggregate cover**: total programme aggregate across all covered buyers.
 
@@ -62,9 +62,9 @@ Whole turnover cover blankets all qualifying buyers under a single policy with c
 
 - **All-buyer coverage**: every qualifying buyer is automatically eligible for cover subject to the insurer's credit-limit decision.
 - **Single discipline**: consistent credit-management workflow across all buyers.
-- **Bulk pricing**: rate per dollar of insured turnover, typically 0.05-0.6% of gross monthly sales (most commonly around 0.2% for diversified SMEs).
+- **Bulk pricing**: a rate applied to insured turnover (Atradius gives a typical range of 0.1% to 0.5%).
 - **Annual renewal**: the policy renews annually with updated rates reflecting the prior year's experience.
-- **Discretionary limits**: small-buyer thresholds where the SME can extend credit without specific insurer approval (typically up to S$10,000-S$50,000 per buyer).
+- **Discretionary limits**: small-buyer thresholds where the SME can extend credit without specific insurer approval (up to a maximum set in the policy).
 
 ### Pros
 
@@ -75,7 +75,7 @@ Whole turnover cover blankets all qualifying buyers under a single policy with c
 
 ### Cons
 
-- **Minimum premium**: typical minimum S$10,000-S$25,000 annually. Below this turnover, whole turnover is uneconomic.
+- **Minimum premium**: policies typically include a minimum premium, which applies even if actual turnover is lower than estimated, so a small insured turnover can make whole turnover uneconomic.
 - **Coverage of low-quality buyers**: the insurer may decline or sub-limit weaker buyers, leaving the SME selectively exposed.
 - **Credit-limit volatility**: limits can move during the policy period as buyer conditions change.
 - **Information disclosure burden**: monthly or quarterly reporting of receivables, turnover, and overdue accounts.
@@ -87,7 +87,7 @@ Whole turnover suits:
 - Diversified SMEs with many small / mid-sized buyers.
 - Exporters serving multiple counterparties.
 - Distributors and wholesalers with broad customer bases.
-- SMEs using receivables for financing (lenders typically value broad cover).
+- SMEs using receivables for financing (lenders often view insured receivables as lower risk).
 
 ## Single-Buyer / Key-Accounts Cover
 
@@ -134,19 +134,18 @@ Single-buyer suits:
 
 ### Variable 2: Revenue Scale
 
-- **Annual revenue below S$3m**: minimum premium economics typically rule out whole turnover; selective single-buyer cover where needed.
-- **Annual revenue S$3m-S$15m**: whole turnover becomes viable.
-- **Annual revenue S$15m+**: whole turnover with portfolio discipline becomes the default; large key accounts can be carved out for separate or enhanced treatment.
+- **Smaller insured turnover**: the policy's minimum premium can rule out whole turnover; selective single-buyer cover where needed.
+- **Larger insured turnover**: whole turnover becomes viable, and large key accounts can be carved out for separate or enhanced treatment.
 
 ### Variable 3: Export vs Domestic Profile
 
-Export sales carry political-risk exposure that domestic sales do not. For SMEs with material export exposure, the political-risk coverage of trade credit insurance is a meaningful complement to the commercial-credit-risk coverage.
+Export sales carry political-risk exposure that domestic sales do not. For SMEs with material export exposure, political-risk cover, where the policy is extended to include it, is a meaningful complement to the commercial-credit-risk coverage.
 
 For pure-domestic Singapore SMEs, the commercial-credit-risk coverage is the principal protection.
 
 ### Variable 4: Financing Linkage
 
-If the SME uses receivables for working-capital financing, lenders typically prefer whole turnover cover for the broad receivables-portfolio protection. Single-buyer cover may not satisfy lender requirements for a broad receivables facility.
+If the SME uses receivables for working-capital financing, a lender may prefer whole turnover cover for the broad receivables-portfolio protection. Single-buyer cover may not satisfy lender requirements for a broad receivables facility.
 
 ### Variable 5: Credit-Management Infrastructure
 
@@ -154,23 +153,20 @@ Whole turnover effectively outsources part of the credit-monitoring function to 
 
 ## The Singapore Market
 
-Trade credit cover in Singapore is provided principally by four major underwriters with global trade-credit franchises:
+Trade credit cover in Singapore is written by general insurers, including three on MAS's register that are licensed to write only trade credit insurance (and, with MAS approval, political risk and bond business); the policy in the Marketlend case below was issued by QBE Insurance (Singapore) Pte Ltd. The three are:
 
-- **[Allianz Trade Singapore](https://www.allianz-trade.com/en_SG.html)** (formerly Euler Hermes; rebranded under Allianz Trade in March 2022).
+- **[Allianz Trade](https://www.allianz-trade.com/en_SG.html)**: Allianz Trade is the trademark used to designate a range of services provided by Euler Hermes, and MAS lists the insurer as Euler Hermes Singapore Branch.
 - **Atradius** - global trade credit insurer with Singapore office.
 - **Coface** - French-origin global trade credit insurer.
-- **Tokio Marine HCC** - specialty division of Tokio Marine with global trade credit capability.
 
-Major brokers in the Singapore trade credit market include Marsh, Aon, WTW, and Howden. Singapore-specialist trade credit brokerages also operate in the segment.
-
-Per the [GIA FY2024 sector results](https://gia.org.sg/), Trade Credit / Surety / Bonds business is captured within the offshore Miscellaneous category in GIA reporting. Singapore offshore Miscellaneous GWP was substantial in FY2024, reflecting Singapore's role as a regional hub for trade finance.
+Per the [GIA FY2024 sector results](https://gia.org.sg/), offshore gross written premiums were S$5.18 billion in 2024; the results name the top five offshore segments (Property, Liability and Others, Engineering, Marine Hull and Cargo) and do not report trade credit separately.
 
 ## The Marketlend / QBE Trade Credit Case
 
 The Singapore International Commercial Court's judgment in **Marketlend Pty Ltd and another v QBE Insurance (Singapore) Pte Ltd** [2025] SGHC(I) 1 addressed important questions on trade credit insurance interpretation and is summarised in our [regulatory-change article](/regulatory-change/marketlend-qbe-trade-credit-insurance-judgment). The court found in favour of the insurer - holding QBE not liable for the disputed claim of roughly US$9 million - and the judgment underlines the importance of:
 
 - Not assigning the policy's rights or benefits to a financier without the insurer's written consent.
-- The insured's burden of proving that the underlying transactions were genuine physical trades (the court found two of the trades to be fictitious).
+- The insured's burden of proving that the underlying transactions were genuine physical trades (the court held that the claimants had not proved any of the eight trades genuine, found two of them fictitious on direct evidence and inferred that the other six were fictitious too).
 - Strict compliance with conditions precedent, including producing the documents the insurer requests to verify the trade and the claim.
 
 SMEs negotiating or claiming under trade credit cover should test their wording and their documentation discipline against the issues raised in the judgment.
@@ -179,11 +175,11 @@ SMEs negotiating or claiming under trade credit cover should test their wording 
 
 ### Indemnity Ratio
 
-75-95% is the typical range. Higher indemnity ratios (90%+) are available for premium uplift or for stronger buyers. The trade-off is indemnity quality vs premium efficiency.
+A World Bank primer says policies never cover 100% of the loss and normally no more than 85% to 90%; Atradius covers up to 95%. The trade-off is indemnity quality vs premium efficiency.
 
 ### Waiting Period
 
-90-180 days for protracted default. Shorter waiting periods support faster claim payment but typically attract higher premium.
+Set by the policy for protracted default (a World Bank primer says between 60 and 180 days). Shorter waiting periods support faster claim payment but typically attract higher premium.
 
 ### Credit Limit Mechanics
 
@@ -234,9 +230,9 @@ Standard exclusions include:
 
 ### Claim Process
 
-- Trigger event: buyer insolvency, protracted default, or political event.
+- Trigger event: buyer insolvency, protracted default, or a political event where the policy covers it.
 - Notification: within the wording's timetable, with supporting documents.
-- Waiting period: typically 90-180 days for protracted default.
+- Waiting period: set by the policy for protracted default (a World Bank primer says between 60 and 180 days).
 - Indemnity calculation: insured loss times indemnity ratio.
 - Payment: typically after waiting period and verification.
 - Recovery: insurer pursues recovery against the buyer; net recoveries shared.
@@ -255,7 +251,7 @@ Standard exclusions include:
 
 **Missing overdue-account notification timetables.** Late notification can compromise indemnity.
 
-**Whole turnover without minimum-volume economics.** Below the minimum premium threshold, whole turnover is uneconomic and selective single-buyer cover is the answer.
+**Whole turnover without minimum-volume economics.** Where the insured turnover is too small to justify the policy's minimum premium, whole turnover can be uneconomic and selective single-buyer cover may suit better.
 
 **Single-buyer without considering portfolio context.** Single-buyer cover leaves the rest of the portfolio uninsured. SMEs should assess whether the uninsured remainder is acceptable.
 
@@ -263,7 +259,7 @@ Standard exclusions include:
 
 **Not coordinating with lender requirements.** Lenders may have specific trade credit cover expectations for receivables financing facilities.
 
-**Forgetting political risk on export receivables.** Sovereign-risk events have occurred in markets Singapore SMEs trade with. Political risk coverage is the response.
+**Forgetting political risk on export receivables.** Sovereign-risk events have occurred in markets Singapore SMEs trade with. Political risk cover, where a policy is extended to include it, is the response.
 
 **Inadequate documentation of buyer-side commercial dispute.** When trade credit claim arises, the buyer often raises a dispute as a defence. Strong contract documentation is the SME's protection.
 
@@ -273,15 +269,15 @@ Standard exclusions include:
 
 If you sell on credit terms as a Singapore SME - whether domestically, regionally, or globally - receivables are a significant balance-sheet exposure. Trade credit insurance is the structural protection against buyer default.
 
-The whole turnover vs single-buyer decision rests on portfolio concentration, revenue scale, export profile, financing arrangement, and credit-management infrastructure. For most SMEs above S$5m revenue with diversified portfolios, whole turnover is the structural answer. For SMEs with concentrated revenue or specific high-risk relationships, single-buyer or hybrid structures are the answer.
+The whole turnover vs single-buyer decision rests on portfolio concentration, revenue scale, export profile, financing arrangement, and credit-management infrastructure. For SMEs with diversified portfolios and enough insured turnover to justify the minimum premium, whole turnover is the structural answer. For SMEs with concentrated revenue or specific high-risk relationships, single-buyer or hybrid structures are the answer.
 
-Your licensed adviser should walk you through the portfolio analysis, the major underwriter quotes, the wording considerations (indemnity ratio, waiting period, credit limit mechanics), and the financing-linkage question. The annual renewal is the right moment to revisit the structure as the SME's portfolio and growth trajectory evolves.
+Your licensed adviser should walk you through the portfolio analysis, quotes from trade credit insurers, the wording considerations (indemnity ratio, waiting period, credit limit mechanics), and the financing-linkage question. The annual renewal is the right moment to revisit the structure as the SME's portfolio and growth trajectory evolves.
 
 ## Questions to Ask Your Adviser
 
 1. For my customer-concentration profile and revenue scale, which structure (whole turnover vs single-buyer) is recommended, and what is the indicative premium under each?
-2. Which of the four major underwriters (Allianz Trade, Atradius, Coface, Tokio Marine HCC) are competitive for my profile, and what are the differentiating features?
-3. What indemnity ratio do you recommend, and what is the premium impact of going from 75% to 90%?
+2. Which trade credit insurers are competitive for my profile, and what are the differentiating features?
+3. What indemnity ratio do you recommend, and what is the premium impact of a higher indemnity ratio?
 4. For my export receivables, what political-risk coverage is included, and what countries are within scope?
 5. How does the credit-limit mechanism work - what is the workflow when an insurer reduces a limit on a buyer I am actively selling to?
 6. What is the overdue-account notification timetable, and how is the documentation requirement managed when a buyer raises a dispute?

@@ -14,9 +14,9 @@ word_count: 1408
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/cyber-incident-first-72-hours-singapore-sme-playbook"
-meta_description: "A cyber incident starts several clocks at once and the fastest is two hours. Which regulators need telling, by when, and in what order."
+meta_description: "A cyber incident can start several clocks at once, from two hours for critical infrastructure owners to three days for the PDPC. Who to tell, and by when."
 og_title: "The First 72 Hours After a Cyber Incident: A Singapore SME Playbook"
-og_description: "A cyber incident starts several clocks at once and the fastest is two hours. Which regulators need telling, by when, and in what order."
+og_description: "A cyber incident can start several clocks at once, from two hours for critical infrastructure owners to three days for the PDPC. Who to tell, and by when."
 ---
 
 > **The Answer in 60 Seconds**
@@ -73,7 +73,7 @@ The first 72 hours after a cyber incident determine the regulatory exposure, the
 
 **PDPC notification.** If the section 26C assessment determined the breach is notifiable, the [PDPC notification portal](https://eservice.pdpc.gov.sg/case/db) submission is made within 3 calendar days of that assessment. The submission includes the prescribed information.
 
-**Individual notification.** Where the significant-harm threshold is met, affected individuals are notified in a manner the organisation considers reasonable.
+**Individual notification.** Where the significant-harm threshold is met, affected individuals are notified, on or after notifying the PDPC, in any manner that is reasonable in the circumstances, unless an exception in section 26D(5) to (7) applies.
 
 **Public communication.** A holding statement may be issued; substantive disclosure depends on the SME's industry, customer base, and listed-entity status (where applicable).
 

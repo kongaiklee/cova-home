@@ -15,32 +15,32 @@ word_count: 2228
 status: "published"
 hero_image: "/assets/blog/emerging-risk.jpg"
 canonical_url: "https://covarage.com/guides/emerging-risk/ai/ai-chatbot-customer-misrepresentation-liability-singapore-sme"
-meta_description: "You are legally responsible for what your chatbot says to a customer. Where Singapore contract law puts that liability, and what limits it."
+meta_description: "A business can be held responsible for what its chatbot tells a customer. How Singapore consumer, data and advice rules apply, and what limits it."
 og_title: "AI Chatbots and Customer Misrepresentation: Singapore SME Liability When the Bot Says the Wrong Thing"
-og_description: "You are legally responsible for what your chatbot says to a customer. Where Singapore contract law puts that liability, and what limits it."
+og_description: "A business can be held responsible for what its chatbot tells a customer. How Singapore consumer, data and advice rules apply, and what limits it."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore SME that deploys a customer-facing AI chatbot is **legally responsible for what the chatbot says**. The principle is anchored in [B2C2 Ltd v Quoine Pte Ltd \[2020\] SGCA(I) 02](https://www.elitigation.sg/gd/s/2020_SGCAI_2), in which a five-judge Court of Appeal held that the knowledge and intention of an algorithmic system is attributed to the programmer who caused it to operate as it did. International precedent has now caught up: in the widely-reported British Columbia Civil Resolution Tribunal decision *Moffatt v Air Canada* (February 2024), the airline was held liable for a refund promise its chatbot made that contradicted the airline's own published policy. For Singapore SMEs the exposure operates on three fronts at once: **misrepresentation liability** under the [Consumer Protection (Fair Trading) Act 2003 (CPFTA)](https://sso.agc.gov.sg/Act/CPFTA2003) administered by CCCS; **professional indemnity** exposure where the chatbot gives advice within a regulated activity; and **personal data** exposure under the [PDPA's Data Protection Obligations](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations) when the chatbot collects or processes individuals' data. This article sets out the Singapore legal framework, the four scenarios where chatbot deployments most often go wrong, and which insurance covers are operationally relevant.
+> A Singapore SME that deploys a customer-facing AI chatbot can be **held responsible for what the chatbot says**. In [Quoine Pte Ltd v B2C2 Ltd \[2020\] SGCA(I) 02](https://www.elitigation.sg/gd/s/2020_SGCAI_2), a majority of the five-judge Court of Appeal held that, where a contract is made by deterministic algorithms, knowledge of a mistake is judged by the state of mind of the programmer. Outside Singapore, in the widely-reported British Columbia Civil Resolution Tribunal decision *Moffatt v Air Canada* (February 2024), the airline was held liable for a refund promise its chatbot made that contradicted the airline's own published policy. For Singapore SMEs the exposure operates on three fronts at once: **misrepresentation liability** under the [Consumer Protection (Fair Trading) Act 2003 (CPFTA)](https://sso.agc.gov.sg/Act/CPFTA2003) administered by CCS; **professional indemnity** exposure where the chatbot gives advice within a regulated activity; and **personal data** exposure under the [PDPA's Data Protection Obligations](https://www.pdpc.gov.sg/overview-of-pdpa/the-legislation/personal-data-protection-act/data-protection-obligations) when the chatbot collects or processes individuals' data. This article sets out the Singapore legal framework, the four scenarios where chatbot deployments most often go wrong, and which insurance covers are operationally relevant.
 
 ### The Sourced Detail
 
 The deployment of customer-facing AI chatbots in Singapore SMEs accelerated through 2024-2025 with the broad availability of foundation-model APIs from OpenAI, Anthropic, Google and Meta, plus the proliferation of low-code chatbot platforms (Intercom Fin, Zendesk AI, plus open-source LangChain stacks). The technical accessibility has outpaced the legal and insurance discipline around what to do when the chatbot makes a mistake that costs the customer money or breaches the customer's data.
 
-The Singapore framework that governs the exposure is already in place; the absence is not regulatory clarity but operational awareness of what already applies.
+The Singapore laws that govern the exposure are already in place, although a Singapore case comment ([2025] SAL Prac 16) says the position on liability for the output of non-deterministic chatbots is less clear.
 
-#### The legal anchor: B2C2 v Quoine attribution
+#### The Quoine decision: algorithms and knowledge of a mistake
 
-In [*Quoine Pte Ltd v B2C2 Ltd* \[2020\] SGCA(I) 02](https://www.elitigation.sg/gd/s/2020_SGCAI_2), the Singapore Court of Appeal (sitting as the Singapore International Commercial Court appellate panel) held by majority that for the purposes of doctrines like unilateral mistake, the knowledge attributed to an algorithmic trading system is the knowledge of the **programmer who caused the software to operate as it did**, not of the machine. The case concerned deterministic algorithms; Lord Mance, dissenting, noted that non-deterministic generative AI may require further development of the doctrine.
+In [*Quoine Pte Ltd v B2C2 Ltd* \[2020\] SGCA(I) 02](https://www.elitigation.sg/gd/s/2020_SGCAI_2), the Singapore Court of Appeal (sitting as the Singapore International Commercial Court appellate panel) held by majority that for the purposes of doctrines like unilateral mistake, the knowledge attributed to an algorithmic trading system is the knowledge of the **programmer who caused the software to operate as it did**, not of the machine. The case concerned deterministic algorithms; the first-instance judge said the law on how knowledge is ascertained where computers have replaced human actions would develop, particularly where the computer "is creating artificial intelligence and could therefore be said to have a mind of its own", and Lord Mance, dissenting, said the law "must be adapted to the new world of algorithmic programmes and artificial intelligence".
 
-The controlling principle for SMEs is clear regardless of the doctrinal frontier: **a Singapore SME cannot point at its chatbot and disclaim responsibility for what the chatbot said to a customer**. The chatbot is the SME's agent in fact and in law, and the SME owns the consequences of its outputs.
+A Singapore case comment on *Moffatt* ([2025] SAL Prac 16) says that for a rule-based chatbot "it would be quite difficult to escape liability on the basis that one had no control over its output", and that the position for non-deterministic chatbots, such as those built on large language models, "is less clear". The chatbot is not a separate legal person: in *Moffatt* the tribunal treated a chatbot as "still just a part of" the business's website.
 
-The international counterpart is the British Columbia Civil Resolution Tribunal's February 2024 decision in *Moffatt v Air Canada*, in which the airline was held liable for the misstatement its chatbot made about a bereavement-fare refund policy. The CRT's reasoning - that a company is responsible for all information on its website, whether produced by a chatbot or a static page - mirrors the Singapore attribution principle and is now cited internationally as the operative authority on chatbot misrepresentation liability.
+That case is the British Columbia Civil Resolution Tribunal's February 2024 decision in *Moffatt v Air Canada*, in which the airline was held liable for the misstatement its chatbot made about a bereavement-fare refund policy. The CRT's reasoning - that a company is responsible for all information on its website, whether produced by a chatbot or a static page - has been widely written up, including in a Singapore Academy of Law case comment ([2025] SAL Prac 16).
 
 #### Consumer-protection exposure - the CPFTA route
 
-The [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), administered by the [Competition and Consumer Commission of Singapore (CCCS)](https://www.cccs.gov.sg/), prohibits "unfair practices" in consumer transactions under section 4. The Second Schedule to the Act sets out the illustrative examples of unfair practices including representations that goods or services have characteristics they do not have, that they are of a particular standard quality or grade when they are not, and that a price benefit is available when it is not.
+The [Consumer Protection (Fair Trading) Act 2003](https://sso.agc.gov.sg/Act/CPFTA2003), administered by the [Competition and Consumer Commission of Singapore (CCS)](https://www.ccs.gov.sg/), prohibits "unfair practices" in consumer transactions under section 4. The Second Schedule to the Act sets out the illustrative examples of unfair practices including representations that goods or services have characteristics they do not have, that they are of a particular standard quality or grade when they are not, and that a price benefit is available when it is not.
 
 A chatbot that tells a customer the SME's product carries a feature it does not have, or that a discount is available when it is not, or that a refund policy operates differently from the published policy, exposes the SME to a CPFTA claim. Lower-value consumer claims may be brought before the Small Claims Tribunal under the [Small Claims Tribunals Act 1984](https://sso.agc.gov.sg/Act/SCTA1984) (general limit S$20,000, raised to S$30,000 with written consent of the parties); claims above the SCT's jurisdiction proceed to the State Courts.
 
@@ -75,13 +75,13 @@ Where a chatbot deployment causes a notifiable data breach - the Part 6A archite
 
 Four scenarios recur across documented chatbot deployments and align with the legal exposures above.
 
-**Scenario 1: The chatbot promises something the business does not deliver.** The Air Canada pattern. The chatbot, drawing on its training and the immediate context, generates a refund promise, a feature claim, or a price commitment that the business does not honour. The CPFTA route applies, and the misrepresentation may be enforceable as contract under the Singapore law of unilateral mistake (subject to the *Quoine* attribution analysis).
+**Scenario 1: The chatbot promises something the business does not deliver.** The Air Canada pattern. The chatbot, drawing on its training and the immediate context, generates a refund promise, a feature claim, or a price commitment that the business does not honour. The CPFTA route applies.
 
 **Scenario 2: The chatbot gives advice within a regulated activity.** The FA, healthcare, or legal-advice pattern. The chatbot crosses into regulated territory without the supervision the regime requires. The regulator's enforcement route applies, and the professional indemnity exposure attaches.
 
 **Scenario 3: The chatbot leaks personal data.** The PDPA route. A misconfigured chatbot exposes one customer's data to another, or stores data with insufficient security, or retains data beyond the legitimate purpose. The Part 6A notification obligations may engage.
 
-**Scenario 4: The chatbot is prompt-injected.** A malicious customer constructs a prompt that causes the chatbot to disclose information, take an unauthorised action, or generate harmful output. This is the OWASP **LLM06:2025 Excessive Agency** pattern at [OWASP's published taxonomy](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/). The exposure depends on what the chatbot had access to that the customer could induce it to misuse.
+**Scenario 4: The chatbot is prompt-injected.** A malicious customer constructs a prompt that causes the chatbot to disclose information, take an unauthorised action, or generate harmful output. This is the OWASP **LLM01:2025 Prompt Injection** risk in [OWASP's published taxonomy](https://genai.owasp.org/llmrisk/llm01-prompt-injection/); OWASP's [**LLM06:2025 Excessive Agency**](https://genai.owasp.org/llmrisk/llm062025-excessive-agency/) lists prompt injection among the triggers of damaging actions an over-permissioned chatbot can take. The exposure depends on what the chatbot had access to that the customer could induce it to misuse.
 
 #### Insurance covers that may respond
 
@@ -97,7 +97,7 @@ Three covers are operationally relevant; each carries its own AI-output consider
 
 #### Governance controls that reduce the exposure
 
-Five controls reduce the chatbot's failure-mode surface, drawn from the [CSA Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems/) published 15 October 2024 and updated practice since:
+The [CSA Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems/), published 15 October 2024, cover access controls and logging, and the Guidelines state that transparency is not addressed in them. Five controls reduce the chatbot's failure-mode surface:
 
 1. **Scope the chatbot's authority narrowly.** The chatbot answers customer questions about products, hours, policies; it does not make refund decisions, change prices, or commit the business to terms outside the published policy.
 2. **Constrain the chatbot's responses to verified knowledge.** Retrieval-augmented-generation (RAG) over the business's own published policies, not free-form generation from the base model.
@@ -107,7 +107,7 @@ Five controls reduce the chatbot's failure-mode surface, drawn from the [CSA Gui
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Treating the chatbot as a separate legal person.** It is not; the SME owns its outputs.
+1. **Treating the chatbot as a separate legal person.** It is not; in *Moffatt* the tribunal treated a chatbot as part of the business's website.
 2. **Assuming the PI policy responds without checking AI-exclusion wording.** A 2024-2025 wording change may have removed cover.
 3. **No human-in-the-loop on refunds, discounts, or contract terms.** The cheapest control is the most often skipped.
 4. **No disclosure to customers that they are speaking to AI.** Sector norms are shifting toward affirmative disclosure.
@@ -120,7 +120,7 @@ Five controls reduce the chatbot's failure-mode surface, drawn from the [CSA Gui
 
 ### What This Means for Your Business
 
-1. **Treat the chatbot as your agent in law.** B2C2 v Quoine attribution applies.
+1. **Treat what the chatbot says as said by your business.** In *Moffatt*, the tribunal held the business responsible for its chatbot's statements.
 2. **Scope authority narrowly** - chatbots answer; humans commit.
 3. **Run RAG over your own published policies**, not free-form generation.
 4. **Disclose to customers** that they are interacting with AI.

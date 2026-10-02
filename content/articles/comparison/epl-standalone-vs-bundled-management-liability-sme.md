@@ -204,7 +204,7 @@ The deeper question is whether the cover responds to your actual exposure when a
 
 ## Related Information
 
-- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
+- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and EPL Cover for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
 - [Composite Management Liability Package vs Standalone D&O / EPL / Crime / PI / Cyber Modules: A Singapore SME Decision Framework](/comparison/composite-management-liability-package-vs-standalone-modules-sme)
 - [D&O vs PI vs EPL: Three Liability Covers Often Confused](/comparison/do-vs-pi-vs-epl)
 - [D&O vs PI vs EPL: How the Three Coordinate (and Where They Overlap or Gap)](/comparison/do-vs-pi-vs-epl-coordination)

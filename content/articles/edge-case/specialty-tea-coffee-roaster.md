@@ -21,7 +21,7 @@ og_description: "A specialty roaster carries food licensing, high-value equipmen
 
 > **The Answer in 60 Seconds**
 >
-> Specialty tea and coffee roasters in Singapore - small-batch artisan roasters, third-wave specialty operators, specialty tea importers - operate under [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) food licensing and [Singapore Customs](https://www.customs.gov.sg/) for imported green coffee / unprocessed tea, with [BCA / SCDF](https://www1.bca.gov.sg/) for premises (roasting equipment creates specific fire considerations). Insurance commercial spine: (a) **Property/Fire** for roasting equipment (commercial coffee roasters can be SGD 30,000-500,000+) and inventory, (b) **Stock cover** for green coffee / tea inventory (specialty coffee can be SGD 50-200/kg green; specialty tea substantially more), (c) **Equipment Breakdown** for roasting equipment (mechanical / electrical breakdown of premium roasters), (d) **Business Interruption** for revenue loss (specialty operations have specialised supply chains; replacement of damaged inventory non-trivial), (e) **Public Liability** for premises and any cafe / tasting operation, (f) **Product Liability** for roasted product distributed to wholesale, retail, or consumer channels, (g) **Marine Cargo** for inbound green coffee / tea from origin countries, (h) **WICA** for staff. The edge-case features that frequently get missed: **roaster fire risk** (chaff fires, residual heat fires, oil-fire potential are documented industry hazards), **specialty inventory value concentration** (single specialty lot or specialty tea purchase can be high-value), **cafe / tasting hybrid operations** (most specialty operators integrate retail / cafe), **wholesale distribution liability** (B2B distribution to other cafes / retailers), and **subscription / direct-to-consumer model exposure** (recurring shipments, customer data, payment recurring billing).
+> Specialty tea and coffee roasters in Singapore - small-batch artisan roasters, third-wave specialty operators, specialty tea importers - operate under [Singapore Food Agency (SFA)](https://www.sfa.gov.sg/) food licensing and [Singapore Customs](https://www.customs.gov.sg/) for imported green coffee / unprocessed tea, with [BCA / SCDF](https://www1.bca.gov.sg/) for premises (roasting equipment creates specific fire considerations). Insurance commercial spine: (a) **Property/Fire** for roasting equipment and inventory, (b) **Stock cover** for green coffee / tea inventory, (c) **Equipment Breakdown** for roasting equipment (mechanical / electrical breakdown of premium roasters), (d) **Business Interruption** for revenue loss (specialty operations have specialised supply chains; replacement of damaged inventory non-trivial), (e) **Public Liability** for premises and any cafe / tasting operation, (f) **Product Liability** for roasted product distributed to wholesale, retail, or consumer channels, (g) **Marine Cargo** for inbound green coffee / tea from origin countries, (h) **WICA** for staff where the duty to insure applies. The edge-case features that frequently get missed: **roaster fire risk** (chaff fires, residual heat fires, oil-fire potential are documented industry hazards), **specialty inventory value concentration** (single specialty lot or specialty tea purchase can be high-value), **cafe / tasting hybrid operations** (some specialty operators integrate retail / cafe), **wholesale distribution liability** (B2B distribution to other cafes / retailers), and **subscription / direct-to-consumer model exposure** (recurring shipments, customer data, payment recurring billing).
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ Specialty coffee and tea operations combine standard F&B retail exposures with s
 
 **Customs and import.** [Singapore Customs](https://www.customs.gov.sg/) for imported green coffee and tea. Tariff classifications apply.
 
-**Premises licensing.** [BCA building usage](https://www1.bca.gov.sg/) for any change of use; [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for fire safety. Roasting operations have specific fire considerations.
+**Premises licensing.** [URA](https://www.ura.gov.sg/guidelines/property-and-business-owners/business-owners/change-use-of-property-for-business/assessment-criteria/) for a change of use, which may need planning permission or, for some HDB, JTC and SLA premises, that agency's consent; [SCDF Fire Safety Act](https://sso.agc.gov.sg/Act/FSA1993) for fire safety. Roasting operations have specific fire considerations.
 
 **Workplace safety.** [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006), [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019).
 
@@ -46,15 +46,15 @@ Specialty coffee and tea operations combine standard F&B retail exposures with s
 **Property / Fire** - covers roasting equipment, premises fit-out, packing equipment, retail / cafe equipment if applicable.
 
 **Roasting equipment specifically:**
-- Drum roasters (1kg-60kg batch capacity): SGD 30,000-250,000+
-- Premium specialty roasters (Probat, Loring, Diedrich): SGD 100,000-500,000+
-- Sample roasters, lab equipment: additional SGD 5,000-25,000
+- Drum roasters (1kg-60kg batch capacity)
+- Premium specialty roasters (Probat, Loring, Diedrich)
+- Sample roasters, lab equipment
 - Air filtration, ducting, exhaust systems
 
 **Stock cover** - inventory considerations:
 
-- **Green coffee.** Specialty grades typically SGD 15-60/kg green; specialty (Cup of Excellence, geisha, micro-lots) SGD 80-500/kg+
-- **Specialty tea.** Premium oolongs, gyokuro, aged pu-erh can be SGD 200-2,000+/kg; competition-grade or vintage tea substantially more
+- **Green coffee.** Specialty grades, with Cup of Excellence, geisha and micro-lots priced higher per kg green
+- **Specialty tea.** Premium oolongs, gyokuro, aged pu-erh, and competition-grade or vintage tea, can carry high values per kg
 - **Roasted inventory.** Has shelf-life limitations; can spoil or oxidize
 - **Packaging materials and equipment**
 
@@ -69,7 +69,6 @@ Specialty coffee and tea operations combine standard F&B retail exposures with s
 
 - Specialty inventory replacement timelines can be substantial (single-origin, micro-lot may not be re-orderable)
 - Established roasters have multi-month BI exposure for severe property loss
-- 12-18 months indemnity period typical
 
 **Public Liability** - premises liability and customer injury, plus cafe / tasting operations.
 
@@ -87,7 +86,7 @@ Specialty coffee and tea operations combine standard F&B retail exposures with s
 - Climate-controlled or grain-pro-bag shipping for higher-grade specialty
 - Loss in transit, damage from heat exposure
 
-**WICA** - for staff. Roasting operations specific WICA exposures:
+**WICA**: for staff where the duty to insure applies (see What This Means below). Roasting operations specific WICA exposures:
 - Burns from roaster contact (drum surface, hot beans)
 - Burns from chaff fire / chaff disposal
 - Manual handling of green coffee bags (60kg jute bags)
@@ -104,11 +103,11 @@ Specialty coffee and tea operations combine standard F&B retail exposures with s
 
 Roasting fire risk is the distinctive Property exposure for this segment:
 
-**Chaff fire.** During roasting, papery chaff ("silverskin") separates from the bean and is collected via cyclone separator into a chaff bin. Chaff is highly combustible; smouldering chaff in chaff bin can ignite into rapid fire. Documented industry incidents include chaff fires escalating to whole-roastery loss.
+**Chaff fire.** During roasting, papery chaff ("silverskin") separates from the bean and is collected via cyclone separator into a chaff bin. Chaff is highly combustible; smouldering chaff in chaff bin can ignite into rapid fire.
 
 **Bean fire.** Coffee beans contain oils that can ignite at high temperatures. Roaster malfunction (over-roasting, unattended) can lead to bean fire inside drum. Attempts to remove burning beans (opening drum) introduce oxygen and worsen fire.
 
-**Residual heat fire.** Roaster cools slowly after final batch; chaff and oils can smoulder for hours after roasting complete. Late-evening fires after closing are documented.
+**Residual heat fire.** Roaster cools slowly after final batch; chaff left in the collector can smoulder.
 
 **Oil and tar buildup.** Long-term roasting produces oil / tar deposits in ducting and exhaust systems. Periodic cleaning prevents fire propagation through ducting.
 
@@ -119,23 +118,21 @@ Roasting fire risk is the distinctive Property exposure for this segment:
 - Duct cleaning intervals
 - Post-roast monitoring period before unattended
 
-**Industry guidance.** [Specialty Coffee Association](https://sca.coffee/) publishes fire safety guidance for roasting operations; insurers familiar with this segment expect adherence.
-
 #### The specialty inventory value concentration
 
 Specialty inventory creates value concentration:
 
-**Single-lot exposure.** A specialty roaster might purchase a complete container (18-22 metric tonnes) of single-origin specialty coffee at SGD 30/kg = SGD 600,000+ in one shipment. That inventory may sit in warehouse / roastery for months as it's released gradually.
+**Single-lot exposure.** A specialty roaster might purchase a complete container of single-origin specialty coffee (a 20ft container holds roughly 16.5 to 19.2 metric tonnes of green coffee in 60kg bags); at SGD 30/kg that is about SGD 495,000-576,000 in one shipment. That inventory may sit in warehouse / roastery for months as it's released gradually.
 
-**Aged / vintage inventory.** Specialty tea operators may hold vintage pu-erh inventory appreciating over years; specialty tea inventories at established operators can run SGD 100,000+ in compact format.
+**Aged / vintage inventory.** Specialty tea operators may hold vintage pu-erh inventory appreciating over years.
 
-**Cup of Excellence / micro-lot purchases.** Auction-purchased coffee at SGD 100-500+/kg green; small lots of 30-300kg with high concentrated value.
+**Cup of Excellence / micro-lot purchases.** Auction-purchased coffee in small lots with high concentrated value.
 
 **Stock cover declarations.** Specialty grades should be declared at current market values; aged inventory should be reviewed annually.
 
 #### The cafe / tasting hybrid operations
 
-Most specialty roasters operate hybrid retail / cafe / tasting:
+Some specialty roasters operate hybrid retail / cafe / tasting:
 
 - Wholesale roastery + retail cafe
 - Cafe with on-site roasting visible to customers
@@ -166,7 +163,7 @@ Wholesale exposure:
 
 #### The direct-to-consumer / subscription model
 
-Specialty operators increasingly operate subscription / direct-to-consumer:
+Some specialty operators run subscription / direct-to-consumer models:
 - Recurring monthly shipments
 - Customer database with payment information
 - Online ordering platform
@@ -197,7 +194,7 @@ Specific exposures:
 
 9. **Subscription model PDPA / Cyber gap.** Customer database breach scenarios unaddressed.
 
-10. **WICA gap on roasting-specific injuries.** Burn / inhalation / chaff fire injury patterns inadequately addressed.
+10. **WICA gap on roasting-specific injuries.** Staff left without WIC insurance; if they make a valid claim for a burn, inhalation or chaff fire injury, the employer must still compensate them under WICA.
 
 ### What This Means for Your Business
 
@@ -217,13 +214,13 @@ For a typical Singapore specialty coffee / tea roaster - single facility, mixed 
 
 7. **Marine Cargo for inbound green coffee / tea.**
 
-8. **WICA for all employed staff** including roasting-specific injury patterns.
+8. **WIC insurance for employed staff where the duty to insure applies**, covering roasting-specific injury patterns. The duty covers employees doing manual work and non-manual employees whose salary, not counting overtime, bonuses, annual wage supplement, productivity incentive payments and allowances, is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude. Two of those classes are "any employee of an employer engaged in retail trade" and "any employee employed in the operation of a coffee shop"; neither term is defined, so ask MOM or your insurer whether either applies to your business. An employer outside the duty to insure must still compensate any employee who makes a valid claim under WICA.
 
 9. **Cyber / PDPA cover** for DTC / subscription operations.
 
 10. **Documented fire safety protocols** especially chaff handling and post-roast monitoring.
 
-The cost of properly structured specialty coffee / tea roaster insurance is typically SGD 8,000-30,000 annually depending on operation scale and equipment. Operations with significant cafe presence, wholesale distribution, or DTC subscription substantially more. The cost of a single major incident - chaff fire destroying roastery, specialty inventory loss, mycotoxin recall - typically exceeds many years of premium.
+The cost of specialty coffee / tea roaster insurance depends on operation scale and equipment, and on any cafe presence, wholesale distribution or DTC subscription.
 
 ### Questions to Ask Your Adviser
 

@@ -14,18 +14,18 @@ word_count: 2031
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-indonesian-operations"
-meta_description: "Indonesia runs one of ASEAN's most regulated insurance markets under OJK. What a Singapore SME must place locally, and what OJK expects."
+meta_description: "Indonesian insurance is supervised by OJK, and risks in Indonesia must generally be insured with OJK-licensed insurers. What a Singapore SME places locally."
 og_title: "Singapore SME With Indonesian Operations: How Insurance Works Across the Strait"
-og_description: "Indonesia runs one of ASEAN's most regulated insurance markets under OJK. What a Singapore SME must place locally, and what OJK expects."
+og_description: "Indonesian insurance is supervised by OJK, and risks in Indonesia must generally be insured with OJK-licensed insurers. What a Singapore SME places locally."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Indonesia operates one of ASEAN's most regulated insurance markets, supervised by [Otoritas Jasa Keuangan (OJK)](https://www.ojk.go.id/) - the Financial Services Authority. Singapore-issued policies generally do not cover Indonesia-based property, employees, or operations as standard; **local Indonesian insurance** from OJK-licensed insurers is typically required. For Indonesian employees: **BPJS Ketenagakerjaan (employment social security)** and **BPJS Kesehatan (health insurance)** are mandatory, both operated under the [BPJS Law (Law Number 24 of 2011)](https://www.bpjsketenagakerjaan.go.id/), which implements the [SJSN framework of Law Number 40 of 2004](https://www.bpjs-kesehatan.go.id/); these are statutory schemes, separate from commercial insurance. For property: local Property/Fire from OJK-licensed insurers; standard Indonesian wordings differ in some respects from Singapore norms. **Indonesia's data protection regime** under the [Personal Data Protection Law (UU PDP) 2022](https://www.kominfo.go.id/) creates GDPR-style obligations for processing Indonesian-resident personal data. Engage an Indonesia-experienced broker; coordinate Singapore HQ programme with local Indonesian programme.
+> Indonesia's insurance market is supervised by [Otoritas Jasa Keuangan (OJK)](https://www.ojk.go.id/), the Financial Services Authority. Singapore-issued policies generally do not cover Indonesia-based property, employees, or operations as standard; **local Indonesian insurance** from OJK-licensed insurers is typically required. For Indonesian employees: **BPJS Ketenagakerjaan (employment social security)** and **BPJS Kesehatan (health insurance)** are mandatory, both operated under the [BPJS Law (Law Number 24 of 2011)](https://www.bpjsketenagakerjaan.go.id/), which implements the [SJSN framework of Law Number 40 of 2004](https://www.bpjs-kesehatan.go.id/); these are statutory schemes, separate from commercial insurance. For property: local Property/Fire from OJK-licensed insurers; standard Indonesian wordings differ in some respects from Singapore norms. **Indonesia's data protection regime** under the [Personal Data Protection Law (UU PDP) 2022](https://www.komdigi.go.id/) creates GDPR-style obligations for processing Indonesian-resident personal data. Engage an Indonesia-experienced broker; coordinate Singapore HQ programme with local Indonesian programme.
 
 ### The Sourced Detail
 
-Indonesia is one of the largest economies in ASEAN with significant Singapore SME presence - manufacturing, services, retail, technology, F&B, professional services. The Indonesian regulatory environment is more onerous than Malaysia or Singapore, and the insurance side reflects this. Singapore SMEs operating in Indonesia benefit from forward planning and local broker engagement.
+Indonesia is one of the largest economies in ASEAN with significant Singapore SME presence - manufacturing, services, retail, technology, F&B, professional services. Singapore SMEs operating in Indonesia benefit from forward planning and local broker engagement.
 
 #### The Indonesian regulatory baseline
 
@@ -33,9 +33,9 @@ Indonesia is one of the largest economies in ASEAN with significant Singapore SM
 
 Per the [Otoritas Jasa Keuangan (OJK) framework](https://www.ojk.go.id/), Indonesian financial services including insurance are supervised by OJK. Key elements:
 
-- All Indonesian insurance must be issued by OJK-licensed insurers
+- Insurance objects in Indonesia may be insured only with OJK-licensed insurers, unless no insurer in Indonesia can bear or manage the risk, or none is willing to insure it (Insurance Law, Law Number 40 of 2014, Article 25)
 - "Non-admitted" insurance (foreign insurer covering Indonesian risk) is generally not permitted for compulsory or local-Indonesian-risk classes
-- Major OJK-licensed insurers include both domestic (Asuransi Sinar Mas, Asuransi Jasa Indonesia, Asuransi Astra) and international branches (Allianz Indonesia, AXA Mandiri, Chubb Indonesia, Tokio Marine Indonesia, Zurich Indonesia)
+- OJK-licensed insurers include Indonesian-owned companies and companies with foreign shareholders. An insurer must be a limited liability company, a cooperative or a mutual, and a foreign owner must hold its stake together with Indonesian owners (Insurance Law, Law Number 40 of 2014, Articles 6 and 7), so foreign insurers take part through Indonesian companies, not branches
 - Premium rates and tariffs for some classes (e.g. property fire) are subject to specific guidelines or minimum tariff regulations
 
 **Statutory employer obligations:**
@@ -49,6 +49,7 @@ Both BPJS schemes are established and operated under the [BPJS Law (Law Number 2
 - Death benefit (Jaminan Kematian, JKM)
 - Old age savings (Jaminan Hari Tua, JHT)
 - Pension (Jaminan Pensiun, JP)
+- Job loss benefit (Jaminan Kehilangan Pekerjaan, JKP), since 2 February 2021 (Government Regulation 37 of 2021)
 
 **BPJS Kesehatan** (Health Insurance):
 - National health insurance covering employees and dependants
@@ -64,7 +65,7 @@ Common structures:
 Limited functions (no commercial activity, no revenue generation), typically for liaison and market development. Limited Indonesian employees; insurance footprint typically modest.
 
 **2. PT PMA (Penanaman Modal Asing - Foreign Investment Limited Company).**
-Foreign-owned operating company. Subject to specific minimum capital requirements (typically IDR 10 billion paid-up at incorporation). Full Indonesian regulatory compliance applies.
+Foreign-owned operating company. Subject to minimum investment and capital requirements: since 2 October 2025, as a general rule, total investment of more than IDR 10 billion, excluding land and buildings, per business line (5-digit KBLI code) per project location, with different counting rules for some sectors such as wholesale trade, food and beverage services and construction, and issued and paid-up capital of at least IDR 2.5 billion per limited liability company, unless other rules provide otherwise (Investment Ministry / BKPM Regulation 5 of 2025, Article 26). Full Indonesian regulatory compliance applies.
 
 **3. Joint Venture with Indonesian partner.**
 Equity-shared structure. Common in restricted sectors per the Indonesia Investment Negative List (now positive list).
@@ -113,7 +114,7 @@ For Indonesian operations (manufacturing, retail, services):
 
 **Vehicle Insurance:**
 
-Indonesian-registered vehicles: local Indonesian motor insurance from OJK-licensed insurer. Mandatory third-party plus optional comprehensive.
+Indonesian-registered vehicles: local Indonesian motor insurance from OJK-licensed insurer. Since 2023 the Insurance Law has let the Government create compulsory insurance programmes, which its elucidation says include third-party liability for traffic accidents, by Government Regulation after approval by Parliament (Law Number 40 of 2014, Article 39A); whether such a programme is in force is a question for the local broker or insurer.
 
 #### Marine cargo and goods movement
 
@@ -146,7 +147,7 @@ For PT PMA structures:
 
 **Cyber Liability:**
 
-Indonesian Personal Data Protection Law (UU PDP) per [Law Number 27 of 2022](https://www.kominfo.go.id/) created a GDPR-style framework for personal data protection. Key elements:
+Indonesian Personal Data Protection Law (UU PDP) per [Law Number 27 of 2022](https://www.komdigi.go.id/) created a GDPR-style framework for personal data protection. Key elements:
 
 - Applies to processing of Indonesian-resident personal data
 - Extraterritorial application to non-Indonesian organisations processing Indonesian data
@@ -161,7 +162,7 @@ For Singapore SMEs serving Indonesian customers or holding Indonesian personal d
 - Singapore Cyber Liability needs Indonesian extension
 - Coordinated breach response capability across PDPA (Singapore) and UU PDP (Indonesia)
 
-The Indonesian regulator (Kementerian Komunikasi dan Informatika, Kominfo, plus the planned dedicated Personal Data Protection Authority) has growing enforcement capability.
+Under the PDP Law, personal data protection is to be carried out by an agency established by the President, which also imposes the Law's administrative sanctions (Articles 57 and 58). The communications ministry, formerly Kementerian Komunikasi dan Informatika (Kominfo), is now the Kementerian Komunikasi dan Digital (Komdigi); Presidential Regulation 174 of 2024 on Komdigi (5 November 2024) revoked the regulation on Kominfo.
 
 #### Specific Indonesian considerations
 
@@ -174,7 +175,7 @@ Indonesia has significant natural catastrophe exposure:
 - Floods
 - Landslides
 
-Property insurance in Indonesia routinely includes earthquake; some areas have specific natural catastrophe sub-limit considerations.
+Whether a property policy in Indonesia includes earthquake depends on its wording; some areas have specific natural catastrophe sub-limit considerations.
 
 **Currency considerations:**
 
@@ -186,7 +187,7 @@ Property insurance in Indonesia routinely includes earthquake; some areas have s
 
 **Tax and stamp duty:**
 
-- VAT (PPN) on insurance premium per Indonesian regulations
+- No VAT (PPN) on the insurance itself: general insurance, life insurance and reinsurance services are exempt from VAT, but insurance support services such as agents, loss adjusters and brokers are not (Government Regulation 49 of 2022, Articles 10 and 15)
 - Stamp duty on policy documents
 - Withholding tax considerations for cross-border payments
 - Specific tax treaty applications

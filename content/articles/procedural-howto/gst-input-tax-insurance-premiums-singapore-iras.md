@@ -281,7 +281,7 @@ The cost of specific compliance discipline is minimal - typical IRAS-reviewable 
 5. For our tax invoice discipline, is documentation specifically maintained for IRAS audit?
 
 ### Related Information
-- [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
+- [How to Negotiate Broker Remuneration Disclosure for SME Insurance in Singapore](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [Group Term Life Death Benefit Claim Process: From Notification to Beneficiary Payment](/procedural-howto/group-term-life-claim-process)
 - [How to Comply with the Platform Workers Act 2024: WIC Insurance Procedures](/procedural-howto/how-to-comply-platform-workers-act-wic-insurance)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

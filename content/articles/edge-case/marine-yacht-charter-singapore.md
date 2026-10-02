@@ -21,17 +21,17 @@ og_description: "Yacht charter and pleasure craft operate under Singapore's MPA 
 
 > **The Answer in 60 Seconds**
 >
-> Marine yacht charter, pleasure craft, and water sports operators in Singapore operate under [Maritime and Port Authority of Singapore (MPA)](https://www.mpa.gov.sg/) framework with specific Pleasure Craft Operator Licence requirements, specific Pleasure Craft Driving Licence requirements for operators, specific [Merchant Shipping Act 1995](https://sso.agc.gov.sg/Act/MSA1995) and commercial conventions around marine operations. Foundational insurance includes Marine Hull cover (specific specialty cover beyond standard Property/Fire), Protection and Indemnity (P&I) cover for marine third-party liability, Charterer's Liability where applicable, specific Crew cover, Public Liability for shore-side scope, and operational scope considerations. Commercial conventions vary substantially between charter operations (where vessels are commercially chartered to clients) and operational scope. Specific weather-related operational considerations (monsoon seasons), specific cross-border scope (Singapore-Indonesia / Singapore-Malaysia waters), and commercial sensitivity matter substantially.
+> Marine yacht charter, pleasure craft, and water sports operators in Singapore operate under [Maritime and Port Authority of Singapore (MPA)](https://www.mpa.gov.sg/) framework with pleasure craft licence requirements (a craft offered for hire or charter is licensed for commercial use), specific Pleasure Craft Driving Licence requirements for operators, specific [Merchant Shipping Act 1995](https://sso.agc.gov.sg/Act/MSA1995) and commercial conventions around marine operations. Foundational insurance includes Marine Hull cover (specific specialty cover beyond standard Property/Fire), Protection and Indemnity (P&I) cover for marine third-party liability, Charterer's Liability where applicable, specific Crew cover, Public Liability for shore-side scope, and operational scope considerations. Commercial conventions vary substantially between charter operations (where vessels are commercially chartered to clients) and operational scope. Specific weather-related operational considerations (monsoon seasons), specific cross-border scope (Singapore-Indonesia / Singapore-Malaysia waters), and commercial sensitivity matter substantially.
 
 ### The Sourced Detail
 
-The Singapore marine recreation segment occupies a distinctive commercial position. The combination of MPA regulatory framework, commercial conventions around marine operations, substantial commercial scope, and operational scope across Singapore's marina infrastructure (Marina at Keppel Bay, Raffles Marina, ONE°15 Marina, specific other locations) creates an insurance profile that benefits from specialist marine understanding. Specialty marine cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) and [Lloyd's of London](https://www.lloyds.com/) specialist Marine markets. For Marine Insurance Act framework specifically, see [the MIA Sections 17-19 disclosure duty](/document-legal/marine-insurance-act-disclosure-sections-17-19).
+The Singapore marine recreation segment occupies a distinctive commercial position. The combination of MPA regulatory framework, commercial conventions around marine operations, substantial commercial scope, and operational scope across Singapore's marina infrastructure (Marina at Keppel Bay, Raffles Marina, ONE°15 Marina, specific other locations) creates an insurance profile that benefits from specialist marine understanding. Specialty marine cover operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/); MPA's [pleasure craft licensing page](https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/licensing-of-pleasure-craft) gives clause 11 of the Institute Yacht Clauses (1/11/85) as an example of the third-party cover it requires. For Marine Insurance Act framework specifically, see [the MIA Sections 17-19 disclosure duty](/document-legal/marine-insurance-act-disclosure-sections-17-19).
 
 #### The MPA regulatory framework
 
-Marine recreation operations sit within specific [MPA](https://www.mpa.gov.sg/) framework administered under the [Merchant Shipping Act 1995](https://sso.agc.gov.sg/Act/MSA1995) and specific subsidiary legislation.
+Marine recreation operations sit within the [MPA](https://www.mpa.gov.sg/) framework. The [Maritime and Port Authority of Singapore (Pleasure Craft) Regulations](https://sso.agc.gov.sg/SL/MPASA1996-RG6), made under the Maritime and Port Authority of Singapore Act 1996, provide that no person shall use a pleasure craft within the port without a licence (regulation 3); the Regulations also refer to the collision regulations made under the [Merchant Shipping Act 1995](https://sso.agc.gov.sg/Act/MSA1995).
 
-Pleasure Craft Operator Licence requirements apply to operational scope. Specific licensing categories address operational scope, operational standards.
+MPA licenses each pleasure craft for private use (licence numbers prefixed SZ) or for commercial use (prefixed SZH). Commercial use means the owner's offer of the craft to any person for hire or charter for that person's use for sport or pleasure purposes within the port, and a craft licensed for commercial use has its own surveys and safety requirements (regulations 6A and 23). For a licence, MPA asks for insurance covering third-party liabilities, including wreck removal and personal injuries, with a minimum sum insured of S$25,000 for any one accident or occurrence, for craft with an outboard or auxiliary engine and for non-mechanically propelled craft of 7 metres and above.
 
 Pleasure Craft Driving Licence requirements apply to operators (drivers) of pleasure craft. The Powered Pleasure Craft Driving Licence (PPCDL) covers powered pleasure craft of less than 24 metres operating within port limits, while the Advanced Powered Pleasure Craft Driving Licence (APPCDL) covers craft of 24 metres in length and above. Considerations on operator qualification matters substantially.
 
@@ -75,7 +75,7 @@ For substantive charter operations, considerations on contract drafting, indemni
 
 #### The cross-border operational considerations
 
-Singapore marine recreation typically involves cross-border operational scope. Specific cross-border considerations include specific Singapore-Indonesia waters (Riau Islands proximity creates operational scope), specific Singapore-Malaysia waters (operational scope), specific other regional commercial scope.
+Singapore marine recreation can involve cross-border operational scope. Specific cross-border considerations include specific Singapore-Indonesia waters (Riau Islands proximity creates operational scope), specific Singapore-Malaysia waters (operational scope), specific other regional commercial scope.
 
 Commercial considerations include specific cross-border permits where applicable, operational scope, operational discipline, specific cross-border claim handling considerations.
 
@@ -107,7 +107,7 @@ EPL cover addressing employment relationships.
 
 Cyber Liability where commercial scope warrants.
 
-Operational scope considerations include commercial relationships with specialist marine markets, specific specialist marine brokers (the segment is sufficiently specialised that general commercial brokers typically lack specific market access), considerations on marine-specific scope.
+Operational scope considerations include commercial relationships with specialist marine markets, specific specialist marine brokers, considerations on marine-specific scope.
 
 #### Specific incident scenarios
 
@@ -153,7 +153,7 @@ For substantive operations, considerations on limits, scope, and commercial rela
 4. **Inadequate WICA / crew marine employment.** Specific compliance and commercial risk.
 5. **No cross-border operational scope considerations.**
 6. **No MPA framework compliance discipline.** Specific licensing and operational risk.
-7. **No specialist marine-aware broker engagement.** Operational considerations and market access gap.
+7. **No specialist marine-aware broker engagement.**
 8. **No commercial relationships with charter clients.**
 9. **No seasonal operational discipline.** Specific weather-related risk.
 10. **No annual review covering operational evolution.**
@@ -162,7 +162,7 @@ For substantive operations, considerations on limits, scope, and commercial rela
 
 For Singapore SMEs operating marine charter / pleasure craft operations:
 
-Marine Hull and P&I cover are foundational specialty covers that distinguish marine operations from generic commercial scope. MPA framework compliance creates operational standards. Specialist marine-aware broker engagement provides specific market access; considerations on limits, scope, and commercial relationships matters substantially.
+Marine Hull and P&I cover are foundational specialty covers that distinguish marine operations from generic commercial scope. MPA framework compliance creates operational standards. Considerations on limits, scope, and commercial relationships matter substantially.
 
 For substantive operations, commercial counsel relationships, specific marine industry commercial relationships, and operational sophistication form the foundation. SMEs that engage thoughtfully with the specific risk profile benefit from operational protection across substantial commercial scope; SMEs that approach marine operations with standard commercial scope face material gaps across multiple operational dimensions.
 

@@ -14,37 +14,37 @@ word_count: 1894
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/dog-daycare-boarding-insurance"
-meta_description: "A dog daycare or boarding business is licensed by AVS under NParks. What the licence requires, and what animal handling adds to the risk."
+meta_description: "A dog boarding business generally needs an AVS pet boarding licence; day-care-only premises need none. What the licence requires, and what handling adds."
 og_title: "Dog Daycare and Boarding in Singapore: What Insurance Do You Actually Need?"
-og_description: "A dog daycare or boarding business is licensed by AVS under NParks. What the licence requires, and what animal handling adds to the risk."
+og_description: "A dog boarding business generally needs an AVS pet boarding licence; day-care-only premises need none. What the licence requires, and what handling adds."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore dog daycare or boarding business typically needs: **AVS (Animal & Veterinary Service) licensing** under the [National Parks Board's pet shop and animal facility regulations](https://www.nparks.gov.sg/avs/), **Public Liability** (S$1M-S$3M typical, with attention to bite, escape, and inter-dog injury exposures), **Care, Custody and Control (CCC) extension** covering animals in care (the dogs themselves, often the largest exposure as third-party "property" in policy terms), **Property/Fire/Equipment** for the facility, **[WICA](https://sso.agc.gov.sg/Act/WICA2019)** for handlers, and depending on services: **Professional Indemnity** for grooming and training services, **Goods in Transit** if doing pet pickup and delivery. Most standard SME PL policies **exclude or sub-limit "care, custody, and control of animals"** - explicit endorsement is typically required and most "pet care" insurance is a specialty product.
+> A Singapore dog daycare or boarding business typically needs: **an AVS (Animal & Veterinary Service) pet boarding licence** for boarding pets for reward, under the [Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules](https://sso.agc.gov.sg/SL/ABA1965-R2) (premises used solely for pet day care need none), **Public Liability** (with attention to bite, escape, and inter-dog injury exposures), **Care, Custody and Control (CCC) extension** covering animals in care (the dogs themselves, which count as third-party "property" in policy terms), **Property/Fire/Equipment** for the facility, **[WICA](https://sso.agc.gov.sg/Act/WICA2019)** for handlers, and depending on services: **Professional Indemnity** for grooming and training services, **Goods in Transit** if doing pet pickup and delivery. Standard SME PL wordings can **exclude or sub-limit the animals in care**, as property in the insured's care, custody or control.
 
 ### The Sourced Detail
 
-Pet care services have grown into a recognised Singapore SME category - daycare, boarding, grooming, training, walking, sitting, and emergency care. Insurance for pet care businesses is one of the most underserved areas in standard SME insurance markets - generic packages typically exclude or severely sub-limit the most material exposures (the animals themselves, bite incidents, escape liability), and operators often discover the gaps only at claim time.
+Pet care services have grown into a recognised Singapore SME category - daycare, boarding, grooming, training, walking, sitting, and emergency care. Public liability wordings can exclude property in the insured's care, custody or control, which takes in the animals in care, or cover it only up to a sub-limit.
 
 #### Licensing baseline
 
 **AVS (Animal & Veterinary Service) registration**
 
-Under the [National Parks Board's AVS framework](https://www.nparks.gov.sg/avs/), commercial pet care operations require licensing. Specific categories include:
+Under the [Animals and Birds (Licensing of Premises for Pet Shop and Other Purposes) Rules](https://sso.agc.gov.sg/SL/ABA1965-R2), administered by [AVS](https://www.nparks.gov.sg/avs/), premises used for certain purposes need a licence. For pet care businesses:
 
 - **Pet shop licence** for businesses selling pets
-- **Animal facility licence** for boarding, daycare, hotel-style accommodation
-- **Pet grooming establishment licence** for grooming services
+- **Pet boarding licence** for boarding pet animals for reward (rule 3(1)(e)); premises used solely for pet day care need none (rule 3(5)), and an individual boarding in their own home, or a not-for-profit organisation, needs none only if the conditions in the First Schedule to the Rules are met (rule 3A)
+- **No licence for grooming**: there is currently no licensing regime for pet groomers (Ministry of National Development, 9 September 2024)
 - **Pet pickup, training, and transport** may have specific requirements
 
-Licensing imposes facility standards under the [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965), animal welfare requirements, record-keeping, and inspection regimes. Licence non-compliance affects both regulatory exposure and insurance underwriting (insurers commonly require evidence of current licensing).
+Licensing imposes facility standards under the [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965), animal welfare requirements, record-keeping, and inspection regimes. Licence non-compliance affects both regulatory exposure and insurance underwriting.
 
 **[HDB](https://www.hdb.gov.sg/) / [URA](https://www.ura.gov.sg/) premises requirements**
 
 Pet care facilities have specific zoning requirements:
-- Most HDB shop units do not permit pet boarding (some allow grooming)
-- URA-zoned commercial or industrial space may be required
+- In HDB commercial premises, pet boarding needs HDB's prior consent as landowner and then URA planning permission, which is not guaranteed; grooming, which URA treats as pet shop use, needs HDB's consent but no planning permission
+- URA does not allow pet boarding in industrial buildings or business park units; in commercial buildings, and in shophouses zoned Commercial, it can be considered on a change of use application
 - Specific approvals may be needed for outdoor play areas
 
 **SCDF Fire Safety**
@@ -55,49 +55,44 @@ Standard fire safety compliance applies to facility premises.
 
 Pet care has exposures that don't map cleanly to standard commercial insurance categories:
 
-1. **The animals themselves are "third-party property" in policy terms.** A dog in your care that is injured, escapes, or dies is a loss of "property in your care, custody, and control" - typically excluded from standard PL.
+1. **The animals themselves are "third-party property" in policy terms.** A dog in your care that is injured, escapes, or dies is a loss of "property in your care, custody, and control", which standard PL wordings can exclude or cover only up to a sub-limit.
 
 2. **Bite injuries.** Dogs in care biting other dogs, biting staff, biting customers, biting visitors - multiple liability paths depending on who was bitten.
 
-3. **Escape liability.** A dog escaping from your facility may injure third parties, damage property, get killed in traffic - your liability extends to all consequential damage.
+3. **Escape liability.** A dog escaping from your facility may injure third parties, damage property, get killed in traffic - your liability can extend to the damage that follows.
 
-4. **Inter-dog injuries.** Multiple dogs in shared spaces means dog-on-dog injuries are common; the owner of the injured dog has a claim against the operator.
+4. **Inter-dog injuries.** Multiple dogs in shared spaces means dog-on-dog injuries can happen, and the owner of the injured dog may have a claim against the operator.
 
 5. **Disease transmission.** Kennel cough, parvovirus, parasites - communicable diseases between dogs in care give rise to multiple-claimant scenarios.
 
 6. **Behavioural deterioration.** Dogs returning home with new fear, aggression, or behavioural issues attributed to the daycare experience.
 
-7. **Death of pet in care.** The most-feared scenario - typically the largest individual claim, with both economic and emotional dimensions.
+7. **Death of pet in care.** A claim for the loss of the animal.
 
 8. **Veterinary costs.** Emergency veterinary treatment for animals in care, before owner can be reached or insurance can be confirmed.
 
-#### Why standard PL typically falls short
+#### Why standard PL can fall short
 
-Most Singapore commercial PL policies contain:
+Singapore commercial PL policies can contain:
 
 - **Care, custody, and control exclusion** - excluding liability for "loss of, damage to, or destruction of property in the Insured's care, custody, or control"
 - **Animal exclusion** in some wordings - specifically excluding animals
 - **Pet-specific exclusion** in some wordings
 
-The animals in your care are precisely "property in your care, custody, and control" - making the most material exposure the most directly excluded.
+The animals in your care are precisely "property in your care, custody, and control".
 
-Without a specific Care, Custody and Control extension or a specialist pet care policy, an operator faces:
+Where the PL wording excludes property in the insured's care, custody or control and there is no CCC extension or specialist pet care policy, an operator faces:
 - Uninsured exposure for animals injured or dying in care
 - Uninsured exposure for inter-dog injuries (the injured dog is third-party property in your care)
 - Possible coverage for escape causing third-party harm (if the harm is to *other* third parties, not the dog itself)
 
 #### The pet care insurance market
 
-Singapore has a limited but growing specialist pet care insurance market. Options:
+Options include:
 
 1. **Specialist pet care PL with CCC extension** - covers animals in care up to a stated sub-limit
 2. **Property/PAR with animal CCC extension** - extends property cover to animals in care
 3. **Bundled specialty policy** - dedicated pet care insurance package
-
-Standard sub-limits for animals in care commonly:
-- S$10,000-S$50,000 per animal
-- S$50,000-S$200,000 aggregate per event
-- S$100,000-S$500,000 annual aggregate
 
 For a boarding facility with potentially 30-50 dogs in care simultaneously, aggregate limits matter - a single disease outbreak or facility incident can affect multiple animals.
 
@@ -117,10 +112,10 @@ For a pet care operation, the policy schedule should explicitly address:
 
 #### Operational risk management as insurance complement
 
-Insurers underwrite pet care operations on operational standards. Key requirements:
+Operational controls a pet care operation can document:
 
 **Intake assessment:**
-- Vaccination records (DHPP, rabies, kennel cough)
+- Vaccination records (AVS's boarding conditions require vaccination against canine distemper, parvovirus, adenovirus, parainfluenza and leptospirosis)
 - Health declaration from owner
 - Behavioural assessment
 - Owner emergency contacts
@@ -184,17 +179,6 @@ Insurers underwrite pet care operations on operational standards. Key requiremen
 
 #### Premium considerations
 
-For a typical Singapore dog daycare/boarding facility:
-
-**Small daycare (10-20 dogs/day capacity, single facility):**
-- **Total annual insurance budget** typically S$5,000-S$12,000
-
-**Mid-size (20-50 dogs capacity, daycare + boarding):**
-- **Total typically S$10,000-S$25,000**
-
-**Larger / multiple services / multiple locations:**
-- **Total S$20,000-S$50,000+**
-
 Premium drivers:
 - Number of dogs in care (capacity)
 - Average value of dogs in care
@@ -205,24 +189,24 @@ Premium drivers:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Operating with standard SME PL only.** Most material exposure (animals in care) excluded.
-2. **No CCC extension on animals.** Single dog death claim has no insurance response.
-3. **No bite cover.** Bite injury is a known frequent claim type; standard wordings handle this varyingly.
+1. **Operating with standard SME PL only.** Animals in care excluded or sub-limited.
+2. **No CCC extension on animals.** Where the PL wording excludes the animals in care, a single dog death claim has no insurance response.
+3. **No bite cover.** Wordings differ in how they treat bites.
 4. **No documented intake protocols.** Defence to disease transmission claims weakened.
-5. **No vaccination verification.** Disease outbreak claims may be denied for facility negligence.
+5. **No vaccination verification.** Without vaccination checks, an outbreak is harder to defend as reasonable care.
 6. **Inadequate insurer underwriting.** Generic SME insurers may not have appetite or expertise for pet care risk.
 7. **No incident documentation discipline.** Daily log + incident report defence depends on operator records.
 8. **Treating training services as just another offering without PI.** Behavioural outcome claims have professional service character.
 
 #### What this means for owners considering this business
 
-For founders considering opening pet care in Singapore, the insurance side is more complex than many adjacent SME categories and benefits from specialty broker engagement. Three structural realities:
+For founders considering opening pet care in Singapore, the insurance side needs attention, because public liability wordings can exclude or sub-limit the animals in care. Three structural realities:
 
-1. **Standard SME insurance does not adequately cover pet care.** Specialty cover or significant extension is required.
+1. **Standard SME insurance can fall short for pet care.** Where the PL wording excludes or sub-limits the animals in care, cover beyond what it gives has to come from an extension or another policy.
 
-2. **Operational standards are insurance-relevant.** Insurers reward documented protocols, staff training, and facility design with both better terms and better claim outcomes.
+2. **Operational standards are insurance-relevant.** Documented protocols, staff training and facility design can support both underwriting and the defence of a claim.
 
-3. **The animals in your care are the largest individual asset values you handle.** A single dog in your care may be worth S$3,000-S$30,000 or more (purebreds, working dogs, show dogs). Policy limits should reflect this.
+3. **The animals in your care belong to your customers and are in your custody.**
 
 The discipline:
 
@@ -232,9 +216,9 @@ The discipline:
 
 3. **Document operational protocols.** Intake, vaccination verification, facility design, staffing - all support both insurance underwriting and claim defence.
 
-4. **Negotiate specific extensions explicitly.** CCC, bite, escape, disease - these are not standard inclusions and should be confirmed.
+4. **Negotiate specific extensions explicitly.** CCC, bite, escape, disease: confirm how the policy treats each.
 
-5. **Plan for claim-frequent operations.** Pet care typically has higher claim frequency than many SME categories - every minor incident is a potential claim.
+5. **Plan for claims.** Every minor incident is a potential claim.
 
 The business is rewarding for owners who truly care about animals; the insurance side rewards careful preparation. The cost of insurance for properly-structured pet care is meaningful as a percentage of revenue but proportionate to the exposure being managed.
 

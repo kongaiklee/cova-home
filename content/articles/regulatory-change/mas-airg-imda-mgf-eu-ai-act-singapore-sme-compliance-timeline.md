@@ -284,7 +284,7 @@ Five practical points.
 ## Related Information
 - [Cybersecurity (Amendment) Act 2024: What's In Force Now (and What Isn't)](/regulatory-change/cyber-act-2024)
 - [PDPA Amendment: 10% Turnover Penalty for Data Breaches](/regulatory-change/pdpa-2022-penalty)
-- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
+- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and EPL Cover for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
 - [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
 - [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)
 - [Deepfake Funds-Transfer Fraud: What Singapore SMEs Need to Know About Cyber, Crime, and Social Engineering Insurance](/emerging-risk/ai/deepfake-funds-transfer-fraud-singapore-sme)

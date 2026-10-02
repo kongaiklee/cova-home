@@ -21,21 +21,21 @@ og_description: "A force majeure clause allocates the risk of events nobody cont
 
 > **The Answer in 60 Seconds**
 >
-> Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair performance. Singapore commercial law does not recognise force majeure as automatic doctrine - force majeure operates only as expressly contracted. Standard commercial scope around force majeure clauses includes triggering event scope (typical events: natural disasters, war, terrorism, government action, pandemic, strikes, operational other events), causation requirements (event must "prevent" or "substantially impair" performance), notification requirements, mitigation obligations, suspension vs termination framework, and framework for payment obligations during force majeure period. Operational considerations matters substantially - Singapore courts apply strict construction to force majeure clauses, requiring close examination of clause wording. The COVID-19 pandemic substantially developed Singapore commercial common law around force majeure and frustration scope.
+> Force majeure clauses in Singapore commercial contracts allocate risk for events beyond parties' reasonable control that prevent or substantially impair performance. Singapore commercial law does not recognise force majeure as automatic doctrine - force majeure operates only as expressly contracted. Standard commercial scope around force majeure clauses includes triggering event scope (typical events: natural disasters, war, terrorism, government action, pandemic, strikes, operational other events), causation requirements (event must "prevent" or "substantially impair" performance), notification requirements, mitigation obligations, suspension vs termination framework, and framework for payment obligations during force majeure period. Operational considerations matters substantially - Singapore courts treat the precise construction of a force majeure clause as paramount and give full effect to the parties' intention, so the clause wording is examined closely. During the COVID-19 pandemic, the COVID-19 (Temporary Measures) Act 2020 gave temporary relief for certain types of contract, and the Appellate Division has since given the pandemic and the lockdowns that followed as examples of force majeure events under the SIA standard form (Ser Kim Koi v GTMS Construction [2022] SGHC(A) 34).
 
 ### The Sourced Detail
 
-Force majeure clauses operate as commercial scope mechanism in Singapore commercial contracts. The framework operates within [Frustrated Contracts Act 1959](https://sso.agc.gov.sg/Act/FCA1959) framework where express force majeure does not apply, with Singapore court judgments accessible through [eLitigation.sg](https://www.elitigation.sg/). [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020) provided pandemic-era commercial scope. [MAS](https://www.mas.gov.sg/) administers insurance regulatory framework with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
+Force majeure clauses operate as commercial scope mechanism in Singapore commercial contracts. Where no force majeure clause applies, a party may rely on the common law doctrine of frustration, and the [Frustrated Contracts Act 1959](https://sso.agc.gov.sg/Act/FCA1959) then adjusts the parties' rights and liabilities once a contract has been frustrated; Singapore court judgments are accessible through [eLitigation.sg](https://www.elitigation.sg/). [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020) provided pandemic-era commercial scope. [MAS](https://www.mas.gov.sg/) administers insurance regulatory framework with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
 
 #### The contractual nature of force majeure in Singapore
 
 Singapore commercial law does not recognise force majeure as automatic doctrine. The framework operates substantively differently from civil law jurisdictions where force majeure operates as automatic doctrine.
 
-**Force majeure clause requirement** - for force majeure to operate, parties must expressly contract for force majeure framework. In absence of express clause, Singapore commercial law recognises only narrow doctrine of frustration (per [Frustrated Contracts Act 1959](https://sso.agc.gov.sg/Act/FCA1959) framework).
+**Force majeure clause requirement** - for force majeure to operate, parties must expressly contract for force majeure framework. In absence of express clause, a party is left with the narrow common law doctrine of frustration; the [Frustrated Contracts Act 1959](https://sso.agc.gov.sg/Act/FCA1959) deals with the consequences once a contract has been frustrated.
 
-**Frustration vs force majeure:** frustration operates where supervening event renders contract substantially different from what was agreed; force majeure operates more flexibly within contractual scope.
+**Frustration vs force majeure:** frustration operates only where a supervening event, without the default of either party, renders performance radically different from what was undertaken, and mere expense, delay or onerousness is not enough (Alliance Concrete Singapore v Sato Kogyo [2014] SGCA 35); force majeure operates more flexibly within contractual scope.
 
-**Precise clause drafting:** Singapore courts apply strict construction to force majeure clauses. Considerations on drafting precision matters substantially.
+**Precise clause drafting:** Singapore courts treat the precise construction of a force majeure clause as paramount and give full effect to the parties' intention (RDC Concrete v Sato Kogyo, applied in Holcim v Precise Development [2011] SGCA 1). Considerations on drafting precision matters substantially.
 
 #### The clause structure framework
 
@@ -60,25 +60,25 @@ Standard force majeure clauses include several structural elements:
 
 Considerations on causation language matters substantially.
 
-**Notification requirement** - framework for notification obligation when force majeure event occurs. Typical conventions: notice within specified period (commonly 7-30 days), operational scope details.
+**Notification requirement** - framework for notification obligation when force majeure event occurs. Typical conventions: notice within specified period, operational scope details.
 
 **Mitigation obligation** - framework for obligation to mitigate force majeure impact.
 
 **Suspension vs termination framework** - framework for remedies. Typical conventions:
 
 - Initial suspension of obligations during force majeure period
-- Termination right after specified prolonged period (commonly 60-180 days)
+- Termination right after specified prolonged period
 - Framework for payment obligations during suspension
 
 #### The COVID-19 pandemic development
 
-The COVID-19 pandemic period substantially developed Singapore commercial common law around force majeure and frustration scope. Operational scope considerations:
+The COVID-19 pandemic brought temporary statutory relief and a recent appellate example of force majeure events. Operational scope considerations:
 
 **Statutory intervention:** [COVID-19 (Temporary Measures) Act 2020](https://sso.agc.gov.sg/Act/COVID19TMA2020) provided specific temporary commercial scope around COVID-19 commercial impacts.
 
 #### The triggering event analysis
 
-**Pandemic / epidemic:** commercial scope developed through COVID-19 period.
+**Pandemic / epidemic:** whether a pandemic is covered turns on the clause; under the SIA standard form, the Appellate Division gave the COVID-19 pandemic and the lockdowns as examples of force majeure events (Ser Kim Koi v GTMS Construction [2022] SGHC(A) 34).
 
 #### The causation analysis framework
 
@@ -129,7 +129,7 @@ For commercial scope around force majeure clauses, operational considerations in
 
 For Singapore SMEs in commercial scope:
 
-Force majeure clauses operate only as expressly contracted in Singapore - there is no automatic force majeure doctrine. Considerations on triggering event scope, causation language, remedies framework, and insurance integration matters substantially. The COVID-19 pandemic substantially developed Singapore commercial common law around force majeure scope; considerations on pandemic-era developments matters.
+Force majeure clauses operate only as expressly contracted in Singapore - there is no automatic force majeure doctrine. Considerations on triggering event scope, causation language, remedies framework, and insurance integration matters substantially. The Appellate Division has given the COVID-19 pandemic and its lockdowns as examples of force majeure events under the SIA standard form (Ser Kim Koi v GTMS Construction [2022] SGHC(A) 34); considerations on pandemic-era developments matter.
 
 For substantive operations, considerations on force majeure clauses, commercial counsel engagement where applicable, and considerations on insurance integration form the operational foundation.
 

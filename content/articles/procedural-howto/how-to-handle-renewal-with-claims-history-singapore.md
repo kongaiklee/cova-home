@@ -274,7 +274,7 @@ The cost of disciplined renewal preparation is modest (advisory time, internal a
 
 ### Related Information
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
-- [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
+- [How to Negotiate Broker Remuneration Disclosure for SME Insurance in Singapore](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 
 *Published 6 May 2026. Source verified 6 May 2026.*

@@ -223,7 +223,7 @@ The tender is a process, not a transaction. Besides a market-tested premium, the
 
 - [The Pre-Renewal 90/60/30-Day Data Preparation Sprint for Singapore SMEs](/procedural-howto/sme-pre-renewal-data-preparation-sprint-singapore)
 - [How to Read Your Commercial Insurance Policy Schedule](/procedural-howto/read-policy-schedule-singapore)
-- [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
+- [How to Negotiate Broker Remuneration Disclosure for SME Insurance in Singapore](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 - [How to Switch SME Commercial Insurers Mid-Term Without Coverage Gaps](/procedural-howto/how-to-switch-commercial-insurer-midterm-singapore)
 - [How to Cancel a Commercial Insurance Policy Mid-Term in Singapore: Short-Period Premium, Run-Off, and the Claims-Made Trap](/procedural-howto/how-to-cancel-commercial-policy-mid-term-singapore)

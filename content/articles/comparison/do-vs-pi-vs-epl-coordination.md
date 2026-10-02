@@ -322,7 +322,7 @@ The coordinated D&O + PI + EPL architecture addresses the three primary manageme
 ### Related Information
 - [Companies Act Section 157: Director Duties and the D&O Insurance Foundation](/document-legal/companies-act-section-157-director-duties)
 - [Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company](/document-legal/companies-act-section-172-indemnification)
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [Directors and Officers (D&O) Insurance for Singapore SMEs: The Complete Guide](/document-legal/directors-and-officers-do-insurance-complete-guide-singapore-sme)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 

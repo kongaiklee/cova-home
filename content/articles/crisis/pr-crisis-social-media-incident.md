@@ -21,7 +21,7 @@ og_description: "What you say in the first hour sets the trajectory for a Singap
 
 > **The Answer in 60 Seconds**
 >
-> First, do **not** make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response (founder/CEO + senior team + external counsel + PR adviser if available) within hours. Assess whether the issue involves (a) factual product/service issue, (b) employee conduct, (c) customer complaint amplified, (d) misinformation/false content, (e) cyber/data incident, or (f) accusations of regulatory or ethical violation - each has different response patterns. **Insurance considerations are limited but specific:** **Cyber Liability** with reputation/PR sub-limits may fund crisis communications and reputation management; **D&O** may respond if directors face claims; **Defamation cover** under PI or specific media liability may respond for false content; **Product Liability** if related to actual product issue; **Employment Practices Liability (EPL)** if employee conduct dimension. The honest assessment: most reputation impact is not insurance-coverable and most PR cost is not pre-funded - operational response and legal/communications discipline are foundational.
+> First, do **not** make immediate public statements without considered response - what you say in hour 1 sets the trajectory. Convene crisis response (founder/CEO + senior team + external counsel + PR adviser if available) within hours. Assess whether the issue involves (a) factual product/service issue, (b) employee conduct, (c) customer complaint amplified, (d) misinformation/false content, (e) cyber/data incident, or (f) accusations of regulatory or ethical violation - each has different response patterns. **Insurance considerations are limited but specific:** **Cyber Liability** with reputation/PR sub-limits may fund crisis communications and reputation management when the crisis follows a cyber or data incident; **D&O** may respond if directors face claims; **Defamation cover** under PI or media liability may respond if the business itself is accused of defaming someone, not to false content posted about the business; **Product Liability** if related to actual product issue; **Employment Practices Liability (EPL)** if employee conduct dimension. The honest assessment: most reputation impact is not insurance-coverable and most PR cost is not pre-funded - operational response and legal/communications discipline are foundational.
 
 ### The Step-by-Step
 
@@ -35,7 +35,7 @@ PR crises affect Singapore SMEs across industries - F&B operators with food safe
 - Customer service inquiry surge
 - Media inquiries (often via email or LinkedIn)
 - Direct messages from journalists
-- Specific platform notifications (per the platforms' own complaint mechanisms - typically referenced under the [PDPC framework](https://www.pdpc.gov.sg/) for personal data complaints and the platforms' own terms)
+- Specific platform notifications (through the platforms' own complaint mechanisms, under each platform's terms; a concern about how an organisation handled personal data can be reported to the [PDPC](https://www.pdpc.gov.sg/))
 - Internal escalations (staff, customers, partners)
 
 **Immediate actions:**
@@ -88,7 +88,7 @@ PR crises affect Singapore SMEs across industries - F&B operators with food safe
 - Documentation
 - Legal options (defamation, content takedown)
 - Communication frame: factual correction
-- PI defamation cover may be relevant
+- PI defamation cover responds only if the business itself is accused of defaming someone, not to false content posted about it
 
 **Type E - Cyber / data incident with reputation dimension:**
 - E.g. data breach disclosed publicly
@@ -171,20 +171,19 @@ The honest landscape:
 **Cyber Liability - Reputation/PR sub-limits:**
 - Many modern Cyber policies include reputation management or PR cover
 - Specifically for cyber-related incidents
-- Sub-limits often modest (S$50k-S$250k typical)
-- Engage panel PR firms typically required
+- Limits vary by policy; some wordings pay PR costs within the wider breach response cover
+- Some wordings pay only for a PR consultant appointed by the insurer or by the breach response law firm, or approved by the insurer in advance
 - Forensic and breach counsel coordination
 
 **Defamation cover under PI / Specialty PI:**
 - Some PI policies cover defamation claims
-- Specific to false content scenarios
-- Often involves insurer-appointed defamation counsel
-- Specific to industries with elevated defamation exposure
+- They cover claims that the business itself defamed someone in its professional work, not false content posted about the business
+- Included in some PI wordings for many kinds of professional firm, not only media businesses
 
 **Media Liability:**
 - Specific cover for media / publishing businesses
 - Includes defamation, copyright, content errors
-- Less common for general SMEs
+- Also included in some cyber policies, for content a business posts on its own website or social media
 - Specific value for content-heavy businesses
 
 **Product Liability:**
@@ -202,14 +201,13 @@ The honest landscape:
 **D&O:**
 - Responds to claims against directors
 - Securities-related or governance-related
-- Not direct PR cover
+- Some wordings pay public relations expenses for a director facing a claim or investigation, within a sub-limit
 - May fund defence if regulatory or legal exposure
 
 **Specific Crisis Management Insurance:**
 - Standalone product available in some markets
 - Funds crisis communications, PR fees, specific costs
-- Less common in Singapore SME market
-- Bundled within Cyber policies typically
+- Crisis and PR cost cover also comes inside other policies, such as cyber, D&O, management liability, PI and product recall, each for the events its wording names
 
 **What's typically NOT covered:**
 - Direct revenue impact from reputation damage
@@ -224,10 +222,10 @@ The honest landscape:
 **Scenario A: F&B operator - food poisoning incident at restaurant goes viral on TikTok**
 
 - Type A (factual product/service)
-- SFA notification likely required
+- Medical practitioners notify clusters of food poisoning to the Communicable Diseases Agency, to facilitate investigations
 - Customer-facing investigation and communication
 - Product Liability may respond for medical costs
-- Cyber/PR sub-limits may fund crisis communications
+- A cyber policy's PR cover does not apply unless the incident is a cyber or data incident
 - Operational remediation (kitchen review, staff training)
 - Long-tail brand impact substantial
 
@@ -264,7 +262,7 @@ The honest landscape:
 - Type D (misinformation)
 - Documentation of facts
 - Possible defamation action (cautiously)
-- PI defamation cover may respond
+- PI defamation cover responds only if the firm itself is accused of defamation; it does not fund the firm's own defamation action
 - Communication frame: factual without engaging the false content directly
 
 **Scenario F: SaaS company - data breach disclosed publicly**

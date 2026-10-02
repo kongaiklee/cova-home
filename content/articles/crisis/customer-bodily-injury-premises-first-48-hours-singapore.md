@@ -14,14 +14,14 @@ word_count: 1462
 status: "published"
 hero_image: "/assets/blog/crisis.jpg"
 canonical_url: "https://covarage.com/guides/crisis/customer-bodily-injury-premises-first-48-hours-singapore"
-meta_description: "A customer injury on your premises is the most common public liability claim in Singapore. What the first 48 hours decide about how it ends."
+meta_description: "When a customer is injured on your Singapore premises, a public liability claim can follow. What the first 48 hours decide about how it ends."
 og_title: "The First 48 Hours After a Customer Bodily Injury at Your Singapore Business Premises: A Public Liability Claim Playbook"
-og_description: "A customer injury on your premises is the most common public liability claim in Singapore. What the first 48 hours decide about how it ends."
+og_description: "When a customer is injured on your Singapore premises, a public liability claim can follow. What the first 48 hours decide about how it ends."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A customer or visitor injury at a Singapore SME's premises is the most common public liability claim event. The first 48 hours determine the strength of the SME's defence and the smoothness of any subsequent claim. The Singapore framework runs through three threads: **negligence under [*Spandeck Engineering v DSTA* \[2007\] SGCA 37](https://www.elitigation.sg/gdviewer/s/2007_SGCA_37)**, the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) duty of care owed by the occupier to third parties on premises, and (where the injured party is an employee) the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) scheme. The standard policy wording on public liability typically requires "as soon as practicable" notification and an admission-of-liability prohibition; the [Legal Aid Bureau practitioner guide on accident and personal injury](https://lab.mlaw.gov.sg/files/LAB_Practitioner_Guide_Accident_Personal_Injury_Publication_June2025.pdf) sets out the damages ranges typically awarded by Singapore courts. This article walks through the 48-hour response by hour blocks, the documents to assemble, and the conduct-of-defence questions the SME's licensed adviser and insurer will guide.
+> A customer or visitor injured at a Singapore SME's premises can bring a public liability claim against the business. The first 48 hours determine the strength of the SME's defence and the smoothness of any subsequent claim. The Singapore framework runs through three threads: **negligence under [*Spandeck Engineering v DSTA* \[2007\] SGCA 37](https://www.elitigation.sg/gdviewer/s/2007_SGCA_37)**, the [Workplace Safety and Health Act 2006](https://sso.agc.gov.sg/Act/WSHA2006) duty of care owed by the occupier to third parties on premises, and (where the injured party is an employee) the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) scheme. The standard policy wording on public liability typically requires prompt notification (Singapore wordings use terms such as "immediately" or "as soon as possible") and an admission-of-liability prohibition; the [Legal Aid Bureau practitioner guide on accident and personal injury](https://lab.mlaw.gov.sg/files/LAB_Practitioner_Guide_Accident_Personal_Injury_Publication_June2025.pdf) explains how personal-injury damages are quantified and lists the published references on the ranges Singapore courts award. This article walks through the 48-hour response by hour blocks, the documents to assemble, and the conduct-of-defence questions the SME's licensed adviser and insurer will guide.
 
 ### The Sourced Detail
 
@@ -35,7 +35,7 @@ A customer injury - a fall on a wet floor, a strike from a falling object, an al
 
 **WICA where applicable.** If the injured party is an employee of the SME, the [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) scheme governs the compensation. The 10-day MOM notification rule applies; see [how to file a workplace accident notification under WICA 2019](/procedural-howto/wica-workplace-accident-notification-10-day-mom-singapore).
 
-**Public liability policy mechanics.** The SME's PL policy typically responds to third-party claims arising from negligence on premises. Two standard policy provisions matter immediately: notification within the policy's stated window (commonly "as soon as practicable") and the prohibition on admission of liability to the third party before insurer notification.
+**Public liability policy mechanics.** The SME's PL policy typically responds to third-party claims arising from negligence on premises. Two standard policy provisions matter immediately: notification within the policy's stated window (Singapore wordings use terms such as "immediately" or "as soon as possible") and the prohibition on admitting liability to the third party without the insurer's consent.
 
 #### Hour 0-2: Immediate response
 
@@ -81,17 +81,17 @@ A customer injury - a fall on a wet floor, a strike from a falling object, an al
 
 **Insurer's process engagement.** The claims handler is in contact with the SME and (typically) with the injured party. The insurer may appoint a loss adjuster, a forensic expert (engineering, slip-and-fall investigation), or legal counsel.
 
-**Third-party communication.** Any communication with the injured party or their representatives is run through the insurer's framework. Solicitors' letters typically arrive in this window or shortly after.
+**Third-party communication.** Any communication with the injured party or their representatives is run through the insurer's framework.
 
 #### Where the WSHA reporting overlaps
 
-If the injury meets the [WSH (Incident Reporting) Regulations](https://sso.agc.gov.sg/Act/WSHA2006) threshold (death, three or more days of medical leave, hospitalisation, or a dangerous occurrence as defined), the SME has a separate notification obligation to MOM under WSHA. This runs in parallel with the WICA notification (if applicable) and the PL claim notification.
+Under the [WSH (Incident Reporting) Regulations](https://sso.agc.gov.sg/SL/WSHA2006-RG3) and MOM's reporting rules, the occupier of a workplace must notify MOM as soon as reasonably practicable if a member of the public is injured as a result of works done at the workplace and is sent to hospital for treatment; if a member of the public dies at the workplace as a result of works done there, the occupier must also submit a report within 10 days. A dangerous occurrence is notified and reported by the occupier in the same way. If the injured person is an employee, the employer submits an incident report within 10 days of first notice of an accident that results in medical leave or light duty, and one report covers both the WSH Act and WICA. These run alongside the PL claim notification.
 
-The MOM [iReport system](https://www.mom.gov.sg/eservices/services/ireport) is the entry point.
+The MOM [WSH Incident Reporting eService](https://www.mom.gov.sg/eservices/services/wsh-incident-reporting) is the entry point.
 
 #### The damages question
 
-The [Legal Aid Bureau practitioner guide on accident and personal injury](https://lab.mlaw.gov.sg/files/LAB_Practitioner_Guide_Accident_Personal_Injury_Publication_June2025.pdf) provides the framework for damages typically awarded by Singapore courts in personal-injury matters. The ranges depend on:
+The [Legal Aid Bureau practitioner guide on accident and personal injury](https://lab.mlaw.gov.sg/files/LAB_Practitioner_Guide_Accident_Personal_Injury_Publication_June2025.pdf) explains how damages in personal-injury claims are quantified, as general damages (such as pain and suffering, loss of amenities and future earnings) and special damages (such as pre-trial loss of earnings and medical expenses), and lists the published references practitioners use for the ranges courts award. The amount depends on:
 
 - The nature and severity of the injury.
 - The degree of permanent impairment (if any).
@@ -107,7 +107,7 @@ The PL policy's per-claim and aggregate limits constrain the cover. A serious-in
 
 **Product liability** (typically bundled with PL). If the cause was a defective product the SME supplied.
 
-**Workmen's Compensation (WICA).** If the injured party is an employee.
+**Work Injury Compensation (WIC) insurance.** If the injured party is an employee.
 
 **Employer's Liability** (where added). If the injured party is an employee and the claim proceeds at Common Law beyond the WICA schedule.
 
@@ -156,7 +156,7 @@ The PL policy's per-claim and aggregate limits constrain the cover. A serious-in
 1. For our PL cover, what is the notification window, and what is the panel of loss adjusters and legal counsel?
 2. Does our PL cover extend to landlord-named-insured wordings where applicable?
 3. If the injured party is an employee, how do PL, WICA, and Employer's Liability covers interact?
-4. For our PL sum insured, is the limit calibrated against realistic serious-injury damages ranges per the LAB guide?
+4. For our PL sum insured, is the limit calibrated against realistic serious-injury damages ranges, using the references the LAB guide lists?
 5. What is your post-incident review support model?
 
 ### Related Information

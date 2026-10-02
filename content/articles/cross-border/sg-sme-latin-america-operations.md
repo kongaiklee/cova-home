@@ -14,14 +14,14 @@ word_count: 1769
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-latin-america-operations"
-meta_description: "Latin America is 33 jurisdictions, not one market. What differs, and which decisions a Singapore SME has to make country by country."
+meta_description: "Latin America and the Caribbean is 33 countries, not one market. What differs, and which decisions a Singapore SME has to make country by country."
 og_title: "Singapore SMEs Operating in Latin America: Cross-Border Insurance and Commercial Framework"
-og_description: "Latin America is 33 jurisdictions, not one market. What differs, and which decisions a Singapore SME has to make country by country."
+og_description: "Latin America and the Caribbean is 33 countries, not one market. What differs, and which decisions a Singapore SME has to make country by country."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in Latin America face substantively diverse commercial frameworks across 33 jurisdictions, with major operational markets including Brazil under [Superintendência de Seguros Privados (SUSEP)](https://www.gov.br/susep/), Mexico under [Comisión Nacional de Seguros y Fianzas (CNSF)](https://www.gob.mx/cnsf), Chile under [Comisión para el Mercado Financiero (CMF)](https://www.cmfchile.cl/), Argentina under [Superintendencia de Seguros de la Nación (SSN)](https://www.argentina.gob.ar/ssn), Colombia under [Superintendencia Financiera de Colombia (SFC)](https://www.superfinanciera.gov.co/), and Peru under [Superintendencia de Banca, Seguros y AFP (SBS)](https://www.sbs.gob.pe/). Each market operates substantively admitted commercial scope. Mandatory schemes vary across markets - Brazil has INSS social security, Workers' Compensation, FGTS - Mexico has IMSS / INFONAVIT - Chile has AFP pension, ISAPRE health insurance. Specialist Latin America-experienced commercial broker engagement, specific local commercial counsel relationships, specific currency risk management, and considerations on evolving regulatory frameworks form essential commercial sophistication.
+> Singapore SMEs operating in Latin America face substantively diverse commercial frameworks across the 33 countries of Latin America and the Caribbean, with major operational markets including Brazil under [Superintendência de Seguros Privados (SUSEP)](https://www.gov.br/susep/), Mexico under [Comisión Nacional de Seguros y Fianzas (CNSF)](https://www.gob.mx/cnsf), Chile under [Comisión para el Mercado Financiero (CMF)](https://www.cmfchile.cl/), Argentina under [Superintendencia de Seguros de la Nación (SSN)](https://www.argentina.gob.ar/ssn), Colombia under [Superintendencia Financiera de Colombia (SFC)](https://www.superfinanciera.gov.co/), and Peru under [Superintendencia de Banca, Seguros y AFP (SBS)](https://www.sbs.gob.pe/). Each market operates substantively admitted commercial scope. Mandatory schemes vary across markets - Brazil has INSS social security, Workers' Compensation, FGTS - Mexico has IMSS / INFONAVIT - Chile has AFP pension, ISAPRE health insurance. Specialist Latin America-experienced commercial broker engagement, specific local commercial counsel relationships, specific currency risk management, and considerations on evolving regulatory frameworks form essential commercial sophistication.
 
 ### The Sourced Detail
 
@@ -29,7 +29,7 @@ Latin American operations represent specific commercial opportunity for Singapor
 
 #### Brazil operational framework
 
-Brazil is typically the Latin American anchor market for substantive Singapore SME operations. The market sits within sophisticated regulatory framework.
+The market sits within sophisticated regulatory framework.
 
 Insurance regulation operates under [Decree-Law 73/1966](https://www.gov.br/susep/) administered by [Superintendência de Seguros Privados (SUSEP)](https://www.gov.br/susep/) under [National Council of Private Insurance (CNSP)](https://www.gov.br/susep/) policy framework.
 
@@ -47,15 +47,15 @@ Mandatory frameworks include:
 
 **Vacation pay** - 30 days annual vacation with specific 1/3 vacation bonus.
 
-Specific [Lei das Sociedades por Ações (Law of Joint-Stock Companies, Law 6,404/1976)](https://www.planalto.gov.br/) and specific Limited Liability Company (Sociedade Limitada - Ltda) framework create corporate framework.
+Specific [Lei das Sociedades por Ações (Law of Joint-Stock Companies, Law 6,404/1976)](https://www.planalto.gov.br/ccivil_03/leis/l6404consol.htm) and specific Limited Liability Company (Sociedade Limitada - Ltda) framework create corporate framework.
 
-Specific [Lei Geral de Proteção de Dados Pessoais (LGPD, Law 13,709/2018)](https://www.gov.br/anpd/) administered by [National Data Protection Authority (ANPD)](https://www.gov.br/anpd/) creates substantive data protection framework with specific compliance discipline.
+Specific [Lei Geral de Proteção de Dados Pessoais (LGPD, Law 13,709/2018)](https://www.gov.br/anpd/) administered by [National Data Protection Agency (ANPD)](https://www.gov.br/anpd/) creates substantive data protection framework with specific compliance discipline.
 
 #### Mexico operational framework
 
 Mexico represents major Latin American commercial scope. Insurance market sits within the [Ley de Instituciones de Seguros y de Fianzas (LISF)](https://www.gob.mx/cnsf) framework (in force from 4 April 2015, consolidating and replacing the former Ley General de Instituciones y Sociedades Mutualistas de Seguros) administered by the [Comisión Nacional de Seguros y Fianzas (CNSF)](https://www.gob.mx/cnsf).
 
-Mandatory frameworks include **Instituto Mexicano del Seguro Social (IMSS)** - comprehensive social insurance covering medical, maternity, work risk, disability, retirement, and unemployment benefits with specific contribution rate framework, **Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT)** - housing fund (5% employer contribution), and **Sistema de Ahorro para el Retiro (SAR)** - retirement savings system.
+Mandatory frameworks include **Instituto Mexicano del Seguro Social (IMSS)** - social insurance with five branches: work risks; sickness and maternity; disability and life; retirement, old age and loss of work at an advanced age (a pension from age 60 for those left without paid work); and childcare and social benefits, **Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT)** - housing fund (5% employer contribution), and **Sistema de Ahorro para el Retiro (SAR)** - retirement savings system.
 
 Specific [Ley Federal del Trabajo](https://www.gob.mx/) creates substantive labour framework with specific termination provisions and specific severance scope.
 
@@ -67,7 +67,7 @@ Chile represents stable commercial scope with sophisticated regulatory framework
 
 Mandatory frameworks include **AFP (Administradoras de Fondos de Pensiones)** - privatised pension system with 10% employee contribution (with optional voluntary contributions), **Health insurance** through FONASA (public) or ISAPRE (private) with 7% employee contribution, **Cesantía (Unemployment Insurance)** with 2.4% employer + 0.6% employee contributions, and specific **Workers' Compensation** through Mutual Insurance institutions.
 
-Specific [Ley 19.628 sobre Protección de la Vida Privada](https://www.bcn.cl/leychile) creates data protection framework, with substantive reforms progressing.
+Specific [Ley 19.628 sobre Protección de la Vida Privada](https://www.bcn.cl/leychile/navegar?idNorma=141599) creates data protection framework. [Ley 21.719](https://www.bcn.cl/leychile/navegar?idNorma=1209272), published 13 December 2024, amends it into a law on the protection of personal data and creates a Personal Data Protection Agency, in force from 1 December 2026.
 
 #### Argentina operational framework
 
@@ -95,7 +95,7 @@ Considerations on mature labour frameworks. Latin American labour frameworks are
 
 Specific corruption / anti-bribery commercial scope. Specific Singapore PCA, US FCPA, UK Bribery Act 2010 extraterritorial scope matters substantially.
 
-Specific [Pacific Alliance](https://alianzapacifico.net/) framework (Chile, Colombia, Mexico, Peru) and [Mercosur](https://www.mercosur.int/) framework (Argentina, Brazil, Paraguay, Uruguay) create specific regional commercial scope.
+Specific [Pacific Alliance](https://alianzapacifico.net/) framework (Chile, Colombia, Mexico, Peru) and [Mercosur](https://www.mercosur.int/) framework (Argentina, Bolivia, Brazil, Paraguay, Uruguay; Bolivia took part as a State Party for the first time in 2024) create specific regional commercial scope.
 
 Specific catastrophic peril exposure varies - Mexico has substantial earthquake exposure, Chile has substantial earthquake exposure, Brazil has specific flood exposure, specific other peril scope across markets.
 

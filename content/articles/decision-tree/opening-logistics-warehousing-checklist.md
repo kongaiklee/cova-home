@@ -14,14 +14,14 @@ word_count: 1640
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-logistics-warehousing-checklist"
-meta_description: "Opening a logistics, warehousing or freight forwarding business needs ACRA plus Singapore Customs registration. What else it must hold."
+meta_description: "Logistics, warehousing and forwarding firms register with ACRA, and with Singapore Customs if they import, export or file permits. What else they must hold."
 og_title: "Opening a Logistics, Warehousing, or Freight Forwarding Operation in Singapore: Full Insurance Checklist"
-og_description: "Opening a logistics, warehousing or freight forwarding business needs ACRA plus Singapore Customs registration. What else it must hold."
+og_description: "Logistics, warehousing and forwarding firms register with ACRA, and with Singapore Customs if they import, export or file permits. What else they must hold."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore logistics, warehousing, or freight forwarding business typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); registration with [Singapore Customs](https://www.customs.gov.sg/) as a Declaring Agent (plus any licensee category the commodities require); [LTA](https://www.lta.gov.sg/) commercial vehicle registration for an owned fleet; an [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate for warehouse premises (with elevated standards for high-stack or hazardous-commodity warehouses); [URA](https://www.ura.gov.sg/) industrial zoning compliance; and, on industrial land, [JTC](https://www.jtc.gov.sg/) lease compliance. Insurance baseline: **Public Liability** (often S$3M-S$10M+ given operations), **Marine Cargo Liability** for cargo in custody, **Goods in Trust / Bailee cover** for warehouse operations, **Property/Fire** for warehouse and equipment, **Motor (Commercial Vehicle Fleet)** for vehicles, **WICA** for staff (manual operations heavy), **Cyber Liability** for operational systems and customer data, **Crime / Money** for cash handling and inventory shrinkage, and **Errors and Omissions** cover for freight forwarding operations. The most distinctive risk: **cargo in custody** - often high-value and the most material claim category. Goods in Trust / Bailee cover (also called Customers' Goods or Warehouseman's Legal Liability) is foundational, because standard PL excludes property in the insured's care, custody, and control.
+> A Singapore logistics, warehousing, or freight forwarding business typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); registration with [Singapore Customs](https://www.customs.gov.sg/) if it imports, exports or appoints a Declaring Agent to apply for permits, and as a Declaring Agent if it applies for permits itself or for clients (plus any licensee category the commodities require); [LTA](https://www.lta.gov.sg/) commercial vehicle registration for an owned fleet; an [SCDF](https://www.scdf.gov.sg/) Fire Safety Certificate where the warehouse fit-out involves fire safety works (with elevated standards for high-stack or hazardous-commodity warehouses); [URA](https://www.ura.gov.sg/) industrial zoning compliance; and, on industrial land, [JTC](https://www.jtc.gov.sg/) lease compliance. Insurance baseline: **Public Liability**, **Marine Cargo Liability** for cargo in custody, **Goods in Trust / Bailee cover** for warehouse operations, **Property/Fire** for warehouse and equipment, **Motor (Commercial Vehicle Fleet)** for vehicles, **WICA** for staff (manual operations heavy), **Cyber Liability** for operational systems and customer data, **Crime / Money** for cash handling and inventory shrinkage, and **Errors and Omissions** cover for freight forwarding operations. The most distinctive risk: **cargo in custody** - often high-value and the most material claim category. Goods in Trust / Bailee cover (also called Customers' Goods or Warehouseman's Legal Liability) is foundational, because standard PL excludes property in the insured's care, custody, and control.
 
 ### The Sourced Detail
 
@@ -39,17 +39,17 @@ Singapore's logistics sector - warehousing, freight forwarding, last-mile delive
 #### The licensing baseline
 
 - **ACRA registration** - foundational, with the appropriate business activity codes.
-- **Singapore Customs** - registration as a Declaring Agent and use of TradeNet for permit applications, with the registrations the commodities handled require.
-- **LTA commercial vehicles** - registration of the owned fleet in the appropriate vehicle categories, with the corresponding driver licensing across the GVW classes.
-- **Industry licensing** - dangerous goods and pharmaceutical logistics (under HSA frameworks) carry their own licensing.
-- **Premises** - an SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) is mandatory, with safety standards set by the premises type (warehouse, distribution centre) and occupancy.
+- **Singapore Customs** - a Customs Account if the business imports, exports or appoints a Declaring Agent to apply for permits, and registration as a Declaring Agent, with a TradeNet user ID, if it applies for permits itself or for clients, with the registrations the commodities handled require.
+- **LTA commercial vehicles** - registration of the owned fleet in the appropriate vehicle categories, with each driver holding the driving licence class the vehicle needs (the classes are set by the type of vehicle and its unladen weight).
+- **Industry licensing** - dangerous goods carry their own licensing (SCDF licenses the import, transport and storage of petroleum and flammable materials above exemption quantities, and NEA licenses hazardous substances), and HSA licenses the import and wholesale of therapeutic products.
+- **Premises** - an SCDF [Fire Safety Certificate](/procedural-howto/apply-fsc-scdf-fire-safety-certificate) is needed before occupation where the fit-out involves fire safety works, with safety standards set by the premises type (warehouse, distribution centre) and occupancy.
 
 #### The Public Liability layer
 
-PL responds to property damage and injury arising from premises, transport, equipment, and cargo-handling operations.
+PL responds to property damage and injury arising from premises, equipment, and cargo-handling operations. A PL wording can exclude liability arising from vehicles licensed for road use; that exposure is for the motor policy.
 
 **Limit considerations:**
-- Standard limits S$3M-S$10M+ typical
+- Limits are chosen per operation (JTC's standard terms for leasing its space require at least S$1 million per occurrence)
 - Higher for higher-risk operations
 - Landlords and commercial customers frequently set their own minimums
 
@@ -72,7 +72,7 @@ PL responds to property damage and injury arising from premises, transport, equi
 
 For freight forwarding and cargo handling, Marine Cargo Liability responds to damage or loss during cargo handling and transport coordination, on the basis of the forwarder's liability under its trading conditions.
 
-**Trading conditions.** Most Singapore forwarders contract on the Singapore Logistics Association (SLA) Standard Trading Conditions, which set the liability limits and commercial framework for the forwarder's services. Operating on defined trading conditions is itself a risk control - confirm the conditions are incorporated into customer contracts.
+**Trading conditions.** Singapore forwarders may contract on the Singapore Logistics Association (SLA) Standard Trading Conditions, which set the liability limits and commercial framework for the forwarder's services. Operating on defined trading conditions is itself a risk control - confirm the conditions are incorporated into customer contracts.
 
 **Points to confirm with the insurer:** Errors and Omissions cover for the forwarding function, treatment of NVOCC operations, and the territorial scope.
 
@@ -86,7 +86,7 @@ Third-party liability cover is mandatory under the [Motor Vehicles (Third-Party 
 
 Logistics operations carry substantial [WICA](https://sso.agc.gov.sg/Act/WICA2019) exposure. Warehouse staff (loading, unloading, picking, packing), drivers, and yard staff are all within WICA, and the high-frequency injuries are lifting and strain injuries, equipment-related injuries (forklifts, conveyors), falls during loading and unloading or work at height, and traffic and vehicle-related injuries.
 
-A **Common-Law / Employer's Liability extension** is generally appropriate for logistics, given the WSHA exposure (see [director liability under WSHA section 48](/document-legal/wsha-section-48-director-liability)) and the higher-risk operations. Where subcontractors are used, their staff are covered by their own WICA - coordinate this through subcontractor agreements and verify their cover.
+A **Common-Law / Employer's Liability extension** is generally appropriate for logistics, given the WSHA exposure (see [director liability under WSHA section 48](/document-legal/wsha-section-48-director-liability)) and the higher-risk operations. Where subcontractors are used, the subcontractor is its own staff's employer under WICA, but under section 13 of the Work Injury Compensation Act 2019 the Commissioner may direct the principal to pay compensation to a subcontractor's employee injured where the principal undertook the work or at a place under its control, with a right to be indemnified by the subcontractor. Coordinate this through subcontractor agreements and verify their cover.
 
 #### Cyber considerations
 
@@ -100,7 +100,7 @@ The Cyber exposures worth covering: BEC on customer and supplier payments; opera
 
 **Pre-launch:**
 - ACRA registration
-- Singapore Customs registration, plus any per-commodity licensing
+- Singapore Customs registration if the business imports, exports or files permits, plus any per-commodity licensing
 - Insurance package procured
 
 **Year 1 (small operator, 5-15 staff):**
@@ -131,17 +131,13 @@ The Cyber exposures worth covering: BEC on customer and supplier payments; opera
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore logistics operators (actual premiums depend on operations, cargo values, and limits):
+Premiums for Singapore logistics operators depend on operations, cargo values, and limits, and are set by quote:
 
 **Small freight forwarder (5-15 staff):**
-- PL / Marine Cargo Liability / E&O: S$5,000-S$15,000
-- Cyber with BEC: S$3,000-S$10,000
-- WICA, Property: S$3,000-S$10,000
-- **Total annual insurance budget:** typically S$10,000-S$40,000
+- PL / Marine Cargo Liability / E&O, Cyber with BEC, WICA, Property: priced by quote
 
 **Mid-size warehouse operator (20-80 staff):**
 - Higher PL / Bailee limits, comprehensive cargo cover, substantial WICA, and fleet motor
-- **Total:** typically S$30,000-S$120,000
 
 **Larger integrated logistics:**
 - A comprehensive, multi-site programme; total scales with the operation

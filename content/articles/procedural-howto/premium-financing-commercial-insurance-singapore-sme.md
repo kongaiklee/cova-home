@@ -283,7 +283,7 @@ The cost of premium funding is bounded but real - an effective financing rate on
 5. For our governance, is premium funding decision documented at board / finance committee level?
 
 ### Related Information
-- [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
+- [How to Negotiate Broker Remuneration Disclosure for SME Insurance in Singapore](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [How to Handle SME Commercial Insurance Renewal With a Loss History](/procedural-howto/how-to-handle-renewal-with-claims-history-singapore)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 

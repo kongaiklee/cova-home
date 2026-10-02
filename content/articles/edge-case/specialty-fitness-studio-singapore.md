@@ -146,7 +146,7 @@ For substantive operations, specialist segment-aware broker engagement, commerci
 
 ### Related Information
 - [Bouldering Gym, Climbing Gym, and Adventure Sport Facility Insurance in Singapore](/edge-case/bouldering-climbing-gym-insurance)
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

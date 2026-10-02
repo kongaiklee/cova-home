@@ -22,19 +22,19 @@ og_description: "AI tools are bought on the vendor's standard terms, and those t
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs buying AI tools - SaaS chatbots, document-processing engines, image generators, agentic coding tools - are typically procuring under the **vendor's standard terms**, which allocate most of the downstream risk to the buyer. The single most consequential clause is the **indemnity** (who pays when the AI causes harm to a third party), and the most overlooked is the **input-data licence** (what the vendor may do with the SME's data passed to the model). The [Cyber Security Agency of Singapore's Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems/) published **15 October 2024** sets out the security-control floor; the [MAS Guidelines on Outsourcing](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing) published 11 December 2023 and effective 11 December 2024 set the financial-institution-grade benchmark that increasingly applies to SME counterparties of FIs; the [IMDA Model AI Governance Framework](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework) is the de facto procurement standard for Singapore organisations buying AI. This article sets out the seven contract terms an SME should look for, the two terms that should never be accepted as-is, and how the controls connect to the SME's existing insurance position.
+> Singapore SMEs buying AI tools - SaaS chatbots, document-processing engines, image generators, agentic coding tools - are typically procuring under the **vendor's standard terms**, which allocate most of the downstream risk to the buyer. The single most consequential clause is the **indemnity** (who pays when the AI causes harm to a third party), and the most overlooked is the **input-data licence** (what the vendor may do with the SME's data passed to the model). The [Cyber Security Agency of Singapore's Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems/) published **15 October 2024** sets out security guidelines for each stage of the AI lifecycle that are not mandatory; the MAS Guidelines on Outsourcing ([Banks](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing-banks); [Financial Institutions other than Banks](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing-financial-institutions-other-than-banks)) published 11 December 2023 and effective 11 December 2024 set out the terms MAS expects financial institutions to cover in their outsourcing agreements with service providers; the [IMDA Model AI Governance Framework](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework) gives private-sector organisations guidance on ethical and governance issues when deploying AI. This article sets out the seven contract terms an SME should look for, the two terms that should never be accepted as-is, and how the controls connect to the SME's existing insurance position.
 
 ### The Sourced Detail
 
-The AI vendor procurement landscape in Singapore in 2026 is dominated by US-domiciled foundation-model providers (OpenAI, Anthropic, Google, Meta), Singapore- and regional-domiciled application-layer SaaS, and a long tail of point-solution tools. The terms presented to SMEs at the point of sale are typically the vendor's online click-through agreement; negotiating those terms is possible for larger contracts but rare for sub-S$100,000 annual commitments.
+The AI vendor procurement landscape in Singapore in 2026 is dominated by US-domiciled foundation-model providers (OpenAI, Anthropic, Google, Meta), Singapore- and regional-domiciled application-layer SaaS, and a long tail of point-solution tools. The terms presented to SMEs at the point of sale are typically the vendor's online click-through agreement; negotiating those terms is possible for larger contracts.
 
-The result is that most SMEs are operating under vendor terms they have not read in detail. The contract risk is invisible until the AI causes a problem, at which point the indemnity allocation determines who pays.
+The result is that an SME can be operating under vendor terms it has not read in detail. The contract risk is invisible until the AI causes a problem, at which point the indemnity allocation determines who pays.
 
-#### The CSA Guidelines as the procurement floor
+#### The CSA Guidelines on Securing AI Systems
 
-The [CSA Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems/) published 15 October 2024 set out five lifecycle phases (planning and design, development, deployment, operations and maintenance, end-of-life) with a series of recommended controls at each. While the Guidelines are technically non-binding, they have rapidly become the benchmark Singapore organisations apply when procuring AI tools, including for AI-vendor due diligence.
+The [CSA Guidelines and Companion Guide on Securing AI Systems](https://www.csa.gov.sg/resources/publications/guidelines-and-companion-guide-on-securing-ai-systems/) published 15 October 2024 set out five lifecycle phases (planning and design, development, deployment, operations and maintenance, end-of-life) with a series of recommended controls at each. The Guidelines are not mandatory. CSA strongly encourages system owners to consider them, and their supply-chain guideline asks system owners to ensure that suppliers adhere to security policies and internationally recognised standards, or that risks are otherwise appropriately managed.
 
-The Guidelines' procurement-relevant questions for an SME considering an AI vendor include:
+Questions an SME can put to an AI vendor, some of which follow from the Guidelines' points on the supply chain, incident management and model updates, include:
 
 - What does the vendor do with the SME's input data? (training, retention, sharing)
 - How does the vendor secure the data in transit and at rest?
@@ -44,22 +44,21 @@ The Guidelines' procurement-relevant questions for an SME considering an AI vend
 
 The answers should be in the vendor's contract and in its security documentation; if they are not, that is itself a procurement signal.
 
-The [CSA Draft Addendum on Securing Agentic AI](https://www.csa.gov.sg/news-events/press-releases/csa-releases-an-addendum-to-support-system-owners-in-securing-agentic-ai-system/), opened for public consultation in October 2025, extends the framework for autonomous AI agents - where the procurement stakes are higher because the agent can take actions, not just produce outputs.
+The [CSA Addendum on Securing Agentic AI](https://www.csa.gov.sg/resources/publications/addendum-on-securing-ai-systems), published on 17 June 2026 after a public consultation that ran from 22 October to 31 December 2025, extends the framework for autonomous AI agents - where the procurement stakes are higher because the agent can take actions, not just produce outputs.
 
 #### The MAS Outsourcing benchmark
 
-The [MAS Guidelines on Outsourcing](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing) - published 11 December 2023, in force from 11 December 2024 - apply directly to financial institutions. They are nominally not binding on non-FI SMEs, but they set the contractual standard that:
+The MAS Guidelines on Outsourcing ([Banks](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing-banks); [Financial Institutions other than Banks](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing-financial-institutions-other-than-banks)), published 11 December 2023 and in force from 11 December 2024, apply directly to financial institutions. They do not apply to non-FI SMEs, but they set the contractual standard that:
 
-- FIs increasingly require their SME counterparties to meet (for example, FIs require their AI-tool sub-providers to meet outsourcing-grade controls).
-- Insurance underwriters apply when assessing the SME's vendor-management discipline at PI or cyber renewal.
+- FIs are expected to write into their outsourcing agreements with service providers, including rules and limits on sub-contracting (para 5.5.2 of the Guidelines for financial institutions other than banks; paras 3.4 and 3.5 of the Guidelines for banks).
 
 The MAS Outsourcing Guidelines' contract checklist includes: clear scope of services, service-level commitments, business continuity, security and confidentiality, audit rights, sub-contracting controls, termination and exit, and data return-and-destruction at end of contract. For AI tools, these translate to specific clauses an SME should look for in any vendor agreement.
 
 #### The IMDA Model AI Governance Framework
 
-The [IMDA Model AI Governance Framework](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework), with companion guides on Generative AI and implementation, sets out four ethical-AI principles (transparency, explainability, repeatability and reproducibility, safety) and operationalises them through a self-assessment framework. The Framework's "Verify AI" platform (now Project Moonshot under the AI Verify Foundation) is the procurement-side tool an SME can run against a vendor's AI tool to assess governance maturity.
+The [IMDA Model AI Governance Framework](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework), with companion guides on Generative AI and implementation, sets out two guiding principles (decisions made by AI should be explainable, transparent and fair; AI systems should be human-centric) and guidance in four areas, with a companion Implementation and Self-Assessment Guide for Organisations (ISAGO). IMDA's AI Verify, a separate testing framework and toolkit now under the AI Verify Foundation, lets an organisation test its own AI systems against 11 governance principles; the Foundation's Project Moonshot is a separate open-source toolkit for testing large language model applications.
 
-The Framework is non-binding but has been adopted by both [the Singapore government as a procurement benchmark](https://aiverifyfoundation.sg/) and by financial-institution AI risk-management practice.
+The Framework is non-binding guidance for private-sector organisations deploying AI.
 
 #### The seven contract terms to look for
 
@@ -91,9 +90,9 @@ The SME's insurance position interacts with vendor terms in three ways.
 
 **Cyber liability cover.** A vendor's data breach affecting the SME's customer data may be a covered event under the SME's cyber policy, but the cover typically operates by indemnifying the SME for amounts the SME pays out, then subrogating to the vendor. If the vendor's contract caps the vendor's liability at a low figure, the subrogation recovery is correspondingly limited.
 
-**Professional indemnity cover.** Where the SME's AI tool produces output the SME uses in professional services, the PI policy responds to third-party claims based on that output. The vendor's indemnity may operate as a secondary recovery; the wording of "other insurance" clauses determines priority.
+**Professional indemnity cover.** Where the SME's AI tool produces output the SME uses in professional services, the PI policy may respond to third-party claims based on that output, subject to its terms and exclusions. The vendor's indemnity may give a separate route to recovery; how it interacts with the PI policy depends on the policy wording and the contract.
 
-**Tech E&O cover.** Where the SME is itself a technology provider integrating AI tools into its own offering, Tech E&O is the primary cover. The vendor's contract terms (especially indemnity) directly shape the SME's Tech E&O underwriting and pricing.
+**Tech E&O cover.** Where the SME is itself a technology provider integrating AI tools into its own offering, Tech E&O is the primary cover. The vendor's contract terms (especially indemnity) can be relevant to the SME's Tech E&O cover.
 
 #### What an SME should do at every AI vendor purchase
 
@@ -111,7 +110,7 @@ The process scales: for low-materiality tools (a S$50/month productivity SaaS), 
 
 1. **Click-through acceptance without reading.** The default failure mode.
 2. **Using the consumer tier when an enterprise tier with restricted data use exists.** The price difference is rarely material to the exposure delta.
-3. **No CSA Guidelines or IMDA Framework assessment.** Procurement decisions made without the benchmark.
+3. **No CSA Guidelines or IMDA Framework assessment.** Procurement decisions made without reference to either.
 4. **Vendor's "AI training" right not negotiated.** Input data ends up in the model permanently.
 5. **No PDPA assessment** of the data flow.
 6. **No insurance check** before binding.
@@ -128,7 +127,7 @@ The process scales: for low-materiality tools (a S$50/month productivity SaaS), 
 
 3. **Apply the [IMDA Model AI Governance Framework](https://www.pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework)** as the governance benchmark.
 
-4. **Reference the [MAS Outsourcing Guidelines](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing)** for FI-counterparty work or high-criticality tools.
+4. **Reference the MAS Outsourcing Guidelines ([Banks](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing-banks); [Financial Institutions other than Banks](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-outsourcing-financial-institutions-other-than-banks))** for FI-counterparty work or high-criticality tools.
 
 5. **Run a PDPA assessment** on every data flow into an AI vendor.
 

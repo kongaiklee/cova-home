@@ -29,7 +29,7 @@ A Stop-Work Order is a regulatory enforcement instrument that halts business ope
 
 #### What an SWO actually is
 
-Per [Section 21 of the WSHA](https://sso.agc.gov.sg/Act/WSHA2006), the Commissioner has the power to issue a remedial order or a stop-work order in respect of a workplace where, in the Commissioner's opinion: (a) the workplace, its location, or use of any machinery, equipment, plant or article means that work cannot be carried on with due regard to safety, health and welfare; (b) any duty imposed by the Act has been contravened; or (c) any act or omission poses or is likely to pose a risk to the safety, health and welfare of persons at work. The order can be served on the occupier of the workplace, on a person whose duty is to ensure safety, or on a contravening party.
+Per [Section 21 of the WSHA](https://sso.agc.gov.sg/Act/WSHA2006), the Commissioner has the power to issue a remedial order or a stop-work order in respect of a workplace where, in the Commissioner's opinion: (a) the workplace, its location, or use of any machinery, equipment, plant or article means that work cannot be carried on with due regard to safety, health and welfare; (b) any duty imposed by the Act has been contravened; or (c) any act or omission poses or is likely to pose a risk to the safety, health and welfare of persons at work. The order can be served on any person in control of the workplace or of the work or process there, on a person whose duty under the Act is to ensure the safety, health and welfare of persons at work in the workplace, or on any person who poses or is likely to pose a risk to them.
 
 An SWO can be issued for:
 - Imminent danger from physical conditions (unsafe scaffolding, unsafe machinery)
@@ -167,7 +167,7 @@ If a designer, engineer, or consultant's professional failure contributed to the
 
 **D&O (governance angle):**
 
-If the SWO and underlying matters trigger director personal liability concerns (e.g. WSHA Section 48 personal liability), D&O may respond to defence and indemnity. Per Section 48 of WSHA, directors and senior managers can face personal liability for offences committed by the body corporate where the offence was attributable to neglect on their part.
+If the SWO and underlying matters trigger director personal liability concerns (e.g. WSHA Section 48 personal liability), D&O may respond to defence and indemnity. Per Section 48 of WSHA, where a body corporate commits an offence under the Act, an officer (including a director, manager or secretary) is guilty of the offence unless the officer proves that it was committed without his or her consent or connivance and that he or she exercised all the diligence to prevent it that he or she ought to have exercised.
 
 **EPL (employment-related claims):**
 
@@ -175,7 +175,7 @@ If the SWO triggers wider employment issues (mass redundancy, contested terminat
 
 **No standard insurance responds to:**
 - The SWO itself as an enforcement event
-- Production losses where the underlying cause isn't a covered insured event under the [General Insurance Association](https://gia.org.sg/) standard property wordings
+- Production losses where the underlying cause isn't a covered insured event under the property policy
 - Regulatory penalties (criminal fines under WSHA are typically uninsurable)
 
 #### Criminal and regulatory exposure
@@ -183,17 +183,16 @@ If the SWO triggers wider employment issues (mass redundancy, contested terminat
 **WSHA penalties:**
 
 Per the [WSHA penalty framework](https://sso.agc.gov.sg/Act/WSHA2006), offences attract:
-- Corporate fines (up to S$500,000 for first-time offences; higher for repeat)
+- Corporate fines (up to S$500,000 where the Act sets no specific penalty)
 - Individual fines and imprisonment
 - Personal liability under Section 48 for directors/managers/officers
-- Specific higher penalties for fatal accidents
+- Higher penalties for a repeat offence that causes another death (up to S$1 million for a body corporate)
 
 **MOM administrative actions:**
 
 In addition to the SWO:
 - Composition fines for less serious offences
 - Court prosecution for serious matters
-- Administrative penalties under the Regulations
 - Demerit points under the WSHA system (for accumulating offences)
 - Public naming on MOM enforcement publications
 
@@ -247,7 +246,7 @@ A Stop-Work Order is a multi-dimensional crisis: regulatory, commercial, financi
 
 The discipline:
 
-1. **Maintain WSH compliance proactively.** Most SWOs follow detectable patterns of compliance drift; addressing them early prevents the enforcement event.
+1. **Maintain WSH compliance proactively.** Addressing compliance drift early can prevent the enforcement event.
 
 2. **Hold appropriate insurance for associated risks.** WICA, PL, BI with denial-of-access extension, D&O - each may respond to different aspects.
 

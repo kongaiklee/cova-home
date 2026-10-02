@@ -14,14 +14,14 @@ word_count: 1624
 status: "published"
 hero_image: "/assets/blog/edge-case.jpg"
 canonical_url: "https://covarage.com/guides/edge-case/esports-gaming-centre-insurance"
-meta_description: "An e-sports centre or gaming cafe needs ACRA registration, an SCDF Fire Safety Certificate and URA zoning compliance. What else it must hold."
+meta_description: "An e-sports centre or gaming cafe needs ACRA registration, URA zoning compliance and a police licence as a computer games centre. What else it must hold."
 og_title: "E-Sports Centre or Gaming Café Insurance in Singapore"
-og_description: "An e-sports centre or gaming cafe needs ACRA registration, an SCDF Fire Safety Certificate and URA zoning compliance. What else it must hold."
+og_description: "An e-sports centre or gaming cafe needs ACRA registration, URA zoning compliance and a police licence as a computer games centre. What else it must hold."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore e-sports centre or gaming café requires: business registration with [ACRA](https://www.bizfile.gov.sg/), [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/), [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [Singapore Police Force](https://www.police.gov.sg/) regulations on amusement establishments. Insurance baseline: **Public Liability** (S$1M-S$3M; venues with extended hours, F&B, or alcohol service warrant higher), **Property/Fire** for high-density gaming equipment (PCs, peripherals, monitors, VR equipment - fit-out value commonly S$200,000-S$1M+), **Equipment Breakdown** for high-utilisation hardware (gaming PCs experience higher failure rates than office equipment), **WICA** for staff, **Cyber Liability** with elevated attention given gaming centres handle account credentials, payment data, and member systems, **Crime / Money** for cash handling, and **Property/BI** specifically structured for tournament events. Tournament organisation brings additional exposure: **Event Cancellation insurance** for prize-pool tournaments, specific liability for player injury (esports has emerging RSI/wellness claims), and broadcast/streaming considerations.
+> A Singapore e-sports centre or gaming café requires: business registration with [ACRA](https://www.bizfile.gov.sg/), an [SCDF Fire Safety Certificate](https://www.scdf.gov.sg/) where its fit-out involves fire safety works, [URA](https://www.ura.gov.sg/) zoning compliance, and where applicable [Singapore Police Force](https://www.police.gov.sg/) regulations on amusement establishments. Insurance baseline: **Public Liability** (at a limit no lower than any lease or venue contract requires; venues with extended hours, F&B, or alcohol service warrant higher), **Property/Fire** for high-density gaming equipment (PCs, peripherals, monitors, VR equipment), **Equipment Breakdown** for high-utilisation hardware, **WIC insurance** for staff unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month (the employer must still compensate any employee who makes a valid claim under WICA), **Cyber Liability** with elevated attention given gaming centres handle account credentials, payment data, and member systems, **Crime / Money** for cash handling, and **Property/BI** specifically structured for tournament events. Tournament organisation brings additional exposure: **Event Cancellation insurance** for prize-pool tournaments, specific liability for player injury, and broadcast/streaming considerations.
 
 ### The Sourced Detail
 
@@ -31,17 +31,15 @@ E-sports centres, gaming cafés, and competitive gaming venues represent a disti
 
 **1. Equipment density and value.**
 Gaming centres concentrate high-value equipment per square foot:
-- Gaming PCs: S$3,000-S$10,000+ per station
-- Premium monitors (240Hz, 4K, ultrawide): S$500-S$2,000 each
+- Gaming PCs
+- Premium monitors (240Hz, 4K, ultrawide)
 - Mechanical keyboards, mice, headsets per station
-- VR equipment (premium centres): S$2,000-S$5,000 per station
+- VR equipment (premium centres)
 - Console gaming areas: PS5, Xbox Series X, gaming chairs
 - Streaming/broadcast equipment for tournaments
 
-A 30-station centre with mid-tier equipment can hold S$300,000-S$500,000 of equipment alone.
-
 **2. High-utilisation equipment failure.**
-Gaming PCs experience significantly higher failure rates than office computers:
+Gaming PCs in a venue can see heavier use than office computers:
 - Higher heat from sustained gaming workloads
 - 24/7 operation cycles in some venues
 - Component-level failures (graphics cards, power supplies, storage)
@@ -89,15 +87,15 @@ Emerging awareness around:
 
 **Pre-launch:**
 - ACRA registration
-- SCDF FSC (electrical load is often substantial)
+- SCDF FSC where the fit-out involves fire safety works (electrical load is often substantial)
 - URA zoning verification
 - Insurance procured before fit-out completion
 
 **Year 1 (single-venue, 20-50 stations):**
 - PL with appropriate limits
 - Property/Fire/PAR for fit-out and equipment
-- Equipment Breakdown for high-failure-rate hardware
-- WICA for staff
+- Equipment Breakdown for high-utilisation hardware
+- WIC insurance for staff, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month; the employer must still compensate any employee who makes a valid claim under WICA
 - Group Medical / Group PA
 - Cyber Liability
 - Crime / Money
@@ -123,8 +121,8 @@ PL exposures specific to gaming venues:
 - Visitor injuries
 
 Limit considerations:
-- Standard limits (S$1M-S$3M) for typical gaming café
-- Higher (S$3M-S$5M) for venues with F&B, alcohol, or tournament events
+- At least any limit the lease or a venue contract requires (JTC's standard space lease terms, for example, require S$1 million per occurrence)
+- Higher limits for venues with F&B, alcohol, or tournament events
 - Customer-driven (sponsored event obligations)
 
 Specific items to confirm:
@@ -247,28 +245,12 @@ Gaming venues often serve customer base including minors:
 
 **Insurance considerations:**
 - Heightened duty of care
-- PDPA significant-harm category for minor data
+- PDPA breach notification: a minor's data is deemed to cause significant harm only in prescribed cases, such as a breach of the child's full name, alias or identification number together with information identifying the child as the subject of an investigation under the Children and Young Persons Act; a breach of a customer's account name together with the password for that account is deemed to cause significant harm whatever the customer's age
 - Specific liability profile for minor customers
 
 #### Premium considerations
 
-For typical Singapore gaming centres:
-
-**Small gaming café (15-30 stations, 3-8 staff):**
-- PL/Property/BI bundle: S$5,000-S$15,000
-- Equipment Breakdown: S$2,000-S$8,000
-- Cyber, WICA, Crime, employee benefits: S$5,000-S$15,000
-- **Total annual insurance budget** typically S$12,000-S$40,000
-
-**Mid-size centre (30-60 stations, 8-15 staff, F&B integration):**
-- Higher limits across the board
-- F&B-specific cover
-- **Total typically S$25,000-S$80,000**
-
-**Tournament venue or multi-format operation:**
-- Comprehensive programme
-- Event-specific cover
-- **Total typically S$40,000-S$150,000+**
+Premiums depend on the number of stations, the value of equipment and fit-out insured, F&B and alcohol service, tournament activity and the limits chosen.
 
 #### Operational risk management
 
@@ -309,14 +291,14 @@ Insurers underwrite gaming venues on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Equipment cover at indemnity rather than replacement.** Gaming equipment depreciates rapidly; reinstatement payout inadequate.
-2. **No Equipment Breakdown for high-failure-rate hardware.** Frequent claims category uninsured.
+1. **Equipment cover at indemnity rather than replacement.** Gaming equipment depreciates rapidly, so a payout of its value at the time of loss can fall well short of the cost of replacing it.
+2. **No Equipment Breakdown for high-utilisation hardware.** Breakdown of heavily used equipment left uninsured.
 3. **PL inadequate for tournament events.** Spectator and event-specific exposure not addressed.
 4. **Cyber inadequate for account credential exposure.** Major data exposure unaddressed.
 5. **F&B integration without Product Liability and SFA licensing.** Food safety exposure.
 6. **Tournament cancellation without Event Cancellation cover.** Sponsorship and prize pool obligations exposed.
 7. **Children-specific considerations skipped.** Heightened duty of care and PDPA.
-8. **Standard SME approach without category specialisation.** Generic broker often underestimates equipment density and Cyber exposure.
+8. **Standard SME approach without category specialisation.** A generic SME package may not reflect the venue's equipment density and Cyber exposure.
 
 ### What This Means for Your Business
 
@@ -338,7 +320,7 @@ For Singapore gaming centre operators:
 
 8. **Annual review with broker familiar with gaming/tech-heavy retail.** Industry evolves rapidly.
 
-The e-sports and gaming venue category is growing, with insurance underwriting still maturing. Operators with sophisticated risk management and clear documentation position better for both operational success and insurance terms.
+Operators with sophisticated risk management and clear documentation position better for both operational success and insurance terms.
 
 ### Questions to Ask Your Adviser
 

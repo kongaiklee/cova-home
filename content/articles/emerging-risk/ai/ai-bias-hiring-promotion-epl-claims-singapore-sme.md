@@ -271,7 +271,7 @@ When sitting down with a licensed adviser or broker, the following questions sur
 
 ## Related Information
 
-- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and the EPL Underwriting Reset for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
+- [Workplace Fairness (Dispute Resolution) Act 2025: Statutory Tort of Discrimination, ECT Jurisdictional Uplift, and EPL Cover for Singapore SMEs](/regulatory-change/workplace-fairness-dispute-resolution-act-2025-epl-tort)
 - [MAS AIRG, IMDA MGF, EU AI Act: The AI Compliance Timeline for Singapore SMEs](/regulatory-change/mas-airg-imda-mgf-eu-ai-act-singapore-sme-compliance-timeline)
 - [When Your Chatbot Lies: Misrepresentation Liability for Singapore SMEs](/emerging-risk/ai/chatbot-misrepresentation-liability-singapore-sme)
 - [When Your AI Agent Goes Rogue: Insurance Implications for Singapore SMEs After the Replit Database Wipe](/emerging-risk/ai/autonomous-ai-agent-rogue-actions-singapore-sme)

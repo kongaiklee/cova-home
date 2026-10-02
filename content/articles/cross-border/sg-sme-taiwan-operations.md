@@ -21,7 +21,7 @@ og_description: "Taiwan is supervised by the Financial Supervisory Commission. W
 
 > **The Answer in 60 Seconds**
 >
-> Singapore SMEs operating in Taiwan through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered by the [Financial Supervisory Commission (FSC)](https://www.fsc.gov.tw/) and specific subsidiary regulators. Taiwan operates a substantively admitted market for commercial insurance covering Taiwan risks. Mandatory schemes include National Health Insurance (NHI), Labor Insurance (covering work injury, ordinary injury, sickness, maternity, occupational disease, disability, old age, death, and unemployment), and Labor Pension under the Labor Pension Act. Specific [Company Act](https://law.moj.gov.tw/) corporate framework, [Personal Data Protection Act (PDPA)](https://law.moj.gov.tw/) data protection scope, and specific [Ministry of Finance](https://www.mof.gov.tw/) tax compliance create substantial operational sophistication considerations. Framework for Taipei, Taichung, Kaohsiung, and specific industrial / technology park commercial scope (Hsinchu Science Park, specific other clusters).
+> Singapore SMEs operating in Taiwan through subsidiary, branch, or specific commercial structures face an insurance and regulatory framework administered by the [Financial Supervisory Commission (FSC)](https://www.fsc.gov.tw/) and specific subsidiary regulators. Taiwan operates a substantively admitted market for commercial insurance covering Taiwan risks. Mandatory schemes include National Health Insurance (NHI), Labor Insurance (covering maternity, injury or sickness, disability, old age and death), Employment Insurance (covering unemployment), occupational accident insurance (since 1 May 2022 under the Labor Occupational Accident Insurance and Protection Act), and Labor Pension under the Labor Pension Act. Specific [Company Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=J0080001) corporate framework, [Personal Data Protection Act (PDPA)](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021) data protection scope, and specific [Ministry of Finance](https://www.mof.gov.tw/) tax compliance create substantial operational sophistication considerations. Framework for Taipei, Taichung, Kaohsiung, and specific industrial / technology park commercial scope (Hsinchu Science Park, specific other clusters).
 
 ### The Sourced Detail
 
@@ -29,33 +29,33 @@ Taiwan represents substantial commercial opportunity for Singapore SMEs, particu
 
 #### The FSC framework
 
-Taiwan's insurance market sits within the [Insurance Act](https://law.moj.gov.tw/) framework administered by [Financial Supervisory Commission (FSC)](https://www.fsc.gov.tw/) Insurance Bureau. Specific frameworks include:
+Taiwan's insurance market sits within the [Insurance Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=G0390002) framework administered by [Financial Supervisory Commission (FSC)](https://www.fsc.gov.tw/) Insurance Bureau. Specific frameworks include:
 
 Taiwan operates a substantively admitted market - insurance covering Taiwan risks must generally be placed with FSC-authorised insurers. Specific exceptions exist for specific reinsurance arrangements and operational scope.
 
 Commercial relationships with major Taiwan insurers (Cathay Century Insurance, Fubon Insurance, Mingtai Fire & Marine, Taian Insurance, Shin Kong Insurance, specific other Taiwan insurers) and Taiwan commercial brokers matter substantially.
 
-For Singapore SMEs, Taiwan subsidiary / branch operations require Taiwan-issued commercial insurance from FSC-authorised insurers. Singapore-issued cover does not extend to Taiwan operational scope.
+For Singapore SMEs, Taiwan subsidiary / branch operations require Taiwan-issued commercial insurance from FSC-authorised insurers. Taiwan's Insurance Act makes it an offence to act as agent or broker for a foreign insurer that is not approved in Taiwan, except for insurance the competent authority has announced as supporting government policy needs (Article 167-1); whether a Singapore policy responds to a Taiwan loss depends on its territorial scope.
 
 #### The mandatory benefit frameworks
 
 Taiwan mandates several social benefit and insurance frameworks affecting commercial operations.
 
-**National Health Insurance (NHI)** under [National Health Insurance Act](https://law.moj.gov.tw/) administered by [National Health Insurance Administration](https://www.nhi.gov.tw/) provides comprehensive national health insurance. Premium rate is 5.17% (2024) shared across employer, employee, and government - typical employer share approximately 60%. Coverage is comprehensive across medical scope.
+**National Health Insurance (NHI)** under [National Health Insurance Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=L0060001) administered by [National Health Insurance Administration](https://www.nhi.gov.tw/) provides comprehensive national health insurance. Premium rate is 5.17% (2024) shared across employer, employee, and government - typical employer share approximately 60%. Coverage is comprehensive across medical scope.
 
-**Labor Insurance** under [Labor Insurance Act](https://law.moj.gov.tw/) administered by [Bureau of Labor Insurance](https://www.bli.gov.tw/) covers private sector workers and provides ordinary injury, sickness, maternity, occupational injury, disability, old age, death, and unemployment benefits. Premium rate (2025) is 11.5% for ordinary insurance + occupational accident insurance rate (varying by industry classification, typically 0.13% to 1.07%); together with the 1% employment insurance premium, the combined labor insurance premium rate reached 12.5% from 1 January 2025.
+**Labor Insurance** under [Labor Insurance Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0050001) administered by [Bureau of Labor Insurance](https://www.bli.gov.tw/) covers private sector workers and provides maternity, injury or sickness, disability, old-age and death benefits; since 1 May 2022 occupational accidents are insured under the Labor Occupational Accident Insurance and Protection Act, and unemployment benefits come from Employment Insurance. Premium rate (2025) is 11.5% for ordinary insurance + occupational accident insurance rate (since 1 January 2025, an industry rate of 0.05% to 0.89% plus a single 0.07% commuting rate); together with the 1% employment insurance premium, the combined labor insurance premium rate reached 12.5% from 1 January 2025.
 
-**Labor Pension** under [Labor Pension Act 2005](https://law.moj.gov.tw/) administered by [Bureau of Labor Insurance](https://www.bli.gov.tw/) provides defined contribution retirement scheme. Employer contribution is at minimum 6% of monthly wage; employees may contribute up to additional 6% voluntarily.
+**Labor Pension** under [Labor Pension Act 2005](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0030020) administered by [Bureau of Labor Insurance](https://www.bli.gov.tw/) provides defined contribution retirement scheme. Employer contribution is at minimum 6% of monthly wage; employees may contribute up to additional 6% voluntarily.
 
 **Employment Insurance** provides unemployment, vocational training, parental leave allowance, and specific other benefits.
 
-**Specific occupational accident framework** under [Occupational Accident Insurance and Protection Act](https://law.moj.gov.tw/) (effective May 2022) provides expanded occupational accident coverage with operational scope.
+**Specific occupational accident framework** under [Labor Occupational Accident Insurance and Protection Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0050031) (effective May 2022) provides expanded occupational accident coverage with operational scope.
 
-**Special Employees' Annual Bonus** is conventionally provided though not mandated; typical commercial conventions include annual bonus equivalent to 1-3 months' salary.
+**Annual bonus**: the Labor Standards Act (Article 29) requires a business with net profits left after taxes, losses, dividends and reserves to pay allowances or a bonus to workers who worked the whole preceding year without fault; the law does not fix the amount.
 
 #### The Company Act framework
 
-Taiwan's [Company Act](https://law.moj.gov.tw/) administered by [Ministry of Economic Affairs (MOEA)](https://www.moea.gov.tw/) creates corporate framework. Specific provisions include directors' duties under specific articles (good faith, due care, undivided loyalty), specific liability provisions, specific Independent Director requirements for listed companies, and operational scope for various corporate structures.
+Taiwan's [Company Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=J0080001) administered by [Ministry of Economic Affairs (MOEA)](https://www.moea.gov.tw/) creates corporate framework. Specific provisions include directors' duties under specific articles (good faith, due care, undivided loyalty), specific liability provisions, independent director requirements for public companies, which come from the Securities and Exchange Act (Article 14-2), not the Company Act, and operational scope for various corporate structures.
 
 For Singapore SMEs, Taiwan subsidiary structures typically follow Limited Company or Company Limited by Shares framework. Specific branch office (分公司) structure also available with commercial considerations.
 
@@ -63,17 +63,17 @@ D&O cover with Taiwan operational scope addresses specific director liability sc
 
 #### The Personal Data Protection Act framework
 
-Taiwan's [Personal Data Protection Act (PDPA)](https://law.moj.gov.tw/) administered by [Ministry of Justice](https://www.moj.gov.tw/) and various sectoral regulators creates substantive data protection framework.
+Taiwan's [Personal Data Protection Act (PDPA)](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=I0050021) administered by the Preparatory Office of the Personal Data Protection Commission, which took over the functions under Articles 53 and 55 from the National Development Council on 1 January 2024 (the Council had taken them from the Ministry of Justice in January 2019), and by the authorities in charge of each industry, creates substantive data protection framework.
 
 Framework provisions include consent-based data processing requirements, specific data subject rights (access, correction, deletion, cease processing), specific cross-border transfer provisions, specific data breach notification considerations, and specific penalty scope. The framework was strengthened through 2023 amendments creating Personal Data Protection Commission framework progressively coming into force.
 
 #### The labour framework specifics
 
-Taiwan's [Labor Standards Act](https://law.moj.gov.tw/) administered by [Ministry of Labor (MOL)](https://www.mol.gov.tw/) creates substantive labour protections.
+Taiwan's [Labor Standards Act](https://law.moj.gov.tw/ENG/LawClass/LawAll.aspx?pcode=N0030001) administered by [Ministry of Labor (MOL)](https://www.mol.gov.tw/) creates substantive labour protections.
 
 Specific considerations include strict working hours framework (40 hours/week standard, specific overtime provisions including 1.34x and 1.67x rates), specific annual leave entitlements (progressing from 3 days for 6 months service to 30 days for 25+ years service), specific severance provisions for terminations, and specific unfair dismissal scope.
 
-Termination requires substantial procedural discipline. Specific just cause and authorised cause framework. Specific severance pay calculations.
+Termination requires substantial procedural discipline. An employer may give notice to end a labor contract only on the business or performance grounds in Article 11 of the Labor Standards Act, and may end it without notice for the worker misconduct listed in Article 12. Specific severance pay calculations.
 
 For Singapore SMEs, EPL cover with Taiwan operational scope addresses specific labour dispute exposure.
 

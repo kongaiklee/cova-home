@@ -21,15 +21,15 @@ og_description: "Finance has found a payment sent to a fraudulent account. The f
 
 > **The Answer in 60 Seconds**
 >
-> Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier bank-detail change email diverted payment; (c) deepfake voice or video instruction approved a payment. The funds have left the bank - possibly converted to crypto, possibly through mule accounts. Critical first 4 hours: (1) **bank fraud team activation** - every Singapore bank maintains a fraud line; speed of contact determines recovery probability; (2) Singapore Police Force e-Service report and ScamShield 1799 hotline; (3) attempt to recall SWIFT / FAST instruction; (4) freeze further outbound payments; (5) isolate affected mailboxes (suspended login, password reset, MFA enforcement). First 72 hours: forensic preservation of email logs (Microsoft 365 / Google Workspace audit), determine if account compromise vs spoofing only, [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) notifiability assessment if customer data exposed. **The insurance trap:** most commercial crime policies exclude "voluntary parting" of funds; Social Engineering Fraud (SEF) coverage typically a sublimit (USD 10,000 - USD 250,000) on either crime or cyber policy. Cyber policies often only cover where there is a "system breach," not pure social engineering. SEF endorsement is the specific clause to demand at renewal. Notification: cyber policy circumstance notification "as soon as practicable"; crime policy on "discovery basis" - different triggers, both must be notified to preserve coverage. Reference data: Singapore phishing +49% in 2024 (6,100 cases); Vendor Email Compromise +66% in H1 2024.
+> Finance team has discovered an outbound payment to a fraudulent account. Either: (a) CFO impersonation email instructed a wire transfer; (b) supplier bank-detail change email diverted payment; (c) deepfake voice or video instruction approved a payment. The funds have left the bank - possibly converted to crypto, possibly through mule accounts. Critical first 4 hours: (1) **bank fraud team activation** - ScamShield advises contacting your bank immediately so it can act to prevent further loss, and lists banks' anti-scam hotlines; (2) Singapore Police Force e-Service report and ScamShield 1799 hotline; (3) attempt to recall SWIFT / FAST instruction; (4) freeze further outbound payments; (5) isolate affected mailboxes (suspended login, password reset, MFA enforcement). First 72 hours: forensic preservation of email logs (Microsoft 365 / Google Workspace audit), determine if account compromise vs spoofing only, [PDPA](https://sso.agc.gov.sg/Act/PDPA2012) notifiability assessment if customer data exposed. **The insurance trap:** commercial crime policies can exclude "voluntary parting" of funds (an employee tricked into authorising a payment); Social Engineering Fraud (SEF) cover, where offered, may be a sublimit on a crime or cyber policy. Some cyber policies respond only where there is a "system breach," not pure social engineering. SEF endorsement is the specific clause to demand at renewal. Notification: check each policy's notice condition; a cyber policy may require notice of a circumstance "as soon as practicable", and a crime policy written on a "discovery basis" is triggered by discovery of the loss. Notify every policy that may respond. Reference data: Singapore phishing +49% in 2024 (6,100 cases); Vendor Email Compromise +66% in H1 2024.
 
 ### The Sourced Detail
 
-Business Email Compromise (BEC) and Vendor Email Compromise (VEC) are now the dominant cyber-financial loss vector for Singapore SMEs. The underlying scam is simple - impersonate authority, request a payment, exploit human trust - but the technical and insurance response is anything but simple. The first hours determine whether funds are recovered, whether the SME's cyber and crime covers respond, and whether PDPA notification obligations are triggered.
+Business Email Compromise (BEC) and Vendor Email Compromise (VEC) are a cyber-financial loss risk for Singapore SMEs. The underlying scam is simple - impersonate authority, request a payment, exploit human trust - but the technical and insurance response is anything but simple. The first hours determine whether funds are recovered, whether the SME's cyber and crime covers respond, and whether PDPA notification obligations are triggered.
 
 #### Reference data on the threat landscape
 
-Per the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/) Singapore Cyber Landscape 2024/2025 report (released 3 September 2025): "Phishing attacks surged by 49%, with 6,100 cases reported in 2024 (up from 4,100 in 2023) and banking and financial services remaining the most spoofed industry (53% of all cases)."
+Per the [Cyber Security Agency of Singapore (CSA)](https://www.csa.gov.sg/) Singapore Cyber Landscape 2024/2025 report (released 3 September 2025), around 6,100 phishing attempts were reported to CSA in 2024, a 49% increase from 4,100 in 2023, and banking and financial services remained the most spoofed industry, with 56% of all phishing attempts impersonating banking and financial services organisations.
 
 Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https://www.prnewswire.com/) (released 4 September 2024): "VEC attacks, a subset of BEC targeting supply chain communications, rose by 66% in H1 2024."
 
@@ -63,20 +63,20 @@ Per the [Perception Point H1 2024 Cybersecurity Trends & Insights report](https:
 
 **Hour 1-2 - Police and regulator notification.**
 
-- [Singapore Police Force e-Services](https://eservices.police.gov.sg/) - file police report
+- [Singapore Police Force e-Services](https://www.police.gov.sg/e-Services) - file police report
 - [ScamShield 1799](https://www.scamshield.gov.sg/) hotline
-- For PSF cases: "Anti-Scam Command" specific to BEC / wire fraud
+- The SPF Anti-Scam Command (ASCom) brings together the Police's scam investigation, intervention and enforcement units; it handles scams generally, not only BEC or wire fraud
 - Document case reference
 
 **Hour 2-4 - Insurance notification.**
 
 - **Crime policy notification (commercial crime / fidelity / SEF):**
-  - Most policies require "discovery" notification immediately upon awareness
+  - Check the notice condition; crime policies can require notice soon after a loss is discovered
   - Identify policy schedule and limits
   - Identify SEF sublimit specifically
   - Identify deductible / retention
 - **Cyber policy notification:**
-  - Most policies require "circumstance" notification "as soon as practicable"
+  - Check the notice condition; cyber policies can require notice of a circumstance "as soon as practicable"
   - Identify whether cover requires "system breach" trigger
   - Pre-engaged forensic and legal panel activation
 - **D&O policy notification (where executive impersonation):**
@@ -114,23 +114,23 @@ Under [the section 26D filing process](/procedural-howto/how-to-file-pdpa-data-b
 - Affects 500 or more individuals (regardless of harm)
 
 For BEC, the question is whether attacker accessed:
-- Customer email and personal data (notifiable)
-- Supplier email and personal data (notifiable if data subjects affected)
-- Internal HR / payroll data (notifiable)
+- Customer email and personal data (notifiable if the breach is likely to cause significant harm to an affected individual or affects 500 or more individuals)
+- Supplier email and personal data (notifiable on the same test: significant harm to an affected individual is likely, or 500 or more individuals are affected)
+- Internal HR / payroll data (notifiable if the breach is likely to cause significant harm to an affected individual or affects 500 or more individuals; a breach of an individual's full name, alias or identification number together with their salary or other remuneration is deemed to cause significant harm, subject to the exclusions in the Personal Data Protection (Notification of Data Breaches) Regulations 2021, such as publicly available data)
 - Pure financial transaction data of corporate counterparties (typically not personal data)
 
 **3-day clock starts** when SME makes the assessment that breach is notifiable - not when first detected. Conservative assessment recommended.
 
-#### The insurance trap - why standard cover often fails
+#### The insurance trap: why standard cover may not respond
 
 **Commercial crime / fidelity policy.**
 
-Most policies cover:
+Commercial crime policies can cover:
 - Direct theft by employee
 - Forgery of internal documents
 - Computer fraud (theft via direct system access)
 
-Most policies EXCLUDE or sublimit:
+Policies can exclude or sublimit:
 - "Voluntary parting" of funds - i.e., where employee is induced to authorise payment
 - Social engineering - i.e., where instruction comes from outside but employee acts
 - This is exactly the BEC scenario
@@ -138,13 +138,12 @@ Most policies EXCLUDE or sublimit:
 **Social Engineering Fraud (SEF) endorsement.**
 
 Specific endorsement to crime policy or cyber policy:
-- Sublimit typically USD 10,000 - USD 250,000
-- Specific verification requirements (multi-channel verification often required)
+- Verification conditions (some wordings require call-back or multi-channel verification)
 - Specific exclusions for repeated patterns
 
 **Cyber policy.**
 
-Most cyber policies require:
+Some cyber policies require:
 - "System breach" or "security incident" trigger
 - Pure social engineering may not trigger
 - BEC may not trigger if no actual system compromise
@@ -169,16 +168,13 @@ Post-incident:
 #### Recovery probability factors
 
 Recovery probability depends on:
-- **Speed of detection** - recovery probability drops sharply after 24 hours
+- **Speed of detection** - ScamShield advises acting fast, as scam syndicates typically move funds quickly between multiple bank accounts, including overseas accounts
 - **Destination** - domestic Singapore bank vs offshore vs crypto
 - **Beneficiary type** - established business vs mule account vs newly opened account
 - **Police engagement quality** - case prioritisation
-- **Bank cooperation** - Singapore banks generally responsive on domestic recoveries; offshore variable
+- **Bank cooperation** - SPF cannot freeze or seize an overseas account or compel a foreign bank to reverse a transaction, so recovery from offshore accounts is harder
 
-Realistic expectations:
-- Same-day discovery, domestic transfer: 30-60% recovery
-- Same-week discovery, regional transfer: 10-30% recovery
-- Multi-week discovery, offshore / crypto: <5% recovery
+ScamShield states that "the chance of recovery once the funds have been transferred out of Singapore is very low".
 
 #### Common BEC patterns
 
@@ -211,15 +207,15 @@ For each pattern, defensive controls should include:
 
 1. **Bank notification delay.** Recovery window closes; funds dispersed.
 
-2. **No SEF endorsement.** Standard crime policy excludes; no cover for typical BEC.
+2. **No SEF endorsement.** A standard crime policy may exclude social engineering losses, leaving a typical BEC loss uncovered.
 
-3. **Cyber policy "system breach" trigger.** Pure social engineering not covered.
+3. **Cyber policy "system breach" trigger.** Pure social engineering may not be covered.
 
 4. **PDPA notifiability missed.** Customer data exposure not assessed.
 
 5. **Forensic preservation gap.** Email logs auto-rotated; evidence lost.
 
-6. **Police report unfiled.** Insurance recovery requires police report; missing.
+6. **Police report unfiled.** Insurers can ask for a police report as evidence of the loss; check the policy's claims conditions.
 
 7. **Multiple-channel verification absent.** Same controls that allowed BEC remain.
 
@@ -252,8 +248,6 @@ For Singapore SMEs facing BEC scenarios:
 9. **Annual broker review** - endorsements, sublimits, exclusions.
 
 10. **Tabletop exercise** - annual BEC simulation with finance and IT.
-
-The cost of BEC compromise is acute - average SGD 50,000-200,000 per single SME incident; major cases exceed SGD 1m. The cost of pre-incident control is bounded - typical email security and verification protocol implementation under SGD 50,000.
 
 ### Questions to Ask Your Adviser
 

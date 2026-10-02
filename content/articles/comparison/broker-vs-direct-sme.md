@@ -95,7 +95,7 @@ The cleanest test is to run both. Get a direct quote from the insurer's portal. 
 
 ### Related Information
 - [Tied Agent vs Independent Financial Adviser (IFA) in Singapore](/comparison/tied-agent-vs-ifa)
-- [How to Negotiate Broker Remuneration Disclosure under MAS FAA-N03](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
+- [How to Negotiate Broker Remuneration Disclosure for SME Insurance in Singapore](/procedural-howto/how-to-negotiate-broker-remuneration-disclosure)
 - [How to Verify a Singapore Insurer's Financial Strength Rating](/procedural-howto/how-to-verify-insurer-financial-strength-rating-singapore)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

@@ -14,14 +14,14 @@ word_count: 2291
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/wica-designated-insurer-regulations"
-meta_description: "Section 31 of WICA lets only insurers designated by Singapore's Commissioner write the cover. What that means for where you can place it."
+meta_description: "Under sections 30 and 31 of WICA, only insurers designated by the Commissioner for Labour may write the cover. What that means for where you can place it."
 og_title: "WICA Designated Insurer Regulations: How the MOM List Actually Works"
-og_description: "Section 31 of WICA lets only insurers designated by Singapore's Commissioner write the cover. What that means for where you can place it."
+og_description: "Under sections 30 and 31 of WICA, only insurers designated by the Commissioner for Labour may write the cover. What that means for where you can place it."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Per [Section 31 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), only **insurers designated by the Commissioner for Workplace Safety and Health (MOM)** may issue WICA-approved policies. The current designated insurer list (dated 1 January 2026) contains **24 insurers for employers** and **6 for platform operators** (separate list dated 26 December 2024). Designation requires meeting specific operational, financial, and claims-handling standards. Designated insurers are obligated to **process all WICA claims** under their issued policies, share claims data with MOM, and comply with the MOM-approved policy wording. The designation framework exists to ensure injured workers receive consistent, prompt compensation regardless of insurer choice. Buying WICA from a non-designated insurer is **non-compliance** under [Section 24](https://sso.agc.gov.sg/Act/WICA2019) (Employer must be insured against liabilities under Act) - the policy is not WICA-compliant and the employer remains exposed to [Section 25](https://sso.agc.gov.sg/Act/WICA2019) offence (see [the penalties that apply](/document-legal/wica-section-25-offence)).
+> Under [Section 31 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr31-) (Designation by Commissioner), the **Commissioner for Labour** (MOM) designates insurers, and under [section 30](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr30-) only **designated insurers** (or intermediaries acting for them) may offer WICA insurance policies. The current designated insurer list (accurate as at 23 September 2026) contains **24 insurers for employers** and **6 for platform operators** (separate list dated 26 December 2024). Designation is open to licensed insurers that meet the prescribed requirements and accept MOM's conditions, which include claims-processing timelines and performance standards. Designated insurers are obligated to **process all WICA claims** under their issued policies, share claims data with MOM, and comply with the MOM-approved policy wording. The designation framework exists to ensure injured workers receive consistent, prompt compensation regardless of insurer choice. Buying WICA from a non-designated insurer is **non-compliance** under [Section 24](https://sso.agc.gov.sg/Act/WICA2019) (Employer must be insured against liabilities under Act) - the policy is not WICA-compliant and the employer remains exposed to [Section 25](https://sso.agc.gov.sg/Act/WICA2019) offence (see [the penalties that apply](/document-legal/wica-section-25-offence)).
 
 ### The Sourced Detail
 
@@ -29,25 +29,25 @@ The designated insurer framework is one of the most distinctive features of Sing
 
 #### What "designated insurer" means under WICA
 
-Per [Section 31 of the WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), the Commissioner may designate any insurer to be a designated insurer for the purposes of the Act, may designate different insurers for different categories of policies or different classes of employees, and may vary or revoke a designation in writing. (Note: under the predecessor framework and earlier versions of WICA, this designation power sat with the Minister; under the current statute it sits with the Commissioner for Workplace Safety and Health.)
+Per [Section 31 of the WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Designation by Commissioner), the Commissioner may designate any licensed insurer under the Insurance Act 1966 that satisfies the prescribed requirements as a designated employer's insurer or a designated platform operator's insurer, may impose and modify conditions on a designated insurer, and may cancel a designation on the insurer's application; under section 34 the Commissioner may also cancel or suspend a designation where the insurer fails to comply with its obligations. (Note: the repealed Work Injury Compensation Act required insurance with an insurer under the Insurance Act and had no designation scheme. Under WICA 2019 the power sits with the Commissioner, who is the Commissioner for Labour.)
 
 The Commissioner designates specific insurers; the [MOM Designated Insurer list](https://www.mom.gov.sg/workplace-safety-and-health/wsh-service-providers/find-approved-service-providers/find-a-wic-designated-insurer) is the public reference.
 
 Two separate designated lists currently exist:
 
 **Designated Insurers for Employers (general):**
-- Last updated 1 January 2026
+- Accurate as at 23 September 2026
 - 24 insurers currently designated
 - Issue WICA policies to employers across most industries
 
 **Designated Insurers for Platform Operators:**
 - Last updated 26 December 2024
 - 6 insurers currently designated
-- Issue WIC-equivalent policies for platform operators under the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024)
+- Issue approved platform worker insurance policies to platform operators under section 34O of WICA 2019, inserted by the [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024)
 
-The two lists overlap (some insurers appear on both) but are formally separate due to the different regulatory regimes.
+The two lists overlap (some insurers appear on both) but are formally separate: section 31(1) of WICA provides separately for designation as an employer's insurer and as a platform operator's insurer.
 
-#### The 24 designated insurers for employers (as at 1 January 2026)
+#### The 24 designated insurers for employers (as at 23 September 2026)
 
 From the current MOM list:
 
@@ -65,7 +65,7 @@ From the current MOM list:
 12. HL Assurance
 13. Income Insurance
 14. India International Insurance
-15. Liberty Specialty Markets
+15. Liberty Pte Limited
 16. Lonpac Insurance
 17. MS First Capital Insurance
 18. MSIG Insurance Singapore
@@ -101,13 +101,13 @@ Per [Section 32 of WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Obligations 
 For policies issued from 1 January 2021, designated insurers calculate compensation under the statutory schedule and issue a Notice of Computation (NOC). For older policies, MOM calculates and issues a Notice of Assessment (NOA).
 
 **4. Pay compensation within statutory timelines.**
-Per [Section 47 of WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Payment of compensation by employer's insurer), where the Notice of Computation (NOC) or Notice of Assessment (NOA) is not objected to within the prescribed period, the insurer must pay the compensation within 21 days of service of the notice.
+Per [Section 47 of WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) (Payment of compensation by employer's insurer) and regulations 17 and 18 of the Work Injury Compensation Regulations 2020, where no one objects to the Notice of Computation (NOC) within the prescribed period, the insurer must pay the compensation within 21 days of service of the notice. MOM gives the same 21 days for payment under a Notice of Assessment (NOA), which MOM issues on older policies.
 
 **5. Share claims data with MOM.**
 Designated insurers transmit claims information to MOM, enabling MOM oversight of the WICA system.
 
-**6. Maintain financial soundness.**
-Designated insurers must be financially sound, typically MAS-regulated under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) with appropriate solvency margins.
+**6. Be a licensed insurer.**
+Only a licensed insurer under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966), which MAS regulates, can be designated (WICA section 31(1)); MOM's requirements also include registration with ACRA and no adverse records with the authorities.
 
 **7. Comply with operational standards.**
 Specific MOM operational requirements apply.
@@ -126,20 +126,18 @@ The MOM-approved wording means the headline cover is consistent across designate
 - Common-Law / Employer's Liability extension cover
 - Foreign Worker Medical Insurance (FWMI) bundling
 - Customer service and digital tools
-- Industry-specific underwriting appetite
 
 **3. Switching insurer is constrained but possible.**
 You can switch between designated insurers at renewal (or mid-term with appropriate process). See [how to avoid a gap in cover](/procedural-howto/wica-change-insurer-renewal).
 
 **4. Buying from a non-designated insurer is non-compliance.**
-Even if a non-designated insurer offers a "WICA-equivalent" policy, it does not satisfy [Section 24 WICA 2019](https://sso.agc.gov.sg/Act/WICA2019). The employer is uninsured for WICA purposes regardless of having paid for some product.
+Even if a non-designated insurer offers a "WICA-equivalent" policy, it does not satisfy [Section 24 WICA 2019](https://sso.agc.gov.sg/Act/WICA2019). Where section 24 requires the employer to insure, the employer is in breach of it, although under [section 26(3)](https://sso.agc.gov.sg/Act/WICA2019?ProvIds=pr26-) an insurer that issues a policy purporting to cover the employer's WICA liability is still liable to pay that compensation as if the policy contained the compulsory terms.
 
 #### How the list changes
 
 MOM may add or remove insurers from the list. Historical pattern:
 - Additions occur as new insurers meet MOM standards
 - Removals occur if insurers exit the Singapore market or fail to maintain standards
-- List revisions are typically announced via MOM press release or GoBusiness portal updates
 - Existing policies with departing insurers typically continue until expiry; renewals must move to remaining designated insurers
 
 For employers, the practical implication: at renewal, verify that your insurer is still on the current list. A change could affect your placement options.
@@ -148,7 +146,7 @@ For employers, the practical implication: at renewal, verify that your insurer i
 
 The MOM-approved WICA policy provides the statutory cover. **Common-Law / Employer's Liability extension** is *separate* - not part of the standard WICA wording, and not all designated insurers offer it as standard.
 
-Per [MOM's summary of the regulatory regime for WIC insurers under WICA 2019](https://www.mom.gov.sg/-/media/mom/documents/press-releases/2020/0807-annex-a-summary-of-regulatory-regime-for-wic-insurers-under-wica-2019.pdf), Common-Law Coverage is not part of the MOM Approved Wording. Insurers may offer Common Law Coverage as a separate policy or in addition to the MOM Approved Wording.
+Under regulation 2(3) of the [Work Injury Compensation (Insurance) Regulations 2020](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=pr2-), an approved policy may add cover for the employer's liability for work injury, including under common law. [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation/work-injury-compensation-insurance) says employers can discuss riders for common law liabilities with their insurer, or buy insurance to cover common law liabilities, which is not governed under WICA.
 
 This matters because:
 - WICA provides statutory compensation (capped at S$269k death / S$346k total PI as of 1 November 2025)
@@ -159,19 +157,15 @@ For employers in higher-risk industries (construction, marine, manufacturing), C
 
 #### Foreign Worker Medical Insurance - separate but related
 
-[Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/sector-specific-rules/insurance-requirements) is mandatory for Work Permit holders and S Pass holders, separate from WICA. Many designated WICA insurers also offer FWMI, often bundled at renewal.
+[Foreign Worker Medical Insurance (FWMI)](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/medical-insurance) is mandatory for Work Permit holders and S Pass holders, separate from WICA. Many designated WICA insurers also offer FWMI, often bundled at renewal.
 
 FWMI minimum: S$60,000 inpatient cover (post-1 July 2023 enhancement). See [FDW Insurance Stage 2 Enhancement](/regulatory-change/fdw-stage-2-2025) for domestic workers and [Work Permit & S Pass Medical Insurance](/regulatory-change/wp-mi-2025) for Work Permit and S Pass holders.
 
 #### Platform operator designated insurers
 
-The Platform Workers Act 2024 (in force 1 January 2025) created a separate WIC regime for platform workers. Per [MOM's Platform Workers WIC framework](https://www.mom.gov.sg/), platform operators (ride-hailing, food delivery, parcel delivery platforms) must hold WIC-equivalent insurance for their platform workers from one of the 6 designated platform operator insurers.
+The Platform Workers Act 2024 (in force 1 January 2025) brought platform workers under WICA. Per [MOM](https://www.mom.gov.sg/employment-practices/platform-workers-act/work-injury-compensation-for-platform-workers), "all platform operators are required to provide Work Injury Compensation (WIC) insurance to their platform workers": under section 34O of WICA, platform operators (ride-hailing, food delivery, parcel delivery platforms) must insure under approved platform worker insurance policies with designated platform operator's insurers, of which MOM's list names 6.
 
-Designation criteria for platform operator insurance reflect the unique features of platform work:
-- Variable hours and earnings
-- Multiple platform engagement
-- Specific exposure profile (transport, delivery)
-- Coordination with platform operator's data systems
+The requirements for designation as a platform operator's insurer sit in the same regulation as for employers' insurers: the Commissioner may consider whether the insurer will meet its obligations under the Act and, if it is or has been a designated PO's insurer, whether it has unreasonably refused to make work injury insurance available to platform operators (WIC (Insurance) Regulations 2020, regulation 7(2)).
 
 For SMEs operating platforms (smaller delivery platforms, niche service platforms), platform operator WIC must come from the 6 designated insurers; the standard 24-employer list does not apply.
 

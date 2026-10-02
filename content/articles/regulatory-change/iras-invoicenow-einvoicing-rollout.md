@@ -25,7 +25,7 @@ og_description: "IRAS is expanding mandatory InvoiceNow e-invoicing to GST-regis
 
 ### The Sourced Detail
 
-The IRAS InvoiceNow framework represents Singapore's most ambitious digital tax compliance initiative - moving beyond traditional periodic GST returns toward near-real-time invoice data flow. The phased rollout has implications for SMEs across operations, technology, and to a limited extent insurance.
+The IRAS InvoiceNow framework is a phased digital tax compliance requirement: alongside the GST returns businesses still file, IRAS receives invoice data through the InvoiceNow network, generally in real time or near real time for Peppol invoices sent to customers over the network, and in all cases by the earlier of the date the relevant GST return is filed or its filing due date. The phased rollout has implications for SMEs across operations, technology, and to a limited extent insurance.
 
 #### The framework background
 
@@ -58,7 +58,7 @@ Per [IRAS InvoiceNow mandate framework](https://www.iras.gov.sg/):
 
 **Pre-mandate (voluntary):**
 
-- 2019-2024: voluntary InvoiceNow adoption
+- From 2019, when IMDA introduced InvoiceNow: voluntary adoption, which continues for each business until its own implementation date
 
 - Operational operational adoption
 
@@ -95,7 +95,7 @@ For specific timeline applicability:
 
 **1. System selection / upgrade:**
 
-- Most major accounting software now offers Peppol connectivity (Xero, QuickBooks, MYOB, etc.)
+- IRAS says InvoiceNow-Ready software makes up the vast majority of accounting solutions; IMDA's accredited list (updated as of 1 October 2026) includes Xero and ABSS Accounting Connect
 
 - Operational operational standards
 - Operational operational considerations
@@ -157,11 +157,11 @@ For early-adopter and Phase 1-2 businesses:
 
 **Specific industry patterns:**
 
-- Technology / professional services: smoother adoption (digital-native)
+- Technology / professional services
 - Operational operational scope
 - Operational operational standards
 
-- Retail / consumer: moderate adoption complexity
+- Retail / consumer
 - Operational operational scope
 - Operational operational standards
 
@@ -191,7 +191,7 @@ The digital invoicing infrastructure creates specific cyber exposure:
 
 **Specific BEC considerations:**
 
-The transition to e-invoicing creates specific scenarios for BEC fraud:
+Invoice-related BEC scenarios to consider:
 
 - Specific invoice payment redirection scenarios
 - Operational commercial relationships
@@ -240,7 +240,7 @@ For Singapore SMEs with cross-border operations:
 
 **Specific accuracy implications:**
 
-E-invoicing creates near-real-time visibility for IRAS:
+IRAS generally receives data on Peppol invoices sent to customers over the InvoiceNow network in real time or near real time, and all invoice data is due by the earlier of the date the relevant GST return is filed or its filing due date:
 
 - Specific invoice timing accuracy
 - Operational GST treatment accuracy
@@ -249,7 +249,6 @@ E-invoicing creates near-real-time visibility for IRAS:
 
 **Specific compliance:**
 
-- Specific reduced opportunity for ad-hoc correction
 - Operational operational discipline
 - Operational operational scope
 - Operational operational sophistication
@@ -274,7 +273,7 @@ For commercial complexity:
 - Specific accounting system Peppol capability
 - Operational upgrade requirements
 
-**Step 3 - Implementation (3-6 months pre-mandate):**
+**Step 3 - Implementation (IRAS says onboarding may take as little as 3 months and most businesses complete setup within a year):**
 - Specific system integration
 - Operational data migration
 - Operational operational scope
@@ -329,7 +328,7 @@ For Singapore SMEs preparing for InvoiceNow mandate:
 
 2. **Specific accounting system Peppol capability.** Most major systems now offer connectivity.
 
-3. **Specific data accuracy discipline.** Near-real-time IRAS visibility means specific accuracy matters.
+3. **Specific data accuracy discipline.** IRAS receives the invoice data itself, generally in real time or near real time for Peppol invoices sent to customers over the network, so accuracy matters.
 
 4. **Commercial relationship coordination.** Customer / supplier framework adoption.
 

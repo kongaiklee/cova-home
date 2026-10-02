@@ -303,7 +303,6 @@ The FA framework has evolved with several important developments:
 
 **Enhanced disclosure requirements:**
 - Recent enhancements to product disclosure standards
-- Specific to investment-linked policies primarily but influencing broader practice
 
 **Cyber and operational resilience:**
 - FAs increasingly subject to operational standards

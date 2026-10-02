@@ -42,7 +42,7 @@ PAR's broad coverage scope is defined negatively - through what's excluded rathe
 
 **The boundary issue.** The line between "gradual deterioration" and "sudden and accidental" can be disputed:
 
-- Gradual deterioration that culminates in sudden failure (e.g. accumulating roof damage that finally fails during storm) - typically the sudden failure portion is covered, the gradual portion is not
+- Gradual deterioration that culminates in sudden failure (e.g. accumulating roof damage that finally fails during a storm): whether the failure is covered depends on the wording and on what caused it. MSIG's SUMO All Risks section, for example, excludes loss or damage "arising from wear and tear, gradual deterioration" and gives nothing back for the resulting failure
 - Specific maintenance-related issues - typically excluded if attributable to inadequate maintenance
 - Specific industrial wear patterns - typically excluded
 
@@ -175,7 +175,7 @@ For specific premises types (high-profile commercial, specific high-density urba
 
 #### Cyber-related exclusions
 
-**The evolving area.** Cyber-related exclusions have evolved substantially in the property market 2017-2024:
+**The evolving area.** Cyber-related exclusions in the property market go back at least to the Lloyd's market's NMA 2914 clause, dated 25 January 2001, and were reworked after Lloyd's Market Bulletin Y5258 of 4 July 2019:
 
 **The pre-NMA 2914 era.** Most PAR policies were silent on cyber. Specific scenarios (cyber attack causing physical damage, malware bricking equipment) generated uncertain claims responses.
 
@@ -183,11 +183,11 @@ For specific premises types (high-profile commercial, specific high-density urba
 
 **The LMA5400 / LMA5401 evolution.** Subsequent evolution - the Lloyd's Market Association property cyber endorsement (LMA5400) and exclusion (LMA5401), published November 2019 - clarified scope further:
 
-- Specific physical damage from cyber attack - often carved back in
+- Physical damage from a cyber attack: not carved back. LMA5400 gives back only physical damage caused by a fire or explosion that results from a Cyber Incident not connected with a Cyber Act (an unauthorised, malicious or criminal act involving a computer system), and LMA5401 gives back nothing
 - Specific cyber-only loss - excluded
 - Specific industry-specific provisions
 
-**The current Singapore market.** Most Singapore PAR policies now include specific cyber exclusions with specific carve-out provisions. Standalone Cyber Liability (see [whether one policy or a tower fits](/comparison/cyber-tower-vs-single-policy)) addresses the cyber-specific scope.
+**The current Singapore market.** Singapore property wordings can carry cyber exclusions that give nothing back: MSIG's SUMO policy applies a Property Cyber and Data Exclusion to its All Risks, Business Interruption, Deterioration of Stocks and Fire and Extraneous Perils for Building sections that excludes any Cyber Loss, with no carve-back for physical damage. Standalone Cyber Liability (see [whether one policy or a tower fits](/comparison/cyber-tower-vs-single-policy)) addresses the cyber-specific scope.
 
 **The integration question.** For SMEs, the question is whether physical damage from cyber attack is covered:
 
@@ -214,7 +214,7 @@ For specific high-value or substantial inventory, specific All Risks Stock cover
 
 **The average clause.**
 
-Most PAR policies include an "average" or "underinsurance" clause:
+Property policies can include an "average" or "underinsurance" clause; China Taiping's fire policy (condition 17) and MSIG's SUMO policy (general condition 12, Underinsurance) both do:
 
 - If sum insured is less than actual value, claim is reduced proportionately
 - Operational considerations required

@@ -14,14 +14,14 @@ word_count: 1929
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-saas-us-customers"
-meta_description: "US customers change a Singapore SaaS company's insurance profile immediately, because USA and Canada exclusions are standard on local policies."
+meta_description: "US customers can change a Singapore SaaS company's insurance needs, because some local policies exclude or limit claims brought in the USA or Canada."
 og_title: "Singapore SaaS Selling to US Customers: The Insurance Implications"
-og_description: "US customers change a Singapore SaaS company's insurance profile immediately, because USA and Canada exclusions are standard on local policies."
+og_description: "US customers can change a Singapore SaaS company's insurance needs, because some local policies exclude or limit claims brought in the USA or Canada."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> US customers materially change the insurance profile for a Singapore SaaS. **USA/Canada exclusion** is standard on most Singapore-issued liability policies (Cyber, Tech E&O, Product Liability, D&O); coverage in the US requires **explicit territorial extension** at significant premium uplift. US customer MSAs commonly require: minimum cover types (Cyber, Tech E&O, Commercial General Liability) with stated limits often **USD 5M-USD 10M**, the customer named as **additional insured**, **AAA-rated insurers** (S&P A or better), waiver of subrogation, and 30-day cancellation notice. Beyond commercial requirements, US legal exposure is materially different - class action risk, punitive damages, longer limitation periods in some states, and aggressive plaintiff bar. State-specific data breach laws (CCPA in California, NYDFS in New York, others) layer on top of the federal framework. Plan the insurance side as part of the US GTM strategy, not after the first MSA arrives.
+> US customers materially change the insurance profile for a Singapore SaaS. Some Singapore-issued liability policies carry a **USA/Canada exclusion** or limit (one Singapore general liability wording covers North America only in narrow cases), while others, such as some D&O wordings, cover claims brought anywhere in the world; where a policy excludes the US, cover there needs an **explicit territorial extension**. US customer MSAs commonly require: minimum cover types (Cyber, Tech E&O, Commercial General Liability) with stated limits often **USD 5M** or more for Cyber and Tech E&O, the customer named as **additional insured**, **highly rated insurers** (for example, rated A or better by AM Best), waiver of subrogation, and 30-day cancellation notice. Beyond commercial requirements, US legal exposure is materially different - class action risk, punitive damages, longer limitation periods in some states, and aggressive plaintiff bar. State-specific data breach laws (CCPA in California, NYDFS in New York, others) layer on top of the federal framework. Plan the insurance side as part of the US GTM strategy, not after the first MSA arrives.
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ Insurance markets globally treat US/Canadian exposure as a separate underwriting
 
 1. **Class action availability.** US procedural law allows class actions on a scale and with cost dynamics significantly different from Singapore.
 
-2. **Punitive damages.** US courts can award punitive damages in some cases - beyond compensatory damages and often substantial. Most Asian jurisdictions don't have this regime.
+2. **Punitive damages.** US courts can award punitive damages in some cases - beyond compensatory damages and often substantial.
 
 3. **Plaintiff bar economics.** US contingency fee structures incentivise plaintiff lawyers to pursue claims that wouldn't be commercially viable in Singapore.
 
@@ -41,7 +41,7 @@ Insurance markets globally treat US/Canadian exposure as a separate underwriting
 
 5. **Discovery costs.** US litigation discovery is comprehensive and expensive; defence costs alone can be substantial regardless of merit.
 
-6. **Regulatory complexity.** Federal regulators (FTC, SEC, OCR for HIPAA) plus state regulators (state AGs, state DPAs); breach notification laws in all 50 states; varying regulatory penalties.
+6. **Regulatory complexity.** Federal regulators (FTC, SEC, OCR for HIPAA) plus state regulators (state AGs and, in California, the California Privacy Protection Agency); breach notification laws in all 50 states; varying regulatory penalties.
 
 The result: insurance for US-exposed risk is more expensive, more selectively underwritten, and requires explicit treatment.
 
@@ -49,13 +49,13 @@ The result: insurance for US-exposed risk is more expensive, more selectively un
 
 Most Singapore-issued liability policies have one of four approaches to US/Canada:
 
-1. **USA/Canada Exclusion** - most common on standard SME wordings. Claims arising in or under the laws of USA/Canada are excluded entirely.
+1. **USA/Canada Exclusion** - found on some standard SME wordings. Claims arising in or under the laws of USA/Canada are excluded entirely.
 
-2. **USA/Canada Extension at additional premium** - explicit territorial extension. Premium uplift typically 25-100% depending on line and limits.
+2. **USA/Canada Extension at additional premium** - explicit territorial extension. The premium uplift depends on line and limits.
 
-3. **Worldwide Territory** - broadest cover. Generally available only on specialist or larger commercial programmes; premium reflects this.
+3. **Worldwide Territory** - broadest cover. Some Singapore wordings offer it as the default (one Singapore D&O wording covers claims brought anywhere in the world unless the schedule says otherwise).
 
-4. **USA/Canada Sub-limit** - partial cover at reduced limits. Less common for SaaS.
+4. **USA/Canada Sub-limit** - partial cover at reduced limits.
 
 For a Singapore SaaS adding US customers, the question is: which approach does each existing policy take, and what extension is needed?
 
@@ -78,8 +78,7 @@ US state breach notification matters: most states require breach notification (v
 
 **Recommended Cyber limits for US-exposed Singapore SaaS:**
 - Early customer engagement: USD 5M (~SGD 6.5M) minimum
-- Enterprise customer base: USD 10M (~SGD 13M) typical minimum
-- Customer-driven (per MSA): often USD 10M+ per customer requirement
+- Larger or more critical contracts: higher limits, as each customer's MSA sets them
 
 #### Technology E&O for US-exposed SaaS
 
@@ -90,15 +89,13 @@ Tech E&O is similarly affected. Standard Singapore Tech E&O without US extension
 
 Customer MSAs with US enterprises commonly require Tech E&O at:
 - USD 5M minimum baseline
-- USD 10M for larger enterprise customers
-- Higher limits for customers in regulated sectors (financial services, healthcare)
+- Higher limits for larger contracts or critical services, as each customer sets them
 
 #### Product Liability for tangible products
 
 While SaaS is intangible, some "SaaS" companies actually distribute physical products (hardware, peripherals, tokens, kits). For such products sold into the US:
 
-- Standard Singapore Product Liability typically excludes USA/Canada
-- US Product Liability is one of the highest-cost insurance lines globally
+- Some Singapore Product Liability wordings exclude USA/Canada (one Singapore general liability wording covers products in North America only where they were exported there without the insured's knowledge)
 - US class action plus contingent fee plus punitive damages = high-severity claims
 - Premium for US-extended Product Liability can be substantial relative to revenue
 
@@ -110,15 +107,15 @@ D&O complications:
 
 1. **Singapore parent with US-customer-facing operations** - Singapore D&O may not cover acts in the US context; US customer-related claims may fall outside cover.
 
-2. **Singapore Pte Ltd with Delaware C-Corp parent (common venture-funded structure)** - Delaware D&O typically required for Delaware parent's directors; Singapore D&O for Singapore subsidiary directors. Coordination matters.
+2. **Singapore Pte Ltd with Delaware C-Corp parent (common venture-funded structure)** - D&O cover may be arranged separately for the Delaware parent's directors and the Singapore subsidiary's directors. Coordination matters.
 
 3. **US securities exposure** - if any US-resident investors, US securities class action exposure becomes relevant. D&O Side C (entity coverage for securities claims) may be needed.
 
 4. **US Foreign Corrupt Practices Act (FCPA) exposure** - if US persons or US-listed entities are involved in operations, FCPA compliance considerations apply.
 
 For Singapore SaaS with serious US customer base, D&O typically needs:
-- USA/Canada extension or US-issued local policy
-- Limits scaled to US-customer-base exposure (USD 5M-USD 20M+)
+- Cover for claims brought in the US (some Singapore D&O wordings cover claims brought anywhere in the world; otherwise a USA/Canada extension or US-issued local policy)
+- Limits scaled to US-customer-base exposure
 - Securities claim cover if any US investors
 
 #### Customer contract requirements (US enterprise MSAs)
@@ -126,14 +123,14 @@ For Singapore SaaS with serious US customer base, D&O typically needs:
 Common insurance schedule provisions in US enterprise MSAs:
 
 **Cyber Liability:**
-- USD 5M-USD 10M minimum
+- USD 5M minimum, sometimes higher for larger or critical contracts
 - Customer named as additional insured
 - Waiver of subrogation
 - Worldwide territory or specifically including the US
 - Insurer rated A or better by AM Best/S&P
 
 **Technology E&O:**
-- USD 5M-USD 10M minimum
+- USD 5M minimum, sometimes higher for larger or critical contracts
 - Customer named as additional insured
 - Continuous cover including retroactive date covering pre-policy services
 
@@ -146,7 +143,7 @@ Common insurance schedule provisions in US enterprise MSAs:
 - Statutory minimum (where applicable)
 
 **Umbrella / Excess Liability:**
-- USD 5M-USD 10M sometimes required for larger contracts
+- Sometimes required for larger contracts
 
 **Notification:**
 - Certificate of Insurance required at contract execution
@@ -198,16 +195,16 @@ For Singapore SaaS with material US revenue, options:
 For a Singapore SaaS adding US customers:
 
 **Pre-revenue / early customer (US 1-3 customers, total ARR <USD 1M):**
-- Cyber + Tech E&O with US extension: USD 8,000-USD 25,000 (~SGD 10k-SGD 33k)
+- Cyber + Tech E&O with US extension
 - Other lines: limited additional impact
 
 **Growing US base (USD 1M-10M ARR, multiple US customers):**
-- Cyber + Tech E&O at higher limits with full US extension: USD 25,000-USD 100,000+
-- D&O if US investors: USD 10,000-USD 50,000+
+- Cyber + Tech E&O at higher limits with full US extension
+- D&O if US investors
 - Other lines proportionate
 
 **Mature US base (USD 10M+ ARR, enterprise US customers):**
-- Multi-line programme with US capability: USD 100,000+ annually
+- Multi-line programme with US capability
 
 These are illustrative; obtain comparative quotes for actual exposure.
 
@@ -230,7 +227,7 @@ For Singapore SaaS founders contemplating or executing US market entry, insuranc
 
 2. **Map prospective US customer profile.** Enterprise customers in regulated sectors will demand more than SMB customers; calibrate.
 
-3. **Plan funding sequence with insurance milestones.** Series A typically prompts US investor relationships and US customer scaling - insurance build should align.
+3. **Plan funding sequence with insurance milestones.** A funding round can bring US investors and US customers, which the insurance programme then has to reflect.
 
 4. **Maintain insurer ratings discipline.** AM Best A or better, S&P A or better - these are commonly mandated and worth maintaining as a baseline.
 

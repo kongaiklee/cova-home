@@ -36,7 +36,7 @@ Singapore-issued insurance policies are generally underwritten on the basis of:
 - Singapore territory of risk (with limited extensions)
 
 Malaysian operations involve:
-- Malaysian-domiciled employees (SOCSO/EIS coverage)
+- Employees working in Malaysia (SOCSO/EIS coverage; SOCSO's Employment Injury Scheme covers foreign workers there, including expatriates, as well as Malaysians)
 - Malaysian-located property
 - Liabilities under Malaysian law (Malaysian courts, Malaysian regulators)
 - Malaysian territory of risk
@@ -49,7 +49,7 @@ These do not automatically transfer between jurisdictions. The same incident may
 
 Per [Section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), WICA insurance covers the employer's liability under WICA for employees employed by the employer. WICA applies primarily to Singapore-based employment relationships.
 
-For a Singapore-employed worker travelling to Malaysia for short business trips, WICA cover typically extends - the employment relationship is Singapore-based, and the worker is on temporary travel. Most WICA wordings include "anywhere in the world" coverage for accidents arising out of and in the course of Singapore employment.
+WICA extends to an accident outside Singapore, such as on a business trip to Malaysia, where the employee is ordinarily resident in Singapore and is employed by an employer in Singapore but is required in the course of the employment to work outside Singapore (WICA section 9). A worker who is not ordinarily resident in Singapore, for example one who lives in Malaysia and commutes, may not meet the first condition. Under the compulsory terms of an approved WICA policy, the insurer indemnifies the employer against all sums it is liable to pay under the Act for each employee the policy covers, which includes the accidents outside Singapore that section 9 brings within the Act.
 
 For a Malaysian-employed worker working primarily in Malaysia, WICA does not apply - they are not in a Singapore employment relationship.
 
@@ -69,13 +69,13 @@ These are statutory obligations under Malaysian law, regardless of the parent co
 
 Common patterns and the insurance implications:
 
-1. **Singapore-employed worker on short Malaysian business trip.** Singapore WICA typically covers (verify specific wording for territorial scope and "anywhere in the world" extension).
+1. **Singapore-employed worker on short Malaysian business trip.** WICA extends to an accident on the trip where the worker is ordinarily resident in Singapore and is employed by an employer in Singapore who requires the work in Malaysia (WICA section 9), and an approved WICA policy indemnifies the employer against that liability for each employee the policy covers.
 
-2. **Singapore-employed worker on extended Malaysian secondment.** Boundary case - depends on the substantive employment arrangement. If still on Singapore payroll with CPF, typically Singapore WICA. If transferred to Malaysian payroll, typically Malaysian SOCSO.
+2. **Singapore-employed worker on extended Malaysian secondment.** Boundary case - depends on the substantive employment arrangement. WICA extends to an accident in Malaysia where the worker is ordinarily resident in Singapore and employed by an employer in Singapore who requires the work outside Singapore (WICA section 9); CPF status is not part of that test. If the worker becomes employed by the Malaysian entity, Malaysian SOCSO applies to that employment.
 
 3. **Malaysian-employed worker working primarily in Malaysia.** Malaysian SOCSO/EIS; Singapore WICA does not apply.
 
-4. **Malaysian-employed worker visiting Singapore for short trip.** Malaysian SOCSO typically extends; Singapore WICA does not require coverage of foreign-employed visitors.
+4. **Malaysian-employed worker visiting Singapore for short trip.** Check with PERKESO whether SOCSO covers an accident in Singapore, and with MOM whether WICA applies: WICA's definitions of employee and employer contain no exception for a foreign employer, and its section 9 limits only accidents outside Singapore.
 
 5. **Dual-employment arrangement (employed by both Singapore and Malaysian entities).** Both schemes apply; complex coordination needed.
 
@@ -132,15 +132,15 @@ D&O for cross-border corporate structures:
 **Cyber Liability**
 
 Cyber for cross-border data:
-- Singapore PDPA applies to processing of Singapore-resident personal data
-- Malaysian Personal Data Protection Act 2010 applies to processing of Malaysian-resident personal data
-- A breach affecting both Singapore and Malaysian data triggers both regulatory regimes
+- Singapore's PDPA defines personal data as data about an individual who can be identified, with no residence condition, and applies to organisations whether or not they are formed or resident in Singapore
+- Malaysia's Personal Data Protection Act 2010 applies to personal data processed in respect of commercial transactions by a person established in Malaysia, or by a person not established there who uses equipment in Malaysia to process it (section 2)
+- A breach can engage both regimes at once where each Act applies to the organisation and the data
 - Cyber policy should have territorial scope covering both jurisdictions and breach response capability in both
 
 #### Vehicle insurance
 
 Singapore-registered vehicles operating in Malaysia:
-- Singapore motor insurance typically extends to West Malaysia for short trips with appropriate extension
+- Singapore motor policies commonly include West Malaysia, and Thailand within about 80km of its border with West Malaysia, in their standard geographical area (check the policy's Geographical Area clause)
 - Insurer notification before extended Malaysian use
 - Malaysia-specific cover may be required for permanent vehicle relocation or extended operations
 - Specific Customs and AP (Approved Permit) considerations apply for vehicle movement
@@ -152,9 +152,9 @@ Malaysia-registered vehicles operating in Singapore:
 #### Marine cargo and goods in transit
 
 For cross-border movement of goods:
-- Marine cargo insurance is typically global by nature - Institute Cargo Clauses cover goods regardless of route
+- Under the Institute Cargo Clauses (2009), cover attaches when the goods are first moved in the warehouse or place of storage named in the insurance for loading, and ends at the latest on completion of unloading at the final warehouse or place of storage at the named destination; it stays in force during any deviation, forced discharge, reshipment or transhipment, and a change of destination must be notified promptly to insurers
 - See [how to claim under ICC A cover](/procedural-howto/marine-cargo-institute-clauses-a-claim) and [when ICC C is the right choice](/procedural-howto/marine-cargo-institute-clauses-c-claim)
-- Goods in Transit policies for Malaysia-Singapore land transport are commonly issued by Singapore insurers with appropriate territorial scope
+- A Goods in Transit policy can limit cover to the territorial limits it states (Etiqa's Singapore wording covers goods in transit by road or rail within its Territorial Limits), so check that the limits include the Malaysia-Singapore route
 
 #### Tax and regulatory considerations
 
@@ -167,7 +167,7 @@ For cross-border movement of goods:
 **Insurer licensing**
 
 - Singapore insurers are licensed by [MAS](https://www.mas.gov.sg/regulation/insurance)
-- Malaysian insurers are licensed by [Bank Negara Malaysia](https://www.bnm.gov.my/)
+- Malaysian insurers are licensed by the Minister charged with finance on the recommendation of [Bank Negara Malaysia](https://www.bnm.gov.my/), which regulates them (Financial Services Act 2013, sections 8 and 10)
 - Selling Singapore-issued insurance to cover Malaysian operations may have local licensing implications; same in reverse
 - Major insurers operate licensed entities in both countries to handle this
 
@@ -189,7 +189,7 @@ Insurance build:
 More substantial build:
 - Malaysian PL/Product Liability/Property - full Malaysian programme
 - SOCSO/EIS for all Malaysian staff
-- Malaysian Workmen's Compensation if required by industry
+- SOCSO registration for any foreign workers: SOCSO's Employment Injury Scheme replaced the Workmen's Compensation Act 1952 scheme for foreign workers from 1 January 2019, and its Invalidity Scheme (from 1 July 2024) and Non-Employment Injury Scheme (from 1 June 2026) also cover them
 - Malaysian Marine Cargo for product distribution
 - Coordinated multinational programme with Singapore master policy
 - Malaysian-licensed local broker engagement
@@ -201,14 +201,14 @@ Lighter-touch:
 - Singapore D&O with worldwide territory
 - Singapore Cyber with regional territory
 - Singapore PI/Product Liability with appropriate territorial scope for cross-border services and products
-- No Malaysian entity = no SOCSO/EIS requirement (subject to substantive employment test)
+- No SOCSO/EIS registration for staff employed and working in Singapore; the Employees' Social Security Act 1969 applies to industries with one or more employees in Malaysia, so check the position of any rep based there
 
 **Scenario D: SG SME serving Malaysian customers without Malaysian presence**
 
 - Singapore PI/Product Liability with Malaysian territorial extension
 - Singapore Cyber with Malaysian extension for Malaysian customer data
 - Customer contracts may require local Malaysian cover; negotiate accordingly
-- No SOCSO/EIS unless employees are Malaysian-domiciled
+- No SOCSO/EIS unless the business has employees working in Malaysia; SOCSO covers foreign workers there, including expatriates, not only Malaysians
 
 ### Common Mistakes / What Goes Wrong
 
@@ -217,7 +217,7 @@ Lighter-touch:
 3. **Singapore PL/Property/PAR without territorial extension to Malaysian premises.** Loss in Malaysian premises uninsured.
 4. **D&O for SG parent only.** Malaysian subsidiary directors uninsured.
 5. **Cyber covering Singapore data only.** Malaysian customer data breach uninsured.
-6. **Vehicle insurance for cross-border movement without proper extension.** Malaysian incident uninsured.
+6. **Vehicle insurance for cross-border movement without checking the policy's Geographical Area clause.** An incident outside that area is not covered by the policy.
 7. **Tax and licensing oversight on cross-border insurance.** Compliance issues and potential premium recovery problems.
 8. **No coordination at insurance renewal.** Singapore renewal proceeds; Malaysian operations unaware until claim.
 

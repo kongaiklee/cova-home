@@ -162,7 +162,7 @@ Insurers may ask drone operators about:
 
 For Singapore commercial drone operators:
 
-1. **Engage an aviation-aware insurer or broker.** Specialist underwriting is essential.
+1. **Engage an aviation-aware insurer or broker.** The policy needs to cover UA operations.
 
 2. **Match cover to your CAAS classification** - Operator Permit, Activity Permit, and BVLOS scope.
 
@@ -183,7 +183,7 @@ The drone insurance build is specialised. Standard SME liability wordings can ex
 ### Questions to Ask Your Adviser
 
 1. For my drone operations (category, scale, industries), what aviation-aware insurance is appropriate?
-2. Does my PL specifically cover UA operations (not subject to standard aviation exclusions)?
+2. Does my PL specifically cover UA operations (not subject to an aviation exclusion)?
 3. For my equipment, is Hull cover structured at appropriate value and basis?
 4. For data-quality applications, is PI structured appropriately?
 5. As my operations evolve (BVLOS, delivery, new applications), what insurance milestones should I plan for?

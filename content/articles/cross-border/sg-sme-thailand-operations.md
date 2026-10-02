@@ -14,34 +14,34 @@ word_count: 1752
 status: "published"
 hero_image: "/assets/blog/cross-border.jpg"
 canonical_url: "https://covarage.com/guides/cross-border/sg-sme-thailand-operations"
-meta_description: "Thailand's OIC requires locally admitted cover. What a Singapore SME has to place there, and what cannot ride on the parent policy."
+meta_description: "Only OIC-licensed insurers may carry on insurance business in Thailand. What a Singapore SME places there, and how it fits with the parent policy."
 og_title: "Singapore SME with Thailand Operations: Insurance and Regulatory Framework"
-og_description: "Thailand's OIC requires locally admitted cover. What a Singapore SME has to place there, and what cannot ride on the parent policy."
+og_description: "Only OIC-licensed insurers may carry on insurance business in Thailand. What a Singapore SME places there, and how it fits with the parent policy."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore SME extending to Thailand operations encounters [Office of Insurance Commission (OIC)](https://www.oic.or.th/) supervision over the Thai insurance market requiring locally-admitted cover for Thai risks, the Social Security Fund (SSF) administered by the [Social Security Office](https://www.sso.go.th/) under the Social Security Act 1990 covering health, maternity, disability, death, and retirement benefits, the Workmen's Compensation Fund (WCF) under the Workmen's Compensation Act 1994 for work injury cover, the [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th/) effective from 1 June 2022 with substantial GDPR-style obligations, and Thai labour law under the Labour Protection Act 1998 (substantially amended in 2017 and 2019) that's more protective of employees than Singapore. Master/Local architecture with Thailand-admitted policies is the standard structure. The Foreign Business Act 1999 affects ownership structures and may dictate operational forms.
+> A Singapore SME extending to Thailand operations encounters [Office of Insurance Commission (OIC)](https://www.oic.or.th/) supervision over the Thai insurance market, where only OIC-licensed insurers may carry on insurance business, the Social Security Fund (SSF) administered by the [Social Security Office](https://www.sso.go.th/) under the Social Security Act 1990 covering health, maternity, disability, death, and retirement benefits, the Workmen's Compensation Fund (WCF) under the Workmen's Compensation Act 1994 for work injury cover, the [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th/) effective from 1 June 2022 with substantial GDPR-style obligations, and Thai labour law under the Labour Protection Act 1998 (substantially amended in 2017 and 2019) that's more protective of employees than Singapore. Master/Local architecture with Thailand-admitted policies is the standard structure. The Foreign Business Act 1999 affects ownership structures and may dictate operational forms.
 
 ### The Sourced Detail
 
-Thailand is among ASEAN's largest economies and a frequent destination for Singapore SMEs in F&B / hospitality, retail, professional services, manufacturing, and tourism-related operations. The regulatory framework differs materially from Singapore: locally-admitted insurance is typically required, social security and work injury cover are state-administered, the foreign ownership framework affects business structures, and Thai is the operational language for substantial regulatory engagement.
+Thailand is among ASEAN's largest economies and a frequent destination for Singapore SMEs in F&B / hospitality, retail, professional services, manufacturing, and tourism-related operations. The regulatory framework differs materially from Singapore: only OIC-licensed insurers may carry on insurance business in Thailand (Thai law does not expressly require a Thai insured to buy only from them), social security and work injury cover are state-administered, the foreign ownership framework affects business structures, and Thai is the operational language for substantial regulatory engagement.
 
 This article walks through the framework. For material Thailand operations, engagement with Thailand-licensed counsel and a Singapore licensed adviser experienced in coordinated Thailand programmes is operational requirement.
 
 #### The OIC supervisory framework
 
-The Thai insurance market is supervised by the [Office of Insurance Commission (OIC)](https://www.oic.or.th/) under the [Ministry of Finance](https://www.mof.go.th/). The OIC framework requires locally-admitted insurance from OIC-licensed insurers for Thailand-based risks, with specific cross-border restrictions that affect Singapore-issued cover.
+The Thai insurance market is supervised by the [Office of Insurance Commission (OIC)](https://www.oic.or.th/) under the [Ministry of Finance](https://www.mof.go.th/). Thailand's Life and Non-Life Insurance Acts bar anyone from carrying on insurance business in Thailand without an OIC licence. Thai law does not expressly require a Thai insured to buy only from licensed insurers, but an unlicensed foreign insurer has no standing with the OIC, and OIC policyholder protections do not apply to its policies.
 
-For non-mandatory commercial insurance lines (Property, BI, GL, PI, D&O, Marine, Cyber, etc.), Thailand-admitted insurance is typically required for Thai risks. Major insurers operating in Thailand include Bangkok Insurance, Dhipaya Insurance, Krungthai Panich Insurance, Muang Thai Insurance, and specific other major insurers. International insurers with Thai operations (AIG Thailand, Allianz Thailand, Chubb Thailand, etc.) provide Master/Local fronting capability for Singapore SME multinational programmes.
+For non-mandatory commercial insurance lines (Property, BI, GL, PI, D&O, Marine, Cyber, etc.), foreign insurers without an OIC licence generally take part in Thai risks by reinsuring a policy that a licensed Thai insurer issues, though policyholders may place risks offshore, particularly large commercial and industrial risks. Major insurers operating in Thailand include Bangkok Insurance, Dhipaya Insurance, Krungthai Panich Insurance, Muang Thai Insurance, and specific other major insurers. International insurers with Thai operations (AIG Thailand, Allianz Thailand, Chubb Thailand, etc.) provide Master/Local fronting capability for Singapore SME multinational programmes.
 
 Commercial conventions include local Thai wordings (which can differ from Asia regional standards), specific limit conventions reflecting Thai commercial market depth, and commercial relationships. For SMEs with substantial Thailand operations, Thai-licensed broker engagement is foundational.
 
 #### The Social Security Fund framework
 
-Thai employment carries mandatory social security contributions under the Social Security Act 1990, administered by the [Social Security Office](https://www.sso.go.th/). The framework covers seven benefit categories: medical care (illness and maternity), disability, death, child welfare, old age, and unemployment.
+Thai employment carries mandatory social security contributions under the Social Security Act 1990, administered by the [Social Security Office](https://www.sso.go.th/). The framework covers seven benefit categories: injury or sickness, maternity, disability, death, child support, old age, and unemployment.
 
-The contribution rate is 5% of monthly wages from each of employer and employee (10% combined), capped at specific monthly wage thresholds. The cap (currently 15,000 THB monthly wages for the calculation base, meaning 750 THB maximum per side per month) limits the absolute contribution but affects only employees earning above the cap.
+The contribution rate is 5% of monthly wages from each of employer and employee (10% combined), capped at specific monthly wage thresholds. The cap (17,500 THB monthly wages for the calculation base from 1 January 2026, meaning 875 THB maximum per side per month at the 5% rate; it rises to 20,000 THB in 2029 and 23,000 THB in 2032) limits the absolute contribution but affects only employees earning above the cap.
 
 For Singapore SMEs operating in Thailand, SSF compliance is non-negotiable and operationally simple through standard Thai payroll providers. The benefit framework operates separately from commercial insurance - Thai employees receive SSF benefits regardless of any private cover.
 
@@ -55,7 +55,7 @@ For Singapore SMEs operating in Thailand, WCF compliance is foundational. Consid
 
 #### The PDPA Thailand framework
 
-Thailand's [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th/) became effective from 1 June 2022 - administered by the [Personal Data Protection Committee (PDPC)](https://www.pdpc.or.th/). The framework imposes substantial GDPR-style obligations on data controllers and processors operating in Thailand or processing data of Thai residents.
+Thailand's [Personal Data Protection Act (PDPA Thailand)](https://www.pdpc.or.th/) became effective from 1 June 2022 - administered by the [Personal Data Protection Committee (PDPC)](https://www.pdpc.or.th/). The framework imposes substantial GDPR-style obligations on data controllers and processors in Thailand, and on those outside Thailand that offer goods or services to, or monitor the behaviour of, data subjects in Thailand.
 
 Key elements include lawful basis requirements for personal data processing (specific consent or specific other legal bases), specific data subject rights including access, rectification, deletion, and portability, specific cross-border transfer requirements, specific data breach notification obligations within 72 hours where applicable, and substantial penalty framework including criminal exposure for specific officer-level violations.
 
@@ -63,7 +63,7 @@ For Singapore SMEs operating in Thailand (particularly technology, e-commerce, F
 
 #### Thai labour law considerations
 
-Thai employment law under the Labour Protection Act 1998 (substantially amended in 2017, 2019, and subsequently) is more protective of employees than Singapore law. Specific employer obligations include written employment contracts (in Thai), specific working hours regulation (8 hours daily / 48 hours weekly standard with overtime provisions), specific holiday and leave entitlements, specific termination and severance frameworks, and operational discipline.
+Thai employment law under the Labour Protection Act 1998 (substantially amended in 2017, 2019, and subsequently) is more protective of employees than Singapore law. Specific employer obligations include working regulations in Thai once the employer has ten or more employees (an employment contract itself may be written or oral), specific working hours regulation (8 hours daily / 48 hours weekly standard with overtime provisions), specific holiday and leave entitlements, specific termination and severance frameworks, and operational discipline.
 
 Severance obligations under the Labour Protection Act are substantial. Termination without cause requires specific severance pay scales - ranging from 30 days' wages (for 120 days to 1 year of service) to 400 days' wages (for 20+ years of service). The framework applies to most termination scenarios, with limited specific exceptions for serious misconduct.
 
@@ -91,7 +91,7 @@ For substantive Thailand operations, engagement with Thai counsel familiar with 
 
 **Professional services.** FBA framework typically requires FBL or specific commercial structures. Specific licensing for specific professional categories.
 
-**Tourism.** Specific Tourism Authority framework. Commercial conventions affecting Public Liability scope. operational coordination with Thai partners.
+**Tourism.** A tourism business licence from the Department of Tourism under the Tourism Business and Guide Act B.E. 2551 (2008). Commercial conventions affecting Public Liability scope. operational coordination with Thai partners.
 
 **Technology / SaaS.** PDPA Thailand exposure substantial. Specific cross-border framework considerations.
 
@@ -111,7 +111,7 @@ For substantive Thai operations, specialist Thailand-aware broker engagement, Th
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Singapore-issued cover applied to Thai operations.** Specific compliance gap and coverage breach.
+1. **Singapore-issued cover assumed to reach Thai operations.** A Singapore liability policy covers events within the territorial limits in its schedule, and an unlicensed insurer's policy carries no OIC policyholder protection.
 2. **Inadequate SSF and WCF operational infrastructure.**
 3. **FBA framework misunderstanding affecting structural choices.** Specific commercial and operational complications.
 4. **PDPA Thailand compliance treated as PDPA Singapore equivalent.**
@@ -126,7 +126,7 @@ For substantive Thai operations, specialist Thailand-aware broker engagement, Th
 
 For Singapore SMEs with Thailand operations:
 
-Thailand-admitted commercial insurance is typically required for Thai risks, with Master/Local architecture as the standard approach. SSF and WCF compliance is operationally foundational; the contribution levels are modest by regional standards but the operational discipline matters. PDPA Thailand creates substantial compliance obligations that affect technology, consumer-facing, and data-intensive operations. Thai labour law creates substantial severance exposure that affects EPL procurement and operational discipline. The Foreign Business Act framework affects structural choices and creates joint venture or BOI-promotion considerations for many SME entry strategies.
+Only OIC-licensed insurers may carry on insurance business in Thailand, and foreign insurers generally take part through a licensed Thai insurer's policy, with Master/Local architecture as the standard approach. SSF and WCF compliance is operationally foundational; the contribution levels are modest by regional standards but the operational discipline matters. PDPA Thailand creates substantial compliance obligations that affect technology, consumer-facing, and data-intensive operations. Thai labour law creates substantial severance exposure that affects EPL procurement and operational discipline. The Foreign Business Act framework affects structural choices and creates joint venture or BOI-promotion considerations for many SME entry strategies.
 
 For substantive Thai operations, specialist broker engagement, Thai-licensed counsel relationships, and operational sophistication form the foundation that supports both regulatory compliance and commercial operations. SMEs that engage thoughtfully benefit from sustainable operations; SMEs that approach Thailand as commercially similar to Singapore face material gaps across multiple dimensions.
 

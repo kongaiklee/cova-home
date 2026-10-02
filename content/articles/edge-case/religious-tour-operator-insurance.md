@@ -19,7 +19,7 @@ og_title: "Religious Tour Operator: Insurance Framework for Pilgrimage and Faith
 og_description: "A pilgrimage operator is a Singapore licensed travel agent carrying groups abroad. What the Travel Agents Act requires, and what the itinerary adds."
 ---
 
-> **60-second answer.** A religious tour operator running pilgrimages from Singapore (Umrah, Hajj, Buddhist circuit, Christian Holy Land tours, Hindu temple tours) operates as a Travel Agents Act 1975 licensed travel agent regulated by the Singapore Tourism Board (STB), guided by the practices and codes of the National Association of Travel Agents Singapore (NATAS), and operationally engaged with the Singapore Pilgrim Affairs Office (PAO) for Hajj operations specifically. Insurance framework includes Travel Agents Act compliance, professional indemnity for itinerary planning and advice, public liability for group travel scenarios, business travel insurance for travellers (mandatory for Umrah and other regulated categories), and contingent business interruption for supplier failures. Cancellation insurance is operationally important given large prepayment to overseas service providers.
+> **60-second answer.** A religious tour operator running pilgrimages from Singapore (Umrah, Hajj, Buddhist circuit, Christian Holy Land tours, Hindu temple tours) operates as a Travel Agents Act 1975 licensed travel agent regulated by the Singapore Tourism Board (STB), may be a member of the National Association of Travel Agents Singapore (NATAS), a trade association, and is operationally engaged with the Singapore Pilgrim Affairs Office (PAO) for Hajj operations specifically. Insurance framework includes Travel Agents Act compliance, professional indemnity for itinerary planning and advice, public liability for group travel scenarios, travel insurance for travellers (for Hajj and Umrah, Saudi Arabia's Council of Health Insurance has made health insurance mandatory for pilgrims as part of the entry visa), and contingent business interruption for interruption caused by damage at a supplier's premises. Cancellation insurance is operationally important given large prepayment to overseas service providers.
 
 ---
 
@@ -35,15 +35,15 @@ Per the [Travel Agents Act 1975](https://sso.agc.gov.sg/Act/TAA1975), travel age
 
 **General Licence and Niche Licence.** STB issues two travel agent licence classes: a General Licence for agents conducting any travel-agent activity, and a Niche Licence limited to tours within Singapore that provide conveyance without a right of accommodation. A religious tour operator running overseas pilgrimages organises outbound travel with accommodation and therefore requires the General Licence.
 
-**Financial requirement.** Licensees must demonstrate financial capacity, typically through paid-up capital and bank guarantee or insurance bond.
+**Financial requirement.** An applicant for a General Licence that is a company, limited liability partnership or other body corporate must have issued and paid-up capital of not less than S$100,000 and net value of not less than S$100,000; a sole proprietor, partnership or unincorporated association needs net value of not less than S$100,000 (Travel Agents Regulations 2017, regulation 3(1)). The Regulations set no bank guarantee or insurance bond requirement.
 
-**Trust account requirements.** Customer payments held for future travel must be handled per trust account framework. Protection against operator insolvency is a key STB concern.
+**Insolvency protection.** The Act and the Regulations set no trust account requirement. Subject to the exceptions in regulation 21(2), such as where the travel product already includes that insurance, a licensee must, before receiving payment for an eligible travel product bought in Singapore by an individual, ask the individual to consider buying travel insurance against failure or disruption arising out of the licensee's insolvency, and inform the individual of one or more insurers from which it may be bought (regulation 21).
 
-**Code of practice.** Travel agents are subject to STB regulatory requirements and to NATAS standards of professional and ethical conduct governing customer service, complaint handling, and business conduct.
+**Duties to customers.** Travel agents are subject to the duties in the Travel Agents Regulations 2017, including on advertisements, contract particulars, travel insurance, cancellation terms, receipts, payments and the settlement of disputes (regulations 19 to 26). NATAS is a trade association; the Act and the Regulations do not require membership.
 
-**Annual renewal.** Licences are renewed annually subject to continuing compliance.
+**Renewal.** STB grants or renews a licence for the duration it specifies in the licence (section 7(2) of the Act).
 
-Per [STB licensing information](https://www.stb.gov.sg/), enforcement actions against unlicensed operators occur regularly. Operating without a licence is a criminal offence.
+Per [STB licensing information](https://www.stb.gov.sg/licensing-support/licenses/travel-agent-licence/), operating as a travel agent without a valid licence is an offence under the Travel Agents Act 1975; section 6(2) of the Act sets a fine not exceeding S$25,000 or imprisonment for a term not exceeding 2 years or both.
 
 For religious tour operators specifically, the same framework applies. There is no separate "religious tour" licence category; the standard Travel Agent licensing framework governs.
 
@@ -55,7 +55,7 @@ Hajj operations have specific additional framework:
 
 **Saudi Ministry of Hajj and Umrah quotas.** Saudi Arabia allocates Hajj quotas by country annually. Singapore's quota is administered through MUIS (Majlis Ugama Islam Singapura) Pilgrim Affairs Office (PAO).
 
-**PAO-approved operators.** Operators wishing to handle Hajj packages must engage with PAO framework. Per [MUIS Hajj information](https://www.muis.gov.sg/Hajj), the framework includes operator approval, package standards, and pilgrim welfare requirements.
+**PAO-approved operators.** Operators wishing to handle Hajj packages must engage with PAO framework. Per [MUIS Hajj information](https://www.muis.gov.sg/haj/), the framework includes operator approval, package standards, and pilgrim welfare requirements.
 
 **Mandatory Hajj insurance.** Pilgrim insurance is a regulatory and practical requirement.
 
@@ -67,11 +67,11 @@ Hajj operations have specific additional framework:
 
 ---
 
-#### Customer travel insurance: typically mandatory
+#### Customer travel insurance
 
-For most religious tour packages, customer travel insurance is operationally mandatory:
+Customer travel insurance considerations by destination:
 
-**Hajj and Umrah.** Travel insurance covering medical expenses, emergency repatriation, and trip-specific risks is typically required by the operator and often by Saudi visa requirements.
+**Hajj and Umrah.** Travel insurance covering medical expenses, emergency repatriation, and trip-specific risks may be required by the operator. Separately, Saudi Arabia's [Council of Health Insurance](https://www.chi.gov.sa/en/knowledge-center/health-insurance-policies/Pages/pilgrims-policy.aspx) states that mandatory health insurance for pilgrims and Umrah performers is part of the entry visa, giving access to health services for emergency cases.
 
 **Christian Holy Land tours.** Travel through Israel, Palestinian territories, Jordan, and surrounding areas presents specific risk profile. Travel advisories are frequently active; cover should respond appropriately.
 
@@ -79,9 +79,9 @@ For most religious tour packages, customer travel insurance is operationally man
 
 **Hindu temple tours.** India-focused tours with similar profile to Buddhist circuit.
 
-**General international religious tours.** The framework varies but customer travel insurance is the standard component.
+**General international religious tours.** The framework varies by destination.
 
-The operator typically arranges group travel insurance through a Singapore-licensed insurer, with package premium included in the tour cost. Some operators allow customers to use their own travel insurance subject to verification of adequate cover.
+An operator may arrange group travel insurance through an insurer licensed in Singapore, with the premium included in the tour cost, or let customers use their own travel insurance. Separately, subject to the exceptions in regulation 21(2), before receiving payment for an eligible travel product bought in Singapore by an individual, a licensee must ask the individual to consider buying travel insurance against failure or disruption arising out of the licensee's insolvency, and inform the individual of one or more insurers from which it may be bought ([Travel Agents Regulations 2017](https://sso.agc.gov.sg/SL/TAA1975-RG1), regulation 21).
 
 ---
 
@@ -100,7 +100,7 @@ Beyond customer-side travel insurance, the operator itself has its own insurance
 
 **Group travel liability.** Specific scenarios where the operator's group leader or representative is involved in incidents during travel. Standard PL may not extend to overseas group leadership; specific cover is reviewed.
 
-**Group travel agent liability extension.** Some specialist travel-agent policies provide extension for liability arising from group travel operations.
+**Group travel agent liability extension.** Whether a travel-agent policy extends to liability arising from group travel operations depends on its wording.
 
 ---
 
@@ -108,13 +108,13 @@ Beyond customer-side travel insurance, the operator itself has its own insurance
 
 Religious tour operators are heavily dependent on overseas suppliers - accommodation providers, transport, ground tour operators, religious site coordinators. Supplier failure or substantial change can disrupt operations:
 
-**Contingent Business Interruption (CBI).** Cover for the operator's loss when an overseas supplier fails. Per the [MAS guidance on CBI](https://www.mas.gov.sg/) and standard insurer documentation, CBI is sub-limit cover; the supplier must be specified or generally captured by description.
+**Contingent Business Interruption (CBI).** Cover for the operator's loss when its business is interrupted in consequence of damage to property at a supplier's premises; a supplier's insolvency without such damage is not that trigger. Insurer wordings offer it as an extension for specified or unspecified suppliers' premises, and one such wording caps the insurer's liability for any one supplier's location at a percentage of the sum insured.
 
 **Force majeure events.** Religious tour operations are particularly exposed to force majeure - pandemic, conflict, natural disaster, regulatory change. The COVID-19 disruption to 2020-2022 operations remains within recent operational memory.
 
-**Cancellation insurance for the operator.** Some operators carry cancellation cover for their own exposure when forced to cancel pre-paid arrangements due to events outside operator control.
+**Cancellation insurance for the operator.** Whether cover is available for the operator's own exposure when forced to cancel pre-paid arrangements due to events outside its control is a question for insurers.
 
-**Supplier default and bond exposure.** Accommodation deposits, group flight commitments, and other prepayments create exposure if suppliers fail. Trust account framework provides some protection but does not cover supplier default fully.
+**Supplier default exposure.** Accommodation deposits, group flight commitments, and other prepayments create exposure if suppliers fail. The Travel Agents Act and Regulations set no trust account requirement, and a CBI extension triggered by damage at a supplier's premises does not respond to a supplier's insolvency where there is no such damage.
 
 ---
 
@@ -158,7 +158,7 @@ Documentation discipline supports both customer service and litigation defence. 
 
 2. **Customer travel insurance not mandatory.** Operating with customers carrying inadequate cover, or no cover, exposes the operator to commercial pressure to provide assistance from operator funds when incidents occur.
 
-3. **CBI scope underestimated.** Heavy supplier dependency and large prepayments create CBI exposure. Sub-limits on standard policies may be inadequate for catastrophic supplier failure.
+3. **CBI scope underestimated.** Heavy supplier dependency creates CBI exposure, and sub-limits on standard policies may be inadequate if damage at a key supplier's premises interrupts the business. Prepayments lost to a supplier's insolvency are not a CBI loss.
 
 4. **Force majeure provisions in customer contracts unclear.** Customer cancellation rights and operator obligations during force majeure events should be clear contractually before events occur. Post-event interpretation in distressed conditions produces poor outcomes.
 
@@ -185,7 +185,7 @@ A licensed adviser familiar with travel-industry programmes can structure operat
 1. For my tour portfolio (destinations, package structures, customer demographics), what operator cover scope is appropriate?
 2. For customer travel insurance arrangement, what programme is appropriate given destinations and customer profile?
 3. For Hajj operations specifically, what additional framework structuring is needed?
-4. For supplier failure scenarios, what CBI scope and limits are appropriate?
+4. For supplier failure scenarios, what does CBI cover, and which losses, such as prepayments lost to a supplier's insolvency, fall outside it?
 5. For force majeure scenarios (pandemic, conflict, regulatory change), what programme response applies?
 
 ### Related Information

@@ -14,18 +14,18 @@ word_count: 1186
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
 canonical_url: "https://covarage.com/guides/document-legal/standard-waiver-of-subrogation-clause"
-meta_description: "A waiver of subrogation gives away your Singapore insurer's right to recover. What signing one commits you to, and when it voids your own cover."
+meta_description: "A waiver of subrogation gives away your Singapore insurer's right to recover. What signing one commits you to, and how it sits with your own policy's terms."
 og_title: "Standard Waiver of Subrogation Clauses: Drafting and Commercial Implications"
-og_description: "A waiver of subrogation gives away your Singapore insurer's right to recover. What signing one commits you to, and when it voids your own cover."
+og_description: "A waiver of subrogation gives away your Singapore insurer's right to recover. What signing one commits you to, and how it sits with your own policy's terms."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Subrogation operates as common law and statutory doctrine providing that an insurer paying a claim acquires the insured's rights to recover from third parties responsible for the loss. Waiver of subrogation clauses operate as contractual mechanism by which parties waive insurer's subrogation rights against specified parties. Standard commercial scope around waiver of subrogation includes mutual waiver across commercial relationships (typical in lease agreements, construction contracts, joint venture agreements), framework for waiver scope (specific perils, commercial relationships), and framework for insurer consent requirements. The framework operates within [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Section 79 statutory subrogation framework and substantial common law development. Commercial implications matter substantially - waiver provisions reduce commercial recovery exposure between contracting parties while preserving cover for the insured party, but require considerations on insurer consent and operational discipline.
+> Subrogation operates as common law and statutory doctrine providing that an insurer paying a claim acquires the insured's rights to recover from third parties responsible for the loss. Waiver of subrogation clauses operate as contractual mechanism by which parties waive insurer's subrogation rights against specified parties. Standard commercial scope around waiver of subrogation includes one-way or mutual waivers in commercial relationships (some Singapore leases, for example, require the tenant's policies to waive subrogation against the landlord), framework for waiver scope (specific perils, commercial relationships), and framework for insurer consent requirements. Section 79 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) recognises subrogation in marine insurance; for other indemnity insurance the doctrine comes from the common law. Commercial implications matter substantially - waiver provisions reduce commercial recovery exposure between contracting parties while preserving cover for the insured party, but require considerations on insurer consent and operational discipline.
 
 ### The Sourced Detail
 
-Subrogation and waiver of subrogation operate as foundational commercial scope mechanisms. The framework operates within [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) Section 79 statutory framework and substantial common law development accessible through [eLitigation.sg](https://www.elitigation.sg/). [MAS](https://www.mas.gov.sg/) administers insurance regulatory framework with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Commercial dispute resolution through [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) provides specific framework where disputes arise.
+Subrogation and waiver of subrogation operate as foundational commercial scope mechanisms. Section 79 of the [Marine Insurance Act 1906](https://sso.agc.gov.sg/Act/MIA1906) recognises subrogation in marine insurance; for other indemnity insurance the doctrine comes from the common law, applied in Singapore judgments published on [eLitigation.sg](https://www.elitigation.sg/). [MAS](https://www.mas.gov.sg/) administers insurance regulatory framework with industry conventions documented by [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/). Commercial dispute resolution through [Financial Industry Disputes Resolution Centre (FIDReC)](https://www.fidrec.com.sg/) provides specific framework where disputes arise.
 
 #### The subrogation framework
 
@@ -33,19 +33,19 @@ Subrogation operates as both common law doctrine and statutory framework.
 
 **Common law subrogation** - provides that an insurer paying a claim under indemnity insurance acquires the insured's rights to recover from third parties responsible for the loss. The framework prevents double recovery and shifts ultimate financial responsibility to the party at fault.
 
-**Statutory subrogation** under [Marine Insurance Act 1906 Section 79](https://sso.agc.gov.sg/Act/MIA1906) - provides specific framework for marine insurance subrogation. The framework substantively informs Singapore commercial subrogation conventions.
+**Statutory subrogation** under [Marine Insurance Act 1906 Section 79](https://sso.agc.gov.sg/Act/MIA1906) - provides specific framework for marine insurance subrogation.
 
-**Subrogation operation:** subrogation operates by way of equitable assignment. Insurer, having paid claim, steps into insured's shoes and pursues recovery in insured's name (typically) against responsible third parties.
+**Subrogation operation:** subrogation arises from terms the law implies into an indemnity insurance contract: the rights of action stay vested in the insured, and the insurer that has paid holds an equitable interest in them to the extent needed to recoup its payment. Insurer, having paid claim, steps into insured's shoes and pursues recovery in insured's name (typically) against responsible third parties.
 
 #### The waiver framework
 
 Waiver of subrogation operates as contractual mechanism by which parties waive insurer's subrogation rights against specified parties.
 
-**Contractual waiver framework** - parties agree contractually that no subrogation will operate against specified parties for specified scope. The waiver typically operates as mutual waiver across commercial relationships.
+**Contractual waiver framework** - parties agree contractually that no subrogation will operate against specified parties for specified scope. The waiver may run one way (some Singapore leases require the tenant's policies to waive subrogation against the landlord) or both ways.
 
 **Waiver effect:** where waiver operates effectively, insurer's subrogation rights are substantively constrained. Considerations on enforceability matters.
 
-**Insurer consent:** waiver of subrogation typically requires insurer consent. Considerations on insurer consent framework matters substantially.
+**Insurer consent:** some policies require the insured to do nothing to prejudice the insurer's subrogation rights, and an insurer can agree a waiver in favour of a named party by a clause in the policy. Considerations on insurer consent framework matters substantially.
 
 #### The clause structure framework
 
@@ -57,13 +57,13 @@ Standard waiver of subrogation clauses include several structural elements:
 - Specific perils waived (e.g., "with respect to property damage")
 - Operational scope waived (e.g., "arising from operations under this Agreement")
 
-**Mutual waiver framework** - typical commercial conventions include mutual waiver where each party's insurance waives subrogation against the other.
+**Mutual waiver framework** - a waiver can also be mutual, where each party's insurance waives subrogation against the other.
 
 #### The mutual waiver framework
 
 Mutual waiver across commercial relationships operates as substantive commercial mechanism.
 
-**Lease agreements** - mutual waiver framework substantively standard in commercial lease agreements. Tenant's insurer waives subrogation against landlord for property damage scope; landlord's insurer waives subrogation against tenant.
+**Lease agreements** - Singapore leases may require the tenant's policies to waive subrogation against the landlord (JTC's standard space lease terms require the tenant's joint-names public liability policy to include a "Waiver of Subrogation" clause). A matching waiver by the landlord's insurer is not automatic: in HSBC Institutional Trust Services v DNKH Logistics [2023] SGHC(A) 13 the lease clause requiring the landlord to insure against fire did not exclude subrogation against the tenant, and the landlord's insurer still failed because the court read the lease as leaving fire damage caused without either party's fault to the landlord's own fire insurance, and the tenant's indemnity as covering only third party claims where the tenant was at fault.
 
 **Construction contracts** - mutual waiver framework substantively standard. Construction All Risks (CAR) policies typically include waiver of subrogation in favour of all named insureds (typically employer, main contractor, subcontractors).
 
@@ -73,7 +73,7 @@ Mutual waiver across commercial relationships operates as substantive commercial
 
 Framework for insurer consent for waiver of subrogation matters substantially.
 
-**Standard commercial conventions** - most insurance policies include provisions requiring insurer consent for waiver of subrogation. Insurer consent typically obtained at procurement or through specific endorsement.
+**Standard commercial conventions** - some policies require the insured to do nothing to prejudice the insurer's subrogation rights (one Singapore liability wording says "The Insured shall do nothing to prejudice these rights"), and a waiver in favour of a named party can be written into the policy by a waiver of subrogation clause.
 
 #### The waiver scope analysis
 
@@ -102,7 +102,7 @@ Waiver of subrogation provisions integrate with insurance procurement substantiv
 
 Commercial scenarios under waiver of subrogation framework include:
 
-**Specific lease scenarios** - fire damage to leased premises typically engaged through tenant's commercial property cover with mutual waiver against landlord.
+**Specific lease scenarios** - under the lease in HSBC Institutional Trust Services v DNKH Logistics [2023] SGHC(A) 13, the landlord had to insure the building against fire and the tenant had to take out a joint-names policy with a waiver of subrogation against the landlord; the court read the lease as leaving fire damage to the building, caused without either party's fault, to the landlord's fire insurance.
 
 **Specific construction scenarios** - incidents on construction projects engaged through CAR cover with broad waiver among project parties.
 
@@ -120,7 +120,7 @@ For commercial scope around waiver of subrogation, operational considerations in
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Reliance on contractual waiver provisions without insurer consent.** operational risk where waiver may be ineffective.
+1. **Reliance on contractual waiver provisions without insurer consent.** A waiver given before a loss limits what the insurer can recover, because the insurer's subrogation rights are only the insured's own rights; where the policy requires the insured to do nothing to prejudice those rights, a waiver the insurer has not agreed may breach that condition.
 2. **Inadequate procurement alignment with contractual waiver requirements.**
 3. **No standard waiver endorsements.**
 4. **Inadequate mutual waiver framework.**

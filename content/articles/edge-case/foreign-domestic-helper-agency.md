@@ -21,7 +21,7 @@ og_description: "A Singapore FDH agency is licensed by MOM under the Employment 
 
 > **The Answer in 60 Seconds**
 >
-> Foreign Domestic Helper (FDH) agencies in Singapore operate under a distinctive regulatory framework administered by the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) and licensed under the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958), with operational requirements substantially more stringent than other employment agencies. Mandatory operational elements include the S$60,000 medical insurance and S$60,000 personal accident insurance per FDH (the minimum sums in force since July 2023), the S$5,000 security bond required for each non-Malaysian work-permit holder, specific employer training (the Employers' Orientation Programme), specific FDH support services, and commercial sensitivity around vulnerable demographic. Insurance considerations beyond the mandatory FDH cover include Public Liability with elevated limits (specific premises and operational scope), Professional Indemnity (specific advisory and matching scope), specific commercial Crime / employee dishonesty (handling client funds for FDH-related charges), Cyber Liability (substantial personal data handling), and commercial sensitivity around incident response.
+> Foreign Domestic Helper (FDH) agencies in Singapore operate under a distinctive regulatory framework administered by the [Ministry of Manpower (MOM)](https://www.mom.gov.sg/) and licensed under the [Employment Agencies Act 1958](https://sso.agc.gov.sg/Act/EAA1958), with operational requirements substantially more stringent than other employment agencies. The FDH's employer must buy S$60,000 medical insurance (the minimum since July 2023) and S$60,000 personal accident insurance (the minimum since 1 October 2017) for each FDH, and a S$5,000 security bond for each non-Malaysian FDH, and a first-time employer must attend the Employers' Orientation Programme. The agency's own licence carries its own conditions, including a security bond to MOM and post-placement checks with each FDH it places and her employer; the agency also works with a vulnerable demographic. Insurance considerations beyond the mandatory FDH cover include Public Liability with elevated limits (specific premises and operational scope), Professional Indemnity (specific advisory and matching scope), specific commercial Crime / employee dishonesty (handling client funds for FDH-related charges), Cyber Liability (substantial personal data handling), and commercial sensitivity around incident response.
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ FDH agency operations sit within Singapore's broader employment agency framework
 
 The licensing framework includes operational standards, specific personnel qualifications, commercial relationships discipline, and specific demerit-point system. Agencies with substantive demerit points face licence suspension or revocation. The specific regulatory standards have evolved progressively with FDH welfare considerations as central themes.
 
-For FDH placement specifically, additional regulatory layers apply. MOM has progressively elevated FDH standards across multiple dimensions. The MDW medical insurance minimum was raised from S$15,000 to S$60,000 a year, and the personal accident insurance minimum set at S$60,000 a year, with effect from July 2023 (a co-payment applies on medical claims above S$15,000); from July 2025, insurers settle eligible hospital bills directly rather than the employer paying upfront and being reimbursed. Alongside the insurance requirements sit FDH-employer matching standards, employer training requirements (the Employers' Orientation Programme), and FDH orientation and support requirements.
+For FDH placement specifically, additional regulatory layers apply. MOM has progressively elevated FDH standards across multiple dimensions. The MDW medical insurance minimum was raised from S$15,000 to S$60,000 a year with effect from July 2023 (a co-payment applies on medical claims above S$15,000), and the personal accident insurance minimum has been S$60,000 a year since 1 October 2017; from July 2025, insurers settle eligible hospital bills directly rather than the employer paying upfront and being reimbursed. Alongside the insurance requirements sit FDH-employer matching standards, employer training requirements (the Employers' Orientation Programme), and FDH orientation and support requirements.
 
 #### The mandatory FDH insurance framework
 
@@ -49,9 +49,9 @@ For each FDH placement, the agency typically coordinates these insurance element
 
 #### The vulnerable demographic considerations
 
-FDHs as a demographic warrant commercial sensitivity. Most FDHs working in Singapore come from Indonesia, the Philippines, Myanmar, and specific other countries with substantially different commercial frameworks. Many FDHs have limited English fluency, limited familiarity with Singapore commercial systems, and specific vulnerability to commercial exploitation.
+FDHs as a demographic warrant commercial sensitivity. FDHs working in Singapore come from MOM's approved source countries, which include Indonesia, the Philippines and Myanmar among others. Many FDHs have limited English fluency, limited familiarity with Singapore commercial systems, and specific vulnerability to commercial exploitation.
 
-The Singapore framework has progressively strengthened FDH protections over the past 15+ years, reflecting ongoing concern about cases of abuse, exploitation, and inadequate working conditions. Specific high-profile cases (the 2017 Liyani case being one notable example, leading to specific procedural reforms) have shaped public expectations and regulatory standards.
+The Singapore framework has progressively strengthened FDH protections over the past 15+ years, reflecting ongoing concern about cases of abuse, exploitation, and inadequate working conditions. Specific high-profile cases (the Parti Liyani case, in which the High Court in 2020 acquitted a former domestic worker of theft charges brought on her employer's complaint, being one notable example) have shaped public expectations and regulatory standards.
 
 For FDH agencies, this demographic context creates specific commercial responsibilities. Specific employer screening and education, specific FDH preparation and ongoing support, specific complaint handling and escalation, and commercial sensitivity around incident response all matter substantially.
 
@@ -79,7 +79,7 @@ Cyber Liability cover. FDH agencies handle substantial personal data (employer d
 
 D&O cover for incorporated agencies addressing director-level exposure under [Companies Act Section 157](https://sso.agc.gov.sg/Act/CoA1967) (see [the honesty and diligence it requires](/document-legal/companies-act-section-157-director-duties)) and specific framework exposure.
 
-EPL cover addressing employee-related claims - particularly relevant given [Workplace Fairness Act 2024](https://sso.agc.gov.sg/Act/WFA2025) (see [when it applies and to whom](/document-legal/wfa-2024-protected-characteristics)) protected characteristics framework. The agency's own employees (counsellors, operations staff, management) face specific employment law framework.
+EPL cover addressing employee-related claims - particularly once the protected characteristics framework of the [Workplace Fairness Act 2025](https://sso.agc.gov.sg/Acts-Supp/8-2025/) (see [when it applies and to whom](/document-legal/wfa-2024-protected-characteristics)) takes effect; MOM aims for end-2027. The agency's own employees (counsellors, operations staff, management) face specific employment law framework.
 
 Operational scope considerations include specific source country counterparty risk, commercial relationships, and commercial sensitivity.
 
@@ -105,7 +105,7 @@ Specific MOM regulatory enforcement - demerit points, licence suspension scenari
 
 FDH agency operations involve commercial conventions affecting insurance considerations.
 
-Specific commercial fees are regulated. MOM specifies maximum fees that agencies can charge employers and FDHs, creating specific commercial constraints and specific compliance discipline requirements.
+Specific commercial fees are regulated. The Employment Agencies Rules cap the fees an agency can charge an FDH for placing her (one month's salary for each year of her work pass or contract, whichever is shorter, up to two months' salary; fees for costs incurred outside Singapore are not counted) but not the fees it charges employers; an agency must refund at least 50% of the relevant service fees to an employer if the FDH's employment ends within 6 months, unless an exception in the Rules applies, creating specific commercial constraints and compliance requirements.
 
 Operational discipline includes specific MOM reporting, commercial relationships management, operational sophistication. commercial sensitivity around vulnerable demographic affects daily operations.
 
@@ -121,7 +121,7 @@ For agencies operating across multiple source countries, specific cross-border c
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Inadequate mandatory FDH cover** (S$60,000 medical insurance, S$60,000 personal accident insurance, S$5,000 security bond).
+1. **Losing sight of the employer's mandatory FDH cover** (S$60,000 medical insurance, S$60,000 personal accident insurance, and a S$5,000 security bond for each non-Malaysian FDH), which the employer must have in place before the FDH arrives.
 2. **Inadequate Public Liability limits for premises and operational scope.**
 3. **No Professional Indemnity for advisory and matching scope.** Specific liability exposure.
 4. **No Crime / employee dishonesty for client fund handling.**
@@ -136,7 +136,7 @@ For agencies operating across multiple source countries, specific cross-border c
 
 For Singapore FDH agencies:
 
-The insurance profile substantially exceeds standard employment agency coverage. Mandatory FDH cover (S$60,000 medical insurance, S$60,000 personal accident insurance, and the S$5,000 security bond) forms the regulatory floor. Foundational covers - Public Liability, Professional Indemnity, Commercial Crime, Cyber, D&O, EPL - should be coordinated with EA-aware brokers familiar with the segment. commercial sensitivity around vulnerable demographic matters substantially throughout operations. Annual review should reflect ongoing regulatory evolution at MOM level.
+The insurance profile substantially exceeds standard employment agency coverage. The employer's mandatory FDH cover (S$60,000 medical insurance, S$60,000 personal accident insurance and, for a non-Malaysian FDH, the S$5,000 security bond) is the regulatory floor for each placement, and the agency's licence requires its own security bond to MOM. Foundational covers - Public Liability, Professional Indemnity, Commercial Crime, Cyber, D&O, EPL - should be coordinated with EA-aware brokers familiar with the segment. commercial sensitivity around vulnerable demographic matters substantially throughout operations. Annual review should reflect ongoing regulatory evolution at MOM level.
 
 For substantive operations, specialist commercial counsel relationships, specific industry expertise, and operational sophistication form the foundation that complements insurance procurement. SMEs that engage thoughtfully with the specific risk profile benefit from operational protection that supports both commercial continuity and regulatory standing. SMEs that treat FDH agency insurance as standard EA cover face material gaps at exactly the moments when the gaps cost most.
 
@@ -150,7 +150,7 @@ For substantive operations, specialist commercial counsel relationships, specifi
 
 ### Related Information
 - [FDW Insurance Stage 2 Enhancement: Effective 1 July 2025](/regulatory-change/fdw-stage-2-2025)
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [PDPA Section 26D Mandatory Data Breach Notification: The 3-Day Clock Explained](/document-legal/pdpa-section-26d-breach-notification)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 - [Public Liability Insurance for Singapore SMEs: The Complete Guide](/document-legal/public-liability-complete-guide-singapore-sme)

@@ -189,7 +189,7 @@ The asymmetry: doing retrenchment well costs more in the short term but substant
 
 ### Related Information
 - [Employment Act 1968 Section 14 and Wrongful Dismissal: How Singapore Law Handles Termination Disputes and What EPL Insurance Actually Covers](/document-legal/employment-act-section-14-wrongful-dismissal)
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 - [Companies Act Section 172: Why Directors Cannot Always Be Indemnified by the Company](/document-legal/companies-act-section-172-indemnification)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

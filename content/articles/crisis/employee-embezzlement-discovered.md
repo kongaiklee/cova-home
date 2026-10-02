@@ -245,6 +245,6 @@ The post-incident response is structured: preserve, file, engage, claim, recover
 ### Related Information
 - [Business Email Compromise / Vendor Email Compromise: Wire Fraud Discovered](/crisis/bec-wire-fraud-loss-discovered)
 - [A Vendor Just Ran Off With Our Deposit - What Do I Do Now?](/crisis/vendor-ran-off-with-deposit)
-- [WFA 2024 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
+- [WFA 2025 Protected Characteristics: A Deep-Dive on the Statutory Framework](/document-legal/wfa-2024-protected-characteristics)
 
 *Published 4 May 2026. Source verified 4 May 2026.*

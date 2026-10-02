@@ -41,7 +41,7 @@ For the SME holding unpaid receivables, the practical impact of each track is si
 
 #### The section 440 ipso facto stay
 
-Section 440 IRDA voids contracting-out and prevents the SME from terminating or modifying the supply contract by reason only of the customer's insolvency or commencement of IRDA proceedings.
+Section 440 IRDA voids contracting-out and, during a scheme or judicial management proceeding, prevents the SME from terminating or modifying the supply contract by reason only of the customer's insolvency or the commencement of that proceeding (a winding-up application is not among the proceedings section 440 lists).
 
 **Section 440(1):** "No person may, at any time after the commencement and before the conclusion of any proceedings by a company, or at any time after the date of commencement of the simplified debt restructuring programme for a company until the time the compromise or arrangement becomes effective in accordance with section 72M(16) or the time the company is discharged from the simplified debt restructuring programme (whichever is earlier): (a) terminate or amend, or claim an accelerated payment or forfeiture of the term under, any agreement (including a security agreement) with the company; or (b) terminate or modify any right or obligation under any agreement (including a security agreement) with the company, by reason only that the proceedings are commenced, the company is insolvent, or the company has entered the simplified debt restructuring programme." (as amended by Act 3 of 2025 from 29 January 2026)
 

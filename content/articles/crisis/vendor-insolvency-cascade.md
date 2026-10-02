@@ -21,7 +21,7 @@ og_description: "A critical vendor's insolvency cascades into your operations, d
 
 > **The Answer in 60 Seconds**
 >
-> A critical vendor's insolvency triggers a cascade scenario for Singapore SMEs: operational disruption (where the vendor's services / supplies are difficult to replace quickly), commercial exposure (advance payments potentially at risk, unfulfilled orders, ongoing service interruption), specific [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) creditor framework engagement (where SME is creditor of the insolvent vendor), and operational continuity considerations. Insurance coverage typically engages narrowly - Trade Credit (see [how it compares with letters of credit](/comparison/trade-credit-vs-letters-of-credit)) covers receivables but not advance payments, Contingent Business Interruption (see [how CBI differs from BI](/comparison/bi-vs-cbi-worked-example)) covers operational disruption from specific named suppliers in limited scope, Performance Bonds (where SME held bond on the vendor) provide specific recovery. The substantial protection is operational discipline pre-event: vendor financial monitoring, supplier diversification, contractual protection, advance payment limitation, and operational considerations.
+> A critical vendor's insolvency triggers a cascade scenario for Singapore SMEs: operational disruption (where the vendor's services / supplies are difficult to replace quickly), commercial exposure (advance payments potentially at risk, unfulfilled orders, ongoing service interruption), specific [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) creditor framework engagement (where SME is creditor of the insolvent vendor), and operational continuity considerations. Insurance coverage typically engages narrowly - Trade Credit (see [how it compares with letters of credit](/comparison/trade-credit-vs-letters-of-credit)) covers receivables but not advance payments, Contingent Business Interruption (see [how CBI differs from BI](/comparison/bi-vs-cbi-worked-example)) covers disruption caused by physical damage at named suppliers' premises, not a supplier's insolvency, Performance Bonds (where SME held bond on the vendor) provide specific recovery. The substantial protection is operational discipline pre-event: vendor financial monitoring, supplier diversification, contractual protection, advance payment limitation, and operational considerations.
 
 ### The Sourced Detail
 
@@ -33,7 +33,7 @@ When a critical vendor enters insolvency proceedings, several dimensions engage 
 
 Operational disruption is typically the most immediate concern. If the vendor provides ongoing services (managed IT, logistics, specific supply, professional services), the disruption can affect SME operations within hours or days. If the vendor supplies critical components or materials, replacement supply chains may take weeks or months to establish at scale.
 
-Commercial exposure varies by relationship type. Where the SME is a creditor of the vendor (e.g. for goods supplied or services rendered to the vendor that haven't been paid), the SME becomes an unsecured creditor in vendor insolvency proceedings - typically recovering cents on the dollar after secured creditors and statutory priority claims. Where the SME has made advance payments to the vendor for future delivery, those payments are typically at substantial risk. Where the SME has ongoing contracts with the vendor, future performance becomes uncertain.
+Commercial exposure varies by relationship type. Where the SME is a creditor of the vendor (e.g. for goods supplied or services rendered to the vendor that haven't been paid), the SME becomes an unsecured creditor in vendor insolvency proceedings - ranking behind secured creditors' security and behind the debts that section 203 of the IRDA pays in priority in a winding up, such as winding-up costs, employees' wages and work injury compensation. Where the SME has made advance payments to the vendor for future delivery, those payments are typically at substantial risk. Where the SME has ongoing contracts with the vendor, future performance becomes uncertain.
 
 Commercial relationship considerations create downstream effects. SME's own customers may be affected by SME's inability to fulfil obligations. SME's reputation may suffer where vendor failure becomes publicly visible. Considerations on customer communication and operational continuity matters substantially.
 
@@ -47,7 +47,7 @@ Vendor financial monitoring is foundational for critical vendors. Regular review
 
 Supplier diversification reduces dependency. For each critical category, having alternative suppliers identified (even if not actively used) creates operational resilience. Single-source dependencies amplify cascade risk substantially.
 
-Contractual protection includes specific provisions. Termination rights upon vendor insolvency events. Specific milestone-based payment structures (limiting advance payment exposure). Specific intellectual property and data return provisions. operational handover provisions. Considerations on contract drafting matters.
+Contractual protection includes specific provisions. Termination rights upon vendor insolvency events, noting that section 440 of the IRDA stops a party terminating only because the vendor is insolvent or has started judicial management or restructuring proceedings, while those proceedings run (it does not cover a winding up). Specific milestone-based payment structures (limiting advance payment exposure). Specific intellectual property and data return provisions. operational handover provisions. Considerations on contract drafting matters.
 
 Advance payment discipline limits commercial exposure. Where commercial conventions support, limiting advance payments to amounts proportionate to specific deliverables reduces exposure. Where substantial advances are commercially required, specific protection mechanisms (escrow arrangements, advance payment bonds, specific other commercial protections) may apply.
 
@@ -61,7 +61,7 @@ Stage 1 - Immediate operational containment. Identify the operational scope affe
 
 Stage 2 - Commercial position assessment. Identify SME's exposure (creditor position, advance payments, ongoing obligations). Engage commercial counsel for IRDA framework navigation. commercial sensitivity around relationship management with vendor (where reorganisation rather than liquidation may apply).
 
-Stage 3 - Insurance engagement. Trade Credit (see [the letter of credit alternative](/comparison/trade-credit-vs-letters-of-credit)) where SME has receivables from the vendor - but Trade Credit doesn't cover advance payments to vendor. Contingent Business Interruption (see [a worked BI and CBI example](/comparison/bi-vs-cbi-worked-example)) where SME has specific CBI provisions covering supplier disruption - but CBI typically covers only specifically named suppliers and has specific scope limitations. Performance Bonds (see [how surety bonds work](/comparison/surety-vs-performance-bond)) where SME held bond from the vendor.
+Stage 3 - Insurance engagement. Trade Credit (see [the letter of credit alternative](/comparison/trade-credit-vs-letters-of-credit)) where SME has receivables from the vendor - but Trade Credit doesn't cover advance payments to vendor. Contingent Business Interruption (see [a worked BI and CBI example](/comparison/bi-vs-cbi-worked-example)) where the SME's CBI cover extends to that vendor's premises and those premises suffered physical damage by an insured peril; CBI extends business interruption cover to suppliers' premises, usually named ones, and does not respond to a supplier's insolvency as such. Performance Bonds (see [how surety bonds work](/comparison/surety-vs-performance-bond)) where SME held bond from the vendor.
 
 Stage 4 - IRDA proceedings engagement. File proof of debt within applicable timelines. Participate in creditor meetings. Engage with Official Receiver or appointed Insolvency Practitioner. Operational considerations required.
 
@@ -73,7 +73,7 @@ Insurance coverage for vendor insolvency cascade is typically narrower than SMEs
 
 Trade Credit covers receivables - amounts owed by the vendor to the SME for goods supplied or services rendered. Trade Credit responds to vendor insolvency triggering claim. But Trade Credit doesn't cover the SME's advance payments to vendor (those are payments the SME owes / has paid, not amounts owed to the SME).
 
-CBI (Contingent Business Interruption) covers operational disruption from specific named suppliers. Standard CBI typically requires specific naming of covered suppliers, has specific scope limitations, and has specific coverage triggers. CBI doesn't typically cover broad supplier insolvency scenarios; it covers operational disruption from specifically named supplier disruption events.
+CBI (Contingent Business Interruption) extends business interruption cover to disruption caused by physical damage at suppliers' premises, usually suppliers named in the policy. It follows the underlying material damage cover, so a supplier's insolvency, which involves no physical damage, does not trigger it.
 
 Performance Bonds (where SME held bond from vendor) provide specific recovery. The bond face value is the limit, and recovery depends on bond terms and surety solvency.
 
@@ -97,9 +97,9 @@ Retail operations face vendor insolvency risk through specific brand suppliers (
 
 For each industry pattern, operational discipline reflects specific vulnerability profile.
 
-#### Specific recent Singapore experience
+#### Patterns to plan for
 
-Singapore SMEs have experienced vendor insolvency cascade scenarios across recent years. Notable patterns include:
+Patterns a vendor insolvency cascade can follow include:
 
 Specific construction subcontractor insolvencies affecting upstream main contractors and project owners. The specific [BCA](https://www1.bca.gov.sg/) framework and commercial conventions affect cascade dynamics.
 
@@ -109,7 +109,7 @@ Specific technology provider insolvencies - including specific managed service p
 
 Specific professional service provider transitions where the underlying entity has reorganised but commercial relationships have been disrupted.
 
-For each pattern, the operational lessons consistently point toward pre-event operational discipline rather than at-event insurance recovery.
+For each pattern, the main protection this guide recommends is pre-event operational discipline rather than at-event insurance recovery.
 
 #### Operational considerations
 
@@ -130,7 +130,7 @@ Specific advisory engagement for substantive vendor relationships - commercial c
 1. **Single-source dependencies for critical inputs.** Specific cascade vulnerability.
 2. **No vendor financial monitoring.**
 3. **Substantial advance payments without specific protection.**
-4. **No contractual termination rights upon insolvency events.**
+4. **No contractual termination rights that still work in a vendor's insolvency.** Section 440 of the IRDA bars terminating only because the vendor is insolvent or in judicial management or restructuring proceedings, while those proceedings run.
 5. **No contingency planning for critical vendors.**
 6. **Misunderstanding of Trade Credit scope.** Specific gap exposure for advance payments.
 7. **No CBI provisions for material supplier dependencies.**
@@ -142,7 +142,7 @@ Specific advisory engagement for substantive vendor relationships - commercial c
 
 For Singapore SMEs with material vendor dependencies:
 
-The substantial protection against vendor insolvency cascade is pre-event operational discipline rather than at-event insurance recovery. Vendor financial monitoring, supplier diversification, contractual protection, advance payment limitation, and operational considerations form the operational foundation. Insurance coverage engages narrowly - Trade Credit for receivables, CBI for named supplier disruption, Performance Bonds where applicable. The substantial gap between insurance scope and cascade dynamics is the commercial reality SMEs must operate within.
+The substantial protection against vendor insolvency cascade is pre-event operational discipline rather than at-event insurance recovery. Vendor financial monitoring, supplier diversification, contractual protection, advance payment limitation, and operational considerations form the operational foundation. Insurance coverage engages narrowly - Trade Credit for receivables, CBI where a supplier's disruption follows physical damage at its premises, Performance Bonds where applicable. The substantial gap between insurance scope and cascade dynamics is the commercial reality SMEs must operate within.
 
 For substantive vendor relationships, commercial counsel engagement, specific industry expertise, and operational sophistication form the foundation that complements insurance procurement. SMEs that engage thoughtfully with operational discipline benefit from cascade resilience; SMEs that rely on insurance to address vendor insolvency scenarios face material exposure.
 

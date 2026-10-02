@@ -14,14 +14,14 @@ word_count: 1637
 status: "published"
 hero_image: "/assets/blog/decision-tree.jpg"
 canonical_url: "https://covarage.com/guides/decision-tree/opening-import-export-trader-checklist"
-meta_description: "Opening an import or export business needs ACRA registration and Singapore Customs registration as a declaring agent. The full opening list."
+meta_description: "An import or export business needs ACRA registration and a Singapore Customs account, and appoints a declaring agent or registers as one. The full list."
 og_title: "Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist"
-og_description: "Opening an import or export business needs ACRA registration and Singapore Customs registration as a declaring agent. The full opening list."
+og_description: "An import or export business needs ACRA registration and a Singapore Customs account, and appoints a declaring agent or registers as one. The full list."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore import / export trader or wholesaler typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); [Singapore Customs](https://www.customs.gov.sg/) registration as a Declaring Agent, with commodity-specific licensing under the [Customs Act 1960](https://sso.agc.gov.sg/Act/CA1960) and the [Regulation of Imports and Exports Act 1995](https://sso.agc.gov.sg/Act/RIEA1995); [HSA](https://www.hsa.gov.sg/) registration for health-related products; [SFA](https://www.sfa.gov.sg/) registration for food products; and, where applicable, licensing for controlled goods (drugs, alcohol, tobacco, hazardous and strategic goods). Insurance baseline: **Marine Cargo (Open Cover)** for shipments - often the most material policy - **Public Liability** (S$2M-S$5M typical), **Property/Fire** for warehouse and inventory storage, **Stock Throughput** for goods across all stages, **Product Liability** for the goods sold, **Trade Credit** for receivables risk where customers are given credit terms, **WICA** for staff, **Cyber Liability** with significant attention to BEC (trade is heavily targeted), and **Errors and Omissions** for customs-declaration operations. The most distinctive risks: **goods in transit by sea or air**, **trade credit (customer non-payment)**, and **BEC fraud on payment instructions**.
+> A Singapore import / export trader or wholesaler typically requires: business registration with [ACRA](https://www.bizfile.gov.sg/); an activated [Singapore Customs](https://www.customs.gov.sg/) account, and a Declaring Agent to apply for permits (or registration as one to apply for its own), with commodity-specific licensing under the [Customs Act 1960](https://sso.agc.gov.sg/Act/CA1960) and the [Regulation of Imports and Exports Act 1995](https://sso.agc.gov.sg/Act/RIEA1995); [HSA](https://www.hsa.gov.sg/) registration for health-related products; [SFA](https://www.sfa.gov.sg/) registration for food products; and, where applicable, licensing for controlled goods (drugs, alcohol, tobacco, hazardous and strategic goods). Insurance baseline: **Marine Cargo (Open Cover)** for shipments - often the most material policy - **Public Liability**, **Property/Fire** for warehouse and inventory storage, **Stock Throughput** for goods across all stages, **Product Liability** for the goods sold, **Trade Credit** for receivables risk where customers are given credit terms, **WICA** for staff, **Cyber Liability** with significant attention to BEC, and **Errors and Omissions** for customs-declaration operations. The most distinctive risks: **goods in transit by sea or air**, **trade credit (customer non-payment)**, and **BEC fraud on payment instructions**.
 
 ### The Sourced Detail
 
@@ -31,7 +31,7 @@ Singapore's role as a major regional trading hub creates substantial opportunity
 
 **Business registration** - ACRA registration with the business activity codes for trading.
 
-**Singapore Customs** - registration as a [Declaring Agent](https://www.customs.gov.sg/) and use of TradeNet for the import and export permits each shipment requires.
+**Singapore Customs** - activation of a [Customs account](https://www.customs.gov.sg/doing-business/getting-started/customs-registration-overview/); permits are applied for through TradeNet by an appointed Declaring Agent, or by the business itself once registered as one.
 
 **Commodity-specific licensing** sits on top, depending on what is traded:
 - **HSA (Health Sciences Authority)** - health products, therapeutic products, medical devices, and cosmetics.
@@ -52,23 +52,22 @@ Singapore's role as a major regional trading hub creates substantial opportunity
 
 Marine Cargo is typically the most material policy for a trading operation. It responds to damage or loss to goods in transit - by sea, air, and the connecting land transport, including warehouse storage during the transit.
 
-**Structure.** Cover is usually placed as an **annual Open Cover** - covering all shipments within a defined scope, with shipments and values declared as they occur - rather than as single-voyage policies, which suit one-off shipments.
+**Structure.** Cover can be placed as an **annual Open Cover** - covering all shipments within a defined scope, with shipments and values declared as they occur - rather than as single-voyage policies, which suit one-off shipments.
 
 **Conditions.** The cover is written on Institute Cargo Clauses:
 - **ICC (A)** - the broadest, an "all risks" basis.
 - **ICC (B)** - a named-perils basis.
 - **ICC (C)** - the most limited named-perils basis.
 
-ICC (A) is the usual choice for most commodities. **War and strikes** cover is typically negotiated separately.
+A member of the International Chamber of Commerce's Incoterms 2020 drafting group describes ICC (A) as more appropriate for manufactured goods and ICC (C) as more appropriate to bulk goods and commodities. **War and strikes** cover is typically negotiated separately.
 
-**Limits** are set as a per-shipment limit and an annual aggregate, sized to the commodity values shipped.
+**Limits** are set per shipment or conveyance (and, where the wording sets one, as an annual aggregate), sized to the commodity values shipped.
 
 #### The Public Liability layer
 
 PL responds to the office and warehouse operations - premises operations, commodity handling, and external incidents.
 
 **Limit considerations:**
-- Standard limits S$2M-S$5M
 - Higher for larger operations
 - Landlords and commercial customers may set their own minimums
 
@@ -93,9 +92,9 @@ Trade Credit is not a substitute for credit discipline: insurers expect credit a
 
 #### Cyber considerations
 
-Trading operations are heavily targeted for cyber attacks, across three exposures:
+Trading operations face three cyber exposures:
 
-1. **BEC / social-engineering fraud** - the dominant exposure: fraudsters intercept or spoof supplier-payment and customer-payment instructions. As an intermediary handling large payment flows, a trader is a prime target.
+1. **BEC / social-engineering fraud** - fraudsters intercept or spoof supplier-payment and customer-payment instructions, and a trader handling large payment flows is exposed to it.
 2. **Customer and supplier data** - commercial intelligence and personal data, with PDPA exposure.
 3. **Trading-platform / TradeNet dependence** - operational continuity rests on these systems.
 
@@ -143,18 +142,16 @@ Many trading operations are settled through **letters of credit**, which add a l
 
 #### Premium considerations
 
-Illustrative annual ranges for Singapore trading SMEs (actual premiums depend on commodities, shipment values, and credit exposure):
+Premiums for Singapore trading SMEs depend on the commodities, shipment values, credit exposure, limits chosen and claims history, and are set by each insurer.
 
 **Small trader (5-15 staff, single commodity):**
-- Marine Cargo Open Cover: S$5,000-S$25,000
-- PL / Product Liability: S$3,000-S$10,000
-- Cyber with BEC: S$3,000-S$10,000
-- WICA, Property, other lines: S$3,000-S$10,000
-- **Total annual insurance budget:** typically S$15,000-S$50,000
+- Marine Cargo Open Cover
+- PL / Product Liability
+- Cyber with BEC
+- WICA, Property, other lines
 
 **Mid-size trader:**
 - Higher Marine Cargo limits, comprehensive Stock Throughput, and Trade Credit
-- **Total:** typically S$40,000-S$150,000+
 
 **Large established trader:**
 - A comprehensive programme; total scales with the operation
@@ -173,7 +170,7 @@ Insurers underwrite trading operations on:
 1. **Marine Cargo cover gaps.** Goods in transit left exposed.
 2. **Commodity-specific licensing gaps.**
 3. **No Product Liability for traded goods.** The trader carries it even without manufacturing.
-4. **No BEC awareness or Cyber cover.** A high-frequency exposure for traders.
+4. **No BEC awareness or Cyber cover.** Payment-instruction fraud is an exposure for traders.
 5. **No Trade Credit despite material credit exposure.** Customer default left uninsured.
 6. **No Incoterms discipline.** Commercial scope and insurance responsibility left unclear.
 7. **Supplier and customer agreements undocumented.** Weakens the defence to a claim.
@@ -189,7 +186,7 @@ For Singapore trading founders:
 
 2. **Match the insurance to the commodities.** Food, health, technical, and industrial goods carry different exposures.
 
-3. **Hold comprehensive Cyber with BEC cover.** A high-frequency exposure for traders.
+3. **Hold comprehensive Cyber with BEC cover.** Payment-instruction fraud is an exposure for traders.
 
 4. **Take Trade Credit where credit exposure is material.**
 

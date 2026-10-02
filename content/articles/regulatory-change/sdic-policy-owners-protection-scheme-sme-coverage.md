@@ -21,25 +21,27 @@ og_description: "The Policy Owners' Protection Scheme covers policyholders if an
 
 > **The Answer in 60 Seconds**
 >
-> The [Policy Owners' Protection (PPF) Scheme](https://www.sdic.org.sg) is administered by the [Singapore Deposit Insurance Corporation Limited (SDIC)](https://www.sdic.org.sg) under the [Deposit Insurance and Policy Owners' Protection Schemes Act 2011 (DIPOPS Act)](https://sso.agc.gov.sg/Act/DIPOPSA2011). Membership is mandatory for all MAS-registered direct life insurers (other than captives) and direct general insurers (other than captives or specialist insurers); levies are paid by the insurer; coverage is automatic for the policyholder with no individual enrolment required. For Singapore SMEs, the critical structural read is: PPF protects compulsory cover under the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960), compulsory cover under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), and specified personal lines issued to individuals only. Commercial-lines general insurance issued to SME corporates (Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers, Trade Credit, Crime, K&R) is generally not PPF-protected. For PPF-protected general insurance, coverage is 100% with no caps, subject to: statutory limits for compulsory insurance; S$50,000 for own property damage motor claims under personal motor policies; S$300,000 for property damage claims under personal property policies. Activation triggers include winding-up order, MAS determination of insolvency, and MAS exercise of Part IVB MAS Act resolution powers. The closest live Singapore precedent is the 1 February 2023 AXA Singapore to HSBC Life transfer, a solvent scheme of transfer under Insurance Act Part 3AA that did not activate PPF. For commercial-lines protection outside PPF, SMEs rely on carrier financial-strength selection.
+> The [Policy Owners' Protection (PPF) Scheme](https://www.sdic.org.sg) is administered by the [Singapore Deposit Insurance Corporation Limited (SDIC)](https://www.sdic.org.sg) under the [Deposit Insurance and Policy Owners' Protection Schemes Act 2011 (DIPOPS Act)](https://sso.agc.gov.sg/Act/DIPOPSA2011). Membership is mandatory for all MAS-registered direct life insurers (other than captives) and direct general insurers (other than captives or specialist insurers); levies are paid by the insurer; coverage is automatic for the policyholder with no individual enrolment required. For Singapore SMEs, the critical structural read is: PPF protects compulsory cover under the [Motor Vehicles (Third-Party Risks and Compensation) Act 1960](https://sso.agc.gov.sg/Act/MVTPRCA1960), compulsory cover under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), short-term accident and health policies, and specified personal lines issued to individuals only. Commercial-lines general insurance issued to SME corporates (Property, Commercial Public Liability, Marine, Professional Indemnity, Cyber, Directors and Officers, Trade Credit, Crime, K&R) is generally not PPF-protected. For PPF-protected general insurance, coverage is 100% with no caps, subject to: statutory limits for compulsory insurance; S$50,000 for own property damage motor claims under personal motor policies; S$300,000 for property damage claims under personal property policies. Activation triggers include winding-up order, MAS determination of insolvency, and MAS exercise of its resolution powers under Part 8 of the Financial Services and Markets Act 2022 (Part 4B of the MAS Act until 10 May 2024). The closest live Singapore precedent is the 1 February 2023 transfer of HSBC Insurance (Singapore) into AXA Insurance Pte Ltd, renamed HSBC Life (Singapore), a solvent scheme of transfer under Insurance Act Part 3AA that did not activate PPF. For commercial-lines protection outside PPF, SMEs rely on carrier financial-strength selection.
 
 ### The Sourced Detail
 
-The Policy Owners' Protection Scheme exists to provide a statutory compensation backstop for policyholders of failed Singapore-licensed insurers. The Scheme is part of the broader Singapore financial-stability architecture that also includes the Deposit Insurance Scheme for bank deposits, MAS resolution powers under Part IVB of the [MAS Act 1970](https://sso.agc.gov.sg/Act/MASA1970), and the Insurance Act 1966 Part 3AA framework for orderly insurer transfer and winding up.
+The Policy Owners' Protection Scheme exists to provide a statutory compensation backstop for policyholders of failed Singapore-licensed insurers. The Scheme is part of the broader Singapore financial-stability architecture that also includes the Deposit Insurance Scheme for bank deposits, MAS resolution powers under Part 8 of the [Financial Services and Markets Act 2022](https://sso.agc.gov.sg/Act/FSMA2022) (moved from Part 4B of the MAS Act 1970 on 10 May 2024), and the Insurance Act 1966 Part 3AA framework for orderly insurer transfer and winding up.
 
-The PPF Scheme is administered by SDIC, a statutory body. SDIC publishes the complete current PPF Scheme membership list, the scope of coverage, and the activation procedure at [sdic.org.sg](https://www.sdic.org.sg).
+The PPF Scheme is administered by SDIC, a company limited by guarantee designated under the DIPOPS Act as the deposit insurance and policy owners' protection fund agency. SDIC publishes the complete current PPF Scheme membership list, the scope of coverage, and the activation procedure at [sdic.org.sg](https://www.sdic.org.sg).
 
 #### Coverage scope: general insurance
 
 PPF coverage for general insurance, per SDIC published material:
 
-**Compulsory insurance under the Motor Vehicles (Third-Party Risks and Compensation) Act 1960.** This is the mandatory third-party bodily-injury cover that every motor vehicle on a road or in a public place in Singapore must hold. PPF covers the statutory liability with no monetary cap (the cover follows the statutory obligation, which is itself unlimited for compulsory third-party death and bodily-injury liability under the MV Act).
+**Compulsory insurance under the Motor Vehicles (Third-Party Risks and Compensation) Act 1960.** This is the mandatory third-party bodily-injury cover that every motor vehicle used in Singapore must hold, unless the Act exempts it (for example, a Government vehicle). PPF covers the statutory liability with no monetary cap (the cover follows the statutory obligation, which is itself unlimited for compulsory third-party death and bodily-injury liability under the MV Act).
 
 **Compulsory insurance under the Work Injury Compensation Act 2019.** This is the mandatory work injury compensation cover that every employer of manual employees and non-manual employees earning S$2,600 per month or less must hold from an MOM Designated Insurer, unless the employees fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as those of banks, retailers and hotel-keepers. PPF covers the statutory liability (with the 1 November 2025 uplifted limits: death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000; see [how the 2025 limits apply to WICI policies](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
-**Specified personal lines issued to individuals only.** Personal motor (covering both compulsory and own-damage with caps as below), personal accident, personal medical / health, personal property (structure and contents), domestic helper personal accident, and other personal lines as specified by SDIC.
+**Short-term accident and health policies** issued by PPF Scheme members, which SDIC lists alongside the compulsory policies without the individuals-only limit that applies to the personal lines below.
 
-Personal-lines coverage is restricted to risks arising in Singapore or where the policy owner is a Singapore resident or has a permanent establishment in Singapore.
+**Specified personal lines issued to individuals only.** Personal motor (covering both compulsory and own-damage with caps as below), personal travel, personal property (structure and contents), and foreign domestic maid insurance.
+
+Personal-lines coverage is restricted to risks arising in Singapore or where the policy owner is resident in Singapore.
 
 #### Coverage caps for general insurance
 
@@ -51,7 +53,7 @@ PPF coverage for general insurance is 100% with no caps, except:
 
 **S$300,000** for property damage claims under personal property (structure and contents) policies.
 
-For commercial general insurance issued to non-individuals (SME corporates), PPF does not generally apply except for the compulsory portions of motor (MV Act third-party bodily injury) and WICA cover. The implication: an SME holding Property at S$8 million Total Insured Value, Public Liability at S$10 million, Marine Cargo at S$2 million, Cyber at S$5 million, D&O at S$3 million, and Trade Credit at S$1 million has no PPF protection on these covers. Carrier financial-strength selection is the SME's actual safety net.
+For commercial general insurance issued to non-individuals (SME corporates), PPF does not generally apply except for the compulsory portions of motor (MV Act third-party bodily injury) and WICA cover, and short-term accident and health policies such as group personal accident or medical expenses cover. The implication: an SME holding Property at S$8 million Total Insured Value, Public Liability at S$10 million, Marine Cargo at S$2 million, Cyber at S$5 million, D&O at S$3 million, and Trade Credit at S$1 million has no PPF protection on these covers. Carrier financial-strength selection is the SME's actual safety net.
 
 #### Coverage scope: life insurance
 
@@ -71,21 +73,21 @@ The PPF Scheme is activated on:
 
 **Court order to wind up a PPF Scheme member.** The substantive winding-up process is under Part 3AA of the Insurance Act 1966.
 
-**Voluntary winding up of the Scheme member or cancellation of registration.**
+**Voluntary winding up of the Scheme member or, for a Scheme member that is a co-operative society, cancellation of its registration.**
 
 **MAS determination of insolvency, inability or likely inability to meet obligations, or imminent suspension of payments.**
 
-**MAS exercise of Part IVB MAS Act 1970 resolution powers** on the Scheme member.
+**MAS exercise of its resolution powers under Part 8 of the Financial Services and Markets Act 2022** on the Scheme member, whether exercised or likely to be exercised; before 10 May 2024 these powers sat in Part 4B of the MAS Act 1970.
 
-On activation, MAS may choose one of three outcomes:
+On activation, MAS may determine that the PPF Life Fund or PPF General Fund be used for one or more of these outcomes:
 
-**Transfer of business to another insurer** under Insurance Act 1966 Part 3AA. This is the preferred outcome where a willing transferee can absorb the failing insurer's book.
+**Transfer of business to another insurer**, by a scheme under Insurance Act 1966 Part 3AA or by MAS's compulsory transfer powers under Part 8 of the Financial Services and Markets Act 2022. This is the preferred outcome where a willing transferee can absorb the failing insurer's book.
 
 **Run-off by SDIC.** SDIC takes over claim handling for PPF-protected policies; non-PPF policies enter the winding-up creditor pool.
 
 **Termination of policies with compensation.** For general insurance, compensation covers claims incurred up to 30 days after the winding-up order and refunds pro-rated unearned premium where the policy expressly entitles to a refund.
 
-For an SME with PPF-protected cover (WICA, motor third-party), the activation typically delivers continuity through transfer or SDIC run-off. For non-PPF commercial-lines cover, the SME becomes an unsecured creditor in the winding-up, with recovery depending on insurer-asset realisation and the priority order under Part 3AA.
+For an SME with PPF-protected cover (WICA, motor third-party), MAS may have the business transferred or run off by SDIC, or terminate the policies; on termination, SDIC pays claims incurred up to 30 days after the winding-up order, and the SME can then seek replacement cover from another insurer. For non-PPF commercial-lines cover, the SME becomes an unsecured creditor in the winding-up, with recovery depending on insurer-asset realisation and the priority order under Part 3AA.
 
 #### The AXA to HSBC Life precedent
 
@@ -93,7 +95,7 @@ The closest live Singapore precedent for an insurer-resolution-style transaction
 
 The transaction demonstrated the Part 3AA mechanism: court sanction was required; policy terms were preserved by operation of law; the policyholder did not consent individually; the receiving insurer assumed the contractual rights and obligations from the effective date.
 
-Important disambiguation: AXA Insurance Pte Ltd was the local retail and SME general-insurance entity acquired by HSBC and renamed HSBC Life (Singapore). AXA XL is the separate global commercial and specialty lines business and continues to operate in Singapore unaffected by the 2023 transaction. SMEs holding AXA XL commercial-lines policies (typically larger Property, Marine, D&O, PI placements for mid-market and large-account business) were not affected.
+Important disambiguation: AXA Insurance Pte Ltd was the local AXA insurer acquired by HSBC in February 2022 and renamed HSBC Life (Singapore) Pte. Ltd. on 1 February 2023, when the combined business began operating as a composite insurer. AXA XL is the separate global commercial and specialty lines business and continues to operate in Singapore unaffected by the 2023 transaction. SMEs holding AXA XL commercial-lines policies (typically larger Property, Marine, D&O, PI placements for mid-market and large-account business) were not affected.
 
 #### Verbatim regulatory text - primary-source routing
 
@@ -103,7 +105,7 @@ The primary-source URLs:
 
 [Insurance Act 1966 consolidated text on SSO](https://sso.agc.gov.sg/Act/IA1966) (Part 3AA architecture).
 
-[MAS Act 1970 consolidated text on SSO](https://sso.agc.gov.sg/Act/MASA1970) (Part IVB resolution powers).
+[Financial Services and Markets Act 2022 consolidated text on SSO](https://sso.agc.gov.sg/Act/FSMA2022) (Part 8 resolution powers, which replaced Part 4B of the MAS Act 1970 on 10 May 2024).
 
 [SDIC homepage](https://www.sdic.org.sg).
 
@@ -125,7 +127,7 @@ For commercial-lines policies outside PPF protection, the SME's protection rests
 
 **PPF Scheme membership confirmation** at [sdic.org.sg](https://www.sdic.org.sg). All Singapore-licensed direct insurers (other than captives and specialist insurers) are PPF members by mandate.
 
-**Financial strength rating** from at least one major rating agency (S&P, AM Best, Fitch, Moody's). For SME placements, A- (S&P) or A- (AM Best) is the common minimum threshold; higher-tier placements typically require A or above.
+**Financial strength rating** from at least one major rating agency (S&P, AM Best, Fitch, Moody's).
 
 **Risk-Based Capital (RBC2) capital ratio**. Singapore insurers file RBC2 metrics with MAS; some publish aggregate metrics in annual reports. Capital ratios well above the regulatory minimum indicate financial resilience.
 
@@ -137,7 +139,7 @@ For commercial-lines towers above material concentration (e.g., a single carrier
 
 SME D holds the following programme:
 
-WICI 2019 with Insurer Y at the post-November 2025 limits (PPF-protected).
+Work injury compensation insurance under WICA 2019 with Insurer Y at the post-November 2025 limits (PPF-protected).
 
 Motor fleet (12 vehicles) third-party cover with Insurer Y (PPF-protected for the compulsory MV Act portion; non-PPF for own damage above S$50,000 cap on personal motor, but commercial motor own-damage is not subject to that cap and is not PPF-protected).
 
@@ -150,8 +152,8 @@ D&O S$3 million with Insurer Y (not PPF-protected).
 Scenario: Insurer Y is determined by MAS to be in imminent financial distress, and MAS activates the PPF Scheme.
 
 PPF-protected outcomes:
-- WICI claims continue under SDIC administration. Existing claims and any new claims arising on Insurer Y's WICI policies are paid by SDIC.
-- Motor third-party bodily-injury claims under the MV Act continue under SDIC administration.
+- WIC insurance claims are protected in full, up to the WICA limits. If MAS terminates the policies, SDIC pays claims incurred up to 30 days after the winding-up order; if MAS has the business transferred or run off by SDIC, the cover continues.
+- Motor third-party bodily-injury claims under the MV Act are protected on the same basis.
 
 Non-PPF outcomes:
 - Motor own-damage claims for commercial motor: SME D becomes an unsecured creditor in the Insurer Y winding-up. Recovery depends on insurer-asset realisation.
@@ -159,11 +161,11 @@ Non-PPF outcomes:
 - PL claims: SME D becomes an unsecured creditor.
 - D&O claims: SME D becomes an unsecured creditor.
 
-MAS preferred outcome: identify a willing transferee insurer to absorb Insurer Y's book under Insurance Act Part 3AA. If a transfer is completed, all policies (PPF and non-PPF) continue under the transferee insurer with terms preserved by operation of law. This is the AXA-to-HSBC precedent - applied to a failure context rather than a solvent commercial transaction.
+MAS preferred outcome: a transfer of Insurer Y's business to another insurer, by a scheme under Insurance Act Part 3AA or by MAS's compulsory transfer powers under Part 8 of the Financial Services and Markets Act 2022. A transfer can cover the whole or part of the business, and the insurer taking over must give PPF-protected policy owners cover no less than the PPF Scheme provides; what happens to other policies depends on the terms of the transfer.
 
 #### Premium and policyholder cost
 
-PPF levies are paid by insurers and embedded in pricing. SMEs do not pay PPF directly. The PPF General Fund is a pooled cross-industry reserve; levies are calibrated to maintain Fund adequacy against worst-case insurer-failure scenarios.
+PPF levies are paid by insurers and embedded in pricing. SMEs do not pay PPF directly. The PPF General Fund is established from levies on PPF Scheme members; the levies are risk-based, charged as a percentage of each member's gross premium income on covered policies (or of its protected liabilities, for a member in run-off).
 
 PPF Scheme members include the major Singapore-licensed direct insurers underwriting SME business. SMEs should confirm at placement that the insurer is a current PPF Scheme member; this is standard for direct-licensed Singapore insurers, with captives and specialist insurers as the typical exceptions.
 
@@ -171,9 +173,9 @@ PPF Scheme members include the major Singapore-licensed direct insurers underwri
 
 1. **Assuming all SME insurance is PPF-protected.** The PPF safety net is robust for compulsory motor third-party and WICA cover, but commercial-lines general insurance is largely outside the Scheme. SMEs should not assume that "PPF protects my insurance" - most commercial covers are not protected.
 
-2. **Confusing PPF membership with PPF coverage of a specific policy.** All direct-licensed Singapore general insurers are PPF members, but the policy issued may not be PPF-covered. The cover-scope analysis is per-policy, not per-insurer.
+2. **Confusing PPF membership with PPF coverage of a specific policy.** Insurers licensed by MAS to carry on direct general business are PPF members unless they are captive or specialist insurers or MAS exempts them, but the policy issued may not be PPF-covered. The cover-scope analysis is per-policy, not per-insurer.
 
-3. **Treating Lloyd's syndicates, foreign branches, and captives as PPF-protected.** These structures may have different positions under the PPF Scheme. SMEs procuring from non-standard carriers should specifically confirm PPF status at placement.
+3. **Treating Lloyd's syndicates and captives as PPF-protected.** Captive insurers are not PPF Scheme members. A foreign insurer licensed by MAS to carry on direct business, other than a captive or specialist insurer, must be a member unless MAS exempts it, so a foreign branch is not outside the Scheme by default. SMEs procuring from non-standard carriers should specifically confirm PPF status at placement.
 
 4. **Cancelling cover on rumour of insurer difficulty.** Cancellation before formal MAS intervention forfeits the policyholder's PPF position (where applicable) and creates an immediate gap in cover. The correct response is to monitor MAS-published information and not to cancel based on rumour.
 
@@ -191,7 +193,7 @@ PPF Scheme members include the major Singapore-licensed direct insurers underwri
 
 ### What This Means for Your Business
 
-For a Singapore SME, the structural read on PPF is: confirm the carrier is a PPF Scheme member for all placements; understand that PPF protection extends primarily to compulsory cover and to personal lines; for commercial-lines policies (Property, Commercial PL, Marine, PI, Cyber, D&O, Trade Credit, Crime), there is no PPF protection - carrier financial-strength is the safety net.
+For a Singapore SME, the structural read on PPF is: confirm the carrier is a PPF Scheme member for all placements; understand that, besides life policies, PPF protection extends to compulsory cover, short-term accident and health policies and specified personal lines; for commercial-lines policies (Property, Commercial PL, Marine, PI, Cyber, D&O, Trade Credit, Crime), there is no PPF protection - carrier financial-strength is the safety net.
 
 For SMEs with concentrated single-carrier exposure on commercial lines, consider carrier diversification at renewal. Splitting a high-concentration programme across two or more carriers materially reduces single-point-of-failure risk.
 

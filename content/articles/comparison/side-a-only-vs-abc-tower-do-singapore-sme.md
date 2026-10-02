@@ -21,7 +21,7 @@ og_description: "Side A alone protects the director. An ABC tower also protects 
 
 > **The Answer in 60 Seconds**
 >
-> Directors & Officers (D&O) liability cover is structured around three coverage "Sides": **Side A** - pays the director personally when the company cannot indemnify (insolvency, statutory prohibition on indemnity, derivative-suit settlements); **Side B** - reimburses the company when it has indemnified its directors; **Side C** - covers the entity itself for securities-type or specified entity claims. The standard SME programme is an "ABC Tower" - a single policy covering all three Sides with shared aggregate, suitable for most private and mid-market companies. A "Side A Only" or "Side A DIC (Difference in Conditions)" placement is a dedicated layer responding only when the underlying ABC programme cannot respond - typically used for SGX-listed entities, regulated entities, and SMEs with elevated director-personal-liability exposure that justifies dedicated, ringfenced capacity. Singapore's [Companies Act 1967 section 172](https://sso.agc.gov.sg/Act/CoA1967) restricts a company's ability to indemnify directors against certain liabilities, and the [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) wrongful-trading provisions can produce uninsurable indemnity contexts. Side A coverage exists precisely for these gap moments. For Singapore SMEs, the default is an ABC programme calibrated to the company's scale; Side A DIC becomes meaningful for listed entities, regulated entities, and private companies with concentrated director exposure where the directors want personal-asset protection beyond the company's balance-sheet capacity to indemnify.
+> Directors & Officers (D&O) liability cover is structured around three coverage "Sides": **Side A** - pays the director personally when the company cannot indemnify (insolvency, statutory prohibition on indemnity, derivative-suit settlements); **Side B** - reimburses the company when it has indemnified its directors; **Side C** - covers the entity itself for securities-type or specified entity claims. The standard SME programme is an "ABC Tower" - a single policy covering all three Sides with shared aggregate, suitable for most private and mid-market companies. A "Side A Only" or "Side A DIC (Difference in Conditions)" placement is a dedicated layer responding only when the underlying ABC programme cannot respond - relevant to SGX-listed entities, regulated entities, and SMEs with elevated director-personal-liability exposure that justifies dedicated, ringfenced capacity. Singapore's [Companies Act 1967 section 172](https://sso.agc.gov.sg/Act/CoA1967) restricts a company's ability to indemnify directors against certain liabilities, and the [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) wrongful-trading provisions (section 239) can make directors personally responsible for the company's debts in a judicial management or winding up, when the company is unlikely to be able to indemnify them. Side A coverage exists precisely for these gap moments. For Singapore SMEs, the default is an ABC programme calibrated to the company's scale; Side A DIC becomes meaningful for listed entities, regulated entities, and private companies with concentrated director exposure where the directors want personal-asset protection beyond the company's balance-sheet capacity to indemnify.
 
 ## The Three D&O Coverage Sides
 
@@ -32,8 +32,8 @@ The structural architecture of D&O insurance rests on three Sides, each respondi
 Side A pays the director or officer personally when the company has not indemnified them. The trigger scenarios:
 
 - **The company is insolvent** and cannot pay an indemnity claim. The director's only recourse is the insurance.
-- **The company is legally prohibited from indemnifying** under section 172 of the Companies Act or analogous statutory provisions. Singapore's Companies Act restricts indemnification of directors for liability arising from negligence, default, breach of duty, or breach of trust where the conduct was not honest or for the benefit of the company.
-- **The claim is a derivative action** brought by shareholders on behalf of the company against the director. The company cannot indemnify in respect of a claim brought against the director by or in the right of the company.
+- **The company is legally prohibited from indemnifying** under section 172 of the Companies Act or analogous statutory provisions. Under section 172(2) of the Companies Act, any provision by which a company indemnifies an officer against liability in connection with negligence, default, breach of duty or breach of trust in relation to the company is void, except as section 172A (insurance) or section 172B (indemnity against liability to third parties, with exceptions) permits.
+- **The claim is a derivative action** brought by shareholders on behalf of the company against the director. The company cannot indemnify the director against liability to the company itself for negligence, default, breach of duty or breach of trust (section 172(2)), nor against the costs of defending civil proceedings brought by the company or a related company in which judgment is given against the director (section 172B(1)(b)(ii)).
 - **The company refuses to indemnify** - for example, in a hostile-takeover or change-of-control context where new owners are unwilling to indemnify legacy directors.
 
 Side A pays the director directly. No retention typically applies (the retention sits at the company-indemnification level for Sides B and C; Side A is "first dollar" for the director).
@@ -42,11 +42,11 @@ Side A pays the director directly. No retention typically applies (the retention
 
 Side B reimburses the company for amounts the company has indemnified the director under the company's articles of association, indemnification agreement, or applicable statute. The trigger is the company's payment to the director.
 
-A retention applies - typically the same retention that would have applied if the director had paid the loss directly. Side B is the most commonly used Side in practice because most SME director claims involve company indemnification.
+A retention applies - typically the same retention that would have applied if the director had paid the loss directly.
 
 ### Side C - Entity Coverage
 
-Side C covers the entity itself for specified types of claims - typically securities claims (for listed entities) and certain regulatory or governance-related entity claims (for private entities). The scope of Side C varies materially across wordings.
+Side C covers the entity itself for specified types of claims - commonly securities claims against the company. The scope of Side C varies materially across wordings.
 
 For private SMEs, Side C is often limited or excluded. For SGX-listed entities, Side C is essential because securities claims under the [Securities and Futures Act 2001](https://sso.agc.gov.sg/Act/SFA2001) are brought against the entity, not (or not only) against directors.
 
@@ -96,7 +96,7 @@ Side A DIC exists because of several gap scenarios in the standard ABC programme
 
 ### Who Buys Side A DIC
 
-The Side A DIC market is mature in the US, where listed-entity D&O is heavily oriented around Side A DIC. In Singapore, Side A DIC is less common but increasingly relevant for:
+The Side A DIC market is mature in the US, where listed-entity D&O is heavily oriented around Side A DIC. In Singapore, profiles where Side A DIC can be relevant include:
 
 - **SGX-listed entities** (Mainboard and Catalist).
 - **MAS-regulated entities** where director personal liability under MAS Notices is material.
@@ -127,7 +127,7 @@ SMEs in M&A processes, succession scenarios, or with potential exit events face 
 
 ### Variable 5: Cost-Benefit
 
-Side A DIC is meaningful additional premium - typically 30-60% of the cost of an equivalent ABC layer at the same limit. The cost-benefit must be tested against the actual exposure scenarios.
+Side A DIC is an additional premium on top of the ABC programme. The cost-benefit must be tested against the actual exposure scenarios.
 
 ## The Singapore Statutory Architecture
 
@@ -135,17 +135,17 @@ The Side A coverage is grounded in Singapore's statutory framework on director i
 
 ### Companies Act Section 172
 
-[Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967?ProvIds=pr172-) restricts a company's ability to indemnify directors. The general rule is that a company cannot indemnify a director against liability arising from negligence, default, breach of duty, or breach of trust where the conduct was not honest or for the benefit of the company.
+[Section 172 of the Companies Act 1967](https://sso.agc.gov.sg/Act/CoA1967?ProvIds=pr172-) restricts a company's ability to indemnify directors. Under section 172(2), any provision by which a company indemnifies an officer against liability in connection with negligence, default, breach of duty or breach of trust in relation to the company is void, except as permitted by section 172A, which lets the company buy insurance for the officer against that liability, or section 172B, which allows an indemnity against liability to third parties other than fines, regulatory penalties, and the costs of defending criminal proceedings ending in conviction, civil proceedings by the company or a related company ending in judgment against the officer, or an application for court relief that is refused.
 
 The practical implication: where a director is found liable in circumstances that engage section 172's restriction, the company cannot pay the indemnity. Side A is the response.
 
 ### Section 162 - Director Loans
 
-Section 162 restricts loans by a company to its directors. The provision is relevant to indemnity contexts where the practical effect of an advance of defence costs to a director may be characterised as a loan. Side A is the alternative source of defence cost funding.
+Section 162 restricts loans, quasi-loans and credit transactions by a company for its directors, but the restriction does not apply to an exempt private company (section 162(2)). A company may still lend a director money to defend proceedings over alleged negligence, default, breach of duty or breach of trust in relation to the company, or for an application for relief, on terms that the loan is repaid within 14 days after any conviction, judgment against the director or refusal of relief becomes final (section 163A). Side A is the alternative source of defence cost funding.
 
 ### IRDA Wrongful Trading
 
-The [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) section 239 wrongful-trading provisions can produce uninsurable indemnity contexts. Where directors are personally liable for the increase in deficiency caused by their conduct, indemnification by the company (which is by then in liquidation) is structurally impossible. Side A responds where the cover wording does not exclude the conduct.
+The [Insolvency, Restructuring and Dissolution Act 2018](https://sso.agc.gov.sg/Act/IRDA2018) section 239 lets the Court, in a judicial management or winding up or in proceedings against the company, declare a director who knew or ought to have known of the wrongful trading personally responsible, without any limitation of liability, for all or any of the company's debts or other liabilities as the Court directs. By then the company is unlikely to be able to indemnify the director. Side A responds where the cover wording does not exclude the conduct.
 
 ### Section 391 - Power of Court to Grant Relief
 
@@ -163,7 +163,7 @@ A class-action securities claim is brought against the company and the directors
 
 The remaining S$2,000,000 of the ABC programme is then consumed by an adjacent regulator investigation (MAS, in this scenario) where the entity is the primary target.
 
-Simultaneously, a derivative action is brought against the directors personally for breach of fiduciary duty. The company cannot indemnify (the claim is by or in the right of the company); the ABC programme aggregate is exhausted.
+Simultaneously, a derivative action is brought against the directors personally for breach of fiduciary duty. The company cannot indemnify the directors against liability to the company itself (section 172(2)), nor against their defence costs if judgment is given against them (section 172B(1)(b)(ii)); the ABC programme aggregate is exhausted.
 
 The Side A DIC layer responds - S$5,000,000 dedicated capacity for the directors' defence costs and any settlement / judgment in the derivative action. Without the Side A DIC, the directors are personally exposed.
 
@@ -189,7 +189,7 @@ The Side A DIC must advance defence costs to directors pending the outcome of th
 
 ### Reinstatement of Underlying
 
-Some DIC wordings require the underlying ABC programme to be in force throughout. Lapses or non-renewal of the underlying can void the DIC.
+Some DIC wordings require the underlying ABC programme to be in force throughout. What a lapse or non-renewal of the underlying does to the DIC depends on the DIC's wording.
 
 ### Allocation Mechanics
 
@@ -197,18 +197,18 @@ Where a claim has both insured (director) and uninsured (entity, after Side C ag
 
 ## Limit Structures in Practice
 
-Common Singapore SME D&O limit structures:
+Example Singapore SME D&O limit structures:
 
-| Profile | Recommended Structure | Indicative Annual Premium |
-|---|---|---|
-| Small private SME, S$3m revenue | S$2,000,000 ABC | S$2,500 - S$4,000 |
-| Mid-private SME, S$15m revenue | S$5,000,000 ABC | S$8,000 - S$15,000 |
-| Large private SME, S$50m revenue | S$10,000,000 ABC + optional S$2,000,000 Side A DIC | S$25,000 - S$45,000 + S$5,000-S$10,000 for DIC |
-| SGX-Catalist SME | S$15,000,000 ABC Tower (multi-layer) + S$5,000,000 Side A DIC | S$60,000 - S$120,000+ |
-| Pre-IPO SME | S$5,000,000-S$10,000,000 ABC + Side A DIC for IPO process | Variable |
-| MAS-regulated SME | S$10,000,000+ ABC with broad Side A + optional Side A DIC | S$30,000 - S$75,000+ |
+| Profile | Example Structure |
+|---|---|
+| Small private SME, S$3m revenue | S$2,000,000 ABC |
+| Mid-private SME, S$15m revenue | S$5,000,000 ABC |
+| Large private SME, S$50m revenue | S$10,000,000 ABC + optional S$2,000,000 Side A DIC |
+| SGX-Catalist SME | S$15,000,000 ABC Tower (multi-layer) + S$5,000,000 Side A DIC |
+| Pre-IPO SME | S$5,000,000-S$10,000,000 ABC + Side A DIC for IPO process |
+| MAS-regulated SME | S$10,000,000+ ABC with broad Side A + optional Side A DIC |
 
-Pricing is indicative only and varies materially with sector, claim history, governance posture, financial standing, and market conditions.
+Premiums vary materially with sector, claim history, governance posture, financial standing, and market conditions.
 
 ## Common Mistakes Singapore SMEs Make on Side A Structure
 
@@ -218,7 +218,7 @@ Pricing is indicative only and varies materially with sector, claim history, gov
 
 **Not coordinating ERP on the underlying and the DIC.** Both layers' Extended Reporting Periods must be coordinated on exit / change-of-control events. A directional gap creates uninsured exposure for directors.
 
-**Allowing the underlying to lapse while the DIC is in force.** Most DIC wordings require the underlying ABC programme to be in force throughout. A lapse can void the DIC.
+**Allowing the underlying to lapse while the DIC is in force.** What a lapse of the underlying ABC programme does to the DIC depends on the DIC's wording.
 
 **Forgetting section 172 in the indemnification framework.** Indemnity arrangements with directors that purport to override section 172 are unenforceable; the Side A pathway is the structural response.
 

@@ -39,41 +39,41 @@ Per [MOM](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance):
 Per [MOM](https://www.mom.gov.sg/passes-and-permits/s-pass/medical-insurance):
 
 - **Age-differentiated premiums.** Insurers must offer differentiated premiums for workers ≤50 years and those >50 years, reflecting different risk profiles.
-- **Direct hospital reimbursement.** Insurers must reimburse hospitals directly upon claim admissibility, removing the previous practice of employers paying upfront then claiming reimbursement.
-- **Standardised exclusion clauses.** A standardised list of acceptable exclusions (e.g., medically unnecessary procedures, cosmetic surgery, pre-existing conditions manifesting in the first year of employment) brings consistency across providers.
+- **Direct hospital reimbursement.** The policy must give the hospital or other medical provider the option to claim directly from the insurer, and the insurer must then pay the provider directly.
+- **Standardised exclusion clauses.** A standardised list of acceptable exclusions (e.g., medically unnecessary procedures, cosmetic surgery, treatment in the first 12 months of employment for a pre-existing condition known to the employer or worker before the cover began) brings consistency across providers.
 
 ### What "compliant insurance" actually means
 
-To pass MOM's pre-issuance checks via Work Pass Online, the policy must:
+To meet MOM's requirements, the policy must:
 
-1. Be issued by an insurer licensed in Singapore.
+1. Be valid in Singapore and paid for by the employer (MOM accepts a policy bought overseas that meets these conditions and the minimum coverage).
 2. Provide minimum S$60,000 annual coverage per worker.
 3. Cover both inpatient and day surgery for work-related and non-work-related conditions in Singapore.
 4. Comply with the cost-sharing, co-payment, and (from 1 July 2025) age-band, direct-reimbursement, and standardised-exclusion rules.
 
-The employer must enter the insurer name, policy number, and validity dates into Work Pass Online when applying for or renewing the S Pass. No insurance details = no pass issuance.
+The employer provides the candidate's medical insurance details in EP eService when getting the S Pass issued. No insurance details = no pass issuance.
 
 ### S Pass under COMPASS
 
 Note that COMPASS (the points-based EP framework) does **not** apply to S Pass - COMPASS is Employment Pass only. S Pass eligibility is governed by qualifying salary, levy quota, and dependency ratio ceiling. But MOM continues to publish guidance on S Pass quality benchmarks; expect periodic increases in qualifying salary.
 
-### What S Pass medical insurance does NOT cover
+### What S Pass medical insurance need not cover
 
-- Outpatient GP/specialist consultations (unless your group plan adds these).
-- Dental (unless added).
+- Outpatient GP/specialist consultations (unless your group plan adds these), except outpatient care arising from an insured hospital stay or day surgery and received within 7 calendar days starting on the discharge date, and outpatient rehabilitation prescribed during that stay or surgery, which the cover must include.
+- Dental treatment that is not needed because of an accident (unless added).
 - Treatment overseas (Singapore-territory cover).
-- Pre-existing conditions during the first 12 months of employment (per the standardised exclusions from 1 July 2025).
+- Treatment in the first 12 months of employment with the same employer for a pre-existing condition known to the employer or worker before the cover began (per the standardised exclusions from 1 July 2025).
 - Medically unnecessary procedures.
 
-If you want broader coverage - outpatient, dental, optical - you buy on top, voluntarily.
+Broader cover (outpatient care beyond what the policy must include, dental, optical) can be bought on top, voluntarily. Separately, an employer whose S Pass holder lives in a licensed or unregulated dormitory, or works in the construction, marine shipyard or process sector, must buy a Primary Care Plan and enrol that worker in it.
 
 ## What This Means for Your Business
 
 S Pass insurance is a regulatory hard-stop, not a business decision. If you don't have it, you don't get the pass.
 
-The financial reality of the 25% employer co-pay above S$15,000: a worker hospitalised for a S$50,000 surgery means the insurer pays S$15,000 (under the threshold) plus 75% × S$35,000 = S$26,250, totalling S$41,250. The employer pays 25% × S$35,000 = S$8,750. Most employers absorb this; some structure the legal co-pay-to-worker arrangement within the rules.
+The financial reality of the 25% employer co-pay above S$15,000: a worker hospitalised for a S$50,000 surgery means the insurer pays S$15,000 (under the threshold) plus 75% × S$35,000 = S$26,250, totalling S$41,250. The employer pays 25% × S$35,000 = S$8,750. An employer can absorb this, or pass part of it to the worker under a co-pay arrangement within the rules.
 
-The 1 July 2025 enhancements removed two operational pain points: cash flow (direct reimbursement) and inconsistency between insurers (standardised exclusions). They also introduced age-band pricing, which may meaningfully change premiums for employers of older S Pass holders.
+The 1 July 2025 enhancements require policies to give hospitals and other medical providers the option to claim directly from the insurer, and limit exclusions to a standard list. They also introduced age-band pricing, which may meaningfully change premiums for employers of older S Pass holders.
 
 A common compliance error worth flagging: failing to renew the medical insurance ahead of the S Pass renewal cycle. If your insurance lapses, MOM may reject the pass renewal outright. Calendar your insurance renewal at least 60 days before your S Pass renewal.
 

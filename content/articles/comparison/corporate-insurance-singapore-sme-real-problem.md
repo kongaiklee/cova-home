@@ -14,14 +14,14 @@ word_count: 1951
 status: "published"
 hero_image: "/assets/blog/comparison.jpg"
 canonical_url: "https://covarage.com/guides/comparison/corporate-insurance-singapore-sme-real-problem"
-meta_description: "Singapore's SME insurance gap is not indifference. QBE's 2025 survey points at administrative load and information asymmetry instead."
+meta_description: "Singapore's SME insurance gap is not indifference. In QBE's 2025 survey almost three quarters of SMEs were concerned about key risks; around 20% held cover."
 og_title: "The Real Problem with Corporate Insurance for Singapore SMEs (And What Covarage Does About It)"
-og_description: "Singapore's SME insurance gap is not indifference. QBE's 2025 survey points at administrative load and information asymmetry instead."
+og_description: "Singapore's SME insurance gap is not indifference. In QBE's 2025 survey almost three quarters of SMEs were concerned about key risks; around 20% held cover."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> Singapore's SME insurance gap is not a story of indifference. It is a story of **administrative load and information asymmetry**. The [QBE 2025 Singapore SME survey](https://www.qbe.com/sg/newsroom/press-releases/qbe-singapore-sme-survey-results-work-safety-and-talent-retention) reports that 74% of SMEs are concerned about business interruption but only 23% are covered; 72% are concerned about inventory loss but only 29% are covered; 72% are concerned about fraud but only 17% are covered. The same survey's [business outlook companion release](https://www.qbe.com/sg/newsroom/press-releases/qbe-singapore-sme-survey-results-business-outlook-2025) reports that **price** is the number-one factor in commercial insurance decisions for the majority of Singapore SMEs. The [Department of Statistics enterprise data](https://www.singstat.gov.sg/find-data/explore-data-themes/industry/enterprises-and-corporate-sector/latest-news-data) places the SME segment at the centre of Singapore's enterprise landscape; the [GIA general insurance results](https://gia.org.sg/agents/media-center/) and [LIA life insurance performance](https://www.lia.org.sg/news-room/industry-performance/2025/singapore-s-life-insurance-sector-achieves-113-growth-for-2025-with-s6-53-billion) place the insurance market at scale; the gap between SME exposure and SME cover sits in the middle. Covarage exists to close that gap on four operational axes - documents in one place, Renewal dates in one place, an introduction to a licensed intermediary, and concierge support - none of which is an insurance product. This article sets out the problem in data, the four-axis fix, and where Covarage sits in the regulated landscape.
+> Singapore's SME insurance gap is not a story of indifference. It is a story of **administrative load and information asymmetry**. The [QBE 2025 Singapore SME survey](https://www.qbe.com/sg/newsroom/press-releases/qbe-singapore-sme-survey-results-work-safety-and-talent-retention) reports that 74% of SMEs are concerned about business interruption but only 23% are covered; 72% are concerned about inventory loss but only 29% are covered; 72% are concerned about fraud but only 17% are covered. The same [release](https://www.qbe.com/sg/newsroom/press-releases/qbe-singapore-sme-survey-results-work-safety-and-talent-retention) reports that 70% of the SMEs surveyed said **price** is the number-one consideration when purchasing insurance. The [Department of Statistics enterprise data](https://www.singstat.gov.sg/find-data/explore-data-themes/industry/enterprises-and-corporate-sector/latest-news-data) places the SME segment at the centre of Singapore's enterprise landscape; the [GIA general insurance results](https://gia.org.sg/agents/media-center/) and [LIA life insurance performance](https://www.lia.org.sg/news-room/industry-performance/2025/singapore-s-life-insurance-sector-achieves-113-growth-for-2025-with-s-653-billion-total-weighted-new-business-premiums/) place the insurance market at scale; the gap between SME exposure and SME cover sits in the middle. Covarage exists to close that gap on four operational axes - documents in one place, Renewal dates in one place, an introduction to a licensed intermediary, and concierge support - none of which is an insurance product. This article sets out the problem in data, the four-axis fix, and where Covarage sits in the regulated landscape.
 
 ### The Sourced Detail
 
@@ -37,7 +37,7 @@ The [QBE Singapore SME survey on work safety and talent retention](https://www.q
 - **Inventory loss**: 72% concerned; 29% covered.
 - **Fraud**: 72% concerned; 17% covered.
 
-The same survey's [business outlook companion release](https://www.qbe.com/sg/newsroom/press-releases/qbe-singapore-sme-survey-results-business-outlook-2025) records that around 70% of SMEs cite price as the primary consideration in commercial insurance decisions - a finding consistent with the cash-flow pressure SMEs operate under, but one that produces the gap above when price-first decisions leave material exposures uncovered.
+The same release records that 70% of the SMEs surveyed said price is the number-one consideration when purchasing insurance - a finding consistent with the cash-flow pressure SMEs operate under, but one that produces the gap above when price-first decisions leave material exposures uncovered.
 
 The cyber dimension is similarly material. The [Cyber Security Agency of Singapore](https://www.csa.gov.sg/) publishes the annual *Singapore Cyber Landscape* report, which documents the scale of ransomware and other cyber threats faced by Singapore organisations across the SME segment. The cover gap is acute because standard property and liability wordings typically exclude cyber events, making a separate cyber liability policy the principal route to cover for a Singapore SME's data-handling and operational exposures.
 
@@ -73,15 +73,15 @@ Singapore-registered businesses across the standard size and sector spectrum.
 
 - **Entity type:** private limited companies (Pte Ltd), sole proprietorships, limited liability partnerships (LLPs), partnerships, and other ACRA-registered entities.
 - **Sectors:** corporate services, agencies and marketing, e-commerce, home-based businesses, professional services, food and beverage, retail, construction (including sub-contractors), technology and SaaS, healthcare-adjacent services, education and training, light manufacturing.
-- **Size:** typically from 1 employee through to mid-sized firms in the 100-200 employee range. Below 1 employee the insurance need is typically narrower and may be served by a tied agent; above 200 employees the SME typically transitions to a brokered relationship for scale.
+- **Size:** typically from 1 employee through to mid-sized firms in the 100-200 employee range.
 
 #### Who Covarage is not for
 
 Equally important to set out.
 
-- **Not a law firm.** Covarage does not litigate claim disputes on the SME's behalf. Where a claim is contested in court or before an adjudicator, the SME engages solicitors; the formal escalation route for adviser disputes is [FIDReC](https://www.fidrec.com.sg/), with small-business jurisdiction extended from 1 July 2025 (awards up to S$150,000 per claim, fee S$250 plus GST per small-business case).
+- **Not a law firm.** Covarage does not litigate claim disputes on the SME's behalf. Where a claim is contested in court or before an adjudicator, the SME engages solicitors; the formal escalation route for adviser disputes is [FIDReC](https://www.fidrec.com.sg/), with small-business jurisdiction extended from 1 July 2025 (adjudication of claims up to S$150,000; filing is free, and a small business pays a S$250 plus GST case fee if its dispute goes to adjudication).
 - **Not a single insurer.** Covarage does not have a preferred insurer that it routes to. The licensed adviser paired with the SME approaches the market on the SME's behalf, within the licensed adviser's panel.
-- **Not a price aggregator.** The licensed adviser's role under [MAS conduct rules](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) is to identify cover that has a reasonable basis for the SME's circumstances; the role is not to identify the cheapest premium.
+- **Not a price aggregator.** When an adviser recommends a life policy or other investment product, [MAS conduct rules](https://www.mas.gov.sg/regulation/notices/notice-faa-n16) require a reasonable basis for the recommendation; general insurance is not an investment product, so those rules do not reach it. In neither case is the role to identify the cheapest premium.
 - **Not a substitute for regulated advice.** Covarage introduces; the licensed intermediary is the regulated adviser. The two roles are distinct.
 
 #### How the cluster connects
@@ -120,7 +120,7 @@ The platform exists to take the operational layer off the SME's plate. The SME's
 
 8. **Treating the four axes as alternatives rather than complements.** The axes are independent; an SME may have documents in order but no renewal calendar, or vice versa.
 
-9. **Engaging an introducer without verifying its FAA-N02 status.** The framework is specific; the introducer should be visible within it.
+9. **Engaging an introducer without verifying its FAA-N02 status.** Under FAA-N02 the financial adviser keeps a register of the introducers it appoints, and must require each one to tell clients that it cannot give advice on investment products and whether it is paid for introducing.
 
 10. **Assuming SDIC backstops the SME's choice of insurer.** The [SDIC scheme](https://www.sdic.org.sg/) provides specific protections; it is not a substitute for insurer selection.
 
