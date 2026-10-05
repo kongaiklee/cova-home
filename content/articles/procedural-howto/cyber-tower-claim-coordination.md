@@ -243,7 +243,7 @@ Settlement decisions typically require consent:
 
 #### Stage 10 - Recovery / subrogation
 
-For specific recovery scenarios (per [the Castellain v Preston subrogation rule](/document-legal/castellian-preston-subrogation)):
+For specific recovery scenarios (per [the Castellain v Preston subrogation rule](/document-legal/castellain-preston-subrogation)):
 
 **Subrogation against threat actors.**
 

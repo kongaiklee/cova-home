@@ -723,7 +723,7 @@
   </url>
   <url>
     <loc>https://www.covarage.com/document-legal/castellian-preston-subrogation</loc>
-    <lastmod>2026-08-26</lastmod>
+    <lastmod>2026-10-05</lastmod>
   </url>
   <url>
     <loc>https://www.covarage.com/document-legal/insurance-act-disclosure-duty</loc>
@@ -828,5 +828,15 @@
   <url>
     <loc>https://covarage.com/guides/procedural-howto/wica-claim-step-by-step-overview</loc>
     <lastmod>2026-09-29</lastmod>
+  </url>
+  <!-- rename 1 (CMO route v1.97; Kong 2026-10-05 2. ok): the case is Castellain: moved to /guides/document-legal/castellain-preston-subrogation on 2026-10-05; listed so Google refetches it and sees the 308 -->
+  <url>
+    <loc>https://covarage.com/guides/document-legal/castellian-preston-subrogation</loc>
+    <lastmod>2026-10-05</lastmod>
+  </url>
+  <!-- rename 2 (CMO route v1.97; Kong 2026-10-05 2. ok): the duty is s36 since 31 Dec 2021: moved to /guides/document-legal/faa-section-36-suitability-assessment on 2026-10-05; listed so Google refetches it and sees the 308 -->
+  <url>
+    <loc>https://covarage.com/guides/document-legal/faa-section-27-suitability-assessment</loc>
+    <lastmod>2026-10-05</lastmod>
   </url>
 </urlset>

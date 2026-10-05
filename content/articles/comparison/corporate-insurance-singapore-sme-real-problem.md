@@ -98,7 +98,7 @@ This pillar article links to the operational layer covered across the rest of th
 
 #### Getting started
 
-The first step for an SME considering Covarage is operational, not commercial: build the [seven-folder document structure](/procedural-howto/corporate-insurance-folder-structure-singapore-sme), conduct the [60-minute audit](/procedural-howto/business-insurance-audit-60-minutes-singapore), and identify the gaps against the QBE-style benchmarks. The output of those two steps is the brief that goes to a licensed adviser - through Covarage's introducer relationship or directly - to address the gaps.
+The first step for an SME considering Covarage is operational, not commercial: build the [seven-folder document structure](/procedural-howto/corporate-insurance-folder-structure-singapore-sme), conduct the [60-minute audit](/procedural-howto/business-insurance-audit-60-minutes-singapore), and identify the gaps against the QBE-style benchmarks. The output of those two steps is the brief that goes to a licensed adviser, through Covarage's partner brokerage or any adviser the SME chooses, to address the gaps.
 
 The platform exists to take the operational layer off the SME's plate. The SME's job remains the same: run the business, and ensure the insurance position reflects the actual exposures.
 

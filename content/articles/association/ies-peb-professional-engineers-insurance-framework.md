@@ -131,7 +131,7 @@ The principal insurance lines for Singapore SME engineering practices:
 
 **Public Liability (PL).** Required by client and main-contractor contracts. Coverage for third-party bodily injury and property damage from site visits and operations.
 
-**Work injury compensation insurance.** Required under section 24 of WICA 2019 for all employees doing manual work and for non-manual employees earning S$2,600 a month or less (see [how MOM designates WIC insurers](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work injury compensation insurance.** Required under section 24 of WICA 2019 for all employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less (see [how MOM designates WIC insurers](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Run-Off PI Cover.** Critical on PE retirement, partnership change, or firm cessation. Claims-made PI responds only to claims made while cover is in force, so run-off cover is needed for claims made later.
 

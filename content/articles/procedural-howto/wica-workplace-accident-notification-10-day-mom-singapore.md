@@ -36,7 +36,7 @@ The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) cov
 Outside the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers, the coverage perimeter under section 24 of WICA requires WIC insurance for:
 
 - **All employees doing manual work**, regardless of salary.
-- **Non-manual employees** earning at or below **S$2,600 per month** (in force since 1 April 2021 per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)).
+- **Non-manual employees** whose salary, not counting overtime, bonuses, incentive payments and allowances, is at or below **S$2,600 per month** (in force since 1 April 2021 per the [MOM WICA hub](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation)).
 
 Section 25 makes failure to maintain WIC insurance an offence.
 

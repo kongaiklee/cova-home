@@ -21,7 +21,7 @@ og_description: "A property or fire claim runs through defined stages from incid
 
 > **The Answer in 60 Seconds**
 >
-> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [the gross profit calculation guide](/procedural-howto/bi-claim-deep-dive)) -> **specific subrogation framework engagement** (per [the leading case on insurer recovery](/document-legal/castellian-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [the new SCDF Fire Certificate rules](/regulatory-change/scdf-fc-3-year-2026)), and **specific contemporaneous documentation**.
+> Property/Fire claim handling in Singapore typically progresses through defined stages: **incident occurrence** -> **immediate safety / emergency response** -> **specific [SCDF](https://www.scdf.gov.sg/) coordination** (where fire) -> **specific evidence preservation** -> **insurer notification** (typically within 7 days) -> **adjuster / surveyor appointment** -> **damage assessment and quantification** -> **specific salvage / mitigation actions** -> **specific BI claim coordination** (where applicable; per [the gross profit calculation guide](/procedural-howto/bi-claim-deep-dive)) -> **specific subrogation framework engagement** (per [the leading case on insurer recovery](/document-legal/castellain-preston-subrogation)) -> **specific reinstatement / replacement** -> **claim payment**. Critical operational discipline: **safety first** (life and limb before property), **specific evidence preservation from incident**, **specific FC currency and operational discipline demonstration** (post-1 April 2026 36-month framework per [the new SCDF Fire Certificate rules](/regulatory-change/scdf-fc-3-year-2026)), and **specific contemporaneous documentation**.
 
 ### The Sourced Detail
 
@@ -114,7 +114,7 @@ From incident:
 
 **Specific subrogation preservation.**
 
-Per [the Castellain v Preston principles](/document-legal/castellian-preston-subrogation):
+Per [the Castellain v Preston principles](/document-legal/castellain-preston-subrogation):
 
 - Specific evidence preservation supporting potential third-party recovery
 - Operational operational considerations
@@ -233,7 +233,7 @@ For incidents potentially involving third-party fault:
 
 **Subrogation preservation.**
 
-Per [the law on insurer subrogation](/document-legal/castellian-preston-subrogation):
+Per [the law on insurer subrogation](/document-legal/castellain-preston-subrogation):
 
 - Specific evidence preservation
 - Operational cooperation

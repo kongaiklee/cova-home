@@ -284,7 +284,7 @@ The MAS Notice framework establishes specific advisory conduct standards. SMEs t
 
 ### Related Information
 - [FAA-N02 Introducer vs Licensed FA / Broker: What Each Can and Cannot Do Under MAS Regulation](/comparison/faa-n02-introducer-vs-fa-broker)
-- [FAA Section 27: The Suitability Assessment Obligation Behind Every Insurance Recommendation](/document-legal/faa-section-27-suitability-assessment)
+- [FAA Section 36: The Suitability Duty Behind Life Insurance and Investment Product Advice](/document-legal/faa-section-36-suitability-assessment)
 - [MAS Notice FAA-N16: The "Reasonable Basis for Recommendation" Duty Explained](/document-legal/faa-n16-reasonable-basis)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

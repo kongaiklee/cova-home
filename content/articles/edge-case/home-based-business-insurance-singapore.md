@@ -25,7 +25,7 @@ og_description: "A Singapore home contents policy is written for domestic use an
 >
 > Running a business from home is allowed. Under the [HDB Home-Based Business Scheme](https://www.hdb.gov.sg/managing-my-home/home-ownership/home-business/homebased-business-scheme), small-scale activity needs no HDB approval as long as the flat stays primarily residential and the activity causes no disamenity to neighbours. Private homes use the URA Home Office Scheme. But neither scheme provides insurance, and neither requires it. Permission to operate is not cover.
 >
-> What a home operator usually needs to close the gap: **business equipment and stock** cover (a portable-equipment or commercial policy, not the home policy), **public liability** if customers visit or you ship goods, **product liability** for anything you make or sell, **professional indemnity** if you advise, and **work injury compensation insurance** once you employ anyone the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees earning S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers). A home policy usually answers none of these, though some include a limited sum for office equipment used for business in the home.
+> What a home operator usually needs to close the gap: **business equipment and stock** cover (a portable-equipment or commercial policy, not the home policy), **public liability** if customers visit or you ship goods, **product liability** for anything you make or sell, **professional indemnity** if you advise, and **work injury compensation insurance** once you employ anyone the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of banks, retailers and hotel-keepers). A home policy usually answers none of these, though some include a limited sum for office equipment used for business in the home.
 
 ### The Sourced Detail
 
@@ -71,7 +71,7 @@ If your home business sells advice or a professional service rather than a thing
 
 #### WICA: when employing someone makes insurance compulsory
 
-There is one cover the law makes mandatory, and it is triggered by employment, not by the home. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), an employer must insure its employees under an approved policy, except the classes of employee the regulations exclude; MOM makes it compulsory for all employees doing manual work and for non-manual employees earning S$2,600 a month or less. The HDB scheme bars non-resident employees from working in the flat, so a compliant HDB home business often has no employees on the premises and may sit outside the duty. But some home operators employ a part-timer who works elsewhere, or scale into rented space. Once you employ someone in the compulsory classes, WICA cover is not optional, and it has nothing to do with where the work happens. A domestic worker is outside WICA altogether.
+There is one cover the law makes mandatory, and it is triggered by employment, not by the home. Under [section 24 of the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019), an employer must insure its employees under an approved policy, except the classes of employee the regulations exclude; MOM makes it compulsory for all employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less. The HDB scheme bars non-resident employees from working in the flat, so a compliant HDB home business often has no employees on the premises and may sit outside the duty. But some home operators employ a part-timer who works elsewhere, or scale into rented space. Once you employ someone in the compulsory classes, WICA cover is not optional, and it has nothing to do with where the work happens. A domestic worker is outside WICA altogether.
 
 #### So what does a home operator actually need
 
@@ -80,7 +80,7 @@ Strip it back to the operation:
 - **Advise or consult from home, no visitors, no product:** professional indemnity, plus a portable-equipment cover for the laptop and kit. Public liability exposure is low.
 - **Make or sell a product, ship to customers:** product liability and stock or equipment cover, plus public liability.
 - **Customers visit (tuition, beauty, collection):** public liability becomes central, plus equipment cover.
-- **Employ anyone, anywhere:** WICA for employees in the compulsory classes (all employees doing manual work, and non-manual employees earning S$2,600 a month or less), subject to the excluded classes, on top of the above.
+- **Employ anyone, anywhere:** WICA for employees in the compulsory classes (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less), subject to the excluded classes, on top of the above.
 
 Each of these is business cover. The point is that it is a deliberate purchase sitting alongside the home policy, not something the home policy quietly includes.
 
@@ -94,7 +94,7 @@ Each of these is business cover. The point is that it is a deliberate purchase s
 
 4. **Forgetting public liability the first time a customer visits.** One collection or one tuition session creates a third-party exposure the home policy was not written for.
 
-5. **Missing the WICA trigger.** Employing even one person in the compulsory classes (all employees doing manual work, and non-manual employees earning S$2,600 a month or less), even off-site, brings the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty into play regardless of the home setting, subject to the excluded classes.
+5. **Missing the WICA trigger.** Employing even one person in the compulsory classes (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less), even off-site, brings the [section 24](https://sso.agc.gov.sg/Act/WICA2019) duty into play regardless of the home setting, subject to the excluded classes.
 
 6. **Outgrowing the scheme without noticing.** More traffic, employees, or storage breaches the HDB conditions and changes the insurance picture at the same moment.
 

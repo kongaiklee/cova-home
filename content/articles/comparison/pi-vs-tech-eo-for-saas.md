@@ -251,7 +251,7 @@ The Tech E&O vs PI distinction is foundational for technology SMEs. SMEs that al
 ### Related Information
 - [Cyber Liability Single Policy vs Tower Primary + Excess Structure: When Does Tower Make Sense?](/comparison/cyber-tower-vs-single-policy)
 - [Standalone Cyber Insurance vs Cyber Sub-Limit Under PAR: What's the Difference?](/comparison/cyber-standalone-vs-par-sublimit)
-- [FAA Section 27: The Suitability Assessment Obligation Behind Every Insurance Recommendation](/document-legal/faa-section-27-suitability-assessment)
+- [FAA Section 36: The Suitability Duty Behind Life Insurance and Investment Product Advice](/document-legal/faa-section-36-suitability-assessment)
 - [Professional Indemnity Insurance for Singapore Service Businesses: The Complete Guide](/document-legal/professional-indemnity-complete-guide-singapore)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

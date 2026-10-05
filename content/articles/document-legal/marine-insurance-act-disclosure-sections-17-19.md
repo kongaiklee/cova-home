@@ -35,9 +35,9 @@ The text:
 
 Three points stand out:
 
-**The reciprocal nature.** The duty applies to "either party" - both insured and insurer carry good faith obligations. While case law has developed the insured's duty most fully, the insurer's duty has been recognised in specific scenarios involving non-disclosure of relevant facts at placement, bad faith in claim handling, and specific concealment of policy interpretation positions.
+**The reciprocal nature.** The duty applies to "either party" - both insured and insurer carry good faith obligations. Case law has developed the insured's duty most fully. For the insurer, the courts have recognised, for example, a duty to draw the insured's attention to unusual terms in a policy (Tay Eng Chuan v Ace Insurance Ltd [2008] 4 SLR(R) 95), but a breach by the insurer gives only the remedy of avoidance, not damages (Banque Financiere de la Cite v Westgate Insurance [1991] 2 AC 249).
 
-**The remedy: avoidance.** Breach allows the wronged party to "avoid" the contract - treating it as if it had never existed. This is more drastic than ordinary contract remedies (damages, rescission for misrepresentation) and reflects the unique nature of insurance contracts.
+**The remedy: avoidance.** Breach allows the wronged party to "avoid" the contract - treating it as if it had never existed. Under general contract law a failure to disclose would not usually have legal consequences; here the insurer may avoid the policy from the start, returning the premium unless there was fraud or illegality (section 84(3)(a)).
 
 **The market context.** The provision recognises that insurance contracts depend on information asymmetry - the insured knows the risk; the insurer can verify only through what's disclosed. The doctrine corrects for this asymmetry by imposing a positive disclosure duty.
 
@@ -45,11 +45,11 @@ Three points stand out:
 
 Section 18 sets out the operational core:
 
-"Subject to the provisions of this section, the assured must disclose to the insurer, before the contract is concluded, every material circumstance which is known to the assured, and the assured is deemed to know every circumstance which, in the ordinary course of business, ought to be known by him."
+"Subject to this section, the assured must disclose to the insurer, before the contract is concluded, every material circumstance which is known to the assured, and the assured is deemed to know every circumstance which, in the ordinary course of business, ought to be known by him; and if the assured fails to make such disclosure, the insurer may avoid the contract."
 
 The provision establishes:
 
-**Timing.** Disclosure must be before contract conclusion - meaning before the policy incepts. Disclosure made after binding may be too late to satisfy Section 18 (though it may still help with renewal / amendment cycles).
+**Timing.** Disclosure must be made before the contract is concluded, which is when the insurer accepts the proposal (section 21 deems a marine contract concluded then, whether or not the policy has been issued); that is not necessarily when cover incepts. Disclosure made after binding may be too late to satisfy Section 18 (though it may still help with renewal / amendment cycles).
 
 **Materiality test.** "Every material circumstance" - the test that *Pan Atlantic v Pine Top* [1995] 1 AC 501 (see [what the House of Lords decided](/document-legal/pan-atlantic-pine-top-materiality-test)) clarified as: would influence the judgment of a prudent insurer. Plus the actual inducement requirement.
 
@@ -63,12 +63,12 @@ This is the codified materiality standard that Pan Atlantic interpreted.
 
 **Section 18(3) - what need not be disclosed:**
 
-The provision lists what need not be disclosed:
+In the absence of inquiry by the insurer, the provision lists what need not be disclosed:
 
 - Circumstances that diminish risk
 - Circumstances known or presumed known to the insurer
 - Circumstances about which insurer waives information
-- Circumstances rendering the contract unnecessary by warranty
+- Circumstances it is superfluous to disclose because of an express or implied warranty
 
 These limits matter operationally. SMEs don't need to disclose helpful facts, common-knowledge facts, or facts the insurer has waived disclosure of through the application form design.
 
@@ -76,9 +76,9 @@ These limits matter operationally. SMEs don't need to disclose helpful facts, co
 
 Section 19 extends the duty to agents effecting insurance:
 
-"Subject to the provisions of the preceding section as to circumstances which need not be disclosed, where an insurance is effected for the assured by an agent, the agent must disclose to the insurer:
-(a) every material circumstance which is known to himself, and an agent is deemed to know every circumstance which in the ordinary course of business ought to be known by, or to have been communicated to, him; and
-(b) every material circumstance which the assured is bound to disclose, unless it come to his knowledge too late to communicate it to the agent."
+"Subject to section 18 as to circumstances which need not be disclosed, where an insurance is effected for the assured by an agent, the agent must disclose to the insurer:
+(a) every material circumstance which is known to himself, and an agent to insure is deemed to know every circumstance which in the ordinary course of business ought to be known by, or to have been communicated to, him; and
+(b) every material circumstance which the assured is bound to disclose, unless it comes to his knowledge too late to communicate it to the agent."
 
 The provision creates:
 
@@ -86,9 +86,9 @@ The provision creates:
 
 **Imputed knowledge.** Agents are deemed to know facts that "in the ordinary course of business ought to be known by, or to have been communicated to, [them]." Brokers cannot defend non-disclosure on grounds of not having investigated when investigation would be ordinary.
 
-**Pass-through of insured's knowledge.** Material facts the insured knows (and is bound to disclose) become facts the agent must disclose unless they come to the agent's knowledge too late.
+**Pass-through of insured's knowledge.** Material facts the insured is bound to disclose must also be disclosed by the agent, unless a fact came to the insured's knowledge too late to pass on to the agent.
 
-**The only relief: late knowledge.** If the insured tells the broker something material right before binding, and there's no time to communicate, the agent isn't held to disclose. But this is a narrow exception.
+**The late-knowledge exception.** Under section 19(b), the agent is not required to disclose a fact the insured is bound to disclose if it came to the insured's knowledge too late to communicate it to the agent. The section 18(3) exceptions also apply to the agent.
 
 #### Why the three sections work together
 
@@ -109,10 +109,7 @@ This means SMEs benefit from working with competent brokers who professionally s
 
 Singapore courts have applied Sections 17-19 across both marine and non-marine insurance, treating the underlying common-law principles (which the 1906 Act codifies) as governing all insurance contracts. Specific decisions available through [eLitigation](https://www.elitigation.sg/) demonstrate:
 
-- Strict construction of materiality in line with Pan Atlantic
-- Recognition of broker duties under Section 19
-- Specific application to renewal cycles (subsequent disclosure duties)
-- Specific consideration of fairness in borderline cases
+- Materiality and inducement applied in line with Pan Atlantic (for example UMCI Ltd v Tokio Marine & Fire Insurance Co (Singapore) Pte Ltd [2008] SGHC 188 at [23])
 
 #### Practical implications for SMEs
 
@@ -151,9 +148,9 @@ Three categories of disclosure SMEs commonly under-address:
 
 **Operational reality vs documented operations.** The SME's actual day-to-day operations often differ from formal job descriptions or business activity codes. Section 18 disclosure should reflect operational reality.
 
-**Claims and near-miss history.** Past claims, near-misses, prior insurer non-renewals or premium increases - all commonly material. SMEs sometimes hesitate to disclose adverse history; non-disclosure is more damaging than disclosure.
+**Claims and near-miss history.** Past claims, near-misses, prior insurer non-renewals or premium increases can be material; whether a fact is material is a question of fact in each case (section 18(4)). SMEs sometimes hesitate to disclose adverse history; non-disclosure is more damaging than disclosure.
 
-**Regulatory and financial context.** Pending regulatory matters, financial difficulties, key personnel changes, ownership changes - commonly material under Section 18 even when not asked specifically.
+**Regulatory and financial context.** Pending regulatory matters, financial difficulties, key personnel changes and ownership changes can be material under Section 18 even when not asked about specifically.
 
 #### Section 19 and broker selection
 
@@ -171,7 +168,7 @@ Broker quality affects Section 19 risk allocation: working with a competent brok
 
 #### Specific industry-specific material facts
 
-Different industries have different commonly-material facts:
+Facts that may be material differ by industry:
 
 For technology SMEs: Cyber posture, prior breaches, customer concentration, IP disputes. For financial services: regulatory standing, key personnel, complaint history. For healthcare: complaints, regulatory matters, specific procedure scope. For manufacturing: claims history, safety record, raw material sourcing. For construction: site safety record, subcontractor framework, specific project exposure. For F&B: food safety record, premises history.
 
@@ -198,8 +195,8 @@ For Singapore SMEs:
 2. **Material change review at renewal.** Subsequent disclosure discipline.
 3. **Mid-term amendment triggers disclosure.** Operational discipline.
 4. **Document disclosures made.** Both your records and broker's.
-5. **Past claims, near-misses, regulatory issues are commonly material.** Specific disclosure expectation.
-6. **For complex operations, specialist broker.** Section 19 effectively requires industry expertise.
+5. **Past claims, near-misses and regulatory issues can be material.** Materiality is a question of fact in each case (section 18(4)).
+6. **For complex operations, specialist broker.** Section 19 deems the broker to know what it ought to know in the ordinary course of business, so its own knowledge counts in the disclosure.
 7. **Section 19 means broker quality matters for your risk.** Specific broker selection implications.
 8. **Annual review even in policy mid-term.** Specific evolving circumstances.
 

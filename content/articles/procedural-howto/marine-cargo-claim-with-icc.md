@@ -154,7 +154,7 @@ Major marine surveyors operate in Singapore:
 
 **Subrogation preservation.**
 
-Per [the Castellain v Preston analysis](/document-legal/castellian-preston-subrogation):
+Per [the Castellain v Preston analysis](/document-legal/castellain-preston-subrogation):
 
 - Specific carrier liability claim preservation
 - Operational specific subrogation framework
@@ -392,6 +392,6 @@ The Marine Cargo claim process combines ICC clause analysis with substantial ope
 ### Related Information
 - [Marine Cargo Institute Cargo Clauses A, B, and C: Choosing the Right Coverage Scope](/comparison/marine-cargo-icc-a-b-c)
 - [Marine Insurance Act 1906 Sections 17-19: The Disclosure Architecture That Governs Singapore Insurance](/document-legal/marine-insurance-act-disclosure-sections-17-19)
-- [Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
+- [Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellain-preston-subrogation)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

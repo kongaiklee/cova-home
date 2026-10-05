@@ -25,7 +25,7 @@ og_description: "A trade credit claim is process-driven and the process decides 
 
 ### The Sourced Detail
 
-Trade Credit claim handling is more operationally demanding than typical commercial insurance. The portfolio-based architecture and operational discipline requirements mean that Trade Credit claim outcomes depend substantially on whether the SME has maintained operational discipline throughout the policy period - not just on the loss event itself. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), and the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) is the general insurance sector's trade association. For specific Singapore subrogation case law application, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including the framework discussed in [the case behind Singapore subrogation law](/document-legal/castellian-preston-subrogation).
+Trade Credit claim handling is more operationally demanding than typical commercial insurance. The portfolio-based architecture and operational discipline requirements mean that Trade Credit claim outcomes depend substantially on whether the SME has maintained operational discipline throughout the policy period - not just on the loss event itself. Trade Credit insurance operates within the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) framework administered by [MAS](https://www.mas.gov.sg/), and the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/) is the general insurance sector's trade association. For specific Singapore subrogation case law application, [eLitigation](https://www.elitigation.sg/) provides Supreme Court decisions including the framework discussed in [the case behind Singapore subrogation law](/document-legal/castellain-preston-subrogation).
 
 #### The pre-claim foundation
 
@@ -186,7 +186,7 @@ Insurer evaluates:
 For substantiated claims:
 
 - Insurer may pursue recovery from defaulted customer
-- Specific subrogation framework (per [the Castellain v Preston decision](/document-legal/castellian-preston-subrogation))
+- Specific subrogation framework (per [the Castellain v Preston decision](/document-legal/castellain-preston-subrogation))
 - Operational considerations
 
 **SME cooperation.**
@@ -401,7 +401,7 @@ Trade Credit claim outcomes depend substantially on operational discipline maint
 
 ### Related Information
 - [Trade Credit Insurance vs Letters of Credit: Two Approaches to Customer Payment Risk](/comparison/trade-credit-vs-letters-of-credit)
-- [Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellian-preston-subrogation)
+- [Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law](/document-legal/castellain-preston-subrogation)
 - [Opening an Import / Export Trader or Wholesaler in Singapore: Full Insurance Checklist](/decision-tree/opening-import-export-trader-checklist)
 
 *Published 5 May 2026. Source verified 5 May 2026.*

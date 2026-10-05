@@ -3,6 +3,46 @@
   "cleanUrls": true,
   "redirects": [
     {
+      "source": "/guides/document-legal/faa-section-27-suitability-assessment",
+      "destination": "https://covarage.com/guides/document-legal/faa-section-36-suitability-assessment",
+      "permanent": true
+    },
+    {
+      "source": "/guides/document-legal/faa-section-27-suitability-assessment/",
+      "destination": "https://covarage.com/guides/document-legal/faa-section-36-suitability-assessment",
+      "permanent": true
+    },
+    {
+      "source": "/document-legal/faa-section-27-suitability-assessment",
+      "destination": "https://covarage.com/guides/document-legal/faa-section-36-suitability-assessment",
+      "permanent": true
+    },
+    {
+      "source": "/document-legal/faa-section-27-suitability-assessment/",
+      "destination": "https://covarage.com/guides/document-legal/faa-section-36-suitability-assessment",
+      "permanent": true
+    },
+    {
+      "source": "/guides/document-legal/castellian-preston-subrogation",
+      "destination": "https://covarage.com/guides/document-legal/castellain-preston-subrogation",
+      "permanent": true
+    },
+    {
+      "source": "/guides/document-legal/castellian-preston-subrogation/",
+      "destination": "https://covarage.com/guides/document-legal/castellain-preston-subrogation",
+      "permanent": true
+    },
+    {
+      "source": "/document-legal/castellian-preston-subrogation",
+      "destination": "https://covarage.com/guides/document-legal/castellain-preston-subrogation",
+      "permanent": true
+    },
+    {
+      "source": "/document-legal/castellian-preston-subrogation/",
+      "destination": "https://covarage.com/guides/document-legal/castellain-preston-subrogation",
+      "permanent": true
+    },
+    {
       "source": "/guides/procedural-howto/wica-claim-step-by-step-overview",
       "destination": "https://covarage.com/guides/procedural-howto/how-to-file-wica-claim-singapore-mom",
       "permanent": true

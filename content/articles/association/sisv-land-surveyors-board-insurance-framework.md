@@ -79,14 +79,14 @@ The principal insurance lines vary by SISV division:
 
 - PI on the licensed survey entity per LSB licence conditions.
 - PL for third-party exposure during site work.
-- Work injury compensation insurance under section 24 of WICA 2019, for all employees doing manual work and non-manual employees earning S$2,600 a month or less.
+- Work injury compensation insurance under section 24 of WICA 2019, for all employees doing manual work and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less.
 - Run-Off PI for cadastral re-survey claims arising years after lot registration.
 
 **For Quantity Surveyors:**
 
 - PI for QS cost-reporting exposure. Common claim patterns: under-certification disputes, cost-overrun allocation, contract-administration errors.
 - PL for site visits.
-- Work injury compensation insurance for employees doing manual work and non-manual employees earning S$2,600 a month or less.
+- Work injury compensation insurance for employees doing manual work and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less.
 - D&O for QS corporations.
 
 **For Valuers:**
@@ -98,7 +98,7 @@ The principal insurance lines vary by SISV division:
 **For PFM Practitioners:**
 
 - Combined PI and PL cover. The boundary between professional negligence (PI) and bodily injury / property damage at managed estates (PL) is structurally distinct. Many PFM contracts require both.
-- Work injury compensation insurance for in-house staff doing manual work and non-manual staff earning S$2,600 a month or less.
+- Work injury compensation insurance for in-house staff doing manual work and non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less.
 - Fidelity Guarantee for cover of client monies (where managed under property-management agreements).
 - D&O for PFM corporations.
 - Cyber for tenant-data and lease-management system exposure.

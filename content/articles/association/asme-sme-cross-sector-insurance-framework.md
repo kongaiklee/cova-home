@@ -49,7 +49,7 @@ SME members are regulated by their sectoral statutes and by cross-cutting Singap
 
 **Employment Act 1968.** Available on [SSO](https://sso.agc.gov.sg/Act/EmA1968). Governs employment terms, working hours, leave, and other employment matters.
 
-**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees earning S$2,600 per month or less, subject to the excluded classes. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 per month or less, subject to the excluded classes. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Workplace Safety and Health Act 2006.** Available on [SSO](https://sso.agc.gov.sg/Act/WSHA2006). Employer duty under section 12, principal duty under section 14A, offences and penalties under sections 50 to 52 (see [what changed for sub-contractor SMEs](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)).
 

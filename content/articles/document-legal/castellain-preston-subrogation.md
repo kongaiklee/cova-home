@@ -1,6 +1,6 @@
 ---
 title: "Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law"
-slug: "/document-legal/castellian-preston-subrogation"
+slug: "/document-legal/castellain-preston-subrogation"
 category: "document-legal"
 intent: "get-it-right"
 topics: ["General"]
@@ -13,29 +13,29 @@ updated: "2026-08-30"
 word_count: 1989
 status: "published"
 hero_image: "/assets/blog/document-legal.jpg"
-canonical_url: "https://covarage.com/guides/document-legal/castellian-preston-subrogation"
-meta_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs a Singapore claim today."
+canonical_url: "https://covarage.com/guides/document-legal/castellain-preston-subrogation"
+meta_description: "Castellain v Preston set out how far an insurer's right of subrogation reaches. What the case decided, and why Singapore courts still cite it today."
 og_title: "Castellain v Preston: The Foundation of Subrogation in Singapore Insurance Law"
-og_description: "Castellain v Preston is where modern subrogation comes from. What the case established, and why it still governs a Singapore claim today."
+og_description: "Castellain v Preston set out how far an insurer's right of subrogation reaches. What the case decided, and why Singapore courts still cite it today."
 ---
 
 > **The Answer in 60 Seconds**
 >
-> *Castellain v Preston* (1883) 11 QBD 380 is the foundational English Court of Appeal decision that established the modern doctrine of subrogation in insurance law. Subrogation is the doctrine that allows an insurer who has paid a claim to "step into the shoes" of the insured and pursue any recovery rights the insured had against third parties responsible for the loss. The doctrine prevents the insured from recovering twice (from the insurer and from the third party) and ensures that ultimate responsibility falls on the party at fault rather than on the insurance market. Singapore courts have applied Castellain consistently, with subsequent decisions (including [*Sompo v RSA* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152)) refining specific applications. For Singapore SMEs, subrogation has practical implications: **specific waiver of subrogation provisions** in commercial contracts, **specific cooperation obligations** in insurance policies, and **specific recovery sharing** arrangements.
+> *Castellain v Preston* (1883) 11 QBD 380 is an English Court of Appeal decision that stated the doctrine of subrogation in insurance law in its widest form, resting it on the principle that insurance is a contract of indemnity. Subrogation is the doctrine that allows an insurer who has paid a claim to "step into the shoes" of the insured and pursue any recovery rights the insured had against third parties responsible for the loss. The doctrine prevents the insured from recovering twice (from the insurer and from the third party) and ensures that ultimate responsibility falls on the party at fault rather than on the insurance market. Singapore courts have applied Castellain consistently, with subsequent decisions (including [*Sompo v RSA* [2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152)) refining specific applications. For Singapore SMEs, subrogation has practical implications: **specific waiver of subrogation provisions** in commercial contracts, **specific cooperation obligations** in insurance policies, and **specific recovery sharing** arrangements.
 
 ### The Sourced Detail
 
-Castellain v Preston is one of the foundational decisions of modern insurance law. The case established the principles that govern when and how an insurer can pursue third parties after paying a claim, and the framework continues to govern Singapore's insurance subrogation practice. The doctrine operates within the broader insurance contract framework governed by the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
+Castellain v Preston is one of the foundational decisions of modern insurance law. The case set out how far an insurer's rights reach after it pays a claim, including the benefit of the insured's rights against third parties, and Singapore courts still cite it (for example in Sompo v RSA [2021] SGHC 152 at [37]). The doctrine comes from the common law of indemnity insurance; insurers themselves are regulated under the [Insurance Act 1966](https://sso.agc.gov.sg/Act/IA1966) administered by [MAS](https://www.mas.gov.sg/), with industry conventions documented by the [General Insurance Association of Singapore (GIA)](https://www.gia.org.sg/).
 
 #### The factual background
 
-In Castellain v Preston, the insured had insured property. After the loss, the insured received compensation from both the insurer (under the policy) and from a third party (through other commercial avenues). The question was whether the insurer was entitled to recover from the insured the amount the insured had received from the third party.
+In Castellain v Preston, the insured (the vendors) had contracted to sell a house they had insured against fire. Before completion the house was damaged by fire, and the insurer, unaware of the sale, paid the vendors 330 pounds. The purchasers then completed and paid the full agreed price, with no reduction for the fire. The question was whether the insurer could recover a sum equal to the insurance money from the vendors.
 
-The Court of Appeal held that the insurer was so entitled - establishing the doctrine that the insured cannot retain a "double recovery."
+The Court of Appeal held that the insurer was so entitled, reversing Chitty J, because the insured is to be fully indemnified but never more than fully indemnified.
 
 #### The principles established
 
-Castellain v Preston established several foundational principles:
+The judgment states the first two principles below; the cooperation obligation and the sharing of recoveries come from other cases and policy conditions:
 
 **The indemnity principle.** Insurance is a contract of indemnity - the insured is entitled to be made whole, but not to profit from the loss. Where the insured has multiple recovery avenues, the doctrine prevents over-recovery.
 
@@ -44,7 +44,7 @@ Castellain v Preston established several foundational principles:
 - Recover from third parties who would have been liable to the insured
 - Receive any recoveries the insured has obtained or obtains from third parties
 
-**The cooperation obligation.** The insured has an implied obligation to cooperate with the insurer's subrogation efforts:
+**The cooperation obligation.** The insured must not do anything that prejudices the insurer's subrogation rights, and policy subrogation conditions can require the insured to do what the insurer reasonably needs to enforce them:
 - Not to prejudice the insurer's recovery rights
 - To assist (within reason) in pursuing third parties
 - To preserve evidence and witnesses
@@ -60,11 +60,11 @@ In a typical insurance claim with subrogation potential:
 
 **Stage 2: Claim under policy.** The SME claims under their insurance policy. The insurer evaluates and pays the claim per policy terms.
 
-**Stage 3: Subrogation rights vest.** Upon payment, the insurer acquires (by subrogation) the SME's rights against the third party.
+**Stage 3: Subrogation rights arise.** Upon payment, the insurer becomes entitled to the benefit of the SME's rights against the third party, which it exercises in the SME's name unless those rights are assigned to it.
 
 **Stage 4: Insurer pursues recovery.** The insurer (in the SME's name, or in their own name depending on jurisdiction and circumstances) pursues the third party. This may involve negotiation, mediation, arbitration, or litigation.
 
-**Stage 5: Recovery distribution.** Recoveries are distributed: insurer first reimbursed for the indemnity paid (plus any costs), with any excess to the SME.
+**Stage 5: Recovery distribution.** Unless the policy says otherwise, a recovery goes first to any part of the SME's loss above the policy limit, then to the insurer up to the amount it paid, and last to the SME's deductible (Lord Napier v Hunter [1993] AC 713).
 
 #### The cooperation obligation in detail
 
@@ -86,7 +86,7 @@ A common feature of commercial contracts: parties agree to waive each other's su
 
 **Construction contracts.** Project insurance often waives subrogation between owner, contractor, and subcontractors. The objective is to allocate risk through the insurance arrangement without internal cross-claims.
 
-**Lease agreements.** Landlord and tenant insurance often waive subrogation against each other. Each party's insurer covers their respective interests without pursuing the other.
+**Lease agreements.** Some leases require the tenant's insurance to include a waiver of subrogation against the landlord (as the lease in HSBC Institutional Trust Services v DNKH Logistics [2023] SGHC(A) 13 did), and JTC's standard lease terms require the tenant's public liability policy to include a waiver of subrogation clause. A waiver running both ways is not automatic; it depends on the lease and the policies.
 
 **Vendor / supplier contracts.** Operational scope where parties agree subrogation rights are waived.
 
@@ -103,7 +103,7 @@ When negotiating commercial contracts, SMEs should understand both the immediate
 
 #### Singapore application - *Sompo v RSA*
 
-*Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [[2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) is a significant Singapore High Court decision on the scope of subrogation. The dispute arose from damage to Government cargo carried by a shipper: RSA, the cargo insurer, indemnified the Government and then sought, by subrogation, to call on a performance bond the shipper had provided. The Court held that an insurer's subrogated rights are not confined to a claim against the party responsible for the loss - they extend to *every* right the insured had to recover in respect of the loss, including calling on a performance bond provided by a third party.
+*Sompo Insurance Singapore Pte Ltd v Royal & Sun Alliance Insurance plc* [[2021] SGHC 152](https://www.elitigation.sg/gd/s/2021_SGHC_152) is a significant Singapore High Court decision on the scope of subrogation. The dispute arose from damage to Government cargo carried by a contractor, Geometra: RSA, the cargo insurer, indemnified the Government and then sought, by subrogation, to call on a performance bond that Sompo had issued in the Government's favour under the carriage contract. The Court held that an insurer's subrogated rights are not confined to a claim against the party responsible for the loss - they extend to *every* right the insured had to recover in respect of the loss, including calling on a performance bond provided by a third party.
 
 The decision is part of the Singapore body of authority refining how the Castellain v Preston principles operate in modern commercial contexts; the full facts and reasoning are available through [eLitigation](https://www.elitigation.sg/gd/s/2021_SGHC_152).
 
@@ -125,7 +125,7 @@ Both doctrines reflect the same underlying principle: spread the cost of loss ap
 
 Subrogation operates differently across industries:
 
-**Marine cargo / logistics.** Active subrogation market. Specific [Sompo v RSA](https://www.elitigation.sg/gd/s/2021_SGHC_152) framework. Specific contractual waiver provisions common (e.g. Himalaya clauses).
+**Marine cargo / logistics.** Active subrogation market. Specific [Sompo v RSA](https://www.elitigation.sg/gd/s/2021_SGHC_152) framework. Bills of lading may carry a Himalaya clause, which seeks to exempt the carrier's servants, agents and subcontractors (such as stevedores) from liability to the shipper, consignee or bill of lading holder, or to give them the carrier's own exemptions and limits, so a subrogated cargo claim against them can be barred or limited.
 
 **Construction.** Project insurance waivers common. Specific allocation framework. Specific cooperation obligations significant given multi-party scope.
 
@@ -157,7 +157,7 @@ The framework creates operational expectations:
 
 **Scenario A: Premises fire caused by contractor's defective work.**
 
-SME's Property/Fire insurer pays the claim. Insurer pursues the contractor through subrogation. SME assists by providing contractor agreement, work records, etc. Recovery (if successful) goes first to the insurer; any excess to the SME.
+SME's Property/Fire insurer pays the claim. Insurer pursues the contractor through subrogation. SME assists by providing contractor agreement, work records, etc. Recovery (if successful) is shared in the order described in Stage 5 above.
 
 **Scenario B: Customer slip-and-fall claim caused by third-party cleaner's negligence.**
 

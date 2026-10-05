@@ -21,7 +21,7 @@ og_description: "A dental practice needs HCSA licensing plus SDC registration fo
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore dental practice requires HCSA licensing administered by [MOH](https://www.moh.gov.sg/), [Singapore Dental Council (SDC)](https://www.healthprofessionals.gov.sg/sdc) registration for the practising dentist, and where applicable specific dental specialty register approval. Insurance baseline: **Dental Indemnity** (typically through a defence organisation - MPS Dental, MDDUS Dental, MIPS, or commercial dental insurance product), **Public Liability** for clinic, **Property/Fire** for fit-out and dental equipment (chairs, X-ray, CAD/CAM equipment commonly S$50,000-S$300,000+ per chair setup), **Equipment Breakdown** for compressor, suction, autoclaves, X-ray equipment, and CAD/CAM systems, **WICA** for staff, **Cyber Liability** for patient records (including dental imaging which is patient-identifying), **Crime / Money** for cash handling, and **D&O** for incorporated practices. Cosmetic dentistry, orthodontics, oral and maxillofacial surgery, and implant practice face elevated indemnity considerations versus general dentistry.
+> A Singapore dental practice requires HCSA licensing administered by [MOH](https://www.moh.gov.sg/), [Singapore Dental Council (SDC)](https://www.healthprofessionals.gov.sg/sdc) registration for the practising dentist, and where applicable specific dental specialty register approval. Insurance baseline: **Dental Indemnity** (typically through a defence organisation such as Dental Protection, part of the Medical Protection Society, or a commercial dental insurance product), **Public Liability** for clinic, **Property/Fire** for fit-out and dental equipment (chairs, X-ray, CAD/CAM equipment), **Equipment Breakdown** for compressor, suction, autoclaves, X-ray equipment, and CAD/CAM systems, **WICA** for staff, **Cyber Liability** for patient records (including dental imaging which is patient-identifying), **Crime / Money** for cash handling, and **D&O** for incorporated practices. Cosmetic dentistry, orthodontics, oral and maxillofacial surgery, and implant practice face elevated indemnity considerations versus general dentistry.
 
 ### The Sourced Detail
 
@@ -33,9 +33,8 @@ Per the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020):
 
 **Common dental service licences:**
 - Outpatient Dental Service (general)
-- Specific specialty dental services
 - Day surgery for oral and maxillofacial procedures
-- Specific equipment-based services (CT, advanced imaging)
+- Dental Cone Beam Computed Tomography (CBCT), the Specified Service under the Outpatient Dental Service, which needs separate approval
 
 **Licensing process:**
 - Application via MOH portal
@@ -47,21 +46,18 @@ Per the [Healthcare Services Act 2020](https://sso.agc.gov.sg/Act/HSA2020):
 **SDC framework:**
 
 Per the [Dental Registration Act 1999](https://sso.agc.gov.sg/Act/DRA1999):
-- General Register
+- Register of Dentists (full and conditional registration)
 - Specialist Register (specific dental specialties)
-- Practising Certificate annual renewal
+- Practising Certificate renewal every two years
 - Continuing Professional Education compliance
-- Dental indemnity insurance - Practising Certificate condition
+- Dental indemnity insurance: not a Practising Certificate condition, but strongly encouraged by the SDC's Ethical Code and Ethical Guidelines (guideline 5.1.10)
 
 #### The Dental Indemnity layer
 
 Similar to medical, dental indemnity comes from:
 
 **Defence organisations:**
-- MPS Dental
 - Dental Protection
-- MDDUS Dental
-- MIPS Dental Indemnity
 
 **Commercial insurance:**
 - Dental-specific PI products
@@ -103,7 +99,7 @@ Lower-risk:
 
 Dental practice has distinctive equipment dependency:
 
-**Per-chair equipment** (typical S$50,000-S$200,000 per chair):
+**Per-chair equipment:**
 - Dental chair and unit
 - Specialist instruments
 - Lighting
@@ -117,7 +113,7 @@ Dental practice has distinctive equipment dependency:
 - CAD/CAM milling units (CEREC, etc.)
 - 3D printers (increasingly common)
 
-**Equipment Breakdown specifically critical** - see [the first steps when a machine fails](/crisis/equipment-breakdown-halts-production). Compressor failure is a high-frequency claim line. Single-event failure can halt all chairs simultaneously.
+**Equipment Breakdown specifically critical** - see [the first steps when a machine fails](/crisis/equipment-breakdown-halts-production). Single-event failure can halt all chairs simultaneously.
 
 **Spoilage considerations:**
 - Less critical than medical (limited refrigerated inventory)
@@ -171,7 +167,7 @@ Dental practices hold:
 - PDPA Section 26D notification
 
 **Recommended Cyber stack:**
-- Standalone Cyber with appropriate limits (S$2M-S$5M typical for SME dental practice)
+- Standalone Cyber with appropriate limits
 - BEC / Social Engineering Fraud cover
 - BI for practice disruption
 - PDPA Section 26D notification cover
@@ -202,7 +198,7 @@ Dental practices hold:
 
 **Oral and maxillofacial surgery:**
 - Surgical specialty
-- Higher indemnity rates
+- Rated separately for indemnity (maxillofacial procedures are a specified-procedure grade in Dental Protection's Singapore scheme)
 - Day surgery licensing where applicable
 - Specific anaesthetic considerations
 
@@ -245,7 +241,7 @@ For dentists offering significant implant practice:
 - Implant inventory
 - Specific anesthesia
 
-**Defence organisations / insurers** typically require:
+**Defence organisations / insurers** may ask about the following (Dental Protection's Singapore scheme, for example, reviews training and experience before granting its grade for zygomatic or pterygoid implants):
 - Specific implant training certification
 - Documented case selection criteria
 - Patient consent processes
@@ -278,15 +274,15 @@ Dental practice typically involves laboratory coordination:
 For typical Singapore dental practices:
 
 **Solo general practice (1 dentist, 4-6 staff, 1-2 chairs):**
-- Dental Indemnity: S$2,000-S$5,000
-- PL/Property/Equipment Breakdown bundle: S$8,000-S$20,000
-- WICA, Cyber, Crime, employee benefits: S$5,000-S$15,000
-- **Total annual insurance budget** typically S$15,000-S$40,000
+- Dental Indemnity: depends on the provider, grade and limit (one Singapore scheme's published 2020 rates for a dentist doing general dental procedures were S$830 to S$1,250 a year before GST, for limits of S$1 million to S$3 million)
+- PL/Property/Equipment Breakdown bundle: depends on the cover, limits and premises
+- WICA, Cyber, Crime, employee benefits: depends on headcount, cover and limits
+- **Total annual insurance budget** depends on the cover and limits chosen
 
 **Specialty practice (1-2 specialists, 6-15 staff, 3-5 chairs):**
-- Higher Dental Indemnity per specialist
+- Dental Indemnity for specialists quoted separately in at least one Singapore scheme
 - Higher equipment exposure
-- **Total typically S$25,000-S$80,000**
+- **Total depends on specialty, cover and limits**
 
 **Multi-specialist group / large practice:**
 - Comprehensive programme
@@ -330,9 +326,9 @@ Insurers and defence organisations underwrite dental practice on:
 
 ### Common Mistakes / What Goes Wrong
 
-1. **Operating without Dental Indemnity.** SDC Practising Certificate condition.
+1. **Operating without Dental Indemnity.** The SDC strongly encourages cover for dentists involved in patient care, though it is not a Practising Certificate condition.
 2. **Equipment Breakdown skipped - single point of failure.** Compressor failure halts entire practice.
-3. **Cyber inadequate for patient imaging and records.** PDPA significant-harm category.
+3. **Cyber inadequate for patient imaging and records.** Under the PDPA, a breach affecting 500 or more individuals is notifiable to the PDPC on scale alone (unless it occurs only within the practice), and a breach of a patient's name or identification number together with some health data is deemed to cause significant harm.
 4. **Specialty progression without indemnity update.** Implants, surgery, cosmetic work warrant review.
 5. **HCSA service licensing gaps.** Procedure-specific licensing requirements.
 6. **No D&O for incorporated structures.** Governance gap.
@@ -345,7 +341,7 @@ Insurers and defence organisations underwrite dental practice on:
 
 For dentists opening or running practices in Singapore:
 
-1. **Maintain Dental Indemnity continuously.** Practising Certificate condition; long-tail exposure.
+1. **Maintain Dental Indemnity continuously.** Long-tail exposure; the SDC strongly encourages cover.
 
 2. **Prioritise Equipment Breakdown.** Practice depends on critical centralised equipment.
 

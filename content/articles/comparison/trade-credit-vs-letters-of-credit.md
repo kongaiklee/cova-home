@@ -303,7 +303,7 @@ For both mechanisms, recovery of paid amounts:
 **Trade Credit recovery.**
 
 - Insurer pursues recovery from defaulted customer
-- Specific subrogation framework (see [the leading case, Castellain v Preston](/document-legal/castellian-preston-subrogation))
+- Specific subrogation framework (see [the leading case, Castellain v Preston](/document-legal/castellain-preston-subrogation))
 - Operational considerations
 
 **L/C - no recovery applicable typically.**

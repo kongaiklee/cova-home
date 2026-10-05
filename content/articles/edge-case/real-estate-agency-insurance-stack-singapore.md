@@ -45,7 +45,7 @@ The insurance stack mirrors the regulatory structure: agency-level covers protec
 
 Seven covers are most relevant to a Singapore real estate agency.
 
-**1. Work Injury Compensation (WICA).** Mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) section 24 for employees doing manual work and for non-manual employees earning S$2,600 a month or less; the Work Injury Compensation (Insurance) Regulations 2020 also exclude the employees of some classes of employer, such as banks and retail-trade employers. Administrative, marketing and support staff are non-manual, so they fall within the duty only if they earn S$2,600 a month or less. Salespersons engaged as independent contractors are outside the WICA perimeter; the contractual relationship determines this.
+**1. Work Injury Compensation (WICA).** Mandatory under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) section 24 for employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less; the Work Injury Compensation (Insurance) Regulations 2020 also exclude the employees of some classes of employer, such as banks and retail-trade employers. Administrative, marketing and support staff are non-manual, so they fall within the duty only if they earn S$2,600 a month or less. Salespersons engaged as independent contractors are outside the WICA perimeter; the contractual relationship determines this.
 
 **2. Foreign-worker medical insurance.** Mandatory under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) for any Work Permit or S Pass holders. Stage 2 enhancement in force from 1 July 2025.
 

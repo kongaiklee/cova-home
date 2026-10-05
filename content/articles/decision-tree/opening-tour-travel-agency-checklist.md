@@ -21,7 +21,7 @@ og_description: "A tour or travel agency needs a Travel Agent Licence under the 
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore tour or travel agency requires a [Travel Agent Licence](https://www.stb.gov.sg/) under the [Travel Agents Act 1975](https://sso.agc.gov.sg/Act/TAA1975) and the Travel Agents Regulations 2017, administered by the [Singapore Tourism Board (STB)](https://www.stb.gov.sg/). STB issues two categories: a **General Licence** (the full scope of travel-agent activity) and a **Niche Licence** (tours within Singapore only, providing conveyance but not accommodation), each with its own minimum paid-up capital and a Key Executive requirement. Insurance baseline: **Public Liability** with worldwide territory, **Professional Indemnity** including Errors and Omissions cover for ticketing and booking errors, **WICA** insurance for staff where MOM requires it (all employees doing manual work, and non-manual employees earning S$2,600 a month or less), **Property/Fire** for the office, **Cyber Liability** with attention to BEC, **Crime / Money** for client funds and supplier payments, and **Tour Operator Liability** for inbound tour operations. The most distinctive risk: **financial responsibility for travel arrangements** - agents are intermediaries holding significant client funds, and the failure of a supplier (airline, hotel, ground operator) creates a client-compensation exposure.
+> A Singapore tour or travel agency requires a [Travel Agent Licence](https://www.stb.gov.sg/) under the [Travel Agents Act 1975](https://sso.agc.gov.sg/Act/TAA1975) and the Travel Agents Regulations 2017, administered by the [Singapore Tourism Board (STB)](https://www.stb.gov.sg/). STB issues two categories: a **General Licence** (the full scope of travel-agent activity) and a **Niche Licence** (tours within Singapore only, providing conveyance but not accommodation), each with its own minimum paid-up capital and a Key Executive requirement. Insurance baseline: **Public Liability** with worldwide territory, **Professional Indemnity** including Errors and Omissions cover for ticketing and booking errors, **WICA** insurance for staff where MOM requires it (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less), **Property/Fire** for the office, **Cyber Liability** with attention to BEC, **Crime / Money** for client funds and supplier payments, and **Tour Operator Liability** for inbound tour operations. The most distinctive risk: **financial responsibility for travel arrangements** - agents are intermediaries holding significant client funds, and the failure of a supplier (airline, hotel, ground operator) creates a client-compensation exposure.
 
 ### The Sourced Detail
 
@@ -105,7 +105,7 @@ Client-money handling should also be set up to meet the record-keeping and consu
 - PL with worldwide territory
 - PI / E&O for booking operations
 - Property/Fire for the office
-- WICA insurance where MOM requires it (all manual employees, and non-manual employees earning S$2,600 a month or less)
+- WICA insurance where MOM requires it (all manual employees, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
 - Group benefits if staff are employed
 - Cyber Liability with comprehensive BEC cover
 - Crime / Money

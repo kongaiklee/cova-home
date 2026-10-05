@@ -165,7 +165,7 @@ The introducer and the licensed FA / broker play complementary roles. Understand
 ### Related Information
 - [MAS Notice FAA-N02: Introducer Licence Requirements Explained](/regulatory-change/mas-faa-n02-introducer-licence-requirements)
 - [Insurance Act 1966: How Singapore Regulates Insurers and What That Means for Your Policy](/document-legal/insurance-act-1966-overview)
-- [FAA Section 27: The Suitability Assessment Obligation Behind Every Insurance Recommendation](/document-legal/faa-section-27-suitability-assessment)
+- [FAA Section 36: The Suitability Duty Behind Life Insurance and Investment Product Advice](/document-legal/faa-section-36-suitability-assessment)
 - [Tied Agent vs Independent Financial Adviser vs Insurance Broker: Which Is Right for Your Singapore Business?](/comparison/tied-agent-ifa-insurance-broker-singapore-business)
 
 *Published 5 May 2026. Source verified 5 May 2026.*
