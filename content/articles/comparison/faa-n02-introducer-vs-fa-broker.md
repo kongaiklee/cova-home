@@ -79,7 +79,7 @@ Covarage carries on no regulated activity. Covarage:
 - Does **not** conduct fact-finds
 - Does **not** hold premium or client funds
 
-The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup, and Covarage is paid an introduction fee by the licensed intermediary. The rationale is division of labour - the lighter introducer scope allows Covarage to engage SMEs broadly on factual, educational terms, while the licensed adviser handles the regulated advisory activity where the full consumer protections apply.
+The commercial model follows from that scope: the platform is **free for SMEs while in early access**, with no premium markup. The rationale is division of labour - Covarage engages SMEs broadly on factual, educational terms, while the licensed adviser handles the regulated advisory activity where the full consumer protections apply.
 
 #### What it means for SMEs
 

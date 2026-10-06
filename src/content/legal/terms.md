@@ -1,4 +1,4 @@
-**Version 1.0 - 25 August 2026**
+**Version 1.0.1 - 6 October 2026** (supersedes Version 1.0 of 25 August 2026)
 
 ## 1. About Covarage
 
@@ -51,8 +51,6 @@ only. We do not review, rate or comment on the cover an intermediary proposes to
 
 The platform is free while in early access. We will tell you before any charge applies.
 
-If an introduction leads to you taking out a policy, Covarage is paid an introduction fee by the
-intermediary, out of the intermediary's own commission. That fee does not increase your premium, and
 Covarage is not paid anything by any insurer. Covarage does not give advice, does not recommend a
 product and does not choose your insurer. Your licensed adviser does that, and they are accountable
 to you for it.
