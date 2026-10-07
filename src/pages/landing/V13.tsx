@@ -29,25 +29,44 @@ const SCRIM = 'linear-gradient(90deg, rgba(38,29,22,0.86) 0%, rgba(38,29,22,0.70
 
 /* The logo strip at the foot of the hero (Kong 2026-10-01 11:3x: "PROUD TO WORK WITH AND ALONGSIDE / CIMB | ASME | SRA | SMCCI |
    Deskimo | Charlie Legal AI | Associum AI", then "all have been approved / Proud to work with and alongside and put the logos in
-   exactly the sequence i shared"; CD's DIRECTION_lander-v1.3-and-er2027.md s10). His heading and his order; each logo one colour,
-   white on the desktop's dark foot and Teak on the phone's Sailcloth, at the height that gives it the same weight as the rest.
-   `on: false` takes a logo out with no gap. Names, never links: the lander does not send visitors away. */
-const PARTNERS: { slug: string; ext: 'svg' | 'png'; alt: string; desktopPx: number; phonePx: number; on: boolean }[] = [
-  { slug: 'cimb', ext: 'svg', alt: 'CIMB', desktopPx: 25, phonePx: 20, on: true },
-  { slug: 'asme', ext: 'png', alt: 'ASME', desktopPx: 34, phonePx: 27, on: true },
-  { slug: 'sra', ext: 'png', alt: 'Singapore Retailers Association', desktopPx: 22, phonePx: 18, on: true },
-  { slug: 'smcci', ext: 'png', alt: 'SMCCI', desktopPx: 35, phonePx: 27, on: true },
-  { slug: 'deskimo', ext: 'svg', alt: 'Deskimo', desktopPx: 20, phonePx: 16, on: true },
-  { slug: 'charlie-legal-ai', ext: 'png', alt: 'Charlie Legal AI', desktopPx: 23, phonePx: 18, on: true },
-  { slug: 'associum-ai', ext: 'png', alt: 'Associum AI', desktopPx: 34, phonePx: 27, on: true },
-  { slug: 'runway-ventures', ext: 'png', alt: 'The Runway Ventures', desktopPx: 18, phonePx: 14, on: true },
-  { slug: 'repair-sg', ext: 'png', alt: 'Repair.sg', desktopPx: 24, phonePx: 19, on: true },
-  { slug: 'coinside', ext: 'svg', alt: 'CoInside', desktopPx: 23, phonePx: 18, on: true },
+   exactly the sequence i shared"; CD's DIRECTION_lander-v1.3-and-er2027.md s10, v3.5). His heading and his order, twelve (SMF the
+   twelfth, after SFA - Kong 344). Every logo is its owner's own file, unaltered (Kong 330: "we should be following their usage
+   guidelines of all the logos"): the dark-ground file on the desktop's dark foot, the light-ground one on the phone's Sailcloth, and a
+   logo with no file for a ground sits on a small tile of a ground its owner uses (`tile`). Each at the height that gives it the same
+   weight as the rest. Associum's name is set beside its mark as text, as associum.ai does. `on: false` takes a logo out with no gap.
+   Names, never links: the lander does not send visitors away (and SMF's terms forbid its logo as a link). */
+type Ground = { file: string; tile?: string };
+const PARTNERS: {
+  slug: string; alt: string; light: Ground; dark: Ground; desktopPx: number; phonePx: number;
+  name?: { text: string; light: string; dark: string }; on: boolean;
+}[] = [
+  { slug: 'cimb', alt: 'CIMB', light: { file: 'cimb-on-light.png' }, dark: { file: 'cimb-on-dark.svg' }, desktopPx: 25, phonePx: 20, on: true },
+  { slug: 'asme', alt: 'ASME', light: { file: 'asme.png' }, dark: { file: 'asme.png' }, desktopPx: 34, phonePx: 27, on: true },
+  { slug: 'sra', alt: 'Singapore Retailers Association', light: { file: 'sra.png' }, dark: { file: 'sra.png', tile: '#FFFFFF' }, desktopPx: 26, phonePx: 21, on: true },
+  { slug: 'smcci', alt: 'Singapore Malay Chamber of Commerce and Industry (SMCCI)', light: { file: 'smcci.png' }, dark: { file: 'smcci.png', tile: '#FFFFFF' },
+    desktopPx: 58, phonePx: 46, on: true },
+  { slug: 'deskimo', alt: 'Deskimo', light: { file: 'deskimo.png' }, dark: { file: 'deskimo.png', tile: '#FFFFFF' }, desktopPx: 20, phonePx: 16, on: true },
+  { slug: 'charlie-legal-ai', alt: 'Charlie Legal AI', light: { file: 'charlie-legal-ai-on-light.png' }, dark: { file: 'charlie-legal-ai-on-dark.png' },
+    desktopPx: 23, phonePx: 18, on: true },
+  { slug: 'associum-ai', alt: 'Associum AI', light: { file: 'associum-ai-mark.webp' }, dark: { file: 'associum-ai-mark.webp' }, desktopPx: 26, phonePx: 21,
+    name: { text: 'Associum', light: '#0a111e', dark: '#f9fafb' }, on: true },
+  { slug: 'runway-ventures', alt: 'The Runway Ventures', light: { file: 'runway-ventures.png', tile: '#041026' }, dark: { file: 'runway-ventures.png' },
+    desktopPx: 18, phonePx: 14, on: true },
+  { slug: 'repair-sg', alt: 'Repair.sg', light: { file: 'repair-sg.png', tile: '#333333' }, dark: { file: 'repair-sg.png' }, desktopPx: 24, phonePx: 19, on: true },
+  { slug: 'coinside', alt: 'CoInside', light: { file: 'coinside-on-light.png' }, dark: { file: 'coinside-on-dark.svg' }, desktopPx: 23, phonePx: 18, on: true },
+  { slug: 'sfa-member', alt: 'A member of the Singapore FinTech Association', light: { file: 'sfa-member-on-light.png' }, dark: { file: 'sfa-member-on-dark.png' },
+    desktopPx: 27, phonePx: 22, on: true },
+  { slug: 'smf', alt: 'Singapore Manufacturing Federation', light: { file: 'smf-on-light.png' }, dark: { file: 'smf-on-dark.png' }, desktopPx: 26, phonePx: 21, on: true },
 ];
-/* Where a row ends, counted in the logos shown: on a phone after the 3rd, 6th and 8th (3 + 3 + 2 + 2, never one logo alone on a
-   row), at lg and up after the 5th (5 + 5; one row of ten would not fit the wrap). A slot switched off moves them. */
-const PHONE_BREAKS = [3, 6, 8];
-const DESKTOP_BREAKS = [5];
+/* Where a row ends, counted in the logos shown: on a phone after the 3rd, 6th, 8th and 10th (3 + 3 + 2 + 2 + 2: no four rows in his
+   order fit 360's width, and 3 + 3 + 2 + 3 left SMF alone on a fifth row), at lg and up after the 6th (6 + 6). A slot switched off
+   moves them. */
+const PHONE_BREAKS = [3, 6, 8, 10];
+const DESKTOP_BREAKS = [6];
+/* A tile's box on the ground it is drawn on - literal class strings, so Tailwind finds them. */
+const TILE_PHONE = 'rounded-lg px-[11px] py-[7px]';
+const TILE_DESK = 'lg:rounded-lg lg:px-[11px] lg:py-[7px]';
+const NO_TILE_DESK = 'lg:rounded-none lg:p-0';
 /* A second Teak scrim from the foot, laid over the live one, so every logo sits on the same dark ground whatever trade photo shows. */
 const FOOT = 'linear-gradient(0deg, rgba(38,29,22,0.88) 0, rgba(38,29,22,0.88) 132px, rgba(38,29,22,0) 260px)';
 
@@ -60,20 +79,37 @@ function LogoStrip() {
         <p className="m-0 mb-[18px] text-center text-xs font-medium tracking-[0.14em] text-primary uppercase lg:mb-5 lg:text-left lg:text-[#FDFBF9]">
           Proud to work with and alongside
         </p>
-        <ul className="m-0 flex list-none flex-wrap items-center justify-center gap-x-[18px] gap-y-5 p-0 lg:justify-between lg:gap-x-10 lg:gap-y-6">
+        <ul className="m-0 flex list-none flex-wrap items-center justify-center gap-x-[18px] gap-y-5 p-0 lg:justify-between lg:gap-6">
           {shown.map((p, i) => (
             <Fragment key={p.slug}>
               <li className="flex items-center" data-partner={p.slug}>
-                <picture>
-                  <source media="(min-width: 1024px)" srcSet={`${IMG}/partners/${p.slug}-on-dark.${p.ext}`} />
-                  <img
-                    src={`${IMG}/partners/${p.slug}-on-light.${p.ext}`}
-                    alt={p.alt}
-                    className="block h-[var(--ph)] w-auto lg:h-[var(--dh)]"
-                    style={{ '--ph': `${p.phonePx}px`, '--dh': `${p.desktopPx}px` } as CSSProperties}
-                    decoding="async"
-                  />
-                </picture>
+                <span
+                  className={`flex items-center bg-[color:var(--tl)] lg:bg-[color:var(--td)] ${p.light.tile ? TILE_PHONE : ''} ${p.dark.tile ? TILE_DESK : NO_TILE_DESK} ${p.name ? 'gap-[7px] lg:gap-2' : ''}`}
+                  style={{ '--tl': p.light.tile, '--td': p.dark.tile } as CSSProperties}
+                  data-tile-phone={p.light.tile}
+                  data-tile-desktop={p.dark.tile}
+                  {...(p.name ? { role: 'img', 'aria-label': p.alt } : {})}
+                >
+                  <picture>
+                    <source media="(min-width: 1024px)" srcSet={`${IMG}/partners/${p.dark.file}`} />
+                    <img
+                      src={`${IMG}/partners/${p.light.file}`}
+                      alt={p.name ? '' : p.alt}
+                      className="block h-[var(--ph)] w-auto lg:h-[var(--dh)]"
+                      style={{ '--ph': `${p.phonePx}px`, '--dh': `${p.desktopPx}px` } as CSSProperties}
+                      decoding="async"
+                    />
+                  </picture>
+                  {p.name && (
+                    <span
+                      className="font-['Space_Grotesk',Inter,sans-serif] text-[13px]/none font-bold tracking-[-0.02em] text-[color:var(--nl)] lg:text-base/none lg:text-[color:var(--nd)]"
+                      style={{ '--nl': p.name.light, '--nd': p.name.dark } as CSSProperties}
+                      aria-hidden
+                    >
+                      {p.name.text}
+                    </span>
+                  )}
+                </span>
               </li>
               {i < shown.length - 1 && PHONE_BREAKS.includes(i + 1) && <li aria-hidden className="h-0 basis-full lg:hidden" data-row-break="phone" />}
               {i < shown.length - 1 && DESKTOP_BREAKS.includes(i + 1) && <li aria-hidden className="hidden h-0 basis-full lg:block" data-row-break="desktop" />}
