@@ -43,7 +43,7 @@ The insurance stack must respond to each of these layers.
 
 #### The seven-cover insurance stack
 
-**1. Work Injury Compensation (WICA).** Required under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) section 24 for all employees doing manual work (such as cleaning staff) and for all employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, which can include teachers and administrative staff.
+**1. Work Injury Compensation (WICA).** Required under [WICA 2019](https://sso.agc.gov.sg/Act/WICA2019) section 24 for all employees doing manual work (such as cleaning staff) and for all employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, which can include teachers and administrative staff.
 
 **2. Foreign-worker medical insurance.** Mandatory under [EFMA 1990](https://sso.agc.gov.sg/Act/EFMA1990) for any Work Permit or S Pass holders. Stage 2 enhancement in force from 1 July 2025.
 

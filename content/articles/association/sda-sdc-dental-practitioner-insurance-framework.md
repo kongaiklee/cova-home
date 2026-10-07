@@ -125,7 +125,7 @@ The principal insurance lines for Singapore SME dental practices:
 
 **Implant and Prosthodontic Cover.** Implant failure, prosthodontic remake, and orthodontic adjustment claims can have extended exposure tails.
 
-**Work injury compensation insurance (WICA 2019).** Compulsory for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, subject to the classes the WIC (Insurance) Regulations 2020 exclude.
+**Work injury compensation insurance (WICA 2019).** Compulsory for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, subject to the classes the WIC (Insurance) Regulations 2020 exclude.
 
 **PL.** For clinic premises and dental-environment third-party exposure.
 

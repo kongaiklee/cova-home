@@ -59,7 +59,7 @@ The [Animals and Birds Act 1965](https://sso.agc.gov.sg/Act/ABA1965) establishes
 
 **Property / Fire** - covers clinic fit-out, examination rooms, surgical theatre, kennels, specialised equipment (ultrasound, X-ray, anaesthesia machine, laboratory equipment, dental equipment), pharmaceutical inventory including controlled drugs (which require specific declaration and storage protocols), and animal food / supplies.
 
-**WICA** - required for all employees (veterinarians, veterinary nurses / technicians, kennel staff, receptionists, cleaners), except those in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month. Animal-related injury is a material WICA risk (bites, scratches, zoonotic exposure, lifting injuries).
+**WICA** - required for all employees (veterinarians, veterinary nurses / technicians, kennel staff, receptionists, cleaners), except those in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month. Animal-related injury is a material WICA risk (bites, scratches, zoonotic exposure, lifting injuries).
 
 **Group Medical / Group PA** - voluntary employer-paid cover.
 

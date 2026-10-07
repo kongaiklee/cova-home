@@ -42,7 +42,7 @@ In practice, most participant injuries have multiple contributing factors and th
 **Question 2: Is the instructor an employee or an independent contractor?**
 
 Singapore yoga studios commonly engage instructors on different bases:
-- **Employed instructors:** WICA mandatory unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month; included on Group PA/Group Medical
+- **Employed instructors:** WICA mandatory unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month; included on Group PA/Group Medical
 - **Self-employed/freelance instructors:** WICA may not apply (depends on the substantive employment test); the studio's PI may or may not cover their acts
 - **Visiting/guest instructors:** typically covered under their own insurance, but participants are exposed if the visiting instructor is uninsured
 

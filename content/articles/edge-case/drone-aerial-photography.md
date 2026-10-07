@@ -134,7 +134,7 @@ For a Singapore commercial drone operator, the typical cover stack:
 
 5. **Professional Indemnity** if delivering creative or technical services.
 
-6. **WICA** if employing pilots, ground crew, or assistants. Single-pilot owner-operators are not employees of themselves. WICA covers employees under a contract of service or apprenticeship, not independent contractors or the self-employed, and WIC insurance is required for all employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less.
+6. **WICA** if employing pilots, ground crew, or assistants. Single-pilot owner-operators are not employees of themselves. WICA covers employees under a contract of service or apprenticeship, not independent contractors or the self-employed, and WIC insurance is required for all employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less.
 
 7. **Cyber** if storing client footage and personal data - particularly relevant for real estate work involving recognisable people, addresses, and property details.
 

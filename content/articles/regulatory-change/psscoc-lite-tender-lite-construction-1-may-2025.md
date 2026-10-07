@@ -74,7 +74,7 @@ For projects where the buyer requires public liability separate from the Section
 
 ### Work Injury Compensation (WICA)
 
-WICA insurance is mandatory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for every employer with employees doing manual work, and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or below. PSSCOC-lite does not modify this statutory floor: clause 27.1(1)(aa) requires the contractor to maintain such approved policy as the Work Injury Compensation Act 2019 requires.
+WICA insurance is mandatory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) for every employer with employees doing manual work, and for non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or below. PSSCOC-lite does not modify this statutory floor: clause 27.1(1)(aa) requires the contractor to maintain such approved policy as the Work Injury Compensation Act 2019 requires.
 
 The MOM-approved WICA panel insurers, listed in the [MOM list of designated WICA insurers (PDF)](https://www.mom.gov.sg/-/media/mom/documents/safety-health/lists/designated-insurers.pdf), are the carriers approved to write the statutory cover. The contractor's WICA policy must be with one of the designated panel insurers.
 

@@ -128,7 +128,7 @@ The principal insurance lines for Singapore SME medical practices:
 
 **Medical Indemnity / PI.** Not required by the ECEG 2016; held in practice through an MDO membership or a commercial PI policy.
 
-**Work injury compensation insurance.** Required under section 24 of the Work Injury Compensation Act 2019 for clinic employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less; optional for other employees.
+**Work injury compensation insurance.** Required under section 24 of the Work Injury Compensation Act 2019 for clinic employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less; optional for other employees.
 
 **PL.** For premises and clinical-environment third-party exposure.
 

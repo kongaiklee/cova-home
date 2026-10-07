@@ -21,7 +21,7 @@ og_description: "An art conservator holds other people's property in the studio.
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore art conservator or fine art restorer typically needs: **Bailee Cover / Care, Custody and Control extension** for artwork in studio (single pieces can be valued in millions), **Professional Indemnity** for restoration work errors, **Public Liability** for studio premises, **Property/Fire** for studio and equipment, **Goods in Transit** for collection and delivery of artworks, **Cyber Liability** for client and provenance data, and **work injury compensation insurance** for staff where the Work Injury Compensation Act 2019 requires it (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less). Standard SME PL **excludes property in care/custody/control** - explicit Bailee or CCC extension is essential for any conservator handling client artwork. For high-value pieces, **scheduled-item Bailee cover** lists named pieces with stated values. Provenance documentation, condition reports, photographic records, and chain-of-custody records are critical defence material against any claim alleging damage during conservation.
+> A Singapore art conservator or fine art restorer typically needs: **Bailee Cover / Care, Custody and Control extension** for artwork in studio (single pieces can be valued in millions), **Professional Indemnity** for restoration work errors, **Public Liability** for studio premises, **Property/Fire** for studio and equipment, **Goods in Transit** for collection and delivery of artworks, **Cyber Liability** for client and provenance data, and **work injury compensation insurance** for staff where the Work Injury Compensation Act 2019 requires it (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less). Standard SME PL **excludes property in care/custody/control** - explicit Bailee or CCC extension is essential for any conservator handling client artwork. For high-value pieces, **scheduled-item Bailee cover** lists named pieces with stated values. Provenance documentation, condition reports, photographic records, and chain-of-custody records are critical defence material against any claim alleging damage during conservation.
 
 ### The Sourced Detail
 
@@ -196,7 +196,7 @@ Whether PI responds depends on how the wording describes your professional servi
 - PL
 - Goods in Transit
 - Cyber Liability
-- Work injury compensation insurance for staff where the Work Injury Compensation Act 2019 requires it (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
+- Work injury compensation insurance for staff where the Work Injury Compensation Act 2019 requires it (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less)
 
 **Established conservator with team:**
 - Higher limits across the board

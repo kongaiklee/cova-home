@@ -40,7 +40,7 @@ The combination of WICA cover and CW/EL extension addresses the integrated workp
 **Specific scope.** Subject to the excluded classes, per the WICA framework (see [the complete employer guide](/document-legal/wica-complete-guide-singapore-employers) and [the November 2025 limit increase](/regulatory-change/wica-2025-limit-increase-claim-patterns)):
 
 - All manual workers, regardless of salary
-- Non-manual workers whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or below
+- Non-manual workers whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or below
 - Specific scope determinations per the Act
 
 **Mandatory procurement.** WICA cover must be procured from one of MOM's designated insurers (24 in MOM's list accurate as at 23 September 2026 for standard employers; 6 panel for platform operators per [Platform Workers Act 2024](https://sso.agc.gov.sg/Act/PWA2024); see [what the two lists mean for buyers](/comparison/wica-designated-insurer-panel)).

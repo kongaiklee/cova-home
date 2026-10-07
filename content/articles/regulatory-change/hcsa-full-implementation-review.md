@@ -263,7 +263,7 @@ Allied health services are potentially within the scope of HCSA, but MOH does no
 - Specific Professional Indemnity (service-specific)
 - Specific Public Liability (premises and operations)
 - Specific Property/Fire (premises)
-- Work injury compensation insurance for staff (compulsory under the Work Injury Compensation Act 2019 for all employees doing manual work, and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
+- Work injury compensation insurance for staff (compulsory under the Work Injury Compensation Act 2019 for all employees doing manual work, and for non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less)
 - Specific Cyber Liability (patient data and PDPA)
 - Specific Crime / Money
 

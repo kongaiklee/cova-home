@@ -131,7 +131,7 @@ For a creator who *is* the business, an injury or illness that stops on-camera w
 
 **Production agency / multi-creator team:**
 - Higher limits across the board
-- Work injury compensation insurance for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, subject to the classes the WIC (Insurance) Regulations 2020 exclude
+- Work injury compensation insurance for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, subject to the classes the WIC (Insurance) Regulations 2020 exclude
 - Comprehensive Cyber
 - D&O once incorporated
 

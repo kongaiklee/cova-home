@@ -146,7 +146,7 @@ For larger fleets, fleet-rated cover is an option.
 
 Logistics employees fall into these WICA groups:
 - Warehouse staff, drivers, handlers (manual; in scope regardless of salary)
-- Operations and admin staff (non-manual; in scope if their salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
+- Operations and admin staff (non-manual; in scope if their salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less)
 - Customs declaring staff (non-manual; in scope per salary threshold)
 
 Specific WICA exposures:

@@ -52,7 +52,7 @@ Indoor playgrounds combine paediatric-density premises liability with play-equip
 **Business Interruption** - covers loss of revenue following:
 - Fire / property damage closing premises
 
-**WICA** - required for all employees: floor supervisors, party hosts, F&B staff, cleaners, managers, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers.
+**WICA** - required for all employees: floor supervisors, party hosts, F&B staff, cleaners, managers, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers.
 
 **Group Medical / Group PA**: voluntary employer-paid cover, except that an employer must buy and maintain medical insurance for each Work Permit and S Pass holder it employs.
 

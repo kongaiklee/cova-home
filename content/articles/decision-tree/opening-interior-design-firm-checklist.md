@@ -21,7 +21,7 @@ og_description: "An interior design firm can seek voluntary CaseTrust accreditat
 
 > **The Answer in 60 Seconds**
 >
-> A Singapore interior design firm typically needs the following, with CaseTrust optional: **CaseTrust Renovation accreditation** (a voluntary scheme run by [CASE](https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/), with a joint version for members of the Singapore Renovation Contractors and Material Suppliers Association (RCMA)) including the associated **Deposit Performance Bond** if accepting customer deposits, **Professional Indemnity** for design and consultancy work (the limit set against project values and any limit client contracts require), **Public Liability** for site visits and showroom, **work injury compensation insurance** for the employees the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees such as designers, draftsmen and admin staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less), **Contractors All Risks (CAR)** for renovation works (typically the contractor's responsibility but verify scope), **Property/Fire** for office/showroom fit-out, and **Cyber** for client data and design IP. Firms that also act as renovation contractors (combined ID/contractor model) need contractor-side liability cover, a listing in HDB's [Directory of Renovation Contractors](https://www.hdb.gov.sg/business-partners/renovation-contractors/directory-of-renovation-contractors-drc) to renovate HDB flats, and [BCA Contractors Registration System](https://www1.bca.gov.sg/growth-and-transformation/procurement/registration-of-built-environment-firms/contractors-registration-system-crs/) registration if they hire construction S Pass or Work Permit holders or tender for public-sector construction work. Registration baseline: business registration with [ACRA](https://www.bizfile.gov.sg/), and a listing in HDB's [Directory of Renovation Contractors](https://www.hdb.gov.sg/business-partners/renovation-contractors/directory-of-renovation-contractors-drc) before carrying out renovations in HDB flats. CaseTrust is a voluntary accreditation, not a licence.
+> A Singapore interior design firm typically needs the following, with CaseTrust optional: **CaseTrust Renovation accreditation** (a voluntary scheme run by [CASE](https://www.case.org.sg/casetrust/casetrust-accreditation-for-renovation-businesses/), with a joint version for members of the Singapore Renovation Contractors and Material Suppliers Association (RCMA)) including the associated **Deposit Performance Bond** if accepting customer deposits, **Professional Indemnity** for design and consultancy work (the limit set against project values and any limit client contracts require), **Public Liability** for site visits and showroom, **work injury compensation insurance** for the employees the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees such as designers, draftsmen and admin staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less), **Contractors All Risks (CAR)** for renovation works (typically the contractor's responsibility but verify scope), **Property/Fire** for office/showroom fit-out, and **Cyber** for client data and design IP. Firms that also act as renovation contractors (combined ID/contractor model) need contractor-side liability cover, a listing in HDB's [Directory of Renovation Contractors](https://www.hdb.gov.sg/business-partners/renovation-contractors/directory-of-renovation-contractors-drc) to renovate HDB flats, and [BCA Contractors Registration System](https://www1.bca.gov.sg/growth-and-transformation/procurement/registration-of-built-environment-firms/contractors-registration-system-crs/) registration if they hire construction S Pass or Work Permit holders or tender for public-sector construction work. Registration baseline: business registration with [ACRA](https://www.bizfile.gov.sg/), and a listing in HDB's [Directory of Renovation Contractors](https://www.hdb.gov.sg/business-partners/renovation-contractors/directory-of-renovation-contractors-drc) before carrying out renovations in HDB flats. CaseTrust is a voluntary accreditation, not a licence.
 
 ### The Sourced Detail
 
@@ -70,7 +70,7 @@ An ID firm must be listed in HDB's DRC before it carries out renovations in HDB 
 - CaseTrust accreditation + Deposit Performance Bond
 - Professional Indemnity
 - Public Liability
-- Work injury compensation insurance for the employees the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
+- Work injury compensation insurance for the employees the Work Injury Compensation Act 2019 requires it for (all employees doing manual work, and non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less)
 - Property/Fire for office/showroom
 - Group Medical / Group PA for staff
 - Cyber Liability
@@ -214,7 +214,7 @@ For a typical Singapore interior design firm:
 - PI for design
 - CAR for the works
 - Public Liability
-- Work injury compensation insurance for own staff where the Act requires it (all manual workers, and non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless an excluded class applies); verify subcontractor WICA
+- Work injury compensation insurance for own staff where the Act requires it (all manual workers, and non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, unless an excluded class applies); verify subcontractor WICA
 - HDB renovation registration
 
 **Scenario B: Commercial office fit-out (Model B)**
@@ -264,7 +264,7 @@ For Singapore interior design firms, the insurance build reflects the dual natur
 
 7. **Plan for scaling.** Project values, headcount, and geographic scope all drive insurance requirements.
 
-Operating with appropriate insurance and CaseTrust accreditation is competitive positioning; CaseTrust itself is voluntary, while work injury compensation insurance is compulsory for employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less.
+Operating with appropriate insurance and CaseTrust accreditation is competitive positioning; CaseTrust itself is voluntary, while work injury compensation insurance is compulsory for employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less.
 
 ### Questions to Ask Your Adviser
 

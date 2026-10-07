@@ -43,7 +43,7 @@ This refers to insurance for the *child* (i.e., a child accident plan optionally
 
 Even though the Regulations do not mandate it, the covers a childcare centre may consider include:
 
-- **WICA insurance** - statutory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). Mandatory for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless an excluded class in the Second Schedule to the WIC (Insurance) Regulations 2020 applies. Cleaners, kitchen staff, and many junior teachers fall in scope.
+- **WICA insurance** - statutory under the [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019). Mandatory for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, unless an excluded class in the Second Schedule to the WIC (Insurance) Regulations 2020 applies. Cleaners, kitchen staff, and many junior teachers fall in scope.
 - **Public Liability** - covers third-party injury claims (e.g., a child slips and breaks an arm; a parent slips at pickup). No statutory minimum applies. A landlord's lease (for example an HDB or mall lease) may set a minimum limit.
 - **Professional Indemnity (educators)** - covers negligent advice or care decisions by principals/teachers.
 - **Property and contents** - for the physical centre, fittings, IT, and supplies.

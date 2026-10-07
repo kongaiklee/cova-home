@@ -25,7 +25,7 @@ og_description: "A travel agent licence turns on financial and fitness condition
 >
 > The only place insurance appears in the rules is [regulation 21](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf), which makes you ask the customer to consider buying **travel insurance** before you take payment for an eligible product. That is the cover the traveller buys, not cover the agency holds, and arranging it is a regulated activity in its own right.
 >
-> So the honest answer is: the licence needs capital, not a policy. Professional indemnity and public liability are sensible for booking errors and third-party claims, and your own staff need [work-injury cover under the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) because you employ people, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, but no statute ties any of those to the travel agent licence.
+> So the honest answer is: the licence needs capital, not a policy. Professional indemnity and public liability are sensible for booking errors and third-party claims, and your own staff need [work-injury cover under the Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) because you employ people, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month, but no statute ties any of those to the travel agent licence.
 
 ### The Sourced Detail
 
@@ -80,7 +80,7 @@ Three further policies come up constantly, and none of them is a licence conditi
 
 4. **Letting net value drift below the floor mid-licence.** [Regulation 9](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) requires the threshold to be met at all times, and a company cannot quietly reduce paid-up capital without the Board's approval.
 
-5. **Forgetting the agency's own WICA duty.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows your employment of staff, subject to the excluded classes, not the travel agent licence; a key executive officer who does non-manual work and whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month is in one of those classes.
+5. **Forgetting the agency's own WICA duty.** The [section 24](https://sso.agc.gov.sg/Act/WICA2019) obligation follows your employment of staff, subject to the excluded classes, not the travel agent licence; a key executive officer who does non-manual work and whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month is in one of those classes.
 
 6. **Confusing the licensed tour-guide requirement with insurance.** [Regulation 16](https://sso.agc.gov.sg/SL/TAA1975-RG1?ViewType=Pdf) requires that guiding services on local tours for tourists be provided by a licensed tourist guide. That is a personnel licensing rule, not a cover requirement.
 

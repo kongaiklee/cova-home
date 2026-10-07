@@ -145,7 +145,7 @@ Restaurant staff classifications for WICA's duty to insure (section 24) are list
 - Front-of-house service staff (typically manual; in scope)
 - Bar staff (manual; in scope)
 - Cleaners (manual; in scope)
-- Management (non-manual; in scope if salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
+- Management (non-manual; in scope if salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less)
 - Part-time / casual staff (in scope per category)
 
 Specific WICA exposures:

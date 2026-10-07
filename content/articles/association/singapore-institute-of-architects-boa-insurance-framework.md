@@ -110,7 +110,7 @@ The principal insurance lines for Singapore SME architectural practices:
 
 **Public Liability (PL).** Not statutorily compelled for architects, but client contracts can require it. Coverage for third-party bodily injury and property damage arising from the practice's operations, including site visits.
 
-**Work Injury Compensation (WIC) insurance.** Statutorily compelled under the Work Injury Compensation Act 2019 for manual employees and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 per month or less (see [the MOM designated insurer rules](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work Injury Compensation (WIC) insurance.** Statutorily compelled under the Work Injury Compensation Act 2019 for manual employees and non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 per month or less (see [the MOM designated insurer rules](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Run-Off PI Cover.** Critical for sole-practitioner retirement, partnership change, or firm cessation. Claims-made PI leaves past work uninsured once the policy stops, and under the [Limitation Act 1959](https://sso.agc.gov.sg/Act/LA1959) a claim can be brought within 6 years after the cause of action accrued or, for negligence causing latent damage, within 3 years after the claimant learns of the damage if that is later, subject to a 15-year cut-off from the negligent act (sections 6, 24A and 24B). Run-off cover preserves cover for past acts after the practice ceases.
 

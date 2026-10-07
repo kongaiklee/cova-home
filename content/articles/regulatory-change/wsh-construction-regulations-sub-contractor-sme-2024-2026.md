@@ -69,7 +69,7 @@ For Singapore construction SMEs, bizSAFE Level 3 shows that the firm has done ri
 
 Sub-contractor SME insurance flows through three interlocking channels:
 
-**Channel 1: WIC insurance (statutory cover).** Every sub-contractor SME with manual employees or non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less must hold WIC insurance, under section 24 of the Work Injury Compensation Act 2019, from an MOM designated insurer (see [why the list needs checking at each renewal](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)). The 1 November 2025 compensation limit uplift (death S$269,000 maximum; permanent incapacity S$346,000 maximum; medical S$53,000) automatically applies to WIC insurance policies.
+**Channel 1: WIC insurance (statutory cover).** Every sub-contractor SME with manual employees or non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less must hold WIC insurance, under section 24 of the Work Injury Compensation Act 2019, from an MOM designated insurer (see [why the list needs checking at each renewal](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)). The 1 November 2025 compensation limit uplift (death S$269,000 maximum; permanent incapacity S$346,000 maximum; medical S$53,000) automatically applies to WIC insurance policies.
 
 **Channel 2: Employer's common-law liability.** WIC insurance can include a common-law extension or rider responding to claims by the SME's own employees suing at common law for negligence (rather than claiming under WICA). The common-law extension sub-limit should be tested at placement.
 

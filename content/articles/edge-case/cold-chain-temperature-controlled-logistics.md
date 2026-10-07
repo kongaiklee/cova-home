@@ -97,7 +97,7 @@ Equipment Breakdown responds where Property excludes (Property covers external p
 - Customer order data, customer-cargo-value data
 - Vehicle telematics / GPS tracking systems
 
-**WICA** - for employed staff, with specific consideration of cold-environment work, subject to the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude from the insurance duty, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month.
+**WICA** - for employed staff, with specific consideration of cold-environment work, subject to the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude from the insurance duty, such as non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month.
 
 **Group Medical / Group PA** - employer-paid cover; it is voluntary, except that an employer must buy and maintain medical insurance, with inpatient and day surgery cover of at least S$60,000 a year, for each Work Permit and S Pass holder it employs.
 

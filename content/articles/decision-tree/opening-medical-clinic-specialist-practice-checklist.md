@@ -153,7 +153,7 @@ Beyond the doctor's individual Medical Indemnity:
 
 **WICA:**
 - Clinic staff (nurses, medical assistants, admin, cleaners)
-- Insurance is required for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless another excluded class in the WIC (Insurance) Regulations applies; cover for other staff is a choice, and the duty to compensate under WICA applies either way
+- Insurance is required for staff doing manual work and for non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, unless another excluded class in the WIC (Insurance) Regulations applies; cover for other staff is a choice, and the duty to compensate under WICA applies either way
 - Insurance for common law liabilities can also be bought; MOM notes it is not governed under WICA
 
 **Group benefits:**

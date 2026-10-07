@@ -101,7 +101,7 @@ The implication for SME Employment Practices Liability Insurance (EPLI) procurem
 
 The foreign-worker cost stack interacts with insurance through several channels:
 
-**Work Injury Compensation Insurance (WICI 2019)** is mandatory for manual employees and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 per month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of retailers and hotel-keepers, or staff employed in operating a coffee shop. From 1 November 2025, the WICA compensation limits uplifted (death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000). The compulsory policy terms let an insurer charge reasonable additional premium, or cancel the policy, when the legislation changes.
+**Work Injury Compensation Insurance (WICI 2019)** is mandatory for manual employees and non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 per month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as the staff of retailers and hotel-keepers, or staff employed in operating a coffee shop. From 1 November 2025, the WICA compensation limits uplifted (death S$269,000 maximum, permanent incapacity S$346,000 maximum, medical S$53,000). The compulsory policy terms let an insurer charge reasonable additional premium, or cancel the policy, when the legislation changes.
 
 **Foreign Worker Medical Insurance (FWMI)** is mandatory under EFMA for Work Permit and S Pass holders. The minimum annual coverage amount is set by MOM and has stepped up in prior cycles. The current FWMI minimum should be verified at MOM at the time of placement. FWMI covers inpatient medical expenses for the foreign worker.
 
@@ -165,7 +165,7 @@ Insurance procurement workflow:
 
 7. **Buying Employment Practices Liability cover without verifying WFA response.** From expected end-2027 commencement, the policy should specifically respond to statutory tort of discrimination claims. Older EPLI wordings may pre-date the WFA framework.
 
-8. **Misclassifying employees for WICI purposes.** "Manual employee" and "non-manual employee whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 per month or less" are the WICA 2019 categories, subject to the excluded classes. Misclassification can lead to inadequate WICI cover and statutory penalties for failure to insure.
+8. **Misclassifying employees for WICI purposes.** "Manual employee" and "non-manual employee whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 per month or less" are the WICA 2019 categories, subject to the excluded classes. Misclassification can lead to inadequate WICI cover and statutory penalties for failure to insure.
 
 9. **Not coordinating cyber, EPL, and D&O cover.** Employment-related claims can intersect with cyber (employee data privacy), EPL (discrimination), and D&O (board-level decisions on dismissal). The three policies should be coordinated to avoid gaps.
 

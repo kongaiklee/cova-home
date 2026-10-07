@@ -53,11 +53,11 @@ Botox, fillers, IV drips, prescription products. Operates under Healthcare Servi
 
 **1. WICA insurance**
 
-For all manual workers (regardless of salary) and non-manual workers whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude (see the hair-salon note below). Salon staff typically captured where the duty applies:
+For all manual workers (regardless of salary) and non-manual workers whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, unless they fall in a class the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude (see the hair-salon note below). Salon staff typically captured where the duty applies:
 - Stylists, colourists
 - Therapists, beauticians (manual)
 - Junior staff, assistants, trainees (manual)
-- Receptionist (non-manual; in scope if salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less)
+- Receptionist (non-manual; in scope if salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less)
 
 **The hair-salon note.** The Regulations exclude from the duty to insure "any employee employed in the operation of a hairdressing saloon". They do not define the term, and the class turns on the work an employee does, not on the business that employs them, so whether it reaches your salon, and which of your staff, is a question for MOM or your insurer. Where it does, only the duty to insure is lifted: you will still have to compensate an employee who makes a valid claim under WICA, whether or not they are insured.
 

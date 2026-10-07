@@ -29,7 +29,7 @@ The designated insurer panel framework is a distinctive feature of Singapore's W
 
 #### The WICA mandate
 
-The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires employers to compensate employees for work injuries. It also requires them to insure, a duty that covers **all manual workers regardless of salary** and **non-manual workers whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less**, subject to the excluded classes.
+The [Work Injury Compensation Act 2019](https://sso.agc.gov.sg/Act/WICA2019) requires employers to compensate employees for work injuries. It also requires them to insure, a duty that covers **all manual workers regardless of salary** and **non-manual workers whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less**, subject to the excluded classes.
 
 The compensation is capped, and the limits - effective **1 November 2025** - are S$269,000 for death, S$346,000 for total permanent incapacity, and S$53,000 for medical expenses. (Confirm the prevailing limits before relying on them.)
 
@@ -61,7 +61,7 @@ Standard WICA assumes an employer-employee relationship, draws on the 24-insurer
 
 #### Industry WICA dynamics
 
-Construction and manufacturing carry substantial WICA exposure - a high proportion of manual workers and greater injury frequency. Services and professional firms carry lower exposure, since more of their staff are non-manual workers, and those whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month fall outside the duty to insure (the employer must still compensate any employee who makes a valid claim).
+Construction and manufacturing carry substantial WICA exposure - a high proportion of manual workers and greater injury frequency. Services and professional firms carry lower exposure, since more of their staff are non-manual workers, and those whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month fall outside the duty to insure (the employer must still compensate any employee who makes a valid claim).
 
 #### Premium calculation
 
@@ -99,7 +99,7 @@ A platform operator follows a parallel path: confirm Platform Workers Act scope;
 ### Common Mistakes / What Goes Wrong
 
 1. **Procuring WICA from a non-designated insurer.** The cover must come from a panel insurer; a non-designated policy does not discharge the WICA obligation.
-2. **WICA scope inadequate for the workforce.** Outside the excluded classes, the duty to insure covers manual workers regardless of salary and non-manual workers whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less; WICA itself covers employees whatever their salary, so misclassifying who needs cover can leave the employer's liability for those employees uninsured.
+2. **WICA scope inadequate for the workforce.** Outside the excluded classes, the duty to insure covers manual workers regardless of salary and non-manual workers whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less; WICA itself covers employees whatever their salary, so misclassifying who needs cover can leave the employer's liability for those employees uninsured.
 3. **No Common-Law / Employer's Liability extension.** A negligence claim outside the WICA scale is then uninsured.
 4. **No annual rate review.** Panel composition and industry rates move; an unreviewed policy can drift above market.
 5. **No industry-aware intermediary.** A broker without trade-specific WICA experience is poorly placed to negotiate construction or manufacturing rates.

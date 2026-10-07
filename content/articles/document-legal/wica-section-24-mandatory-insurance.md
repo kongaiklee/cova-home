@@ -34,7 +34,7 @@ Per [WICA 2019 Section 24](https://sso.agc.gov.sg/Act/WICA2019):
 
 The section - headed "Employer must be insured against liabilities under Act" - requires every employer to be insured:
 - For the full extent of liability under the Act
-- For every employee, except the excluded classes prescribed under section 24(2)(a) (such as non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month)
+- For every employee, except the excluded classes prescribed under section 24(2)(a) (such as non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month)
 - With an insurer, under an approved policy
 - On the mandatory terms set within the WICA regulatory framework
 
@@ -42,10 +42,10 @@ The section sits within Part 3 of WICA (Work Injury Compensation Insurance) alon
 
 #### Who Section 24 applies to
 
-WICA covers employees regardless of salary, but the insurance duty does not apply to the excluded classes prescribed under section 24(2)(a). These include non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month and the employees of certain employers, such as the Government, banks, employers engaged in retail trade and hotel-keepers. The employer must still compensate those employees under WICA if they make a valid claim, whether or not they are insured. Subject to those exclusions, MOM states that employers must insure:
+WICA covers employees regardless of salary, but the insurance duty does not apply to the excluded classes prescribed under section 24(2)(a). These include non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month and the employees of certain employers, such as the Government, banks, employers engaged in retail trade and hotel-keepers. The employer must still compensate those employees under WICA if they make a valid claim, whether or not they are insured. Subject to those exclusions, MOM states that employers must insure:
 
 - All manual workers, regardless of salary
-- Non-manual workers whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or below
+- Non-manual workers whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or below
 - Specific scope determinations per the Act
 
 Notable points: the threshold-based approach means employee classification matters operationally (a non-manual worker promoted past S$2,600 moves outside the compulsory insurance requirement but stays covered by WICA, so the employer must still pay any valid claim if that worker is uninsured); manual classification is determined by job duties not job title.
@@ -118,7 +118,7 @@ Three areas where Section 24 compliance commonly fails:
 
 Section 24 establishes the foundation that every Singapore SME WICA procurement must address:
 
-The employer must hold WICA cover under an approved policy at all times for every employee section 24 requires it to insure (outside the excluded classes, all manual workers and non-manual workers whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less). The cover must respond to full statutory liability. Common-law gap is addressed via Employer's Liability extension as a commercial (not Section 24) matter. Cross-border, platform worker, and contractor scenarios require specific evaluation.
+The employer must hold WICA cover under an approved policy at all times for every employee section 24 requires it to insure (outside the excluded classes, all manual workers and non-manual workers whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less). The cover must respond to full statutory liability. Common-law gap is addressed via Employer's Liability extension as a commercial (not Section 24) matter. Cross-border, platform worker, and contractor scenarios require specific evaluation.
 
 For SMEs, this means WICA renewal is not a routine renewal - it's a regulatory compliance event with criminal consequences for failure. Operational discipline matters at every cycle.
 

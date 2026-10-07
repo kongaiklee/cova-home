@@ -44,7 +44,7 @@ ME workheads are graded L1 (entry) to L6 (highest). Per the [BCA tendering limit
 
 **Workmanship coverage.** A frequent gap: standard PL excludes the cost of redoing your own defective work.
 
-**WICA.** Insurance is mandatory, per [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation), for all employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 a month or less, except in the classes the Work Injury Compensation (Insurance) Regulations 2020 exclude, such as employees of the Government, banks and retail-trade employers.
+**WICA.** Insurance is mandatory, per [MOM](https://www.mom.gov.sg/workplace-safety-and-health/work-injury-compensation), for all employees doing manual work and for non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 a month or less, except in the classes the Work Injury Compensation (Insurance) Regulations 2020 exclude, such as employees of the Government, banks and retail-trade employers.
 
 ### Typical insurance stack for an ME contractor
 

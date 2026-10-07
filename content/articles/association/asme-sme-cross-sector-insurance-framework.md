@@ -49,7 +49,7 @@ SME members are regulated by their sectoral statutes and by cross-cutting Singap
 
 **Employment Act 1968.** Available on [SSO](https://sso.agc.gov.sg/Act/EmA1968). Governs employment terms, working hours, leave, and other employment matters.
 
-**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees whose salary, not counting overtime, bonuses, incentive payments and allowances, is S$2,600 per month or less, subject to the excluded classes. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
+**Work Injury Compensation Act 2019.** Available on [SSO](https://sso.agc.gov.sg/Act/WICA2019). Mandatory WICI for manual employees and non-manual employees whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is S$2,600 per month or less, subject to the excluded classes. 1 November 2025 limit uplift (see [the old and new compensation amounts](/regulatory-change/mom-designated-insurer-mechanics-wica-2019)).
 
 **Workplace Safety and Health Act 2006.** Available on [SSO](https://sso.agc.gov.sg/Act/WSHA2006). Employer duty under section 12, principal duty under section 14A, offences and penalties under sections 50 to 52 (see [what changed for sub-contractor SMEs](/regulatory-change/wsh-construction-regulations-sub-contractor-sme-2024-2026)).
 
@@ -127,7 +127,7 @@ ASME does not itself underwrite insurance.
 
 1. **Assuming an FAA-N02 introducer can place general insurance.** MAS Notice FAA-N02 governs introducers for financial advisory services, which concern investment products such as life policies; public liability or property cover is not an investment product.
 
-2. **WICA at statutory floor without common-law employer's liability extension.** WICA covers employees regardless of salary, so non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month can still claim under it; insuring them is the employer's choice, and the employer must compensate a valid claim either way. Cover for common law liabilities is optional; MOM suggests discussing a rider for them with the WIC insurer.
+2. **WICA at statutory floor without common-law employer's liability extension.** WICA covers employees regardless of salary, so non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month can still claim under it; insuring them is the employer's choice, and the employer must compensate a valid claim either way. Cover for common law liabilities is optional; MOM suggests discussing a rider for them with the WIC insurer.
 
 3. **PL sub-limits inadequate for retail / F&B incident severity.**
 
@@ -154,7 +154,7 @@ Comparative quotes from alternative brokers, direct insurer portals or insurers'
 ### Questions to Ask Your Adviser
 
 1. For our SME, is the operational insurance baseline (WICI, PL, Property, Cyber, D&O, Group Medical/PA) in place at appropriate limits?
-2. Have we decided whether to insure non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month (WICA still covers them, and we must compensate a valid claim whether or not they are insured), and do we want cover for common law liabilities?
+2. Have we decided whether to insure non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month (WICA still covers them, and we must compensate a valid claim whether or not they are insured), and do we want cover for common law liabilities?
 3. For our retail or F&B premises (if applicable), is PL sized for credible incident severity?
 4. For PDPA compliance, is our Cyber cover adequate for regulatory-defence and notification-cost exposure under section 48J?
 5. For incorporated SMEs, is D&O cover in place for director personal exposure under Companies Act section 157?

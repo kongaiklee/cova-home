@@ -42,7 +42,7 @@ Three structural features distinguish SaaS from typical SME exposures:
 **Pre-revenue / building stage:**
 - Minimal insurance; founders carry most risks themselves
 - Public Liability if a physical office is leased
-- Employees: WICA mandatory for any Singapore-employed staff outside the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers
+- Employees: WICA mandatory for any Singapore-employed staff outside the classes the [WIC (Insurance) Regulations](https://sso.agc.gov.sg/SL/WICA2019-RG3?ProvIds=Sc2-) exclude, such as non-manual staff whose salary, not counting overtime, bonuses, the annual wage supplement, incentive payments and allowances, is more than S$2,600 a month, or the staff of banks, retailers and hotel-keepers
 
 **Pre-seed / seed (S$0-S$2M ARR, 5-15 staff):**
 - **Cyber Liability** - first priority once any customer data is held
