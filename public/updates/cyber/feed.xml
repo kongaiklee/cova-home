@@ -6,8 +6,248 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Mon, 28 Sep 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft: Windows 11 23H2 reaches end of support in 30 days</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-12-microsoft-windows-11-23h2-reaches-end-of-support-in-30-days</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-reaches-end-of-support-in-30-days/</description>
+    </item>
+    <item>
+      <title>Six Persons To Be Charged For Their Involvement In Scam-Related Money Mule Activities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-11-six-persons-to-be-charged-for-their-involvement-in-scam-related-money-mule-activ</guid>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/10/20261011_six_persons_to_be_charged_for_their_involvement_in_scam_related_money_mule_activities</description>
+    </item>
+    <item>
+      <title>Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-09-hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/</description>
+    </item>
+    <item>
+      <title>Max severity SonicWall SMA1000 flaw now exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-09-max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>Microsoft: Outdated Windows devices will stop receiving security updates</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-09-microsoft-outdated-windows-devices-will-stop-receiving-security-updates</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/</description>
+    </item>
+    <item>
+      <title>Police Advisory On Phishing Scams Involving Hotels And Hotel Bookings Platforms</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-09-police-advisory-on-phishing-scams-involving-hotels-and-hotel-bookings-platforms</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/10/20261009_police_advisory_on_phishing_scams_involving_hotels_and_hotel_bookings_platforms</description>
+    </item>
+    <item>
+      <title>Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-09-unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/</description>
+    </item>
+    <item>
+      <title>FakeGit malware campaign returns with 17,610 malicious GitHub repos</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-08-fakegit-malware-campaign-returns-with-17-610-malicious-github-repos</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/</description>
+    </item>
+    <item>
+      <title>FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-07-fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/</description>
+    </item>
+    <item>
+      <title>Hackers hijack Google domains after breaching ccTLD registries</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-07-hackers-hijack-google-domains-after-breaching-cctld-registries</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/</description>
+    </item>
+    <item>
+      <title>ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-06-clickfix-campaign-in-ukraine-compromises-over-100-websites-to-spread-lunex-malwa</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by The Record. Source: https://therecord.media/clickfix-campaign-ukraine-lunex-stealer</description>
+    </item>
+    <item>
+      <title>Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-06-fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/</description>
+    </item>
+    <item>
+      <title>Ninja Forms plugin flaw exploited to hack WordPress sites</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-06-ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/</description>
+    </item>
+    <item>
+      <title>Rejetto HFS servers now actively scanned for critical RCE flaw</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-05-rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/</description>
+    </item>
+    <item>
+      <title>US, Australia warn of latest Citrix vulnerability after NetScaler advisory</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-05-us-australia-warn-of-latest-citrix-vulnerability-after-netscaler-advisory</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by The Record. Source: https://therecord.media/us-australia-warn-of-latest-citrix-vulnerability</description>
+    </item>
+    <item>
+      <title>Citrix patches NetScaler SAML zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-04-citrix-patches-netscaler-saml-zero-day-exploited-in-attacks</guid>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>&apos;Warlock&apos; ransomware used in attacks on critical infrastructure in Portuguese, Spanish-speaking countries</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-02-warlock-ransomware-used-in-attacks-on-critical-infrastructure-in-portuguese-span</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by The Record. Source: https://therecord.media/warlock-ransomware-used-in-critical-infrastructure-attacks</description>
+    </item>
+    <item>
+      <title>Extremely High Risk: Fortinet Products Remote Code Execution Vulnerability</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-02-extremely-high-risk-fortinet-products-remote-code-execution-vulnerability</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by HKCERT. Source: https://www.hkcert.org/security-bulletin/fortinet-products-remote-code-execution-vulnerability_20261002</description>
+    </item>
+    <item>
+      <title>Man To Be Charged For Suspected Involvement In Scam-Related Money Laundering Activities</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-02-man-to-be-charged-for-suspected-involvement-in-scam-related-money-laundering-act</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/10/20261002_man_to_be_charged_for_suspected_involvement_in_scam_related_money_laundering</description>
+    </item>
+    <item>
+      <title>Police Advisory On Phishing Scams Involving Fraudulent Social Media Advertisements</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-02-police-advisory-on-phishing-scams-involving-fraudulent-social-media-advertisemen</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/10/20261002_police_advisory_on_phishing_scams_involving_fraudulent_social_media_advertisements</description>
+    </item>
+    <item>
+      <title>Warlock ransomware breach SharePoint in water, telecom operator attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-02-warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/</description>
+    </item>
+    <item>
+      <title>Fortinet warns of critical FortiMail flaw exploited in zero-day attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-01-fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/</description>
+    </item>
+    <item>
+      <title>Advisory on CARBONATO Botnet Campaign Targeting Exposed Docker Daemons</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-30-advisory-on-carbonato-botnet-campaign-targeting-exposed-docker-daemons</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA advisories. Source: https://www.csa.gov.sg/alerts-and-advisories/advisories/ad-2026-012/</description>
+    </item>
+    <item>
+      <title>CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-30-cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/</description>
+    </item>
+    <item>
+      <title>Cisco warns of new SD-WAN zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-30-cisco-warns-of-new-sd-wan-zero-day-exploited-in-attacks</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>DIVD says Zammad zero-days enabled AI-driven network breach</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-30-divd-says-zammad-zero-days-enabled-ai-driven-network-breach</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/</description>
+    </item>
+    <item>
+      <title>Apple patches CoreGraphics zero-day flaw exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-29-apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>Custom ChatGPTs push ClickFix attacks to deploy RAT malware</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-29-custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/</description>
+    </item>
+    <item>
+      <title>Hackers exploit Citrix NetScaler zero-day to deploy web shells</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-29-hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/</description>
+    </item>
+    <item>
+      <title>Kiteworks patches critical flaw, brings customer systems online</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-29-kiteworks-patches-critical-flaw-brings-customer-systems-online</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/</description>
+    </item>
     <item>
       <title>JadePuffer agentic AI attacks target Azure, destroy cloud resources</title>
       <link>https://covarage.com/updates/cyber</link>
@@ -63,6 +303,14 @@
       <pubDate>Fri, 25 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/</description>
+    </item>
+    <item>
+      <title>Active Exploitation of High-Severity Vulnerability in WordPress</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-24-active-exploitation-of-high-severity-vulnerability-in-wordpress</guid>
+      <pubDate>Thu, 24 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-128/</description>
     </item>
     <item>
       <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
@@ -319,6 +567,14 @@
       <pubDate>Sat, 19 Sep 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/</description>
+    </item>
+    <item>
+      <title>Active Exploitation of Critical Vulnerability in Cisco AsyncOS</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-09-18-active-exploitation-of-critical-vulnerability-in-cisco-asyncos</guid>
+      <pubDate>Fri, 18 Sep 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-125/</description>
     </item>
     <item>
       <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
