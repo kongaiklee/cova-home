@@ -1,7 +1,7 @@
 {
   "_contract": "The weekly screen's output surface (CPO_NEWSFEED_official-updates.md v1; wording rules in CMO_NEWSFEED_whitelist.md). CMO runs the screen, TM commits the result here. reviewed.date moves ONLY when a screen actually ran - a stamp is a claim. reviewed.sources names ONLY what that run actually screened; reviewed.pending names whitelist sources the run did NOT reach, so an unscreened source is stated, never quietly omitted. items[] carries source headlines VERBATIM with attribution and the canonical outbound url - never COVA commentary (that is v2, unruled). Screen record: nodes/working/TM_screen_<date>/SCREEN_RECORD.md.",
   "reviewed": {
-    "date": "2026-10-13",
+    "date": "2026-10-15",
     "sources": [
       "MOM",
       "PDPC",
@@ -42,16 +42,394 @@
     },
     "assessed": {
       "by": "CMO w32",
-      "at": "2026-10-14 13:09",
+      "at": "2026-10-15 23:35",
       "rubric": "v1 (working/CMO_UPDATES_FIT_RUBRIC.md, 2026-09-11)",
       "counts": {
-        "fit": 41,
-        "hold": 7,
-        "out": 165,
+        "fit": 23,
+        "hold": 6,
+        "out": 108,
         "articles": 0
       },
       "articles": [],
       "held": [
+        {
+          "title": "MAS Monetary Policy Statement - October 2026",
+          "source": "MAS",
+          "url": "https://www.mas.gov.sg/news/monetary-policy-statements/2026/mas-monetary-policy-statement-14oct26",
+          "date": "2026-10-14",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "OUT: a monetary policy statement; no business duty changes"
+        },
+        {
+          "title": "October 2026 Monthly Patch",
+          "source": "CSA alerts",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-142/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only) in CSA's words; row 46 carries October's exploited Windows zero-days"
+        },
+        {
+          "title": "Critical Vulnerability in GitLab Community Edition and Enterprise Edition",
+          "source": "CSA alerts",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-141/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Advisory on Quantum-Safe Migration for Organisations",
+          "source": "CSA advisories",
+          "url": "https://www.csa.gov.sg/alerts-and-advisories/advisories/advisory-on-quantum-safe-migration-for-organisations/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: the same quantum-safe subject as row 7, which is held"
+        },
+        {
+          "title": "Cyber Incidents Remain Widespread: New Helpline Launched to Support Organisations",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/cyber-incidents-remain-widespread-new-helpline-launched-to-support-organisations/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a public programme with no business duty"
+        },
+        {
+          "title": "Singapore Commits S$30 Million to Strengthen Regional Cyber Resilience Against Emerging Cyber Threats",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/singapore-commits-s-30-million-to-strengthen-regional-cyber-resilience-against-emerging-cyber-threats/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a public programme with no business duty"
+        },
+        {
+          "title": "CSA Sets Out Quantum-Safe Migration Timeline for Organisations and Launches New Grant",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/csa-sets-out-quantum-safe-migration-timeline-for-organisations-and-launches-new-grant/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "HOLD",
+          "why": "settle: whether CSA's quantum-safe migration timeline binds businesses (FIT 1) or is guidance with a grant (OUT)"
+        },
+        {
+          "title": "High Risk: Elevation of Privilege",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2026",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Medium Risk: MongoDB Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261014",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Medium Risk: Google Chrome Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261014",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Medium Risk: Fortinet Products Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261014",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Extremely High Risk: Ivanti Connect Secure Remote Code Execution Vulnerability",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/ivanti-connect-secure-remote-code-execution-vulnerability_20261014",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: the same exploited Ivanti Connect Secure flaw as row 41, which carries it"
+        },
+        {
+          "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/10/14/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "HOLD",
+          "why": "the headline does not name the products added to the exploited catalogue - FIT 3 if they are software businesses run (as 10-05)"
+        },
+        {
+          "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+        },
+        {
+          "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a consumer-only item (personal devices and banking apps)"
+        },
+        {
+          "title": "Microsoft fixes VPN issues caused by September Windows updates",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a vendor announcing its own product or content"
+        },
+        {
+          "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a vendor announcing its own product or content"
+        },
+        {
+          "title": "Global takedown hits network behind 1 billion phishing messages",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+        },
+        {
+          "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: the same exploited Ivanti Connect Secure flaw as row 41, which carries it"
+        },
+        {
+          "title": "Hirudo Android malware replaces banking apps to evade security checks",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a consumer-only item (personal devices and banking apps)"
+        },
+        {
+          "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a vendor announcing its own product or content"
+        },
+        {
+          "title": "North Macedonian police arrest alleged administrator behind OLVX cybercrime market",
+          "source": "The Record",
+          "url": "https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+        },
+        {
+          "title": "Brooklyn DA's office disrupts crypto scam targeting Russian community",
+          "source": "The Record",
+          "url": "https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+        },
+        {
+          "title": "Spyware manufacturer had access to data harvested by former Polish government, current PM says",
+          "source": "The Record",
+          "url": "https://therecord.media/spyware-manufacturer-had-access-to-data-harvested-by-previous-polish-government",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: not about a business here (a foreign government's spyware)"
+        },
+        {
+          "title": "Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals",
+          "source": "The Record",
+          "url": "https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a vendor's takedown of phishing platforms, not a live threat to a business"
+        },
+        {
+          "title": "Russian travel booking platform suspends reservations after cyberattack",
+          "source": "The Record",
+          "url": "https://therecord.media/russia-anywayanyday-travel-website-cyberattack",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
+        },
+        {
+          "title": "Combatting the 'Vulnpocalypse' With Zero-Day Alerts",
+          "source": "Coalition",
+          "url": "https://www.coalitioninc.com/blog/security-labs/combatting-the-vulnpocalypse-with-zero-day-alerts",
+          "date": "2026-10-14",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a vendor announcing its own product or content"
+        },
+        {
+          "title": "WSH Bulletin 13 October 2026 Watch Choose Safety Always",
+          "source": "WSH Council",
+          "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-bulletins/wsh-bulletin-13-october-2026-watch-choose-safety-always",
+          "date": "2026-10-13",
+          "topic": "general",
+          "verdict": "OUT",
+          "why": "OUT: a safety campaign bulletin; no duty changes"
+        },
+        {
+          "title": "AI Is Reshaping Cybersecurity Jobs, but Human Expertise Remains Critical: CSA Study",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/ai-is-reshaping-cybersecurity-jobs-but-human-expertise-remains-critical-csa-study/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: statistics with no action attached (a study)"
+        },
+        {
+          "title": "Singapore to Establish National Accreditation Framework to Raise Cybersecurity Professional Standards",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/singapore-to-establish-national-accreditation-framework-to-raise-cybersecurity-professional-standards/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a framework for cybersecurity professionals; no duty on a business stated"
+        },
+        {
+          "title": "Singapore Strengthens National Cyber Defence Through Enhanced Cybersecurity Command Centre",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/singapore-strengthens-national-cyber-defence-through-enhanced-cybersecurity-command-centre/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a public programme with no business duty"
+        },
+        {
+          "title": "Singapore Launches Cybersecurity Strategy 2026 to Strengthen National Cyber Resilience",
+          "source": "CSA",
+          "url": "https://www.csa.gov.sg/news-events/press-releases/singapore-launches-cybersecurity-strategy-2026-to-strengthen-national-cyber-resilience/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a national strategy; a duty it creates is FIT when issued"
+        },
+        {
+          "title": "Investigation Outcome For Alleged Cheating And Fraudulent Work Injury Compensation Claim Involving Eatgreen Pte Ltd",
+          "source": "SPF",
+          "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261013_investigation_outcome_for_alleged_cheating_and_fraudulent_work_injury_compensation_claim",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: the same EatGreen work injury claim outcome as row 30 (MOM), which carries it"
+        },
+        {
+          "title": "Medium Risk: Samsung Products Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20261013",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Medium Risk: GitLab Multiple Vulnerabilities",
+          "source": "HKCERT",
+          "url": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261013",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Swann Communications SWIFI-SE2KIC",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-02",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+        },
+        {
+          "title": "Inductive Automation Ignition Software",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-286-01",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+        },
+        {
+          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "HOLD",
+          "why": "the headline does not name the products added to the exploited catalogue - FIT 3 if they are software businesses run (as 10-05)"
+        },
+        {
+          "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+        },
+        {
+          "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only)"
+        },
+        {
+          "title": "Anthropic warns self-replicating AI could spread to your smart devices",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: not a threat to a business's digital presence"
+        },
+        {
+          "title": "Microsoft releases Windows 10 KB5126657 extended security update",
+          "source": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
+          "date": "2026-10-13",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: a vendor announcing its own product or content"
+        },
         {
           "title": "Critical Vulnerability in Citrix NetScaler ADC and NetScaler Gateway",
           "source": "CSA alerts",
@@ -59,7 +437,7 @@
           "date": "2026-10-12",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - Citrix asks admins to patch; no attacks named"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - Citrix asks admins to patch; no attacks named [carried from 2026-10-14]"
         },
         {
           "title": "Critical Vulnerabilities in HPE Networking ClearPass Policy Manager",
@@ -68,7 +446,7 @@
           "date": "2026-10-12",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
+          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-14]"
         },
         {
           "title": "Help the NCSC understand how organisations approach external attack surface risk",
@@ -77,88 +455,7 @@
           "date": "2026-10-12",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: an agency's own survey invitation"
-        },
-        {
-          "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign regulator's outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Yandex confirms service outage as users lose access to cloud files",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a service outage in Russia, not about a business here"
-        },
-        {
-          "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: not a threat to a business's digital presence"
-        },
-        {
-          "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a consumer-only item (personal devices)"
-        },
-        {
-          "title": "Cyberattack shuts down refrigerators at French supermarkets",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a malware analysis, no exploited software businesses run"
-        },
-        {
-          "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "GitLab warns of max severity code execution vulnerability",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Ukraine strikes third Yandex data center, disrupting digital services across Russia",
-          "source": "The Record",
-          "url": "https://therecord.media/ukraine-strikes-third-yandex-data-center",
-          "date": "2026-10-12",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a service outage in Russia, not about a business here"
+          "why": "OUT: an agency's own survey invitation [carried from 2026-10-14]"
         },
         {
           "title": "New Initiatives to Strengthen Migrant Community's Mental Well-Being through Community and Family Support",
@@ -167,61 +464,7 @@
           "date": "2026-10-11",
           "topic": "general",
           "verdict": "OUT",
-          "why": "OUT: a public programme with no business duty"
-        },
-        {
-          "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
-          "date": "2026-10-11",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Cyberattack disrupts refrigeration at hundreds of French supermarkets",
-          "source": "The Record",
-          "url": "https://therecord.media/cyberattack-disrupts-refridgeration-in-france",
-          "date": "2026-10-11",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on (the same story as row 9)"
-        },
-        {
-          "title": "Malaysian Man To Be Charged For His Involvement In Government Officials Impersonation Scam",
-          "source": "SPF",
-          "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261010_malaysian_man_to_be_charged_for_his_involvement_in_government_officials_impersonation_scam",
-          "date": "2026-10-10",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a consumer-only item - government-official impersonation scams target individuals (as the 09-21 advisory)"
-        },
-        {
-          "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-          "date": "2026-10-10",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-          "date": "2026-10-10",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at foreign banks; no software businesses here run is named as exploited"
-        },
-        {
-          "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-          "date": "2026-10-10",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
+          "why": "OUT: a public programme with no business duty [carried from 2026-10-14]"
         },
         {
           "title": "\"Building Trusted Foundations for Digital Finance\" - Keynote Address by Mr Chia Der Jiun, Managing Director, Monetary Authority of Singapore, at INSEAD Digital Finance & Agentic AI Summit on 9 October 2026",
@@ -230,7 +473,7 @@
           "date": "2026-10-09",
           "topic": "general",
           "verdict": "OUT",
-          "why": "OUT: a speech with no decision or rule in it"
+          "why": "OUT: a speech with no decision or rule in it [carried from 2026-10-14]"
         },
         {
           "title": "Critical Vulnerability in Veeam Backup & Replication",
@@ -239,133 +482,7 @@
           "date": "2026-10-09",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: Apache HTTP Server Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261009",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "High Risk: ONLYOFFICE Docs Remote Code Execution Vulnerability",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/onlyoffice-docs-remote-code-execution-vulnerability_20261009",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: Splunk Products Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261009",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Japan confirms arrest of Russian Qilin operative, extradition to Germany",
-          "source": "The Record",
-          "url": "https://therecord.media/japan-germany-ransomware-arrest",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Hundreds of thousands impacted by data breach at biosensor firm iRhythm",
-          "source": "The Record",
-          "url": "https://therecord.media/irhythm-data-breach-reports",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty",
-          "source": "The Record",
-          "url": "https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "FBI arrests another suspected ShinyHunters hacker after agency breach",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/fbi-arrests-another-suspected-shinyhunters-hacker-after-agency-breach/",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Germany arrests alleged core Qilin ransomware member after extradition",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "How to keep AI agents within their permissions",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
-        },
-        {
-          "title": "Man admits to running network of 15,000 money mules for cybercriminals",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Citrix warns admins to patch new NetScaler RCE flaw immediately",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - Citrix asks admins to patch; no attacks named"
-        },
-        {
-          "title": "Hackers get $1,262,000 for 98 zero-days at Pwn2Own Ireland",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a hacking contest, no attack in the wild"
-        },
-        {
-          "title": "FBI touts another ShinyHunters arrest in response to data breach",
-          "source": "The Record",
-          "url": "https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Belarusian hacktivists admit to 2023 breach of Russian state healthcare network",
-          "source": "The Record",
-          "url": "https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack",
-          "date": "2026-10-09",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-14]"
         },
         {
           "title": "WSH Insights 8 October 2026 Strengthening Safety in Small-Scale Construction Works",
@@ -374,7 +491,7 @@
           "date": "2026-10-08",
           "topic": "general",
           "verdict": "HOLD",
-          "why": "settle: whether WSH Insights states a new duty for small-scale construction works (FIT 1) or is guidance only (OUT)"
+          "why": "settle: whether WSH Insights states a new duty for small-scale construction works (FIT 1) or is guidance only (OUT) [carried from 2026-10-14]"
         },
         {
           "title": "Critical Vulnerability in SonicWall SMA1000 Series",
@@ -383,7 +500,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) in CSA's words; row 37 carries the exploited SonicWall SMA1000 flaw"
+          "why": "OUT: no exploitation stated (a patch or advisory only) in CSA's words; row 37 carries the exploited SonicWall SMA1000 flaw [carried from 2026-10-14]"
         },
         {
           "title": "SQLView KRIS - Stored Cross-Site Scripting Vulnerability in Workflow Template Feature",
@@ -392,43 +509,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: Cisco Products Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20261008",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: GitHub Enterprise Server Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261008",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: IBM WebSphere Products Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261008",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: Mozilla Firefox Security Restriction Bypass Vulnerability",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/mozilla-firefox-security-restriction-bypass-vulnerability_20261008",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
+          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-14]"
         },
         {
           "title": "Satel Netco Design",
@@ -437,7 +518,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Grid Protection Alliance openPDC and openHistorian",
@@ -446,7 +527,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Red Lion Controls N-Tron 700 Series",
@@ -455,7 +536,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Chinese Government-linked Cyber Threat Actors Combine Automated and Hands-on Hacking Tools to Steal Sensitive Data",
@@ -464,7 +545,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "HOLD",
-          "why": "settle: whether the joint advisory names exploited software businesses here run - FIT 3 if it does"
+          "why": "settle: whether the joint advisory names exploited software businesses here run - FIT 3 if it does [carried from 2026-10-14]"
         },
         {
           "title": "China-linked malicious actors called out by UK and international partners for targeting sensitive data globally",
@@ -473,151 +554,7 @@
           "date": "2026-10-08",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: the same joint call-out as row 54, which is held"
-        },
-        {
-          "title": "Medium Risk: SonicWall SMA1000 Series Products Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/sonicwall-sma1000-series-products-multiple-vulnerabilities_20261008",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Low-cost Android phones ship with residential proxy malware",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a consumer-only item (personal devices)"
-        },
-        {
-          "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
-        },
-        {
-          "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
-        },
-        {
-          "title": "ASOS links data breach to social engineering attack, credential theft",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Owner of Empire cybercrime market gets 40 years in prison",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a hacking contest, no attack in the wild"
-        },
-        {
-          "title": "Lawmakers warn Google could expose Spirit Airlines data in $10 million AI training deal",
-          "source": "The Record",
-          "url": "https://therecord.media/lawmakers-warn-of-google-spirit-ai-training-deal",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: not about a business here (US lawmakers on one airline's data)"
-        },
-        {
-          "title": "International coalition seizes tools used by cyber firm behind Flax Typhoon",
-          "source": "The Record",
-          "url": "https://therecord.media/flax-typhoon-china-tools-integrity-tech-international-takedown",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "DOJ charges ransomware recovery CEO for secretly paying hackers",
-          "source": "The Record",
-          "url": "https://therecord.media/ransomware-recovery-charges-doj",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "ASOS: Hackers tricked way into employee account before sending rogue push notification",
-          "source": "The Record",
-          "url": "https://therecord.media/asos-says-hackers-tricked-employee-access-push-notification",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Crypto thief who splurged on gold grills sentenced in London",
-          "source": "The Record",
-          "url": "https://therecord.media/cryptocurrency-sim-swap-london",
-          "date": "2026-10-08",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
+          "why": "OUT: the same joint call-out as row 54, which is held [carried from 2026-10-14]"
         },
         {
           "title": "Creative Sound Blaster Katana - Multiple Vulnerabilities in Firmware Verification and Bluetooth Authentication",
@@ -626,7 +563,7 @@
           "date": "2026-10-07",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
+          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-14]"
         },
         {
           "title": "Critical Vulnerability in Atlassian Data Center Products",
@@ -635,52 +572,7 @@
           "date": "2026-10-07",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "The Police will be charging two Malaysian men, aged 24 and 35, for their suspected involvement in Government Officials Impersonation Scam cases.",
-          "source": "SPF",
-          "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261007_two_malaysian_men_to_be_charged_for_their_involvement_in_scam",
-          "date": "2026-10-07",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a consumer-only item - government-official impersonation scams target individuals (as the 09-21 advisory)"
-        },
-        {
-          "title": "Medium Risk: Android Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261007",
-          "date": "2026-10-07",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Medium Risk: Google Chrome Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261007",
-          "date": "2026-10-07",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Ransomware recovery CEO charged over secret ransom payments",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-          "date": "2026-10-07",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Microsoft Outlook to block MSIX attachments starting November",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-          "date": "2026-10-07",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
+          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-14]"
         },
         {
           "title": "WSH Bulletin 6 October 2026 Call for Voluntary STO in the Construction and T and S Industries",
@@ -689,7 +581,7 @@
           "date": "2026-10-06",
           "topic": "general",
           "verdict": "OUT",
-          "why": "OUT: a voluntary call; no duty changes"
+          "why": "OUT: a voluntary call; no duty changes [carried from 2026-10-14]"
         },
         {
           "title": "Johnson Controls EasyIO FG",
@@ -698,7 +590,7 @@
           "date": "2026-10-06",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Hitachi Energy REB500",
@@ -707,7 +599,7 @@
           "date": "2026-10-06",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Hitachi Energy Asset Suite",
@@ -716,7 +608,7 @@
           "date": "2026-10-06",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Hitachi Energy SOI",
@@ -725,16 +617,7 @@
           "date": "2026-10-06",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
-        },
-        {
-          "title": "Hitachi Energy RTU500",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Savannah lwIP SMTP client",
@@ -743,7 +626,16 @@
           "date": "2026-10-06",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories"
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
+        },
+        {
+          "title": "Hitachi Energy RTU500",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-279-06",
+          "date": "2026-10-06",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only) - industrial control system advisories [carried from 2026-10-14]"
         },
         {
           "title": "Incident affecting ASOS customers",
@@ -752,124 +644,7 @@
           "date": "2026-10-06",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Police Advisory On Job Scams Targeting Lalamove Delivery Riders",
-          "source": "SPF",
-          "url": "https://www.police.gov.sg/Media-Hub/News/2026/10/20261006_police_advisory_on_job_scams_targeting_lalamove_delivery_riders",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a consumer-only item - job scams aimed at delivery riders"
-        },
-        {
-          "title": "\"Financial Services and Markets (Amendment) Bill\" - Second Reading Speech by Mr Alvin Tan, Minister of State for Foreign Affairs and National Development, and Board Member of the Monetary Authority of Singapore (MAS), ...",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/speeches/2026/second-reading-speech-for-fsma-bill-2026",
-          "date": "2026-10-06",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: a second reading speech; the Bill is not yet law - its commencement will be FIT 1"
-        },
-        {
-          "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a hacking contest, no attack in the wild"
-        },
-        {
-          "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "ASOS confirms data breach after \"HACKED\" in-app notifications",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "How to secure RMM software: 8 controls MSPs should test",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
-        },
-        {
-          "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: not a threat to a business's digital presence"
-        },
-        {
-          "title": "Nikkei discloses breaches of employees' Microsoft, Google email accounts",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "Alleged ATM malware creator appears in Nebraska court after arrest",
-          "source": "The Record",
-          "url": "https://therecord.media/atm-malware-creator-appears-in-nebraska-court",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a foreign police or court outcome, not a Singapore regulator's"
-        },
-        {
-          "title": "South Korean officials believe AI agents were used to hack several banks",
-          "source": "The Record",
-          "url": "https://therecord.media/south-korean-bank-hacks-ai-agents",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at foreign banks; no software businesses here run is named as exploited"
-        },
-        {
-          "title": "Osaka Metropolitan University cancels classes after suspected ransomware attack",
-          "source": "The Record",
-          "url": "https://therecord.media/osaka-university-cancels-classes-ransomware",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
-        },
-        {
-          "title": "Shares in British clothing company ASOS dive after hackers apparently send push notification",
-          "source": "The Record",
-          "url": "https://therecord.media/asos-push-notification-apparently-sent-by-hackers",
-          "date": "2026-10-06",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on"
+          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on [carried from 2026-10-14]"
         },
         {
           "title": "How Wirespeed Enhances Investigations With SIEM Upgrade",
@@ -878,88 +653,7 @@
           "date": "2026-10-05",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content"
-        },
-        {
-          "title": "Opening Remarks by Mr Gan Kim Yong, Deputy Prime Minister and Minister for Energy, Trade and Industry (Trade), and Chairman of the Monetary Authority of Singapore, at the Wealth Management Institute's Global-Asia Family ...",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/speeches/2026/keynote-speech-by-dpm-gan-kim-yong-at-wmi-gfoc-summit",
-          "date": "2026-10-05",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: a speech or parliamentary reply with no decision or rule in it [carried from 2026-10-06]"
-        },
-        {
-          "title": "Medium Risk: Google Chrome Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261005",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-06]"
-        },
-        {
-          "title": "Medium Risk: Microsoft Edge Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261005",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-06]"
-        },
-        {
-          "title": "High Risk: Citrix Products Denial of Service Vulnerability",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerability_20261005",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a denial-of-service advisory); row 18 carries the exploited Citrix flaw [carried from 2026-10-06]"
-        },
-        {
-          "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a vendor announcing its own product or content [carried from 2026-10-06]"
-        },
-        {
-          "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "HOLD",
-          "why": "settle: which regulator fined IQVIA and under what law - FIT 4 only if it is a rule Singapore businesses share (PDPA anonymisation) [carried from 2026-10-06]"
-        },
-        {
-          "title": "Denmark population registry data breach affects 8.8 million people",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: a breach at one organisation, not a vendor businesses here depend on [carried from 2026-10-06]"
-        },
-        {
-          "title": "New Dell System Update flaw lets hackers gain root privileges",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-06]"
-        },
-        {
-          "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-          "source": "BleepingComputer",
-          "url": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-          "date": "2026-10-05",
-          "topic": "cyber",
-          "verdict": "HOLD",
-          "why": "settle: whether the South Korean bank breaches name a vendor or method that reaches businesses here [carried from 2026-10-06]"
+          "why": "OUT: a vendor announcing its own product or content [carried from 2026-10-14]"
         },
         {
           "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
@@ -989,45 +683,18 @@
           "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-05]"
         },
         {
-          "title": "Medium Risk: SUSE Linux Kernel Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": "2026-10-02",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-06]"
-        },
-        {
-          "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+          "title": "ABB Protection and Control IED Manager PCM600",
           "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/alerts/2026/10/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-          "date": "2026-10-02",
-          "topic": "cyber",
-          "verdict": "HOLD",
-          "why": "the headline does not name the product added to the exploited catalogue - FIT 3 if it is software businesses run [carried from 2026-10-05]"
-        },
-        {
-          "title": "Medium Risk: Mozilla Thunderbird Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20261002",
-          "date": "2026-10-02",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
+          "date": "2026-10-01",
           "topic": "cyber",
           "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-05]"
+          "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
         },
         {
-          "title": "Medium Risk: Debian Linux Kernel Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20261002",
-          "date": "2026-10-02",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-05]"
-        },
-        {
-          "title": "Meari IoT Cloud Platform OpenAPI Service",
+          "title": "CISA Malcolm",
           "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-254-01",
           "date": "2026-10-01",
           "topic": "cyber",
           "verdict": "OUT",
@@ -1052,9 +719,9 @@
           "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
         },
         {
-          "title": "CISA Malcolm",
+          "title": "Meari IoT Cloud Platform OpenAPI Service",
           "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-254-01",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-06",
           "date": "2026-10-01",
           "topic": "cyber",
           "verdict": "OUT",
@@ -1070,60 +737,6 @@
           "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
         },
         {
-          "title": "ABB Protection and Control IED Manager PCM600",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-274-03",
-          "date": "2026-10-01",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
-        },
-        {
-          "title": "MAS Announces Senior Leadership Changes",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-announces-senior-leadership-changes",
-          "date": "2026-10-01",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: an agency's own housekeeping [carried from 2026-10-05]"
-        },
-        {
-          "title": "High-Severity Vulnerability in Apple Products",
-          "source": "CSA alerts",
-          "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-131/",
-          "date": "2026-09-30",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only)"
-        },
-        {
-          "title": "Speech by Mr Chee Hong Tat, Minister for National Development, and Deputy Chairman of the Monetary Authority of Singapore, at Granite Asia's NextGen Tech 30 on 30 September 2026",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/speeches/2026/speech-by-mr-chee-hong-tat-at-granite-asia-nextgen-tech-30",
-          "date": "2026-09-30",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: a speech or parliamentary reply with no decision or rule in it [carried from 2026-10-05]"
-        },
-        {
-          "title": "MAS Consults on Targeted Updates to Corporate Governance Requirements for Banks, Insurers and Designated Financial Holding Companies",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-consults-on-targeted-updates-to-corporate-governance-requirements",
-          "date": "2026-09-30",
-          "topic": "general",
-          "verdict": "HOLD",
-          "why": "settle: whether the consultation changes anything an SME buyer of insurance sees, or only insurers' boards [carried from 2026-10-05]"
-        },
-        {
-          "title": "Medium Risk: Mozilla Firefox Multiple Vulnerabilities",
-          "source": "HKCERT",
-          "url": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260930",
-          "date": "2026-09-30",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-05]"
-        },
-        {
           "title": "2026 ASC News",
           "source": "ACRA",
           "url": "https://www.acra.gov.sg/news-events/news-announcements/2026-asc-news/",
@@ -1131,6 +744,15 @@
           "topic": "general",
           "verdict": "OUT",
           "why": "a standards-news listing (2026 ASC News), no single item, no obligation stated [carried from 2026-09-11]"
+        },
+        {
+          "title": "MikroTik RouterOS",
+          "source": "CISA",
+          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
+          "date": "2026-09-29",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-05]"
         },
         {
           "title": "Anjvision YSSD-RTMP-H5",
@@ -1151,69 +773,6 @@
           "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
         },
         {
-          "title": "VIVOTEK Camera Firmware",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-03",
-          "date": "2026-09-29",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
-        },
-        {
-          "title": "MikroTik RouterOS",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-06",
-          "date": "2026-09-29",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: no exploitation stated (a patch or advisory only) [carried from 2026-10-05]"
-        },
-        {
-          "title": "Toptech TMS7 and TopHAT",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-02",
-          "date": "2026-09-29",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
-        },
-        {
-          "title": "Baicells Nova 430H",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-04",
-          "date": "2026-09-29",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
-        },
-        {
-          "title": "Lantronix G520 Series Cellular Gateway",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-272-01",
-          "date": "2026-09-29",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: an industrial-product advisory with no exploitation stated [carried from 2026-10-05]"
-        },
-        {
-          "title": "\"Connecting Capital and Opportunity: Building a Trusted Growth Capital Ecosystem\" - Keynote Speech by Mr Chee Hong Tat, Minister for National Development, and Deputy Chairman of the Monetary Authority of Singapore, at ...",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/speeches/2026/connecting-capital-and-opportunity-building-a-trusted-growth-capital-ecosystem",
-          "date": "2026-09-29",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: a speech or parliamentary reply with no decision or rule in it [carried from 2026-10-05]"
-        },
-        {
-          "title": "MAS Appoints Third Batch of EQDP Asset Managers and Commits S$20 million to Strengthen Equities Market Making Activities in Singapore",
-          "source": "MAS",
-          "url": "https://www.mas.gov.sg/news/media-releases/2026/mas-appoints-third-batch-of-eqdp-asset-managers",
-          "date": "2026-09-29",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: not about a business's duty or cover (asset-manager appointments) [carried from 2026-10-05]"
-        },
-        {
           "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
           "source": "NCSC UK",
           "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
@@ -1232,24 +791,6 @@
           "why": "OUT - read the page: Coalition's alert on the same two exploited Citrix NetScaler zero-days that CISA's alert already on the page carries; no change to what cover pays; the page carries one [carried from 2026-09-29]"
         },
         {
-          "title": "Police Advisory On Social Media Impersonation Scams Involving Payments For Fake Youth Exchange Programmes",
-          "source": "SPF",
-          "url": "https://www.police.gov.sg/Media-Hub/News/2026/09/20260928_police_advisory_on_social_media_impersonation_scams_involving_payments",
-          "date": "2026-09-28",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT - read the page: a consumer-only scam, compromised students' WhatsApp accounts used to ask parents for fake youth-exchange fees; the victims are families, no business duty or exposure, as with the ICA impersonation advisory on 09-26 [carried from 2026-09-29]"
-        },
-        {
-          "title": "WSH Bulletin 25 September 2026 Celebrating the Best at WSH Awards 2026",
-          "source": "WSH Council",
-          "url": "https://www.tal.sg/wshc/resources/newsletters/wsh-bulletins/wsh-bulletin-25-september-2026-celebrating-the-best-at-wsh-awards-2026",
-          "date": "2026-09-25",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT - read the page and its PDF: the WSH Awards 2026 recipients, guidance on metalworking and machinery injuries, a kitchen-safety video and an SME event; awards and guidance with no new rule, circular or employer duty, as with the crane operators' handbook [carried from 2026-09-29]"
-        },
-        {
           "title": "Recommendations by Tripartite Workgroup to Strengthen Human Capital in Every Workplace for Every Worker",
           "source": "MOM",
           "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/2409-recommendations-by-twg-hc",
@@ -1257,24 +798,6 @@
           "topic": "general",
           "verdict": "OUT",
           "why": "OUT - read the page: a workgroup report of five recommendations on human capital capability; no obligation on an employer in it [carried from 2026-09-25]"
-        },
-        {
-          "title": "Leading Causes of Injuries in the Food and Beverage Manufacturing Industry",
-          "source": "WSH Council",
-          "url": "https://www.tal.sg/wshc/resources/publications/checklists-and-articles/leading-causes-of-injuries-in-the-food-and-beverage-manufacturing-industry",
-          "date": "2026-09-24",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: a sector safety publication on injury causes; no duty changes"
-        },
-        {
-          "title": "Siemens Mendix Runtime (Update A)",
-          "source": "CISA",
-          "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-209-02",
-          "date": "2026-09-24",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT - an update to an older CISA ICS advisory (Siemens Mendix Runtime); no active exploitation stated [carried from 2026-09-25]"
         },
         {
           "title": "Labour Market Report - Second Quarter 2026",
@@ -1322,15 +845,6 @@
           "why": "OUT: a vendor announcing its own product or content [carried from 2026-10-05]"
         },
         {
-          "title": "Iranian cyber targeting of dissidents, activists and journalists",
-          "source": "NCSC UK",
-          "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
-          "date": "2026-09-15",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "state targeting of dissidents, activists and journalists; not a business exposure [carried from 2026-09-16]"
-        },
-        {
           "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
           "source": "NCSC UK",
           "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
@@ -1338,6 +852,15 @@
           "topic": "cyber",
           "verdict": "OUT",
           "why": "state spyware exposed, aimed at dissidents, activists and journalists; not a business exposure [carried from 2026-09-16]"
+        },
+        {
+          "title": "Iranian cyber targeting of dissidents, activists and journalists",
+          "source": "NCSC UK",
+          "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+          "date": "2026-09-15",
+          "topic": "cyber",
+          "verdict": "OUT",
+          "why": "state targeting of dissidents, activists and journalists; not a business exposure [carried from 2026-09-16]"
         },
         {
           "title": "How Third Wave Innovations Shifted from Reactive Triage to Automated Verdicts",
@@ -1403,15 +926,6 @@
           "why": "OUT: a vendor announcing its own product or content [carried from 2026-10-05]"
         },
         {
-          "title": "Scheduled maintenance for selected eServices",
-          "source": "ACRA",
-          "url": "https://www.acra.gov.sg/news-events/news-announcements/scheduled-maintenance-selected-eservices/",
-          "date": "2026-09-02",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT: an agency's own housekeeping (maintenance notice)"
-        },
-        {
           "title": "Faire de l'Assurance Cyber Active la référence mondiale pour les Grandes Entreprises",
           "source": "Coalition",
           "url": "https://www.coalitioninc.com/blog/cyber-insurance/faire-de-lassurance-cyber-active-la-reference-mondiale-pour-les-grandes-entreprises",
@@ -1464,15 +978,6 @@
           "topic": "cyber",
           "verdict": "OUT",
           "why": "a CSA guidance advisory (passwordless authentication), no rule or live threat [carried from 2026-09-11]"
-        },
-        {
-          "title": "MSPs Report Losing Clients Over Slow Threat Containment",
-          "source": "Coalition",
-          "url": "https://www.coalitioninc.com/blog/wirespeed/msps-report-losing-clients-over-slow-threat-containment",
-          "date": "2026-08-26",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "OUT: statistics or a statement with no action attached [carried from 2026-10-05]"
         },
         {
           "title": "Managing the cyber risk of agentic AI",
@@ -1572,33 +1077,6 @@
           "topic": "general",
           "verdict": "OUT",
           "why": "an inter-regulator cooperation memorandum (PDPC and Japan's PIPC); no obligation change for a business [carried from 2026-09-16]"
-        },
-        {
-          "title": "Helping small businesses with free, hands-on cyber consultancy",
-          "source": "NCSC UK",
-          "url": "https://www.ncsc.gov.uk/blogs/helping-small-businesses-with-free-hands-on-cyber-consultancy",
-          "date": "2026-07-15",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "a UK programme (free cyber consultancy), not available to a business here [carried from 2026-09-11]"
-        },
-        {
-          "title": "Opening Address by Mrs Chia-Tern Huey Min, ACRA Chief Executive at the CSIS 11th Corporate Service Providers Conference 2026 on 13 July 2026",
-          "source": "ACRA",
-          "url": "https://www.acra.gov.sg/news-events/news-announcements/opening-address-by-mrs-chia-tern-huey-min-acra-chief-executive-at-the-csis-11th-corporate-service-providers-conference-2026-on-13-july-2026/",
-          "date": "2026-07-13",
-          "topic": "general",
-          "verdict": "OUT",
-          "why": "OUT - read the page: the ACRA Chief Executive's opening address to corporate service providers on AI and the FATF evaluation; it restates existing BO-record and STR duties and names a CSP Advisory Panel, but announces no rule, deadline or penalty [carried from 2026-09-26]"
-        },
-        {
-          "title": "UK and Allies urge critical sectors to improve defences against Russian intelligence targeting",
-          "source": "NCSC UK",
-          "url": "https://www.ncsc.gov.uk/news/uk-and-allies-urge-critical-sectors-to-improve-defences-against-russian-intelligence-targeting",
-          "date": "2026-07-13",
-          "topic": "cyber",
-          "verdict": "OUT",
-          "why": "a UK critical-sector advisory on Russian intelligence targeting; not a business's digital presence here [carried from 2026-09-11]"
         }
       ],
       "readded": [
@@ -1636,6 +1114,41 @@
     }
   },
   "items": [
+    {
+      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
+      "date": "2026-10-14",
+      "topic": "cyber"
+    },
+    {
+      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+      "date": "2026-10-14",
+      "topic": "cyber"
+    },
+    {
+      "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
+      "source": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
+      "date": "2026-10-13",
+      "topic": "cyber"
+    },
+    {
+      "title": "CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure",
+      "source": "CISA",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure",
+      "date": "2026-10-13",
+      "topic": "cyber"
+    },
+    {
+      "title": "Investigation outcome for alleged cheating and fraudulent work injury compensation claim involving EatGreen Pte Ltd",
+      "source": "MOM",
+      "url": "https://www.mom.gov.sg/newsroom/press-releases/2026/1013-investigation-for-alleged-cheating-and-fraudulent-work-injury-claim-involving-eatgreen-pte-ltd",
+      "date": "2026-10-13",
+      "topic": "general"
+    },
     {
       "title": "Microsoft: Windows 11 23H2 reaches end of support in 30 days",
       "source": "BleepingComputer",
@@ -1752,6 +1265,13 @@
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
       "source": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+      "date": "2026-10-06",
+      "topic": "cyber"
+    },
+    {
+      "title": "Active Exploitation of Vulnerability in Cisco Catalyst SD-WAN Manager",
+      "source": "CSA alerts",
+      "url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-132/",
       "date": "2026-10-06",
       "topic": "cyber"
     },

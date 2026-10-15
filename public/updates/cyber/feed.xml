@@ -6,8 +6,40 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Mon, 12 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cisco patches new Secure Email Gateway zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-14-cisco-patches-new-secure-email-gateway-zero-day-exploited-in-attacks</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/</description>
+    </item>
+    <item>
+      <title>Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-14-palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>CISA Urges Patching Newly Exploited Vulnerability in Ivanti Connect Secure</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-13-cisa-urges-patching-newly-exploited-vulnerability-in-ivanti-connect-secure</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/10/13/cisa-urges-patching-newly-exploited-vulnerability-ivanti-connect-secure</description>
+    </item>
+    <item>
+      <title>Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-13-microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/</description>
+    </item>
     <item>
       <title>Microsoft: Windows 11 23H2 reaches end of support in 30 days</title>
       <link>https://covarage.com/updates/cyber</link>
@@ -87,6 +119,14 @@
       <pubDate>Wed, 07 Oct 2026 00:00:00 +0800</pubDate>
       <category>Cyber and digital risk</category>
       <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/</description>
+    </item>
+    <item>
+      <title>Active Exploitation of Vulnerability in Cisco Catalyst SD-WAN Manager</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-06-active-exploitation-of-vulnerability-in-cisco-catalyst-sd-wan-manager</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CSA alerts. Source: https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-132/</description>
     </item>
     <item>
       <title>ClickFix campaign in Ukraine compromises over 100 websites to spread Lunex malware</title>
