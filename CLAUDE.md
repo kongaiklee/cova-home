@@ -1,5 +1,9 @@
 # CLAUDE.md
 
+> **If you are Rahil Bhagat's AI agent, this file is not for you.** Read and follow
+> `docs/GUIDE_rahil_faq-stories-partners.md`: it is the whole of what you may change in this repository, and how. Everything
+> below is Covarage's own engineering instructions.
+
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## What this is
