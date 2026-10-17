@@ -26,6 +26,7 @@ export default function LandingFooter() {
         <Link to="/emerging-risks-2027" className={link}>Emerging Risks 2027</Link>
         <Link to="/privacy" className={link}>Privacy Policy</Link>
         <Link to="/terms" className={link}>Terms of Use</Link>
+        <Link to="/faq" className={link}>FAQ</Link>
         <Link to="/contact" className={link}>Contact</Link>
         <Link to="/careers" className={link}>Careers</Link>
         {/* Kong 2026-09-04, CD's s16. A TEXT link on the same `link` class as its siblings, not an

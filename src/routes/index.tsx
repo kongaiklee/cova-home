@@ -11,6 +11,7 @@ import Terms from '../pages/legal/Terms';
 import Privacy from '../pages/legal/Privacy';
 import Contact from '../pages/company/Contact';
 import Careers from '../pages/company/Careers';
+import Faq from '../pages/company/Faq';
 import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
 import PackPage from '../pages/pack/PackPage';
 import UpdatesPage from '../pages/updates/UpdatesPage';
@@ -26,8 +27,9 @@ import { ARTICLES, GUIDES_PREFIX, loadArticle } from '../content/articles';
  *   not reset scroll on client-side navigation (the component came from
  *   cova-blog with the corpus; a hash in the URL is left to the browser).
  * - `/` renders the existing landing page.
- * - `/contact` and `/careers` carry the lander's own header and footer, so they
- *   sit beside it rather than inside BlogLayout.
+ * - `/contact`, `/careers` and `/faq` carry the lander's own header and footer, so they
+ *   sit beside it rather than inside BlogLayout. `/faq` takes every word from one file in
+ *   content/ (Rahil Bhagat's agent edits that file only).
  * - `/blog` and every article URL share BlogLayout (header + footer).
  * - `/terms` and `/privacy` share the same shell. They are static documents, not
  *   articles, so they sit beside the blog rather than inside the article index.
@@ -47,6 +49,7 @@ export const routes: RouteRecord[] = [
       { path: '/', element: <Landing /> },
       { path: 'contact', element: <Contact /> },
       { path: 'careers', element: <Careers /> },
+      { path: 'faq', element: <Faq /> },
       // The onboarding pack (item 15): personalisation rides the ?t= token, so the prerendered
       // HTML is the neutral state and no personal data ever sits in served markup. noindex; not
       // in the sitemap (gen-seo.mjs lists URLs explicitly); linked from nowhere until the s15/s16

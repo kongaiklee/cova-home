@@ -38,6 +38,7 @@ const urls = [
   { loc: `${SITE}/guides/tools/insurance-gap-check`, lastmod: null, priority: '0.6' },
   { loc: `${SITE}/contact`, lastmod: null, priority: '0.5' },
   { loc: `${SITE}/careers`, lastmod: null, priority: '0.5' },
+  { loc: `${SITE}/faq`, lastmod: null, priority: '0.6' },
   { loc: `${SITE}/terms`, lastmod: null, priority: '0.3' },
   { loc: `${SITE}/privacy`, lastmod: null, priority: '0.3' },
   // Category hubs - derived from the index, exactly as the routes are, so the two can never
