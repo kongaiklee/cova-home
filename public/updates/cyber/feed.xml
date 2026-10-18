@@ -6,8 +6,48 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Wed, 14 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-16-cisa-urges-patching-critical-vulnerability-in-beyondtrust-remote-support</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by CISA. Source: https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support</description>
+    </item>
+    <item>
+      <title>ConnectWise Investigating Unauthorized Access to Cloud Backup App</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-16-connectwise-investigating-unauthorized-access-to-cloud-backup-app</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by Coalition. Source: https://www.coalitioninc.com/blog/security-labs/connectwise-unauthorized-access-to-cloud-backup-app</description>
+    </item>
+    <item>
+      <title>Four Men To Be Charged For Laundering Scam Monies Following 16-Hour Police Operation</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-15-four-men-to-be-charged-for-laundering-scam-monies-following-16-hour-police-opera</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/10/20261015_four_men_to_be_charged_for_laundering_scam_monies_following_16_our_police_operation</description>
+    </item>
+    <item>
+      <title>Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-15-hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/</description>
+    </item>
+    <item>
+      <title>Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-15-hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/</description>
+    </item>
     <item>
       <title>Cisco patches new Secure Email Gateway zero-day exploited in attacks</title>
       <link>https://covarage.com/updates/cyber</link>
