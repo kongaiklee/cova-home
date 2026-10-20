@@ -4,7 +4,7 @@ import { requestClick } from './requestFraming';
 
 /**
  * Full-width header: brandmark left, `Log in` + `Request access` right, on every breakpoint.
- * `Log in` is the app's sign-in, env-derived - never a relative /signin, which the marketing
+ * `Log in` is the platform's sign-in, an absolute address - never a relative /signin, which the marketing
  * host answers with the homepage. Off the lander (/contact, /careers, the 404) `Request access`
  * goes to `/#request` - a bare `#request` there would anchor to nothing.
  */

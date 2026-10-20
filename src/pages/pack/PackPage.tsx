@@ -84,7 +84,7 @@ async function verifyToken(t: string | null): Promise<PackData | null> {
 
 const BOOKING_URL = 'https://cal.com/kongaiklee/30min';
 // Self-serve signup stays open (Kong 2026-09-09, striking his 08-25 ruling); the pack's next step.
-const SIGNUP_URL = 'https://app.covarage.com/work/signup';
+const SIGNUP_URL = 'https://platform.covarage.com/sign-up';
 const H2 = 'm-0 mb-4 font-serif text-[26px]/[1.15] tracking-[-0.8px] text-primary-extended lg:text-[30px]/[1.12] lg:tracking-[-0.9px]';
 const BODY = 'm-0 text-base/[1.6] text-text-primary lg:text-[17px]/[1.6]';
 

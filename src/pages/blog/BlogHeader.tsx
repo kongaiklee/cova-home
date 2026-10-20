@@ -3,8 +3,7 @@ import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { track } from '../../lib/analytics';
-
-const APP_URL = import.meta.env.VITE_APP_COVARAGE_URL;
+import { LOGIN_URL } from '../landing/data';
 
 const NAV = [
   // Kong 2026-08-31: the header reads Guides, not Blog. The /blog ROUTE is unchanged on purpose -
@@ -45,7 +44,7 @@ export default function BlogHeader() {
             </Link>
           ))}
           <a
-            href={`${APP_URL}/signin`}
+            href={LOGIN_URL}
             className="text-sm font-medium text-text-primary transition hover:text-primary"
           >
             Log in
@@ -101,7 +100,7 @@ export default function BlogHeader() {
             </Link>
           ))}
           <a
-            href={`${APP_URL}/signin`}
+            href={LOGIN_URL}
             className="rounded-lg px-3 py-2.5 text-sm font-medium text-text-primary hover:bg-black/5"
           >
             Log in

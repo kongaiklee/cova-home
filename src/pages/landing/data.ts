@@ -215,7 +215,8 @@ export const INSURERS: { slug: string; alt: string }[] = [
   { slug: 'direct-asia', alt: 'DirectAsia' },
 ];
 
-export const LOGIN_URL = `${import.meta.env.VITE_APP_COVARAGE_URL}/signin`;
+// Log in opens the platform's sign-in.
+export const LOGIN_URL = 'https://platform.covarage.com/sign-in';
 export const REQUEST_ANCHOR = '#request';
 
 /**
