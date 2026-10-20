@@ -6,8 +6,32 @@
     <description>Regulatory updates from Singapore&apos;s agencies and industry bodies, screened weekly. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Government Accepts the National Wages Council Guidelines for 2026/2027</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-10-19-government-accepts-the-national-wages-council-guidelines-for-2026-2027</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Regulatory update</category>
+      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/1019-nwc-guidelines-for-2026-2027</description>
+    </item>
+    <item>
+      <title>Changes to the ACRA Code for public accountants and accounting entities</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-10-16-changes-to-the-acra-code-for-public-accountants-and-accounting-entities</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Regulatory update</category>
+      <description>Published by ACRA. Source: https://www.acra.gov.sg/news-events/news-announcements/changes-to-the-acra-code-for-public-accountants-and-accounting-entities/</description>
+    </item>
+    <item>
+      <title>MOM Takes Firm Enforcement Action Against False Declarations in Work Pass Applications</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-10-16-mom-takes-firm-enforcement-action-against-false-declarations-in-work-pass-applic</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Regulatory update</category>
+      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/1610-mom-takes-firm-enforcement-action-against-false-declarations-in-work-pass-applications</description>
+    </item>
     <item>
       <title>Investigation outcome for alleged cheating and fraudulent work injury compensation claim involving EatGreen Pte Ltd</title>
       <link>https://covarage.com/updates</link>

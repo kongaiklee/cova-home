@@ -6,8 +6,48 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Fri, 16 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bullhorn takes staffing platform offline to contain cyberattack</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-19-bullhorn-takes-staffing-platform-offline-to-contain-cyberattack</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/</description>
+    </item>
+    <item>
+      <title>Hackers hijack AOMEI update servers to secretly spread malware</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-19-hackers-hijack-aomei-update-servers-to-secretly-spread-malware</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/</description>
+    </item>
+    <item>
+      <title>WordPress SEO plugin Rank Math compromised to backdoor websites</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-19-wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/</description>
+    </item>
+    <item>
+      <title>Hackers exploit SiteGuard WAF flaw to run commands as admins</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-18-hackers-exploit-siteguard-waf-flaw-to-run-commands-as-admins</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/</description>
+    </item>
+    <item>
+      <title>Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-17-hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/</description>
+    </item>
     <item>
       <title>CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support</title>
       <link>https://covarage.com/updates/cyber</link>
