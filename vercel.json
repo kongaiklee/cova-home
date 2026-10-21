@@ -189,6 +189,15 @@
           "value": "noindex, nofollow"
         }
       ]
+    },
+    {
+      "source": "/investors(.html)?",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
     }
   ]
 }

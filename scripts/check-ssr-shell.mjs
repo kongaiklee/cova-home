@@ -25,10 +25,14 @@ const walk = (dir) => {
 walk(root);
 
 const count = (text, s) => text.split(s).length - 1;
+// A page copied as it is from public/ (covarage.com/investors, 2026-10-22) is not assembled by vite-react-ssg and has no React
+// root: it must still be one whole document, and only the root is not asked of it.
+const fromPublic = (p) => { try { return statSync(join('public', relative(root, p))).isFile(); } catch { return false; } };
 const bad = [];
 for (const p of pages) {
   const t = readFileSync(p, 'utf8');
   const got = { '<html': count(t, '<html'), '<head>': count(t, '<head>'), '<body': count(t, '<body'), 'id="root"': count(t, 'id="root"') };
+  if (fromPublic(p)) delete got['id="root"'];
   const off = Object.entries(got).filter(([, n]) => n !== 1).map(([k, n]) => `${k} x${n}`);
   if (off.length) bad.push(`  ${relative(root, p)}: ${off.join(', ')}`);
 }

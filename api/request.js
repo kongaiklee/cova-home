@@ -16,12 +16,16 @@
  *   SLACK_ER2027_WEBHOOK_URL  the Emerging Risks 2027 signup's OWN webhook - a private channel, if ever used
  *   ER2027_MAIL_TO            the ER2027 signup's own recipients - Kong + Zul (Kong 2026-09-14: "send it
  *                             to me and zul's emails")
+ *   INVESTOR_MAIL_TO          the investor page's own recipient - Kong alone (covarage.com/investors, the
+ *                             hub's w46 06:26: Kong's "push it live"), by email through Resend, never Slack
  *
  * With none configured the endpoint answers 503 and the form shows its error line, so the button
  * cannot silently swallow a request. An ER2027 signup reads ONLY its own two variables and never
  * falls back to the lead channel or the team inbox: its form promises the signup reaches no one
  * else, including the licensed brokers writing the report (COO s2.3), and the lead channel is read
  * by an AWFA adviser (hub /check #9 w20). Unset, it answers 503 rather than post somewhere public.
+ * The investor page's note (source `investor`) is the same rule, stricter: its own recipient only, by
+ * email, no Slack leg at all, and no acknowledgement to the investor - the page itself is the reply.
  */
 const LIMITS = { name: 120, company: 160, email: 160, number: 40, trade: 40, question: 240, source: 24, role: 80, option: 32, consent: 40 };
 /** The Emerging Risks 2027 signup's two options (Kong 2026-09-14, CMO's build notes). */
@@ -67,7 +71,11 @@ export default async function handler(req, res) {
   const role = clean(body.role, LIMITS.role);
   const consent = clean(body.consent_version, LIMITS.consent);
   const participate = option === 'report_and_participate';
-  if (er2027) {
+  // The investor page's note (covarage.com/investors): a name and an email; the fund or company is optional on the page.
+  const investor = source === 'investor';
+  if (investor) {
+    if (!name || !email) return res.status(400).json({ ok: false, error: 'fields' });
+  } else if (er2027) {
     if (!ER2027_OPTIONS.includes(option)) return res.status(400).json({ ok: false, error: 'option' });
     if (!consent) return res.status(400).json({ ok: false, error: 'consent' });
     if (!email || (participate && (!name || !company || !role))) {
@@ -93,17 +101,20 @@ export default async function handler(req, res) {
   }
   const extras = HIDDEN.map((k) => [k, clean(body[k], 160)]).filter(([, v]) => v);
 
-  // An ER2027 signup has its own destinations and no other (see the header): fail closed, never open.
-  const slack = er2027 ? process.env.SLACK_ER2027_WEBHOOK_URL : process.env.SLACK_WEBHOOK_URL;
+  // An ER2027 signup has its own destinations and no other (see the header): fail closed, never open. An investor's note has
+  // its own recipient only and no Slack leg at all.
+  const slack = investor ? '' : er2027 ? process.env.SLACK_ER2027_WEBHOOK_URL : process.env.SLACK_WEBHOOK_URL;
   const resend = process.env.RESEND_API_KEY;
-  const to = ((er2027 ? process.env.ER2027_MAIL_TO : process.env.REQUEST_MAIL_TO) || '').split(',').map((s) => s.trim()).filter(Boolean);
+  const to = ((investor ? process.env.INVESTOR_MAIL_TO : er2027 ? process.env.ER2027_MAIL_TO : process.env.REQUEST_MAIL_TO) || '').split(',').map((s) => s.trim()).filter(Boolean);
   const from = process.env.REQUEST_MAIL_FROM;
   if (!slack && !(resend && to.length && from)) {
     return res.status(503).json({ ok: false, error: 'unconfigured' });
   }
 
   const when = new Date().toLocaleString('en-SG', { timeZone: 'Asia/Singapore', hour12: false });
-  const lines = er2027
+  const lines = investor
+    ? [`Name: ${name}`, `Email: ${email}`, `Fund or company: ${company || '-'}`, ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`]
+    : er2027
     ? [
         `Option: ${option}`,
         `Email: ${email}`,
@@ -116,7 +127,9 @@ export default async function handler(req, res) {
     : [`Name: ${name}`, `Company: ${company}`, `Email: ${email || '-'}`, `Number: ${number || '-'}`, `Trade: ${trade || '-'}`, ...(question ? [`Question: ${question}`] : []), ...extras.map(([k, v]) => `${k}: ${v}`), `Received: ${when} SGT`];
   // Kong reads leads in Slack; the first line should say which door they came through. An ER2027
   // participant is Kong's to schedule by hand (his ruling) - the headline says so.
-  const headline = er2027
+  const headline = investor
+    ? 'Investor page - a note from covarage.com/investors'
+    : er2027
     ? (participate ? 'Emerging Risks 2027 - wants to take part (for Kong to schedule)' : 'Emerging Risks 2027 - report signup')
     : fromArticle ? 'New question from a guide' : 'New request for a call';
 
@@ -147,8 +160,9 @@ export default async function handler(req, res) {
         body: JSON.stringify({ from, to, subject: company ? `${headline}: ${company}` : headline, text: lines.join('\n') }),
       });
       mailOk = r.ok;
-      if (r.ok) console.warn('request: internal mail fallback fired (slack leg failed)');
-      else console.warn('request: internal mail fallback failed', r.status);
+      // an investor's note is mailed by design, not as a fallback: only its failure is worth a line here
+      if (!r.ok) console.warn('request: internal mail fallback failed', r.status);
+      else if (!investor) console.warn('request: internal mail fallback fired (slack leg failed)');
     } catch (e) {
       console.warn('request: internal mail fallback failed', String(e).slice(0, 80));
     }
@@ -175,7 +189,11 @@ export default async function handler(req, res) {
   // OWN acknowledgement instead (CMO's copy; Kong 2026-09-14 11:2x via the hub, "ok good to go lets
   // send the email"). A reply goes to the signup's own recipients, so a participant's answer
   // reaches the same two people as the signup did and no one else.
-  if (er2027) {
+  if (investor) {
+    // No acknowledgement to an investor: the founder welcome is written for a customer asking for access, and the page itself is
+    // the reply. Kong answers from his own inbox.
+    console.log('request: investor note delivered');
+  } else if (er2027) {
     if (resend && from) {
       const ack = composeEr2027Ack({ name, participate });
       try {

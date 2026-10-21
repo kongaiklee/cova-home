@@ -347,5 +347,37 @@ await check('er2027: with neither own destination set, 503 and nothing sent anyw
   } finally { [process.env.SLACK_ER2027_WEBHOOK_URL, process.env.ER2027_MAIL_TO] = saved; }
 });
 
+// The investor page's note (covarage.com/investors; the hub's w46 06:26): Kong alone, by email, no Slack leg, no acknowledgement.
+const INV = { source: 'investor', name: 'Ken Tan', email: 'ken@fund.example', company: 'A Fund', page: '/investors' };
+process.env.INVESTOR_MAIL_TO = 'kong-investors@example.invalid';
+await check('investor: one email to its own recipient, nothing to Slack, no acknowledgement', async () => {
+  const r = await post(INV);
+  if (r.code !== 200) return `status ${r.code}`;
+  if (r.hook) return `posted to ${r.hook}`;
+  if (r.mail.length !== 1) return `${r.mail.length} emails`;
+  const m = r.mail[0];
+  if (JSON.stringify(m.to) !== JSON.stringify(['kong-investors@example.invalid'])) return `to ${JSON.stringify(m.to)}`;
+  return /Name: Ken Tan/.test(m.text) && /Email: ken@fund\.example/.test(m.text) && /Fund or company: A Fund/.test(m.text) ? null : `text: ${m.text}`;
+});
+await check('investor: the fund is optional', async () => {
+  const r = await post({ ...INV, company: '' });
+  return r.code === 200 && r.mail.length === 1 && /Fund or company: -/.test(r.mail[0].text) ? null : `status ${r.code}, ${r.mail.length} emails`;
+});
+await check('investor: no email is refused, nothing sent', async () => {
+  const r = await post({ ...INV, email: '' });
+  return r.code === 400 && !r.hook && r.mail.length === 0 ? null : `status ${r.code}, hook ${r.hook}, ${r.mail.length} emails`;
+});
+// BREAK: unset, it refuses - never the lead channel or the team inbox (an AWFA adviser reads the lead channel).
+await check('investor: with its own recipient unset, 503 and nothing sent anywhere', async () => {
+  const saved = process.env.INVESTOR_MAIL_TO;
+  delete process.env.INVESTOR_MAIL_TO;
+  try {
+    const r = await post(INV);
+    if (r.code !== 503) return `status ${r.code}`;
+    if (r.hook) return `posted to ${r.hook}`;
+    return r.mail.length ? `${r.mail.length} email(s) sent to ${r.mail[0].to}` : null;
+  } finally { process.env.INVESTOR_MAIL_TO = saved; }
+});
+
 console.log(`\n${pass}/${pass + fails.length} passed`);
 if (fails.length) { console.error('FAILURES:\n' + fails.join('\n')); process.exitCode = 1; }
