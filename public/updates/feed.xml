@@ -6,8 +6,16 @@
     <description>Regulatory updates from Singapore&apos;s agencies and industry bodies, screened weekly. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Mon, 19 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Additional Guidance for Employers on Use of 1-Hour PM2.5 Readings to Protect Outdoor Workers During Haze</title>
+      <link>https://covarage.com/updates</link>
+      <guid isPermaLink="false">covarage-update-2026-10-20-additional-guidance-for-employers-on-use-of-1-hour-pm2-5-readings-to-protect-out</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Regulatory update</category>
+      <description>Published by MOM. Source: https://www.mom.gov.sg/newsroom/press-releases/2026/1020-guidance-for-employers-on-use-of-1-hour-pm25-readings-to-protect-outdoor-workers-during-haze</description>
+    </item>
     <item>
       <title>Government Accepts the National Wages Council Guidelines for 2026/2027</title>
       <link>https://covarage.com/updates</link>
