@@ -6,8 +6,56 @@
     <description>Cyber and digital-risk alerts and advisories screened Monday and Thursday from CSA, GovTech, the Singapore Police Force, overseas agencies and the security press. Headlines appear as published, linked to the source.</description>
     <language>en-sg</language>
     <copyright>(c) Covarage Pte. Ltd. All rights reserved. Attribution required in quotation; republication requires prior written consent.</copyright>
-    <lastBuildDate>Tue, 20 Oct 2026 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:00:00 +0800</lastBuildDate>
     <atom:link href="https://covarage.com/updates/cyber/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Amazon says PHP2Shell exploitation began 4 days before patches</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-22-amazon-says-php2shell-exploitation-began-4-days-before-patches</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/</description>
+    </item>
+    <item>
+      <title>Arista patches new VeloCloud Orchestrator zero-day exploited in attacks</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-22-arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</description>
+    </item>
+    <item>
+      <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-22-litellm-release-pipeline-hacked-to-distribute-info-stealer-malware</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</description>
+    </item>
+    <item>
+      <title>Police investigate 277 Scammers And Money Mules In Islandwide Enforcement Operation</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-22-police-investigate-277-scammers-and-money-mules-in-islandwide-enforcement-operat</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by SPF. Source: https://www.police.gov.sg/Media-Hub/News/2026/10/20261022_police_investigate_277_scammers_and_money_mules_in_islandwide_enforcement_operation</description>
+    </item>
+    <item>
+      <title>Railway warns devs to rotate secrets after potential breach</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-22-railway-warns-devs-to-rotate-secrets-after-potential-breach</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/</description>
+    </item>
+    <item>
+      <title>Japan&apos;s Onamae Desktop Cloud hacked, up to 27,000 servers affected</title>
+      <link>https://covarage.com/updates/cyber</link>
+      <guid isPermaLink="false">covarage-update-2026-10-21-japan-s-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0800</pubDate>
+      <category>Cyber and digital risk</category>
+      <description>Published by BleepingComputer. Source: https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/</description>
+    </item>
     <item>
       <title>#StopRansomware: SafePay Ransomware</title>
       <link>https://covarage.com/updates/cyber</link>
