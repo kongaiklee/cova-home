@@ -198,6 +198,24 @@
           "value": "noindex, nofollow"
         }
       ]
+    },
+    {
+      "source": "/card(.html)?",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
+    },
+    {
+      "source": "/card/(.*)",
+      "headers": [
+        {
+          "key": "X-Robots-Tag",
+          "value": "noindex, nofollow"
+        }
+      ]
     }
   ]
 }

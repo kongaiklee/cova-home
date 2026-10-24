@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Covarage</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" type="image/png" href="/assets/favicon-mark.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap">
+<style>
+:root { --sail: #fdfbf9; --alt: #f8f5f2; --card: #ffffff; --teak: #423226; --anchor: #414141; --mist: #888888; --horizon: #5f88ae;
+  --hair: #d9d4cf; --pill: #e8e3dd; --serif: Georgia, Cambria, "Times New Roman", serif; --sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: light; }
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+html, body { margin: 0; background: var(--sail); color: var(--anchor); }
+body { font: 16px/1.55 var(--sans); -webkit-font-smoothing: antialiased; padding-bottom: 84px; }
+.top { border-bottom: 1px solid rgba(0,0,0,0.06); }
+.top .in, main, footer .in { max-width: 560px; margin: 0 auto; padding-left: max(20px, env(safe-area-inset-left, 0px)); padding-right: max(20px, env(safe-area-inset-right, 0px)); }
+.top .in { min-height: 60px; display: flex; align-items: center; }
+.top img { height: 22px; width: auto; display: block; }
+main { padding-top: 34px; min-height: calc(100dvh - 60px - 200px); }
+.eyebrow { margin: 0 0 12px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--horizon); }
+h1, h2 { font-family: var(--serif); font-weight: 400; color: var(--teak); margin: 0; letter-spacing: -0.02em; text-wrap: balance; }
+h1 { font-size: clamp(32px, 8.4vw, 44px); line-height: 1.1; }
+h2 { font-size: clamp(26px, 6.6vw, 34px); line-height: 1.15; }
+.line { margin: 14px 0 0; font-size: 17px; }
+.btn { display: flex; align-items: center; justify-content: center; width: 100%; min-height: 54px; border-radius: 8px; border: 1px solid var(--teak);
+  background: var(--teak); color: #fff; font: 500 17px var(--sans); cursor: pointer; text-decoration: none; margin-top: 26px; }
+.btn.ghost { background: var(--card); color: var(--teak); border-color: var(--hair); }
+.btn:focus-visible, .choice:focus-visible, .back:focus-visible { outline: 2px solid var(--horizon); outline-offset: 2px; }
+.n { margin: 0 0 12px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--mist); }
+.pips { display: flex; gap: 6px; margin-bottom: 22px; }
+.pips i { height: 5px; flex: 1; border-radius: 3px; background: var(--pill); }
+.pips i.done { background: var(--teak); }
+.choices { margin-top: 26px; display: grid; gap: 12px; }
+.choice { min-height: 58px; border-radius: 8px; border: 1px solid rgba(66,50,38,0.28); background: var(--card); color: var(--teak); font: 500 18px var(--sans); cursor: pointer; }
+.choice:active { background: var(--alt); }
+.back { margin-top: 18px; background: none; border: 0; padding: 8px 0; font: 500 15px var(--sans); color: var(--mist); text-decoration: underline; text-underline-offset: 3px; cursor: pointer; }
+.score { margin: 0; font: 400 clamp(56px, 16vw, 76px)/1 var(--serif); color: var(--teak); letter-spacing: -0.03em; }
+.score small { font-size: 0.34em; color: var(--mist); letter-spacing: 0; margin-left: 0.15em; }
+.sure { margin: 8px 0 0; font: 400 22px/1.3 var(--serif); color: var(--teak); }
+.band { margin: 14px 0 0; font-size: 17px; }
+.helps { margin: 28px 0 0; padding: 18px 18px 6px; border-radius: 10px; background: var(--alt); }
+.helps h3 { margin: 0 0 8px; font: 600 12px/1.3 var(--sans); letter-spacing: 0.14em; text-transform: uppercase; color: var(--mist); }
+.helps ul { margin: 0; padding: 0; list-style: none; }
+.helps li { display: flex; gap: 10px; padding: 10px 0; border-top: 1px solid rgba(66,50,38,0.1); font-size: 16px; line-height: 1.45; }
+.helps li:first-child { border-top: 0; }
+.helps li svg { flex: none; margin-top: 3px; color: var(--teak); }
+.admin { margin: 24px 0 0; font: 400 19px/1.45 var(--serif); color: var(--teak); }
+.signup .btn { margin-top: 24px; }
+.under { margin: 10px 0 0; font-size: 14.5px; color: var(--mist); text-align: center; }
+.talk { margin: 22px 0 0; font-size: 15.5px; text-align: center; }
+.talk a { color: var(--teak); }
+footer { margin-top: 48px; border-top: 1px solid rgba(0,0,0,0.06); }
+footer .in { padding-top: 18px; padding-bottom: 22px; font-size: 12.5px; line-height: 1.6; color: var(--mist); }
+footer p { margin: 0 0 6px; }
+.view { animation: rise 360ms cubic-bezier(.2,.7,.2,1); }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { .view { animation: none; } }
+/* the drawing bar: whose card opened the page (the real page reads it from its address) */
+  gap: 4px; padding: 6px; border-radius: 999px; background: #1f1813; box-shadow: 0 10px 30px rgba(0,0,0,.25); max-width: calc(100vw - 24px); overflow-x: auto; }
+.chip { border: 0; background: transparent; color: #f3ede6; font: 500 13px var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; white-space: nowrap; }
+.chip.on { background: #fdfbf9; color: #1f1813; }
+</style>
+</head>
+<body>
+<header class="top"><div class="in"><a href="/" aria-label="Covarage home"><img src="/assets/brand/covarage-lockup-black.svg" alt="Covarage" width="118" height="22"></a></div></header>
+<main id="stage"></main>
+<footer><div class="in">
+  <p>Covarage is a technology platform. We are not a licensed insurance broker regulated by the Monetary Authority of Singapore (MAS) and do not provide any financial advice.</p>
+  <p>Covarage Pte. Ltd. | UEN 202531227H</p>
+</div></footer>
+
+<script>
+(function () {
+  "use strict";
+  // the card holders: first name and their own address (the hub's 21:20: the four founders; Kong decides)
+  var PEOPLE = { kong: ["Kong", "kong@covarage.com"], jonathan: ["Jonathan", "jonathan@covarage.com"], zul: ["Zul", "zul@covarage.com"], shantal: ["Shantal", "shantal@covarage.com"] };
+  var SIGNUP = "https://platform.covarage.com/sign-up";
+  var COPY = {
+    eyebrow: "From {first}'s card", eyebrowNone: "Covarage",
+    headline: "Six quick questions about your business insurance.",
+    line: "Answer Yes or Not sure. Nothing to fill in.",
+    start: "Start", of: " of 6", yes: "Yes", notSure: "Not sure", back: "Back",
+    six: [
+      "Do you know what insurance the law requires your business to have?",
+      "Have you bought it?",
+      "Do you know where your policies are right now?",
+      "Do you know what they cover?",
+      "Do you know how much they cover?",
+      "Do you know what they do not cover?"
+    ],
+    score: "You were sure of {n} of 6.",
+    band6: "You know your cover well. Covarage keeps it that way: every policy in one place, and a check-in every quarter.",
+    band35: "You know some of it. Covarage puts the rest in one place.",
+    band02: "You are not alone. When Kong asks business owners these six questions, most look at him with a blank face.",
+    helpsHead: "Where Covarage helps",
+    helps: [
+      "What the law requires for your trade, in plain words.",
+      "Ask for the cover you need, and a licensed broker arranges it.",
+      "Every policy and document in one place.",
+      "One page for each policy: what it is for, who is covered and when it renews.",
+      "A licensed broker to take you through how much each policy covers.",
+      "A licensed broker to take you through what each policy leaves out."
+    ],
+    admin: "We're the admin of your admin: we keep your policies in order, check in with you every quarter, and, when you ask, a licensed broker brings you quotes before a renewal.",
+    signup: "Sign up free", under: "Covarage Basic is free. Set up your company in a few minutes.",
+    talk: "Rather talk first? Write to {first} at ", talkNone: "Write to us at ", support: "support@covarage.com"
+  };
+
+  var tag = "kong", answers = [];
+  var stage = document.getElementById("stage");
+  function el(t, a, kids) {
+    var n = document.createElement(t);
+    Object.keys(a || {}).forEach(function (k) {
+      if (k === "text") n.textContent = a[k]; else if (k === "class") n.className = a[k];
+      else if (k.indexOf("on") === 0) n.addEventListener(k.slice(2), a[k]); else n.setAttribute(k, a[k]);
+    });
+    (kids || []).forEach(function (c) { if (c) n.appendChild(typeof c === "string" ? document.createTextNode(c) : c); });
+    return n;
+  }
+  function who() { return PEOPLE[tag] || null; }
+  function put(kids, label) { stage.replaceChildren(el("section", { class: "view", "data-view": label }, kids)); window.scrollTo(0, 0); }
+
+  function opening() {
+    var p = who();
+    put([el("p", { class: "eyebrow", text: p ? COPY.eyebrow.replace("{first}", p[0]) : COPY.eyebrowNone }),
+      el("h1", { text: COPY.headline }), el("p", { class: "line", text: COPY.line }),
+      el("button", { class: "btn", type: "button", text: COPY.start, onclick: function () { answers = []; ask(0); } })], "opening");
+  }
+  function ask(i) {
+    put([el("div", { class: "pips", "aria-hidden": "true" }, COPY.six.map(function (_, k) { return el("i", { class: k < i ? "done" : "" }); })),
+      el("p", { class: "n", text: (i + 1) + COPY.of }), el("h2", { text: COPY.six[i] }),
+      el("div", { class: "choices", role: "group" }, [
+        el("button", { class: "choice", type: "button", text: COPY.yes, onclick: function () { answer(i, true); } }),
+        el("button", { class: "choice", type: "button", text: COPY.notSure, onclick: function () { answer(i, false); } })]),
+      i > 0 ? el("button", { class: "back", type: "button", text: COPY.back, onclick: function () { ask(i - 1); } }) : null], "q" + (i + 1));
+  }
+  function answer(i, yes) { answers[i] = yes; answers.length = i + 1; if (i < 5) ask(i + 1); else result(); }
+  function result() {
+    var sure = answers.filter(Boolean).length, p = who();
+    var band = sure === 6 ? COPY.band6 : sure >= 3 ? COPY.band35 : COPY.band02;
+    var unsure = answers.map(function (a, k) { return a ? null : k; }).filter(function (k) { return k !== null; });
+    var check = '<svg width="16" height="16" viewBox="0 0 20 20" aria-hidden="true"><path d="M4.5 10.5l3.5 3.5 7.5-8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+    var helps = unsure.length ? el("div", { class: "helps" }, [el("h3", { text: COPY.helpsHead }),
+      el("ul", null, unsure.map(function (k) { var li = el("li", { "data-help": String(k + 1) }); li.innerHTML = check; li.appendChild(document.createTextNode(COPY.helps[k])); return li; }))]) : null;
+    var mail = p ? p[1] : COPY.support;
+    put([el("p", { class: "score", "aria-hidden": "true" }, [String(sure), el("small", { text: "of 6" })]),
+      el("p", { class: "sure", text: COPY.score.replace("{n}", sure) }),
+      el("p", { class: "band", text: band }), helps,
+      el("p", { class: "admin", text: COPY.admin }),
+      el("div", { class: "signup" }, [el("a", { class: "btn", href: SIGNUP + (tag ? "?card=" + encodeURIComponent(tag) : ""), text: COPY.signup }),
+        el("p", { class: "under", text: COPY.under })]),
+      el("p", { class: "talk" }, [p ? COPY.talk.replace("{first}", p[0]) : COPY.talkNone, el("a", { href: "mailto:" + mail, text: mail }), "."]),
+      el("button", { class: "back", type: "button", text: COPY.back, onclick: function () { ask(5); } })], "result");
+  }
+
+  function card(t) {
+    tag = t;
+    document.querySelectorAll(".chip").forEach(function (c) { c.classList.toggle("on", c.getAttribute("data-tag") === t); });
+    opening();
+  }
+  document.querySelectorAll(".chip").forEach(function (c) { c.addEventListener("click", function () { card(c.getAttribute("data-tag")); }); });
+  card("zul");
+  window.cardPage = { card: card };
+})();
+</script>
+</body>
+</html>
