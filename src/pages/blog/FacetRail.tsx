@@ -59,7 +59,7 @@ export function rowsFor(axis: Axis, counts: Record<string, number>, active: stri
 export default function FacetRail({ selection, counts, allCounts, onPick }: FacetRailProps) {
   const row = 'flex w-full items-baseline justify-between gap-3 border-l-2 py-2 pl-4 text-left text-sm transition';
   return (
-    <nav className="sticky top-6 pl-[18px]" aria-label="Article filters" data-facet-rail>
+    <nav className="sticky top-24 pl-[18px]" aria-label="Article filters" data-facet-rail>
       {GROUPS.map(({ axis, label, all }) => {
         const active = selection[axis][0];
         return (

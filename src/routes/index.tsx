@@ -2,6 +2,7 @@ import type { RouteRecord } from 'vite-react-ssg';
 import { Outlet } from 'react-router-dom';
 import ScrollToTop from '../components/ScrollToTop';
 import NotFound from '../pages/NotFound';
+import SiteShell from '../pages/SiteShell';
 import Landing from '../pages/landing/index';
 import BlogLayout from '../pages/blog/BlogLayout';
 import BlogIndex from '../pages/blog/BlogIndex';
@@ -10,6 +11,8 @@ import CategoryHub, { HUB_CATEGORIES } from '../pages/blog/CategoryHub';
 import Terms from '../pages/legal/Terms';
 import Privacy from '../pages/legal/Privacy';
 import Contact from '../pages/company/Contact';
+import Partners from '../pages/company/Partners';
+import Pricing from '../pages/company/Pricing';
 import Careers from '../pages/company/Careers';
 import Faq from '../pages/company/Faq';
 import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
@@ -48,6 +51,8 @@ export const routes: RouteRecord[] = [
     children: [
       { path: '/', element: <Landing /> },
       { path: 'contact', element: <Contact /> },
+      { path: 'partners', element: <Partners /> },
+      { path: 'pricing', element: <Pricing /> },
       { path: 'careers', element: <Careers /> },
       { path: 'faq', element: <Faq /> },
       // The onboarding pack (item 15): personalisation rides the ?t= token, so the prerendered
@@ -108,6 +113,9 @@ export const routes: RouteRecord[] = [
       // with the homepage - a soft 404 telling Google that every junk URL exists and is a homepage
       // duplicate, across an unbounded URL space.
       { path: '404', element: <NotFound /> },
+      // Prerendered to dist/_shell.html for scripts/inject-shell.mjs, which copies its header and footer into the pages served as
+      // their own files (covarage.com/investors) and then deletes it: never linked, never in the sitemap, never served.
+      { path: '_shell', element: <SiteShell /> },
       // Client-side only: after hydration React Router still needs a catch-all for in-app
       // navigation to a bad path. The SERVER no longer relies on it.
       { path: '*', element: <NotFound /> },

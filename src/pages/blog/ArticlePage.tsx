@@ -307,7 +307,7 @@ export default function ArticlePage({ article }: { article: Article }) {
               onClick={() => track('article_cta_click', { page, placement: 'band' })}
               className="inline-flex shrink-0 items-center gap-2 rounded-full bg-white px-6 py-3 text-sm font-semibold text-primary transition hover:bg-white/90"
             >
-              Request access
+              Request a call
               <ArrowRight className="size-4" />
             </a>
           </div>

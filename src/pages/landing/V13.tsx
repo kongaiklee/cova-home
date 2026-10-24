@@ -36,7 +36,7 @@ const SCRIM = 'linear-gradient(90deg, rgba(38,29,22,0.86) 0%, rgba(38,29,22,0.70
    weight as the rest. Associum's name is set beside its mark as text, as associum.ai does. `on: false` takes a logo out with no gap.
    Names, never links: the lander does not send visitors away (and SMF's terms forbid its logo as a link). */
 type Ground = { file: string; tile?: string };
-const PARTNERS: {
+export const PARTNERS: {
   slug: string; alt: string; light: Ground; dark: Ground; desktopPx: number; phonePx: number;
   name?: { text: string; light: string; dark: string }; on: boolean;
 }[] = [
@@ -61,8 +61,8 @@ const PARTNERS: {
 /* Where a row ends, counted in the logos shown: on a phone after the 3rd, 6th, 8th and 10th (3 + 3 + 2 + 2 + 2: no four rows in his
    order fit 360's width, and 3 + 3 + 2 + 3 left SMF alone on a fifth row), at lg and up after the 6th (6 + 6). A slot switched off
    moves them. */
-const PHONE_BREAKS = [3, 6, 8, 10];
-const DESKTOP_BREAKS = [6];
+export const PHONE_BREAKS = [3, 6, 8, 10];
+export const DESKTOP_BREAKS = [6];
 /* A tile's box on the ground it is drawn on - literal class strings, so Tailwind finds them. */
 const TILE_PHONE = 'rounded-lg px-[11px] py-[7px]';
 const TILE_DESK = 'lg:rounded-lg lg:px-[11px] lg:py-[7px]';
@@ -157,7 +157,7 @@ export function Hero13() {
 
 /* 02 - legitimacy. The live figures and the live 24-logo panel (routing object v1.2), CD's grid.
    Phone: the three figures on ONE row - never two plus an orphan (CD s2 row 02). */
-const NUMBERS = [['24', 'insurance providers'], ['766', 'policies placed'], ['~S$200m', 'sum insured']];
+export const NUMBERS = [['24', 'insurance providers'], ['766', 'policies placed'], ['~S$200m', 'sum insured']];
 
 export function Legit() {
   return (
@@ -223,7 +223,7 @@ export function Problem13() {
 
 /* 04 - what we do. The H2 is Kong's ruled brand idea at the site's H2 size. The
    band is LAYERED (Kong 09:22): Teak ground, rounded-2xl, the two decisions on one line at 1440. */
-const STEPS = [
+export const STEPS = [
   ['01', 'First, we come to you.', 'You hand over your company information, employee information and policy documents. We store, organise and classify every policy, and the platform fills the forms, so you see what you hold, what it excludes and when it renews.'],
   ['02', 'Every quarter, a few simple questions.', 'Hired somebody? Raised a salary? New premises, new equipment, more cash on site? Nothing applies, ignore us. Yes to one, we contact your broker and follow up.'],
   ['03', 'Request for additional quotations before every renewal.', 'With your consent we pass your information to your broker and request additional quotations before expiry. Stay, switch or keep your programme, with time to decide.'],
@@ -270,20 +270,20 @@ export function WhatWeDo() {
 
 /* 05 - emerging risk. The live P1 block in the mock's arrangement: the four newest emerging-risk
    pages left, the two topic doors right. The eyebrow IS the ER2027 link (CD s2 row 05). */
-const EMERGING = [...ARTICLES.filter((a) => a.category === 'emerging-risk')]
+export const EMERGING = [...ARTICLES.filter((a) => a.category === 'emerging-risk')]
   .sort((a, b) => ((b.updated ?? b.published) < (a.updated ?? a.published) ? -1 : 1))
   .slice(0, 4);
 
 /* The row's short line and eyebrow - the same mechanisms as the live block (CD s0k/s0l). */
-const shortLine = (a: { short_title?: string; title: string }) =>
+export const shortLine = (a: { short_title?: string; title: string }) =>
   a.short_title ?? (a.title.includes(':') ? a.title.slice(0, a.title.indexOf(':')).trim() : a.title);
 const rowDate = (iso: string) => new Date(`${iso}T00:00:00`).toLocaleDateString('en-SG', { day: 'numeric', month: 'long', year: 'numeric' });
-const rowEyebrow = (a: { subcategory?: string; updated?: string; published: string }) => {
+export const rowEyebrow = (a: { subcategory?: string; updated?: string; published: string }) => {
   const date = rowDate(a.updated ?? a.published);
   return a.subcategory ? `${a.subcategory.replace(/-/g, ' ')} · ${date}` : date;
 };
 
-const DOORS = [
+export const DOORS = [
   { title: 'Cyber risk', body: 'Follow the alerts on vulnerabilities, scams and breaches from CSA, the police and overseas agencies.', action: 'View cyber alerts', href: '/updates/cyber' },
   { title: 'Regulatory changes', body: 'Follow new requirements and guidance from official Singapore sources.', action: 'View regulatory updates', href: '/updates' },
 ];

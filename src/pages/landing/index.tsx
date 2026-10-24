@@ -3,7 +3,8 @@ import { useLocation } from 'react-router-dom';
 import Seo from '../../components/Seo';
 import LanderHeader from './LanderHeader';
 import { frameRequestArrival } from './requestFraming';
-import { Close13, EmergingRisk13, Founder13, Hero13, Legit, Problem13, Topics13, Trades13, WhatWeDo } from './V13';
+import { Problem13 } from './V13';
+import { Close14, Founder14, Hero14, How14, NewsBar14, Numbers14, Proud14, Resources14, Story14, Tour14, Trades14 } from './V14';
 import LandingFooter from './LandingFooter';
 
 /**
@@ -83,16 +84,19 @@ export default function LandingPage() {
         path="/"
         jsonLd={ORGANIZATION_GRAPH}
       />
+      <NewsBar14 />
       <LanderHeader />
-      <Hero13 />
-      <Legit />
+      <Hero14 />
+      <Proud14 />
+      <Numbers14 />
       <Problem13 />
-      <WhatWeDo />
-      <EmergingRisk13 />
-      <Trades13 />
-      <Topics13 />
-      <Founder13 />
-      <Close13 />
+      <How14 />
+      <Tour14 />
+      <Story14 />
+      <Trades14 />
+      <Resources14 />
+      <Founder14 />
+      <Close14 />
       <LandingFooter />
     </div>
   );
