@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { WRAP } from './Sections';
 import { LOGIN_URL, TRADES } from './data';
+import { SOLUTIONS } from './V15';
 import { HUB_CATEGORIES } from '../blog/CategoryHub';
 import { CATEGORY_LABELS } from '../../content/intents';
 
@@ -19,7 +20,7 @@ export default function LandingFooter() {
   return (
     <footer className="border-t border-border-primary bg-background-primary">
       <div className={`${WRAP} pt-12 pb-11 lg:pt-16 lg:pb-[72px]`}>
-        <div className="grid grid-cols-2 gap-x-6 gap-y-9 sm:grid-cols-3 lg:grid-cols-[1.2fr_1fr_1.4fr_1fr_1fr_1fr] lg:gap-x-10">
+        <div className="grid grid-cols-2 gap-x-6 gap-y-9 sm:grid-cols-3 lg:grid-cols-[1.1fr_1fr_1.1fr_1.4fr_1fr_1fr_0.9fr] lg:gap-x-10">
           <div className="col-span-2 sm:col-span-3 lg:col-span-1">
             <img src="/assets/brand/covarage-lockup-black.svg" alt="Covarage" width={220} height={40} className="block h-6 w-auto sm:h-7" />
           </div>
@@ -29,6 +30,10 @@ export default function LandingFooter() {
             <Link to="/pricing" className={link}>Pricing</Link>
             <a href={LOGIN_URL} className={link}>Log in</a>
             <a href="/#request" className={link}>Request a call</a>
+          </nav>
+          <nav aria-label="Solutions">
+            <p className={head}>Solutions</p>
+            {SOLUTIONS.map((s) => <Link key={s.label} to={s.to} className={link}>{s.label}</Link>)}
           </nav>
           <nav aria-label="Industries">
             <p className={head}>Industries</p>
@@ -46,6 +51,7 @@ export default function LandingFooter() {
             <p className={head}>Company</p>
             <Link to="/partners" className={link}>Partners</Link>
             <a href="/investors" className={link}>Investors</a>
+            <Link to="/security" className={link}>Security</Link>
             <Link to="/contact" className={link}>Contact</Link>
             <Link to="/careers" className={link}>Careers</Link>
             <Link to="/faq" className={link}>FAQ</Link>

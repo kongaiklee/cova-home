@@ -13,6 +13,8 @@ import Privacy from '../pages/legal/Privacy';
 import Contact from '../pages/company/Contact';
 import Partners from '../pages/company/Partners';
 import Pricing from '../pages/company/Pricing';
+import Enterprise from '../pages/company/Enterprise';
+import Security from '../pages/company/Security';
 import Careers from '../pages/company/Careers';
 import Faq from '../pages/company/Faq';
 import InsuranceGapTool from '../pages/tools/InsuranceGapTool';
@@ -53,6 +55,8 @@ export const routes: RouteRecord[] = [
       { path: 'contact', element: <Contact /> },
       { path: 'partners', element: <Partners /> },
       { path: 'pricing', element: <Pricing /> },
+      { path: 'enterprise', element: <Enterprise /> },
+      { path: 'security', element: <Security /> },
       { path: 'careers', element: <Careers /> },
       { path: 'faq', element: <Faq /> },
       // The onboarding pack (item 15): personalisation rides the ?t= token, so the prerendered

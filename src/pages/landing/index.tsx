@@ -5,6 +5,7 @@ import LanderHeader from './LanderHeader';
 import { frameRequestArrival } from './requestFraming';
 import { Problem13 } from './V13';
 import { Close14, Founder14, Hero14, How14, NewsBar14, Numbers14, Proud14, Resources14, Story14, Tour14, Trades14 } from './V14';
+import { Grow15 } from './V15';
 import LandingFooter from './LandingFooter';
 
 /**
@@ -94,6 +95,7 @@ export default function LandingPage() {
       <Tour14 />
       <Story14 />
       <Trades14 />
+      <Grow15 />
       <Resources14 />
       <Founder14 />
       <Close14 />

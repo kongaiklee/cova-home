@@ -1,6 +1,7 @@
 import { useState, type ReactNode } from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { IMG, LOGIN_URL, REQUEST_ANCHOR, TRADES } from './data';
+import { SOLUTIONS } from './V15';
 import { requestClick } from './requestFraming';
 import { NOT_A_BODY, agencyName, axisValues, valueSlug, type Axis } from '../../content/facets';
 
@@ -22,6 +23,8 @@ type Item = { label: string; to: string; external?: boolean; page?: boolean };
 
 const COMPANY: Item[] = [
   { label: 'Partners', to: '/partners' },
+  // the step-up (the hub's w46 22:03; CMO step-up copy v0.2 (c)): Security beside the company's own pages
+  { label: 'Security', to: '/security' },
   // Kong 2026-10-24 19:09: "we actually have an investor page, right, that you didn't link it to the lender as well."
   { label: 'Investors', to: '/investors', page: true },
   { label: 'Contact', to: '/contact' },
@@ -150,6 +153,15 @@ export default function LanderHeader({ shell = false }: { shell?: boolean }) {
   const menu = (
     <nav id="site-menu" hidden={shell && !open} className="max-h-[calc(100dvh-64px)] overflow-y-auto border-t border-border-primary bg-background-primary px-5 pt-2 pb-8 sm:px-8 lg:hidden" aria-label="Menu">
       <a href="/#how" className="block border-b border-border-primary py-3.5 text-[15px] font-medium text-text-primary no-underline" onClick={close}>How it works</a>
+      <div className="border-b border-border-primary py-3.5">
+        <p className="m-0 mb-1.5 text-xs font-medium tracking-[0.12em] text-text-secondary uppercase">Solutions</p>
+        {SOLUTIONS.map((s) => (
+          <Link key={s.label} to={s.to} className="block py-1.5 no-underline" onClick={close}>
+            <span className="block text-[15px] text-text-primary">{s.label}</span>
+            <span className="block text-[13px] text-text-secondary">{s.line}</span>
+          </Link>
+        ))}
+      </div>
       <Link to="/pricing" className="block border-b border-border-primary py-3.5 text-[15px] font-medium text-text-primary no-underline" onClick={close}>Pricing</Link>
       <div className="border-b border-border-primary py-3.5">
         <p className="m-0 mb-2.5 text-xs font-medium tracking-[0.12em] text-text-secondary uppercase">Industries</p>
@@ -197,6 +209,24 @@ export default function LanderHeader({ shell = false }: { shell?: boolean }) {
         </Link>
         <nav className="hidden h-full flex-1 items-center gap-8 lg:flex" aria-label="Primary">
           <a href="/#how" className={TOP}>How it works</a>
+          {/* the menu by company size (CMO step-up copy v0.2 (c)): Stripe's, Xero's and Ramp's word for it */}
+          <div className="group relative flex h-full items-center" data-solutions>
+            <button type="button" className={`${TOP} flex cursor-default items-center gap-1 bg-transparent p-0`} aria-haspopup="true">
+              Solutions
+              <Chevron />
+            </button>
+            <div className={`absolute top-full left-[-16px] z-50 ${PANEL_SHOW}`}>
+              <div className="w-[380px] rounded-xl border border-hairline-strong bg-white p-3 shadow-[0_18px_40px_rgba(38,29,22,0.12)]">
+                <p className="m-0 px-3 pt-1 pb-2 text-xs font-medium tracking-[0.12em] text-text-secondary uppercase">By company size</p>
+                {SOLUTIONS.map((s) => (
+                  <Link key={s.label} to={s.to} className="block rounded-lg px-3 py-2.5 no-underline hover:bg-section-alt">
+                    <span className="block font-serif text-[17px] text-text-primary-extended">{s.label}</span>
+                    <span className="mt-0.5 block text-[13px]/[1.45] text-text-secondary">{s.line}</span>
+                  </Link>
+                ))}
+              </div>
+            </div>
+          </div>
           <Link to="/pricing" className={TOP}>Pricing</Link>
           <Mega label="Industries"><IndustriesPanel /></Mega>
           <Mega label="Guides"><GuidesPanel /></Mega>

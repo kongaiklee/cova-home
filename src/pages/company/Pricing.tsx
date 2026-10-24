@@ -183,7 +183,7 @@ export default function Pricing() {
         <section className={`${WRAP} pb-16 lg:pb-20`}>
           <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4 xl:gap-5">
             {MODULES.map((m) => (
-              <article key={m.id} className="flex flex-col rounded-2xl border border-hairline-strong bg-white p-6 lg:p-7" data-module={m.id}>
+              <article key={m.id} id={`module-${m.id}`} className="flex scroll-mt-28 flex-col rounded-2xl border border-hairline-strong bg-white p-6 lg:p-7" data-module={m.id}>
                 <p className="m-0 text-xs font-medium tracking-[0.12em] text-text-secondary uppercase">Module</p>
                 <h2 className="m-0 mt-2 font-serif text-[24px]/[1.2] font-normal text-text-primary-extended">{m.name}</h2>
                 <p className="m-0 mt-2 min-h-[3em] text-sm/normal text-text-secondary">{m.for}</p>

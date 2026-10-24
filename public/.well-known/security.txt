@@ -1,0 +1,6 @@
+# To report a security issue, write to us with Security in the subject.
+Contact: mailto:support@covarage.com
+Expires: 2027-10-24T23:59:59+08:00
+Preferred-Languages: en
+Canonical: https://covarage.com/.well-known/security.txt
+Policy: https://covarage.com/security
