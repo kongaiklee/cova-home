@@ -180,7 +180,7 @@ export function Legit() {
           ))}
         </div>
         <p className="col-span-full m-0 mt-5 border-t border-border-primary pt-[18px] text-[13px]/[1.5] text-text-secondary lg:mt-2">
-          All cover is placed by licensed intermediaries. The figures and the panel are theirs. Every account is opened by our team.
+          All cover is placed by licensed intermediaries. The figures and the panel are theirs. Set up your company yourself, or send it to us to set up.
         </p>
       </div>
     </section>

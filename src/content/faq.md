@@ -54,7 +54,7 @@ Yes. Invite them from **My brokers**. We check their firm on MAS's Financial Ins
 
 ### How do I start?
 
-Choose **Request a call**. A person on our team calls or emails you back, and our team opens your account with you.
+[Sign up free](https://platform.covarage.com/sign-up) and set up your company yourself, or choose **Request a call** and our team sets it up with you.
 
 ### Do I have to set everything up myself?
 

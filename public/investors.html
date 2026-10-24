@@ -72,9 +72,15 @@ main { flex: 1; width: 100%; max-width: 1120px; margin: 0 auto; }
 .skip { font: 500 14px var(--sans); color: var(--mist); background: none; border: 0; text-decoration: underline; text-underline-offset: 3px; cursor: pointer; padding: 0; }
 .first { width: 100%; padding-block: clamp(16px, 3vh, 32px) 56px; animation: rise 420ms cubic-bezier(.2,.7,.2,1); }
 .first .say { max-width: 21em; font-size: clamp(30px, 4.2vw, 48px); }
-.opening { display: grid; grid-template-columns: minmax(0, 1.5fr) minmax(0, 0.62fr); gap: 44px; align-items: end; }
-.hero { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px; }
-.hero .face { aspect-ratio: 1 / 1; }
+.herohead { display: grid; grid-template-columns: minmax(0, 0.92fr) minmax(0, 1.08fr); gap: 48px; align-items: center;
+  min-height: calc(100dvh - var(--top) - 48px); }
+.herohead .say { font-size: clamp(34px, 4.4vw, 56px); max-width: 12em; }
+.herohead .start { margin-top: 34px; padding-top: 0; border-top: 0; }
+.heroimg { position: relative; margin: 0; height: min(76dvh, 700px); overflow: hidden; border-radius: 6px; background: var(--shade); }
+.heroimg img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.heroimg figcaption { position: absolute; left: 14px; bottom: 12px; font: 600 11px/1.2 var(--sans); letter-spacing: 0.12em; text-transform: uppercase;
+  color: #fff; text-shadow: 0 1px 8px rgba(0, 0, 0, 0.55); }
+.below { margin-top: clamp(36px, 7vh, 64px); }
 .proof { margin: clamp(24px, 4vh, 36px) 0 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 28px; }
 .proof div { display: flex; flex-direction: column; border-top: 1px solid var(--hair); padding-top: 14px; }
 .proof dd { margin: 0; order: -1; font: 400 clamp(40px, 4.6vw, 60px)/1 var(--serif); color: var(--teak); letter-spacing: -0.03em;
@@ -242,10 +248,10 @@ footer { width: 100%; max-width: 1120px; margin: 0 auto; border-top: 1px solid v
 footer p { margin: 0; }
 footer p + p { margin-top: 6px; }
 @media (max-width: 860px) {
-  .opening { grid-template-columns: 1fr; gap: 0; }
-  .hero { order: -1; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; margin-bottom: 22px; }
-  .hero .face { aspect-ratio: 3 / 4; }
-  .hero figcaption { left: 6px; bottom: 5px; font-size: 9.5px; letter-spacing: 0.08em; }
+  .herohead { grid-template-columns: 1fr; gap: 22px; min-height: 0; }
+  .heroimg { order: -1; height: min(42dvh, 340px); }
+  .herohead .say { font-size: clamp(30px, 8vw, 40px); }
+  .herohead .start { margin-top: 22px; }
   .team ul { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .ways { grid-template-columns: 1fr; }
   .nums { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 28px 20px; }
@@ -322,8 +328,7 @@ footer p + p { margin-top: 6px; }
         ["Shantal Chan", "Chief Client Officer", "Founder of a medical concierge practice.", "https://www.linkedin.com/in/shantal-chan-30147916b"]
       ],
       advisor: ["Advisor:", " Rahil Bhagat, Marketing Director APAC at Anchorage Digital, previously Binance and ByteDance.", "Rahil Bhagat", "https://www.linkedin.com/in/rahilmb"],
-      ask: "See Covarage in one minute. First, what should we call you?", button: "Start",
-      hero: [0, 1, 5, 7] },
+      ask: "See Covarage in one minute. First, what should we call you?", button: "Start" },
     name: { placeholder: "Your name", label: "Your name" },
     hello: "Hi {first},",
     owner: { say: "Before anything about us, six quick questions. Answer as if you ran a small business." },
@@ -354,7 +359,7 @@ footer p + p { margin-top: 6px; }
         say: "We reach owners where they already are.",
         figures: [["500+", "members of the Restaurant Association of Singapore, running 5,000+ outlets", "RAS"],
                   ["~1,000", "SMEs in the Singapore Malay Chamber of Commerce and Industry", "SMCCI"]],
-        lines: ["Also a member of ASME (Platinum), SFA, SRA and SMF.", "The Runway Ventures onboard.", "A signed referral agreement with a Singapore bank.",
+        lines: ["Also a member of ASME, SFA, SRA and SMF.", "The Runway Ventures onboard.", "A signed referral agreement with a Singapore bank.",
                 "HR software (JustLogin) in discussion."] },
       { label: "2  Education and awareness", num: "144,382", unit: "search impressions since launch", src: "Google Search Console, 26 August to 20 October 2026",
         say: "We teach owners what the law requires, and they find us.",
@@ -376,6 +381,7 @@ footer p + p { margin-top: 6px; }
     errRequired: "Please answer this question to continue.", errEmail: "Please enter a valid email address."
   };
   var FACES = [{"src": "/assets/investors/japan_1_unsplash-zjqm2ISXp3c.jpg", "place": "Sendai, Japan", "alt": "A white-haired woman in an apron leans over a tray of octopus at her fish market stall", "credit": "Beth Macdonald / Unsplash", "pos": "62% 30%"}, {"src": "/assets/investors/malaysia_1_unsplash-te0sz_liIgM.jpg", "place": "Penang, Malaysia", "alt": "An older man on a low stool by the road repairs a shoe, his tools around him", "credit": "Kelvin Zyteng / Unsplash", "pos": "38% 35%"}, {"src": "/assets/investors/hong-kong_1_unsplash-gVItbAPWj3g.jpg", "place": "Mong Kok, Hong Kong", "alt": "An old man works the counter of his narrow fruit and sundry shop", "credit": "David Cain / Unsplash", "pos": "58% 45%"}, {"src": "/assets/investors/thailand_1_unsplash-t2ZcIzrYJt4.jpg", "place": "Damnoen Saduak, Thailand", "alt": "An old woman in a straw hat smiles from her boat as she makes a sale", "credit": "Norbert Braun / Unsplash", "pos": "62% 50%"}, {"src": "/assets/investors/indonesia_2_unsplash-cpMGAU13qIQ.jpg", "place": "Bali, Indonesia", "alt": "A white-haired woman sits among the goods of her market stall", "credit": "Rapha\u00ebl Menesclou / Unsplash", "pos": "56% 30%"}, {"src": "/assets/investors/south-korea_1_unsplash-rrXCRZbHZG8.jpg", "place": "Seoul, South Korea", "alt": "An older woman in a red apron beams over a tray of dumplings at her market stall", "credit": "Grace Lim / Unsplash", "pos": "50% 28%"}, {"src": "/assets/investors/singapore_2_unsplash-T4hdhyRSFSY.jpg", "place": "Singapore", "alt": "An older man in glasses laughing", "credit": "Alexandre Lecocq / Unsplash", "pos": "68% 35%"}, {"src": "/assets/investors/singapore_1_unsplash-m0neJmA6kGw.jpg", "place": "Singapore", "alt": "An older man in glasses works on a shoe at his cobbler's bench", "credit": "Son Vu Le / Unsplash", "pos": "52% 35%"}];
+  var HERO = {"src": "/assets/investors/hero-singapore_2_unsplash-T4hdhyRSFSY.jpg", "place": "Singapore", "alt": "An older man in glasses laughing", "pos": "68% 35%"};
   function face(x, country) {
     return el("figure", { class: "face" }, [el("img", { src: x.src, alt: x.alt, style: "object-position:" + x.pos, loading: "lazy", decoding: "async" }),
       el("figcaption", { text: country ? x.place.split(", ").pop() : x.place })]);
@@ -452,23 +458,22 @@ footer p + p { margin-top: 6px; }
   var STEPS = [
     function () {
       var c = COPY.welcome;
-      var hero = FACES.length ? el("div", { class: "hero" }, c.hero.map(function (k) {
-        var f = face(FACES[k], true);
-        f.querySelector("img").setAttribute("loading", "eager");
-        return f;
-      })) : null;
-      return [el("div", { class: "opening" }, [
-        el("div", null, [el("p", { class: "eyebrow", text: c.eyebrow }), el("h1", { class: "say", text: c.say }),
+      var hero = HERO ? el("figure", { class: "heroimg" }, [
+        el("img", { src: HERO.src, alt: HERO.alt, style: "object-position:" + HERO.pos, decoding: "async", fetchpriority: "high" }),
+        el("figcaption", { text: HERO.place.split(", ").pop() })]) : null;
+      return [el("section", { class: "herohead" }, [
+          el("div", null, [el("p", { class: "eyebrow", text: c.eyebrow }), el("h1", { class: "say", text: c.say }),
+            el("div", { class: "start" }, [el("p", { class: "ask", text: c.ask }), nameForm()])]),
+          hero]),
+        el("div", { class: "below" }, [
           el("dl", { class: "proof" }, c.proof.map(function (r) {
             return el("div", null, [el("dt", null, [r[1], el("small", { text: r[2] })]), el("dd", { text: r[0], "data-count": r[0] })]);
-          }))]),
-        hero]),
-        el("div", { class: "team" }, [el("p", { class: "eyebrow", text: c.teamLabel }),
-          el("ul", null, c.team.map(function (t) {
-            return el("li", null, [el("b", { text: t[0] }), inLink(t[0], t[3]), el("span", { class: "role", text: t[1] }), el("span", { class: "line", text: t[2] })]);
           })),
-          el("p", { class: "advisor" }, [el("b", { text: c.advisor[0] }), c.advisor[1], inLink(c.advisor[2], c.advisor[3])])]),
-        el("div", { class: "start" }, [el("p", { class: "ask", text: c.ask }), nameForm()])];
+          el("div", { class: "team" }, [el("p", { class: "eyebrow", text: c.teamLabel }),
+            el("ul", null, c.team.map(function (t) {
+              return el("li", null, [el("b", { text: t[0] }), inLink(t[0], t[3]), el("span", { class: "role", text: t[1] }), el("span", { class: "line", text: t[2] })]);
+            })),
+            el("p", { class: "advisor" }, [el("b", { text: c.advisor[0] }), c.advisor[1], inLink(c.advisor[2], c.advisor[3])])])])];
     }
   ];
   var at = 0;

@@ -13,7 +13,7 @@ The words: CMO's copy of 2026-10-16, `CMO_COPY_customer-success-and-faq_2026-10-
 | Cost | the platform guide v0.6 s1; Covarage's product rulings, s2 (Kong, 2026-08-22: "Free while in early access") |
 | Who places my cover? | the platform guide v0.6 s3 "Make a request" (Send to); the live home page |
 | Keep my broker | the platform guide v0.6 s3 "My brokers"; the register's name from COO's sight v1.0 s4 (MAS's Financial Institutions Directory, read in the platform's code; the guide is corrected as v0.6.1) |
-| How do I start? | the live home page ("Request a call", "Every account is opened by our team."); Kong 2026-09-25: users sign up white glove |
+| How do I start? | the platform's live sign-up (https://platform.covarage.com/sign-up, "Create your business account") and the home page's "Request a call"; Kong 2026-09-25: users sign up white glove; CMO's homepage lines v1.1 s6 (2026-10-24: the old answer said our team opens every account, untrue once the sign-up went live) |
 | Set up myself? | the platform guide v0.6 s3 "Set up your company, or send it to Covarage" |
 | Ask for a quote | the platform guide v0.6 s3 "Make a request" |
 | Where is my request? | the platform guide v0.6 s3 "Follow a request" |
